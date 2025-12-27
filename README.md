@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[Her Campus Wellness Editorial Intern - Spring 2026](https://jobright.ai/jobs/info/69502c8029655e4dd6596f9a?utm_campaign=1053&utm_source=git)** | United States | Remote | Dec 27 |
 | **[Paramount](https://www.paramount.com)** | **[CBS Sports HQ Production Internship (Summer 2026, In Person - Ft Lauderdale)](https://jobright.ai/jobs/info/6941c85750bbaf7650539508?utm_campaign=1053&utm_source=git)** | Fort Lauderdale, FL | On Site | Dec 27 |
 | **[CBS News and Stations](http://www.cbs.com)** | **[CBS News Intern, KTVT Dallas/Ft Worth (Summer 2026)](https://jobright.ai/jobs/info/6944b84894730b739877fc03?utm_campaign=1053&utm_source=git)** | Fort Worth, TX | On Site | Dec 27 |
 | **[Paramount](https://www.paramount.com)** | **[TV Programming Internships (Summer 2026, In Person- NYC)](https://jobright.ai/jobs/info/69437ca8dd382f5f56698d39?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Dec 27 |
@@ -74,7 +75,6 @@ For a complete list, click the following sortable link below:
 | **[City of Irving](https://www.cityofirving.org/2623/Family-Advocacy-Center)** | **[Intern - Production (Part-Time)](https://jobright.ai/jobs/info/694fa0cace13cd105657bb95?utm_campaign=1053&utm_source=git)** | Irving, TX | On Site | Dec 27 |
 | **[Sella Homes](https://sellahomes.com/)** | **[Content Production Intern](https://jobright.ai/jobs/info/694f5921a2668b7f545284c8?utm_campaign=1053&utm_source=git)** | Phoenix, AZ | On Site | Dec 26 |
 | **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[Assistant Assembly Video Editor - BYU-Pathway Worldwide (Full-Time Intern)](https://jobright.ai/jobs/info/694f4d6529655e4dd658c633?utm_campaign=1053&utm_source=git)** | Rexburg, ID | Remote | Dec 26 |
-| **[Canyon Entertainment Group](https://canyonentertainmentgroup.com)** | **[Live Event Internship](https://jobright.ai/jobs/info/694f84f0a2668b7f5452b55f?utm_campaign=1053&utm_source=git)** | Greater Toronto Area, Canada | Remote | Dec 26 |
 | **[Amazon](https://amazon.com)** | **[IP & Literary Intern, Prime Video & Amazon MGM Studios](https://jobright.ai/jobs/info/694f4897a2668b7f54527891?utm_campaign=1053&utm_source=git)** | Culver City, CA | On Site | Dec 26 |
 | ↳ | **[IP & Literary Intern, Prime Video & Amazon MGM Studios](https://jobright.ai/jobs/info/694f0ef2a2668b7f54524c25?utm_campaign=1053&utm_source=git)** | Culver City, California, USA | On Site | Dec 26 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Assistant Assembly Video Editor - BYU-Pathway Worldwide (Full-Time Intern)](https://jobright.ai/jobs/info/694ef36429655e4dd65876f7?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | Remote | Dec 26 |
