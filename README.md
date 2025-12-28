@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Jacob's Pillow Dance Festival](https://www.jacobspillow.org)** | **[Company Management Intern](https://jobright.ai/jobs/info/69509703ce13cd1056587d02?utm_campaign=1053&utm_source=git)** | Becket, MA 01223 | On Site | Dec 27 |
+| ↳ | **[Video Documentation Intern](https://jobright.ai/jobs/info/69509942a2668b7f5453860d?utm_campaign=1053&utm_source=git)** | Becket, MA 01223 | On Site | Dec 27 |
 | **[EveryDayABA](www.everydayaba.net)** | **[Video Editor Intern](https://jobright.ai/jobs/info/695067d2ce13cd1056584cc9?utm_campaign=1053&utm_source=git)** | Vista, CA | Remote | Dec 27 |
 | **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[Her Campus Wellness Editorial Intern - Spring 2026](https://jobright.ai/jobs/info/69502c8029655e4dd6596f9a?utm_campaign=1053&utm_source=git)** | United States | Remote | Dec 27 |
 | **[Paramount](https://www.paramount.com)** | **[CBS Sports HQ Production Internship (Summer 2026, In Person - Ft Lauderdale)](https://jobright.ai/jobs/info/6941c85750bbaf7650539508?utm_campaign=1053&utm_source=git)** | Fort Lauderdale, FL | On Site | Dec 27 |
@@ -127,7 +129,6 @@ For a complete list, click the following sortable link below:
 | **[Centric Brands](https://centricbrands.com)** | **[Licensing Intern – Summer 2026 Internship Program](https://jobright.ai/jobs/info/692e70bafa28370be26a49e4?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Dec 23 |
 | **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Intern, Video Production](https://jobright.ai/jobs/info/682e66f64de36dfb980acd4c?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Dec 23 |
 | **[FOX Weather](https://foxweather.com)** | **[Summer 2026 FOX News Media Internship Program - FOX Weather](https://jobright.ai/jobs/info/68da38063c03cd32709447df?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Dec 23 |
-| **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[IAE Videography Internship - Spring 2026](https://jobright.ai/jobs/info/694a49cf3019f50a4fe5712b?utm_campaign=1053&utm_source=git)** | Tampa, FL | On Site | Dec 22 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Internship](https://jobright.ai/jobs/info/694e3177f5bef51c96eb9388?utm_campaign=1053&utm_source=git)** | Savannah, GA | On Site | Dec 22 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[LN Concerts, Booking Intern](https://jobright.ai/jobs/info/692d72e166796e3028f94c69?utm_campaign=1053&utm_source=git)** | San Francisco, CA | On Site | Dec 22 |
 | **[ENGIE North America Inc.](http://www.engie-na.com/)** | **[Intern](https://jobright.ai/jobs/info/694a1a32c6f0e2546cef231b?utm_campaign=1053&utm_source=git)** | Houston, TX | On Site | Dec 22 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[CBS News Intern, KOVR Sacramento (Summer 2026)](https://jobright.ai/jobs/info/694a0ced7d506e3808f53a65?utm_campaign=1053&utm_source=git)** | West Sacramento, CA | On Site | Dec 22 |
 | **[Indianapolis Colts](http://www.colts.com)** | **[Events Operations Intern - Part-Time](https://jobright.ai/jobs/info/694a11e97d506e3808f546df?utm_campaign=1053&utm_source=git)** | 19000 Grand Park Blvd, Westfield, IN 46074, USA | On Site | Dec 22 |
 | ↳ | **[Events Intern](https://jobright.ai/jobs/info/694a111763141d188459b898?utm_campaign=1053&utm_source=git)** | Indiana Farm Bureau Football Center, 7001 W 56th St, Indianapolis, Indiana, United States of America | On Site | Dec 22 |
-| ↳ | **[Mascot Program Intern](https://jobright.ai/jobs/info/694a11d1c6f0e2546cef0fa8?utm_campaign=1053&utm_source=git)** | Indiana Farm Bureau Football Center, 7001 W 56th St, Indianapolis, Indiana, United States of America | On Site | Dec 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
