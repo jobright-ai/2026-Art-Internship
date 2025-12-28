@@ -57,10 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Médecins Sans Frontières (MSF)](http://www.msf.org)** | **[Multimedia Production Intern](https://jobright.ai/jobs/info/6931e275d0010831497bc93b?utm_campaign=1053&utm_source=git)** | New York, New York, United States | Hybrid | Dec 27 |
 | **[Jacob's Pillow Dance Festival](https://www.jacobspillow.org)** | **[Company Management Intern](https://jobright.ai/jobs/info/69509703ce13cd1056587d02?utm_campaign=1053&utm_source=git)** | Becket, MA 01223 | On Site | Dec 27 |
 | ↳ | **[Video Documentation Intern](https://jobright.ai/jobs/info/69509942a2668b7f5453860d?utm_campaign=1053&utm_source=git)** | Becket, MA 01223 | On Site | Dec 27 |
 | **[EveryDayABA](www.everydayaba.net)** | **[Video Editor Intern](https://jobright.ai/jobs/info/695067d2ce13cd1056584cc9?utm_campaign=1053&utm_source=git)** | Vista, CA | Remote | Dec 27 |
-| **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[Her Campus Wellness Editorial Intern - Spring 2026](https://jobright.ai/jobs/info/69502c8029655e4dd6596f9a?utm_campaign=1053&utm_source=git)** | United States | Remote | Dec 27 |
 | **[Paramount](https://www.paramount.com)** | **[CBS Sports HQ Production Internship (Summer 2026, In Person - Ft Lauderdale)](https://jobright.ai/jobs/info/6941c85750bbaf7650539508?utm_campaign=1053&utm_source=git)** | Fort Lauderdale, FL | On Site | Dec 27 |
 | **[CBS News and Stations](http://www.cbs.com)** | **[CBS News Intern, KTVT Dallas/Ft Worth (Summer 2026)](https://jobright.ai/jobs/info/6944b84894730b739877fc03?utm_campaign=1053&utm_source=git)** | Fort Worth, TX | On Site | Dec 27 |
 | **[Paramount](https://www.paramount.com)** | **[TV Programming Internships (Summer 2026, In Person- NYC)](https://jobright.ai/jobs/info/69437ca8dd382f5f56698d39?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Dec 27 |
@@ -75,7 +75,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Remote Summer Internship - Production Editor - Kids' Ministry Publishing](https://jobright.ai/jobs/info/691d51a77481340785ed667d?utm_campaign=1053&utm_source=git)** | United States | Remote | Dec 27 |
 | ↳ | **[Remote Summer Internship - Women's Events](https://jobright.ai/jobs/info/691c3abfff70244984166e32?utm_campaign=1053&utm_source=git)** | United States | Remote | Dec 27 |
 | **[Blizzard Entertainment](http://blizzard.com)** | **[2026 US Summer Internships - VFX](https://jobright.ai/jobs/info/6933d9e9764507023d1ba157?utm_campaign=1053&utm_source=git)** | Carlsbad, CA | On Site | Dec 27 |
-| **[City of Irving](https://www.cityofirving.org/2623/Family-Advocacy-Center)** | **[Intern - Production (Part-Time)](https://jobright.ai/jobs/info/694fa0cace13cd105657bb95?utm_campaign=1053&utm_source=git)** | Irving, TX | On Site | Dec 27 |
 | **[Sella Homes](https://sellahomes.com/)** | **[Content Production Intern](https://jobright.ai/jobs/info/694f5921a2668b7f545284c8?utm_campaign=1053&utm_source=git)** | Phoenix, AZ | On Site | Dec 26 |
 | **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[Assistant Assembly Video Editor - BYU-Pathway Worldwide (Full-Time Intern)](https://jobright.ai/jobs/info/694f4d6529655e4dd658c633?utm_campaign=1053&utm_source=git)** | Rexburg, ID | Remote | Dec 26 |
 | **[Amazon](https://amazon.com)** | **[IP & Literary Intern, Prime Video & Amazon MGM Studios](https://jobright.ai/jobs/info/694f4897a2668b7f54527891?utm_campaign=1053&utm_source=git)** | Culver City, CA | On Site | Dec 26 |
@@ -155,6 +154,7 @@ For a complete list, click the following sortable link below:
 | **[CBS News and Stations](http://www.cbs.com)** | **[CBS News Intern, KPIX San Francisco (Summer 2026)](https://jobright.ai/jobs/info/6949f8c063141d1884597c1a?utm_campaign=1053&utm_source=git)** | San Francisco, CA | On Site | Dec 22 |
 | ↳ | **[Creative Services Intern, KDKA Pittsburgh (Summer 2026)](https://jobright.ai/jobs/info/694a3d8231c12007d3b90067?utm_campaign=1053&utm_source=git)** | Pittsburgh, PA | On Site | Dec 22 |
 | ↳ | **[CBS News Intern, KOVR Sacramento (Summer 2026)](https://jobright.ai/jobs/info/694a0ced7d506e3808f53a65?utm_campaign=1053&utm_source=git)** | West Sacramento, CA | On Site | Dec 22 |
-| **[Indianapolis Colts](http://www.colts.com)** | **[Events Operations Intern - Part-Time](https://jobright.ai/jobs/info/694a11e97d506e3808f546df?utm_campaign=1053&utm_source=git)** | 19000 Grand Park Blvd, Westfield, IN 46074, USA | On Site | Dec 22 |
-| ↳ | **[Events Intern](https://jobright.ai/jobs/info/694a111763141d188459b898?utm_campaign=1053&utm_source=git)** | Indiana Farm Bureau Football Center, 7001 W 56th St, Indianapolis, Indiana, United States of America | On Site | Dec 22 |
+| **[Indianapolis Colts](http://www.colts.com)** | **[Events Intern](https://jobright.ai/jobs/info/694a111763141d188459b898?utm_campaign=1053&utm_source=git)** | Indiana Farm Bureau Football Center, 7001 W 56th St, Indianapolis, Indiana, United States of America | On Site | Dec 22 |
+| ↳ | **[Events Operations Intern - Part-Time](https://jobright.ai/jobs/info/694a11e97d506e3808f546df?utm_campaign=1053&utm_source=git)** | 19000 Grand Park Blvd, Westfield, IN 46074, USA | On Site | Dec 22 |
+| ↳ | **[Mascot Program Intern](https://jobright.ai/jobs/info/694a11d1c6f0e2546cef0fa8?utm_campaign=1053&utm_source=git)** | Indiana Farm Bureau Football Center, 7001 W 56th St, Indianapolis, Indiana, United States of America | On Site | Dec 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
