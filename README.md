@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[EveryDayABA](www.everydayaba.net)** | **[Video Editor Intern](https://jobright.ai/jobs/info/695067d2ce13cd1056584cc9?utm_campaign=1053&utm_source=git)** | Vista, CA | Remote | Dec 27 |
 | **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[Her Campus Wellness Editorial Intern - Spring 2026](https://jobright.ai/jobs/info/69502c8029655e4dd6596f9a?utm_campaign=1053&utm_source=git)** | United States | Remote | Dec 27 |
 | **[Paramount](https://www.paramount.com)** | **[CBS Sports HQ Production Internship (Summer 2026, In Person - Ft Lauderdale)](https://jobright.ai/jobs/info/6941c85750bbaf7650539508?utm_campaign=1053&utm_source=git)** | Fort Lauderdale, FL | On Site | Dec 27 |
 | **[CBS News and Stations](http://www.cbs.com)** | **[CBS News Intern, KTVT Dallas/Ft Worth (Summer 2026)](https://jobright.ai/jobs/info/6944b84894730b739877fc03?utm_campaign=1053&utm_source=git)** | Fort Worth, TX | On Site | Dec 27 |
@@ -153,8 +154,7 @@ For a complete list, click the following sortable link below:
 | **[CBS News and Stations](http://www.cbs.com)** | **[Creative Services Intern, KDKA Pittsburgh (Summer 2026)](https://jobright.ai/jobs/info/694a3d8231c12007d3b90067?utm_campaign=1053&utm_source=git)** | Pittsburgh, PA | On Site | Dec 22 |
 | ↳ | **[CBS News Intern, KPIX San Francisco (Summer 2026)](https://jobright.ai/jobs/info/6949f8c063141d1884597c1a?utm_campaign=1053&utm_source=git)** | San Francisco, CA | On Site | Dec 22 |
 | ↳ | **[CBS News Intern, KOVR Sacramento (Summer 2026)](https://jobright.ai/jobs/info/694a0ced7d506e3808f53a65?utm_campaign=1053&utm_source=git)** | West Sacramento, CA | On Site | Dec 22 |
-| **[Indianapolis Colts](http://www.colts.com)** | **[Events Operations Intern - Part-Time](https://jobright.ai/jobs/info/694a11e97d506e3808f546df?utm_campaign=1053&utm_source=git)** | 19000 Grand Park Blvd, Westfield, IN 46074, USA | On Site | Dec 22 |
-| ↳ | **[Events Intern](https://jobright.ai/jobs/info/694a111763141d188459b898?utm_campaign=1053&utm_source=git)** | Indiana Farm Bureau Football Center, 7001 W 56th St, Indianapolis, Indiana, United States of America | On Site | Dec 22 |
+| **[Indianapolis Colts](http://www.colts.com)** | **[Events Intern](https://jobright.ai/jobs/info/694a111763141d188459b898?utm_campaign=1053&utm_source=git)** | Indiana Farm Bureau Football Center, 7001 W 56th St, Indianapolis, Indiana, United States of America | On Site | Dec 22 |
+| ↳ | **[Events Operations Intern - Part-Time](https://jobright.ai/jobs/info/694a11e97d506e3808f546df?utm_campaign=1053&utm_source=git)** | 19000 Grand Park Blvd, Westfield, IN 46074, USA | On Site | Dec 22 |
 | ↳ | **[Mascot Program Intern](https://jobright.ai/jobs/info/694a11d1c6f0e2546cef0fa8?utm_campaign=1053&utm_source=git)** | Indiana Farm Bureau Football Center, 7001 W 56th St, Indianapolis, Indiana, United States of America | On Site | Dec 22 |
-| **[San Francisco 49ers](http://www.49ers.com)** | **[Intern, Live Events Creative](https://jobright.ai/jobs/info/69498f7263141d18845928b8?utm_campaign=1053&utm_source=git)** | Santa Clara, CA | On Site | Dec 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
