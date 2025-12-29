@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ogilvy Health](https://ogilvyhealth.com/)** | **[The Ogilvy Group / 2026 Creative Summer Internship - Technical Producer](https://jobright.ai/jobs/info/69267184d47de4798ecd7598?utm_campaign=1053&utm_source=git)** | Chicago, Illinois | Hybrid | Dec 28 |
 | **[Tumbling Dumpling Media](https://www.linkedin.com/company/109629621)** | **[Editorial Intern](https://jobright.ai/jobs/info/69519b68a2668b7f54544a1e?utm_campaign=1053&utm_source=git)** | United States | Remote | Dec 28 |
 | **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[Spoon University Editorial Intern - Spring 2026](https://jobright.ai/jobs/info/69517cd7a2668b7f54542953?utm_campaign=1053&utm_source=git)** | United States | Remote | Dec 28 |
 | **[Art Bridges Foundation](https://artbridgesfoundation.org)** | **[Art Bridges Summer 2026 Registration Internship](https://jobright.ai/jobs/info/69346157764507023d1bce6b?utm_campaign=1053&utm_source=git)** | Bentonville, AR | On Site | Dec 28 |
@@ -85,7 +86,8 @@ For a complete list, click the following sortable link below:
 | **[Sella Homes](https://sellahomes.com/)** | **[Content Production Intern](https://jobright.ai/jobs/info/694f5921a2668b7f545284c8?utm_campaign=1053&utm_source=git)** | Phoenix, AZ | On Site | Dec 26 |
 | **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[Assistant Assembly Video Editor - BYU-Pathway Worldwide (Full-Time Intern)](https://jobright.ai/jobs/info/694f4d6529655e4dd658c633?utm_campaign=1053&utm_source=git)** | Rexburg, ID | Remote | Dec 26 |
 | **[Amazon](https://amazon.com)** | **[IP & Literary Intern, Prime Video & Amazon MGM Studios](https://jobright.ai/jobs/info/694f4897a2668b7f54527891?utm_campaign=1053&utm_source=git)** | Culver City, CA | On Site | Dec 26 |
-| ↳ | **[IP & Literary Intern, Prime Video & Amazon MGM Studios](https://jobright.ai/jobs/info/694f0ef2a2668b7f54524c25?utm_campaign=1053&utm_source=git)** | Culver City, California, USA | On Site | Dec 26 |
+| **[Fox News Media](https://www.foxnews.com/)** | **[Summer 2026 FOX News Media Internship Program - New York](https://jobright.ai/jobs/info/68dc390ab324915618962634?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Dec 26 |
+| **[Amazon](https://amazon.com)** | **[IP & Literary Intern, Prime Video & Amazon MGM Studios](https://jobright.ai/jobs/info/694f0ef2a2668b7f54524c25?utm_campaign=1053&utm_source=git)** | Culver City, California, USA | On Site | Dec 26 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Assistant Assembly Video Editor - BYU-Pathway Worldwide (Full-Time Intern)](https://jobright.ai/jobs/info/694ef36429655e4dd65876f7?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | Remote | Dec 26 |
 | **[Art Institute of Chicago](http://www.artic.edu/)** | **[McMullan Arts Leadership Intern](https://jobright.ai/jobs/info/694eee34a2668b7f54522b25?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Dec 26 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Assistant Assembly Video Editor - BYU-Pathway Worldwide (Full-Time Intern)](https://jobright.ai/jobs/info/694ec197ce13cd1056571560?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT, United States | Remote | Dec 26 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Intern, Video Strategy](https://jobright.ai/jobs/info/6949f62e7d506e3808f505b3?utm_campaign=1053&utm_source=git)** | New York, NY - 225 Liberty Street | On Site | Dec 22 |
 | ↳ | **[Summer Intern, Production](https://jobright.ai/jobs/info/694a039fc6f0e2546ceee90b?utm_campaign=1053&utm_source=git)** | New York, NY - 225 Liberty Street | On Site | Dec 22 |
 | ↳ | **[Summer Intern, Byrdie/InStyle Editorial](https://jobright.ai/jobs/info/694a0aa463141d188459a678?utm_campaign=1053&utm_source=git)** | New York, NY - 225 Liberty Street | On Site | Dec 22 |
-| **[Scotiabank](https://www.scotiabank.com)** | **[Velocity - Enterprise Creative Studio Internship/Co-op - Summer 2026](https://jobright.ai/jobs/info/694a015d63141d1884598fab?utm_campaign=1053&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 22 |
-| **[Indianapolis Colts](http://www.colts.com)** | **[Writing & Podcast Intern](https://jobright.ai/jobs/info/6949a1e1d1953b5d11c2a71a?utm_campaign=1053&utm_source=git)** | Indiana Farm Bureau Football Center, 7001 W 56th St, Indianapolis, Indiana, United States of America | On Site | Dec 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
