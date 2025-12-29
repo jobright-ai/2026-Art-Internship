@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Chapter One](https://www.startchapterone.com/)** | **[Social Media Content Creator](https://jobright.ai/jobs/info/6952ab43935649778e206532?utm_campaign=1053&utm_source=git)** | United States | Remote | Dec 29 |
+| **[TESstylist](https://tesstylist.com)** | **[Fashion Intern](https://jobright.ai/jobs/info/6952cb22f1f8465b79ea16c8?utm_campaign=1053&utm_source=git)** | Boston, MA | On Site | Dec 29 |
+| **[Quicken Loans](http://www.quickenloans.com/)** | **[Event Operations Intern - Summer 2026](https://jobright.ai/jobs/info/6952c0055bb7de448ef5da35?utm_campaign=1053&utm_source=git)** | Detroit, MI | On Site | Dec 29 |
 | **[KUTV 2News / KMYU](http://kutv.com/)** | **[Intern - Studio Crew](https://jobright.ai/jobs/info/69525bf5935649778e202d41?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Dec 29 |
 | **[City of Irving](https://www.cityofirving.org/2623/Family-Advocacy-Center)** | **[Intern - Production (Part-Time)](https://jobright.ai/jobs/info/69524604935649778e200f5c?utm_campaign=1053&utm_source=git)** | Irving, TX | On Site | Dec 29 |
 | **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[IAE Videography Internship - Spring 2026](https://jobright.ai/jobs/info/69521ecece13cd105659a6b4?utm_campaign=1053&utm_source=git)** | Tampa, FL | On Site | Dec 28 |
@@ -80,7 +81,6 @@ For a complete list, click the following sortable link below:
 | **[CBS News and Stations](http://www.cbs.com)** | **[CBS News Intern, WBBM Chicago (Summer 2026)](https://jobright.ai/jobs/info/6944b5dfa7227b3ece666159?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Dec 27 |
 | **[Paramount](https://www.paramount.com)** | **[TV Programming Internships (Summer 2026, In Person- LA)](https://jobright.ai/jobs/info/6931761b3b6d6f265f4e9f93?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Dec 27 |
 | **[Sports Illustrated Stadium](https://www.sportsillustratedstadium.com)** | **[2026 Internship, Spring - Event Operations](https://jobright.ai/jobs/info/691689689c388539cbdfc5c9?utm_campaign=1053&utm_source=git)** | Harrison, NJ | On Site | Dec 27 |
-| **[CJ ENM America](https://www.kconusa.com/home/)** | **[Intern, Scripted TV](https://jobright.ai/jobs/info/6933b2fdf131d96e48466169?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Dec 27 |
 | **[Lifeway Christian Resources](https://wordsearchbible.lifeway.com/)** | **[Hybrid Summer Internship - Line Producer - Media](https://jobright.ai/jobs/info/691d52380b7dff73415027c8?utm_campaign=1053&utm_source=git)** | Nashville, TN | Hybrid | Dec 27 |
 | ↳ | **[Remote Summer Internship - Production Editor - Kids' Ministry Publishing](https://jobright.ai/jobs/info/691d51a77481340785ed667d?utm_campaign=1053&utm_source=git)** | United States | Remote | Dec 27 |
 | ↳ | **[Remote Summer Internship - Women's Events](https://jobright.ai/jobs/info/691c3abfff70244984166e32?utm_campaign=1053&utm_source=git)** | United States | Remote | Dec 27 |
@@ -92,6 +92,7 @@ For a complete list, click the following sortable link below:
 | **[Amazon](https://amazon.com)** | **[IP & Literary Intern, Prime Video & Amazon MGM Studios](https://jobright.ai/jobs/info/694f0ef2a2668b7f54524c25?utm_campaign=1053&utm_source=git)** | Culver City, California, USA | On Site | Dec 26 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Assistant Assembly Video Editor - BYU-Pathway Worldwide (Full-Time Intern)](https://jobright.ai/jobs/info/694ef36429655e4dd65876f7?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | Remote | Dec 26 |
 | **[Art Institute of Chicago](http://www.artic.edu/)** | **[McMullan Arts Leadership Intern](https://jobright.ai/jobs/info/694eee34a2668b7f54522b25?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Dec 26 |
+| **[David's Bridal](http://www.davidsbridal.com)** | **[Alterations Intern](https://jobright.ai/jobs/info/6952c9bd5bb7de448ef5de73?utm_campaign=1053&utm_source=git)** | Cincinnati, OH | On Site | Dec 26 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Assistant Assembly Video Editor - BYU-Pathway Worldwide (Full-Time Intern)](https://jobright.ai/jobs/info/694ec197ce13cd1056571560?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT, United States | Remote | Dec 26 |
 | **[David's Bridal](http://www.davidsbridal.com)** | **[Alterations Intern](https://jobright.ai/jobs/info/6952ae72f1f8465b79ea0138?utm_campaign=1053&utm_source=git)** | Albuquerque, NM | On Site | Dec 26 |
 | ↳ | **[Alterations Intern](https://jobright.ai/jobs/info/6952a2fbf1f8465b79e9eae3?utm_campaign=1053&utm_source=git)** | Scottsdale, AZ | On Site | Dec 26 |
@@ -144,7 +145,4 @@ For a complete list, click the following sortable link below:
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Internship](https://jobright.ai/jobs/info/694e3177f5bef51c96eb9388?utm_campaign=1053&utm_source=git)** | Savannah, GA | On Site | Dec 22 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[LN Concerts, Booking Intern](https://jobright.ai/jobs/info/692d72e166796e3028f94c69?utm_campaign=1053&utm_source=git)** | San Francisco, CA | On Site | Dec 22 |
 | **[ENGIE North America Inc.](http://www.engie-na.com/)** | **[Intern](https://jobright.ai/jobs/info/694a1a32c6f0e2546cef231b?utm_campaign=1053&utm_source=git)** | Houston, TX | On Site | Dec 22 |
-| **[People Inc.](https://www.people.inc/)** | **[Summer Intern, Photo/Video Studio](https://jobright.ai/jobs/info/694a129ac6f0e2546cef11ab?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Dec 22 |
-| **[(USTA) United States Tennis Association](https://www.usta.com/en/home.html)** | **[Undergraduate Intern Summer 2026 - Video Services](https://jobright.ai/jobs/info/694a0bce7d506e3808f53727?utm_campaign=1053&utm_source=git)** | Purchase, NY | Hybrid | Dec 22 |
-| **[Giant Spoon](http://giantspoon.com/)** | **[Experiential Production Intern (Summer)](https://jobright.ai/jobs/info/694a07a77d506e3808f52d01?utm_campaign=1053&utm_source=git)** | New York, United States | Hybrid | Dec 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
