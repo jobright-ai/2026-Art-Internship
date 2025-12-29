@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Chapter One](https://www.startchapterone.com/)** | **[Social Media Content Creator](https://jobright.ai/jobs/info/6952ab43935649778e206532?utm_campaign=1053&utm_source=git)** | United States | Remote | Dec 29 |
 | **[KUTV 2News / KMYU](http://kutv.com/)** | **[Intern - Studio Crew](https://jobright.ai/jobs/info/69525bf5935649778e202d41?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Dec 29 |
 | **[City of Irving](https://www.cityofirving.org/2623/Family-Advocacy-Center)** | **[Intern - Production (Part-Time)](https://jobright.ai/jobs/info/69524604935649778e200f5c?utm_campaign=1053&utm_source=git)** | Irving, TX | On Site | Dec 29 |
 | **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[IAE Videography Internship - Spring 2026](https://jobright.ai/jobs/info/69521ecece13cd105659a6b4?utm_campaign=1053&utm_source=git)** | Tampa, FL | On Site | Dec 28 |
@@ -92,6 +93,8 @@ For a complete list, click the following sortable link below:
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Assistant Assembly Video Editor - BYU-Pathway Worldwide (Full-Time Intern)](https://jobright.ai/jobs/info/694ef36429655e4dd65876f7?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | Remote | Dec 26 |
 | **[Art Institute of Chicago](http://www.artic.edu/)** | **[McMullan Arts Leadership Intern](https://jobright.ai/jobs/info/694eee34a2668b7f54522b25?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Dec 26 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Assistant Assembly Video Editor - BYU-Pathway Worldwide (Full-Time Intern)](https://jobright.ai/jobs/info/694ec197ce13cd1056571560?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT, United States | Remote | Dec 26 |
+| **[David's Bridal](http://www.davidsbridal.com)** | **[Alterations Intern](https://jobright.ai/jobs/info/6952ae72f1f8465b79ea0138?utm_campaign=1053&utm_source=git)** | Albuquerque, NM | On Site | Dec 26 |
+| ↳ | **[Alterations Intern](https://jobright.ai/jobs/info/6952a2fbf1f8465b79e9eae3?utm_campaign=1053&utm_source=git)** | Scottsdale, AZ | On Site | Dec 26 |
 | **[National Education Association](http://www.nea.org)** | **[NEA Editorial Intern, Center for Communications (Winter/Spring 2026)](https://jobright.ai/jobs/info/69324986f131d96e4845aa29?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Dec 26 |
 | **[SPORTFIVE](http://www.sportfive.com/)** | **[INTERN (EXPERIENTIAL) - HOUSTON, TX](https://jobright.ai/jobs/info/692f7b7afa28370be26aaad4?utm_campaign=1053&utm_source=git)** | Houston, TX | On Site | Dec 26 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[The Hill Spring 2026 Editorial Intern- Washington DC](https://jobright.ai/jobs/info/6932472ba0dde7020e2e5190?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Dec 26 |
@@ -144,7 +147,4 @@ For a complete list, click the following sortable link below:
 | **[People Inc.](https://www.people.inc/)** | **[Summer Intern, Photo/Video Studio](https://jobright.ai/jobs/info/694a129ac6f0e2546cef11ab?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Dec 22 |
 | **[(USTA) United States Tennis Association](https://www.usta.com/en/home.html)** | **[Undergraduate Intern Summer 2026 - Video Services](https://jobright.ai/jobs/info/694a0bce7d506e3808f53727?utm_campaign=1053&utm_source=git)** | Purchase, NY | Hybrid | Dec 22 |
 | **[Giant Spoon](http://giantspoon.com/)** | **[Experiential Production Intern (Summer)](https://jobright.ai/jobs/info/694a07a77d506e3808f52d01?utm_campaign=1053&utm_source=git)** | New York, United States | Hybrid | Dec 22 |
-| **[USTA National Campus](http://www.ustanationalcampus.com)** | **[Undergraduate Intern Summer 2026 - Video Services](https://jobright.ai/jobs/info/6949f80d63141d1884597b45?utm_campaign=1053&utm_source=git)** | Purchase, NY | On Site | Dec 22 |
-| **[Fox News Media](https://www.foxnews.com/)** | **[Summer 2026 FOX News Internship Program - Fashion - New York](https://jobright.ai/jobs/info/694a11b763141d188459ba53?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Dec 22 |
-| **[Cincinnati Symphony Orchestra](http://www.cincinnatisymphony.org/)** | **[Community Engagement & Special Projects Intern - Cincinnati Opera](https://jobright.ai/jobs/info/694a1ede63141d188459cf01?utm_campaign=1053&utm_source=git)** | Cincinnati,OH,US | On Site | Dec 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
