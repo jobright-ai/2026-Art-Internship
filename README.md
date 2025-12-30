@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Globe Life](https://www.globelifeinsurance.com)** | **[Video Production - Summer Internship 2026](https://jobright.ai/jobs/info/69263935f0beb072326233f0?utm_campaign=1053&utm_source=git)** | McKinney, TX | On Site | Dec 30 |
+| **[KEEN](http://www.keenfootwear.com)** | **[Media Studio Intern](https://jobright.ai/jobs/info/69374419aabec14a727c5bf5?utm_campaign=1053&utm_source=git)** | Portland, OR | On Site | Dec 30 |
 | **[Mystic Lake Casino Hotel](https://mysticlake.com/)** | **[Events & Entertainment Intern](https://jobright.ai/jobs/info/68c8ff10f9c6ff7aedf161b7?utm_campaign=1053&utm_source=git)** | Prior Lake, MN | On Site | Dec 30 |
 | **[KUTV 2News / KMYU](http://kutv.com/)** | **[Intern - Studio Crew](https://jobright.ai/jobs/info/6953a74f5a2fd11f2a0ef4b8?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Dec 30 |
 | **[Pinehurst Resort](https://www.pinehurst.com/)** | **[Golf Operations Intern-No.8-Seasonal](https://jobright.ai/jobs/info/695383d8f1f8465b79eaca60?utm_campaign=1053&utm_source=git)** | Pinehurst, NC | On Site | Dec 29 |
@@ -132,7 +134,4 @@ For a complete list, click the following sortable link below:
 | **[Paramount](https://www.paramount.com)** | **[Paramount VFX Internship (Summer 2026, In Person - LA)](https://jobright.ai/jobs/info/694b41ef4b53a1551f950c91?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Dec 23 |
 | **[Amazon](https://amazon.com)** | **[Production Intern, Prime Video & Amazon MGM Studios](https://jobright.ai/jobs/info/694b5b755d731211346fe329?utm_campaign=1053&utm_source=git)** | Culver City, California, USA | On Site | Dec 23 |
 | **[Grimsby Town Football Club](http://www.gtfc.co.uk)** | **[Vacancy – Videographer (Student Placement)](https://jobright.ai/jobs/info/694b27084b53a1551f94e80c?utm_campaign=1053&utm_source=git)** | Grimsby, Ontario, Canada | On Site | Dec 23 |
-| **[Brennan Center for Justice](http://www.brennancenter.org/)** | **[Summer 2026 Multimedia Internship (Graduate or Undergraduate)](https://jobright.ai/jobs/info/690be134d046ab6061ce8e16?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Dec 23 |
-| **[IEEE](http://www.ieee.org)** | **[Summer Editorial intern](https://jobright.ai/jobs/info/694b082f3019f50a4fe60ef3?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Dec 23 |
-| **[Gray Media](https://graymedia.com)** | **[TUPELO HONEY INTERNSHIP (REMOTE) - TUPELO HONEY](https://jobright.ai/jobs/info/694af78767a69734cac60b84?utm_campaign=1053&utm_source=git)** | Indianapolis, IN | Remote | Dec 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
