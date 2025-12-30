@@ -133,5 +133,4 @@ For a complete list, click the following sortable link below:
 | **[Amazon](https://amazon.com)** | **[Creative Development Intern, Primetime/Adult Animation , Prime Video & Amazon MGM Studios](https://jobright.ai/jobs/info/694b489e3019f50a4fe662e4?utm_campaign=1053&utm_source=git)** | Culver City, California, USA | On Site | Dec 23 |
 | **[Paramount](https://www.paramount.com)** | **[Paramount VFX Internship (Summer 2026, In Person - LA)](https://jobright.ai/jobs/info/694b41ef4b53a1551f950c91?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Dec 23 |
 | **[Amazon](https://amazon.com)** | **[Production Intern, Prime Video & Amazon MGM Studios](https://jobright.ai/jobs/info/694b5b755d731211346fe329?utm_campaign=1053&utm_source=git)** | Culver City, California, USA | On Site | Dec 23 |
-| **[Grimsby Town Football Club](http://www.gtfc.co.uk)** | **[Vacancy – Videographer (Student Placement)](https://jobright.ai/jobs/info/694b27084b53a1551f94e80c?utm_campaign=1053&utm_source=git)** | Grimsby, Ontario, Canada | On Site | Dec 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
