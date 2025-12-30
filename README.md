@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Gazette Gal](www.gazettegal.com)** | **[Editorial Intern](https://jobright.ai/jobs/info/69535257f1f8465b79ea994d?utm_campaign=1053&utm_source=git)** | United States | Remote | Dec 29 |
 | **[Pinehurst Resort](https://www.pinehurst.com/)** | **[Golf Operations Intern-No.8-Seasonal](https://jobright.ai/jobs/info/695340375bb7de448ef65498?utm_campaign=1053&utm_source=git)** | Pinehurst, NC, USA | On Site | Dec 29 |
 | **[Gazette Gal](www.gazettegal.com)** | **[Lifestyle Editorial Writer](https://jobright.ai/jobs/info/69531d33935649778e20d28f?utm_campaign=1053&utm_source=git)** | United States | Remote | Dec 29 |
 | **[Ogilvy](https://www.ogilvy.com)** | **[The Ogilvy Group / 2026 Creative Summer Internship - Technical Producer](https://jobright.ai/jobs/info/692ec523ef4b48533d1412d3?utm_campaign=1053&utm_source=git)** | Chicago, Illinois | Hybrid | Dec 29 |
@@ -135,5 +136,4 @@ For a complete list, click the following sortable link below:
 | **[IEEE](http://www.ieee.org)** | **[Summer Editorial intern](https://jobright.ai/jobs/info/694acbc41224705e9001e98a?utm_campaign=1053&utm_source=git)** | United States-New York-New York City | On Site | Dec 23 |
 | **[UnCommon Fashion](http://www.theuncommonfashion.com)** | **[UnCommon Fashion Internship Program – Spring 2026](https://jobright.ai/jobs/info/694ac7f81224705e9001e0e0?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Dec 23 |
 | **[Kentucky Farm Bureau Insurance](http://kyfb.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/6938e875a0dde7020e3187ec?utm_campaign=1053&utm_source=git)** | Louisville, KY | On Site | Dec 23 |
-| **[Centric Brands](https://centricbrands.com)** | **[Licensing Intern – Summer 2026 Internship Program](https://jobright.ai/jobs/info/692e70bafa28370be26a49e4?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Dec 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
