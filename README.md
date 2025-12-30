@@ -57,17 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Pinehurst Resort](https://www.pinehurst.com/)** | **[Golf Operations Intern-No.8-Seasonal](https://jobright.ai/jobs/info/695340375bb7de448ef65498?utm_campaign=1053&utm_source=git)** | Pinehurst, NC, USA | On Site | Dec 29 |
 | **[Gazette Gal](www.gazettegal.com)** | **[Lifestyle Editorial Writer](https://jobright.ai/jobs/info/69531d33935649778e20d28f?utm_campaign=1053&utm_source=git)** | United States | Remote | Dec 29 |
 | **[Ogilvy](https://www.ogilvy.com)** | **[The Ogilvy Group / 2026 Creative Summer Internship - Technical Producer](https://jobright.ai/jobs/info/692ec523ef4b48533d1412d3?utm_campaign=1053&utm_source=git)** | Chicago, Illinois | Hybrid | Dec 29 |
 | **[City of Irving](https://www.cityofirving.org/2623/Family-Advocacy-Center)** | **[Intern - Production (Part-Time)](https://jobright.ai/jobs/info/6952fcdd935649778e20c775?utm_campaign=1053&utm_source=git)** | Irving, TX | On Site | Dec 29 |
 | **[TESstylist](https://tesstylist.com)** | **[Fashion Intern](https://jobright.ai/jobs/info/6952cb22f1f8465b79ea16c8?utm_campaign=1053&utm_source=git)** | Boston, MA | On Site | Dec 29 |
 | **[Quicken Loans](http://www.quickenloans.com/)** | **[Event Operations Intern - Summer 2026](https://jobright.ai/jobs/info/6952c0055bb7de448ef5da35?utm_campaign=1053&utm_source=git)** | Detroit, MI | On Site | Dec 29 |
-| **[KUTV 2News / KMYU](http://kutv.com/)** | **[Intern - Studio Crew](https://jobright.ai/jobs/info/69525bf5935649778e202d41?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Dec 29 |
 | **[Ogilvy Health](https://ogilvyhealth.com/)** | **[The Ogilvy Group / 2026 Creative Summer Internship - Technical Producer](https://jobright.ai/jobs/info/69267184d47de4798ecd7598?utm_campaign=1053&utm_source=git)** | Chicago, Illinois | Hybrid | Dec 28 |
-| **[Art Bridges Foundation](https://artbridgesfoundation.org)** | **[Art Bridges Summer 2026 Registration Internship](https://jobright.ai/jobs/info/69346157764507023d1bce6b?utm_campaign=1053&utm_source=git)** | Bentonville, AR | On Site | Dec 28 |
+| **[Art Bridges Foundation](https://artbridgesfoundation.org)** | **[Art Bridges Summer 2026 Curatorial Internship](https://jobright.ai/jobs/info/6917c46815b415636717b5c0?utm_campaign=1053&utm_source=git)** | Bentonville, AR | On Site | Dec 28 |
+| ↳ | **[Art Bridges Summer 2026 Registration Internship](https://jobright.ai/jobs/info/69346157764507023d1bce6b?utm_campaign=1053&utm_source=git)** | Bentonville, AR | On Site | Dec 28 |
 | ↳ | **[Art Bridges Academic Year 2026-27 Traveling Exhibitions Internship](https://jobright.ai/jobs/info/6933ac5a764507023d1b808a?utm_campaign=1053&utm_source=git)** | Bentonville, AR | Hybrid | Dec 28 |
 | **[Encore](https://www.encoreglobal.com/)** | **[Event Technology Internship (Spring) - Sheraton Overland Park](https://jobright.ai/jobs/info/69346aa3f131d96e4846aa05?utm_campaign=1053&utm_source=git)** | Overland Park, KS | On Site | Dec 28 |
-| **[Art Bridges Foundation](https://artbridgesfoundation.org)** | **[Art Bridges Summer 2026 Curatorial Internship](https://jobright.ai/jobs/info/6917ce6615b415636717bb43?utm_campaign=1053&utm_source=git)** | Bentonville, AR | On Site | Dec 28 |
 | **[Union Home Mortgage Corp.](https://www.uhm.com/)** | **[Video Content Intern](https://jobright.ai/jobs/info/68984e44faa4e875e824dc8c?utm_campaign=1053&utm_source=git)** | Strongsville, OH | On Site | Dec 28 |
 | **[Médecins Sans Frontières (MSF)](http://www.msf.org)** | **[Multimedia Production Intern](https://jobright.ai/jobs/info/6931e275d0010831497bc93b?utm_campaign=1053&utm_source=git)** | New York, New York, United States | Hybrid | Dec 27 |
 | **[Jacob's Pillow Dance Festival](https://www.jacobspillow.org)** | **[Company Management Intern](https://jobright.ai/jobs/info/69509703ce13cd1056587d02?utm_campaign=1053&utm_source=git)** | Becket, MA 01223 | On Site | Dec 27 |
@@ -136,6 +136,4 @@ For a complete list, click the following sortable link below:
 | **[UnCommon Fashion](http://www.theuncommonfashion.com)** | **[UnCommon Fashion Internship Program – Spring 2026](https://jobright.ai/jobs/info/694ac7f81224705e9001e0e0?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Dec 23 |
 | **[Kentucky Farm Bureau Insurance](http://kyfb.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/6938e875a0dde7020e3187ec?utm_campaign=1053&utm_source=git)** | Louisville, KY | On Site | Dec 23 |
 | **[Centric Brands](https://centricbrands.com)** | **[Licensing Intern – Summer 2026 Internship Program](https://jobright.ai/jobs/info/692e70bafa28370be26a49e4?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Dec 23 |
-| **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Intern, Video Production](https://jobright.ai/jobs/info/682e66f64de36dfb980acd4c?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Dec 23 |
-| **[FOX Weather](https://foxweather.com)** | **[Summer 2026 FOX News Media Internship Program - FOX Weather](https://jobright.ai/jobs/info/68da38063c03cd32709447df?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Dec 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
