@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[GoMarble](https://www.gomarble.ai/?utm_source=crunch_base&utm_medium=referral)** | **[Content Ops Specialist (Contract/Internship)](https://jobright.ai/jobs/info/6954e1f1aa05c26e7aaf5753?utm_campaign=1053&utm_source=git)** | United States | Remote | Dec 31 |
 | **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[Her Campus Wellness Editorial Intern - Spring 2026](https://jobright.ai/jobs/info/6954cc70aa05c26e7aaf4def?utm_campaign=1053&utm_source=git)** | United States | Remote | Dec 30 |
 | **[Indianapolis Colts](http://www.colts.com)** | **[Production Intern](https://jobright.ai/jobs/info/69548acf5bb7de448ef78558?utm_campaign=1053&utm_source=git)** | Indiana Farm Bureau Football Center, 7001 W 56th St, Indianapolis, Indiana, United States of America | On Site | Dec 30 |
 | **[Humorist Media](http://www.humoristmedia.com/)** | **[Intern](https://jobright.ai/jobs/info/695464f45bb7de448ef756e4?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Dec 30 |
@@ -119,6 +120,4 @@ For a complete list, click the following sortable link below:
 | **[Fox News Media](https://www.foxnews.com/)** | **[Summer 2026 FOX News Media Internship Program - Chicago, IL](https://jobright.ai/jobs/info/68da38283c03cd327094481c?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Dec 24 |
 | **[D.C. United](http://dcunited.com)** | **[Intern, Events & Operations](https://jobright.ai/jobs/info/694c52ba5d7312113470c2b7?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Dec 24 |
 | **[AMC Networks](https://www.amcnetworks.com/)** | **[Summer Intern - Programming & Production](https://jobright.ai/jobs/info/694c2ad45d7312113470a63c?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Dec 24 |
-| ↳ | **[Summer Intern - Programming & Production](https://jobright.ai/jobs/info/694c26f5d64ebf28d821cfc2?utm_campaign=1053&utm_source=git)** | Santa Monica, CA | On Site | Dec 24 |
-| **[Zapshot](https://zapshot.me)** | **[Campus Interview & Party Host Intern (UCLA)](https://jobright.ai/jobs/info/694c1f61d64ebf28d821cde3?utm_campaign=1053&utm_source=git)** | LA Metro Area | On Site | Dec 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
