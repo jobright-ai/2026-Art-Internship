@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Indianapolis Colts](http://www.colts.com)** | **[Production Intern](https://jobright.ai/jobs/info/69548acf5bb7de448ef78558?utm_campaign=1053&utm_source=git)** | Indiana Farm Bureau Football Center, 7001 W 56th St, Indianapolis, Indiana, United States of America | On Site | Dec 30 |
 | **[Humorist Media](http://www.humoristmedia.com/)** | **[Intern](https://jobright.ai/jobs/info/695464f45bb7de448ef756e4?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Dec 30 |
 | **[Harris County](https://www.harriscountytx.gov/)** | **[Special Events Intern](https://jobright.ai/jobs/info/695449615bb7de448ef7444a?utm_campaign=1053&utm_source=git)** | Tomball, TX | On Site | Dec 30 |
 | **[Collective Uplift](Cusports.biz)** | **[Videographer](https://jobright.ai/jobs/info/695439ac5bb7de448ef721a3?utm_campaign=1053&utm_source=git)** | Chicago, IL | Hybrid | Dec 30 |
@@ -121,5 +122,4 @@ For a complete list, click the following sortable link below:
 | **[Omni Fort Worth Hotel](https://www.omnihotels.com/)** | **[Omni Care Internship Culinary / Winter 2025](https://jobright.ai/jobs/info/694c39e21a572a617dde7352?utm_campaign=1053&utm_source=git)** | US-NH-Bretton Woods | On Site | Dec 24 |
 | **[AMC Networks](https://www.amcnetworks.com/)** | **[Summer Intern - Programming & Production](https://jobright.ai/jobs/info/694c26f5d64ebf28d821cfc2?utm_campaign=1053&utm_source=git)** | Santa Monica, CA | On Site | Dec 24 |
 | **[Zapshot](https://zapshot.me)** | **[Campus Interview & Party Host Intern (UCLA)](https://jobright.ai/jobs/info/694c1f61d64ebf28d821cde3?utm_campaign=1053&utm_source=git)** | LA Metro Area | On Site | Dec 24 |
-| **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[LN Concerts, Booking Intern](https://jobright.ai/jobs/info/692fe1d6ef4b48533d1495fe?utm_campaign=1053&utm_source=git)** | Beverly Hills, CA | On Site | Dec 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
