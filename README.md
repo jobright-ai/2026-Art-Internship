@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Humorist Media](http://www.humoristmedia.com/)** | **[Intern](https://jobright.ai/jobs/info/695464f45bb7de448ef756e4?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Dec 30 |
 | **[Harris County](https://www.harriscountytx.gov/)** | **[Special Events Intern](https://jobright.ai/jobs/info/695449615bb7de448ef7444a?utm_campaign=1053&utm_source=git)** | Tomball, TX | On Site | Dec 30 |
 | **[Collective Uplift](Cusports.biz)** | **[Videographer](https://jobright.ai/jobs/info/695439ac5bb7de448ef721a3?utm_campaign=1053&utm_source=git)** | Chicago, IL | Hybrid | Dec 30 |
 | **[Akris](http://www.akris.com)** | **[Luxury Market Week Internship (In-Person, Unpaid)](https://jobright.ai/jobs/info/6953f648aa05c26e7aae6f17?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Dec 30 |
@@ -121,8 +122,4 @@ For a complete list, click the following sortable link below:
 | **[AMC Networks](https://www.amcnetworks.com/)** | **[Summer Intern - Programming & Production](https://jobright.ai/jobs/info/694c26f5d64ebf28d821cfc2?utm_campaign=1053&utm_source=git)** | Santa Monica, CA | On Site | Dec 24 |
 | **[Zapshot](https://zapshot.me)** | **[Campus Interview & Party Host Intern (UCLA)](https://jobright.ai/jobs/info/694c1f61d64ebf28d821cde3?utm_campaign=1053&utm_source=git)** | LA Metro Area | On Site | Dec 24 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[LN Concerts, Booking Intern](https://jobright.ai/jobs/info/692fe1d6ef4b48533d1495fe?utm_campaign=1053&utm_source=git)** | Beverly Hills, CA | On Site | Dec 24 |
-| **[Amazon](https://amazon.com)** | **[Production Intern, Prime Video & Amazon MGM Studios](https://jobright.ai/jobs/info/694bb9361a572a617dde08e2?utm_campaign=1053&utm_source=git)** | Culver City, CA | On Site | Dec 24 |
-| ↳ | **[Creative Development Intern, Primetime/Adult Animation , Prime Video & Amazon MGM Studios](https://jobright.ai/jobs/info/694bb7b15d731211347039da?utm_campaign=1053&utm_source=git)** | Culver City, CA | On Site | Dec 24 |
-| ↳ | **[Casting Intern, Prime Video & Amazon MGM Studios](https://jobright.ai/jobs/info/694bb6771a572a617dde03d5?utm_campaign=1053&utm_source=git)** | Culver City, CA | On Site | Dec 24 |
-| **[Interactive Brokers](https://www.interactivebrokers.com/en/home.php)** | **[Translation & Media Production Intern](https://jobright.ai/jobs/info/6920d1233f782d2f1afcbce1?utm_campaign=1053&utm_source=git)** | Greenwich, CT | On Site | Dec 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
