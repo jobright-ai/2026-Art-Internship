@@ -68,7 +68,6 @@ For a complete list, click the following sortable link below:
 | **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[Her Campus Wellness Editorial Intern - Spring 2026](https://jobright.ai/jobs/info/6954cc70aa05c26e7aaf4def?utm_campaign=1053&utm_source=git)** | United States | Remote | Dec 30 |
 | **[Arcwize](https://www.arcwize.com)** | **[Research & Writing Intern](https://jobright.ai/jobs/info/69553546aa05c26e7aaf9f25?utm_campaign=1053&utm_source=git)** | United States | Remote | Dec 30 |
 | **[Indianapolis Colts](http://www.colts.com)** | **[Production Intern](https://jobright.ai/jobs/info/69548acf5bb7de448ef78558?utm_campaign=1053&utm_source=git)** | Indiana Farm Bureau Football Center, 7001 W 56th St, Indianapolis, Indiana, United States of America | On Site | Dec 30 |
-| **[Humorist Media](http://www.humoristmedia.com/)** | **[Intern](https://jobright.ai/jobs/info/695464f45bb7de448ef756e4?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Dec 30 |
 | **[Harris County](https://www.harriscountytx.gov/)** | **[Special Events Intern](https://jobright.ai/jobs/info/695449615bb7de448ef7444a?utm_campaign=1053&utm_source=git)** | Tomball, TX | On Site | Dec 30 |
 | **[Collective Uplift](Cusports.biz)** | **[Videographer](https://jobright.ai/jobs/info/695439ac5bb7de448ef721a3?utm_campaign=1053&utm_source=git)** | Chicago, IL | Hybrid | Dec 30 |
 | **[Akris](http://www.akris.com)** | **[Luxury Market Week Internship (In-Person, Unpaid)](https://jobright.ai/jobs/info/6953f648aa05c26e7aae6f17?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Dec 30 |
@@ -124,5 +123,4 @@ For a complete list, click the following sortable link below:
 | **[Duolingo](https://www.duolingo.com)** | **[Motion Design Animator, Thrive Intern](https://jobright.ai/jobs/info/6930abfaef4b48533d14daaa?utm_campaign=1053&utm_source=git)** | Detroit, MI | Remote | Dec 25 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[The Hill Spring 2026 Editorial Intern- Washington DC](https://jobright.ai/jobs/info/6930fa86fa28370be26b5c5c?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Dec 25 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[LN Concerts, Production Intern](https://jobright.ai/jobs/info/69311da3ef4b48533d1527a4?utm_campaign=1053&utm_source=git)** | Beverly Hills, CA | On Site | Dec 25 |
-| **[Fox News Media](https://www.foxnews.com/)** | **[Summer 2026 FOX News Media Internship Program - Chicago, IL](https://jobright.ai/jobs/info/68da38283c03cd327094481c?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Dec 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
