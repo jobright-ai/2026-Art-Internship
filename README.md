@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Epic Games](https://epicgames.com)** | **[Gameplay Animation Intern](https://jobright.ai/jobs/info/6918efb5bcdbf3560c9d3eed?utm_campaign=1053&utm_source=git)** | Greater Montreal Metropolitan Area | On Site | Jan 01 |
 | **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[Spoon University Editorial Intern - Spring 2026](https://jobright.ai/jobs/info/69561b92f1f8465b79ed0e4b?utm_campaign=1053&utm_source=git)** | United States | Remote | Dec 31 |
 | **[Omni Fort Worth Hotel](https://www.omnihotels.com/)** | **[Omni Care Internship Culinary / Winter 2025](https://jobright.ai/jobs/info/6955e6e1f1f8465b79ecd149?utm_campaign=1053&utm_source=git)** | US-NH-Bretton Woods | On Site | Dec 31 |
 | **[Omni Hotels & Resorts](http://www.omnihotels.com/)** | **[Omni Care Internship Culinary / Winter 2025](https://jobright.ai/jobs/info/6955a7bbaa05c26e7aafe823?utm_campaign=1053&utm_source=git)** | Bretton Woods, NH | On Site | Dec 31 |
@@ -88,10 +89,10 @@ For a complete list, click the following sortable link below:
 | **[Quicken Loans](http://www.quickenloans.com/)** | **[Event Operations Intern - Summer 2026](https://jobright.ai/jobs/info/6952c0055bb7de448ef5da35?utm_campaign=1053&utm_source=git)** | Detroit, MI | On Site | Dec 29 |
 | **[City of Irving](https://www.cityofirving.org/2623/Family-Advocacy-Center)** | **[Intern - Production (Part-Time)](https://jobright.ai/jobs/info/69524604935649778e200f5c?utm_campaign=1053&utm_source=git)** | Irving, TX | On Site | Dec 29 |
 | **[Ogilvy Health](https://ogilvyhealth.com/)** | **[The Ogilvy Group / 2026 Creative Summer Internship - Technical Producer](https://jobright.ai/jobs/info/69267184d47de4798ecd7598?utm_campaign=1053&utm_source=git)** | Chicago, Illinois | Hybrid | Dec 28 |
-| **[Art Bridges Foundation](https://artbridgesfoundation.org)** | **[Art Bridges Summer 2026 Curatorial Internship](https://jobright.ai/jobs/info/6917c46815b415636717b5c0?utm_campaign=1053&utm_source=git)** | Bentonville, AR | On Site | Dec 28 |
-| ↳ | **[Art Bridges Summer 2026 Registration Internship](https://jobright.ai/jobs/info/69346157764507023d1bce6b?utm_campaign=1053&utm_source=git)** | Bentonville, AR | On Site | Dec 28 |
+| **[Art Bridges Foundation](https://artbridgesfoundation.org)** | **[Art Bridges Summer 2026 Registration Internship](https://jobright.ai/jobs/info/69346157764507023d1bce6b?utm_campaign=1053&utm_source=git)** | Bentonville, AR | On Site | Dec 28 |
 | ↳ | **[Art Bridges Academic Year 2026-27 Traveling Exhibitions Internship](https://jobright.ai/jobs/info/6933ac5a764507023d1b808a?utm_campaign=1053&utm_source=git)** | Bentonville, AR | Hybrid | Dec 28 |
 | **[Encore](https://www.encoreglobal.com/)** | **[Event Technology Internship (Spring) - Sheraton Overland Park](https://jobright.ai/jobs/info/69346aa3f131d96e4846aa05?utm_campaign=1053&utm_source=git)** | Overland Park, KS | On Site | Dec 28 |
+| **[Art Bridges Foundation](https://artbridgesfoundation.org)** | **[Art Bridges Summer 2026 Curatorial Internship](https://jobright.ai/jobs/info/6917ce6615b415636717bb43?utm_campaign=1053&utm_source=git)** | Bentonville, AR | On Site | Dec 28 |
 | **[Union Home Mortgage Corp.](https://www.uhm.com/)** | **[Video Content Intern](https://jobright.ai/jobs/info/68984e44faa4e875e824dc8c?utm_campaign=1053&utm_source=git)** | Strongsville, OH | On Site | Dec 28 |
 | **[Jacob's Pillow Dance Festival](https://www.jacobspillow.org)** | **[Company Management Intern](https://jobright.ai/jobs/info/69509703ce13cd1056587d02?utm_campaign=1053&utm_source=git)** | Becket, MA 01223 | On Site | Dec 27 |
 | ↳ | **[Video Documentation Intern](https://jobright.ai/jobs/info/69509942a2668b7f5453860d?utm_campaign=1053&utm_source=git)** | Becket, MA 01223 | On Site | Dec 27 |
