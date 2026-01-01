@@ -58,12 +58,13 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Omni Hotels & Resorts](http://www.omnihotels.com/)** | **[Omni Care Internship Culinary / Winter 2025](https://jobright.ai/jobs/info/6955a7bbaa05c26e7aafe823?utm_campaign=1053&utm_source=git)** | Bretton Woods, NH | On Site | Dec 31 |
+| **[Humorist Media](http://www.humoristmedia.com/)** | **[Intern](https://jobright.ai/jobs/info/6955c7ae9f1b381eb26ef55f?utm_campaign=1053&utm_source=git)** | LA Metro Area | Hybrid | Dec 31 |
 | **[The Wall Street Journal](https://www.wjs.com/)** | **[Intern, Page Six Video Studio](https://jobright.ai/jobs/info/6955760ff1f8465b79ec7f7c?utm_campaign=1053&utm_source=git)** | NYC - 1211 Ave of the Americas | On Site | Dec 31 |
 | **[Médecins Sans Frontières (MSF)](http://www.msf.org)** | **[Multimedia Production Intern](https://jobright.ai/jobs/info/6931e275d0010831497bc93b?utm_campaign=1053&utm_source=git)** | New York, New York, United States | Hybrid | Dec 31 |
 | **[The Wall Street Journal](https://www.wjs.com/)** | **[Intern, News](https://jobright.ai/jobs/info/6955670bf1f8465b79ec7a4c?utm_campaign=1053&utm_source=git)** | NYC - 1211 Ave of the Americas | On Site | Dec 31 |
 | ↳ | **[Intern, Video Production](https://jobright.ai/jobs/info/6955869df1f8465b79ec868b?utm_campaign=1053&utm_source=git)** | NYC - 1211 Ave of the Americas | On Site | Dec 31 |
-| ↳ | **[Intern, Decider Features](https://jobright.ai/jobs/info/6955b28bf1f8465b79eca827?utm_campaign=1053&utm_source=git)** | NYC - 1211 Ave of the Americas | On Site | Dec 31 |
 | ↳ | **[Intern, Page Six Video](https://jobright.ai/jobs/info/69558cfdaa05c26e7aafd3f4?utm_campaign=1053&utm_source=git)** | NYC - 1211 Ave of the Americas | On Site | Dec 31 |
+| ↳ | **[Intern, Decider Features](https://jobright.ai/jobs/info/6955b28bf1f8465b79eca827?utm_campaign=1053&utm_source=git)** | NYC - 1211 Ave of the Americas | On Site | Dec 31 |
 | ↳ | **[Intern, Decider News](https://jobright.ai/jobs/info/69558301aa05c26e7aafd19d?utm_campaign=1053&utm_source=git)** | NYC - 1211 Ave of the Americas | On Site | Dec 31 |
 | **[House of Good Deeds](http://www.HouseOfGoodDeeds.org)** | **[2026 January-June Internship - House of Good Deeds](https://jobright.ai/jobs/info/695565e79f1b381eb26ec0df?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Dec 31 |
 | **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[IAE Videography Internship - Spring 2026](https://jobright.ai/jobs/info/6955847ff1f8465b79ec85fb?utm_campaign=1053&utm_source=git)** | Tampa, FL | On Site | Dec 31 |
@@ -73,13 +74,11 @@ For a complete list, click the following sortable link below:
 | **[Forbes](https://www.forbesmagazine.com)** | **[Forbes Fellowship](https://jobright.ai/jobs/info/6938afcfaabec14a727d9f94?utm_campaign=1053&utm_source=git)** | Jersey City, NJ | Hybrid | Dec 31 |
 | **[KUTV 2News / KMYU](http://kutv.com/)** | **[Intern - Studio Crew](https://jobright.ai/jobs/info/6954fd13f1f8465b79ec2ae8?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Dec 31 |
 | **[GoMarble AI](https://www.gomarble.ai/)** | **[Content Ops Specialist (Contract/Internship)](https://jobright.ai/jobs/info/6954e1f1aa05c26e7aaf5753?utm_campaign=1053&utm_source=git)** | United States | Remote | Dec 31 |
-| **[Arcwize](https://www.arcwize.com)** | **[Research & Writing Intern](https://jobright.ai/jobs/info/69553546aa05c26e7aaf9f25?utm_campaign=1053&utm_source=git)** | United States | Remote | Dec 30 |
 | **[Indianapolis Colts](http://www.colts.com)** | **[Production Intern](https://jobright.ai/jobs/info/69548acf5bb7de448ef78558?utm_campaign=1053&utm_source=git)** | Indiana Farm Bureau Football Center, 7001 W 56th St, Indianapolis, Indiana, United States of America | On Site | Dec 30 |
 | **[Harris County](https://www.harriscountytx.gov/)** | **[Special Events Intern](https://jobright.ai/jobs/info/695449615bb7de448ef7444a?utm_campaign=1053&utm_source=git)** | Tomball, TX | On Site | Dec 30 |
 | **[Collective Uplift](Cusports.biz)** | **[Videographer](https://jobright.ai/jobs/info/695439ac5bb7de448ef721a3?utm_campaign=1053&utm_source=git)** | Chicago, IL | Hybrid | Dec 30 |
 | **[Akris](http://www.akris.com)** | **[Luxury Market Week Internship (In-Person, Unpaid)](https://jobright.ai/jobs/info/6953f648aa05c26e7aae6f17?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Dec 30 |
 | **[Kentucky Farm Bureau Insurance](http://kyfb.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/6938e875a0dde7020e3187ec?utm_campaign=1053&utm_source=git)** | Louisville, KY | On Site | Dec 30 |
-| **[Globe Life](https://www.globelifeinsurance.com)** | **[Video Production - Summer Internship 2026](https://jobright.ai/jobs/info/69263935f0beb072326233f0?utm_campaign=1053&utm_source=git)** | McKinney, TX | On Site | Dec 30 |
 | **[KEEN](http://www.keenfootwear.com)** | **[Media Studio Intern](https://jobright.ai/jobs/info/69374419aabec14a727c5bf5?utm_campaign=1053&utm_source=git)** | Portland, OR | On Site | Dec 30 |
 | **[Mystic Lake Casino Hotel](https://mysticlake.com/)** | **[Events & Entertainment Intern](https://jobright.ai/jobs/info/68c8ff10f9c6ff7aedf161b7?utm_campaign=1053&utm_source=git)** | Prior Lake, MN | On Site | Dec 30 |
 | **[Pinehurst Resort](https://www.pinehurst.com/)** | **[Golf Operations Intern-No.8-Seasonal](https://jobright.ai/jobs/info/695383d8f1f8465b79eaca60?utm_campaign=1053&utm_source=git)** | Pinehurst, NC | On Site | Dec 29 |
