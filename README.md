@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Epic Games](https://epicgames.com)** | **[Gameplay Animation Intern](https://jobright.ai/jobs/info/69017b0fd5259a1b3cff5421?utm_campaign=1053&utm_source=git)** | Cary, NC | On Site | Jan 02 |
 | **[American Public Health Association](https://www.apha.org)** | **[The Nation's Health Internship: 2026 summer term (June 1 - Aug. 15)](https://jobright.ai/jobs/info/6957818d9f1b381eb2707fe6?utm_campaign=1053&utm_source=git)** | US-DC-Washington | Hybrid | Jan 01 |
 | **[Interactive Brokers](https://www.interactivebrokers.com/en/home.php)** | **[Translation & Media Production Intern](https://jobright.ai/jobs/info/6920d1233f782d2f1afcbce1?utm_campaign=1053&utm_source=git)** | Greenwich, CT | On Site | Jan 01 |
 | **[Gurnee Park District](http://www.gurneeparkdistrict.com)** | **[Recreation Intern](https://jobright.ai/jobs/info/69572c36aa05c26e7ab14440?utm_campaign=1053&utm_source=git)** | Hunt Club Park Community Center - Gurnee, IL 60031 | On Site | Jan 01 |
@@ -74,8 +75,8 @@ For a complete list, click the following sortable link below:
 | **[The Wall Street Journal](https://www.wjs.com/)** | **[Intern, Page Six Video Studio](https://jobright.ai/jobs/info/6955760ff1f8465b79ec7f7c?utm_campaign=1053&utm_source=git)** | NYC - 1211 Ave of the Americas | On Site | Dec 31 |
 | **[Médecins Sans Frontières (MSF)](http://www.msf.org)** | **[Multimedia Production Intern](https://jobright.ai/jobs/info/6931e275d0010831497bc93b?utm_campaign=1053&utm_source=git)** | New York, New York, United States | Hybrid | Dec 31 |
 | **[The Wall Street Journal](https://www.wjs.com/)** | **[Intern, News](https://jobright.ai/jobs/info/6955670bf1f8465b79ec7a4c?utm_campaign=1053&utm_source=git)** | NYC - 1211 Ave of the Americas | On Site | Dec 31 |
-| ↳ | **[Intern, Page Six Video](https://jobright.ai/jobs/info/69558cfdaa05c26e7aafd3f4?utm_campaign=1053&utm_source=git)** | NYC - 1211 Ave of the Americas | On Site | Dec 31 |
 | ↳ | **[Intern, Video Production](https://jobright.ai/jobs/info/6955869df1f8465b79ec868b?utm_campaign=1053&utm_source=git)** | NYC - 1211 Ave of the Americas | On Site | Dec 31 |
+| ↳ | **[Intern, Page Six Video](https://jobright.ai/jobs/info/69558cfdaa05c26e7aafd3f4?utm_campaign=1053&utm_source=git)** | NYC - 1211 Ave of the Americas | On Site | Dec 31 |
 | ↳ | **[Intern, Decider Features](https://jobright.ai/jobs/info/6955b28bf1f8465b79eca827?utm_campaign=1053&utm_source=git)** | NYC - 1211 Ave of the Americas | On Site | Dec 31 |
 | ↳ | **[Intern, Decider News](https://jobright.ai/jobs/info/69558301aa05c26e7aafd19d?utm_campaign=1053&utm_source=git)** | NYC - 1211 Ave of the Americas | On Site | Dec 31 |
 | **[House of Good Deeds](http://www.HouseOfGoodDeeds.org)** | **[2026 January-June Internship - House of Good Deeds](https://jobright.ai/jobs/info/695565e79f1b381eb26ec0df?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Dec 31 |
@@ -96,10 +97,10 @@ For a complete list, click the following sortable link below:
 | **[Ogilvy](https://www.ogilvy.com)** | **[The Ogilvy Group / 2026 Creative Summer Internship - Technical Producer](https://jobright.ai/jobs/info/692ec523ef4b48533d1412d3?utm_campaign=1053&utm_source=git)** | Chicago, Illinois | Hybrid | Dec 29 |
 | **[Quicken Loans](http://www.quickenloans.com/)** | **[Event Operations Intern - Summer 2026](https://jobright.ai/jobs/info/6952c0055bb7de448ef5da35?utm_campaign=1053&utm_source=git)** | Detroit, MI | On Site | Dec 29 |
 | **[City of Irving](https://www.cityofirving.org/2623/Family-Advocacy-Center)** | **[Intern - Production (Part-Time)](https://jobright.ai/jobs/info/69524604935649778e200f5c?utm_campaign=1053&utm_source=git)** | Irving, TX | On Site | Dec 29 |
-| **[Art Bridges Foundation](https://artbridgesfoundation.org)** | **[Art Bridges Summer 2026 Curatorial Internship](https://jobright.ai/jobs/info/6917c46815b415636717b5c0?utm_campaign=1053&utm_source=git)** | Bentonville, AR | On Site | Dec 28 |
-| ↳ | **[Art Bridges Summer 2026 Registration Internship](https://jobright.ai/jobs/info/69346157764507023d1bce6b?utm_campaign=1053&utm_source=git)** | Bentonville, AR | On Site | Dec 28 |
+| **[Art Bridges Foundation](https://artbridgesfoundation.org)** | **[Art Bridges Summer 2026 Registration Internship](https://jobright.ai/jobs/info/69346157764507023d1bce6b?utm_campaign=1053&utm_source=git)** | Bentonville, AR | On Site | Dec 28 |
 | ↳ | **[Art Bridges Academic Year 2026-27 Traveling Exhibitions Internship](https://jobright.ai/jobs/info/6933ac5a764507023d1b808a?utm_campaign=1053&utm_source=git)** | Bentonville, AR | Hybrid | Dec 28 |
 | **[Encore](https://www.encoreglobal.com/)** | **[Event Technology Internship (Spring) - Sheraton Overland Park](https://jobright.ai/jobs/info/69346aa3f131d96e4846aa05?utm_campaign=1053&utm_source=git)** | Overland Park, KS | On Site | Dec 28 |
+| **[Art Bridges Foundation](https://artbridgesfoundation.org)** | **[Art Bridges Summer 2026 Curatorial Internship](https://jobright.ai/jobs/info/6917ce6615b415636717bb43?utm_campaign=1053&utm_source=git)** | Bentonville, AR | On Site | Dec 28 |
 | **[Union Home Mortgage Corp.](https://www.uhm.com/)** | **[Video Content Intern](https://jobright.ai/jobs/info/68984e44faa4e875e824dc8c?utm_campaign=1053&utm_source=git)** | Strongsville, OH | On Site | Dec 28 |
 | **[Jacob's Pillow Dance Festival](https://www.jacobspillow.org)** | **[Company Management Intern](https://jobright.ai/jobs/info/69509703ce13cd1056587d02?utm_campaign=1053&utm_source=git)** | Becket, MA 01223 | On Site | Dec 27 |
 | ↳ | **[Video Documentation Intern](https://jobright.ai/jobs/info/69509942a2668b7f5453860d?utm_campaign=1053&utm_source=git)** | Becket, MA 01223 | On Site | Dec 27 |
@@ -120,5 +121,4 @@ For a complete list, click the following sortable link below:
 | **[Amazon](https://amazon.com)** | **[IP & Literary Intern, Prime Video & Amazon MGM Studios](https://jobright.ai/jobs/info/694f0ef2a2668b7f54524c25?utm_campaign=1053&utm_source=git)** | Culver City, California, USA | On Site | Dec 26 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Assistant Assembly Video Editor - BYU-Pathway Worldwide (Full-Time Intern)](https://jobright.ai/jobs/info/694ef36429655e4dd65876f7?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | Remote | Dec 26 |
 | **[Art Institute of Chicago](http://www.artic.edu/)** | **[McMullan Arts Leadership Intern](https://jobright.ai/jobs/info/694eee34a2668b7f54522b25?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Dec 26 |
-| **[David Yurman](http://www.davidyurman.com)** | **[Styling Intern](https://jobright.ai/jobs/info/6914f55d9c388539cbdeee57?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Dec 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
