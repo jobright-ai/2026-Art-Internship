@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Troon](http://www.troon.com/)** | **[Golf Course Maintenance Intern](https://jobright.ai/jobs/info/693c5aae50bbaf76504fa5e9?utm_campaign=1053&utm_source=git)** | Bend, OR | On Site | Jan 03 |
+| **[David Yurman](http://www.davidyurman.com)** | **[Video Intern](https://jobright.ai/jobs/info/6902807600a1816c41e9ecce?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jan 03 |
+| **[Axis Communications](http://www.axis.com/)** | **[Events Production Intern (Fall/Winter)](https://jobright.ai/jobs/info/693d5762aa598a08c3ee0666?utm_campaign=1053&utm_source=git)** | Chelmsford, MA | On Site | Jan 03 |
 | **[KUTV 2News / KMYU](http://kutv.com/)** | **[Intern - Studio Crew](https://jobright.ai/jobs/info/6958fc25f1f8465b79ef95b6?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Jan 03 |
 | **[Blizzard Entertainment](http://blizzard.com)** | **[2026 US Summer Internships - VFX](https://jobright.ai/jobs/info/68e8572209580a2fe57f6a36?utm_campaign=1053&utm_source=git)** | Irvine, CA | On Site | Jan 03 |
 | **[New York Post](http://nypost.com/)** | **[Intern, Decider Features](https://jobright.ai/jobs/info/6958fa1b9f1b381eb271e215?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jan 03 |
@@ -72,8 +75,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[USGA P.J. Boatwright Sports Internship 2026 - Golf Championships 4 Month](https://jobright.ai/jobs/info/695855ca9f1b381eb2713af6?utm_campaign=1053&utm_source=git)** | Elmsford, NY | On Site | Jan 02 |
 | **[PROJXON](www.projxon.com)** | **[Podcast Videographer (Intern)](https://jobright.ai/jobs/info/69584a0ef1f8465b79eeebcb?utm_campaign=1053&utm_source=git)** | Las Vegas, NV | Remote | Jan 02 |
 | **[Kalamazoo Growlers](http://northwoodsleague.com/kalamazoo-growlers/)** | **[Broadcast Graphics Director Internship 2026](https://jobright.ai/jobs/info/695838ff9f1b381eb2711d59?utm_campaign=1053&utm_source=git)** | Kalamazoo, MI | On Site | Jan 02 |
-| **[Metropolitan Golf Association (MGA)](https://www.mgagolf.org)** | **[USGA P.J. Boatwright Internship 2026 - Member Services](https://jobright.ai/jobs/info/695834fb9f1b381eb2711220?utm_campaign=1053&utm_source=git)** | ELMSFORD, New York, United States | Hybrid | Jan 02 |
-| ↳ | **[USGA P.J. Boatwright Sports Internship 2026 - Golf Championships 4 Month](https://jobright.ai/jobs/info/69583a7bf1f8465b79eedeb0?utm_campaign=1053&utm_source=git)** | ELMSFORD, New York, United States | Hybrid | Jan 02 |
+| **[Metropolitan Golf Association (MGA)](https://www.mgagolf.org)** | **[USGA P.J. Boatwright Sports Internship 2026 - Golf Championships 4 Month](https://jobright.ai/jobs/info/69583a7bf1f8465b79eedeb0?utm_campaign=1053&utm_source=git)** | ELMSFORD, New York, United States | Hybrid | Jan 02 |
+| ↳ | **[USGA P.J. Boatwright Internship 2026 - Member Services](https://jobright.ai/jobs/info/695834fb9f1b381eb2711220?utm_campaign=1053&utm_source=git)** | ELMSFORD, New York, United States | Hybrid | Jan 02 |
 | **[U.S. News & World Report](http://www.usnews.com)** | **[2026 Editorial Intern](https://jobright.ai/jobs/info/693ba58049a7695fbd0299f1?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Jan 02 |
 | ↳ | **[2026 News Intern](https://jobright.ai/jobs/info/6957caefaa05c26e7ab1c909?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Jan 02 |
 | **[Xanterra Travel Collection](http://www.xanterra.com/)** | **[Summer 2026 Golf and Groundskeeping Internship - Oasis at Death Valley](https://jobright.ai/jobs/info/69000a9ce04ac838fb5bea1c?utm_campaign=1053&utm_source=git)** | Death Valley, CA | On Site | Jan 02 |
@@ -114,10 +117,10 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Golf Operations Intern-No.8-Seasonal](https://jobright.ai/jobs/info/695340375bb7de448ef65498?utm_campaign=1053&utm_source=git)** | Pinehurst, NC, USA | On Site | Dec 29 |
 | **[Ogilvy](https://www.ogilvy.com)** | **[The Ogilvy Group / 2026 Creative Summer Internship - Technical Producer](https://jobright.ai/jobs/info/692ec523ef4b48533d1412d3?utm_campaign=1053&utm_source=git)** | Chicago, Illinois | Hybrid | Dec 29 |
 | **[Quicken Loans](http://www.quickenloans.com/)** | **[Event Operations Intern - Summer 2026](https://jobright.ai/jobs/info/6952c0055bb7de448ef5da35?utm_campaign=1053&utm_source=git)** | Detroit, MI | On Site | Dec 29 |
-| **[Art Bridges Foundation](https://artbridgesfoundation.org)** | **[Art Bridges Summer 2026 Curatorial Internship](https://jobright.ai/jobs/info/6917c46815b415636717b5c0?utm_campaign=1053&utm_source=git)** | Bentonville, AR | On Site | Dec 28 |
-| ↳ | **[Art Bridges Summer 2026 Registration Internship](https://jobright.ai/jobs/info/69346157764507023d1bce6b?utm_campaign=1053&utm_source=git)** | Bentonville, AR | On Site | Dec 28 |
+| **[Art Bridges Foundation](https://artbridgesfoundation.org)** | **[Art Bridges Summer 2026 Registration Internship](https://jobright.ai/jobs/info/69346157764507023d1bce6b?utm_campaign=1053&utm_source=git)** | Bentonville, AR | On Site | Dec 28 |
 | ↳ | **[Art Bridges Academic Year 2026-27 Traveling Exhibitions Internship](https://jobright.ai/jobs/info/6933ac5a764507023d1b808a?utm_campaign=1053&utm_source=git)** | Bentonville, AR | Hybrid | Dec 28 |
 | **[Encore](https://www.encoreglobal.com/)** | **[Event Technology Internship (Spring) - Sheraton Overland Park](https://jobright.ai/jobs/info/69346aa3f131d96e4846aa05?utm_campaign=1053&utm_source=git)** | Overland Park, KS | On Site | Dec 28 |
+| **[Art Bridges Foundation](https://artbridgesfoundation.org)** | **[Art Bridges Summer 2026 Curatorial Internship](https://jobright.ai/jobs/info/6917ce6615b415636717bb43?utm_campaign=1053&utm_source=git)** | Bentonville, AR | On Site | Dec 28 |
 | **[Jacob's Pillow Dance Festival](https://www.jacobspillow.org)** | **[Company Management Intern](https://jobright.ai/jobs/info/69509703ce13cd1056587d02?utm_campaign=1053&utm_source=git)** | Becket, MA 01223 | On Site | Dec 27 |
 | ↳ | **[Video Documentation Intern](https://jobright.ai/jobs/info/69509942a2668b7f5453860d?utm_campaign=1053&utm_source=git)** | Becket, MA 01223 | On Site | Dec 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
