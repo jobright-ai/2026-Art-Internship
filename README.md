@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Epcot International Food and Wine 2026 (ALUMNI only)](https://jobright.ai/jobs/info/695a626cf1f8465b79f0a9cb?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | Jan 04 |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Intern](https://jobright.ai/jobs/info/69438f7350bbaf765055966d?utm_campaign=1053&utm_source=git)** | Amarillo, TX | On Site | Jan 04 |
+| ↳ | **[Unpaid Digital Intern](https://jobright.ai/jobs/info/69577852f1f8465b79ee2fb5?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Jan 04 |
 | **[KUTV 2News / KMYU](http://kutv.com/)** | **[Intern - Studio Crew](https://jobright.ai/jobs/info/695a3bc49f1b381eb272cfc5?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Jan 04 |
 | **[Matcha & Marketing LLC](layeredlikematcha.com)** | **[Sports Content Creation Intern (Track & Field/Cross Country)](https://jobright.ai/jobs/info/6959ed03f1f8465b79f04001?utm_campaign=1053&utm_source=git)** | Murfreesboro, TN | Hybrid | Jan 03 |
 | **[Bismarck Larks Baseball Club](https://linktr.ee/bismarcklarks)** | **[2026 Broadcast Camera Director & Video Creation Internship (Free Housing)](https://jobright.ai/jobs/info/69597a649f1b381eb2723c19?utm_campaign=1053&utm_source=git)** | Bismarck, ND | On Site | Jan 03 |
@@ -106,8 +109,8 @@ For a complete list, click the following sortable link below:
 | **[The Wall Street Journal](https://www.wjs.com/)** | **[Intern, Page Six Video Studio](https://jobright.ai/jobs/info/6955760ff1f8465b79ec7f7c?utm_campaign=1053&utm_source=git)** | NYC - 1211 Ave of the Americas | On Site | Dec 31 |
 | **[Médecins Sans Frontières (MSF)](http://www.msf.org)** | **[Multimedia Production Intern](https://jobright.ai/jobs/info/6931e275d0010831497bc93b?utm_campaign=1053&utm_source=git)** | New York, New York, United States | Hybrid | Dec 31 |
 | **[The Wall Street Journal](https://www.wjs.com/)** | **[Intern, News](https://jobright.ai/jobs/info/6955670bf1f8465b79ec7a4c?utm_campaign=1053&utm_source=git)** | NYC - 1211 Ave of the Americas | On Site | Dec 31 |
-| ↳ | **[Intern, Page Six Video](https://jobright.ai/jobs/info/69558cfdaa05c26e7aafd3f4?utm_campaign=1053&utm_source=git)** | NYC - 1211 Ave of the Americas | On Site | Dec 31 |
 | ↳ | **[Intern, Video Production](https://jobright.ai/jobs/info/6955869df1f8465b79ec868b?utm_campaign=1053&utm_source=git)** | NYC - 1211 Ave of the Americas | On Site | Dec 31 |
+| ↳ | **[Intern, Page Six Video](https://jobright.ai/jobs/info/69558cfdaa05c26e7aafd3f4?utm_campaign=1053&utm_source=git)** | NYC - 1211 Ave of the Americas | On Site | Dec 31 |
 | ↳ | **[Intern, Decider Features](https://jobright.ai/jobs/info/6955b28bf1f8465b79eca827?utm_campaign=1053&utm_source=git)** | NYC - 1211 Ave of the Americas | On Site | Dec 31 |
 | ↳ | **[Intern, Decider News](https://jobright.ai/jobs/info/69558301aa05c26e7aafd19d?utm_campaign=1053&utm_source=git)** | NYC - 1211 Ave of the Americas | On Site | Dec 31 |
 | **[House of Good Deeds](http://www.HouseOfGoodDeeds.org)** | **[2026 January-June Internship - House of Good Deeds](https://jobright.ai/jobs/info/695565e79f1b381eb26ec0df?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Dec 31 |
