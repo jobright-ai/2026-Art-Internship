@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[M Booth](http://www.mbooth.com)** | **[Winter Intern, Lifestyle](https://jobright.ai/jobs/info/695bf30faa05c26e7ab547ff?utm_campaign=1053&utm_source=git)** | New York, United States | Hybrid | Jan 05 |
+| **[Western Michigan University](https://wmich.edu/)** | **[Bronco Bash and Homecoming Interns](https://jobright.ai/jobs/info/695bf2b5f1f8465b79f1fca2?utm_campaign=1053&utm_source=git)** | Kalamazoo, MI | On Site | Jan 05 |
+| **[TGR](http://www.thegarnettereport.com)** | **[Spring/Summer Internship](https://jobright.ai/jobs/info/695bf2a1f1f8465b79f1fc53?utm_campaign=1053&utm_source=git)** | NYC Metro Area | On Site | Jan 05 |
+| **[Quotable Media Co](http://quotablemediaco.com)** | **[Editorial Intern- Magazine](https://jobright.ai/jobs/info/695bf1c7aa05c26e7ab543f2?utm_campaign=1053&utm_source=git)** | Boston, MA | Hybrid | Jan 05 |
+| **[D3O](http://www.d3o.com/)** | **[Content Production Intern](https://jobright.ai/jobs/info/695be819f1f8465b79f1e4eb?utm_campaign=1053&utm_source=git)** | Huntington Beach, CA | On Site | Jan 05 |
 | **[City of Irving](https://www.cityofirving.org/2623/Family-Advocacy-Center)** | **[Intern - Production (Part-Time)](https://jobright.ai/jobs/info/695bc2f0aa05c26e7ab51a7b?utm_campaign=1053&utm_source=git)** | Irving, TX | On Site | Jan 05 |
 | **[Ogilvy Health](https://ogilvyhealth.com/)** | **[The Ogilvy Group / 2026 Creative Summer Internship - Technical Producer](https://jobright.ai/jobs/info/69267184d47de4798ecd7598?utm_campaign=1053&utm_source=git)** | Chicago, Illinois | Hybrid | Jan 05 |
 | **[Troon](http://www.troon.com/)** | **[The Colonial Life Charity Classic Championship Intern](https://jobright.ai/jobs/info/68e93d0965768b6412b19b8b?utm_campaign=1053&utm_source=git)** | Elgin, SC | On Site | Jan 05 |
@@ -132,5 +137,4 @@ For a complete list, click the following sortable link below:
 | **[KEEN](http://www.keenfootwear.com)** | **[Media Studio Intern](https://jobright.ai/jobs/info/69374419aabec14a727c5bf5?utm_campaign=1053&utm_source=git)** | Portland, OR | On Site | Dec 30 |
 | **[Mystic Lake Casino Hotel](https://mysticlake.com/)** | **[Events & Entertainment Intern](https://jobright.ai/jobs/info/68c8ff10f9c6ff7aedf161b7?utm_campaign=1053&utm_source=git)** | Prior Lake, MN | On Site | Dec 30 |
 | **[Pinehurst Resort](https://www.pinehurst.com/)** | **[Golf Operations Intern-No.8-Seasonal](https://jobright.ai/jobs/info/695383d8f1f8465b79eaca60?utm_campaign=1053&utm_source=git)** | Pinehurst, NC | On Site | Dec 29 |
-| ↳ | **[Golf Operations Intern-No.8-Seasonal](https://jobright.ai/jobs/info/695340375bb7de448ef65498?utm_campaign=1053&utm_source=git)** | Pinehurst, NC, USA | On Site | Dec 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
