@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[99 Yards](https://99yards.app)** | **[Content Creator (3-Month Unpaid Internship)](https://jobright.ai/jobs/info/695d30c6fbd62a0a6565be61?utm_campaign=1053&utm_source=git)** | NYC Metro Area | Hybrid | Jan 06 |
+| **[Skin Anarchy The Podcast](https://linktr.ee/Skincareanarchy)** | **[Journalism & Editorial Intern](https://jobright.ai/jobs/info/695d2ff8f1f8465b79f35378?utm_campaign=1053&utm_source=git)** | United States | Remote | Jan 06 |
 | **[TINGE](https://tingebeauty.com)** | **[TikTok Intern](https://jobright.ai/jobs/info/695d2387fbd62a0a6565b838?utm_campaign=1053&utm_source=git)** | United States | Remote | Jan 06 |
 | **[American Farm Bureau Federation](http://www.fb.org/)** | **[Studio Broadcasting Intern](https://jobright.ai/jobs/info/695d0e29fbd62a0a6565ab9b?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Jan 06 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[National Geographic Content TV & Film Editorial Research Intern, Summer 2026](https://jobright.ai/jobs/info/695cfcdcfbd62a0a65658b47?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Jan 06 |
@@ -69,7 +71,7 @@ For a complete list, click the following sortable link below:
 | **[Academy of Motion Picture Arts and Sciences](https://www.oscars.org/)** | **[The Black List Intern, Summer 2026 (Gold Rising)](https://jobright.ai/jobs/info/695cc2331dfa954d1c46e189?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | Jan 05 |
 | **[Second String Entertainment](https://www.secondstringentertainment.com)** | **[Video Editing Intern](https://jobright.ai/jobs/info/695c82685e4962051b59a067?utm_campaign=1053&utm_source=git)** | NYC Metro Area | Hybrid | Jan 05 |
 | **[TriCoast Worldwide](http://www.tricoastworldwide.com)** | **[Post Production Intern](https://jobright.ai/jobs/info/695c5fb122c9dc0d3d545a9d?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Jan 05 |
-| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Intern, Business Affairs, Sony Pictures Animation - Spring 2026](https://jobright.ai/jobs/info/695c8544f1f8465b79f2a999?utm_campaign=1053&utm_source=git)** | Los Angeles, California | On Site | Jan 05 |
+| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Intern, Business Affairs, Sony Pictures Animation - Spring 2026](https://jobright.ai/jobs/info/695c82fef1f8465b79f2a765?utm_campaign=1053&utm_source=git)** | Los Angeles, California | On Site | Jan 05 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Development Intern - LN Studios](https://jobright.ai/jobs/info/695c55a3aa05c26e7ab5bf49?utm_campaign=1053&utm_source=git)** | Beverly Hills, CA | On Site | Jan 05 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[News Summer Internship- unpaid](https://jobright.ai/jobs/info/695c4ac4f1f8465b79f2603e?utm_campaign=1053&utm_source=git)** | OH, Columbus | On Site | Jan 05 |
 | **[Educational Media Foundation K-LOVE & Air1 Media Networks](https://www.klove.com)** | **[News Internship](https://jobright.ai/jobs/info/695c42c0f1f8465b79f24c63?utm_campaign=1053&utm_source=git)** | Franklin, TN | On Site | Jan 05 |
@@ -77,7 +79,6 @@ For a complete list, click the following sortable link below:
 | **[Golf Canada](http://golfcanada.ca/)** | **[Student Intern](https://jobright.ai/jobs/info/695c3f32f1f8465b79f2477e?utm_campaign=1053&utm_source=git)** | Caledon, Ontario, Canada | Hybrid | Jan 05 |
 | **[CBS News and Stations](http://www.cbs.com)** | **[Creative Services Intern, WWJ Detroit (Summer 2026)](https://jobright.ai/jobs/info/695c32d3f1f8465b79f23de2?utm_campaign=1053&utm_source=git)** | Southfield, MI | On Site | Jan 05 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[National Geographic Content TV & Film Editorial Research Intern, Summer 2026](https://jobright.ai/jobs/info/695c53b7aa05c26e7ab5bad9?utm_campaign=1053&utm_source=git)** | Washington, DC, USA | Hybrid | Jan 05 |
-| **[SFMOMA San Francisco Museum of Modern Art](https://www.sfmoma.org)** | **[Collections Intern](https://jobright.ai/jobs/info/695c500faa05c26e7ab5b204?utm_campaign=1053&utm_source=git)** | San Francisco, CA | On Site | Jan 05 |
 | **[Charlotte Checkers](http://gocheckers.com)** | **[Video/Editor Internship](https://jobright.ai/jobs/info/695c4ce522c9dc0d3d54381c?utm_campaign=1053&utm_source=git)** | Charlotte, NC | On Site | Jan 05 |
 | **[Kraft Sports + Entertainment](https://www.kraftse.com)** | **[Special Events Intern](https://jobright.ai/jobs/info/695c4929aa05c26e7ab5a405?utm_campaign=1053&utm_source=git)** | Foxborough (Foxboro), MA | On Site | Jan 05 |
 | **[Complex NTWRK](https://www.complex.com)** | **[Editorial Creator Intern - College Credit](https://jobright.ai/jobs/info/68e42046b99ec3563b0e64c9?utm_campaign=1053&utm_source=git)** | New York, United States | On Site | Jan 05 |
@@ -88,8 +89,8 @@ For a complete list, click the following sortable link below:
 | **[Walturn](https://www.walturn.com)** | **[AI Videographer - Internship](https://jobright.ai/jobs/info/695c0fc3f1f8465b79f219fb?utm_campaign=1053&utm_source=git)** | United States | Remote | Jan 05 |
 | **[SFMOMA San Francisco Museum of Modern Art](https://www.sfmoma.org)** | **[Archives and Art Resources: Digital Access and Records Intern](https://jobright.ai/jobs/info/695c0b7522c9dc0d3d53ebc5?utm_campaign=1053&utm_source=git)** | San Francisco, CA | On Site | Jan 05 |
 | **[NBCUniversal](https://www.nbcuniversal.com/)** | **[KTLM News Intern](https://jobright.ai/jobs/info/695c016922c9dc0d3d53e3c7?utm_campaign=1053&utm_source=git)** | McAllen, TX | On Site | Jan 05 |
+| **[SFMOMA San Francisco Museum of Modern Art](https://www.sfmoma.org)** | **[Collections Intern](https://jobright.ai/jobs/info/695c20ddf1f8465b79f22cee?utm_campaign=1053&utm_source=git)** | San Francisco, CA | On Site | Jan 05 |
 | **[INNOCEAN USA](http://www.innoceanusa.com/)** | **[Content Creator INNtern](https://jobright.ai/jobs/info/695c0612f1f8465b79f21259?utm_campaign=1053&utm_source=git)** | Huntington Beach, CA | Hybrid | Jan 05 |
-| **[Omni Fort Worth Hotel](https://www.omnihotels.com/)** | **[Omni Care Intern / Golf Course Maintenance - Summer 2026](https://jobright.ai/jobs/info/695c251faa05c26e7ab57724?utm_campaign=1053&utm_source=git)** | US-TX-Frisco | On Site | Jan 05 |
 | **[M Booth](http://www.mbooth.com)** | **[Winter Intern, Lifestyle](https://jobright.ai/jobs/info/695bf30faa05c26e7ab547ff?utm_campaign=1053&utm_source=git)** | New York, United States | Hybrid | Jan 05 |
 | **[Western Michigan University](https://wmich.edu/)** | **[Bronco Bash and Homecoming Interns](https://jobright.ai/jobs/info/695bf2b5f1f8465b79f1fca2?utm_campaign=1053&utm_source=git)** | Kalamazoo, MI | On Site | Jan 05 |
 | **[Quotable Media Co](http://quotablemediaco.com)** | **[Editorial Intern- Magazine](https://jobright.ai/jobs/info/695bf1c7aa05c26e7ab543f2?utm_campaign=1053&utm_source=git)** | Boston, MA | Hybrid | Jan 05 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Humorist Media](http://www.humoristmedia.com/)** | **[Intern](https://jobright.ai/jobs/info/6955c7ae9f1b381eb26ef55f?utm_campaign=1053&utm_source=git)** | LA Metro Area | Hybrid | Dec 31 |
 | **[Sinclair Inc.](http://sbgi.net/)** | **[News Intern](https://jobright.ai/jobs/info/68e4ad111852e62f0080864b?utm_campaign=1053&utm_source=git)** | Mishawaka, IN | On Site | Dec 31 |
 | **[The Wall Street Journal](https://www.wjs.com/)** | **[Intern, Page Six Video Studio](https://jobright.ai/jobs/info/6955760ff1f8465b79ec7f7c?utm_campaign=1053&utm_source=git)** | NYC - 1211 Ave of the Americas | On Site | Dec 31 |
-| **[Médecins Sans Frontières (MSF)](http://www.msf.org)** | **[Multimedia Production Intern](https://jobright.ai/jobs/info/6931e275d0010831497bc93b?utm_campaign=1053&utm_source=git)** | New York, New York, United States | Hybrid | Dec 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
