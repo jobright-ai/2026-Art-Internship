@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[City of Irving](https://www.cityofirving.org/2623/Family-Advocacy-Center)** | **[Intern - Production (Part-Time)](https://jobright.ai/jobs/info/695cdfe7f1f8465b79f314a3?utm_campaign=1053&utm_source=git)** | Irving, TX | On Site | Jan 06 |
 | **[Telefèric Barcelona Restaurant Group](https://www.telefericbarcelona.com)** | **[F&B Internship, California USA](https://jobright.ai/jobs/info/695cbf3ef1f8465b79f2ea44?utm_campaign=1053&utm_source=git)** | California, United States | On Site | Jan 05 |
 | **[Academy Museum of Motion Pictures](http://academymuseum.org)** | **[The Black List Intern, Summer 2026 (Gold Rising)](https://jobright.ai/jobs/info/695cb80ef1f8465b79f2e3fb?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | Jan 05 |
 | ↳ | **[Monkeypaw Productions Development Intern, Summer 2026 (Gold Rising)](https://jobright.ai/jobs/info/695cb6935e4962051b59dd8f?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Jan 05 |
@@ -105,8 +106,8 @@ For a complete list, click the following sortable link below:
 | **[Bank Shot Basketball](http://www.bankshotbasketball.com)** | **[Volunteer Intern Writer – Black Coaches Classic](https://jobright.ai/jobs/info/695cb09ff1f8465b79f2dfe8?utm_campaign=1053&utm_source=git)** | Boston, MA | On Site | Jan 04 |
 | **[Real Art Daily (RAD) Productions](http://radprod.com/)** | **[3D Animation Intern](https://jobright.ai/jobs/info/695a7ffb9f1b381eb2731da5?utm_campaign=1053&utm_source=git)** | California, United States | Remote | Jan 04 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Epcot International Food and Wine 2026 (ALUMNI only)](https://jobright.ai/jobs/info/695a626cf1f8465b79f0a9cb?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | Jan 04 |
-| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Digital Intern](https://jobright.ai/jobs/info/6903eed5ff462851feff0d28?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Jan 04 |
-| ↳ | **[Unpaid Intern](https://jobright.ai/jobs/info/69438f7350bbaf765055966d?utm_campaign=1053&utm_source=git)** | Amarillo, TX | On Site | Jan 04 |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Intern](https://jobright.ai/jobs/info/69438f7350bbaf765055966d?utm_campaign=1053&utm_source=git)** | Amarillo, TX | On Site | Jan 04 |
+| ↳ | **[Unpaid Digital Intern](https://jobright.ai/jobs/info/69577852f1f8465b79ee2fb5?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Jan 04 |
 | **[The Sporting News](http://www.sportingnews.com)** | **[Editorial Intern News - Spring 2026](https://jobright.ai/jobs/info/6920f7483f782d2f1afcd80a?utm_campaign=1053&utm_source=git)** | Charlotte, NC | Hybrid | Jan 04 |
 | **[WESH 2 CW18](http://wesh.com)** | **[WESH Intern](https://jobright.ai/jobs/info/693d7e1950bbaf76505085dd?utm_campaign=1053&utm_source=git)** | Winter Park, FL | On Site | Jan 04 |
 | **[Matcha & Marketing LLC](layeredlikematcha.com)** | **[Sports Content Creation Intern (Track & Field/Cross Country)](https://jobright.ai/jobs/info/6959ed03f1f8465b79f04001?utm_campaign=1053&utm_source=git)** | Murfreesboro, TN | Hybrid | Jan 03 |
@@ -132,8 +133,8 @@ For a complete list, click the following sortable link below:
 | **[Bismarck Larks Baseball Club](https://linktr.ee/bismarcklarks)** | **[2026 Content Creator & Camera Operator Internship (Free Housing)](https://jobright.ai/jobs/info/6958336af1f8465b79eec9da?utm_campaign=1053&utm_source=git)** | Bismarck, ND | On Site | Jan 02 |
 | **[Metropolitan Golf Association (MGA)](https://www.mgagolf.org)** | **[USGA P.J. Boatwright Internship 2026 - Member Services](https://jobright.ai/jobs/info/695854fc9f1b381eb2713ab5?utm_campaign=1053&utm_source=git)** | Elmsford, NY | On Site | Jan 02 |
 | ↳ | **[USGA P.J. Boatwright Sports Internship 2026 - Golf Championships 4 Month](https://jobright.ai/jobs/info/695855ca9f1b381eb2713af6?utm_campaign=1053&utm_source=git)** | Elmsford, NY | On Site | Jan 02 |
-| ↳ | **[USGA P.J. Boatwright Sports Internship 2026 - Golf Championships 4 Month](https://jobright.ai/jobs/info/69583a7bf1f8465b79eedeb0?utm_campaign=1053&utm_source=git)** | ELMSFORD, New York, United States | Hybrid | Jan 02 |
 | ↳ | **[USGA P.J. Boatwright Internship 2026 - Member Services](https://jobright.ai/jobs/info/695834fb9f1b381eb2711220?utm_campaign=1053&utm_source=git)** | ELMSFORD, New York, United States | Hybrid | Jan 02 |
+| ↳ | **[USGA P.J. Boatwright Sports Internship 2026 - Golf Championships 4 Month](https://jobright.ai/jobs/info/69583a7bf1f8465b79eedeb0?utm_campaign=1053&utm_source=git)** | ELMSFORD, New York, United States | Hybrid | Jan 02 |
 | **[U.S. News & World Report](http://www.usnews.com)** | **[2026 Editorial Intern](https://jobright.ai/jobs/info/693ba58049a7695fbd0299f1?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Jan 02 |
 | ↳ | **[2026 News Intern](https://jobright.ai/jobs/info/6957caefaa05c26e7ab1c909?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Jan 02 |
 | **[Xanterra Travel Collection](http://www.xanterra.com/)** | **[Summer 2026 Golf and Groundskeeping Internship - Oasis at Death Valley](https://jobright.ai/jobs/info/69000a9ce04ac838fb5bea1c?utm_campaign=1053&utm_source=git)** | Death Valley, CA | On Site | Jan 02 |
@@ -153,8 +154,7 @@ For a complete list, click the following sortable link below:
 | **[Médecins Sans Frontières (MSF)](http://www.msf.org)** | **[Multimedia Production Intern](https://jobright.ai/jobs/info/6931e275d0010831497bc93b?utm_campaign=1053&utm_source=git)** | New York, New York, United States | Hybrid | Dec 31 |
 | **[The Wall Street Journal](https://www.wjs.com/)** | **[Intern, News](https://jobright.ai/jobs/info/6955670bf1f8465b79ec7a4c?utm_campaign=1053&utm_source=git)** | NYC - 1211 Ave of the Americas | On Site | Dec 31 |
 | ↳ | **[Intern, Video Production](https://jobright.ai/jobs/info/6955869df1f8465b79ec868b?utm_campaign=1053&utm_source=git)** | NYC - 1211 Ave of the Americas | On Site | Dec 31 |
-| ↳ | **[Intern, Page Six Video](https://jobright.ai/jobs/info/69558cfdaa05c26e7aafd3f4?utm_campaign=1053&utm_source=git)** | NYC - 1211 Ave of the Americas | On Site | Dec 31 |
 | ↳ | **[Intern, Decider Features](https://jobright.ai/jobs/info/6955b28bf1f8465b79eca827?utm_campaign=1053&utm_source=git)** | NYC - 1211 Ave of the Americas | On Site | Dec 31 |
+| ↳ | **[Intern, Page Six Video](https://jobright.ai/jobs/info/69558cfdaa05c26e7aafd3f4?utm_campaign=1053&utm_source=git)** | NYC - 1211 Ave of the Americas | On Site | Dec 31 |
 | ↳ | **[Intern, Decider News](https://jobright.ai/jobs/info/69558301aa05c26e7aafd19d?utm_campaign=1053&utm_source=git)** | NYC - 1211 Ave of the Americas | On Site | Dec 31 |
-| **[Realtor.com](https://www.realtor.com/)** | **[Intern - News and Insights](https://jobright.ai/jobs/info/69388a5bb95c305f206dba98?utm_campaign=1053&utm_source=git)** | Austin, TX | Hybrid | Dec 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
