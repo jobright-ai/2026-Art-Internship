@@ -57,13 +57,20 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Grayson Sky](https://www.graysonsky.com/)** | **[Video Editor/Videographer Intern](https://jobright.ai/jobs/info/69602311a1bbea1d9a7af355?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Jan 08 |
+| **[Lee Enterprises](http://lee.net/)** | **[Summer News Reporting Internship-Bismarck, ND](https://jobright.ai/jobs/info/69601b507ebc25398eb60794?utm_campaign=1053&utm_source=git)** | Bismarck, ND, USA | On Site | Jan 08 |
+| **[Paramount](https://www.paramount.com)** | **[CBS Sports HQ Streaming PA Internship (Summer 2026, In Person - Stamford, CT)](https://jobright.ai/jobs/info/696008c9a112b402660ebae1?utm_campaign=1053&utm_source=git)** | Stamford, CT | On Site | Jan 08 |
+| **[H15DEN](https://h15den.com)** | **[Patreon Manager Internship](https://jobright.ai/jobs/info/6960082aa112b402660eba2d?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Remote | Jan 08 |
+| **[Color Beyond](www.colorbeyond.com)** | **[Studio & Production Operations Intern](https://jobright.ai/jobs/info/6960219aa1bbea1d9a7af175?utm_campaign=1053&utm_source=git)** | Cleveland, OH | On Site | Jan 08 |
 | **[Raising Cane's Chicken Fingers](http://www.RaisingCanes.com)** | **[Intern - Communications Multimedia](https://jobright.ai/jobs/info/695ff977a1bbea1d9a7ac40b?utm_campaign=1053&utm_source=git)** | Plano, TX | On Site | Jan 08 |
 | **[LuminoCity Festival](https://luminocityfestival.com)** | **[Production Intern (Bilingual English/Chinese)](https://jobright.ai/jobs/info/695ff62fa1bbea1d9a7ac234?utm_campaign=1053&utm_source=git)** | NYC Metro Area | On Site | Jan 08 |
 | **[Johnson Controls](http://www.johnsoncontrols.com)** | **[Multimedia Intern](https://jobright.ai/jobs/info/695ff385a112b402660ea8a9?utm_campaign=1053&utm_source=git)** | Milwaukee-Wisconsin-United States of America | Hybrid | Jan 08 |
+| **[U-Haul](http://www.uhaul.com/)** | **[Video Production Intern](https://jobright.ai/jobs/info/69601538a1bbea1d9a7ae240?utm_campaign=1053&utm_source=git)** | Phoenix, Arizona | On Site | Jan 08 |
+| **[Color Beyond](www.colorbeyond.com)** | **[Video Editor Intern](https://jobright.ai/jobs/info/69600fd1a112b402660ec2d1?utm_campaign=1053&utm_source=git)** | Cleveland, OH | On Site | Jan 08 |
 | **[LoveLane](https://www.lovelane.co)** | **[Tiktok content creator - app start-up (unpaid) - remote US](https://jobright.ai/jobs/info/695ffa087ebc25398eb5e4c2?utm_campaign=1053&utm_source=git)** | United States | Remote | Jan 08 |
 | **[Flextrip](flextriptravel.com)** | **[Blog and Writing Intern](https://jobright.ai/jobs/info/695fd7927ebc25398eb5b2ac?utm_campaign=1053&utm_source=git)** | United States | Remote | Jan 08 |
 | **[David Yurman](http://www.davidyurman.com)** | **[Video Editor Intern, E-Comm](https://jobright.ai/jobs/info/6943736f50bbaf7650556478?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Jan 08 |
-| **[WAVY-TV 10](http://wavy.com)** | **[WAVY Unpaid Hampton Roads Show/Production Intern, Summer Semester 2026](https://jobright.ai/jobs/info/69436d3594730b73987687c4?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Jan 08 |
+| **[WAVY-TV 10](http://wavy.com)** | **[WAVY Unpaid Hampton Roads Show/Production Intern, Summer Semester 2026](https://jobright.ai/jobs/info/6943685e94730b7398768007?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Jan 08 |
 | **[Yellowstone Club](https://www.yellowstoneclub.com/)** | **[PGA Intern - Summer 2026](https://jobright.ai/jobs/info/68f3125976a51a4307bcabf9?utm_campaign=1053&utm_source=git)** | Big Sky, MT | On Site | Jan 08 |
 | **[U.S. News & World Report](http://www.usnews.com)** | **[2026 News Intern](https://jobright.ai/jobs/info/695ec9d30badca5763af40ce?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Jan 08 |
 | **[AAAS](http://www.aaas.org/)** | **[Newsletter Intern](https://jobright.ai/jobs/info/694345be50bbaf7650552b12?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Jan 08 |
@@ -72,6 +79,7 @@ For a complete list, click the following sortable link below:
 | **[WAVY-TV 10](http://wavy.com)** | **[WAVY Unpaid Sports Intern, Summer Semester 2026](https://jobright.ai/jobs/info/6943686294730b7398768010?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Jan 08 |
 | ↳ | **[WAVY Unpaid Digital News Desk Intern, Summer 2026](https://jobright.ai/jobs/info/6943624650bbaf765055485d?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Jan 08 |
 | **[The State University of New York](http://www.suny.edu/)** | **[Multimedia Production Intern](https://jobright.ai/jobs/info/690a6177bcccf20de59e184c?utm_campaign=1053&utm_source=git)** | Albany, NY | On Site | Jan 08 |
+| **[Florida State University](http://www.fsu.edu/)** | **[Technical Theater Summer 2026 Intern (OPS)](https://jobright.ai/jobs/info/69601108a112b402660ec48e?utm_campaign=1053&utm_source=git)** | Sarasota, FL | On Site | Jan 08 |
 | **[SOLV Energy](https://www.solvenergy.com/)** | **[Video Editor & Digital Media Intern](https://jobright.ai/jobs/info/695f49f10badca5763afc667?utm_campaign=1053&utm_source=git)** | San Diego, CA | On Site | Jan 07 |
 | **[A.N. Publishing](https://www.anpublishing.com/)** | **[Journalism Editor Internship (POC Society Platform)](https://jobright.ai/jobs/info/695f33dc0badca5763afbbeb?utm_campaign=1053&utm_source=git)** | New York County, NY | Remote | Jan 07 |
 | **[Tumbling Dumpling Media](https://www.linkedin.com/company/109629621)** | **[Editorial Intern](https://jobright.ai/jobs/info/695f2d10a112b402660df593?utm_campaign=1053&utm_source=git)** | United States | Remote | Jan 07 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[American Chemical Society](https://www.acs.org/)** | **[Awards Program Assistant Intern​](https://jobright.ai/jobs/info/695d6ffff1f8465b79f39b90?utm_campaign=1053&utm_source=git)** | Washington, District of Columbia, United States | Hybrid | Jan 06 |
 | **[NEAT: The Agency](https://neattheagency.com)** | **[Content Creator Intern](https://jobright.ai/jobs/info/695d697df1f8465b79f393cc?utm_campaign=1053&utm_source=git)** | Louisville, KY | Hybrid | Jan 06 |
 | **[TINGE](https://tingebeauty.com)** | **[TikTok Intern](https://jobright.ai/jobs/info/695d2387fbd62a0a6565b838?utm_campaign=1053&utm_source=git)** | United States | Remote | Jan 06 |
-| **[INNOCEAN USA](http://www.innoceanusa.com/)** | **[Content Creator INNtern](https://jobright.ai/jobs/info/695c0612f1f8465b79f21259?utm_campaign=1053&utm_source=git)** | Huntington Beach, CA | Hybrid | Jan 06 |
-| **[American Farm Bureau Federation](http://www.fb.org/)** | **[Studio Broadcasting Intern](https://jobright.ai/jobs/info/695d0e29fbd62a0a6565ab9b?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Jan 06 |
-| **[Corsair](http://www.corsair.com)** | **[Creative Video/Paid Social Intern](https://jobright.ai/jobs/info/69406eb649a7695fbd05f036?utm_campaign=1053&utm_source=git)** | Milpitas, CA | On Site | Jan 06 |
-| ↳ | **[Elgato Video Editing Intern](https://jobright.ai/jobs/info/6940783550bbaf765052777c?utm_campaign=1053&utm_source=git)** | Milpitas, CA | On Site | Jan 06 |
-| **[Telefèric Barcelona Restaurant Group](https://www.telefericbarcelona.com)** | **[F&B Internship, California USA](https://jobright.ai/jobs/info/695cbf3ef1f8465b79f2ea44?utm_campaign=1053&utm_source=git)** | California, United States | On Site | Jan 05 |
-| **[Academy Museum of Motion Pictures](http://academymuseum.org)** | **[The Black List Intern, Summer 2026 (Gold Rising)](https://jobright.ai/jobs/info/695cb80ef1f8465b79f2e3fb?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | Jan 05 |
-| ↳ | **[Monkeypaw Productions Development Intern, Summer 2026 (Gold Rising)](https://jobright.ai/jobs/info/695cb6935e4962051b59dd8f?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Jan 05 |
-| **[Academy of Motion Picture Arts and Sciences](https://www.oscars.org/)** | **[The Black List Intern, Summer 2026 (Gold Rising)](https://jobright.ai/jobs/info/695cc2331dfa954d1c46e189?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | Jan 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
