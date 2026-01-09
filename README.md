@@ -57,7 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Encore](https://www.encoreglobal.com/)** | **[Event Technology Internship (Spring semester)- JW Marriott Marco Island Resort](https://jobright.ai/jobs/info/68e48454b99ec3563b0eb1a8?utm_campaign=1053&utm_source=git)** | Marco Island, FL | On Site | Jan 09 |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Disney Theatrical Production Intern, Summer 2026](https://jobright.ai/jobs/info/695e65a1a112b402660d23c5?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jan 09 |
 | **[Bass Pro Shops](https://www.basspro.com)** | **[Intern- Golf Maintenance](https://jobright.ai/jobs/info/68f0012e9821486c423c886a?utm_campaign=1053&utm_source=git)** | Ridgedale, MO | On Site | Jan 09 |
+| **[WAVY-TV 10](http://wavy.com)** | **[WAVY Unpaid Sports Intern, Summer Semester 2026](https://jobright.ai/jobs/info/6944baa750bbaf765056d1fa?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Jan 09 |
 | **[KMBC 9](https://www.kmbc.com/#)** | **[KMBC Studio Productions Intern](https://jobright.ai/jobs/info/6944d0b594730b7398780ef3?utm_campaign=1053&utm_source=git)** | Kansas City, MO | On Site | Jan 09 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[National Geographic Documentary Films Intern, Summer 2026](https://jobright.ai/jobs/info/6960c6eda1bbea1d9a7b8219?utm_campaign=1053&utm_source=git)** | Burbank, CA, USA | Hybrid | Jan 09 |
 | **[Andrews McMeel Universal](http://www.amuniversal.com/)** | **[Intern, Quirk Books Imprint](https://jobright.ai/jobs/info/6960b7d17ebc25398eb696a9?utm_campaign=1053&utm_source=git)** | Philadelphia, PA 19106 | On Site | Jan 09 |
@@ -107,12 +110,11 @@ For a complete list, click the following sortable link below:
 | **[Houston Livestock Show and Rodeo](https://www.rodeohouston.com/)** | **[Intern](https://jobright.ai/jobs/info/695f1875a112b402660ddec7?utm_campaign=1053&utm_source=git)** | Houston, TX | On Site | Jan 07 |
 | **[American Public Media Group](https://fitzgeraldtheater.publicradio.org)** | **[Intern, On-Demand - LAist](https://jobright.ai/jobs/info/695f1ab0a1bbea1d9a79f81c?utm_campaign=1053&utm_source=git)** | Pasadena, California, United States | On Site | Jan 07 |
 | **[Temecula City Lifestyle](www.citylifestyle.com/temecula)** | **[Editorial Internship](https://jobright.ai/jobs/info/695f1a6aa112b402660de28b?utm_campaign=1053&utm_source=git)** | Temecula, CA | Hybrid | Jan 07 |
-| **[Peter Millar](http://www.petermillar.com/)** | **[Embroidery Internship](https://jobright.ai/jobs/info/695f026e0badca5763af7ac6?utm_campaign=1053&utm_source=git)** | Research Triangle Park, NC | On Site | Jan 07 |
-| ↳ | **[Video Production Internship](https://jobright.ai/jobs/info/695f02d00badca5763af7b1b?utm_campaign=1053&utm_source=git)** | Raleigh, NC | On Site | Jan 07 |
+| **[Peter Millar](http://www.petermillar.com/)** | **[Video Production Internship](https://jobright.ai/jobs/info/695f02d00badca5763af7b1b?utm_campaign=1053&utm_source=git)** | Raleigh, NC | On Site | Jan 07 |
+| ↳ | **[Embroidery Internship](https://jobright.ai/jobs/info/695f026e0badca5763af7ac6?utm_campaign=1053&utm_source=git)** | Research Triangle Park, NC | On Site | Jan 07 |
 | **[Appalachian State University](http://www.appstate.edu/)** | **[Exhibition Assistant III](https://jobright.ai/jobs/info/695ed90c0badca5763af507f?utm_campaign=1053&utm_source=git)** | Boone, NC | On Site | Jan 07 |
 | **[Florida League of Cities](https://www.floridaleagueofcities.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/695ed65708ab990f282a21ab?utm_campaign=1053&utm_source=git)** | TALLAHASSEE, Tallahassee, FL, US | On Site | Jan 07 |
 | **[Formlabs](http://www.formlabs.com)** | **[Video Content Creator Intern (Summer 2026)](https://jobright.ai/jobs/info/695ed5440badca5763af4b51?utm_campaign=1053&utm_source=git)** | Somerville, MA | On Site | Jan 07 |
-| **[KUTV 2News / KMYU](http://kutv.com/)** | **[Intern - Studio Crew](https://jobright.ai/jobs/info/695ef789a112b402660db2c3?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Jan 07 |
 | **[KnowBe4](http://www.KnowBe4.com)** | **[Social Media Production Intern (Hybrid)](https://jobright.ai/jobs/info/6945fb1bd1953b5d11bf09aa?utm_campaign=1053&utm_source=git)** | Clearwater, FL | Hybrid | Jan 07 |
 | **[TMZ](http://www.tmz.com/)** | **[TMZ Sports Intern - Spring 2026](https://jobright.ai/jobs/info/695ec0e2a112b402660d75cd?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Jan 07 |
 | **[Paramount](https://www.paramount.com)** | **[CBS Sports Golazo Internship (Summer 2026, In Person - Stamford, CT)](https://jobright.ai/jobs/info/695ebff608ab990f282a09e4?utm_campaign=1053&utm_source=git)** | Stamford, CT | On Site | Jan 07 |
@@ -139,7 +141,6 @@ For a complete list, click the following sortable link below:
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Disney Theatrical Live Events Intern, Summer 2026](https://jobright.ai/jobs/info/695e5c84a112b402660d1ef0?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jan 07 |
 | **[Crystal Bridges Museum of American Art](http://crystalbridges.org)** | **[2026 Art Prep Intern: Summer (Housing Not Included)](https://jobright.ai/jobs/info/6941f39b50bbaf765053c48c?utm_campaign=1053&utm_source=git)** | Bentonville, AR | On Site | Jan 07 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Epcot International Food and Wine 2026 (ALUMNI only)](https://jobright.ai/jobs/info/695a626cf1f8465b79f0a9cb?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | Jan 07 |
-| ↳ | **[Disney Theatrical Production Intern, Summer 2026](https://jobright.ai/jobs/info/695e65a1a112b402660d23c5?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jan 07 |
 | **[Disney Theatrical Group](https://disneyonbroadway.com)** | **[Disney Theatrical Production Intern, Summer 2026](https://jobright.ai/jobs/info/695e860ba112b402660d35bc?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jan 07 |
 | ↳ | **[Disney Theatrical Live Events Intern, Summer 2026](https://jobright.ai/jobs/info/695e853908ab990f2829cb4f?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jan 07 |
 | **[Greater Public](https://www.greaterpublic.org)** | **[Jon R. Tuttle Internship](https://jobright.ai/jobs/info/695e282e3c6a895ac5eefc50?utm_campaign=1053&utm_source=git)** | Portland, OR | Hybrid | Jan 07 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Lot Stop Distribution LLC](https://www.linkedin.com/company/27026323)** | **[TikTok Content Creator Intern – Part-Time / Hybrid (NYC-Based) / NOHO, NYC](https://jobright.ai/jobs/info/6960f603a112b402660f829c?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Jan 06 |
 | **[The Nevada Independent](https://thenevadaindependent.com/)** | **[Spring 2026 Spanish Internship](https://jobright.ai/jobs/info/695daa0cf5f3c43f38e28ff0?utm_campaign=1053&utm_source=git)** | Nevada, United States | Remote | Jan 06 |
 | **[LaForce](https://laforce.nyc/)** | **[Summer 2026 Intern](https://jobright.ai/jobs/info/695d851ffbd62a0a65662407?utm_campaign=1053&utm_source=git)** | NYC Metro Area | Hybrid | Jan 06 |
-| **[Destination by Hyatt](https://www.thewoodmark.com/still-spa.htm)** | **[Turf Internship – The Club at Spruce Peak – Summer 2026](https://jobright.ai/jobs/info/695d723bf5f3c43f38e23e94?utm_campaign=1053&utm_source=git)** | Stowe, VT | On Site | Jan 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
