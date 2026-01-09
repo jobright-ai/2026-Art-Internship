@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Reaching & Rooted](https://www.reachingandrooted.org/home-page)** | **[Publishing Intern](https://jobright.ai/jobs/info/6961475ba112b402660fcdc3?utm_campaign=1053&utm_source=git)** | United States | Remote | Jan 09 |
+| **[Colorado Open Golf Foundation](http://www.coloradoopen.com)** | **[Colorado Open Championships Intern](https://jobright.ai/jobs/info/69614532f3f4cd1325063e67?utm_campaign=1053&utm_source=git)** | Denver, CO | On Site | Jan 09 |
+| **[Inc. Magazine](http://www.inc.com)** | **[Editorial Intern](https://jobright.ai/jobs/info/6961337ea112b402660fbc6e?utm_campaign=1053&utm_source=git)** | NYC Metro Area | Hybrid | Jan 09 |
 | **[Encore](https://www.encoreglobal.com/)** | **[Event Technology Internship (Spring semester)- JW Marriott Marco Island Resort](https://jobright.ai/jobs/info/68e48454b99ec3563b0eb1a8?utm_campaign=1053&utm_source=git)** | Marco Island, FL | On Site | Jan 09 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Disney Theatrical Production Intern, Summer 2026](https://jobright.ai/jobs/info/695e65a1a112b402660d23c5?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jan 09 |
 | **[Bass Pro Shops](https://www.basspro.com)** | **[Intern- Golf Maintenance](https://jobright.ai/jobs/info/68f0012e9821486c423c886a?utm_campaign=1053&utm_source=git)** | Ridgedale, MO | On Site | Jan 09 |
@@ -72,7 +75,6 @@ For a complete list, click the following sortable link below:
 | **[Academy Museum of Motion Pictures](http://academymuseum.org)** | **[STARZ Original Programming Intern, Summer 2026 (Gold Rising)](https://jobright.ai/jobs/info/69606560a112b402660f27d5?utm_campaign=1053&utm_source=git)** | Santa Monica, CA | On Site | Jan 08 |
 | **[Academy of Motion Picture Arts and Sciences](https://www.oscars.org/)** | **[STARZ Original Programming Intern, Summer 2026 (Gold Rising)](https://jobright.ai/jobs/info/696059cfa1bbea1d9a7b35d2?utm_campaign=1053&utm_source=git)** | Santa Monica, CA | On Site | Jan 08 |
 | **[Sitka Fine Arts Camp](https://www.fineartscamp.org)** | **[Technical Theater Intern – Seasonal (Summer 2026)](https://jobright.ai/jobs/info/69605791a1bbea1d9a7b33cd?utm_campaign=1053&utm_source=git)** | Sitka, AK | On Site | Jan 08 |
-| **[Lupine Creative](https://lupinecreative.com)** | **[Production Intern](https://jobright.ai/jobs/info/6960526fa112b402660f18a6?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | Jan 08 |
 | **[Presque Isle Light Station | Lake Erie Lights of PA](http://presqueislelighthouse.org)** | **[Intern (3 positions available)](https://jobright.ai/jobs/info/696075447ebc25398eb66b50?utm_campaign=1053&utm_source=git)** | Erie, PA | On Site | Jan 08 |
 | **[Reno Aces](http://www.renoaces.com)** | **[Event Production and Game Entertainment Internship](https://jobright.ai/jobs/info/696036fda1bbea1d9a7b15d6?utm_campaign=1053&utm_source=git)** | Reno, NV | On Site | Jan 08 |
 | **[New College of Florida](https://www.ncf.edu/)** | **[Student Assistant, Livestream/Stats/Gameday Broadcast](https://jobright.ai/jobs/info/69603649a112b402660efd72?utm_campaign=1053&utm_source=git)** | Sarasota, FL | On Site | Jan 08 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Community Impact](https://communityimpact.com)** | **[Editorial Intern Spring Internship - Austin, TX](https://jobright.ai/jobs/info/695dbd23f1f8465b79f40274?utm_campaign=1053&utm_source=git)** | Pflugerville,TX,US | On Site | Jan 06 |
 | **[Jomboy Media](https://jomboymedia.com)** | **[Social Editor Internship- Jolly Olive - Spring 2026](https://jobright.ai/jobs/info/695dba3defe5dd5cbd3d8ec3?utm_campaign=1053&utm_source=git)** | New York, New York, United States | On Site | Jan 06 |
 | **[Lot Stop Distribution LLC](https://www.linkedin.com/company/27026323)** | **[TikTok Content Creator Intern – Part-Time / Hybrid (NYC-Based) / NOHO, NYC](https://jobright.ai/jobs/info/6960f603a112b402660f829c?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Jan 06 |
-| **[The Nevada Independent](https://thenevadaindependent.com/)** | **[Spring 2026 Spanish Internship](https://jobright.ai/jobs/info/695daa0cf5f3c43f38e28ff0?utm_campaign=1053&utm_source=git)** | Nevada, United States | Remote | Jan 06 |
-| **[LaForce](https://laforce.nyc/)** | **[Summer 2026 Intern](https://jobright.ai/jobs/info/695d851ffbd62a0a65662407?utm_campaign=1053&utm_source=git)** | NYC Metro Area | Hybrid | Jan 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
