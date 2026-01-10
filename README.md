@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Paramount](https://www.paramount.com)** | **[CBS Sports Production and Production Management Internships (Summer 2026, In Person - NYC)](https://jobright.ai/jobs/info/6945fb6b63141d18845598ea?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jan 10 |
+| **[CBS News and Stations](http://www.cbs.com)** | **[CBS News Intern, KCNC Denver (Summer 2026)](https://jobright.ai/jobs/info/6945b0aa951654073537cb18?utm_campaign=1053&utm_source=git)** | Denver, CO | On Site | Jan 10 |
 | **[WISN-TV](https://www.wisn.com)** | **[WISN Spring Intern](https://jobright.ai/jobs/info/6961cbecf3f4cd132506cd7a?utm_campaign=1053&utm_source=git)** | Milwaukee, WI | On Site | Jan 09 |
 | **[Premier Lacrosse League](https://www.premierlacrosseleague.com/)** | **[TLN Video Editing Intern](https://jobright.ai/jobs/info/6961c6a0a112b4026610552f?utm_campaign=1053&utm_source=git)** | United States | Remote | Jan 09 |
 | **[Portland Timbers](http://www.timbers.com)** | **[Special Events Intern](https://jobright.ai/jobs/info/6961c457a112b402661053e4?utm_campaign=1053&utm_source=git)** | Portland, OR | On Site | Jan 09 |
@@ -107,13 +109,13 @@ For a complete list, click the following sortable link below:
 | **[U-Haul](http://www.uhaul.com/)** | **[Video Production Intern](https://jobright.ai/jobs/info/69601538a1bbea1d9a7ae240?utm_campaign=1053&utm_source=git)** | Phoenix, Arizona | On Site | Jan 08 |
 | **[LoveLane](https://www.lovelane.co)** | **[Tiktok content creator - app start-up (unpaid) - remote US](https://jobright.ai/jobs/info/695ffa087ebc25398eb5e4c2?utm_campaign=1053&utm_source=git)** | United States | Remote | Jan 08 |
 | **[David Yurman](http://www.davidyurman.com)** | **[Video Editor Intern, E-Comm](https://jobright.ai/jobs/info/6943736f50bbaf7650556478?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Jan 08 |
+| **[WAVY-TV 10](http://wavy.com)** | **[WAVY Unpaid Hampton Roads Show/Production Intern, Summer Semester 2026](https://jobright.ai/jobs/info/6943685e94730b7398768007?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Jan 08 |
 | **[Yellowstone Club](https://www.yellowstoneclub.com/)** | **[PGA Intern - Summer 2026](https://jobright.ai/jobs/info/68f3125976a51a4307bcabf9?utm_campaign=1053&utm_source=git)** | Big Sky, MT | On Site | Jan 08 |
 | **[U.S. News & World Report](http://www.usnews.com)** | **[2026 News Intern](https://jobright.ai/jobs/info/695ec9d30badca5763af40ce?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Jan 08 |
 | **[AAAS](http://www.aaas.org/)** | **[Newsletter Intern](https://jobright.ai/jobs/info/694345be50bbaf7650552b12?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Jan 08 |
 | **[Advisors Excel](http://advisorsexcel.com)** | **[Copy Editor Intern](https://jobright.ai/jobs/info/690ac9914a1b456627b0b5c8?utm_campaign=1053&utm_source=git)** | Topeka Metropolitan Area | On Site | Jan 08 |
 | **[ANDMORE®](http://www.imcenters.com)** | **[Internship (Educational Credit)](https://jobright.ai/jobs/info/6943839c94730b739876a0ed?utm_campaign=1053&utm_source=git)** | Atlanta, GA | Hybrid | Jan 08 |
 | **[WAVY-TV 10](http://wavy.com)** | **[WAVY Unpaid Sports Intern, Summer Semester 2026](https://jobright.ai/jobs/info/6943686294730b7398768010?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Jan 08 |
-| ↳ | **[WAVY Unpaid Hampton Roads Show/Production Intern, Summer Semester 2026](https://jobright.ai/jobs/info/6943644f50bbaf7650554c0f?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Jan 08 |
 | ↳ | **[WAVY Unpaid Digital News Desk Intern, Summer 2026](https://jobright.ai/jobs/info/6943624650bbaf765055485d?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Jan 08 |
 | **[The State University of New York](http://www.suny.edu/)** | **[Multimedia Production Intern](https://jobright.ai/jobs/info/690a6177bcccf20de59e184c?utm_campaign=1053&utm_source=git)** | Albany, NY | On Site | Jan 08 |
 | **[Florida State University](http://www.fsu.edu/)** | **[Technical Theater Summer 2026 Intern (OPS)](https://jobright.ai/jobs/info/69601108a112b402660ec48e?utm_campaign=1053&utm_source=git)** | Sarasota, FL | On Site | Jan 08 |
@@ -128,8 +130,8 @@ For a complete list, click the following sortable link below:
 | **[Houston Livestock Show and Rodeo](https://www.rodeohouston.com/)** | **[Intern](https://jobright.ai/jobs/info/695f1875a112b402660ddec7?utm_campaign=1053&utm_source=git)** | Houston, TX | On Site | Jan 07 |
 | **[American Public Media Group](https://fitzgeraldtheater.publicradio.org)** | **[Intern, On-Demand - LAist](https://jobright.ai/jobs/info/695f1ab0a1bbea1d9a79f81c?utm_campaign=1053&utm_source=git)** | Pasadena, California, United States | On Site | Jan 07 |
 | **[Temecula City Lifestyle](www.citylifestyle.com/temecula)** | **[Editorial Internship](https://jobright.ai/jobs/info/695f1a6aa112b402660de28b?utm_campaign=1053&utm_source=git)** | Temecula, CA | Hybrid | Jan 07 |
-| **[Peter Millar](http://www.petermillar.com/)** | **[Embroidery Internship](https://jobright.ai/jobs/info/695f026e0badca5763af7ac6?utm_campaign=1053&utm_source=git)** | Research Triangle Park, NC | On Site | Jan 07 |
-| ↳ | **[Video Production Internship](https://jobright.ai/jobs/info/695f02d00badca5763af7b1b?utm_campaign=1053&utm_source=git)** | Raleigh, NC | On Site | Jan 07 |
+| **[Peter Millar](http://www.petermillar.com/)** | **[Video Production Internship](https://jobright.ai/jobs/info/695f02d00badca5763af7b1b?utm_campaign=1053&utm_source=git)** | Raleigh, NC | On Site | Jan 07 |
+| ↳ | **[Embroidery Internship](https://jobright.ai/jobs/info/695f026e0badca5763af7ac6?utm_campaign=1053&utm_source=git)** | Research Triangle Park, NC | On Site | Jan 07 |
 | **[Appalachian State University](http://www.appstate.edu/)** | **[Exhibition Assistant III](https://jobright.ai/jobs/info/695ed90c0badca5763af507f?utm_campaign=1053&utm_source=git)** | Boone, NC | On Site | Jan 07 |
 | **[Florida League of Cities](https://www.floridaleagueofcities.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/695ed65708ab990f282a21ab?utm_campaign=1053&utm_source=git)** | TALLAHASSEE, Tallahassee, FL, US | On Site | Jan 07 |
 | **[Formlabs](http://www.formlabs.com)** | **[Video Content Creator Intern (Summer 2026)](https://jobright.ai/jobs/info/695ed5440badca5763af4b51?utm_campaign=1053&utm_source=git)** | Somerville, MA | On Site | Jan 07 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Fleet Response](http://fleetresponse.com)** | **[Intern](https://jobright.ai/jobs/info/6944607794730b73987788db?utm_campaign=1053&utm_source=git)** | Hudson, OH | Hybrid | Jan 07 |
 | **[Major League Baseball (MLB)](https://www.mlb.com)** | **[Intern, Event Operations](https://jobright.ai/jobs/info/6941d397bdcf884a5add8880?utm_campaign=1053&utm_source=git)** | Vero Beach, FL | On Site | Jan 07 |
 | **[Community Impact](https://communityimpact.com)** | **[Editorial Intern Spring Internship - Austin, TX](https://jobright.ai/jobs/info/695ea10708ab990f2829e022?utm_campaign=1053&utm_source=git)** | Pflugerville, TX | On Site | Jan 07 |
-| **[U.S. News & World Report](http://www.usnews.com)** | **[2026 Editorial Intern](https://jobright.ai/jobs/info/694227b114ee092a6900558d?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Jan 07 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Disney Theatrical Live Events Intern, Summer 2026](https://jobright.ai/jobs/info/695e5c84a112b402660d1ef0?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jan 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
