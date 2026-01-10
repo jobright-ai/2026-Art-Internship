@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[MRA Recruiting Services](https://mra.applytojob.com/apply/)** | **[Paid Filmmaker Internship](https://jobright.ai/jobs/info/69626e3025e18715077f4915?utm_campaign=1053&utm_source=git)** | Gwinnett County, GA | On Site | Jan 10 |
+| **[iHeartMedia](http://iheartmedia.com)** | **[Elvis Duran Morning Show Intern](https://jobright.ai/jobs/info/682b8a0023335c4e00281de0?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jan 10 |
 | **[Skild AI](https://www.skild.ai/)** | **[Cinematography Intern (Product Videography & Social Media)](https://jobright.ai/jobs/info/68d48fabffc1276de3fdbe8a?utm_campaign=1053&utm_source=git)** | San Mateo, CA | On Site | Jan 10 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[National Geographic Documentary Films Intern, Summer 2026](https://jobright.ai/jobs/info/6962407425e18715077f19d0?utm_campaign=1053&utm_source=git)** | Burbank, CA | On Site | Jan 10 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Spring Unpaid Internship - News](https://jobright.ai/jobs/info/6960703fa112b402660f2efd?utm_campaign=1053&utm_source=git)** | Baton Rouge, LA | On Site | Jan 10 |
@@ -85,6 +87,7 @@ For a complete list, click the following sortable link below:
 | **[Lee Enterprises](http://lee.net/)** | **[News Intern](https://jobright.ai/jobs/info/69616b95a112b402660fedcc?utm_campaign=1053&utm_source=git)** | Winston-Salem, NC, USA | On Site | Jan 09 |
 | **[Colorado Open Golf Foundation](http://www.coloradoopen.com)** | **[Colorado Open Championships Intern](https://jobright.ai/jobs/info/69614532f3f4cd1325063e67?utm_campaign=1053&utm_source=git)** | Denver, CO | On Site | Jan 09 |
 | **[Inc. Magazine](http://www.inc.com)** | **[Editorial Intern](https://jobright.ai/jobs/info/6961337ea112b402660fbc6e?utm_campaign=1053&utm_source=git)** | NYC Metro Area | Hybrid | Jan 09 |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Disney Theatrical Live Events Intern, Summer 2026](https://jobright.ai/jobs/info/695e5c84a112b402660d1ef0?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jan 09 |
 | **[Encore](https://www.encoreglobal.com/)** | **[Event Technology Internship (Spring semester)- JW Marriott Marco Island Resort](https://jobright.ai/jobs/info/68e48454b99ec3563b0eb1a8?utm_campaign=1053&utm_source=git)** | Marco Island, FL | On Site | Jan 09 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Disney Theatrical Production Intern, Summer 2026](https://jobright.ai/jobs/info/695e65a1a112b402660d23c5?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jan 09 |
 | **[Bass Pro Shops](https://www.basspro.com)** | **[Intern- Golf Maintenance](https://jobright.ai/jobs/info/68f0012e9821486c423c886a?utm_campaign=1053&utm_source=git)** | Ridgedale, MO | On Site | Jan 09 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Fox Corporation](https://www.foxcorporation.com/)** | **[TMZ Podcast Intern - Spring 2026](https://jobright.ai/jobs/info/695ecd920badca5763af450f?utm_campaign=1053&utm_source=git)** | Los Angeles, California, USA | On Site | Jan 07 |
 | **[Iowa 80 Group](https://www.iowa80group.com/)** | **[Videography Internship - Summer 2026](https://jobright.ai/jobs/info/695ecacaa112b402660d81a3?utm_campaign=1053&utm_source=git)** | Walcott,IA,US | On Site | Jan 07 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[National Geographic Content TV & Film Editorial Research Intern, Summer 2026](https://jobright.ai/jobs/info/695cfcdcfbd62a0a65658b47?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Jan 07 |
-| **[Salt XC](https://www.saltxc.com/)** | **[Summer Squad - Digital Coordinator](https://jobright.ai/jobs/info/695eb8e008ab990f282a0358?utm_campaign=1053&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 07 |
-| **[Playmaker - A part of Better Collective](https://playmakerhq.com/)** | **[Production Assistant Intern-Los Angeles, CA](https://jobright.ai/jobs/info/695e8c66a112b402660d3a91?utm_campaign=1053&utm_source=git)** | LA Metro Area | On Site | Jan 07 |
-| **[Thesocialtalks](https://thesocialtalks.com/)** | **[Local and Community News Reporter (Intern/Volunteer)](https://jobright.ai/jobs/info/695ea2300badca5763af0ceb?utm_campaign=1053&utm_source=git)** | United States | Remote | Jan 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
