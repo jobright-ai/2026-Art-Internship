@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TGR](http://www.thegarnettereport.com)** | **[Spring/Summer Internship](https://jobright.ai/jobs/info/6962d380a112b40266111d91?utm_campaign=1053&utm_source=git)** | NYC Metro Area | On Site | Jan 10 |
+| **[Detail Connect](https://www.detailconnect.app/)** | **[Video Editor Internship (Remote) – Detail Connect](https://jobright.ai/jobs/info/6962cf9e25e18715077f956d?utm_campaign=1053&utm_source=git)** | United States | Remote | Jan 10 |
 | **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[Her Campus Wellness Editorial Intern - Spring 2026](https://jobright.ai/jobs/info/6962a2f125e18715077f6df6?utm_campaign=1053&utm_source=git)** | United States | Remote | Jan 10 |
 | **[Educational Media Foundation K-LOVE & Air1 Media Networks](https://www.klove.com)** | **[Streaming and Programming Intern](https://jobright.ai/jobs/info/6962983f2cbf4e44756c84f0?utm_campaign=1053&utm_source=git)** | Franklin, TN | On Site | Jan 10 |
 | **[MRA Recruiting Services](https://mra.applytojob.com/apply/)** | **[Paid Filmmaker Internship](https://jobright.ai/jobs/info/69626e3025e18715077f4915?utm_campaign=1053&utm_source=git)** | Gwinnett County, GA | On Site | Jan 10 |
@@ -141,8 +143,8 @@ For a complete list, click the following sortable link below:
 | **[Houston Livestock Show and Rodeo](https://www.rodeohouston.com/)** | **[Intern](https://jobright.ai/jobs/info/695f1875a112b402660ddec7?utm_campaign=1053&utm_source=git)** | Houston, TX | On Site | Jan 07 |
 | **[American Public Media Group](https://fitzgeraldtheater.publicradio.org)** | **[Intern, On-Demand - LAist](https://jobright.ai/jobs/info/695f1ab0a1bbea1d9a79f81c?utm_campaign=1053&utm_source=git)** | Pasadena, California, United States | On Site | Jan 07 |
 | **[Temecula City Lifestyle](www.citylifestyle.com/temecula)** | **[Editorial Internship](https://jobright.ai/jobs/info/695f1a6aa112b402660de28b?utm_campaign=1053&utm_source=git)** | Temecula, CA | Hybrid | Jan 07 |
-| **[Peter Millar](http://www.petermillar.com/)** | **[Video Production Internship](https://jobright.ai/jobs/info/695f02d00badca5763af7b1b?utm_campaign=1053&utm_source=git)** | Raleigh, NC | On Site | Jan 07 |
-| ↳ | **[Embroidery Internship](https://jobright.ai/jobs/info/695f026e0badca5763af7ac6?utm_campaign=1053&utm_source=git)** | Research Triangle Park, NC | On Site | Jan 07 |
+| **[Peter Millar](http://www.petermillar.com/)** | **[Embroidery Internship](https://jobright.ai/jobs/info/695f026e0badca5763af7ac6?utm_campaign=1053&utm_source=git)** | Research Triangle Park, NC | On Site | Jan 07 |
+| ↳ | **[Video Production Internship](https://jobright.ai/jobs/info/695f02d00badca5763af7b1b?utm_campaign=1053&utm_source=git)** | Raleigh, NC | On Site | Jan 07 |
 | **[Appalachian State University](http://www.appstate.edu/)** | **[Exhibition Assistant III](https://jobright.ai/jobs/info/695ed90c0badca5763af507f?utm_campaign=1053&utm_source=git)** | Boone, NC | On Site | Jan 07 |
 | **[Florida League of Cities](https://www.floridaleagueofcities.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/695ed65708ab990f282a21ab?utm_campaign=1053&utm_source=git)** | TALLAHASSEE, Tallahassee, FL, US | On Site | Jan 07 |
 | **[Formlabs](http://www.formlabs.com)** | **[Video Content Creator Intern (Summer 2026)](https://jobright.ai/jobs/info/695ed5440badca5763af4b51?utm_campaign=1053&utm_source=git)** | Somerville, MA | On Site | Jan 07 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Certified Angus Beef ®](https://www.certifiedangusbeef.com/)** | **[2026 Video Production Intern](https://jobright.ai/jobs/info/695ee198a112b402660d9c00?utm_campaign=1053&utm_source=git)** | Wooster, Ohio, United States | On Site | Jan 07 |
 | **[University of New Hampshire](https://www.unh.edu)** | **[Poetry Festival Intern](https://jobright.ai/jobs/info/695eae5108ab990f2829f8f3?utm_campaign=1053&utm_source=git)** | Durham, NH | On Site | Jan 07 |
 | **[Fox Corporation](https://www.foxcorporation.com/)** | **[TMZ Clearance Department Intern - Spring 2026](https://jobright.ai/jobs/info/695ee9a1a112b402660da613?utm_campaign=1053&utm_source=git)** | USA - CA - Los Angeles - 13031 W. Jefferson Blvd #400 | On Site | Jan 07 |
-| **[Elisa Gentile](www.elisagentile.com)** | **[Studio Intern](https://jobright.ai/jobs/info/6960f45af3f4cd132505f80e?utm_campaign=1053&utm_source=git)** | Vaughan, Ontario, Canada | On Site | Jan 07 |
-| **[The Henry Ford](http://www.thehenryford.org/)** | **[Stewart Program Archival Collection Processing Intern](https://jobright.ai/jobs/info/695ee2660badca5763af5e44?utm_campaign=1053&utm_source=git)** | Dearborn, MI | On Site | Jan 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
