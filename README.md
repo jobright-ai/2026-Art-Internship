@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[RateLab.ca](https://www.ratelab.ca)** | **[Writer/Editor Intern (Financial Content) / RateLab.ca](https://jobright.ai/jobs/info/6963e0a22cbf4e44756d904a?utm_campaign=1053&utm_source=git)** | Canada | Remote | Jan 11 |
+| **[Interactive Brokers](https://www.interactivebrokers.com/en/home.php)** | **[Translation & Media Production Intern](https://jobright.ai/jobs/info/6920d1233f782d2f1afcbce1?utm_campaign=1053&utm_source=git)** | Greenwich, CT | On Site | Jan 11 |
 | **[Minnesota Wind Chill](http://www.windchillultimate.com)** | **[Gameday Production Internship - Summer '26](https://jobright.ai/jobs/info/6963afc025e1871507804493?utm_campaign=1053&utm_source=git)** | Minnetrista, MN | On Site | Jan 11 |
 | **[LoveLane](https://www.lovelane.co)** | **[tiktok content creator US - App Start-up (unpaid, remote)](https://jobright.ai/jobs/info/6963a7f2a112b4026611c57b?utm_campaign=1053&utm_source=git)** | United States | Remote | Jan 11 |
 | **[AAAS](http://www.aaas.org/)** | **[Diverse Voices in Science Journalism Intern](https://jobright.ai/jobs/info/695df58d4b7a590c5b95634e?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Jan 11 |
@@ -126,7 +128,7 @@ For a complete list, click the following sortable link below:
 | **[U-Haul](http://www.uhaul.com/)** | **[Video Production Intern](https://jobright.ai/jobs/info/69601538a1bbea1d9a7ae240?utm_campaign=1053&utm_source=git)** | Phoenix, Arizona | On Site | Jan 08 |
 | **[LoveLane](https://www.lovelane.co)** | **[Tiktok content creator - app start-up (unpaid) - remote US](https://jobright.ai/jobs/info/695ffa087ebc25398eb5e4c2?utm_campaign=1053&utm_source=git)** | United States | Remote | Jan 08 |
 | **[David Yurman](http://www.davidyurman.com)** | **[Video Editor Intern, E-Comm](https://jobright.ai/jobs/info/6943736f50bbaf7650556478?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Jan 08 |
-| **[WAVY-TV 10](http://wavy.com)** | **[WAVY Unpaid Hampton Roads Show/Production Intern, Summer Semester 2026](https://jobright.ai/jobs/info/6943685e94730b7398768007?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Jan 08 |
+| **[WAVY-TV 10](http://wavy.com)** | **[WAVY Unpaid Hampton Roads Show/Production Intern, Summer Semester 2026](https://jobright.ai/jobs/info/69436d3594730b73987687c4?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Jan 08 |
 | **[Yellowstone Club](https://www.yellowstoneclub.com/)** | **[PGA Intern - Summer 2026](https://jobright.ai/jobs/info/68f3125976a51a4307bcabf9?utm_campaign=1053&utm_source=git)** | Big Sky, MT | On Site | Jan 08 |
 | **[U.S. News & World Report](http://www.usnews.com)** | **[2026 News Intern](https://jobright.ai/jobs/info/695ec9d30badca5763af40ce?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Jan 08 |
 | **[AAAS](http://www.aaas.org/)** | **[Newsletter Intern](https://jobright.ai/jobs/info/694345be50bbaf7650552b12?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Jan 08 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[KnowBe4](http://www.KnowBe4.com)** | **[Social Media Production Intern (Hybrid)](https://jobright.ai/jobs/info/6945fb1bd1953b5d11bf09aa?utm_campaign=1053&utm_source=git)** | Clearwater, FL | Hybrid | Jan 07 |
 | **[TMZ](http://www.tmz.com/)** | **[TMZ Sports Intern - Spring 2026](https://jobright.ai/jobs/info/695ec0e2a112b402660d75cd?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Jan 07 |
 | **[Paramount](https://www.paramount.com)** | **[CBS Sports Golazo Internship (Summer 2026, In Person - Stamford, CT)](https://jobright.ai/jobs/info/695ebff608ab990f282a09e4?utm_campaign=1053&utm_source=git)** | Stamford, CT | On Site | Jan 07 |
-| **[Harris County](https://www.harriscountytx.gov/)** | **[Public Art Intern](https://jobright.ai/jobs/info/695ee39e0badca5763af6041?utm_campaign=1053&utm_source=git)** | Houston, TX | On Site | Jan 07 |
-| **[TMZ](http://www.tmz.com/)** | **[TMZ Clearance Department Intern - Spring 2026](https://jobright.ai/jobs/info/695eda750badca5763af5239?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Jan 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
