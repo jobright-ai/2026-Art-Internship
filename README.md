@@ -57,11 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[LoveLane](https://www.lovelane.co)** | **[tiktok content creator US - App Start-up (unpaid, remote)](https://jobright.ai/jobs/info/6963a7f2a112b4026611c57b?utm_campaign=1053&utm_source=git)** | United States | Remote | Jan 11 |
 | **[AAAS](http://www.aaas.org/)** | **[Diverse Voices in Science Journalism Intern](https://jobright.ai/jobs/info/695df58d4b7a590c5b95634e?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Jan 11 |
 | **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[IAE Videography Internship - Spring 2026](https://jobright.ai/jobs/info/6963424c25e18715077fe41c?utm_campaign=1053&utm_source=git)** | Tampa, FL | On Site | Jan 10 |
 | **[Associated Students of the University of California](https://asuc.org)** | **[Intern](https://jobright.ai/jobs/info/696328f125e18715077fc4b6?utm_campaign=1053&utm_source=git)** | Berkeley, CA | On Site | Jan 10 |
 | **[TGR](http://www.thegarnettereport.com)** | **[Spring/Summer Internship](https://jobright.ai/jobs/info/6962d380a112b40266111d91?utm_campaign=1053&utm_source=git)** | NYC Metro Area | On Site | Jan 10 |
-| **[Detail Connect](https://www.detailconnect.app/)** | **[Video Editor Internship (Remote) – Detail Connect](https://jobright.ai/jobs/info/6962cf9e25e18715077f956d?utm_campaign=1053&utm_source=git)** | United States | Remote | Jan 10 |
 | **[Educational Media Foundation K-LOVE & Air1 Media Networks](https://www.klove.com)** | **[Streaming and Programming Intern](https://jobright.ai/jobs/info/6962983f2cbf4e44756c84f0?utm_campaign=1053&utm_source=git)** | Franklin, TN | On Site | Jan 10 |
 | **[MRA Recruiting Services](https://mra.applytojob.com/apply/)** | **[Paid Filmmaker Internship](https://jobright.ai/jobs/info/69626e3025e18715077f4915?utm_campaign=1053&utm_source=git)** | Gwinnett County, GA | On Site | Jan 10 |
 | **[iHeartMedia](http://iheartmedia.com)** | **[Elvis Duran Morning Show Intern](https://jobright.ai/jobs/info/682b8a0023335c4e00281de0?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jan 10 |
@@ -74,7 +74,7 @@ For a complete list, click the following sortable link below:
 | **[CBS News and Stations](http://www.cbs.com)** | **[CBS News Intern, KCNC Denver (Summer 2026)](https://jobright.ai/jobs/info/6945b0aa951654073537cb18?utm_campaign=1053&utm_source=git)** | Denver, CO | On Site | Jan 10 |
 | **[Educational Media Foundation K-LOVE & Air1 Media Networks](https://www.klove.com)** | **[News Internship](https://jobright.ai/jobs/info/6962561a2cbf4e44756c5444?utm_campaign=1053&utm_source=git)** | Franklin, TN | On Site | Jan 10 |
 | **[Sinclair Inc.](http://sbgi.net/)** | **[KATV Spring 2026 Intern](https://jobright.ai/jobs/info/690b9aff221b890c277f61e1?utm_campaign=1053&utm_source=git)** | Little Rock, AR | On Site | Jan 10 |
-| **[The Writer's Workout](https://www.writersworkout.net)** | **[Summer Internship](https://jobright.ai/jobs/info/6962a97d2cbf4e44756c8e84?utm_campaign=1053&utm_source=git)** | Columbia, KY | Remote | Jan 10 |
+| **[The Writer's Workout](http://www.writersworkout.net)** | **[Summer Internship](https://jobright.ai/jobs/info/6962a97d2cbf4e44756c8e84?utm_campaign=1053&utm_source=git)** | Columbia, KY | Remote | Jan 10 |
 | **[WISN-TV](https://www.wisn.com)** | **[WISN Spring Intern](https://jobright.ai/jobs/info/6961cbecf3f4cd132506cd7a?utm_campaign=1053&utm_source=git)** | Milwaukee, WI | On Site | Jan 09 |
 | **[Premier Lacrosse League](https://www.premierlacrosseleague.com/)** | **[TLN Video Editing Intern](https://jobright.ai/jobs/info/6961c6a0a112b4026610552f?utm_campaign=1053&utm_source=git)** | United States | Remote | Jan 09 |
 | **[Portland Timbers](http://www.timbers.com)** | **[Special Events Intern](https://jobright.ai/jobs/info/6961c457a112b402661053e4?utm_campaign=1053&utm_source=git)** | Portland, OR | On Site | Jan 09 |
@@ -146,8 +146,8 @@ For a complete list, click the following sortable link below:
 | **[Houston Livestock Show and Rodeo](https://www.rodeohouston.com/)** | **[Intern](https://jobright.ai/jobs/info/695f1875a112b402660ddec7?utm_campaign=1053&utm_source=git)** | Houston, TX | On Site | Jan 07 |
 | **[American Public Media Group](https://fitzgeraldtheater.publicradio.org)** | **[Intern, On-Demand - LAist](https://jobright.ai/jobs/info/695f1ab0a1bbea1d9a79f81c?utm_campaign=1053&utm_source=git)** | Pasadena, California, United States | On Site | Jan 07 |
 | **[Temecula City Lifestyle](www.citylifestyle.com/temecula)** | **[Editorial Internship](https://jobright.ai/jobs/info/695f1a6aa112b402660de28b?utm_campaign=1053&utm_source=git)** | Temecula, CA | Hybrid | Jan 07 |
-| **[Peter Millar](http://www.petermillar.com/)** | **[Video Production Internship](https://jobright.ai/jobs/info/695f02d00badca5763af7b1b?utm_campaign=1053&utm_source=git)** | Raleigh, NC | On Site | Jan 07 |
-| ↳ | **[Embroidery Internship](https://jobright.ai/jobs/info/695f026e0badca5763af7ac6?utm_campaign=1053&utm_source=git)** | Research Triangle Park, NC | On Site | Jan 07 |
+| **[Peter Millar](http://www.petermillar.com/)** | **[Embroidery Internship](https://jobright.ai/jobs/info/695f026e0badca5763af7ac6?utm_campaign=1053&utm_source=git)** | Research Triangle Park, NC | On Site | Jan 07 |
+| ↳ | **[Video Production Internship](https://jobright.ai/jobs/info/695f02d00badca5763af7b1b?utm_campaign=1053&utm_source=git)** | Raleigh, NC | On Site | Jan 07 |
 | **[Appalachian State University](http://www.appstate.edu/)** | **[Exhibition Assistant III](https://jobright.ai/jobs/info/695ed90c0badca5763af507f?utm_campaign=1053&utm_source=git)** | Boone, NC | On Site | Jan 07 |
 | **[Florida League of Cities](https://www.floridaleagueofcities.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/695ed65708ab990f282a21ab?utm_campaign=1053&utm_source=git)** | TALLAHASSEE, Tallahassee, FL, US | On Site | Jan 07 |
 | **[Formlabs](http://www.formlabs.com)** | **[Video Content Creator Intern (Summer 2026)](https://jobright.ai/jobs/info/695ed5440badca5763af4b51?utm_campaign=1053&utm_source=git)** | Somerville, MA | On Site | Jan 07 |
