@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Associated Students of the University of California](https://asuc.org)** | **[Intern](https://jobright.ai/jobs/info/696328f125e18715077fc4b6?utm_campaign=1053&utm_source=git)** | Berkeley, CA | On Site | Jan 10 |
 | **[TGR](http://www.thegarnettereport.com)** | **[Spring/Summer Internship](https://jobright.ai/jobs/info/6962d380a112b40266111d91?utm_campaign=1053&utm_source=git)** | NYC Metro Area | On Site | Jan 10 |
 | **[Detail Connect](https://www.detailconnect.app/)** | **[Video Editor Internship (Remote) – Detail Connect](https://jobright.ai/jobs/info/6962cf9e25e18715077f956d?utm_campaign=1053&utm_source=git)** | United States | Remote | Jan 10 |
 | **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[Her Campus Wellness Editorial Intern - Spring 2026](https://jobright.ai/jobs/info/6962a2f125e18715077f6df6?utm_campaign=1053&utm_source=git)** | United States | Remote | Jan 10 |
@@ -123,7 +124,7 @@ For a complete list, click the following sortable link below:
 | **[U-Haul](http://www.uhaul.com/)** | **[Video Production Intern](https://jobright.ai/jobs/info/69601538a1bbea1d9a7ae240?utm_campaign=1053&utm_source=git)** | Phoenix, Arizona | On Site | Jan 08 |
 | **[LoveLane](https://www.lovelane.co)** | **[Tiktok content creator - app start-up (unpaid) - remote US](https://jobright.ai/jobs/info/695ffa087ebc25398eb5e4c2?utm_campaign=1053&utm_source=git)** | United States | Remote | Jan 08 |
 | **[David Yurman](http://www.davidyurman.com)** | **[Video Editor Intern, E-Comm](https://jobright.ai/jobs/info/6943736f50bbaf7650556478?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Jan 08 |
-| **[WAVY-TV 10](http://wavy.com)** | **[WAVY Unpaid Hampton Roads Show/Production Intern, Summer Semester 2026](https://jobright.ai/jobs/info/69436d3594730b73987687c4?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Jan 08 |
+| **[WAVY-TV 10](http://wavy.com)** | **[WAVY Unpaid Hampton Roads Show/Production Intern, Summer Semester 2026](https://jobright.ai/jobs/info/6943685e94730b7398768007?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Jan 08 |
 | **[Yellowstone Club](https://www.yellowstoneclub.com/)** | **[PGA Intern - Summer 2026](https://jobright.ai/jobs/info/68f3125976a51a4307bcabf9?utm_campaign=1053&utm_source=git)** | Big Sky, MT | On Site | Jan 08 |
 | **[U.S. News & World Report](http://www.usnews.com)** | **[2026 News Intern](https://jobright.ai/jobs/info/695ec9d30badca5763af40ce?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Jan 08 |
 | **[AAAS](http://www.aaas.org/)** | **[Newsletter Intern](https://jobright.ai/jobs/info/694345be50bbaf7650552b12?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Jan 08 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[TMZ](http://www.tmz.com/)** | **[TMZ Clearance Department Intern - Spring 2026](https://jobright.ai/jobs/info/695eda750badca5763af5239?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Jan 07 |
 | ↳ | **[TMZ Podcast Intern - Spring 2026](https://jobright.ai/jobs/info/695edce208ab990f282a2a56?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Jan 07 |
 | **[Certified Angus Beef ®](https://www.certifiedangusbeef.com/)** | **[2026 Video Production Intern](https://jobright.ai/jobs/info/695ee198a112b402660d9c00?utm_campaign=1053&utm_source=git)** | Wooster, Ohio, United States | On Site | Jan 07 |
-| **[University of New Hampshire](https://www.unh.edu)** | **[Poetry Festival Intern](https://jobright.ai/jobs/info/695eae5108ab990f2829f8f3?utm_campaign=1053&utm_source=git)** | Durham, NH | On Site | Jan 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
