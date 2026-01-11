@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Mississippi Mud Monsters](https://ondeck2025.com/)** | **[Live Event Production Internship](https://jobright.ai/jobs/info/6963ff1f2cbf4e44756d9c7e?utm_campaign=1053&utm_source=git)** | Pearl, MS | On Site | Jan 11 |
+| **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[Her Campus Culture & Style Intern - Spring 2026](https://jobright.ai/jobs/info/6963f3bd25e187150780799b?utm_campaign=1053&utm_source=git)** | United States | Remote | Jan 11 |
+| **[Commonwealth of Pennsylvania](http://www.arts.pa.gov)** | **[Park Operations Intern - Presque Isle State Park Complex](https://jobright.ai/jobs/info/69419ed0bdcf884a5add5453?utm_campaign=1053&utm_source=git)** | Erie, PA | On Site | Jan 11 |
 | **[RateLab.ca](https://www.ratelab.ca)** | **[Writer/Editor Intern (Financial Content) / RateLab.ca](https://jobright.ai/jobs/info/6963e0a22cbf4e44756d904a?utm_campaign=1053&utm_source=git)** | Canada | Remote | Jan 11 |
 | **[Interactive Brokers](https://www.interactivebrokers.com/en/home.php)** | **[Translation & Media Production Intern](https://jobright.ai/jobs/info/6920d1233f782d2f1afcbce1?utm_campaign=1053&utm_source=git)** | Greenwich, CT | On Site | Jan 11 |
 | **[Minnesota Wind Chill](http://www.windchillultimate.com)** | **[Gameday Production Internship - Summer '26](https://jobright.ai/jobs/info/6963afc025e1871507804493?utm_campaign=1053&utm_source=git)** | Minnetrista, MN | On Site | Jan 11 |
@@ -128,13 +131,13 @@ For a complete list, click the following sortable link below:
 | **[U-Haul](http://www.uhaul.com/)** | **[Video Production Intern](https://jobright.ai/jobs/info/69601538a1bbea1d9a7ae240?utm_campaign=1053&utm_source=git)** | Phoenix, Arizona | On Site | Jan 08 |
 | **[LoveLane](https://www.lovelane.co)** | **[Tiktok content creator - app start-up (unpaid) - remote US](https://jobright.ai/jobs/info/695ffa087ebc25398eb5e4c2?utm_campaign=1053&utm_source=git)** | United States | Remote | Jan 08 |
 | **[David Yurman](http://www.davidyurman.com)** | **[Video Editor Intern, E-Comm](https://jobright.ai/jobs/info/6943736f50bbaf7650556478?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Jan 08 |
-| **[WAVY-TV 10](http://wavy.com)** | **[WAVY Unpaid Hampton Roads Show/Production Intern, Summer Semester 2026](https://jobright.ai/jobs/info/69436d3594730b73987687c4?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Jan 08 |
 | **[Yellowstone Club](https://www.yellowstoneclub.com/)** | **[PGA Intern - Summer 2026](https://jobright.ai/jobs/info/68f3125976a51a4307bcabf9?utm_campaign=1053&utm_source=git)** | Big Sky, MT | On Site | Jan 08 |
 | **[U.S. News & World Report](http://www.usnews.com)** | **[2026 News Intern](https://jobright.ai/jobs/info/695ec9d30badca5763af40ce?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Jan 08 |
 | **[AAAS](http://www.aaas.org/)** | **[Newsletter Intern](https://jobright.ai/jobs/info/694345be50bbaf7650552b12?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Jan 08 |
 | **[Advisors Excel](http://advisorsexcel.com)** | **[Copy Editor Intern](https://jobright.ai/jobs/info/690ac9914a1b456627b0b5c8?utm_campaign=1053&utm_source=git)** | Topeka Metropolitan Area | On Site | Jan 08 |
 | **[ANDMORE®](http://www.imcenters.com)** | **[Internship (Educational Credit)](https://jobright.ai/jobs/info/6943839c94730b739876a0ed?utm_campaign=1053&utm_source=git)** | Atlanta, GA | Hybrid | Jan 08 |
 | **[WAVY-TV 10](http://wavy.com)** | **[WAVY Unpaid Sports Intern, Summer Semester 2026](https://jobright.ai/jobs/info/6943686294730b7398768010?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Jan 08 |
+| ↳ | **[WAVY Unpaid Hampton Roads Show/Production Intern, Summer Semester 2026](https://jobright.ai/jobs/info/6943644f50bbaf7650554c0f?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Jan 08 |
 | ↳ | **[WAVY Unpaid Digital News Desk Intern, Summer 2026](https://jobright.ai/jobs/info/6943624650bbaf765055485d?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Jan 08 |
 | **[The State University of New York](http://www.suny.edu/)** | **[Multimedia Production Intern](https://jobright.ai/jobs/info/690a6177bcccf20de59e184c?utm_campaign=1053&utm_source=git)** | Albany, NY | On Site | Jan 08 |
 | **[Florida State University](http://www.fsu.edu/)** | **[Technical Theater Summer 2026 Intern (OPS)](https://jobright.ai/jobs/info/69601108a112b402660ec48e?utm_campaign=1053&utm_source=git)** | Sarasota, FL | On Site | Jan 08 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Appalachian State University](http://www.appstate.edu/)** | **[Exhibition Assistant III](https://jobright.ai/jobs/info/695ed90c0badca5763af507f?utm_campaign=1053&utm_source=git)** | Boone, NC | On Site | Jan 07 |
 | **[Florida League of Cities](https://www.floridaleagueofcities.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/695ed65708ab990f282a21ab?utm_campaign=1053&utm_source=git)** | TALLAHASSEE, Tallahassee, FL, US | On Site | Jan 07 |
 | **[Formlabs](http://www.formlabs.com)** | **[Video Content Creator Intern (Summer 2026)](https://jobright.ai/jobs/info/695ed5440badca5763af4b51?utm_campaign=1053&utm_source=git)** | Somerville, MA | On Site | Jan 07 |
-| **[KnowBe4](http://www.KnowBe4.com)** | **[Social Media Production Intern (Hybrid)](https://jobright.ai/jobs/info/6945fb1bd1953b5d11bf09aa?utm_campaign=1053&utm_source=git)** | Clearwater, FL | Hybrid | Jan 07 |
-| **[TMZ](http://www.tmz.com/)** | **[TMZ Sports Intern - Spring 2026](https://jobright.ai/jobs/info/695ec0e2a112b402660d75cd?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Jan 07 |
-| **[Paramount](https://www.paramount.com)** | **[CBS Sports Golazo Internship (Summer 2026, In Person - Stamford, CT)](https://jobright.ai/jobs/info/695ebff608ab990f282a09e4?utm_campaign=1053&utm_source=git)** | Stamford, CT | On Site | Jan 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
