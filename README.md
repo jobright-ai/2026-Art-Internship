@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Talk and Entertainment Show Intern 1](https://jobright.ai/jobs/info/69527c875bb7de448ef598bc?utm_campaign=1053&utm_source=git)** | Cleveland, OH | On Site | Jan 12 |
+| ↳ | **[Talk and Entertainment Show Intern 2](https://jobright.ai/jobs/info/68b9f5968043103d4f21c509?utm_campaign=1053&utm_source=git)** | Cleveland, OH | On Site | Jan 12 |
 | **[The Transmitter](https://spectrumnews.org/)** | **[Science Reporting Intern](https://jobright.ai/jobs/info/6959f933aa05c26e7ab3a721?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jan 12 |
 | **[WME | William Morris Endeavor](https://www.wmeagency.com)** | **[Intern, Literary Media](https://jobright.ai/jobs/info/6947db1b7d506e3808f3302a?utm_campaign=1053&utm_source=git)** | Beverly Hills, CA | On Site | Jan 12 |
 | **[DeafandHoH.com, LLC](https://www.deafandhoh.com/)** | **[Writing Student Internship Program](https://jobright.ai/jobs/info/6964ccf8a112b4026612afdb?utm_campaign=1053&utm_source=git)** | Waukesha, WI | Remote | Jan 12 |
@@ -134,7 +136,7 @@ For a complete list, click the following sortable link below:
 | **[U-Haul](http://www.uhaul.com/)** | **[Video Production Intern](https://jobright.ai/jobs/info/69601538a1bbea1d9a7ae240?utm_campaign=1053&utm_source=git)** | Phoenix, Arizona | On Site | Jan 08 |
 | **[LoveLane](https://www.lovelane.co)** | **[Tiktok content creator - app start-up (unpaid) - remote US](https://jobright.ai/jobs/info/695ffa087ebc25398eb5e4c2?utm_campaign=1053&utm_source=git)** | United States | Remote | Jan 08 |
 | **[David Yurman](http://www.davidyurman.com)** | **[Video Editor Intern, E-Comm](https://jobright.ai/jobs/info/6943736f50bbaf7650556478?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Jan 08 |
-| **[WAVY-TV 10](http://wavy.com)** | **[WAVY Unpaid Hampton Roads Show/Production Intern, Summer Semester 2026](https://jobright.ai/jobs/info/6943685e94730b7398768007?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Jan 08 |
+| **[WAVY-TV 10](http://wavy.com)** | **[WAVY Unpaid Hampton Roads Show/Production Intern, Summer Semester 2026](https://jobright.ai/jobs/info/69436d3594730b73987687c4?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Jan 08 |
 | **[Yellowstone Club](https://www.yellowstoneclub.com/)** | **[PGA Intern - Summer 2026](https://jobright.ai/jobs/info/68f3125976a51a4307bcabf9?utm_campaign=1053&utm_source=git)** | Big Sky, MT | On Site | Jan 08 |
 | **[U.S. News & World Report](http://www.usnews.com)** | **[2026 News Intern](https://jobright.ai/jobs/info/695ec9d30badca5763af40ce?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Jan 08 |
 | **[AAAS](http://www.aaas.org/)** | **[Newsletter Intern](https://jobright.ai/jobs/info/694345be50bbaf7650552b12?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Jan 08 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Houston Livestock Show and Rodeo](https://www.rodeohouston.com/)** | **[Intern](https://jobright.ai/jobs/info/695f1875a112b402660ddec7?utm_campaign=1053&utm_source=git)** | Houston, TX | On Site | Jan 07 |
 | **[American Public Media Group](https://fitzgeraldtheater.publicradio.org)** | **[Intern, On-Demand - LAist](https://jobright.ai/jobs/info/695f1ab0a1bbea1d9a79f81c?utm_campaign=1053&utm_source=git)** | Pasadena, California, United States | On Site | Jan 07 |
 | **[Temecula City Lifestyle](www.citylifestyle.com/temecula)** | **[Editorial Internship](https://jobright.ai/jobs/info/695f1a6aa112b402660de28b?utm_campaign=1053&utm_source=git)** | Temecula, CA | Hybrid | Jan 07 |
-| **[Peter Millar](http://www.petermillar.com/)** | **[Video Production Internship](https://jobright.ai/jobs/info/695f02d00badca5763af7b1b?utm_campaign=1053&utm_source=git)** | Raleigh, NC | On Site | Jan 07 |
-| ↳ | **[Embroidery Internship](https://jobright.ai/jobs/info/695f026e0badca5763af7ac6?utm_campaign=1053&utm_source=git)** | Research Triangle Park, NC | On Site | Jan 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
