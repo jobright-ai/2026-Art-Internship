@@ -57,11 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hustle Magazine](www.thehustlemagazine.com)** | **[Journalist Intern](https://jobright.ai/jobs/info/6965876c2cbf4e44756f1998?utm_campaign=1053&utm_source=git)** | New York, NY | Remote | Jan 12 |
+| **[Attain Sports](https://attainsports.com)** | **[Broadcast Intern](https://jobright.ai/jobs/info/696578e3a112b40266136b46?utm_campaign=1053&utm_source=git)** | Frederick, MD | On Site | Jan 12 |
+| **[SWCA Environmental Consultants](https://www.swca.com/)** | **[Cultural Resources Intern](https://jobright.ai/jobs/info/69657780a112b40266136991?utm_campaign=1053&utm_source=git)** | Fort Collins, CO | On Site | Jan 12 |
 | **[Pencor Services, Inc.](http://pencor.com)** | **[Summer Technical News Internship](https://jobright.ai/jobs/info/6965595b2cbf4e44756ecea0?utm_campaign=1053&utm_source=git)** | Lehighton, PA | On Site | Jan 12 |
+| **[NORTH SIX](http://northsix.net)** | **[Production Intern](https://jobright.ai/jobs/info/6965719a6d52670c5c3e50fd?utm_campaign=1053&utm_source=git)** | Manhattan, NY | On Site | Jan 12 |
 | **[Complex NTWRK](https://www.complex.com)** | **[Editorial Creator Intern - College Credit](https://jobright.ai/jobs/info/68e42046b99ec3563b0e64c9?utm_campaign=1053&utm_source=git)** | New York, United States | On Site | Jan 12 |
 | **[Northstar Travel Group](http://www.NorthstarTravelGroup.com)** | **[Editorial & Research Intern](https://jobright.ai/jobs/info/69654a7aa112b4026613200b?utm_campaign=1053&utm_source=git)** | United States | Remote | Jan 12 |
 | **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[Spoon University Editorial Intern - Spring 2026](https://jobright.ai/jobs/info/69655d67a112b4026613353c?utm_campaign=1053&utm_source=git)** | United States | Remote | Jan 12 |
 | **[DRIP AND DIP](dripanddipiv.com)** | **[Videographer](https://jobright.ai/jobs/info/696538546d52670c5c3e018a?utm_campaign=1053&utm_source=git)** | Miami, FL | Remote | Jan 12 |
+| **[Texas Golf Association](https://www.txga.org/)** | **[USGA P.J. Boatwright Intern](https://jobright.ai/jobs/info/69657cbda112b40266136fa1?utm_campaign=1053&utm_source=git)** | Addison, TX | Hybrid | Jan 12 |
 | **[Raising Cane's Chicken Fingers](http://www.RaisingCanes.com)** | **[Intern - Communications Multimedia](https://jobright.ai/jobs/info/695ff977a1bbea1d9a7ac40b?utm_campaign=1053&utm_source=git)** | Plano, TX | On Site | Jan 12 |
 | **[Hopscotch](https://www.joinhopscotch.com/)** | **[Digital Content Intern](https://jobright.ai/jobs/info/6965140b6d52670c5c3dd4e3?utm_campaign=1053&utm_source=git)** | United States | Remote | Jan 12 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Talk and Entertainment Show Intern 1](https://jobright.ai/jobs/info/69527c875bb7de448ef598bc?utm_campaign=1053&utm_source=git)** | Cleveland, OH | On Site | Jan 12 |
@@ -144,7 +149,6 @@ For a complete list, click the following sortable link below:
 | **[David Yurman](http://www.davidyurman.com)** | **[Video Editor Intern, E-Comm](https://jobright.ai/jobs/info/6943736f50bbaf7650556478?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Jan 08 |
 | **[WAVY-TV 10](http://wavy.com)** | **[WAVY Unpaid Hampton Roads Show/Production Intern, Summer Semester 2026](https://jobright.ai/jobs/info/69436d3594730b73987687c4?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Jan 08 |
 | **[Yellowstone Club](https://www.yellowstoneclub.com/)** | **[PGA Intern - Summer 2026](https://jobright.ai/jobs/info/68f3125976a51a4307bcabf9?utm_campaign=1053&utm_source=git)** | Big Sky, MT | On Site | Jan 08 |
-| **[U.S. News & World Report](http://www.usnews.com)** | **[2026 News Intern](https://jobright.ai/jobs/info/695ec9d30badca5763af40ce?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Jan 08 |
 | **[AAAS](http://www.aaas.org/)** | **[Newsletter Intern](https://jobright.ai/jobs/info/694345be50bbaf7650552b12?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Jan 08 |
 | **[Advisors Excel](http://advisorsexcel.com)** | **[Copy Editor Intern](https://jobright.ai/jobs/info/690ac9914a1b456627b0b5c8?utm_campaign=1053&utm_source=git)** | Topeka Metropolitan Area | On Site | Jan 08 |
 | **[ANDMORE®](http://www.imcenters.com)** | **[Internship (Educational Credit)](https://jobright.ai/jobs/info/6943839c94730b739876a0ed?utm_campaign=1053&utm_source=git)** | Atlanta, GA | Hybrid | Jan 08 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The State University of New York](http://www.suny.edu/)** | **[Multimedia Production Intern](https://jobright.ai/jobs/info/690a6177bcccf20de59e184c?utm_campaign=1053&utm_source=git)** | Albany, NY | On Site | Jan 08 |
 | **[Florida State University](http://www.fsu.edu/)** | **[Technical Theater Summer 2026 Intern (OPS)](https://jobright.ai/jobs/info/69601108a112b402660ec48e?utm_campaign=1053&utm_source=git)** | Sarasota, FL | On Site | Jan 08 |
 | **[Crystal Bridges Museum of American Art](http://crystalbridges.org)** | **[2026 Art Management Intern: Summer (Housing Not Included)](https://jobright.ai/jobs/info/69620f57a112b402661078ab?utm_campaign=1053&utm_source=git)** | Bentonville, AR | On Site | Jan 07 |
-| **[SOLV Energy](https://www.solvenergy.com/)** | **[Video Editor & Digital Media Intern](https://jobright.ai/jobs/info/695f49f10badca5763afc667?utm_campaign=1053&utm_source=git)** | San Diego, CA | On Site | Jan 07 |
-| **[A.N. Publishing](https://www.anpublishing.com/)** | **[Journalism Editor Internship (POC Society Platform)](https://jobright.ai/jobs/info/695f33dc0badca5763afbbeb?utm_campaign=1053&utm_source=git)** | New York County, NY | Remote | Jan 07 |
-| **[Peter Millar](http://www.petermillar.com/)** | **[Video Production Internship](https://jobright.ai/jobs/info/695f2abaa112b402660df406?utm_campaign=1053&utm_source=git)** | Raleigh, NC | On Site | Jan 07 |
-| **[Mansueto Ventures](http://www.mansueto.com)** | **[Editorial Intern](https://jobright.ai/jobs/info/696086227ebc25398eb67325?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Jan 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
