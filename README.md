@@ -57,8 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Operation Smile](http://www.operationsmile.org)** | **[Writing Internship - Operation Smile ILC](https://jobright.ai/jobs/info/696883c31703f05405aa42b9?utm_campaign=1053&utm_source=git)** | Virginia Beach, VA | Hybrid | Jan 14 |
+| **[Philo Homes](https://philo.homes/)** | **[AI Video Producer Intern_Bilingual Mandarin](https://jobright.ai/jobs/info/69689277f25a380066971742?utm_campaign=1053&utm_source=git)** | New York, United States | Remote | Jan 14 |
 | **[The Dispatch](https://thedispatch.com/)** | **[Summer 2026 Internship](https://jobright.ai/jobs/info/69687e371703f05405aa3abd?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Jan 14 |
 | **[Philadelphia Art Museum](http://www.philamuseum.org/)** | **[Graduate Conservation Summer Intern](https://jobright.ai/jobs/info/69687f4c1703f05405aa3c85?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Jan 14 |
+| **[Nekia Nichelle, LLC.](http://www.nekianichelle.com)** | **[Jr Editorial Writer Intern - Pop Culture & Lifestyle](https://jobright.ai/jobs/info/696895b4f25a380066971c6f?utm_campaign=1053&utm_source=git)** | Chicago, IL | Remote | Jan 14 |
 | **[LoveLane](https://www.lovelane.co)** | **[tiktok content creator USA - App Start-up (unpaid, remote)](https://jobright.ai/jobs/info/69682b27639b452fb57dbfca?utm_campaign=1053&utm_source=git)** | United States | Remote | Jan 14 |
 | **[TikTok](https://www.tiktok.com)** | **[TikTok Short Drama Project Intern (TikTok-Short-Drama) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69684e2af25a38006696b2a4?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Jan 14 |
 | **[Charter & Co](https://chartercreative.co)** | **[Video Production Intern](https://jobright.ai/jobs/info/69685950639b452fb57dfc3f?utm_campaign=1053&utm_source=git)** | Hanover Park, IL | On Site | Jan 14 |
@@ -78,7 +81,6 @@ For a complete list, click the following sortable link below:
 | **[Amazon](https://amazon.com)** | **[Post Production Intern, Prime Video & Amazon MGM Studios](https://jobright.ai/jobs/info/694bb9361a572a617dde08e2?utm_campaign=1053&utm_source=git)** | Culver City, CA | On Site | Jan 14 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[National Geographic Documentary Films Intern, Summer 2026](https://jobright.ai/jobs/info/6962407425e18715077f19d0?utm_campaign=1053&utm_source=git)** | Burbank, CA | On Site | Jan 14 |
 | **[CBS News and Stations](http://www.cbs.com)** | **[CBS News Intern, KCAL Los Angeles/Studio City (Summer 2026)](https://jobright.ai/jobs/info/694b55305d731211346fdf78?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Jan 14 |
-| **[RAISING CANES](https://www.raisingcanes.com)** | **[Intern - Communications Multimedia](https://jobright.ai/jobs/info/6968667d639b452fb57e0bee?utm_campaign=1053&utm_source=git)** | Plano, TX, US | On Site | Jan 13 |
 | **[Cleveland Guardians](https://www.mlb.com/guardians)** | **[Seasonal Intern, Live Experience](https://jobright.ai/jobs/info/6967244f639b452fb57cc5f4?utm_campaign=1053&utm_source=git)** | Cleveland, OH | On Site | Jan 13 |
 | ↳ | **[Seasonal Intern, Live Experience](https://jobright.ai/jobs/info/6966fb136f782b4e8d52a53d?utm_campaign=1053&utm_source=git)** | Cleveland, Ohio, United States | On Site | Jan 13 |
 | **[Art Institute of Chicago](http://www.artic.edu/)** | **[McMullan Arts Leadership Internship Program](https://jobright.ai/jobs/info/69672aca1703f05405a8d979?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Jan 13 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6961e042a112b40266106329?utm_campaign=1053&utm_source=git)** | Evanston, IL | Hybrid | Jan 09 |
 | ↳ | **[Summer 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6961e1ddf3f4cd132506db22?utm_campaign=1053&utm_source=git)** | Providence, RI | Hybrid | Jan 09 |
 | ↳ | **[Summer 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6961cbb2f3f4cd132506cd57?utm_campaign=1053&utm_source=git)** | Tempe, AZ | Hybrid | Jan 09 |
-| **[Hamilton Tiger-Cats Football Club](https://ticats.ca)** | **[Intern, Guest Experience & Events](https://jobright.ai/jobs/info/6961cdf6e7ed9a5731ba9c7b?utm_campaign=1053&utm_source=git)** | Hamilton, Ontario, Canada | On Site | Jan 09 |
-| **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Summer 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6961ce44f3f4cd132506ceab?utm_campaign=1053&utm_source=git)** | Atlanta, GA | Hybrid | Jan 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
