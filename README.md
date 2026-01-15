@@ -57,8 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[LoveLane](https://www.lovelane.co)** | **[tiktok content creator USA - App Start-up (unpaid, remote)](https://jobright.ai/jobs/info/69682b27639b452fb57dbfca?utm_campaign=1053&utm_source=git)** | United States | Remote | Jan 14 |
+| **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Arborist Trainee Internship (2026) / Crystal Lake, IL](https://jobright.ai/jobs/info/69682a8d1703f05405a9cea5?utm_campaign=1053&utm_source=git)** | Crystal Lake, IL | On Site | Jan 14 |
+| ↳ | **[Arborist Trainee Internship (2026) / Near North Shore (Wheeling), IL](https://jobright.ai/jobs/info/696827e6639b452fb57db9d2?utm_campaign=1053&utm_source=git)** | Wheeling, IL | On Site | Jan 14 |
+| ↳ | **[Arborist Trainee Internship (2026) / Lake Bluff, IL](https://jobright.ai/jobs/info/696827961703f05405a9c99a?utm_campaign=1053&utm_source=git)** | Lake Bluff, IL | On Site | Jan 14 |
+| **[HP](http://www.hp.com)** | **[Technical Communication Video Intern](https://jobright.ai/jobs/info/69682a89f25a380066968620?utm_campaign=1053&utm_source=git)** | Boise, ID | On Site | Jan 14 |
 | **[Crystal Dynamics](http://crystald.com)** | **[Lighting Art Intern](https://jobright.ai/jobs/info/696809c11703f05405a9a77c?utm_campaign=1053&utm_source=git)** | Hybrid - San Carlos, CA | Hybrid | Jan 14 |
-| **[HP](http://www.hp.com)** | **[Technical Communication Video Intern](https://jobright.ai/jobs/info/696805d9639b452fb57d93f6?utm_campaign=1053&utm_source=git)** | Boise, Idaho, United States of America | On Site | Jan 14 |
+| **[HP](http://www.hp.com)** | **[Technical Communication Video Intern](https://jobright.ai/jobs/info/696818881703f05405a9b66b?utm_campaign=1053&utm_source=git)** | Boise, Idaho, United States of America | On Site | Jan 14 |
 | **[Simons Foundation](https://www.simonsfoundation.org)** | **[Video Intern, Quanta Magazine](https://jobright.ai/jobs/info/69680a03f25a380066965e98?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jan 14 |
 | ↳ | **[Video Intern, Quanta Magazine](https://jobright.ai/jobs/info/6967e85df25a380066964140?utm_campaign=1053&utm_source=git)** | 915 Broadway, New York, NY | On Site | Jan 14 |
 | **[Imagination Mode](Imaginationmode.com)** | **[Video editing intern](https://jobright.ai/jobs/info/69680f3c639b452fb57d9d6a?utm_campaign=1053&utm_source=git)** | Boston, MA | Remote | Jan 14 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[KUTV 2News / KMYU](http://kutv.com/)** | **[Intern - Studio Crew](https://jobright.ai/jobs/info/69619604f3f4cd132506a3e1?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Jan 09 |
 | **[Nutanix](http://www.nutanix.com)** | **[Multimedia Communications Intern (Adobe Experience Manager,studio operations, including camera, audio, and background setup)](https://jobright.ai/jobs/info/6961878ca112b40266101a8c?utm_campaign=1053&utm_source=git)** | San Jose, CA | Hybrid | Jan 09 |
 | **[Lee Enterprises](http://lee.net/)** | **[News Intern](https://jobright.ai/jobs/info/69616b95a112b402660fedcc?utm_campaign=1053&utm_source=git)** | Winston-Salem, NC, USA | On Site | Jan 09 |
-| **[Inc. Magazine](http://www.inc.com)** | **[Editorial Intern](https://jobright.ai/jobs/info/6961337ea112b402660fbc6e?utm_campaign=1053&utm_source=git)** | NYC Metro Area | Hybrid | Jan 09 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Disney Theatrical Live Events Intern, Summer 2026](https://jobright.ai/jobs/info/695e5c84a112b402660d1ef0?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jan 09 |
-| **[Encore](https://www.encoreglobal.com/)** | **[Event Technology Internship (Spring semester)- JW Marriott Marco Island Resort](https://jobright.ai/jobs/info/68e48454b99ec3563b0eb1a8?utm_campaign=1053&utm_source=git)** | Marco Island, FL | On Site | Jan 09 |
-| **[Bass Pro Shops](https://www.basspro.com)** | **[Intern- Golf Maintenance](https://jobright.ai/jobs/info/68f0012e9821486c423c886a?utm_campaign=1053&utm_source=git)** | Ridgedale, MO | On Site | Jan 09 |
-| **[WAVY-TV 10](http://wavy.com)** | **[WAVY Unpaid Sports Intern, Summer Semester 2026](https://jobright.ai/jobs/info/6944baa750bbaf765056d1fa?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Jan 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
