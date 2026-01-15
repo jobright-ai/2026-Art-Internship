@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[OKC Fair Park & The Oklahoma State Fair](https://okstatefair.com/)** | **[Creative Programs Assistant / Intern - 2026 OK State Fair](https://jobright.ai/jobs/info/696926551703f05405ab065b?utm_campaign=1053&utm_source=git)** | Oklahoma City, OK, Oklahoma City, OK, US | On Site | Jan 15 |
 | **[VOX ATL](https://voxatl.org)** | **[VOX Media Café Teen Intern](https://jobright.ai/jobs/info/69690926639b452fb57ed2ef?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Jan 15 |
+| **[Westfield Insurance](https://www.westfieldinsurance.com)** | **[Golf Operations Intern (Summer 2026)](https://jobright.ai/jobs/info/69138a3fd1047e3565d03df9?utm_campaign=1053&utm_source=git)** | Westfield Center, OH | On Site | Jan 15 |
 | **[Daikin Applied Americas](https://www.daikinapplied.com)** | **[Roadshow Coordinator Intern](https://jobright.ai/jobs/info/6933d079764507023d1b9aed?utm_campaign=1053&utm_source=git)** | Plymouth, MN | Hybrid | Jan 15 |
 | **[Skild AI](https://www.skild.ai/)** | **[Technical Animator Intern](https://jobright.ai/jobs/info/6913e9241465e02904e9882f?utm_campaign=1053&utm_source=git)** | San Mateo, CA | On Site | Jan 15 |
 | **[Duolingo](https://www.duolingo.com)** | **[Motion Design Animator, Thrive Intern](https://jobright.ai/jobs/info/6930abfaef4b48533d14daaa?utm_campaign=1053&utm_source=git)** | Detroit, MI | On Site | Jan 15 |
@@ -78,7 +80,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Arborist Trainee Internship (2026) / Lake Bluff, IL](https://jobright.ai/jobs/info/696827961703f05405a9c99a?utm_campaign=1053&utm_source=git)** | Lake Bluff, IL | On Site | Jan 14 |
 | **[HP](http://www.hp.com)** | **[Technical Communication Video Intern](https://jobright.ai/jobs/info/69682a89f25a380066968620?utm_campaign=1053&utm_source=git)** | Boise, ID | On Site | Jan 14 |
 | **[Crystal Dynamics](http://crystald.com)** | **[Lighting Art Intern](https://jobright.ai/jobs/info/69683e16639b452fb57de0be?utm_campaign=1053&utm_source=git)** | San Carlos, CA | Hybrid | Jan 14 |
-| ↳ | **[Lighting Art Intern](https://jobright.ai/jobs/info/696809c11703f05405a9a77c?utm_campaign=1053&utm_source=git)** | Hybrid - San Carlos, CA | Hybrid | Jan 14 |
+| **[Aprajita.art](https://www.aprajita.art)** | **[Studio Intern – Aprajita.art (Hybrid / Bridgewater, NJ)- Mentorship forcused](https://jobright.ai/jobs/info/69690ab0f25a380066979a3b?utm_campaign=1053&utm_source=git)** | Bridgewater, NJ | Hybrid | Jan 14 |
+| **[Crystal Dynamics](http://crystald.com)** | **[Lighting Art Intern](https://jobright.ai/jobs/info/696809c11703f05405a9a77c?utm_campaign=1053&utm_source=git)** | Hybrid - San Carlos, CA | Hybrid | Jan 14 |
 | **[Quanta Magazine](https://www.quantamagazine.org)** | **[Video Intern](https://jobright.ai/jobs/info/69680a03f25a380066965e98?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jan 14 |
 | **[HP](http://www.hp.com)** | **[Technical Communication Video Intern](https://jobright.ai/jobs/info/696818881703f05405a9b66b?utm_campaign=1053&utm_source=git)** | Boise, Idaho, United States of America | On Site | Jan 14 |
 | **[Simons Foundation](https://www.simonsfoundation.org)** | **[Video Intern, Quanta Magazine](https://jobright.ai/jobs/info/6967e85df25a380066964140?utm_campaign=1053&utm_source=git)** | 915 Broadway, New York, NY | On Site | Jan 14 |
@@ -97,9 +100,10 @@ For a complete list, click the following sortable link below:
 | **[Football Club Magazine](footballclubmagazine.com)** | **[Soccer Podcast Co Host](https://jobright.ai/jobs/info/69670dc36f782b4e8d52beaa?utm_campaign=1053&utm_source=git)** | Charlotte, NC | On Site | Jan 13 |
 | **[Nevada State University](https://www.nsc.edu)** | **[Intern - Visual Media Campus Videographer](https://jobright.ai/jobs/info/6966decb5ad3a93f82324c69?utm_campaign=1053&utm_source=git)** | NSU - Main Campus | On Site | Jan 13 |
 | **[Audacy, Inc.](https://audacyinc.com/)** | **[Summer Intern](https://jobright.ai/jobs/info/6966fa13a13587668084400f?utm_campaign=1053&utm_source=git)** | Farmington, CT | On Site | Jan 13 |
+| **[Indy Media](indymediaa.com)** | **[Video Editor](https://jobright.ai/jobs/info/69690d12f25a380066979b16?utm_campaign=1053&utm_source=git)** | Charlotte, NC | Hybrid | Jan 13 |
 | **[Apartment Therapy Media](http://www.apartmenttherapy.com/)** | **[Dorm Therapy Editorial Intern](https://jobright.ai/jobs/info/6966c7775ad3a93f823221e9?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jan 13 |
 | ↳ | **[Dorm Therapy Editorial Intern - Summer 2026](https://jobright.ai/jobs/info/6966eb59b098f4515f4e5581?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jan 13 |
-| **[AccuWeather](http://www.accuweather.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/6966da30a112b4026614ed38?utm_campaign=1053&utm_source=git)** | State College, PA | On Site | Jan 13 |
+| **[AccuWeather](http://www.accuweather.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/6966d7d75ad3a93f823245ce?utm_campaign=1053&utm_source=git)** | State College, PA | On Site | Jan 13 |
 | **[The Writer's Workout](http://www.writersworkout.net)** | **[Summer Internship](https://jobright.ai/jobs/info/69669e815ad3a93f8231ee17?utm_campaign=1053&utm_source=git)** | Columbia, KY | Remote | Jan 13 |
 | **[(USTA) United States Tennis Association](http://www.usta.com)** | **[Undergraduate Intern Summer 2026 - Video Services](https://jobright.ai/jobs/info/695a028aaa05c26e7ab3aa95?utm_campaign=1053&utm_source=git)** | Purchase, NY | Hybrid | Jan 13 |
 | **[Fox News Media](https://www.foxnews.com/)** | **[Summer 2026 FOX News Internship Program - Fashion - New York](https://jobright.ai/jobs/info/694a11b763141d188459ba53?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jan 13 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Educational Media Foundation K-LOVE & Air1 Media Networks](https://www.klove.com)** | **[News Internship](https://jobright.ai/jobs/info/6962561a2cbf4e44756c5444?utm_campaign=1053&utm_source=git)** | Franklin, TN | On Site | Jan 10 |
 | **[Sinclair Inc.](http://sbgi.net/)** | **[KATV Spring 2026 Intern](https://jobright.ai/jobs/info/690b9aff221b890c277f61e1?utm_campaign=1053&utm_source=git)** | Little Rock, AR | On Site | Jan 10 |
 | **[WISN-TV](https://www.wisn.com)** | **[WISN Spring Intern](https://jobright.ai/jobs/info/6961cbecf3f4cd132506cd7a?utm_campaign=1053&utm_source=git)** | Milwaukee, WI | On Site | Jan 09 |
-| **[Premier Lacrosse League](https://www.premierlacrosseleague.com/)** | **[TLN Video Editing Intern](https://jobright.ai/jobs/info/6961c6a0a112b4026610552f?utm_campaign=1053&utm_source=git)** | United States | Remote | Jan 09 |
-| **[Portland Timbers](http://www.timbers.com)** | **[Special Events Intern](https://jobright.ai/jobs/info/6961c457a112b402661053e4?utm_campaign=1053&utm_source=git)** | Portland, OR | On Site | Jan 09 |
-| **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Summer 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6961b4ece7ed9a5731ba88e5?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | Hybrid | Jan 09 |
-| **[Hamilton Tiger-Cats Football Club](https://ticats.ca)** | **[Intern, Game Production & Events](https://jobright.ai/jobs/info/6961d91ca112b4026610601c?utm_campaign=1053&utm_source=git)** | Hamilton, Ontario, Canada | On Site | Jan 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
