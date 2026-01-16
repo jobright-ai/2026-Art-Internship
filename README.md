@@ -57,8 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Studio Restoration Management and Library Management Intern, Summer 2026](https://jobright.ai/jobs/info/696a07bc1703f05405ac204e?utm_campaign=1053&utm_source=git)** | Burbank, CA, USA | Hybrid | Jan 16 |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[The Hill Summer 2026 Editorial Intern- Washington DC](https://jobright.ai/jobs/info/6969fc78f25a38006698c109?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Jan 16 |
+| **[Middle East Institute](http://www.mei.edu)** | **[Events & Communications Internship (unpaid)](https://jobright.ai/jobs/info/6969fb9a1703f05405ac02c4?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Jan 16 |
 | **[Infold Games](https://www.papegames.cn/)** | **[Infold Games (Animated Feature) - 2026 INTERN](https://jobright.ai/jobs/info/6969dcf1f25a38006698a6f3?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Jan 15 |
+| **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[Her Campus Culture & Style Intern - Spring 2026](https://jobright.ai/jobs/info/696a01f1f25a38006698cec9?utm_campaign=1053&utm_source=git)** | United States | Remote | Jan 15 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[National Geographic Editorial Operations Intern, Summer 2026](https://jobright.ai/jobs/info/6969d3a7f25a380066989bf5?utm_campaign=1053&utm_source=git)** | Washington, DC, USA | Hybrid | Jan 15 |
+| **[Waterford.org](http://www.waterford.org)** | **[Summer Events Intern](https://jobright.ai/jobs/info/6969f8d4f25a38006698bcb1?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Jan 15 |
+| **[FC Dallas](http://www.fcdallas.com)** | **[2026 Season Video Production Intern](https://jobright.ai/jobs/info/6969f15cf25a38006698b38f?utm_campaign=1053&utm_source=git)** | Frisco, TX | On Site | Jan 15 |
 | **[Advisor.](www.advisormag.co)** | **[Fashion Writing Intern](https://jobright.ai/jobs/info/6969cdd3639b452fb57fd192?utm_campaign=1053&utm_source=git)** | United States | Remote | Jan 15 |
 | **[Temple Square Hospitality Corporation](http://templesquarehospitality.com)** | **[Post Production/Archiving Intern](https://jobright.ai/jobs/info/696998b3639b452fb57f8a1f?utm_campaign=1053&utm_source=git)** | SLC Triad Center | Hybrid | Jan 15 |
 | **[RedPeg Marketing](https://redpeg.com/)** | **[2026 Summer Internship - Video, Digital & Content Intern](https://jobright.ai/jobs/info/6969c20ef25a3800669878a5?utm_campaign=1053&utm_source=git)** | Alexandria, VA | Hybrid | Jan 15 |
@@ -85,6 +91,7 @@ For a complete list, click the following sortable link below:
 | **[Duolingo](https://www.duolingo.com)** | **[Motion Design Animator, Thrive Intern](https://jobright.ai/jobs/info/6930abfaef4b48533d14daaa?utm_campaign=1053&utm_source=git)** | Detroit, MI | On Site | Jan 15 |
 | **[Lakeside](https://www.lakesidepharma.com.mx)** | **[ARTS MANAGEMENT INTERN](https://jobright.ai/jobs/info/69697d37639b452fb57f5caa?utm_campaign=1053&utm_source=git)** | 43440, OH, US | On Site | Jan 15 |
 | **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[IAE Videography Internship - Spring 2026](https://jobright.ai/jobs/info/6968dbbd1703f05405aab3e4?utm_campaign=1053&utm_source=git)** | Tampa, FL | On Site | Jan 14 |
+| **[Strap Photo Club](https://www.strapphotoclub.com)** | **[TikTok Content Creator Intern (Part-Time)](https://jobright.ai/jobs/info/6969f095639b452fb57fe9a6?utm_campaign=1053&utm_source=git)** | United States | Remote | Jan 14 |
 | **[Operation Smile](http://www.operationsmile.org)** | **[Writing Internship - Operation Smile ILC](https://jobright.ai/jobs/info/696883c31703f05405aa42b9?utm_campaign=1053&utm_source=git)** | Virginia Beach, VA | Hybrid | Jan 14 |
 | **[Philo Homes](https://philo.homes/)** | **[AI Video Producer Intern_Bilingual Mandarin](https://jobright.ai/jobs/info/69689277f25a380066971742?utm_campaign=1053&utm_source=git)** | New York, United States | Remote | Jan 14 |
 | **[The Dispatch](https://thedispatch.com/)** | **[Summer 2026 Internship](https://jobright.ai/jobs/info/69687e371703f05405aa3abd?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Jan 14 |
@@ -104,7 +111,7 @@ For a complete list, click the following sortable link below:
 | **[Crystal Dynamics](http://crystald.com)** | **[Lighting Art Intern](https://jobright.ai/jobs/info/69683e16639b452fb57de0be?utm_campaign=1053&utm_source=git)** | San Carlos, CA | Hybrid | Jan 14 |
 | **[Aprajita.art](https://www.aprajita.art)** | **[Studio Intern – Aprajita.art (Hybrid / Bridgewater, NJ)- Mentorship forcused](https://jobright.ai/jobs/info/69690ab0f25a380066979a3b?utm_campaign=1053&utm_source=git)** | Bridgewater, NJ | Hybrid | Jan 14 |
 | **[Crystal Dynamics](http://crystald.com)** | **[Lighting Art Intern](https://jobright.ai/jobs/info/696809c11703f05405a9a77c?utm_campaign=1053&utm_source=git)** | Hybrid - San Carlos, CA | Hybrid | Jan 14 |
-| **[HP](http://www.hp.com)** | **[Technical Communication Video Intern](https://jobright.ai/jobs/info/696805d9639b452fb57d93f6?utm_campaign=1053&utm_source=git)** | Boise, Idaho, United States of America | On Site | Jan 14 |
+| **[HP](http://www.hp.com)** | **[Technical Communication Video Intern](https://jobright.ai/jobs/info/696818881703f05405a9b66b?utm_campaign=1053&utm_source=git)** | Boise, Idaho, United States of America | On Site | Jan 14 |
 | **[Simons Foundation](https://www.simonsfoundation.org)** | **[Video Intern, Quanta Magazine](https://jobright.ai/jobs/info/69680a03f25a380066965e98?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jan 14 |
 | ↳ | **[Video Intern, Quanta Magazine](https://jobright.ai/jobs/info/6967e85df25a380066964140?utm_campaign=1053&utm_source=git)** | 915 Broadway, New York, NY | On Site | Jan 14 |
 | **[JURIST](https://www.jurist.org/)** | **[Law student volunteer reporter](https://jobright.ai/jobs/info/6967df091703f05405a9868a?utm_campaign=1053&utm_source=git)** | Pittsburgh, PA | Remote | Jan 14 |
@@ -117,12 +124,11 @@ For a complete list, click the following sortable link below:
 | **[Art Institute of Chicago](http://www.artic.edu/)** | **[McMullan Arts Leadership Internship Program](https://jobright.ai/jobs/info/69672aca1703f05405a8d979?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Jan 13 |
 | **[Pittsburgh Penguins](https://www.nhl.com/penguins/)** | **[Video Production Internship (Summer 2026)](https://jobright.ai/jobs/info/69675ebf1703f05405a90a21?utm_campaign=1053&utm_source=git)** | Pittsburgh, PA | On Site | Jan 13 |
 | **[Iowa Public Radio](https://www.iowapublicradio.org/)** | **[The Midwest Newsroom News Fellow](https://jobright.ai/jobs/info/69675da81703f05405a90847?utm_campaign=1053&utm_source=git)** | Des Moines, IA | Hybrid | Jan 13 |
-| **[Football Club Magazine](footballclubmagazine.com)** | **[Soccer Podcast Co Host](https://jobright.ai/jobs/info/69670dc36f782b4e8d52beaa?utm_campaign=1053&utm_source=git)** | Charlotte, NC | On Site | Jan 13 |
 | **[Nevada State University](https://www.nsc.edu)** | **[Intern - Visual Media Campus Videographer](https://jobright.ai/jobs/info/6966decb5ad3a93f82324c69?utm_campaign=1053&utm_source=git)** | NSU - Main Campus | On Site | Jan 13 |
 | **[Audacy, Inc.](https://audacyinc.com/)** | **[Summer Intern](https://jobright.ai/jobs/info/6966fa13a13587668084400f?utm_campaign=1053&utm_source=git)** | Farmington, CT | On Site | Jan 13 |
 | **[Apartment Therapy Media](http://www.apartmenttherapy.com/)** | **[Dorm Therapy Editorial Intern](https://jobright.ai/jobs/info/6966c7775ad3a93f823221e9?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jan 13 |
 | ↳ | **[Dorm Therapy Editorial Intern - Summer 2026](https://jobright.ai/jobs/info/6966eb59b098f4515f4e5581?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jan 13 |
-| **[AccuWeather](http://www.accuweather.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/6966d7d75ad3a93f823245ce?utm_campaign=1053&utm_source=git)** | State College, PA | On Site | Jan 13 |
+| **[AccuWeather](http://www.accuweather.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/6966da30a112b4026614ed38?utm_campaign=1053&utm_source=git)** | State College, PA | On Site | Jan 13 |
 | **[(USTA) United States Tennis Association](http://www.usta.com)** | **[Undergraduate Intern Summer 2026 - Video Services](https://jobright.ai/jobs/info/695a028aaa05c26e7ab3aa95?utm_campaign=1053&utm_source=git)** | Purchase, NY | Hybrid | Jan 13 |
 | **[Fox News Media](https://www.foxnews.com/)** | **[Summer 2026 FOX News Internship Program - Fashion - New York](https://jobright.ai/jobs/info/694a11b763141d188459ba53?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jan 13 |
 | **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Intern, Video Production](https://jobright.ai/jobs/info/682e66f64de36dfb980acd4c?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Jan 13 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Raising Cane's Chicken Fingers](http://www.RaisingCanes.com)** | **[Intern - Communications Multimedia](https://jobright.ai/jobs/info/695ff977a1bbea1d9a7ac40b?utm_campaign=1053&utm_source=git)** | Plano, TX | On Site | Jan 12 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Talk and Entertainment Show Intern 1](https://jobright.ai/jobs/info/69527c875bb7de448ef598bc?utm_campaign=1053&utm_source=git)** | Cleveland, OH | On Site | Jan 12 |
 | ↳ | **[Talk and Entertainment Show Intern 2](https://jobright.ai/jobs/info/68b9f5968043103d4f21c509?utm_campaign=1053&utm_source=git)** | Cleveland, OH | On Site | Jan 12 |
-| ↳ | **[Unpaid Internship](https://jobright.ai/jobs/info/695744bef1f8465b79ee03cf?utm_campaign=1053&utm_source=git)** | Savannah, GA | On Site | Jan 12 |
-| **[The Transmitter](https://spectrumnews.org/)** | **[Science Reporting Intern](https://jobright.ai/jobs/info/6959f933aa05c26e7ab3a721?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jan 12 |
-| **[WME | William Morris Endeavor](https://www.wmeagency.com)** | **[Intern, Literary Media](https://jobright.ai/jobs/info/6947db1b7d506e3808f3302a?utm_campaign=1053&utm_source=git)** | Beverly Hills, CA | On Site | Jan 12 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[National Geographic Editorial Video Intern, Summer 2026](https://jobright.ai/jobs/info/696489a2a112b40266127220?utm_campaign=1053&utm_source=git)** | Washington, DC, USA | Hybrid | Jan 11 |
-| **[Pencor Services, Inc.](http://pencor.com)** | **[Summer Creative News Internship](https://jobright.ai/jobs/info/69640d4e25e1871507809be3?utm_campaign=1053&utm_source=git)** | Lehighton, PA | On Site | Jan 11 |
-| **[Mississippi Mud Monsters](https://ondeck2025.com/)** | **[Live Event Production Internship](https://jobright.ai/jobs/info/6963ff1f2cbf4e44756d9c7e?utm_campaign=1053&utm_source=git)** | Pearl, MS | On Site | Jan 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
