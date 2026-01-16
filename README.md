@@ -57,11 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Infold Games](https://www.papegames.cn/)** | **[Infold Games (Animated Feature) - 2026 INTERN](https://jobright.ai/jobs/info/6969dcf1f25a38006698a6f3?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Jan 15 |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[National Geographic Editorial Operations Intern, Summer 2026](https://jobright.ai/jobs/info/6969d3a7f25a380066989bf5?utm_campaign=1053&utm_source=git)** | Washington, DC, USA | Hybrid | Jan 15 |
 | **[Advisor.](www.advisormag.co)** | **[Fashion Writing Intern](https://jobright.ai/jobs/info/6969cdd3639b452fb57fd192?utm_campaign=1053&utm_source=git)** | United States | Remote | Jan 15 |
 | **[Temple Square Hospitality Corporation](http://templesquarehospitality.com)** | **[Post Production/Archiving Intern](https://jobright.ai/jobs/info/696998b3639b452fb57f8a1f?utm_campaign=1053&utm_source=git)** | SLC Triad Center | Hybrid | Jan 15 |
 | **[RedPeg Marketing](https://redpeg.com/)** | **[2026 Summer Internship - Video, Digital & Content Intern](https://jobright.ai/jobs/info/6969c20ef25a3800669878a5?utm_campaign=1053&utm_source=git)** | Alexandria, VA | Hybrid | Jan 15 |
 | **[Boncom](https://www.boncom.com/)** | **[Post Production/Archiving Intern](https://jobright.ai/jobs/info/6969b7d4639b452fb57fa570?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | Hybrid | Jan 15 |
-| **[Columbus Crew](https://www.columbuscrew.com/)** | **[Video Production Intern](https://jobright.ai/jobs/info/6969a9fd639b452fb57f9ab9?utm_campaign=1053&utm_source=git)** | 577 West Nationwide Boulevard, Columbus, OH, USA | On Site | Jan 15 |
 | **[Fargo Park District](https://www.fargoparks.com)** | **[Events Intern](https://jobright.ai/jobs/info/6969b6e0f25a380066986bb8?utm_campaign=1053&utm_source=git)** | Fargo, ND | On Site | Jan 15 |
 | **[FC Dallas](http://www.fcdallas.com)** | **[2026 Season Video Production Intern](https://jobright.ai/jobs/info/6969d099639b452fb57fd308?utm_campaign=1053&utm_source=git)** | Frisco, Texas | On Site | Jan 15 |
 | **[Interactive Brokers](https://www.interactivebrokers.com/en/home.php)** | **[Translation & Media Production Intern](https://jobright.ai/jobs/info/6920d1233f782d2f1afcbce1?utm_campaign=1053&utm_source=git)** | Greenwich, CT | On Site | Jan 15 |
@@ -103,9 +104,9 @@ For a complete list, click the following sortable link below:
 | **[Crystal Dynamics](http://crystald.com)** | **[Lighting Art Intern](https://jobright.ai/jobs/info/69683e16639b452fb57de0be?utm_campaign=1053&utm_source=git)** | San Carlos, CA | Hybrid | Jan 14 |
 | **[Aprajita.art](https://www.aprajita.art)** | **[Studio Intern – Aprajita.art (Hybrid / Bridgewater, NJ)- Mentorship forcused](https://jobright.ai/jobs/info/69690ab0f25a380066979a3b?utm_campaign=1053&utm_source=git)** | Bridgewater, NJ | Hybrid | Jan 14 |
 | **[Crystal Dynamics](http://crystald.com)** | **[Lighting Art Intern](https://jobright.ai/jobs/info/696809c11703f05405a9a77c?utm_campaign=1053&utm_source=git)** | Hybrid - San Carlos, CA | Hybrid | Jan 14 |
-| **[Quanta Magazine](https://www.quantamagazine.org)** | **[Video Intern](https://jobright.ai/jobs/info/69680a03f25a380066965e98?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jan 14 |
-| **[HP](http://www.hp.com)** | **[Technical Communication Video Intern](https://jobright.ai/jobs/info/696818881703f05405a9b66b?utm_campaign=1053&utm_source=git)** | Boise, Idaho, United States of America | On Site | Jan 14 |
-| **[Simons Foundation](https://www.simonsfoundation.org)** | **[Video Intern, Quanta Magazine](https://jobright.ai/jobs/info/6967e85df25a380066964140?utm_campaign=1053&utm_source=git)** | 915 Broadway, New York, NY | On Site | Jan 14 |
+| **[HP](http://www.hp.com)** | **[Technical Communication Video Intern](https://jobright.ai/jobs/info/696805d9639b452fb57d93f6?utm_campaign=1053&utm_source=git)** | Boise, Idaho, United States of America | On Site | Jan 14 |
+| **[Simons Foundation](https://www.simonsfoundation.org)** | **[Video Intern, Quanta Magazine](https://jobright.ai/jobs/info/69680a03f25a380066965e98?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jan 14 |
+| ↳ | **[Video Intern, Quanta Magazine](https://jobright.ai/jobs/info/6967e85df25a380066964140?utm_campaign=1053&utm_source=git)** | 915 Broadway, New York, NY | On Site | Jan 14 |
 | **[JURIST](https://www.jurist.org/)** | **[Law student volunteer reporter](https://jobright.ai/jobs/info/6967df091703f05405a9868a?utm_campaign=1053&utm_source=git)** | Pittsburgh, PA | Remote | Jan 14 |
 | **[Amazon](https://amazon.com)** | **[Creative Development Intern, Primetime/Adult Animation , Prime Video & Amazon MGM Studios](https://jobright.ai/jobs/info/694bb7b15d731211347039da?utm_campaign=1053&utm_source=git)** | Culver City, CA | On Site | Jan 14 |
 | **[County of Riverside](https://rivco.org)** | **[Behavioral Health Friday Night Live (Indio) - Paid Internship](https://jobright.ai/jobs/info/6967a845639b452fb57d3d3c?utm_campaign=1053&utm_source=git)** | Riverside County, CA | On Site | Jan 14 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[National Geographic Editorial Video Intern, Summer 2026](https://jobright.ai/jobs/info/696489a2a112b40266127220?utm_campaign=1053&utm_source=git)** | Washington, DC, USA | Hybrid | Jan 11 |
 | **[Pencor Services, Inc.](http://pencor.com)** | **[Summer Creative News Internship](https://jobright.ai/jobs/info/69640d4e25e1871507809be3?utm_campaign=1053&utm_source=git)** | Lehighton, PA | On Site | Jan 11 |
 | **[Mississippi Mud Monsters](https://ondeck2025.com/)** | **[Live Event Production Internship](https://jobright.ai/jobs/info/6963ff1f2cbf4e44756d9c7e?utm_campaign=1053&utm_source=git)** | Pearl, MS | On Site | Jan 11 |
-| **[Commonwealth of Pennsylvania](http://www.arts.pa.gov)** | **[Park Operations Intern - Presque Isle State Park Complex](https://jobright.ai/jobs/info/69419ed0bdcf884a5add5453?utm_campaign=1053&utm_source=git)** | Erie, PA | On Site | Jan 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
