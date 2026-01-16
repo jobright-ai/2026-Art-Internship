@@ -57,8 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Advisor.](www.advisormag.co)** | **[Fashion Writing Intern](https://jobright.ai/jobs/info/6969cdd3639b452fb57fd192?utm_campaign=1053&utm_source=git)** | United States | Remote | Jan 15 |
 | **[Temple Square Hospitality Corporation](http://templesquarehospitality.com)** | **[Post Production/Archiving Intern](https://jobright.ai/jobs/info/696998b3639b452fb57f8a1f?utm_campaign=1053&utm_source=git)** | SLC Triad Center | Hybrid | Jan 15 |
+| **[RedPeg Marketing](https://redpeg.com/)** | **[2026 Summer Internship - Video, Digital & Content Intern](https://jobright.ai/jobs/info/6969c20ef25a3800669878a5?utm_campaign=1053&utm_source=git)** | Alexandria, VA | Hybrid | Jan 15 |
+| **[Boncom](https://www.boncom.com/)** | **[Post Production/Archiving Intern](https://jobright.ai/jobs/info/6969b7d4639b452fb57fa570?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | Hybrid | Jan 15 |
 | **[Columbus Crew](https://www.columbuscrew.com/)** | **[Video Production Intern](https://jobright.ai/jobs/info/6969a9fd639b452fb57f9ab9?utm_campaign=1053&utm_source=git)** | 577 West Nationwide Boulevard, Columbus, OH, USA | On Site | Jan 15 |
+| **[Fargo Park District](https://www.fargoparks.com)** | **[Events Intern](https://jobright.ai/jobs/info/6969b6e0f25a380066986bb8?utm_campaign=1053&utm_source=git)** | Fargo, ND | On Site | Jan 15 |
+| **[FC Dallas](http://www.fcdallas.com)** | **[2026 Season Video Production Intern](https://jobright.ai/jobs/info/6969d099639b452fb57fd308?utm_campaign=1053&utm_source=git)** | Frisco, Texas | On Site | Jan 15 |
 | **[Interactive Brokers](https://www.interactivebrokers.com/en/home.php)** | **[Translation & Media Production Intern](https://jobright.ai/jobs/info/6920d1233f782d2f1afcbce1?utm_campaign=1053&utm_source=git)** | Greenwich, CT | On Site | Jan 15 |
 | **[City of Loveland](https://www.lovgov.org)** | **[Golf Pro Shop Seasonal Intern-The Olde Course/Cattail Creek-Part Year](https://jobright.ai/jobs/info/6969ad5c1703f05405abaae7?utm_campaign=1053&utm_source=git)** | Loveland, Colorado, United States | On Site | Jan 15 |
 | ↳ | **[Golf Pro Shop Seasonal Intern-The Olde Course/Cattail Creek-Part Year](https://jobright.ai/jobs/info/6969a1451703f05405aba03b?utm_campaign=1053&utm_source=git)** | Loveland, CO | On Site | Jan 15 |
@@ -87,7 +92,6 @@ For a complete list, click the following sortable link below:
 | **[City of Westfield, Indiana](https://www.westfieldin.gov)** | **[Summer Intern (Westfield Welcome Events)](https://jobright.ai/jobs/info/69695bfe1703f05405ab3577?utm_campaign=1053&utm_source=git)** | Westfield, IN | On Site | Jan 14 |
 | **[Columbus Crew](https://www.columbuscrew.com/)** | **[Video Production Intern](https://jobright.ai/jobs/info/6969ae34f25a3800669864e4?utm_campaign=1053&utm_source=git)** | Columbus, OH | On Site | Jan 14 |
 | **[OKC Fair Park & The Oklahoma State Fair](https://okstatefair.com/)** | **[Creative Programs Assistant / Intern - 2026 OK State Fair](https://jobright.ai/jobs/info/69699b461703f05405ab9b4f?utm_campaign=1053&utm_source=git)** | Oklahoma City, OK | On Site | Jan 14 |
-| **[FC Dallas](http://www.fcdallas.com)** | **[2026 Season Video Production Intern](https://jobright.ai/jobs/info/696983161703f05405ab6e6c?utm_campaign=1053&utm_source=git)** | Frisco, TX | On Site | Jan 14 |
 | **[LoveLane](https://www.lovelane.co)** | **[tiktok content creator USA - App Start-up (unpaid, remote)](https://jobright.ai/jobs/info/69682b27639b452fb57dbfca?utm_campaign=1053&utm_source=git)** | United States | Remote | Jan 14 |
 | **[TikTok](https://www.tiktok.com)** | **[TikTok Short Drama Project Intern (TikTok-Short-Drama) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69684e2af25a38006696b2a4?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Jan 14 |
 | **[Charter & Co](https://chartercreative.co)** | **[Video Production Intern](https://jobright.ai/jobs/info/69685950639b452fb57dfc3f?utm_campaign=1053&utm_source=git)** | Hanover Park, IL | On Site | Jan 14 |
@@ -117,7 +121,7 @@ For a complete list, click the following sortable link below:
 | **[Audacy, Inc.](https://audacyinc.com/)** | **[Summer Intern](https://jobright.ai/jobs/info/6966fa13a13587668084400f?utm_campaign=1053&utm_source=git)** | Farmington, CT | On Site | Jan 13 |
 | **[Apartment Therapy Media](http://www.apartmenttherapy.com/)** | **[Dorm Therapy Editorial Intern](https://jobright.ai/jobs/info/6966c7775ad3a93f823221e9?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jan 13 |
 | ↳ | **[Dorm Therapy Editorial Intern - Summer 2026](https://jobright.ai/jobs/info/6966eb59b098f4515f4e5581?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jan 13 |
-| **[AccuWeather](http://www.accuweather.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/6966da30a112b4026614ed38?utm_campaign=1053&utm_source=git)** | State College, PA | On Site | Jan 13 |
+| **[AccuWeather](http://www.accuweather.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/6966d7d75ad3a93f823245ce?utm_campaign=1053&utm_source=git)** | State College, PA | On Site | Jan 13 |
 | **[(USTA) United States Tennis Association](http://www.usta.com)** | **[Undergraduate Intern Summer 2026 - Video Services](https://jobright.ai/jobs/info/695a028aaa05c26e7ab3aa95?utm_campaign=1053&utm_source=git)** | Purchase, NY | Hybrid | Jan 13 |
 | **[Fox News Media](https://www.foxnews.com/)** | **[Summer 2026 FOX News Internship Program - Fashion - New York](https://jobright.ai/jobs/info/694a11b763141d188459ba53?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jan 13 |
 | **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Intern, Video Production](https://jobright.ai/jobs/info/682e66f64de36dfb980acd4c?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Jan 13 |
@@ -133,7 +137,6 @@ For a complete list, click the following sortable link below:
 | **[CBS News and Stations](http://www.cbs.com)** | **[Creative Services Intern, KDKA Pittsburgh (Summer 2026)](https://jobright.ai/jobs/info/694a3d8231c12007d3b90067?utm_campaign=1053&utm_source=git)** | Pittsburgh, PA | On Site | Jan 13 |
 | **[ERI](http://ERIDirect.com)** | **[Podcast Production/Promotion Intern](https://jobright.ai/jobs/info/69661c23a112b40266142e72?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Remote | Jan 13 |
 | **[CBS News and Stations](http://www.cbs.com)** | **[CBS News Intern, KPIX San Francisco (Summer 2026)](https://jobright.ai/jobs/info/6949f8c063141d1884597c1a?utm_campaign=1053&utm_source=git)** | San Francisco, CA | On Site | Jan 13 |
-| **[First Rodeo Racing, LLC](https://www.firstrodeoracing.com/)** | **[Content & Media Intern](https://jobright.ai/jobs/info/6967972f639b452fb57d279e?utm_campaign=1053&utm_source=git)** | NYC Metro Area | On Site | Jan 12 |
 | **[Miami Marlins and loanDepot park](https://marlins.mlb.com/)** | **[Sports Pathway Intern - Video](https://jobright.ai/jobs/info/6965af7d2cbf4e44756f5c92?utm_campaign=1053&utm_source=git)** | Miami, FL | On Site | Jan 12 |
 | **[Attain Sports](https://attainsports.com)** | **[Broadcast Intern](https://jobright.ai/jobs/info/696578e3a112b40266136b46?utm_campaign=1053&utm_source=git)** | Frederick, MD | On Site | Jan 12 |
 | **[SWCA Environmental Consultants](https://www.swca.com/)** | **[Cultural Resources Intern](https://jobright.ai/jobs/info/69657780a112b40266136991?utm_campaign=1053&utm_source=git)** | Fort Collins, CO | On Site | Jan 12 |
@@ -143,7 +146,6 @@ For a complete list, click the following sortable link below:
 | **[NORTH SIX](http://northsix.net)** | **[Production Intern](https://jobright.ai/jobs/info/6965719a6d52670c5c3e50fd?utm_campaign=1053&utm_source=git)** | Manhattan, NY | On Site | Jan 12 |
 | **[Complex NTWRK](https://www.complex.com)** | **[Editorial Creator Intern - College Credit](https://jobright.ai/jobs/info/68e42046b99ec3563b0e64c9?utm_campaign=1053&utm_source=git)** | New York, United States | On Site | Jan 12 |
 | **[Northstar Travel Group](http://www.NorthstarTravelGroup.com)** | **[Editorial & Research Intern](https://jobright.ai/jobs/info/69654a7aa112b4026613200b?utm_campaign=1053&utm_source=git)** | United States | Remote | Jan 12 |
-| **[DRIP AND DIP](dripanddipiv.com)** | **[Videographer](https://jobright.ai/jobs/info/696538546d52670c5c3e018a?utm_campaign=1053&utm_source=git)** | Miami, FL | Remote | Jan 12 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Internship](https://jobright.ai/jobs/info/68d71459894705799a2f086a?utm_campaign=1053&utm_source=git)** | Savannah, GA | On Site | Jan 12 |
 | **[Raising Cane's Chicken Fingers](http://www.RaisingCanes.com)** | **[Intern - Communications Multimedia](https://jobright.ai/jobs/info/695ff977a1bbea1d9a7ac40b?utm_campaign=1053&utm_source=git)** | Plano, TX | On Site | Jan 12 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Talk and Entertainment Show Intern 1](https://jobright.ai/jobs/info/69527c875bb7de448ef598bc?utm_campaign=1053&utm_source=git)** | Cleveland, OH | On Site | Jan 12 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Pencor Services, Inc.](http://pencor.com)** | **[Summer Creative News Internship](https://jobright.ai/jobs/info/69640d4e25e1871507809be3?utm_campaign=1053&utm_source=git)** | Lehighton, PA | On Site | Jan 11 |
 | **[Mississippi Mud Monsters](https://ondeck2025.com/)** | **[Live Event Production Internship](https://jobright.ai/jobs/info/6963ff1f2cbf4e44756d9c7e?utm_campaign=1053&utm_source=git)** | Pearl, MS | On Site | Jan 11 |
 | **[Commonwealth of Pennsylvania](http://www.arts.pa.gov)** | **[Park Operations Intern - Presque Isle State Park Complex](https://jobright.ai/jobs/info/69419ed0bdcf884a5add5453?utm_campaign=1053&utm_source=git)** | Erie, PA | On Site | Jan 11 |
-| **[Minnesota Wind Chill](http://www.windchillultimate.com)** | **[Gameday Production Internship - Summer '26](https://jobright.ai/jobs/info/6963afc025e1871507804493?utm_campaign=1053&utm_source=git)** | Minnetrista, MN | On Site | Jan 11 |
-| **[AAAS](http://www.aaas.org/)** | **[Diverse Voices in Science Journalism Intern](https://jobright.ai/jobs/info/695df58d4b7a590c5b95634e?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Jan 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
