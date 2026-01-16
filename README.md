@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[National Education Association](http://www.nea.org)** | **[NEA Editorial Intern, Center for Communications (Winter/Spring 2026)](https://jobright.ai/jobs/info/69324986f131d96e4845aa29?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Jan 16 |
+| **[Dow Jones](http://www.dowjones.com)** | **[Reporting Internship, Mansion Global](https://jobright.ai/jobs/info/6962226a25e18715077f02dc?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jan 16 |
+| **[SPORTFIVE](http://www.sportfive.com/)** | **[INTERN (EXPERIENTIAL) - HOUSTON, TX](https://jobright.ai/jobs/info/692f7b7afa28370be26aaad4?utm_campaign=1053&utm_source=git)** | Houston, TX | On Site | Jan 16 |
 | **[KUTV 2News / KMYU](http://kutv.com/)** | **[Intern - Studio Crew](https://jobright.ai/jobs/info/696a1bb95fc8624185391ce7?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Jan 16 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Studio Restoration Management and Library Management Intern, Summer 2026](https://jobright.ai/jobs/info/696a07bc1703f05405ac204e?utm_campaign=1053&utm_source=git)** | Burbank, CA, USA | Hybrid | Jan 16 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[The Hill Summer 2026 Editorial Intern- Washington DC](https://jobright.ai/jobs/info/6969fc78f25a38006698c109?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Jan 16 |
@@ -111,7 +114,7 @@ For a complete list, click the following sortable link below:
 | **[Crystal Dynamics](http://crystald.com)** | **[Lighting Art Intern](https://jobright.ai/jobs/info/69683e16639b452fb57de0be?utm_campaign=1053&utm_source=git)** | San Carlos, CA | Hybrid | Jan 14 |
 | **[Aprajita.art](https://www.aprajita.art)** | **[Studio Intern – Aprajita.art (Hybrid / Bridgewater, NJ)- Mentorship forcused](https://jobright.ai/jobs/info/69690ab0f25a380066979a3b?utm_campaign=1053&utm_source=git)** | Bridgewater, NJ | Hybrid | Jan 14 |
 | **[Crystal Dynamics](http://crystald.com)** | **[Lighting Art Intern](https://jobright.ai/jobs/info/696809c11703f05405a9a77c?utm_campaign=1053&utm_source=git)** | Hybrid - San Carlos, CA | Hybrid | Jan 14 |
-| **[HP](http://www.hp.com)** | **[Technical Communication Video Intern](https://jobright.ai/jobs/info/696805d9639b452fb57d93f6?utm_campaign=1053&utm_source=git)** | Boise, Idaho, United States of America | On Site | Jan 14 |
+| **[HP](http://www.hp.com)** | **[Technical Communication Video Intern](https://jobright.ai/jobs/info/696818881703f05405a9b66b?utm_campaign=1053&utm_source=git)** | Boise, Idaho, United States of America | On Site | Jan 14 |
 | **[Simons Foundation](https://www.simonsfoundation.org)** | **[Video Intern, Quanta Magazine](https://jobright.ai/jobs/info/69680a03f25a380066965e98?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jan 14 |
 | ↳ | **[Video Intern, Quanta Magazine](https://jobright.ai/jobs/info/6967e85df25a380066964140?utm_campaign=1053&utm_source=git)** | 915 Broadway, New York, NY | On Site | Jan 14 |
 | **[JURIST](https://www.jurist.org/)** | **[Law student volunteer reporter](https://jobright.ai/jobs/info/6967df091703f05405a9868a?utm_campaign=1053&utm_source=git)** | Pittsburgh, PA | Remote | Jan 14 |
@@ -128,7 +131,7 @@ For a complete list, click the following sortable link below:
 | **[Audacy, Inc.](https://audacyinc.com/)** | **[Summer Intern](https://jobright.ai/jobs/info/6966fa13a13587668084400f?utm_campaign=1053&utm_source=git)** | Farmington, CT | On Site | Jan 13 |
 | **[Apartment Therapy Media](http://www.apartmenttherapy.com/)** | **[Dorm Therapy Editorial Intern](https://jobright.ai/jobs/info/6966c7775ad3a93f823221e9?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jan 13 |
 | ↳ | **[Dorm Therapy Editorial Intern - Summer 2026](https://jobright.ai/jobs/info/6966eb59b098f4515f4e5581?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jan 13 |
-| **[AccuWeather](http://www.accuweather.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/6966d7d75ad3a93f823245ce?utm_campaign=1053&utm_source=git)** | State College, PA | On Site | Jan 13 |
+| **[AccuWeather](http://www.accuweather.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/6966da30a112b4026614ed38?utm_campaign=1053&utm_source=git)** | State College, PA | On Site | Jan 13 |
 | **[(USTA) United States Tennis Association](http://www.usta.com)** | **[Undergraduate Intern Summer 2026 - Video Services](https://jobright.ai/jobs/info/695a028aaa05c26e7ab3aa95?utm_campaign=1053&utm_source=git)** | Purchase, NY | Hybrid | Jan 13 |
 | **[Fox News Media](https://www.foxnews.com/)** | **[Summer 2026 FOX News Internship Program - Fashion - New York](https://jobright.ai/jobs/info/694a11b763141d188459ba53?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jan 13 |
 | **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Intern, Video Production](https://jobright.ai/jobs/info/682e66f64de36dfb980acd4c?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Jan 13 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Complex NTWRK](https://www.complex.com)** | **[Editorial Creator Intern - College Credit](https://jobright.ai/jobs/info/68e42046b99ec3563b0e64c9?utm_campaign=1053&utm_source=git)** | New York, United States | On Site | Jan 12 |
 | **[Northstar Travel Group](http://www.NorthstarTravelGroup.com)** | **[Editorial & Research Intern](https://jobright.ai/jobs/info/69654a7aa112b4026613200b?utm_campaign=1053&utm_source=git)** | United States | Remote | Jan 12 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Internship](https://jobright.ai/jobs/info/68d71459894705799a2f086a?utm_campaign=1053&utm_source=git)** | Savannah, GA | On Site | Jan 12 |
-| **[Raising Cane's Chicken Fingers](http://www.RaisingCanes.com)** | **[Intern - Communications Multimedia](https://jobright.ai/jobs/info/695ff977a1bbea1d9a7ac40b?utm_campaign=1053&utm_source=git)** | Plano, TX | On Site | Jan 12 |
-| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Talk and Entertainment Show Intern 1](https://jobright.ai/jobs/info/69527c875bb7de448ef598bc?utm_campaign=1053&utm_source=git)** | Cleveland, OH | On Site | Jan 12 |
-| ↳ | **[Talk and Entertainment Show Intern 2](https://jobright.ai/jobs/info/68b9f5968043103d4f21c509?utm_campaign=1053&utm_source=git)** | Cleveland, OH | On Site | Jan 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
