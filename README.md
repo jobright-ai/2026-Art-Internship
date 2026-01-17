@@ -57,13 +57,19 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[City of Westfield, Indiana](https://www.westfieldin.gov)** | **[Summer Intern (Westfield Welcome Events)](https://jobright.ai/jobs/info/696aea335fc86241853a2534?utm_campaign=1053&utm_source=git)** | Westfield, IN | On Site | Jan 16 |
+| **[Stride, Inc.](https://www.stridelearning.com)** | **[Video Production & Editing Intern](https://jobright.ai/jobs/info/696ae9e3350cf43803121cad?utm_campaign=1053&utm_source=git)** | United States | Remote | Jan 16 |
+| **[American Fidelity](http://www.americanfidelity.com)** | **[Videographer Intern](https://jobright.ai/jobs/info/696ae5255fc86241853a190e?utm_campaign=1053&utm_source=git)** | Oklahoma City, OK | On Site | Jan 16 |
 | **[Hitch](https://www.hitchmedia.co)** | **[Video Editing Intern](https://jobright.ai/jobs/info/696acb8e350cf4380311e064?utm_campaign=1053&utm_source=git)** | Austin, TX | Hybrid | Jan 16 |
+| **[American Fidelity](http://www.americanfidelity.com)** | **[Videographer Intern](https://jobright.ai/jobs/info/696ae780350cf4380312168c?utm_campaign=1053&utm_source=git)** | Oklahoma City, Oklahoma | On Site | Jan 16 |
 | **[Magna International](http://www.magna.com/)** | **[Video Intern - Summer 2026](https://jobright.ai/jobs/info/696ac17f350cf4380311cfd2?utm_campaign=1053&utm_source=git)** | Troy, MI | On Site | Jan 16 |
 | **[FlowTiger](https://www.flowtiger.com/)** | **[Content Creator Intern (UGC, TikTok, Instagram)](https://jobright.ai/jobs/info/696ab8e6350cf4380311c06e?utm_campaign=1053&utm_source=git)** | United States | Remote | Jan 16 |
 | **[Cincinnati Art Museum](https://www.cincinnatiartmuseum.org/)** | **[Paid Internship - Special Events & Hospitality Spring 2026](https://jobright.ai/jobs/info/696ab31ddb26b618950deea6?utm_campaign=1053&utm_source=git)** | Cincinnati, OH | On Site | Jan 16 |
 | **[ESCO Retail Services](https://escoretail.com)** | **[Social Media Videography Internship](https://jobright.ai/jobs/info/696aaef55fc862418539b275?utm_campaign=1053&utm_source=git)** | Richmond, Richmond, VA, US | On Site | Jan 16 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Digital Content Intern](https://jobright.ai/jobs/info/696acdc8db26b618950e1bc0?utm_campaign=1053&utm_source=git)** | NY, New York | On Site | Jan 16 |
 | ↳ | **[Production Department Unpaid Intern](https://jobright.ai/jobs/info/696acc6ddb26b618950e1915?utm_campaign=1053&utm_source=git)** | IL, Rockford | On Site | Jan 16 |
+| **[Stride, Inc.](https://www.stridelearning.com)** | **[Video Production & Editing Intern](https://jobright.ai/jobs/info/696ad30f5fc862418539f6fb?utm_campaign=1053&utm_source=git)** | US Nationwide - Remote | Remote | Jan 16 |
+| **[National Association of Black Journalists (NABJ)](http://www.nabj.org/)** | **[News Intern, Nature News](https://jobright.ai/jobs/info/696ad2dbdb26b618950e244c?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Jan 16 |
 | **[Detroit Lions](http://www.detroitlions.com)** | **[Game & Event Production Intern](https://jobright.ai/jobs/info/696a9823db26b618950dc2bb?utm_campaign=1053&utm_source=git)** | Detroit, MI 48226 | On Site | Jan 16 |
 | **[Consigli Construction Co., Inc.](http://www.consigli.com)** | **[Marketing - Videographer Intern](https://jobright.ai/jobs/info/696a9739db26b618950dc180?utm_campaign=1053&utm_source=git)** | Milford, Massachusetts, United States | On Site | Jan 16 |
 | **[MedHugs](medhugs.com)** | **[Video Editor cum Creator In house Intern](https://jobright.ai/jobs/info/696abd945fc862418539d222?utm_campaign=1053&utm_source=git)** | Stafford, TX | Remote | Jan 16 |
@@ -133,7 +139,7 @@ For a complete list, click the following sortable link below:
 | **[Aprajita.art](https://www.aprajita.art)** | **[Studio Intern – Aprajita.art (Hybrid / Bridgewater, NJ)- Mentorship forcused](https://jobright.ai/jobs/info/69690ab0f25a380066979a3b?utm_campaign=1053&utm_source=git)** | Bridgewater, NJ | Hybrid | Jan 14 |
 | **[SE Media](https://www.youtube.com/user/SamEckholm)** | **[Video Editor Intern](https://jobright.ai/jobs/info/696a3c46db26b618950d6e29?utm_campaign=1053&utm_source=git)** | San Francisco, CA | On Site | Jan 14 |
 | **[Crystal Dynamics](http://crystald.com)** | **[Lighting Art Intern](https://jobright.ai/jobs/info/696809c11703f05405a9a77c?utm_campaign=1053&utm_source=git)** | Hybrid - San Carlos, CA | Hybrid | Jan 14 |
-| **[HP](http://www.hp.com)** | **[Technical Communication Video Intern](https://jobright.ai/jobs/info/696805d9639b452fb57d93f6?utm_campaign=1053&utm_source=git)** | Boise, Idaho, United States of America | On Site | Jan 14 |
+| **[HP](http://www.hp.com)** | **[Technical Communication Video Intern](https://jobright.ai/jobs/info/696818881703f05405a9b66b?utm_campaign=1053&utm_source=git)** | Boise, Idaho, United States of America | On Site | Jan 14 |
 | **[Simons Foundation](https://www.simonsfoundation.org)** | **[Video Intern, Quanta Magazine](https://jobright.ai/jobs/info/6967e85df25a380066964140?utm_campaign=1053&utm_source=git)** | 915 Broadway, New York, NY | On Site | Jan 14 |
 | **[Amazon](https://amazon.com)** | **[Creative Development Intern, Primetime/Adult Animation , Prime Video & Amazon MGM Studios](https://jobright.ai/jobs/info/694bb7b15d731211347039da?utm_campaign=1053&utm_source=git)** | Culver City, CA | On Site | Jan 14 |
 | **[County of Riverside](https://rivco.org)** | **[Behavioral Health Friday Night Live (Indio) - Paid Internship](https://jobright.ai/jobs/info/6967a845639b452fb57d3d3c?utm_campaign=1053&utm_source=git)** | Riverside County, CA | On Site | Jan 14 |
@@ -149,12 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Audacy, Inc.](https://audacyinc.com/)** | **[Summer Intern](https://jobright.ai/jobs/info/6966fa13a13587668084400f?utm_campaign=1053&utm_source=git)** | Farmington, CT | On Site | Jan 13 |
 | **[Apartment Therapy Media](http://www.apartmenttherapy.com/)** | **[Dorm Therapy Editorial Intern](https://jobright.ai/jobs/info/6966c7775ad3a93f823221e9?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jan 13 |
 | ↳ | **[Dorm Therapy Editorial Intern - Summer 2026](https://jobright.ai/jobs/info/6966eb59b098f4515f4e5581?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jan 13 |
-| **[AccuWeather](http://www.accuweather.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/6966d7d75ad3a93f823245ce?utm_campaign=1053&utm_source=git)** | State College, PA | On Site | Jan 13 |
+| **[AccuWeather](http://www.accuweather.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/6966da30a112b4026614ed38?utm_campaign=1053&utm_source=git)** | State College, PA | On Site | Jan 13 |
 | **[(USTA) United States Tennis Association](http://www.usta.com)** | **[Undergraduate Intern Summer 2026 - Video Services](https://jobright.ai/jobs/info/695a028aaa05c26e7ab3aa95?utm_campaign=1053&utm_source=git)** | Purchase, NY | Hybrid | Jan 13 |
-| **[Fox News Media](https://www.foxnews.com/)** | **[Summer 2026 FOX News Internship Program - Fashion - New York](https://jobright.ai/jobs/info/694a11b763141d188459ba53?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jan 13 |
-| **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Intern, Video Production](https://jobright.ai/jobs/info/682e66f64de36dfb980acd4c?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Jan 13 |
-| **[People Inc.](https://www.people.inc/)** | **[Summer Intern, Photo/Video Studio](https://jobright.ai/jobs/info/694a129ac6f0e2546cef11ab?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jan 13 |
-| ↳ | **[Summer Intern, Byrdie/InStyle Editorial](https://jobright.ai/jobs/info/6949f6c67d506e3808f5062b?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jan 13 |
-| **[Troon](http://www.troon.com/)** | **[Corporate Intern](https://jobright.ai/jobs/info/694a07c77d506e3808f52d5a?utm_campaign=1053&utm_source=git)** | Birmingham, AL | On Site | Jan 13 |
-| **[People Inc.](https://www.people.inc/)** | **[Summer Intern, PEOPLE - Editorial](https://jobright.ai/jobs/info/694a00d17d506e3808f51ae3?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jan 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
