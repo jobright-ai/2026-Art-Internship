@@ -57,7 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[IMG ARENA](https://www.imgarena.com/about/)** | **[Intern, Sports Broadcasting](https://jobright.ai/jobs/info/696b3cae5fc86241853a953e?utm_campaign=1053&utm_source=git)** | NY-New York - 11 Madison | On Site | Jan 16 |
+| **[IMG ARENA](https://www.imgarena.com/about/)** | **[Intern, Sports Broadcasting](https://jobright.ai/jobs/info/696b3f84db26b618950ec5bb?utm_campaign=1053&utm_source=git)** | NY-New York - 11 Madison | On Site | Jan 16 |
 | **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[Her Campus News & Politics Editorial Intern - Spring 2026](https://jobright.ai/jobs/info/696b35b8350cf43803128629?utm_campaign=1053&utm_source=git)** | United States | Remote | Jan 16 |
 | **[Salt Lake County](https://www.slco.org)** | **[Production Intern](https://jobright.ai/jobs/info/696b3596350cf43803128600?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Jan 16 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Digital Content Intern](https://jobright.ai/jobs/info/696af585350cf438031230f7?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jan 16 |
@@ -67,9 +67,9 @@ For a complete list, click the following sortable link below:
 | **[Stride, Inc.](https://www.stridelearning.com)** | **[Video Production & Editing Intern](https://jobright.ai/jobs/info/696ae9e3350cf43803121cad?utm_campaign=1053&utm_source=git)** | United States | Remote | Jan 16 |
 | **[American Fidelity](http://www.americanfidelity.com)** | **[Videographer Intern](https://jobright.ai/jobs/info/696ae5255fc86241853a190e?utm_campaign=1053&utm_source=git)** | Oklahoma City, OK | On Site | Jan 16 |
 | **[The Sea Pines Resort](https://www.seapines.com/)** | **[Golf Maintenance J1 Intern (ADHPG)](https://jobright.ai/jobs/info/696af909db26b618950e6c2f?utm_campaign=1053&utm_source=git)** | Hilton Head Island, SC 29928, USA | Hybrid | Jan 16 |
-| **[Clark Planetarium](http://www.clarkplanetarium.org)** | **[Production Intern](https://jobright.ai/jobs/info/696b0986350cf43803124dcc?utm_campaign=1053&utm_source=git)** | 84101 | On Site | Jan 16 |
+| **[Clark Planetarium](http://www.clarkplanetarium.org)** | **[Production Intern](https://jobright.ai/jobs/info/696afda3350cf43803123b90?utm_campaign=1053&utm_source=git)** | US-UT-SALT LAKE CITY | On Site | Jan 16 |
 | ↳ | **[Production Intern](https://jobright.ai/jobs/info/696af82ddb26b618950e6985?utm_campaign=1053&utm_source=git)** | 50 W 200 S | On Site | Jan 16 |
-| ↳ | **[Production Intern](https://jobright.ai/jobs/info/696afda3350cf43803123b90?utm_campaign=1053&utm_source=git)** | US-UT-SALT LAKE CITY | On Site | Jan 16 |
+| ↳ | **[Production Intern](https://jobright.ai/jobs/info/696b0986350cf43803124dcc?utm_campaign=1053&utm_source=git)** | 84101 | On Site | Jan 16 |
 | **[Hitch](https://www.hitchmedia.co)** | **[Video Editing Intern](https://jobright.ai/jobs/info/696acb8e350cf4380311e064?utm_campaign=1053&utm_source=git)** | Austin, TX | Hybrid | Jan 16 |
 | **[EcoServants®](https://ecoservantsproject.org/)** | **[Content Creator](https://jobright.ai/jobs/info/696b101bdb26b618950e89a9?utm_campaign=1053&utm_source=git)** | San Diego, CA | Remote | Jan 16 |
 | **[American Fidelity](http://www.americanfidelity.com)** | **[Videographer Intern](https://jobright.ai/jobs/info/696ae780350cf4380312168c?utm_campaign=1053&utm_source=git)** | Oklahoma City, Oklahoma | On Site | Jan 16 |
@@ -79,7 +79,6 @@ For a complete list, click the following sortable link below:
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Digital Content Intern](https://jobright.ai/jobs/info/696acdc8db26b618950e1bc0?utm_campaign=1053&utm_source=git)** | NY, New York | On Site | Jan 16 |
 | ↳ | **[Production Department Unpaid Intern](https://jobright.ai/jobs/info/696acc6ddb26b618950e1915?utm_campaign=1053&utm_source=git)** | IL, Rockford | On Site | Jan 16 |
 | **[Stride, Inc.](https://www.stridelearning.com)** | **[Video Production & Editing Intern](https://jobright.ai/jobs/info/696ad30f5fc862418539f6fb?utm_campaign=1053&utm_source=git)** | US Nationwide - Remote | Remote | Jan 16 |
-| **[National Association of Black Journalists (NABJ)](http://www.nabj.org/)** | **[News Intern, Nature News](https://jobright.ai/jobs/info/696ad2dbdb26b618950e244c?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Jan 16 |
 | **[Detroit Lions](http://www.detroitlions.com)** | **[Game & Event Production Intern](https://jobright.ai/jobs/info/696a9823db26b618950dc2bb?utm_campaign=1053&utm_source=git)** | Detroit, MI 48226 | On Site | Jan 16 |
 | **[Consigli Construction Co., Inc.](http://www.consigli.com)** | **[Marketing - Videographer Intern](https://jobright.ai/jobs/info/696a9739db26b618950dc180?utm_campaign=1053&utm_source=git)** | Milford, Massachusetts, United States | On Site | Jan 16 |
 | **[Shiseido](http://www.shiseido.com/)** | **[Hajimari Intern, Global Artistry & Education (NARS)](https://jobright.ai/jobs/info/696aadbf350cf4380311a487?utm_campaign=1053&utm_source=git)** | New York, United States | On Site | Jan 16 |
@@ -94,7 +93,6 @@ For a complete list, click the following sortable link below:
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[News Department Unpaid Intern](https://jobright.ai/jobs/info/696a52b4350cf438031140f9?utm_campaign=1053&utm_source=git)** | Charlotte, NC | On Site | Jan 16 |
 | **[ámaxa](https://www.amaxaimpact.org/)** | **[Blog Writer Intern](https://jobright.ai/jobs/info/696a4ab3db26b618950d76f1?utm_campaign=1053&utm_source=git)** | United States | Remote | Jan 16 |
 | **[National Education Association](http://www.nea.org)** | **[NEA Editorial Intern, Center for Communications (Winter/Spring 2026)](https://jobright.ai/jobs/info/69324986f131d96e4845aa29?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Jan 16 |
-| **[Dow Jones](http://www.dowjones.com)** | **[Reporting Internship, Mansion Global](https://jobright.ai/jobs/info/6962226a25e18715077f02dc?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jan 16 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[National Geographic Editorial Video Intern, Summer 2026](https://jobright.ai/jobs/info/69664e9d5ad3a93f8231b0b5?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Jan 16 |
 | ↳ | **[National Geographic Yellow Border Production Services & Post-Production Intern, Summer 2026](https://jobright.ai/jobs/info/69665b62a112b40266145d41?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Jan 16 |
 | **[SPORTFIVE](http://www.sportfive.com/)** | **[INTERN (EXPERIENTIAL) - HOUSTON, TX](https://jobright.ai/jobs/info/692f7b7afa28370be26aaad4?utm_campaign=1053&utm_source=git)** | Houston, TX | On Site | Jan 16 |
@@ -157,4 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Pittsburgh Penguins](https://www.nhl.com/penguins/)** | **[Video Production Internship (Summer 2026)](https://jobright.ai/jobs/info/69675ebf1703f05405a90a21?utm_campaign=1053&utm_source=git)** | Pittsburgh, PA | On Site | Jan 13 |
 | **[Iowa Public Radio](https://www.iowapublicradio.org/)** | **[The Midwest Newsroom News Fellow](https://jobright.ai/jobs/info/69675da81703f05405a90847?utm_campaign=1053&utm_source=git)** | Des Moines, IA | Hybrid | Jan 13 |
 | **[Nevada State University](https://www.nsc.edu)** | **[Intern - Visual Media Campus Videographer](https://jobright.ai/jobs/info/6966decb5ad3a93f82324c69?utm_campaign=1053&utm_source=git)** | NSU - Main Campus | On Site | Jan 13 |
+| **[Audacy, Inc.](https://audacyinc.com/)** | **[Summer Intern](https://jobright.ai/jobs/info/6966fa13a13587668084400f?utm_campaign=1053&utm_source=git)** | Farmington, CT | On Site | Jan 13 |
+| **[Apartment Therapy Media](http://www.apartmenttherapy.com/)** | **[Dorm Therapy Editorial Intern](https://jobright.ai/jobs/info/6966c7775ad3a93f823221e9?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jan 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
