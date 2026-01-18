@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Industrial Light & Magic](http://ilm.com/)** | **[ILM Immersive, Interactive Animation Intern, Summer 2026](https://jobright.ai/jobs/info/696c176edb26b618950f75c0?utm_campaign=1053&utm_source=git)** | San Francisco, CA | On Site | Jan 17 |
 | **[NARS Cosmetics](https://www.narscosmetics.com/)** | **[Hajimari Intern, Global Artistry & Education (NARS)](https://jobright.ai/jobs/info/696bf310350cf4380313264e?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jan 17 |
 | **[Endeavor](http://www.endeavorco.com)** | **[Intern, Sports Broadcasting](https://jobright.ai/jobs/info/696b9f48350cf4380312f367?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jan 17 |
 | **[Brunswick Corporation](http://www.brunswick.com)** | **[Advanced Research & Storytelling Intern- BBGTC](https://jobright.ai/jobs/info/68c3398d63829b0a8a500fe2?utm_campaign=1053&utm_source=git)** | Edgewater, FL | On Site | Jan 17 |
@@ -78,16 +79,16 @@ For a complete list, click the following sortable link below:
 | **[Stride, Inc.](https://www.stridelearning.com)** | **[Video Production & Editing Intern](https://jobright.ai/jobs/info/696ae9e3350cf43803121cad?utm_campaign=1053&utm_source=git)** | United States | Remote | Jan 16 |
 | **[American Fidelity](http://www.americanfidelity.com)** | **[Videographer Intern](https://jobright.ai/jobs/info/696ae5255fc86241853a190e?utm_campaign=1053&utm_source=git)** | Oklahoma City, OK | On Site | Jan 16 |
 | **[The Sea Pines Resort](https://www.seapines.com/)** | **[Golf Maintenance J1 Intern (ADHPG)](https://jobright.ai/jobs/info/696af909db26b618950e6c2f?utm_campaign=1053&utm_source=git)** | Hilton Head Island, SC 29928, USA | Hybrid | Jan 16 |
-| **[Clark Planetarium](http://www.clarkplanetarium.org)** | **[Production Intern](https://jobright.ai/jobs/info/696afda3350cf43803123b90?utm_campaign=1053&utm_source=git)** | US-UT-SALT LAKE CITY | On Site | Jan 16 |
-| ↳ | **[Production Intern](https://jobright.ai/jobs/info/696b0986350cf43803124dcc?utm_campaign=1053&utm_source=git)** | 84101 | On Site | Jan 16 |
+| **[Clark Planetarium](http://www.clarkplanetarium.org)** | **[Production Intern](https://jobright.ai/jobs/info/696b0986350cf43803124dcc?utm_campaign=1053&utm_source=git)** | 84101 | On Site | Jan 16 |
+| ↳ | **[Production Intern](https://jobright.ai/jobs/info/696afda3350cf43803123b90?utm_campaign=1053&utm_source=git)** | US-UT-SALT LAKE CITY | On Site | Jan 16 |
 | ↳ | **[Production Intern](https://jobright.ai/jobs/info/696af82ddb26b618950e6985?utm_campaign=1053&utm_source=git)** | 50 W 200 S | On Site | Jan 16 |
 | **[Hitch](https://www.hitchmedia.co)** | **[Video Editing Intern](https://jobright.ai/jobs/info/696acb8e350cf4380311e064?utm_campaign=1053&utm_source=git)** | Austin, TX | Hybrid | Jan 16 |
 | **[American Fidelity](http://www.americanfidelity.com)** | **[Videographer Intern](https://jobright.ai/jobs/info/696ae780350cf4380312168c?utm_campaign=1053&utm_source=git)** | Oklahoma City, Oklahoma | On Site | Jan 16 |
 | **[Magna International](http://www.magna.com/)** | **[Video Intern - Summer 2026](https://jobright.ai/jobs/info/696ac17f350cf4380311cfd2?utm_campaign=1053&utm_source=git)** | Troy, MI | On Site | Jan 16 |
 | **[FlowTiger](https://www.flowtiger.com/)** | **[Content Creator Intern (UGC, TikTok, Instagram)](https://jobright.ai/jobs/info/696ab8e6350cf4380311c06e?utm_campaign=1053&utm_source=git)** | United States | Remote | Jan 16 |
 | **[ESCO Retail Services](https://escoretail.com)** | **[Social Media Videography Internship](https://jobright.ai/jobs/info/696aaef55fc862418539b275?utm_campaign=1053&utm_source=git)** | Richmond, Richmond, VA, US | On Site | Jan 16 |
-| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Production Department Unpaid Intern](https://jobright.ai/jobs/info/696acc6ddb26b618950e1915?utm_campaign=1053&utm_source=git)** | IL, Rockford | On Site | Jan 16 |
-| ↳ | **[Digital Content Intern](https://jobright.ai/jobs/info/696acdc8db26b618950e1bc0?utm_campaign=1053&utm_source=git)** | NY, New York | On Site | Jan 16 |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Digital Content Intern](https://jobright.ai/jobs/info/696acdc8db26b618950e1bc0?utm_campaign=1053&utm_source=git)** | NY, New York | On Site | Jan 16 |
+| ↳ | **[Production Department Unpaid Intern](https://jobright.ai/jobs/info/696acc6ddb26b618950e1915?utm_campaign=1053&utm_source=git)** | IL, Rockford | On Site | Jan 16 |
 | **[Stride, Inc.](https://www.stridelearning.com)** | **[Video Production & Editing Intern](https://jobright.ai/jobs/info/696ad30f5fc862418539f6fb?utm_campaign=1053&utm_source=git)** | US Nationwide - Remote | Remote | Jan 16 |
 | **[Detroit Lions](http://www.detroitlions.com)** | **[Game & Event Production Intern](https://jobright.ai/jobs/info/696a9823db26b618950dc2bb?utm_campaign=1053&utm_source=git)** | Detroit, MI 48226 | On Site | Jan 16 |
 | **[Consigli Construction Co., Inc.](http://www.consigli.com)** | **[Marketing - Videographer Intern](https://jobright.ai/jobs/info/696a9739db26b618950dc180?utm_campaign=1053&utm_source=git)** | Milford, Massachusetts, United States | On Site | Jan 16 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[National Geographic Documentary Films Intern, Summer 2026](https://jobright.ai/jobs/info/6962407425e18715077f19d0?utm_campaign=1053&utm_source=git)** | Burbank, CA | On Site | Jan 14 |
 | **[CBS News and Stations](http://www.cbs.com)** | **[CBS News Intern, KCAL Los Angeles/Studio City (Summer 2026)](https://jobright.ai/jobs/info/694b55305d731211346fdf78?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Jan 14 |
 | **[Cleveland Guardians](https://www.mlb.com/guardians)** | **[Seasonal Intern, Live Experience](https://jobright.ai/jobs/info/6967244f639b452fb57cc5f4?utm_campaign=1053&utm_source=git)** | Cleveland, OH | On Site | Jan 13 |
-| ↳ | **[Seasonal Intern, Live Experience](https://jobright.ai/jobs/info/6966fb136f782b4e8d52a53d?utm_campaign=1053&utm_source=git)** | Cleveland, Ohio, United States | On Site | Jan 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
