@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Art Bridges Foundation](https://artbridgesfoundation.org)** | **[Art Bridges Academic Year 2026-27 Traveling Exhibitions Internship](https://jobright.ai/jobs/info/6933ac5a764507023d1b808a?utm_campaign=1053&utm_source=git)** | Bentonville, AR | Hybrid | Jan 18 |
+| **[Students for Accessible Aerospace](https://www.aerostudent.org)** | **[Content Writer Intern](https://jobright.ai/jobs/info/696ccdb8350cf4380313d875?utm_campaign=1053&utm_source=git)** | United States | Remote | Jan 18 |
 | **[CBS News and Stations](http://www.cbs.com)** | **[CBS News Intern, KTVT Dallas/Ft Worth (Summer 2026)](https://jobright.ai/jobs/info/6944b84894730b739877fc03?utm_campaign=1053&utm_source=git)** | Fort Worth, TX | On Site | Jan 18 |
 | ↳ | **[CBS News Intern, WBBM Chicago (Summer 2026)](https://jobright.ai/jobs/info/6944b5dfa7227b3ece666159?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Jan 18 |
 | ↳ | **[Creative Services Intern, CBS Chicago (Summer 2026)](https://jobright.ai/jobs/info/6944c9eaa7227b3ece6672f8?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Jan 18 |
@@ -76,7 +78,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[ILM Immersive, Interactive Animation Intern, Summer 2026](https://jobright.ai/jobs/info/696b7ccb5fc86241853ad25f?utm_campaign=1053&utm_source=git)** | San Francisco, CA | On Site | Jan 17 |
 | **[Genzest LLC](https://nailphoria.com/)** | **[Livestream Operation intern](https://jobright.ai/jobs/info/696b96ec350cf4380312eeb0?utm_campaign=1053&utm_source=git)** | West Hollywood, CA | On Site | Jan 17 |
 | **[Sports Illustrated Stadium](https://www.sportsillustratedstadium.com)** | **[2026 Internship, Spring - Event Operations](https://jobright.ai/jobs/info/691689689c388539cbdfc5c9?utm_campaign=1053&utm_source=git)** | Harrison, NJ | On Site | Jan 17 |
-| **[IMG ARENA](https://www.imgarena.com/about/)** | **[Intern, Sports Broadcasting](https://jobright.ai/jobs/info/696b3f84db26b618950ec5bb?utm_campaign=1053&utm_source=git)** | NY-New York - 11 Madison | On Site | Jan 16 |
+| **[IMG ARENA](https://www.imgarena.com/about/)** | **[Intern, Sports Broadcasting](https://jobright.ai/jobs/info/696b3a9bdb26b618950ec0fc?utm_campaign=1053&utm_source=git)** | NY-New York - 11 Madison | On Site | Jan 16 |
 | **[Salt Lake County](https://www.slco.org)** | **[Production Intern](https://jobright.ai/jobs/info/696b3596350cf43803128600?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Jan 16 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Digital Content Intern](https://jobright.ai/jobs/info/696af585350cf438031230f7?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jan 16 |
 | **[Builder Finance Inc](https://www.builderfinance.com/)** | **[Intern](https://jobright.ai/jobs/info/696af557350cf438031230dd?utm_campaign=1053&utm_source=git)** | Sioux Falls, SD | On Site | Jan 16 |
@@ -136,6 +138,7 @@ For a complete list, click the following sortable link below:
 | **[Daikin Applied Americas](https://www.daikinapplied.com)** | **[Roadshow Coordinator Intern](https://jobright.ai/jobs/info/6933d079764507023d1b9aed?utm_campaign=1053&utm_source=git)** | Plymouth, MN | Hybrid | Jan 15 |
 | **[Skild AI](https://www.skild.ai/)** | **[Technical Animator Intern](https://jobright.ai/jobs/info/6913e9241465e02904e9882f?utm_campaign=1053&utm_source=git)** | San Mateo, CA | On Site | Jan 15 |
 | **[Duolingo](https://www.duolingo.com)** | **[Motion Design Animator, Thrive Intern](https://jobright.ai/jobs/info/6930abfaef4b48533d14daaa?utm_campaign=1053&utm_source=git)** | Detroit, MI | On Site | Jan 15 |
+| **[Quanta Magazine](https://www.quantamagazine.org)** | **[Video Intern](https://jobright.ai/jobs/info/69680a03f25a380066965e98?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jan 15 |
 | **[Lakeside](https://www.lakesidepharma.com.mx)** | **[ARTS MANAGEMENT INTERN](https://jobright.ai/jobs/info/69697d37639b452fb57f5caa?utm_campaign=1053&utm_source=git)** | 43440, OH, US | On Site | Jan 15 |
 | **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[IAE Videography Internship - Spring 2026](https://jobright.ai/jobs/info/6968dbbd1703f05405aab3e4?utm_campaign=1053&utm_source=git)** | Tampa, FL | On Site | Jan 14 |
 | **[City of Westfield, Indiana](https://www.westfieldin.gov)** | **[Summer Intern (Westfield Welcome Events)](https://jobright.ai/jobs/info/696c82dfdb26b618950fd0cd?utm_campaign=1053&utm_source=git)** | Westfield, IN | On Site | Jan 14 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Aprajita.art](https://www.aprajita.art)** | **[Studio Intern – Aprajita.art (Hybrid / Bridgewater, NJ)- Mentorship forcused](https://jobright.ai/jobs/info/69690ab0f25a380066979a3b?utm_campaign=1053&utm_source=git)** | Bridgewater, NJ | Hybrid | Jan 14 |
 | **[SE Media](https://www.youtube.com/user/SamEckholm)** | **[Video Editor Intern](https://jobright.ai/jobs/info/696a3c46db26b618950d6e29?utm_campaign=1053&utm_source=git)** | San Francisco, CA | On Site | Jan 14 |
 | **[Crystal Dynamics](http://crystald.com)** | **[Lighting Art Intern](https://jobright.ai/jobs/info/696809c11703f05405a9a77c?utm_campaign=1053&utm_source=git)** | Hybrid - San Carlos, CA | Hybrid | Jan 14 |
-| **[HP](http://www.hp.com)** | **[Technical Communication Video Intern](https://jobright.ai/jobs/info/696818881703f05405a9b66b?utm_campaign=1053&utm_source=git)** | Boise, Idaho, United States of America | On Site | Jan 14 |
-| **[Simons Foundation](https://www.simonsfoundation.org)** | **[Video Intern, Quanta Magazine](https://jobright.ai/jobs/info/69680a03f25a380066965e98?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jan 14 |
-| ↳ | **[Video Intern, Quanta Magazine](https://jobright.ai/jobs/info/6967e85df25a380066964140?utm_campaign=1053&utm_source=git)** | 915 Broadway, New York, NY | On Site | Jan 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
