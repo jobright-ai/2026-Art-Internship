@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Schulte Hospitality Group](http://schultehospitality.com)** | **[Midnight Golf Internship](https://jobright.ai/jobs/info/696e98b7db26b61895117c8c?utm_campaign=1053&utm_source=git)** | Plymouth, MI | On Site | Jan 19 |
+| **[EnforceTheSport](https://enforcethesport.com)** | **[Three Month Writing Internship](https://jobright.ai/jobs/info/696e98645fc86241853d56f2?utm_campaign=1053&utm_source=git)** | United States | Remote | Jan 19 |
+| **[PHENYX](https://www.phenyx.co)** | **[Post-Production & Production Assistant Intern (Part-Time)](https://jobright.ai/jobs/info/696e934edb26b61895117165?utm_campaign=1053&utm_source=git)** | Lafayette, CO | On Site | Jan 19 |
 | **[City Of Chanhassen](http://www.ci.chanhassen.mn.us)** | **[Parks & Recreation Intern](https://jobright.ai/jobs/info/696e7c505fc86241853d36f3?utm_campaign=1053&utm_source=git)** | Chanhassen, MN | On Site | Jan 19 |
 | **[Vizual Edge](http://www.vizualedge.com)** | **[Content Creator](https://jobright.ai/jobs/info/696e7b8d5fc86241853d367b?utm_campaign=1053&utm_source=git)** | United States | Remote | Jan 19 |
 | **[NextGen Coding Company](https://www.nextgencodingcompany.com/)** | **[Junior Video Editor (Content Operations Intern)](https://jobright.ai/jobs/info/696e6f355fc86241853d3232?utm_campaign=1053&utm_source=git)** | New York, NY | Remote | Jan 19 |
@@ -88,7 +91,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[ILM Immersive, Interactive Animation Intern, Summer 2026](https://jobright.ai/jobs/info/696b7ccb5fc86241853ad25f?utm_campaign=1053&utm_source=git)** | San Francisco, CA | On Site | Jan 17 |
 | **[Genzest LLC](https://nailphoria.com/)** | **[Livestream Operation intern](https://jobright.ai/jobs/info/696b96ec350cf4380312eeb0?utm_campaign=1053&utm_source=git)** | West Hollywood, CA | On Site | Jan 17 |
 | **[Sports Illustrated Stadium](https://www.sportsillustratedstadium.com)** | **[2026 Internship, Spring - Event Operations](https://jobright.ai/jobs/info/691689689c388539cbdfc5c9?utm_campaign=1053&utm_source=git)** | Harrison, NJ | On Site | Jan 17 |
-| **[IMG ARENA](https://www.imgarena.com/about/)** | **[Intern, Sports Broadcasting](https://jobright.ai/jobs/info/696b3f84db26b618950ec5bb?utm_campaign=1053&utm_source=git)** | NY-New York - 11 Madison | On Site | Jan 16 |
+| **[IMG ARENA](https://www.imgarena.com/about/)** | **[Intern, Sports Broadcasting](https://jobright.ai/jobs/info/696b3cae5fc86241853a953e?utm_campaign=1053&utm_source=git)** | NY-New York - 11 Madison | On Site | Jan 16 |
 | **[Salt Lake County](https://www.slco.org)** | **[Production Intern](https://jobright.ai/jobs/info/696b3596350cf43803128600?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Jan 16 |
 | **[Dow Jones](http://www.dowjones.com)** | **[Reporting Internship, Mansion Global](https://jobright.ai/jobs/info/696dc1f35fc86241853c98fc?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jan 16 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Digital Content Intern](https://jobright.ai/jobs/info/696af585350cf438031230f7?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jan 16 |
@@ -106,8 +109,8 @@ For a complete list, click the following sortable link below:
 | **[Magna International](http://www.magna.com/)** | **[Video Intern - Summer 2026](https://jobright.ai/jobs/info/696ac17f350cf4380311cfd2?utm_campaign=1053&utm_source=git)** | Troy, MI | On Site | Jan 16 |
 | **[FlowTiger](https://www.flowtiger.com/)** | **[Content Creator Intern (UGC, TikTok, Instagram)](https://jobright.ai/jobs/info/696ab8e6350cf4380311c06e?utm_campaign=1053&utm_source=git)** | United States | Remote | Jan 16 |
 | **[ESCO Retail Services](https://escoretail.com)** | **[Social Media Videography Internship](https://jobright.ai/jobs/info/696aaef55fc862418539b275?utm_campaign=1053&utm_source=git)** | Richmond, Richmond, VA, US | On Site | Jan 16 |
-| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Digital Content Intern](https://jobright.ai/jobs/info/696acdc8db26b618950e1bc0?utm_campaign=1053&utm_source=git)** | NY, New York | On Site | Jan 16 |
-| ↳ | **[Production Department Unpaid Intern](https://jobright.ai/jobs/info/696acc6ddb26b618950e1915?utm_campaign=1053&utm_source=git)** | IL, Rockford | On Site | Jan 16 |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Production Department Unpaid Intern](https://jobright.ai/jobs/info/696acc6ddb26b618950e1915?utm_campaign=1053&utm_source=git)** | IL, Rockford | On Site | Jan 16 |
+| ↳ | **[Digital Content Intern](https://jobright.ai/jobs/info/696acdc8db26b618950e1bc0?utm_campaign=1053&utm_source=git)** | NY, New York | On Site | Jan 16 |
 | **[Stride, Inc.](https://www.stridelearning.com)** | **[Video Production & Editing Intern](https://jobright.ai/jobs/info/696ad30f5fc862418539f6fb?utm_campaign=1053&utm_source=git)** | US Nationwide - Remote | Remote | Jan 16 |
 | **[Detroit Lions](http://www.detroitlions.com)** | **[Game & Event Production Intern](https://jobright.ai/jobs/info/696a9823db26b618950dc2bb?utm_campaign=1053&utm_source=git)** | Detroit, MI 48226 | On Site | Jan 16 |
 | **[Consigli Construction Co., Inc.](http://www.consigli.com)** | **[Marketing - Videographer Intern](https://jobright.ai/jobs/info/696a9739db26b618950dc180?utm_campaign=1053&utm_source=git)** | Milford, Massachusetts, United States | On Site | Jan 16 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[City of Westfield, Indiana](https://www.westfieldin.gov)** | **[Summer Intern (Westfield Welcome Events)](https://jobright.ai/jobs/info/696c82dfdb26b618950fd0cd?utm_campaign=1053&utm_source=git)** | Westfield, IN | On Site | Jan 14 |
 | **[HP](http://www.hp.com)** | **[Technical Communication Video Intern](https://jobright.ai/jobs/info/696dc913350cf43803149d06?utm_campaign=1053&utm_source=git)** | Boise, ID | On Site | Jan 14 |
 | **[Operation Smile](http://www.operationsmile.org)** | **[Writing Internship - Operation Smile ILC](https://jobright.ai/jobs/info/696883c31703f05405aa42b9?utm_campaign=1053&utm_source=git)** | Virginia Beach, VA | Hybrid | Jan 14 |
-| **[Columbus Crew](https://www.columbuscrew.com/)** | **[Video Production Intern](https://jobright.ai/jobs/info/696d9fde350cf43803146cab?utm_campaign=1053&utm_source=git)** | Columbus, OH | On Site | Jan 14 |
-| **[Philo Homes](https://philo.homes/)** | **[AI Video Producer Intern_Bilingual Mandarin](https://jobright.ai/jobs/info/69689277f25a380066971742?utm_campaign=1053&utm_source=git)** | New York, United States | Remote | Jan 14 |
-| **[The Dispatch](https://thedispatch.com/)** | **[Summer 2026 Internship](https://jobright.ai/jobs/info/69687e371703f05405aa3abd?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Jan 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
