@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[DAYBREAKER](http://daybreaker.com/)** | **[Daybreaker Video Editing & Studio Assistant Internship](https://jobright.ai/jobs/info/696d9e5b5fc86241853c6eba?utm_campaign=1053&utm_source=git)** | New York County, NY | On Site | Jan 18 |
 | **[Groupe Dynamite](https://groupedynamite.com)** | **[Intern, Fit Technician](https://jobright.ai/jobs/info/695dd70c89be3415c7463186?utm_campaign=1053&utm_source=git)** | Mont-Royal, Quebec, Canada | On Site | Jan 18 |
 | **[D.C. United](http://dcunited.com)** | **[Intern, Videography](https://jobright.ai/jobs/info/696d48cb5fc86241853c427b?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Jan 18 |
 | **[Herschend Family Entertainment](http://www.hfecorp.com/)** | **[Adventureland Park - Food & Beverage Intern - Special Events](https://jobright.ai/jobs/info/696d364bdb26b61895104ea9?utm_campaign=1053&utm_source=git)** | Adventureland, 3200 Adventureland drive, Altoona,  IA 50009, United States of America | On Site | Jan 18 |
@@ -90,16 +91,16 @@ For a complete list, click the following sortable link below:
 | **[Stride, Inc.](https://www.stridelearning.com)** | **[Video Production & Editing Intern](https://jobright.ai/jobs/info/696ae9e3350cf43803121cad?utm_campaign=1053&utm_source=git)** | United States | Remote | Jan 16 |
 | **[American Fidelity](http://www.americanfidelity.com)** | **[Videographer Intern](https://jobright.ai/jobs/info/696ae5255fc86241853a190e?utm_campaign=1053&utm_source=git)** | Oklahoma City, OK | On Site | Jan 16 |
 | **[The Sea Pines Resort](https://www.seapines.com/)** | **[Golf Maintenance J1 Intern (ADHPG)](https://jobright.ai/jobs/info/696af909db26b618950e6c2f?utm_campaign=1053&utm_source=git)** | Hilton Head Island, SC 29928, USA | Hybrid | Jan 16 |
-| **[Clark Planetarium](http://www.clarkplanetarium.org)** | **[Production Intern](https://jobright.ai/jobs/info/696afda3350cf43803123b90?utm_campaign=1053&utm_source=git)** | US-UT-SALT LAKE CITY | On Site | Jan 16 |
-| ↳ | **[Production Intern](https://jobright.ai/jobs/info/696af82ddb26b618950e6985?utm_campaign=1053&utm_source=git)** | 50 W 200 S | On Site | Jan 16 |
+| **[Clark Planetarium](http://www.clarkplanetarium.org)** | **[Production Intern](https://jobright.ai/jobs/info/696af82ddb26b618950e6985?utm_campaign=1053&utm_source=git)** | 50 W 200 S | On Site | Jan 16 |
+| ↳ | **[Production Intern](https://jobright.ai/jobs/info/696afda3350cf43803123b90?utm_campaign=1053&utm_source=git)** | US-UT-SALT LAKE CITY | On Site | Jan 16 |
 | ↳ | **[Production Intern](https://jobright.ai/jobs/info/696b0986350cf43803124dcc?utm_campaign=1053&utm_source=git)** | 84101 | On Site | Jan 16 |
 | **[Hitch](https://www.hitchmedia.co)** | **[Video Editing Intern](https://jobright.ai/jobs/info/696acb8e350cf4380311e064?utm_campaign=1053&utm_source=git)** | Austin, TX | Hybrid | Jan 16 |
 | **[American Fidelity](http://www.americanfidelity.com)** | **[Videographer Intern](https://jobright.ai/jobs/info/696ae780350cf4380312168c?utm_campaign=1053&utm_source=git)** | Oklahoma City, Oklahoma | On Site | Jan 16 |
 | **[Magna International](http://www.magna.com/)** | **[Video Intern - Summer 2026](https://jobright.ai/jobs/info/696ac17f350cf4380311cfd2?utm_campaign=1053&utm_source=git)** | Troy, MI | On Site | Jan 16 |
 | **[FlowTiger](https://www.flowtiger.com/)** | **[Content Creator Intern (UGC, TikTok, Instagram)](https://jobright.ai/jobs/info/696ab8e6350cf4380311c06e?utm_campaign=1053&utm_source=git)** | United States | Remote | Jan 16 |
 | **[ESCO Retail Services](https://escoretail.com)** | **[Social Media Videography Internship](https://jobright.ai/jobs/info/696aaef55fc862418539b275?utm_campaign=1053&utm_source=git)** | Richmond, Richmond, VA, US | On Site | Jan 16 |
-| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Digital Content Intern](https://jobright.ai/jobs/info/696acdc8db26b618950e1bc0?utm_campaign=1053&utm_source=git)** | NY, New York | On Site | Jan 16 |
-| ↳ | **[Production Department Unpaid Intern](https://jobright.ai/jobs/info/696acc6ddb26b618950e1915?utm_campaign=1053&utm_source=git)** | IL, Rockford | On Site | Jan 16 |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Production Department Unpaid Intern](https://jobright.ai/jobs/info/696acc6ddb26b618950e1915?utm_campaign=1053&utm_source=git)** | IL, Rockford | On Site | Jan 16 |
+| ↳ | **[Digital Content Intern](https://jobright.ai/jobs/info/696acdc8db26b618950e1bc0?utm_campaign=1053&utm_source=git)** | NY, New York | On Site | Jan 16 |
 | **[Stride, Inc.](https://www.stridelearning.com)** | **[Video Production & Editing Intern](https://jobright.ai/jobs/info/696ad30f5fc862418539f6fb?utm_campaign=1053&utm_source=git)** | US Nationwide - Remote | Remote | Jan 16 |
 | **[Detroit Lions](http://www.detroitlions.com)** | **[Game & Event Production Intern](https://jobright.ai/jobs/info/696a9823db26b618950dc2bb?utm_campaign=1053&utm_source=git)** | Detroit, MI 48226 | On Site | Jan 16 |
 | **[Consigli Construction Co., Inc.](http://www.consigli.com)** | **[Marketing - Videographer Intern](https://jobright.ai/jobs/info/696a9739db26b618950dc180?utm_campaign=1053&utm_source=git)** | Milford, Massachusetts, United States | On Site | Jan 16 |
@@ -146,6 +147,7 @@ For a complete list, click the following sortable link below:
 | **[Lakeside](https://www.lakesidepharma.com.mx)** | **[ARTS MANAGEMENT INTERN](https://jobright.ai/jobs/info/69697d37639b452fb57f5caa?utm_campaign=1053&utm_source=git)** | 43440, OH, US | On Site | Jan 15 |
 | **[City of Westfield, Indiana](https://www.westfieldin.gov)** | **[Summer Intern (Westfield Welcome Events)](https://jobright.ai/jobs/info/696c82dfdb26b618950fd0cd?utm_campaign=1053&utm_source=git)** | Westfield, IN | On Site | Jan 14 |
 | **[Operation Smile](http://www.operationsmile.org)** | **[Writing Internship - Operation Smile ILC](https://jobright.ai/jobs/info/696883c31703f05405aa42b9?utm_campaign=1053&utm_source=git)** | Virginia Beach, VA | Hybrid | Jan 14 |
+| **[Columbus Crew](https://www.columbuscrew.com/)** | **[Video Production Intern](https://jobright.ai/jobs/info/696d9fde350cf43803146cab?utm_campaign=1053&utm_source=git)** | Columbus, OH | On Site | Jan 14 |
 | **[Philo Homes](https://philo.homes/)** | **[AI Video Producer Intern_Bilingual Mandarin](https://jobright.ai/jobs/info/69689277f25a380066971742?utm_campaign=1053&utm_source=git)** | New York, United States | Remote | Jan 14 |
 | **[The Dispatch](https://thedispatch.com/)** | **[Summer 2026 Internship](https://jobright.ai/jobs/info/69687e371703f05405aa3abd?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Jan 14 |
 | **[Philadelphia Art Museum](http://www.philamuseum.org/)** | **[Graduate Conservation Summer Intern](https://jobright.ai/jobs/info/69687f4c1703f05405aa3c85?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Jan 14 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[SWCA Environmental Consultants](https://www.swca.com/)** | **[Cultural Resources Intern](https://jobright.ai/jobs/info/696856d5f25a38006696bd89?utm_campaign=1053&utm_source=git)** | Sheridan, WY | On Site | Jan 14 |
 | **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Arborist Trainee Internship (2026) / Crystal Lake, IL](https://jobright.ai/jobs/info/69682a8d1703f05405a9cea5?utm_campaign=1053&utm_source=git)** | Crystal Lake, IL | On Site | Jan 14 |
 | ↳ | **[Arborist Trainee Internship (2026) / Near North Shore (Wheeling), IL](https://jobright.ai/jobs/info/696827e6639b452fb57db9d2?utm_campaign=1053&utm_source=git)** | Wheeling, IL | On Site | Jan 14 |
-| ↳ | **[Arborist Trainee Internship (2026) / Lake Bluff, IL](https://jobright.ai/jobs/info/696827961703f05405a9c99a?utm_campaign=1053&utm_source=git)** | Lake Bluff, IL | On Site | Jan 14 |
-| **[Crystal Dynamics](http://crystald.com)** | **[Lighting Art Intern](https://jobright.ai/jobs/info/69683e16639b452fb57de0be?utm_campaign=1053&utm_source=git)** | San Carlos, CA | Hybrid | Jan 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
