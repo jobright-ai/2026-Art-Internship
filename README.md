@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Nature Conservancy](http://www.nature.org)** | **[Lands and Lives Intern](https://jobright.ai/jobs/info/696de53ddb26b6189510d605?utm_campaign=1053&utm_source=git)** | Charlottesville, VA | Hybrid | Jan 19 |
 | **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[IAE Videography Internship - Spring 2026](https://jobright.ai/jobs/info/696dcd7c5fc86241853ca16a?utm_campaign=1053&utm_source=git)** | Tampa, FL | On Site | Jan 18 |
 | **[The Nature Conservancy](http://www.nature.org)** | **[Lands and Lives Intern](https://jobright.ai/jobs/info/696dc649350cf43803149b4f?utm_campaign=1053&utm_source=git)** | Charlottesville, Virginia | Hybrid | Jan 18 |
 | **[ElectraCast Media](http://www.electracast.com)** | **[Intern Podcast Editor](https://jobright.ai/jobs/info/696db7f25fc86241853c954b?utm_campaign=1053&utm_source=git)** | United States | Remote | Jan 18 |
@@ -85,7 +86,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[ILM Immersive, Interactive Animation Intern, Summer 2026](https://jobright.ai/jobs/info/696b7ccb5fc86241853ad25f?utm_campaign=1053&utm_source=git)** | San Francisco, CA | On Site | Jan 17 |
 | **[Genzest LLC](https://nailphoria.com/)** | **[Livestream Operation intern](https://jobright.ai/jobs/info/696b96ec350cf4380312eeb0?utm_campaign=1053&utm_source=git)** | West Hollywood, CA | On Site | Jan 17 |
 | **[Sports Illustrated Stadium](https://www.sportsillustratedstadium.com)** | **[2026 Internship, Spring - Event Operations](https://jobright.ai/jobs/info/691689689c388539cbdfc5c9?utm_campaign=1053&utm_source=git)** | Harrison, NJ | On Site | Jan 17 |
-| **[IMG ARENA](https://www.imgarena.com/about/)** | **[Intern, Sports Broadcasting](https://jobright.ai/jobs/info/696b3a9bdb26b618950ec0fc?utm_campaign=1053&utm_source=git)** | NY-New York - 11 Madison | On Site | Jan 16 |
+| **[IMG ARENA](https://www.imgarena.com/about/)** | **[Intern, Sports Broadcasting](https://jobright.ai/jobs/info/696b3f84db26b618950ec5bb?utm_campaign=1053&utm_source=git)** | NY-New York - 11 Madison | On Site | Jan 16 |
 | **[Salt Lake County](https://www.slco.org)** | **[Production Intern](https://jobright.ai/jobs/info/696b3596350cf43803128600?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Jan 16 |
 | **[Dow Jones](http://www.dowjones.com)** | **[Reporting Internship, Mansion Global](https://jobright.ai/jobs/info/696dc1f35fc86241853c98fc?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jan 16 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Digital Content Intern](https://jobright.ai/jobs/info/696af585350cf438031230f7?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jan 16 |
@@ -103,8 +104,8 @@ For a complete list, click the following sortable link below:
 | **[Magna International](http://www.magna.com/)** | **[Video Intern - Summer 2026](https://jobright.ai/jobs/info/696ac17f350cf4380311cfd2?utm_campaign=1053&utm_source=git)** | Troy, MI | On Site | Jan 16 |
 | **[FlowTiger](https://www.flowtiger.com/)** | **[Content Creator Intern (UGC, TikTok, Instagram)](https://jobright.ai/jobs/info/696ab8e6350cf4380311c06e?utm_campaign=1053&utm_source=git)** | United States | Remote | Jan 16 |
 | **[ESCO Retail Services](https://escoretail.com)** | **[Social Media Videography Internship](https://jobright.ai/jobs/info/696aaef55fc862418539b275?utm_campaign=1053&utm_source=git)** | Richmond, Richmond, VA, US | On Site | Jan 16 |
-| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Production Department Unpaid Intern](https://jobright.ai/jobs/info/696acc6ddb26b618950e1915?utm_campaign=1053&utm_source=git)** | IL, Rockford | On Site | Jan 16 |
-| ↳ | **[Digital Content Intern](https://jobright.ai/jobs/info/696acdc8db26b618950e1bc0?utm_campaign=1053&utm_source=git)** | NY, New York | On Site | Jan 16 |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Digital Content Intern](https://jobright.ai/jobs/info/696acdc8db26b618950e1bc0?utm_campaign=1053&utm_source=git)** | NY, New York | On Site | Jan 16 |
+| ↳ | **[Production Department Unpaid Intern](https://jobright.ai/jobs/info/696acc6ddb26b618950e1915?utm_campaign=1053&utm_source=git)** | IL, Rockford | On Site | Jan 16 |
 | **[Stride, Inc.](https://www.stridelearning.com)** | **[Video Production & Editing Intern](https://jobright.ai/jobs/info/696ad30f5fc862418539f6fb?utm_campaign=1053&utm_source=git)** | US Nationwide - Remote | Remote | Jan 16 |
 | **[Detroit Lions](http://www.detroitlions.com)** | **[Game & Event Production Intern](https://jobright.ai/jobs/info/696a9823db26b618950dc2bb?utm_campaign=1053&utm_source=git)** | Detroit, MI 48226 | On Site | Jan 16 |
 | **[Consigli Construction Co., Inc.](http://www.consigli.com)** | **[Marketing - Videographer Intern](https://jobright.ai/jobs/info/696a9739db26b618950dc180?utm_campaign=1053&utm_source=git)** | Milford, Massachusetts, United States | On Site | Jan 16 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Dispatch](https://thedispatch.com/)** | **[Summer 2026 Internship](https://jobright.ai/jobs/info/69687e371703f05405aa3abd?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Jan 14 |
 | **[Philadelphia Art Museum](http://www.philamuseum.org/)** | **[Graduate Conservation Summer Intern](https://jobright.ai/jobs/info/69687f4c1703f05405aa3c85?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Jan 14 |
 | **[OKC Fair Park & The Oklahoma State Fair](https://okstatefair.com/)** | **[Creative Programs Assistant / Intern - 2026 OK State Fair](https://jobright.ai/jobs/info/69699b461703f05405ab9b4f?utm_campaign=1053&utm_source=git)** | Oklahoma City, OK | On Site | Jan 14 |
-| **[TikTok](https://www.tiktok.com)** | **[TikTok Short Drama Project Intern (TikTok-Short-Drama) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69684e2af25a38006696b2a4?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Jan 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
