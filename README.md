@@ -57,9 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The MY HERO Project](https://myhero.com/)** | **[Film Festival Intern](https://jobright.ai/jobs/info/69705cca587dfa0bb55e0445?utm_campaign=1053&utm_source=git)** | United States | Remote | Jan 20 |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[WPVI - TV (6abc) News Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69705154587dfa0bb55dd7d8?utm_campaign=1053&utm_source=git)** | Philadelphia, PA, USA | On Site | Jan 20 |
 | **[H/L Agency](https://hl.agency)** | **[Summer Intern](https://jobright.ai/jobs/info/69704bf6333b6343a14cbb3f?utm_campaign=1053&utm_source=git)** | Oakland, CA | Hybrid | Jan 20 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[WABC 7 On Your Side Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/6970456a51f726477182737d?utm_campaign=1053&utm_source=git)** | New York, NY, USA | On Site | Jan 20 |
-| ↳ | **[WABC-TV (ABC7) Digital Intern Summer/Fall 2026](https://jobright.ai/jobs/info/697049de587dfa0bb55dd2c1?utm_campaign=1053&utm_source=git)** | New York, NY, USA | On Site | Jan 20 |
+| **[DC Power Football Club](https://www.dcpowerfootballclub.com)** | **[Intern, Videography  - Power FC - Spring 2026](https://jobright.ai/jobs/info/69705b31333b6343a14ce330?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Jan 20 |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[WABC-TV (ABC7) Digital Intern Summer/Fall 2026](https://jobright.ai/jobs/info/697049de587dfa0bb55dd2c1?utm_campaign=1053&utm_source=git)** | New York, NY, USA | On Site | Jan 20 |
 | **[Xanterra Travel Collection](http://www.xanterra.com/)** | **[Summer 2026 Golf and Groundskeeping Internship - Oasis at Death Valley](https://jobright.ai/jobs/info/69000a9ce04ac838fb5bea1c?utm_campaign=1053&utm_source=git)** | Death Valley, CA | On Site | Jan 20 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[WABC-TV (ABC7) Creative Services Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/697002500f4e0f657ea45fee?utm_campaign=1053&utm_source=git)** | New York, NY, USA | On Site | Jan 20 |
 | **[ease](easeradio.com)** | **[FALL 2025 OPERATIONS AND PRODUCTIONS INTERN](https://jobright.ai/jobs/info/69700d010f4e0f657ea46896?utm_campaign=1053&utm_source=git)** | Burbank, CA | Hybrid | Jan 20 |
@@ -74,8 +77,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/697013db3ed06875134b12b0?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Jan 20 |
 | ↳ | **[Summer 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/697009563ed06875134b07b3?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Jan 20 |
 | ↳ | **[Summer 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6970120682817106e9772d48?utm_campaign=1053&utm_source=git)** | Evanston, IL | On Site | Jan 20 |
-| ↳ | **[Summer 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/697008920f4e0f657ea4646e?utm_campaign=1053&utm_source=git)** | Providence, RI | On Site | Jan 20 |
 | ↳ | **[Summer 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/697017b40f4e0f657ea472d0?utm_campaign=1053&utm_source=git)** | Knoxville, TN | On Site | Jan 20 |
+| ↳ | **[Summer 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/697008920f4e0f657ea4646e?utm_campaign=1053&utm_source=git)** | Providence, RI | On Site | Jan 20 |
 | ↳ | **[Summer 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6970119f0f4e0f657ea46d4b?utm_campaign=1053&utm_source=git)** | Tempe, AZ | On Site | Jan 20 |
 | **[Educational Media Foundation K-LOVE & Air1 Media Networks](https://www.klove.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/696fde5d3ed06875134ac7d7?utm_campaign=1053&utm_source=git)** | US-TN-Franklin | On Site | Jan 20 |
 | **[One Knoxville SC](https://oneknoxsc.com/)** | **[Fan Experience and Event Operations Internship](https://jobright.ai/jobs/info/696ff89f82817106e9770b50?utm_campaign=1053&utm_source=git)** | Knoxville, TN | On Site | Jan 20 |
@@ -87,6 +90,7 @@ For a complete list, click the following sortable link below:
 | **[every single guitars.](http://everysingleguitars.com)** | **[Videographer Intern](https://jobright.ai/jobs/info/696fca703ed06875134ab7dd?utm_campaign=1053&utm_source=git)** | San Francisco Bay Area | On Site | Jan 20 |
 | **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[IAE Videography Internship - Spring 2026](https://jobright.ai/jobs/info/696fe4933ed06875134acdd1?utm_campaign=1053&utm_source=git)** | Tampa, FL | On Site | Jan 20 |
 | **[Miami Marlins and loanDepot park](https://marlins.mlb.com/)** | **[Sports Pathway Intern - Video](https://jobright.ai/jobs/info/6965af7d2cbf4e44756f5c92?utm_campaign=1053&utm_source=git)** | Miami, FL | On Site | Jan 20 |
+| **[60 MINUTES](https://www.60-minutes.de)** | **[CBS News Intern, KDKA Pittsburgh (Summer 2026)](https://jobright.ai/jobs/info/69705a33333b6343a14cd94b?utm_campaign=1053&utm_source=git)** | Pittsburgh, PA | On Site | Jan 20 |
 | **[Bolton & Menk, Inc.](http://bolton-menk.com)** | **[Cultural Resources Intern - Architectural History](https://jobright.ai/jobs/info/696f18de82817106e9764693?utm_campaign=1053&utm_source=git)** | Minneapolis, MN | On Site | Jan 19 |
 | **[myMentalPal: Book Meditations](https://apps.apple.com/us/app/mymentalpal-book-meditations/id6474141147)** | **[UGC Creator Intern (TikTok / Short-Form Video) — myMentalPal](https://jobright.ai/jobs/info/696f0f529c3c52633455d654?utm_campaign=1053&utm_source=git)** | United States | Remote | Jan 19 |
 | **[Philo Homes](https://philo.homes/)** | **[AI Video Content Creator Intern_Mandarin](https://jobright.ai/jobs/info/696ef81082817106e9761a0c?utm_campaign=1053&utm_source=git)** | New York, United States | Remote | Jan 19 |
@@ -111,7 +115,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[CBS News Intern, WBBM Chicago (Summer 2026)](https://jobright.ai/jobs/info/6944b5dfa7227b3ece666159?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Jan 18 |
 | ↳ | **[Creative Services Intern, CBS Chicago (Summer 2026)](https://jobright.ai/jobs/info/6944c9eaa7227b3ece6672f8?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Jan 18 |
 | **[KUTV 2News / KMYU](http://kutv.com/)** | **[Intern - Studio Crew](https://jobright.ai/jobs/info/696caf66350cf4380313d483?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Jan 18 |
-| **[Parallel](https://parallelos.ai/)** | **[Content Creator Intern](https://jobright.ai/jobs/info/696cdd805fc86241853bfa31?utm_campaign=1053&utm_source=git)** | San Jose, CA | Hybrid | Jan 17 |
 | **[Industrial Light & Magic](http://ilm.com/)** | **[ILM Immersive, Interactive Animation Intern, Summer 2026](https://jobright.ai/jobs/info/696c176edb26b618950f75c0?utm_campaign=1053&utm_source=git)** | San Francisco, CA | On Site | Jan 17 |
 | **[NARS Cosmetics](https://www.narscosmetics.com/)** | **[Hajimari Intern, Global Artistry & Education (NARS)](https://jobright.ai/jobs/info/696bf310350cf4380313264e?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jan 17 |
 | **[Laboratorios Vertex](laboratoriosvertex.com)** | **[Intern](https://jobright.ai/jobs/info/696fe6fd3ed06875134ad0c4?utm_campaign=1053&utm_source=git)** | United States | Remote | Jan 17 |
@@ -134,8 +137,8 @@ For a complete list, click the following sortable link below:
 | **[Stride, Inc.](https://www.stridelearning.com)** | **[Video Production & Editing Intern](https://jobright.ai/jobs/info/696ae9e3350cf43803121cad?utm_campaign=1053&utm_source=git)** | United States | Remote | Jan 16 |
 | **[American Fidelity](http://www.americanfidelity.com)** | **[Videographer Intern](https://jobright.ai/jobs/info/696ae5255fc86241853a190e?utm_campaign=1053&utm_source=git)** | Oklahoma City, OK | On Site | Jan 16 |
 | **[The Sea Pines Resort](https://www.seapines.com/)** | **[Golf Maintenance J1 Intern (ADHPG)](https://jobright.ai/jobs/info/696af909db26b618950e6c2f?utm_campaign=1053&utm_source=git)** | Hilton Head Island, SC 29928, USA | Hybrid | Jan 16 |
-| **[Clark Planetarium](http://www.clarkplanetarium.org)** | **[Production Intern](https://jobright.ai/jobs/info/696afda3350cf43803123b90?utm_campaign=1053&utm_source=git)** | US-UT-SALT LAKE CITY | On Site | Jan 16 |
-| ↳ | **[Production Intern](https://jobright.ai/jobs/info/696af82ddb26b618950e6985?utm_campaign=1053&utm_source=git)** | 50 W 200 S | On Site | Jan 16 |
+| **[Clark Planetarium](http://www.clarkplanetarium.org)** | **[Production Intern](https://jobright.ai/jobs/info/696af82ddb26b618950e6985?utm_campaign=1053&utm_source=git)** | 50 W 200 S | On Site | Jan 16 |
+| ↳ | **[Production Intern](https://jobright.ai/jobs/info/696afda3350cf43803123b90?utm_campaign=1053&utm_source=git)** | US-UT-SALT LAKE CITY | On Site | Jan 16 |
 | ↳ | **[Production Intern](https://jobright.ai/jobs/info/696b0986350cf43803124dcc?utm_campaign=1053&utm_source=git)** | 84101 | On Site | Jan 16 |
 | **[Hitch](https://www.hitchmedia.co)** | **[Video Editing Intern](https://jobright.ai/jobs/info/696acb8e350cf4380311e064?utm_campaign=1053&utm_source=git)** | Austin, TX | Hybrid | Jan 16 |
 | **[American Fidelity](http://www.americanfidelity.com)** | **[Videographer Intern](https://jobright.ai/jobs/info/696ae780350cf4380312168c?utm_campaign=1053&utm_source=git)** | Oklahoma City, Oklahoma | On Site | Jan 16 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[SRND AI](srnd.ai)** | **[(Unpaid) On-Camera Content Intern](https://jobright.ai/jobs/info/696a9885db26b618950dc334?utm_campaign=1053&utm_source=git)** | United States | Remote | Jan 16 |
 | **[Consigli Construction Co., Inc.](http://www.consigli.com)** | **[Marketing - Videographer Intern](https://jobright.ai/jobs/info/696a9ba3350cf43803118d0a?utm_campaign=1053&utm_source=git)** | Milford, MA | On Site | Jan 16 |
 | **[Nutanix](http://www.nutanix.com)** | **[Multimedia Communications Intern (Adobe Experience Manager,studio operations, including camera, audio, and background setup)](https://jobright.ai/jobs/info/6961878ca112b40266101a8c?utm_campaign=1053&utm_source=git)** | San Jose, CA | Hybrid | Jan 16 |
-| **[Stride, Inc.](https://www.stridelearning.com)** | **[Content Creator Intern](https://jobright.ai/jobs/info/696a61095fc862418539539a?utm_campaign=1053&utm_source=git)** | US - VA - Remote | Remote | Jan 16 |
-| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[News Department Unpaid Intern](https://jobright.ai/jobs/info/696a52b4350cf438031140f9?utm_campaign=1053&utm_source=git)** | Charlotte, NC | On Site | Jan 16 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[National Geographic Editorial Video Intern, Summer 2026](https://jobright.ai/jobs/info/69664e9d5ad3a93f8231b0b5?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Jan 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
