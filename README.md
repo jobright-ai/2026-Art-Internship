@@ -58,6 +58,8 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[WABC-TV (ABC7) Digital Intern Summer/Fall 2026](https://jobright.ai/jobs/info/6972267fcda45e69535868c5?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jan 22 |
+| ↳ | **[WABC-TV (ABC7) 7 On Your Side Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/6972345bcda45e6953587057?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jan 22 |
+| **[Sports Illustrated Stadium](https://www.sportsillustratedstadium.com)** | **[2026 Internship, Spring - Control Room Operations](https://jobright.ai/jobs/info/693a32ed56b68f3dc4e783c1?utm_campaign=1053&utm_source=git)** | Harrison, NJ | On Site | Jan 22 |
 | **[New York Red Bulls](http://www.newyorkredbulls.com)** | **[2026 Internship, Spring - Creative Video](https://jobright.ai/jobs/info/693a3311ac80bb5492bcba24?utm_campaign=1053&utm_source=git)** | Harrison, NJ | On Site | Jan 22 |
 | **[KUTV 2News / KMYU](http://kutv.com/)** | **[Intern - Studio Crew](https://jobright.ai/jobs/info/6972033acda18b7438645b44?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Jan 22 |
 | **[The State University of New York](http://www.suny.edu/)** | **[Multimedia Production Intern](https://jobright.ai/jobs/info/690a6177bcccf20de59e184c?utm_campaign=1053&utm_source=git)** | Albany, NY | On Site | Jan 22 |
@@ -74,6 +76,7 @@ For a complete list, click the following sortable link below:
 | **[UL Research Institutes](https://ul.org)** | **[Multimedia Design, Video Production Summer 2026 Intern - Fire Safety Research Institute](https://jobright.ai/jobs/info/697188bf333b6343a14e23b8?utm_campaign=1053&utm_source=git)** | Columbia, MD | On Site | Jan 21 |
 | **[County of Riverside](https://rivco.org)** | **[Behavioral Health Friday Night Live (Indio) - Paid Internship](https://jobright.ai/jobs/info/6967a845639b452fb57d3d3c?utm_campaign=1053&utm_source=git)** | Riverside County, CA | On Site | Jan 21 |
 | **[UL Standards & Engagement](https://ulse.org)** | **[Multimedia Design, Video Production Summer 2026 Intern - Fire Safety Research Institute](https://jobright.ai/jobs/info/6971696151f726477183b418?utm_campaign=1053&utm_source=git)** | Columbia, MD | Hybrid | Jan 21 |
+| **[Le Studio Anthost](http://lestudioanthost.com/)** | **[Studio Operations & Administration Assistant](https://jobright.ai/jobs/info/6972325b47b64f4e963e7577?utm_campaign=1053&utm_source=git)** | Brooklyn, NY | On Site | Jan 21 |
 | **[One Impression](https://www.oneimpression.io)** | **[Research Associate Intern (Reels & Content Rating)](https://jobright.ai/jobs/info/69715bc7333b6343a14de669?utm_campaign=1053&utm_source=git)** | Indiana, United States | Remote | Jan 21 |
 | **[WIBW TV](https://www.wibw.com/)** | **[GRAY MEDIA FUTURE FOCUS INTERN SUMMER '26 - WIBW](https://jobright.ai/jobs/info/69715d2551f726477183a9d8?utm_campaign=1053&utm_source=git)** | Topeka, KS | On Site | Jan 21 |
 | **[Washingtonian Magazine](http://www.washingtonian.com/)** | **[Editorial Fellowship](https://jobright.ai/jobs/info/6971514d333b6343a14ddae1?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Jan 21 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[National Geographic Editorial Operations Intern, Summer 2026](https://jobright.ai/jobs/info/696b7f775fc86241853ad296?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Jan 17 |
 | ↳ | **[Studio Restoration Management and Library Management Intern, Summer 2026](https://jobright.ai/jobs/info/696b7d1f5fc86241853ad267?utm_campaign=1053&utm_source=git)** | Burbank, CA | On Site | Jan 17 |
 | ↳ | **[ILM Immersive, Interactive Animation Intern, Summer 2026](https://jobright.ai/jobs/info/696b7ccb5fc86241853ad25f?utm_campaign=1053&utm_source=git)** | San Francisco, CA | On Site | Jan 17 |
-| **[IMG ARENA](https://www.imgarena.com/about/)** | **[Intern, Sports Broadcasting](https://jobright.ai/jobs/info/696b3f84db26b618950ec5bb?utm_campaign=1053&utm_source=git)** | NY-New York - 11 Madison | On Site | Jan 16 |
-| **[Salt Lake County](https://www.slco.org)** | **[Production Intern](https://jobright.ai/jobs/info/696b3596350cf43803128600?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Jan 16 |
-| **[Dow Jones](http://www.dowjones.com)** | **[Reporting Internship, Mansion Global](https://jobright.ai/jobs/info/696dc1f35fc86241853c98fc?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jan 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
