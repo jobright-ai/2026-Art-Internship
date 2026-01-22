@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Charlotte Hornets](https://www.nba.com/hornets/)** | **[Guest Experience Intern](https://jobright.ai/jobs/info/6971b611333b6343a14e6bd4?utm_campaign=1053&utm_source=git)** | Charlotte, NC | On Site | Jan 21 |
 | **[YMCA of the Rockies](https://ymcarockies.org)** | **[Intern - Special Events](https://jobright.ai/jobs/info/6971a829587dfa0bb55f5bbb?utm_campaign=1053&utm_source=git)** | Estes Park, CO | On Site | Jan 21 |
 | **[Students for Accessible Aerospace](https://www.aerostudent.org)** | **[Content Writer Intern](https://jobright.ai/jobs/info/6971a7df51f7264771840630?utm_campaign=1053&utm_source=git)** | United States | Remote | Jan 21 |
 | **[CBS News and Stations](http://www.cbs.com)** | **[CBS Sports Intern, WFOR Miami (Summer 2026)](https://jobright.ai/jobs/info/69719173587dfa0bb55f41fb?utm_campaign=1053&utm_source=git)** | Miami, FL | On Site | Jan 21 |
@@ -98,8 +99,8 @@ For a complete list, click the following sortable link below:
 | **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Summer 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69700d9e3ed06875134b0b99?utm_campaign=1053&utm_source=git)** | Naperville, IL | On Site | Jan 20 |
 | ↳ | **[Summer 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/697009563ed06875134b07b3?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Jan 20 |
 | ↳ | **[Summer 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/697013db3ed06875134b12b0?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Jan 20 |
-| ↳ | **[Summer 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/697008920f4e0f657ea4646e?utm_campaign=1053&utm_source=git)** | Providence, RI | On Site | Jan 20 |
 | ↳ | **[Summer 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6970120682817106e9772d48?utm_campaign=1053&utm_source=git)** | Evanston, IL | On Site | Jan 20 |
+| ↳ | **[Summer 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/697008920f4e0f657ea4646e?utm_campaign=1053&utm_source=git)** | Providence, RI | On Site | Jan 20 |
 | ↳ | **[Summer 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/697017b40f4e0f657ea472d0?utm_campaign=1053&utm_source=git)** | Knoxville, TN | On Site | Jan 20 |
 | ↳ | **[Summer 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6970119f0f4e0f657ea46d4b?utm_campaign=1053&utm_source=git)** | Tempe, AZ | On Site | Jan 20 |
 | **[Educational Media Foundation K-LOVE & Air1 Media Networks](https://www.klove.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/696fde5d3ed06875134ac7d7?utm_campaign=1053&utm_source=git)** | US-TN-Franklin | On Site | Jan 20 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Production Intern](https://jobright.ai/jobs/info/696af82ddb26b618950e6985?utm_campaign=1053&utm_source=git)** | 50 W 200 S | On Site | Jan 16 |
 | ↳ | **[Production Intern](https://jobright.ai/jobs/info/696b0986350cf43803124dcc?utm_campaign=1053&utm_source=git)** | 84101 | On Site | Jan 16 |
 | **[Hitch](https://www.hitchmedia.co)** | **[Video Editing Intern](https://jobright.ai/jobs/info/696acb8e350cf4380311e064?utm_campaign=1053&utm_source=git)** | Austin, TX | Hybrid | Jan 16 |
-| **[American Fidelity](http://www.americanfidelity.com)** | **[Videographer Intern](https://jobright.ai/jobs/info/696ae780350cf4380312168c?utm_campaign=1053&utm_source=git)** | Oklahoma City, Oklahoma | On Site | Jan 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
