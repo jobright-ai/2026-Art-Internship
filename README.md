@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CrossDock Insights](https://crossdockinsights.com/subscribe)** | **[Content Writer (Intern/Part-time/ Freelancer)](https://jobright.ai/jobs/info/69727f79584a1c1ef6fd7a8d?utm_campaign=1053&utm_source=git)** | Austin, TX | Remote | Jan 22 |
 | **[AbelsonTaylor Group](https://www.abelsontaylor.com/)** | **[Integrated Production Intern](https://jobright.ai/jobs/info/69727c1f584a1c1ef6fd76c6?utm_campaign=1053&utm_source=git)** | Chicago, Illinois | On Site | Jan 22 |
+| **[American Public Media Group](https://fitzgeraldtheater.publicradio.org)** | **[Intern, Media Production & Operations](https://jobright.ai/jobs/info/697286ba9b83b424830e7762?utm_campaign=1053&utm_source=git)** | Saint Paul, Minnesota, United States | Hybrid | Jan 22 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Events and Communication - Internship Experience (Summer 2026)](https://jobright.ai/jobs/info/69727cba4ccbf64f8df26ef7?utm_campaign=1053&utm_source=git)** | Dorval, Quebec, Canada | Hybrid | Jan 22 |
 | **[narb](https://narb.cc/)** | **[Video Editor Intern](https://jobright.ai/jobs/info/69724bf34ccbf64f8df23786?utm_campaign=1053&utm_source=git)** | United States | Remote | Jan 22 |
 | **[America & Beyond](https://www.americaandbeyond.us)** | **[Female TikTok Content Creator Internship](https://jobright.ai/jobs/info/697242429b83b424830e2f75?utm_campaign=1053&utm_source=git)** | Hollywood, FL | Remote | Jan 22 |
@@ -70,7 +72,6 @@ For a complete list, click the following sortable link below:
 | **[The State University of New York](http://www.suny.edu/)** | **[Multimedia Production Intern](https://jobright.ai/jobs/info/690a6177bcccf20de59e184c?utm_campaign=1053&utm_source=git)** | Albany, NY | On Site | Jan 22 |
 | **[Epic Games](https://epicgames.com)** | **[Gameplay Animation Intern](https://jobright.ai/jobs/info/6918efb5bcdbf3560c9d3eed?utm_campaign=1053&utm_source=git)** | Greater Montreal Metropolitan Area | On Site | Jan 22 |
 | **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[IAE Videography Internship - Spring 2026](https://jobright.ai/jobs/info/6971d26cb707bf728a4b5e96?utm_campaign=1053&utm_source=git)** | Tampa, FL | On Site | Jan 21 |
-| **[Minor Football League](http://www.mflishere.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/6971c4b151f72647718438ba?utm_campaign=1053&utm_source=git)** | United States | Remote | Jan 21 |
 | **[Charlotte Hornets](https://www.nba.com/hornets/)** | **[Video Production Intern](https://jobright.ai/jobs/info/6971be5c587dfa0bb55f8674?utm_campaign=1053&utm_source=git)** | Charlotte, NC | On Site | Jan 21 |
 | ↳ | **[Game Presentation Intern](https://jobright.ai/jobs/info/6971babb333b6343a14e6eb7?utm_campaign=1053&utm_source=git)** | Charlotte, NC | On Site | Jan 21 |
 | ↳ | **[Guest Experience Intern](https://jobright.ai/jobs/info/6971b611333b6343a14e6bd4?utm_campaign=1053&utm_source=git)** | Charlotte, NC | On Site | Jan 21 |
@@ -115,8 +116,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/697013db3ed06875134b12b0?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Jan 20 |
 | ↳ | **[Summer 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/697009563ed06875134b07b3?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Jan 20 |
 | ↳ | **[Summer 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/697008920f4e0f657ea4646e?utm_campaign=1053&utm_source=git)** | Providence, RI | On Site | Jan 20 |
-| ↳ | **[Summer 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6970120682817106e9772d48?utm_campaign=1053&utm_source=git)** | Evanston, IL | On Site | Jan 20 |
 | ↳ | **[Summer 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/697017b40f4e0f657ea472d0?utm_campaign=1053&utm_source=git)** | Knoxville, TN | On Site | Jan 20 |
+| ↳ | **[Summer 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6970120682817106e9772d48?utm_campaign=1053&utm_source=git)** | Evanston, IL | On Site | Jan 20 |
 | ↳ | **[Summer 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6970119f0f4e0f657ea46d4b?utm_campaign=1053&utm_source=git)** | Tempe, AZ | On Site | Jan 20 |
 | **[Educational Media Foundation K-LOVE & Air1 Media Networks](https://www.klove.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/696fde5d3ed06875134ac7d7?utm_campaign=1053&utm_source=git)** | US-TN-Franklin | On Site | Jan 20 |
 | **[One Knoxville SC](https://oneknoxsc.com/)** | **[Fan Experience and Event Operations Internship](https://jobright.ai/jobs/info/696ff89f82817106e9770b50?utm_campaign=1053&utm_source=git)** | Knoxville, TN | On Site | Jan 20 |
@@ -152,7 +153,6 @@ For a complete list, click the following sortable link below:
 | **[Industrial Light & Magic](http://ilm.com/)** | **[ILM Immersive, Interactive Animation Intern, Summer 2026](https://jobright.ai/jobs/info/696c176edb26b618950f75c0?utm_campaign=1053&utm_source=git)** | San Francisco, CA | On Site | Jan 17 |
 | **[NARS Cosmetics](https://www.narscosmetics.com/)** | **[Hajimari Intern, Global Artistry & Education (NARS)](https://jobright.ai/jobs/info/696bf310350cf4380313264e?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jan 17 |
 | **[Endeavor](http://www.endeavorco.com)** | **[Intern, Sports Broadcasting](https://jobright.ai/jobs/info/696b9f48350cf4380312f367?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jan 17 |
-| **[Art Institute of Chicago](http://www.artic.edu/)** | **[McMullan Arts Leadership Intern](https://jobright.ai/jobs/info/694eee34a2668b7f54522b25?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Jan 17 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Assistant Assembly Video Editor - BYU-Pathway Worldwide (Full-Time Intern)](https://jobright.ai/jobs/info/694ef36429655e4dd65876f7?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | Remote | Jan 17 |
 | **[Amazon](https://amazon.com)** | **[IP & Literary Intern, Prime Video & Amazon MGM Studios](https://jobright.ai/jobs/info/694f4897a2668b7f54527891?utm_campaign=1053&utm_source=git)** | Culver City, CA | On Site | Jan 17 |
 | **[Higginbotham](https://www.higginbotham.com)** | **[Higginbotham Summer Internship - Corporate Marketing & Communications Video Editor Intern](https://jobright.ai/jobs/info/691694a56f36db06ef057fea?utm_campaign=1053&utm_source=git)** | Fort Worth, TX | On Site | Jan 17 |
