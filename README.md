@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[AbelsonTaylor Group](https://www.abelsontaylor.com/)** | **[Integrated Production Intern](https://jobright.ai/jobs/info/69727c1f584a1c1ef6fd76c6?utm_campaign=1053&utm_source=git)** | Chicago, Illinois | On Site | Jan 22 |
+| **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Events and Communication - Internship Experience (Summer 2026)](https://jobright.ai/jobs/info/69727cba4ccbf64f8df26ef7?utm_campaign=1053&utm_source=git)** | Dorval, Quebec, Canada | Hybrid | Jan 22 |
 | **[narb](https://narb.cc/)** | **[Video Editor Intern](https://jobright.ai/jobs/info/69724bf34ccbf64f8df23786?utm_campaign=1053&utm_source=git)** | United States | Remote | Jan 22 |
 | **[America & Beyond](https://www.americaandbeyond.us)** | **[Female TikTok Content Creator Internship](https://jobright.ai/jobs/info/697242429b83b424830e2f75?utm_campaign=1053&utm_source=git)** | Hollywood, FL | Remote | Jan 22 |
 | **[Reaching & Rooted](https://www.reachingandrooted.org/home-page)** | **[Publishing Intern](https://jobright.ai/jobs/info/697259309b83b424830e485f?utm_campaign=1053&utm_source=git)** | United States | Remote | Jan 22 |
@@ -85,6 +87,7 @@ For a complete list, click the following sortable link below:
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Disney Character Voices Intern, Summer 2026](https://jobright.ai/jobs/info/6971424e333b6343a14db874?utm_campaign=1053&utm_source=git)** | Burbank, CA, USA | Hybrid | Jan 21 |
 | **[Schindler Group](http://www.schindler.com/)** | **[Film & Media Summer Intern](https://jobright.ai/jobs/info/6969aeddf25a38006698657b?utm_campaign=1053&utm_source=git)** | Holland, OH | On Site | Jan 21 |
 | **[High Impact Promotion](https://highimpactpromo.com/)** | **[Digital Production Unpaid Internship](https://jobright.ai/jobs/info/69711a9f51f726477183543a?utm_campaign=1053&utm_source=git)** | Chicago, IL | Hybrid | Jan 21 |
+| **[Cleveland Browns](http://www.clevelandbrowns.com)** | **[Video Intern](https://jobright.ai/jobs/info/697276e09b83b424830e65b9?utm_campaign=1053&utm_source=git)** | 76 Lou Groza Boulevard, Berea, OH, USA | On Site | Jan 21 |
 | **[One Impression](https://www.oneimpression.io)** | **[Research Associate Intern (Reels & Content Rating)](https://jobright.ai/jobs/info/6970ecb0587dfa0bb55e766e?utm_campaign=1053&utm_source=git)** | United States | Remote | Jan 21 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Hello Iowa Intern (Unpaid)](https://jobright.ai/jobs/info/6938ede1b95c305f206e2e4b?utm_campaign=1053&utm_source=git)** | Des Moines, IA | On Site | Jan 21 |
 | **[Crystal Bridges Museum of American Art](http://crystalbridges.org)** | **[2026 Venue Operations Intern](https://jobright.ai/jobs/info/693bd8a749a7695fbd02b95b?utm_campaign=1053&utm_source=git)** | Bentonville, AR | On Site | Jan 21 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Amazon](https://amazon.com)** | **[IP & Literary Intern, Prime Video & Amazon MGM Studios](https://jobright.ai/jobs/info/694f4897a2668b7f54527891?utm_campaign=1053&utm_source=git)** | Culver City, CA | On Site | Jan 17 |
 | **[Higginbotham](https://www.higginbotham.com)** | **[Higginbotham Summer Internship - Corporate Marketing & Communications Video Editor Intern](https://jobright.ai/jobs/info/691694a56f36db06ef057fea?utm_campaign=1053&utm_source=git)** | Fort Worth, TX | On Site | Jan 17 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[National Geographic Editorial Operations Intern, Summer 2026](https://jobright.ai/jobs/info/696b7f775fc86241853ad296?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Jan 17 |
-| ↳ | **[Studio Restoration Management and Library Management Intern, Summer 2026](https://jobright.ai/jobs/info/696b7d1f5fc86241853ad267?utm_campaign=1053&utm_source=git)** | Burbank, CA | On Site | Jan 17 |
-| ↳ | **[ILM Immersive, Interactive Animation Intern, Summer 2026](https://jobright.ai/jobs/info/696b7ccb5fc86241853ad25f?utm_campaign=1053&utm_source=git)** | San Francisco, CA | On Site | Jan 17 |
-| **[IMG ARENA](https://www.imgarena.com/about/)** | **[Intern, Sports Broadcasting](https://jobright.ai/jobs/info/696b3f84db26b618950ec5bb?utm_campaign=1053&utm_source=git)** | NY-New York - 11 Madison | On Site | Jan 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
