@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Forbes](https://www.forbesmagazine.com)** | **[Forbes Summer 2026 Editorial Intern](https://jobright.ai/jobs/info/6973bfc1206da320f49dba81?utm_campaign=1053&utm_source=git)** | Jersey City, NJ | On Site | Jan 23 |
+| **[Northstar Travel Group](http://www.NorthstarTravelGroup.com)** | **[Editorial Intern](https://jobright.ai/jobs/info/6973bcda37785856350d918b?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | Jan 23 |
+| **[Tombras](http://tombras.com)** | **[Production Assistant Intern](https://jobright.ai/jobs/info/6973b753bc8e722e7b188ba5?utm_campaign=1053&utm_source=git)** | Knoxville, TN | On Site | Jan 23 |
+| **[TGR](http://www.thegarnettereport.com)** | **[Spring/Summer Internship](https://jobright.ai/jobs/info/6973b5fabc8e722e7b188ab8?utm_campaign=1053&utm_source=git)** | NYC Metro Area | Remote | Jan 23 |
+| **[Tombras](http://tombras.com)** | **[Post-Production Intern](https://jobright.ai/jobs/info/6973b5a4bc8e722e7b188a75?utm_campaign=1053&utm_source=git)** | Knoxville, TN | On Site | Jan 23 |
 | **[The Reynolds and Reynolds Company](https://www.reyrey.com)** | **[Multimedia Production Specialist Intern](https://jobright.ai/jobs/info/69738c76206da320f49d8899?utm_campaign=1053&utm_source=git)** | Greater Houston | On Site | Jan 23 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[WABC-TV (ABC7) Creative Services Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/6970c253587dfa0bb55e49fd?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jan 23 |
 | **[U.S. News & World Report](http://www.usnews.com)** | **[2026 News Intern](https://jobright.ai/jobs/info/696894991703f05405aa6147?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Jan 23 |
@@ -132,9 +137,9 @@ For a complete list, click the following sortable link below:
 | **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Summer 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69700d9e3ed06875134b0b99?utm_campaign=1053&utm_source=git)** | Naperville, IL | On Site | Jan 20 |
 | ↳ | **[Summer 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/697009563ed06875134b07b3?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Jan 20 |
 | ↳ | **[Summer 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/697013db3ed06875134b12b0?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Jan 20 |
-| ↳ | **[Summer 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/697017b40f4e0f657ea472d0?utm_campaign=1053&utm_source=git)** | Knoxville, TN | On Site | Jan 20 |
-| ↳ | **[Summer 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6970120682817106e9772d48?utm_campaign=1053&utm_source=git)** | Evanston, IL | On Site | Jan 20 |
 | ↳ | **[Summer 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/697008920f4e0f657ea4646e?utm_campaign=1053&utm_source=git)** | Providence, RI | On Site | Jan 20 |
+| ↳ | **[Summer 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6970120682817106e9772d48?utm_campaign=1053&utm_source=git)** | Evanston, IL | On Site | Jan 20 |
+| ↳ | **[Summer 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/697017b40f4e0f657ea472d0?utm_campaign=1053&utm_source=git)** | Knoxville, TN | On Site | Jan 20 |
 | ↳ | **[Summer 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6970119f0f4e0f657ea46d4b?utm_campaign=1053&utm_source=git)** | Tempe, AZ | On Site | Jan 20 |
 | **[Educational Media Foundation K-LOVE & Air1 Media Networks](https://www.klove.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/696fde5d3ed06875134ac7d7?utm_campaign=1053&utm_source=git)** | US-TN-Franklin | On Site | Jan 20 |
 | **[One Knoxville SC](https://oneknoxsc.com/)** | **[Fan Experience and Event Operations Internship](https://jobright.ai/jobs/info/696ff89f82817106e9770b50?utm_campaign=1053&utm_source=git)** | Knoxville, TN | On Site | Jan 20 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Lockport Township Park Distr](https://www.lockportpark.org/)** | **[Golf Course Maintenance Internship](https://jobright.ai/jobs/info/696f06e89c3c52633455c571?utm_campaign=1053&utm_source=git)** | Crest Hill, IL | On Site | Jan 19 |
 | **[Bolton & Menk, Inc.](http://bolton-menk.com)** | **[Cultural Resources Intern - Architectural History](https://jobright.ai/jobs/info/696eddc45fc86241853dd80e?utm_campaign=1053&utm_source=git)** | MINNEAPOLIS, MN 55401, USA | On Site | Jan 19 |
 | **[Ordient Entertainment](www.ordientent.com)** | **[TikTok Live Group Dancer (Onsite, Part-Time)](https://jobright.ai/jobs/info/696ec5385fc86241853db0d8?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Jan 19 |
-| **[Schulte Hospitality Group](http://schultehospitality.com)** | **[Midnight Golf Internship](https://jobright.ai/jobs/info/696e98b7db26b61895117c8c?utm_campaign=1053&utm_source=git)** | Plymouth, MI | On Site | Jan 19 |
-| **[EnforceTheSport](https://enforcethesport.com)** | **[Three Month Writing Internship](https://jobright.ai/jobs/info/696e98645fc86241853d56f2?utm_campaign=1053&utm_source=git)** | United States | Remote | Jan 19 |
-| **[PHENYX](https://www.phenyx.co)** | **[Post-Production & Production Assistant Intern (Part-Time)](https://jobright.ai/jobs/info/696e934edb26b61895117165?utm_campaign=1053&utm_source=git)** | Lafayette, CO | On Site | Jan 19 |
-| **[Vizual Edge](http://www.vizualedge.com)** | **[Content Creator](https://jobright.ai/jobs/info/696e7b8d5fc86241853d367b?utm_campaign=1053&utm_source=git)** | United States | Remote | Jan 19 |
-| **[Sparrow](https://www.sparrowup.com)** | **[Animation Intern](https://jobright.ai/jobs/info/696e4f8adb26b6189511351d?utm_campaign=1053&utm_source=git)** | United States | Remote | Jan 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
