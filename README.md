@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[NBCUniversal](https://www.nbcuniversal.com/)** | **[PA Station Intern](https://jobright.ai/jobs/info/6973ef9137785856350dc023?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Jan 23 |
 | **[World Wildlife Fund](http://www.worldwildlife.org/)** | **[IN-26024 Wildlife Communications Intern](https://jobright.ai/jobs/info/6973ebf9bc8e722e7b18cc67?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Jan 23 |
 | **[Metropolitan Golf Association (MGA)](https://www.mgagolf.org)** | **[USGA P.J. Boatwright Internship 2026 - Member Services](https://jobright.ai/jobs/info/695854fc9f1b381eb2713ab5?utm_campaign=1053&utm_source=git)** | Elmsford, NY | On Site | Jan 23 |
 | **[Orlando Utilities Commission (OUC - The Reliable One)](https://www.ouc.com/)** | **[Videography Intern- Summer 2026](https://jobright.ai/jobs/info/6973ddbabc8e722e7b18ac07?utm_campaign=1053&utm_source=git)** | Orlando, FL | Hybrid | Jan 23 |
@@ -67,6 +68,8 @@ For a complete list, click the following sortable link below:
 | **[Six Flags Entertainment Corporation](http://sixflags.com)** | **[Entertainment Event Technician Internship](https://jobright.ai/jobs/info/6973d0d337785856350da366?utm_campaign=1053&utm_source=git)** | Gurnee, IL | On Site | Jan 23 |
 | **[World Wildlife Fund](http://www.worldwildlife.org/)** | **[IN-26024 Wildlife Communications Intern](https://jobright.ai/jobs/info/6973cccfbc8e722e7b189b94?utm_campaign=1053&utm_source=git)** | Washington, DC, US | Hybrid | Jan 23 |
 | ↳ | **[IN-26024 Wildlife Communications Intern](https://jobright.ai/jobs/info/6973ccb8206da320f49dc636?utm_campaign=1053&utm_source=git)** | US-DC-Washington | Hybrid | Jan 23 |
+| **[Cleveland Browns](http://www.clevelandbrowns.com)** | **[Video Intern](https://jobright.ai/jobs/info/6973f25fbc8e722e7b18d835?utm_campaign=1053&utm_source=git)** | Berea, OH | On Site | Jan 23 |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Disney Live Entertainment Costume Support Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/6973eed5bc8e722e7b18d449?utm_campaign=1053&utm_source=git)** | Orlando, FL, USA | On Site | Jan 23 |
 | **[The Post and Courier](http://www.postandcourier.com/)** | **[The Post and Courier News Intern - Furman University](https://jobright.ai/jobs/info/6973ea8737785856350dbb00?utm_campaign=1053&utm_source=git)** | Greenville, South Carolina, United States | On Site | Jan 23 |
 | **[Northstar Travel Group](http://www.NorthstarTravelGroup.com)** | **[Editorial Intern](https://jobright.ai/jobs/info/6973bcda37785856350d918b?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | Jan 23 |
 | **[Omni Fort Worth Hotel](https://www.omnihotels.com/)** | **[Recreation Summer Internship - Seasonal](https://jobright.ai/jobs/info/6973d94f37785856350dabdc?utm_campaign=1053&utm_source=git)** | Amelia Island, FL, US | On Site | Jan 23 |
@@ -75,8 +78,6 @@ For a complete list, click the following sortable link below:
 | **[Tombras](http://tombras.com)** | **[Post-Production Intern](https://jobright.ai/jobs/info/6973b5a4bc8e722e7b188a75?utm_campaign=1053&utm_source=git)** | Knoxville, TN | On Site | Jan 23 |
 | **[The Reynolds and Reynolds Company](https://www.reyrey.com)** | **[Multimedia Production Specialist Intern](https://jobright.ai/jobs/info/69738c76206da320f49d8899?utm_campaign=1053&utm_source=git)** | Greater Houston | On Site | Jan 23 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[WABC-TV (ABC7) Creative Services Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/6970c253587dfa0bb55e49fd?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jan 23 |
-| **[U.S. News & World Report](http://www.usnews.com)** | **[2026 News Intern](https://jobright.ai/jobs/info/696894991703f05405aa6147?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Jan 23 |
-| ↳ | **[2026 Editorial Intern](https://jobright.ai/jobs/info/696875d2639b452fb57e1e1f?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Jan 23 |
 | **[Colonial Williamsburg Foundation](https://www.colonialwilliamsburg.org/)** | **[Intern - Fife & Drum](https://jobright.ai/jobs/info/6789b384fade8859f716aab4?utm_campaign=1053&utm_source=git)** | Williamsburg, VA | On Site | Jan 23 |
 | **[Epic Games](https://epicgames.com)** | **[Gameplay Animation Intern](https://jobright.ai/jobs/info/69017b0fd5259a1b3cff5421?utm_campaign=1053&utm_source=git)** | Cary, NC | On Site | Jan 23 |
 | **[AbelsonTaylor Group](https://www.abelsontaylor.com/)** | **[Integrated Production Intern](https://jobright.ai/jobs/info/6972c4289b83b424830ecb82?utm_campaign=1053&utm_source=git)** | Chicago, IL | Hybrid | Jan 22 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[DreamWorks Animation](https://www.dreamworks.com)** | **[NBCU Local San Diego - Production Intern - Summer 2026](https://jobright.ai/jobs/info/696ff1ff3ed06875134ae323?utm_campaign=1053&utm_source=git)** | 9680 Granite Ridge Drive, San Diego, CALIFORNIA | On Site | Jan 20 |
 | **[NBCUniversal](https://www.nbcuniversal.com/)** | **[NBCU Local San Diego - Production Intern - Summer 2026](https://jobright.ai/jobs/info/696fcbac3ed06875134ab8a1?utm_campaign=1053&utm_source=git)** | San Diego, CA | On Site | Jan 20 |
 | **[every single guitars.](http://everysingleguitars.com)** | **[Videographer Intern](https://jobright.ai/jobs/info/696fca703ed06875134ab7dd?utm_campaign=1053&utm_source=git)** | San Francisco Bay Area | On Site | Jan 20 |
-| **[Miami Marlins and loanDepot park](https://marlins.mlb.com/)** | **[Sports Pathway Intern - Video](https://jobright.ai/jobs/info/6965af7d2cbf4e44756f5c92?utm_campaign=1053&utm_source=git)** | Miami, FL | On Site | Jan 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
