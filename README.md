@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Colonial Williamsburg Foundation](https://www.colonialwilliamsburg.org/)** | **[Intern - Fife & Drum](https://jobright.ai/jobs/info/6789b384fade8859f716aab4?utm_campaign=1053&utm_source=git)** | Williamsburg, VA | On Site | Jan 23 |
 | **[Epic Games](https://epicgames.com)** | **[Gameplay Animation Intern](https://jobright.ai/jobs/info/69017b0fd5259a1b3cff5421?utm_campaign=1053&utm_source=git)** | Cary, NC | On Site | Jan 23 |
 | **[AbelsonTaylor Group](https://www.abelsontaylor.com/)** | **[Integrated Production Intern](https://jobright.ai/jobs/info/6972c4289b83b424830ecb82?utm_campaign=1053&utm_source=git)** | Chicago, IL | Hybrid | Jan 22 |
 | **[Social View Agency](https://www.linkedin.com/company/81888485)** | **[Video Production Intern](https://jobright.ai/jobs/info/6972ea5b1d55d64a20534bf9?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | Jan 22 |
@@ -126,10 +127,10 @@ For a complete list, click the following sortable link below:
 | **[Minted](http://www.minted.com)** | **[Content Production Intern](https://jobright.ai/jobs/info/696fe5c982817106e976eb08?utm_campaign=1053&utm_source=git)** | San Francisco, CA | On Site | Jan 20 |
 | ↳ | **[Content Production Intern](https://jobright.ai/jobs/info/6970034b0f4e0f657ea460dd?utm_campaign=1053&utm_source=git)** | San Francisco, CA | On Site | Jan 20 |
 | **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Summer 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69700d9e3ed06875134b0b99?utm_campaign=1053&utm_source=git)** | Naperville, IL | On Site | Jan 20 |
-| ↳ | **[Summer 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/697013db3ed06875134b12b0?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Jan 20 |
 | ↳ | **[Summer 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/697009563ed06875134b07b3?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Jan 20 |
-| ↳ | **[Summer 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6970120682817106e9772d48?utm_campaign=1053&utm_source=git)** | Evanston, IL | On Site | Jan 20 |
+| ↳ | **[Summer 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/697013db3ed06875134b12b0?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Jan 20 |
 | ↳ | **[Summer 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/697017b40f4e0f657ea472d0?utm_campaign=1053&utm_source=git)** | Knoxville, TN | On Site | Jan 20 |
+| ↳ | **[Summer 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6970120682817106e9772d48?utm_campaign=1053&utm_source=git)** | Evanston, IL | On Site | Jan 20 |
 | ↳ | **[Summer 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/697008920f4e0f657ea4646e?utm_campaign=1053&utm_source=git)** | Providence, RI | On Site | Jan 20 |
 | ↳ | **[Summer 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6970119f0f4e0f657ea46d4b?utm_campaign=1053&utm_source=git)** | Tempe, AZ | On Site | Jan 20 |
 | **[Educational Media Foundation K-LOVE & Air1 Media Networks](https://www.klove.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/696fde5d3ed06875134ac7d7?utm_campaign=1053&utm_source=git)** | US-TN-Franklin | On Site | Jan 20 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Nature Conservancy](http://www.nature.org)** | **[Lands and Lives Intern](https://jobright.ai/jobs/info/696de53ddb26b6189510d605?utm_campaign=1053&utm_source=git)** | Charlottesville, VA | Hybrid | Jan 19 |
 | **[The Nature Conservancy](http://www.nature.org)** | **[Lands and Lives Intern](https://jobright.ai/jobs/info/696dc649350cf43803149b4f?utm_campaign=1053&utm_source=git)** | Charlottesville, Virginia | Hybrid | Jan 18 |
 | **[Groupe Dynamite](https://groupedynamite.com)** | **[Intern, Fit Technician](https://jobright.ai/jobs/info/695dd70c89be3415c7463186?utm_campaign=1053&utm_source=git)** | Mont-Royal, Quebec, Canada | On Site | Jan 18 |
-| **[D.C. United](http://dcunited.com)** | **[Intern, Videography](https://jobright.ai/jobs/info/696d48cb5fc86241853c427b?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Jan 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
