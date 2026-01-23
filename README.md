@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[WABC-TV (ABC7) Creative Services Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/6970c253587dfa0bb55e49fd?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jan 23 |
+| **[U.S. News & World Report](http://www.usnews.com)** | **[2026 News Intern](https://jobright.ai/jobs/info/696894991703f05405aa6147?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Jan 23 |
+| ↳ | **[2026 Editorial Intern](https://jobright.ai/jobs/info/696875d2639b452fb57e1e1f?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Jan 23 |
 | **[Colonial Williamsburg Foundation](https://www.colonialwilliamsburg.org/)** | **[Intern - Fife & Drum](https://jobright.ai/jobs/info/6789b384fade8859f716aab4?utm_campaign=1053&utm_source=git)** | Williamsburg, VA | On Site | Jan 23 |
 | **[Epic Games](https://epicgames.com)** | **[Gameplay Animation Intern](https://jobright.ai/jobs/info/69017b0fd5259a1b3cff5421?utm_campaign=1053&utm_source=git)** | Cary, NC | On Site | Jan 23 |
 | **[AbelsonTaylor Group](https://www.abelsontaylor.com/)** | **[Integrated Production Intern](https://jobright.ai/jobs/info/6972c4289b83b424830ecb82?utm_campaign=1053&utm_source=git)** | Chicago, IL | Hybrid | Jan 22 |
@@ -107,7 +110,6 @@ For a complete list, click the following sortable link below:
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Hello Iowa Intern (Unpaid)](https://jobright.ai/jobs/info/6938ede1b95c305f206e2e4b?utm_campaign=1053&utm_source=git)** | Des Moines, IA | On Site | Jan 21 |
 | **[Crystal Bridges Museum of American Art](http://crystalbridges.org)** | **[2026 Venue Operations Intern](https://jobright.ai/jobs/info/693bd8a749a7695fbd02b95b?utm_campaign=1053&utm_source=git)** | Bentonville, AR | On Site | Jan 21 |
 | **[Chesterfield County](https://www.chesterfield.gov)** | **[2026 Summer Intern - Sports, Visitation and Entertainment (Sports Tourism)](https://jobright.ai/jobs/info/6970e72a333b6343a14d5bb8?utm_campaign=1053&utm_source=git)** | Chesterfield, VA | On Site | Jan 21 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[WABC-TV (ABC7) Creative Services Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/6970c253587dfa0bb55e49fd?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jan 21 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[WPVI - TV (6abc) News Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69705154587dfa0bb55dd7d8?utm_campaign=1053&utm_source=git)** | Philadelphia, PA, USA | On Site | Jan 20 |
 | **[Pew Research Center](http://pewresearch.org)** | **[Undergraduate Intern, Short Reads (Data Journalism), Pew Research Center Summer 2026](https://jobright.ai/jobs/info/6972fbcb694e99351d1441c9?utm_campaign=1053&utm_source=git)** | Washington, DC (Pew Research Center) | Hybrid | Jan 20 |
 | **[H/L Agency](https://hl.agency)** | **[Summer Intern](https://jobright.ai/jobs/info/69704bf6333b6343a14cbb3f?utm_campaign=1053&utm_source=git)** | Oakland, CA | Hybrid | Jan 20 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[NextGen Coding Company](https://www.nextgencodingcompany.com/)** | **[Junior Video Editor (Content Operations Intern)](https://jobright.ai/jobs/info/696e6f355fc86241853d3232?utm_campaign=1053&utm_source=git)** | New York, NY | Remote | Jan 19 |
 | **[Sparrow](https://www.sparrowup.com)** | **[Animation Intern](https://jobright.ai/jobs/info/696e4f8adb26b6189511351d?utm_campaign=1053&utm_source=git)** | United States | Remote | Jan 19 |
 | **[The Nature Conservancy](http://www.nature.org)** | **[Lands and Lives Intern](https://jobright.ai/jobs/info/696de53ddb26b6189510d605?utm_campaign=1053&utm_source=git)** | Charlottesville, VA | Hybrid | Jan 19 |
-| **[The Nature Conservancy](http://www.nature.org)** | **[Lands and Lives Intern](https://jobright.ai/jobs/info/696dc649350cf43803149b4f?utm_campaign=1053&utm_source=git)** | Charlottesville, Virginia | Hybrid | Jan 18 |
-| **[Groupe Dynamite](https://groupedynamite.com)** | **[Intern, Fit Technician](https://jobright.ai/jobs/info/695dd70c89be3415c7463186?utm_campaign=1053&utm_source=git)** | Mont-Royal, Quebec, Canada | On Site | Jan 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
