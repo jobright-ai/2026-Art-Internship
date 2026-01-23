@@ -57,8 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Boncom](https://www.boncom.com/)** | **[2026 Video Postproduction/Archiving Intern](https://jobright.ai/jobs/info/6972d2ad1d55d64a20533259?utm_campaign=1053&utm_source=git)** | Salt Lake City,UT,US | Hybrid | Jan 22 |
+| **[AbelsonTaylor Group](https://www.abelsontaylor.com/)** | **[Integrated Production Intern](https://jobright.ai/jobs/info/6972c4289b83b424830ecb82?utm_campaign=1053&utm_source=git)** | Chicago, IL | Hybrid | Jan 22 |
+| **[Bolton & Menk, Inc.](http://bolton-menk.com)** | **[Cultural Resources Intern - Architectural History](https://jobright.ai/jobs/info/696f18de82817106e9764693?utm_campaign=1053&utm_source=git)** | Minneapolis, MN | On Site | Jan 22 |
 | **[Zobe Magazine](http://www.ZobeMagazine.com)** | **[Writers, Photographers, & Content Creators For Startup Magazine Blog (Internship)](https://jobright.ai/jobs/info/6972b6de4ccbf64f8df2c256?utm_campaign=1053&utm_source=git)** | United States | Remote | Jan 22 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid News Intern](https://jobright.ai/jobs/info/6972b01a9b83b424830eb8a4?utm_campaign=1053&utm_source=git)** | IN-Indianapolis;6910 Network Place (Tribune-WXIN/WTTV) | On Site | Jan 22 |
+| **[Syntra Antwerpen en Vlaams Brabant (Syntra AB)](https://www.syntra-ab.be)** | **[Integrated Production Intern](https://jobright.ai/jobs/info/6972d2bf0488fd59f7d5cabe?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Jan 22 |
 | **[Motorola Solutions](http://www.motorolasolutions.com)** | **[Video Editor - 2026 Summer Internship](https://jobright.ai/jobs/info/6972a9db9b83b424830eb1bc?utm_campaign=1053&utm_source=git)** | Chicago, IL | Hybrid | Jan 22 |
 | **[Northstar Travel Group](http://www.NorthstarTravelGroup.com)** | **[Editorial Intern](https://jobright.ai/jobs/info/6972a0c2584a1c1ef6fdadc3?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, US | Hybrid | Jan 22 |
 | **[Newdle](https://context.press/)** | **[News Creator Intern](https://jobright.ai/jobs/info/6972b342584a1c1ef6fdc646?utm_campaign=1053&utm_source=git)** | San Francisco, CA | On Site | Jan 22 |
@@ -126,9 +130,9 @@ For a complete list, click the following sortable link below:
 | **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Summer 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69700d9e3ed06875134b0b99?utm_campaign=1053&utm_source=git)** | Naperville, IL | On Site | Jan 20 |
 | ↳ | **[Summer 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/697009563ed06875134b07b3?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Jan 20 |
 | ↳ | **[Summer 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/697013db3ed06875134b12b0?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Jan 20 |
-| ↳ | **[Summer 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/697017b40f4e0f657ea472d0?utm_campaign=1053&utm_source=git)** | Knoxville, TN | On Site | Jan 20 |
 | ↳ | **[Summer 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6970120682817106e9772d48?utm_campaign=1053&utm_source=git)** | Evanston, IL | On Site | Jan 20 |
 | ↳ | **[Summer 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/697008920f4e0f657ea4646e?utm_campaign=1053&utm_source=git)** | Providence, RI | On Site | Jan 20 |
+| ↳ | **[Summer 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/697017b40f4e0f657ea472d0?utm_campaign=1053&utm_source=git)** | Knoxville, TN | On Site | Jan 20 |
 | ↳ | **[Summer 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6970119f0f4e0f657ea46d4b?utm_campaign=1053&utm_source=git)** | Tempe, AZ | On Site | Jan 20 |
 | **[Educational Media Foundation K-LOVE & Air1 Media Networks](https://www.klove.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/696fde5d3ed06875134ac7d7?utm_campaign=1053&utm_source=git)** | US-TN-Franklin | On Site | Jan 20 |
 | **[One Knoxville SC](https://oneknoxsc.com/)** | **[Fan Experience and Event Operations Internship](https://jobright.ai/jobs/info/696ff89f82817106e9770b50?utm_campaign=1053&utm_source=git)** | Knoxville, TN | On Site | Jan 20 |
@@ -140,7 +144,6 @@ For a complete list, click the following sortable link below:
 | **[Miami Marlins and loanDepot park](https://marlins.mlb.com/)** | **[Sports Pathway Intern - Video](https://jobright.ai/jobs/info/6965af7d2cbf4e44756f5c92?utm_campaign=1053&utm_source=git)** | Miami, FL | On Site | Jan 20 |
 | **[60 MINUTES](https://www.60-minutes.de)** | **[CBS News Intern, KDKA Pittsburgh (Summer 2026)](https://jobright.ai/jobs/info/69705a33333b6343a14cd94b?utm_campaign=1053&utm_source=git)** | Pittsburgh, PA | On Site | Jan 20 |
 | **[City Of Chanhassen](http://www.ci.chanhassen.mn.us)** | **[Parks & Recreation Intern](https://jobright.ai/jobs/info/6971cce1cda45e69535801c9?utm_campaign=1053&utm_source=git)** | Chanhassen, MN | On Site | Jan 19 |
-| **[Bolton & Menk, Inc.](http://bolton-menk.com)** | **[Cultural Resources Intern - Architectural History](https://jobright.ai/jobs/info/696f18de82817106e9764693?utm_campaign=1053&utm_source=git)** | Minneapolis, MN | On Site | Jan 19 |
 | **[myMentalPal: Book Meditations](https://apps.apple.com/us/app/mymentalpal-book-meditations/id6474141147)** | **[UGC Creator Intern (TikTok / Short-Form Video) — myMentalPal](https://jobright.ai/jobs/info/696f0f529c3c52633455d654?utm_campaign=1053&utm_source=git)** | United States | Remote | Jan 19 |
 | **[Bolton & Menk, Inc.](http://bolton-menk.com)** | **[Cultural Resources Intern - Architectural History](https://jobright.ai/jobs/info/696ee0ebdb26b6189511fe36?utm_campaign=1053&utm_source=git)** | BURNSVILLE, MN 55337, USA | On Site | Jan 19 |
 | **[Lockport Township Park Distr](https://www.lockportpark.org/)** | **[Golf Course Maintenance Internship](https://jobright.ai/jobs/info/696f06e89c3c52633455c571?utm_campaign=1053&utm_source=git)** | Crest Hill, IL | On Site | Jan 19 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Sparrow](https://www.sparrowup.com)** | **[Animation Intern](https://jobright.ai/jobs/info/696e4f8adb26b6189511351d?utm_campaign=1053&utm_source=git)** | United States | Remote | Jan 19 |
 | **[The Nature Conservancy](http://www.nature.org)** | **[Lands and Lives Intern](https://jobright.ai/jobs/info/696de53ddb26b6189510d605?utm_campaign=1053&utm_source=git)** | Charlottesville, VA | Hybrid | Jan 19 |
 | **[The Nature Conservancy](http://www.nature.org)** | **[Lands and Lives Intern](https://jobright.ai/jobs/info/696dc649350cf43803149b4f?utm_campaign=1053&utm_source=git)** | Charlottesville, Virginia | Hybrid | Jan 18 |
-| **[Groupe Dynamite](https://groupedynamite.com)** | **[Intern, Fit Technician](https://jobright.ai/jobs/info/695dd70c89be3415c7463186?utm_campaign=1053&utm_source=git)** | Mont-Royal, Quebec, Canada | On Site | Jan 18 |
-| **[D.C. United](http://dcunited.com)** | **[Intern, Videography](https://jobright.ai/jobs/info/696d48cb5fc86241853c427b?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Jan 18 |
-| **[Herschend Family Entertainment](http://www.hfecorp.com/)** | **[Adventureland Park - Food & Beverage Intern - Special Events](https://jobright.ai/jobs/info/696d364bdb26b61895104ea9?utm_campaign=1053&utm_source=git)** | Adventureland, 3200 Adventureland drive, Altoona,  IA 50009, United States of America | On Site | Jan 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
