@@ -58,6 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[AbelsonTaylor Group](https://www.abelsontaylor.com/)** | **[Integrated Production Intern](https://jobright.ai/jobs/info/6972c4289b83b424830ecb82?utm_campaign=1053&utm_source=git)** | Chicago, IL | Hybrid | Jan 22 |
+| **[Social View Agency](https://www.linkedin.com/company/81888485)** | **[Video Production Intern](https://jobright.ai/jobs/info/6972ea5b1d55d64a20534bf9?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | Jan 22 |
 | **[Bolton & Menk, Inc.](http://bolton-menk.com)** | **[Cultural Resources Intern - Architectural History](https://jobright.ai/jobs/info/696f18de82817106e9764693?utm_campaign=1053&utm_source=git)** | Minneapolis, MN | On Site | Jan 22 |
 | **[CoPatible](https://copatible.com)** | **[Content Creator Intern](https://jobright.ai/jobs/info/6972d8f30488fd59f7d5d340?utm_campaign=1053&utm_source=git)** | San Francisco Bay Area | Remote | Jan 22 |
 | **[Zobe Magazine](http://www.ZobeMagazine.com)** | **[Writers, Photographers, & Content Creators For Startup Magazine Blog (Internship)](https://jobright.ai/jobs/info/6972b6de4ccbf64f8df2c256?utm_campaign=1053&utm_source=git)** | United States | Remote | Jan 22 |
@@ -68,7 +69,6 @@ For a complete list, click the following sortable link below:
 | **[Northstar Travel Group](http://www.NorthstarTravelGroup.com)** | **[Editorial Intern](https://jobright.ai/jobs/info/6972a0c2584a1c1ef6fdadc3?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, US | Hybrid | Jan 22 |
 | **[Newdle](https://context.press/)** | **[News Creator Intern](https://jobright.ai/jobs/info/6972b342584a1c1ef6fdc646?utm_campaign=1053&utm_source=git)** | San Francisco, CA | On Site | Jan 22 |
 | **[Northstar Travel Group](http://www.NorthstarTravelGroup.com)** | **[Editorial & Research Intern](https://jobright.ai/jobs/info/6972abf99b83b424830eb422?utm_campaign=1053&utm_source=git)** | United States | Remote | Jan 22 |
-| **[CrossDock Insights](https://crossdockinsights.com/subscribe)** | **[Content Writer (Intern/Part-time/ Freelancer)](https://jobright.ai/jobs/info/69727f79584a1c1ef6fd7a8d?utm_campaign=1053&utm_source=git)** | Austin, TX | Remote | Jan 22 |
 | **[AbelsonTaylor Group](https://www.abelsontaylor.com/)** | **[Integrated Production Intern](https://jobright.ai/jobs/info/69727c1f584a1c1ef6fd76c6?utm_campaign=1053&utm_source=git)** | Chicago, Illinois | On Site | Jan 22 |
 | **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[Spoon University Editorial Intern - Spring 2026](https://jobright.ai/jobs/info/6972912c4ccbf64f8df2862a?utm_campaign=1053&utm_source=git)** | United States | Remote | Jan 22 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[ILM Immersive, Interactive Animation Intern, Summer 2026](https://jobright.ai/jobs/info/696b7ccb5fc86241853ad25f?utm_campaign=1053&utm_source=git)** | San Francisco, CA | On Site | Jan 22 |
@@ -129,10 +129,10 @@ For a complete list, click the following sortable link below:
 | **[Minted](http://www.minted.com)** | **[Content Production Intern](https://jobright.ai/jobs/info/696fe5c982817106e976eb08?utm_campaign=1053&utm_source=git)** | San Francisco, CA | On Site | Jan 20 |
 | ↳ | **[Content Production Intern](https://jobright.ai/jobs/info/6970034b0f4e0f657ea460dd?utm_campaign=1053&utm_source=git)** | San Francisco, CA | On Site | Jan 20 |
 | **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Summer 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69700d9e3ed06875134b0b99?utm_campaign=1053&utm_source=git)** | Naperville, IL | On Site | Jan 20 |
-| ↳ | **[Summer 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/697013db3ed06875134b12b0?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Jan 20 |
 | ↳ | **[Summer 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/697009563ed06875134b07b3?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Jan 20 |
-| ↳ | **[Summer 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/697008920f4e0f657ea4646e?utm_campaign=1053&utm_source=git)** | Providence, RI | On Site | Jan 20 |
+| ↳ | **[Summer 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/697013db3ed06875134b12b0?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Jan 20 |
 | ↳ | **[Summer 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6970120682817106e9772d48?utm_campaign=1053&utm_source=git)** | Evanston, IL | On Site | Jan 20 |
+| ↳ | **[Summer 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/697008920f4e0f657ea4646e?utm_campaign=1053&utm_source=git)** | Providence, RI | On Site | Jan 20 |
 | ↳ | **[Summer 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/697017b40f4e0f657ea472d0?utm_campaign=1053&utm_source=git)** | Knoxville, TN | On Site | Jan 20 |
 | ↳ | **[Summer 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6970119f0f4e0f657ea46d4b?utm_campaign=1053&utm_source=git)** | Tempe, AZ | On Site | Jan 20 |
 | **[Educational Media Foundation K-LOVE & Air1 Media Networks](https://www.klove.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/696fde5d3ed06875134ac7d7?utm_campaign=1053&utm_source=git)** | US-TN-Franklin | On Site | Jan 20 |
