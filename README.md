@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Reynolds and Reynolds Company](https://www.reyrey.com)** | **[Multimedia Production Specialist Intern](https://jobright.ai/jobs/info/69738c76206da320f49d8899?utm_campaign=1053&utm_source=git)** | Greater Houston | On Site | Jan 23 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[WABC-TV (ABC7) Creative Services Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/6970c253587dfa0bb55e49fd?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jan 23 |
 | **[U.S. News & World Report](http://www.usnews.com)** | **[2026 News Intern](https://jobright.ai/jobs/info/696894991703f05405aa6147?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Jan 23 |
 | ↳ | **[2026 Editorial Intern](https://jobright.ai/jobs/info/696875d2639b452fb57e1e1f?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Jan 23 |
@@ -130,11 +131,11 @@ For a complete list, click the following sortable link below:
 | **[Minted](http://www.minted.com)** | **[Content Production Intern](https://jobright.ai/jobs/info/696fe5c982817106e976eb08?utm_campaign=1053&utm_source=git)** | San Francisco, CA | On Site | Jan 20 |
 | ↳ | **[Content Production Intern](https://jobright.ai/jobs/info/6970034b0f4e0f657ea460dd?utm_campaign=1053&utm_source=git)** | San Francisco, CA | On Site | Jan 20 |
 | **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Summer 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69700d9e3ed06875134b0b99?utm_campaign=1053&utm_source=git)** | Naperville, IL | On Site | Jan 20 |
-| ↳ | **[Summer 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/697009563ed06875134b07b3?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Jan 20 |
 | ↳ | **[Summer 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/697013db3ed06875134b12b0?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Jan 20 |
+| ↳ | **[Summer 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/697009563ed06875134b07b3?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Jan 20 |
+| ↳ | **[Summer 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6970120682817106e9772d48?utm_campaign=1053&utm_source=git)** | Evanston, IL | On Site | Jan 20 |
 | ↳ | **[Summer 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/697008920f4e0f657ea4646e?utm_campaign=1053&utm_source=git)** | Providence, RI | On Site | Jan 20 |
 | ↳ | **[Summer 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/697017b40f4e0f657ea472d0?utm_campaign=1053&utm_source=git)** | Knoxville, TN | On Site | Jan 20 |
-| ↳ | **[Summer 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6970120682817106e9772d48?utm_campaign=1053&utm_source=git)** | Evanston, IL | On Site | Jan 20 |
 | ↳ | **[Summer 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6970119f0f4e0f657ea46d4b?utm_campaign=1053&utm_source=git)** | Tempe, AZ | On Site | Jan 20 |
 | **[Educational Media Foundation K-LOVE & Air1 Media Networks](https://www.klove.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/696fde5d3ed06875134ac7d7?utm_campaign=1053&utm_source=git)** | US-TN-Franklin | On Site | Jan 20 |
 | **[One Knoxville SC](https://oneknoxsc.com/)** | **[Fan Experience and Event Operations Internship](https://jobright.ai/jobs/info/696ff89f82817106e9770b50?utm_campaign=1053&utm_source=git)** | Knoxville, TN | On Site | Jan 20 |
@@ -145,6 +146,7 @@ For a complete list, click the following sortable link below:
 | **[every single guitars.](http://everysingleguitars.com)** | **[Videographer Intern](https://jobright.ai/jobs/info/696fca703ed06875134ab7dd?utm_campaign=1053&utm_source=git)** | San Francisco Bay Area | On Site | Jan 20 |
 | **[Miami Marlins and loanDepot park](https://marlins.mlb.com/)** | **[Sports Pathway Intern - Video](https://jobright.ai/jobs/info/6965af7d2cbf4e44756f5c92?utm_campaign=1053&utm_source=git)** | Miami, FL | On Site | Jan 20 |
 | **[60 MINUTES](https://www.60-minutes.de)** | **[CBS News Intern, KDKA Pittsburgh (Summer 2026)](https://jobright.ai/jobs/info/69705a33333b6343a14cd94b?utm_campaign=1053&utm_source=git)** | Pittsburgh, PA | On Site | Jan 20 |
+| **[NextGen Coding Company](https://www.nextgencodingcompany.com/)** | **[Junior Video Editor (Content Operations Unpaid Intern)](https://jobright.ai/jobs/info/696e6f355fc86241853d3232?utm_campaign=1053&utm_source=git)** | New York, NY | Remote | Jan 20 |
 | **[City Of Chanhassen](http://www.ci.chanhassen.mn.us)** | **[Parks & Recreation Intern](https://jobright.ai/jobs/info/6971cce1cda45e69535801c9?utm_campaign=1053&utm_source=git)** | Chanhassen, MN | On Site | Jan 19 |
 | **[myMentalPal: Book Meditations](https://apps.apple.com/us/app/mymentalpal-book-meditations/id6474141147)** | **[UGC Creator Intern (TikTok / Short-Form Video) — myMentalPal](https://jobright.ai/jobs/info/696f0f529c3c52633455d654?utm_campaign=1053&utm_source=git)** | United States | Remote | Jan 19 |
 | **[Bolton & Menk, Inc.](http://bolton-menk.com)** | **[Cultural Resources Intern - Architectural History](https://jobright.ai/jobs/info/696ee0ebdb26b6189511fe36?utm_campaign=1053&utm_source=git)** | BURNSVILLE, MN 55337, USA | On Site | Jan 19 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[EnforceTheSport](https://enforcethesport.com)** | **[Three Month Writing Internship](https://jobright.ai/jobs/info/696e98645fc86241853d56f2?utm_campaign=1053&utm_source=git)** | United States | Remote | Jan 19 |
 | **[PHENYX](https://www.phenyx.co)** | **[Post-Production & Production Assistant Intern (Part-Time)](https://jobright.ai/jobs/info/696e934edb26b61895117165?utm_campaign=1053&utm_source=git)** | Lafayette, CO | On Site | Jan 19 |
 | **[Vizual Edge](http://www.vizualedge.com)** | **[Content Creator](https://jobright.ai/jobs/info/696e7b8d5fc86241853d367b?utm_campaign=1053&utm_source=git)** | United States | Remote | Jan 19 |
-| **[NextGen Coding Company](https://www.nextgencodingcompany.com/)** | **[Junior Video Editor (Content Operations Intern)](https://jobright.ai/jobs/info/696e6f355fc86241853d3232?utm_campaign=1053&utm_source=git)** | New York, NY | Remote | Jan 19 |
-| **[Sparrow](https://www.sparrowup.com)** | **[Animation Intern](https://jobright.ai/jobs/info/696e4f8adb26b6189511351d?utm_campaign=1053&utm_source=git)** | United States | Remote | Jan 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
