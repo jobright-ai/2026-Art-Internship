@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Southern Poverty Law Center](http://www.splcenter.org)** | **[Intern, Editorial (Summer 2026)](https://jobright.ai/jobs/info/697440f737785856350e39f1?utm_campaign=1053&utm_source=git)** | New Orleans, LA | Hybrid | Jan 23 |
+| **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[Paid Intern - Website Prod Editor](https://jobright.ai/jobs/info/69744657bc8e722e7b193de4?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Jan 23 |
+| **[Southern Poverty Law Center](http://www.splcenter.org)** | **[Intern, Editorial (Summer 2026)](https://jobright.ai/jobs/info/6974458abc8e722e7b193d60?utm_campaign=1053&utm_source=git)** | Miami, FL | Hybrid | Jan 23 |
+| ↳ | **[Intern, Editorial (Summer 2026)](https://jobright.ai/jobs/info/697440f737785856350e39f1?utm_campaign=1053&utm_source=git)** | New Orleans, LA | Hybrid | Jan 23 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Paid Intern - Website Prod Editor](https://jobright.ai/jobs/info/69743d0c37785856350e36d9?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Jan 23 |
 | **[Southern Poverty Law Center](http://www.splcenter.org)** | **[Intern, Editorial (Summer 2026)](https://jobright.ai/jobs/info/69743c7c37785856350e367a?utm_campaign=1053&utm_source=git)** | Atlanta, GA | Hybrid | Jan 23 |
 | ↳ | **[Intern, Editorial (Summer 2026)](https://jobright.ai/jobs/info/69743bf637785856350e361d?utm_campaign=1053&utm_source=git)** | Montgomery, AL | Hybrid | Jan 23 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Schindler Group](http://www.schindler.com/)** | **[Film & Media Summer Intern](https://jobright.ai/jobs/info/6969aeddf25a38006698657b?utm_campaign=1053&utm_source=git)** | Holland, OH | On Site | Jan 21 |
 | **[High Impact Promotion](https://highimpactpromo.com/)** | **[Digital Production Unpaid Internship](https://jobright.ai/jobs/info/69711a9f51f726477183543a?utm_campaign=1053&utm_source=git)** | Chicago, IL | Hybrid | Jan 21 |
 | **[Cleveland Browns](http://www.clevelandbrowns.com)** | **[Video Intern](https://jobright.ai/jobs/info/697276e09b83b424830e65b9?utm_campaign=1053&utm_source=git)** | 76 Lou Groza Boulevard, Berea, OH, USA | On Site | Jan 21 |
-| **[One Impression](https://www.oneimpression.io)** | **[Research Associate Intern (Reels & Content Rating)](https://jobright.ai/jobs/info/6970ecb0587dfa0bb55e766e?utm_campaign=1053&utm_source=git)** | United States | Remote | Jan 21 |
-| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Hello Iowa Intern (Unpaid)](https://jobright.ai/jobs/info/6938ede1b95c305f206e2e4b?utm_campaign=1053&utm_source=git)** | Des Moines, IA | On Site | Jan 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
