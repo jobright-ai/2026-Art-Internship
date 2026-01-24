@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[FlowTiger](https://www.flowtiger.com/)** | **[UGC Content Creator (TikTok, Instagram)](https://jobright.ai/jobs/info/69753691bc8e722e7b1a27cb?utm_campaign=1053&utm_source=git)** | United States | Remote | Jan 24 |
 | **[iHeartMedia](http://iheartmedia.com)** | **[Podcast Production Intern](https://jobright.ai/jobs/info/693c9d0050bbaf76504fe581?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jan 24 |
 | **[The Washington Post](http://www.washingtonpost.com/)** | **[Opinion Video Intern](https://jobright.ai/jobs/info/68caff29d905e25191d9e2c9?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Jan 24 |
 | **[iHeartMedia](http://iheartmedia.com)** | **[Podcast Development Intern](https://jobright.ai/jobs/info/693c9374aa598a08c3ed6a1f?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jan 24 |
@@ -95,8 +96,8 @@ For a complete list, click the following sortable link below:
 | **[SmartCard](HTTPS://SmartCard.Sale)** | **[Video Content Creator Intern (Videography & Editing)](https://jobright.ai/jobs/info/697420b337785856350e1a05?utm_campaign=1053&utm_source=git)** | Frisco, TX | Hybrid | Jan 23 |
 | **[Netflix](https://www.netflix.com)** | **[Studio Management & Services Intern (Summer 2026)](https://jobright.ai/jobs/info/69741f36206da320f49e408b?utm_campaign=1053&utm_source=git)** | Los Angeles | On Site | Jan 23 |
 | **[DreamWorks Animation](https://www.dreamworks.com)** | **[NBC10 Philadelphia Digital News Intern - Summer 2026](https://jobright.ai/jobs/info/697437febc8e722e7b192ba7?utm_campaign=1053&utm_source=git)** | 1800 Arch St., Philadelphia, PENNSYLVANIA | On Site | Jan 23 |
-| ↳ | **[Telemundo62 News Intern - Summer 2026](https://jobright.ai/jobs/info/6974340bbc8e722e7b19292f?utm_campaign=1053&utm_source=git)** | 1800 Arch St., Philadelphia, PENNSYLVANIA | On Site | Jan 23 |
 | ↳ | **[Telemundo62-Digital News Intern Summer 2026](https://jobright.ai/jobs/info/6974386f206da320f49e572d?utm_campaign=1053&utm_source=git)** | 1800 Arch St., Philadelphia, PENNSYLVANIA | On Site | Jan 23 |
+| ↳ | **[Telemundo62 News Intern - Summer 2026](https://jobright.ai/jobs/info/6974340bbc8e722e7b19292f?utm_campaign=1053&utm_source=git)** | 1800 Arch St., Philadelphia, PENNSYLVANIA | On Site | Jan 23 |
 | ↳ | **[PA Station Intern](https://jobright.ai/jobs/info/69743863bc8e722e7b192bd6?utm_campaign=1053&utm_source=git)** | 1800 Arch St., Philadelphia, PENNSYLVANIA | On Site | Jan 23 |
 | **[Kohler Hospitality](https://www.kohlerwisconsin.com/)** | **[Decor & Design Intern, Meeting and Events](https://jobright.ai/jobs/info/6974145c37785856350df843?utm_campaign=1053&utm_source=git)** | Kohler, WI | On Site | Jan 23 |
 | **[NBCUniversal](https://www.nbcuniversal.com/)** | **[Telemundo62 News Intern - Summer 2026](https://jobright.ai/jobs/info/6974141437785856350df808?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Jan 23 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[New York Red Bulls](http://www.newyorkredbulls.com)** | **[2026 Internship, Spring - Creative Video](https://jobright.ai/jobs/info/693a3311ac80bb5492bcba24?utm_campaign=1053&utm_source=git)** | Harrison, NJ | On Site | Jan 22 |
 | **[KUTV 2News / KMYU](http://kutv.com/)** | **[Intern - Studio Crew](https://jobright.ai/jobs/info/6972033acda18b7438645b44?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Jan 22 |
 | **[The State University of New York](http://www.suny.edu/)** | **[Multimedia Production Intern](https://jobright.ai/jobs/info/690a6177bcccf20de59e184c?utm_campaign=1053&utm_source=git)** | Albany, NY | On Site | Jan 22 |
-| **[Epic Games](https://epicgames.com)** | **[Gameplay Animation Intern](https://jobright.ai/jobs/info/6918efb5bcdbf3560c9d3eed?utm_campaign=1053&utm_source=git)** | Greater Montreal Metropolitan Area | On Site | Jan 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
