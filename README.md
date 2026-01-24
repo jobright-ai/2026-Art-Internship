@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Kohler Hospitality](https://www.kohlerwisconsin.com/)** | **[Decor & Design Intern, Meeting and Events](https://jobright.ai/jobs/info/6974145c37785856350df843?utm_campaign=1053&utm_source=git)** | Kohler, WI | On Site | Jan 23 |
+| **[NBCUniversal](https://www.nbcuniversal.com/)** | **[Telemundo62 News Intern - Summer 2026](https://jobright.ai/jobs/info/6974141437785856350df808?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Jan 23 |
+| **[Northstar Travel Group](http://www.NorthstarTravelGroup.com)** | **[Editorial & Research Intern](https://jobright.ai/jobs/info/697412db37785856350df70a?utm_campaign=1053&utm_source=git)** | United States | Remote | Jan 23 |
+| **[Hearst Newspapers](https://eevd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_15)** | **[SFGATE UC Berkeley Graduate School of Journalism Summer Intern, 2026](https://jobright.ai/jobs/info/69740dfd37785856350df3ee?utm_campaign=1053&utm_source=git)** | 901 Mission Street, San Francisco, CA, 94103, US | Hybrid | Jan 23 |
+| **[NBCUniversal](https://www.nbcuniversal.com/)** | **[Telemundo62-Digital News Intern Summer 2026](https://jobright.ai/jobs/info/69740de137785856350df3db?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Jan 23 |
 | **[Oklahoma Watch](https://oklahomawatch.org)** | **[Summer Intern](https://jobright.ai/jobs/info/6974075d206da320f49e1773?utm_campaign=1053&utm_source=git)** | Oklahoma City, OK | On Site | Jan 23 |
 | **[Hearst Newspapers](https://eevd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_15)** | **[SFGATE UC Berkeley Graduate School of Journalism Summer Intern, 2026](https://jobright.ai/jobs/info/6974051437785856350ded72?utm_campaign=1053&utm_source=git)** | San Francisco, CA, United States | Hybrid | Jan 23 |
 | **[Austin American-Statesman](http://www.statesman.com/)** | **[SFGATE UC Berkeley Graduate School of Journalism Summer Intern, 2026](https://jobright.ai/jobs/info/697404a437785856350decf7?utm_campaign=1053&utm_source=git)** | 901 Mission Street, San Francisco, CA, 94103, US | Hybrid | Jan 23 |
@@ -89,7 +94,6 @@ For a complete list, click the following sortable link below:
 | **[AbelsonTaylor Group](https://www.abelsontaylor.com/)** | **[Integrated Production Intern](https://jobright.ai/jobs/info/6972c4289b83b424830ecb82?utm_campaign=1053&utm_source=git)** | Chicago, IL | Hybrid | Jan 22 |
 | **[Social View Agency](https://www.linkedin.com/company/81888485)** | **[Video Production Intern](https://jobright.ai/jobs/info/6972ea5b1d55d64a20534bf9?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | Jan 22 |
 | **[Bolton & Menk, Inc.](http://bolton-menk.com)** | **[Cultural Resources Intern - Architectural History](https://jobright.ai/jobs/info/696f18de82817106e9764693?utm_campaign=1053&utm_source=git)** | Minneapolis, MN | On Site | Jan 22 |
-| **[CoPatible](https://copatible.com)** | **[Content Creator Intern](https://jobright.ai/jobs/info/6972d8f30488fd59f7d5d340?utm_campaign=1053&utm_source=git)** | San Francisco Bay Area | Remote | Jan 22 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid News Intern](https://jobright.ai/jobs/info/6972b01a9b83b424830eb8a4?utm_campaign=1053&utm_source=git)** | IN-Indianapolis;6910 Network Place (Tribune-WXIN/WTTV) | On Site | Jan 22 |
 | **[KELOLAND Media Group](http://www.keloland.com)** | **[News Intern](https://jobright.ai/jobs/info/6972dc5198522904c697af45?utm_campaign=1053&utm_source=git)** | Sioux Falls, SD | Hybrid | Jan 22 |
 | **[Syntra Antwerpen en Vlaams Brabant (Syntra AB)](https://www.syntra-ab.be)** | **[Integrated Production Intern](https://jobright.ai/jobs/info/6972d2bf0488fd59f7d5cabe?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Jan 22 |
@@ -152,9 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Summer 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69700d9e3ed06875134b0b99?utm_campaign=1053&utm_source=git)** | Naperville, IL | On Site | Jan 20 |
 | ↳ | **[Summer 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/697013db3ed06875134b12b0?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Jan 20 |
 | ↳ | **[Summer 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/697009563ed06875134b07b3?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Jan 20 |
-| ↳ | **[Summer 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/697008920f4e0f657ea4646e?utm_campaign=1053&utm_source=git)** | Providence, RI | On Site | Jan 20 |
-| ↳ | **[Summer 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6970120682817106e9772d48?utm_campaign=1053&utm_source=git)** | Evanston, IL | On Site | Jan 20 |
 | ↳ | **[Summer 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/697017b40f4e0f657ea472d0?utm_campaign=1053&utm_source=git)** | Knoxville, TN | On Site | Jan 20 |
-| ↳ | **[Summer 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6970119f0f4e0f657ea46d4b?utm_campaign=1053&utm_source=git)** | Tempe, AZ | On Site | Jan 20 |
-| **[Educational Media Foundation K-LOVE & Air1 Media Networks](https://www.klove.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/696fde5d3ed06875134ac7d7?utm_campaign=1053&utm_source=git)** | US-TN-Franklin | On Site | Jan 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
