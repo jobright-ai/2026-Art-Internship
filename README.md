@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Blizzard Entertainment](http://blizzard.com)** | **[2026 US Summer Internships - VFX](https://jobright.ai/jobs/info/68e8572209580a2fe57f6a36?utm_campaign=1053&utm_source=git)** | Irvine, CA | On Site | Jan 24 |
 | **[American Public Health Association](https://www.apha.org)** | **[The Nations Health Internship: 2026 summer term (June 1 - Aug. 15)](https://jobright.ai/jobs/info/697480ad206da320f49eb95c?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Jan 24 |
 | **[Spectrum Reach](https://www.spectrumreach.com)** | **[Video Production Intern, Spectrum Reach Summer 2026](https://jobright.ai/jobs/info/69747ef637785856350e919a?utm_campaign=1053&utm_source=git)** | St Louis, MO | On Site | Jan 24 |
 | **[American Public Media Group](https://fitzgeraldtheater.publicradio.org)** | **[Intern, Newsroom - Marketplace](https://jobright.ai/jobs/info/69747a01bc8e722e7b198b3f?utm_campaign=1053&utm_source=git)** | Pasadena, California, United States | Remote | Jan 23 |
@@ -83,8 +84,8 @@ For a complete list, click the following sortable link below:
 | **[Indiana Fever](https://fever.wnba.com/)** | **[Event Production Intern - Summer 2026](https://jobright.ai/jobs/info/69741faf37785856350e18ea?utm_campaign=1053&utm_source=git)** | Indianapolis, IN | On Site | Jan 23 |
 | **[Netflix](https://www.netflix.com)** | **[Studio Management & Services Intern (Summer 2026)](https://jobright.ai/jobs/info/69741f36206da320f49e408b?utm_campaign=1053&utm_source=git)** | Los Angeles | On Site | Jan 23 |
 | **[DreamWorks Animation](https://www.dreamworks.com)** | **[NBC10 Philadelphia Digital News Intern - Summer 2026](https://jobright.ai/jobs/info/697437febc8e722e7b192ba7?utm_campaign=1053&utm_source=git)** | 1800 Arch St., Philadelphia, PENNSYLVANIA | On Site | Jan 23 |
-| ↳ | **[Telemundo62-Digital News Intern Summer 2026](https://jobright.ai/jobs/info/6974386f206da320f49e572d?utm_campaign=1053&utm_source=git)** | 1800 Arch St., Philadelphia, PENNSYLVANIA | On Site | Jan 23 |
 | ↳ | **[Telemundo62 News Intern - Summer 2026](https://jobright.ai/jobs/info/6974340bbc8e722e7b19292f?utm_campaign=1053&utm_source=git)** | 1800 Arch St., Philadelphia, PENNSYLVANIA | On Site | Jan 23 |
+| ↳ | **[Telemundo62-Digital News Intern Summer 2026](https://jobright.ai/jobs/info/6974386f206da320f49e572d?utm_campaign=1053&utm_source=git)** | 1800 Arch St., Philadelphia, PENNSYLVANIA | On Site | Jan 23 |
 | ↳ | **[PA Station Intern](https://jobright.ai/jobs/info/69743863bc8e722e7b192bd6?utm_campaign=1053&utm_source=git)** | 1800 Arch St., Philadelphia, PENNSYLVANIA | On Site | Jan 23 |
 | **[Kohler Hospitality](https://www.kohlerwisconsin.com/)** | **[Decor & Design Intern, Meeting and Events](https://jobright.ai/jobs/info/6974145c37785856350df843?utm_campaign=1053&utm_source=git)** | Kohler, WI | On Site | Jan 23 |
 | **[NBCUniversal](https://www.nbcuniversal.com/)** | **[Telemundo62 News Intern - Summer 2026](https://jobright.ai/jobs/info/6974141437785856350df808?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Jan 23 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[60 MINUTES](https://www.60-minutes.de)** | **[CBS News Intern, KCAL Los Angeles/Studio City (Summer 2026)](https://jobright.ai/jobs/info/69743c42bc8e722e7b19369f?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Jan 21 |
 | **[CBS News and Stations](http://www.cbs.com)** | **[CBS Sports Intern, WFOR Miami (Summer 2026)](https://jobright.ai/jobs/info/69719173587dfa0bb55f41fb?utm_campaign=1053&utm_source=git)** | Miami, FL | On Site | Jan 21 |
 | **[Coastal Carolina University](http://www.coastal.edu/)** | **[Production Assistant (Student Employee)](https://jobright.ai/jobs/info/69161f33286ccf0a15132ad9?utm_campaign=1053&utm_source=git)** | Conway, SC | On Site | Jan 21 |
-| **[UL Research Institutes](https://ul.org)** | **[Multimedia Design, Video Production Summer 2026 Intern - Fire Safety Research Institute](https://jobright.ai/jobs/info/697188bf333b6343a14e23b8?utm_campaign=1053&utm_source=git)** | Columbia, MD | On Site | Jan 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
