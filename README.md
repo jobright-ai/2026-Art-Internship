@@ -57,7 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[American Public Media Group](https://fitzgeraldtheater.publicradio.org)** | **[Intern, Podcasts - Marketplace](https://jobright.ai/jobs/info/697478c637785856350e8f07?utm_campaign=1053&utm_source=git)** | Pasadena, California, United States | Remote | Jan 23 |
+| **[American Public Health Association](https://www.apha.org)** | **[The Nations Health Internship: 2026 summer term (June 1 - Aug. 15)](https://jobright.ai/jobs/info/697480ad206da320f49eb95c?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Jan 24 |
+| **[Spectrum Reach](https://www.spectrumreach.com)** | **[Video Production Intern, Spectrum Reach Summer 2026](https://jobright.ai/jobs/info/69747ef637785856350e919a?utm_campaign=1053&utm_source=git)** | St Louis, MO | On Site | Jan 24 |
+| **[American Public Media Group](https://fitzgeraldtheater.publicradio.org)** | **[Intern, Newsroom - Marketplace](https://jobright.ai/jobs/info/69747a01bc8e722e7b198b3f?utm_campaign=1053&utm_source=git)** | Pasadena, California, United States | Remote | Jan 23 |
+| ↳ | **[Intern, Podcasts - Marketplace](https://jobright.ai/jobs/info/697478c637785856350e8f07?utm_campaign=1053&utm_source=git)** | Pasadena, California, United States | Remote | Jan 23 |
 | ↳ | **[Intern, Newsroom - Marketplace](https://jobright.ai/jobs/info/697477c0206da320f49eb5d5?utm_campaign=1053&utm_source=git)** | Saint Paul, Minnesota, United States | Remote | Jan 23 |
 | ↳ | **[Intern, Podcasts - Marketplace](https://jobright.ai/jobs/info/697474d7bc8e722e7b19875a?utm_campaign=1053&utm_source=git)** | Saint Paul, Minnesota, United States | Remote | Jan 23 |
 | ↳ | **[Intern, Podcasts - Marketplace](https://jobright.ai/jobs/info/69747093206da320f49eae34?utm_campaign=1053&utm_source=git)** | New York, New York, United States | Remote | Jan 23 |
@@ -72,7 +75,6 @@ For a complete list, click the following sortable link below:
 | **[Pacers Sports & Entertainment](http://www.pacers.com)** | **[Event Production Intern - Summer 2026](https://jobright.ai/jobs/info/6974393837785856350e33c9?utm_campaign=1053&utm_source=git)** | Indianapolis, IN | On Site | Jan 23 |
 | **[Southern Poverty Law Center](http://www.splcenter.org)** | **[Intern, Editorial (Summer 2026)](https://jobright.ai/jobs/info/697451f337785856350e65d8?utm_campaign=1053&utm_source=git)** | Jackson, MS | Hybrid | Jan 23 |
 | **[The Post and Courier](http://www.postandcourier.com/)** | **[The Post and Courier Community Engagement Producer Intern - Furman University](https://jobright.ai/jobs/info/6974328f206da320f49e5375?utm_campaign=1053&utm_source=git)** | Columbia, SC | On Site | Jan 23 |
-| **[Cleveland Browns](http://www.clevelandbrowns.com)** | **[Video Intern, Content &amp; Production](https://jobright.ai/jobs/info/697429b3206da320f49e4b6d?utm_campaign=1053&utm_source=git)** | 76 Lou Groza Boulevard, Berea, OH, USA | On Site | Jan 23 |
 | **[City of Westfield, Indiana](https://www.westfieldin.gov)** | **[Parks and Recreation Programming Intern](https://jobright.ai/jobs/info/69742520206da320f49e4732?utm_campaign=1053&utm_source=git)** | Westfield, IN | On Site | Jan 23 |
 | **[Netflix](https://www.netflix.com)** | **[Studio Management & Services Intern (Summer 2026)](https://jobright.ai/jobs/info/6974242837785856350e1e0e?utm_campaign=1053&utm_source=git)** | Los Angeles,California,United States of America | On Site | Jan 23 |
 | ↳ | **[Post Services Intern (Summer 2026)](https://jobright.ai/jobs/info/6974222137785856350e1baf?utm_campaign=1053&utm_source=git)** | Los Angeles | On Site | Jan 23 |
@@ -81,8 +83,8 @@ For a complete list, click the following sortable link below:
 | **[Indiana Fever](https://fever.wnba.com/)** | **[Event Production Intern - Summer 2026](https://jobright.ai/jobs/info/69741faf37785856350e18ea?utm_campaign=1053&utm_source=git)** | Indianapolis, IN | On Site | Jan 23 |
 | **[Netflix](https://www.netflix.com)** | **[Studio Management & Services Intern (Summer 2026)](https://jobright.ai/jobs/info/69741f36206da320f49e408b?utm_campaign=1053&utm_source=git)** | Los Angeles | On Site | Jan 23 |
 | **[DreamWorks Animation](https://www.dreamworks.com)** | **[NBC10 Philadelphia Digital News Intern - Summer 2026](https://jobright.ai/jobs/info/697437febc8e722e7b192ba7?utm_campaign=1053&utm_source=git)** | 1800 Arch St., Philadelphia, PENNSYLVANIA | On Site | Jan 23 |
-| ↳ | **[Telemundo62 News Intern - Summer 2026](https://jobright.ai/jobs/info/6974340bbc8e722e7b19292f?utm_campaign=1053&utm_source=git)** | 1800 Arch St., Philadelphia, PENNSYLVANIA | On Site | Jan 23 |
 | ↳ | **[Telemundo62-Digital News Intern Summer 2026](https://jobright.ai/jobs/info/6974386f206da320f49e572d?utm_campaign=1053&utm_source=git)** | 1800 Arch St., Philadelphia, PENNSYLVANIA | On Site | Jan 23 |
+| ↳ | **[Telemundo62 News Intern - Summer 2026](https://jobright.ai/jobs/info/6974340bbc8e722e7b19292f?utm_campaign=1053&utm_source=git)** | 1800 Arch St., Philadelphia, PENNSYLVANIA | On Site | Jan 23 |
 | ↳ | **[PA Station Intern](https://jobright.ai/jobs/info/69743863bc8e722e7b192bd6?utm_campaign=1053&utm_source=git)** | 1800 Arch St., Philadelphia, PENNSYLVANIA | On Site | Jan 23 |
 | **[Kohler Hospitality](https://www.kohlerwisconsin.com/)** | **[Decor & Design Intern, Meeting and Events](https://jobright.ai/jobs/info/6974145c37785856350df843?utm_campaign=1053&utm_source=git)** | Kohler, WI | On Site | Jan 23 |
 | **[NBCUniversal](https://www.nbcuniversal.com/)** | **[Telemundo62 News Intern - Summer 2026](https://jobright.ai/jobs/info/6974141437785856350df808?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Jan 23 |
@@ -144,6 +146,7 @@ For a complete list, click the following sortable link below:
 | **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[IAE Videography Internship - Spring 2026](https://jobright.ai/jobs/info/6971d26cb707bf728a4b5e96?utm_campaign=1053&utm_source=git)** | Tampa, FL | On Site | Jan 21 |
 | **[Charlotte Hornets](https://www.nba.com/hornets/)** | **[Video Production Intern](https://jobright.ai/jobs/info/6971be5c587dfa0bb55f8674?utm_campaign=1053&utm_source=git)** | Charlotte, NC | On Site | Jan 21 |
 | **[60 MINUTES](https://www.60-minutes.de)** | **[CBS Sports Intern, WFOR Miami (Summer 2026)](https://jobright.ai/jobs/info/697473fdbc8e722e7b198699?utm_campaign=1053&utm_source=git)** | Miami, FL | On Site | Jan 21 |
+| **[Sinclair Inc.](http://sbgi.net/)** | **[News Intern](https://jobright.ai/jobs/info/68e4ad111852e62f0080864b?utm_campaign=1053&utm_source=git)** | Mishawaka, IN | On Site | Jan 21 |
 | **[Charlotte Hornets](https://www.nba.com/hornets/)** | **[Game Presentation Intern](https://jobright.ai/jobs/info/6971babb333b6343a14e6eb7?utm_campaign=1053&utm_source=git)** | Charlotte, NC | On Site | Jan 21 |
 | ↳ | **[Guest Experience Intern](https://jobright.ai/jobs/info/6971b611333b6343a14e6bd4?utm_campaign=1053&utm_source=git)** | Charlotte, NC | On Site | Jan 21 |
 | **[Taney County Partnership](https://www.taneycountypartnership.com)** | **[Intern - Golf Maintenance](https://jobright.ai/jobs/info/697465bfbc8e722e7b197658?utm_campaign=1053&utm_source=git)** | Branson, MO | On Site | Jan 21 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[UL Research Institutes](https://ul.org)** | **[Multimedia Design, Video Production Summer 2026 Intern - Fire Safety Research Institute](https://jobright.ai/jobs/info/697188bf333b6343a14e23b8?utm_campaign=1053&utm_source=git)** | Columbia, MD | On Site | Jan 21 |
 | **[County of Riverside](https://rivco.org)** | **[Behavioral Health Friday Night Live (Indio) - Paid Internship](https://jobright.ai/jobs/info/6967a845639b452fb57d3d3c?utm_campaign=1053&utm_source=git)** | Riverside County, CA | On Site | Jan 21 |
 | **[American Public Media Group](https://fitzgeraldtheater.publicradio.org)** | **[Intern, Media Production & Operations](https://jobright.ai/jobs/info/6972a4f0584a1c1ef6fdb754?utm_campaign=1053&utm_source=git)** | St Paul, MN | Hybrid | Jan 21 |
-| ↳ | **[Intern, Reporting - MPR News](https://jobright.ai/jobs/info/69729ac39b83b424830e982e?utm_campaign=1053&utm_source=git)** | St Paul, MN | Hybrid | Jan 21 |
-| **[Netflix](https://www.netflix.com)** | **[Post Services Intern (Summer 2026)](https://jobright.ai/jobs/info/6974296337785856350e22f6?utm_campaign=1053&utm_source=git)** | Los Angeles,California,United States of America | On Site | Jan 21 |
-| **[UL Standards & Engagement](https://ulse.org)** | **[Multimedia Design, Video Production Summer 2026 Intern - Fire Safety Research Institute](https://jobright.ai/jobs/info/6971696151f726477183b418?utm_campaign=1053&utm_source=git)** | Columbia, MD | Hybrid | Jan 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
