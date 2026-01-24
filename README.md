@@ -67,7 +67,6 @@ For a complete list, click the following sortable link below:
 | **[Troon](http://www.troon.com/)** | **[Golf Course Maintenance Intern](https://jobright.ai/jobs/info/693c5aae50bbaf76504fa5e9?utm_campaign=1053&utm_source=git)** | Bend, OR | On Site | Jan 24 |
 | **[Netflix](https://www.netflix.com)** | **[Post Services Intern (Summer 2026)](https://jobright.ai/jobs/info/6974b62637785856350ebd24?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Jan 24 |
 | **[David Yurman](http://www.davidyurman.com)** | **[Video Intern](https://jobright.ai/jobs/info/6902807600a1816c41e9ecce?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jan 24 |
-| **[Zebrosys](www.zebrosys.com)** | **[Video Editor Mentee](https://jobright.ai/jobs/info/6974da33bc8e722e7b19db93?utm_campaign=1053&utm_source=git)** | United States | Remote | Jan 24 |
 | **[Walt Disney Imagineering](https://disneyimaginations.com)** | **[Disney Live Entertainment Costume Support Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/6974caa137785856350edb82?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | Jan 24 |
 | **[Indiana Fever](https://fever.wnba.com/)** | **[Event Production Intern - Summer 2026](https://jobright.ai/jobs/info/6974cf6e37785856350ede3e?utm_campaign=1053&utm_source=git)** | Indianapolis, IN | On Site | Jan 24 |
 | **[Blizzard Entertainment](http://blizzard.com)** | **[2026 US Summer Internships - VFX](https://jobright.ai/jobs/info/68e8572209580a2fe57f6a36?utm_campaign=1053&utm_source=git)** | Irvine, CA | On Site | Jan 24 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[KUTV 2News / KMYU](http://kutv.com/)** | **[Intern - Studio Crew](https://jobright.ai/jobs/info/6972033acda18b7438645b44?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Jan 22 |
 | **[The State University of New York](http://www.suny.edu/)** | **[Multimedia Production Intern](https://jobright.ai/jobs/info/690a6177bcccf20de59e184c?utm_campaign=1053&utm_source=git)** | Albany, NY | On Site | Jan 22 |
 | **[Epic Games](https://epicgames.com)** | **[Gameplay Animation Intern](https://jobright.ai/jobs/info/6918efb5bcdbf3560c9d3eed?utm_campaign=1053&utm_source=git)** | Greater Montreal Metropolitan Area | On Site | Jan 22 |
+| **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[IAE Videography Internship - Spring 2026](https://jobright.ai/jobs/info/6971d26cb707bf728a4b5e96?utm_campaign=1053&utm_source=git)** | Tampa, FL | On Site | Jan 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
