@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Netflix](https://www.netflix.com)** | **[Studio Management & Services Intern (Summer 2026)](https://jobright.ai/jobs/info/6974ba6fbc8e722e7b19b750?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Jan 24 |
+| **[Troon](http://www.troon.com/)** | **[Golf Course Maintenance Intern](https://jobright.ai/jobs/info/693c5aae50bbaf76504fa5e9?utm_campaign=1053&utm_source=git)** | Bend, OR | On Site | Jan 24 |
+| **[Netflix](https://www.netflix.com)** | **[Post Services Intern (Summer 2026)](https://jobright.ai/jobs/info/6974b62637785856350ebd24?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Jan 24 |
 | **[Blizzard Entertainment](http://blizzard.com)** | **[2026 US Summer Internships - VFX](https://jobright.ai/jobs/info/68e8572209580a2fe57f6a36?utm_campaign=1053&utm_source=git)** | Irvine, CA | On Site | Jan 24 |
 | **[American Public Health Association](https://www.apha.org)** | **[The Nations Health Internship: 2026 summer term (June 1 - Aug. 15)](https://jobright.ai/jobs/info/697480ad206da320f49eb95c?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Jan 24 |
 | **[Spectrum Reach](https://www.spectrumreach.com)** | **[Video Production Intern, Spectrum Reach Summer 2026](https://jobright.ai/jobs/info/69747ef637785856350e919a?utm_campaign=1053&utm_source=git)** | St Louis, MO | On Site | Jan 24 |
@@ -80,7 +83,7 @@ For a complete list, click the following sortable link below:
 | **[Netflix](https://www.netflix.com)** | **[Studio Management & Services Intern (Summer 2026)](https://jobright.ai/jobs/info/6974242837785856350e1e0e?utm_campaign=1053&utm_source=git)** | Los Angeles,California,United States of America | On Site | Jan 23 |
 | ↳ | **[Post Services Intern (Summer 2026)](https://jobright.ai/jobs/info/6974222137785856350e1baf?utm_campaign=1053&utm_source=git)** | Los Angeles | On Site | Jan 23 |
 | **[San Francisco Chronicle](http://www.sfgate.com)** | **[SFGATE UC Berkeley Graduate School of Journalism Summer Intern, 2026](https://jobright.ai/jobs/info/697420fd37785856350e1a5c?utm_campaign=1053&utm_source=git)** | San Francisco, CA | On Site | Jan 23 |
-| **[SmartCard](https://www.linkedin.com/company/96940397)** | **[Video Content Creator Intern (Videography & Editing)](https://jobright.ai/jobs/info/697420b337785856350e1a05?utm_campaign=1053&utm_source=git)** | Frisco, TX | Hybrid | Jan 23 |
+| **[SmartCard](HTTPS://SmartCard.Sale)** | **[Video Content Creator Intern (Videography & Editing)](https://jobright.ai/jobs/info/697420b337785856350e1a05?utm_campaign=1053&utm_source=git)** | Frisco, TX | Hybrid | Jan 23 |
 | **[Indiana Fever](https://fever.wnba.com/)** | **[Event Production Intern - Summer 2026](https://jobright.ai/jobs/info/69741faf37785856350e18ea?utm_campaign=1053&utm_source=git)** | Indianapolis, IN | On Site | Jan 23 |
 | **[Netflix](https://www.netflix.com)** | **[Studio Management & Services Intern (Summer 2026)](https://jobright.ai/jobs/info/69741f36206da320f49e408b?utm_campaign=1053&utm_source=git)** | Los Angeles | On Site | Jan 23 |
 | **[DreamWorks Animation](https://www.dreamworks.com)** | **[NBC10 Philadelphia Digital News Intern - Summer 2026](https://jobright.ai/jobs/info/697437febc8e722e7b192ba7?utm_campaign=1053&utm_source=git)** | 1800 Arch St., Philadelphia, PENNSYLVANIA | On Site | Jan 23 |
@@ -133,7 +136,6 @@ For a complete list, click the following sortable link below:
 | **[Syntra Antwerpen en Vlaams Brabant (Syntra AB)](https://www.syntra-ab.be)** | **[Integrated Production Intern](https://jobright.ai/jobs/info/6972d2bf0488fd59f7d5cabe?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Jan 22 |
 | **[Motorola Solutions](http://www.motorolasolutions.com)** | **[Video Editor - 2026 Summer Internship](https://jobright.ai/jobs/info/6972a9db9b83b424830eb1bc?utm_campaign=1053&utm_source=git)** | Chicago, IL | Hybrid | Jan 22 |
 | **[Northstar Travel Group](http://www.NorthstarTravelGroup.com)** | **[Editorial Intern](https://jobright.ai/jobs/info/6972a0c2584a1c1ef6fdadc3?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, US | Hybrid | Jan 22 |
-| **[Newdle](https://context.press/)** | **[News Creator Intern](https://jobright.ai/jobs/info/6972b342584a1c1ef6fdc646?utm_campaign=1053&utm_source=git)** | San Francisco, CA | On Site | Jan 22 |
 | **[AbelsonTaylor Group](https://www.abelsontaylor.com/)** | **[Integrated Production Intern](https://jobright.ai/jobs/info/69727c1f584a1c1ef6fd76c6?utm_campaign=1053&utm_source=git)** | Chicago, Illinois | On Site | Jan 22 |
 | **[American Public Media Group](https://fitzgeraldtheater.publicradio.org)** | **[Intern, Media Production & Operations](https://jobright.ai/jobs/info/697286ba9b83b424830e7762?utm_campaign=1053&utm_source=git)** | Saint Paul, Minnesota, United States | Hybrid | Jan 22 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[National Geographic Editorial Operations Intern, Summer 2026](https://jobright.ai/jobs/info/696b7f775fc86241853ad296?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Jan 22 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Taney County Partnership](https://www.taneycountypartnership.com)** | **[Intern - Golf Maintenance](https://jobright.ai/jobs/info/697465bfbc8e722e7b197658?utm_campaign=1053&utm_source=git)** | Branson, MO | On Site | Jan 21 |
 | **[YMCA of the Rockies](https://ymcarockies.org)** | **[Intern - Special Events](https://jobright.ai/jobs/info/6971a829587dfa0bb55f5bbb?utm_campaign=1053&utm_source=git)** | Estes Park, CO | On Site | Jan 21 |
 | **[60 MINUTES](https://www.60-minutes.de)** | **[CBS News Intern, KCAL Los Angeles/Studio City (Summer 2026)](https://jobright.ai/jobs/info/69743c42bc8e722e7b19369f?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Jan 21 |
-| **[CBS News and Stations](http://www.cbs.com)** | **[CBS Sports Intern, WFOR Miami (Summer 2026)](https://jobright.ai/jobs/info/69719173587dfa0bb55f41fb?utm_campaign=1053&utm_source=git)** | Miami, FL | On Site | Jan 21 |
-| **[Coastal Carolina University](http://www.coastal.edu/)** | **[Production Assistant (Student Employee)](https://jobright.ai/jobs/info/69161f33286ccf0a15132ad9?utm_campaign=1053&utm_source=git)** | Conway, SC | On Site | Jan 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
