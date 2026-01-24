@@ -141,8 +141,8 @@ For a complete list, click the following sortable link below:
 | **[Charlotte Hornets](https://www.nba.com/hornets/)** | **[Video Production Intern](https://jobright.ai/jobs/info/6971be5c587dfa0bb55f8674?utm_campaign=1053&utm_source=git)** | Charlotte, NC | On Site | Jan 21 |
 | ↳ | **[Game Presentation Intern](https://jobright.ai/jobs/info/6971babb333b6343a14e6eb7?utm_campaign=1053&utm_source=git)** | Charlotte, NC | On Site | Jan 21 |
 | ↳ | **[Guest Experience Intern](https://jobright.ai/jobs/info/6971b611333b6343a14e6bd4?utm_campaign=1053&utm_source=git)** | Charlotte, NC | On Site | Jan 21 |
+| **[Taney County Partnership](https://www.taneycountypartnership.com)** | **[Intern - Golf Maintenance](https://jobright.ai/jobs/info/697465bfbc8e722e7b197658?utm_campaign=1053&utm_source=git)** | Branson, MO | On Site | Jan 21 |
 | **[YMCA of the Rockies](https://ymcarockies.org)** | **[Intern - Special Events](https://jobright.ai/jobs/info/6971a829587dfa0bb55f5bbb?utm_campaign=1053&utm_source=git)** | Estes Park, CO | On Site | Jan 21 |
-| **[CardVault](https://thecardvault.com/)** | **[Big Night Entertainment Group - Media Intern](https://jobright.ai/jobs/info/6974579d37785856350e6d60?utm_campaign=1053&utm_source=git)** | Boston, MA | On Site | Jan 21 |
 | **[60 MINUTES](https://www.60-minutes.de)** | **[CBS News Intern, KCAL Los Angeles/Studio City (Summer 2026)](https://jobright.ai/jobs/info/69743c42bc8e722e7b19369f?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Jan 21 |
 | **[CBS News and Stations](http://www.cbs.com)** | **[CBS Sports Intern, WFOR Miami (Summer 2026)](https://jobright.ai/jobs/info/69719173587dfa0bb55f41fb?utm_campaign=1053&utm_source=git)** | Miami, FL | On Site | Jan 21 |
 | **[Coastal Carolina University](http://www.coastal.edu/)** | **[Production Assistant (Student Employee)](https://jobright.ai/jobs/info/69161f33286ccf0a15132ad9?utm_campaign=1053&utm_source=git)** | Conway, SC | On Site | Jan 21 |
