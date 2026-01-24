@@ -57,9 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[iHeartMedia](http://iheartmedia.com)** | **[Podcast Development Intern](https://jobright.ai/jobs/info/693c9374aa598a08c3ed6a1f?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jan 24 |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Disney Live Entertainment Costume Support Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/6974c19937785856350ed795?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | Jan 24 |
 | **[Netflix](https://www.netflix.com)** | **[Studio Management & Services Intern (Summer 2026)](https://jobright.ai/jobs/info/6974ba6fbc8e722e7b19b750?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Jan 24 |
 | **[Troon](http://www.troon.com/)** | **[Golf Course Maintenance Intern](https://jobright.ai/jobs/info/693c5aae50bbaf76504fa5e9?utm_campaign=1053&utm_source=git)** | Bend, OR | On Site | Jan 24 |
 | **[Netflix](https://www.netflix.com)** | **[Post Services Intern (Summer 2026)](https://jobright.ai/jobs/info/6974b62637785856350ebd24?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Jan 24 |
+| **[Walt Disney Imagineering](https://disneyimaginations.com)** | **[Disney Live Entertainment Costume Support Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/6974caa137785856350edb82?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | Jan 24 |
 | **[Blizzard Entertainment](http://blizzard.com)** | **[2026 US Summer Internships - VFX](https://jobright.ai/jobs/info/68e8572209580a2fe57f6a36?utm_campaign=1053&utm_source=git)** | Irvine, CA | On Site | Jan 24 |
 | **[American Public Health Association](https://www.apha.org)** | **[The Nations Health Internship: 2026 summer term (June 1 - Aug. 15)](https://jobright.ai/jobs/info/697480ad206da320f49eb95c?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Jan 24 |
 | **[Spectrum Reach](https://www.spectrumreach.com)** | **[Video Production Intern, Spectrum Reach Summer 2026](https://jobright.ai/jobs/info/69747ef637785856350e919a?utm_campaign=1053&utm_source=git)** | St Louis, MO | On Site | Jan 24 |
@@ -87,8 +90,8 @@ For a complete list, click the following sortable link below:
 | **[Indiana Fever](https://fever.wnba.com/)** | **[Event Production Intern - Summer 2026](https://jobright.ai/jobs/info/69741faf37785856350e18ea?utm_campaign=1053&utm_source=git)** | Indianapolis, IN | On Site | Jan 23 |
 | **[Netflix](https://www.netflix.com)** | **[Studio Management & Services Intern (Summer 2026)](https://jobright.ai/jobs/info/69741f36206da320f49e408b?utm_campaign=1053&utm_source=git)** | Los Angeles | On Site | Jan 23 |
 | **[DreamWorks Animation](https://www.dreamworks.com)** | **[NBC10 Philadelphia Digital News Intern - Summer 2026](https://jobright.ai/jobs/info/697437febc8e722e7b192ba7?utm_campaign=1053&utm_source=git)** | 1800 Arch St., Philadelphia, PENNSYLVANIA | On Site | Jan 23 |
-| ↳ | **[Telemundo62 News Intern - Summer 2026](https://jobright.ai/jobs/info/6974340bbc8e722e7b19292f?utm_campaign=1053&utm_source=git)** | 1800 Arch St., Philadelphia, PENNSYLVANIA | On Site | Jan 23 |
 | ↳ | **[Telemundo62-Digital News Intern Summer 2026](https://jobright.ai/jobs/info/6974386f206da320f49e572d?utm_campaign=1053&utm_source=git)** | 1800 Arch St., Philadelphia, PENNSYLVANIA | On Site | Jan 23 |
+| ↳ | **[Telemundo62 News Intern - Summer 2026](https://jobright.ai/jobs/info/6974340bbc8e722e7b19292f?utm_campaign=1053&utm_source=git)** | 1800 Arch St., Philadelphia, PENNSYLVANIA | On Site | Jan 23 |
 | ↳ | **[PA Station Intern](https://jobright.ai/jobs/info/69743863bc8e722e7b192bd6?utm_campaign=1053&utm_source=git)** | 1800 Arch St., Philadelphia, PENNSYLVANIA | On Site | Jan 23 |
 | **[Kohler Hospitality](https://www.kohlerwisconsin.com/)** | **[Decor & Design Intern, Meeting and Events](https://jobright.ai/jobs/info/6974145c37785856350df843?utm_campaign=1053&utm_source=git)** | Kohler, WI | On Site | Jan 23 |
 | **[NBCUniversal](https://www.nbcuniversal.com/)** | **[Telemundo62 News Intern - Summer 2026](https://jobright.ai/jobs/info/6974141437785856350df808?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Jan 23 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Sinclair Inc.](http://sbgi.net/)** | **[News Intern](https://jobright.ai/jobs/info/68e4ad111852e62f0080864b?utm_campaign=1053&utm_source=git)** | Mishawaka, IN | On Site | Jan 21 |
 | **[Charlotte Hornets](https://www.nba.com/hornets/)** | **[Game Presentation Intern](https://jobright.ai/jobs/info/6971babb333b6343a14e6eb7?utm_campaign=1053&utm_source=git)** | Charlotte, NC | On Site | Jan 21 |
 | ↳ | **[Guest Experience Intern](https://jobright.ai/jobs/info/6971b611333b6343a14e6bd4?utm_campaign=1053&utm_source=git)** | Charlotte, NC | On Site | Jan 21 |
-| **[Taney County Partnership](https://www.taneycountypartnership.com)** | **[Intern - Golf Maintenance](https://jobright.ai/jobs/info/697465bfbc8e722e7b197658?utm_campaign=1053&utm_source=git)** | Branson, MO | On Site | Jan 21 |
-| **[YMCA of the Rockies](https://ymcarockies.org)** | **[Intern - Special Events](https://jobright.ai/jobs/info/6971a829587dfa0bb55f5bbb?utm_campaign=1053&utm_source=git)** | Estes Park, CO | On Site | Jan 21 |
-| **[60 MINUTES](https://www.60-minutes.de)** | **[CBS News Intern, KCAL Los Angeles/Studio City (Summer 2026)](https://jobright.ai/jobs/info/69743c42bc8e722e7b19369f?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Jan 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
