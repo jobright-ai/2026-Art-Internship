@@ -57,10 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[IAE Videography Internship - Spring 2026](https://jobright.ai/jobs/info/6976618c206da320f4a02ee1?utm_campaign=1053&utm_source=git)** | Tampa, FL | On Site | Jan 25 |
+| **[Grow Your Business - NYC](https://mrgyb.com/)** | **[Publishing Internship](https://jobright.ai/jobs/info/69765878bc8e722e7b1aface?utm_campaign=1053&utm_source=git)** | United States | Remote | Jan 25 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Digital Intern](https://jobright.ai/jobs/info/6903eed5ff462851feff0d28?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Jan 25 |
 | **[Axis Communications](http://www.axis.com/)** | **[Events Production Intern (Spring/Summer)](https://jobright.ai/jobs/info/693d5762aa598a08c3ee0666?utm_campaign=1053&utm_source=git)** | Chelmsford, MA | Hybrid | Jan 25 |
 | **[KUTV 2News / KMYU](http://kutv.com/)** | **[Intern - Studio Crew](https://jobright.ai/jobs/info/6975ea88206da320f49fe8ba?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Jan 25 |
 | **[FlowTiger](https://www.flowtiger.com/)** | **[UGC Content Creator (TikTok, Instagram)](https://jobright.ai/jobs/info/69753691bc8e722e7b1a27cb?utm_campaign=1053&utm_source=git)** | United States | Remote | Jan 24 |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[WABC-TV (ABC7) Digital Intern Summer/Fall 2026](https://jobright.ai/jobs/info/6972267fcda45e69535868c5?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jan 24 |
 | **[iHeartMedia](http://iheartmedia.com)** | **[Podcast Production Intern](https://jobright.ai/jobs/info/693c9d0050bbaf76504fe581?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jan 24 |
 | **[The Washington Post](http://www.washingtonpost.com/)** | **[Opinion Video Intern](https://jobright.ai/jobs/info/68caff29d905e25191d9e2c9?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Jan 24 |
 | **[iHeartMedia](http://iheartmedia.com)** | **[Podcast Development Intern](https://jobright.ai/jobs/info/693c9374aa598a08c3ed6a1f?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jan 24 |
@@ -102,8 +105,8 @@ For a complete list, click the following sortable link below:
 | **[SmartCard](HTTPS://SmartCard.Sale)** | **[Video Content Creator Intern (Videography & Editing)](https://jobright.ai/jobs/info/697420b337785856350e1a05?utm_campaign=1053&utm_source=git)** | Frisco, TX | Hybrid | Jan 23 |
 | **[Netflix](https://www.netflix.com)** | **[Studio Management & Services Intern (Summer 2026)](https://jobright.ai/jobs/info/69741f36206da320f49e408b?utm_campaign=1053&utm_source=git)** | Los Angeles | On Site | Jan 23 |
 | **[DreamWorks Animation](https://www.dreamworks.com)** | **[NBC10 Philadelphia Digital News Intern - Summer 2026](https://jobright.ai/jobs/info/697437febc8e722e7b192ba7?utm_campaign=1053&utm_source=git)** | 1800 Arch St., Philadelphia, PENNSYLVANIA | On Site | Jan 23 |
-| ↳ | **[Telemundo62-Digital News Intern Summer 2026](https://jobright.ai/jobs/info/6974386f206da320f49e572d?utm_campaign=1053&utm_source=git)** | 1800 Arch St., Philadelphia, PENNSYLVANIA | On Site | Jan 23 |
 | ↳ | **[Telemundo62 News Intern - Summer 2026](https://jobright.ai/jobs/info/6974340bbc8e722e7b19292f?utm_campaign=1053&utm_source=git)** | 1800 Arch St., Philadelphia, PENNSYLVANIA | On Site | Jan 23 |
+| ↳ | **[Telemundo62-Digital News Intern Summer 2026](https://jobright.ai/jobs/info/6974386f206da320f49e572d?utm_campaign=1053&utm_source=git)** | 1800 Arch St., Philadelphia, PENNSYLVANIA | On Site | Jan 23 |
 | ↳ | **[PA Station Intern](https://jobright.ai/jobs/info/69743863bc8e722e7b192bd6?utm_campaign=1053&utm_source=git)** | 1800 Arch St., Philadelphia, PENNSYLVANIA | On Site | Jan 23 |
 | **[Kohler Hospitality](https://www.kohlerwisconsin.com/)** | **[Decor & Design Intern, Meeting and Events](https://jobright.ai/jobs/info/6974145c37785856350df843?utm_campaign=1053&utm_source=git)** | Kohler, WI | On Site | Jan 23 |
 | **[NBCUniversal](https://www.nbcuniversal.com/)** | **[Telemundo62 News Intern - Summer 2026](https://jobright.ai/jobs/info/6974141437785856350df808?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Jan 23 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Northstar Travel Group](http://www.NorthstarTravelGroup.com)** | **[Editorial Intern](https://jobright.ai/jobs/info/6972a0c2584a1c1ef6fdadc3?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, US | Hybrid | Jan 22 |
 | **[AbelsonTaylor Group](https://www.abelsontaylor.com/)** | **[Integrated Production Intern](https://jobright.ai/jobs/info/69727c1f584a1c1ef6fd76c6?utm_campaign=1053&utm_source=git)** | Chicago, Illinois | On Site | Jan 22 |
 | **[American Public Media Group](https://fitzgeraldtheater.publicradio.org)** | **[Intern, Media Production & Operations](https://jobright.ai/jobs/info/697286ba9b83b424830e7762?utm_campaign=1053&utm_source=git)** | Saint Paul, Minnesota, United States | Hybrid | Jan 22 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[National Geographic Editorial Operations Intern, Summer 2026](https://jobright.ai/jobs/info/696b7f775fc86241853ad296?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Jan 22 |
-| **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Events and Communication - Internship Experience (Summer 2026)](https://jobright.ai/jobs/info/69727cba4ccbf64f8df26ef7?utm_campaign=1053&utm_source=git)** | Dorval, Quebec, Canada | Hybrid | Jan 22 |
-| **[narb](https://narb.cc/)** | **[Video Editor Intern](https://jobright.ai/jobs/info/69724bf34ccbf64f8df23786?utm_campaign=1053&utm_source=git)** | United States | Remote | Jan 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
