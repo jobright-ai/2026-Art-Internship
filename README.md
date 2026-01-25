@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Digital Intern](https://jobright.ai/jobs/info/6903eed5ff462851feff0d28?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Jan 25 |
+| **[Axis Communications](http://www.axis.com/)** | **[Events Production Intern (Spring/Summer)](https://jobright.ai/jobs/info/693d5762aa598a08c3ee0666?utm_campaign=1053&utm_source=git)** | Chelmsford, MA | Hybrid | Jan 25 |
 | **[KUTV 2News / KMYU](http://kutv.com/)** | **[Intern - Studio Crew](https://jobright.ai/jobs/info/6975ea88206da320f49fe8ba?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Jan 25 |
 | **[FlowTiger](https://www.flowtiger.com/)** | **[UGC Content Creator (TikTok, Instagram)](https://jobright.ai/jobs/info/69753691bc8e722e7b1a27cb?utm_campaign=1053&utm_source=git)** | United States | Remote | Jan 24 |
 | **[iHeartMedia](http://iheartmedia.com)** | **[Podcast Production Intern](https://jobright.ai/jobs/info/693c9d0050bbaf76504fe581?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jan 24 |
@@ -69,6 +71,7 @@ For a complete list, click the following sortable link below:
 | **[Troon](http://www.troon.com/)** | **[Golf Course Maintenance Intern](https://jobright.ai/jobs/info/693c5aae50bbaf76504fa5e9?utm_campaign=1053&utm_source=git)** | Bend, OR | On Site | Jan 24 |
 | **[Netflix](https://www.netflix.com)** | **[Post Services Intern (Summer 2026)](https://jobright.ai/jobs/info/6974b62637785856350ebd24?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Jan 24 |
 | **[David Yurman](http://www.davidyurman.com)** | **[Video Intern](https://jobright.ai/jobs/info/6902807600a1816c41e9ecce?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jan 24 |
+| **[County of Riverside](https://rivco.org)** | **[Behavioral Health Friday Night Live (Indio) - Paid Internship](https://jobright.ai/jobs/info/6967a845639b452fb57d3d3c?utm_campaign=1053&utm_source=git)** | Riverside County, CA | On Site | Jan 24 |
 | **[Walt Disney Imagineering](https://disneyimaginations.com)** | **[Disney Live Entertainment Costume Support Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/6974caa137785856350edb82?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | Jan 24 |
 | **[Simons Foundation](https://www.simonsfoundation.org)** | **[Editorial Intern, Quanta Books](https://jobright.ai/jobs/info/693c868750bbaf76504fbe50?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jan 24 |
 | **[Indiana Fever](https://fever.wnba.com/)** | **[Event Production Intern - Summer 2026](https://jobright.ai/jobs/info/6974cf6e37785856350ede3e?utm_campaign=1053&utm_source=git)** | Indianapolis, IN | On Site | Jan 24 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[National Geographic Editorial Operations Intern, Summer 2026](https://jobright.ai/jobs/info/696b7f775fc86241853ad296?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Jan 22 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Events and Communication - Internship Experience (Summer 2026)](https://jobright.ai/jobs/info/69727cba4ccbf64f8df26ef7?utm_campaign=1053&utm_source=git)** | Dorval, Quebec, Canada | Hybrid | Jan 22 |
 | **[narb](https://narb.cc/)** | **[Video Editor Intern](https://jobright.ai/jobs/info/69724bf34ccbf64f8df23786?utm_campaign=1053&utm_source=git)** | United States | Remote | Jan 22 |
-| **[America & Beyond](https://www.americaandbeyond.us)** | **[Female TikTok Content Creator Internship](https://jobright.ai/jobs/info/697242429b83b424830e2f75?utm_campaign=1053&utm_source=git)** | Hollywood, FL | Remote | Jan 22 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[WABC-TV (ABC7) Digital Intern Summer/Fall 2026](https://jobright.ai/jobs/info/6972267fcda45e69535868c5?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jan 22 |
-| **[Sports Illustrated Stadium](https://www.sportsillustratedstadium.com)** | **[2026 Internship, Spring - Control Room Operations](https://jobright.ai/jobs/info/693a32ed56b68f3dc4e783c1?utm_campaign=1053&utm_source=git)** | Harrison, NJ | On Site | Jan 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
