@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Off The Record USA](https://otrecordusa.com)** | **[Production Intern](https://jobright.ai/jobs/info/69768aaa3778585635103069?utm_campaign=1053&utm_source=git)** | Provo, UT | On Site | Jan 25 |
 | **[Bonneville Communications](https://www.bonnevillecommunications.com)** | **[Video Postproduction/Archiving Intern](https://jobright.ai/jobs/info/69767e853778585635102c24?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | Hybrid | Jan 25 |
 | **[Cleveland Browns](http://www.clevelandbrowns.com)** | **[Video Intern, Content & Production](https://jobright.ai/jobs/info/6976759e3778585635101437?utm_campaign=1053&utm_source=git)** | Berea, OH | On Site | Jan 25 |
 | **[Bang Zoom! Studios](http://bangzoomentertainment.com)** | **[Production Intern (Spring 2026)](https://jobright.ai/jobs/info/6976735abc8e722e7b1b0564?utm_campaign=1053&utm_source=git)** | Burbank, CA | On Site | Jan 25 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Bolton & Menk, Inc.](http://bolton-menk.com)** | **[Cultural Resources Intern - Architectural History](https://jobright.ai/jobs/info/696f18de82817106e9764693?utm_campaign=1053&utm_source=git)** | Minneapolis, MN | On Site | Jan 22 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid News Intern](https://jobright.ai/jobs/info/6972b01a9b83b424830eb8a4?utm_campaign=1053&utm_source=git)** | IN-Indianapolis;6910 Network Place (Tribune-WXIN/WTTV) | On Site | Jan 22 |
 | **[KELOLAND Media Group](http://www.keloland.com)** | **[News Intern](https://jobright.ai/jobs/info/6972dc5198522904c697af45?utm_campaign=1053&utm_source=git)** | Sioux Falls, SD | Hybrid | Jan 22 |
-| **[Syntra Antwerpen en Vlaams Brabant (Syntra AB)](https://www.syntra-ab.be)** | **[Integrated Production Intern](https://jobright.ai/jobs/info/6972d2bf0488fd59f7d5cabe?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Jan 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
