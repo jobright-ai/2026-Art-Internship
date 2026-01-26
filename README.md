@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Metropolitan Golf Association (MGA)](https://www.mgagolf.org)** | **[Communications Field Team Intern 2026 - New Jersey](https://jobright.ai/jobs/info/6976c9d8206da320f4a07b77?utm_campaign=1053&utm_source=git)** | Elmsford, New York, United States | On Site | Jan 25 |
+| ↳ | **[Communications Field Team Intern 2026 - West/CT](https://jobright.ai/jobs/info/6976c96d206da320f4a07b51?utm_campaign=1053&utm_source=git)** | Elmsford, New York, United States | On Site | Jan 25 |
+| ↳ | **[Communications Field Team Intern 2026 - Long Island](https://jobright.ai/jobs/info/6976c8ea37785856351057e6?utm_campaign=1053&utm_source=git)** | Elmsford, New York, United States | On Site | Jan 25 |
 | **[Minor Football League](http://www.mflishere.com)** | **[Editorial Intern](https://jobright.ai/jobs/info/6976a155206da320f4a0556a?utm_campaign=1053&utm_source=git)** | United States | Remote | Jan 25 |
 | **[Off The Record USA](https://otrecordusa.com)** | **[Production Intern](https://jobright.ai/jobs/info/69768aaa3778585635103069?utm_campaign=1053&utm_source=git)** | Provo, UT | On Site | Jan 25 |
 | **[Bonneville Communications](https://www.bonnevillecommunications.com)** | **[Video Postproduction/Archiving Intern](https://jobright.ai/jobs/info/69767e853778585635102c24?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | Hybrid | Jan 25 |
@@ -111,8 +114,8 @@ For a complete list, click the following sortable link below:
 | **[SmartCard](HTTPS://SmartCard.Sale)** | **[Video Content Creator Intern (Videography & Editing)](https://jobright.ai/jobs/info/697420b337785856350e1a05?utm_campaign=1053&utm_source=git)** | Frisco, TX | Hybrid | Jan 23 |
 | **[Netflix](https://www.netflix.com)** | **[Studio Management & Services Intern (Summer 2026)](https://jobright.ai/jobs/info/69741f36206da320f49e408b?utm_campaign=1053&utm_source=git)** | Los Angeles | On Site | Jan 23 |
 | **[DreamWorks Animation](https://www.dreamworks.com)** | **[NBC10 Philadelphia Digital News Intern - Summer 2026](https://jobright.ai/jobs/info/697437febc8e722e7b192ba7?utm_campaign=1053&utm_source=git)** | 1800 Arch St., Philadelphia, PENNSYLVANIA | On Site | Jan 23 |
-| ↳ | **[Telemundo62 News Intern - Summer 2026](https://jobright.ai/jobs/info/6974340bbc8e722e7b19292f?utm_campaign=1053&utm_source=git)** | 1800 Arch St., Philadelphia, PENNSYLVANIA | On Site | Jan 23 |
 | ↳ | **[Telemundo62-Digital News Intern Summer 2026](https://jobright.ai/jobs/info/6974386f206da320f49e572d?utm_campaign=1053&utm_source=git)** | 1800 Arch St., Philadelphia, PENNSYLVANIA | On Site | Jan 23 |
+| ↳ | **[Telemundo62 News Intern - Summer 2026](https://jobright.ai/jobs/info/6974340bbc8e722e7b19292f?utm_campaign=1053&utm_source=git)** | 1800 Arch St., Philadelphia, PENNSYLVANIA | On Site | Jan 23 |
 | ↳ | **[PA Station Intern](https://jobright.ai/jobs/info/69743863bc8e722e7b192bd6?utm_campaign=1053&utm_source=git)** | 1800 Arch St., Philadelphia, PENNSYLVANIA | On Site | Jan 23 |
 | **[Kohler Hospitality](https://www.kohlerwisconsin.com/)** | **[Decor & Design Intern, Meeting and Events](https://jobright.ai/jobs/info/6974145c37785856350df843?utm_campaign=1053&utm_source=git)** | Kohler, WI | On Site | Jan 23 |
 | **[NBCUniversal](https://www.nbcuniversal.com/)** | **[Telemundo62 News Intern - Summer 2026](https://jobright.ai/jobs/info/6974141437785856350df808?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Jan 23 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Epic Games](https://epicgames.com)** | **[Gameplay Animation Intern](https://jobright.ai/jobs/info/69017b0fd5259a1b3cff5421?utm_campaign=1053&utm_source=git)** | Cary, NC | On Site | Jan 23 |
 | **[Visit Hershey & Harrisburg](https://www.visithersheyharrisburg.org)** | **[Hershey Lodge Culinary Intern - Summer 2026](https://jobright.ai/jobs/info/6974595d37785856350e738d?utm_campaign=1053&utm_source=git)** | Hershey, PA | On Site | Jan 22 |
 | **[AbelsonTaylor Group](https://www.abelsontaylor.com/)** | **[Integrated Production Intern](https://jobright.ai/jobs/info/6972c4289b83b424830ecb82?utm_campaign=1053&utm_source=git)** | Chicago, IL | Hybrid | Jan 22 |
-| **[Social View Agency](https://www.linkedin.com/company/81888485)** | **[Video Production Intern](https://jobright.ai/jobs/info/6972ea5b1d55d64a20534bf9?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | Jan 22 |
-| **[Bolton & Menk, Inc.](http://bolton-menk.com)** | **[Cultural Resources Intern - Architectural History](https://jobright.ai/jobs/info/696f18de82817106e9764693?utm_campaign=1053&utm_source=git)** | Minneapolis, MN | On Site | Jan 22 |
-| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid News Intern](https://jobright.ai/jobs/info/6972b01a9b83b424830eb8a4?utm_campaign=1053&utm_source=git)** | IN-Indianapolis;6910 Network Place (Tribune-WXIN/WTTV) | On Site | Jan 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
