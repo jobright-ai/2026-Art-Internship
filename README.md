@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[City of St. Charles, MO](https://www.stcharlescitymo.gov)** | **[Foundry Art Camp Intern](https://jobright.ai/jobs/info/6977ca3688e2b47213bbbfa3?utm_campaign=1053&utm_source=git)** | St Charles,MO,US | On Site | Jan 26 |
+| **[Lyric Opera of Chicago](https://www.lyricopera.org/)** | **[Summer Intern](https://jobright.ai/jobs/info/6977c56d88e2b47213bbbad4?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Jan 26 |
+| **[Oak View Group](http://www.oakviewgroup.com)** | **[Event Services Internship / Part-Time / Waterloo Convention Center](https://jobright.ai/jobs/info/6977c3e588e2b47213bbb947?utm_campaign=1053&utm_source=git)** | Waterloo Convention Center | On Site | Jan 26 |
+| ↳ | **[Event Services Internship / Part-Time / Waterloo Convention Center](https://jobright.ai/jobs/info/6977c3cafdeb8243a27ab000?utm_campaign=1053&utm_source=git)** | US-IA-Waterloo | On Site | Jan 26 |
 | **[Shive-Hattery](http://shive-hattery.com)** | **[Internship](https://jobright.ai/jobs/info/6977b17952f3c27ec643cd76?utm_campaign=1053&utm_source=git)** | South Bend, IN | On Site | Jan 26 |
 | **[Saskatchewan Roughrider Football Club Inc.](https://www.riderville.com)** | **[Game Entertainment & Community Events Intern](https://jobright.ai/jobs/info/6977a87f88e2b47213bb9359?utm_campaign=1053&utm_source=git)** | Regina, Saskatchewan, Canada | On Site | Jan 26 |
 | ↳ | **[Storytelling & Digital Engagement Intern, Saskatchewan Roughrider Foundation](https://jobright.ai/jobs/info/6977a675fdeb8243a27a871f?utm_campaign=1053&utm_source=git)** | Regina, Saskatchewan, Canada | On Site | Jan 26 |
@@ -125,8 +129,8 @@ For a complete list, click the following sortable link below:
 | **[SmartCard](HTTPS://SmartCard.Sale)** | **[Video Content Creator Intern (Videography & Editing)](https://jobright.ai/jobs/info/697420b337785856350e1a05?utm_campaign=1053&utm_source=git)** | Frisco, TX | Hybrid | Jan 23 |
 | **[Netflix](https://www.netflix.com)** | **[Studio Management & Services Intern (Summer 2026)](https://jobright.ai/jobs/info/69741f36206da320f49e408b?utm_campaign=1053&utm_source=git)** | Los Angeles | On Site | Jan 23 |
 | **[DreamWorks Animation](https://www.dreamworks.com)** | **[NBC10 Philadelphia Digital News Intern - Summer 2026](https://jobright.ai/jobs/info/697437febc8e722e7b192ba7?utm_campaign=1053&utm_source=git)** | 1800 Arch St., Philadelphia, PENNSYLVANIA | On Site | Jan 23 |
-| ↳ | **[Telemundo62 News Intern - Summer 2026](https://jobright.ai/jobs/info/6974340bbc8e722e7b19292f?utm_campaign=1053&utm_source=git)** | 1800 Arch St., Philadelphia, PENNSYLVANIA | On Site | Jan 23 |
 | ↳ | **[Telemundo62-Digital News Intern Summer 2026](https://jobright.ai/jobs/info/6974386f206da320f49e572d?utm_campaign=1053&utm_source=git)** | 1800 Arch St., Philadelphia, PENNSYLVANIA | On Site | Jan 23 |
+| ↳ | **[Telemundo62 News Intern - Summer 2026](https://jobright.ai/jobs/info/6974340bbc8e722e7b19292f?utm_campaign=1053&utm_source=git)** | 1800 Arch St., Philadelphia, PENNSYLVANIA | On Site | Jan 23 |
 | ↳ | **[PA Station Intern](https://jobright.ai/jobs/info/69743863bc8e722e7b192bd6?utm_campaign=1053&utm_source=git)** | 1800 Arch St., Philadelphia, PENNSYLVANIA | On Site | Jan 23 |
 | **[NBCUniversal](https://www.nbcuniversal.com/)** | **[Telemundo62 News Intern - Summer 2026](https://jobright.ai/jobs/info/6974141437785856350df808?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Jan 23 |
 | **[American Public Media Group](https://fitzgeraldtheater.publicradio.org)** | **[Intern, Podcasts - Marketplace](https://jobright.ai/jobs/info/69748de037785856350ea8c2?utm_campaign=1053&utm_source=git)** | Buffalo-Niagara Area | Remote | Jan 23 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[World Wildlife Fund](http://www.worldwildlife.org/)** | **[IN-26024 Wildlife Communications Intern](https://jobright.ai/jobs/info/6973cccfbc8e722e7b189b94?utm_campaign=1053&utm_source=git)** | Washington, DC, US | Hybrid | Jan 23 |
 | ↳ | **[IN-26024 Wildlife Communications Intern](https://jobright.ai/jobs/info/6973ccb8206da320f49dc636?utm_campaign=1053&utm_source=git)** | US-DC-Washington | Hybrid | Jan 23 |
 | **[Cleveland Browns](http://www.clevelandbrowns.com)** | **[Video Intern](https://jobright.ai/jobs/info/6973f25fbc8e722e7b18d835?utm_campaign=1053&utm_source=git)** | Berea, OH | On Site | Jan 23 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Disney Live Entertainment Costume Support Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/6973eed5bc8e722e7b18d449?utm_campaign=1053&utm_source=git)** | Orlando, FL, USA | On Site | Jan 23 |
-| **[The Post and Courier](http://www.postandcourier.com/)** | **[The Post and Courier News Intern - Furman University](https://jobright.ai/jobs/info/6973ea8737785856350dbb00?utm_campaign=1053&utm_source=git)** | Greenville, South Carolina, United States | On Site | Jan 23 |
-| **[Northstar Travel Group](http://www.NorthstarTravelGroup.com)** | **[Editorial Intern](https://jobright.ai/jobs/info/6973bcda37785856350d918b?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | Jan 23 |
-| **[Omni Fort Worth Hotel](https://www.omnihotels.com/)** | **[Recreation Summer Internship - Seasonal](https://jobright.ai/jobs/info/6973d94f37785856350dabdc?utm_campaign=1053&utm_source=git)** | Amelia Island, FL, US | On Site | Jan 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
