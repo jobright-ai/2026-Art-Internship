@@ -57,9 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Shive-Hattery](http://shive-hattery.com)** | **[Internship](https://jobright.ai/jobs/info/6977a4dafdeb8243a27a8460?utm_campaign=1053&utm_source=git)** | South Bend, IN | On Site | Jan 26 |
-| **[Saskatchewan Roughrider Football Club Inc.](https://www.riderville.com)** | **[Storytelling & Digital Engagement Intern, Saskatchewan Roughrider Foundation](https://jobright.ai/jobs/info/6977a675fdeb8243a27a871f?utm_campaign=1053&utm_source=git)** | Regina, Saskatchewan, Canada | On Site | Jan 26 |
-| ↳ | **[Game Entertainment & Community Events Intern](https://jobright.ai/jobs/info/6977a87f88e2b47213bb9359?utm_campaign=1053&utm_source=git)** | Regina, Saskatchewan, Canada | On Site | Jan 26 |
+| **[Shive-Hattery](http://shive-hattery.com)** | **[Internship](https://jobright.ai/jobs/info/6977b17952f3c27ec643cd76?utm_campaign=1053&utm_source=git)** | South Bend, IN | On Site | Jan 26 |
+| **[Saskatchewan Roughrider Football Club Inc.](https://www.riderville.com)** | **[Game Entertainment & Community Events Intern](https://jobright.ai/jobs/info/6977a87f88e2b47213bb9359?utm_campaign=1053&utm_source=git)** | Regina, Saskatchewan, Canada | On Site | Jan 26 |
+| ↳ | **[Storytelling & Digital Engagement Intern, Saskatchewan Roughrider Foundation](https://jobright.ai/jobs/info/6977a675fdeb8243a27a871f?utm_campaign=1053&utm_source=git)** | Regina, Saskatchewan, Canada | On Site | Jan 26 |
+| ↳ | **[Digital Media Producer Intern](https://jobright.ai/jobs/info/6977a948fdeb8243a27a8bca?utm_campaign=1053&utm_source=git)** | Regina, Saskatchewan, Canada | On Site | Jan 26 |
 | **[Kentish Publishing Company](https://www.facebook.com/KENTISHPUBLISHINGCOMPANY)** | **[Internship Program: Editorial & Publishing Operations](https://jobright.ai/jobs/info/697789cf52f3c27ec6439770?utm_campaign=1053&utm_source=git)** | Texas, United States | Remote | Jan 26 |
 | **[Six Flags](https://www.sixflags.com)** | **[Entertainment Event Technician Internship](https://jobright.ai/jobs/info/6977518888e2b47213bb23d7?utm_campaign=1053&utm_source=git)** | Waukegan, IL | On Site | Jan 26 |
 | **[Sinclair Inc.](http://sbgi.net/)** | **[News Intern](https://jobright.ai/jobs/info/6905aa2263502c0aded7cd4e?utm_campaign=1053&utm_source=git)** | Charleston, WV | On Site | Jan 26 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Post and Courier](http://www.postandcourier.com/)** | **[The Post and Courier News Intern - Furman University](https://jobright.ai/jobs/info/6973ea8737785856350dbb00?utm_campaign=1053&utm_source=git)** | Greenville, South Carolina, United States | On Site | Jan 23 |
 | **[Northstar Travel Group](http://www.NorthstarTravelGroup.com)** | **[Editorial Intern](https://jobright.ai/jobs/info/6973bcda37785856350d918b?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | Jan 23 |
 | **[Omni Fort Worth Hotel](https://www.omnihotels.com/)** | **[Recreation Summer Internship - Seasonal](https://jobright.ai/jobs/info/6973d94f37785856350dabdc?utm_campaign=1053&utm_source=git)** | Amelia Island, FL, US | On Site | Jan 23 |
-| **[Six Flags Entertainment Corporation](http://sixflags.com)** | **[Show Wardrobe Technician Internship](https://jobright.ai/jobs/info/697738cb88e2b47213bb1c1b?utm_campaign=1053&utm_source=git)** | Gurnee, IL | On Site | Jan 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
