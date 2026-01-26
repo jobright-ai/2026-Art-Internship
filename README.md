@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sinclair Inc.](http://sbgi.net/)** | **[News Intern](https://jobright.ai/jobs/info/6905aa2263502c0aded7cd4e?utm_campaign=1053&utm_source=git)** | Charleston, WV | On Site | Jan 26 |
+| **[VettaFi](https://vettafi.com/)** | **[Staff Writer Intern](https://jobright.ai/jobs/info/693ecbca49a7695fbd04daf0?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Jan 26 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Disney Branded Television Original Movies Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69772e9d88e2b47213baff10?utm_campaign=1053&utm_source=git)** | Burbank, CA, USA | Hybrid | Jan 26 |
 | **[National Building Museum](http://www.nbm.org)** | **[Collections Management Intern- Cataloging](https://jobright.ai/jobs/info/6977204652f3c27ec6432101?utm_campaign=1053&utm_source=git)** | National Building Museum - Main Office - Washington, DC 20001 | On Site | Jan 26 |
 | **[Metropolitan Golf Association (MGA)](https://www.mgagolf.org)** | **[Communications Field Team Intern 2026 - Long Island](https://jobright.ai/jobs/info/6976e6493778585635106773?utm_campaign=1053&utm_source=git)** | Elmsford, NY | On Site | Jan 25 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Six Flags Entertainment Corporation](http://sixflags.com)** | **[Show Wardrobe Technician Internship](https://jobright.ai/jobs/info/697738cb88e2b47213bb1c1b?utm_campaign=1053&utm_source=git)** | Gurnee, IL | On Site | Jan 23 |
 | **[Tombras](http://tombras.com)** | **[Production Assistant Intern](https://jobright.ai/jobs/info/6973b753bc8e722e7b188ba5?utm_campaign=1053&utm_source=git)** | Knoxville, TN | On Site | Jan 23 |
 | **[TGR](http://www.thegarnettereport.com)** | **[Spring/Summer Internship](https://jobright.ai/jobs/info/6973b5fabc8e722e7b188ab8?utm_campaign=1053&utm_source=git)** | NYC Metro Area | Remote | Jan 23 |
-| **[Tombras](http://tombras.com)** | **[Post-Production Intern](https://jobright.ai/jobs/info/6973b5a4bc8e722e7b188a75?utm_campaign=1053&utm_source=git)** | Knoxville, TN | On Site | Jan 23 |
-| **[The Reynolds and Reynolds Company](https://www.reyrey.com)** | **[Multimedia Production Specialist Intern](https://jobright.ai/jobs/info/69738c76206da320f49d8899?utm_campaign=1053&utm_source=git)** | Greater Houston | On Site | Jan 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
