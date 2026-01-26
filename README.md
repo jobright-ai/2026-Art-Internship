@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Shive-Hattery](http://shive-hattery.com)** | **[Internship](https://jobright.ai/jobs/info/6977a4dafdeb8243a27a8460?utm_campaign=1053&utm_source=git)** | South Bend, IN | On Site | Jan 26 |
+| **[Saskatchewan Roughrider Football Club Inc.](https://www.riderville.com)** | **[Storytelling & Digital Engagement Intern, Saskatchewan Roughrider Foundation](https://jobright.ai/jobs/info/6977a675fdeb8243a27a871f?utm_campaign=1053&utm_source=git)** | Regina, Saskatchewan, Canada | On Site | Jan 26 |
+| ↳ | **[Game Entertainment & Community Events Intern](https://jobright.ai/jobs/info/6977a87f88e2b47213bb9359?utm_campaign=1053&utm_source=git)** | Regina, Saskatchewan, Canada | On Site | Jan 26 |
+| **[Kentish Publishing Company](https://www.facebook.com/KENTISHPUBLISHINGCOMPANY)** | **[Internship Program: Editorial & Publishing Operations](https://jobright.ai/jobs/info/697789cf52f3c27ec6439770?utm_campaign=1053&utm_source=git)** | Texas, United States | Remote | Jan 26 |
 | **[Six Flags](https://www.sixflags.com)** | **[Entertainment Event Technician Internship](https://jobright.ai/jobs/info/6977518888e2b47213bb23d7?utm_campaign=1053&utm_source=git)** | Waukegan, IL | On Site | Jan 26 |
 | **[Sinclair Inc.](http://sbgi.net/)** | **[News Intern](https://jobright.ai/jobs/info/6905aa2263502c0aded7cd4e?utm_campaign=1053&utm_source=git)** | Charleston, WV | On Site | Jan 26 |
 | **[VettaFi](https://vettafi.com/)** | **[Staff Writer Intern](https://jobright.ai/jobs/info/693ecbca49a7695fbd04daf0?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Jan 26 |
@@ -68,7 +72,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Communications Field Team Intern 2026 - New Jersey](https://jobright.ai/jobs/info/6976c9d8206da320f4a07b77?utm_campaign=1053&utm_source=git)** | Elmsford, New York, United States | On Site | Jan 25 |
 | ↳ | **[Communications Field Team Intern 2026 - West/CT](https://jobright.ai/jobs/info/6976c96d206da320f4a07b51?utm_campaign=1053&utm_source=git)** | Elmsford, New York, United States | On Site | Jan 25 |
 | ↳ | **[Communications Field Team Intern 2026 - Long Island](https://jobright.ai/jobs/info/6976c8ea37785856351057e6?utm_campaign=1053&utm_source=git)** | Elmsford, New York, United States | On Site | Jan 25 |
-| **[Minor Football League](http://www.mflishere.com)** | **[Editorial Intern](https://jobright.ai/jobs/info/6976a155206da320f4a0556a?utm_campaign=1053&utm_source=git)** | United States | Remote | Jan 25 |
 | **[Off The Record USA](https://otrecordusa.com)** | **[Production Intern](https://jobright.ai/jobs/info/69768aaa3778585635103069?utm_campaign=1053&utm_source=git)** | Provo, UT | On Site | Jan 25 |
 | **[Bonneville Communications](https://www.bonnevillecommunications.com)** | **[Video Postproduction/Archiving Intern](https://jobright.ai/jobs/info/69767e853778585635102c24?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | Hybrid | Jan 25 |
 | **[Cleveland Browns](http://www.clevelandbrowns.com)** | **[Video Intern, Content & Production](https://jobright.ai/jobs/info/6976759e3778585635101437?utm_campaign=1053&utm_source=git)** | Berea, OH | On Site | Jan 25 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Northstar Travel Group](http://www.NorthstarTravelGroup.com)** | **[Editorial Intern](https://jobright.ai/jobs/info/6973bcda37785856350d918b?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | Jan 23 |
 | **[Omni Fort Worth Hotel](https://www.omnihotels.com/)** | **[Recreation Summer Internship - Seasonal](https://jobright.ai/jobs/info/6973d94f37785856350dabdc?utm_campaign=1053&utm_source=git)** | Amelia Island, FL, US | On Site | Jan 23 |
 | **[Six Flags Entertainment Corporation](http://sixflags.com)** | **[Show Wardrobe Technician Internship](https://jobright.ai/jobs/info/697738cb88e2b47213bb1c1b?utm_campaign=1053&utm_source=git)** | Gurnee, IL | On Site | Jan 23 |
-| **[Tombras](http://tombras.com)** | **[Production Assistant Intern](https://jobright.ai/jobs/info/6973b753bc8e722e7b188ba5?utm_campaign=1053&utm_source=git)** | Knoxville, TN | On Site | Jan 23 |
-| **[TGR](http://www.thegarnettereport.com)** | **[Spring/Summer Internship](https://jobright.ai/jobs/info/6973b5fabc8e722e7b188ab8?utm_campaign=1053&utm_source=git)** | NYC Metro Area | Remote | Jan 23 |
-| **[Tombras](http://tombras.com)** | **[Post-Production Intern](https://jobright.ai/jobs/info/6973b5a4bc8e722e7b188a75?utm_campaign=1053&utm_source=git)** | Knoxville, TN | On Site | Jan 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
