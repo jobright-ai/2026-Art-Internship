@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Disney Branded Television Original Movies Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69772e9d88e2b47213baff10?utm_campaign=1053&utm_source=git)** | Burbank, CA, USA | Hybrid | Jan 26 |
+| **[National Building Museum](http://www.nbm.org)** | **[Collections Management Intern- Cataloging](https://jobright.ai/jobs/info/6977204652f3c27ec6432101?utm_campaign=1053&utm_source=git)** | National Building Museum - Main Office - Washington, DC 20001 | On Site | Jan 26 |
 | **[Metropolitan Golf Association (MGA)](https://www.mgagolf.org)** | **[Communications Field Team Intern 2026 - Long Island](https://jobright.ai/jobs/info/6976e6493778585635106773?utm_campaign=1053&utm_source=git)** | Elmsford, NY | On Site | Jan 25 |
 | ↳ | **[Communications Field Team Intern 2026 - West/CT](https://jobright.ai/jobs/info/6976e5ac206da320f4a089fa?utm_campaign=1053&utm_source=git)** | Elmsford, NY | On Site | Jan 25 |
 | ↳ | **[Communications Field Team Intern 2026 - New Jersey](https://jobright.ai/jobs/info/6976e589bc8e722e7b1b56d8?utm_campaign=1053&utm_source=git)** | Elmsford, NY | On Site | Jan 25 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Tombras](http://tombras.com)** | **[Post-Production Intern](https://jobright.ai/jobs/info/6973b5a4bc8e722e7b188a75?utm_campaign=1053&utm_source=git)** | Knoxville, TN | On Site | Jan 23 |
 | **[The Reynolds and Reynolds Company](https://www.reyrey.com)** | **[Multimedia Production Specialist Intern](https://jobright.ai/jobs/info/69738c76206da320f49d8899?utm_campaign=1053&utm_source=git)** | Greater Houston | On Site | Jan 23 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[WABC-TV (ABC7) Creative Services Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/6970c253587dfa0bb55e49fd?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jan 23 |
-| **[Colonial Williamsburg Foundation](https://www.colonialwilliamsburg.org/)** | **[Intern - Fife & Drum](https://jobright.ai/jobs/info/6789b384fade8859f716aab4?utm_campaign=1053&utm_source=git)** | Williamsburg, VA | On Site | Jan 23 |
-| **[Epic Games](https://epicgames.com)** | **[Gameplay Animation Intern](https://jobright.ai/jobs/info/69017b0fd5259a1b3cff5421?utm_campaign=1053&utm_source=git)** | Cary, NC | On Site | Jan 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
