@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Children's Hospital of Philadelphia](http://chop.edu)** | **[Patient Media and Broadcasting Intern](https://jobright.ai/jobs/info/6979136788e2b47213bd2e6d?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Jan 27 |
+| **[Resources for the Future](http://www.rff.org/)** | **[Editorial Internship](https://jobright.ai/jobs/info/6979076f88e2b47213bd1b9f?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Jan 27 |
+| **[Webster Bank](https://www.websterbank.com)** | **[Summer Intern - Culture & Colleague Experience](https://jobright.ai/jobs/info/6979009652f3c27ec6454c40?utm_campaign=1053&utm_source=git)** | NY LI Jericho | Hybrid | Jan 27 |
+| **[GIE Media, Inc.](http://www.giemedia.com)** | **[Editorial Intern](https://jobright.ai/jobs/info/69790da088e2b47213bd2ac1?utm_campaign=1053&utm_source=git)** | Cleveland, OH | Hybrid | Jan 27 |
+| **[Botpress](https://botpress.com)** | **[DevRel Video Content Intern - Summer 2026](https://jobright.ai/jobs/info/697909c652f3c27ec6455257?utm_campaign=1053&utm_source=git)** | Montreal, Quebec, Canada | On Site | Jan 27 |
 | **[Marriott Vacations Worldwide](https://www.marriottvacationsworldwide.com/)** | **[Summer 2026 - College Intern - Panama City, FL (Recreation)](https://jobright.ai/jobs/info/6978dbd639f7f96cc6d1362f?utm_campaign=1053&utm_source=git)** | Marriott's Legends Edge at Bay Point | On Site | Jan 27 |
 | ↳ | **[Summer 2026 - College Intern - Panama City, FL (Recreation)](https://jobright.ai/jobs/info/6978d5a088e2b47213bcf234?utm_campaign=1053&utm_source=git)** | Panama City, FL | On Site | Jan 27 |
 | **[Quicken Loans](http://www.quickenloans.com/)** | **[Event Facilities Tech Intern - Summer 2026](https://jobright.ai/jobs/info/6978f40e52f3c27ec645376f?utm_campaign=1053&utm_source=git)** | Detroit, MI | On Site | Jan 27 |
@@ -104,7 +109,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Event Services Internship / Part-Time / Waterloo Convention Center](https://jobright.ai/jobs/info/6977c3cafdeb8243a27ab000?utm_campaign=1053&utm_source=git)** | US-IA-Waterloo | On Site | Jan 26 |
 | **[MAZIART Productions](http://maziart.ca)** | **[Unreal Engine Cinematics & 3D Animation Intern](https://jobright.ai/jobs/info/6977e1b288e2b47213bbdf04?utm_campaign=1053&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 26 |
 | **[North Carolina Courage](http://www.NCCourage.com)** | **[Events Internship](https://jobright.ai/jobs/info/6977ed6352f3c27ec6441c3b?utm_campaign=1053&utm_source=git)** | Raleigh, NC | On Site | Jan 26 |
-| **[Shive-Hattery](http://shive-hattery.com)** | **[Internship](https://jobright.ai/jobs/info/697872d852f3c27ec644c1dd?utm_campaign=1053&utm_source=git)** | South Bend,IN,US | On Site | Jan 26 |
+| **[Shive-Hattery](http://shive-hattery.com)** | **[Internship](https://jobright.ai/jobs/info/6978712239f7f96cc6d0dab5?utm_campaign=1053&utm_source=git)** | South Bend,IN,US | On Site | Jan 26 |
 | **[Oak View Group](http://www.oakviewgroup.com)** | **[Event Services Internship / Part-Time / Waterloo Convention Center](https://jobright.ai/jobs/info/6977d61252f3c27ec643fb83?utm_campaign=1053&utm_source=git)** | Waterloo, IA, US | On Site | Jan 26 |
 | **[Saskatchewan Roughrider Football Club Inc.](https://www.riderville.com)** | **[Storytelling & Digital Engagement Intern, Saskatchewan Roughrider Foundation](https://jobright.ai/jobs/info/6977a675fdeb8243a27a871f?utm_campaign=1053&utm_source=git)** | Regina, Saskatchewan, Canada | On Site | Jan 26 |
 | ↳ | **[Game Entertainment & Community Events Intern](https://jobright.ai/jobs/info/6977a87f88e2b47213bb9359?utm_campaign=1053&utm_source=git)** | Regina, Saskatchewan, Canada | On Site | Jan 26 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern, Podcasts - Marketplace](https://jobright.ai/jobs/info/69747093206da320f49eae34?utm_campaign=1053&utm_source=git)** | New York, New York, United States | Remote | Jan 23 |
 | ↳ | **[Intern, Newsroom - Marketplace](https://jobright.ai/jobs/info/69746d3837785856350e84c6?utm_campaign=1053&utm_source=git)** | New York, New York, United States | Remote | Jan 23 |
 | **[Kohler Hospitality](https://www.kohlerwisconsin.com/)** | **[Decor & Design Intern, Meeting and Events](https://jobright.ai/jobs/info/6978496552f3c27ec6448f84?utm_campaign=1053&utm_source=git)** | Kohler, WI | On Site | Jan 23 |
-| **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[Paid Intern - Website Prod Editor](https://jobright.ai/jobs/info/69744657bc8e722e7b193de4?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Jan 23 |
-| **[Southern Poverty Law Center](http://www.splcenter.org)** | **[Intern, Editorial (Summer 2026)](https://jobright.ai/jobs/info/6974458abc8e722e7b193d60?utm_campaign=1053&utm_source=git)** | Miami, FL | Hybrid | Jan 23 |
-| ↳ | **[Intern, Editorial (Summer 2026)](https://jobright.ai/jobs/info/697440f737785856350e39f1?utm_campaign=1053&utm_source=git)** | New Orleans, LA | Hybrid | Jan 23 |
-| **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Paid Intern - Website Prod Editor](https://jobright.ai/jobs/info/69743d0c37785856350e36d9?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Jan 23 |
-| **[Southern Poverty Law Center](http://www.splcenter.org)** | **[Intern, Editorial (Summer 2026)](https://jobright.ai/jobs/info/69743c7c37785856350e367a?utm_campaign=1053&utm_source=git)** | Atlanta, GA | Hybrid | Jan 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
