@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[DeafandHoH.com, LLC](https://www.deafandhoh.com/)** | **[Writing Student Internship Program](https://jobright.ai/jobs/info/6978a1ec88e2b47213bcc53e?utm_campaign=1053&utm_source=git)** | Waukesha, WI | Remote | Jan 27 |
+| **[KUTV 2News / KMYU](http://kutv.com/)** | **[Intern - Studio Crew](https://jobright.ai/jobs/info/6978954f52f3c27ec644ebe3?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Jan 27 |
 | **[The Shade Room](https://theshaderoom.com/)** | **[Spring 2026 TSR Internship Program – Paid Positions](https://jobright.ai/jobs/info/69784e3d52f3c27ec644a253?utm_campaign=1053&utm_source=git)** | LA Metro Area | On Site | Jan 26 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Development Intern - LN Studios](https://jobright.ai/jobs/info/695c55a3aa05c26e7ab5bf49?utm_campaign=1053&utm_source=git)** | Beverly Hills, CA | Hybrid | Jan 26 |
 | **[A24](http://a24films.com/)** | **[Post Production + Delivery Intern](https://jobright.ai/jobs/info/69785b7239f7f96cc6d0c99c?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jan 26 |
@@ -76,8 +78,8 @@ For a complete list, click the following sortable link below:
 | **[DigiKey](https://www.digikey.ca)** | **[Video Production Intern](https://jobright.ai/jobs/info/69783d8b88e2b47213bc4746?utm_campaign=1053&utm_source=git)** | Thief River Falls, MN | Hybrid | Jan 26 |
 | **[Country Music Hall Of Fame and Museum](http://www.countrymusichalloffame.org/)** | **[Summer 2026 Editorial Intern (Paid)](https://jobright.ai/jobs/info/69782253fdeb8243a27b168f?utm_campaign=1053&utm_source=git)** | Nashville,TN,US | On Site | Jan 26 |
 | **[JMP](https://www.jmp.com/en_ph/home.html)** | **[JMP Summer 2026 Internship – Event Production & Design](https://jobright.ai/jobs/info/6978304488e2b47213bc3735?utm_campaign=1053&utm_source=git)** | United States | Remote | Jan 26 |
-| **[SAS](http://www.sas.com)** | **[JMP Summer 2026 Internship – Event Production & Design](https://jobright.ai/jobs/info/6978224d52f3c27ec6444e8b?utm_campaign=1053&utm_source=git)** | United States | Remote | Jan 26 |
-| ↳ | **[JMP Summer 2026 Internship – Event Production & Design](https://jobright.ai/jobs/info/69782a7a88e2b47213bc2bf2?utm_campaign=1053&utm_source=git)** | Cary HQ, NC, US | Hybrid | Jan 26 |
+| **[SAS](http://www.sas.com)** | **[JMP Summer 2026 Internship – Event Production & Design](https://jobright.ai/jobs/info/69782a7a88e2b47213bc2bf2?utm_campaign=1053&utm_source=git)** | Cary HQ, NC, US | Hybrid | Jan 26 |
+| ↳ | **[JMP Summer 2026 Internship – Event Production & Design](https://jobright.ai/jobs/info/6978224d52f3c27ec6444e8b?utm_campaign=1053&utm_source=git)** | United States | Remote | Jan 26 |
 | **[NinjaTrader](http://www.ninjatrader.com)** | **[NT Live Intern, Naples - Summer 2026](https://jobright.ai/jobs/info/697828ae88e2b47213bc29aa?utm_campaign=1053&utm_source=git)** | Naples, FL | On Site | Jan 26 |
 | **[NBCUniversal](https://www.nbcuniversal.com/)** | **[Telemundo62 News Intern - Summer 2026](https://jobright.ai/jobs/info/6974141437785856350df808?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Jan 26 |
 | ↳ | **[NBCU Local San Diego - Production Intern - Summer 2026](https://jobright.ai/jobs/info/696fcbac3ed06875134ab8a1?utm_campaign=1053&utm_source=git)** | San Diego, CA | On Site | Jan 26 |
@@ -89,7 +91,6 @@ For a complete list, click the following sortable link below:
 | **[Rocket](https://www.rocketcompanies.com/)** | **[Video Producer Intern - Summer 2026](https://jobright.ai/jobs/info/6977d14488e2b47213bbc760?utm_campaign=1053&utm_source=git)** | California, United States | On Site | Jan 26 |
 | **[NBCUniversal](https://www.nbcuniversal.com/)** | **[PA Station Intern](https://jobright.ai/jobs/info/6973ef9137785856350dc023?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Jan 26 |
 | **[City of St. Charles, MO](https://www.stcharlescitymo.gov)** | **[Foundry Art Camp Intern](https://jobright.ai/jobs/info/6977ca3688e2b47213bbbfa3?utm_campaign=1053&utm_source=git)** | St Charles,MO,US | On Site | Jan 26 |
-| **[Speedway Motorsports](https://www.speedwaymotorsports.com/)** | **[Intern](https://jobright.ai/jobs/info/6977eff0fdeb8243a27aeb5c?utm_campaign=1053&utm_source=git)** | Concord, NC | On Site | Jan 26 |
 | **[Famease](https://famease.com/)** | **[Editorial & Research Intern (Remote)](https://jobright.ai/jobs/info/6977ee7efdeb8243a27ae82c?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Remote | Jan 26 |
 | **[Oak View Group](http://www.oakviewgroup.com)** | **[Event Services Internship / Part-Time / Waterloo Convention Center](https://jobright.ai/jobs/info/6977c3e588e2b47213bbb947?utm_campaign=1053&utm_source=git)** | Waterloo Convention Center | On Site | Jan 26 |
 | ↳ | **[Event Services Internship / Part-Time / Waterloo Convention Center](https://jobright.ai/jobs/info/6977c3cafdeb8243a27ab000?utm_campaign=1053&utm_source=git)** | US-IA-Waterloo | On Site | Jan 26 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Pacers Sports & Entertainment](http://www.pacers.com)** | **[Event Production Intern - Summer 2026](https://jobright.ai/jobs/info/6974393837785856350e33c9?utm_campaign=1053&utm_source=git)** | Indianapolis, IN | On Site | Jan 23 |
 | **[Southern Poverty Law Center](http://www.splcenter.org)** | **[Intern, Editorial (Summer 2026)](https://jobright.ai/jobs/info/697451f337785856350e65d8?utm_campaign=1053&utm_source=git)** | Jackson, MS | Hybrid | Jan 23 |
 | **[The Post and Courier](http://www.postandcourier.com/)** | **[The Post and Courier Community Engagement Producer Intern - Furman University](https://jobright.ai/jobs/info/6974328f206da320f49e5375?utm_campaign=1053&utm_source=git)** | Columbia, SC | On Site | Jan 23 |
-| **[City of Westfield, Indiana](https://www.westfieldin.gov)** | **[Parks and Recreation Programming Intern](https://jobright.ai/jobs/info/69742520206da320f49e4732?utm_campaign=1053&utm_source=git)** | Westfield, IN | On Site | Jan 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
