@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Texas Department of Transportation](https://www.txdot.gov)** | **[Texas Highways Editorial Intern](https://jobright.ai/jobs/info/69791c1e39f7f96cc6d17962?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | Jan 27 |
 | **[Children's Hospital of Philadelphia](http://chop.edu)** | **[Patient Media and Broadcasting Intern](https://jobright.ai/jobs/info/6979136788e2b47213bd2e6d?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Jan 27 |
 | **[Resources for the Future](http://www.rff.org/)** | **[Editorial Internship](https://jobright.ai/jobs/info/6979076f88e2b47213bd1b9f?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Jan 27 |
 | **[Webster Bank](https://www.websterbank.com)** | **[Summer Intern - Culture & Colleague Experience](https://jobright.ai/jobs/info/6979009652f3c27ec6454c40?utm_campaign=1053&utm_source=git)** | NY LI Jericho | Hybrid | Jan 27 |
@@ -109,7 +110,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Event Services Internship / Part-Time / Waterloo Convention Center](https://jobright.ai/jobs/info/6977c3cafdeb8243a27ab000?utm_campaign=1053&utm_source=git)** | US-IA-Waterloo | On Site | Jan 26 |
 | **[MAZIART Productions](http://maziart.ca)** | **[Unreal Engine Cinematics & 3D Animation Intern](https://jobright.ai/jobs/info/6977e1b288e2b47213bbdf04?utm_campaign=1053&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 26 |
 | **[North Carolina Courage](http://www.NCCourage.com)** | **[Events Internship](https://jobright.ai/jobs/info/6977ed6352f3c27ec6441c3b?utm_campaign=1053&utm_source=git)** | Raleigh, NC | On Site | Jan 26 |
-| **[Shive-Hattery](http://shive-hattery.com)** | **[Internship](https://jobright.ai/jobs/info/6978712239f7f96cc6d0dab5?utm_campaign=1053&utm_source=git)** | South Bend,IN,US | On Site | Jan 26 |
 | **[Oak View Group](http://www.oakviewgroup.com)** | **[Event Services Internship / Part-Time / Waterloo Convention Center](https://jobright.ai/jobs/info/6977d61252f3c27ec643fb83?utm_campaign=1053&utm_source=git)** | Waterloo, IA, US | On Site | Jan 26 |
 | **[Saskatchewan Roughrider Football Club Inc.](https://www.riderville.com)** | **[Storytelling & Digital Engagement Intern, Saskatchewan Roughrider Foundation](https://jobright.ai/jobs/info/6977a675fdeb8243a27a871f?utm_campaign=1053&utm_source=git)** | Regina, Saskatchewan, Canada | On Site | Jan 26 |
 | ↳ | **[Game Entertainment & Community Events Intern](https://jobright.ai/jobs/info/6977a87f88e2b47213bb9359?utm_campaign=1053&utm_source=git)** | Regina, Saskatchewan, Canada | On Site | Jan 26 |
