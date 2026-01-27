@@ -57,10 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[American Public Media Group](https://fitzgeraldtheater.publicradio.org)** | **[Intern, Investigative Reporting – APM Reports](https://jobright.ai/jobs/info/69792dc939f7f96cc6d190c0?utm_campaign=1053&utm_source=git)** | St Paul, MN | Hybrid | Jan 27 |
+| **[Tumbling Dumpling Media](https://www.linkedin.com/company/109629621)** | **[Editorial Intern](https://jobright.ai/jobs/info/6979212488e2b47213bd3d63?utm_campaign=1053&utm_source=git)** | United States | Remote | Jan 27 |
 | **[Texas Department of Transportation](https://www.txdot.gov)** | **[Texas Highways Editorial Intern](https://jobright.ai/jobs/info/69791c1e39f7f96cc6d17962?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | Jan 27 |
 | **[Children's Hospital of Philadelphia](http://chop.edu)** | **[Patient Media and Broadcasting Intern](https://jobright.ai/jobs/info/6979136788e2b47213bd2e6d?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Jan 27 |
+| **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Summer Intern, Experiential Events](https://jobright.ai/jobs/info/6979259b52f3c27ec6456c7b?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Jan 27 |
 | **[Resources for the Future](http://www.rff.org/)** | **[Editorial Internship](https://jobright.ai/jobs/info/6979076f88e2b47213bd1b9f?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Jan 27 |
+| **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[Her Campus News & Politics Editorial Intern - Spring 2026](https://jobright.ai/jobs/info/6979270639f7f96cc6d1888a?utm_campaign=1053&utm_source=git)** | United States | Remote | Jan 27 |
 | **[Webster Bank](https://www.websterbank.com)** | **[Summer Intern - Culture & Colleague Experience](https://jobright.ai/jobs/info/6979009652f3c27ec6454c40?utm_campaign=1053&utm_source=git)** | NY LI Jericho | Hybrid | Jan 27 |
+| **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[IAE Videography Internship - Spring 2026](https://jobright.ai/jobs/info/6979292e52f3c27ec6457111?utm_campaign=1053&utm_source=git)** | Tampa, FL | On Site | Jan 27 |
 | **[GIE Media, Inc.](http://www.giemedia.com)** | **[Editorial Intern](https://jobright.ai/jobs/info/69790da088e2b47213bd2ac1?utm_campaign=1053&utm_source=git)** | Cleveland, OH | Hybrid | Jan 27 |
 | **[Botpress](https://botpress.com)** | **[DevRel Video Content Intern - Summer 2026](https://jobright.ai/jobs/info/697909c652f3c27ec6455257?utm_campaign=1053&utm_source=git)** | Montreal, Quebec, Canada | On Site | Jan 27 |
 | **[Marriott Vacations Worldwide](https://www.marriottvacationsworldwide.com/)** | **[Summer 2026 - College Intern - Panama City, FL (Recreation)](https://jobright.ai/jobs/info/6978dbd639f7f96cc6d1362f?utm_campaign=1053&utm_source=git)** | Marriott's Legends Edge at Bay Point | On Site | Jan 27 |
@@ -93,8 +98,8 @@ For a complete list, click the following sortable link below:
 | **[DigiKey](https://www.digikey.ca)** | **[Video Production Intern](https://jobright.ai/jobs/info/69783d8b88e2b47213bc4746?utm_campaign=1053&utm_source=git)** | Thief River Falls, MN | Hybrid | Jan 26 |
 | **[Country Music Hall Of Fame and Museum](http://www.countrymusichalloffame.org/)** | **[Summer 2026 Editorial Intern (Paid)](https://jobright.ai/jobs/info/69782253fdeb8243a27b168f?utm_campaign=1053&utm_source=git)** | Nashville,TN,US | On Site | Jan 26 |
 | **[JMP](https://www.jmp.com/en_ph/home.html)** | **[JMP Summer 2026 Internship – Event Production & Design](https://jobright.ai/jobs/info/6978304488e2b47213bc3735?utm_campaign=1053&utm_source=git)** | United States | Remote | Jan 26 |
-| **[SAS](http://www.sas.com)** | **[JMP Summer 2026 Internship – Event Production & Design](https://jobright.ai/jobs/info/69782a7a88e2b47213bc2bf2?utm_campaign=1053&utm_source=git)** | Cary HQ, NC, US | Hybrid | Jan 26 |
-| ↳ | **[JMP Summer 2026 Internship – Event Production & Design](https://jobright.ai/jobs/info/6978224d52f3c27ec6444e8b?utm_campaign=1053&utm_source=git)** | United States | Remote | Jan 26 |
+| **[SAS](http://www.sas.com)** | **[JMP Summer 2026 Internship – Event Production & Design](https://jobright.ai/jobs/info/6978224d52f3c27ec6444e8b?utm_campaign=1053&utm_source=git)** | United States | Remote | Jan 26 |
+| ↳ | **[JMP Summer 2026 Internship – Event Production & Design](https://jobright.ai/jobs/info/69782a7a88e2b47213bc2bf2?utm_campaign=1053&utm_source=git)** | Cary HQ, NC, US | Hybrid | Jan 26 |
 | **[NinjaTrader](http://www.ninjatrader.com)** | **[NT Live Intern, Naples - Summer 2026](https://jobright.ai/jobs/info/697828ae88e2b47213bc29aa?utm_campaign=1053&utm_source=git)** | Naples, FL | On Site | Jan 26 |
 | **[NBCUniversal](https://www.nbcuniversal.com/)** | **[Telemundo62 News Intern - Summer 2026](https://jobright.ai/jobs/info/6974141437785856350df808?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Jan 26 |
 | ↳ | **[NBCU Local San Diego - Production Intern - Summer 2026](https://jobright.ai/jobs/info/696fcbac3ed06875134ab8a1?utm_campaign=1053&utm_source=git)** | San Diego, CA | On Site | Jan 26 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Spectrum Reach](https://www.spectrumreach.com)** | **[Video Production Intern, Spectrum Reach Summer 2026](https://jobright.ai/jobs/info/69747ef637785856350e919a?utm_campaign=1053&utm_source=git)** | St Louis, MO | On Site | Jan 24 |
 | **[American Public Media Group](https://fitzgeraldtheater.publicradio.org)** | **[Intern, Newsroom - Marketplace](https://jobright.ai/jobs/info/69747a01bc8e722e7b198b3f?utm_campaign=1053&utm_source=git)** | Pasadena, California, United States | Remote | Jan 23 |
 | ↳ | **[Intern, Podcasts - Marketplace](https://jobright.ai/jobs/info/697478c637785856350e8f07?utm_campaign=1053&utm_source=git)** | Pasadena, California, United States | Remote | Jan 23 |
-| ↳ | **[Intern, Newsroom - Marketplace](https://jobright.ai/jobs/info/697477c0206da320f49eb5d5?utm_campaign=1053&utm_source=git)** | Saint Paul, Minnesota, United States | Remote | Jan 23 |
-| ↳ | **[Intern, Podcasts - Marketplace](https://jobright.ai/jobs/info/697474d7bc8e722e7b19875a?utm_campaign=1053&utm_source=git)** | Saint Paul, Minnesota, United States | Remote | Jan 23 |
-| ↳ | **[Intern, Podcasts - Marketplace](https://jobright.ai/jobs/info/69747093206da320f49eae34?utm_campaign=1053&utm_source=git)** | New York, New York, United States | Remote | Jan 23 |
-| ↳ | **[Intern, Newsroom - Marketplace](https://jobright.ai/jobs/info/69746d3837785856350e84c6?utm_campaign=1053&utm_source=git)** | New York, New York, United States | Remote | Jan 23 |
-| **[Kohler Hospitality](https://www.kohlerwisconsin.com/)** | **[Decor & Design Intern, Meeting and Events](https://jobright.ai/jobs/info/6978496552f3c27ec6448f84?utm_campaign=1053&utm_source=git)** | Kohler, WI | On Site | Jan 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
