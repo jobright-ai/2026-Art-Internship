@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Corsair](http://www.corsair.com)** | **[Elgato Video Editing Intern](https://jobright.ai/jobs/info/6940783550bbaf765052777c?utm_campaign=1053&utm_source=git)** | Milpitas, CA | On Site | Jan 27 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Disney Branded Television Original Movies Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/6978b1eb39f7f96cc6d10a6d?utm_campaign=1053&utm_source=git)** | Burbank, CA | On Site | Jan 27 |
 | **[dsm-firmenich](https://www.dsm-firmenich.com)** | **[Summer 2026 Internship: Taste Palette Management Intern (Princeton, NJ)](https://jobright.ai/jobs/info/6978aea939f7f96cc6d109c8?utm_campaign=1053&utm_source=git)** | Princeton, NJ | On Site | Jan 27 |
 | **[Corsair](http://www.corsair.com)** | **[Creative Video/Paid Social Intern](https://jobright.ai/jobs/info/69406eb649a7695fbd05f036?utm_campaign=1053&utm_source=git)** | Milpitas, CA | On Site | Jan 27 |
@@ -81,8 +82,8 @@ For a complete list, click the following sortable link below:
 | **[DigiKey](https://www.digikey.ca)** | **[Video Production Intern](https://jobright.ai/jobs/info/69783d8b88e2b47213bc4746?utm_campaign=1053&utm_source=git)** | Thief River Falls, MN | Hybrid | Jan 26 |
 | **[Country Music Hall Of Fame and Museum](http://www.countrymusichalloffame.org/)** | **[Summer 2026 Editorial Intern (Paid)](https://jobright.ai/jobs/info/69782253fdeb8243a27b168f?utm_campaign=1053&utm_source=git)** | Nashville,TN,US | On Site | Jan 26 |
 | **[JMP](https://www.jmp.com/en_ph/home.html)** | **[JMP Summer 2026 Internship – Event Production & Design](https://jobright.ai/jobs/info/6978304488e2b47213bc3735?utm_campaign=1053&utm_source=git)** | United States | Remote | Jan 26 |
-| **[SAS](http://www.sas.com)** | **[JMP Summer 2026 Internship – Event Production & Design](https://jobright.ai/jobs/info/69782a7a88e2b47213bc2bf2?utm_campaign=1053&utm_source=git)** | Cary HQ, NC, US | Hybrid | Jan 26 |
-| ↳ | **[JMP Summer 2026 Internship – Event Production & Design](https://jobright.ai/jobs/info/6978224d52f3c27ec6444e8b?utm_campaign=1053&utm_source=git)** | United States | Remote | Jan 26 |
+| **[SAS](http://www.sas.com)** | **[JMP Summer 2026 Internship – Event Production & Design](https://jobright.ai/jobs/info/6978224d52f3c27ec6444e8b?utm_campaign=1053&utm_source=git)** | United States | Remote | Jan 26 |
+| ↳ | **[JMP Summer 2026 Internship – Event Production & Design](https://jobright.ai/jobs/info/69782a7a88e2b47213bc2bf2?utm_campaign=1053&utm_source=git)** | Cary HQ, NC, US | Hybrid | Jan 26 |
 | **[NinjaTrader](http://www.ninjatrader.com)** | **[NT Live Intern, Naples - Summer 2026](https://jobright.ai/jobs/info/697828ae88e2b47213bc29aa?utm_campaign=1053&utm_source=git)** | Naples, FL | On Site | Jan 26 |
 | **[NBCUniversal](https://www.nbcuniversal.com/)** | **[Telemundo62 News Intern - Summer 2026](https://jobright.ai/jobs/info/6974141437785856350df808?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Jan 26 |
 | ↳ | **[NBCU Local San Diego - Production Intern - Summer 2026](https://jobright.ai/jobs/info/696fcbac3ed06875134ab8a1?utm_campaign=1053&utm_source=git)** | San Diego, CA | On Site | Jan 26 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern, Editorial (Summer 2026)](https://jobright.ai/jobs/info/69743bf637785856350e361d?utm_campaign=1053&utm_source=git)** | Montgomery, AL | Hybrid | Jan 23 |
 | ↳ | **[Intern, Editorial (Summer 2026)](https://jobright.ai/jobs/info/69743a1837785856350e3497?utm_campaign=1053&utm_source=git)** | United States | Remote | Jan 23 |
 | **[Pacers Sports & Entertainment](http://www.pacers.com)** | **[Event Production Intern - Summer 2026](https://jobright.ai/jobs/info/6974393837785856350e33c9?utm_campaign=1053&utm_source=git)** | Indianapolis, IN | On Site | Jan 23 |
-| **[Southern Poverty Law Center](http://www.splcenter.org)** | **[Intern, Editorial (Summer 2026)](https://jobright.ai/jobs/info/697451f337785856350e65d8?utm_campaign=1053&utm_source=git)** | Jackson, MS | Hybrid | Jan 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
