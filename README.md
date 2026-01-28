@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SiriusXM](http://siriusxm.com)** | **[Summer Intern, Music Programming Operations - NY - Part-Time](https://jobright.ai/jobs/info/697a8967f6fc293b0a2c6295?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jan 28 |
+| **[Giant Spoon](http://giantspoon.com/)** | **[Content Production Intern (Summer)](https://jobright.ai/jobs/info/697a82b6f6fc293b0a2c55fb?utm_campaign=1053&utm_source=git)** | New York, United States | Hybrid | Jan 28 |
 | **[SiriusXM](http://siriusxm.com)** | **[Summer Intern, Podcast Producer - Part Time](https://jobright.ai/jobs/info/697a7ed9f6fc293b0a2c516c?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | Jan 28 |
 | **[David Zwirner](http://www.davidzwirner.com/)** | **[Research & Exhibitions Intern](https://jobright.ai/jobs/info/697a7b608dbbf73badc7a095?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jan 28 |
 | **[Sentry](https://link.sentry.com/Sentry-HomePage)** | **[Brand Journalist Internship Summer 2026](https://jobright.ai/jobs/info/697a797f9d60e431a16bf999?utm_campaign=1053&utm_source=git)** | Stevens Point, WI | Hybrid | Jan 28 |
@@ -64,6 +66,7 @@ For a complete list, click the following sortable link below:
 | **[SiriusXM](http://siriusxm.com)** | **[Summer Intern, Video Production - Part-Time](https://jobright.ai/jobs/info/697a78718dbbf73badc79d09?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jan 28 |
 | **[Giant Spoon](http://giantspoon.com/)** | **[Content Production Intern (Summer)](https://jobright.ai/jobs/info/697a6a318dbbf73badc78d59?utm_campaign=1053&utm_source=git)** | New York | Hybrid | Jan 28 |
 | **[CPL](https://cplteam.com/locations)** | **[Placemaking Intern](https://jobright.ai/jobs/info/697a6640f6fc293b0a2c35b2?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Jan 28 |
+| **[Gray Media](https://graymedia.com)** | **[GRAY MEDIA FUTURE FOCUS INTERN SPRING '26 - WVUE](https://jobright.ai/jobs/info/697a84bc9d60e431a16c08e5?utm_campaign=1053&utm_source=git)** | New Orleans, LA | On Site | Jan 28 |
 | **[InBody USA (BIOSPACE)](http://www.inbody.com/)** | **[Video Production & Editor Intern](https://jobright.ai/jobs/info/697a592ba5b9804527e02a09?utm_campaign=1053&utm_source=git)** | Cerritos, CA | On Site | Jan 28 |
 | **[Gray Media](https://graymedia.com)** | **[GRAY MEDIA FUTURE FOCUS INTERN SPRING '26 - WVUE](https://jobright.ai/jobs/info/697a6ef39d60e431a16bed99?utm_campaign=1053&utm_source=git)** | New Orleans, Louisiana, United States | On Site | Jan 28 |
 | **[Chautauqua Institution](https://www.chq.org)** | **[Internship - Multimedia Journalist (The Chautauquan Daily)/Seasonal Employment](https://jobright.ai/jobs/info/697a6fc38dbbf73badc793e6?utm_campaign=1053&utm_source=git)** | Chautauqua, New York, United States | On Site | Jan 28 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[City of St. Charles, MO](https://www.stcharlescitymo.gov)** | **[Foundry Art Camp Intern](https://jobright.ai/jobs/info/6979b7db0791bc1d72308275?utm_campaign=1053&utm_source=git)** | St Charles,MO,US | On Site | Jan 26 |
 | **[Oak View Group](http://www.oakviewgroup.com)** | **[Event Services Internship / Part-Time / Waterloo Convention Center](https://jobright.ai/jobs/info/6977d61252f3c27ec643fb83?utm_campaign=1053&utm_source=git)** | Waterloo, IA, US | On Site | Jan 26 |
 | **[Saskatchewan Roughrider Football Club Inc.](https://www.riderville.com)** | **[Storytelling & Digital Engagement Intern, Saskatchewan Roughrider Foundation](https://jobright.ai/jobs/info/6977a675fdeb8243a27a871f?utm_campaign=1053&utm_source=git)** | Regina, Saskatchewan, Canada | On Site | Jan 26 |
-| ↳ | **[Game Entertainment & Community Events Intern](https://jobright.ai/jobs/info/6977a87f88e2b47213bb9359?utm_campaign=1053&utm_source=git)** | Regina, Saskatchewan, Canada | On Site | Jan 26 |
-| ↳ | **[Digital Media Producer Intern](https://jobright.ai/jobs/info/6977a948fdeb8243a27a8bca?utm_campaign=1053&utm_source=git)** | Regina, Saskatchewan, Canada | On Site | Jan 26 |
-| **[Holland America Line](http://www.hollandamerica.com/)** | **[2026 Internship - Culinary Operations](https://jobright.ai/jobs/info/68ccbd4b128dc347fd928d2b?utm_campaign=1053&utm_source=git)** | Seattle, WA | Hybrid | Jan 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
