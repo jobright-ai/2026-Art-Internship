@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[UnBound X](https://unboundx.co/)** | **[Content Creator Intern](https://jobright.ai/jobs/info/69795c4a39f7f96cc6d1d0fe?utm_campaign=1053&utm_source=git)** | United States | Remote | Jan 27 |
 | **[Hyperquake](https://www.hyperquake.com/)** | **[Production Coordinator: Summer Internship](https://jobright.ai/jobs/info/69794f6388e2b47213bd87af?utm_campaign=1053&utm_source=git)** | Cincinnati, OH | Hybrid | Jan 27 |
 | **[Heirloom Diet](www.heirloomdiet.com)** | **[Video Editing & Content Intern](https://jobright.ai/jobs/info/69794b6f39f7f96cc6d1c301?utm_campaign=1053&utm_source=git)** | United States | Remote | Jan 27 |
 | **[Ascension](https://www.ascensionpress.com)** | **[Multimedia Content Intern](https://jobright.ai/jobs/info/697943ab39f7f96cc6d1bb33?utm_campaign=1053&utm_source=git)** | United States | Remote | Jan 27 |
@@ -124,10 +125,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Event Services Internship / Part-Time / Waterloo Convention Center](https://jobright.ai/jobs/info/6977c3cafdeb8243a27ab000?utm_campaign=1053&utm_source=git)** | US-IA-Waterloo | On Site | Jan 26 |
 | **[MAZIART Productions](http://maziart.ca)** | **[Unreal Engine Cinematics & 3D Animation Intern](https://jobright.ai/jobs/info/6977e1b288e2b47213bbdf04?utm_campaign=1053&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 26 |
 | **[North Carolina Courage](http://www.NCCourage.com)** | **[Events Internship](https://jobright.ai/jobs/info/6977ed6352f3c27ec6441c3b?utm_campaign=1053&utm_source=git)** | Raleigh, NC | On Site | Jan 26 |
-| **[Shive-Hattery](http://shive-hattery.com)** | **[Internship](https://jobright.ai/jobs/info/697872d852f3c27ec644c1dd?utm_campaign=1053&utm_source=git)** | South Bend,IN,US | On Site | Jan 26 |
 | **[Oak View Group](http://www.oakviewgroup.com)** | **[Event Services Internship / Part-Time / Waterloo Convention Center](https://jobright.ai/jobs/info/6977d61252f3c27ec643fb83?utm_campaign=1053&utm_source=git)** | Waterloo, IA, US | On Site | Jan 26 |
-| **[Saskatchewan Roughrider Football Club Inc.](https://www.riderville.com)** | **[Storytelling & Digital Engagement Intern, Saskatchewan Roughrider Foundation](https://jobright.ai/jobs/info/6977a675fdeb8243a27a871f?utm_campaign=1053&utm_source=git)** | Regina, Saskatchewan, Canada | On Site | Jan 26 |
-| ↳ | **[Game Entertainment & Community Events Intern](https://jobright.ai/jobs/info/6977a87f88e2b47213bb9359?utm_campaign=1053&utm_source=git)** | Regina, Saskatchewan, Canada | On Site | Jan 26 |
+| **[Saskatchewan Roughrider Football Club Inc.](https://www.riderville.com)** | **[Game Entertainment & Community Events Intern](https://jobright.ai/jobs/info/6977a87f88e2b47213bb9359?utm_campaign=1053&utm_source=git)** | Regina, Saskatchewan, Canada | On Site | Jan 26 |
+| ↳ | **[Storytelling & Digital Engagement Intern, Saskatchewan Roughrider Foundation](https://jobright.ai/jobs/info/6977a675fdeb8243a27a871f?utm_campaign=1053&utm_source=git)** | Regina, Saskatchewan, Canada | On Site | Jan 26 |
 | ↳ | **[Digital Media Producer Intern](https://jobright.ai/jobs/info/6977a948fdeb8243a27a8bca?utm_campaign=1053&utm_source=git)** | Regina, Saskatchewan, Canada | On Site | Jan 26 |
 | **[Sinclair Inc.](http://sbgi.net/)** | **[News Intern](https://jobright.ai/jobs/info/6905aa2263502c0aded7cd4e?utm_campaign=1053&utm_source=git)** | Charleston, WV | On Site | Jan 26 |
 | **[VettaFi](https://vettafi.com/)** | **[Staff Writer Intern](https://jobright.ai/jobs/info/693ecbca49a7695fbd04daf0?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Jan 26 |
