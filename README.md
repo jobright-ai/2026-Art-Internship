@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Howard Hughes Medical Institute (HHMI)](http://www.hhmi.org/)** | **[Media Production, Communications, and Outreach Intern – Tangled Bank Studios](https://jobright.ai/jobs/info/695ddd6fe4cdbb1454cfd848?utm_campaign=1053&utm_source=git)** | Chevy Chase, MD | Hybrid | Jan 27 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Fan Page / Digital Intern](https://jobright.ai/jobs/info/6979aa0fca92cf0d6a82f639?utm_campaign=1053&utm_source=git)** | Knoxville Metro | On Site | Jan 27 |
 | **[Knights of Columbus](http://www.kofc.org)** | **[Archives Intern](https://jobright.ai/jobs/info/697985cbca92cf0d6a82ae89?utm_campaign=1053&utm_source=git)** | New Haven, CT | On Site | Jan 27 |
 | **[Destination by Hyatt](https://www.thewoodmark.com/still-spa.htm)** | **[Turf Internship – The Club at Spruce Peak – Summer 2026](https://jobright.ai/jobs/info/695d723bf5f3c43f38e23e94?utm_campaign=1053&utm_source=git)** | Stowe, VT | On Site | Jan 27 |
@@ -124,18 +125,20 @@ For a complete list, click the following sortable link below:
 | **[acronym](www.the-acronym.com)** | **[Digital Media Intern](https://jobright.ai/jobs/info/69780e3d52f3c27ec6443f1e?utm_campaign=1053&utm_source=git)** | Oak Brook, IL | Hybrid | Jan 26 |
 | **[NBCUniversal](https://www.nbcuniversal.com/)** | **[Telemundo62-Digital News Intern Summer 2026](https://jobright.ai/jobs/info/69740de137785856350df3db?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Jan 26 |
 | **[MOCEAN](http://moceanla.com)** | **[2026 SUMMER INTERNSHIP (Paid)](https://jobright.ai/jobs/info/6977d75088e2b47213bbd038?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | Jan 26 |
-| **[Ellucian](http://www.ellucian.com)** | **[AI Video Internship (Undergraduate)](https://jobright.ai/jobs/info/6977e29c52f3c27ec6440a9c?utm_campaign=1053&utm_source=git)** | Reston, VA | Hybrid | Jan 26 |
 | **[West Chester Township, Ohio](https://www.westchesteroh.org)** | **[Seasonal/Intern - Events](https://jobright.ai/jobs/info/6977d581fdeb8243a27ac3f6?utm_campaign=1053&utm_source=git)** | West Chester, OH | On Site | Jan 26 |
 | **[Rocket](https://www.rocketcompanies.com/)** | **[Video Producer Intern - Summer 2026](https://jobright.ai/jobs/info/6977d14488e2b47213bbc760?utm_campaign=1053&utm_source=git)** | California, United States | On Site | Jan 26 |
 | **[NBCUniversal](https://www.nbcuniversal.com/)** | **[PA Station Intern](https://jobright.ai/jobs/info/6973ef9137785856350dc023?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Jan 26 |
+| **[Ellucian](http://www.ellucian.com)** | **[Non-Technical Intern (Undergraduate)](https://jobright.ai/jobs/info/6977e29c52f3c27ec6440a9c?utm_campaign=1053&utm_source=git)** | Reston, VA | Hybrid | Jan 26 |
 | **[Oak View Group](http://www.oakviewgroup.com)** | **[Event Services Internship / Part-Time / Waterloo Convention Center](https://jobright.ai/jobs/info/6977c3e588e2b47213bbb947?utm_campaign=1053&utm_source=git)** | Waterloo Convention Center | On Site | Jan 26 |
 | ↳ | **[Event Services Internship / Part-Time / Waterloo Convention Center](https://jobright.ai/jobs/info/6977c3cafdeb8243a27ab000?utm_campaign=1053&utm_source=git)** | US-IA-Waterloo | On Site | Jan 26 |
 | **[MAZIART Productions](http://maziart.ca)** | **[Unreal Engine Cinematics & 3D Animation Intern](https://jobright.ai/jobs/info/6977e1b288e2b47213bbdf04?utm_campaign=1053&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 26 |
 | **[North Carolina Courage](http://www.NCCourage.com)** | **[Events Internship](https://jobright.ai/jobs/info/6977ed6352f3c27ec6441c3b?utm_campaign=1053&utm_source=git)** | Raleigh, NC | On Site | Jan 26 |
-| **[Shive-Hattery](http://shive-hattery.com)** | **[Internship](https://jobright.ai/jobs/info/697872d852f3c27ec644c1dd?utm_campaign=1053&utm_source=git)** | South Bend,IN,US | On Site | Jan 26 |
+| **[Shive-Hattery](http://shive-hattery.com)** | **[Internship](https://jobright.ai/jobs/info/6978712239f7f96cc6d0dab5?utm_campaign=1053&utm_source=git)** | South Bend,IN,US | On Site | Jan 26 |
+| **[City of St. Charles, MO](https://www.stcharlescitymo.gov)** | **[Foundry Art Camp Intern](https://jobright.ai/jobs/info/6979b7db0791bc1d72308275?utm_campaign=1053&utm_source=git)** | St Charles,MO,US | On Site | Jan 26 |
 | **[Oak View Group](http://www.oakviewgroup.com)** | **[Event Services Internship / Part-Time / Waterloo Convention Center](https://jobright.ai/jobs/info/6977d61252f3c27ec643fb83?utm_campaign=1053&utm_source=git)** | Waterloo, IA, US | On Site | Jan 26 |
-| **[Saskatchewan Roughrider Football Club Inc.](https://www.riderville.com)** | **[Storytelling & Digital Engagement Intern, Saskatchewan Roughrider Foundation](https://jobright.ai/jobs/info/6977a675fdeb8243a27a871f?utm_campaign=1053&utm_source=git)** | Regina, Saskatchewan, Canada | On Site | Jan 26 |
-| ↳ | **[Game Entertainment & Community Events Intern](https://jobright.ai/jobs/info/6977a87f88e2b47213bb9359?utm_campaign=1053&utm_source=git)** | Regina, Saskatchewan, Canada | On Site | Jan 26 |
+| **[Shive-Hattery](http://shive-hattery.com)** | **[Internship](https://jobright.ai/jobs/info/6977b17952f3c27ec643cd76?utm_campaign=1053&utm_source=git)** | South Bend, IN | On Site | Jan 26 |
+| **[Saskatchewan Roughrider Football Club Inc.](https://www.riderville.com)** | **[Game Entertainment & Community Events Intern](https://jobright.ai/jobs/info/6977a87f88e2b47213bb9359?utm_campaign=1053&utm_source=git)** | Regina, Saskatchewan, Canada | On Site | Jan 26 |
+| ↳ | **[Storytelling & Digital Engagement Intern, Saskatchewan Roughrider Foundation](https://jobright.ai/jobs/info/6977a675fdeb8243a27a871f?utm_campaign=1053&utm_source=git)** | Regina, Saskatchewan, Canada | On Site | Jan 26 |
 | ↳ | **[Digital Media Producer Intern](https://jobright.ai/jobs/info/6977a948fdeb8243a27a8bca?utm_campaign=1053&utm_source=git)** | Regina, Saskatchewan, Canada | On Site | Jan 26 |
 | **[Sinclair Inc.](http://sbgi.net/)** | **[News Intern](https://jobright.ai/jobs/info/6905aa2263502c0aded7cd4e?utm_campaign=1053&utm_source=git)** | Charleston, WV | On Site | Jan 26 |
 | **[VettaFi](https://vettafi.com/)** | **[Staff Writer Intern](https://jobright.ai/jobs/info/693ecbca49a7695fbd04daf0?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Jan 26 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Digital Intern](https://jobright.ai/jobs/info/6903eed5ff462851feff0d28?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Jan 25 |
 | **[Axis Communications](http://www.axis.com/)** | **[Events Production Intern (Spring/Summer)](https://jobright.ai/jobs/info/693d5762aa598a08c3ee0666?utm_campaign=1053&utm_source=git)** | Chelmsford, MA | Hybrid | Jan 25 |
 | **[Sinclair Inc.](http://sbgi.net/)** | **[News Intern Winter/Spring](https://jobright.ai/jobs/info/68e8d6ce4ae21e3abbeee5c6?utm_campaign=1053&utm_source=git)** | Lynchburg, VA | On Site | Jan 25 |
-| **[FlowTiger](https://www.flowtiger.com/)** | **[UGC Content Creator (TikTok, Instagram)](https://jobright.ai/jobs/info/69753691bc8e722e7b1a27cb?utm_campaign=1053&utm_source=git)** | United States | Remote | Jan 24 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[WABC-TV (ABC7) Digital Intern Summer/Fall 2026](https://jobright.ai/jobs/info/6972267fcda45e69535868c5?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jan 24 |
-| **[iHeartMedia](http://iheartmedia.com)** | **[Podcast Production Intern](https://jobright.ai/jobs/info/693c9d0050bbaf76504fe581?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jan 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
