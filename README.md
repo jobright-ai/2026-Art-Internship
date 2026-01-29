@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hunter Engineering Company](http://www.hunter.com)** | **[Video Editor/Producer Intern](https://jobright.ai/jobs/info/697b84971136d179eeef03b8?utm_campaign=1053&utm_source=git)** | Bridgeton, MO | On Site | Jan 29 |
 | **[David Yurman](http://www.davidyurman.com)** | **[Video Editor Intern, E-Comm](https://jobright.ai/jobs/info/6943736f50bbaf7650556478?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Jan 29 |
 | **[WAVY-TV 10](http://wavy.com)** | **[WAVY Unpaid Hampton Roads Show/Production Intern, Summer Semester 2026](https://jobright.ai/jobs/info/69436d3594730b73987687c4?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Jan 29 |
 | ↳ | **[WAVY Unpaid Sports Intern, Summer Semester 2026](https://jobright.ai/jobs/info/6943686294730b7398768010?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Jan 29 |
@@ -75,10 +76,10 @@ For a complete list, click the following sortable link below:
 | **[University of New Hampshire](https://www.unh.edu)** | **[Poetry Festival Intern](https://jobright.ai/jobs/info/695eae5108ab990f2829f8f3?utm_campaign=1053&utm_source=git)** | Durham, NH | On Site | Jan 28 |
 | **[Salt XC](https://www.saltxc.com/)** | **[Summer Squad - Digital Coordinator](https://jobright.ai/jobs/info/695eb8e008ab990f282a0358?utm_campaign=1053&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 28 |
 | **[NextGen Coding Company](https://www.nextgencodingcompany.com/)** | **[Content Creator Intern (On-Camera UGC / B2B / Enterprise Tech)](https://jobright.ai/jobs/info/697ac6b5f6fc293b0a2cc0ef?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Jan 28 |
-| **[Expressway Cinema Rentals](https://expresswaycine.com/)** | **[The Expressway Cinema Rentals Internship (SUMMER TERM)](https://jobright.ai/jobs/info/697af2411423772304eaeacc?utm_campaign=1053&utm_source=git)** | Rochester, NY | On Site | Jan 28 |
-| ↳ | **[The Expressway Cinema Rentals Internship (SUMMER TERM) - BUFFALO](https://jobright.ai/jobs/info/697af34a17b11b1c2e41d570?utm_campaign=1053&utm_source=git)** | Rochester, NY | On Site | Jan 28 |
-| ↳ | **[The Expressway Cinema Rentals Internship (SUMMER TERM) - ROCHESTER](https://jobright.ai/jobs/info/697ace2bf6fc293b0a2cc695?utm_campaign=1053&utm_source=git)** | Rochester, NY | On Site | Jan 28 |
+| **[Expressway Cinema Rentals](https://expresswaycine.com/)** | **[The Expressway Cinema Rentals Internship (SUMMER TERM) - BUFFALO](https://jobright.ai/jobs/info/697af34a17b11b1c2e41d570?utm_campaign=1053&utm_source=git)** | Rochester, NY | On Site | Jan 28 |
+| ↳ | **[The Expressway Cinema Rentals Internship (SUMMER TERM)](https://jobright.ai/jobs/info/697af2411423772304eaeacc?utm_campaign=1053&utm_source=git)** | Rochester, NY | On Site | Jan 28 |
 | ↳ | **[The Expressway Cinema Rentals Internship (SUMMER TERM)](https://jobright.ai/jobs/info/697acd878dbbf73badc81b89?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Jan 28 |
+| ↳ | **[The Expressway Cinema Rentals Internship (SUMMER TERM) - ROCHESTER](https://jobright.ai/jobs/info/697ace2bf6fc293b0a2cc695?utm_campaign=1053&utm_source=git)** | Rochester, NY | On Site | Jan 28 |
 | **[Schindler Elevator Corporation (U.S.)](http://www.schindler.com)** | **[Film & Media Summer Intern](https://jobright.ai/jobs/info/697ab43a9d60e431a16c56c3?utm_campaign=1053&utm_source=git)** | Holland, OH | On Site | Jan 28 |
 | **[Steve Madden](http://www.stevemadden.com)** | **[Intern - Production, Accessories - NYC](https://jobright.ai/jobs/info/697a8eff9d60e431a16c1b5c?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jan 28 |
 | **[Jennifer Bett Communications](https://www.jenniferbett.com)** | **[Spring 2026 Internship - Beauty Team](https://jobright.ai/jobs/info/697aab0d8dbbf73badc7ebd7?utm_campaign=1053&utm_source=git)** | NYC Metro Area | Hybrid | Jan 28 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Orlando Utilities Commission (OUC - The Reliable One)](https://www.ouc.com/)** | **[Videography Intern- Summer 2026](https://jobright.ai/jobs/info/697842a739f7f96cc6d0988f?utm_campaign=1053&utm_source=git)** | Orlando, FL | Hybrid | Jan 26 |
 | **[Motive Studio](https://www.ea.com/studios/motive)** | **[Lighting Intern](https://jobright.ai/jobs/info/69784a4d88e2b47213bc5fbf?utm_campaign=1053&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Jan 26 |
 | **[Country Music Hall Of Fame and Museum](http://www.countrymusichalloffame.org/)** | **[Summer 2026 Editorial Intern (Paid)](https://jobright.ai/jobs/info/697820fdfdeb8243a27b1514?utm_campaign=1053&utm_source=git)** | Nashville, TN | On Site | Jan 26 |
-| ↳ | **[Summer 2026 Guest Experience Intern (Paid)](https://jobright.ai/jobs/info/6978203588e2b47213bc201d?utm_campaign=1053&utm_source=git)** | Nashville,TN,US | On Site | Jan 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
