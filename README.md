@@ -57,12 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SiriusXM](http://siriusxm.com)** | **[Summer Intern, Music Programming Operations - Miami - Part-Time](https://jobright.ai/jobs/info/697ae43b1423772304eacc22?utm_campaign=1053&utm_source=git)** | Miami Beach, FL | Hybrid | Jan 28 |
+| ↳ | **[Summer Intern, Sports Programming - Part-Time](https://jobright.ai/jobs/info/697ae26817b11b1c2e41b2a0?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Jan 28 |
+| ↳ | **[Summer Intern, Podcast Producer - Part Time](https://jobright.ai/jobs/info/697ae08cc532c4768fe097e6?utm_campaign=1053&utm_source=git)** | New York, United States | Remote | Jan 28 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[CREATIVE/PROMO/PRODUCTION INTERN](https://jobright.ai/jobs/info/697ac710f6fc293b0a2cc140?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jan 28 |
+| **[University of New Hampshire](https://www.unh.edu)** | **[Poetry Festival Intern](https://jobright.ai/jobs/info/695eae5108ab990f2829f8f3?utm_campaign=1053&utm_source=git)** | Durham, NH | On Site | Jan 28 |
+| **[Real Salt Lake](http://realsaltlake.com)** | **[Videography Intern](https://jobright.ai/jobs/info/697aec1d1423772304eae121?utm_campaign=1053&utm_source=git)** | Herriman, UT | On Site | Jan 28 |
 | **[Salt XC](https://www.saltxc.com/)** | **[Summer Squad - Digital Coordinator](https://jobright.ai/jobs/info/695eb8e008ab990f282a0358?utm_campaign=1053&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 28 |
 | **[Six Flags](https://www.sixflags.com)** | **[Show Wardrobe Technician Internship](https://jobright.ai/jobs/info/697ad7f417b11b1c2e41a5be?utm_campaign=1053&utm_source=git)** | Waukegan, IL | On Site | Jan 28 |
+| ↳ | **[Entertainment Event Technician Internship](https://jobright.ai/jobs/info/697ae4c517b11b1c2e41b6dd?utm_campaign=1053&utm_source=git)** | Waukegan, IL | On Site | Jan 28 |
 | **[NextGen Coding Company](https://www.nextgencodingcompany.com/)** | **[Content Creator Intern (On-Camera UGC / B2B / Enterprise Tech)](https://jobright.ai/jobs/info/697ac6b5f6fc293b0a2cc0ef?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Jan 28 |
-| **[Expressway Cinema Rentals](https://expresswaycine.com/)** | **[The Expressway Cinema Rentals Internship (SUMMER TERM)](https://jobright.ai/jobs/info/697acd878dbbf73badc81b89?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Jan 28 |
-| ↳ | **[The Expressway Cinema Rentals Internship (SUMMER TERM) - ROCHESTER](https://jobright.ai/jobs/info/697ace2bf6fc293b0a2cc695?utm_campaign=1053&utm_source=git)** | Rochester, NY | On Site | Jan 28 |
+| **[Expressway Cinema Rentals](https://expresswaycine.com/)** | **[The Expressway Cinema Rentals Internship (SUMMER TERM) - ROCHESTER](https://jobright.ai/jobs/info/697ace2bf6fc293b0a2cc695?utm_campaign=1053&utm_source=git)** | Rochester, NY | On Site | Jan 28 |
+| ↳ | **[The Expressway Cinema Rentals Internship (SUMMER TERM)](https://jobright.ai/jobs/info/697acd878dbbf73badc81b89?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Jan 28 |
 | **[Schindler Elevator Corporation (U.S.)](http://www.schindler.com)** | **[Film & Media Summer Intern](https://jobright.ai/jobs/info/697ab43a9d60e431a16c56c3?utm_campaign=1053&utm_source=git)** | Holland, OH | On Site | Jan 28 |
 | **[Steve Madden](http://www.stevemadden.com)** | **[Intern - Production, Accessories - NYC](https://jobright.ai/jobs/info/697a8eff9d60e431a16c1b5c?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jan 28 |
 | **[Jennifer Bett Communications](https://www.jenniferbett.com)** | **[Spring 2026 Internship - Beauty Team](https://jobright.ai/jobs/info/697aab0d8dbbf73badc7ebd7?utm_campaign=1053&utm_source=git)** | NYC Metro Area | Hybrid | Jan 28 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Los Angeles Rams](https://www.therams.com/)** | **[Video Operations Intern](https://jobright.ai/jobs/info/69781c8088e2b47213bc1bf2?utm_campaign=1053&utm_source=git)** | Woodland Hills, CA | On Site | Jan 26 |
 | **[SAS](http://www.sas.com)** | **[JMP Summer 2026 Internship – Event Production & Design](https://jobright.ai/jobs/info/69781bd9fdeb8243a27b0f8f?utm_campaign=1053&utm_source=git)** | North Carolina | Hybrid | Jan 26 |
 | **[JMP](https://www.jmp.com/en_ph/home.html)** | **[JMP Summer 2026 Internship – Event Production & Design](https://jobright.ai/jobs/info/69781b46fdeb8243a27b0ee9?utm_campaign=1053&utm_source=git)** | Cary HQ, NC, US | Hybrid | Jan 26 |
-| **[Los Angeles Rams](https://www.therams.com/)** | **[Video Operations Intern](https://jobright.ai/jobs/info/69781addfdeb8243a27b0e74?utm_campaign=1053&utm_source=git)** | Woodland Hills,  CA | On Site | Jan 26 |
-| **[Country Music Hall Of Fame and Museum](http://www.countrymusichalloffame.org/)** | **[Summer 2026 Events Intern (Paid)](https://jobright.ai/jobs/info/69781aaf52f3c27ec6444728?utm_campaign=1053&utm_source=git)** | Nashville,TN,US | On Site | Jan 26 |
-| **[DigiKey](https://www.digikey.ca)** | **[Video Production Intern](https://jobright.ai/jobs/info/69783d8b88e2b47213bc4746?utm_campaign=1053&utm_source=git)** | Thief River Falls, MN | Hybrid | Jan 26 |
-| **[Country Music Hall Of Fame and Museum](http://www.countrymusichalloffame.org/)** | **[Summer 2026 Editorial Intern (Paid)](https://jobright.ai/jobs/info/69782253fdeb8243a27b168f?utm_campaign=1053&utm_source=git)** | Nashville,TN,US | On Site | Jan 26 |
-| **[JMP](https://www.jmp.com/en_ph/home.html)** | **[JMP Summer 2026 Internship – Event Production & Design](https://jobright.ai/jobs/info/6978304488e2b47213bc3735?utm_campaign=1053&utm_source=git)** | United States | Remote | Jan 26 |
-| **[SAS](http://www.sas.com)** | **[JMP Summer 2026 Internship – Event Production & Design](https://jobright.ai/jobs/info/6978224d52f3c27ec6444e8b?utm_campaign=1053&utm_source=git)** | United States | Remote | Jan 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
