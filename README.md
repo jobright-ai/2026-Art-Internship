@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SOLV Energy](https://www.solvenergy.com/)** | **[Video Editor & Digital Media Intern](https://jobright.ai/jobs/info/695f49f10badca5763afc667?utm_campaign=1053&utm_source=git)** | San Diego, CA | On Site | Jan 28 |
+| **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[IAE Videography Internship - Spring 2026](https://jobright.ai/jobs/info/697b10ba1423772304eb2024?utm_campaign=1053&utm_source=git)** | Tampa, FL | On Site | Jan 28 |
 | **[SiriusXM](http://siriusxm.com)** | **[Summer Intern, Music Programming Operations - Miami - Part-Time](https://jobright.ai/jobs/info/697ae43b1423772304eacc22?utm_campaign=1053&utm_source=git)** | Miami Beach, FL | Hybrid | Jan 28 |
 | ↳ | **[Summer Intern, Sports Programming - Part-Time](https://jobright.ai/jobs/info/697ae26817b11b1c2e41b2a0?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Jan 28 |
 | ↳ | **[Summer Intern, Podcast Producer - Part Time](https://jobright.ai/jobs/info/697ae08cc532c4768fe097e6?utm_campaign=1053&utm_source=git)** | New York, United States | Remote | Jan 28 |
@@ -67,11 +69,10 @@ For a complete list, click the following sortable link below:
 | **[Real Salt Lake](http://realsaltlake.com)** | **[Videography Intern](https://jobright.ai/jobs/info/697aec1d1423772304eae121?utm_campaign=1053&utm_source=git)** | Herriman, UT | On Site | Jan 28 |
 | **[Salt XC](https://www.saltxc.com/)** | **[Summer Squad - Digital Coordinator](https://jobright.ai/jobs/info/695eb8e008ab990f282a0358?utm_campaign=1053&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 28 |
 | **[Six Flags](https://www.sixflags.com)** | **[Show Wardrobe Technician Internship](https://jobright.ai/jobs/info/697ad7f417b11b1c2e41a5be?utm_campaign=1053&utm_source=git)** | Waukegan, IL | On Site | Jan 28 |
-| ↳ | **[Entertainment Event Technician Internship](https://jobright.ai/jobs/info/697ae4c517b11b1c2e41b6dd?utm_campaign=1053&utm_source=git)** | Waukegan, IL | On Site | Jan 28 |
 | **[NextGen Coding Company](https://www.nextgencodingcompany.com/)** | **[Content Creator Intern (On-Camera UGC / B2B / Enterprise Tech)](https://jobright.ai/jobs/info/697ac6b5f6fc293b0a2cc0ef?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Jan 28 |
-| **[Expressway Cinema Rentals](https://expresswaycine.com/)** | **[The Expressway Cinema Rentals Internship (SUMMER TERM) - ROCHESTER](https://jobright.ai/jobs/info/697ace2bf6fc293b0a2cc695?utm_campaign=1053&utm_source=git)** | Rochester, NY | On Site | Jan 28 |
-| ↳ | **[The Expressway Cinema Rentals Internship (SUMMER TERM)](https://jobright.ai/jobs/info/697acd878dbbf73badc81b89?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Jan 28 |
+| **[Expressway Cinema Rentals](https://expresswaycine.com/)** | **[The Expressway Cinema Rentals Internship (SUMMER TERM)](https://jobright.ai/jobs/info/697acd878dbbf73badc81b89?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Jan 28 |
 | ↳ | **[The Expressway Cinema Rentals Internship (SUMMER TERM) - BUFFALO](https://jobright.ai/jobs/info/697af34a17b11b1c2e41d570?utm_campaign=1053&utm_source=git)** | Rochester, NY | On Site | Jan 28 |
+| ↳ | **[The Expressway Cinema Rentals Internship (SUMMER TERM) - ROCHESTER](https://jobright.ai/jobs/info/697ace2bf6fc293b0a2cc695?utm_campaign=1053&utm_source=git)** | Rochester, NY | On Site | Jan 28 |
 | ↳ | **[The Expressway Cinema Rentals Internship (SUMMER TERM)](https://jobright.ai/jobs/info/697af2411423772304eaeacc?utm_campaign=1053&utm_source=git)** | Rochester, NY | On Site | Jan 28 |
 | **[Schindler Elevator Corporation (U.S.)](http://www.schindler.com)** | **[Film & Media Summer Intern](https://jobright.ai/jobs/info/697ab43a9d60e431a16c56c3?utm_campaign=1053&utm_source=git)** | Holland, OH | On Site | Jan 28 |
 | **[Steve Madden](http://www.stevemadden.com)** | **[Intern - Production, Accessories - NYC](https://jobright.ai/jobs/info/697a8eff9d60e431a16c1b5c?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jan 28 |
@@ -99,12 +100,9 @@ For a complete list, click the following sortable link below:
 | **[InBody USA (BIOSPACE)](http://www.inbody.com/)** | **[Video Production & Editor Intern](https://jobright.ai/jobs/info/697a592ba5b9804527e02a09?utm_campaign=1053&utm_source=git)** | Cerritos, CA | On Site | Jan 28 |
 | **[Gray Media](https://graymedia.com)** | **[GRAY MEDIA FUTURE FOCUS INTERN SPRING '26 - WVUE](https://jobright.ai/jobs/info/697a6ef39d60e431a16bed99?utm_campaign=1053&utm_source=git)** | New Orleans, Louisiana, United States | On Site | Jan 28 |
 | **[Chautauqua Institution](https://www.chq.org)** | **[Internship - Multimedia Journalist (The Chautauquan Daily)/Seasonal Employment](https://jobright.ai/jobs/info/697a6fc38dbbf73badc793e6?utm_campaign=1053&utm_source=git)** | Chautauqua, New York, United States | On Site | Jan 28 |
-| **[County of Riverside](https://rivco.org)** | **[Behavioral Health Friday Night Live (Indio) - Paid Internship](https://jobright.ai/jobs/info/6967a845639b452fb57d3d3c?utm_campaign=1053&utm_source=git)** | Riverside County, CA | On Site | Jan 28 |
-| **[Reaching & Rooted](https://www.reachingandrooted.org/home-page)** | **[Publisher Intern](https://jobright.ai/jobs/info/697a6b1b9d60e431a16be8f7?utm_campaign=1053&utm_source=git)** | United States | Remote | Jan 28 |
 | **[Northstar Travel Group](http://www.NorthstarTravelGroup.com)** | **[Editorial Intern](https://jobright.ai/jobs/info/6973bcda37785856350d918b?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | Jan 28 |
 | **[Major League Baseball (MLB)](https://www.mlb.com)** | **[Intern, Event Operations](https://jobright.ai/jobs/info/6941d397bdcf884a5add8880?utm_campaign=1053&utm_source=git)** | Vero Beach, FL | On Site | Jan 28 |
 | **[Crystal Bridges Museum of American Art](http://crystalbridges.org)** | **[2026 Art Management Intern: Summer (Housing Not Included)](https://jobright.ai/jobs/info/69620f57a112b402661078ab?utm_campaign=1053&utm_source=git)** | Bentonville, AR | On Site | Jan 28 |
-| **[KUTV 2News / KMYU](http://kutv.com/)** | **[Intern - Studio Crew](https://jobright.ai/jobs/info/6979f19eb4589b4ee87c378c?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Jan 28 |
 | **[The Shade Room](https://theshaderoom.com/)** | **[Spring 2026 Intern - TSR Studios](https://jobright.ai/jobs/info/6979dd2fa8de441ca734feff?utm_campaign=1053&utm_source=git)** | Remote (Los Angeles, California, US) | Remote | Jan 28 |
 | ↳ | **[Spring 2026 Intern - Editorial](https://jobright.ai/jobs/info/6979de45a5b9804527dfa4dd?utm_campaign=1053&utm_source=git)** | Remote (Los Angeles, California, US) | Remote | Jan 28 |
 | **[Howard Hughes Medical Institute (HHMI)](http://www.hhmi.org/)** | **[Media Production, Communications, and Outreach Intern – Tangled Bank Studios](https://jobright.ai/jobs/info/695ddd6fe4cdbb1454cfd848?utm_campaign=1053&utm_source=git)** | Chevy Chase, MD | Hybrid | Jan 27 |
@@ -157,4 +155,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 Guest Experience Intern (Paid)](https://jobright.ai/jobs/info/6978203588e2b47213bc201d?utm_campaign=1053&utm_source=git)** | Nashville,TN,US | On Site | Jan 26 |
 | **[JMP](https://www.jmp.com/en_ph/home.html)** | **[JMP Summer 2026 Internship – Event Production & Design](https://jobright.ai/jobs/info/69783c7b52f3c27ec6447754?utm_campaign=1053&utm_source=git)** | Cary, NC | Hybrid | Jan 26 |
 | **[Country Music Hall Of Fame and Museum](http://www.countrymusichalloffame.org/)** | **[Summer 2026 Guest Experience Intern (Paid)](https://jobright.ai/jobs/info/69781e0e88e2b47213bc1db3?utm_campaign=1053&utm_source=git)** | Nashville, TN | On Site | Jan 26 |
+| **[Los Angeles Rams](https://www.therams.com/)** | **[Video Operations Intern](https://jobright.ai/jobs/info/69781c8088e2b47213bc1bf2?utm_campaign=1053&utm_source=git)** | Woodland Hills, CA | On Site | Jan 26 |
+| **[SAS](http://www.sas.com)** | **[JMP Summer 2026 Internship – Event Production & Design](https://jobright.ai/jobs/info/69781bd9fdeb8243a27b0f8f?utm_campaign=1053&utm_source=git)** | North Carolina | Hybrid | Jan 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
