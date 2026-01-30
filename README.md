@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[New Beginnings Global](https://nbcn.live)** | **[Travel Content Operation(Glendale-Onsite)](https://jobright.ai/jobs/info/697c666d137a0510256552b0?utm_campaign=1053&utm_source=git)** | Glendale, CA | On Site | Jan 30 |
+| **[Corcino Productions](http://corcinoproductions.com)** | **[Video Editor](https://jobright.ai/jobs/info/697c63a1137a051025655097?utm_campaign=1053&utm_source=git)** | Anaheim, CA | Hybrid | Jan 29 |
+| **[VettaFi](https://vettafi.com/)** | **[Staff Writer Intern](https://jobright.ai/jobs/info/697c58c2727747250d570a48?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Jan 29 |
+| **[MotoAmerica](https://www.motoamerica.com)** | **[MotoAmerica Social Media Paid Internship](https://jobright.ai/jobs/info/697c4e3b0b88cc7d6423679c?utm_campaign=1053&utm_source=git)** | United States | Remote | Jan 29 |
+| **[Genzest LLC](https://nailphoria.com/)** | **[Livestream Operation intern](https://jobright.ai/jobs/info/697c55c73f57a33569660719?utm_campaign=1053&utm_source=git)** | West Hollywood, CA | On Site | Jan 29 |
 | **[United Wholesale Mortgage](http://uwm.com)** | **[2026 Videography Summer Internship Program](https://jobright.ai/jobs/info/697c0dd91423772304ec5ae3?utm_campaign=1053&utm_source=git)** | US-MI-Pontiac | On Site | Jan 29 |
 | ↳ | **[2026 Videography Summer Internship Program](https://jobright.ai/jobs/info/697c0cfd0b88cc7d6422fa35?utm_campaign=1053&utm_source=git)** | Pontiac, MI | On Site | Jan 29 |
 | **[BCD Meetings & Events](http://www.bcdme.com)** | **[Summer Internship](https://jobright.ai/jobs/info/697c0c220b88cc7d6422f82e?utm_campaign=1053&utm_source=git)** | Austin, TX | Hybrid | Jan 29 |
@@ -77,7 +82,6 @@ For a complete list, click the following sortable link below:
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[KGO-TV (ABC7) Sports Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/697b6dbb1136d179eeeeef7e?utm_campaign=1053&utm_source=git)** | San Francisco, CA | On Site | Jan 29 |
 | **[KUTV 2News / KMYU](http://kutv.com/)** | **[Intern - Studio Crew](https://jobright.ai/jobs/info/697b40031423772304eb65ad?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Jan 29 |
 | **[SOLV Energy](https://www.solvenergy.com/)** | **[Video Editor & Digital Media Intern](https://jobright.ai/jobs/info/695f49f10badca5763afc667?utm_campaign=1053&utm_source=git)** | San Diego, CA | On Site | Jan 28 |
-| **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[IAE Videography Internship - Spring 2026](https://jobright.ai/jobs/info/697b10ba1423772304eb2024?utm_campaign=1053&utm_source=git)** | Tampa, FL | On Site | Jan 28 |
 | **[SiriusXM](http://siriusxm.com)** | **[Summer Intern, Music Programming Operations - Miami - Part-Time](https://jobright.ai/jobs/info/697ae43b1423772304eacc22?utm_campaign=1053&utm_source=git)** | Miami Beach, FL | Hybrid | Jan 28 |
 | ↳ | **[Summer Intern, Sports Programming - Part-Time](https://jobright.ai/jobs/info/697ae26817b11b1c2e41b2a0?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Jan 28 |
 | **[Cincinnati Reds](https://reds.mlb.com/)** | **[Hall of Fame & Museum Game Day Operations Intern](https://jobright.ai/jobs/info/697c49d0ba9f7d5ec9fcc6bc?utm_campaign=1053&utm_source=git)** | Cincinnati, OH | On Site | Jan 28 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 - College Intern - Panama City, FL (Recreation)](https://jobright.ai/jobs/info/6978d5a088e2b47213bcf234?utm_campaign=1053&utm_source=git)** | Panama City, FL | On Site | Jan 27 |
 | **[Quicken Loans](http://www.quickenloans.com/)** | **[Event Facilities Tech Intern - Summer 2026](https://jobright.ai/jobs/info/6978f40e52f3c27ec645376f?utm_campaign=1053&utm_source=git)** | Detroit, MI | On Site | Jan 27 |
 | **[Wolf Trap Foundation for the Performing Arts](https://www.wolftrap.org/)** | **[Intern, Publications (Summer 2026)](https://jobright.ai/jobs/info/6978e21052f3c27ec64521f8?utm_campaign=1053&utm_source=git)** | Wolf Trap HeadQuarters - Vienna, VA 22182 | On Site | Jan 27 |
-| **[Corsair](http://www.corsair.com)** | **[Elgato Video Editing Intern](https://jobright.ai/jobs/info/6940783550bbaf765052777c?utm_campaign=1053&utm_source=git)** | Milpitas, CA | On Site | Jan 27 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Disney Branded Television Original Movies Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/6978b1eb39f7f96cc6d10a6d?utm_campaign=1053&utm_source=git)** | Burbank, CA | On Site | Jan 27 |
-| **[dsm-firmenich](https://www.dsm-firmenich.com)** | **[Summer 2026 Internship: Taste Palette Management Intern (Princeton, NJ)](https://jobright.ai/jobs/info/6978aea939f7f96cc6d109c8?utm_campaign=1053&utm_source=git)** | Princeton, NJ | On Site | Jan 27 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Disney Live Entertainment Costume Support Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/6974c19937785856350ed795?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | Jan 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
