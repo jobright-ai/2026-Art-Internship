@@ -63,6 +63,7 @@ For a complete list, click the following sortable link below:
 | **[University of Missouri-Kansas City](http://www.umkc.edu/)** | **[Up To Date Intern, KCUR - Summer Internship Program, 84314](https://jobright.ai/jobs/info/697c0bde0b88cc7d6422f7bb?utm_campaign=1053&utm_source=git)** | Kansas City, MO | On Site | Jan 29 |
 | ↳ | **[KCUR Studios Intern, KCUR - Summer Internship Program, 72562](https://jobright.ai/jobs/info/697c090b0b88cc7d6422f64b?utm_campaign=1053&utm_source=git)** | Kansas City, MO | On Site | Jan 29 |
 | **[Saint Xavier University](http://www.sxu.edu/)** | **[Xavierite Copy Editor - Student Employment](https://jobright.ai/jobs/info/697c071f0b88cc7d6422f4b2?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Jan 29 |
+| **[United Wholesale Mortgage](http://uwm.com)** | **[2026 Videography Summer Internship Program](https://jobright.ai/jobs/info/697c1db80b88cc7d64231941?utm_campaign=1053&utm_source=git)** | Pontiac, MI, US | On Site | Jan 29 |
 | **[Advisors Excel](http://advisorsexcel.com)** | **[Copy Editor Intern](https://jobright.ai/jobs/info/690ac9914a1b456627b0b5c8?utm_campaign=1053&utm_source=git)** | Topeka Metropolitan Area | On Site | Jan 29 |
 | **[Kendall Hunt Publishing Company](https://www.kendallhunt.com/)** | **[Editorial Assistant Intern](https://jobright.ai/jobs/info/697bb62d0b88cc7d642280d8?utm_campaign=1053&utm_source=git)** | Dubuque, IA | On Site | Jan 29 |
 | **[Outlyr](http://eigermarketing.com/)** | **[Special Events Intern (MAVRK)](https://jobright.ai/jobs/info/697bd9a81136d179eeef6b0b?utm_campaign=1053&utm_source=git)** | Dallas, TX | Hybrid | Jan 29 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Disney Live Entertainment Costume Support Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/6974c19937785856350ed795?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | Jan 27 |
 | **[Ellucian](http://www.ellucian.com)** | **[AI Video Internship (Undergraduate)](https://jobright.ai/jobs/info/6977e29c52f3c27ec6440a9c?utm_campaign=1053&utm_source=git)** | Reston, VA | Hybrid | Jan 27 |
 | **[Corsair](http://www.corsair.com)** | **[Creative Video/Paid Social Intern](https://jobright.ai/jobs/info/69406eb649a7695fbd05f036?utm_campaign=1053&utm_source=git)** | Milpitas, CA | On Site | Jan 27 |
-| **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Development Intern - LN Studios](https://jobright.ai/jobs/info/695c55a3aa05c26e7ab5bf49?utm_campaign=1053&utm_source=git)** | Beverly Hills, CA | Hybrid | Jan 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
