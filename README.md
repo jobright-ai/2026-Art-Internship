@@ -57,9 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sun Sentinel Media Group](http://www.sun-sentinel.com)** | **[Intern](https://jobright.ai/jobs/info/697d23dd727747250d57dd71?utm_campaign=1053&utm_source=git)** | Deerfield Beach, FL | On Site | Jan 30 |
+| **[Novo Nordisk](https://www.novonordisk.com)** | **[Internship - Production and Events](https://jobright.ai/jobs/info/697d1a33727747250d57d2d7?utm_campaign=1053&utm_source=git)** | Plainsboro, NJ | On Site | Jan 30 |
 | **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[IAE Videography Internship - Spring 2026](https://jobright.ai/jobs/info/697d10d23f57a3356966c578?utm_campaign=1053&utm_source=git)** | Tampa, FL | On Site | Jan 30 |
 | **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[Her Campus News & Politics Editorial Intern - Spring 2026](https://jobright.ai/jobs/info/697d105a137a051025660546?utm_campaign=1053&utm_source=git)** | United States | Remote | Jan 30 |
-| **[Monumental Sports & Entertainment](http://www.monumentalsports.com/)** | **[Internship: Game Presentation (Part-Time/Seasonal)](https://jobright.ai/jobs/info/697ce292137a05102565cdcb?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Jan 30 |
+| **[Monumental Sports & Entertainment](http://www.monumentalsports.com/)** | **[Internship: Game Presentation (Part-Time/Seasonal)](https://jobright.ai/jobs/info/697d1b8f727747250d57d47d?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Jan 30 |
+| ↳ | **[Internship: Video Editor (Part-Time/Seasonal)](https://jobright.ai/jobs/info/697d1a1e727747250d57d2be?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Jan 30 |
+| ↳ | **[Internship: Productions (Part-Time/Seasonal)](https://jobright.ai/jobs/info/697d153a727747250d57cc9e?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Jan 30 |
 | ↳ | **[Internship: Video Editor (Part-Time/Seasonal)](https://jobright.ai/jobs/info/697ce0a83f57a33569668b5e?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Jan 30 |
 | ↳ | **[Internship: Productions (Part-Time/Seasonal)](https://jobright.ai/jobs/info/697ce0603f57a33569668b29?utm_campaign=1053&utm_source=git)** | Washington, DC 20004 | On Site | Jan 30 |
 | **[MotoAmerica](https://www.motoamerica.com)** | **[MotoAmerica Social Media Paid Internship](https://jobright.ai/jobs/info/697cda843f57a3356966882b?utm_campaign=1053&utm_source=git)** | United States | Remote | Jan 30 |
@@ -103,9 +107,9 @@ For a complete list, click the following sortable link below:
 | **[Salt XC](https://www.saltxc.com/)** | **[Summer Squad - Digital Coordinator](https://jobright.ai/jobs/info/695eb8e008ab990f282a0358?utm_campaign=1053&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 28 |
 | **[NextGen Coding Company](https://www.nextgencodingcompany.com/)** | **[Content Creator Intern (On-Camera UGC / B2B / Enterprise Tech)](https://jobright.ai/jobs/info/697ac6b5f6fc293b0a2cc0ef?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Jan 28 |
 | **[Expressway Cinema Rentals](https://expresswaycine.com/)** | **[The Expressway Cinema Rentals Internship (SUMMER TERM) - BUFFALO](https://jobright.ai/jobs/info/697af34a17b11b1c2e41d570?utm_campaign=1053&utm_source=git)** | Rochester, NY | On Site | Jan 28 |
+| ↳ | **[The Expressway Cinema Rentals Internship (SUMMER TERM) - ROCHESTER](https://jobright.ai/jobs/info/697ace2bf6fc293b0a2cc695?utm_campaign=1053&utm_source=git)** | Rochester, NY | On Site | Jan 28 |
 | ↳ | **[The Expressway Cinema Rentals Internship (SUMMER TERM)](https://jobright.ai/jobs/info/697acd878dbbf73badc81b89?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Jan 28 |
 | ↳ | **[The Expressway Cinema Rentals Internship (SUMMER TERM)](https://jobright.ai/jobs/info/697af2411423772304eaeacc?utm_campaign=1053&utm_source=git)** | Rochester, NY | On Site | Jan 28 |
-| ↳ | **[The Expressway Cinema Rentals Internship (SUMMER TERM) - ROCHESTER](https://jobright.ai/jobs/info/697ace2bf6fc293b0a2cc695?utm_campaign=1053&utm_source=git)** | Rochester, NY | On Site | Jan 28 |
 | **[Schindler Elevator Corporation (U.S.)](http://www.schindler.com)** | **[Film & Media Summer Intern](https://jobright.ai/jobs/info/697ab43a9d60e431a16c56c3?utm_campaign=1053&utm_source=git)** | Holland, OH | On Site | Jan 28 |
 | **[Steve Madden](http://www.stevemadden.com)** | **[Intern - Production, Accessories - NYC](https://jobright.ai/jobs/info/697a8eff9d60e431a16c1b5c?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jan 28 |
 | **[Jennifer Bett Communications](https://www.jenniferbett.com)** | **[Spring 2026 Internship - Beauty Team](https://jobright.ai/jobs/info/697aab0d8dbbf73badc7ebd7?utm_campaign=1053&utm_source=git)** | NYC Metro Area | Hybrid | Jan 28 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Summer Intern, Experiential Events](https://jobright.ai/jobs/info/69793c7188e2b47213bd689e?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Jan 27 |
 | **[Ascension](https://www.ascensionpress.com)** | **[Publication Development Intern](https://jobright.ai/jobs/info/697950e152f3c27ec645b377?utm_campaign=1053&utm_source=git)** | United States | Remote | Jan 27 |
 | **[American Public Media Group](https://fitzgeraldtheater.publicradio.org)** | **[Intern, Investigative Reporting – APM Reports](https://jobright.ai/jobs/info/69792dc939f7f96cc6d190c0?utm_campaign=1053&utm_source=git)** | St Paul, MN | Hybrid | Jan 27 |
-| **[Rock Events](https://rockevents.com/)** | **[Event Facilities Tech Intern - Summer 2026](https://jobright.ai/jobs/info/69793de552f3c27ec645937b?utm_campaign=1053&utm_source=git)** | Detroit, MI | On Site | Jan 27 |
-| **[Texas Department of Transportation](https://www.txdot.gov)** | **[Texas Highways Editorial Intern](https://jobright.ai/jobs/info/69791c1e39f7f96cc6d17962?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | Jan 27 |
-| **[Motorola Solutions](http://www.motorolasolutions.com)** | **[Video Editor - 2026 Summer Internship](https://jobright.ai/jobs/info/69793c5c39f7f96cc6d1ad1f?utm_campaign=1053&utm_source=git)** | Chicago, IL | Hybrid | Jan 27 |
-| **[Children's Hospital of Philadelphia](http://chop.edu)** | **[Patient Media and Broadcasting Intern](https://jobright.ai/jobs/info/6979136788e2b47213bd2e6d?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Jan 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
