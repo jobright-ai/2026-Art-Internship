@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[Spoon University Editorial Intern - Spring 2026](https://jobright.ai/jobs/info/697e4fb7ce48107c054281a2?utm_campaign=1053&utm_source=git)** | United States | Remote | Jan 31 |
+| **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[IAE Videography Internship - Spring 2026](https://jobright.ai/jobs/info/697e4a32abff4c399a9d0933?utm_campaign=1053&utm_source=git)** | Tampa, FL | On Site | Jan 31 |
+| **[dimenso.ai](https://www.dimenso.ai)** | **[Video Content & AI Creation Intern](https://jobright.ai/jobs/info/697e42face48107c05427f94?utm_campaign=1053&utm_source=git)** | Cambridge, MA | On Site | Jan 31 |
 | **[Encore](https://www.encoreglobal.com/)** | **[Event Technology Internship (Spring semester)- JW Marriott Marco Island Resort](https://jobright.ai/jobs/info/697e3a92ce48107c05427ea6?utm_campaign=1053&utm_source=git)** | Marco Island, FL | On Site | Jan 31 |
 | ↳ | **[Event Technology Internship (Spring semester)-Hyatt Regency Bonita Springs](https://jobright.ai/jobs/info/697e3a64ce48107c05427e99?utm_campaign=1053&utm_source=git)** | Bonita Springs, FL | On Site | Jan 31 |
 | **[iHeartMedia](http://iheartmedia.com)** | **[Elvis Duran Morning Show Intern](https://jobright.ai/jobs/info/682b8a0023335c4e00281de0?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jan 31 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[CPL](https://cplteam.com/locations)** | **[Placemaking Intern](https://jobright.ai/jobs/info/697a6640f6fc293b0a2c35b2?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Jan 28 |
 | **[Gray Media](https://graymedia.com)** | **[GRAY MEDIA FUTURE FOCUS INTERN SPRING '26 - WVUE](https://jobright.ai/jobs/info/697a84bc9d60e431a16c08e5?utm_campaign=1053&utm_source=git)** | New Orleans, LA | On Site | Jan 28 |
 | **[InBody USA (BIOSPACE)](http://www.inbody.com/)** | **[Video Production & Editor Intern](https://jobright.ai/jobs/info/697a592ba5b9804527e02a09?utm_campaign=1053&utm_source=git)** | Cerritos, CA | On Site | Jan 28 |
-| **[Gray Media](https://graymedia.com)** | **[GRAY MEDIA FUTURE FOCUS INTERN SPRING '26 - WVUE](https://jobright.ai/jobs/info/697a6ef39d60e431a16bed99?utm_campaign=1053&utm_source=git)** | New Orleans, Louisiana, United States | On Site | Jan 28 |
-| **[Chautauqua Institution](https://www.chq.org)** | **[Internship - Multimedia Journalist (The Chautauquan Daily)/Seasonal Employment](https://jobright.ai/jobs/info/697a6fc38dbbf73badc793e6?utm_campaign=1053&utm_source=git)** | Chautauqua, New York, United States | On Site | Jan 28 |
-| **[Northstar Travel Group](http://www.NorthstarTravelGroup.com)** | **[Editorial Intern](https://jobright.ai/jobs/info/6973bcda37785856350d918b?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | Jan 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
