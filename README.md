@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CBS News and Stations](http://www.cbs.com)** | **[CBS News Intern, KCNC Denver (Summer 2026)](https://jobright.ai/jobs/info/6945b0aa951654073537cb18?utm_campaign=1053&utm_source=git)** | Denver, CO | On Site | Jan 31 |
+| **[Paramount](https://www.paramount.com)** | **[CBS Sports Production and Production Management Internships (Summer 2026, In Person - NYC)](https://jobright.ai/jobs/info/6945fb6b63141d18845598ea?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jan 31 |
 | **[Ripple Effect Studios](https://www.ea.com/ea-studios/ripple-effect)** | **[Production Intern](https://jobright.ai/jobs/info/697d78c03f57a335696762ba?utm_campaign=1053&utm_source=git)** | Greater Vancouver Metropolitan Area | Hybrid | Jan 30 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[ABC News Medical Unit Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/697d6eb83f57a33569675378?utm_campaign=1053&utm_source=git)** | New York, NY, USA | On Site | Jan 30 |
 | **[Real Chemistry](https://www.realchemistry.com)** | **[2026 Summer Intern (Creative Production)](https://jobright.ai/jobs/info/697d6d793f57a33569675257?utm_campaign=1053&utm_source=git)** | Water Street - New York | Hybrid | Jan 30 |
@@ -76,7 +78,6 @@ For a complete list, click the following sortable link below:
 | **[Novo Nordisk](https://www.novonordisk.com)** | **[Internship - Production and Events](https://jobright.ai/jobs/info/697d26e7727747250d57e3f3?utm_campaign=1053&utm_source=git)** | Plainsboro, NJ, US | On Site | Jan 30 |
 | **[Sun Sentinel Media Group](http://www.sun-sentinel.com)** | **[Intern](https://jobright.ai/jobs/info/697d23dd727747250d57dd71?utm_campaign=1053&utm_source=git)** | Deerfield Beach, FL | On Site | Jan 30 |
 | **[Novo Nordisk](https://www.novonordisk.com)** | **[Internship - Production and Events](https://jobright.ai/jobs/info/697d1a33727747250d57d2d7?utm_campaign=1053&utm_source=git)** | Plainsboro, NJ | On Site | Jan 30 |
-| **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[IAE Videography Internship - Spring 2026](https://jobright.ai/jobs/info/697d10d23f57a3356966c578?utm_campaign=1053&utm_source=git)** | Tampa, FL | On Site | Jan 30 |
 | **[Monumental Sports & Entertainment](http://www.monumentalsports.com/)** | **[Internship: Game Presentation (Part-Time/Seasonal)](https://jobright.ai/jobs/info/697d1b8f727747250d57d47d?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Jan 30 |
 | ↳ | **[Internship: Video Editor (Part-Time/Seasonal)](https://jobright.ai/jobs/info/697d1a1e727747250d57d2be?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Jan 30 |
 | ↳ | **[Internship: Productions (Part-Time/Seasonal)](https://jobright.ai/jobs/info/697d153a727747250d57cc9e?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Jan 30 |
@@ -120,10 +121,10 @@ For a complete list, click the following sortable link below:
 | **[University of New Hampshire](https://www.unh.edu)** | **[Poetry Festival Intern](https://jobright.ai/jobs/info/695eae5108ab990f2829f8f3?utm_campaign=1053&utm_source=git)** | Durham, NH | On Site | Jan 28 |
 | **[Salt XC](https://www.saltxc.com/)** | **[Summer Squad - Digital Coordinator](https://jobright.ai/jobs/info/695eb8e008ab990f282a0358?utm_campaign=1053&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 28 |
 | **[NextGen Coding Company](https://www.nextgencodingcompany.com/)** | **[Content Creator Intern (On-Camera UGC / B2B / Enterprise Tech)](https://jobright.ai/jobs/info/697ac6b5f6fc293b0a2cc0ef?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Jan 28 |
-| **[Expressway Cinema Rentals](https://expresswaycine.com/)** | **[The Expressway Cinema Rentals Internship (SUMMER TERM) - ROCHESTER](https://jobright.ai/jobs/info/697ace2bf6fc293b0a2cc695?utm_campaign=1053&utm_source=git)** | Rochester, NY | On Site | Jan 28 |
-| ↳ | **[The Expressway Cinema Rentals Internship (SUMMER TERM)](https://jobright.ai/jobs/info/697acd878dbbf73badc81b89?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Jan 28 |
-| ↳ | **[The Expressway Cinema Rentals Internship (SUMMER TERM)](https://jobright.ai/jobs/info/697af2411423772304eaeacc?utm_campaign=1053&utm_source=git)** | Rochester, NY | On Site | Jan 28 |
+| **[Expressway Cinema Rentals](https://expresswaycine.com/)** | **[The Expressway Cinema Rentals Internship (SUMMER TERM)](https://jobright.ai/jobs/info/697af2411423772304eaeacc?utm_campaign=1053&utm_source=git)** | Rochester, NY | On Site | Jan 28 |
 | ↳ | **[The Expressway Cinema Rentals Internship (SUMMER TERM) - BUFFALO](https://jobright.ai/jobs/info/697af34a17b11b1c2e41d570?utm_campaign=1053&utm_source=git)** | Rochester, NY | On Site | Jan 28 |
+| ↳ | **[The Expressway Cinema Rentals Internship (SUMMER TERM) - ROCHESTER](https://jobright.ai/jobs/info/697ace2bf6fc293b0a2cc695?utm_campaign=1053&utm_source=git)** | Rochester, NY | On Site | Jan 28 |
+| ↳ | **[The Expressway Cinema Rentals Internship (SUMMER TERM)](https://jobright.ai/jobs/info/697acd878dbbf73badc81b89?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Jan 28 |
 | **[Schindler Elevator Corporation (U.S.)](http://www.schindler.com)** | **[Film & Media Summer Intern](https://jobright.ai/jobs/info/697ab43a9d60e431a16c56c3?utm_campaign=1053&utm_source=git)** | Holland, OH | On Site | Jan 28 |
 | **[Steve Madden](http://www.stevemadden.com)** | **[Intern - Production, Accessories - NYC](https://jobright.ai/jobs/info/697a8eff9d60e431a16c1b5c?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jan 28 |
 | **[Jennifer Bett Communications](https://www.jenniferbett.com)** | **[Spring 2026 Internship - Beauty Team](https://jobright.ai/jobs/info/697aab0d8dbbf73badc7ebd7?utm_campaign=1053&utm_source=git)** | NYC Metro Area | Hybrid | Jan 28 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Spring 2026 Intern - Editorial](https://jobright.ai/jobs/info/6979de45a5b9804527dfa4dd?utm_campaign=1053&utm_source=git)** | Remote (Los Angeles, California, US) | Remote | Jan 28 |
 | **[Howard Hughes Medical Institute (HHMI)](http://www.hhmi.org/)** | **[Media Production, Communications, and Outreach Intern – Tangled Bank Studios](https://jobright.ai/jobs/info/695ddd6fe4cdbb1454cfd848?utm_campaign=1053&utm_source=git)** | Chevy Chase, MD | Hybrid | Jan 27 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Fan Page / Digital Intern](https://jobright.ai/jobs/info/6979aa0fca92cf0d6a82f639?utm_campaign=1053&utm_source=git)** | Knoxville Metro | On Site | Jan 27 |
-| **[Knights of Columbus](http://www.kofc.org)** | **[Archives Intern](https://jobright.ai/jobs/info/697985cbca92cf0d6a82ae89?utm_campaign=1053&utm_source=git)** | New Haven, CT | On Site | Jan 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
