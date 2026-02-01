@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CoPatible](https://copatible.com)** | **[Content Creator Intern](https://jobright.ai/jobs/info/697ec11ece48107c0542d813?utm_campaign=1053&utm_source=git)** | United States | Remote | Jan 31 |
 | **[John Michael Kohler Arts Center](https://jmkac.org)** | **[PERFORMING ARTS Summer 2026 Internship](https://jobright.ai/jobs/info/697eadc07f40342e15d76ce2?utm_campaign=1053&utm_source=git)** | Sheboygan, WI | On Site | Jan 31 |
 | ↳ | **[SPECIAL EVENTS Summer 2026 Internship](https://jobright.ai/jobs/info/697eb6a8ce48107c0542d475?utm_campaign=1053&utm_source=git)** | Sheboygan, WI | On Site | Jan 31 |
 | **[A1R](www.a1r.us)** | **[Video Editor Intern (Summer/Fall 2026)](https://jobright.ai/jobs/info/697e7faeabff4c399a9d382a?utm_campaign=1053&utm_source=git)** | United States | Remote | Jan 31 |
@@ -75,6 +76,7 @@ For a complete list, click the following sortable link below:
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[ABC News Medical Unit Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/697d6eb83f57a33569675378?utm_campaign=1053&utm_source=git)** | New York, NY, USA | On Site | Jan 30 |
 | **[Real Chemistry](https://www.realchemistry.com)** | **[2026 Summer Intern (Creative Production)](https://jobright.ai/jobs/info/697d6d793f57a33569675257?utm_campaign=1053&utm_source=git)** | Water Street - New York | Hybrid | Jan 30 |
 | **[Gray Media](https://graymedia.com)** | **[GRAY MEDIA FUTURE FOCUS INTERN SPRING/SUMMER '26 - WSAW](https://jobright.ai/jobs/info/697d6b7d727747250d585062?utm_campaign=1053&utm_source=git)** | Wausau, WI | On Site | Jan 30 |
+| **[Kendall Hunt Publishing Company](https://www.kendallhunt.com/)** | **[Editorial Assistant Intern](https://jobright.ai/jobs/info/697ec6bfabff4c399a9d67d7?utm_campaign=1053&utm_source=git)** | Dubuque, IA | On Site | Jan 30 |
 | **[ease](easeradio.com)** | **[FALL 2025 OPERATIONS AND PRODUCTIONS INTERN](https://jobright.ai/jobs/info/697d6487137a05102566856b?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | Jan 30 |
 | **[Encore](https://www.encoreglobal.com/)** | **[Event Technology Internship (Spring semester)- JW Marriott Marco Island Resort](https://jobright.ai/jobs/info/697d64493f57a3356967468e?utm_campaign=1053&utm_source=git)** | Marco Island, Florida, United States | On Site | Jan 30 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[KABC-TV (ABC7) Assignment Desk Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/697d629f137a0510256682c6?utm_campaign=1053&utm_source=git)** | Glendale, CA, USA | On Site | Jan 30 |
@@ -132,10 +134,10 @@ For a complete list, click the following sortable link below:
 | **[University of New Hampshire](https://innovation.unh.edu/)** | **[Poetry Festival Intern](https://jobright.ai/jobs/info/695eae5108ab990f2829f8f3?utm_campaign=1053&utm_source=git)** | Durham, NH | On Site | Jan 28 |
 | **[Salt XC](https://www.saltxc.com/)** | **[Summer Squad - Digital Coordinator](https://jobright.ai/jobs/info/695eb8e008ab990f282a0358?utm_campaign=1053&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 28 |
 | **[NextGen Coding Company](https://www.nextgencodingcompany.com/)** | **[Content Creator Intern (On-Camera UGC / B2B / Enterprise Tech)](https://jobright.ai/jobs/info/697ac6b5f6fc293b0a2cc0ef?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Jan 28 |
-| **[Expressway Cinema Rentals](https://expresswaycine.com/)** | **[The Expressway Cinema Rentals Internship (SUMMER TERM)](https://jobright.ai/jobs/info/697af2411423772304eaeacc?utm_campaign=1053&utm_source=git)** | Rochester, NY | On Site | Jan 28 |
-| ↳ | **[The Expressway Cinema Rentals Internship (SUMMER TERM) - BUFFALO](https://jobright.ai/jobs/info/697af34a17b11b1c2e41d570?utm_campaign=1053&utm_source=git)** | Rochester, NY | On Site | Jan 28 |
+| **[Expressway Cinema Rentals](https://expresswaycine.com/)** | **[The Expressway Cinema Rentals Internship (SUMMER TERM) - BUFFALO](https://jobright.ai/jobs/info/697af34a17b11b1c2e41d570?utm_campaign=1053&utm_source=git)** | Rochester, NY | On Site | Jan 28 |
 | ↳ | **[The Expressway Cinema Rentals Internship (SUMMER TERM)](https://jobright.ai/jobs/info/697acd878dbbf73badc81b89?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Jan 28 |
 | ↳ | **[The Expressway Cinema Rentals Internship (SUMMER TERM) - ROCHESTER](https://jobright.ai/jobs/info/697ace2bf6fc293b0a2cc695?utm_campaign=1053&utm_source=git)** | Rochester, NY | On Site | Jan 28 |
+| ↳ | **[The Expressway Cinema Rentals Internship (SUMMER TERM)](https://jobright.ai/jobs/info/697af2411423772304eaeacc?utm_campaign=1053&utm_source=git)** | Rochester, NY | On Site | Jan 28 |
 | **[Schindler Elevator Corporation (U.S.)](http://www.schindler.com)** | **[Film & Media Summer Intern](https://jobright.ai/jobs/info/697ab43a9d60e431a16c56c3?utm_campaign=1053&utm_source=git)** | Holland, OH | On Site | Jan 28 |
 | **[Steve Madden](http://www.stevemadden.com)** | **[Intern - Production, Accessories - NYC](https://jobright.ai/jobs/info/697a8eff9d60e431a16c1b5c?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jan 28 |
 | **[Jennifer Bett Communications](https://www.jenniferbett.com)** | **[Spring 2026 Internship - Beauty Team](https://jobright.ai/jobs/info/697aab0d8dbbf73badc7ebd7?utm_campaign=1053&utm_source=git)** | NYC Metro Area | Hybrid | Jan 28 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Intern, Talk Programming - Part-Time](https://jobright.ai/jobs/info/697a9725f6fc293b0a2c7cc4?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Jan 28 |
 | ↳ | **[Summer Intern, Music Programming Operations - Nashville - Part-Time](https://jobright.ai/jobs/info/697a97c78dbbf73badc7d238?utm_campaign=1053&utm_source=git)** | Nashville, TN | On Site | Jan 28 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[CREATIVE/PROMO/PRODUCTION INTERN](https://jobright.ai/jobs/info/697a958a9d60e431a16c2928?utm_campaign=1053&utm_source=git)** | NY, New York | On Site | Jan 28 |
-| **[Giant Spoon](http://giantspoon.com/)** | **[Content Production Intern (Summer)](https://jobright.ai/jobs/info/697a6a318dbbf73badc78d59?utm_campaign=1053&utm_source=git)** | New York | Hybrid | Jan 28 |
-| **[CPL](https://cplteam.com/locations)** | **[Placemaking Intern](https://jobright.ai/jobs/info/697a6640f6fc293b0a2c35b2?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Jan 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
