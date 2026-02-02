@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[City Explorer - Live Streaming Hub](https://cityexplorer.live/)** | **[Live Streaming Internship](https://jobright.ai/jobs/info/698027edabff4c399a9ed5c2?utm_campaign=1053&utm_source=git)** | NYC Metro Area | Remote | Feb 01 |
 | **[Warner Bros. Discovery](https://wbd.com)** | **[Warner Bros. Animation Business Operations Intern: LA - Summer 2026](https://jobright.ai/jobs/info/69800ceaabff4c399a9ec1d4?utm_campaign=1053&utm_source=git)** | Burbank, CA | Hybrid | Feb 01 |
 | **[Loudoun United Football Club](https://www.loudoununitedfc.com/)** | **[Videographer and Content Creation](https://jobright.ai/jobs/info/69800351ce48107c05442f25?utm_campaign=1053&utm_source=git)** | Leesburg, VA | On Site | Feb 01 |
 | **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[Spoon University Editorial Intern - Spring 2026](https://jobright.ai/jobs/info/697fa17fabff4c399a9e345a?utm_campaign=1053&utm_source=git)** | United States | Remote | Feb 01 |
@@ -136,10 +137,10 @@ For a complete list, click the following sortable link below:
 | **[University of New Hampshire](https://www.unh.edu)** | **[Poetry Festival Intern](https://jobright.ai/jobs/info/695eae5108ab990f2829f8f3?utm_campaign=1053&utm_source=git)** | Durham, NH | On Site | Jan 28 |
 | **[Salt XC](https://www.saltxc.com/)** | **[Summer Squad - Digital Coordinator](https://jobright.ai/jobs/info/695eb8e008ab990f282a0358?utm_campaign=1053&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 28 |
 | **[NextGen Coding Company](https://www.nextgencodingcompany.com/)** | **[Content Creator Intern (On-Camera UGC / B2B / Enterprise Tech)](https://jobright.ai/jobs/info/697ac6b5f6fc293b0a2cc0ef?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Jan 28 |
-| **[Expressway Cinema Rentals](https://expresswaycine.com/)** | **[The Expressway Cinema Rentals Internship (SUMMER TERM)](https://jobright.ai/jobs/info/697acd878dbbf73badc81b89?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Jan 28 |
-| ↳ | **[The Expressway Cinema Rentals Internship (SUMMER TERM) - BUFFALO](https://jobright.ai/jobs/info/697af34a17b11b1c2e41d570?utm_campaign=1053&utm_source=git)** | Rochester, NY | On Site | Jan 28 |
+| **[Expressway Cinema Rentals](https://expresswaycine.com/)** | **[The Expressway Cinema Rentals Internship (SUMMER TERM) - BUFFALO](https://jobright.ai/jobs/info/697af34a17b11b1c2e41d570?utm_campaign=1053&utm_source=git)** | Rochester, NY | On Site | Jan 28 |
 | ↳ | **[The Expressway Cinema Rentals Internship (SUMMER TERM) - ROCHESTER](https://jobright.ai/jobs/info/697ace2bf6fc293b0a2cc695?utm_campaign=1053&utm_source=git)** | Rochester, NY | On Site | Jan 28 |
 | ↳ | **[The Expressway Cinema Rentals Internship (SUMMER TERM)](https://jobright.ai/jobs/info/697af2411423772304eaeacc?utm_campaign=1053&utm_source=git)** | Rochester, NY | On Site | Jan 28 |
+| ↳ | **[The Expressway Cinema Rentals Internship (SUMMER TERM)](https://jobright.ai/jobs/info/697acd878dbbf73badc81b89?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Jan 28 |
 | **[Schindler Elevator Corporation (U.S.)](http://www.schindler.com)** | **[Film & Media Summer Intern](https://jobright.ai/jobs/info/697ab43a9d60e431a16c56c3?utm_campaign=1053&utm_source=git)** | Holland, OH | On Site | Jan 28 |
 | **[Steve Madden](http://www.stevemadden.com)** | **[Intern - Production, Accessories - NYC](https://jobright.ai/jobs/info/697a8eff9d60e431a16c1b5c?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jan 28 |
 | **[Jennifer Bett Communications](https://www.jenniferbett.com)** | **[Spring 2026 Internship - Beauty Team](https://jobright.ai/jobs/info/697aab0d8dbbf73badc7ebd7?utm_campaign=1053&utm_source=git)** | NYC Metro Area | Hybrid | Jan 28 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Intern, Pandora Curation - Part-Time](https://jobright.ai/jobs/info/697a9d4ff6fc293b0a2c852c?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Jan 28 |
 | ↳ | **[Summer Intern, Music Programming Operations LA - Part-Time](https://jobright.ai/jobs/info/697a93889d60e431a16c24db?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | Jan 28 |
 | ↳ | **[Summer Intern, Music Programming Operations - DC - Part-Time](https://jobright.ai/jobs/info/697a94f1f6fc293b0a2c77d1?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Jan 28 |
-| ↳ | **[Summer Intern, Talk Programming - Part-Time](https://jobright.ai/jobs/info/697a9725f6fc293b0a2c7cc4?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Jan 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
