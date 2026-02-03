@@ -57,6 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Christian Louboutin](http://us.christianlouboutin.com/ot_en/)** | **[Press Intern, Spring 2026 - NYC](https://jobright.ai/jobs/info/6981318949964d25b5e413f4?utm_campaign=1053&utm_source=git)** | NYC Metro Area | On Site | Feb 02 |
+| **[WME | William Morris Endeavor](https://www.wmeagency.com)** | **[Intern, Literary Media](https://jobright.ai/jobs/info/69812ec849964d25b5e40d69?utm_campaign=1053&utm_source=git)** | Beverly Hills, CA | On Site | Feb 02 |
+| **[TKO](https://tkogrp.com)** | **[Intern - Spanish Production Intern, UFC](https://jobright.ai/jobs/info/69812d5549964d25b5e409df?utm_campaign=1053&utm_source=git)** | Las Vegas, NV | On Site | Feb 02 |
+| ↳ | **[Intern - FIght Pass Intern, UFC](https://jobright.ai/jobs/info/69812cea49964d25b5e408a6?utm_campaign=1053&utm_source=git)** | Las Vegas, NV - UFC Headquarters | On Site | Feb 02 |
+| **[KUTV 2News / KMYU](http://kutv.com/)** | **[Intern - Studio Crew](https://jobright.ai/jobs/info/69812bb4abff4c399aa00a0a?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Feb 02 |
+| **[TKO](https://tkogrp.com)** | **[Intern – Live Production Intern, UFC](https://jobright.ai/jobs/info/69812a66abff4c399aa005f3?utm_campaign=1053&utm_source=git)** | Las Vegas, NV | On Site | Feb 02 |
+| ↳ | **[Intern - Originals Production Intern, UFC](https://jobright.ai/jobs/info/6981295a49964d25b5e3fe70?utm_campaign=1053&utm_source=git)** | Las Vegas, NV - UFC Headquarters | On Site | Feb 02 |
+| **[Reaching & Rooted](https://www.reachingandrooted.org/home-page)** | **[Publishing Intern](https://jobright.ai/jobs/info/6981210249964d25b5e3eff7?utm_campaign=1053&utm_source=git)** | United States | Remote | Feb 02 |
+| **[TKO](https://tkogrp.com)** | **[Intern - Digital Media YouTube Intern, UFC](https://jobright.ai/jobs/info/69812de4abff4c399aa00fec?utm_campaign=1053&utm_source=git)** | Las Vegas, NV - UFC Headquarters | On Site | Feb 02 |
 | **[Gray Media](https://graymedia.com)** | **[GRAY MEDIA FUTURE FOCUS INTERN SUMMER '26 - WRDW/WAGT](https://jobright.ai/jobs/info/69810a5249964d25b5e3d87f?utm_campaign=1053&utm_source=git)** | Augusta, GA | On Site | Feb 02 |
 | **[Coastal Carolina University](http://www.coastal.edu/)** | **[Production Assistant (Student Employee)](https://jobright.ai/jobs/info/69162771286ccf0a15132e6c?utm_campaign=1053&utm_source=git)** | Conway, SC | On Site | Feb 02 |
 | **[NBCUniversal](https://www.nbcuniversal.com/)** | **[Telemundo62-Digital News Intern Summer 2026](https://jobright.ai/jobs/info/69740de137785856350df3db?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Feb 02 |
@@ -148,13 +157,4 @@ For a complete list, click the following sortable link below:
 | **[David Yurman](http://www.davidyurman.com)** | **[Video Editor Intern, E-Comm](https://jobright.ai/jobs/info/6943736f50bbaf7650556478?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Jan 29 |
 | **[WAVY-TV 10](http://wavy.com)** | **[WAVY Unpaid Hampton Roads Show/Production Intern, Summer Semester 2026](https://jobright.ai/jobs/info/69436d3594730b73987687c4?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Jan 29 |
 | ↳ | **[WAVY Unpaid Sports Intern, Summer Semester 2026](https://jobright.ai/jobs/info/6943686294730b7398768010?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Jan 29 |
-| ↳ | **[WAVY Unpaid Digital News Desk Intern, Summer 2026](https://jobright.ai/jobs/info/6943624650bbaf765055485d?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Jan 29 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[KGO-TV (ABC7) Sports Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/697b6dbb1136d179eeeeef7e?utm_campaign=1053&utm_source=git)** | San Francisco, CA | On Site | Jan 29 |
-| **[SOLV Energy](https://www.solvenergy.com/)** | **[Video Editor & Digital Media Intern](https://jobright.ai/jobs/info/695f49f10badca5763afc667?utm_campaign=1053&utm_source=git)** | San Diego, CA | On Site | Jan 28 |
-| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[CREATIVE/PROMO/PRODUCTION INTERN](https://jobright.ai/jobs/info/6980469ace48107c0544777c?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jan 28 |
-| **[SiriusXM](http://siriusxm.com)** | **[Summer Intern, Music Programming Operations - Miami - Part-Time](https://jobright.ai/jobs/info/697ae43b1423772304eacc22?utm_campaign=1053&utm_source=git)** | Miami Beach, FL | Hybrid | Jan 28 |
-| ↳ | **[Summer Intern, Sports Programming - Part-Time](https://jobright.ai/jobs/info/697ae26817b11b1c2e41b2a0?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Jan 28 |
-| **[Cincinnati Reds](https://reds.mlb.com/)** | **[Hall of Fame & Museum Game Day Operations Intern](https://jobright.ai/jobs/info/697c49d0ba9f7d5ec9fcc6bc?utm_campaign=1053&utm_source=git)** | Cincinnati, OH | On Site | Jan 28 |
-| **[SiriusXM](http://siriusxm.com)** | **[Summer Intern, Podcast Producer - Part Time](https://jobright.ai/jobs/info/697ae08cc532c4768fe097e6?utm_campaign=1053&utm_source=git)** | New York, United States | Remote | Jan 28 |
-| **[Indiana University](https://www.iu.edu)** | **[Part-Time Student Writer Intern](https://jobright.ai/jobs/info/697af28117b11b1c2e41d417?utm_campaign=1053&utm_source=git)** | Bloomington, IN | On Site | Jan 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
