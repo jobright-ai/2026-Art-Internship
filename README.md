@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Walt Disney Imagineering](https://disneyimaginations.com)** | **[WDI Figure Animator Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/6981fa880f6f7e7a2cdb2502?utm_campaign=1053&utm_source=git)** | Glendale, CA | On Site | Feb 03 |
+| **[(USTA) United States Tennis Association](http://www.usta.com)** | **[Undergraduate Intern Summer 2026 - Video Services](https://jobright.ai/jobs/info/695a028aaa05c26e7ab3aa95?utm_campaign=1053&utm_source=git)** | Purchase, NY | Hybrid | Feb 03 |
 | **[Ultimate Fighting Championship](http://UFC.com)** | **[Intern - Spanish Production Intern, UFC](https://jobright.ai/jobs/info/6981853f7f40342e15da8eb1?utm_campaign=1053&utm_source=git)** | Las Vegas, NV | On Site | Feb 02 |
 | ↳ | **[Intern - Digital Media YouTube Intern, UFC](https://jobright.ai/jobs/info/698180bb49964d25b5e47e27?utm_campaign=1053&utm_source=git)** | Las Vegas, NV | On Site | Feb 02 |
 | **[WWE](http://wwe.com)** | **[Intern - Original Content & Documentaries, WWE](https://jobright.ai/jobs/info/69817ba3abff4c399aa07fb2?utm_campaign=1053&utm_source=git)** | Stamford, CT | On Site | Feb 02 |
@@ -86,7 +88,6 @@ For a complete list, click the following sortable link below:
 | **[BRIDGE SHOWROOM](http://www.bridgeshowroom.com)** | **[Intern for NYFW wholesale shows](https://jobright.ai/jobs/info/698132f549964d25b5e414fc?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Feb 02 |
 | **[Christian Louboutin](http://us.christianlouboutin.com/ot_en/)** | **[Press Intern, Spring 2026 - NYC](https://jobright.ai/jobs/info/6981318949964d25b5e413f4?utm_campaign=1053&utm_source=git)** | NYC Metro Area | On Site | Feb 02 |
 | **[WME | William Morris Endeavor](https://www.wmeagency.com)** | **[Intern, Literary Media](https://jobright.ai/jobs/info/69812ec849964d25b5e40d69?utm_campaign=1053&utm_source=git)** | Beverly Hills, CA | On Site | Feb 02 |
-| **[AutoTQ](https://www.goldenhourmedical.com)** | **[Content Creator Internship](https://jobright.ai/jobs/info/6981586f7f40342e15da5b15?utm_campaign=1053&utm_source=git)** | Boca Raton, FL | On Site | Feb 02 |
 | **[TKO](https://tkogrp.com)** | **[Intern - Spanish Production Intern, UFC](https://jobright.ai/jobs/info/69812d5549964d25b5e409df?utm_campaign=1053&utm_source=git)** | Las Vegas, NV | On Site | Feb 02 |
 | ↳ | **[Intern - FIght Pass Intern, UFC](https://jobright.ai/jobs/info/69812cea49964d25b5e408a6?utm_campaign=1053&utm_source=git)** | Las Vegas, NV - UFC Headquarters | On Site | Feb 02 |
 | **[White Mountain Publishing LLC](http://www.wmicentral.com)** | **[Student Intern](https://jobright.ai/jobs/info/69815596abff4c399aa04d27?utm_campaign=1053&utm_source=git)** | Show Low, AZ | On Site | Feb 02 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Igloo Products Corp.](http://www.igloocoolers.com)** | **[Creative Producer Intern](https://jobright.ai/jobs/info/697d4298137a051025665347?utm_campaign=1053&utm_source=git)** | Irvine, CA | Hybrid | Jan 30 |
 | **[Penn State University](http://psu.edu)** | **[Part-Time Event Management Intern - Intercollegiate Athletics](https://jobright.ai/jobs/info/697d3e313f57a33569670e75?utm_campaign=1053&utm_source=git)** | Penn State University Park | On Site | Jan 30 |
 | **[Novo Nordisk](https://www.novonordisk.com)** | **[Internship - Production and Events](https://jobright.ai/jobs/info/697d26e7727747250d57e3f3?utm_campaign=1053&utm_source=git)** | Plainsboro, NJ, US | On Site | Jan 30 |
-| **[Sun Sentinel Media Group](http://www.sun-sentinel.com)** | **[Intern](https://jobright.ai/jobs/info/697d23dd727747250d57dd71?utm_campaign=1053&utm_source=git)** | Deerfield Beach, FL | On Site | Jan 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
