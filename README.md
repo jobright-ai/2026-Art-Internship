@@ -57,11 +57,20 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TKO](https://tkogrp.com)** | **[Intern - FIght Pass Intern, UFC](https://jobright.ai/jobs/info/698150bfabff4c399aa04981?utm_campaign=1053&utm_source=git)** | Las Vegas, NV | On Site | Feb 02 |
+| ↳ | **[Intern - Digital Media YouTube Intern, UFC](https://jobright.ai/jobs/info/6981507f49964d25b5e44498?utm_campaign=1053&utm_source=git)** | Las Vegas, NV | On Site | Feb 02 |
+| **[WWE](http://wwe.com)** | **[Intern - Original Content & Documentaries, WWE](https://jobright.ai/jobs/info/698143aa49964d25b5e4274b?utm_campaign=1053&utm_source=git)** | Stamford, CT- WWE Headquarters | On Site | Feb 02 |
+| ↳ | **[Intern - Live Production, WWE](https://jobright.ai/jobs/info/6981430349964d25b5e426ac?utm_campaign=1053&utm_source=git)** | Stamford, CT- WWE Headquarters | On Site | Feb 02 |
+| **[KRAFTON Inc.](https://www.krafton.com)** | **[Internship : Production](https://jobright.ai/jobs/info/698142687f40342e15da33ab?utm_campaign=1053&utm_source=git)** | El Segundo, CA | On Site | Feb 02 |
+| **[TKO](https://tkogrp.com)** | **[Intern - Live Production, WWE](https://jobright.ai/jobs/info/6981425b7f40342e15da339a?utm_campaign=1053&utm_source=git)** | Stamford, CT- WWE Headquarters | On Site | Feb 02 |
+| ↳ | **[Intern - Original Content & Documentaries, WWE](https://jobright.ai/jobs/info/698141667f40342e15da32ba?utm_campaign=1053&utm_source=git)** | Stamford, CT- WWE Headquarters | On Site | Feb 02 |
+| **[BRIDGE SHOWROOM](http://www.bridgeshowroom.com)** | **[Intern for NYFW wholesale shows](https://jobright.ai/jobs/info/698132f549964d25b5e414fc?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Feb 02 |
 | **[Christian Louboutin](http://us.christianlouboutin.com/ot_en/)** | **[Press Intern, Spring 2026 - NYC](https://jobright.ai/jobs/info/6981318949964d25b5e413f4?utm_campaign=1053&utm_source=git)** | NYC Metro Area | On Site | Feb 02 |
 | **[WME | William Morris Endeavor](https://www.wmeagency.com)** | **[Intern, Literary Media](https://jobright.ai/jobs/info/69812ec849964d25b5e40d69?utm_campaign=1053&utm_source=git)** | Beverly Hills, CA | On Site | Feb 02 |
 | **[TKO](https://tkogrp.com)** | **[Intern - Spanish Production Intern, UFC](https://jobright.ai/jobs/info/69812d5549964d25b5e409df?utm_campaign=1053&utm_source=git)** | Las Vegas, NV | On Site | Feb 02 |
 | ↳ | **[Intern - FIght Pass Intern, UFC](https://jobright.ai/jobs/info/69812cea49964d25b5e408a6?utm_campaign=1053&utm_source=git)** | Las Vegas, NV - UFC Headquarters | On Site | Feb 02 |
 | **[KUTV 2News / KMYU](http://kutv.com/)** | **[Intern - Studio Crew](https://jobright.ai/jobs/info/69812bb4abff4c399aa00a0a?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Feb 02 |
+| **[Chesterfield County](https://www.chesterfield.gov)** | **[2026 Summer Intern - Sports, Visitation and Entertainment (Sports Tourism)](https://jobright.ai/jobs/info/69814b4b7f40342e15da4f10?utm_campaign=1053&utm_source=git)** | Chesterfield, VA | On Site | Feb 02 |
 | **[TKO](https://tkogrp.com)** | **[Intern – Live Production Intern, UFC](https://jobright.ai/jobs/info/69812a66abff4c399aa005f3?utm_campaign=1053&utm_source=git)** | Las Vegas, NV | On Site | Feb 02 |
 | ↳ | **[Intern - Originals Production Intern, UFC](https://jobright.ai/jobs/info/6981295a49964d25b5e3fe70?utm_campaign=1053&utm_source=git)** | Las Vegas, NV - UFC Headquarters | On Site | Feb 02 |
 | **[Reaching & Rooted](https://www.reachingandrooted.org/home-page)** | **[Publishing Intern](https://jobright.ai/jobs/info/6981210249964d25b5e3eff7?utm_campaign=1053&utm_source=git)** | United States | Remote | Feb 02 |
@@ -87,6 +96,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Disney Live Entertainment Character Development Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/6980db9d7f40342e15d9a275?utm_campaign=1053&utm_source=git)** | Kissimmee, FL, USA | On Site | Feb 02 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Talk and Entertainment Show Intern 1](https://jobright.ai/jobs/info/69527c875bb7de448ef598bc?utm_campaign=1053&utm_source=git)** | Cleveland, OH | On Site | Feb 02 |
 | ↳ | **[Talk and Entertainment Show Intern 2](https://jobright.ai/jobs/info/68b9f5968043103d4f21c509?utm_campaign=1053&utm_source=git)** | Cleveland, OH | On Site | Feb 02 |
+| ↳ | **[Unpaid Internship](https://jobright.ai/jobs/info/68d713f1894705799a2f07dc?utm_campaign=1053&utm_source=git)** | Savannah, GA | On Site | Feb 02 |
 | **[The Transmitter](https://spectrumnews.org/)** | **[Science Reporting Intern](https://jobright.ai/jobs/info/6959f933aa05c26e7ab3a721?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Feb 02 |
 | **[Six Flags](https://www.sixflags.com)** | **[Entertainment Event Technician Internship](https://jobright.ai/jobs/info/6980623f7f40342e15d93b33?utm_campaign=1053&utm_source=git)** | Waukegan, IL | On Site | Feb 02 |
 | **[Six Flags](https://www.sixflags.com)** | **[Show Wardrobe Technician Internship](https://jobright.ai/jobs/info/698057b07f40342e15d92454?utm_campaign=1053&utm_source=git)** | Waukegan, IL | On Site | Feb 01 |
@@ -147,14 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Videography Summer Internship Program](https://jobright.ai/jobs/info/697c0cfd0b88cc7d6422fa35?utm_campaign=1053&utm_source=git)** | Pontiac, MI | On Site | Jan 29 |
 | **[University of Missouri-Kansas City](http://www.umkc.edu/)** | **[Up To Date Intern, KCUR - Summer Internship Program, 84314](https://jobright.ai/jobs/info/697c0bde0b88cc7d6422f7bb?utm_campaign=1053&utm_source=git)** | Kansas City, MO | On Site | Jan 29 |
 | ↳ | **[KCUR Studios Intern, KCUR - Summer Internship Program, 72562](https://jobright.ai/jobs/info/697c090b0b88cc7d6422f64b?utm_campaign=1053&utm_source=git)** | Kansas City, MO | On Site | Jan 29 |
-| **[Saint Xavier University](http://www.sxu.edu/)** | **[Xavierite Copy Editor - Student Employment](https://jobright.ai/jobs/info/697c071f0b88cc7d6422f4b2?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Jan 29 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[KABC-TV (ABC7) Community Engagement Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/697c25e31423772304ec85e8?utm_campaign=1053&utm_source=git)** | Glendale, CA, USA | On Site | Jan 29 |
-| **[United Wholesale Mortgage](http://uwm.com)** | **[2026 Videography Summer Internship Program](https://jobright.ai/jobs/info/697c1db80b88cc7d64231941?utm_campaign=1053&utm_source=git)** | Pontiac, MI, US | On Site | Jan 29 |
-| **[Advisors Excel](http://advisorsexcel.com)** | **[Copy Editor Intern](https://jobright.ai/jobs/info/690ac9914a1b456627b0b5c8?utm_campaign=1053&utm_source=git)** | Topeka Metropolitan Area | On Site | Jan 29 |
-| **[Outlyr](http://eigermarketing.com/)** | **[Special Events Intern (MAVRK)](https://jobright.ai/jobs/info/697bd9a81136d179eeef6b0b?utm_campaign=1053&utm_source=git)** | Dallas, TX | Hybrid | Jan 29 |
-| **[Forum Communications Co.](http://www.forumcomm.com/)** | **[Reporter Intern](https://jobright.ai/jobs/info/697bca830b88cc7d64229809?utm_campaign=1053&utm_source=git)** | St. Cloud,MN,US | On Site | Jan 29 |
-| **[Hunter Engineering Company](http://www.hunter.com)** | **[Video Editor/Producer Intern](https://jobright.ai/jobs/info/697b84971136d179eeef03b8?utm_campaign=1053&utm_source=git)** | Bridgeton, MO | On Site | Jan 29 |
-| **[David Yurman](http://www.davidyurman.com)** | **[Video Editor Intern, E-Comm](https://jobright.ai/jobs/info/6943736f50bbaf7650556478?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Jan 29 |
-| **[WAVY-TV 10](http://wavy.com)** | **[WAVY Unpaid Hampton Roads Show/Production Intern, Summer Semester 2026](https://jobright.ai/jobs/info/69436d3594730b73987687c4?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Jan 29 |
-| ↳ | **[WAVY Unpaid Sports Intern, Summer Semester 2026](https://jobright.ai/jobs/info/6943686294730b7398768010?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Jan 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
