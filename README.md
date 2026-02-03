@@ -57,18 +57,23 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[TKO](https://tkogrp.com)** | **[Intern - FIght Pass Intern, UFC](https://jobright.ai/jobs/info/698150bfabff4c399aa04981?utm_campaign=1053&utm_source=git)** | Las Vegas, NV | On Site | Feb 02 |
+| **[TKO](https://tkogrp.com)** | **[Intern – Live Production Intern, UFC](https://jobright.ai/jobs/info/698156b349964d25b5e44a21?utm_campaign=1053&utm_source=git)** | Las Vegas, NV | On Site | Feb 02 |
+| ↳ | **[Intern - Live Production, WWE](https://jobright.ai/jobs/info/698156647f40342e15da58c7?utm_campaign=1053&utm_source=git)** | Stamford, CT | On Site | Feb 02 |
+| ↳ | **[Intern - Originals Production Intern, UFC](https://jobright.ai/jobs/info/6981543f49964d25b5e4476e?utm_campaign=1053&utm_source=git)** | Las Vegas, NV | On Site | Feb 02 |
+| ↳ | **[Intern - FIght Pass Intern, UFC](https://jobright.ai/jobs/info/698150bfabff4c399aa04981?utm_campaign=1053&utm_source=git)** | Las Vegas, NV | On Site | Feb 02 |
 | ↳ | **[Intern - Digital Media YouTube Intern, UFC](https://jobright.ai/jobs/info/6981507f49964d25b5e44498?utm_campaign=1053&utm_source=git)** | Las Vegas, NV | On Site | Feb 02 |
 | **[WWE](http://wwe.com)** | **[Intern - Original Content & Documentaries, WWE](https://jobright.ai/jobs/info/698143aa49964d25b5e4274b?utm_campaign=1053&utm_source=git)** | Stamford, CT- WWE Headquarters | On Site | Feb 02 |
 | ↳ | **[Intern - Live Production, WWE](https://jobright.ai/jobs/info/6981430349964d25b5e426ac?utm_campaign=1053&utm_source=git)** | Stamford, CT- WWE Headquarters | On Site | Feb 02 |
 | **[KRAFTON Inc.](https://www.krafton.com)** | **[Internship : Production](https://jobright.ai/jobs/info/698142687f40342e15da33ab?utm_campaign=1053&utm_source=git)** | El Segundo, CA | On Site | Feb 02 |
 | **[TKO](https://tkogrp.com)** | **[Intern - Live Production, WWE](https://jobright.ai/jobs/info/6981425b7f40342e15da339a?utm_campaign=1053&utm_source=git)** | Stamford, CT- WWE Headquarters | On Site | Feb 02 |
 | ↳ | **[Intern - Original Content & Documentaries, WWE](https://jobright.ai/jobs/info/698141667f40342e15da32ba?utm_campaign=1053&utm_source=git)** | Stamford, CT- WWE Headquarters | On Site | Feb 02 |
+| **[Springbrook NY, Inc](https://springbrookny.org)** | **[Event and Hospitality Internship - Unpaid](https://jobright.ai/jobs/info/698156f249964d25b5e44a79?utm_campaign=1053&utm_source=git)** | Oneonta, NY | On Site | Feb 02 |
 | **[BRIDGE SHOWROOM](http://www.bridgeshowroom.com)** | **[Intern for NYFW wholesale shows](https://jobright.ai/jobs/info/698132f549964d25b5e414fc?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Feb 02 |
 | **[Christian Louboutin](http://us.christianlouboutin.com/ot_en/)** | **[Press Intern, Spring 2026 - NYC](https://jobright.ai/jobs/info/6981318949964d25b5e413f4?utm_campaign=1053&utm_source=git)** | NYC Metro Area | On Site | Feb 02 |
 | **[WME | William Morris Endeavor](https://www.wmeagency.com)** | **[Intern, Literary Media](https://jobright.ai/jobs/info/69812ec849964d25b5e40d69?utm_campaign=1053&utm_source=git)** | Beverly Hills, CA | On Site | Feb 02 |
 | **[TKO](https://tkogrp.com)** | **[Intern - Spanish Production Intern, UFC](https://jobright.ai/jobs/info/69812d5549964d25b5e409df?utm_campaign=1053&utm_source=git)** | Las Vegas, NV | On Site | Feb 02 |
 | ↳ | **[Intern - FIght Pass Intern, UFC](https://jobright.ai/jobs/info/69812cea49964d25b5e408a6?utm_campaign=1053&utm_source=git)** | Las Vegas, NV - UFC Headquarters | On Site | Feb 02 |
+| **[White Mountain Publishing LLC](http://www.wmicentral.com)** | **[Student Intern](https://jobright.ai/jobs/info/69815596abff4c399aa04d27?utm_campaign=1053&utm_source=git)** | Show Low, AZ | On Site | Feb 02 |
 | **[KUTV 2News / KMYU](http://kutv.com/)** | **[Intern - Studio Crew](https://jobright.ai/jobs/info/69812bb4abff4c399aa00a0a?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Feb 02 |
 | **[Chesterfield County](https://www.chesterfield.gov)** | **[2026 Summer Intern - Sports, Visitation and Entertainment (Sports Tourism)](https://jobright.ai/jobs/info/69814b4b7f40342e15da4f10?utm_campaign=1053&utm_source=git)** | Chesterfield, VA | On Site | Feb 02 |
 | **[TKO](https://tkogrp.com)** | **[Intern – Live Production Intern, UFC](https://jobright.ai/jobs/info/69812a66abff4c399aa005f3?utm_campaign=1053&utm_source=git)** | Las Vegas, NV | On Site | Feb 02 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[City of Cheyenne](https://www.cheyennecity.org)** | **[Botanic Gardens Summer Events Internship (Seasonal)](https://jobright.ai/jobs/info/697c7c363f57a3356966401f?utm_campaign=1053&utm_source=git)** | 6 - Botanic Gardens - Cheyenne, WY 82001 | On Site | Jan 29 |
 | **[VettaFi](https://vettafi.com/)** | **[Staff Writer Intern](https://jobright.ai/jobs/info/697c58c2727747250d570a48?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Jan 29 |
 | **[Stride, Inc.](https://www.stridelearning.com)** | **[Video Production & Editing Intern](https://jobright.ai/jobs/info/696ae9e3350cf43803121cad?utm_campaign=1053&utm_source=git)** | United States | Remote | Jan 29 |
-| **[Genzest LLC](https://nailphoria.com/)** | **[Livestream Operation intern](https://jobright.ai/jobs/info/697c55c73f57a33569660719?utm_campaign=1053&utm_source=git)** | West Hollywood, CA | On Site | Jan 29 |
-| **[United Wholesale Mortgage](http://uwm.com)** | **[2026 Videography Summer Internship Program](https://jobright.ai/jobs/info/697c0dd91423772304ec5ae3?utm_campaign=1053&utm_source=git)** | US-MI-Pontiac | On Site | Jan 29 |
-| ↳ | **[2026 Videography Summer Internship Program](https://jobright.ai/jobs/info/697c0cfd0b88cc7d6422fa35?utm_campaign=1053&utm_source=git)** | Pontiac, MI | On Site | Jan 29 |
-| **[University of Missouri-Kansas City](http://www.umkc.edu/)** | **[Up To Date Intern, KCUR - Summer Internship Program, 84314](https://jobright.ai/jobs/info/697c0bde0b88cc7d6422f7bb?utm_campaign=1053&utm_source=git)** | Kansas City, MO | On Site | Jan 29 |
-| ↳ | **[KCUR Studios Intern, KCUR - Summer Internship Program, 72562](https://jobright.ai/jobs/info/697c090b0b88cc7d6422f64b?utm_campaign=1053&utm_source=git)** | Kansas City, MO | On Site | Jan 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
