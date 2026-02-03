@@ -57,6 +57,20 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Borgen Project](http://borgenproject.org)** | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/6982203aa314e763690577be?utm_campaign=1053&utm_source=git)** | Tallahassee, FL | Remote | Feb 03 |
+| ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/69821fe5c3101f1400c3c3e1?utm_campaign=1053&utm_source=git)** | Montgomery, AL | Remote | Feb 03 |
+| ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/69821f63c3101f1400c3c3a2?utm_campaign=1053&utm_source=git)** | Jonesboro, AR | Remote | Feb 03 |
+| ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/69821f49c3101f1400c3c397?utm_campaign=1053&utm_source=git)** | Minneapolis, MN | Remote | Feb 03 |
+| ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/69821ebda314e76369057703?utm_campaign=1053&utm_source=git)** | Raleigh, NC | Remote | Feb 03 |
+| ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/69821ea4a314e763690576f6?utm_campaign=1053&utm_source=git)** | Newark, DE | Remote | Feb 03 |
+| ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/69821e43c3101f1400c3c313?utm_campaign=1053&utm_source=git)** | Baton Rouge, LA | Remote | Feb 03 |
+| ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/69821e38a314e763690576c4?utm_campaign=1053&utm_source=git)** | Ames, IA | Remote | Feb 03 |
+| ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/69821db4a314e76369057681?utm_campaign=1053&utm_source=git)** | Edmond, OK | Remote | Feb 03 |
+| ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/69821d95a314e76369057673?utm_campaign=1053&utm_source=git)** | Louisville, KY | Remote | Feb 03 |
+| ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/69821d6b0f6f7e7a2cdb3b00?utm_campaign=1053&utm_source=git)** | Honolulu, HI | Remote | Feb 03 |
+| ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/69821d2ea314e76369057643?utm_campaign=1053&utm_source=git)** | Tulsa, OK | Remote | Feb 03 |
+| ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/6982173b0f6f7e7a2cdb36fd?utm_campaign=1053&utm_source=git)** | Wayne, NJ | Remote | Feb 03 |
+| **[American Red Cross North Texas Region](http://www.redcross.org/northtexas)** | **[Content Creator Intern – American Red Cross, North Texas Region](https://jobright.ai/jobs/info/69821460c3101f1400c3bd15?utm_campaign=1053&utm_source=git)** | Dallas, TX | On Site | Feb 03 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Disney Live Entertainment Costumer Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69820ba30f6f7e7a2cdb30be?utm_campaign=1053&utm_source=git)** | Lake Buena Vista, FL | On Site | Feb 03 |
 | ↳ | **[ABC News Race & Culture Production Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69820653c3101f1400c3b43c?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Feb 03 |
 | ↳ | **[WDI Figure Animator Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/698201ecc3101f1400c3b0d4?utm_campaign=1053&utm_source=git)** | Glendale, CA | On Site | Feb 03 |
@@ -66,6 +80,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[WDI Figure Animator Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/6981fa880f6f7e7a2cdb2502?utm_campaign=1053&utm_source=git)** | Glendale, CA | On Site | Feb 03 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[KGO-TV (ABC7) Sports Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/697b6dbb1136d179eeeeef7e?utm_campaign=1053&utm_source=git)** | San Francisco, CA | On Site | Feb 03 |
 | **[(USTA) United States Tennis Association](http://www.usta.com)** | **[Undergraduate Intern Summer 2026 - Video Services](https://jobright.ai/jobs/info/695a028aaa05c26e7ab3aa95?utm_campaign=1053&utm_source=git)** | Purchase, NY | Hybrid | Feb 03 |
+| **[BioSpace](http://www.biospace.com/)** | **[Internship - Production and Events](https://jobright.ai/jobs/info/69821d420f6f7e7a2cdb3af5?utm_campaign=1053&utm_source=git)** | Plainsboro, NJ | On Site | Feb 03 |
 | **[Lowell Spinners](http://www.lowellspinners.com)** | **[Live Content Intern, Social](https://jobright.ai/jobs/info/698201e5c3101f1400c3b0d0?utm_campaign=1053&utm_source=git)** | Lowell, MA | On Site | Feb 02 |
 | **[Ultimate Fighting Championship](http://UFC.com)** | **[Intern - Spanish Production Intern, UFC](https://jobright.ai/jobs/info/6981853f7f40342e15da8eb1?utm_campaign=1053&utm_source=git)** | Las Vegas, NV | On Site | Feb 02 |
 | ↳ | **[Intern - Digital Media YouTube Intern, UFC](https://jobright.ai/jobs/info/698180bb49964d25b5e47e27?utm_campaign=1053&utm_source=git)** | Las Vegas, NV | On Site | Feb 02 |
@@ -113,7 +128,6 @@ For a complete list, click the following sortable link below:
 | **[Texas Crew Productions](https://www.texascrew.com)** | **[Summer Semester Production Intern](https://jobright.ai/jobs/info/6980fe597f40342e15d9d657?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | Feb 02 |
 | **[Augustine Institute](https://www.augustineinstitute.org/)** | **[Studios Summer Intern (June through August 2026)](https://jobright.ai/jobs/info/6980f94349964d25b5e3c445?utm_campaign=1053&utm_source=git)** | Florissant, MO | On Site | Feb 02 |
 | **[SexSymbol Magazine](sexsymbolmagazine.com)** | **[Editing Intern (Unpaid, Remote – Internship)](https://jobright.ai/jobs/info/698110fd7f40342e15d9eb91?utm_campaign=1053&utm_source=git)** | United States | Remote | Feb 02 |
-| **[Lavonne's The Agency](https://lavonnestheagency.com/)** | **[Spring Screenwriting Internship](https://jobright.ai/jobs/info/69810ac049964d25b5e3d902?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | Feb 02 |
 | **[NBCUniversal](https://www.nbcuniversal.com/)** | **[NBCU Local San Diego - Production Intern - Summer 2026](https://jobright.ai/jobs/info/696fcbac3ed06875134ab8a1?utm_campaign=1053&utm_source=git)** | San Diego, CA | On Site | Feb 02 |
 | ↳ | **[PA Station Intern](https://jobright.ai/jobs/info/6973ef9137785856350dc023?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Feb 02 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Disney Live Entertainment Costumer Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/6980e73f49964d25b5e3ae92?utm_campaign=1053&utm_source=git)** | Lake Buena Vista, FL, USA | Hybrid | Feb 02 |
@@ -130,7 +144,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Unpaid Internship](https://jobright.ai/jobs/info/68d713f1894705799a2f07dc?utm_campaign=1053&utm_source=git)** | Savannah, GA | On Site | Feb 02 |
 | **[The Transmitter](https://spectrumnews.org/)** | **[Science Reporting Intern](https://jobright.ai/jobs/info/6959f933aa05c26e7ab3a721?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Feb 02 |
 | **[Six Flags](https://www.sixflags.com)** | **[Entertainment Event Technician Internship](https://jobright.ai/jobs/info/6980623f7f40342e15d93b33?utm_campaign=1053&utm_source=git)** | Waukegan, IL | On Site | Feb 02 |
-| **[Six Flags](https://www.sixflags.com)** | **[Show Wardrobe Technician Internship](https://jobright.ai/jobs/info/698057b07f40342e15d92454?utm_campaign=1053&utm_source=git)** | Waukegan, IL | On Site | Feb 01 |
 | **[Ideastream Public Media](http://www.ideastream.org)** | **[2026 Summer Internships](https://jobright.ai/jobs/info/69819b30abff4c399aa0b683?utm_campaign=1053&utm_source=git)** | Cleveland, OH | On Site | Feb 01 |
 | **[City Explorer - Live Streaming Hub](https://cityexplorer.live/)** | **[Live Streaming Internship](https://jobright.ai/jobs/info/698027edabff4c399a9ed5c2?utm_campaign=1053&utm_source=git)** | NYC Metro Area | Remote | Feb 01 |
 | **[Warner Bros. Discovery](https://wbd.com)** | **[Warner Bros. Animation Business Operations Intern: LA - Summer 2026](https://jobright.ai/jobs/info/69800ceaabff4c399a9ec1d4?utm_campaign=1053&utm_source=git)** | Burbank, CA | Hybrid | Feb 01 |
@@ -144,17 +157,4 @@ For a complete list, click the following sortable link below:
 | **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[IAE Videography Internship - Spring 2026](https://jobright.ai/jobs/info/697e4a32abff4c399a9d0933?utm_campaign=1053&utm_source=git)** | Tampa, FL | On Site | Jan 31 |
 | **[Encore](https://www.encoreglobal.com/)** | **[Event Technology Internship (Spring semester)- JW Marriott Marco Island Resort](https://jobright.ai/jobs/info/697e3a92ce48107c05427ea6?utm_campaign=1053&utm_source=git)** | Marco Island, FL | On Site | Jan 31 |
 | ↳ | **[Event Technology Internship (Spring semester)-Hyatt Regency Bonita Springs](https://jobright.ai/jobs/info/697e3a64ce48107c05427e99?utm_campaign=1053&utm_source=git)** | Bonita Springs, FL | On Site | Jan 31 |
-| **[MOSH Audio](https://moshaudio.com/)** | **[Podcast & Digital Video Production Intern](https://jobright.ai/jobs/info/697f53d87f40342e15d818d7?utm_campaign=1053&utm_source=git)** | Seattle, WA | Remote | Jan 31 |
-| **[iHeartMedia](http://iheartmedia.com)** | **[Elvis Duran Morning Show Intern](https://jobright.ai/jobs/info/682b8a0023335c4e00281de0?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jan 31 |
-| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Commercial Production Internship](https://jobright.ai/jobs/info/694e0eb429655e4dd657cbfb?utm_campaign=1053&utm_source=git)** | Dayton, OH | On Site | Jan 31 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[KABC-TV (ABC7) Community Engagement Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/697df3ee7f40342e15d6cc0f?utm_campaign=1053&utm_source=git)** | Glendale, CA | On Site | Jan 31 |
-| **[Skild AI](https://www.skild.ai/)** | **[Cinematography Intern (Product Videography & Social Media)](https://jobright.ai/jobs/info/68d48fabffc1276de3fdbe8a?utm_campaign=1053&utm_source=git)** | San Mateo, CA | On Site | Jan 31 |
-| **[Paramount](https://www.paramount.com)** | **[CBS Sports Production and Production Management Internships (Summer 2026, In Person - NYC)](https://jobright.ai/jobs/info/6945fb6b63141d18845598ea?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jan 31 |
-| **[Ripple Effect Studios](https://www.ea.com/ea-studios/ripple-effect)** | **[Production Intern](https://jobright.ai/jobs/info/697d78c03f57a335696762ba?utm_campaign=1053&utm_source=git)** | Greater Vancouver Metropolitan Area | Hybrid | Jan 30 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[ABC News Medical Unit Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/697d6eb83f57a33569675378?utm_campaign=1053&utm_source=git)** | New York, NY, USA | On Site | Jan 30 |
-| **[Real Chemistry](https://www.realchemistry.com)** | **[2026 Summer Intern (Creative Production)](https://jobright.ai/jobs/info/697d6d793f57a33569675257?utm_campaign=1053&utm_source=git)** | Water Street - New York | Hybrid | Jan 30 |
-| **[Gray Media](https://graymedia.com)** | **[GRAY MEDIA FUTURE FOCUS INTERN SPRING/SUMMER '26 - WSAW](https://jobright.ai/jobs/info/697d6b7d727747250d585062?utm_campaign=1053&utm_source=git)** | Wausau, WI | On Site | Jan 30 |
-| **[ease](easeradio.com)** | **[FALL 2025 OPERATIONS AND PRODUCTIONS INTERN](https://jobright.ai/jobs/info/697d6487137a05102566856b?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | Jan 30 |
-| **[Encore](https://www.encoreglobal.com/)** | **[Event Technology Internship (Spring semester)- JW Marriott Marco Island Resort](https://jobright.ai/jobs/info/697d64493f57a3356967468e?utm_campaign=1053&utm_source=git)** | Marco Island, Florida, United States | On Site | Jan 30 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[KABC-TV (ABC7) Assignment Desk Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/697d629f137a0510256682c6?utm_campaign=1053&utm_source=git)** | Glendale, CA, USA | On Site | Jan 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
