@@ -57,7 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Biltmore](https://www.biltmore.com/)** | **[Spring/Summer 2026 Baking and Pastry and Culinary Arts Internship](https://jobright.ai/jobs/info/69838a54348f733a5c36a08b?utm_campaign=1053&utm_source=git)** | Asheville, NC | On Site | Feb 04 |
+| **[Harvard Athletics](https://gocrimson.com/)** | **[Harvard Athletics Multimedia Intern](https://jobright.ai/jobs/info/698387af0f6f7e7a2cdcf768?utm_campaign=1053&utm_source=git)** | Boston, MA | On Site | Feb 04 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[ABC News Rights & Clearances Intern, Summer 2026](https://jobright.ai/jobs/info/698375700f6f7e7a2cdcd596?utm_campaign=1053&utm_source=git)** | New York, NY, USA | On Site | Feb 04 |
+| **[TIMBERWOLF STUDIOS](www.wearetimberwolf.com)** | **[Social Content & Video Intern](https://jobright.ai/jobs/info/698392520f6f7e7a2cdd0351?utm_campaign=1053&utm_source=git)** | Brooklyn, NY | On Site | Feb 04 |
+| **[Art Institute of Chicago](http://www.artic.edu/)** | **[McMullan Arts Leadership Internship Program](https://jobright.ai/jobs/info/69672aca1703f05405a8d979?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Feb 04 |
 | **[Amazon](https://amazon.com)** | **[Creative Development Intern, Primetime/Adult Animation , Prime Video & Amazon MGM Studios](https://jobright.ai/jobs/info/694bb7b15d731211347039da?utm_campaign=1053&utm_source=git)** | Culver City, CA | On Site | Feb 04 |
 | **[Audacy, Inc.](https://audacyinc.com/)** | **[Summer Intern](https://jobright.ai/jobs/info/6966fa13a13587668084400f?utm_campaign=1053&utm_source=git)** | Farmington, CT | On Site | Feb 04 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[KABC-TV (ABC7) Community Engagement Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/697df3ee7f40342e15d6cc0f?utm_campaign=1053&utm_source=git)** | Glendale, CA | On Site | Feb 04 |
@@ -114,8 +118,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/69831a9501214b4cdacad7d8?utm_campaign=1053&utm_source=git)** | Cedar City, UT | Remote | Feb 03 |
 | ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/6983219901214b4cdacadbed?utm_campaign=1053&utm_source=git)** | Murray, KY | Remote | Feb 03 |
 | ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/698311ac0f6f7e7a2cdc78ec?utm_campaign=1053&utm_source=git)** | Charleston, IL | Remote | Feb 03 |
-| ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/69831a2801214b4cdacad734?utm_campaign=1053&utm_source=git)** | Madison, NJ | Remote | Feb 03 |
 | ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/6983184c348f733a5c363825?utm_campaign=1053&utm_source=git)** | Cheney, WA | Remote | Feb 03 |
+| ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/69831a2801214b4cdacad734?utm_campaign=1053&utm_source=git)** | Madison, NJ | Remote | Feb 03 |
 | ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/69831f0c01214b4cdacadad7?utm_campaign=1053&utm_source=git)** | Mequon, WI | Remote | Feb 03 |
 | ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/698311010f6f7e7a2cdc78a0?utm_campaign=1053&utm_source=git)** | Mississippi State, MS | Remote | Feb 03 |
 | ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/69831c9c348f733a5c363c97?utm_campaign=1053&utm_source=git)** | College Park, MD | Remote | Feb 03 |
@@ -129,11 +133,11 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/69831fde01214b4cdacadb2c?utm_campaign=1053&utm_source=git)** | Hooksett, NH | Remote | Feb 03 |
 | ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/698310cd0f6f7e7a2cdc7887?utm_campaign=1053&utm_source=git)** | Wayne, NJ | Remote | Feb 03 |
 | ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/69831659348f733a5c362f7f?utm_campaign=1053&utm_source=git)** | Gambier, OH | Remote | Feb 03 |
-| ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/698315ab8232105a2d0b976d?utm_campaign=1053&utm_source=git)** | Santa Fe, NM | Remote | Feb 03 |
 | ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/6983169f348f733a5c3631a0?utm_campaign=1053&utm_source=git)** | Bangor, ME | Remote | Feb 03 |
+| ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/698315ab8232105a2d0b976d?utm_campaign=1053&utm_source=git)** | Santa Fe, NM | Remote | Feb 03 |
 | ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/698316218232105a2d0b981b?utm_campaign=1053&utm_source=git)** | Chinle, AZ | Remote | Feb 03 |
-| ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/698318ab348f733a5c36384a?utm_campaign=1053&utm_source=git)** | Ellensburg, WA | Remote | Feb 03 |
 | ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/698319dd348f733a5c3638c1?utm_campaign=1053&utm_source=git)** | Augusta, GA | Remote | Feb 03 |
+| ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/698318ab348f733a5c36384a?utm_campaign=1053&utm_source=git)** | Ellensburg, WA | Remote | Feb 03 |
 | ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/698316c4348f733a5c36326b?utm_campaign=1053&utm_source=git)** | Butte, MT | Remote | Feb 03 |
 | ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/6983116c0f6f7e7a2cdc78cd?utm_campaign=1053&utm_source=git)** | Siloam Springs, AR | Remote | Feb 03 |
 | ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/69831c60348f733a5c363c85?utm_campaign=1053&utm_source=git)** | Willimantic, CT | Remote | Feb 03 |
@@ -146,15 +150,11 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/6983172c348f733a5c363570?utm_campaign=1053&utm_source=git)** | Westfield, MA | Remote | Feb 03 |
 | ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/69830f2d0f6f7e7a2cdc7761?utm_campaign=1053&utm_source=git)** | Athens, WV | Remote | Feb 03 |
 | ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/69831a3e01214b4cdacad750?utm_campaign=1053&utm_source=git)** | Huntington, WV | Remote | Feb 03 |
-| ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/6983225601214b4cdacadc70?utm_campaign=1053&utm_source=git)** | Laramie, WY | Remote | Feb 03 |
 | ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/69831bd9348f733a5c363c4e?utm_campaign=1053&utm_source=git)** | Notre Dame, IN | Remote | Feb 03 |
+| ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/6983225601214b4cdacadc70?utm_campaign=1053&utm_source=git)** | Laramie, WY | Remote | Feb 03 |
 | ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/698311c10f6f7e7a2cdc78f2?utm_campaign=1053&utm_source=git)** | Charleston, SC | Remote | Feb 03 |
 | ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/698315068232105a2d0b966e?utm_campaign=1053&utm_source=git)** | Keene, NH | Remote | Feb 03 |
 | **[Sync with God](https://syncwithgod.com)** | **[Content/Book Editor Intern](https://jobright.ai/jobs/info/698229d8c3101f1400c3cb47?utm_campaign=1053&utm_source=git)** | Lincoln County, NE | Remote | Feb 03 |
 | **[The Borgen Project](http://borgenproject.org)** | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/6983412b01214b4cdacae4d8?utm_campaign=1053&utm_source=git)** | Thibodaux, LA | Remote | Feb 03 |
 | ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/69822613a314e76369057c5c?utm_campaign=1053&utm_source=git)** | Wichita, KS | Remote | Feb 03 |
-| ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/69822f2d0f6f7e7a2cdb4f7c?utm_campaign=1053&utm_source=git)** | Orem, UT | Remote | Feb 03 |
-| ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/698233cc0f6f7e7a2cdb5f01?utm_campaign=1053&utm_source=git)** | St Cloud, MN | Remote | Feb 03 |
-| ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/69822378c3101f1400c3c693?utm_campaign=1053&utm_source=git)** | Fayetteville, AR | Remote | Feb 03 |
-| ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/698228220f6f7e7a2cdb4116?utm_campaign=1053&utm_source=git)** | Las Cruces, NM | Remote | Feb 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
