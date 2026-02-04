@@ -57,7 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Studio Operations in Home Mastering Intern, Summer 2026](https://jobright.ai/jobs/info/69833b3e348f733a5c3645d2?utm_campaign=1053&utm_source=git)** | Burbank, CA | On Site | Feb 04 |
+| **[Amazon](https://amazon.com)** | **[Creative Development Intern, Primetime/Adult Animation , Prime Video & Amazon MGM Studios](https://jobright.ai/jobs/info/694bb7b15d731211347039da?utm_campaign=1053&utm_source=git)** | Culver City, CA | On Site | Feb 04 |
+| **[Audacy, Inc.](https://audacyinc.com/)** | **[Summer Intern](https://jobright.ai/jobs/info/6966fa13a13587668084400f?utm_campaign=1053&utm_source=git)** | Farmington, CT | On Site | Feb 04 |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[KABC-TV (ABC7) Community Engagement Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/697df3ee7f40342e15d6cc0f?utm_campaign=1053&utm_source=git)** | Glendale, CA | On Site | Feb 04 |
+| ↳ | **[Studio Operations in Home Mastering Intern, Summer 2026](https://jobright.ai/jobs/info/69833b3e348f733a5c3645d2?utm_campaign=1053&utm_source=git)** | Burbank, CA | On Site | Feb 04 |
+| **[The Walt Disney Studios](https://waltdisneystudios.com)** | **[Studio Operations in Home Mastering Intern, Summer 2026](https://jobright.ai/jobs/info/6983510201214b4cdacafae5?utm_campaign=1053&utm_source=git)** | Burbank, CA | On Site | Feb 04 |
 | **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[IAE Videography Internship - Spring 2026](https://jobright.ai/jobs/info/6982e528348f733a5c3607ab?utm_campaign=1053&utm_source=git)** | Tampa, FL | On Site | Feb 03 |
 | **[Lincoln Center for the Performing Arts](http://www.lincolncenter.org/)** | **[Intern, Accessibility](https://jobright.ai/jobs/info/6982b2678232105a2d0b04fb?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Feb 03 |
 | ↳ | **[Intern, Video](https://jobright.ai/jobs/info/6982b10d0f6f7e7a2cdc0336?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Feb 03 |
@@ -71,7 +75,8 @@ For a complete list, click the following sortable link below:
 | **[Ulla Johnson](https://ullajohnson.com)** | **[Production Intern](https://jobright.ai/jobs/info/69828073348f733a5c3567ed?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Feb 03 |
 | **[EBSCO Information Services](https://www.ebsco.com)** | **[Proprietary Content Intern](https://jobright.ai/jobs/info/698250af348f733a5c351e0b?utm_campaign=1053&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | Feb 03 |
 | ↳ | **[Proprietary Content Intern](https://jobright.ai/jobs/info/6982500e0f6f7e7a2cdb7622?utm_campaign=1053&utm_source=git)** | US-Remote | Remote | Feb 03 |
-| ↳ | **[Proprietary Content Intern](https://jobright.ai/jobs/info/69824355a314e7636905a805?utm_campaign=1053&utm_source=git)** | United States | Remote | Feb 03 |
+| **[Hitcents Park Plaza](http://visitparkplaza.com)** | **[Content Intern](https://jobright.ai/jobs/info/69834bc50f6f7e7a2cdca5cf?utm_campaign=1053&utm_source=git)** | Bowling Green, KY | On Site | Feb 03 |
+| **[EBSCO Information Services](https://www.ebsco.com)** | **[Proprietary Content Intern](https://jobright.ai/jobs/info/69824355a314e7636905a805?utm_campaign=1053&utm_source=git)** | United States | Remote | Feb 03 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[ABC News Digital Media Editorial Reporter Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69823f5da314e7636905a493?utm_campaign=1053&utm_source=git)** | New York, NY, USA | On Site | Feb 03 |
 | **[Texas Rangers Baseball Club](http://www.texasrangers.com)** | **[Intern, Press Box- Cleburne Railroaders](https://jobright.ai/jobs/info/698248d2348f733a5c3515b6?utm_campaign=1053&utm_source=git)** | Cleburne, TX | On Site | Feb 03 |
 | ↳ | **[Intern, Camera Operations- Cleburne Railroaders](https://jobright.ai/jobs/info/698280270f6f7e7a2cdbbf5f?utm_campaign=1053&utm_source=git)** | Cleburne, TX | On Site | Feb 03 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/698228220f6f7e7a2cdb4116?utm_campaign=1053&utm_source=git)** | Las Cruces, NM | Remote | Feb 03 |
 | ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/69822378c3101f1400c3c693?utm_campaign=1053&utm_source=git)** | Fayetteville, AR | Remote | Feb 03 |
 | ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/6982280cc3101f1400c3ca51?utm_campaign=1053&utm_source=git)** | Morgantown, WV | Remote | Feb 03 |
-| ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/69822ff80f6f7e7a2cdb523b?utm_campaign=1053&utm_source=git)** | Milwaukee, WI | Remote | Feb 03 |
-| ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/69822729a314e76369057d44?utm_campaign=1053&utm_source=git)** | St Louis, MO | Remote | Feb 03 |
-| ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/698228840f6f7e7a2cdb4146?utm_campaign=1053&utm_source=git)** | Denver, CO | Remote | Feb 03 |
-| ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/69822753a314e76369057d64?utm_campaign=1053&utm_source=git)** | College Station, TX | Remote | Feb 03 |
-| ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/69822659a314e76369057c99?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | Remote | Feb 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
