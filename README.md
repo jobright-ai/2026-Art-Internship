@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[OKC Fair Park & The Oklahoma State Fair](https://okstatefair.com/)** | **[Attractions Assistant / Intern - 2026 OK State Fair](https://jobright.ai/jobs/info/6984d4718da7a612045f198a?utm_campaign=1053&utm_source=git)** | Oklahoma City, OK, Oklahoma City, OK, US | On Site | Feb 05 |
+| ↳ | **[Programs & Events Assistant / Intern - 2026 OK State Fair](https://jobright.ai/jobs/info/6984d15d348f733a5c38e7b6?utm_campaign=1053&utm_source=git)** | Oklahoma City, OK, Oklahoma City, OK, US | On Site | Feb 05 |
+| **[Puff Media](https://www.puffmedia.co/)** | **[Production & Content Creation Intern](https://jobright.ai/jobs/info/6984c8e10f6f7e7a2cdf39bb?utm_campaign=1053&utm_source=git)** | Brooklyn, NY | On Site | Feb 05 |
+| **[Fast Company](http://www.fastcompany.com)** | **[Editorial Fellowship](https://jobright.ai/jobs/info/6984bfde0f6f7e7a2cdf330b?utm_campaign=1053&utm_source=git)** | NYC Metro Area | On Site | Feb 05 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[ABC News Medical Unit Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/697f41d9ce48107c05435dd7?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Feb 05 |
 | **[Operation Smile](http://www.operationsmile.org)** | **[Writing Internship - Operation Smile ILC](https://jobright.ai/jobs/info/696883c31703f05405aa42b9?utm_campaign=1053&utm_source=git)** | Virginia Beach, VA | On Site | Feb 05 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[ABC News Rights & Clearances Intern, Summer 2026](https://jobright.ai/jobs/info/69848c058da7a612045ec102?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Feb 05 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/6983184c348f733a5c363825?utm_campaign=1053&utm_source=git)** | Cheney, WA | Remote | Feb 03 |
 | ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/69831f0c01214b4cdacadad7?utm_campaign=1053&utm_source=git)** | Mequon, WI | Remote | Feb 03 |
 | ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/698311010f6f7e7a2cdc78a0?utm_campaign=1053&utm_source=git)** | Mississippi State, MS | Remote | Feb 03 |
-| ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/69831c9c348f733a5c363c97?utm_campaign=1053&utm_source=git)** | College Park, MD | Remote | Feb 03 |
-| ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/69831bb9348f733a5c363c14?utm_campaign=1053&utm_source=git)** | Auburn, AL | Remote | Feb 03 |
-| ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/698315ab348f733a5c362ba1?utm_campaign=1053&utm_source=git)** | Moscow, ID | Remote | Feb 03 |
-| ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/6983140c0f6f7e7a2cdc7bdb?utm_campaign=1053&utm_source=git)** | Ada, OH | Remote | Feb 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
