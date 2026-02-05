@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[UFC GYM](http://UFCGYM.com)** | **[Intern - Spanish Production Intern, UFC](https://jobright.ai/jobs/info/698505b5348f733a5c3922f6?utm_campaign=1053&utm_source=git)** | Las Vegas, NV | On Site | Feb 05 |
+| **[Social View Agency](https://www.linkedin.com/company/81888485)** | **[Onsite Content Creator Intern](https://jobright.ai/jobs/info/698500a6348f733a5c391ccd?utm_campaign=1053&utm_source=git)** | Orange, CA | On Site | Feb 05 |
 | **[Miami HEAT](http://HEAT.com)** | **[Intern, Content Studio - Summer 2026](https://jobright.ai/jobs/info/6984fe99348f733a5c391a4f?utm_campaign=1053&utm_source=git)** | Miami, FL | On Site | Feb 05 |
 | **[The State University of New York](http://www.suny.edu/)** | **[Multimedia Production Intern](https://jobright.ai/jobs/info/690a6177bcccf20de59e184c?utm_campaign=1053&utm_source=git)** | Albany, NY | On Site | Feb 05 |
 | **[Gray Media](https://graymedia.com)** | **[GRAY MEDIA FUTURE FOCUS INTERN SUMMER '26 - KYTV/KSPR](https://jobright.ai/jobs/info/6984f4d28da7a612045f3c22?utm_campaign=1053&utm_source=git)** | Springfield, MO | On Site | Feb 05 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/69821db4a314e76369057681?utm_campaign=1053&utm_source=git)** | Edmond, OK | Remote | Feb 03 |
 | ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/69821d95a314e76369057673?utm_campaign=1053&utm_source=git)** | Louisville, KY | Remote | Feb 03 |
 | ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/69821d6b0f6f7e7a2cdb3b00?utm_campaign=1053&utm_source=git)** | Honolulu, HI | Remote | Feb 03 |
-| ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/69821d2ea314e76369057643?utm_campaign=1053&utm_source=git)** | Tulsa, OK | Remote | Feb 03 |
-| ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/6982173b0f6f7e7a2cdb36fd?utm_campaign=1053&utm_source=git)** | Wayne, NJ | Remote | Feb 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
