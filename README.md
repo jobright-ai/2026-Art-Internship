@@ -73,7 +73,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern, Business Support (Digital Media Intern)](https://jobright.ai/jobs/info/69842835348f733a5c3807fd?utm_campaign=1053&utm_source=git)** | Saco, ME, US | On Site | Feb 04 |
 | **[Highbrow Technology Inc](https://highbrowtechnology.com)** | **[Student Content Analyst/ Content Intern](https://jobright.ai/jobs/info/6983dfb8348f733a5c3762be?utm_campaign=1053&utm_source=git)** | Canada | Remote | Feb 04 |
 | **[Quanta Magazine](https://www.quantamagazine.org)** | **[Video Intern](https://jobright.ai/jobs/info/69680a03f25a380066965e98?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Feb 04 |
-| **[KUTV 2News / KMYU](http://kutv.com/)** | **[Intern - Studio Crew](https://jobright.ai/jobs/info/6983d477348f733a5c3742cc?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Feb 04 |
 | **[Psycho Bunny](https://www.psychobunny.com/)** | **[Omnichannel Internship](https://jobright.ai/jobs/info/6983d8980f6f7e7a2cdda7a7?utm_campaign=1053&utm_source=git)** | Montreal, Quebec, Canada | On Site | Feb 04 |
 | **[Good Karma Brands](https://goodkarmabrands.com/)** | **[ESPN Cleveland 2026 Summer Internship](https://jobright.ai/jobs/info/6983cbf601214b4cdacbcce4?utm_campaign=1053&utm_source=git)** | Cleveland, OH | On Site | Feb 04 |
 | **[Dometic](https://www.dometic.com)** | **[Creative Producer Intern](https://jobright.ai/jobs/info/6983d684348f733a5c3748f3?utm_campaign=1053&utm_source=git)** | Irvine, CA | Hybrid | Feb 04 |
@@ -144,8 +143,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/69831a9501214b4cdacad7d8?utm_campaign=1053&utm_source=git)** | Cedar City, UT | Remote | Feb 03 |
 | ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/6983219901214b4cdacadbed?utm_campaign=1053&utm_source=git)** | Murray, KY | Remote | Feb 03 |
 | ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/698311ac0f6f7e7a2cdc78ec?utm_campaign=1053&utm_source=git)** | Charleston, IL | Remote | Feb 03 |
-| ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/6983184c348f733a5c363825?utm_campaign=1053&utm_source=git)** | Cheney, WA | Remote | Feb 03 |
 | ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/69831a2801214b4cdacad734?utm_campaign=1053&utm_source=git)** | Madison, NJ | Remote | Feb 03 |
+| ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/6983184c348f733a5c363825?utm_campaign=1053&utm_source=git)** | Cheney, WA | Remote | Feb 03 |
 | ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/69831f0c01214b4cdacadad7?utm_campaign=1053&utm_source=git)** | Mequon, WI | Remote | Feb 03 |
 | ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/698311010f6f7e7a2cdc78a0?utm_campaign=1053&utm_source=git)** | Mississippi State, MS | Remote | Feb 03 |
 | ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/69831c9c348f733a5c363c97?utm_campaign=1053&utm_source=git)** | College Park, MD | Remote | Feb 03 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/69830f100f6f7e7a2cdc7748?utm_campaign=1053&utm_source=git)** | Clemson, SC | Remote | Feb 03 |
 | ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/698311ef0f6f7e7a2cdc7909?utm_campaign=1053&utm_source=git)** | Castleton, VT | Remote | Feb 03 |
 | ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/69831fde01214b4cdacadb2c?utm_campaign=1053&utm_source=git)** | Hooksett, NH | Remote | Feb 03 |
+| ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/698310cd0f6f7e7a2cdc7887?utm_campaign=1053&utm_source=git)** | Wayne, NJ | Remote | Feb 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
