@@ -75,8 +75,8 @@ For a complete list, click the following sortable link below:
 | **[The Broadmoor](http://www.broadmoor.com)** | **[PGM Intern/Assistant Golf Pro](https://jobright.ai/jobs/info/698411568da7a612045dfa90?utm_campaign=1053&utm_source=git)** | Broadmoor, Colorado Springs, CO 80906, USA | On Site | Feb 04 |
 | **[City of Racine](http://www.cityofracine.org)** | **[Main Gallery Young Artist](https://jobright.ai/jobs/info/698418610f6f7e7a2cde411e?utm_campaign=1053&utm_source=git)** | Racine, WI | On Site | Feb 04 |
 | **[City of Loveland](https://www.lovgov.org)** | **[Golf Pro Shop Seasonal Intern-The Olde Course/Cattail Creek or Marianna Butte - Part Year](https://jobright.ai/jobs/info/698407e50f6f7e7a2cde1b24?utm_campaign=1053&utm_source=git)** | Loveland, CO | On Site | Feb 04 |
-| **[General Dynamics Ordnance and Tactical Systems](http://www.gd-ots.com)** | **[Intern, Business Support (Digital Media Intern)](https://jobright.ai/jobs/info/69842835348f733a5c3807fd?utm_campaign=1053&utm_source=git)** | Saco, ME, US | On Site | Feb 04 |
-| ↳ | **[Intern, Business Support (Digital Media Intern)](https://jobright.ai/jobs/info/69842fb00f6f7e7a2cde702d?utm_campaign=1053&utm_source=git)** | US-ME-Saco | On Site | Feb 04 |
+| **[General Dynamics Ordnance and Tactical Systems](http://www.gd-ots.com)** | **[Intern, Business Support (Digital Media Intern)](https://jobright.ai/jobs/info/69842fb00f6f7e7a2cde702d?utm_campaign=1053&utm_source=git)** | US-ME-Saco | On Site | Feb 04 |
+| ↳ | **[Intern, Business Support (Digital Media Intern)](https://jobright.ai/jobs/info/69842835348f733a5c3807fd?utm_campaign=1053&utm_source=git)** | Saco, ME, US | On Site | Feb 04 |
 | **[Highbrow Technology Inc](https://highbrowtechnology.com)** | **[Student Content Analyst/ Content Intern](https://jobright.ai/jobs/info/6983dfb8348f733a5c3762be?utm_campaign=1053&utm_source=git)** | Canada | Remote | Feb 04 |
 | **[Quanta Magazine](https://www.quantamagazine.org)** | **[Video Intern](https://jobright.ai/jobs/info/69680a03f25a380066965e98?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Feb 04 |
 | **[Psycho Bunny](https://www.psychobunny.com/)** | **[Omnichannel Internship](https://jobright.ai/jobs/info/6983d8980f6f7e7a2cdda7a7?utm_campaign=1053&utm_source=git)** | Montreal, Quebec, Canada | On Site | Feb 04 |
@@ -156,5 +156,5 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/69831c9c348f733a5c363c97?utm_campaign=1053&utm_source=git)** | College Park, MD | Remote | Feb 03 |
 | ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/69831bb9348f733a5c363c14?utm_campaign=1053&utm_source=git)** | Auburn, AL | Remote | Feb 03 |
 | ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/698315ab348f733a5c362ba1?utm_campaign=1053&utm_source=git)** | Moscow, ID | Remote | Feb 03 |
-| ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/69831b86348f733a5c363b95?utm_campaign=1053&utm_source=git)** | Chestnut Hill, MA | Remote | Feb 03 |
+| ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/6983140c0f6f7e7a2cdc7bdb?utm_campaign=1053&utm_source=git)** | Ada, OH | Remote | Feb 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
