@@ -57,9 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[General Dynamics Ordnance and Tactical Systems](http://www.gd-ots.com)** | **[Intern, Business Support (Digital Media Intern)](https://jobright.ai/jobs/info/69841d8d348f733a5c37eed6?utm_campaign=1053&utm_source=git)** | Saco, ME | On Site | Feb 04 |
 | **[Hudson Valley Hospice](https://www.hvhospice.org/)** | **[Music Therapy Internship](https://jobright.ai/jobs/info/6983fefc01214b4cdacc5011?utm_campaign=1053&utm_source=git)** | Poughkeepsie, NY | On Site | Feb 04 |
+| **[USA Baseball](http://www.usabaseball.com)** | **[Gameday Presentation & Public Address (PA) Announcer](https://jobright.ai/jobs/info/698417f80f6f7e7a2cde4066?utm_campaign=1053&utm_source=git)** | Cary, NC | On Site | Feb 04 |
 | **[Emazing Group - INTO THE AM & iHeartRaves](https://emazinggroup.com/)** | **[Ecommerce Photoshoot Intern](https://jobright.ai/jobs/info/6983f4ca0f6f7e7a2cddef5d?utm_campaign=1053&utm_source=git)** | Anaheim, CA | Hybrid | Feb 04 |
 | **[HP](http://www.hp.com)** | **[Technical Communication Video Intern](https://jobright.ai/jobs/info/696dc913350cf43803149d06?utm_campaign=1053&utm_source=git)** | Boise, ID | On Site | Feb 04 |
+| **[The Broadmoor](http://www.broadmoor.com)** | **[PGM Intern/Assistant Golf Pro](https://jobright.ai/jobs/info/698411568da7a612045dfa90?utm_campaign=1053&utm_source=git)** | Broadmoor, Colorado Springs, CO 80906, USA | On Site | Feb 04 |
+| **[City of Racine](http://www.cityofracine.org)** | **[Main Gallery Young Artist](https://jobright.ai/jobs/info/698418610f6f7e7a2cde411e?utm_campaign=1053&utm_source=git)** | Racine, WI | On Site | Feb 04 |
+| **[City of Loveland](https://www.lovgov.org)** | **[Golf Pro Shop Seasonal Intern-The Olde Course/Cattail Creek or Marianna Butte - Part Year](https://jobright.ai/jobs/info/698407e50f6f7e7a2cde1b24?utm_campaign=1053&utm_source=git)** | Loveland, CO | On Site | Feb 04 |
+| **[General Dynamics Ordnance and Tactical Systems](http://www.gd-ots.com)** | **[Intern, Business Support (Digital Media Intern)](https://jobright.ai/jobs/info/69842835348f733a5c3807fd?utm_campaign=1053&utm_source=git)** | Saco, ME, US | On Site | Feb 04 |
 | **[Highbrow Technology Inc](https://highbrowtechnology.com)** | **[Student Content Analyst/ Content Intern](https://jobright.ai/jobs/info/6983dfb8348f733a5c3762be?utm_campaign=1053&utm_source=git)** | Canada | Remote | Feb 04 |
 | **[Quanta Magazine](https://www.quantamagazine.org)** | **[Video Intern](https://jobright.ai/jobs/info/69680a03f25a380066965e98?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Feb 04 |
 | **[KUTV 2News / KMYU](http://kutv.com/)** | **[Intern - Studio Crew](https://jobright.ai/jobs/info/6983d477348f733a5c3742cc?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Feb 04 |
@@ -86,8 +92,7 @@ For a complete list, click the following sortable link below:
 | **[Lincoln Center for the Performing Arts](http://www.lincolncenter.org/)** | **[Intern, Accessibility](https://jobright.ai/jobs/info/6982b2678232105a2d0b04fb?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Feb 03 |
 | ↳ | **[Intern, Video](https://jobright.ai/jobs/info/6982b10d0f6f7e7a2cdc0336?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Feb 03 |
 | ↳ | **[Intern, Video](https://jobright.ai/jobs/info/6982a3c6348f733a5c359cef?utm_campaign=1053&utm_source=git)** | Rose 9, New York, NY, US | On Site | Feb 03 |
-| **[Argus Media](https://www.argusmedia.com)** | **[Editorial Intern (Summer 2026)](https://jobright.ai/jobs/info/6983e9fc0f6f7e7a2cddda40?utm_campaign=1053&utm_source=git)** | Houston, TX | On Site | Feb 03 |
-| **[Lincoln Center for the Performing Arts](http://www.lincolncenter.org/)** | **[Intern, Accessibility](https://jobright.ai/jobs/info/6982acd3348f733a5c35a5c4?utm_campaign=1053&utm_source=git)** | New York, NY, US | On Site | Feb 03 |
+| ↳ | **[Intern, Accessibility](https://jobright.ai/jobs/info/6982acd3348f733a5c35a5c4?utm_campaign=1053&utm_source=git)** | New York, NY, US | On Site | Feb 03 |
 | **[Iowa 80 Group](https://www.iowa80group.com/)** | **[Museum Studies Internship Summer 2026](https://jobright.ai/jobs/info/6982ac62348f733a5c35a553?utm_campaign=1053&utm_source=git)** | Walcott,IA,US | On Site | Feb 03 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[20th Television Business Affairs JD Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/6982848a348f733a5c356cb5?utm_campaign=1053&utm_source=git)** | Burbank, CA, USA | Hybrid | Feb 03 |
 | **[Detroit Lions](http://www.detroitlions.com)** | **[Summer Video Intern](https://jobright.ai/jobs/info/698267c60f6f7e7a2cdb925b?utm_campaign=1053&utm_source=git)** | Allen Park, MI 48101 | On Site | Feb 03 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/698315ab8232105a2d0b976d?utm_campaign=1053&utm_source=git)** | Santa Fe, NM | Remote | Feb 03 |
 | ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/6983169f348f733a5c3631a0?utm_campaign=1053&utm_source=git)** | Bangor, ME | Remote | Feb 03 |
 | ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/698316218232105a2d0b981b?utm_campaign=1053&utm_source=git)** | Chinle, AZ | Remote | Feb 03 |
-| ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/698319dd348f733a5c3638c1?utm_campaign=1053&utm_source=git)** | Augusta, GA | Remote | Feb 03 |
-| ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/698318ab348f733a5c36384a?utm_campaign=1053&utm_source=git)** | Ellensburg, WA | Remote | Feb 03 |
-| ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/698316c4348f733a5c36326b?utm_campaign=1053&utm_source=git)** | Butte, MT | Remote | Feb 03 |
-| ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/6983116c0f6f7e7a2cdc78cd?utm_campaign=1053&utm_source=git)** | Siloam Springs, AR | Remote | Feb 03 |
-| ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/69831c60348f733a5c363c85?utm_campaign=1053&utm_source=git)** | Willimantic, CT | Remote | Feb 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
