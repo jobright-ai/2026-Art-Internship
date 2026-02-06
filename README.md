@@ -57,8 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Minitab](http://www.minitab.com/en-us/)** | **[Multimedia Intern](https://jobright.ai/jobs/info/698559cf8da7a612045fdb9c?utm_campaign=1053&utm_source=git)** | State College, PA | On Site | Feb 05 |
+| **[Lincoln Center for the Performing Arts](http://www.lincolncenter.org/)** | **[Intern, Event Production](https://jobright.ai/jobs/info/69854e7e8da7a612045fc623?utm_campaign=1053&utm_source=git)** | DGH 5, New York, NY, US | On Site | Feb 05 |
 | **[SWCA Environmental Consultants](https://www.swca.com/)** | **[Cultural Resources Intern](https://jobright.ai/jobs/info/696856d5f25a38006696bd89?utm_campaign=1053&utm_source=git)** | Sheridan, WY | On Site | Feb 05 |
 | **[OceanX](https://oceanx.org/)** | **[Post Production Intern](https://jobright.ai/jobs/info/69853cc3348f733a5c397b4a?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Feb 05 |
+| **[Ardene](https://www.ardene.com)** | **[Footwear and Handbags Intern](https://jobright.ai/jobs/info/69855988348f733a5c39ad53?utm_campaign=1053&utm_source=git)** | Laval, Quebec, Canada | On Site | Feb 05 |
 | **[Minitab](http://www.minitab.com/en-us/)** | **[Multimedia Intern](https://jobright.ai/jobs/info/698526a3348f733a5c39557c?utm_campaign=1053&utm_source=git)** | State College, Pennsylvania, United States | On Site | Feb 05 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[LIVE! Kelly and Mark Production Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/698526418da7a612045f8381?utm_campaign=1053&utm_source=git)** | New York, NY, USA | On Site | Feb 05 |
 | **[U.S. News & World Report](http://www.usnews.com)** | **[Health Editorial Summer 2026 Intern (DC)](https://jobright.ai/jobs/info/69851dc08da7a612045f773d?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Feb 05 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Studio Operations in Home Mastering Intern, Summer 2026](https://jobright.ai/jobs/info/69828928348f733a5c357219?utm_campaign=1053&utm_source=git)** | Burbank, CA, USA | Hybrid | Feb 03 |
 | **[Ulla Johnson](https://ullajohnson.com)** | **[Production Intern](https://jobright.ai/jobs/info/69828073348f733a5c3567ed?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Feb 03 |
 | **[EBSCO Information Services](https://www.ebsco.com)** | **[Proprietary Content Intern](https://jobright.ai/jobs/info/698250af348f733a5c351e0b?utm_campaign=1053&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | Feb 03 |
-| ↳ | **[Proprietary Content Intern](https://jobright.ai/jobs/info/6982500e0f6f7e7a2cdb7622?utm_campaign=1053&utm_source=git)** | US-Remote | Remote | Feb 03 |
-| ↳ | **[Proprietary Content Intern](https://jobright.ai/jobs/info/69824355a314e7636905a805?utm_campaign=1053&utm_source=git)** | United States | Remote | Feb 03 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[ABC News Digital Media Editorial Reporter Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69823f5da314e7636905a493?utm_campaign=1053&utm_source=git)** | New York, NY, USA | On Site | Feb 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
