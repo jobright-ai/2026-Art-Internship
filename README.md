@@ -57,12 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Institution Under Construction](https://www.institution.it/en)** | **[Internship / Junior Video Content Creator](https://jobright.ai/jobs/info/69857625348f733a5c39e0d2?utm_campaign=1053&utm_source=git)** | United States | Remote | Feb 05 |
+| **[Alcon](http://www.alcon.com)** | **[Summer 2026 Intern - Video Production](https://jobright.ai/jobs/info/6985723e348f733a5c39db33?utm_campaign=1053&utm_source=git)** | Fort Worth, TX | On Site | Feb 05 |
 | **[Minitab](http://www.minitab.com/en-us/)** | **[Multimedia Intern](https://jobright.ai/jobs/info/698559cf8da7a612045fdb9c?utm_campaign=1053&utm_source=git)** | State College, PA | On Site | Feb 05 |
 | **[Lincoln Center for the Performing Arts](http://www.lincolncenter.org/)** | **[Intern, Event Production](https://jobright.ai/jobs/info/69854e7e8da7a612045fc623?utm_campaign=1053&utm_source=git)** | DGH 5, New York, NY, US | On Site | Feb 05 |
 | ↳ | **[Intern, Event Production](https://jobright.ai/jobs/info/6985611d348f733a5c39bd04?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Feb 05 |
 | **[SWCA Environmental Consultants](https://www.swca.com/)** | **[Cultural Resources Intern](https://jobright.ai/jobs/info/696856d5f25a38006696bd89?utm_campaign=1053&utm_source=git)** | Sheridan, WY | On Site | Feb 05 |
 | **[OceanX](https://oceanx.org/)** | **[Post Production Intern](https://jobright.ai/jobs/info/69853cc3348f733a5c397b4a?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Feb 05 |
 | **[Ardene](https://www.ardene.com)** | **[Footwear and Handbags Intern](https://jobright.ai/jobs/info/69855988348f733a5c39ad53?utm_campaign=1053&utm_source=git)** | Laval, Quebec, Canada | On Site | Feb 05 |
+| **[Alcon](http://www.alcon.com)** | **[Summer 2026 Intern - Video Production](https://jobright.ai/jobs/info/698572018da7a61204600c86?utm_campaign=1053&utm_source=git)** | Fort Worth, Texas | On Site | Feb 05 |
 | **[Minitab](http://www.minitab.com/en-us/)** | **[Multimedia Intern](https://jobright.ai/jobs/info/698526a3348f733a5c39557c?utm_campaign=1053&utm_source=git)** | State College, Pennsylvania, United States | On Site | Feb 05 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[LIVE! Kelly and Mark Production Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/698526418da7a612045f8381?utm_campaign=1053&utm_source=git)** | New York, NY, USA | On Site | Feb 05 |
 | **[U.S. News & World Report](http://www.usnews.com)** | **[Health Editorial Summer 2026 Intern (DC)](https://jobright.ai/jobs/info/69851dc08da7a612045f773d?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Feb 05 |
@@ -116,8 +119,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Programs & Events Assistant / Intern - 2026 OK State Fair](https://jobright.ai/jobs/info/69851be80f6f7e7a2cdfa573?utm_campaign=1053&utm_source=git)** | Oklahoma City, OK | On Site | Feb 04 |
 | **[City of Racine](http://www.cityofracine.org)** | **[Main Gallery Young Artist](https://jobright.ai/jobs/info/698418610f6f7e7a2cde411e?utm_campaign=1053&utm_source=git)** | Racine, WI | On Site | Feb 04 |
 | **[City of Loveland](https://www.lovgov.org)** | **[Golf Pro Shop Seasonal Intern-The Olde Course/Cattail Creek or Marianna Butte - Part Year](https://jobright.ai/jobs/info/698407e50f6f7e7a2cde1b24?utm_campaign=1053&utm_source=git)** | Loveland, CO | On Site | Feb 04 |
-| **[General Dynamics Ordnance and Tactical Systems](http://www.gd-ots.com)** | **[Intern, Business Support (Digital Media Intern)](https://jobright.ai/jobs/info/69842835348f733a5c3807fd?utm_campaign=1053&utm_source=git)** | Saco, ME, US | On Site | Feb 04 |
-| ↳ | **[Intern, Business Support (Digital Media Intern)](https://jobright.ai/jobs/info/69842fb00f6f7e7a2cde702d?utm_campaign=1053&utm_source=git)** | US-ME-Saco | On Site | Feb 04 |
+| **[General Dynamics Ordnance and Tactical Systems](http://www.gd-ots.com)** | **[Intern, Business Support (Digital Media Intern)](https://jobright.ai/jobs/info/69842fb00f6f7e7a2cde702d?utm_campaign=1053&utm_source=git)** | US-ME-Saco | On Site | Feb 04 |
+| ↳ | **[Intern, Business Support (Digital Media Intern)](https://jobright.ai/jobs/info/69842835348f733a5c3807fd?utm_campaign=1053&utm_source=git)** | Saco, ME, US | On Site | Feb 04 |
 | **[Highbrow Technology Inc](https://highbrowtechnology.com)** | **[Student Content Analyst/ Content Intern](https://jobright.ai/jobs/info/6983dfb8348f733a5c3762be?utm_campaign=1053&utm_source=git)** | Canada | Remote | Feb 04 |
 | **[Quanta Magazine](https://www.quantamagazine.org)** | **[Video Intern](https://jobright.ai/jobs/info/69680a03f25a380066965e98?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Feb 04 |
 | **[The Dallas Morning News](http://www.dallasnews.com)** | **[SFGATE UC Berkeley Graduate School of Journalism Summer Intern, 2026](https://jobright.ai/jobs/info/6984e322348f733a5c390286?utm_campaign=1053&utm_source=git)** | San Francisco, CA | Hybrid | Feb 04 |
@@ -146,6 +149,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Studio Operations in Home Mastering Intern, Summer 2026](https://jobright.ai/jobs/info/69833b3e348f733a5c3645d2?utm_campaign=1053&utm_source=git)** | Burbank, CA | On Site | Feb 04 |
 | **[The Walt Disney Studios](https://waltdisneystudios.com)** | **[Studio Operations in Home Mastering Intern, Summer 2026](https://jobright.ai/jobs/info/6983510201214b4cdacafae5?utm_campaign=1053&utm_source=git)** | Burbank, CA | On Site | Feb 04 |
 | **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[IAE Videography Internship - Spring 2026](https://jobright.ai/jobs/info/6982e528348f733a5c3607ab?utm_campaign=1053&utm_source=git)** | Tampa, FL | On Site | Feb 03 |
+| **[(USTA) United States Tennis Association](http://www.usta.com)** | **[Undergraduate Intern Summer 2026 - Video Services](https://jobright.ai/jobs/info/69856989348f733a5c39ca48?utm_campaign=1053&utm_source=git)** | Purchase, NY | Hybrid | Feb 03 |
 | **[Lincoln Center for the Performing Arts](http://www.lincolncenter.org/)** | **[Intern, Accessibility](https://jobright.ai/jobs/info/6982b2678232105a2d0b04fb?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Feb 03 |
 | ↳ | **[Intern, Video](https://jobright.ai/jobs/info/6982b10d0f6f7e7a2cdc0336?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Feb 03 |
 | ↳ | **[Intern, Video](https://jobright.ai/jobs/info/6982a3c6348f733a5c359cef?utm_campaign=1053&utm_source=git)** | Rose 9, New York, NY, US | On Site | Feb 03 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Iowa 80 Group](https://www.iowa80group.com/)** | **[Museum Studies Internship Summer 2026](https://jobright.ai/jobs/info/6982ac62348f733a5c35a553?utm_campaign=1053&utm_source=git)** | Walcott,IA,US | On Site | Feb 03 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[20th Television Business Affairs JD Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/6982848a348f733a5c356cb5?utm_campaign=1053&utm_source=git)** | Burbank, CA, USA | Hybrid | Feb 03 |
 | **[Detroit Lions](http://www.detroitlions.com)** | **[Summer Video Intern](https://jobright.ai/jobs/info/698267c60f6f7e7a2cdb925b?utm_campaign=1053&utm_source=git)** | Allen Park, MI 48101 | On Site | Feb 03 |
-| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Broadcasting Internship (NYSBA)](https://jobright.ai/jobs/info/6982675d0f6f7e7a2cdb920d?utm_campaign=1053&utm_source=git)** | Colchester, VT | On Site | Feb 03 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Studio Operations in Home Mastering Intern, Summer 2026](https://jobright.ai/jobs/info/69828928348f733a5c357219?utm_campaign=1053&utm_source=git)** | Burbank, CA, USA | Hybrid | Feb 03 |
-| **[Ulla Johnson](https://ullajohnson.com)** | **[Production Intern](https://jobright.ai/jobs/info/69828073348f733a5c3567ed?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Feb 03 |
-| **[EBSCO Information Services](https://www.ebsco.com)** | **[Proprietary Content Intern](https://jobright.ai/jobs/info/698250af348f733a5c351e0b?utm_campaign=1053&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | Feb 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
