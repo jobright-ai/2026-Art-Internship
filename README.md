@@ -57,7 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Museum of Science](http://www.mos.org)** | **[Planetarium Presenter Internship](https://jobright.ai/jobs/info/69863bd28ca8121a3a686a80?utm_campaign=1053&utm_source=git)** | Boston, MA | Hybrid | Feb 06 |
+| **[AVP Pro Beach Volleyball](https://avp.com/)** | **[2026 Regional Intern](https://jobright.ai/jobs/info/69863bc80f6f7e7a2ce11e60?utm_campaign=1053&utm_source=git)** | California, United States | On Site | Feb 06 |
+| **[Museum of Science](http://www.mos.org)** | **[Digital Media Internship](https://jobright.ai/jobs/info/6986346e0f6f7e7a2ce1176f?utm_campaign=1053&utm_source=git)** | Boston, MA | On Site | Feb 06 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[News Department Unpaid Intern](https://jobright.ai/jobs/info/696a52b4350cf438031140f9?utm_campaign=1053&utm_source=git)** | Charlotte, NC | On Site | Feb 06 |
+| **[Museum of Science](http://www.mos.org)** | **[Digital Media Internship](https://jobright.ai/jobs/info/698642850f6f7e7a2ce124f0?utm_campaign=1053&utm_source=git)** | Boston, MA | On Site | Feb 06 |
 | **[Carnegie Mellon University](https://www.cmu.edu)** | **[Writer/Intern - College of Engineering](https://jobright.ai/jobs/info/69861d6d0f6f7e7a2ce0f616?utm_campaign=1053&utm_source=git)** | Pittsburgh, PA | On Site | Feb 06 |
 | **[HELLER](https://heller.inc)** | **[Summer Intern](https://jobright.ai/jobs/info/698614b20f6f7e7a2ce0f144?utm_campaign=1053&utm_source=git)** | NYC Metro Area | On Site | Feb 06 |
 | **[Christian Brothers Automotive Corporation](http://www.ChristianBrothersAuto.com)** | **[Video Production Intern- Support Center](https://jobright.ai/jobs/info/698612fa8ca8121a3a683da7?utm_campaign=1053&utm_source=git)** | Houston, TX | Hybrid | Feb 06 |
@@ -71,7 +75,6 @@ For a complete list, click the following sortable link below:
 | **[The Nature Conservancy](http://www.nature.org)** | **[Nags Head Woods (NHW) Preserve Visitor Outreach & Communication Intern](https://jobright.ai/jobs/info/6985ad5d8da7a61204605e5f?utm_campaign=1053&utm_source=git)** | Kill Devil Hills, NC | On Site | Feb 06 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Disney Television Animation Studio Planning & Operations Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/6985ccac0f6f7e7a2ce0afca?utm_campaign=1053&utm_source=git)** | Glendale, CA, USA | Hybrid | Feb 06 |
 | ↳ | **[Disney Television Animation Creative Production Intern, Summer 2026](https://jobright.ai/jobs/info/6985be2e0f6f7e7a2ce09ba5?utm_campaign=1053&utm_source=git)** | Glendale, CA, USA | Hybrid | Feb 06 |
-| **[Neble (Stealth Startup)](https://neble.app/)** | **[Creative Video Intern](https://jobright.ai/jobs/info/6985e5788ca8121a3a6815da?utm_campaign=1053&utm_source=git)** | California, United States | Remote | Feb 05 |
 | **[The Nature Conservancy](http://www.nature.org)** | **[Nags Head Woods (NHW) Preserve Visitor Outreach & Communication Intern](https://jobright.ai/jobs/info/6985b65b0f6f7e7a2ce09581?utm_campaign=1053&utm_source=git)** | Kill Devil Hills, North Carolina | On Site | Feb 05 |
 | **[Alcon](http://www.alcon.com)** | **[Summer 2026 Intern - Video Production](https://jobright.ai/jobs/info/6985723e348f733a5c39db33?utm_campaign=1053&utm_source=git)** | Fort Worth, TX | On Site | Feb 05 |
 | **[Minitab](http://www.minitab.com/en-us/)** | **[Multimedia Intern](https://jobright.ai/jobs/info/698559cf8da7a612045fdb9c?utm_campaign=1053&utm_source=git)** | State College, PA | On Site | Feb 05 |
@@ -134,8 +137,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Programs & Events Assistant / Intern - 2026 OK State Fair](https://jobright.ai/jobs/info/69851be80f6f7e7a2cdfa573?utm_campaign=1053&utm_source=git)** | Oklahoma City, OK | On Site | Feb 04 |
 | **[City of Racine](http://www.cityofracine.org)** | **[Main Gallery Young Artist](https://jobright.ai/jobs/info/698418610f6f7e7a2cde411e?utm_campaign=1053&utm_source=git)** | Racine, WI | On Site | Feb 04 |
 | **[City of Loveland](https://www.lovgov.org)** | **[Golf Pro Shop Seasonal Intern-The Olde Course/Cattail Creek or Marianna Butte - Part Year](https://jobright.ai/jobs/info/698407e50f6f7e7a2cde1b24?utm_campaign=1053&utm_source=git)** | Loveland, CO | On Site | Feb 04 |
-| **[General Dynamics Ordnance and Tactical Systems](http://www.gd-ots.com)** | **[Intern, Business Support (Digital Media Intern)](https://jobright.ai/jobs/info/69842835348f733a5c3807fd?utm_campaign=1053&utm_source=git)** | Saco, ME, US | On Site | Feb 04 |
-| ↳ | **[Intern, Business Support (Digital Media Intern)](https://jobright.ai/jobs/info/69842fb00f6f7e7a2cde702d?utm_campaign=1053&utm_source=git)** | US-ME-Saco | On Site | Feb 04 |
+| **[General Dynamics Ordnance and Tactical Systems](http://www.gd-ots.com)** | **[Intern, Business Support (Digital Media Intern)](https://jobright.ai/jobs/info/69842fb00f6f7e7a2cde702d?utm_campaign=1053&utm_source=git)** | US-ME-Saco | On Site | Feb 04 |
+| ↳ | **[Intern, Business Support (Digital Media Intern)](https://jobright.ai/jobs/info/69842835348f733a5c3807fd?utm_campaign=1053&utm_source=git)** | Saco, ME, US | On Site | Feb 04 |
 | **[Quanta Magazine](https://www.quantamagazine.org)** | **[Video Intern](https://jobright.ai/jobs/info/69680a03f25a380066965e98?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Feb 04 |
 | **[Salt XC](https://www.saltxc.com/)** | **[AI Enablement Content Producer (Intern)](https://jobright.ai/jobs/info/6982a17a0f6f7e7a2cdbf34a?utm_campaign=1053&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Feb 04 |
 | **[The Dallas Morning News](http://www.dallasnews.com)** | **[SFGATE UC Berkeley Graduate School of Journalism Summer Intern, 2026](https://jobright.ai/jobs/info/6984e322348f733a5c390286?utm_campaign=1053&utm_source=git)** | San Francisco, CA | Hybrid | Feb 04 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Hearst Newspapers](https://eevd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_15)** | **[WMTW 2026 Summer Internship](https://jobright.ai/jobs/info/6983c2220f6f7e7a2cdd6c1a?utm_campaign=1053&utm_source=git)** | 4 Ledgeview Drive, Westbrook, ME, 04092, US | On Site | Feb 04 |
 | **[Biltmore](https://www.biltmore.com/)** | **[Spring/Summer 2026 Baking and Pastry and Culinary Arts Internship](https://jobright.ai/jobs/info/69838a54348f733a5c36a08b?utm_campaign=1053&utm_source=git)** | Asheville, NC | On Site | Feb 04 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[ABC News Rights & Clearances Intern, Summer 2026](https://jobright.ai/jobs/info/698375700f6f7e7a2cdcd596?utm_campaign=1053&utm_source=git)** | New York, NY, USA | On Site | Feb 04 |
-| **[TIMBERWOLF STUDIOS](www.wearetimberwolf.com)** | **[Social Content & Video Intern](https://jobright.ai/jobs/info/698392520f6f7e7a2cdd0351?utm_campaign=1053&utm_source=git)** | Brooklyn, NY | On Site | Feb 04 |
-| **[Art Institute of Chicago](http://www.artic.edu/)** | **[McMullan Arts Leadership Internship Program](https://jobright.ai/jobs/info/69672aca1703f05405a8d979?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Feb 04 |
-| **[Amazon](https://amazon.com)** | **[Creative Development Intern, Primetime/Adult Animation , Prime Video & Amazon MGM Studios](https://jobright.ai/jobs/info/694bb7b15d731211347039da?utm_campaign=1053&utm_source=git)** | Culver City, CA | On Site | Feb 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
