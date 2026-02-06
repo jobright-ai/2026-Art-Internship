@@ -66,6 +66,7 @@ For a complete list, click the following sortable link below:
 | **[OceanX](https://oceanx.org/)** | **[Post Production Intern](https://jobright.ai/jobs/info/69853cc3348f733a5c397b4a?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Feb 05 |
 | **[Ardene](https://www.ardene.com)** | **[Footwear and Handbags Intern](https://jobright.ai/jobs/info/69855988348f733a5c39ad53?utm_campaign=1053&utm_source=git)** | Laval, Quebec, Canada | On Site | Feb 05 |
 | **[Alcon](http://www.alcon.com)** | **[Summer 2026 Intern - Video Production](https://jobright.ai/jobs/info/698572018da7a61204600c86?utm_campaign=1053&utm_source=git)** | Fort Worth, Texas | On Site | Feb 05 |
+| **[Kairoi Residential](https://www.kairoi.com/)** | **[Client Experience Intern](https://jobright.ai/jobs/info/69858708348f733a5c39fd97?utm_campaign=1053&utm_source=git)** | San Antonio,TX,US | On Site | Feb 05 |
 | **[Minitab](http://www.minitab.com/en-us/)** | **[Multimedia Intern](https://jobright.ai/jobs/info/698526a3348f733a5c39557c?utm_campaign=1053&utm_source=git)** | State College, Pennsylvania, United States | On Site | Feb 05 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[LIVE! Kelly and Mark Production Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/698526418da7a612045f8381?utm_campaign=1053&utm_source=git)** | New York, NY, USA | On Site | Feb 05 |
 | **[U.S. News & World Report](http://www.usnews.com)** | **[Health Editorial Summer 2026 Intern (DC)](https://jobright.ai/jobs/info/69851dc08da7a612045f773d?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Feb 05 |
@@ -124,8 +125,8 @@ For a complete list, click the following sortable link below:
 | **[Highbrow Technology Inc](https://highbrowtechnology.com)** | **[Student Content Analyst/ Content Intern](https://jobright.ai/jobs/info/6983dfb8348f733a5c3762be?utm_campaign=1053&utm_source=git)** | Canada | Remote | Feb 04 |
 | **[Quanta Magazine](https://www.quantamagazine.org)** | **[Video Intern](https://jobright.ai/jobs/info/69680a03f25a380066965e98?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Feb 04 |
 | **[The Dallas Morning News](http://www.dallasnews.com)** | **[SFGATE UC Berkeley Graduate School of Journalism Summer Intern, 2026](https://jobright.ai/jobs/info/6984e322348f733a5c390286?utm_campaign=1053&utm_source=git)** | San Francisco, CA | Hybrid | Feb 04 |
-| ↳ | **[KMBC News Intern](https://jobright.ai/jobs/info/6984e253348f733a5c390229?utm_campaign=1053&utm_source=git)** | Kansas City, MO | On Site | Feb 04 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/6984dd450f6f7e7a2cdf57bd?utm_campaign=1053&utm_source=git)** | Winter Park, FL | On Site | Feb 04 |
+| ↳ | **[KMBC News Intern](https://jobright.ai/jobs/info/6984e253348f733a5c390229?utm_campaign=1053&utm_source=git)** | Kansas City, MO | On Site | Feb 04 |
 | ↳ | **[WGAL News Intern - 2026 Summer](https://jobright.ai/jobs/info/6984e57f348f733a5c390433?utm_campaign=1053&utm_source=git)** | Lancaster, PA | On Site | Feb 04 |
 | ↳ | **[News Intern](https://jobright.ai/jobs/info/6984d6bf0f6f7e7a2cdf4f6a?utm_campaign=1053&utm_source=git)** | Jackson, MS | On Site | Feb 04 |
 | **[Psycho Bunny](https://www.psychobunny.com/)** | **[Omnichannel Internship](https://jobright.ai/jobs/info/6983d8980f6f7e7a2cdda7a7?utm_campaign=1053&utm_source=git)** | Montreal, Quebec, Canada | On Site | Feb 04 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern, Accessibility](https://jobright.ai/jobs/info/6982acd3348f733a5c35a5c4?utm_campaign=1053&utm_source=git)** | New York, NY, US | On Site | Feb 03 |
 | **[Iowa 80 Group](https://www.iowa80group.com/)** | **[Museum Studies Internship Summer 2026](https://jobright.ai/jobs/info/6982ac62348f733a5c35a553?utm_campaign=1053&utm_source=git)** | Walcott,IA,US | On Site | Feb 03 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[20th Television Business Affairs JD Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/6982848a348f733a5c356cb5?utm_campaign=1053&utm_source=git)** | Burbank, CA, USA | Hybrid | Feb 03 |
-| **[Detroit Lions](http://www.detroitlions.com)** | **[Summer Video Intern](https://jobright.ai/jobs/info/698267c60f6f7e7a2cdb925b?utm_campaign=1053&utm_source=git)** | Allen Park, MI 48101 | On Site | Feb 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
