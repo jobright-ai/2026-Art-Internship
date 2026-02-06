@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[News Department Unpaid Intern](https://jobright.ai/jobs/info/696a52b4350cf438031140f9?utm_campaign=1053&utm_source=git)** | Charlotte, NC | On Site | Feb 06 |
 | **[Carnegie Mellon University](https://www.cmu.edu)** | **[Writer/Intern - College of Engineering](https://jobright.ai/jobs/info/69861d6d0f6f7e7a2ce0f616?utm_campaign=1053&utm_source=git)** | Pittsburgh, PA | On Site | Feb 06 |
 | **[HELLER](https://heller.inc)** | **[Summer Intern](https://jobright.ai/jobs/info/698614b20f6f7e7a2ce0f144?utm_campaign=1053&utm_source=git)** | NYC Metro Area | On Site | Feb 06 |
 | **[Christian Brothers Automotive Corporation](http://www.ChristianBrothersAuto.com)** | **[Video Production Intern- Support Center](https://jobright.ai/jobs/info/698612fa8ca8121a3a683da7?utm_campaign=1053&utm_source=git)** | Houston, TX | Hybrid | Feb 06 |
@@ -109,7 +110,6 @@ For a complete list, click the following sortable link below:
 | **[Canterbury Park](https://www.canterburypark.com)** | **[Seasonal Entertainment Intern](https://jobright.ai/jobs/info/6984f9e50f6f7e7a2cdf72b8?utm_campaign=1053&utm_source=git)** | Shakopee, Minnesota, United States | On Site | Feb 05 |
 | **[OKC Fair Park & The Oklahoma State Fair](https://okstatefair.com/)** | **[Attractions Assistant / Intern - 2026 OK State Fair](https://jobright.ai/jobs/info/6984d4718da7a612045f198a?utm_campaign=1053&utm_source=git)** | Oklahoma City, OK, Oklahoma City, OK, US | On Site | Feb 05 |
 | ↳ | **[Programs & Events Assistant / Intern - 2026 OK State Fair](https://jobright.ai/jobs/info/6984d15d348f733a5c38e7b6?utm_campaign=1053&utm_source=git)** | Oklahoma City, OK, Oklahoma City, OK, US | On Site | Feb 05 |
-| **[Puff Media](https://www.puffmedia.co/)** | **[Production & Content Creation Intern](https://jobright.ai/jobs/info/6984c8e10f6f7e7a2cdf39bb?utm_campaign=1053&utm_source=git)** | Brooklyn, NY | On Site | Feb 05 |
 | **[Two Circles](http://www.twocircles.com/)** | **[Video Team Intern](https://jobright.ai/jobs/info/6984e4228da7a612045f2f91?utm_campaign=1053&utm_source=git)** | Miami, FL | On Site | Feb 05 |
 | ↳ | **[Video Team Intern](https://jobright.ai/jobs/info/6984eb478da7a612045f3622?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Feb 05 |
 | **[Rumson Country Club](http://www.rumsoncc.org)** | **[Communications Intern](https://jobright.ai/jobs/info/69852e5a0f6f7e7a2cdfbba9?utm_campaign=1053&utm_source=git)** | Rumson, NJ | On Site | Feb 05 |
@@ -134,13 +134,13 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Programs & Events Assistant / Intern - 2026 OK State Fair](https://jobright.ai/jobs/info/69851be80f6f7e7a2cdfa573?utm_campaign=1053&utm_source=git)** | Oklahoma City, OK | On Site | Feb 04 |
 | **[City of Racine](http://www.cityofracine.org)** | **[Main Gallery Young Artist](https://jobright.ai/jobs/info/698418610f6f7e7a2cde411e?utm_campaign=1053&utm_source=git)** | Racine, WI | On Site | Feb 04 |
 | **[City of Loveland](https://www.lovgov.org)** | **[Golf Pro Shop Seasonal Intern-The Olde Course/Cattail Creek or Marianna Butte - Part Year](https://jobright.ai/jobs/info/698407e50f6f7e7a2cde1b24?utm_campaign=1053&utm_source=git)** | Loveland, CO | On Site | Feb 04 |
-| **[General Dynamics Ordnance and Tactical Systems](http://www.gd-ots.com)** | **[Intern, Business Support (Digital Media Intern)](https://jobright.ai/jobs/info/69842fb00f6f7e7a2cde702d?utm_campaign=1053&utm_source=git)** | US-ME-Saco | On Site | Feb 04 |
-| ↳ | **[Intern, Business Support (Digital Media Intern)](https://jobright.ai/jobs/info/69842835348f733a5c3807fd?utm_campaign=1053&utm_source=git)** | Saco, ME, US | On Site | Feb 04 |
+| **[General Dynamics Ordnance and Tactical Systems](http://www.gd-ots.com)** | **[Intern, Business Support (Digital Media Intern)](https://jobright.ai/jobs/info/69842835348f733a5c3807fd?utm_campaign=1053&utm_source=git)** | Saco, ME, US | On Site | Feb 04 |
+| ↳ | **[Intern, Business Support (Digital Media Intern)](https://jobright.ai/jobs/info/69842fb00f6f7e7a2cde702d?utm_campaign=1053&utm_source=git)** | US-ME-Saco | On Site | Feb 04 |
 | **[Quanta Magazine](https://www.quantamagazine.org)** | **[Video Intern](https://jobright.ai/jobs/info/69680a03f25a380066965e98?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Feb 04 |
 | **[Salt XC](https://www.saltxc.com/)** | **[AI Enablement Content Producer (Intern)](https://jobright.ai/jobs/info/6982a17a0f6f7e7a2cdbf34a?utm_campaign=1053&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Feb 04 |
 | **[The Dallas Morning News](http://www.dallasnews.com)** | **[SFGATE UC Berkeley Graduate School of Journalism Summer Intern, 2026](https://jobright.ai/jobs/info/6984e322348f733a5c390286?utm_campaign=1053&utm_source=git)** | San Francisco, CA | Hybrid | Feb 04 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/6984dd450f6f7e7a2cdf57bd?utm_campaign=1053&utm_source=git)** | Winter Park, FL | On Site | Feb 04 |
 | ↳ | **[KMBC News Intern](https://jobright.ai/jobs/info/6984e253348f733a5c390229?utm_campaign=1053&utm_source=git)** | Kansas City, MO | On Site | Feb 04 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/6984dd450f6f7e7a2cdf57bd?utm_campaign=1053&utm_source=git)** | Winter Park, FL | On Site | Feb 04 |
 | ↳ | **[WGAL News Intern - 2026 Summer](https://jobright.ai/jobs/info/6984e57f348f733a5c390433?utm_campaign=1053&utm_source=git)** | Lancaster, PA | On Site | Feb 04 |
 | ↳ | **[News Intern](https://jobright.ai/jobs/info/6984d6bf0f6f7e7a2cdf4f6a?utm_campaign=1053&utm_source=git)** | Jackson, MS | On Site | Feb 04 |
 | **[Psycho Bunny](https://www.psychobunny.com/)** | **[Omnichannel Internship](https://jobright.ai/jobs/info/6983d8980f6f7e7a2cdda7a7?utm_campaign=1053&utm_source=git)** | Montreal, Quebec, Canada | On Site | Feb 04 |
