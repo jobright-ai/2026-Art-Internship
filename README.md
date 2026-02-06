@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[grangou app](https://www.grangouapp.com/)** | **[Short-Form Video Editor Intern](https://jobright.ai/jobs/info/69859ca6348f733a5c3a1ec0?utm_campaign=1053&utm_source=git)** | United States | Remote | Feb 05 |
 | **[Institution Under Construction](https://www.institution.it/en)** | **[Internship / Junior Video Content Creator](https://jobright.ai/jobs/info/69857625348f733a5c39e0d2?utm_campaign=1053&utm_source=git)** | United States | Remote | Feb 05 |
 | **[Alcon](http://www.alcon.com)** | **[Summer 2026 Intern - Video Production](https://jobright.ai/jobs/info/6985723e348f733a5c39db33?utm_campaign=1053&utm_source=git)** | Fort Worth, TX | On Site | Feb 05 |
 | **[Minitab](http://www.minitab.com/en-us/)** | **[Multimedia Intern](https://jobright.ai/jobs/info/698559cf8da7a612045fdb9c?utm_campaign=1053&utm_source=git)** | State College, PA | On Site | Feb 05 |
@@ -120,8 +121,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Programs & Events Assistant / Intern - 2026 OK State Fair](https://jobright.ai/jobs/info/69851be80f6f7e7a2cdfa573?utm_campaign=1053&utm_source=git)** | Oklahoma City, OK | On Site | Feb 04 |
 | **[City of Racine](http://www.cityofracine.org)** | **[Main Gallery Young Artist](https://jobright.ai/jobs/info/698418610f6f7e7a2cde411e?utm_campaign=1053&utm_source=git)** | Racine, WI | On Site | Feb 04 |
 | **[City of Loveland](https://www.lovgov.org)** | **[Golf Pro Shop Seasonal Intern-The Olde Course/Cattail Creek or Marianna Butte - Part Year](https://jobright.ai/jobs/info/698407e50f6f7e7a2cde1b24?utm_campaign=1053&utm_source=git)** | Loveland, CO | On Site | Feb 04 |
-| **[General Dynamics Ordnance and Tactical Systems](http://www.gd-ots.com)** | **[Intern, Business Support (Digital Media Intern)](https://jobright.ai/jobs/info/69842fb00f6f7e7a2cde702d?utm_campaign=1053&utm_source=git)** | US-ME-Saco | On Site | Feb 04 |
-| ↳ | **[Intern, Business Support (Digital Media Intern)](https://jobright.ai/jobs/info/69842835348f733a5c3807fd?utm_campaign=1053&utm_source=git)** | Saco, ME, US | On Site | Feb 04 |
+| **[General Dynamics Ordnance and Tactical Systems](http://www.gd-ots.com)** | **[Intern, Business Support (Digital Media Intern)](https://jobright.ai/jobs/info/69842835348f733a5c3807fd?utm_campaign=1053&utm_source=git)** | Saco, ME, US | On Site | Feb 04 |
+| ↳ | **[Intern, Business Support (Digital Media Intern)](https://jobright.ai/jobs/info/69842fb00f6f7e7a2cde702d?utm_campaign=1053&utm_source=git)** | US-ME-Saco | On Site | Feb 04 |
 | **[Highbrow Technology Inc](https://highbrowtechnology.com)** | **[Student Content Analyst/ Content Intern](https://jobright.ai/jobs/info/6983dfb8348f733a5c3762be?utm_campaign=1053&utm_source=git)** | Canada | Remote | Feb 04 |
 | **[Quanta Magazine](https://www.quantamagazine.org)** | **[Video Intern](https://jobright.ai/jobs/info/69680a03f25a380066965e98?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Feb 04 |
 | **[The Dallas Morning News](http://www.dallasnews.com)** | **[SFGATE UC Berkeley Graduate School of Journalism Summer Intern, 2026](https://jobright.ai/jobs/info/6984e322348f733a5c390286?utm_campaign=1053&utm_source=git)** | San Francisco, CA | Hybrid | Feb 04 |
@@ -133,7 +134,6 @@ For a complete list, click the following sortable link below:
 | **[Good Karma Brands](https://goodkarmabrands.com/)** | **[ESPN Cleveland 2026 Summer Internship](https://jobright.ai/jobs/info/6983cbf601214b4cdacbcce4?utm_campaign=1053&utm_source=git)** | Cleveland, OH | On Site | Feb 04 |
 | **[Dometic](https://www.dometic.com)** | **[Creative Producer Intern](https://jobright.ai/jobs/info/6983d684348f733a5c3748f3?utm_campaign=1053&utm_source=git)** | Irvine, CA | Hybrid | Feb 04 |
 | **[Marquee Sports Network](https://www.marqueesportsnetwork.com/)** | **[Production Intern](https://jobright.ai/jobs/info/6983ebdb0f6f7e7a2cdddf62?utm_campaign=1053&utm_source=git)** | Chicago, IL, US | On Site | Feb 04 |
-| **[Salt XC](https://www.saltxc.com/)** | **[AI Enablement Content Producer (Intern)](https://jobright.ai/jobs/info/6982a17a0f6f7e7a2cdbf34a?utm_campaign=1053&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Feb 04 |
 | **[Drum Corps International](https://www.dci.org/static/about-drum-corps-international)** | **[Video Production Intern/Seasonal](https://jobright.ai/jobs/info/6983ca8001214b4cdacbcb65?utm_campaign=1053&utm_source=git)** | Indianapolis, IN | On Site | Feb 04 |
 | **[McClatchy Media](https://www.mcclatchy.com/)** | **[News Intern - Part-time](https://jobright.ai/jobs/info/6983cce901214b4cdacbced6?utm_campaign=1053&utm_source=git)** | San Luis Obispo, CA | On Site | Feb 04 |
 | **[Coastal Carolina University](http://www.coastal.edu/)** | **[Production Assistant (Student Employee)](https://jobright.ai/jobs/info/69161f33286ccf0a15132ad9?utm_campaign=1053&utm_source=git)** | Conway, SC | On Site | Feb 04 |
