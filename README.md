@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TikTok](https://www.tiktok.com)** | **[Short Drama Localization Project Intern (TikTok-PGC-Short Drama) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/698516de348f733a5c393e8b?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Feb 05 |
+| **[OceanX](https://oceanx.org/)** | **[Post Production Intern](https://jobright.ai/jobs/info/698513090f6f7e7a2cdf914b?utm_campaign=1053&utm_source=git)** | New York City, NY | Hybrid | Feb 05 |
 | **[UFC GYM](http://UFCGYM.com)** | **[Intern - Spanish Production Intern, UFC](https://jobright.ai/jobs/info/698505b5348f733a5c3922f6?utm_campaign=1053&utm_source=git)** | Las Vegas, NV | On Site | Feb 05 |
 | **[Social View Agency](https://www.linkedin.com/company/81888485)** | **[Onsite Content Creator Intern](https://jobright.ai/jobs/info/698500a6348f733a5c391ccd?utm_campaign=1053&utm_source=git)** | Orange, CA | On Site | Feb 05 |
 | **[Miami HEAT](http://HEAT.com)** | **[Intern, Content Studio - Summer 2026](https://jobright.ai/jobs/info/6984fe99348f733a5c391a4f?utm_campaign=1053&utm_source=git)** | Miami, FL | On Site | Feb 05 |
@@ -64,6 +66,7 @@ For a complete list, click the following sortable link below:
 | **[Gray Media](https://graymedia.com)** | **[GRAY MEDIA FUTURE FOCUS INTERN SUMMER '26 - KYTV/KSPR](https://jobright.ai/jobs/info/6984f4d28da7a612045f3c22?utm_campaign=1053&utm_source=git)** | Springfield, MO | On Site | Feb 05 |
 | **[Wasserman](http://www.teamwass.com)** | **[Summer 2026 Internship - Intern, Experience](https://jobright.ai/jobs/info/6984ea6f0f6f7e7a2cdf64e5?utm_campaign=1053&utm_source=git)** | CAN - Toronto Office (Hanna Avenue) | Hybrid | Feb 05 |
 | **[Two Circles](http://www.twocircles.com/)** | **[Video Team Intern](https://jobright.ai/jobs/info/6984e1178da7a612045f2d34?utm_campaign=1053&utm_source=git)** | Kansas City, MO | On Site | Feb 05 |
+| **[Miami HEAT](http://HEAT.com)** | **[Intern, Content Studio - Summer 2026](https://jobright.ai/jobs/info/69850d48348f733a5c392b76?utm_campaign=1053&utm_source=git)** | Miami, Florida, United States | On Site | Feb 05 |
 | **[Canterbury Park](https://www.canterburypark.com)** | **[Seasonal Entertainment Intern](https://jobright.ai/jobs/info/6984f9e50f6f7e7a2cdf72b8?utm_campaign=1053&utm_source=git)** | Shakopee, Minnesota, United States | On Site | Feb 05 |
 | **[OKC Fair Park & The Oklahoma State Fair](https://okstatefair.com/)** | **[Attractions Assistant / Intern - 2026 OK State Fair](https://jobright.ai/jobs/info/6984d4718da7a612045f198a?utm_campaign=1053&utm_source=git)** | Oklahoma City, OK, Oklahoma City, OK, US | On Site | Feb 05 |
 | ↳ | **[Programs & Events Assistant / Intern - 2026 OK State Fair](https://jobright.ai/jobs/info/6984d15d348f733a5c38e7b6?utm_campaign=1053&utm_source=git)** | Oklahoma City, OK, Oklahoma City, OK, US | On Site | Feb 05 |
@@ -87,6 +90,7 @@ For a complete list, click the following sortable link below:
 | **[Emazing Group - INTO THE AM & iHeartRaves](https://emazinggroup.com/)** | **[Ecommerce Photoshoot Intern](https://jobright.ai/jobs/info/6983f4ca0f6f7e7a2cddef5d?utm_campaign=1053&utm_source=git)** | Anaheim, CA | Hybrid | Feb 04 |
 | **[HP](http://www.hp.com)** | **[Technical Communication Video Intern](https://jobright.ai/jobs/info/696dc913350cf43803149d06?utm_campaign=1053&utm_source=git)** | Boise, ID | On Site | Feb 04 |
 | **[The Broadmoor](http://www.broadmoor.com)** | **[PGM Intern/Assistant Golf Pro](https://jobright.ai/jobs/info/698411568da7a612045dfa90?utm_campaign=1053&utm_source=git)** | Broadmoor, Colorado Springs, CO 80906, USA | On Site | Feb 04 |
+| **[OKC Fair Park & The Oklahoma State Fair](https://okstatefair.com/)** | **[Attractions Assistant / Intern - 2026 OK State Fair](https://jobright.ai/jobs/info/698512af348f733a5c39362c?utm_campaign=1053&utm_source=git)** | Oklahoma City, OK | On Site | Feb 04 |
 | **[City of Racine](http://www.cityofracine.org)** | **[Main Gallery Young Artist](https://jobright.ai/jobs/info/698418610f6f7e7a2cde411e?utm_campaign=1053&utm_source=git)** | Racine, WI | On Site | Feb 04 |
 | **[City of Loveland](https://www.lovgov.org)** | **[Golf Pro Shop Seasonal Intern-The Olde Course/Cattail Creek or Marianna Butte - Part Year](https://jobright.ai/jobs/info/698407e50f6f7e7a2cde1b24?utm_campaign=1053&utm_source=git)** | Loveland, CO | On Site | Feb 04 |
 | **[General Dynamics Ordnance and Tactical Systems](http://www.gd-ots.com)** | **[Intern, Business Support (Digital Media Intern)](https://jobright.ai/jobs/info/69842835348f733a5c3807fd?utm_campaign=1053&utm_source=git)** | Saco, ME, US | On Site | Feb 04 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/69821ebda314e76369057703?utm_campaign=1053&utm_source=git)** | Raleigh, NC | Remote | Feb 03 |
 | ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/69821ea4a314e763690576f6?utm_campaign=1053&utm_source=git)** | Newark, DE | Remote | Feb 03 |
 | ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/69821e43c3101f1400c3c313?utm_campaign=1053&utm_source=git)** | Baton Rouge, LA | Remote | Feb 03 |
-| ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/69821e38a314e763690576c4?utm_campaign=1053&utm_source=git)** | Ames, IA | Remote | Feb 03 |
-| ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/69821db4a314e76369057681?utm_campaign=1053&utm_source=git)** | Edmond, OK | Remote | Feb 03 |
-| ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/69821d95a314e76369057673?utm_campaign=1053&utm_source=git)** | Louisville, KY | Remote | Feb 03 |
-| ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/69821d6b0f6f7e7a2cdb3b00?utm_campaign=1053&utm_source=git)** | Honolulu, HI | Remote | Feb 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
