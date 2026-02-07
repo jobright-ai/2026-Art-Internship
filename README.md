@@ -57,10 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Columbus Blue Jackets](http://bluejackets.com)** | **[Journalism Intern](https://jobright.ai/jobs/info/6986ac710f6f7e7a2ce1baf5?utm_campaign=1053&utm_source=git)** | Columbus, OH | On Site | Feb 06 |
 | **[Pluralsight](http://www.pluralsight.com)** | **[Newsletter Production Intern](https://jobright.ai/jobs/info/69869f4b0f6f7e7a2ce1a9e1?utm_campaign=1053&utm_source=git)** | Westlake, TX | Hybrid | Feb 06 |
 | **[City of Coral Springs](https://www.coralsprings.gov/Home)** | **[Summer Internship 2026 - Museum of Art](https://jobright.ai/jobs/info/698691c88ca8121a3a68e048?utm_campaign=1053&utm_source=git)** | Coral Springs, FL | On Site | Feb 06 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Disney Live Entertainment Costumer Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69820ba30f6f7e7a2cdb30be?utm_campaign=1053&utm_source=git)** | Lake Buena Vista, FL | On Site | Feb 06 |
 | **[Magna International](http://www.magna.com/)** | **[Video Intern - Summer 2026](https://jobright.ai/jobs/info/696ac17f350cf4380311cfd2?utm_campaign=1053&utm_source=git)** | Troy, MI | On Site | Feb 06 |
+| **[Indianapolis Motor Speedway](https://www.indianapolismotorspeedway.com/)** | **[Golf & Grounds Intern, 2026 Summer Season](https://jobright.ai/jobs/info/6986a3c08ca8121a3a68f572?utm_campaign=1053&utm_source=git)** | Indianapolis, Indiana, United States | On Site | Feb 06 |
 | **[Stats Perform](http://statsperform.com)** | **[Opta Analyst Editorial Intern](https://jobright.ai/jobs/info/69867d128ca8121a3a68c936?utm_campaign=1053&utm_source=git)** | United States | Remote | Feb 06 |
 | **[Troon](http://www.troon.com/)** | **[Golf Course Maintenance Internship](https://jobright.ai/jobs/info/6986795a8da7a6120461449b?utm_campaign=1053&utm_source=git)** | St Michaels, MD | On Site | Feb 06 |
 | **[Biltmore](https://www.biltmore.com/)** | **[Spring/Summer 2026 Baking and Pastry and Culinary Arts Internship](https://jobright.ai/jobs/info/69838a54348f733a5c36a08b?utm_campaign=1053&utm_source=git)** | Asheville, NC | On Site | Feb 06 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[City of Loveland](https://www.lovgov.org)** | **[Golf Pro Shop Seasonal Intern-The Olde Course/Cattail Creek or Marianna Butte - Part Year](https://jobright.ai/jobs/info/698407e50f6f7e7a2cde1b24?utm_campaign=1053&utm_source=git)** | Loveland, CO | On Site | Feb 04 |
 | **[General Dynamics Ordnance and Tactical Systems](http://www.gd-ots.com)** | **[Intern, Business Support (Digital Media Intern)](https://jobright.ai/jobs/info/69842835348f733a5c3807fd?utm_campaign=1053&utm_source=git)** | Saco, ME, US | On Site | Feb 04 |
 | ↳ | **[Intern, Business Support (Digital Media Intern)](https://jobright.ai/jobs/info/69842fb00f6f7e7a2cde702d?utm_campaign=1053&utm_source=git)** | US-ME-Saco | On Site | Feb 04 |
-| **[Quanta Magazine](https://www.quantamagazine.org)** | **[Video Intern](https://jobright.ai/jobs/info/69680a03f25a380066965e98?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Feb 04 |
-| **[Salt XC](https://www.saltxc.com/)** | **[AI Enablement Content Producer (Intern)](https://jobright.ai/jobs/info/6982a17a0f6f7e7a2cdbf34a?utm_campaign=1053&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Feb 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
