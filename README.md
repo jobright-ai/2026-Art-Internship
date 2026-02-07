@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Disney Television Animation Studio Planning & Operations Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/698729de0f6f7e7a2ce269e3?utm_campaign=1053&utm_source=git)** | Glendale, CA | On Site | Feb 07 |
+| ↳ | **[Disney Television Animation Creative Production Intern, Summer 2026](https://jobright.ai/jobs/info/698729280f6f7e7a2ce269d1?utm_campaign=1053&utm_source=git)** | Glendale, CA | On Site | Feb 07 |
 | **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[Her Campus Culture & Style Intern - Summer 2026](https://jobright.ai/jobs/info/6987086c0f6f7e7a2ce24338?utm_campaign=1053&utm_source=git)** | United States | Remote | Feb 06 |
 | **[The Children's Museum of Indianapolis](https://www.childrensmuseum.org)** | **[Gallery Operations Intern - Summer 2026](https://jobright.ai/jobs/info/6986d2bf0f6f7e7a2ce205e8?utm_campaign=1053&utm_source=git)** | Indianapolis, IN | On Site | Feb 06 |
 | **[City of Greenwood Village](https://greenwoodvillage.com)** | **[Seasonal Recreation Intern](https://jobright.ai/jobs/info/6986d1268da7a6120461d4e2?utm_campaign=1053&utm_source=git)** | Englewood, CO | On Site | Feb 06 |
@@ -78,7 +80,7 @@ For a complete list, click the following sortable link below:
 | **[Stats Perform](http://statsperform.com)** | **[Opta Analyst Editorial Intern](https://jobright.ai/jobs/info/69866e148da7a6120461335d?utm_campaign=1053&utm_source=git)** | Home, LA, LA, 1111, US | On Site | Feb 06 |
 | **[BRIDGE SHOWROOM](http://www.bridgeshowroom.com)** | **[Intern for NYFW wholesale shows](https://jobright.ai/jobs/info/698660fe8da7a61204611932?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Feb 06 |
 | **[Stride, Inc.](https://www.stridelearning.com)** | **[Content Creator Intern](https://jobright.ai/jobs/info/696aa0835fc86241853999d5?utm_campaign=1053&utm_source=git)** | Virginia, United States | Remote | Feb 06 |
-| **[Ilitch Companies](https://www.ilitchholdings.com)** | **[Event Coordination Intern](https://jobright.ai/jobs/info/69869dbf8da7a61204617ada?utm_campaign=1053&utm_source=git)** | Detroit, MI | On Site | Feb 06 |
+| **[Ilitch Companies](https://www.ilitchholdings.com)** | **[Event Coordination Intern](https://jobright.ai/jobs/info/698684d20f6f7e7a2ce184ce?utm_campaign=1053&utm_source=git)** | Detroit, MI | On Site | Feb 06 |
 | **[every single guitars.](http://everysingleguitars.com)** | **[Videographer Intern](https://jobright.ai/jobs/info/6986fd1c8ca8121a3a698288?utm_campaign=1053&utm_source=git)** | San Francisco Bay Area | On Site | Feb 06 |
 | **[Apex Lacrosse Events](http://www.apexlacrosseevents.com)** | **[Summer Operations Internship - Boys Events - Apex Lacrosse Events](https://jobright.ai/jobs/info/69866ece8ca8121a3a68b675?utm_campaign=1053&utm_source=git)** | Bel Air, MD | Hybrid | Feb 06 |
 | **[UFC GYM](http://UFCGYM.com)** | **[Intern](https://jobright.ai/jobs/info/6986650a0f6f7e7a2ce153fc?utm_campaign=1053&utm_source=git)** | Las Vegas, NV | On Site | Feb 06 |
@@ -116,7 +118,7 @@ For a complete list, click the following sortable link below:
 | **[Minitab](http://www.minitab.com/en-us/)** | **[Multimedia Intern](https://jobright.ai/jobs/info/698526a3348f733a5c39557c?utm_campaign=1053&utm_source=git)** | State College, Pennsylvania, United States | On Site | Feb 05 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[LIVE! Kelly and Mark Production Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/698526418da7a612045f8381?utm_campaign=1053&utm_source=git)** | New York, NY, USA | On Site | Feb 05 |
 | **[U.S. News & World Report](http://www.usnews.com)** | **[Health Editorial Summer 2026 Intern (DC)](https://jobright.ai/jobs/info/69851dc08da7a612045f773d?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Feb 05 |
-| **[State of Iowa - Executive Branch](https://www.floydco.iowa.gov)** | **[Summer 2026 Production Intern](https://jobright.ai/jobs/info/698539848da7a612045fa4ae?utm_campaign=1053&utm_source=git)** | Johnston, IA | On Site | Feb 05 |
+| **[State of Iowa - Executive Branch](https://icrc.iowa.gov)** | **[Summer 2026 Production Intern](https://jobright.ai/jobs/info/698539848da7a612045fa4ae?utm_campaign=1053&utm_source=git)** | Johnston, IA | On Site | Feb 05 |
 | **[KUTV 2News / KMYU](http://kutv.com/)** | **[Intern - Studio Crew](https://jobright.ai/jobs/info/69853e470f6f7e7a2cdfdbe1?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Feb 05 |
 | **[TikTok](https://www.tiktok.com)** | **[Short Drama Localization Project Intern (TikTok-PGC-Short Drama) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/698516de348f733a5c393e8b?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Feb 05 |
 | **[Pampas Picnics + Rentals | Event Design and Decor](https://www.pampaspicnics.com)** | **[Special Events Summer Intern](https://jobright.ai/jobs/info/698532808da7a612045f968c?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Feb 05 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[General Dynamics Ordnance and Tactical Systems](http://www.gd-ots.com)** | **[Intern, Business Support (Digital Media Intern)](https://jobright.ai/jobs/info/69841d8d348f733a5c37eed6?utm_campaign=1053&utm_source=git)** | Saco, ME | On Site | Feb 04 |
 | **[Hudson Valley Hospice](https://www.hvhospice.org/)** | **[Music Therapy Internship](https://jobright.ai/jobs/info/6983fefc01214b4cdacc5011?utm_campaign=1053&utm_source=git)** | Poughkeepsie, NY | On Site | Feb 04 |
 | **[Zip Moving and Storage INC](https://www.zipmoving.us)** | **[Videographer](https://jobright.ai/jobs/info/69843a50348f733a5c382de1?utm_campaign=1053&utm_source=git)** | Rockville, MD | Hybrid | Feb 04 |
-| **[USA Baseball](http://www.usabaseball.com)** | **[Gameday Presentation & Public Address (PA) Announcer](https://jobright.ai/jobs/info/698417f80f6f7e7a2cde4066?utm_campaign=1053&utm_source=git)** | Cary, NC | On Site | Feb 04 |
-| **[Emazing Group - INTO THE AM & iHeartRaves](https://emazinggroup.com/)** | **[Ecommerce Photoshoot Intern](https://jobright.ai/jobs/info/6983f4ca0f6f7e7a2cddef5d?utm_campaign=1053&utm_source=git)** | Anaheim, CA | Hybrid | Feb 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
