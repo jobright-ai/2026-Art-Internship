@@ -57,12 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Indianapolis Motor Speedway](https://www.indianapolismotorspeedway.com/)** | **[Golf & Grounds Intern, 2026 Summer Season](https://jobright.ai/jobs/info/6986bf858ca8121a3a692d78?utm_campaign=1053&utm_source=git)** | Indianapolis, IN | On Site | Feb 06 |
 | **[Columbus Blue Jackets](http://bluejackets.com)** | **[Journalism Intern](https://jobright.ai/jobs/info/6986ac710f6f7e7a2ce1baf5?utm_campaign=1053&utm_source=git)** | Columbus, OH | On Site | Feb 06 |
+| **[YMCA of the Rockies](https://ymcarockies.org)** | **[CCO Videography Intern (2026)](https://jobright.ai/jobs/info/6986bf7c8da7a6120461aba2?utm_campaign=1053&utm_source=git)** | Granby, CO | On Site | Feb 06 |
 | **[Pluralsight](http://www.pluralsight.com)** | **[Newsletter Production Intern](https://jobright.ai/jobs/info/69869f4b0f6f7e7a2ce1a9e1?utm_campaign=1053&utm_source=git)** | Westlake, TX | Hybrid | Feb 06 |
 | **[City of Coral Springs](https://www.coralsprings.gov/Home)** | **[Summer Internship 2026 - Museum of Art](https://jobright.ai/jobs/info/698691c88ca8121a3a68e048?utm_campaign=1053&utm_source=git)** | Coral Springs, FL | On Site | Feb 06 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Disney Live Entertainment Costumer Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69820ba30f6f7e7a2cdb30be?utm_campaign=1053&utm_source=git)** | Lake Buena Vista, FL | On Site | Feb 06 |
 | **[Magna International](http://www.magna.com/)** | **[Video Intern - Summer 2026](https://jobright.ai/jobs/info/696ac17f350cf4380311cfd2?utm_campaign=1053&utm_source=git)** | Troy, MI | On Site | Feb 06 |
 | **[Indianapolis Motor Speedway](https://www.indianapolismotorspeedway.com/)** | **[Golf & Grounds Intern, 2026 Summer Season](https://jobright.ai/jobs/info/6986a3c08ca8121a3a68f572?utm_campaign=1053&utm_source=git)** | Indianapolis, Indiana, United States | On Site | Feb 06 |
+| **[City of Greenwood Village](https://greenwoodvillage.com)** | **[Seasonal Recreation Intern](https://jobright.ai/jobs/info/6986bcef8da7a6120461a8ba?utm_campaign=1053&utm_source=git)** | Greenwood Village, Colorado, United States | On Site | Feb 06 |
 | **[Stats Perform](http://statsperform.com)** | **[Opta Analyst Editorial Intern](https://jobright.ai/jobs/info/69867d128ca8121a3a68c936?utm_campaign=1053&utm_source=git)** | United States | Remote | Feb 06 |
 | **[Troon](http://www.troon.com/)** | **[Golf Course Maintenance Internship](https://jobright.ai/jobs/info/6986795a8da7a6120461449b?utm_campaign=1053&utm_source=git)** | St Michaels, MD | On Site | Feb 06 |
 | **[Biltmore](https://www.biltmore.com/)** | **[Spring/Summer 2026 Baking and Pastry and Culinary Arts Internship](https://jobright.ai/jobs/info/69838a54348f733a5c36a08b?utm_campaign=1053&utm_source=git)** | Asheville, NC | On Site | Feb 06 |
@@ -70,7 +73,7 @@ For a complete list, click the following sortable link below:
 | **[Stats Perform](http://statsperform.com)** | **[Opta Analyst Editorial Intern](https://jobright.ai/jobs/info/69866e148da7a6120461335d?utm_campaign=1053&utm_source=git)** | Home, LA, LA, 1111, US | On Site | Feb 06 |
 | **[BRIDGE SHOWROOM](http://www.bridgeshowroom.com)** | **[Intern for NYFW wholesale shows](https://jobright.ai/jobs/info/698660fe8da7a61204611932?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Feb 06 |
 | **[Stride, Inc.](https://www.stridelearning.com)** | **[Content Creator Intern](https://jobright.ai/jobs/info/696aa0835fc86241853999d5?utm_campaign=1053&utm_source=git)** | Virginia, United States | Remote | Feb 06 |
-| **[Ilitch Companies](https://www.ilitchholdings.com)** | **[Event Coordination Intern](https://jobright.ai/jobs/info/69869dbf8da7a61204617ada?utm_campaign=1053&utm_source=git)** | Detroit, MI | On Site | Feb 06 |
+| **[Ilitch Companies](https://www.ilitchholdings.com)** | **[Event Coordination Intern](https://jobright.ai/jobs/info/698684d20f6f7e7a2ce184ce?utm_campaign=1053&utm_source=git)** | Detroit, MI | On Site | Feb 06 |
 | **[Apex Lacrosse Events](http://www.apexlacrosseevents.com)** | **[Summer Operations Internship - Boys Events - Apex Lacrosse Events](https://jobright.ai/jobs/info/69866ece8ca8121a3a68b675?utm_campaign=1053&utm_source=git)** | Bel Air, MD | Hybrid | Feb 06 |
 | **[UFC GYM](http://UFCGYM.com)** | **[Intern](https://jobright.ai/jobs/info/6986650a0f6f7e7a2ce153fc?utm_campaign=1053&utm_source=git)** | Las Vegas, NV | On Site | Feb 06 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[ABC Hulu Scripted Programming Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69868a7c8da7a61204615c7e?utm_campaign=1053&utm_source=git)** | Burbank, CA, USA | Hybrid | Feb 06 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[OKC Fair Park & The Oklahoma State Fair](https://okstatefair.com/)** | **[Attractions Assistant / Intern - 2026 OK State Fair](https://jobright.ai/jobs/info/698512af348f733a5c39362c?utm_campaign=1053&utm_source=git)** | Oklahoma City, OK | On Site | Feb 04 |
 | ↳ | **[Programs & Events Assistant / Intern - 2026 OK State Fair](https://jobright.ai/jobs/info/69851be80f6f7e7a2cdfa573?utm_campaign=1053&utm_source=git)** | Oklahoma City, OK | On Site | Feb 04 |
 | **[City of Racine](http://www.cityofracine.org)** | **[Main Gallery Young Artist](https://jobright.ai/jobs/info/698418610f6f7e7a2cde411e?utm_campaign=1053&utm_source=git)** | Racine, WI | On Site | Feb 04 |
-| **[City of Loveland](https://www.lovgov.org)** | **[Golf Pro Shop Seasonal Intern-The Olde Course/Cattail Creek or Marianna Butte - Part Year](https://jobright.ai/jobs/info/698407e50f6f7e7a2cde1b24?utm_campaign=1053&utm_source=git)** | Loveland, CO | On Site | Feb 04 |
-| **[General Dynamics Ordnance and Tactical Systems](http://www.gd-ots.com)** | **[Intern, Business Support (Digital Media Intern)](https://jobright.ai/jobs/info/69842835348f733a5c3807fd?utm_campaign=1053&utm_source=git)** | Saco, ME, US | On Site | Feb 04 |
-| ↳ | **[Intern, Business Support (Digital Media Intern)](https://jobright.ai/jobs/info/69842fb00f6f7e7a2cde702d?utm_campaign=1053&utm_source=git)** | US-ME-Saco | On Site | Feb 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
