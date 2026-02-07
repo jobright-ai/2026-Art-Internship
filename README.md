@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Kargo](http://www.kargo.com)** | **[Intern, Global Experiences](https://jobright.ai/jobs/info/6987860d0f6f7e7a2ce2c949?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Feb 07 |
+| **[LoveLane](https://www.lovelane.co)** | **[Tiktok content creator - app start-up (unpaid) - remote US](https://jobright.ai/jobs/info/69877fae8da7a6120462999f?utm_campaign=1053&utm_source=git)** | United States | Remote | Feb 07 |
 | **[Higginbotham](https://www.higginbotham.com)** | **[Higginbotham Summer Internship - Corporate Marketing & Communications Video Editor Intern](https://jobright.ai/jobs/info/691694a56f36db06ef057fea?utm_campaign=1053&utm_source=git)** | Fort Worth, TX | On Site | Feb 07 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Digital Content Intern](https://jobright.ai/jobs/info/696af585350cf438031230f7?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Feb 07 |
 | **[Amazon](https://amazon.com)** | **[IP & Literary Intern, Prime Video & Amazon MGM Studios](https://jobright.ai/jobs/info/694f4897a2668b7f54527891?utm_campaign=1053&utm_source=git)** | Culver City, CA | On Site | Feb 07 |
@@ -65,7 +67,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[ABC Hulu Scripted Programming Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69872a7d8da7a61204623ebe?utm_campaign=1053&utm_source=git)** | Burbank, CA | On Site | Feb 07 |
 | ↳ | **[Disney Television Animation Studio Planning & Operations Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/698729de0f6f7e7a2ce269e3?utm_campaign=1053&utm_source=git)** | Glendale, CA | On Site | Feb 07 |
 | ↳ | **[Disney Television Animation Creative Production Intern, Summer 2026](https://jobright.ai/jobs/info/698729280f6f7e7a2ce269d1?utm_campaign=1053&utm_source=git)** | Glendale, CA | On Site | Feb 07 |
-| **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[Her Campus Culture & Style Intern - Summer 2026](https://jobright.ai/jobs/info/6987086c0f6f7e7a2ce24338?utm_campaign=1053&utm_source=git)** | United States | Remote | Feb 06 |
 | **[The Children's Museum of Indianapolis](https://www.childrensmuseum.org)** | **[Gallery Operations Intern - Summer 2026](https://jobright.ai/jobs/info/6986d2bf0f6f7e7a2ce205e8?utm_campaign=1053&utm_source=git)** | Indianapolis, IN | On Site | Feb 06 |
 | **[City of Greenwood Village](https://greenwoodvillage.com)** | **[Seasonal Recreation Intern](https://jobright.ai/jobs/info/6986d1268da7a6120461d4e2?utm_campaign=1053&utm_source=git)** | Englewood, CO | On Site | Feb 06 |
 | **[American Fidelity](http://www.americanfidelity.com)** | **[Videographer Intern](https://jobright.ai/jobs/info/696ae5255fc86241853a190e?utm_campaign=1053&utm_source=git)** | Oklahoma City, OK | On Site | Feb 06 |
@@ -86,7 +87,7 @@ For a complete list, click the following sortable link below:
 | **[Stats Perform](http://statsperform.com)** | **[Opta Analyst Editorial Intern](https://jobright.ai/jobs/info/69866e148da7a6120461335d?utm_campaign=1053&utm_source=git)** | Home, LA, LA, 1111, US | On Site | Feb 06 |
 | **[BRIDGE SHOWROOM](http://www.bridgeshowroom.com)** | **[Intern for NYFW wholesale shows](https://jobright.ai/jobs/info/698660fe8da7a61204611932?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Feb 06 |
 | **[Stride, Inc.](https://www.stridelearning.com)** | **[Content Creator Intern](https://jobright.ai/jobs/info/696aa0835fc86241853999d5?utm_campaign=1053&utm_source=git)** | Virginia, United States | Remote | Feb 06 |
-| **[Ilitch Companies](https://www.ilitchholdings.com)** | **[Event Coordination Intern](https://jobright.ai/jobs/info/698684d20f6f7e7a2ce184ce?utm_campaign=1053&utm_source=git)** | Detroit, MI | On Site | Feb 06 |
+| **[Ilitch Companies](https://www.ilitchholdings.com)** | **[Event Coordination Intern](https://jobright.ai/jobs/info/69869dbf8da7a61204617ada?utm_campaign=1053&utm_source=git)** | Detroit, MI | On Site | Feb 06 |
 | **[every single guitars.](http://everysingleguitars.com)** | **[Videographer Intern](https://jobright.ai/jobs/info/6986fd1c8ca8121a3a698288?utm_campaign=1053&utm_source=git)** | San Francisco Bay Area | On Site | Feb 06 |
 | **[Apex Lacrosse Events](http://www.apexlacrosseevents.com)** | **[Summer Operations Internship - Boys Events - Apex Lacrosse Events](https://jobright.ai/jobs/info/69866ece8ca8121a3a68b675?utm_campaign=1053&utm_source=git)** | Bel Air, MD | Hybrid | Feb 06 |
 | **[UFC GYM](http://UFCGYM.com)** | **[Intern](https://jobright.ai/jobs/info/6986650a0f6f7e7a2ce153fc?utm_campaign=1053&utm_source=git)** | Las Vegas, NV | On Site | Feb 06 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Skild AI](https://www.skild.ai/)** | **[Technical Animator Intern](https://jobright.ai/jobs/info/6913e9241465e02904e9882f?utm_campaign=1053&utm_source=git)** | San Mateo, CA | On Site | Feb 05 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[KGO-TV (ABC7) Assignment Desk News Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/697f4212ce48107c05435df2?utm_campaign=1053&utm_source=git)** | San Francisco, CA | On Site | Feb 05 |
 | **[Skipit](https://www.skipit.tech/)** | **[Founder Brand & Content Editing Intern (Unpaid)](https://jobright.ai/jobs/info/69843d4a8da7a612045e5635?utm_campaign=1053&utm_source=git)** | Boston, MA | Remote | Feb 04 |
-| **[TikTok](https://www.tiktok.com)** | **[TikTok Short Drama Project Intern (TikTok-Short-Drama) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69684e2af25a38006696b2a4?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Feb 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
