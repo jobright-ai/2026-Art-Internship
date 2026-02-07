@@ -57,9 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Stats Perform](http://statsperform.com)** | **[Opta Analyst Editorial Intern](https://jobright.ai/jobs/info/69867d128ca8121a3a68c936?utm_campaign=1053&utm_source=git)** | United States | Remote | Feb 06 |
+| **[Troon](http://www.troon.com/)** | **[Golf Course Maintenance Internship](https://jobright.ai/jobs/info/6986795a8da7a6120461449b?utm_campaign=1053&utm_source=git)** | St Michaels, MD | On Site | Feb 06 |
+| **[Stats Perform](http://statsperform.com)** | **[Opta Analyst Editorial Intern](https://jobright.ai/jobs/info/69866e148da7a6120461335d?utm_campaign=1053&utm_source=git)** | Home, LA, LA, 1111, US | On Site | Feb 06 |
 | **[BRIDGE SHOWROOM](http://www.bridgeshowroom.com)** | **[Intern for NYFW wholesale shows](https://jobright.ai/jobs/info/698660fe8da7a61204611932?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Feb 06 |
 | **[Stride, Inc.](https://www.stridelearning.com)** | **[Content Creator Intern](https://jobright.ai/jobs/info/696aa0835fc86241853999d5?utm_campaign=1053&utm_source=git)** | Virginia, United States | Remote | Feb 06 |
+| **[Ilitch Companies](https://www.ilitchholdings.com)** | **[Event Coordination Intern](https://jobright.ai/jobs/info/698684d20f6f7e7a2ce184ce?utm_campaign=1053&utm_source=git)** | Detroit, MI | On Site | Feb 06 |
 | **[STARR Restaurants](http://www.starr-restaurant.com)** | **[Content Creator Intern](https://jobright.ai/jobs/info/698655768da7a61204610abf?utm_campaign=1053&utm_source=git)** | NYC Metro Area | On Site | Feb 06 |
+| **[Apex Lacrosse Events](http://www.apexlacrosseevents.com)** | **[Summer Operations Internship - Boys Events - Apex Lacrosse Events](https://jobright.ai/jobs/info/69866ece8ca8121a3a68b675?utm_campaign=1053&utm_source=git)** | Bel Air, MD | Hybrid | Feb 06 |
 | **[UFC GYM](http://UFCGYM.com)** | **[Intern](https://jobright.ai/jobs/info/6986650a0f6f7e7a2ce153fc?utm_campaign=1053&utm_source=git)** | Las Vegas, NV | On Site | Feb 06 |
 | **[Museum of Science](http://www.mos.org)** | **[Planetarium Presenter Internship](https://jobright.ai/jobs/info/69863bd28ca8121a3a686a80?utm_campaign=1053&utm_source=git)** | Boston, MA | Hybrid | Feb 06 |
 | **[AVP Pro Beach Volleyball](https://avp.com/)** | **[2026 Regional Intern](https://jobright.ai/jobs/info/69863bc80f6f7e7a2ce11e60?utm_campaign=1053&utm_source=git)** | California, United States | On Site | Feb 06 |
@@ -121,7 +126,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Programs & Events Assistant / Intern - 2026 OK State Fair](https://jobright.ai/jobs/info/6984d15d348f733a5c38e7b6?utm_campaign=1053&utm_source=git)** | Oklahoma City, OK, Oklahoma City, OK, US | On Site | Feb 05 |
 | **[Two Circles](http://www.twocircles.com/)** | **[Video Team Intern](https://jobright.ai/jobs/info/6984e4228da7a612045f2f91?utm_campaign=1053&utm_source=git)** | Miami, FL | On Site | Feb 05 |
 | ↳ | **[Video Team Intern](https://jobright.ai/jobs/info/6984eb478da7a612045f3622?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Feb 05 |
-| **[Rumson Country Club](http://www.rumsoncc.org)** | **[Communications Intern](https://jobright.ai/jobs/info/69852e5a0f6f7e7a2cdfbba9?utm_campaign=1053&utm_source=git)** | Rumson, NJ | On Site | Feb 05 |
 | **[Fast Company](http://www.fastcompany.com)** | **[Editorial Fellowship](https://jobright.ai/jobs/info/6984bfde0f6f7e7a2cdf330b?utm_campaign=1053&utm_source=git)** | NYC Metro Area | On Site | Feb 05 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[ABC News Medical Unit Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/697f41d9ce48107c05435dd7?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Feb 05 |
 | **[Operation Smile](http://www.operationsmile.org)** | **[Writing Internship - Operation Smile ILC](https://jobright.ai/jobs/info/696883c31703f05405aa42b9?utm_campaign=1053&utm_source=git)** | Virginia Beach, VA | On Site | Feb 05 |
@@ -137,24 +141,20 @@ For a complete list, click the following sortable link below:
 | **[Zip Moving and Storage INC](https://www.zipmoving.us)** | **[Videographer](https://jobright.ai/jobs/info/69843a50348f733a5c382de1?utm_campaign=1053&utm_source=git)** | Rockville, MD | Hybrid | Feb 04 |
 | **[USA Baseball](http://www.usabaseball.com)** | **[Gameday Presentation & Public Address (PA) Announcer](https://jobright.ai/jobs/info/698417f80f6f7e7a2cde4066?utm_campaign=1053&utm_source=git)** | Cary, NC | On Site | Feb 04 |
 | **[Emazing Group - INTO THE AM & iHeartRaves](https://emazinggroup.com/)** | **[Ecommerce Photoshoot Intern](https://jobright.ai/jobs/info/6983f4ca0f6f7e7a2cddef5d?utm_campaign=1053&utm_source=git)** | Anaheim, CA | Hybrid | Feb 04 |
-| **[HP](http://www.hp.com)** | **[Technical Communication Video Intern](https://jobright.ai/jobs/info/696dc913350cf43803149d06?utm_campaign=1053&utm_source=git)** | Boise, ID | On Site | Feb 04 |
 | **[The Broadmoor](http://www.broadmoor.com)** | **[PGM Intern/Assistant Golf Pro](https://jobright.ai/jobs/info/698411568da7a612045dfa90?utm_campaign=1053&utm_source=git)** | Broadmoor, Colorado Springs, CO 80906, USA | On Site | Feb 04 |
 | **[OKC Fair Park & The Oklahoma State Fair](https://okstatefair.com/)** | **[Attractions Assistant / Intern - 2026 OK State Fair](https://jobright.ai/jobs/info/698512af348f733a5c39362c?utm_campaign=1053&utm_source=git)** | Oklahoma City, OK | On Site | Feb 04 |
 | ↳ | **[Programs & Events Assistant / Intern - 2026 OK State Fair](https://jobright.ai/jobs/info/69851be80f6f7e7a2cdfa573?utm_campaign=1053&utm_source=git)** | Oklahoma City, OK | On Site | Feb 04 |
 | **[City of Racine](http://www.cityofracine.org)** | **[Main Gallery Young Artist](https://jobright.ai/jobs/info/698418610f6f7e7a2cde411e?utm_campaign=1053&utm_source=git)** | Racine, WI | On Site | Feb 04 |
 | **[City of Loveland](https://www.lovgov.org)** | **[Golf Pro Shop Seasonal Intern-The Olde Course/Cattail Creek or Marianna Butte - Part Year](https://jobright.ai/jobs/info/698407e50f6f7e7a2cde1b24?utm_campaign=1053&utm_source=git)** | Loveland, CO | On Site | Feb 04 |
-| **[General Dynamics Ordnance and Tactical Systems](http://www.gd-ots.com)** | **[Intern, Business Support (Digital Media Intern)](https://jobright.ai/jobs/info/69842835348f733a5c3807fd?utm_campaign=1053&utm_source=git)** | Saco, ME, US | On Site | Feb 04 |
-| ↳ | **[Intern, Business Support (Digital Media Intern)](https://jobright.ai/jobs/info/69842fb00f6f7e7a2cde702d?utm_campaign=1053&utm_source=git)** | US-ME-Saco | On Site | Feb 04 |
+| **[General Dynamics Ordnance and Tactical Systems](http://www.gd-ots.com)** | **[Intern, Business Support (Digital Media Intern)](https://jobright.ai/jobs/info/69842fb00f6f7e7a2cde702d?utm_campaign=1053&utm_source=git)** | US-ME-Saco | On Site | Feb 04 |
+| ↳ | **[Intern, Business Support (Digital Media Intern)](https://jobright.ai/jobs/info/69842835348f733a5c3807fd?utm_campaign=1053&utm_source=git)** | Saco, ME, US | On Site | Feb 04 |
 | **[Quanta Magazine](https://www.quantamagazine.org)** | **[Video Intern](https://jobright.ai/jobs/info/69680a03f25a380066965e98?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Feb 04 |
 | **[Salt XC](https://www.saltxc.com/)** | **[AI Enablement Content Producer (Intern)](https://jobright.ai/jobs/info/6982a17a0f6f7e7a2cdbf34a?utm_campaign=1053&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Feb 04 |
 | **[The Dallas Morning News](http://www.dallasnews.com)** | **[SFGATE UC Berkeley Graduate School of Journalism Summer Intern, 2026](https://jobright.ai/jobs/info/6984e322348f733a5c390286?utm_campaign=1053&utm_source=git)** | San Francisco, CA | Hybrid | Feb 04 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/6984dd450f6f7e7a2cdf57bd?utm_campaign=1053&utm_source=git)** | Winter Park, FL | On Site | Feb 04 |
 | ↳ | **[KMBC News Intern](https://jobright.ai/jobs/info/6984e253348f733a5c390229?utm_campaign=1053&utm_source=git)** | Kansas City, MO | On Site | Feb 04 |
 | ↳ | **[WGAL News Intern - 2026 Summer](https://jobright.ai/jobs/info/6984e57f348f733a5c390433?utm_campaign=1053&utm_source=git)** | Lancaster, PA | On Site | Feb 04 |
-| ↳ | **[News Intern](https://jobright.ai/jobs/info/6984d6bf0f6f7e7a2cdf4f6a?utm_campaign=1053&utm_source=git)** | Jackson, MS | On Site | Feb 04 |
 | **[Psycho Bunny](https://www.psychobunny.com/)** | **[Omnichannel Internship](https://jobright.ai/jobs/info/6983d8980f6f7e7a2cdda7a7?utm_campaign=1053&utm_source=git)** | Montreal, Quebec, Canada | On Site | Feb 04 |
 | **[Good Karma Brands](https://goodkarmabrands.com/)** | **[ESPN Cleveland 2026 Summer Internship](https://jobright.ai/jobs/info/6983cbf601214b4cdacbcce4?utm_campaign=1053&utm_source=git)** | Cleveland, OH | On Site | Feb 04 |
 | **[Dometic](https://www.dometic.com)** | **[Creative Producer Intern](https://jobright.ai/jobs/info/6983d684348f733a5c3748f3?utm_campaign=1053&utm_source=git)** | Irvine, CA | Hybrid | Feb 04 |
 | **[Marquee Sports Network](https://www.marqueesportsnetwork.com/)** | **[Production Intern](https://jobright.ai/jobs/info/6983ebdb0f6f7e7a2cdddf62?utm_campaign=1053&utm_source=git)** | Chicago, IL, US | On Site | Feb 04 |
-| **[Drum Corps International](https://www.dci.org/static/about-drum-corps-international)** | **[Video Production Intern/Seasonal](https://jobright.ai/jobs/info/6983ca8001214b4cdacbcb65?utm_campaign=1053&utm_source=git)** | Indianapolis, IN | On Site | Feb 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
