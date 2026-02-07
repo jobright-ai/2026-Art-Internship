@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[American Fidelity](http://www.americanfidelity.com)** | **[Videographer Intern](https://jobright.ai/jobs/info/696ae5255fc86241853a190e?utm_campaign=1053&utm_source=git)** | Oklahoma City, OK | On Site | Feb 06 |
 | **[Indianapolis Motor Speedway](https://www.indianapolismotorspeedway.com/)** | **[Golf & Grounds Intern, 2026 Summer Season](https://jobright.ai/jobs/info/6986bf858ca8121a3a692d78?utm_campaign=1053&utm_source=git)** | Indianapolis, IN | On Site | Feb 06 |
 | **[Columbus Blue Jackets](http://bluejackets.com)** | **[Journalism Intern](https://jobright.ai/jobs/info/6986ac710f6f7e7a2ce1baf5?utm_campaign=1053&utm_source=git)** | Columbus, OH | On Site | Feb 06 |
 | **[YMCA of the Rockies](https://ymcarockies.org)** | **[CCO Videography Intern (2026)](https://jobright.ai/jobs/info/6986bf7c8da7a6120461aba2?utm_campaign=1053&utm_source=git)** | Granby, CO | On Site | Feb 06 |
@@ -73,7 +74,7 @@ For a complete list, click the following sortable link below:
 | **[Stats Perform](http://statsperform.com)** | **[Opta Analyst Editorial Intern](https://jobright.ai/jobs/info/69866e148da7a6120461335d?utm_campaign=1053&utm_source=git)** | Home, LA, LA, 1111, US | On Site | Feb 06 |
 | **[BRIDGE SHOWROOM](http://www.bridgeshowroom.com)** | **[Intern for NYFW wholesale shows](https://jobright.ai/jobs/info/698660fe8da7a61204611932?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Feb 06 |
 | **[Stride, Inc.](https://www.stridelearning.com)** | **[Content Creator Intern](https://jobright.ai/jobs/info/696aa0835fc86241853999d5?utm_campaign=1053&utm_source=git)** | Virginia, United States | Remote | Feb 06 |
-| **[Ilitch Companies](https://www.ilitchholdings.com)** | **[Event Coordination Intern](https://jobright.ai/jobs/info/698684d20f6f7e7a2ce184ce?utm_campaign=1053&utm_source=git)** | Detroit, MI | On Site | Feb 06 |
+| **[Ilitch Companies](https://www.ilitchholdings.com)** | **[Event Coordination Intern](https://jobright.ai/jobs/info/69869dbf8da7a61204617ada?utm_campaign=1053&utm_source=git)** | Detroit, MI | On Site | Feb 06 |
 | **[Apex Lacrosse Events](http://www.apexlacrosseevents.com)** | **[Summer Operations Internship - Boys Events - Apex Lacrosse Events](https://jobright.ai/jobs/info/69866ece8ca8121a3a68b675?utm_campaign=1053&utm_source=git)** | Bel Air, MD | Hybrid | Feb 06 |
 | **[UFC GYM](http://UFCGYM.com)** | **[Intern](https://jobright.ai/jobs/info/6986650a0f6f7e7a2ce153fc?utm_campaign=1053&utm_source=git)** | Las Vegas, NV | On Site | Feb 06 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[ABC Hulu Scripted Programming Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69868a7c8da7a61204615c7e?utm_campaign=1053&utm_source=git)** | Burbank, CA, USA | Hybrid | Feb 06 |
@@ -123,7 +124,6 @@ For a complete list, click the following sortable link below:
 | **[Miami HEAT](http://HEAT.com)** | **[Intern, Content Studio - Summer 2026](https://jobright.ai/jobs/info/6984fe99348f733a5c391a4f?utm_campaign=1053&utm_source=git)** | Miami, FL | On Site | Feb 05 |
 | **[The State University of New York](http://www.suny.edu/)** | **[Multimedia Production Intern](https://jobright.ai/jobs/info/690a6177bcccf20de59e184c?utm_campaign=1053&utm_source=git)** | Albany, NY | On Site | Feb 05 |
 | **[Wasserman](http://www.teamwass.com)** | **[Summer 2026 Internship - Intern, Experience](https://jobright.ai/jobs/info/69851a320f6f7e7a2cdfa187?utm_campaign=1053&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Feb 05 |
-| **[NINETY8 Music Group](www.ninety8.info)** | **[Artist Manager (day to day) internship](https://jobright.ai/jobs/info/69851b7c0f6f7e7a2cdfa4e5?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | Feb 05 |
 | **[GovExec](https://about.govexec.com/)** | **[Intern](https://jobright.ai/jobs/info/6985258b0f6f7e7a2cdfb0b4?utm_campaign=1053&utm_source=git)** | New York, NY, US | Hybrid | Feb 05 |
 | **[Gray Media](https://graymedia.com)** | **[GRAY MEDIA FUTURE FOCUS INTERN SUMMER '26 - KYTV/KSPR](https://jobright.ai/jobs/info/6984f4d28da7a612045f3c22?utm_campaign=1053&utm_source=git)** | Springfield, MO | On Site | Feb 05 |
 | **[UFC GYM](http://UFCGYM.com)** | **[Intern - Digital Media YouTube Intern, UFC](https://jobright.ai/jobs/info/6985196e348f733a5c394496?utm_campaign=1053&utm_source=git)** | Las Vegas, NV | On Site | Feb 05 |
