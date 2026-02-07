@@ -57,8 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BRIDGE SHOWROOM](http://www.bridgeshowroom.com)** | **[Intern for NYFW wholesale shows](https://jobright.ai/jobs/info/698660fe8da7a61204611932?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Feb 06 |
 | **[Stride, Inc.](https://www.stridelearning.com)** | **[Content Creator Intern](https://jobright.ai/jobs/info/696aa0835fc86241853999d5?utm_campaign=1053&utm_source=git)** | Virginia, United States | Remote | Feb 06 |
 | **[STARR Restaurants](http://www.starr-restaurant.com)** | **[Content Creator Intern](https://jobright.ai/jobs/info/698655768da7a61204610abf?utm_campaign=1053&utm_source=git)** | NYC Metro Area | On Site | Feb 06 |
+| **[UFC GYM](http://UFCGYM.com)** | **[Intern](https://jobright.ai/jobs/info/6986650a0f6f7e7a2ce153fc?utm_campaign=1053&utm_source=git)** | Las Vegas, NV | On Site | Feb 06 |
 | **[Museum of Science](http://www.mos.org)** | **[Planetarium Presenter Internship](https://jobright.ai/jobs/info/69863bd28ca8121a3a686a80?utm_campaign=1053&utm_source=git)** | Boston, MA | Hybrid | Feb 06 |
 | **[AVP Pro Beach Volleyball](https://avp.com/)** | **[2026 Regional Intern](https://jobright.ai/jobs/info/69863bc80f6f7e7a2ce11e60?utm_campaign=1053&utm_source=git)** | California, United States | On Site | Feb 06 |
 | **[Museum of Science](http://www.mos.org)** | **[Digital Media Internship](https://jobright.ai/jobs/info/6986346e0f6f7e7a2ce1176f?utm_campaign=1053&utm_source=git)** | Boston, MA | On Site | Feb 06 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Dometic](https://www.dometic.com)** | **[Creative Producer Intern](https://jobright.ai/jobs/info/6983d684348f733a5c3748f3?utm_campaign=1053&utm_source=git)** | Irvine, CA | Hybrid | Feb 04 |
 | **[Marquee Sports Network](https://www.marqueesportsnetwork.com/)** | **[Production Intern](https://jobright.ai/jobs/info/6983ebdb0f6f7e7a2cdddf62?utm_campaign=1053&utm_source=git)** | Chicago, IL, US | On Site | Feb 04 |
 | **[Drum Corps International](https://www.dci.org/static/about-drum-corps-international)** | **[Video Production Intern/Seasonal](https://jobright.ai/jobs/info/6983ca8001214b4cdacbcb65?utm_campaign=1053&utm_source=git)** | Indianapolis, IN | On Site | Feb 04 |
-| **[McClatchy Media](https://www.mcclatchy.com/)** | **[News Intern - Part-time](https://jobright.ai/jobs/info/6983cce901214b4cdacbced6?utm_campaign=1053&utm_source=git)** | San Luis Obispo, CA | On Site | Feb 04 |
-| **[Coastal Carolina University](http://www.coastal.edu/)** | **[Production Assistant (Student Employee)](https://jobright.ai/jobs/info/69161f33286ccf0a15132ad9?utm_campaign=1053&utm_source=git)** | Conway, SC | On Site | Feb 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
