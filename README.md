@@ -57,7 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Disney Television Animation Studio Planning & Operations Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/698729de0f6f7e7a2ce269e3?utm_campaign=1053&utm_source=git)** | Glendale, CA | On Site | Feb 07 |
+| **[Amazon](https://amazon.com)** | **[IP & Literary Intern, Prime Video & Amazon MGM Studios](https://jobright.ai/jobs/info/694f4897a2668b7f54527891?utm_campaign=1053&utm_source=git)** | Culver City, CA | On Site | Feb 07 |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[ABC News Race & Culture Production Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69820653c3101f1400c3b43c?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Feb 07 |
+| ↳ | **[Studio Operations in Home Mastering Intern, Summer 2026](https://jobright.ai/jobs/info/69833b3e348f733a5c3645d2?utm_campaign=1053&utm_source=git)** | Burbank, CA | On Site | Feb 07 |
+| ↳ | **[ABC Hulu Scripted Programming Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69872a7d8da7a61204623ebe?utm_campaign=1053&utm_source=git)** | Burbank, CA | On Site | Feb 07 |
+| ↳ | **[Disney Television Animation Studio Planning & Operations Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/698729de0f6f7e7a2ce269e3?utm_campaign=1053&utm_source=git)** | Glendale, CA | On Site | Feb 07 |
 | ↳ | **[Disney Television Animation Creative Production Intern, Summer 2026](https://jobright.ai/jobs/info/698729280f6f7e7a2ce269d1?utm_campaign=1053&utm_source=git)** | Glendale, CA | On Site | Feb 07 |
 | **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[Her Campus Culture & Style Intern - Summer 2026](https://jobright.ai/jobs/info/6987086c0f6f7e7a2ce24338?utm_campaign=1053&utm_source=git)** | United States | Remote | Feb 06 |
 | **[The Children's Museum of Indianapolis](https://www.childrensmuseum.org)** | **[Gallery Operations Intern - Summer 2026](https://jobright.ai/jobs/info/6986d2bf0f6f7e7a2ce205e8?utm_campaign=1053&utm_source=git)** | Indianapolis, IN | On Site | Feb 06 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Skipit](https://www.skipit.tech/)** | **[Founder Brand & Content Editing Intern (Unpaid)](https://jobright.ai/jobs/info/69843d4a8da7a612045e5635?utm_campaign=1053&utm_source=git)** | Boston, MA | Remote | Feb 04 |
 | **[TikTok](https://www.tiktok.com)** | **[TikTok Short Drama Project Intern (TikTok-Short-Drama) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69684e2af25a38006696b2a4?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Feb 04 |
 | **[Asian Art Museum](http://www.asianart.org)** | **[ArtSpeak Internship](https://jobright.ai/jobs/info/69845307348f733a5c384f93?utm_campaign=1053&utm_source=git)** | San Francisco, California, United States | On Site | Feb 04 |
-| **[14th and Co.](https://www.linkedin.com/company/111338344)** | **[Video and Content Intern](https://jobright.ai/jobs/info/69849c7b0f6f7e7a2cdf11f6?utm_campaign=1053&utm_source=git)** | Northern Virginia, VA | On Site | Feb 04 |
-| **[General Dynamics Ordnance and Tactical Systems](http://www.gd-ots.com)** | **[Intern, Business Support (Digital Media Intern)](https://jobright.ai/jobs/info/69841d8d348f733a5c37eed6?utm_campaign=1053&utm_source=git)** | Saco, ME | On Site | Feb 04 |
-| **[Hudson Valley Hospice](https://www.hvhospice.org/)** | **[Music Therapy Internship](https://jobright.ai/jobs/info/6983fefc01214b4cdacc5011?utm_campaign=1053&utm_source=git)** | Poughkeepsie, NY | On Site | Feb 04 |
-| **[Zip Moving and Storage INC](https://www.zipmoving.us)** | **[Videographer](https://jobright.ai/jobs/info/69843a50348f733a5c382de1?utm_campaign=1053&utm_source=git)** | Rockville, MD | Hybrid | Feb 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
