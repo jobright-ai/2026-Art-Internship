@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[Her Campus Culture & Style Intern - Summer 2026](https://jobright.ai/jobs/info/6987086c0f6f7e7a2ce24338?utm_campaign=1053&utm_source=git)** | United States | Remote | Feb 06 |
 | **[The Children's Museum of Indianapolis](https://www.childrensmuseum.org)** | **[Gallery Operations Intern - Summer 2026](https://jobright.ai/jobs/info/6986d2bf0f6f7e7a2ce205e8?utm_campaign=1053&utm_source=git)** | Indianapolis, IN | On Site | Feb 06 |
 | **[City of Greenwood Village](https://greenwoodvillage.com)** | **[Seasonal Recreation Intern](https://jobright.ai/jobs/info/6986d1268da7a6120461d4e2?utm_campaign=1053&utm_source=git)** | Englewood, CO | On Site | Feb 06 |
 | **[American Fidelity](http://www.americanfidelity.com)** | **[Videographer Intern](https://jobright.ai/jobs/info/696ae5255fc86241853a190e?utm_campaign=1053&utm_source=git)** | Oklahoma City, OK | On Site | Feb 06 |
@@ -77,7 +78,7 @@ For a complete list, click the following sortable link below:
 | **[Stats Perform](http://statsperform.com)** | **[Opta Analyst Editorial Intern](https://jobright.ai/jobs/info/69866e148da7a6120461335d?utm_campaign=1053&utm_source=git)** | Home, LA, LA, 1111, US | On Site | Feb 06 |
 | **[BRIDGE SHOWROOM](http://www.bridgeshowroom.com)** | **[Intern for NYFW wholesale shows](https://jobright.ai/jobs/info/698660fe8da7a61204611932?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Feb 06 |
 | **[Stride, Inc.](https://www.stridelearning.com)** | **[Content Creator Intern](https://jobright.ai/jobs/info/696aa0835fc86241853999d5?utm_campaign=1053&utm_source=git)** | Virginia, United States | Remote | Feb 06 |
-| **[Ilitch Companies](https://www.ilitchholdings.com)** | **[Event Coordination Intern](https://jobright.ai/jobs/info/698684d20f6f7e7a2ce184ce?utm_campaign=1053&utm_source=git)** | Detroit, MI | On Site | Feb 06 |
+| **[Ilitch Companies](https://www.ilitchholdings.com)** | **[Event Coordination Intern](https://jobright.ai/jobs/info/69869dbf8da7a61204617ada?utm_campaign=1053&utm_source=git)** | Detroit, MI | On Site | Feb 06 |
 | **[every single guitars.](http://everysingleguitars.com)** | **[Videographer Intern](https://jobright.ai/jobs/info/6986fd1c8ca8121a3a698288?utm_campaign=1053&utm_source=git)** | San Francisco Bay Area | On Site | Feb 06 |
 | **[Apex Lacrosse Events](http://www.apexlacrosseevents.com)** | **[Summer Operations Internship - Boys Events - Apex Lacrosse Events](https://jobright.ai/jobs/info/69866ece8ca8121a3a68b675?utm_campaign=1053&utm_source=git)** | Bel Air, MD | Hybrid | Feb 06 |
 | **[UFC GYM](http://UFCGYM.com)** | **[Intern](https://jobright.ai/jobs/info/6986650a0f6f7e7a2ce153fc?utm_campaign=1053&utm_source=git)** | Las Vegas, NV | On Site | Feb 06 |
@@ -104,7 +105,6 @@ For a complete list, click the following sortable link below:
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Disney Television Animation Studio Planning & Operations Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/6985ccac0f6f7e7a2ce0afca?utm_campaign=1053&utm_source=git)** | Glendale, CA, USA | Hybrid | Feb 06 |
 | ↳ | **[Disney Television Animation Creative Production Intern, Summer 2026](https://jobright.ai/jobs/info/6985be2e0f6f7e7a2ce09ba5?utm_campaign=1053&utm_source=git)** | Glendale, CA, USA | Hybrid | Feb 06 |
 | **[The Nature Conservancy](http://www.nature.org)** | **[Nags Head Woods (NHW) Preserve Visitor Outreach & Communication Intern](https://jobright.ai/jobs/info/6985b65b0f6f7e7a2ce09581?utm_campaign=1053&utm_source=git)** | Kill Devil Hills, North Carolina | On Site | Feb 05 |
-| **[Alcon](http://www.alcon.com)** | **[Summer 2026 Intern - Video Production](https://jobright.ai/jobs/info/6985723e348f733a5c39db33?utm_campaign=1053&utm_source=git)** | Fort Worth, TX | On Site | Feb 05 |
 | **[Minitab](http://www.minitab.com/en-us/)** | **[Multimedia Intern](https://jobright.ai/jobs/info/698559cf8da7a612045fdb9c?utm_campaign=1053&utm_source=git)** | State College, PA | On Site | Feb 05 |
 | **[Lincoln Center for the Performing Arts](http://www.lincolncenter.org/)** | **[Intern, Event Production](https://jobright.ai/jobs/info/69854e7e8da7a612045fc623?utm_campaign=1053&utm_source=git)** | DGH 5, New York, NY, US | On Site | Feb 05 |
 | ↳ | **[Intern, Event Production](https://jobright.ai/jobs/info/6985611d348f733a5c39bd04?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Feb 05 |
