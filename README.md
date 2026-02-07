@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Digital Content Intern](https://jobright.ai/jobs/info/696af585350cf438031230f7?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Feb 07 |
 | **[Amazon](https://amazon.com)** | **[IP & Literary Intern, Prime Video & Amazon MGM Studios](https://jobright.ai/jobs/info/694f4897a2668b7f54527891?utm_campaign=1053&utm_source=git)** | Culver City, CA | On Site | Feb 07 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[ABC News Race & Culture Production Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69820653c3101f1400c3b43c?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Feb 07 |
 | ↳ | **[Studio Operations in Home Mastering Intern, Summer 2026](https://jobright.ai/jobs/info/69833b3e348f733a5c3645d2?utm_campaign=1053&utm_source=git)** | Burbank, CA | On Site | Feb 07 |
@@ -105,6 +106,7 @@ For a complete list, click the following sortable link below:
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[WDI Figure Animator Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/698201ecc3101f1400c3b0d4?utm_campaign=1053&utm_source=git)** | Glendale, CA | On Site | Feb 06 |
 | ↳ | **[Disney Live Entertainment Production Assistant Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/6981ffe0a314e763690562b8?utm_campaign=1053&utm_source=git)** | Kissimmee, FL | On Site | Feb 06 |
 | ↳ | **[LIVE! Kelly and Mark Production Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/6985dac28da7a61204608e22?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Feb 06 |
+| **[GovExec](https://about.govexec.com/)** | **[Editorial Intern, City & State New York](https://jobright.ai/jobs/info/698517c90f6f7e7a2cdf9bef?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Feb 06 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[The Hill Summer 2026 Editorial Intern- Washington DC](https://jobright.ai/jobs/info/6969fc78f25a38006698c109?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Feb 06 |
 | **[Knights of Columbus](http://www.kofc.org)** | **[Archives Intern](https://jobright.ai/jobs/info/697985cbca92cf0d6a82ae89?utm_campaign=1053&utm_source=git)** | New Haven, CT | On Site | Feb 06 |
 | **[The Nature Conservancy](http://www.nature.org)** | **[Nags Head Woods (NHW) Preserve Visitor Outreach & Communication Intern](https://jobright.ai/jobs/info/6985ad5d8da7a61204605e5f?utm_campaign=1053&utm_source=git)** | Kill Devil Hills, NC | On Site | Feb 06 |
@@ -128,7 +130,6 @@ For a complete list, click the following sortable link below:
 | **[Pampas Picnics + Rentals | Event Design and Decor](https://www.pampaspicnics.com)** | **[Special Events Summer Intern](https://jobright.ai/jobs/info/698532808da7a612045f968c?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Feb 05 |
 | **[OceanX](https://oceanx.org/)** | **[Post Production Intern](https://jobright.ai/jobs/info/698513090f6f7e7a2cdf914b?utm_campaign=1053&utm_source=git)** | New York City, NY | Hybrid | Feb 05 |
 | **[UFC GYM](http://UFCGYM.com)** | **[Intern - Spanish Production Intern, UFC](https://jobright.ai/jobs/info/698505b5348f733a5c3922f6?utm_campaign=1053&utm_source=git)** | Las Vegas, NV | On Site | Feb 05 |
-| **[GovExec](https://about.govexec.com/)** | **[Intern](https://jobright.ai/jobs/info/698517c90f6f7e7a2cdf9bef?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Feb 05 |
 | **[Social View Agency](https://www.linkedin.com/company/81888485)** | **[Onsite Content Creator Intern](https://jobright.ai/jobs/info/698500a6348f733a5c391ccd?utm_campaign=1053&utm_source=git)** | Orange, CA | On Site | Feb 05 |
 | **[Canterbury Park](https://www.canterburypark.com)** | **[Seasonal Entertainment Intern](https://jobright.ai/jobs/info/69851ee70f6f7e7a2cdfa83f?utm_campaign=1053&utm_source=git)** | Shakopee, MN | On Site | Feb 05 |
 | **[Miami HEAT](http://HEAT.com)** | **[Intern, Content Studio - Summer 2026](https://jobright.ai/jobs/info/6984fe99348f733a5c391a4f?utm_campaign=1053&utm_source=git)** | Miami, FL | On Site | Feb 05 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[KGO-TV (ABC7) Assignment Desk News Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/697f4212ce48107c05435df2?utm_campaign=1053&utm_source=git)** | San Francisco, CA | On Site | Feb 05 |
 | **[Skipit](https://www.skipit.tech/)** | **[Founder Brand & Content Editing Intern (Unpaid)](https://jobright.ai/jobs/info/69843d4a8da7a612045e5635?utm_campaign=1053&utm_source=git)** | Boston, MA | Remote | Feb 04 |
 | **[TikTok](https://www.tiktok.com)** | **[TikTok Short Drama Project Intern (TikTok-Short-Drama) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69684e2af25a38006696b2a4?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Feb 04 |
-| **[Asian Art Museum](http://www.asianart.org)** | **[ArtSpeak Internship](https://jobright.ai/jobs/info/69845307348f733a5c384f93?utm_campaign=1053&utm_source=git)** | San Francisco, California, United States | On Site | Feb 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
