@@ -64,7 +64,6 @@ For a complete list, click the following sortable link below:
 | **[Fenton](http://fenton.com/)** | **[Summer Intern](https://jobright.ai/jobs/info/6988a7ca0f6f7e7a2ce3de40?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | Feb 08 |
 | **[Endeavor](http://www.endeavorco.com)** | **[Intern, Sports Broadcasting](https://jobright.ai/jobs/info/696b9f48350cf4380312f367?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Feb 08 |
 | **[NARS Cosmetics](https://www.narscosmetics.com/)** | **[Hajimari Intern, Global Artistry & Education (NARS)](https://jobright.ai/jobs/info/696bf310350cf4380313264e?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Feb 08 |
-| **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[Spoon University Editorial Intern - Summer 2026](https://jobright.ai/jobs/info/6988373f0f6f7e7a2ce37f28?utm_campaign=1053&utm_source=git)** | United States | Remote | Feb 07 |
 | **[Warner Bros. Games](https://careers.wbgames.com/studios/san-francisco/)** | **[WB Games Production Intern: LA - Summer 2026](https://jobright.ai/jobs/info/6987fc878ca8121a3a6a71b3?utm_campaign=1053&utm_source=git)** | Burbank, CA | Hybrid | Feb 07 |
 | ↳ | **[WB Games Production Intern: LA - Summer 2026](https://jobright.ai/jobs/info/6987fc170f6f7e7a2ce32aa8?utm_campaign=1053&utm_source=git)** | Burbank, CA | Hybrid | Feb 07 |
 | **[Kargo](http://www.kargo.com)** | **[Intern, Global Experiences](https://jobright.ai/jobs/info/6987ce2d8ca8121a3a6a4a30?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Feb 07 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern - FIght Pass Intern, UFC](https://jobright.ai/jobs/info/698520ea0f6f7e7a2cdfab41?utm_campaign=1053&utm_source=git)** | Las Vegas, NV | On Site | Feb 05 |
 | ↳ | **[Intern – Live Production Intern, UFC](https://jobright.ai/jobs/info/6985198c348f733a5c3944e5?utm_campaign=1053&utm_source=git)** | Las Vegas, NV | On Site | Feb 05 |
 | **[Wasserman](http://www.teamwass.com)** | **[Summer 2026 Internship - Intern, Experience](https://jobright.ai/jobs/info/6984ea6f0f6f7e7a2cdf64e5?utm_campaign=1053&utm_source=git)** | CAN - Toronto Office (Hanna Avenue) | Hybrid | Feb 05 |
+| **[Two Circles](http://www.twocircles.com/)** | **[Video Team Intern](https://jobright.ai/jobs/info/6984e1178da7a612045f2d34?utm_campaign=1053&utm_source=git)** | Kansas City, MO | On Site | Feb 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
