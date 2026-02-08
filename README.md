@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Kargo](http://www.kargo.com)** | **[Intern, Global Experiences](https://jobright.ai/jobs/info/6987ce2d8ca8121a3a6a4a30?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Feb 07 |
 | **[Warner Bros. Discovery](https://wbd.com)** | **[WB Games Production Intern: LA - Summer 2026](https://jobright.ai/jobs/info/6987b9b48da7a6120462d225?utm_campaign=1053&utm_source=git)** | CA Burbank Bldg. 750, Second Century, Tower 2 | Hybrid | Feb 07 |
 | **[KUTV 2News / KMYU](http://kutv.com/)** | **[Intern - Studio Crew](https://jobright.ai/jobs/info/6987b5f50f6f7e7a2ce2f79c?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Feb 07 |
 | **[LV Collective](https://lvcollective.com)** | **[Video Production Intern Spring 2026](https://jobright.ai/jobs/info/6987a8358da7a6120462ba40?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | Feb 07 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Video Team Intern](https://jobright.ai/jobs/info/6984eb478da7a612045f3622?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Feb 05 |
 | **[Fast Company](http://www.fastcompany.com)** | **[Editorial Fellowship](https://jobright.ai/jobs/info/6984bfde0f6f7e7a2cdf330b?utm_campaign=1053&utm_source=git)** | NYC Metro Area | On Site | Feb 05 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[ABC News Medical Unit Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/697f41d9ce48107c05435dd7?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Feb 05 |
-| **[Operation Smile](http://www.operationsmile.org)** | **[Writing Internship - Operation Smile ILC](https://jobright.ai/jobs/info/696883c31703f05405aa42b9?utm_campaign=1053&utm_source=git)** | Virginia Beach, VA | On Site | Feb 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
