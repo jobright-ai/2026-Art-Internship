@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Fenton](http://fenton.com/)** | **[Summer Intern](https://jobright.ai/jobs/info/6988a8b18ca8121a3a6b2722?utm_campaign=1053&utm_source=git)** | NYC Metro Area | Hybrid | Feb 08 |
+| ↳ | **[Summer Intern](https://jobright.ai/jobs/info/6988a89a8ca8121a3a6b271a?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Feb 08 |
+| **[Art Bridges Foundation](https://artbridgesfoundation.org)** | **[Art Bridges Academic Year 2026-27 Traveling Exhibitions Internship](https://jobright.ai/jobs/info/6933ac5a764507023d1b808a?utm_campaign=1053&utm_source=git)** | Bentonville, AR | Hybrid | Feb 08 |
+| **[Fenton](http://fenton.com/)** | **[Summer Intern](https://jobright.ai/jobs/info/6988a7ca0f6f7e7a2ce3de40?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | Feb 08 |
 | **[Endeavor](http://www.endeavorco.com)** | **[Intern, Sports Broadcasting](https://jobright.ai/jobs/info/696b9f48350cf4380312f367?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Feb 08 |
 | **[NARS Cosmetics](https://www.narscosmetics.com/)** | **[Hajimari Intern, Global Artistry & Education (NARS)](https://jobright.ai/jobs/info/696bf310350cf4380313264e?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Feb 08 |
 | **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[Spoon University Editorial Intern - Summer 2026](https://jobright.ai/jobs/info/6988373f0f6f7e7a2ce37f28?utm_campaign=1053&utm_source=git)** | United States | Remote | Feb 07 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern – Live Production Intern, UFC](https://jobright.ai/jobs/info/6985198c348f733a5c3944e5?utm_campaign=1053&utm_source=git)** | Las Vegas, NV | On Site | Feb 05 |
 | **[Wasserman](http://www.teamwass.com)** | **[Summer 2026 Internship - Intern, Experience](https://jobright.ai/jobs/info/6984ea6f0f6f7e7a2cdf64e5?utm_campaign=1053&utm_source=git)** | CAN - Toronto Office (Hanna Avenue) | Hybrid | Feb 05 |
 | **[Two Circles](http://www.twocircles.com/)** | **[Video Team Intern](https://jobright.ai/jobs/info/6984e1178da7a612045f2d34?utm_campaign=1053&utm_source=git)** | Kansas City, MO | On Site | Feb 05 |
-| **[Miami HEAT](http://HEAT.com)** | **[Intern, Content Studio - Summer 2026](https://jobright.ai/jobs/info/69850d48348f733a5c392b76?utm_campaign=1053&utm_source=git)** | Miami, Florida, United States | On Site | Feb 05 |
-| **[Canterbury Park](https://www.canterburypark.com)** | **[Seasonal Entertainment Intern](https://jobright.ai/jobs/info/6984f9e50f6f7e7a2cdf72b8?utm_campaign=1053&utm_source=git)** | Shakopee, Minnesota, United States | On Site | Feb 05 |
-| **[OKC Fair Park & The Oklahoma State Fair](https://okstatefair.com/)** | **[Attractions Assistant / Intern - 2026 OK State Fair](https://jobright.ai/jobs/info/6984d4718da7a612045f198a?utm_campaign=1053&utm_source=git)** | Oklahoma City, OK, Oklahoma City, OK, US | On Site | Feb 05 |
-| ↳ | **[Programs & Events Assistant / Intern - 2026 OK State Fair](https://jobright.ai/jobs/info/6984d15d348f733a5c38e7b6?utm_campaign=1053&utm_source=git)** | Oklahoma City, OK, Oklahoma City, OK, US | On Site | Feb 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
