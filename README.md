@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Kitchen North America](https://www.wearethekitchen.com)** | **[AI Enablement Content Producer (Intern)](https://jobright.ai/jobs/info/69826cdd0a9e07331f8d71bd?utm_campaign=1053&utm_source=git)** | Toronto, Canada | Hybrid | Feb 09 |
 | **[Indiana Fever](https://fever.wnba.com/)** | **[Digital Content Intern - Summer 2026](https://jobright.ai/jobs/info/6989bf2c4db8972cecfefcce?utm_campaign=1053&utm_source=git)** | Indianapolis, IN | On Site | Feb 09 |
 | **[KUTV 2News / KMYU](http://kutv.com/)** | **[Intern - Studio Crew](https://jobright.ai/jobs/info/6989bc670f6f7e7a2ce4ca53?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Feb 09 |
 | **[Indiana Fever](https://fever.wnba.com/)** | **[Digital Retail Intern - Summer 2026](https://jobright.ai/jobs/info/6989b8b30f6f7e7a2ce4c6a2?utm_campaign=1053&utm_source=git)** | Indianapolis, IN | On Site | Feb 09 |
@@ -106,7 +107,6 @@ For a complete list, click the following sortable link below:
 | **[Biltmore](https://www.biltmore.com/)** | **[Spring/Summer 2026 Baking and Pastry and Culinary Arts Internship](https://jobright.ai/jobs/info/69838a54348f733a5c36a08b?utm_campaign=1053&utm_source=git)** | Asheville, NC | On Site | Feb 06 |
 | **[Pluralsight](http://www.pluralsight.com)** | **[Newsletter Production Intern](https://jobright.ai/jobs/info/698695eb8ca8121a3a68e580?utm_campaign=1053&utm_source=git)** | Hybrid - Texas (Westlake) | Hybrid | Feb 06 |
 | **[Stats Perform](http://statsperform.com)** | **[Opta Analyst Editorial Intern](https://jobright.ai/jobs/info/69866e148da7a6120461335d?utm_campaign=1053&utm_source=git)** | Home, LA, LA, 1111, US | On Site | Feb 06 |
-| **[BRIDGE SHOWROOM](http://www.bridgeshowroom.com)** | **[Intern for NYFW wholesale shows](https://jobright.ai/jobs/info/698660fe8da7a61204611932?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Feb 06 |
 | **[Stride, Inc.](https://www.stridelearning.com)** | **[Content Creator Intern](https://jobright.ai/jobs/info/696aa0835fc86241853999d5?utm_campaign=1053&utm_source=git)** | Virginia, United States | Remote | Feb 06 |
 | **[Ilitch Companies](https://www.ilitchholdings.com)** | **[Event Coordination Intern](https://jobright.ai/jobs/info/698684d20f6f7e7a2ce184ce?utm_campaign=1053&utm_source=git)** | Detroit, MI | On Site | Feb 06 |
 | **[every single guitars.](http://everysingleguitars.com)** | **[Videographer Intern](https://jobright.ai/jobs/info/6986fd1c8ca8121a3a698288?utm_campaign=1053&utm_source=git)** | San Francisco Bay Area | On Site | Feb 06 |
