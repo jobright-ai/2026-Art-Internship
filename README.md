@@ -57,12 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Pacers Sports & Entertainment](http://www.pacers.com)** | **[Digital Retail Intern - Summer 2026](https://jobright.ai/jobs/info/69893b7b0f6f7e7a2ce445b4?utm_campaign=1053&utm_source=git)** | Indianapolis, IN | On Site | Feb 08 |
+| **[Pacers Sports & Entertainment](http://www.pacers.com)** | **[Digital Content Intern - Summer 2026](https://jobright.ai/jobs/info/6989522147434001cc677450?utm_campaign=1053&utm_source=git)** | Indianapolis, IN | On Site | Feb 08 |
+| ↳ | **[Digital Retail Intern - Summer 2026](https://jobright.ai/jobs/info/698950a50f6f7e7a2ce4532e?utm_campaign=1053&utm_source=git)** | Indianapolis, IN | On Site | Feb 08 |
+| ↳ | **[Digital Video Intern - Summer 2026](https://jobright.ai/jobs/info/698949098ca8121a3a6b8ff7?utm_campaign=1053&utm_source=git)** | Indianapolis, IN | On Site | Feb 08 |
+| **[BBA Consultants](https://www.bba.ca/)** | **[Stagiaire en génie minier - Été 2026](https://jobright.ai/jobs/info/698945970f6f7e7a2ce44904?utm_campaign=1053&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Feb 08 |
+| ↳ | **[Stagiaire en génie minier - Été 2026](https://jobright.ai/jobs/info/698945710f6f7e7a2ce448f4?utm_campaign=1053&utm_source=git)** | Val-d’Or, Quebec, Canada | Hybrid | Feb 08 |
 | **[Indiana Fever](https://fever.wnba.com/)** | **[Digital Content Intern - Summer 2026](https://jobright.ai/jobs/info/6989348d8da7a61204641a71?utm_campaign=1053&utm_source=git)** | Indianapolis, IN | On Site | Feb 08 |
 | ↳ | **[Digital Video Intern - Summer 2026](https://jobright.ai/jobs/info/698934258ca8121a3a6b8601?utm_campaign=1053&utm_source=git)** | Indianapolis, IN | On Site | Feb 08 |
-| **[Pacers Sports & Entertainment](http://www.pacers.com)** | **[Digital Video Intern - Summer 2026](https://jobright.ai/jobs/info/698934138da7a61204641979?utm_campaign=1053&utm_source=git)** | Indianapolis, IN | On Site | Feb 08 |
-| **[Indiana Fever](https://fever.wnba.com/)** | **[Digital Retail Intern - Summer 2026](https://jobright.ai/jobs/info/698933a38da7a6120464187e?utm_campaign=1053&utm_source=git)** | Indianapolis, IN | On Site | Feb 08 |
-| **[Pacers Sports & Entertainment](http://www.pacers.com)** | **[Digital Content Intern - Summer 2026](https://jobright.ai/jobs/info/6989334c8da7a612046417b3?utm_campaign=1053&utm_source=git)** | Indianapolis, IN | On Site | Feb 08 |
+| ↳ | **[Digital Retail Intern - Summer 2026](https://jobright.ai/jobs/info/698933a38da7a6120464187e?utm_campaign=1053&utm_source=git)** | Indianapolis, IN | On Site | Feb 08 |
 | **[TGR](http://www.thegarnettereport.com)** | **[Spring/Summer Internship](https://jobright.ai/jobs/info/6988c7938ca8121a3a6b4242?utm_campaign=1053&utm_source=git)** | NYC Metro Area | Remote | Feb 08 |
 | **[Fenton](http://fenton.com/)** | **[Summer Intern](https://jobright.ai/jobs/info/6988a8b18ca8121a3a6b2722?utm_campaign=1053&utm_source=git)** | NYC Metro Area | Hybrid | Feb 08 |
 | ↳ | **[Summer Intern](https://jobright.ai/jobs/info/6988a89a8ca8121a3a6b271a?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Feb 08 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Wasserman](http://www.teamwass.com)** | **[Summer 2026 Internship - Intern, Experience](https://jobright.ai/jobs/info/69851a320f6f7e7a2cdfa187?utm_campaign=1053&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Feb 05 |
 | **[GovExec](https://about.govexec.com/)** | **[Intern](https://jobright.ai/jobs/info/6985258b0f6f7e7a2cdfb0b4?utm_campaign=1053&utm_source=git)** | New York, NY, US | Hybrid | Feb 05 |
 | **[Gray Media](https://graymedia.com)** | **[GRAY MEDIA FUTURE FOCUS INTERN SUMMER '26 - KYTV/KSPR](https://jobright.ai/jobs/info/6984f4d28da7a612045f3c22?utm_campaign=1053&utm_source=git)** | Springfield, MO | On Site | Feb 05 |
-| **[UFC GYM](http://UFCGYM.com)** | **[Intern - Digital Media YouTube Intern, UFC](https://jobright.ai/jobs/info/6985196e348f733a5c394496?utm_campaign=1053&utm_source=git)** | Las Vegas, NV | On Site | Feb 05 |
-| ↳ | **[Intern - Originals Production Intern, UFC](https://jobright.ai/jobs/info/69851f630f6f7e7a2cdfa8e0?utm_campaign=1053&utm_source=git)** | Las Vegas, NV | On Site | Feb 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
