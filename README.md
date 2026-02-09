@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Milwaukee Brewers](https://brewers.mlb.com/)** | **[Intern - Productions](https://jobright.ai/jobs/info/698a357f4db8972cecff74f4?utm_campaign=1053&utm_source=git)** | US-WI-Milwaukee | On Site | Feb 09 |
+| **[ASM Global](http://www.asmglobal.com)** | **[Video/Content Production Intern](https://jobright.ai/jobs/info/698a353c47434001cc686a88?utm_campaign=1053&utm_source=git)** | University of Miami | On Site | Feb 09 |
+| **[Museum of Science](http://www.mos.org)** | **[Planetarium Presenter Internship](https://jobright.ai/jobs/info/69863bd28ca8121a3a686a80?utm_campaign=1053&utm_source=git)** | Boston, MA | Hybrid | Feb 09 |
+| **[Canyons School District](http://www.canyonsdistrict.org)** | **[CSDtv Intern - Digital Broadcast Intern](https://jobright.ai/jobs/info/698a1f240f6f7e7a2ce5360c?utm_campaign=1053&utm_source=git)** | Sandy, UT | On Site | Feb 09 |
 | **[Hitcents](https://hitcents.com)** | **[Content Internship](https://jobright.ai/jobs/info/698a0de04db8972cecff490e?utm_campaign=1053&utm_source=git)** | Bowling Green, KY | On Site | Feb 09 |
 | **[Edelman](http://www.edelman.com)** | **[Edelman U.S. Summer 2026 Internship Program](https://jobright.ai/jobs/info/698a0b174db8972cecff47cf?utm_campaign=1053&utm_source=git)** | San Francisco, California, USA | Hybrid | Feb 09 |
 | ↳ | **[Edelman U.S. Summer 2026 Internship Program](https://jobright.ai/jobs/info/698a0acd47434001cc683b7a?utm_campaign=1053&utm_source=git)** | Atlanta, Georgia, USA | Hybrid | Feb 09 |
@@ -71,7 +75,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Digital Video Intern - Summer 2026](https://jobright.ai/jobs/info/6989b87b47434001cc67e8e7?utm_campaign=1053&utm_source=git)** | Indianapolis, IN | On Site | Feb 09 |
 | **[City Explorer - Live Streaming Hub](https://cityexplorer.live/)** | **[Live Streaming Internship](https://jobright.ai/jobs/info/6989b7088ca8121a3a6c0bb6?utm_campaign=1053&utm_source=git)** | San Francisco Bay Area | Remote | Feb 09 |
 | **[American Public Health Association](https://www.apha.org)** | **[The Nations Health Internship: 2026 summer term (June 1 - Aug. 15)](https://jobright.ai/jobs/info/698999ff8ca8121a3a6be526?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Feb 09 |
-| **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[Spoon University Editorial Intern - Summer 2026](https://jobright.ai/jobs/info/698987c20f6f7e7a2ce4955b?utm_campaign=1053&utm_source=git)** | United States | Remote | Feb 08 |
 | **[Pacers Sports & Entertainment](http://www.pacers.com)** | **[Digital Content Intern - Summer 2026](https://jobright.ai/jobs/info/6989522147434001cc677450?utm_campaign=1053&utm_source=git)** | Indianapolis, IN | On Site | Feb 08 |
 | ↳ | **[Digital Retail Intern - Summer 2026](https://jobright.ai/jobs/info/698950a50f6f7e7a2ce4532e?utm_campaign=1053&utm_source=git)** | Indianapolis, IN | On Site | Feb 08 |
 | ↳ | **[Digital Video Intern - Summer 2026](https://jobright.ai/jobs/info/698949098ca8121a3a6b8ff7?utm_campaign=1053&utm_source=git)** | Indianapolis, IN | On Site | Feb 08 |
@@ -120,8 +123,7 @@ For a complete list, click the following sortable link below:
 | **[Apex Lacrosse Events](http://www.apexlacrosseevents.com)** | **[Summer Operations Internship - Boys Events - Apex Lacrosse Events](https://jobright.ai/jobs/info/69866ece8ca8121a3a68b675?utm_campaign=1053&utm_source=git)** | Bel Air, MD | Hybrid | Feb 06 |
 | **[UFC GYM](http://UFCGYM.com)** | **[Intern](https://jobright.ai/jobs/info/6986650a0f6f7e7a2ce153fc?utm_campaign=1053&utm_source=git)** | Las Vegas, NV | On Site | Feb 06 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[ABC Hulu Scripted Programming Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69868a7c8da7a61204615c7e?utm_campaign=1053&utm_source=git)** | Burbank, CA, USA | Hybrid | Feb 06 |
-| **[Museum of Science](http://www.mos.org)** | **[Planetarium Presenter Internship](https://jobright.ai/jobs/info/69863bd28ca8121a3a686a80?utm_campaign=1053&utm_source=git)** | Boston, MA | Hybrid | Feb 06 |
-| ↳ | **[Digital Media Internship](https://jobright.ai/jobs/info/6986346e0f6f7e7a2ce1176f?utm_campaign=1053&utm_source=git)** | Boston, MA | On Site | Feb 06 |
+| **[Museum of Science](http://www.mos.org)** | **[Digital Media Internship](https://jobright.ai/jobs/info/6986346e0f6f7e7a2ce1176f?utm_campaign=1053&utm_source=git)** | Boston, MA | On Site | Feb 06 |
 | **[Troon](http://www.troon.com/)** | **[Golf Course Maintenance Internship](https://jobright.ai/jobs/info/69865b058da7a6120461102b?utm_campaign=1053&utm_source=git)** | Saint Michaels, Maryland, United States | On Site | Feb 06 |
 | **[The Children's Museum of Indianapolis](https://www.childrensmuseum.org)** | **[Gallery Operations Intern - Summer 2026](https://jobright.ai/jobs/info/6986984f0f6f7e7a2ce1a0ba?utm_campaign=1053&utm_source=git)** | Indianapolis, Indiana, United States | On Site | Feb 06 |
 | **[Drake Cooper](https://drakecooper.com/)** | **[2026 Backstage Pass Intern](https://jobright.ai/jobs/info/6986547d0f6f7e7a2ce139e2?utm_campaign=1053&utm_source=git)** | Boise, ID | On Site | Feb 06 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Pampas Picnics + Rentals | Event Design and Decor](https://www.pampaspicnics.com)** | **[Special Events Summer Intern](https://jobright.ai/jobs/info/698532808da7a612045f968c?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Feb 05 |
 | **[OceanX](https://oceanx.org/)** | **[Post Production Intern](https://jobright.ai/jobs/info/698513090f6f7e7a2cdf914b?utm_campaign=1053&utm_source=git)** | New York City, NY | Hybrid | Feb 05 |
 | **[UFC GYM](http://UFCGYM.com)** | **[Intern - Spanish Production Intern, UFC](https://jobright.ai/jobs/info/698505b5348f733a5c3922f6?utm_campaign=1053&utm_source=git)** | Las Vegas, NV | On Site | Feb 05 |
-| **[Social View Agency](https://www.linkedin.com/company/81888485)** | **[Onsite Content Creator Intern](https://jobright.ai/jobs/info/698500a6348f733a5c391ccd?utm_campaign=1053&utm_source=git)** | Orange, CA | On Site | Feb 05 |
-| **[Canterbury Park](https://www.canterburypark.com)** | **[Seasonal Entertainment Intern](https://jobright.ai/jobs/info/69851ee70f6f7e7a2cdfa83f?utm_campaign=1053&utm_source=git)** | Shakopee, MN | On Site | Feb 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
