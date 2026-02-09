@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Milwaukee Brewers](https://brewers.mlb.com/)** | **[Intern - Productions](https://jobright.ai/jobs/info/698a3d3b47434001cc6871f8?utm_campaign=1053&utm_source=git)** | Milwaukee, WI, US | On Site | Feb 09 |
+| **[Knights of Columbus](http://www.kofc.org)** | **[Archives Intern](https://jobright.ai/jobs/info/697985cbca92cf0d6a82ae89?utm_campaign=1053&utm_source=git)** | New Haven, CT | On Site | Feb 09 |
 | **[Milwaukee Brewers](https://brewers.mlb.com/)** | **[Intern - Productions](https://jobright.ai/jobs/info/698a357f4db8972cecff74f4?utm_campaign=1053&utm_source=git)** | US-WI-Milwaukee | On Site | Feb 09 |
 | **[ASM Global](http://www.asmglobal.com)** | **[Video/Content Production Intern](https://jobright.ai/jobs/info/698a353c47434001cc686a88?utm_campaign=1053&utm_source=git)** | University of Miami | On Site | Feb 09 |
 | **[Museum of Science](http://www.mos.org)** | **[Planetarium Presenter Internship](https://jobright.ai/jobs/info/69863bd28ca8121a3a686a80?utm_campaign=1053&utm_source=git)** | Boston, MA | Hybrid | Feb 09 |
@@ -136,7 +138,6 @@ For a complete list, click the following sortable link below:
 | **[Dow Jones](http://www.dowjones.com)** | **[Reporting Internship, Mansion Global](https://jobright.ai/jobs/info/696dc1f35fc86241853c98fc?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Feb 06 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[LIVE! Kelly and Mark Production Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/6985dac28da7a61204608e22?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Feb 06 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[The Hill Summer 2026 Editorial Intern- Washington DC](https://jobright.ai/jobs/info/6969fc78f25a38006698c109?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Feb 06 |
-| **[Knights of Columbus](http://www.kofc.org)** | **[Archives Intern](https://jobright.ai/jobs/info/697985cbca92cf0d6a82ae89?utm_campaign=1053&utm_source=git)** | New Haven, CT | On Site | Feb 06 |
 | **[The Nature Conservancy](http://www.nature.org)** | **[Nags Head Woods (NHW) Preserve Visitor Outreach & Communication Intern](https://jobright.ai/jobs/info/6985ad5d8da7a61204605e5f?utm_campaign=1053&utm_source=git)** | Kill Devil Hills, NC | On Site | Feb 06 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Disney Television Animation Studio Planning & Operations Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/6985ccac0f6f7e7a2ce0afca?utm_campaign=1053&utm_source=git)** | Glendale, CA, USA | Hybrid | Feb 06 |
 | ↳ | **[Disney Television Animation Creative Production Intern, Summer 2026](https://jobright.ai/jobs/info/6985be2e0f6f7e7a2ce09ba5?utm_campaign=1053&utm_source=git)** | Glendale, CA, USA | Hybrid | Feb 06 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Short Drama Localization Project Intern (TikTok-PGC-Short Drama) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/698516de348f733a5c393e8b?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Feb 05 |
 | **[Pampas Picnics + Rentals | Event Design and Decor](https://www.pampaspicnics.com)** | **[Special Events Summer Intern](https://jobright.ai/jobs/info/698532808da7a612045f968c?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Feb 05 |
 | **[OceanX](https://oceanx.org/)** | **[Post Production Intern](https://jobright.ai/jobs/info/698513090f6f7e7a2cdf914b?utm_campaign=1053&utm_source=git)** | New York City, NY | Hybrid | Feb 05 |
-| **[UFC GYM](http://UFCGYM.com)** | **[Intern - Spanish Production Intern, UFC](https://jobright.ai/jobs/info/698505b5348f733a5c3922f6?utm_campaign=1053&utm_source=git)** | Las Vegas, NV | On Site | Feb 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
