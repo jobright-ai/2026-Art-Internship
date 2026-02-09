@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[American Public Health Association](https://www.apha.org)** | **[The Nations Health Internship: 2026 summer term (June 1 - Aug. 15)](https://jobright.ai/jobs/info/698999ff8ca8121a3a6be526?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Feb 09 |
 | **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[Spoon University Editorial Intern - Summer 2026](https://jobright.ai/jobs/info/698987c20f6f7e7a2ce4955b?utm_campaign=1053&utm_source=git)** | United States | Remote | Feb 08 |
 | **[City Explorer - Live Streaming Hub](https://cityexplorer.live/)** | **[Live Streaming Internship](https://jobright.ai/jobs/info/6989774747434001cc67ae56?utm_campaign=1053&utm_source=git)** | San Francisco, CA | Remote | Feb 08 |
 | **[Pacers Sports & Entertainment](http://www.pacers.com)** | **[Digital Content Intern - Summer 2026](https://jobright.ai/jobs/info/6989522147434001cc677450?utm_campaign=1053&utm_source=git)** | Indianapolis, IN | On Site | Feb 08 |
@@ -127,8 +128,7 @@ For a complete list, click the following sortable link below:
 | **[Christian Brothers Automotive Corporation](http://www.ChristianBrothersAuto.com)** | **[Video Production Intern- Support Center](https://jobright.ai/jobs/info/698612fa8ca8121a3a683da7?utm_campaign=1053&utm_source=git)** | Houston, TX | Hybrid | Feb 06 |
 | **[SPORTFIVE](http://www.sportfive.com/)** | **[INTERN (EXPERIENTIAL) - HOUSTON, TX](https://jobright.ai/jobs/info/692f7b7afa28370be26aaad4?utm_campaign=1053&utm_source=git)** | Houston, TX | On Site | Feb 06 |
 | **[Dow Jones](http://www.dowjones.com)** | **[Reporting Internship, Mansion Global](https://jobright.ai/jobs/info/696dc1f35fc86241853c98fc?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Feb 06 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[WDI Figure Animator Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/698201ecc3101f1400c3b0d4?utm_campaign=1053&utm_source=git)** | Glendale, CA | On Site | Feb 06 |
-| ↳ | **[LIVE! Kelly and Mark Production Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/6985dac28da7a61204608e22?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Feb 06 |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[LIVE! Kelly and Mark Production Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/6985dac28da7a61204608e22?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Feb 06 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[The Hill Summer 2026 Editorial Intern- Washington DC](https://jobright.ai/jobs/info/6969fc78f25a38006698c109?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Feb 06 |
 | **[Knights of Columbus](http://www.kofc.org)** | **[Archives Intern](https://jobright.ai/jobs/info/697985cbca92cf0d6a82ae89?utm_campaign=1053&utm_source=git)** | New Haven, CT | On Site | Feb 06 |
 | **[The Nature Conservancy](http://www.nature.org)** | **[Nags Head Woods (NHW) Preserve Visitor Outreach & Communication Intern](https://jobright.ai/jobs/info/6985ad5d8da7a61204605e5f?utm_campaign=1053&utm_source=git)** | Kill Devil Hills, NC | On Site | Feb 06 |
