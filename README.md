@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Pacers Sports & Entertainment](http://www.pacers.com)** | **[Digital Retail Intern - Summer 2026](https://jobright.ai/jobs/info/69893b7b0f6f7e7a2ce445b4?utm_campaign=1053&utm_source=git)** | Indianapolis, IN | On Site | Feb 08 |
+| **[Indiana Fever](https://fever.wnba.com/)** | **[Digital Content Intern - Summer 2026](https://jobright.ai/jobs/info/6989348d8da7a61204641a71?utm_campaign=1053&utm_source=git)** | Indianapolis, IN | On Site | Feb 08 |
+| ↳ | **[Digital Video Intern - Summer 2026](https://jobright.ai/jobs/info/698934258ca8121a3a6b8601?utm_campaign=1053&utm_source=git)** | Indianapolis, IN | On Site | Feb 08 |
+| **[Pacers Sports & Entertainment](http://www.pacers.com)** | **[Digital Video Intern - Summer 2026](https://jobright.ai/jobs/info/698934138da7a61204641979?utm_campaign=1053&utm_source=git)** | Indianapolis, IN | On Site | Feb 08 |
+| **[Indiana Fever](https://fever.wnba.com/)** | **[Digital Retail Intern - Summer 2026](https://jobright.ai/jobs/info/698933a38da7a6120464187e?utm_campaign=1053&utm_source=git)** | Indianapolis, IN | On Site | Feb 08 |
+| **[Pacers Sports & Entertainment](http://www.pacers.com)** | **[Digital Content Intern - Summer 2026](https://jobright.ai/jobs/info/6989334c8da7a612046417b3?utm_campaign=1053&utm_source=git)** | Indianapolis, IN | On Site | Feb 08 |
 | **[TGR](http://www.thegarnettereport.com)** | **[Spring/Summer Internship](https://jobright.ai/jobs/info/6988c7938ca8121a3a6b4242?utm_campaign=1053&utm_source=git)** | NYC Metro Area | Remote | Feb 08 |
 | **[Fenton](http://fenton.com/)** | **[Summer Intern](https://jobright.ai/jobs/info/6988a8b18ca8121a3a6b2722?utm_campaign=1053&utm_source=git)** | NYC Metro Area | Hybrid | Feb 08 |
 | ↳ | **[Summer Intern](https://jobright.ai/jobs/info/6988a89a8ca8121a3a6b271a?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Feb 08 |
@@ -99,7 +105,7 @@ For a complete list, click the following sortable link below:
 | **[Stats Perform](http://statsperform.com)** | **[Opta Analyst Editorial Intern](https://jobright.ai/jobs/info/69866e148da7a6120461335d?utm_campaign=1053&utm_source=git)** | Home, LA, LA, 1111, US | On Site | Feb 06 |
 | **[BRIDGE SHOWROOM](http://www.bridgeshowroom.com)** | **[Intern for NYFW wholesale shows](https://jobright.ai/jobs/info/698660fe8da7a61204611932?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Feb 06 |
 | **[Stride, Inc.](https://www.stridelearning.com)** | **[Content Creator Intern](https://jobright.ai/jobs/info/696aa0835fc86241853999d5?utm_campaign=1053&utm_source=git)** | Virginia, United States | Remote | Feb 06 |
-| **[Ilitch Companies](https://www.ilitchholdings.com)** | **[Event Coordination Intern](https://jobright.ai/jobs/info/698684d20f6f7e7a2ce184ce?utm_campaign=1053&utm_source=git)** | Detroit, MI | On Site | Feb 06 |
+| **[Ilitch Companies](https://www.ilitchholdings.com)** | **[Event Coordination Intern](https://jobright.ai/jobs/info/69869dbf8da7a61204617ada?utm_campaign=1053&utm_source=git)** | Detroit, MI | On Site | Feb 06 |
 | **[every single guitars.](http://everysingleguitars.com)** | **[Videographer Intern](https://jobright.ai/jobs/info/6986fd1c8ca8121a3a698288?utm_campaign=1053&utm_source=git)** | San Francisco Bay Area | On Site | Feb 06 |
 | **[Apex Lacrosse Events](http://www.apexlacrosseevents.com)** | **[Summer Operations Internship - Boys Events - Apex Lacrosse Events](https://jobright.ai/jobs/info/69866ece8ca8121a3a68b675?utm_campaign=1053&utm_source=git)** | Bel Air, MD | Hybrid | Feb 06 |
 | **[UFC GYM](http://UFCGYM.com)** | **[Intern](https://jobright.ai/jobs/info/6986650a0f6f7e7a2ce153fc?utm_campaign=1053&utm_source=git)** | Las Vegas, NV | On Site | Feb 06 |
@@ -130,7 +136,6 @@ For a complete list, click the following sortable link below:
 | **[Minitab](http://www.minitab.com/en-us/)** | **[Multimedia Intern](https://jobright.ai/jobs/info/698559cf8da7a612045fdb9c?utm_campaign=1053&utm_source=git)** | State College, PA | On Site | Feb 05 |
 | **[Lincoln Center for the Performing Arts](http://www.lincolncenter.org/)** | **[Intern, Event Production](https://jobright.ai/jobs/info/69854e7e8da7a612045fc623?utm_campaign=1053&utm_source=git)** | DGH 5, New York, NY, US | On Site | Feb 05 |
 | ↳ | **[Intern, Event Production](https://jobright.ai/jobs/info/6985611d348f733a5c39bd04?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Feb 05 |
-| **[SWCA Environmental Consultants](https://www.swca.com/)** | **[Cultural Resources Intern](https://jobright.ai/jobs/info/696856d5f25a38006696bd89?utm_campaign=1053&utm_source=git)** | Sheridan, WY | On Site | Feb 05 |
 | **[OceanX](https://oceanx.org/)** | **[Post Production Intern](https://jobright.ai/jobs/info/69853cc3348f733a5c397b4a?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Feb 05 |
 | **[Ardene](https://www.ardene.com)** | **[Footwear and Handbags Intern](https://jobright.ai/jobs/info/69855988348f733a5c39ad53?utm_campaign=1053&utm_source=git)** | Laval, Quebec, Canada | On Site | Feb 05 |
 | **[Alcon](http://www.alcon.com)** | **[Summer 2026 Intern - Video Production](https://jobright.ai/jobs/info/698572018da7a61204600c86?utm_campaign=1053&utm_source=git)** | Fort Worth, Texas | On Site | Feb 05 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Gray Media](https://graymedia.com)** | **[GRAY MEDIA FUTURE FOCUS INTERN SUMMER '26 - KYTV/KSPR](https://jobright.ai/jobs/info/6984f4d28da7a612045f3c22?utm_campaign=1053&utm_source=git)** | Springfield, MO | On Site | Feb 05 |
 | **[UFC GYM](http://UFCGYM.com)** | **[Intern - Digital Media YouTube Intern, UFC](https://jobright.ai/jobs/info/6985196e348f733a5c394496?utm_campaign=1053&utm_source=git)** | Las Vegas, NV | On Site | Feb 05 |
 | ↳ | **[Intern - Originals Production Intern, UFC](https://jobright.ai/jobs/info/69851f630f6f7e7a2cdfa8e0?utm_campaign=1053&utm_source=git)** | Las Vegas, NV | On Site | Feb 05 |
-| ↳ | **[Intern - FIght Pass Intern, UFC](https://jobright.ai/jobs/info/698520ea0f6f7e7a2cdfab41?utm_campaign=1053&utm_source=git)** | Las Vegas, NV | On Site | Feb 05 |
-| ↳ | **[Intern – Live Production Intern, UFC](https://jobright.ai/jobs/info/6985198c348f733a5c3944e5?utm_campaign=1053&utm_source=git)** | Las Vegas, NV | On Site | Feb 05 |
-| **[Wasserman](http://www.teamwass.com)** | **[Summer 2026 Internship - Intern, Experience](https://jobright.ai/jobs/info/6984ea6f0f6f7e7a2cdf64e5?utm_campaign=1053&utm_source=git)** | CAN - Toronto Office (Hanna Avenue) | Hybrid | Feb 05 |
-| **[Two Circles](http://www.twocircles.com/)** | **[Video Team Intern](https://jobright.ai/jobs/info/6984e1178da7a612045f2d34?utm_campaign=1053&utm_source=git)** | Kansas City, MO | On Site | Feb 05 |
-| **[Miami HEAT](http://HEAT.com)** | **[Intern, Content Studio - Summer 2026](https://jobright.ai/jobs/info/69850d48348f733a5c392b76?utm_campaign=1053&utm_source=git)** | Miami, Florida, United States | On Site | Feb 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
