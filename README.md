@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Edelman](http://www.edelman.com)** | **[Edelman U.S. Summer 2026 Internship Program](https://jobright.ai/jobs/info/698a09540f6f7e7a2ce515bd?utm_campaign=1053&utm_source=git)** | Washington DC, USA | Hybrid | Feb 09 |
+| ↳ | **[Edelman U.S. Summer 2026 Internship Program](https://jobright.ai/jobs/info/698a07600f6f7e7a2ce5152b?utm_campaign=1053&utm_source=git)** | Chicago, Illinois, USA | Hybrid | Feb 09 |
+| ↳ | **[Edelman U.S. Summer 2026 Internship Program](https://jobright.ai/jobs/info/698a063647434001cc6837c1?utm_campaign=1053&utm_source=git)** | Los Angeles, California, USA | Hybrid | Feb 09 |
+| ↳ | **[Edelman U.S. Summer 2026 Internship Program](https://jobright.ai/jobs/info/698a03b84db8972cecff4258?utm_campaign=1053&utm_source=git)** | Seattle, Washington, USA | Hybrid | Feb 09 |
 | **[The Kitchen North America](https://www.wearethekitchen.com)** | **[AI Enablement Content Producer (Intern)](https://jobright.ai/jobs/info/69826cdd0a9e07331f8d71bd?utm_campaign=1053&utm_source=git)** | Toronto, Canada | Hybrid | Feb 09 |
 | **[Indiana Fever](https://fever.wnba.com/)** | **[Digital Content Intern - Summer 2026](https://jobright.ai/jobs/info/6989bf2c4db8972cecfefcce?utm_campaign=1053&utm_source=git)** | Indianapolis, IN | On Site | Feb 09 |
 | **[KUTV 2News / KMYU](http://kutv.com/)** | **[Intern - Studio Crew](https://jobright.ai/jobs/info/6989bc670f6f7e7a2ce4ca53?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Feb 09 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Miami HEAT](http://HEAT.com)** | **[Intern, Content Studio - Summer 2026](https://jobright.ai/jobs/info/6984fe99348f733a5c391a4f?utm_campaign=1053&utm_source=git)** | Miami, FL | On Site | Feb 05 |
 | **[The State University of New York](http://www.suny.edu/)** | **[Multimedia Production Intern](https://jobright.ai/jobs/info/690a6177bcccf20de59e184c?utm_campaign=1053&utm_source=git)** | Albany, NY | On Site | Feb 05 |
 | **[Wasserman](http://www.teamwass.com)** | **[Summer 2026 Internship - Intern, Experience](https://jobright.ai/jobs/info/69851a320f6f7e7a2cdfa187?utm_campaign=1053&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Feb 05 |
-| **[GovExec](https://about.govexec.com/)** | **[Intern](https://jobright.ai/jobs/info/6985258b0f6f7e7a2cdfb0b4?utm_campaign=1053&utm_source=git)** | New York, NY, US | Hybrid | Feb 05 |
-| **[Gray Media](https://graymedia.com)** | **[GRAY MEDIA FUTURE FOCUS INTERN SUMMER '26 - KYTV/KSPR](https://jobright.ai/jobs/info/6984f4d28da7a612045f3c22?utm_campaign=1053&utm_source=git)** | Springfield, MO | On Site | Feb 05 |
-| **[UFC GYM](http://UFCGYM.com)** | **[Intern - Digital Media YouTube Intern, UFC](https://jobright.ai/jobs/info/6985196e348f733a5c394496?utm_campaign=1053&utm_source=git)** | Las Vegas, NV | On Site | Feb 05 |
-| ↳ | **[Intern - Originals Production Intern, UFC](https://jobright.ai/jobs/info/69851f630f6f7e7a2cdfa8e0?utm_campaign=1053&utm_source=git)** | Las Vegas, NV | On Site | Feb 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
