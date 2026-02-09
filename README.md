@@ -68,7 +68,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[WB Games Production Intern: LA - Summer 2026](https://jobright.ai/jobs/info/6987fc170f6f7e7a2ce32aa8?utm_campaign=1053&utm_source=git)** | Burbank, CA | Hybrid | Feb 07 |
 | **[Kargo](http://www.kargo.com)** | **[Intern, Global Experiences](https://jobright.ai/jobs/info/6987ce2d8ca8121a3a6a4a30?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Feb 07 |
 | **[Warner Bros. Discovery](https://wbd.com)** | **[WB Games Production Intern: LA - Summer 2026](https://jobright.ai/jobs/info/6987b9b48da7a6120462d225?utm_campaign=1053&utm_source=git)** | CA Burbank Bldg. 750, Second Century, Tower 2 | Hybrid | Feb 07 |
-| **[KUTV 2News / KMYU](http://kutv.com/)** | **[Intern - Studio Crew](https://jobright.ai/jobs/info/6987b5f50f6f7e7a2ce2f79c?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Feb 07 |
 | **[LV Collective](https://lvcollective.com)** | **[Video Production Intern Spring 2026](https://jobright.ai/jobs/info/6987a8358da7a6120462ba40?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | Feb 07 |
 | **[Meridian Township](http://www.meridian.mi.us)** | **[Multimedia Production & Communications Intern](https://jobright.ai/jobs/info/6987a72d8da7a6120462b75a?utm_campaign=1053&utm_source=git)** | Okemos, MI | On Site | Feb 07 |
 | **[Kargo](http://www.kargo.com)** | **[Intern, Global Experiences](https://jobright.ai/jobs/info/6987860d0f6f7e7a2ce2c949?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Feb 07 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern – Live Production Intern, UFC](https://jobright.ai/jobs/info/6985198c348f733a5c3944e5?utm_campaign=1053&utm_source=git)** | Las Vegas, NV | On Site | Feb 05 |
 | **[Wasserman](http://www.teamwass.com)** | **[Summer 2026 Internship - Intern, Experience](https://jobright.ai/jobs/info/6984ea6f0f6f7e7a2cdf64e5?utm_campaign=1053&utm_source=git)** | CAN - Toronto Office (Hanna Avenue) | Hybrid | Feb 05 |
 | **[Two Circles](http://www.twocircles.com/)** | **[Video Team Intern](https://jobright.ai/jobs/info/6984e1178da7a612045f2d34?utm_campaign=1053&utm_source=git)** | Kansas City, MO | On Site | Feb 05 |
+| **[Miami HEAT](http://HEAT.com)** | **[Intern, Content Studio - Summer 2026](https://jobright.ai/jobs/info/69850d48348f733a5c392b76?utm_campaign=1053&utm_source=git)** | Miami, Florida, United States | On Site | Feb 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
