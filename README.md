@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[Spoon University Editorial Intern - Summer 2026](https://jobright.ai/jobs/info/698987c20f6f7e7a2ce4955b?utm_campaign=1053&utm_source=git)** | United States | Remote | Feb 08 |
 | **[City Explorer - Live Streaming Hub](https://cityexplorer.live/)** | **[Live Streaming Internship](https://jobright.ai/jobs/info/6989774747434001cc67ae56?utm_campaign=1053&utm_source=git)** | San Francisco, CA | Remote | Feb 08 |
 | **[Pacers Sports & Entertainment](http://www.pacers.com)** | **[Digital Content Intern - Summer 2026](https://jobright.ai/jobs/info/6989522147434001cc677450?utm_campaign=1053&utm_source=git)** | Indianapolis, IN | On Site | Feb 08 |
 | ↳ | **[Digital Retail Intern - Summer 2026](https://jobright.ai/jobs/info/698950a50f6f7e7a2ce4532e?utm_campaign=1053&utm_source=git)** | Indianapolis, IN | On Site | Feb 08 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The State University of New York](http://www.suny.edu/)** | **[Multimedia Production Intern](https://jobright.ai/jobs/info/690a6177bcccf20de59e184c?utm_campaign=1053&utm_source=git)** | Albany, NY | On Site | Feb 05 |
 | **[Wasserman](http://www.teamwass.com)** | **[Summer 2026 Internship - Intern, Experience](https://jobright.ai/jobs/info/69851a320f6f7e7a2cdfa187?utm_campaign=1053&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Feb 05 |
 | **[GovExec](https://about.govexec.com/)** | **[Intern](https://jobright.ai/jobs/info/6985258b0f6f7e7a2cdfb0b4?utm_campaign=1053&utm_source=git)** | New York, NY, US | Hybrid | Feb 05 |
-| **[Gray Media](https://graymedia.com)** | **[GRAY MEDIA FUTURE FOCUS INTERN SUMMER '26 - KYTV/KSPR](https://jobright.ai/jobs/info/6984f4d28da7a612045f3c22?utm_campaign=1053&utm_source=git)** | Springfield, MO | On Site | Feb 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
