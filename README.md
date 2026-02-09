@@ -57,12 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TrackTown USA](https://www.gotracktownusa.com/)** | **[Video Production Intern](https://jobright.ai/jobs/info/698a49e84db8972cecff8919?utm_campaign=1053&utm_source=git)** | Eugene, OR | On Site | Feb 09 |
+| **[Center of Life](https://www.centeroflife.org )** | **[Video & Social Media Content Intern](https://jobright.ai/jobs/info/698a40c54db8972cecff8036?utm_campaign=1053&utm_source=git)** | 161 Hazelwood Avenue, Pittsburgh, PA 15207, USA | Hybrid | Feb 09 |
+| **[Edelman](http://www.edelman.com)** | **[Edelman U.S. Summer 2026 Internship Program](https://jobright.ai/jobs/info/698a3f8c4db8972cecff7ee2?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Feb 09 |
 | **[Milwaukee Brewers](https://brewers.mlb.com/)** | **[Intern - Productions](https://jobright.ai/jobs/info/698a3d3b47434001cc6871f8?utm_campaign=1053&utm_source=git)** | Milwaukee, WI, US | On Site | Feb 09 |
 | **[Knights of Columbus](http://www.kofc.org)** | **[Archives Intern](https://jobright.ai/jobs/info/697985cbca92cf0d6a82ae89?utm_campaign=1053&utm_source=git)** | New Haven, CT | On Site | Feb 09 |
 | **[Milwaukee Brewers](https://brewers.mlb.com/)** | **[Intern - Productions](https://jobright.ai/jobs/info/698a357f4db8972cecff74f4?utm_campaign=1053&utm_source=git)** | US-WI-Milwaukee | On Site | Feb 09 |
 | **[ASM Global](http://www.asmglobal.com)** | **[Video/Content Production Intern](https://jobright.ai/jobs/info/698a353c47434001cc686a88?utm_campaign=1053&utm_source=git)** | University of Miami | On Site | Feb 09 |
 | **[Museum of Science](http://www.mos.org)** | **[Planetarium Presenter Internship](https://jobright.ai/jobs/info/69863bd28ca8121a3a686a80?utm_campaign=1053&utm_source=git)** | Boston, MA | Hybrid | Feb 09 |
+| **[United States Golf Association (USGA)](http://www.usga.org)** | **[2026 Video Production Internship](https://jobright.ai/jobs/info/698a4df50f6f7e7a2ce55ef9?utm_campaign=1053&utm_source=git)** | Liberty Corner, Bernards, NJ, USA | On Site | Feb 09 |
+| **[City of Greenwood Village](https://greenwoodvillage.com)** | **[Seasonal Recreation Intern](https://jobright.ai/jobs/info/698a43f347434001cc687973?utm_campaign=1053&utm_source=git)** | Greenwood Village, CO | On Site | Feb 09 |
 | **[Canyons School District](http://www.canyonsdistrict.org)** | **[CSDtv Intern - Digital Broadcast Intern](https://jobright.ai/jobs/info/698a1f240f6f7e7a2ce5360c?utm_campaign=1053&utm_source=git)** | Sandy, UT | On Site | Feb 09 |
+| **[Milwaukee Brewers](https://brewers.mlb.com/)** | **[Intern - Productions](https://jobright.ai/jobs/info/698a450247434001cc687aae?utm_campaign=1053&utm_source=git)** | Milwaukee, WI | On Site | Feb 09 |
 | **[Hitcents](https://hitcents.com)** | **[Content Internship](https://jobright.ai/jobs/info/698a0de04db8972cecff490e?utm_campaign=1053&utm_source=git)** | Bowling Green, KY | On Site | Feb 09 |
 | **[Edelman](http://www.edelman.com)** | **[Edelman U.S. Summer 2026 Internship Program](https://jobright.ai/jobs/info/698a0b174db8972cecff47cf?utm_campaign=1053&utm_source=git)** | San Francisco, California, USA | Hybrid | Feb 09 |
 | ↳ | **[Edelman U.S. Summer 2026 Internship Program](https://jobright.ai/jobs/info/698a0acd47434001cc683b7a?utm_campaign=1053&utm_source=git)** | Atlanta, Georgia, USA | Hybrid | Feb 09 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Alcon](http://www.alcon.com)** | **[Summer 2026 Intern - Video Production](https://jobright.ai/jobs/info/698572018da7a61204600c86?utm_campaign=1053&utm_source=git)** | Fort Worth, Texas | On Site | Feb 05 |
 | **[Kairoi Residential](https://www.kairoi.com/)** | **[Client Experience Intern](https://jobright.ai/jobs/info/69858708348f733a5c39fd97?utm_campaign=1053&utm_source=git)** | San Antonio,TX,US | On Site | Feb 05 |
 | **[Minitab](http://www.minitab.com/en-us/)** | **[Multimedia Intern](https://jobright.ai/jobs/info/698526a3348f733a5c39557c?utm_campaign=1053&utm_source=git)** | State College, Pennsylvania, United States | On Site | Feb 05 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[LIVE! Kelly and Mark Production Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/698526418da7a612045f8381?utm_campaign=1053&utm_source=git)** | New York, NY, USA | On Site | Feb 05 |
-| **[U.S. News & World Report](http://www.usnews.com)** | **[Health Editorial Summer 2026 Intern (DC)](https://jobright.ai/jobs/info/69851dc08da7a612045f773d?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Feb 05 |
-| **[State of Iowa - Executive Branch](https://www.floydco.iowa.gov)** | **[Summer 2026 Production Intern](https://jobright.ai/jobs/info/698539848da7a612045fa4ae?utm_campaign=1053&utm_source=git)** | Johnston, IA | On Site | Feb 05 |
-| **[TikTok](https://www.tiktok.com)** | **[Short Drama Localization Project Intern (TikTok-PGC-Short Drama) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/698516de348f733a5c393e8b?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Feb 05 |
-| **[Pampas Picnics + Rentals | Event Design and Decor](https://www.pampaspicnics.com)** | **[Special Events Summer Intern](https://jobright.ai/jobs/info/698532808da7a612045f968c?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Feb 05 |
-| **[OceanX](https://oceanx.org/)** | **[Post Production Intern](https://jobright.ai/jobs/info/698513090f6f7e7a2cdf914b?utm_campaign=1053&utm_source=git)** | New York City, NY | Hybrid | Feb 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
