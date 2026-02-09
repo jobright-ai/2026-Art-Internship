@@ -67,8 +67,6 @@ For a complete list, click the following sortable link below:
 | **[Pacers Sports & Entertainment](http://www.pacers.com)** | **[Digital Content Intern - Summer 2026](https://jobright.ai/jobs/info/6989522147434001cc677450?utm_campaign=1053&utm_source=git)** | Indianapolis, IN | On Site | Feb 08 |
 | ↳ | **[Digital Retail Intern - Summer 2026](https://jobright.ai/jobs/info/698950a50f6f7e7a2ce4532e?utm_campaign=1053&utm_source=git)** | Indianapolis, IN | On Site | Feb 08 |
 | ↳ | **[Digital Video Intern - Summer 2026](https://jobright.ai/jobs/info/698949098ca8121a3a6b8ff7?utm_campaign=1053&utm_source=git)** | Indianapolis, IN | On Site | Feb 08 |
-| **[BBA Consultants](https://www.bba.ca/)** | **[Stagiaire en génie minier - Été 2026](https://jobright.ai/jobs/info/698969a00f6f7e7a2ce473c0?utm_campaign=1053&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Feb 08 |
-| ↳ | **[Stagiaire en génie minier - Été 2026](https://jobright.ai/jobs/info/698945710f6f7e7a2ce448f4?utm_campaign=1053&utm_source=git)** | Val-d’Or, Quebec, Canada | Hybrid | Feb 08 |
 | **[TGR](http://www.thegarnettereport.com)** | **[Spring/Summer Internship](https://jobright.ai/jobs/info/6988c7938ca8121a3a6b4242?utm_campaign=1053&utm_source=git)** | NYC Metro Area | Remote | Feb 08 |
 | **[Fenton](http://fenton.com/)** | **[Summer Intern](https://jobright.ai/jobs/info/6988a8b18ca8121a3a6b2722?utm_campaign=1053&utm_source=git)** | NYC Metro Area | Hybrid | Feb 08 |
 | ↳ | **[Summer Intern](https://jobright.ai/jobs/info/6988a89a8ca8121a3a6b271a?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Feb 08 |
@@ -157,4 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Miami HEAT](http://HEAT.com)** | **[Intern, Content Studio - Summer 2026](https://jobright.ai/jobs/info/6984fe99348f733a5c391a4f?utm_campaign=1053&utm_source=git)** | Miami, FL | On Site | Feb 05 |
 | **[The State University of New York](http://www.suny.edu/)** | **[Multimedia Production Intern](https://jobright.ai/jobs/info/690a6177bcccf20de59e184c?utm_campaign=1053&utm_source=git)** | Albany, NY | On Site | Feb 05 |
 | **[Wasserman](http://www.teamwass.com)** | **[Summer 2026 Internship - Intern, Experience](https://jobright.ai/jobs/info/69851a320f6f7e7a2cdfa187?utm_campaign=1053&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Feb 05 |
+| **[GovExec](https://about.govexec.com/)** | **[Intern](https://jobright.ai/jobs/info/6985258b0f6f7e7a2cdfb0b4?utm_campaign=1053&utm_source=git)** | New York, NY, US | Hybrid | Feb 05 |
+| **[Gray Media](https://graymedia.com)** | **[GRAY MEDIA FUTURE FOCUS INTERN SUMMER '26 - KYTV/KSPR](https://jobright.ai/jobs/info/6984f4d28da7a612045f3c22?utm_campaign=1053&utm_source=git)** | Springfield, MO | On Site | Feb 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
