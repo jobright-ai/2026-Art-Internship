@@ -58,6 +58,8 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Motorola Solutions](http://www.motorolasolutions.com)** | **[Video Editor - 2026 Summer Internship](https://jobright.ai/jobs/info/698b9f7406d9b0622495c5ea?utm_campaign=1053&utm_source=git)** | Chicago, IL | Hybrid | Feb 10 |
+| **[Lakeshore Group Real Estate](www.lakeshoregroupre.com)** | **[Content Creator (Part-Time / Internship Style)](https://jobright.ai/jobs/info/698baea00f6f7e7a2ce72a4f?utm_campaign=1053&utm_source=git)** | Oakville, Ontario, Canada | On Site | Feb 10 |
+| **[Imagination Mode](Imaginationmode.com)** | **[Writing Intern](https://jobright.ai/jobs/info/698ba7fd06d9b0622495d0a5?utm_campaign=1053&utm_source=git)** | Boston, MA | Remote | Feb 10 |
 | **[DORIAN WHO](http://WWW.DORIANWHO.COM)** | **[Videographer/content creator](https://jobright.ai/jobs/info/698b6bd90f6f7e7a2ce6d344?utm_campaign=1053&utm_source=git)** | Toronto, Ontario, Canada | On Site | Feb 10 |
 | **[Viens Avec Moi Boutique](https://viensavecmoi.ca/)** | **[Internship Opportunity Unpaid Social Media Content Creator](https://jobright.ai/jobs/info/698b8ba60f6f7e7a2ce7018b?utm_campaign=1053&utm_source=git)** | Ottawa, Ontario, Canada | On Site | Feb 10 |
 | **[AAAS](http://www.aaas.org/)** | **[Digital Storytelling Intern](https://jobright.ai/jobs/info/698b6307c5761b521a9adb04?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Feb 10 |
@@ -136,7 +138,6 @@ For a complete list, click the following sortable link below:
 | **[Meridian Township](http://www.meridian.mi.us)** | **[Multimedia Production & Communications Intern](https://jobright.ai/jobs/info/6987a72d8da7a6120462b75a?utm_campaign=1053&utm_source=git)** | Okemos, MI | On Site | Feb 07 |
 | **[Kargo](http://www.kargo.com)** | **[Intern, Global Experiences](https://jobright.ai/jobs/info/6987860d0f6f7e7a2ce2c949?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Feb 07 |
 | **[Higginbotham](https://www.higginbotham.com)** | **[Higginbotham Summer Internship - Corporate Marketing & Communications Video Editor Intern](https://jobright.ai/jobs/info/691694a56f36db06ef057fea?utm_campaign=1053&utm_source=git)** | Fort Worth, TX | On Site | Feb 07 |
-| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Digital Content Intern](https://jobright.ai/jobs/info/696af585350cf438031230f7?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Feb 07 |
 | **[Amazon](https://amazon.com)** | **[IP & Literary Intern, Prime Video & Amazon MGM Studios](https://jobright.ai/jobs/info/694f4897a2668b7f54527891?utm_campaign=1053&utm_source=git)** | Culver City, CA | On Site | Feb 07 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[ABC Hulu Scripted Programming Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69872a7d8da7a61204623ebe?utm_campaign=1053&utm_source=git)** | Burbank, CA | On Site | Feb 07 |
 | ↳ | **[Disney Television Animation Studio Planning & Operations Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/698729de0f6f7e7a2ce269e3?utm_campaign=1053&utm_source=git)** | Glendale, CA | On Site | Feb 07 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[City of Greenwood Village](https://greenwoodvillage.com)** | **[Seasonal Recreation Intern](https://jobright.ai/jobs/info/6986bcef8da7a6120461a8ba?utm_campaign=1053&utm_source=git)** | Greenwood Village, Colorado, United States | On Site | Feb 06 |
 | **[Stats Perform](http://statsperform.com)** | **[Opta Analyst Editorial Intern](https://jobright.ai/jobs/info/69867d128ca8121a3a68c936?utm_campaign=1053&utm_source=git)** | United States | Remote | Feb 06 |
 | **[Troon](http://www.troon.com/)** | **[Golf Course Maintenance Internship](https://jobright.ai/jobs/info/6986795a8da7a6120461449b?utm_campaign=1053&utm_source=git)** | St Michaels, MD | On Site | Feb 06 |
-| **[Biltmore](https://www.biltmore.com/)** | **[Spring/Summer 2026 Baking and Pastry and Culinary Arts Internship](https://jobright.ai/jobs/info/69838a54348f733a5c36a08b?utm_campaign=1053&utm_source=git)** | Asheville, NC | On Site | Feb 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
