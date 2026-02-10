@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[Spoon University Editorial Intern - Summer 2026](https://jobright.ai/jobs/info/698aedd74db8972cec00602b?utm_campaign=1053&utm_source=git)** | United States | Remote | Feb 10 |
+| **[American Public Media Group](https://fitzgeraldtheater.publicradio.org)** | **[Intern, LAist](https://jobright.ai/jobs/info/698aed954db8972cec005fee?utm_campaign=1053&utm_source=git)** | Pasadena, California, United States | On Site | Feb 09 |
 | **[New Beginnings Global](https://nbcn.live)** | **[Travel Content Operation(Glendale-Onsite)](https://jobright.ai/jobs/info/698ab9794db8972cec0020f0?utm_campaign=1053&utm_source=git)** | Glendale, CA | On Site | Feb 09 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Paid Intern - For the Strength of Youth Writer/Editor (Church Magazines)](https://jobright.ai/jobs/info/698ab2494db8972cec001825?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | Hybrid | Feb 09 |
 | **[Hello Sunshine](https://hello-sunshine.com/)** | **[Summer 2026 Intern - Film & TV](https://jobright.ai/jobs/info/698aa950c5761b521a99f04a?utm_campaign=1053&utm_source=git)** | Los Angeles, California, United States | Hybrid | Feb 09 |
@@ -91,6 +93,7 @@ For a complete list, click the following sortable link below:
 | **[Lincoln Square Media](https://lincolnsquare.media)** | **[News Writing/Research Intern (Paid, Remote)](https://jobright.ai/jobs/info/698a505d0f6f7e7a2ce563e6?utm_campaign=1053&utm_source=git)** | Michigan, United States | Remote | Feb 09 |
 | **[Museum of Science](http://www.mos.org)** | **[Planetarium Presenter Internship](https://jobright.ai/jobs/info/69863bd28ca8121a3a686a80?utm_campaign=1053&utm_source=git)** | Boston, MA | Hybrid | Feb 09 |
 | **[United States Golf Association (USGA)](http://www.usga.org)** | **[2026 Video Production Internship](https://jobright.ai/jobs/info/698a4df50f6f7e7a2ce55ef9?utm_campaign=1053&utm_source=git)** | Liberty Corner, Bernards, NJ, USA | On Site | Feb 09 |
+| **[Center of Life](https://www.centeroflife.org )** | **[Video & Social Media Content Intern](https://jobright.ai/jobs/info/698ae8354db8972cec005b57?utm_campaign=1053&utm_source=git)** | 161 Hazelwood Avenue, Pittsburgh, PA 15207, USA | Hybrid | Feb 09 |
 | **[City of Greenwood Village](https://greenwoodvillage.com)** | **[Seasonal Recreation Intern](https://jobright.ai/jobs/info/698a43f347434001cc687973?utm_campaign=1053&utm_source=git)** | Greenwood Village, CO | On Site | Feb 09 |
 | **[Canyons School District](http://www.canyonsdistrict.org)** | **[CSDtv Intern - Digital Broadcast Intern](https://jobright.ai/jobs/info/698a1f240f6f7e7a2ce5360c?utm_campaign=1053&utm_source=git)** | Sandy, UT | On Site | Feb 09 |
 | **[Milwaukee Brewers](https://brewers.mlb.com/)** | **[Intern - Productions](https://jobright.ai/jobs/info/698a450247434001cc687aae?utm_campaign=1053&utm_source=git)** | Milwaukee, WI | On Site | Feb 09 |
@@ -153,8 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Pluralsight](http://www.pluralsight.com)** | **[Newsletter Production Intern](https://jobright.ai/jobs/info/698695eb8ca8121a3a68e580?utm_campaign=1053&utm_source=git)** | Hybrid - Texas (Westlake) | Hybrid | Feb 06 |
 | **[Stats Perform](http://statsperform.com)** | **[Opta Analyst Editorial Intern](https://jobright.ai/jobs/info/69866e148da7a6120461335d?utm_campaign=1053&utm_source=git)** | Home, LA, LA, 1111, US | On Site | Feb 06 |
 | **[Stride, Inc.](https://www.stridelearning.com)** | **[Content Creator Intern](https://jobright.ai/jobs/info/696aa0835fc86241853999d5?utm_campaign=1053&utm_source=git)** | Virginia, United States | Remote | Feb 06 |
-| **[Ilitch Companies](https://www.ilitchholdings.com)** | **[Event Coordination Intern](https://jobright.ai/jobs/info/69869dbf8da7a61204617ada?utm_campaign=1053&utm_source=git)** | Detroit, MI | On Site | Feb 06 |
-| **[Apex Lacrosse Events](http://www.apexlacrosseevents.com)** | **[Summer Operations Internship - Boys Events - Apex Lacrosse Events](https://jobright.ai/jobs/info/69866ece8ca8121a3a68b675?utm_campaign=1053&utm_source=git)** | Bel Air, MD | Hybrid | Feb 06 |
-| **[UFC GYM](http://UFCGYM.com)** | **[Intern](https://jobright.ai/jobs/info/6986650a0f6f7e7a2ce153fc?utm_campaign=1053&utm_source=git)** | Las Vegas, NV | On Site | Feb 06 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[ABC Hulu Scripted Programming Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69868a7c8da7a61204615c7e?utm_campaign=1053&utm_source=git)** | Burbank, CA, USA | Hybrid | Feb 06 |
+| **[Ilitch Companies](https://www.ilitchholdings.com)** | **[Event Coordination Intern](https://jobright.ai/jobs/info/698684d20f6f7e7a2ce184ce?utm_campaign=1053&utm_source=git)** | Detroit, MI | On Site | Feb 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
