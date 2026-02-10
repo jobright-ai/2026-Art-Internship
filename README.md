@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hello Sunshine](https://hello-sunshine.com/)** | **[Summer 2026 Intern - Film & TV](https://jobright.ai/jobs/info/698aa950c5761b521a99f04a?utm_campaign=1053&utm_source=git)** | Los Angeles, California, United States | Hybrid | Feb 09 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Paid Intern - YA Weekly Writer/Editor (Church Magazines)](https://jobright.ai/jobs/info/698aa15cc5761b521a99e808?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Feb 09 |
 | **[Cleveland Browns](http://www.clevelandbrowns.com)** | **[Fan Experience &amp; Special Events Intern](https://jobright.ai/jobs/info/698a8f8dc5761b521a99d30f?utm_campaign=1053&utm_source=git)** | 76 Lou Groza Boulevard, Berea, OH, USA | On Site | Feb 09 |
 | **[SNY](https://www.sny.tv/)** | **[Media Services Intern](https://jobright.ai/jobs/info/698a8f08c5761b521a99d2b2?utm_campaign=1053&utm_source=git)** | New York, NY, US | On Site | Feb 09 |
@@ -68,8 +69,8 @@ For a complete list, click the following sortable link below:
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Content Production Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/698a7032c5761b521a99a726?utm_campaign=1053&utm_source=git)** | Burbank, CA, USA | Hybrid | Feb 09 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Paid Intern - YA Weekly Writer/Editor (Church Magazines)](https://jobright.ai/jobs/info/698a6ebe4db8972cecffbe44?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT, United States | On Site | Feb 09 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Content Production Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/698a6e98c5761b521a99a4c5?utm_campaign=1053&utm_source=git)** | Celebration, FL, USA | Hybrid | Feb 09 |
-| **[Hello Sunshine](https://hello-sunshine.com/)** | **[Summer 2026 Intern - Experiential Events (DTC)](https://jobright.ai/jobs/info/698a8b4ec5761b521a99cf2c?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | Feb 09 |
-| ↳ | **[Summer 2026 Intern - Social & Editorial](https://jobright.ai/jobs/info/698a8c9d4db8972cecffe6fe?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Feb 09 |
+| **[Hello Sunshine](https://hello-sunshine.com/)** | **[Summer 2026 Intern - Social & Editorial](https://jobright.ai/jobs/info/698a8c9d4db8972cecffe6fe?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Feb 09 |
+| ↳ | **[Summer 2026 Intern - Experiential Events (DTC)](https://jobright.ai/jobs/info/698a8b4ec5761b521a99cf2c?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | Feb 09 |
 | **[Mito Red Light](https://mitoredlight.com)** | **[Podcast Production Intern](https://jobright.ai/jobs/info/698a5f764db8972cecff9d4c?utm_campaign=1053&utm_source=git)** | Scottsdale, AZ | Hybrid | Feb 09 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Paid Intern - For the Strength of Youth Writer/Editor (Church Magazines)](https://jobright.ai/jobs/info/698a80afc5761b521a99bae0?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT, United States | Hybrid | Feb 09 |
 | ↳ | **[Paid Intern – Liahona Digital Content Writer/Creator](https://jobright.ai/jobs/info/698a518947434001cc688620?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | Hybrid | Feb 09 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[News Department Unpaid Intern](https://jobright.ai/jobs/info/696a52b4350cf438031140f9?utm_campaign=1053&utm_source=git)** | Charlotte, NC | On Site | Feb 06 |
 | **[Museum of Science](http://www.mos.org)** | **[Digital Media Internship](https://jobright.ai/jobs/info/698642850f6f7e7a2ce124f0?utm_campaign=1053&utm_source=git)** | Boston, MA | On Site | Feb 06 |
 | **[Carnegie Mellon University](https://www.cmu.edu)** | **[Writer/Intern - College of Engineering](https://jobright.ai/jobs/info/69861d6d0f6f7e7a2ce0f616?utm_campaign=1053&utm_source=git)** | Pittsburgh, PA | On Site | Feb 06 |
-| **[HELLER](https://heller.inc)** | **[Summer Intern](https://jobright.ai/jobs/info/698614b20f6f7e7a2ce0f144?utm_campaign=1053&utm_source=git)** | NYC Metro Area | On Site | Feb 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
