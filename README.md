@@ -86,7 +86,6 @@ For a complete list, click the following sortable link below:
 | **[Edelman](http://www.edelman.com)** | **[Edelman U.S. Summer 2026 Internship Program](https://jobright.ai/jobs/info/698a3f8c4db8972cecff7ee2?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Feb 09 |
 | **[Milwaukee Brewers](https://brewers.mlb.com/)** | **[Intern - Productions](https://jobright.ai/jobs/info/698a3d3b47434001cc6871f8?utm_campaign=1053&utm_source=git)** | Milwaukee, WI, US | On Site | Feb 09 |
 | **[Knights of Columbus](http://www.kofc.org)** | **[Archives Intern](https://jobright.ai/jobs/info/697985cbca92cf0d6a82ae89?utm_campaign=1053&utm_source=git)** | New Haven, CT | On Site | Feb 09 |
-| **[Meyers](http://meyers.com)** | **[Social Content Creator- Internship](https://jobright.ai/jobs/info/698a6b8cc5761b521a99a1bf?utm_campaign=1053&utm_source=git)** | Brooklyn Park, MN | On Site | Feb 09 |
 | **[Milwaukee Brewers](https://brewers.mlb.com/)** | **[Intern - Productions](https://jobright.ai/jobs/info/698a357f4db8972cecff74f4?utm_campaign=1053&utm_source=git)** | US-WI-Milwaukee | On Site | Feb 09 |
 | **[ASM Global](http://www.asmglobal.com)** | **[Video/Content Production Intern](https://jobright.ai/jobs/info/698a353c47434001cc686a88?utm_campaign=1053&utm_source=git)** | University of Miami | On Site | Feb 09 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Editorial Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/698a65d00f6f7e7a2ce588c5?utm_campaign=1053&utm_source=git)** | New York, NY, USA | On Site | Feb 09 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Stats Perform](http://statsperform.com)** | **[Opta Analyst Editorial Intern](https://jobright.ai/jobs/info/69866e148da7a6120461335d?utm_campaign=1053&utm_source=git)** | Home, LA, LA, 1111, US | On Site | Feb 06 |
 | **[Stride, Inc.](https://www.stridelearning.com)** | **[Content Creator Intern](https://jobright.ai/jobs/info/696aa0835fc86241853999d5?utm_campaign=1053&utm_source=git)** | Virginia, United States | Remote | Feb 06 |
 | **[Ilitch Companies](https://www.ilitchholdings.com)** | **[Event Coordination Intern](https://jobright.ai/jobs/info/698684d20f6f7e7a2ce184ce?utm_campaign=1053&utm_source=git)** | Detroit, MI | On Site | Feb 06 |
+| **[Apex Lacrosse Events](http://www.apexlacrosseevents.com)** | **[Summer Operations Internship - Boys Events - Apex Lacrosse Events](https://jobright.ai/jobs/info/69866ece8ca8121a3a68b675?utm_campaign=1053&utm_source=git)** | Bel Air, MD | Hybrid | Feb 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
