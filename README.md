@@ -57,6 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[ABC Hulu Scripted Programming Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69872a7d8da7a61204623ebe?utm_campaign=1053&utm_source=git)** | Burbank, CA | On Site | Feb 11 |
+| ↳ | **[Disney Live Entertainment Costume Development Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/698c79bbf64d441a164e6a7b?utm_campaign=1053&utm_source=git)** | Anaheim, CA | On Site | Feb 11 |
+| ↳ | **[Disney Television Animation Studio Planning & Operations Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/698729de0f6f7e7a2ce269e3?utm_campaign=1053&utm_source=git)** | Glendale, CA | On Site | Feb 11 |
+| **[Walt Disney Imagineering](https://disneyimaginations.com)** | **[Disney Live Entertainment Costume Development Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/698c770d0f6f7e7a2ce82ff7?utm_campaign=1053&utm_source=git)** | Anaheim, CA | On Site | Feb 11 |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Disney Live Entertainment Costume Buying Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/698c74ad0f6f7e7a2ce82dfc?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | Feb 11 |
+| ↳ | **[Disney Television Animation Creative Production Intern, Summer 2026](https://jobright.ai/jobs/info/698729280f6f7e7a2ce269d1?utm_campaign=1053&utm_source=git)** | Glendale, CA | On Site | Feb 11 |
+| ↳ | **[Disney Live Entertainment Costume Production Intern, Summer/Fall 2025](https://jobright.ai/jobs/info/698c715578b4502f12a2f997?utm_campaign=1053&utm_source=git)** | Anaheim, CA | On Site | Feb 11 |
+| **[Walt Disney Imagineering](https://disneyimaginations.com)** | **[Disney Live Entertainment Production Assistant Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/698c710f78b4502f12a2f94c?utm_campaign=1053&utm_source=git)** | Anaheim, CA | On Site | Feb 11 |
+| ↳ | **[Disney Live Entertainment Costume Buying Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/698c70ba78b4502f12a2f8f9?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | Feb 11 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Disney Live Entertainment Production Assistant Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/698c6e2b78b4502f12a2f610?utm_campaign=1053&utm_source=git)** | Anaheim, CA | On Site | Feb 11 |
 | **[Walt Disney Imagineering](https://disneyimaginations.com)** | **[Disney Live Entertainment Costume Production Intern, Summer/Fall 2025](https://jobright.ai/jobs/info/698c6d4378b4502f12a2f502?utm_campaign=1053&utm_source=git)** | Anaheim, CA | On Site | Feb 11 |
 | **[Central City Opera](https://centralcityopera.org)** | **[Stage Management Intern / Production Assistant](https://jobright.ai/jobs/info/698c2e42e4f6572f0e444a1c?utm_campaign=1053&utm_source=git)** | Central City, Colorado, United States | On Site | Feb 11 |
@@ -83,7 +92,6 @@ For a complete list, click the following sortable link below:
 | **[MLSE (Maple Leaf Sports & Entertainment Partnership)](http://mlse.com)** | **[Creative Studio and Accounts Production Intern](https://jobright.ai/jobs/info/698c1ba991fdda424d58dcd7?utm_campaign=1053&utm_source=git)** | Toronto, Ontario | On Site | Feb 10 |
 | ↳ | **[Production, Pre Production & Video Intern](https://jobright.ai/jobs/info/698be34f06d9b0622496121b?utm_campaign=1053&utm_source=git)** | Toronto, Ontario | On Site | Feb 10 |
 | **[Lakeshore Group Real Estate](www.lakeshoregroupre.com)** | **[Content Creator (Part-Time / Internship Style)](https://jobright.ai/jobs/info/698baea00f6f7e7a2ce72a4f?utm_campaign=1053&utm_source=git)** | Oakville, Ontario, Canada | On Site | Feb 10 |
-| **[Baby Berries ®](https://www.youtube.com/channel/UC1YRqArKml4kuvwxCzqAVYg)** | **[Baby Berries™ — Multiple Creative Internship Openings (Remote)](https://jobright.ai/jobs/info/698bf3860f6f7e7a2ce7760c?utm_campaign=1053&utm_source=git)** | Florida, United States | Remote | Feb 10 |
 | **[MLSE (Maple Leaf Sports & Entertainment Partnership)](http://mlse.com)** | **[Live Events Intern](https://jobright.ai/jobs/info/698be5d606d9b0622496181f?utm_campaign=1053&utm_source=git)** | Toronto, Ontario | On Site | Feb 10 |
 | **[Gundersen Health System](https://www.gundersenhealth.org)** | **[Intern / Medical Media](https://jobright.ai/jobs/info/698c2af591fdda424d590e22?utm_campaign=1053&utm_source=git)** | La Crosse, WI | On Site | Feb 10 |
 | **[Columbus Crew](https://www.columbuscrew.com/)** | **[Video Production Intern](https://jobright.ai/jobs/info/698bc4670f6f7e7a2ce73c24?utm_campaign=1053&utm_source=git)** | Columbus, OH | On Site | Feb 10 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[KUTV 2News / KMYU](http://kutv.com/)** | **[Intern - Studio Crew](https://jobright.ai/jobs/info/6989bc670f6f7e7a2ce4ca53?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Feb 09 |
 | **[Indiana Fever](https://fever.wnba.com/)** | **[Digital Retail Intern - Summer 2026](https://jobright.ai/jobs/info/6989b8b30f6f7e7a2ce4c6a2?utm_campaign=1053&utm_source=git)** | Indianapolis, IN | On Site | Feb 09 |
 | ↳ | **[Digital Video Intern - Summer 2026](https://jobright.ai/jobs/info/6989b87b47434001cc67e8e7?utm_campaign=1053&utm_source=git)** | Indianapolis, IN | On Site | Feb 09 |
-| **[Center of Life](https://www.centeroflife.org )** | **[Video & Social Media Content Intern](https://jobright.ai/jobs/info/698c54d9f64d441a164e4540?utm_campaign=1053&utm_source=git)** | Pittsburgh, PA | On Site | Feb 09 |
-| **[BBA Consultants](https://www.bba.ca/)** | **[Stagiaire en génie minier - Été 2026](https://jobright.ai/jobs/info/698ace3f0f6f7e7a2ce6281c?utm_campaign=1053&utm_source=git)** | Val-d’Or, Quebec, Canada | Hybrid | Feb 08 |
-| **[Pacers Sports & Entertainment](http://www.pacers.com)** | **[Digital Retail Intern - Summer 2026](https://jobright.ai/jobs/info/698950a50f6f7e7a2ce4532e?utm_campaign=1053&utm_source=git)** | Indianapolis, IN | On Site | Feb 08 |
-| ↳ | **[Digital Video Intern - Summer 2026](https://jobright.ai/jobs/info/698949098ca8121a3a6b8ff7?utm_campaign=1053&utm_source=git)** | Indianapolis, IN | On Site | Feb 08 |
-| **[BBA Consultants](https://www.bba.ca/)** | **[Stagiaire en génie minier - Été 2026](https://jobright.ai/jobs/info/698aa0bd0f6f7e7a2ce5d467?utm_campaign=1053&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Feb 08 |
-| **[Pacers Sports & Entertainment](http://www.pacers.com)** | **[Digital Content Intern - Summer 2026](https://jobright.ai/jobs/info/6989334c8da7a612046417b3?utm_campaign=1053&utm_source=git)** | Indianapolis, IN | On Site | Feb 08 |
-| **[TGR](http://www.thegarnettereport.com)** | **[Spring/Summer Internship](https://jobright.ai/jobs/info/6988c7938ca8121a3a6b4242?utm_campaign=1053&utm_source=git)** | NYC Metro Area | Remote | Feb 08 |
-| **[Fenton](http://fenton.com/)** | **[Summer Intern](https://jobright.ai/jobs/info/6988a8b18ca8121a3a6b2722?utm_campaign=1053&utm_source=git)** | NYC Metro Area | Hybrid | Feb 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
