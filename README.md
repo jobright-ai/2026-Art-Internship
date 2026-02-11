@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Hello Iowa Intern (Unpaid)](https://jobright.ai/jobs/info/6938ede1b95c305f206e2e4b?utm_campaign=1053&utm_source=git)** | Des Moines, IA | On Site | Feb 11 |
 | **[Dometic](https://www.dometic.com)** | **[Creative Producer Intern](https://jobright.ai/jobs/info/698caa9378b4502f12a327d1?utm_campaign=1053&utm_source=git)** | Irvine, CA | Hybrid | Feb 11 |
 | **[Acadium](http://www.acadium.com)** | **[Video Editor Intern](https://jobright.ai/jobs/info/698c95a0f64d441a164e806f?utm_campaign=1053&utm_source=git)** | United States | Remote | Feb 11 |
 | **[Highbrow Technology Inc](https://highbrowtechnology.com)** | **[Content Evaluation Intern](https://jobright.ai/jobs/info/698cb95778b4502f12a33364?utm_campaign=1053&utm_source=git)** | United States | Remote | Feb 11 |
@@ -100,9 +101,9 @@ For a complete list, click the following sortable link below:
 | **[Gundersen Health System](https://www.gundersenhealth.org)** | **[Intern / Medical Media](https://jobright.ai/jobs/info/698c2af591fdda424d590e22?utm_campaign=1053&utm_source=git)** | La Crosse, WI | On Site | Feb 10 |
 | **[Columbus Crew](https://www.columbuscrew.com/)** | **[Video Production Intern](https://jobright.ai/jobs/info/698bc4670f6f7e7a2ce73c24?utm_campaign=1053&utm_source=git)** | Columbus, OH | On Site | Feb 10 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Disney Live Entertainment Production Assistant Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/698c6185f64d441a164e53f7?utm_campaign=1053&utm_source=git)** | Anaheim, CA, USA | Hybrid | Feb 10 |
+| ↳ | **[Disney Live Entertainment Costume Buying Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/698bde80c5761b521a9b6ecd?utm_campaign=1053&utm_source=git)** | Orlando, FL, USA | Hybrid | Feb 10 |
 | ↳ | **[Disney Live Entertainment Costume Production Intern, Summer/Fall 2025](https://jobright.ai/jobs/info/698c5c9cf64d441a164e4e20?utm_campaign=1053&utm_source=git)** | Anaheim, CA, USA | On Site | Feb 10 |
 | ↳ | **[Disney Live Entertainment Costume Development Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/698c1f0a91fdda424d58e104?utm_campaign=1053&utm_source=git)** | Anaheim, CA, USA | On Site | Feb 10 |
-| ↳ | **[Disney Live Entertainment Costume Buying Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/698bde80c5761b521a9b6ecd?utm_campaign=1053&utm_source=git)** | Orlando, FL, USA | Hybrid | Feb 10 |
 | **[Viens Avec Moi](https://viensavecmoi.ca/)** | **[Internship Opportunity Unpaid Social Media Content Creator](https://jobright.ai/jobs/info/698b8ba60f6f7e7a2ce7018b?utm_campaign=1053&utm_source=git)** | Ottawa, Ontario, Canada | On Site | Feb 10 |
 | **[AAAS](http://www.aaas.org/)** | **[Digital Storytelling Intern](https://jobright.ai/jobs/info/698b6307c5761b521a9adb04?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Feb 10 |
 | **[Gundersen Health System](https://www.gundersenhealth.org)** | **[Intern / Medical Media](https://jobright.ai/jobs/info/698c418a91fdda424d592a07?utm_campaign=1053&utm_source=git)** | La Crosse, WI | On Site | Feb 10 |
@@ -119,8 +120,8 @@ For a complete list, click the following sortable link below:
 | **[Hello Sunshine](https://hello-sunshine.com/)** | **[Summer 2026 Intern - Film & TV](https://jobright.ai/jobs/info/698aa950c5761b521a99f04a?utm_campaign=1053&utm_source=git)** | Los Angeles, California, United States | Hybrid | Feb 09 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Paid Intern - YA Weekly Writer/Editor (Church Magazines)](https://jobright.ai/jobs/info/698aa15cc5761b521a99e808?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Feb 09 |
 | **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[Paid Intern - YA Weekly Writer/Editor (Church Magazines)](https://jobright.ai/jobs/info/698ab82c4db8972cec001e01?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Feb 09 |
-| ↳ | **[Paid Intern – Liahona Digital Content Writer/Creator](https://jobright.ai/jobs/info/698abb8c4db8972cec0029f1?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | Hybrid | Feb 09 |
 | ↳ | **[Paid Intern - For the Strength of Youth Writer/Editor (Church Magazines)](https://jobright.ai/jobs/info/698ab94cc5761b521a9a0af9?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | Hybrid | Feb 09 |
+| ↳ | **[Paid Intern – Liahona Digital Content Writer/Creator](https://jobright.ai/jobs/info/698abb8c4db8972cec0029f1?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | Hybrid | Feb 09 |
 | **[Museum of Fine Arts, Houston](https://www.mfah.org)** | **[Undergraduate Intern, Exhibitions & Collection Management](https://jobright.ai/jobs/info/698abb4d4db8972cec0028f3?utm_campaign=1053&utm_source=git)** | Houston, TX | On Site | Feb 09 |
 | **[SNY](https://www.sny.tv/)** | **[Media Services Intern](https://jobright.ai/jobs/info/698a8f08c5761b521a99d2b2?utm_campaign=1053&utm_source=git)** | New York, NY, US | On Site | Feb 09 |
 | **[AARP](http://www.aarp.org)** | **[Editorial and Video Production Intern (Summer)](https://jobright.ai/jobs/info/698a895e0f6f7e7a2ce5bb89?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Feb 09 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Edelman U.S. Summer 2026 Internship Program](https://jobright.ai/jobs/info/698a07600f6f7e7a2ce5152b?utm_campaign=1053&utm_source=git)** | Chicago, Illinois, USA | Hybrid | Feb 09 |
 | ↳ | **[Edelman U.S. Summer 2026 Internship Program](https://jobright.ai/jobs/info/698a063647434001cc6837c1?utm_campaign=1053&utm_source=git)** | Los Angeles, California, USA | Hybrid | Feb 09 |
 | ↳ | **[Edelman U.S. Summer 2026 Internship Program](https://jobright.ai/jobs/info/698a03b84db8972cecff4258?utm_campaign=1053&utm_source=git)** | Seattle, Washington, USA | Hybrid | Feb 09 |
-| **[The Kitchen North America](https://www.wearethekitchen.com)** | **[AI Enablement Content Producer (Intern)](https://jobright.ai/jobs/info/69826cdd0a9e07331f8d71bd?utm_campaign=1053&utm_source=git)** | Toronto, Canada | Hybrid | Feb 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
