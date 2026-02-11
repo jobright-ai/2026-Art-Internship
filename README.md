@@ -58,6 +58,9 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Hello Iowa Intern (Unpaid)](https://jobright.ai/jobs/info/6938ede1b95c305f206e2e4b?utm_campaign=1053&utm_source=git)** | Des Moines, IA | On Site | Feb 11 |
+| **[Northstar Travel Group](http://www.NorthstarTravelGroup.com)** | **[Editorial & Research Intern](https://jobright.ai/jobs/info/697412db37785856350df70a?utm_campaign=1053&utm_source=git)** | United States | Remote | Feb 11 |
+| **[TalentSplit](https://www.linkedin.com/company/78450667)** | **[Production Assistant Intern](https://jobright.ai/jobs/info/698ce6fbf64d441a164ec619?utm_campaign=1053&utm_source=git)** | San Clemente, CA | On Site | Feb 11 |
+| **[Everyday Health Group](https://www.everydayhealthgroup.com)** | **[Editorial Intern (CUNY)](https://jobright.ai/jobs/info/698cdc90f64d441a164ebe58?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Feb 11 |
 | **[Dometic](https://www.dometic.com)** | **[Creative Producer Intern](https://jobright.ai/jobs/info/698caa9378b4502f12a327d1?utm_campaign=1053&utm_source=git)** | Irvine, CA | Hybrid | Feb 11 |
 | **[Botpress](https://botpress.com)** | **[DevRel Video Content Intern - Summer 2026](https://jobright.ai/jobs/info/697909c652f3c27ec6455257?utm_campaign=1053&utm_source=git)** | Montreal, Quebec, Canada | On Site | Feb 11 |
 | **[Acadium](http://www.acadium.com)** | **[Video Editor Intern](https://jobright.ai/jobs/info/698c95a0f64d441a164e806f?utm_campaign=1053&utm_source=git)** | United States | Remote | Feb 11 |
@@ -75,7 +78,6 @@ For a complete list, click the following sortable link below:
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Disney Live Entertainment Production Assistant Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/698c6e2b78b4502f12a2f610?utm_campaign=1053&utm_source=git)** | Anaheim, CA | On Site | Feb 11 |
 | **[Walt Disney Imagineering](https://disneyimaginations.com)** | **[Disney Live Entertainment Costume Production Intern, Summer/Fall 2025](https://jobright.ai/jobs/info/698c6d4378b4502f12a2f502?utm_campaign=1053&utm_source=git)** | Anaheim, CA | On Site | Feb 11 |
 | **[Central City Opera](https://centralcityopera.org)** | **[Stage Management Intern / Production Assistant](https://jobright.ai/jobs/info/698c2e42e4f6572f0e444a1c?utm_campaign=1053&utm_source=git)** | Central City, Colorado, United States | On Site | Feb 11 |
-| **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[News & Politics Editorial Intern - Summer 2026](https://jobright.ai/jobs/info/698c44170f6f7e7a2ce7fdef?utm_campaign=1053&utm_source=git)** | United States | Remote | Feb 11 |
 | **[Leo Burnett](https://www.leoburnett.com.au/)** | **[2026 Leo Chicago Summer Internship - Strategy](https://jobright.ai/jobs/info/698c6b31f64d441a164e5f69?utm_campaign=1053&utm_source=git)** | Chicago, IL | Hybrid | Feb 11 |
 | **[Strategic America](https://www.strategicamerica.com)** | **[Video & Production Internship](https://jobright.ai/jobs/info/698c623b78b4502f12a2e94e?utm_campaign=1053&utm_source=git)** | West Des Moines, IA | Hybrid | Feb 11 |
 | **[Aventiv Technologies](https://www.aventiv.com/)** | **[Summer 2026 Intern - Entertainment Media](https://jobright.ai/jobs/info/698c59ef0f6f7e7a2ce815b0?utm_campaign=1053&utm_source=git)** | Plano, TX | On Site | Feb 10 |
@@ -101,8 +103,8 @@ For a complete list, click the following sortable link below:
 | **[Gundersen Health System](https://www.gundersenhealth.org)** | **[Intern / Medical Media](https://jobright.ai/jobs/info/698c2af591fdda424d590e22?utm_campaign=1053&utm_source=git)** | La Crosse, WI | On Site | Feb 10 |
 | **[Columbus Crew](https://www.columbuscrew.com/)** | **[Video Production Intern](https://jobright.ai/jobs/info/698bc4670f6f7e7a2ce73c24?utm_campaign=1053&utm_source=git)** | Columbus, OH | On Site | Feb 10 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Disney Live Entertainment Production Assistant Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/698c6185f64d441a164e53f7?utm_campaign=1053&utm_source=git)** | Anaheim, CA, USA | Hybrid | Feb 10 |
-| ↳ | **[Disney Live Entertainment Costume Buying Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/698bde80c5761b521a9b6ecd?utm_campaign=1053&utm_source=git)** | Orlando, FL, USA | Hybrid | Feb 10 |
 | ↳ | **[Disney Live Entertainment Costume Development Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/698c1f0a91fdda424d58e104?utm_campaign=1053&utm_source=git)** | Anaheim, CA, USA | On Site | Feb 10 |
+| ↳ | **[Disney Live Entertainment Costume Buying Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/698bde80c5761b521a9b6ecd?utm_campaign=1053&utm_source=git)** | Orlando, FL, USA | Hybrid | Feb 10 |
 | ↳ | **[Disney Live Entertainment Costume Production Intern, Summer/Fall 2025](https://jobright.ai/jobs/info/698c5c9cf64d441a164e4e20?utm_campaign=1053&utm_source=git)** | Anaheim, CA, USA | On Site | Feb 10 |
 | **[Viens Avec Moi](https://viensavecmoi.ca/)** | **[Internship Opportunity Unpaid Social Media Content Creator](https://jobright.ai/jobs/info/698b8ba60f6f7e7a2ce7018b?utm_campaign=1053&utm_source=git)** | Ottawa, Ontario, Canada | On Site | Feb 10 |
 | **[AAAS](http://www.aaas.org/)** | **[Digital Storytelling Intern](https://jobright.ai/jobs/info/698b6307c5761b521a9adb04?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Feb 10 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Edelman U.S. Summer 2026 Internship Program](https://jobright.ai/jobs/info/698a0acd47434001cc683b7a?utm_campaign=1053&utm_source=git)** | Atlanta, Georgia, USA | Hybrid | Feb 09 |
 | ↳ | **[Edelman U.S. Summer 2026 Internship Program](https://jobright.ai/jobs/info/698a09540f6f7e7a2ce515bd?utm_campaign=1053&utm_source=git)** | Washington DC, USA | Hybrid | Feb 09 |
 | ↳ | **[Edelman U.S. Summer 2026 Internship Program](https://jobright.ai/jobs/info/698a07600f6f7e7a2ce5152b?utm_campaign=1053&utm_source=git)** | Chicago, Illinois, USA | Hybrid | Feb 09 |
-| ↳ | **[Edelman U.S. Summer 2026 Internship Program](https://jobright.ai/jobs/info/698a063647434001cc6837c1?utm_campaign=1053&utm_source=git)** | Los Angeles, California, USA | Hybrid | Feb 09 |
-| ↳ | **[Edelman U.S. Summer 2026 Internship Program](https://jobright.ai/jobs/info/698a03b84db8972cecff4258?utm_campaign=1053&utm_source=git)** | Seattle, Washington, USA | Hybrid | Feb 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
