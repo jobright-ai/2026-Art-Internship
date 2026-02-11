@@ -59,6 +59,7 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Hello Iowa Intern (Unpaid)](https://jobright.ai/jobs/info/6938ede1b95c305f206e2e4b?utm_campaign=1053&utm_source=git)** | Des Moines, IA | On Site | Feb 11 |
 | **[Dometic](https://www.dometic.com)** | **[Creative Producer Intern](https://jobright.ai/jobs/info/698caa9378b4502f12a327d1?utm_campaign=1053&utm_source=git)** | Irvine, CA | Hybrid | Feb 11 |
+| **[Botpress](https://botpress.com)** | **[DevRel Video Content Intern - Summer 2026](https://jobright.ai/jobs/info/697909c652f3c27ec6455257?utm_campaign=1053&utm_source=git)** | Montreal, Quebec, Canada | On Site | Feb 11 |
 | **[Acadium](http://www.acadium.com)** | **[Video Editor Intern](https://jobright.ai/jobs/info/698c95a0f64d441a164e806f?utm_campaign=1053&utm_source=git)** | United States | Remote | Feb 11 |
 | **[Highbrow Technology Inc](https://highbrowtechnology.com)** | **[Content Evaluation Intern](https://jobright.ai/jobs/info/698cb95778b4502f12a33364?utm_campaign=1053&utm_source=git)** | United States | Remote | Feb 11 |
 | ↳ | **[Content Reviewer Intern](https://jobright.ai/jobs/info/698cbb84f64d441a164e9f93?utm_campaign=1053&utm_source=git)** | United States | Remote | Feb 11 |
@@ -96,14 +97,13 @@ For a complete list, click the following sortable link below:
 | **[Motorola Solutions](http://www.motorolasolutions.com)** | **[Video Editor - 2026 Summer Internship](https://jobright.ai/jobs/info/698b9f7406d9b0622495c5ea?utm_campaign=1053&utm_source=git)** | Chicago, IL | Hybrid | Feb 10 |
 | **[MLSE (Maple Leaf Sports & Entertainment Partnership)](http://mlse.com)** | **[Creative Studio and Accounts Production Intern](https://jobright.ai/jobs/info/698c1ba991fdda424d58dcd7?utm_campaign=1053&utm_source=git)** | Toronto, Ontario | On Site | Feb 10 |
 | ↳ | **[Production, Pre Production & Video Intern](https://jobright.ai/jobs/info/698be34f06d9b0622496121b?utm_campaign=1053&utm_source=git)** | Toronto, Ontario | On Site | Feb 10 |
-| **[Lakeshore Group Real Estate](www.lakeshoregroupre.com)** | **[Content Creator (Part-Time / Internship Style)](https://jobright.ai/jobs/info/698baea00f6f7e7a2ce72a4f?utm_campaign=1053&utm_source=git)** | Oakville, Ontario, Canada | On Site | Feb 10 |
-| **[MLSE (Maple Leaf Sports & Entertainment Partnership)](http://mlse.com)** | **[Live Events Intern](https://jobright.ai/jobs/info/698be5d606d9b0622496181f?utm_campaign=1053&utm_source=git)** | Toronto, Ontario | On Site | Feb 10 |
+| ↳ | **[Live Events Intern](https://jobright.ai/jobs/info/698be5d606d9b0622496181f?utm_campaign=1053&utm_source=git)** | Toronto, Ontario | On Site | Feb 10 |
 | **[Gundersen Health System](https://www.gundersenhealth.org)** | **[Intern / Medical Media](https://jobright.ai/jobs/info/698c2af591fdda424d590e22?utm_campaign=1053&utm_source=git)** | La Crosse, WI | On Site | Feb 10 |
 | **[Columbus Crew](https://www.columbuscrew.com/)** | **[Video Production Intern](https://jobright.ai/jobs/info/698bc4670f6f7e7a2ce73c24?utm_campaign=1053&utm_source=git)** | Columbus, OH | On Site | Feb 10 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Disney Live Entertainment Production Assistant Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/698c6185f64d441a164e53f7?utm_campaign=1053&utm_source=git)** | Anaheim, CA, USA | Hybrid | Feb 10 |
 | ↳ | **[Disney Live Entertainment Costume Buying Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/698bde80c5761b521a9b6ecd?utm_campaign=1053&utm_source=git)** | Orlando, FL, USA | Hybrid | Feb 10 |
-| ↳ | **[Disney Live Entertainment Costume Production Intern, Summer/Fall 2025](https://jobright.ai/jobs/info/698c5c9cf64d441a164e4e20?utm_campaign=1053&utm_source=git)** | Anaheim, CA, USA | On Site | Feb 10 |
 | ↳ | **[Disney Live Entertainment Costume Development Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/698c1f0a91fdda424d58e104?utm_campaign=1053&utm_source=git)** | Anaheim, CA, USA | On Site | Feb 10 |
+| ↳ | **[Disney Live Entertainment Costume Production Intern, Summer/Fall 2025](https://jobright.ai/jobs/info/698c5c9cf64d441a164e4e20?utm_campaign=1053&utm_source=git)** | Anaheim, CA, USA | On Site | Feb 10 |
 | **[Viens Avec Moi](https://viensavecmoi.ca/)** | **[Internship Opportunity Unpaid Social Media Content Creator](https://jobright.ai/jobs/info/698b8ba60f6f7e7a2ce7018b?utm_campaign=1053&utm_source=git)** | Ottawa, Ontario, Canada | On Site | Feb 10 |
 | **[AAAS](http://www.aaas.org/)** | **[Digital Storytelling Intern](https://jobright.ai/jobs/info/698b6307c5761b521a9adb04?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Feb 10 |
 | **[Gundersen Health System](https://www.gundersenhealth.org)** | **[Intern / Medical Media](https://jobright.ai/jobs/info/698c418a91fdda424d592a07?utm_campaign=1053&utm_source=git)** | La Crosse, WI | On Site | Feb 10 |
