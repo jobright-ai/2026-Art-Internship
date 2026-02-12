@@ -57,13 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[KUTV 2News / KMYU](http://kutv.com/)** | **[Intern - Studio Crew](https://jobright.ai/jobs/info/698d135bf64d441a164ef79d?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Feb 11 |
 | **[TalentSplit](https://www.linkedin.com/company/78450667)** | **[Production Assistant Intern](https://jobright.ai/jobs/info/698d07ff0f6f7e7a2ce8b819?utm_campaign=1053&utm_source=git)** | San Clemente, CA | On Site | Feb 11 |
-| **[Haymarket Media US](http://www.haymarket.com)** | **[Campaign Editorial Intern](https://jobright.ai/jobs/info/698d0efff64d441a164eef54?utm_campaign=1053&utm_source=git)** | New York, NY, US | Hybrid | Feb 11 |
+| **[MarketEQ](https://www.linkedin.com/company/77759425)** | **[Video Editor Internship – Short Form Ads & Sales Videos (USA ONLY)](https://jobright.ai/jobs/info/698d1788f64d441a164eff76?utm_campaign=1053&utm_source=git)** | United States | Remote | Feb 11 |
+| **[Haymarket Media US](http://www.haymarket.com)** | **[Multimedia Intern](https://jobright.ai/jobs/info/698d11d078b4502f12a38dae?utm_campaign=1053&utm_source=git)** | New York, NY, US | Hybrid | Feb 11 |
+| ↳ | **[Campaign Editorial Intern](https://jobright.ai/jobs/info/698d0efff64d441a164eef54?utm_campaign=1053&utm_source=git)** | New York, NY, US | Hybrid | Feb 11 |
+| **[Rural King](https://www.ruralking.com)** | **[2026-2027 LIFT Internship - Video Production/Content Creation](https://jobright.ai/jobs/info/698d12580f6f7e7a2ce8c669?utm_campaign=1053&utm_source=git)** | Mattoon, IL | On Site | Feb 11 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Hello Iowa Intern (Unpaid)](https://jobright.ai/jobs/info/6938ede1b95c305f206e2e4b?utm_campaign=1053&utm_source=git)** | Des Moines, IA | On Site | Feb 11 |
 | **[Rural King](https://www.ruralking.com)** | **[2026-2027 LIFT Internship - Video Production/Content Creation](https://jobright.ai/jobs/info/698d03160f6f7e7a2ce8afcc?utm_campaign=1053&utm_source=git)** | Mattoon, IL, US | On Site | Feb 11 |
 | **[Northstar Travel Group](http://www.NorthstarTravelGroup.com)** | **[Editorial & Research Intern](https://jobright.ai/jobs/info/697412db37785856350df70a?utm_campaign=1053&utm_source=git)** | United States | Remote | Feb 11 |
 | **[Del Mar College - Corporate Services](https://www.delmar.edu/continuing-education/corporate-services/)** | **[Student Assistant - Art Gallery Monitor (Grant-Funded) Pool](https://jobright.ai/jobs/info/698cfbe078b4502f12a36ecd?utm_campaign=1053&utm_source=git)** | Corpus Christi, TX | On Site | Feb 11 |
-| **[Everyday Health Group](https://www.everydayhealthgroup.com)** | **[Editorial Intern (CUNY)](https://jobright.ai/jobs/info/698cdc90f64d441a164ebe58?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Feb 11 |
 | **[Dometic](https://www.dometic.com)** | **[Creative Producer Intern](https://jobright.ai/jobs/info/698caa9378b4502f12a327d1?utm_campaign=1053&utm_source=git)** | Irvine, CA | Hybrid | Feb 11 |
 | **[Botpress](https://botpress.com)** | **[DevRel Video Content Intern - Summer 2026](https://jobright.ai/jobs/info/697909c652f3c27ec6455257?utm_campaign=1053&utm_source=git)** | Montreal, Quebec, Canada | On Site | Feb 11 |
 | **[Acadium](http://www.acadium.com)** | **[Video Editor Intern](https://jobright.ai/jobs/info/698c95a0f64d441a164e806f?utm_campaign=1053&utm_source=git)** | United States | Remote | Feb 11 |
@@ -106,8 +109,8 @@ For a complete list, click the following sortable link below:
 | **[Columbus Crew](https://www.columbuscrew.com/)** | **[Video Production Intern](https://jobright.ai/jobs/info/698bc4670f6f7e7a2ce73c24?utm_campaign=1053&utm_source=git)** | Columbus, OH | On Site | Feb 10 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Disney Live Entertainment Production Assistant Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/698c6185f64d441a164e53f7?utm_campaign=1053&utm_source=git)** | Anaheim, CA, USA | Hybrid | Feb 10 |
 | ↳ | **[Disney Live Entertainment Costume Development Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/698c1f0a91fdda424d58e104?utm_campaign=1053&utm_source=git)** | Anaheim, CA, USA | On Site | Feb 10 |
-| ↳ | **[Disney Live Entertainment Costume Production Intern, Summer/Fall 2025](https://jobright.ai/jobs/info/698c5c9cf64d441a164e4e20?utm_campaign=1053&utm_source=git)** | Anaheim, CA, USA | On Site | Feb 10 |
 | ↳ | **[Disney Live Entertainment Costume Buying Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/698bde80c5761b521a9b6ecd?utm_campaign=1053&utm_source=git)** | Orlando, FL, USA | Hybrid | Feb 10 |
+| ↳ | **[Disney Live Entertainment Costume Production Intern, Summer/Fall 2025](https://jobright.ai/jobs/info/698c5c9cf64d441a164e4e20?utm_campaign=1053&utm_source=git)** | Anaheim, CA, USA | On Site | Feb 10 |
 | **[Viens Avec Moi](https://viensavecmoi.ca/)** | **[Internship Opportunity Unpaid Social Media Content Creator](https://jobright.ai/jobs/info/698b8ba60f6f7e7a2ce7018b?utm_campaign=1053&utm_source=git)** | Ottawa, Ontario, Canada | On Site | Feb 10 |
 | **[AAAS](http://www.aaas.org/)** | **[Digital Storytelling Intern](https://jobright.ai/jobs/info/698b6307c5761b521a9adb04?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Feb 10 |
 | **[Gundersen Health System](https://www.gundersenhealth.org)** | **[Intern / Medical Media](https://jobright.ai/jobs/info/698c418a91fdda424d592a07?utm_campaign=1053&utm_source=git)** | La Crosse, WI | On Site | Feb 10 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[United States Golf Association (USGA)](http://www.usga.org)** | **[2026 Video Production Internship](https://jobright.ai/jobs/info/698a4df50f6f7e7a2ce55ef9?utm_campaign=1053&utm_source=git)** | Liberty Corner, Bernards, NJ, USA | On Site | Feb 09 |
 | **[Center of Life](https://www.centeroflife.org )** | **[Video & Social Media Content Intern](https://jobright.ai/jobs/info/698c307291fdda424d591321?utm_campaign=1053&utm_source=git)** | 161 Hazelwood Avenue, Pittsburgh, PA 15207, USA | Hybrid | Feb 09 |
 | **[Canyons School District](http://www.canyonsdistrict.org)** | **[CSDtv Intern - Digital Broadcast Intern](https://jobright.ai/jobs/info/698a1f240f6f7e7a2ce5360c?utm_campaign=1053&utm_source=git)** | Sandy, UT | On Site | Feb 09 |
-| **[Milwaukee Brewers](https://brewers.mlb.com/)** | **[Intern - Productions](https://jobright.ai/jobs/info/698a450247434001cc687aae?utm_campaign=1053&utm_source=git)** | Milwaukee, WI | On Site | Feb 09 |
-| **[Edelman](http://www.edelman.com)** | **[Edelman U.S. Summer 2026 Internship Program](https://jobright.ai/jobs/info/698a0b174db8972cecff47cf?utm_campaign=1053&utm_source=git)** | San Francisco, California, USA | Hybrid | Feb 09 |
-| ↳ | **[Edelman U.S. Summer 2026 Internship Program](https://jobright.ai/jobs/info/698a0acd47434001cc683b7a?utm_campaign=1053&utm_source=git)** | Atlanta, Georgia, USA | Hybrid | Feb 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
