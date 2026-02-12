@@ -57,10 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Gray Media](https://graymedia.com)** | **[GRAY MEDIA FUTURE FOCUS INTERN SPRING '26 - KFDA](https://jobright.ai/jobs/info/698e3458f64d441a16506de2?utm_campaign=1053&utm_source=git)** | Amarillo, TX | On Site | Feb 12 |
 | **[Wealth Wire 360](https://wealthwire360.com/)** | **[Blogging Intern (part-time & non-paid)](https://jobright.ai/jobs/info/698e1d6b0f6f7e7a2cea2ac4?utm_campaign=1053&utm_source=git)** | United States | Remote | Feb 12 |
 | **[Ryflo](https://www.linkedin.com/company/107666899)** | **[Content Creator Intern](https://jobright.ai/jobs/info/698e175c78b4502f12a4e47e?utm_campaign=1053&utm_source=git)** | United States | Remote | Feb 12 |
 | **[NBCUniversal](https://www.nbcuniversal.com/)** | **[KHRR/KTAZ News Intern](https://jobright.ai/jobs/info/698e1b02f64d441a16505464?utm_campaign=1053&utm_source=git)** | Phoenix, AZ | On Site | Feb 12 |
 | **[Red Bull New York](http://www.newyorkredbulls.com)** | **[2026 Internship, Spring - Creative Video](https://jobright.ai/jobs/info/693a3311ac80bb5492bcba24?utm_campaign=1053&utm_source=git)** | Harrison, NJ | On Site | Feb 12 |
+| **[Reinsurance Group of America, Incorporated](http://www.rgare.com)** | **[Summer Intern - Client Experience](https://jobright.ai/jobs/info/698e317578b4502f12a4fd0b?utm_campaign=1053&utm_source=git)** | United States, Chesterfield, MO, RGA HQ | On Site | Feb 12 |
 | **[Epic Games](https://epicgames.com)** | **[Gameplay Animation Intern](https://jobright.ai/jobs/info/6918efb5bcdbf3560c9d3eed?utm_campaign=1053&utm_source=git)** | Greater Montreal Metropolitan Area | On Site | Feb 12 |
 | **[UL Research Institutes](https://ul.org)** | **[Multimedia Design, Video Production Summer 2026 Intern - Fire Safety Research Institute](https://jobright.ai/jobs/info/697188bf333b6343a14e23b8?utm_campaign=1053&utm_source=git)** | Columbia, MD | Hybrid | Feb 11 |
 | **[Once Upon A Business](https://raiju.ca)** | **[Production Intern](https://jobright.ai/jobs/info/698d92a078b4502f12a44929?utm_campaign=1053&utm_source=git)** | Toronto, Ontario, Canada | On Site | Feb 11 |
@@ -73,7 +75,6 @@ For a complete list, click the following sortable link below:
 | **[EAA Radio](http://www.eaaradio.net/)** | **[EAA Foundation Intern - WomenVenture](https://jobright.ai/jobs/info/698d22be0f6f7e7a2ce8e2c7?utm_campaign=1053&utm_source=git)** | Oshkosh, WI | On Site | Feb 11 |
 | **[Lone Star College](http://www.lonestar.edu)** | **[Part-Time Intern, Falcon Force Content Creator](https://jobright.ai/jobs/info/698d256e78b4502f12a3af30?utm_campaign=1053&utm_source=git)** | Cypress, TX | On Site | Feb 11 |
 | **[MedServe](https://www.caredirectllc.com/)** | **[Digital Content Creator, Intern](https://jobright.ai/jobs/info/698d1d4af64d441a164f0a9d?utm_campaign=1053&utm_source=git)** | Scottsdale, AZ | Hybrid | Feb 11 |
-| **[MarketEQ](https://www.linkedin.com/company/77759425)** | **[Video Editor Internship – Short Form Ads & Sales Videos (USA ONLY)](https://jobright.ai/jobs/info/698d1788f64d441a164eff76?utm_campaign=1053&utm_source=git)** | United States | Remote | Feb 11 |
 | **[Haymarket Media US](http://www.haymarket.com)** | **[Multimedia Intern](https://jobright.ai/jobs/info/698d11d078b4502f12a38dae?utm_campaign=1053&utm_source=git)** | New York, NY, US | Hybrid | Feb 11 |
 | ↳ | **[Assistant Editor (Intern)](https://jobright.ai/jobs/info/698d2a5578b4502f12a3b7c7?utm_campaign=1053&utm_source=git)** | New York, NY, US | Hybrid | Feb 11 |
 | ↳ | **[Campaign Editorial Intern](https://jobright.ai/jobs/info/698d0efff64d441a164eef54?utm_campaign=1053&utm_source=git)** | New York, NY, US | Hybrid | Feb 11 |
@@ -104,7 +105,6 @@ For a complete list, click the following sortable link below:
 | **[Leo Burnett](https://leoburnett.com)** | **[2026 Leo Chicago Summer Internship - Strategy](https://jobright.ai/jobs/info/698c6b31f64d441a164e5f69?utm_campaign=1053&utm_source=git)** | Chicago, IL | Hybrid | Feb 11 |
 | **[Aventiv Technologies](https://www.aventiv.com/)** | **[Summer 2026 Intern - Entertainment Media](https://jobright.ai/jobs/info/698c59ef0f6f7e7a2ce815b0?utm_campaign=1053&utm_source=git)** | Plano, TX | On Site | Feb 10 |
 | **[Hitcents](https://hitcents.com)** | **[Content Intern](https://jobright.ai/jobs/info/698c4fe978b4502f12a2d57f?utm_campaign=1053&utm_source=git)** | Bowling Green, KY | On Site | Feb 10 |
-| **[Second Wind Pro](https://secondwind.pro/)** | **[Podcast Producer (Executive Producer Track)](https://jobright.ai/jobs/info/698c47c178b4502f12a2cbae?utm_campaign=1053&utm_source=git)** | United States | Remote | Feb 10 |
 | **[Gundersen Health System](https://www.gundersenhealth.org)** | **[Intern / Medical Media](https://jobright.ai/jobs/info/698d87fef64d441a164fabb5?utm_campaign=1053&utm_source=git)** | La Crosse, WI | On Site | Feb 10 |
 | **[Strategic America](https://www.strategicamerica.com)** | **[Video & Production Internship](https://jobright.ai/jobs/info/698c4c8978b4502f12a2d180?utm_campaign=1053&utm_source=git)** | West Des Moines, IA | Hybrid | Feb 10 |
 | **[EBSCO Information Services](https://www.ebsco.com)** | **[Content Editorial Intern](https://jobright.ai/jobs/info/698c33730f6f7e7a2ce7e85c?utm_campaign=1053&utm_source=git)** | United States | Remote | Feb 10 |
