@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SexSymbol Magazine](sexsymbolmagazine.com)** | **[Editor](https://jobright.ai/jobs/info/698de99d0f6f7e7a2ce9f491?utm_campaign=1053&utm_source=git)** | New York, United States | Remote | Feb 12 |
 | **[Epic Games](https://epicgames.com)** | **[Gameplay Animation Intern](https://jobright.ai/jobs/info/6918efb5bcdbf3560c9d3eed?utm_campaign=1053&utm_source=git)** | Greater Montreal Metropolitan Area | On Site | Feb 12 |
 | **[UL Research Institutes](https://ul.org)** | **[Multimedia Design, Video Production Summer 2026 Intern - Fire Safety Research Institute](https://jobright.ai/jobs/info/697188bf333b6343a14e23b8?utm_campaign=1053&utm_source=git)** | Columbia, MD | Hybrid | Feb 11 |
 | **[Once Upon A Business](https://raiju.ca)** | **[Production Intern](https://jobright.ai/jobs/info/698d92a078b4502f12a44929?utm_campaign=1053&utm_source=git)** | Toronto, Ontario, Canada | On Site | Feb 11 |
@@ -72,8 +73,8 @@ For a complete list, click the following sortable link below:
 | **[MedServe](https://www.caredirectllc.com/)** | **[Digital Content Creator, Intern](https://jobright.ai/jobs/info/698d1d4af64d441a164f0a9d?utm_campaign=1053&utm_source=git)** | Scottsdale, AZ | Hybrid | Feb 11 |
 | **[MarketEQ](https://www.linkedin.com/company/77759425)** | **[Video Editor Internship – Short Form Ads & Sales Videos (USA ONLY)](https://jobright.ai/jobs/info/698d1788f64d441a164eff76?utm_campaign=1053&utm_source=git)** | United States | Remote | Feb 11 |
 | **[Haymarket Media US](http://www.haymarket.com)** | **[Multimedia Intern](https://jobright.ai/jobs/info/698d11d078b4502f12a38dae?utm_campaign=1053&utm_source=git)** | New York, NY, US | Hybrid | Feb 11 |
-| ↳ | **[Assistant Editor (Intern)](https://jobright.ai/jobs/info/698d2a5578b4502f12a3b7c7?utm_campaign=1053&utm_source=git)** | New York, NY, US | Hybrid | Feb 11 |
 | ↳ | **[Campaign Editorial Intern](https://jobright.ai/jobs/info/698d0efff64d441a164eef54?utm_campaign=1053&utm_source=git)** | New York, NY, US | Hybrid | Feb 11 |
+| ↳ | **[Assistant Editor (Intern)](https://jobright.ai/jobs/info/698d2a5578b4502f12a3b7c7?utm_campaign=1053&utm_source=git)** | New York, NY, US | Hybrid | Feb 11 |
 | **[Rural King](https://www.ruralking.com)** | **[2026-2027 LIFT Internship - Video Production/Content Creation](https://jobright.ai/jobs/info/698d12580f6f7e7a2ce8c669?utm_campaign=1053&utm_source=git)** | Mattoon, IL | On Site | Feb 11 |
 | **[Cleveland Browns](http://www.clevelandbrowns.com)** | **[Fan Experience & Special Events Intern](https://jobright.ai/jobs/info/698d2bac0f6f7e7a2ce8f0b6?utm_campaign=1053&utm_source=git)** | Berea, OH | On Site | Feb 11 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Hello Iowa Intern (Unpaid)](https://jobright.ai/jobs/info/6938ede1b95c305f206e2e4b?utm_campaign=1053&utm_source=git)** | Des Moines, IA | On Site | Feb 11 |
@@ -155,6 +156,5 @@ For a complete list, click the following sortable link below:
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Content Production Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/698a7032c5761b521a99a726?utm_campaign=1053&utm_source=git)** | Burbank, CA, USA | Hybrid | Feb 09 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Paid Intern - YA Weekly Writer/Editor (Church Magazines)](https://jobright.ai/jobs/info/698a6ebe4db8972cecffbe44?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT, United States | On Site | Feb 09 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Content Production Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/698a6e98c5761b521a99a4c5?utm_campaign=1053&utm_source=git)** | Celebration, FL, USA | Hybrid | Feb 09 |
-| **[Hello Sunshine](https://hello-sunshine.com/)** | **[Summer 2026 Intern - Experiential Events (DTC)](https://jobright.ai/jobs/info/698a8b4ec5761b521a99cf2c?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | Feb 09 |
-| ↳ | **[Summer 2026 Intern - Social & Editorial](https://jobright.ai/jobs/info/698a8c9d4db8972cecffe6fe?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Feb 09 |
+| **[Hello Sunshine](https://hello-sunshine.com/)** | **[Summer 2026 Intern - Social & Editorial](https://jobright.ai/jobs/info/698a8c9d4db8972cecffe6fe?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Feb 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
