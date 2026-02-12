@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Little Rock Rangers Soccer Club](http://littlerockrangers.com/)** | **[Intern – Videography Production](https://jobright.ai/jobs/info/698d43690f6f7e7a2ce915a5?utm_campaign=1053&utm_source=git)** | Little Rock, AR | On Site | Feb 11 |
 | **[Godfrey Dadich Partners](https://www.godfreydadich.com/)** | **[Editorial Intern [Summer]](https://jobright.ai/jobs/info/698d32820f6f7e7a2ce8fac1?utm_campaign=1053&utm_source=git)** | San Francisco, CA | Hybrid | Feb 11 |
+| **[VAZA](https://vazainc.com/)** | **[Video & Content Editor Intern](https://jobright.ai/jobs/info/698d3cf778b4502f12a3d761?utm_campaign=1053&utm_source=git)** | Greater Toronto Area, Canada | Hybrid | Feb 11 |
 | **[KUTV 2News / KMYU](http://kutv.com/)** | **[Intern - Studio Crew](https://jobright.ai/jobs/info/698d135bf64d441a164ef79d?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Feb 11 |
 | **[TalentSplit](https://www.linkedin.com/company/78450667)** | **[Production Assistant Intern](https://jobright.ai/jobs/info/698d07ff0f6f7e7a2ce8b819?utm_campaign=1053&utm_source=git)** | San Clemente, CA | On Site | Feb 11 |
 | **[EAA Radio](http://www.eaaradio.net/)** | **[EAA Foundation Intern - WomenVenture](https://jobright.ai/jobs/info/698d22be0f6f7e7a2ce8e2c7?utm_campaign=1053&utm_source=git)** | Oshkosh, WI | On Site | Feb 11 |
@@ -65,14 +67,15 @@ For a complete list, click the following sortable link below:
 | **[MedServe](https://www.caredirectllc.com/)** | **[Digital Content Creator, Intern](https://jobright.ai/jobs/info/698d1d4af64d441a164f0a9d?utm_campaign=1053&utm_source=git)** | Scottsdale, AZ | Hybrid | Feb 11 |
 | **[MarketEQ](https://www.linkedin.com/company/77759425)** | **[Video Editor Internship – Short Form Ads & Sales Videos (USA ONLY)](https://jobright.ai/jobs/info/698d1788f64d441a164eff76?utm_campaign=1053&utm_source=git)** | United States | Remote | Feb 11 |
 | **[Haymarket Media US](http://www.haymarket.com)** | **[Multimedia Intern](https://jobright.ai/jobs/info/698d11d078b4502f12a38dae?utm_campaign=1053&utm_source=git)** | New York, NY, US | Hybrid | Feb 11 |
-| ↳ | **[Assistant Editor (Intern)](https://jobright.ai/jobs/info/698d2a5578b4502f12a3b7c7?utm_campaign=1053&utm_source=git)** | New York, NY, US | Hybrid | Feb 11 |
 | ↳ | **[Campaign Editorial Intern](https://jobright.ai/jobs/info/698d0efff64d441a164eef54?utm_campaign=1053&utm_source=git)** | New York, NY, US | Hybrid | Feb 11 |
+| ↳ | **[Assistant Editor (Intern)](https://jobright.ai/jobs/info/698d2a5578b4502f12a3b7c7?utm_campaign=1053&utm_source=git)** | New York, NY, US | Hybrid | Feb 11 |
 | **[Rural King](https://www.ruralking.com)** | **[2026-2027 LIFT Internship - Video Production/Content Creation](https://jobright.ai/jobs/info/698d12580f6f7e7a2ce8c669?utm_campaign=1053&utm_source=git)** | Mattoon, IL | On Site | Feb 11 |
 | **[Cleveland Browns](http://www.clevelandbrowns.com)** | **[Fan Experience & Special Events Intern](https://jobright.ai/jobs/info/698d2bac0f6f7e7a2ce8f0b6?utm_campaign=1053&utm_source=git)** | Berea, OH | On Site | Feb 11 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Hello Iowa Intern (Unpaid)](https://jobright.ai/jobs/info/6938ede1b95c305f206e2e4b?utm_campaign=1053&utm_source=git)** | Des Moines, IA | On Site | Feb 11 |
 | **[Rural King](https://www.ruralking.com)** | **[2026-2027 LIFT Internship - Video Production/Content Creation](https://jobright.ai/jobs/info/698d03160f6f7e7a2ce8afcc?utm_campaign=1053&utm_source=git)** | Mattoon, IL, US | On Site | Feb 11 |
 | **[Northstar Travel Group](http://www.NorthstarTravelGroup.com)** | **[Editorial & Research Intern](https://jobright.ai/jobs/info/697412db37785856350df70a?utm_campaign=1053&utm_source=git)** | United States | Remote | Feb 11 |
 | **[Del Mar College - Corporate Services](https://www.delmar.edu/continuing-education/corporate-services/)** | **[Student Assistant - Art Gallery Monitor (Grant-Funded) Pool](https://jobright.ai/jobs/info/698cfbe078b4502f12a36ecd?utm_campaign=1053&utm_source=git)** | Corpus Christi, TX | On Site | Feb 11 |
+| **[Everyday Health Group](https://www.everydayhealthgroup.com)** | **[Editorial Intern (CUNY)](https://jobright.ai/jobs/info/698d3b2df64d441a164f3de4?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Feb 11 |
 | **[Dometic](https://www.dometic.com)** | **[Creative Producer Intern](https://jobright.ai/jobs/info/698caa9378b4502f12a327d1?utm_campaign=1053&utm_source=git)** | Irvine, CA | Hybrid | Feb 11 |
 | **[Botpress](https://botpress.com)** | **[DevRel Video Content Intern - Summer 2026](https://jobright.ai/jobs/info/697909c652f3c27ec6455257?utm_campaign=1053&utm_source=git)** | Montreal, Quebec, Canada | On Site | Feb 11 |
 | **[Acadium](http://www.acadium.com)** | **[Video Editor Intern](https://jobright.ai/jobs/info/698c95a0f64d441a164e806f?utm_campaign=1053&utm_source=git)** | United States | Remote | Feb 11 |
@@ -133,8 +136,8 @@ For a complete list, click the following sortable link below:
 | **[Hello Sunshine](https://hello-sunshine.com/)** | **[Summer 2026 Intern - Film & TV](https://jobright.ai/jobs/info/698aa950c5761b521a99f04a?utm_campaign=1053&utm_source=git)** | Los Angeles, California, United States | Hybrid | Feb 09 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Paid Intern - YA Weekly Writer/Editor (Church Magazines)](https://jobright.ai/jobs/info/698aa15cc5761b521a99e808?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Feb 09 |
 | **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[Paid Intern - YA Weekly Writer/Editor (Church Magazines)](https://jobright.ai/jobs/info/698ab82c4db8972cec001e01?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Feb 09 |
-| ↳ | **[Paid Intern - For the Strength of Youth Writer/Editor (Church Magazines)](https://jobright.ai/jobs/info/698ab94cc5761b521a9a0af9?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | Hybrid | Feb 09 |
 | ↳ | **[Paid Intern – Liahona Digital Content Writer/Creator](https://jobright.ai/jobs/info/698abb8c4db8972cec0029f1?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | Hybrid | Feb 09 |
+| ↳ | **[Paid Intern - For the Strength of Youth Writer/Editor (Church Magazines)](https://jobright.ai/jobs/info/698ab94cc5761b521a9a0af9?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | Hybrid | Feb 09 |
 | **[Museum of Fine Arts, Houston](https://www.mfah.org)** | **[Undergraduate Intern, Exhibitions & Collection Management](https://jobright.ai/jobs/info/698abb4d4db8972cec0028f3?utm_campaign=1053&utm_source=git)** | Houston, TX | On Site | Feb 09 |
 | **[SNY](https://www.sny.tv/)** | **[Media Services Intern](https://jobright.ai/jobs/info/698a8f08c5761b521a99d2b2?utm_campaign=1053&utm_source=git)** | New York, NY, US | On Site | Feb 09 |
 | **[AARP](http://www.aarp.org)** | **[Editorial and Video Production Intern (Summer)](https://jobright.ai/jobs/info/698a895e0f6f7e7a2ce5bb89?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Feb 09 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Paid Intern – Liahona Digital Content Writer/Creator](https://jobright.ai/jobs/info/698a518947434001cc688620?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | Hybrid | Feb 09 |
 | **[TrackTown USA](https://www.gotracktownusa.com/)** | **[Video Production Intern](https://jobright.ai/jobs/info/698a49e84db8972cecff8919?utm_campaign=1053&utm_source=git)** | Eugene, OR | On Site | Feb 09 |
 | **[Edelman](http://www.edelman.com)** | **[Edelman U.S. Summer 2026 Internship Program](https://jobright.ai/jobs/info/698a3f8c4db8972cecff7ee2?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Feb 09 |
-| **[Milwaukee Brewers](https://brewers.mlb.com/)** | **[Intern - Productions](https://jobright.ai/jobs/info/698a3d3b47434001cc6871f8?utm_campaign=1053&utm_source=git)** | Milwaukee, WI, US | On Site | Feb 09 |
-| **[Knights of Columbus](http://www.kofc.org)** | **[Archives Intern](https://jobright.ai/jobs/info/697985cbca92cf0d6a82ae89?utm_campaign=1053&utm_source=git)** | New Haven, CT | On Site | Feb 09 |
-| **[Milwaukee Brewers](https://brewers.mlb.com/)** | **[Intern - Productions](https://jobright.ai/jobs/info/698a357f4db8972cecff74f4?utm_campaign=1053&utm_source=git)** | US-WI-Milwaukee | On Site | Feb 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
