@@ -57,15 +57,22 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[LIU Internship at The Brooklyn Paramount](https://jobright.ai/jobs/info/698f74ab6ea51a7610f1cd5b?utm_campaign=1053&utm_source=git)** | Brooklyn, NY | On Site | Feb 13 |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Disney Live Entertainment Costume Support Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/698f66d30f6f7e7a2ceb9b13?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | Feb 13 |
+| **[Epic Games](https://epicgames.com)** | **[Gameplay Animation Intern](https://jobright.ai/jobs/info/69017b0fd5259a1b3cff5421?utm_campaign=1053&utm_source=git)** | Cary, NC | On Site | Feb 13 |
+| **[The Reynolds and Reynolds Company](https://www.reyrey.com)** | **[Multimedia Production Specialist Intern](https://jobright.ai/jobs/info/69738c76206da320f49d8899?utm_campaign=1053&utm_source=git)** | Greater Houston | On Site | Feb 13 |
 | **[Colonial Williamsburg Foundation](https://www.colonialwilliamsburg.org/)** | **[Intern - Fife & Drum](https://jobright.ai/jobs/info/6789b384fade8859f716aab4?utm_campaign=1053&utm_source=git)** | Williamsburg, VA | On Site | Feb 13 |
+| **[iHeartMedia](http://iheartmedia.com)** | **[Elvis Duran Morning Show Intern](https://jobright.ai/jobs/info/682b8a0023335c4e00281de0?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Feb 13 |
+| **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[LIU Internship at The Brooklyn Paramount](https://jobright.ai/jobs/info/698f721b0cc8ea15f1d9fb3b?utm_campaign=1053&utm_source=git)** | Brooklyn, NY, USA | On Site | Feb 13 |
+| **[SLACK Journals](https://journals.healio.com/ )** | **[Journals-Editorial Summer Internship](https://jobright.ai/jobs/info/698f6a2e0f6f7e7a2ceb9f42?utm_campaign=1053&utm_source=git)** | Thorofare, NJ | Hybrid | Feb 13 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Disney Live Entertainment Production Assistant Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/698c6e2b78b4502f12a2f610?utm_campaign=1053&utm_source=git)** | Anaheim, CA | On Site | Feb 13 |
 | **[Publicis Groupe ANZ](http://www.publicisgroupeanz.com)** | **[Associate Digital Producer Intern](https://jobright.ai/jobs/info/698f26340f6f7e7a2ceb35aa?utm_campaign=1053&utm_source=git)** | New York, NY, US | On Site | Feb 13 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Disney Live Entertainment Costume Production Intern, Summer/Fall 2025](https://jobright.ai/jobs/info/698c715578b4502f12a2f997?utm_campaign=1053&utm_source=git)** | Anaheim, CA | On Site | Feb 13 |
 | **[Publicis Groupe ANZ](http://www.publicisgroupeanz.com)** | **[Associate Digital Producer Intern](https://jobright.ai/jobs/info/698f41bd0f6f7e7a2ceb6880?utm_campaign=1053&utm_source=git)** | Chicago, IL, US | On Site | Feb 13 |
 | ↳ | **[Associate Producer Intern](https://jobright.ai/jobs/info/698f3b5e0f6f7e7a2ceb5d2b?utm_campaign=1053&utm_source=git)** | US-IL-Chicago | On Site | Feb 13 |
-| ↳ | **[Associate Content Creator Intern](https://jobright.ai/jobs/info/698f4cd00cc8ea15f1d9c9c5?utm_campaign=1053&utm_source=git)** | New York, NY, US | On Site | Feb 13 |
 | ↳ | **[Associate Digital Producer Intern](https://jobright.ai/jobs/info/698f36e40cc8ea15f1d9a9dc?utm_campaign=1053&utm_source=git)** | US-NY-New York | On Site | Feb 13 |
 | ↳ | **[Associate Content Creator Intern](https://jobright.ai/jobs/info/698f486c6ea51a7610f19124?utm_campaign=1053&utm_source=git)** | US-NY-New York | On Site | Feb 13 |
+| ↳ | **[Associate Content Creator Intern](https://jobright.ai/jobs/info/698f4cd00cc8ea15f1d9c9c5?utm_campaign=1053&utm_source=git)** | New York, NY, US | On Site | Feb 13 |
 | **[Walt Disney Imagineering](https://disneyimaginations.com)** | **[Disney Live Entertainment Costume Support Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/698f3ac00cc8ea15f1d9af85?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | Feb 13 |
 | **[Our Democracy Collective](https://ourdemocracycollective.org/)** | **[Video Editing Internship](https://jobright.ai/jobs/info/698f3f060f6f7e7a2ceb63b8?utm_campaign=1053&utm_source=git)** | United States | Remote | Feb 13 |
 | **[Canterbury Park](https://www.canterburypark.com)** | **[Seasonal Entertainment Intern](https://jobright.ai/jobs/info/69851ee70f6f7e7a2cdfa83f?utm_campaign=1053&utm_source=git)** | Shakopee, MN | On Site | Feb 13 |
@@ -146,15 +153,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Production, Pre Production & Video Intern](https://jobright.ai/jobs/info/698be34f06d9b0622496121b?utm_campaign=1053&utm_source=git)** | Toronto, Ontario | On Site | Feb 10 |
 | ↳ | **[Live Events Intern](https://jobright.ai/jobs/info/698be5d606d9b0622496181f?utm_campaign=1053&utm_source=git)** | Toronto, Ontario | On Site | Feb 10 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Disney Live Entertainment Production Assistant Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/698c6185f64d441a164e53f7?utm_campaign=1053&utm_source=git)** | Anaheim, CA, USA | Hybrid | Feb 10 |
+| ↳ | **[Disney Live Entertainment Costume Development Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/698c1f0a91fdda424d58e104?utm_campaign=1053&utm_source=git)** | Anaheim, CA, USA | On Site | Feb 10 |
 | ↳ | **[Disney Live Entertainment Costume Production Intern, Summer/Fall 2025](https://jobright.ai/jobs/info/698c5c9cf64d441a164e4e20?utm_campaign=1053&utm_source=git)** | Anaheim, CA, USA | On Site | Feb 10 |
 | ↳ | **[Disney Live Entertainment Costume Buying Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/698bde80c5761b521a9b6ecd?utm_campaign=1053&utm_source=git)** | Orlando, FL, USA | Hybrid | Feb 10 |
-| ↳ | **[Disney Live Entertainment Costume Development Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/698c1f0a91fdda424d58e104?utm_campaign=1053&utm_source=git)** | Anaheim, CA, USA | On Site | Feb 10 |
 | **[Viens Avec Moi](https://viensavecmoi.ca/)** | **[Internship Opportunity Unpaid Social Media Content Creator](https://jobright.ai/jobs/info/698b8ba60f6f7e7a2ce7018b?utm_campaign=1053&utm_source=git)** | Ottawa, Ontario, Canada | On Site | Feb 10 |
-| **[AAAS](http://www.aaas.org/)** | **[Digital Storytelling Intern](https://jobright.ai/jobs/info/698b6307c5761b521a9adb04?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Feb 10 |
-| **[Gundersen Health System](https://www.gundersenhealth.org)** | **[Intern / Medical Media](https://jobright.ai/jobs/info/698c418a91fdda424d592a07?utm_campaign=1053&utm_source=git)** | La Crosse, WI | On Site | Feb 10 |
-| **[North Dallas Gazette](https://northdallasgazette.com)** | **[Journalism Intern](https://jobright.ai/jobs/info/698b571c0f6f7e7a2ce6b22f?utm_campaign=1053&utm_source=git)** | Irving, TX | On Site | Feb 10 |
-| **[AAAS](http://www.aaas.org/)** | **[Kavli Science Journalism Awards Intern](https://jobright.ai/jobs/info/698b7a1306d9b062249594c1?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Feb 10 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[LIVE! Kelly and Mark Production Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/6985dac28da7a61204608e22?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Feb 10 |
-| ↳ | **[Content Production Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/698b21480f6f7e7a2ce66d40?utm_campaign=1053&utm_source=git)** | Winter Garden, FL | On Site | Feb 10 |
-| **[One Impression](https://www.oneimpression.io)** | **[Research Associate Intern (Reels & Content Rating)](https://jobright.ai/jobs/info/698b01010f6f7e7a2ce6538b?utm_campaign=1053&utm_source=git)** | United States | Remote | Feb 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
