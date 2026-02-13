@@ -57,18 +57,20 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Colonial Williamsburg Foundation](https://www.colonialwilliamsburg.org/)** | **[Intern - Fife & Drum](https://jobright.ai/jobs/info/6789b384fade8859f716aab4?utm_campaign=1053&utm_source=git)** | Williamsburg, VA | On Site | Feb 13 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Disney Live Entertainment Production Assistant Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/698c6e2b78b4502f12a2f610?utm_campaign=1053&utm_source=git)** | Anaheim, CA | On Site | Feb 13 |
 | **[Publicis Groupe ANZ](http://www.publicisgroupeanz.com)** | **[Associate Digital Producer Intern](https://jobright.ai/jobs/info/698f26340f6f7e7a2ceb35aa?utm_campaign=1053&utm_source=git)** | New York, NY, US | On Site | Feb 13 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Disney Live Entertainment Costume Production Intern, Summer/Fall 2025](https://jobright.ai/jobs/info/698c715578b4502f12a2f997?utm_campaign=1053&utm_source=git)** | Anaheim, CA | On Site | Feb 13 |
 | **[Publicis Groupe ANZ](http://www.publicisgroupeanz.com)** | **[Associate Digital Producer Intern](https://jobright.ai/jobs/info/698f41bd0f6f7e7a2ceb6880?utm_campaign=1053&utm_source=git)** | Chicago, IL, US | On Site | Feb 13 |
 | ↳ | **[Associate Producer Intern](https://jobright.ai/jobs/info/698f3b5e0f6f7e7a2ceb5d2b?utm_campaign=1053&utm_source=git)** | US-IL-Chicago | On Site | Feb 13 |
+| ↳ | **[Associate Content Creator Intern](https://jobright.ai/jobs/info/698f486c6ea51a7610f19124?utm_campaign=1053&utm_source=git)** | US-NY-New York | On Site | Feb 13 |
+| ↳ | **[Associate Content Creator Intern](https://jobright.ai/jobs/info/698f4cd00cc8ea15f1d9c9c5?utm_campaign=1053&utm_source=git)** | New York, NY, US | On Site | Feb 13 |
 | ↳ | **[Associate Digital Producer Intern](https://jobright.ai/jobs/info/698f36e40cc8ea15f1d9a9dc?utm_campaign=1053&utm_source=git)** | US-NY-New York | On Site | Feb 13 |
 | **[Walt Disney Imagineering](https://disneyimaginations.com)** | **[Disney Live Entertainment Costume Support Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/698f3ac00cc8ea15f1d9af85?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | Feb 13 |
 | **[Our Democracy Collective](https://ourdemocracycollective.org/)** | **[Video Editing Internship](https://jobright.ai/jobs/info/698f3f060f6f7e7a2ceb63b8?utm_campaign=1053&utm_source=git)** | United States | Remote | Feb 13 |
 | **[Canterbury Park](https://www.canterburypark.com)** | **[Seasonal Entertainment Intern](https://jobright.ai/jobs/info/69851ee70f6f7e7a2cdfa83f?utm_campaign=1053&utm_source=git)** | Shakopee, MN | On Site | Feb 13 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Video Production, People Content (Summer 2026)](https://jobright.ai/jobs/info/698eb5d30f6f7e7a2cead883?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | Feb 12 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Disney Accelerator Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/698ecb7678b4502f12a5a44d?utm_campaign=1053&utm_source=git)** | Glendale, CA, USA | Hybrid | Feb 12 |
-| **[The Patel Comics](https://thepatelcomics.com/)** | **[2D Animator Intern](https://jobright.ai/jobs/info/698e94570f6f7e7a2ceab3f5?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Remote | Feb 12 |
 | **[Capitol Broadcasting Company](http://www.capitolbroadcasting.com)** | **[Videographer / Editor Intern](https://jobright.ai/jobs/info/698ebead0f6f7e7a2ceae0e5?utm_campaign=1053&utm_source=git)** | Triangle Area | On Site | Feb 12 |
 | **[The San Francisco Standard](https://sfstandard.com)** | **[Food Reporter Intern](https://jobright.ai/jobs/info/698e7e710f6f7e7a2cea99c1?utm_campaign=1053&utm_source=git)** | San Francisco, CA | Hybrid | Feb 12 |
 | **[Dartmouth College](http://dartmouth.edu)** | **[Studio Art Intern.](https://jobright.ai/jobs/info/698eab2278b4502f12a582dd?utm_campaign=1053&utm_source=git)** | Hanover, NH | On Site | Feb 12 |
@@ -79,7 +81,6 @@ For a complete list, click the following sortable link below:
 | **[The University of Georgia](http://www.ai.uga.edu)** | **[Event Management and Facilities Intern](https://jobright.ai/jobs/info/698e7f4bf64d441a1650c82b?utm_campaign=1053&utm_source=git)** | Athens, GA | On Site | Feb 12 |
 | **[Reinsurance Group of America, Incorporated](http://www.rgare.com)** | **[Summer Intern - Client Experience](https://jobright.ai/jobs/info/698e6ceff64d441a1650a94d?utm_campaign=1053&utm_source=git)** | Chesterfield, MO | On Site | Feb 12 |
 | **[Gray Media](https://graymedia.com)** | **[GRAY MEDIA FUTURE FOCUS INTERN SPRING '26 - KFDA](https://jobright.ai/jobs/info/698e3458f64d441a16506de2?utm_campaign=1053&utm_source=git)** | Amarillo, TX | On Site | Feb 12 |
-| **[The Shaka Spear](https://www.linkedin.com/company/109225286)** | **[Digital Diplomacy & Research Internships — Spring/Summer 2026 / The Shaka Spear](https://jobright.ai/jobs/info/698f39006ea51a7610f17a90?utm_campaign=1053&utm_source=git)** | DC-Baltimore Area | On Site | Feb 12 |
 | **[Village of Mount Prospect](http://www.mountprospect.org)** | **[Digital Video Intern (Summer 2026)](https://jobright.ai/jobs/info/698e6dbd78b4502f12a53a21?utm_campaign=1053&utm_source=git)** | Mount Prospect, IL | On Site | Feb 12 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Events and Communication - Internship Experience (Summer 2026)](https://jobright.ai/jobs/info/69727cba4ccbf64f8df26ef7?utm_campaign=1053&utm_source=git)** | Dorval, Quebec, Canada | Hybrid | Feb 12 |
 | **[Walt Disney Imagineering](https://disneyimaginations.com)** | **[Disney Live Entertainment Costumer Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/698e3a46f64d441a165072b3?utm_campaign=1053&utm_source=git)** | Lake Buena Vista, FL | On Site | Feb 12 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[LIVE! Kelly and Mark Production Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/6985dac28da7a61204608e22?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Feb 10 |
 | ↳ | **[Content Production Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/698b21480f6f7e7a2ce66d40?utm_campaign=1053&utm_source=git)** | Winter Garden, FL | On Site | Feb 10 |
 | **[One Impression](https://www.oneimpression.io)** | **[Research Associate Intern (Reels & Content Rating)](https://jobright.ai/jobs/info/698b01010f6f7e7a2ce6538b?utm_campaign=1053&utm_source=git)** | United States | Remote | Feb 10 |
-| **[American Public Media Group](https://fitzgeraldtheater.publicradio.org)** | **[Intern, LAist](https://jobright.ai/jobs/info/698aed954db8972cec005fee?utm_campaign=1053&utm_source=git)** | Pasadena, California, United States | On Site | Feb 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
