@@ -59,6 +59,7 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[The San Francisco Standard](https://sfstandard.com)** | **[Food Reporter Intern](https://jobright.ai/jobs/info/698e7e710f6f7e7a2cea99c1?utm_campaign=1053&utm_source=git)** | San Francisco, CA | Hybrid | Feb 12 |
 | **[KELOLAND Media Group](http://www.keloland.com)** | **[News Intern](https://jobright.ai/jobs/info/698e78e30f6f7e7a2cea909a?utm_campaign=1053&utm_source=git)** | Sioux Falls, SD | On Site | Feb 12 |
+| **[The University of Georgia](http://www.ai.uga.edu)** | **[Event Management and Facilities Intern](https://jobright.ai/jobs/info/698e7f4bf64d441a1650c82b?utm_campaign=1053&utm_source=git)** | Athens, GA | On Site | Feb 12 |
 | **[Reinsurance Group of America, Incorporated](http://www.rgare.com)** | **[Summer Intern - Client Experience](https://jobright.ai/jobs/info/698e6ceff64d441a1650a94d?utm_campaign=1053&utm_source=git)** | Chesterfield, MO | On Site | Feb 12 |
 | **[Gray Media](https://graymedia.com)** | **[GRAY MEDIA FUTURE FOCUS INTERN SPRING '26 - KFDA](https://jobright.ai/jobs/info/698e3458f64d441a16506de2?utm_campaign=1053&utm_source=git)** | Amarillo, TX | On Site | Feb 12 |
 | **[Village of Mount Prospect](http://www.mountprospect.org)** | **[Digital Video Intern (Summer 2026)](https://jobright.ai/jobs/info/698e6dbd78b4502f12a53a21?utm_campaign=1053&utm_source=git)** | Mount Prospect, IL | On Site | Feb 12 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[University of St. Thomas](http://www.stthomas.edu)** | **[Residential Connection Intern](https://jobright.ai/jobs/info/698a95844db8972cecfff00b?utm_campaign=1053&utm_source=git)** | St. Paul, MN, US | On Site | Feb 09 |
 | **[Iowa 80 Group](https://www.iowa80group.com/)** | **[Videography Internship - Summer 2026](https://jobright.ai/jobs/info/698a9a42c5761b521a99e058?utm_campaign=1053&utm_source=git)** | Walcott,IA,US | On Site | Feb 09 |
 | **[Legends Global](http://legends.net)** | **[Video/Content Production Intern](https://jobright.ai/jobs/info/698a74240f6f7e7a2ce59ae5?utm_campaign=1053&utm_source=git)** | Miami, FL | On Site | Feb 09 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Content Production Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/698a7032c5761b521a99a726?utm_campaign=1053&utm_source=git)** | Burbank, CA, USA | Hybrid | Feb 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
