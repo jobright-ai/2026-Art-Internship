@@ -127,12 +127,13 @@ For a complete list, click the following sortable link below:
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Disney Live Entertainment Costume Development Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/698c79bbf64d441a164e6a7b?utm_campaign=1053&utm_source=git)** | Anaheim, CA | On Site | Feb 13 |
 | ↳ | **[Disney Live Entertainment Costume Buying Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/698c74ad0f6f7e7a2ce82dfc?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | Feb 13 |
 | ↳ | **[Disney Live Entertainment Costume Production Intern, Summer/Fall 2025](https://jobright.ai/jobs/info/698c715578b4502f12a2f997?utm_campaign=1053&utm_source=git)** | Anaheim, CA | On Site | Feb 13 |
-| **[Publicis Groupe ANZ](http://www.publicisgroupeanz.com)** | **[Associate Digital Producer Intern](https://jobright.ai/jobs/info/698f41bd0f6f7e7a2ceb6880?utm_campaign=1053&utm_source=git)** | Chicago, IL, US | On Site | Feb 13 |
-| ↳ | **[Associate Producer Intern](https://jobright.ai/jobs/info/698f3b5e0f6f7e7a2ceb5d2b?utm_campaign=1053&utm_source=git)** | US-IL-Chicago | On Site | Feb 13 |
+| **[Publicis Groupe ANZ](http://www.publicisgroupeanz.com)** | **[Associate Producer Intern](https://jobright.ai/jobs/info/698f3b5e0f6f7e7a2ceb5d2b?utm_campaign=1053&utm_source=git)** | US-IL-Chicago | On Site | Feb 13 |
+| ↳ | **[Associate Digital Producer Intern](https://jobright.ai/jobs/info/698f41bd0f6f7e7a2ceb6880?utm_campaign=1053&utm_source=git)** | Chicago, IL, US | On Site | Feb 13 |
 | ↳ | **[Associate Digital Producer Intern](https://jobright.ai/jobs/info/698f36e40cc8ea15f1d9a9dc?utm_campaign=1053&utm_source=git)** | US-NY-New York | On Site | Feb 13 |
 | ↳ | **[Associate Content Creator Intern](https://jobright.ai/jobs/info/698f4cd00cc8ea15f1d9c9c5?utm_campaign=1053&utm_source=git)** | New York, NY, US | On Site | Feb 13 |
 | ↳ | **[Associate Content Creator Intern](https://jobright.ai/jobs/info/698f486c6ea51a7610f19124?utm_campaign=1053&utm_source=git)** | US-NY-New York | On Site | Feb 13 |
 | **[Canterbury Park](https://www.canterburypark.com)** | **[Seasonal Entertainment Intern](https://jobright.ai/jobs/info/69851ee70f6f7e7a2cdfa83f?utm_campaign=1053&utm_source=git)** | Shakopee, MN | On Site | Feb 13 |
+| **[New Hampshire Public Radio](http://nhpr.org/)** | **[Public Radio News Intern](https://jobright.ai/jobs/info/6992ce4ece78e77b4fd69c97?utm_campaign=1053&utm_source=git)** | Concord, NH | On Site | Feb 12 |
 | **[Alex's Lemonade Stand Foundation](https://www.alexslemonade.org/)** | **[Summer Internship- Special Events](https://jobright.ai/jobs/info/6992ad31ce78e77b4fd65e14?utm_campaign=1053&utm_source=git)** | Bala-Cynwyd, PA | On Site | Feb 12 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Video Production, People Content (Summer 2026)](https://jobright.ai/jobs/info/698eb5d30f6f7e7a2cead883?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | Feb 12 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Disney Accelerator Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/698ecb7678b4502f12a5a44d?utm_campaign=1053&utm_source=git)** | Glendale, CA, USA | Hybrid | Feb 12 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Epic Games](https://epicgames.com)** | **[Gameplay Animation Intern](https://jobright.ai/jobs/info/6918efb5bcdbf3560c9d3eed?utm_campaign=1053&utm_source=git)** | Greater Montreal Metropolitan Area | On Site | Feb 12 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Content Production Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/698b1c09c5761b521a9a7e93?utm_campaign=1053&utm_source=git)** | Burbank, CA | On Site | Feb 12 |
 | **[Thomas Jefferson Foundation](https://www.monticello.org)** | **[Special Events Intern](https://jobright.ai/jobs/info/698f0c170cc8ea15f1d95f38?utm_campaign=1053&utm_source=git)** | Charlottesville, VA | On Site | Feb 11 |
-| **[Little Rock Rangers Soccer Club](http://littlerockrangers.com/)** | **[Intern – Videography Production](https://jobright.ai/jobs/info/698d43690f6f7e7a2ce915a5?utm_campaign=1053&utm_source=git)** | Little Rock, AR | On Site | Feb 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
