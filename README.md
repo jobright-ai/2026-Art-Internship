@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[City Explorer - Live Streaming Hub](https://cityexplorer.live/)** | **[Live Streaming Internship](https://jobright.ai/jobs/info/6992fd8ece78e77b4fd6d01b?utm_campaign=1053&utm_source=git)** | Toronto, Ontario, Canada | Remote | Feb 16 |
+| ↳ | **[Live Streaming Internship](https://jobright.ai/jobs/info/6992e5da81476f6176aa75ab?utm_campaign=1053&utm_source=git)** | Seattle, WA | Remote | Feb 16 |
+| ↳ | **[Live Streaming Internship](https://jobright.ai/jobs/info/6992e48981476f6176aa73a5?utm_campaign=1053&utm_source=git)** | New York, United States | Remote | Feb 16 |
 | **[Six Flags](https://www.sixflags.com)** | **[Show Wardrobe Technician Internship](https://jobright.ai/jobs/info/6992e0f8e0bddb6acac119c6?utm_campaign=1053&utm_source=git)** | Waukegan, IL | On Site | Feb 16 |
 | ↳ | **[Entertainment Event Technician Internship](https://jobright.ai/jobs/info/6992d93881476f6176aa6cf1?utm_campaign=1053&utm_source=git)** | Waukegan, IL | On Site | Feb 16 |
 | **[ArtsQuest](http://www.artsquest.org/)** | **[Production Internship](https://jobright.ai/jobs/info/6992d4d2ce78e77b4fd69fdb?utm_campaign=1053&utm_source=git)** | Bethlehem, PA | On Site | Feb 16 |
@@ -99,8 +102,8 @@ For a complete list, click the following sortable link below:
 | **[TBNR Productions](https://firejobs.gg)** | **[Instagram Producer Intern](https://jobright.ai/jobs/info/698ff1b90cc8ea15f1da897e?utm_campaign=1053&utm_source=git)** | Dallas, Texas, United States, Remote | Remote | Feb 13 |
 | **[Omni Fort Worth Hotel](https://www.omnihotels.com/)** | **[Omni Care Internship Culinary / Fall 2026](https://jobright.ai/jobs/info/6990450e6ea51a7610f2d118?utm_campaign=1053&utm_source=git)** | US-NH-Bretton Woods | On Site | Feb 13 |
 | **[Strategic America](https://www.strategicamerica.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/69900d1a6ea51a7610f27995?utm_campaign=1053&utm_source=git)** | West Des Moines, IA | Hybrid | Feb 13 |
-| **[Audacy, Inc.](https://audacyinc.com/)** | **[Programming/Production Intern](https://jobright.ai/jobs/info/69900e9c0cc8ea15f1dab6a6?utm_campaign=1053&utm_source=git)** | USA-NY-New York | On Site | Feb 13 |
-| ↳ | **[WFAN Intern](https://jobright.ai/jobs/info/698fdf300cc8ea15f1da74de?utm_campaign=1053&utm_source=git)** | USA-NY-New York | On Site | Feb 13 |
+| **[Audacy, Inc.](https://audacyinc.com/)** | **[WFAN Intern](https://jobright.ai/jobs/info/698fdf300cc8ea15f1da74de?utm_campaign=1053&utm_source=git)** | USA-NY-New York | On Site | Feb 13 |
+| ↳ | **[Programming/Production Intern](https://jobright.ai/jobs/info/69900e9c0cc8ea15f1dab6a6?utm_campaign=1053&utm_source=git)** | USA-NY-New York | On Site | Feb 13 |
 | ↳ | **[WFAN Intern](https://jobright.ai/jobs/info/698fee200f6f7e7a2cec330b?utm_campaign=1053&utm_source=git)** | NY-New York, UNAVAILABLE, USA | On Site | Feb 13 |
 | ↳ | **[WINS Intern](https://jobright.ai/jobs/info/699060060cc8ea15f1db2319?utm_campaign=1053&utm_source=git)** | NY-New York, UNAVAILABLE, USA | On Site | Feb 13 |
 | ↳ | **[WINS Intern](https://jobright.ai/jobs/info/699068af6ea51a7610f2ed03?utm_campaign=1053&utm_source=git)** | USA-NY-New York | On Site | Feb 13 |
@@ -131,14 +134,13 @@ For a complete list, click the following sortable link below:
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Disney Live Entertainment Costume Development Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/698c79bbf64d441a164e6a7b?utm_campaign=1053&utm_source=git)** | Anaheim, CA | On Site | Feb 13 |
 | ↳ | **[Disney Live Entertainment Costume Buying Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/698c74ad0f6f7e7a2ce82dfc?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | Feb 13 |
 | ↳ | **[Disney Live Entertainment Costume Production Intern, Summer/Fall 2025](https://jobright.ai/jobs/info/698c715578b4502f12a2f997?utm_campaign=1053&utm_source=git)** | Anaheim, CA | On Site | Feb 13 |
-| **[Publicis Groupe ANZ](http://www.publicisgroupeanz.com)** | **[Associate Digital Producer Intern](https://jobright.ai/jobs/info/698f41bd0f6f7e7a2ceb6880?utm_campaign=1053&utm_source=git)** | Chicago, IL, US | On Site | Feb 13 |
-| ↳ | **[Associate Producer Intern](https://jobright.ai/jobs/info/698f3b5e0f6f7e7a2ceb5d2b?utm_campaign=1053&utm_source=git)** | US-IL-Chicago | On Site | Feb 13 |
+| **[Publicis Groupe ANZ](http://www.publicisgroupeanz.com)** | **[Associate Producer Intern](https://jobright.ai/jobs/info/698f3b5e0f6f7e7a2ceb5d2b?utm_campaign=1053&utm_source=git)** | US-IL-Chicago | On Site | Feb 13 |
+| ↳ | **[Associate Digital Producer Intern](https://jobright.ai/jobs/info/698f41bd0f6f7e7a2ceb6880?utm_campaign=1053&utm_source=git)** | Chicago, IL, US | On Site | Feb 13 |
+| ↳ | **[Associate Content Creator Intern](https://jobright.ai/jobs/info/698f486c6ea51a7610f19124?utm_campaign=1053&utm_source=git)** | US-NY-New York | On Site | Feb 13 |
 | ↳ | **[Associate Digital Producer Intern](https://jobright.ai/jobs/info/698f36e40cc8ea15f1d9a9dc?utm_campaign=1053&utm_source=git)** | US-NY-New York | On Site | Feb 13 |
 | ↳ | **[Associate Content Creator Intern](https://jobright.ai/jobs/info/698f4cd00cc8ea15f1d9c9c5?utm_campaign=1053&utm_source=git)** | New York, NY, US | On Site | Feb 13 |
-| ↳ | **[Associate Content Creator Intern](https://jobright.ai/jobs/info/698f486c6ea51a7610f19124?utm_campaign=1053&utm_source=git)** | US-NY-New York | On Site | Feb 13 |
 | **[Canterbury Park](https://www.canterburypark.com)** | **[Seasonal Entertainment Intern](https://jobright.ai/jobs/info/69851ee70f6f7e7a2cdfa83f?utm_campaign=1053&utm_source=git)** | Shakopee, MN | On Site | Feb 13 |
 | **[New Hampshire Public Radio](http://nhpr.org/)** | **[Public Radio News Intern](https://jobright.ai/jobs/info/6992ce4ece78e77b4fd69c97?utm_campaign=1053&utm_source=git)** | Concord, NH | On Site | Feb 12 |
-| **[Alex's Lemonade Stand Foundation](https://www.alexslemonade.org/)** | **[Summer Internship- Special Events](https://jobright.ai/jobs/info/6992ad31ce78e77b4fd65e14?utm_campaign=1053&utm_source=git)** | Bala-Cynwyd, PA | On Site | Feb 12 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Video Production, People Content (Summer 2026)](https://jobright.ai/jobs/info/698eb5d30f6f7e7a2cead883?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | Feb 12 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Disney Accelerator Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/698ecb7678b4502f12a5a44d?utm_campaign=1053&utm_source=git)** | Glendale, CA, USA | Hybrid | Feb 12 |
 | **[Capitol Broadcasting Company](http://www.capitolbroadcasting.com)** | **[Videographer / Editor Intern](https://jobright.ai/jobs/info/698ebead0f6f7e7a2ceae0e5?utm_campaign=1053&utm_source=git)** | Triangle Area | On Site | Feb 12 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Gray Media](https://graymedia.com)** | **[GRAY MEDIA FUTURE FOCUS INTERN SPRING '26 - KFDA](https://jobright.ai/jobs/info/698e3458f64d441a16506de2?utm_campaign=1053&utm_source=git)** | Amarillo, TX | On Site | Feb 12 |
 | **[Village of Mount Prospect](http://www.mountprospect.org)** | **[Digital Video Intern (Summer 2026)](https://jobright.ai/jobs/info/698e6dbd78b4502f12a53a21?utm_campaign=1053&utm_source=git)** | Mount Prospect, IL | On Site | Feb 12 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Events and Communication - Internship Experience (Summer 2026)](https://jobright.ai/jobs/info/69727cba4ccbf64f8df26ef7?utm_campaign=1053&utm_source=git)** | Dorval, Quebec, Canada | Hybrid | Feb 12 |
-| **[NBCUniversal](https://www.nbcuniversal.com/)** | **[KHRR/KTAZ News Intern](https://jobright.ai/jobs/info/698e1b02f64d441a16505464?utm_campaign=1053&utm_source=git)** | Phoenix, AZ | On Site | Feb 12 |
-| **[Red Bull New York](http://www.newyorkredbulls.com)** | **[2026 Internship, Spring - Creative Video](https://jobright.ai/jobs/info/693a3311ac80bb5492bcba24?utm_campaign=1053&utm_source=git)** | Harrison, NJ | On Site | Feb 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
