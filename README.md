@@ -57,10 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ALO](https://www.aloyoga.com/)** | **[Retail Video Editing Intern](https://jobright.ai/jobs/info/6993be62e0bddb6acac2074b?utm_campaign=1053&utm_source=git)** | Beverly Hills, CA | On Site | Feb 16 |
 | **[Hasbro](https://shop.hasbro.com)** | **[Intern, Music](https://jobright.ai/jobs/info/69939508e0bddb6acac1dc8a?utm_campaign=1053&utm_source=git)** | City of Washington County, DC | On Site | Feb 16 |
+| **[Sword & Storm Studio](https://www.linkedin.com/company/106175001)** | **[Game Animation Intern](https://jobright.ai/jobs/info/6993b42ace78e77b4fd78905?utm_campaign=1053&utm_source=git)** | United States | Remote | Feb 16 |
+| **[HealthCorps](https://www.HealthCorps.org)** | **[Videographer Intern](https://jobright.ai/jobs/info/6993a79f81476f6176ab4062?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Feb 16 |
 | **[ALO](https://www.aloyoga.com/)** | **[Retail Video Editing Intern](https://jobright.ai/jobs/info/6993a3f6ce78e77b4fd777ee?utm_campaign=1053&utm_source=git)** | Beverly Hills, California, United States | On Site | Feb 16 |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Video Production Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/6993bb13ce78e77b4fd79131?utm_campaign=1053&utm_source=git)** | Celebration, FL, USA | Hybrid | Feb 16 |
 | **[TBNR Productions](https://firejobs.gg)** | **[TikTok Producer Intern](https://jobright.ai/jobs/info/69937684ce78e77b4fd7472f?utm_campaign=1053&utm_source=git)** | Dallas, Texas, United States, Remote | Remote | Feb 16 |
 | ↳ | **[Production Assistant Intern](https://jobright.ai/jobs/info/69936de1e0bddb6acac1b4c2?utm_campaign=1053&utm_source=git)** | Dallas, Texas, United States, Remote | Remote | Feb 16 |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Intern - News Investigative Spring Internship](https://jobright.ai/jobs/info/6993ae47ce78e77b4fd78254?utm_campaign=1053&utm_source=git)** | MO-St. Louis;2250 Ball Drive (Tribune-KTVI/KPLR) | On Site | Feb 16 |
 | **[Museum of Science](http://www.mos.org)** | **[Planetarium Presenter Internship](https://jobright.ai/jobs/info/69863bd28ca8121a3a686a80?utm_campaign=1053&utm_source=git)** | Boston, MA | Hybrid | Feb 16 |
 | **[Coastal Carolina University](http://www.coastal.edu/)** | **[Production Assistant (Student Employee)](https://jobright.ai/jobs/info/69162771286ccf0a15132e6c?utm_campaign=1053&utm_source=git)** | Conway, SC | On Site | Feb 16 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Event Services Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69937cd581476f6176ab14fe?utm_campaign=1053&utm_source=git)** | Lake Buena Vista, FL, USA | On Site | Feb 16 |
@@ -114,8 +119,8 @@ For a complete list, click the following sortable link below:
 | **[Audacy, Inc.](https://audacyinc.com/)** | **[WFAN Intern](https://jobright.ai/jobs/info/698fee200f6f7e7a2cec330b?utm_campaign=1053&utm_source=git)** | NY-New York, UNAVAILABLE, USA | On Site | Feb 13 |
 | ↳ | **[WFAN Intern](https://jobright.ai/jobs/info/698fdf300cc8ea15f1da74de?utm_campaign=1053&utm_source=git)** | USA-NY-New York | On Site | Feb 13 |
 | ↳ | **[Programming/Production Intern](https://jobright.ai/jobs/info/69900e9c0cc8ea15f1dab6a6?utm_campaign=1053&utm_source=git)** | USA-NY-New York | On Site | Feb 13 |
-| ↳ | **[WINS Intern](https://jobright.ai/jobs/info/699068af6ea51a7610f2ed03?utm_campaign=1053&utm_source=git)** | USA-NY-New York | On Site | Feb 13 |
 | ↳ | **[WINS Intern](https://jobright.ai/jobs/info/699060060cc8ea15f1db2319?utm_campaign=1053&utm_source=git)** | NY-New York, UNAVAILABLE, USA | On Site | Feb 13 |
+| ↳ | **[WINS Intern](https://jobright.ai/jobs/info/699068af6ea51a7610f2ed03?utm_campaign=1053&utm_source=git)** | USA-NY-New York | On Site | Feb 13 |
 | **[Omni Hotels & Resorts](http://www.omnihotels.com/)** | **[Omni Care Internship Culinary / Fall 2026](https://jobright.ai/jobs/info/698faa1a0f6f7e7a2cebf6cb?utm_campaign=1053&utm_source=git)** | Bretton Woods, NH | On Site | Feb 13 |
 | **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Arborist Trainee Internship (2026) / Lake Bluff, IL](https://jobright.ai/jobs/info/698fa6b30f6f7e7a2cebf412?utm_campaign=1053&utm_source=git)** | Lake Bluff, IL | On Site | Feb 13 |
 | **[dormakaba Americas](https://www.dormakaba.com/us-en)** | **[Multimedia Intern](https://jobright.ai/jobs/info/698fc2fb6ea51a7610f22f67?utm_campaign=1053&utm_source=git)** | Indianapolis, IN | On Site | Feb 13 |
@@ -141,8 +146,8 @@ For a complete list, click the following sortable link below:
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Disney Live Entertainment Costume Development Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/698c79bbf64d441a164e6a7b?utm_campaign=1053&utm_source=git)** | Anaheim, CA | On Site | Feb 13 |
 | ↳ | **[Disney Live Entertainment Costume Buying Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/698c74ad0f6f7e7a2ce82dfc?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | Feb 13 |
 | ↳ | **[Disney Live Entertainment Costume Production Intern, Summer/Fall 2025](https://jobright.ai/jobs/info/698c715578b4502f12a2f997?utm_campaign=1053&utm_source=git)** | Anaheim, CA | On Site | Feb 13 |
-| **[Publicis Groupe ANZ](http://www.publicisgroupeanz.com)** | **[Associate Producer Intern](https://jobright.ai/jobs/info/698f3b5e0f6f7e7a2ceb5d2b?utm_campaign=1053&utm_source=git)** | US-IL-Chicago | On Site | Feb 13 |
-| ↳ | **[Associate Digital Producer Intern](https://jobright.ai/jobs/info/698f41bd0f6f7e7a2ceb6880?utm_campaign=1053&utm_source=git)** | Chicago, IL, US | On Site | Feb 13 |
+| **[Publicis Groupe ANZ](http://www.publicisgroupeanz.com)** | **[Associate Digital Producer Intern](https://jobright.ai/jobs/info/698f41bd0f6f7e7a2ceb6880?utm_campaign=1053&utm_source=git)** | Chicago, IL, US | On Site | Feb 13 |
+| ↳ | **[Associate Producer Intern](https://jobright.ai/jobs/info/698f3b5e0f6f7e7a2ceb5d2b?utm_campaign=1053&utm_source=git)** | US-IL-Chicago | On Site | Feb 13 |
 | ↳ | **[Associate Content Creator Intern](https://jobright.ai/jobs/info/698f486c6ea51a7610f19124?utm_campaign=1053&utm_source=git)** | US-NY-New York | On Site | Feb 13 |
 | ↳ | **[Associate Digital Producer Intern](https://jobright.ai/jobs/info/698f36e40cc8ea15f1d9a9dc?utm_campaign=1053&utm_source=git)** | US-NY-New York | On Site | Feb 13 |
 | ↳ | **[Associate Content Creator Intern](https://jobright.ai/jobs/info/698f4cd00cc8ea15f1d9c9c5?utm_campaign=1053&utm_source=git)** | New York, NY, US | On Site | Feb 13 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Disney Accelerator Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/698ecb7678b4502f12a5a44d?utm_campaign=1053&utm_source=git)** | Glendale, CA, USA | Hybrid | Feb 12 |
 | **[Capitol Broadcasting Company](http://www.capitolbroadcasting.com)** | **[Videographer / Editor Intern](https://jobright.ai/jobs/info/698ebead0f6f7e7a2ceae0e5?utm_campaign=1053&utm_source=git)** | Triangle Area | On Site | Feb 12 |
 | **[The San Francisco Standard](https://sfstandard.com)** | **[Food Reporter Intern](https://jobright.ai/jobs/info/698e7e710f6f7e7a2cea99c1?utm_campaign=1053&utm_source=git)** | San Francisco, CA | Hybrid | Feb 12 |
-| **[Dartmouth College](http://dartmouth.edu)** | **[Studio Art Intern.](https://jobright.ai/jobs/info/698eab2278b4502f12a582dd?utm_campaign=1053&utm_source=git)** | Hanover, NH | On Site | Feb 12 |
-| **[The Wyanoke Group](http://www.wyanokegroup.com/)** | **[SLACK Journals-Editorial Summer Internship](https://jobright.ai/jobs/info/698f99096ea51a7610f1fd23?utm_campaign=1053&utm_source=git)** | Thorofare, NJ | Hybrid | Feb 12 |
-| **[CBC New Media Group, LLC](https://www.linkedin.com/company/5866674)** | **[Videographer / Editor Intern](https://jobright.ai/jobs/info/698e97e10f6f7e7a2ceab707?utm_campaign=1053&utm_source=git)** | Durham, NC, US | On Site | Feb 12 |
-| **[CBC Real Estate](https://www.cbcrealestate.com/)** | **[Videographer / Editor Intern](https://jobright.ai/jobs/info/698eb03ff64d441a1650f6c6?utm_campaign=1053&utm_source=git)** | Durham, NC, US | On Site | Feb 12 |
-| **[Arizona Small Business Association - ASBA](https://www.asba.com)** | **[Seasonal PGA Intern/Entry Level Assistant](https://jobright.ai/jobs/info/698f2e9d0cc8ea15f1d9a03a?utm_campaign=1053&utm_source=git)** | Flagstaff, AZ | On Site | Feb 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
