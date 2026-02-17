@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Alliance Laundry Systems LLC](https://alliancelaundry.com/)** | **[History Research and Writing Intern](https://jobright.ai/jobs/info/6994851b81476f6176ac4a1e?utm_campaign=1053&utm_source=git)** | Ripon, WI | Hybrid | Feb 17 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Disney Accelerator Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/699064140f6f7e7a2cecd740?utm_campaign=1053&utm_source=git)** | Glendale, CA | Hybrid | Feb 17 |
 | ↳ | **[Video Production Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69945bbc81476f6176ac1609?utm_campaign=1053&utm_source=git)** | Celebration, FL | On Site | Feb 17 |
 | ↳ | **[Disney Live Entertainment Costume Support Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69945b0c81476f6176ac1528?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | Feb 17 |
@@ -80,7 +81,6 @@ For a complete list, click the following sortable link below:
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Video Production Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/6993bb13ce78e77b4fd79131?utm_campaign=1053&utm_source=git)** | Celebration, FL, USA | Hybrid | Feb 16 |
 | **[TBNR Productions](https://firejobs.gg)** | **[TikTok Producer Intern](https://jobright.ai/jobs/info/69937684ce78e77b4fd7472f?utm_campaign=1053&utm_source=git)** | Dallas, Texas, United States, Remote | Remote | Feb 16 |
 | ↳ | **[Production Assistant Intern](https://jobright.ai/jobs/info/69936de1e0bddb6acac1b4c2?utm_campaign=1053&utm_source=git)** | Dallas, Texas, United States, Remote | Remote | Feb 16 |
-| **[Study Stats](https://www.linkedin.com/company/112377157)** | **[Content Writer Intern](https://jobright.ai/jobs/info/699475a8ce78e77b4fd870f9?utm_campaign=1053&utm_source=git)** | United States | Remote | Feb 16 |
 | **[Comcast](https://corporate.comcast.com)** | **[Comcast Town Hall/Ralph J. Roberts Forum Production Intern](https://jobright.ai/jobs/info/6993c44be0bddb6acac20de6?utm_campaign=1053&utm_source=git)** | PA - Philadelphia, 1800 Arch St | On Site | Feb 16 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Intern - News Investigative Spring Internship](https://jobright.ai/jobs/info/6993ae47ce78e77b4fd78254?utm_campaign=1053&utm_source=git)** | MO-St. Louis;2250 Ball Drive (Tribune-KTVI/KPLR) | On Site | Feb 16 |
 | **[Museum of Science](http://www.mos.org)** | **[Planetarium Presenter Internship](https://jobright.ai/jobs/info/69863bd28ca8121a3a686a80?utm_campaign=1053&utm_source=git)** | Boston, MA | Hybrid | Feb 16 |
@@ -134,8 +134,8 @@ For a complete list, click the following sortable link below:
 | **[Audacy, Inc.](https://audacyinc.com/)** | **[WFAN Intern](https://jobright.ai/jobs/info/698fdf300cc8ea15f1da74de?utm_campaign=1053&utm_source=git)** | USA-NY-New York | On Site | Feb 13 |
 | ↳ | **[WFAN Intern](https://jobright.ai/jobs/info/698fee200f6f7e7a2cec330b?utm_campaign=1053&utm_source=git)** | NY-New York, UNAVAILABLE, USA | On Site | Feb 13 |
 | ↳ | **[Programming/Production Intern](https://jobright.ai/jobs/info/69900e9c0cc8ea15f1dab6a6?utm_campaign=1053&utm_source=git)** | USA-NY-New York | On Site | Feb 13 |
-| ↳ | **[WINS Intern](https://jobright.ai/jobs/info/699068af6ea51a7610f2ed03?utm_campaign=1053&utm_source=git)** | USA-NY-New York | On Site | Feb 13 |
 | ↳ | **[WINS Intern](https://jobright.ai/jobs/info/699060060cc8ea15f1db2319?utm_campaign=1053&utm_source=git)** | NY-New York, UNAVAILABLE, USA | On Site | Feb 13 |
+| ↳ | **[WINS Intern](https://jobright.ai/jobs/info/699068af6ea51a7610f2ed03?utm_campaign=1053&utm_source=git)** | USA-NY-New York | On Site | Feb 13 |
 | **[Omni Hotels & Resorts](http://www.omnihotels.com/)** | **[Omni Care Internship Culinary / Fall 2026](https://jobright.ai/jobs/info/698faa1a0f6f7e7a2cebf6cb?utm_campaign=1053&utm_source=git)** | Bretton Woods, NH | On Site | Feb 13 |
 | **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Arborist Trainee Internship (2026) / Lake Bluff, IL](https://jobright.ai/jobs/info/698fa6b30f6f7e7a2cebf412?utm_campaign=1053&utm_source=git)** | Lake Bluff, IL | On Site | Feb 13 |
 | **[dormakaba Americas](https://www.dormakaba.com/us-en)** | **[Multimedia Intern](https://jobright.ai/jobs/info/698fc2fb6ea51a7610f22f67?utm_campaign=1053&utm_source=git)** | Indianapolis, IN | On Site | Feb 13 |
@@ -147,7 +147,6 @@ For a complete list, click the following sortable link below:
 | **[USF College of Nursing](http://health.usf.edu/nursing)** | **[WUSF News Intern (Admin Clerk)-Summer 2026](https://jobright.ai/jobs/info/698fb68a0cc8ea15f1da5250?utm_campaign=1053&utm_source=git)** | Tampa, FL, United States | On Site | Feb 13 |
 | **[California State University, Northridge](https://www.csun.edu/)** | **[Executive and Artistic Director, The Soraya](https://jobright.ai/jobs/info/698f9a340f6f7e7a2cebe1af?utm_campaign=1053&utm_source=git)** | Northridge, CA | On Site | Feb 13 |
 | **[NBCUniversal](https://www.nbcuniversal.com/)** | **[NBC Sports Philadelphia, Phillies Intern](https://jobright.ai/jobs/info/698f94076ea51a7610f1f67d?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Feb 13 |
-| **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[LIU Internship at The Brooklyn Paramount](https://jobright.ai/jobs/info/698f74ab6ea51a7610f1cd5b?utm_campaign=1053&utm_source=git)** | Brooklyn, NY | On Site | Feb 13 |
 | **[Museum of Science](http://www.mos.org)** | **[Exhibit Operations - Summer Youth Internship Program](https://jobright.ai/jobs/info/698f8c910cc8ea15f1da1e0a?utm_campaign=1053&utm_source=git)** | Boston, MA | On Site | Feb 13 |
 | ↳ | **[Exhibit Operations - Summer Youth Internship Program](https://jobright.ai/jobs/info/698f861e0cc8ea15f1da146e?utm_campaign=1053&utm_source=git)** | Boston, MA | On Site | Feb 13 |
 | **[Epic Games](https://epicgames.com)** | **[Gameplay Animation Intern](https://jobright.ai/jobs/info/69017b0fd5259a1b3cff5421?utm_campaign=1053&utm_source=git)** | Cary, NC | On Site | Feb 13 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[LIU Internship at The Brooklyn Paramount](https://jobright.ai/jobs/info/698f721b0cc8ea15f1d9fb3b?utm_campaign=1053&utm_source=git)** | Brooklyn, NY, USA | On Site | Feb 13 |
 | **[SLACK Journals](https://journals.healio.com/ )** | **[Journals-Editorial Summer Internship](https://jobright.ai/jobs/info/698f6a2e0f6f7e7a2ceb9f42?utm_campaign=1053&utm_source=git)** | Thorofare, NJ | Hybrid | Feb 13 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Disney Live Entertainment Production Assistant Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/698c6e2b78b4502f12a2f610?utm_campaign=1053&utm_source=git)** | Anaheim, CA | On Site | Feb 13 |
+| **[Publicis Groupe ANZ](http://www.publicisgroupeanz.com)** | **[Associate Digital Producer Intern](https://jobright.ai/jobs/info/698f26340f6f7e7a2ceb35aa?utm_campaign=1053&utm_source=git)** | New York, NY, US | On Site | Feb 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
