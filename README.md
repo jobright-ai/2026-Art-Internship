@@ -57,8 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Company 3](http://www.company3.com)** | **[NExT Summer Intern - Postproduction](https://jobright.ai/jobs/info/6994e8c581476f6176acbed1?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Feb 17 |
+| **[SDFX Studios](https://www.sdfxstudios.com)** | **[NExT Summer Intern - VFX Production](https://jobright.ai/jobs/info/6994e68681476f6176acbbe8?utm_campaign=1053&utm_source=git)** | LA Metro Area | Remote | Feb 17 |
+| **[Curated](http://powerhousevfx.com/)** | **[NExT Summer Intern - VFX Art](https://jobright.ai/jobs/info/6994e63cce78e77b4fd8f7c5?utm_campaign=1053&utm_source=git)** | Greater Toronto Area, Canada | Remote | Feb 17 |
+| **[Company 3](http://www.company3.com)** | **[NExT Summer Intern - Postproduction](https://jobright.ai/jobs/info/6994e517e0bddb6acac365ef?utm_campaign=1053&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Feb 17 |
+| **[SDFX Studios](https://www.sdfxstudios.com)** | **[NExT Summer Intern - VFX Production](https://jobright.ai/jobs/info/6994e1dce0bddb6acac361bd?utm_campaign=1053&utm_source=git)** | Greater Toronto Area, Canada | Remote | Feb 17 |
 | **[Curated](http://powerhousevfx.com/)** | **[NExT Summer Intern - VFX Art](https://jobright.ai/jobs/info/6994d935e0bddb6acac356a4?utm_campaign=1053&utm_source=git)** | Vancouver, British Columbia, Canada | Remote | Feb 17 |
 | **[Walt Disney Imagineering](https://disneyimaginations.com)** | **[Disney Live Entertainment Costume Support Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/6994c38de0bddb6acac33a2c?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | Feb 17 |
+| **[Seven Moons](www.seven-moons.com)** | **[Post Production Intern](https://jobright.ai/jobs/info/6994e22881476f6176acb659?utm_campaign=1053&utm_source=git)** | United States | Remote | Feb 17 |
 | **[AM Best](https://www.ambest.com)** | **[2026 Summer Intern - Best's News](https://jobright.ai/jobs/info/6994aa3bce78e77b4fd8a926?utm_campaign=1053&utm_source=git)** | Oldwick, NJ | Hybrid | Feb 17 |
 | **[Studio Museum in Harlem](https://www.studiomuseum.org/)** | **[Summer 2026 Director's Office Intern](https://jobright.ai/jobs/info/6994ccd081476f6176ac9e37?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Feb 17 |
 | **[Solidigm](https://www.solidigmtechnology.com)** | **[Intern Experience & Engagement Intern](https://jobright.ai/jobs/info/6994c7cb81476f6176ac977c?utm_campaign=1053&utm_source=git)** | Rancho Cordova, CA | Hybrid | Feb 17 |
@@ -141,20 +147,14 @@ For a complete list, click the following sortable link below:
 | **[Omni Fort Worth Hotel](https://www.omnihotels.com/)** | **[Omni Care Internship Culinary / Fall 2026](https://jobright.ai/jobs/info/6990450e6ea51a7610f2d118?utm_campaign=1053&utm_source=git)** | US-NH-Bretton Woods | On Site | Feb 13 |
 | **[Strategic America](https://www.strategicamerica.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/69900d1a6ea51a7610f27995?utm_campaign=1053&utm_source=git)** | West Des Moines, IA | Hybrid | Feb 13 |
 | **[Audacy, Inc.](https://audacyinc.com/)** | **[WFAN Intern](https://jobright.ai/jobs/info/698fdf300cc8ea15f1da74de?utm_campaign=1053&utm_source=git)** | USA-NY-New York | On Site | Feb 13 |
-| ↳ | **[Programming/Production Intern](https://jobright.ai/jobs/info/69900e9c0cc8ea15f1dab6a6?utm_campaign=1053&utm_source=git)** | USA-NY-New York | On Site | Feb 13 |
 | ↳ | **[WFAN Intern](https://jobright.ai/jobs/info/698fee200f6f7e7a2cec330b?utm_campaign=1053&utm_source=git)** | NY-New York, UNAVAILABLE, USA | On Site | Feb 13 |
-| ↳ | **[WINS Intern](https://jobright.ai/jobs/info/699068af6ea51a7610f2ed03?utm_campaign=1053&utm_source=git)** | USA-NY-New York | On Site | Feb 13 |
+| ↳ | **[Programming/Production Intern](https://jobright.ai/jobs/info/69900e9c0cc8ea15f1dab6a6?utm_campaign=1053&utm_source=git)** | USA-NY-New York | On Site | Feb 13 |
 | ↳ | **[WINS Intern](https://jobright.ai/jobs/info/699060060cc8ea15f1db2319?utm_campaign=1053&utm_source=git)** | NY-New York, UNAVAILABLE, USA | On Site | Feb 13 |
+| ↳ | **[WINS Intern](https://jobright.ai/jobs/info/699068af6ea51a7610f2ed03?utm_campaign=1053&utm_source=git)** | USA-NY-New York | On Site | Feb 13 |
 | **[Omni Hotels & Resorts](http://www.omnihotels.com/)** | **[Omni Care Internship Culinary / Fall 2026](https://jobright.ai/jobs/info/698faa1a0f6f7e7a2cebf6cb?utm_campaign=1053&utm_source=git)** | Bretton Woods, NH | On Site | Feb 13 |
 | **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Arborist Trainee Internship (2026) / Lake Bluff, IL](https://jobright.ai/jobs/info/698fa6b30f6f7e7a2cebf412?utm_campaign=1053&utm_source=git)** | Lake Bluff, IL | On Site | Feb 13 |
 | **[dormakaba Americas](https://www.dormakaba.com/us-en)** | **[Multimedia Intern](https://jobright.ai/jobs/info/698fc2fb6ea51a7610f22f67?utm_campaign=1053&utm_source=git)** | Indianapolis, IN | On Site | Feb 13 |
 | **[Hasbro](https://shop.hasbro.com)** | **[Intern, Narrative Design](https://jobright.ai/jobs/info/698f9b260cc8ea15f1da3163?utm_campaign=1053&utm_source=git)** | Renton, WA | Hybrid | Feb 13 |
 | **[University of South Florida](http://www.usf.edu)** | **[WUSF News Intern (Admin Clerk)-Summer 2026](https://jobright.ai/jobs/info/698f93450f6f7e7a2cebd6aa?utm_campaign=1053&utm_source=git)** | Tampa, FL | On Site | Feb 13 |
 | **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Arborist Trainee Internship (2026) / Near North Shore (Wheeling), IL](https://jobright.ai/jobs/info/698fb7090cc8ea15f1da532f?utm_campaign=1053&utm_source=git)** | Wheeling, IL | On Site | Feb 13 |
-| ↳ | **[Arborist Trainee Internship (2026) / Crystal Lake, IL](https://jobright.ai/jobs/info/698fb6ab0f6f7e7a2cec02c0?utm_campaign=1053&utm_source=git)** | Crystal Lake, IL | On Site | Feb 13 |
-| **[Six Flags Entertainment Corporation](http://sixflags.com)** | **[Entertainment Event Technician Internship](https://jobright.ai/jobs/info/6973d0d337785856350da366?utm_campaign=1053&utm_source=git)** | Gurnee, IL | On Site | Feb 13 |
-| **[USF College of Nursing](http://health.usf.edu/nursing)** | **[WUSF News Intern (Admin Clerk)-Summer 2026](https://jobright.ai/jobs/info/698fb68a0cc8ea15f1da5250?utm_campaign=1053&utm_source=git)** | Tampa, FL, United States | On Site | Feb 13 |
-| **[California State University, Northridge](https://www.csun.edu/)** | **[Executive and Artistic Director, The Soraya](https://jobright.ai/jobs/info/698f9a340f6f7e7a2cebe1af?utm_campaign=1053&utm_source=git)** | Northridge, CA | On Site | Feb 13 |
-| **[NBCUniversal](https://www.nbcuniversal.com/)** | **[NBC Sports Philadelphia, Phillies Intern](https://jobright.ai/jobs/info/698f94076ea51a7610f1f67d?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Feb 13 |
-| **[Museum of Science](http://www.mos.org)** | **[Exhibit Operations - Summer Youth Internship Program](https://jobright.ai/jobs/info/698f8c910cc8ea15f1da1e0a?utm_campaign=1053&utm_source=git)** | Boston, MA | On Site | Feb 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
