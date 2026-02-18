@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[KGO-TV (ABC7) Assignment Desk News Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/6990b8e60cc8ea15f1db7669?utm_campaign=1053&utm_source=git)** | San Francisco, CA | On Site | Feb 18 |
+| **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Fan Page / Digital Intern](https://jobright.ai/jobs/info/6979aa0fca92cf0d6a82f639?utm_campaign=1053&utm_source=git)** | Knoxville Metro | On Site | Feb 18 |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Walt Disney Television Unscripted & Alternative Entertainment Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/699063010cc8ea15f1db2609?utm_campaign=1053&utm_source=git)** | Burbank, CA | On Site | Feb 18 |
+| ↳ | **[KGO-TV (ABC7) Assignment Desk News Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/6990b8e60cc8ea15f1db7669?utm_campaign=1053&utm_source=git)** | San Francisco, CA | On Site | Feb 18 |
 | ↳ | **[Disney Programs Experience Intern, Fall 2026](https://jobright.ai/jobs/info/6995ce55ce78e77b4fd9d82c?utm_campaign=1053&utm_source=git)** | Winter Garden, FL | On Site | Feb 18 |
 | **[Famease](https://famease.com/)** | **[Editorial & Research Intern (Remote)](https://jobright.ai/jobs/info/6995cb99e0bddb6acac442db?utm_campaign=1053&utm_source=git)** | United States | Remote | Feb 18 |
 | **[Rock Events](https://rockevents.com/)** | **[Event Facilities Tech Intern - Summer 2026](https://jobright.ai/jobs/info/69793de552f3c27ec645937b?utm_campaign=1053&utm_source=git)** | Detroit, MI | On Site | Feb 18 |
@@ -103,8 +105,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[NExT Summer Intern - VFX Artist](https://jobright.ai/jobs/info/6994f025ce78e77b4fd90473?utm_campaign=1053&utm_source=git)** | New York, NY | Remote | Feb 17 |
 | **[CUMULUS MEDIA](http://www.cumulus.com)** | **[Smiley Morning Show Intern](https://jobright.ai/jobs/info/6994f0f8e0bddb6acac373da?utm_campaign=1053&utm_source=git)** | Indianapolis, IN | On Site | Feb 17 |
 | **[Company 3](http://www.company3.com)** | **[NExT Summer Intern - Postproduction](https://jobright.ai/jobs/info/6994ee9881476f6176acc722?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Feb 17 |
-| **[Curated](http://powerhousevfx.com/)** | **[NExT Summer Intern - VFX Production](https://jobright.ai/jobs/info/6994eef6ce78e77b4fd902e9?utm_campaign=1053&utm_source=git)** | Vancouver, British Columbia, Canada | Remote | Feb 17 |
-| ↳ | **[NExT Summer Intern - VFX Production](https://jobright.ai/jobs/info/6994ed36ce78e77b4fd90084?utm_campaign=1053&utm_source=git)** | Greater Toronto Area, Canada | Remote | Feb 17 |
+| **[Curated](http://powerhousevfx.com/)** | **[NExT Summer Intern - VFX Production](https://jobright.ai/jobs/info/6994ed36ce78e77b4fd90084?utm_campaign=1053&utm_source=git)** | Greater Toronto Area, Canada | Remote | Feb 17 |
+| ↳ | **[NExT Summer Intern - VFX Production](https://jobright.ai/jobs/info/6994eef6ce78e77b4fd902e9?utm_campaign=1053&utm_source=git)** | Vancouver, British Columbia, Canada | Remote | Feb 17 |
 | **[Seattle Kraken](https://www.nhl.com/kraken)** | **[Production Intern (September-April)](https://jobright.ai/jobs/info/6994f191ce78e77b4fd90642?utm_campaign=1053&utm_source=git)** | Seattle, Washington, United States | On Site | Feb 17 |
 | **[AM Best](https://www.ambest.com)** | **[2026 Summer Intern - Best's News](https://jobright.ai/jobs/info/6994aa3bce78e77b4fd8a926?utm_campaign=1053&utm_source=git)** | Oldwick, NJ | Hybrid | Feb 17 |
 | **[Studio Museum in Harlem](https://www.studiomuseum.org/)** | **[Summer 2026 Director's Office Intern](https://jobright.ai/jobs/info/6994ccd081476f6176ac9e37?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Feb 17 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Simons Foundation](https://www.simonsfoundation.org)** | **[Editorial Intern, Quanta Books](https://jobright.ai/jobs/info/693c868750bbaf76504fbe50?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Feb 15 |
 | **[UL Research Institutes](https://ul.org)** | **[Multimedia Design, Video Production Summer 2026 Intern - Fire Safety Research Institute](https://jobright.ai/jobs/info/697188bf333b6343a14e23b8?utm_campaign=1053&utm_source=git)** | Columbia, MD | Hybrid | Feb 15 |
 | **[Coastal Carolina University](http://www.coastal.edu/)** | **[Production Assistant (Student Employee)](https://jobright.ai/jobs/info/69161f33286ccf0a15132ad9?utm_campaign=1053&utm_source=git)** | Conway, SC | On Site | Feb 14 |
-| **[Kohler Hospitality](https://www.kohlerwisconsin.com/)** | **[Decor & Design Intern, Meeting and Events](https://jobright.ai/jobs/info/6993f70dce78e77b4fd7d565?utm_campaign=1053&utm_source=git)** | Kohler, WI | On Site | Feb 14 |
-| **[The Washington Post](http://www.washingtonpost.com/)** | **[Opinion Video Intern](https://jobright.ai/jobs/info/68caff29d905e25191d9e2c9?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Feb 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
