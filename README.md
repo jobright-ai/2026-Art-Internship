@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Crystal Bridges Museum of American Art](http://crystalbridges.org)** | **[2026 Art Management Intern: Summer (Housing Not Included)](https://jobright.ai/jobs/info/69620f57a112b402661078ab?utm_campaign=1053&utm_source=git)** | Bentonville, AR | On Site | Feb 18 |
 | **[Major League Baseball (MLB)](https://www.mlb.com)** | **[Intern, Event Operations](https://jobright.ai/jobs/info/6941d397bdcf884a5add8880?utm_campaign=1053&utm_source=git)** | Vero Beach, FL | On Site | Feb 18 |
 | **[Omni Hotels & Resorts](http://www.omnihotels.com/)** | **[2026 Omni Care Internship / Events (June - August)](https://jobright.ai/jobs/info/6996206be0bddb6acac47fc0?utm_campaign=1053&utm_source=git)** | Boston, MA | On Site | Feb 18 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Fan Page / Digital Intern](https://jobright.ai/jobs/info/6979aa0fca92cf0d6a82f639?utm_campaign=1053&utm_source=git)** | Knoxville Metro | On Site | Feb 18 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Flick](https://flick.art/)** | **[Creative Production Intern (AI Filmmaking)](https://jobright.ai/jobs/info/6992dbd381476f6176aa6e92?utm_campaign=1053&utm_source=git)** | Remote (US) | Remote | Feb 15 |
 | ↳ | **[Creative Technologist Intern (AI Filmmaking)](https://jobright.ai/jobs/info/69953a31e0bddb6acac3c2b5?utm_campaign=1053&utm_source=git)** | Remote (US) | Remote | Feb 15 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Digital Intern](https://jobright.ai/jobs/info/69577852f1f8465b79ee2fb5?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Feb 15 |
-| **[Bang Zoom! Studios](http://bangzoomentertainment.com)** | **[Post-Production Production Intern (Paid)](https://jobright.ai/jobs/info/699222ff0cc8ea15f1dc97c7?utm_campaign=1053&utm_source=git)** | Burbank, CA | On Site | Feb 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
