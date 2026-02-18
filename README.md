@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Spectrum Reach](https://www.spectrumreach.com)** | **[Video Production Intern, Spectrum Reach Summer 2026](https://jobright.ai/jobs/info/6995941dce78e77b4fd9b8e9?utm_campaign=1053&utm_source=git)** | St Louis, MO | On Site | Feb 18 |
 | **[Vistra Corp.](https://vistracorp.com)** | **[Summer Production Intern - Forney Plant](https://jobright.ai/jobs/info/699553b3ce78e77b4fd972cd?utm_campaign=1053&utm_source=git)** | Forney, TX | On Site | Feb 17 |
 | **[AAAS](http://www.aaas.org/)** | **[Digital Storytelling Intern](https://jobright.ai/jobs/info/698b6307c5761b521a9adb04?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Feb 17 |
 | **[Seattle Kraken](https://www.nhl.com/kraken)** | **[Production Intern (September-April)](https://jobright.ai/jobs/info/6995623681476f6176ad4fa5?utm_campaign=1053&utm_source=git)** | Seattle, WA | On Site | Feb 17 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Southern Poverty Law Center](http://www.splcenter.org)** | **[Intern, Editorial (Summer 2026)](https://jobright.ai/jobs/info/697440f737785856350e39f1?utm_campaign=1053&utm_source=git)** | New Orleans, LA | Hybrid | Feb 14 |
 | ↳ | **[Intern, Editorial (Summer 2026)](https://jobright.ai/jobs/info/69743bf637785856350e361d?utm_campaign=1053&utm_source=git)** | Montgomery, AL | Hybrid | Feb 14 |
 | ↳ | **[Intern, Editorial (Summer 2026)](https://jobright.ai/jobs/info/69743a1837785856350e3497?utm_campaign=1053&utm_source=git)** | United States | Remote | Feb 14 |
-| **[Forbes](https://www.forbesmagazine.com)** | **[Forbes Summer 2026 Editorial Intern](https://jobright.ai/jobs/info/6973bfc1206da320f49dba81?utm_campaign=1053&utm_source=git)** | Jersey City, NJ | On Site | Feb 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
