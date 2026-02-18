@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Vistra Corp.](https://vistracorp.com)** | **[Summer Production Intern - Forney Plant](https://jobright.ai/jobs/info/699553b3ce78e77b4fd972cd?utm_campaign=1053&utm_source=git)** | Forney, TX | On Site | Feb 17 |
 | **[SexSymbol Magazine](sexsymbolmagazine.com)** | **[Video Editing Intern (Unpaid, Remote – Internship)](https://jobright.ai/jobs/info/699538fee0bddb6acac3c1a4?utm_campaign=1053&utm_source=git)** | United States | Remote | Feb 17 |
+| **[Omni Hotels & Resorts](http://www.omnihotels.com/)** | **[Summer Omni Cares Internship- Recreation](https://jobright.ai/jobs/info/69955132ce78e77b4fd96df9?utm_campaign=1053&utm_source=git)** | Irving, TX | On Site | Feb 17 |
 | **[Omni Fort Worth Hotel](https://www.omnihotels.com/)** | **[Summer Omni Cares Internship- Recreation](https://jobright.ai/jobs/info/69951ef1e0bddb6acac3a6b7?utm_campaign=1053&utm_source=git)** | Irving, TX, US | On Site | Feb 17 |
 | **[Ideas United](http://ideasunited.com)** | **[Event Intern](https://jobright.ai/jobs/info/6995424be0bddb6acac3ce33?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Feb 17 |
 | **[Optimum Sports](https://optimumsports.com)** | **[2026 Omnicom Media Internship (NYC, CHI, LA)](https://jobright.ai/jobs/info/699514e7ce78e77b4fd92d79?utm_campaign=1053&utm_source=git)** | United States | Remote | Feb 17 |
@@ -103,7 +105,6 @@ For a complete list, click the following sortable link below:
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Disney Accelerator Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/699064140f6f7e7a2cecd740?utm_campaign=1053&utm_source=git)** | Glendale, CA | Hybrid | Feb 17 |
 | **[Carpenters Workshop Gallery](https://carpentersworkshopgallery.com)** | **[Pop-up Exhibition Intern - Dubaï](https://jobright.ai/jobs/info/6994a69981476f6176ac69dd?utm_campaign=1053&utm_source=git)** | United States | Remote | Feb 17 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Video Production Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69945bbc81476f6176ac1609?utm_campaign=1053&utm_source=git)** | Celebration, FL | On Site | Feb 17 |
-| ↳ | **[Disney Live Entertainment Costume Support Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69945b0c81476f6176ac1528?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | Feb 17 |
 | ↳ | **[Event Services Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/699459fcce78e77b4fd84e52?utm_campaign=1053&utm_source=git)** | Lake Buena Vista, FL | On Site | Feb 17 |
 | **[Walt Disney World](https://disneyworld.disney.go.com)** | **[Event Services Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/6994540681476f6176ac0b9c?utm_campaign=1053&utm_source=git)** | Lake Buena Vista, FL | On Site | Feb 17 |
 | ↳ | **[Video Production Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/699453b4ce78e77b4fd845d8?utm_campaign=1053&utm_source=git)** | Celebration, FL | On Site | Feb 17 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern, Editorial (Summer 2026)](https://jobright.ai/jobs/info/69743a1837785856350e3497?utm_campaign=1053&utm_source=git)** | United States | Remote | Feb 14 |
 | **[Forbes](https://www.forbesmagazine.com)** | **[Forbes Summer 2026 Editorial Intern](https://jobright.ai/jobs/info/6973bfc1206da320f49dba81?utm_campaign=1053&utm_source=git)** | Jersey City, NJ | On Site | Feb 14 |
 | **[Southern Poverty Law Center](http://www.splcenter.org)** | **[Intern, Editorial (Summer 2026)](https://jobright.ai/jobs/info/6974458abc8e722e7b193d60?utm_campaign=1053&utm_source=git)** | Miami, FL | Hybrid | Feb 14 |
-| ↳ | **[Intern, Editorial (Summer 2026)](https://jobright.ai/jobs/info/69743c7c37785856350e367a?utm_campaign=1053&utm_source=git)** | Atlanta, GA | Hybrid | Feb 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
