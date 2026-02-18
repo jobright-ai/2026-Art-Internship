@@ -58,6 +58,8 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Vistra Corp.](https://vistracorp.com)** | **[Summer Production Intern - Forney Plant](https://jobright.ai/jobs/info/699553b3ce78e77b4fd972cd?utm_campaign=1053&utm_source=git)** | Forney, TX | On Site | Feb 17 |
+| **[AAAS](http://www.aaas.org/)** | **[Digital Storytelling Intern](https://jobright.ai/jobs/info/698b6307c5761b521a9adb04?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Feb 17 |
+| **[Seattle Kraken](https://www.nhl.com/kraken)** | **[Production Intern (September-April)](https://jobright.ai/jobs/info/6995623681476f6176ad4fa5?utm_campaign=1053&utm_source=git)** | Seattle, WA | On Site | Feb 17 |
 | **[SexSymbol Magazine](sexsymbolmagazine.com)** | **[Video Editing Intern (Unpaid, Remote – Internship)](https://jobright.ai/jobs/info/699538fee0bddb6acac3c1a4?utm_campaign=1053&utm_source=git)** | United States | Remote | Feb 17 |
 | **[Omni Hotels & Resorts](http://www.omnihotels.com/)** | **[Summer Omni Cares Internship- Recreation](https://jobright.ai/jobs/info/69955132ce78e77b4fd96df9?utm_campaign=1053&utm_source=git)** | Irving, TX | On Site | Feb 17 |
 | **[Omni Fort Worth Hotel](https://www.omnihotels.com/)** | **[Summer Omni Cares Internship- Recreation](https://jobright.ai/jobs/info/69951ef1e0bddb6acac3a6b7?utm_campaign=1053&utm_source=git)** | Irving, TX, US | On Site | Feb 17 |
@@ -90,8 +92,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[NExT Summer Intern - VFX Artist](https://jobright.ai/jobs/info/6994f025ce78e77b4fd90473?utm_campaign=1053&utm_source=git)** | New York, NY | Remote | Feb 17 |
 | **[CUMULUS MEDIA](http://www.cumulus.com)** | **[Smiley Morning Show Intern](https://jobright.ai/jobs/info/6994f0f8e0bddb6acac373da?utm_campaign=1053&utm_source=git)** | Indianapolis, IN | On Site | Feb 17 |
 | **[Company 3](http://www.company3.com)** | **[NExT Summer Intern - Postproduction](https://jobright.ai/jobs/info/6994ee9881476f6176acc722?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Feb 17 |
-| **[Curated](http://powerhousevfx.com/)** | **[NExT Summer Intern - VFX Production](https://jobright.ai/jobs/info/6994eef6ce78e77b4fd902e9?utm_campaign=1053&utm_source=git)** | Vancouver, British Columbia, Canada | Remote | Feb 17 |
-| ↳ | **[NExT Summer Intern - VFX Production](https://jobright.ai/jobs/info/6994ed36ce78e77b4fd90084?utm_campaign=1053&utm_source=git)** | Greater Toronto Area, Canada | Remote | Feb 17 |
+| **[Curated](http://powerhousevfx.com/)** | **[NExT Summer Intern - VFX Production](https://jobright.ai/jobs/info/6994ed36ce78e77b4fd90084?utm_campaign=1053&utm_source=git)** | Greater Toronto Area, Canada | Remote | Feb 17 |
+| ↳ | **[NExT Summer Intern - VFX Production](https://jobright.ai/jobs/info/6994eef6ce78e77b4fd902e9?utm_campaign=1053&utm_source=git)** | Vancouver, British Columbia, Canada | Remote | Feb 17 |
 | **[Seattle Kraken](https://www.nhl.com/kraken)** | **[Production Intern (September-April)](https://jobright.ai/jobs/info/6994f191ce78e77b4fd90642?utm_campaign=1053&utm_source=git)** | Seattle, Washington, United States | On Site | Feb 17 |
 | **[AM Best](https://www.ambest.com)** | **[2026 Summer Intern - Best's News](https://jobright.ai/jobs/info/6994aa3bce78e77b4fd8a926?utm_campaign=1053&utm_source=git)** | Oldwick, NJ | Hybrid | Feb 17 |
 | **[Studio Museum in Harlem](https://www.studiomuseum.org/)** | **[Summer 2026 Director's Office Intern](https://jobright.ai/jobs/info/6994ccd081476f6176ac9e37?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Feb 17 |
@@ -109,7 +111,6 @@ For a complete list, click the following sortable link below:
 | **[Walt Disney World](https://disneyworld.disney.go.com)** | **[Event Services Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/6994540681476f6176ac0b9c?utm_campaign=1053&utm_source=git)** | Lake Buena Vista, FL | On Site | Feb 17 |
 | ↳ | **[Video Production Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/699453b4ce78e77b4fd845d8?utm_campaign=1053&utm_source=git)** | Celebration, FL | On Site | Feb 17 |
 | **[Rocket](https://www.rocketcompanies.com/)** | **[Video Producer Intern - Summer 2026](https://jobright.ai/jobs/info/6977d14488e2b47213bbc760?utm_campaign=1053&utm_source=git)** | California, United States | On Site | Feb 17 |
-| **[KUTV 2News / KMYU](http://kutv.com/)** | **[Intern - Studio Crew](https://jobright.ai/jobs/info/69944973e0bddb6acac2abe3?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Feb 17 |
 | **[Ellucian](http://www.ellucian.com)** | **[AI Video Internship (Undergraduate)](https://jobright.ai/jobs/info/6977e29c52f3c27ec6440a9c?utm_campaign=1053&utm_source=git)** | Reston, VA | Hybrid | Feb 17 |
 | **[Sinclair Inc.](http://sbgi.net/)** | **[News Intern](https://jobright.ai/jobs/info/6905aa2263502c0aded7cd4e?utm_campaign=1053&utm_source=git)** | Charleston, WV | On Site | Feb 17 |
 | **[TBNR Productions](https://firejobs.gg)** | **[Production Assistant Intern](https://jobright.ai/jobs/info/699405c7e0bddb6acac25b17?utm_campaign=1053&utm_source=git)** | Dallas, TX | On Site | Feb 16 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern, Editorial (Summer 2026)](https://jobright.ai/jobs/info/69743bf637785856350e361d?utm_campaign=1053&utm_source=git)** | Montgomery, AL | Hybrid | Feb 14 |
 | ↳ | **[Intern, Editorial (Summer 2026)](https://jobright.ai/jobs/info/69743a1837785856350e3497?utm_campaign=1053&utm_source=git)** | United States | Remote | Feb 14 |
 | **[Forbes](https://www.forbesmagazine.com)** | **[Forbes Summer 2026 Editorial Intern](https://jobright.ai/jobs/info/6973bfc1206da320f49dba81?utm_campaign=1053&utm_source=git)** | Jersey City, NJ | On Site | Feb 14 |
-| **[Southern Poverty Law Center](http://www.splcenter.org)** | **[Intern, Editorial (Summer 2026)](https://jobright.ai/jobs/info/6974458abc8e722e7b193d60?utm_campaign=1053&utm_source=git)** | Miami, FL | Hybrid | Feb 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
