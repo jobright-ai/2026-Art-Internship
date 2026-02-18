@@ -57,12 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Major League Baseball (MLB)](https://www.mlb.com)** | **[Intern, Event Operations](https://jobright.ai/jobs/info/6941d397bdcf884a5add8880?utm_campaign=1053&utm_source=git)** | Vero Beach, FL | On Site | Feb 18 |
+| **[Omni Hotels & Resorts](http://www.omnihotels.com/)** | **[2026 Omni Care Internship / Events (June - August)](https://jobright.ai/jobs/info/6996206be0bddb6acac47fc0?utm_campaign=1053&utm_source=git)** | Boston, MA | On Site | Feb 18 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Fan Page / Digital Intern](https://jobright.ai/jobs/info/6979aa0fca92cf0d6a82f639?utm_campaign=1053&utm_source=git)** | Knoxville Metro | On Site | Feb 18 |
 | **[Celebrity Pupz](https://celebritypupz.com)** | **[Videography Intern - Unpaid- Experience or School Credit](https://jobright.ai/jobs/info/69960816ce78e77b4fd9ff82?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | Feb 18 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Walt Disney Television Unscripted & Alternative Entertainment Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/699063010cc8ea15f1db2609?utm_campaign=1053&utm_source=git)** | Burbank, CA | On Site | Feb 18 |
 | ↳ | **[KGO-TV (ABC7) Assignment Desk News Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/6990b8e60cc8ea15f1db7669?utm_campaign=1053&utm_source=git)** | San Francisco, CA | On Site | Feb 18 |
 | ↳ | **[Disney Programs Experience Intern, Fall 2026](https://jobright.ai/jobs/info/6995ce55ce78e77b4fd9d82c?utm_campaign=1053&utm_source=git)** | Winter Garden, FL | On Site | Feb 18 |
-| **[Famease](https://famease.com/)** | **[Editorial & Research Intern (Remote)](https://jobright.ai/jobs/info/6995cb99e0bddb6acac442db?utm_campaign=1053&utm_source=git)** | United States | Remote | Feb 18 |
 | **[Rock Events](https://rockevents.com/)** | **[Event Facilities Tech Intern - Summer 2026](https://jobright.ai/jobs/info/69793de552f3c27ec645937b?utm_campaign=1053&utm_source=git)** | Detroit, MI | On Site | Feb 18 |
 | **[Walt Disney World](https://disneyworld.disney.go.com)** | **[Disney Programs Experience Intern, Fall 2026](https://jobright.ai/jobs/info/6995ce93e0bddb6acac4449f?utm_campaign=1053&utm_source=git)** | Winter Garden, FL | On Site | Feb 18 |
 | **[Destination by Hyatt](https://www.thewoodmark.com/still-spa.htm)** | **[Turf Internship – The Club at Spruce Peak – Summer 2026](https://jobright.ai/jobs/info/698df800f64d441a16503243?utm_campaign=1053&utm_source=git)** | Stowe, VT | On Site | Feb 18 |
@@ -79,6 +80,7 @@ For a complete list, click the following sortable link below:
 | **[Omni Fort Worth Hotel](https://www.omnihotels.com/)** | **[Summer Omni Cares Internship- Recreation](https://jobright.ai/jobs/info/69951ef1e0bddb6acac3a6b7?utm_campaign=1053&utm_source=git)** | Irving, TX, US | On Site | Feb 17 |
 | **[Ideas United](http://ideasunited.com)** | **[Event Intern](https://jobright.ai/jobs/info/6995424be0bddb6acac3ce33?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Feb 17 |
 | **[Optimum Sports](https://optimumsports.com)** | **[2026 Omnicom Media Internship (NYC, CHI, LA)](https://jobright.ai/jobs/info/699514e7ce78e77b4fd92d79?utm_campaign=1053&utm_source=git)** | United States | Remote | Feb 17 |
+| **[Chapter One](https://www.startchapterone.com/)** | **[Digital Content Creator](https://jobright.ai/jobs/info/6996265be0bddb6acac48564?utm_campaign=1053&utm_source=git)** | New York, United States | On Site | Feb 17 |
 | **[Starz](http://www.starz.com/)** | **[STARZ Intern, Acquisitions](https://jobright.ai/jobs/info/69952c01ce78e77b4fd94442?utm_campaign=1053&utm_source=git)** | Santa Monica, CA | On Site | Feb 17 |
 | ↳ | **[STARZ Intern, Original Programming](https://jobright.ai/jobs/info/699532c2ce78e77b4fd94d04?utm_campaign=1053&utm_source=git)** | Santa Monica, CA | Hybrid | Feb 17 |
 | **[The MY HERO Project](https://myhero.com/)** | **[MY HERO International Film Festival Internship](https://jobright.ai/jobs/info/69952ce5ce78e77b4fd9452a?utm_campaign=1053&utm_source=git)** | United States | Remote | Feb 17 |
@@ -109,6 +111,7 @@ For a complete list, click the following sortable link below:
 | **[Curated](http://powerhousevfx.com/)** | **[NExT Summer Intern - VFX Production](https://jobright.ai/jobs/info/6994ed36ce78e77b4fd90084?utm_campaign=1053&utm_source=git)** | Greater Toronto Area, Canada | Remote | Feb 17 |
 | ↳ | **[NExT Summer Intern - VFX Production](https://jobright.ai/jobs/info/6994eef6ce78e77b4fd902e9?utm_campaign=1053&utm_source=git)** | Vancouver, British Columbia, Canada | Remote | Feb 17 |
 | **[Seattle Kraken](https://www.nhl.com/kraken)** | **[Production Intern (September-April)](https://jobright.ai/jobs/info/6994f191ce78e77b4fd90642?utm_campaign=1053&utm_source=git)** | Seattle, Washington, United States | On Site | Feb 17 |
+| **[Wodify](https://www.wodify.com/)** | **[Fitness Content Creator Intern](https://jobright.ai/jobs/info/69961574e0bddb6acac474b8?utm_campaign=1053&utm_source=git)** | Denver, CO | On Site | Feb 17 |
 | **[AM Best](https://www.ambest.com)** | **[2026 Summer Intern - Best's News](https://jobright.ai/jobs/info/6994aa3bce78e77b4fd8a926?utm_campaign=1053&utm_source=git)** | Oldwick, NJ | Hybrid | Feb 17 |
 | **[Studio Museum in Harlem](https://www.studiomuseum.org/)** | **[Summer 2026 Director's Office Intern](https://jobright.ai/jobs/info/6994ccd081476f6176ac9e37?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Feb 17 |
 | **[Solidigm](https://www.solidigmtechnology.com)** | **[Intern Experience & Engagement Intern](https://jobright.ai/jobs/info/6994c7cb81476f6176ac977c?utm_campaign=1053&utm_source=git)** | Rancho Cordova, CA | Hybrid | Feb 17 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Creative Technologist Intern (AI Filmmaking)](https://jobright.ai/jobs/info/69953a31e0bddb6acac3c2b5?utm_campaign=1053&utm_source=git)** | Remote (US) | Remote | Feb 15 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Digital Intern](https://jobright.ai/jobs/info/69577852f1f8465b79ee2fb5?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Feb 15 |
 | **[Bang Zoom! Studios](http://bangzoomentertainment.com)** | **[Post-Production Production Intern (Paid)](https://jobright.ai/jobs/info/699222ff0cc8ea15f1dc97c7?utm_campaign=1053&utm_source=git)** | Burbank, CA | On Site | Feb 15 |
-| **[Axis Communications](http://www.axis.com/)** | **[Events Production Intern (Spring/Summer)](https://jobright.ai/jobs/info/693d5762aa598a08c3ee0666?utm_campaign=1053&utm_source=git)** | Chelmsford, MA | On Site | Feb 15 |
-| **[Simons Foundation](https://www.simonsfoundation.org)** | **[Editorial Intern, Quanta Books](https://jobright.ai/jobs/info/693c868750bbaf76504fbe50?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Feb 15 |
-| **[UL Research Institutes](https://ul.org)** | **[Multimedia Design, Video Production Summer 2026 Intern - Fire Safety Research Institute](https://jobright.ai/jobs/info/697188bf333b6343a14e23b8?utm_campaign=1053&utm_source=git)** | Columbia, MD | Hybrid | Feb 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
