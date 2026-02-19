@@ -57,13 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Formlabs](http://www.formlabs.com)** | **[Video Content Creator Intern (Summer 2026)](https://jobright.ai/jobs/info/695ed5440badca5763af4b51?utm_campaign=1053&utm_source=git)** | Milwaukee, WI | On Site | Feb 18 |
+| **[Colonial Williamsburg Foundation](https://www.colonialwilliamsburg.org/)** | **[Intern - Tin Shop](https://jobright.ai/jobs/info/699677f7ce78e77b4fda8687?utm_campaign=1053&utm_source=git)** | Williamsburg, Virginia, United States | On Site | Feb 18 |
+| **[Walt Disney Imagineering](https://disneyimaginations.com)** | **[Disney Live Entertainment Costume Support Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69967bef81476f6176ae53de?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | Feb 18 |
 | **[Babbel](http://www.babbel.com)** | **[Video Intern, Organic Content](https://jobright.ai/jobs/info/69966a9b81476f6176ae3b52?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Feb 18 |
 | **[Good Karma Brands](https://goodkarmabrands.com/)** | **[ESPN West Palm Summer 2026 Internship](https://jobright.ai/jobs/info/69967580ce78e77b4fda8319?utm_campaign=1053&utm_source=git)** | West Palm Beach, FL | On Site | Feb 18 |
 | **[Hasbro](https://shop.hasbro.com)** | **[Intern, Events- Magic the Gathering](https://jobright.ai/jobs/info/69965c95ce78e77b4fda65c5?utm_campaign=1053&utm_source=git)** | United States | Remote | Feb 18 |
 | **[Iowa Heartlanders](https://www.iowaheartlanders.com)** | **[2026-27 Game Presentation + Event Production Internship](https://jobright.ai/jobs/info/699646f7ce78e77b4fda4320?utm_campaign=1053&utm_source=git)** | Coralville, IA | On Site | Feb 18 |
 | **[Paaw](www.paaw.co)** | **[Content Creator Internship - Pet Adoption Startup](https://jobright.ai/jobs/info/69963ea881476f6176adfb3a?utm_campaign=1053&utm_source=git)** | United States | Remote | Feb 18 |
-| **[Omni Fort Worth Hotel](https://www.omnihotels.com/)** | **[2026 Omni Care Internship / Events (June - August)](https://jobright.ai/jobs/info/6996509981476f6176ae16fe?utm_campaign=1053&utm_source=git)** | US-MA-Boston | On Site | Feb 18 |
-| ↳ | **[2026 Omni Care Internship / Events (June - August)](https://jobright.ai/jobs/info/699653dee0bddb6acac4c28a?utm_campaign=1053&utm_source=git)** | Boston, MA, US | On Site | Feb 18 |
+| **[Omni Fort Worth Hotel](https://www.omnihotels.com/)** | **[2026 Omni Care Internship / Events (June - August)](https://jobright.ai/jobs/info/699653dee0bddb6acac4c28a?utm_campaign=1053&utm_source=git)** | Boston, MA, US | On Site | Feb 18 |
+| ↳ | **[2026 Omni Care Internship / Events (June - August)](https://jobright.ai/jobs/info/6996509981476f6176ae16fe?utm_campaign=1053&utm_source=git)** | US-MA-Boston | On Site | Feb 18 |
 | **[Meridian International Center](http://www.meridian.org)** | **[Global Communications & Journalism Intern](https://jobright.ai/jobs/info/69964bc481476f6176ae0f2b?utm_campaign=1053&utm_source=git)** | Washington,DC,US | On Site | Feb 18 |
 | **[Crystal Bridges Museum of American Art](http://crystalbridges.org)** | **[2026 Art Management Intern: Summer (Housing Not Included)](https://jobright.ai/jobs/info/69620f57a112b402661078ab?utm_campaign=1053&utm_source=git)** | Bentonville, AR | On Site | Feb 18 |
 | **[Major League Baseball (MLB)](https://www.mlb.com)** | **[Intern, Event Operations](https://jobright.ai/jobs/info/6941d397bdcf884a5add8880?utm_campaign=1053&utm_source=git)** | Vero Beach, FL | On Site | Feb 18 |
@@ -96,6 +99,7 @@ For a complete list, click the following sortable link below:
 | **[The Peacock Inn](http://www.peacockinn.com)** | **[For-Credit Events Intern (Summer 2026)](https://jobright.ai/jobs/info/699546fa81476f6176ad2959?utm_campaign=1053&utm_source=git)** | Hamilton Township, NJ | On Site | Feb 17 |
 | **[Penn State University](http://psu.edu)** | **[Part-Time Digital Storytelling and News Intern](https://jobright.ai/jobs/info/699503bfe0bddb6acac38aee?utm_campaign=1053&utm_source=git)** | University Park, PA | On Site | Feb 17 |
 | **[Louis Vuitton](http://www.louisvuitton.com)** | **[VIP & Influencer Intern - 2026](https://jobright.ai/jobs/info/6995036ece78e77b4fd91984?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Feb 17 |
+| **[Ellucian](http://www.ellucian.com)** | **[Video Internship (Undergraduate)](https://jobright.ai/jobs/info/6977e29c52f3c27ec6440a9c?utm_campaign=1053&utm_source=git)** | Reston, VA | Hybrid | Feb 17 |
 | **[Omni Fort Worth Hotel](https://www.omnihotels.com/)** | **[Summer Omni Cares Internship- Recreation](https://jobright.ai/jobs/info/69953c4281476f6176ad1df1?utm_campaign=1053&utm_source=git)** | US-TX-Irving | On Site | Feb 17 |
 | **[Monumental Sports & Entertainment](http://www.monumentalsports.com/)** | **[Internship: Live Productions (Part-Time/Seasonal)](https://jobright.ai/jobs/info/699528b9e0bddb6acac3b07f?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Feb 17 |
 | **[Mount Auburn Cemetery](https://mountauburn.org)** | **[Preservation Craftsperson Intern](https://jobright.ai/jobs/info/6994fe5be0bddb6acac38580?utm_campaign=1053&utm_source=git)** | Cambridge, MA | On Site | Feb 17 |
@@ -117,8 +121,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[NExT Summer Intern - VFX Artist](https://jobright.ai/jobs/info/6994f025ce78e77b4fd90473?utm_campaign=1053&utm_source=git)** | New York, NY | Remote | Feb 17 |
 | **[CUMULUS MEDIA](http://www.cumulus.com)** | **[Smiley Morning Show Intern](https://jobright.ai/jobs/info/6994f0f8e0bddb6acac373da?utm_campaign=1053&utm_source=git)** | Indianapolis, IN | On Site | Feb 17 |
 | **[Company 3](http://www.company3.com)** | **[NExT Summer Intern - Postproduction](https://jobright.ai/jobs/info/6994ee9881476f6176acc722?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Feb 17 |
-| **[Curated](http://powerhousevfx.com/)** | **[NExT Summer Intern - VFX Production](https://jobright.ai/jobs/info/6994ed36ce78e77b4fd90084?utm_campaign=1053&utm_source=git)** | Greater Toronto Area, Canada | Remote | Feb 17 |
-| ↳ | **[NExT Summer Intern - VFX Production](https://jobright.ai/jobs/info/6994eef6ce78e77b4fd902e9?utm_campaign=1053&utm_source=git)** | Vancouver, British Columbia, Canada | Remote | Feb 17 |
+| **[Curated](http://powerhousevfx.com/)** | **[NExT Summer Intern - VFX Production](https://jobright.ai/jobs/info/6994eef6ce78e77b4fd902e9?utm_campaign=1053&utm_source=git)** | Vancouver, British Columbia, Canada | Remote | Feb 17 |
+| ↳ | **[NExT Summer Intern - VFX Production](https://jobright.ai/jobs/info/6994ed36ce78e77b4fd90084?utm_campaign=1053&utm_source=git)** | Greater Toronto Area, Canada | Remote | Feb 17 |
 | **[Seattle Kraken](https://www.nhl.com/kraken)** | **[Production Intern (September-April)](https://jobright.ai/jobs/info/6994f191ce78e77b4fd90642?utm_campaign=1053&utm_source=git)** | Seattle, Washington, United States | On Site | Feb 17 |
 | **[Wodify](https://www.wodify.com/)** | **[Fitness Content Creator Intern](https://jobright.ai/jobs/info/69961574e0bddb6acac474b8?utm_campaign=1053&utm_source=git)** | Denver, CO | On Site | Feb 17 |
 | **[AM Best](https://www.ambest.com)** | **[2026 Summer Intern - Best's News](https://jobright.ai/jobs/info/6994aa3bce78e77b4fd8a926?utm_campaign=1053&utm_source=git)** | Oldwick, NJ | Hybrid | Feb 17 |
@@ -137,7 +141,6 @@ For a complete list, click the following sortable link below:
 | **[Walt Disney World](https://disneyworld.disney.go.com)** | **[Event Services Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/6994540681476f6176ac0b9c?utm_campaign=1053&utm_source=git)** | Lake Buena Vista, FL | On Site | Feb 17 |
 | ↳ | **[Video Production Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/699453b4ce78e77b4fd845d8?utm_campaign=1053&utm_source=git)** | Celebration, FL | On Site | Feb 17 |
 | **[Rocket](https://www.rocketcompanies.com/)** | **[Video Producer Intern - Summer 2026](https://jobright.ai/jobs/info/6977d14488e2b47213bbc760?utm_campaign=1053&utm_source=git)** | California, United States | On Site | Feb 17 |
-| **[Ellucian](http://www.ellucian.com)** | **[AI Video Internship (Undergraduate)](https://jobright.ai/jobs/info/6977e29c52f3c27ec6440a9c?utm_campaign=1053&utm_source=git)** | Reston, VA | Hybrid | Feb 17 |
 | **[Sinclair Inc.](http://sbgi.net/)** | **[News Intern](https://jobright.ai/jobs/info/6905aa2263502c0aded7cd4e?utm_campaign=1053&utm_source=git)** | Charleston, WV | On Site | Feb 17 |
 | **[TBNR Productions](https://firejobs.gg)** | **[Production Assistant Intern](https://jobright.ai/jobs/info/699405c7e0bddb6acac25b17?utm_campaign=1053&utm_source=git)** | Dallas, TX | On Site | Feb 16 |
 | ↳ | **[TikTok Producer Intern](https://jobright.ai/jobs/info/69941693e0bddb6acac27d33?utm_campaign=1053&utm_source=git)** | Dallas, TX | On Site | Feb 16 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Production Assistant Intern](https://jobright.ai/jobs/info/69936de1e0bddb6acac1b4c2?utm_campaign=1053&utm_source=git)** | Dallas, Texas, United States, Remote | Remote | Feb 16 |
 | **[Comcast](https://corporate.comcast.com)** | **[Comcast Town Hall/Ralph J. Roberts Forum Production Intern](https://jobright.ai/jobs/info/6993c44be0bddb6acac20de6?utm_campaign=1053&utm_source=git)** | PA - Philadelphia, 1800 Arch St | On Site | Feb 16 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Intern - News Investigative Spring Internship](https://jobright.ai/jobs/info/6993ae47ce78e77b4fd78254?utm_campaign=1053&utm_source=git)** | MO-St. Louis;2250 Ball Drive (Tribune-KTVI/KPLR) | On Site | Feb 16 |
-| **[Museum of Science](http://www.mos.org)** | **[Planetarium Presenter Internship](https://jobright.ai/jobs/info/69863bd28ca8121a3a686a80?utm_campaign=1053&utm_source=git)** | Boston, MA | Hybrid | Feb 16 |
-| **[Coastal Carolina University](http://www.coastal.edu/)** | **[Production Assistant (Student Employee)](https://jobright.ai/jobs/info/69162771286ccf0a15132e6c?utm_campaign=1053&utm_source=git)** | Conway, SC | On Site | Feb 16 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Event Services Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69937cd581476f6176ab14fe?utm_campaign=1053&utm_source=git)** | Lake Buena Vista, FL, USA | On Site | Feb 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
