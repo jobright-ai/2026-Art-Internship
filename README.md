@@ -57,9 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Gagosian](http://www.gagosian.com)** | **[Internship Program - New York (Summer, 2026)](https://jobright.ai/jobs/info/6996b26581476f6176aeab56?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Feb 18 |
+| ↳ | **[Internship Program - Beverly Hills (Summer, 2026)](https://jobright.ai/jobs/info/6996a06f81476f6176ae8ad1?utm_campaign=1053&utm_source=git)** | Beverly Hills, CA | On Site | Feb 18 |
 | **[Sparks Village Academy](sparksvillage.com)** | **[Content Creator Intern](https://jobright.ai/jobs/info/699697aae0bddb6acac51d35?utm_campaign=1053&utm_source=git)** | United States | Remote | Feb 18 |
+| **[Social Cuts](https://www.socialcuts.com)** | **[Startup Operations Intern (In-Person, Downtown Austin, 15–20 hrs/week)](https://jobright.ai/jobs/info/6996be1ece78e77b4fdafa9c?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | Feb 18 |
 | **[Giant Spoon](http://giantspoon.com/)** | **[Content Production Intern (Summer)](https://jobright.ai/jobs/info/697a82b6f6fc293b0a2c55fb?utm_campaign=1053&utm_source=git)** | New York, United States | Hybrid | Feb 18 |
 | **[Babbel](http://www.babbel.com)** | **[Video Intern, Organic Content](https://jobright.ai/jobs/info/699682d181476f6176ae5b99?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Feb 18 |
+| **[CLD PR & Experiential Productions](https://cldstylehouse.com)** | **[White Fox Pre-Coachella Suite Event Intern](https://jobright.ai/jobs/info/6996a8e2e0bddb6acac53ffd?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Feb 18 |
 | **[WMUR-TV](http://www.wmur.com/)** | **[News Internship](https://jobright.ai/jobs/info/69968f17e0bddb6acac50fc2?utm_campaign=1053&utm_source=git)** | Manchester, NH | On Site | Feb 18 |
 | **[UL Research Institutes](https://ul.org)** | **[Multimedia Design, Video Production Summer 2026 Intern - Fire Safety Research Institute](https://jobright.ai/jobs/info/697188bf333b6343a14e23b8?utm_campaign=1053&utm_source=git)** | Columbia, MD | Hybrid | Feb 18 |
 | **[Colonial Williamsburg Foundation](https://www.colonialwilliamsburg.org/)** | **[Intern - Tin Shop](https://jobright.ai/jobs/info/699687e9e0bddb6acac50564?utm_campaign=1053&utm_source=git)** | Williamsburg, VA | On Site | Feb 18 |
@@ -95,9 +99,9 @@ For a complete list, click the following sortable link below:
 | **[Howard Hughes Medical Institute (HHMI)](http://www.hhmi.org/)** | **[Media Production, Communications, and Outreach Intern – Tangled Bank Studios](https://jobright.ai/jobs/info/695ddd6fe4cdbb1454cfd848?utm_campaign=1053&utm_source=git)** | Chevy Chase, MD | Hybrid | Feb 18 |
 | **[Vistra Corp.](https://vistracorp.com)** | **[Summer Production Intern - Forney Plant](https://jobright.ai/jobs/info/699553b3ce78e77b4fd972cd?utm_campaign=1053&utm_source=git)** | Forney, TX | On Site | Feb 17 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Good Morning America Production Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/6995b8f481476f6176ad901a?utm_campaign=1053&utm_source=git)** | New York, NY, USA | On Site | Feb 17 |
+| **[Weaver Brands](https://www.weaverleather.com/)** | **[Video Marketing Intern – Videographer](https://jobright.ai/jobs/info/6996a6d381476f6176ae9830?utm_campaign=1053&utm_source=git)** | Mount Hope, OH | On Site | Feb 17 |
 | **[AAAS](http://www.aaas.org/)** | **[Digital Storytelling Intern](https://jobright.ai/jobs/info/698b6307c5761b521a9adb04?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Feb 17 |
 | **[Seattle Kraken](https://www.nhl.com/kraken)** | **[Production Intern (September-April)](https://jobright.ai/jobs/info/6995623681476f6176ad4fa5?utm_campaign=1053&utm_source=git)** | Seattle, WA | On Site | Feb 17 |
-| **[SexSymbol Magazine](sexsymbolmagazine.com)** | **[Video Editing Intern (Unpaid, Remote – Internship)](https://jobright.ai/jobs/info/699538fee0bddb6acac3c1a4?utm_campaign=1053&utm_source=git)** | United States | Remote | Feb 17 |
 | **[Omni Hotels & Resorts](http://www.omnihotels.com/)** | **[Summer Omni Cares Internship- Recreation](https://jobright.ai/jobs/info/69955132ce78e77b4fd96df9?utm_campaign=1053&utm_source=git)** | Irving, TX | On Site | Feb 17 |
 | **[Omni Fort Worth Hotel](https://www.omnihotels.com/)** | **[Summer Omni Cares Internship- Recreation](https://jobright.ai/jobs/info/69951ef1e0bddb6acac3a6b7?utm_campaign=1053&utm_source=git)** | Irving, TX, US | On Site | Feb 17 |
 | **[Ideas United](http://ideasunited.com)** | **[Event Intern](https://jobright.ai/jobs/info/6995424be0bddb6acac3ce33?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Feb 17 |
@@ -109,7 +113,6 @@ For a complete list, click the following sortable link below:
 | **[The Peacock Inn](http://www.peacockinn.com)** | **[For-Credit Events Intern (Summer 2026)](https://jobright.ai/jobs/info/699546fa81476f6176ad2959?utm_campaign=1053&utm_source=git)** | Hamilton Township, NJ | On Site | Feb 17 |
 | **[Penn State University](http://psu.edu)** | **[Part-Time Digital Storytelling and News Intern](https://jobright.ai/jobs/info/699503bfe0bddb6acac38aee?utm_campaign=1053&utm_source=git)** | University Park, PA | On Site | Feb 17 |
 | **[Louis Vuitton](http://www.louisvuitton.com)** | **[VIP & Influencer Intern - 2026](https://jobright.ai/jobs/info/6995036ece78e77b4fd91984?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Feb 17 |
-| **[Ellucian](http://www.ellucian.com)** | **[Video Internship (Undergraduate)](https://jobright.ai/jobs/info/6977e29c52f3c27ec6440a9c?utm_campaign=1053&utm_source=git)** | Reston, VA | Hybrid | Feb 17 |
 | **[Omni Fort Worth Hotel](https://www.omnihotels.com/)** | **[Summer Omni Cares Internship- Recreation](https://jobright.ai/jobs/info/69953c4281476f6176ad1df1?utm_campaign=1053&utm_source=git)** | US-TX-Irving | On Site | Feb 17 |
 | **[Monumental Sports & Entertainment](http://www.monumentalsports.com/)** | **[Internship: Live Productions (Part-Time/Seasonal)](https://jobright.ai/jobs/info/699528b9e0bddb6acac3b07f?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Feb 17 |
 | **[Mount Auburn Cemetery](https://mountauburn.org)** | **[Preservation Craftsperson Intern](https://jobright.ai/jobs/info/6994fe5be0bddb6acac38580?utm_campaign=1053&utm_source=git)** | Cambridge, MA | On Site | Feb 17 |
@@ -117,6 +120,7 @@ For a complete list, click the following sortable link below:
 | **[Detroit Lions](http://www.detroitlions.com)** | **[Summer Video Intern](https://jobright.ai/jobs/info/698267c60f6f7e7a2cdb925b?utm_campaign=1053&utm_source=git)** | Allen Park, MI 48101 | On Site | Feb 17 |
 | **[Wodify](https://www.wodify.com/)** | **[Fitness Content Creator Intern](https://jobright.ai/jobs/info/69951f6f81476f6176acfcc8?utm_campaign=1053&utm_source=git)** | United States | Remote | Feb 17 |
 | **[Omnicom Media](http://www.omnicommedia.com)** | **[2026 Omnicom Media Internship (NYC, CHI, LA)](https://jobright.ai/jobs/info/6995234e81476f6176ad00d8?utm_campaign=1053&utm_source=git)** | NYC Metro Area | Hybrid | Feb 17 |
+| **[New Media Contemporary](https://www.newmediacontemporary.com/)** | **[Art Gallery / Artist Internship](https://jobright.ai/jobs/info/6996afcfe0bddb6acac54901?utm_campaign=1053&utm_source=git)** | Dallas, TX | On Site | Feb 17 |
 | **[Company 3](http://www.company3.com)** | **[NExT Summer Intern - Postproduction](https://jobright.ai/jobs/info/6994e8c581476f6176acbed1?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Feb 17 |
 | **[Penn State University](http://psu.edu)** | **[Part-Time Digital Storytelling and News Intern](https://jobright.ai/jobs/info/69950f0781476f6176aced9e?utm_campaign=1053&utm_source=git)** | Penn State University Park | On Site | Feb 17 |
 | **[SDFX Studios](https://www.sdfxstudios.com)** | **[NExT Summer Intern - VFX Production](https://jobright.ai/jobs/info/6994e68681476f6176acbbe8?utm_campaign=1053&utm_source=git)** | LA Metro Area | Remote | Feb 17 |
@@ -152,9 +156,5 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Video Production Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/699453b4ce78e77b4fd845d8?utm_campaign=1053&utm_source=git)** | Celebration, FL | On Site | Feb 17 |
 | **[Rocket](https://www.rocketcompanies.com/)** | **[Video Producer Intern - Summer 2026](https://jobright.ai/jobs/info/6977d14488e2b47213bbc760?utm_campaign=1053&utm_source=git)** | California, United States | On Site | Feb 17 |
 | **[Sinclair Inc.](http://sbgi.net/)** | **[News Intern](https://jobright.ai/jobs/info/6905aa2263502c0aded7cd4e?utm_campaign=1053&utm_source=git)** | Charleston, WV | On Site | Feb 17 |
-| **[TBNR Productions](https://firejobs.gg)** | **[Production Assistant Intern](https://jobright.ai/jobs/info/699405c7e0bddb6acac25b17?utm_campaign=1053&utm_source=git)** | Dallas, TX | On Site | Feb 16 |
-| ↳ | **[TikTok Producer Intern](https://jobright.ai/jobs/info/69941693e0bddb6acac27d33?utm_campaign=1053&utm_source=git)** | Dallas, TX | On Site | Feb 16 |
-| **[Groupe Dynamite](https://groupedynamite.com)** | **[Intern, Sourcing](https://jobright.ai/jobs/info/6993e80881476f6176ab86bd?utm_campaign=1053&utm_source=git)** | Mont-Royal, Quebec, Canada | On Site | Feb 16 |
-| **[ALO](https://www.aloyoga.com/)** | **[Retail Video Editing Intern](https://jobright.ai/jobs/info/6993be62e0bddb6acac2074b?utm_campaign=1053&utm_source=git)** | Beverly Hills, CA | On Site | Feb 16 |
-| **[Comcast](https://corporate.comcast.com)** | **[Comcast Town Hall/Ralph J. Roberts Forum Production Intern](https://jobright.ai/jobs/info/6993dc84e0bddb6acac22357?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Feb 16 |
+| **[Ellucian](http://www.ellucian.com)** | **[AI Video Internship (Undergraduate)](https://jobright.ai/jobs/info/6977e29c52f3c27ec6440a9c?utm_campaign=1053&utm_source=git)** | Reston, VA | Hybrid | Feb 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
