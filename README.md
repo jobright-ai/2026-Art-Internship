@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[SiriusXM](http://siriusxm.com)** | **[Summer Intern, Talk Programming - Part-Time](https://jobright.ai/jobs/info/697a8e22f6fc293b0a2c69f6?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Feb 19 |
+| **[Charles River Laboratories](http://www.criver.com)** | **[2026 Summer Intern - Archive](https://jobright.ai/jobs/info/6997209c81476f6176af3ae8?utm_campaign=1053&utm_source=git)** | Ashland, OH | On Site | Feb 19 |
+| **[SiriusXM](http://siriusxm.com)** | **[Summer Intern, Pandora Curation - Part-Time](https://jobright.ai/jobs/info/697a9d4ff6fc293b0a2c852c?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Feb 19 |
+| ↳ | **[Summer Intern, Talk Programming - Part-Time](https://jobright.ai/jobs/info/697a8e22f6fc293b0a2c69f6?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Feb 19 |
 | ↳ | **[Summer Intern, Talk Programming - Part-Time](https://jobright.ai/jobs/info/697a9725f6fc293b0a2c7cc4?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Feb 19 |
 | ↳ | **[Summer Intern, Sports Programming - Part-Time](https://jobright.ai/jobs/info/697ae26817b11b1c2e41b2a0?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Feb 19 |
 | ↳ | **[Summer Intern, Music Programming Operations LA - Part-Time](https://jobright.ai/jobs/info/697a93889d60e431a16c24db?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | Feb 19 |
@@ -154,7 +156,5 @@ For a complete list, click the following sortable link below:
 | ↳ | **[NExT Summer Intern - VFX Artist](https://jobright.ai/jobs/info/6994f025ce78e77b4fd90473?utm_campaign=1053&utm_source=git)** | New York, NY | Remote | Feb 17 |
 | **[CUMULUS MEDIA](http://www.cumulus.com)** | **[Smiley Morning Show Intern](https://jobright.ai/jobs/info/6994f0f8e0bddb6acac373da?utm_campaign=1053&utm_source=git)** | Indianapolis, IN | On Site | Feb 17 |
 | **[Company 3](http://www.company3.com)** | **[NExT Summer Intern - Postproduction](https://jobright.ai/jobs/info/6994ee9881476f6176acc722?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Feb 17 |
-| **[Curated](http://powerhousevfx.com/)** | **[NExT Summer Intern - VFX Production](https://jobright.ai/jobs/info/6994eef6ce78e77b4fd902e9?utm_campaign=1053&utm_source=git)** | Vancouver, British Columbia, Canada | Remote | Feb 17 |
-| ↳ | **[NExT Summer Intern - VFX Production](https://jobright.ai/jobs/info/6994ed36ce78e77b4fd90084?utm_campaign=1053&utm_source=git)** | Greater Toronto Area, Canada | Remote | Feb 17 |
-| **[Seattle Kraken](https://www.nhl.com/kraken)** | **[Production Intern (September-April)](https://jobright.ai/jobs/info/6994f191ce78e77b4fd90642?utm_campaign=1053&utm_source=git)** | Seattle, Washington, United States | On Site | Feb 17 |
+| **[Curated](http://powerhousevfx.com/)** | **[NExT Summer Intern - VFX Production](https://jobright.ai/jobs/info/6994ed36ce78e77b4fd90084?utm_campaign=1053&utm_source=git)** | Greater Toronto Area, Canada | Remote | Feb 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
