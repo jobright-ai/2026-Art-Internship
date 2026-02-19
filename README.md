@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Iowa Heartlanders](https://www.iowaheartlanders.com)** | **[2026-27 Game Presentation + Event Production Internship](https://jobright.ai/jobs/info/699646f7ce78e77b4fda4320?utm_campaign=1053&utm_source=git)** | Coralville, IA | On Site | Feb 18 |
+| **[Paaw](www.paaw.co)** | **[Content Creator Internship - Pet Adoption Startup](https://jobright.ai/jobs/info/69963ea881476f6176adfb3a?utm_campaign=1053&utm_source=git)** | United States | Remote | Feb 18 |
+| **[Meridian International Center](http://www.meridian.org)** | **[Global Communications & Journalism Intern](https://jobright.ai/jobs/info/69964bc481476f6176ae0f2b?utm_campaign=1053&utm_source=git)** | Washington,DC,US | On Site | Feb 18 |
 | **[Crystal Bridges Museum of American Art](http://crystalbridges.org)** | **[2026 Art Management Intern: Summer (Housing Not Included)](https://jobright.ai/jobs/info/69620f57a112b402661078ab?utm_campaign=1053&utm_source=git)** | Bentonville, AR | On Site | Feb 18 |
 | **[Major League Baseball (MLB)](https://www.mlb.com)** | **[Intern, Event Operations](https://jobright.ai/jobs/info/6941d397bdcf884a5add8880?utm_campaign=1053&utm_source=git)** | Vero Beach, FL | On Site | Feb 18 |
 | **[Omni Hotels & Resorts](http://www.omnihotels.com/)** | **[2026 Omni Care Internship / Events (June - August)](https://jobright.ai/jobs/info/6996206be0bddb6acac47fc0?utm_campaign=1053&utm_source=git)** | Boston, MA | On Site | Feb 18 |
@@ -109,8 +112,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[NExT Summer Intern - VFX Artist](https://jobright.ai/jobs/info/6994f025ce78e77b4fd90473?utm_campaign=1053&utm_source=git)** | New York, NY | Remote | Feb 17 |
 | **[CUMULUS MEDIA](http://www.cumulus.com)** | **[Smiley Morning Show Intern](https://jobright.ai/jobs/info/6994f0f8e0bddb6acac373da?utm_campaign=1053&utm_source=git)** | Indianapolis, IN | On Site | Feb 17 |
 | **[Company 3](http://www.company3.com)** | **[NExT Summer Intern - Postproduction](https://jobright.ai/jobs/info/6994ee9881476f6176acc722?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Feb 17 |
-| **[Curated](http://powerhousevfx.com/)** | **[NExT Summer Intern - VFX Production](https://jobright.ai/jobs/info/6994ed36ce78e77b4fd90084?utm_campaign=1053&utm_source=git)** | Greater Toronto Area, Canada | Remote | Feb 17 |
-| ↳ | **[NExT Summer Intern - VFX Production](https://jobright.ai/jobs/info/6994eef6ce78e77b4fd902e9?utm_campaign=1053&utm_source=git)** | Vancouver, British Columbia, Canada | Remote | Feb 17 |
+| **[Curated](http://powerhousevfx.com/)** | **[NExT Summer Intern - VFX Production](https://jobright.ai/jobs/info/6994eef6ce78e77b4fd902e9?utm_campaign=1053&utm_source=git)** | Vancouver, British Columbia, Canada | Remote | Feb 17 |
+| ↳ | **[NExT Summer Intern - VFX Production](https://jobright.ai/jobs/info/6994ed36ce78e77b4fd90084?utm_campaign=1053&utm_source=git)** | Greater Toronto Area, Canada | Remote | Feb 17 |
 | **[Seattle Kraken](https://www.nhl.com/kraken)** | **[Production Intern (September-April)](https://jobright.ai/jobs/info/6994f191ce78e77b4fd90642?utm_campaign=1053&utm_source=git)** | Seattle, Washington, United States | On Site | Feb 17 |
 | **[Wodify](https://www.wodify.com/)** | **[Fitness Content Creator Intern](https://jobright.ai/jobs/info/69961574e0bddb6acac474b8?utm_campaign=1053&utm_source=git)** | Denver, CO | On Site | Feb 17 |
 | **[AM Best](https://www.ambest.com)** | **[2026 Summer Intern - Best's News](https://jobright.ai/jobs/info/6994aa3bce78e77b4fd8a926?utm_campaign=1053&utm_source=git)** | Oldwick, NJ | Hybrid | Feb 17 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Six Flags](https://www.sixflags.com)** | **[Show Wardrobe Technician Internship](https://jobright.ai/jobs/info/6992e0f8e0bddb6acac119c6?utm_campaign=1053&utm_source=git)** | Waukegan, IL | On Site | Feb 16 |
 | ↳ | **[Entertainment Event Technician Internship](https://jobright.ai/jobs/info/6992d93881476f6176aa6cf1?utm_campaign=1053&utm_source=git)** | Waukegan, IL | On Site | Feb 16 |
 | **[ArtsQuest](http://www.artsquest.org/)** | **[Production Internship](https://jobright.ai/jobs/info/6992d4d2ce78e77b4fd69fdb?utm_campaign=1053&utm_source=git)** | Bethlehem, PA | On Site | Feb 16 |
-| **[Flick](https://flick.art/)** | **[Creative Production Intern (AI Filmmaking)](https://jobright.ai/jobs/info/6992dbd381476f6176aa6e92?utm_campaign=1053&utm_source=git)** | Remote (US) | Remote | Feb 15 |
-| ↳ | **[Creative Technologist Intern (AI Filmmaking)](https://jobright.ai/jobs/info/69953a31e0bddb6acac3c2b5?utm_campaign=1053&utm_source=git)** | Remote (US) | Remote | Feb 15 |
-| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Digital Intern](https://jobright.ai/jobs/info/69577852f1f8465b79ee2fb5?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Feb 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
