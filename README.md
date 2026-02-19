@@ -57,12 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Babbel](http://www.babbel.com)** | **[Video Intern, Organic Content](https://jobright.ai/jobs/info/69966a9b81476f6176ae3b52?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Feb 18 |
+| **[Good Karma Brands](https://goodkarmabrands.com/)** | **[ESPN West Palm Summer 2026 Internship](https://jobright.ai/jobs/info/69967580ce78e77b4fda8319?utm_campaign=1053&utm_source=git)** | West Palm Beach, FL | On Site | Feb 18 |
 | **[Hasbro](https://shop.hasbro.com)** | **[Intern, Events- Magic the Gathering](https://jobright.ai/jobs/info/69965c95ce78e77b4fda65c5?utm_campaign=1053&utm_source=git)** | United States | Remote | Feb 18 |
 | **[Iowa Heartlanders](https://www.iowaheartlanders.com)** | **[2026-27 Game Presentation + Event Production Internship](https://jobright.ai/jobs/info/699646f7ce78e77b4fda4320?utm_campaign=1053&utm_source=git)** | Coralville, IA | On Site | Feb 18 |
 | **[Paaw](www.paaw.co)** | **[Content Creator Internship - Pet Adoption Startup](https://jobright.ai/jobs/info/69963ea881476f6176adfb3a?utm_campaign=1053&utm_source=git)** | United States | Remote | Feb 18 |
-| **[Baker Publishing Group](http://bakerpublishinggroup.com/)** | **[Editorial Intern- Summer](https://jobright.ai/jobs/info/6996606de0bddb6acac4d2f4?utm_campaign=1053&utm_source=git)** | 7808 Creekridge Circle, Minneapolis, MN, USA | On Site | Feb 18 |
-| **[Omni Fort Worth Hotel](https://www.omnihotels.com/)** | **[2026 Omni Care Internship / Events (June - August)](https://jobright.ai/jobs/info/699653dee0bddb6acac4c28a?utm_campaign=1053&utm_source=git)** | Boston, MA, US | On Site | Feb 18 |
-| ↳ | **[2026 Omni Care Internship / Events (June - August)](https://jobright.ai/jobs/info/6996509981476f6176ae16fe?utm_campaign=1053&utm_source=git)** | US-MA-Boston | On Site | Feb 18 |
+| **[Omni Fort Worth Hotel](https://www.omnihotels.com/)** | **[2026 Omni Care Internship / Events (June - August)](https://jobright.ai/jobs/info/6996509981476f6176ae16fe?utm_campaign=1053&utm_source=git)** | US-MA-Boston | On Site | Feb 18 |
+| ↳ | **[2026 Omni Care Internship / Events (June - August)](https://jobright.ai/jobs/info/699653dee0bddb6acac4c28a?utm_campaign=1053&utm_source=git)** | Boston, MA, US | On Site | Feb 18 |
 | **[Meridian International Center](http://www.meridian.org)** | **[Global Communications & Journalism Intern](https://jobright.ai/jobs/info/69964bc481476f6176ae0f2b?utm_campaign=1053&utm_source=git)** | Washington,DC,US | On Site | Feb 18 |
 | **[Crystal Bridges Museum of American Art](http://crystalbridges.org)** | **[2026 Art Management Intern: Summer (Housing Not Included)](https://jobright.ai/jobs/info/69620f57a112b402661078ab?utm_campaign=1053&utm_source=git)** | Bentonville, AR | On Site | Feb 18 |
 | **[Major League Baseball (MLB)](https://www.mlb.com)** | **[Intern, Event Operations](https://jobright.ai/jobs/info/6941d397bdcf884a5add8880?utm_campaign=1053&utm_source=git)** | Vero Beach, FL | On Site | Feb 18 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Museum of Science](http://www.mos.org)** | **[Planetarium Presenter Internship](https://jobright.ai/jobs/info/69863bd28ca8121a3a686a80?utm_campaign=1053&utm_source=git)** | Boston, MA | Hybrid | Feb 16 |
 | **[Coastal Carolina University](http://www.coastal.edu/)** | **[Production Assistant (Student Employee)](https://jobright.ai/jobs/info/69162771286ccf0a15132e6c?utm_campaign=1053&utm_source=git)** | Conway, SC | On Site | Feb 16 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Event Services Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69937cd581476f6176ab14fe?utm_campaign=1053&utm_source=git)** | Lake Buena Vista, FL, USA | On Site | Feb 16 |
-| **[Good Karma Brands](https://goodkarmabrands.com/)** | **[ESPN New York 2026 Summer Internship](https://jobright.ai/jobs/info/6993613381476f6176ab03e2?utm_campaign=1053&utm_source=git)** | Milwaukee, WI, US | On Site | Feb 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
