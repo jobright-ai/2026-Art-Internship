@@ -57,9 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[MediaNews Group](https://www.medianewsgroup.com/)** | **[Intern](https://jobright.ai/jobs/info/69977530ce78e77b4fdbcce7?utm_campaign=1053&utm_source=git)** | San Diego, CA | On Site | Feb 19 |
+| **[Audacy, Inc.](https://audacyinc.com/)** | **[Programming Intern](https://jobright.ai/jobs/info/69976ad4e0bddb6acac623a9?utm_campaign=1053&utm_source=git)** | GA-Atlanta, UNAVAILABLE, USA | On Site | Feb 19 |
 | **[NetSPI](https://www.netspi.com)** | **[Video Editing and Production Intern (Technical Enablement)](https://jobright.ai/jobs/info/699761c581476f6176af8213?utm_campaign=1053&utm_source=git)** | Minneapolis, MN | On Site | Feb 19 |
 | **[JKP](JKPub.com)** | **[WRITING – FICTION WRITING Intern](https://jobright.ai/jobs/info/69975a12e0bddb6acac61917?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Remote | Feb 19 |
 | **[Cox Enterprises](http://coxenterprises.com)** | **[AJC Reporting Intern - Summer 2026](https://jobright.ai/jobs/info/6997598cce78e77b4fdbb648?utm_campaign=1053&utm_source=git)** | Atlanta GA | Hybrid | Feb 19 |
+| **[Audacy, Inc.](https://audacyinc.com/)** | **[Programming Intern](https://jobright.ai/jobs/info/6997721881476f6176af8ffa?utm_campaign=1053&utm_source=git)** | USA-GA-Atlanta | On Site | Feb 19 |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Video Production Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69945bbc81476f6176ac1609?utm_campaign=1053&utm_source=git)** | Celebration, FL | On Site | Feb 19 |
+| ↳ | **[Event Services Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/699459fcce78e77b4fd84e52?utm_campaign=1053&utm_source=git)** | Lake Buena Vista, FL | On Site | Feb 19 |
 | **[U.S. News & World Report](http://www.usnews.com)** | **[360 Editorial Summer 2026 Intern- New York](https://jobright.ai/jobs/info/69973b78ce78e77b4fdb8c44?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Feb 19 |
 | **[Sony Electronics](http://www.sonyjobs.com)** | **[Summer Intern, A&R Research](https://jobright.ai/jobs/info/69973917ce78e77b4fdb8a30?utm_campaign=1053&utm_source=git)** | New York | On Site | Feb 19 |
 | **[Cookiy AI](https://cookiy.ai/)** | **[Cookiy AI Internship Program (Hybrid – San Francisco Bay Area)](https://jobright.ai/jobs/info/69975320ce78e77b4fdbb338?utm_campaign=1053&utm_source=git)** | NYC Metro Area | Hybrid | Feb 19 |
@@ -136,7 +141,6 @@ For a complete list, click the following sortable link below:
 | **[Chapter One](https://www.startchapterone.com/)** | **[Digital Content Creator](https://jobright.ai/jobs/info/6996265be0bddb6acac48564?utm_campaign=1053&utm_source=git)** | New York, United States | On Site | Feb 17 |
 | **[Starz](http://www.starz.com/)** | **[STARZ Intern, Acquisitions](https://jobright.ai/jobs/info/69952c01ce78e77b4fd94442?utm_campaign=1053&utm_source=git)** | Santa Monica, CA | On Site | Feb 17 |
 | ↳ | **[STARZ Intern, Original Programming](https://jobright.ai/jobs/info/699532c2ce78e77b4fd94d04?utm_campaign=1053&utm_source=git)** | Santa Monica, CA | Hybrid | Feb 17 |
-| **[The MY HERO Project](https://myhero.com/)** | **[MY HERO International Film Festival Internship](https://jobright.ai/jobs/info/69952ce5ce78e77b4fd9452a?utm_campaign=1053&utm_source=git)** | United States | Remote | Feb 17 |
 | **[The Peacock Inn](http://www.peacockinn.com)** | **[For-Credit Events Intern (Summer 2026)](https://jobright.ai/jobs/info/699546fa81476f6176ad2959?utm_campaign=1053&utm_source=git)** | Hamilton Township, NJ | On Site | Feb 17 |
 | **[Penn State University](http://psu.edu)** | **[Part-Time Digital Storytelling and News Intern](https://jobright.ai/jobs/info/699503bfe0bddb6acac38aee?utm_campaign=1053&utm_source=git)** | University Park, PA | On Site | Feb 17 |
 | **[Louis Vuitton](http://www.louisvuitton.com)** | **[VIP & Influencer Intern - 2026](https://jobright.ai/jobs/info/6995036ece78e77b4fd91984?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Feb 17 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[SDFX Studios](https://www.sdfxstudios.com)** | **[NExT Summer Intern - VFX Production](https://jobright.ai/jobs/info/6994e68681476f6176acbbe8?utm_campaign=1053&utm_source=git)** | LA Metro Area | Remote | Feb 17 |
 | **[Curated](http://powerhousevfx.com/)** | **[NExT Summer Intern - VFX Art](https://jobright.ai/jobs/info/6994e63cce78e77b4fd8f7c5?utm_campaign=1053&utm_source=git)** | Greater Toronto Area, Canada | Remote | Feb 17 |
 | **[Monumental Sports & Entertainment](http://www.monumentalsports.com/)** | **[Internship: Live Productions (Part-Time/Seasonal)](https://jobright.ai/jobs/info/6995076dce78e77b4fd91e35?utm_campaign=1053&utm_source=git)** | Washington, District of Columbia, United States | On Site | Feb 17 |
-| **[Company 3](http://www.company3.com)** | **[NExT Summer Intern - Postproduction](https://jobright.ai/jobs/info/6994e517e0bddb6acac365ef?utm_campaign=1053&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Feb 17 |
-| **[Atlas Obscura](http://www.atlasobscura.com/)** | **[Atlas Obscura Summer Internship Program 2026](https://jobright.ai/jobs/info/6995094881476f6176ace748?utm_campaign=1053&utm_source=git)** | Brooklyn, NY | Hybrid | Feb 17 |
-| **[SDFX Studios](https://www.sdfxstudios.com)** | **[NExT Summer Intern - VFX Production](https://jobright.ai/jobs/info/6994e1dce0bddb6acac361bd?utm_campaign=1053&utm_source=git)** | Greater Toronto Area, Canada | Remote | Feb 17 |
-| **[Curated](http://powerhousevfx.com/)** | **[NExT Summer Intern - VFX Art](https://jobright.ai/jobs/info/6994d935e0bddb6acac356a4?utm_campaign=1053&utm_source=git)** | Vancouver, British Columbia, Canada | Remote | Feb 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
