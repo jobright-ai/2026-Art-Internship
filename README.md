@@ -59,6 +59,8 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[PURPLE](https://purplepr.com)** | **[Fashion Intern - Summer](https://jobright.ai/jobs/info/6997bb9ece78e77b4fdc19a7?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Feb 19 |
 | **[Resources for the Future](http://www.rff.org/)** | **[Editorial Internship](https://jobright.ai/jobs/info/699790ca81476f6176afa76a?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Feb 19 |
+| **[EAA Radio](http://www.eaaradio.net/)** | **[Events Intern](https://jobright.ai/jobs/info/6997bbe881476f6176afe155?utm_campaign=1053&utm_source=git)** | Oshkosh, WI | On Site | Feb 19 |
+| **[Quilly](https://www.linkedin.com/company/99477222)** | **[Quilly Podcast Producer Intern (Unpaid)](https://jobright.ai/jobs/info/6997c08d81476f6176afeaa7?utm_campaign=1053&utm_source=git)** | United States | Remote | Feb 19 |
 | **[Omni Hotels & Resorts](http://www.omnihotels.com/)** | **[Omni Cares Culinary Internship / Summer 2026](https://jobright.ai/jobs/info/69979a64ce78e77b4fdbecc2?utm_campaign=1053&utm_source=git)** | Asheville, NC | On Site | Feb 19 |
 | **[Art Institute of Chicago](http://www.artic.edu/)** | **[McMullan Arts Leadership Internship Program](https://jobright.ai/jobs/info/69672aca1703f05405a8d979?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Feb 19 |
 | **[MediaNews Group](https://www.medianewsgroup.com/)** | **[Intern](https://jobright.ai/jobs/info/69977530ce78e77b4fdbcce7?utm_campaign=1053&utm_source=git)** | San Diego, CA | On Site | Feb 19 |
@@ -66,10 +68,11 @@ For a complete list, click the following sortable link below:
 | **[People Inc.](https://www.people.inc/)** | **[Editorial Intern, People](https://jobright.ai/jobs/info/6997a7bbce78e77b4fdc0056?utm_campaign=1053&utm_source=git)** | LA Metro Area | On Site | Feb 19 |
 | **[Hiwin Corporation](http://www.hiwin.com/)** | **[Video Production Intern (High School-level)](https://jobright.ai/jobs/info/6997911e81476f6176afa802?utm_campaign=1053&utm_source=git)** | US Corporate Headquarters, Huntley, IL, US | On Site | Feb 19 |
 | **[Audacy, Inc.](https://audacyinc.com/)** | **[Programming Intern](https://jobright.ai/jobs/info/69976ad4e0bddb6acac623a9?utm_campaign=1053&utm_source=git)** | GA-Atlanta, UNAVAILABLE, USA | On Site | Feb 19 |
-| **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6997a21481476f6176afbea1?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Feb 19 |
-| ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6997a17f81476f6176afbdc4?utm_campaign=1053&utm_source=git)** | St Louis, MO | On Site | Feb 19 |
+| **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6997a17f81476f6176afbdc4?utm_campaign=1053&utm_source=git)** | St Louis, MO | On Site | Feb 19 |
+| ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6997a21481476f6176afbea1?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Feb 19 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69979bdbce78e77b4fdbeed4?utm_campaign=1053&utm_source=git)** | Oklahoma City, OK | On Site | Feb 19 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69979ec781476f6176afba34?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | Feb 19 |
+| ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6997bd87e0bddb6acac67e10?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Feb 19 |
 | **[NetSPI](https://www.netspi.com)** | **[Video Editing and Production Intern (Technical Enablement)](https://jobright.ai/jobs/info/699761c581476f6176af8213?utm_campaign=1053&utm_source=git)** | Minneapolis, MN | On Site | Feb 19 |
 | **[Dotdash Meredith](https://www.dotdashmeredith.com/)** | **[Editorial Intern, People](https://jobright.ai/jobs/info/6997ad2ace78e77b4fdc08f2?utm_campaign=1053&utm_source=git)** | California-Los Angeles 1041 N. Formosa Ave | On Site | Feb 19 |
 | **[JKP](JKPub.com)** | **[WRITING – FICTION WRITING Intern](https://jobright.ai/jobs/info/69975a12e0bddb6acac61917?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Remote | Feb 19 |
@@ -117,6 +120,7 @@ For a complete list, click the following sortable link below:
 | **[Formlabs](http://www.formlabs.com)** | **[Video Content Creator Intern (Summer 2026)](https://jobright.ai/jobs/info/695ed5440badca5763af4b51?utm_campaign=1053&utm_source=git)** | Milwaukee, WI | On Site | Feb 18 |
 | **[Colonial Williamsburg Foundation](https://www.colonialwilliamsburg.org/)** | **[Intern - Tin Shop](https://jobright.ai/jobs/info/699677f7ce78e77b4fda8687?utm_campaign=1053&utm_source=git)** | Williamsburg, Virginia, United States | On Site | Feb 18 |
 | **[Gagosian](http://www.gagosian.com)** | **[Internship Program - New York (Summer, 2026)](https://jobright.ai/jobs/info/69968c6ae0bddb6acac50b7d?utm_campaign=1053&utm_source=git)** | 530 W 25th St | On Site | Feb 18 |
+| **[Washington Commanders](http://www.commanders.com/)** | **[Football Video Intern](https://jobright.ai/jobs/info/6997c06181476f6176afea42?utm_campaign=1053&utm_source=git)** | Ashburn, VA | On Site | Feb 18 |
 | **[EveryDayABA](www.everydayaba.net)** | **[Video Editor Intern](https://jobright.ai/jobs/info/699689b281476f6176ae6696?utm_campaign=1053&utm_source=git)** | Vista, CA | Remote | Feb 18 |
 | **[Pittsburgh Symphony Orchestra](https://pittsburghsymphony.org/)** | **[Orchestra Operations Intern - Summer 2026](https://jobright.ai/jobs/info/69969c13e0bddb6acac5277e?utm_campaign=1053&utm_source=git)** | Pittsburgh, PA | On Site | Feb 18 |
 | **[Veterans United Home Loans](https://www.veteransunited.com)** | **[Production Internship](https://jobright.ai/jobs/info/69967defce78e77b4fda8f98?utm_campaign=1053&utm_source=git)** | Lenexa, KS | On Site | Feb 18 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Ideas United](http://ideasunited.com)** | **[Event Intern](https://jobright.ai/jobs/info/6995424be0bddb6acac3ce33?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Feb 17 |
 | **[Optimum Sports](https://optimumsports.com)** | **[2026 Omnicom Media Internship (NYC, CHI, LA)](https://jobright.ai/jobs/info/699514e7ce78e77b4fd92d79?utm_campaign=1053&utm_source=git)** | United States | Remote | Feb 17 |
 | **[Chapter One](https://www.startchapterone.com/)** | **[Digital Content Creator](https://jobright.ai/jobs/info/6996265be0bddb6acac48564?utm_campaign=1053&utm_source=git)** | New York, United States | On Site | Feb 17 |
-| **[Starz](http://www.starz.com/)** | **[STARZ Intern, Acquisitions](https://jobright.ai/jobs/info/69952c01ce78e77b4fd94442?utm_campaign=1053&utm_source=git)** | Santa Monica, CA | On Site | Feb 17 |
-| ↳ | **[STARZ Intern, Original Programming](https://jobright.ai/jobs/info/699532c2ce78e77b4fd94d04?utm_campaign=1053&utm_source=git)** | Santa Monica, CA | Hybrid | Feb 17 |
-| **[The Peacock Inn](http://www.peacockinn.com)** | **[For-Credit Events Intern (Summer 2026)](https://jobright.ai/jobs/info/699546fa81476f6176ad2959?utm_campaign=1053&utm_source=git)** | Hamilton Township, NJ | On Site | Feb 17 |
-| **[Penn State University](http://psu.edu)** | **[Part-Time Digital Storytelling and News Intern](https://jobright.ai/jobs/info/699503bfe0bddb6acac38aee?utm_campaign=1053&utm_source=git)** | University Park, PA | On Site | Feb 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
