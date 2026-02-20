@@ -57,7 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[WAVY-TV 10](http://wavy.com)** | **[WAVY Unpaid Hampton Roads Show/Production Intern, Summer Semester 2026](https://jobright.ai/jobs/info/69436d3594730b73987687c4?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Feb 20 |
+| **[WAVY-TV 10](http://wavy.com)** | **[WAVY Unpaid Sports Intern, Summer Semester 2026](https://jobright.ai/jobs/info/6943686294730b7398768010?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Feb 20 |
+| ↳ | **[WAVY Unpaid Digital News Desk Intern, Summer 2026](https://jobright.ai/jobs/info/6943624650bbaf765055485d?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Feb 20 |
+| **[David Yurman](http://www.davidyurman.com)** | **[Video Editor Intern, E-Comm](https://jobright.ai/jobs/info/6943736f50bbaf7650556478?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Feb 20 |
+| **[WAVY-TV 10](http://wavy.com)** | **[WAVY Unpaid Hampton Roads Show/Production Intern, Summer Semester 2026](https://jobright.ai/jobs/info/6943644f50bbaf7650554c0f?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Feb 20 |
+| **[KMBC 9](https://www.kmbc.com/#)** | **[KMBC Studio Productions Intern](https://jobright.ai/jobs/info/6944d0b594730b7398780ef3?utm_campaign=1053&utm_source=git)** | Kansas City, MO | On Site | Feb 20 |
 | **[University of Missouri-Kansas City](http://www.umkc.edu/)** | **[KCUR Studios Intern, KCUR - Summer Internship Program, 72562](https://jobright.ai/jobs/info/697c090b0b88cc7d6422f64b?utm_campaign=1053&utm_source=git)** | Kansas City, MO | On Site | Feb 20 |
 | **[Advisors Excel](http://advisorsexcel.com)** | **[Copy Editor Intern](https://jobright.ai/jobs/info/690ac9914a1b456627b0b5c8?utm_campaign=1053&utm_source=git)** | Topeka Metropolitan Area | On Site | Feb 20 |
 | **[NYU Langone Health](https://nyulangone.org/)** | **[Student Intern](https://jobright.ai/jobs/info/69983bd5e0bddb6acac74f21?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Feb 20 |
@@ -68,7 +72,6 @@ For a complete list, click the following sortable link below:
 | **[City Explorer - Live Streaming Hub](https://cityexplorer.live/)** | **[Live Streaming Internship](https://jobright.ai/jobs/info/69980744e0bddb6acac70ff9?utm_campaign=1053&utm_source=git)** | Quebec, Canada | Remote | Feb 19 |
 | **[Museum of Science](http://www.mos.org)** | **[Digital Media  College Internship](https://jobright.ai/jobs/info/6986346e0f6f7e7a2ce1176f?utm_campaign=1053&utm_source=git)** | Boston, MA | On Site | Feb 19 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[KABC-TV (ABC7) Sports News Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/6997de6ce0bddb6acac6b208?utm_campaign=1053&utm_source=git)** | Glendale, CA, USA | On Site | Feb 19 |
-| **[Saint Xavier University](http://www.sxu.edu/)** | **[Xavierite Copy Editor - Student Employment](https://jobright.ai/jobs/info/6997d1cd81476f6176b003fe?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Feb 19 |
 | **[Redlands Chamber of Commerce](http://www.redlandschamber.org)** | **[Video Editing Intern](https://jobright.ai/jobs/info/6997e718ce78e77b4fdc651f?utm_campaign=1053&utm_source=git)** | Cherry Valley, US | On Site | Feb 19 |
 | **[EAA Radio](http://www.eaaradio.net/)** | **[Events Intern](https://jobright.ai/jobs/info/6997e6e2e0bddb6acac6c5b2?utm_campaign=1053&utm_source=git)** | Oshkosh, WI 54902, USA | On Site | Feb 19 |
 | **[PURPLE](https://purplepr.com)** | **[Fashion Intern - Summer](https://jobright.ai/jobs/info/6997bb9ece78e77b4fdc19a7?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Feb 19 |
@@ -93,6 +96,7 @@ For a complete list, click the following sortable link below:
 | **[NetSPI](https://www.netspi.com)** | **[Video Editing and Production Intern (Technical Enablement)](https://jobright.ai/jobs/info/69977650e0bddb6acac62e14?utm_campaign=1053&utm_source=git)** | Minneapolis, MN 55401, USA | On Site | Feb 19 |
 | **[Cox Enterprises](http://coxenterprises.com)** | **[AJC Photojournalism Intern - Summer 2026](https://jobright.ai/jobs/info/69977d48e0bddb6acac632ab?utm_campaign=1053&utm_source=git)** | Atlanta GA | Hybrid | Feb 19 |
 | **[Omni Fort Worth Hotel](https://www.omnihotels.com/)** | **[Omni Cares Culinary Internship / Summer 2026](https://jobright.ai/jobs/info/6997804d81476f6176af9ae6?utm_campaign=1053&utm_source=git)** | Asheville, NC, US | On Site | Feb 19 |
+| **[Marketeq Media Inc.](http://marketeqmedia.co)** | **[Video Editor Internship](https://jobright.ai/jobs/info/699760e0ce78e77b4fdbba71?utm_campaign=1053&utm_source=git)** | Miami, FL | Remote | Feb 19 |
 | **[Audacy, Inc.](https://audacyinc.com/)** | **[Programming Intern](https://jobright.ai/jobs/info/6997721881476f6176af8ffa?utm_campaign=1053&utm_source=git)** | USA-GA-Atlanta | On Site | Feb 19 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Video Production Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69945bbc81476f6176ac1609?utm_campaign=1053&utm_source=git)** | Celebration, FL | On Site | Feb 19 |
 | ↳ | **[Event Services Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/699459fcce78e77b4fd84e52?utm_campaign=1053&utm_source=git)** | Lake Buena Vista, FL | On Site | Feb 19 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Disney Programs Experience Intern, Fall 2026](https://jobright.ai/jobs/info/6995ce55ce78e77b4fd9d82c?utm_campaign=1053&utm_source=git)** | Winter Garden, FL | On Site | Feb 18 |
 | **[Rock Events](https://rockevents.com/)** | **[Event Facilities Tech Intern - Summer 2026](https://jobright.ai/jobs/info/69793de552f3c27ec645937b?utm_campaign=1053&utm_source=git)** | Detroit, MI | On Site | Feb 18 |
 | **[Walt Disney World](https://disneyworld.disney.go.com)** | **[Disney Programs Experience Intern, Fall 2026](https://jobright.ai/jobs/info/6995ce93e0bddb6acac4449f?utm_campaign=1053&utm_source=git)** | Winter Garden, FL | On Site | Feb 18 |
-| **[Destination by Hyatt](https://www.thewoodmark.com/still-spa.htm)** | **[Turf Internship – The Club at Spruce Peak – Summer 2026](https://jobright.ai/jobs/info/698df800f64d441a16503243?utm_campaign=1053&utm_source=git)** | Stowe, VT | On Site | Feb 18 |
-| **[Spectrum Reach](https://www.spectrumreach.com)** | **[Video Production Intern, Spectrum Reach Summer 2026](https://jobright.ai/jobs/info/6995941dce78e77b4fd9b8e9?utm_campaign=1053&utm_source=git)** | St Louis, MO | On Site | Feb 18 |
-| **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Summer Intern, Experiential Events](https://jobright.ai/jobs/info/69793c7188e2b47213bd689e?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Feb 18 |
-| **[KUTV 2News / KMYU](http://kutv.com/)** | **[Intern - Studio Crew](https://jobright.ai/jobs/info/6995da0ace78e77b4fd9df1d?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Feb 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
