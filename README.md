@@ -57,7 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Resources for the Future](http://www.rff.org/)** | **[Editorial Internship](https://jobright.ai/jobs/info/699790ca81476f6176afa76a?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Feb 19 |
+| **[Omni Hotels & Resorts](http://www.omnihotels.com/)** | **[Omni Cares Culinary Internship / Summer 2026](https://jobright.ai/jobs/info/69979a64ce78e77b4fdbecc2?utm_campaign=1053&utm_source=git)** | Asheville, NC | On Site | Feb 19 |
 | **[MediaNews Group](https://www.medianewsgroup.com/)** | **[Intern](https://jobright.ai/jobs/info/69977530ce78e77b4fdbcce7?utm_campaign=1053&utm_source=git)** | San Diego, CA | On Site | Feb 19 |
+| **[MNRK Music Group](https://www.mnrk.com)** | **[Sync Intern- Runner Music (Los Angeles)](https://jobright.ai/jobs/info/699799e4ce78e77b4fdbebef?utm_campaign=1053&utm_source=git)** | CA, US | Hybrid | Feb 19 |
+| **[Hiwin Corporation](http://www.hiwin.com/)** | **[Video Production Intern (High School-level)](https://jobright.ai/jobs/info/6997911e81476f6176afa802?utm_campaign=1053&utm_source=git)** | US Corporate Headquarters, Huntley, IL, US | On Site | Feb 19 |
 | **[Audacy, Inc.](https://audacyinc.com/)** | **[Programming Intern](https://jobright.ai/jobs/info/69976ad4e0bddb6acac623a9?utm_campaign=1053&utm_source=git)** | GA-Atlanta, UNAVAILABLE, USA | On Site | Feb 19 |
 | **[NetSPI](https://www.netspi.com)** | **[Video Editing and Production Intern (Technical Enablement)](https://jobright.ai/jobs/info/699761c581476f6176af8213?utm_campaign=1053&utm_source=git)** | Minneapolis, MN | On Site | Feb 19 |
 | **[JKP](JKPub.com)** | **[WRITING – FICTION WRITING Intern](https://jobright.ai/jobs/info/69975a12e0bddb6acac61917?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Remote | Feb 19 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Vistra Corp.](https://vistracorp.com)** | **[Summer Production Intern - Forney Plant](https://jobright.ai/jobs/info/6994fc82e0bddb6acac3826a?utm_campaign=1053&utm_source=git)** | Forney, Texas | On Site | Feb 17 |
 | **[Detroit Lions](http://www.detroitlions.com)** | **[Summer Video Intern](https://jobright.ai/jobs/info/698267c60f6f7e7a2cdb925b?utm_campaign=1053&utm_source=git)** | Allen Park, MI 48101 | On Site | Feb 17 |
 | **[Wodify](https://www.wodify.com/)** | **[Fitness Content Creator Intern](https://jobright.ai/jobs/info/69951f6f81476f6176acfcc8?utm_campaign=1053&utm_source=git)** | United States | Remote | Feb 17 |
-| **[Omnicom Media](http://www.omnicommedia.com)** | **[2026 Omnicom Media Internship (NYC, CHI, LA)](https://jobright.ai/jobs/info/6995234e81476f6176ad00d8?utm_campaign=1053&utm_source=git)** | NYC Metro Area | Hybrid | Feb 17 |
-| **[New Media Contemporary](https://www.newmediacontemporary.com/)** | **[Art Gallery / Artist Internship](https://jobright.ai/jobs/info/6996afcfe0bddb6acac54901?utm_campaign=1053&utm_source=git)** | Dallas, TX | On Site | Feb 17 |
-| **[Company 3](http://www.company3.com)** | **[NExT Summer Intern - Postproduction](https://jobright.ai/jobs/info/6994e8c581476f6176acbed1?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Feb 17 |
-| **[Penn State University](http://psu.edu)** | **[Part-Time Digital Storytelling and News Intern](https://jobright.ai/jobs/info/69950f0781476f6176aced9e?utm_campaign=1053&utm_source=git)** | Penn State University Park | On Site | Feb 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
