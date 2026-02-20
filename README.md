@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Redlands Chamber of Commerce](http://www.redlandschamber.org)** | **[Video Editing Intern](https://jobright.ai/jobs/info/69981ad3e0bddb6acac7211f?utm_campaign=1053&utm_source=git)** | Cherry Valley, IL | On Site | Feb 20 |
+| **[City of Racine](http://www.cityofracine.org)** | **[Main Gallery Young Artist](https://jobright.ai/jobs/info/699810e4e0bddb6acac71960?utm_campaign=1053&utm_source=git)** | Racine, WI | On Site | Feb 19 |
 | **[City Explorer - Live Streaming Hub](https://cityexplorer.live/)** | **[Live Streaming Internship](https://jobright.ai/jobs/info/69980744e0bddb6acac70ff9?utm_campaign=1053&utm_source=git)** | Quebec, Canada | Remote | Feb 19 |
 | **[Museum of Science](http://www.mos.org)** | **[Digital Media  College Internship](https://jobright.ai/jobs/info/6986346e0f6f7e7a2ce1176f?utm_campaign=1053&utm_source=git)** | Boston, MA | On Site | Feb 19 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[KABC-TV (ABC7) Sports News Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/6997de6ce0bddb6acac6b208?utm_campaign=1053&utm_source=git)** | Glendale, CA, USA | On Site | Feb 19 |
@@ -134,8 +136,8 @@ For a complete list, click the following sortable link below:
 | **[Iowa Heartlanders](https://www.iowaheartlanders.com)** | **[2026-27 Game Presentation + Event Production Internship](https://jobright.ai/jobs/info/699646f7ce78e77b4fda4320?utm_campaign=1053&utm_source=git)** | Coralville, IA | On Site | Feb 18 |
 | **[Paaw](www.paaw.co)** | **[Content Creator Internship - Pet Adoption Startup](https://jobright.ai/jobs/info/69963ea881476f6176adfb3a?utm_campaign=1053&utm_source=git)** | United States | Remote | Feb 18 |
 | **[Baker Publishing Group](http://bakerpublishinggroup.com/)** | **[Editorial Intern- Summer](https://jobright.ai/jobs/info/6996db9de0bddb6acac5754c?utm_campaign=1053&utm_source=git)** | 7808 Creekridge Circle, Minneapolis, MN, USA | On Site | Feb 18 |
-| **[Omni Fort Worth Hotel](https://www.omnihotels.com/)** | **[2026 Omni Care Internship / Events (June - August)](https://jobright.ai/jobs/info/6996509981476f6176ae16fe?utm_campaign=1053&utm_source=git)** | US-MA-Boston | On Site | Feb 18 |
-| ↳ | **[2026 Omni Care Internship / Events (June - August)](https://jobright.ai/jobs/info/699653dee0bddb6acac4c28a?utm_campaign=1053&utm_source=git)** | Boston, MA, US | On Site | Feb 18 |
+| **[Omni Fort Worth Hotel](https://www.omnihotels.com/)** | **[2026 Omni Care Internship / Events (June - August)](https://jobright.ai/jobs/info/699653dee0bddb6acac4c28a?utm_campaign=1053&utm_source=git)** | Boston, MA, US | On Site | Feb 18 |
+| ↳ | **[2026 Omni Care Internship / Events (June - August)](https://jobright.ai/jobs/info/6996509981476f6176ae16fe?utm_campaign=1053&utm_source=git)** | US-MA-Boston | On Site | Feb 18 |
 | **[Meridian International Center](http://www.meridian.org)** | **[Global Communications & Journalism Intern](https://jobright.ai/jobs/info/69964bc481476f6176ae0f2b?utm_campaign=1053&utm_source=git)** | Washington,DC,US | On Site | Feb 18 |
 | **[Crystal Bridges Museum of American Art](http://crystalbridges.org)** | **[2026 Art Management Intern: Summer (Housing Not Included)](https://jobright.ai/jobs/info/69620f57a112b402661078ab?utm_campaign=1053&utm_source=git)** | Bentonville, AR | On Site | Feb 18 |
 | **[Major League Baseball (MLB)](https://www.mlb.com)** | **[Intern, Event Operations](https://jobright.ai/jobs/info/6941d397bdcf884a5add8880?utm_campaign=1053&utm_source=git)** | Vero Beach, FL | On Site | Feb 18 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Vistra Corp.](https://vistracorp.com)** | **[Summer Production Intern - Forney Plant](https://jobright.ai/jobs/info/699553b3ce78e77b4fd972cd?utm_campaign=1053&utm_source=git)** | Forney, TX | On Site | Feb 17 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Good Morning America Production Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/6995b8f481476f6176ad901a?utm_campaign=1053&utm_source=git)** | New York, NY, USA | On Site | Feb 17 |
 | **[Weaver Brands](https://www.weaverleather.com/)** | **[Video Marketing Intern – Videographer](https://jobright.ai/jobs/info/6996a6d381476f6176ae9830?utm_campaign=1053&utm_source=git)** | Mount Hope, OH | On Site | Feb 17 |
-| **[AAAS](http://www.aaas.org/)** | **[Digital Storytelling Intern](https://jobright.ai/jobs/info/698b6307c5761b521a9adb04?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Feb 17 |
-| **[Seattle Kraken](https://www.nhl.com/kraken)** | **[Production Intern (September-April)](https://jobright.ai/jobs/info/6995623681476f6176ad4fa5?utm_campaign=1053&utm_source=git)** | Seattle, WA | On Site | Feb 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
