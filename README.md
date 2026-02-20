@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[WAVY-TV 10](http://wavy.com)** | **[WAVY Unpaid Hampton Roads Show/Production Intern, Summer Semester 2026](https://jobright.ai/jobs/info/69436d3594730b73987687c4?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Feb 20 |
+| **[University of Missouri-Kansas City](http://www.umkc.edu/)** | **[KCUR Studios Intern, KCUR - Summer Internship Program, 72562](https://jobright.ai/jobs/info/697c090b0b88cc7d6422f64b?utm_campaign=1053&utm_source=git)** | Kansas City, MO | On Site | Feb 20 |
 | **[Advisors Excel](http://advisorsexcel.com)** | **[Copy Editor Intern](https://jobright.ai/jobs/info/690ac9914a1b456627b0b5c8?utm_campaign=1053&utm_source=git)** | Topeka Metropolitan Area | On Site | Feb 20 |
 | **[NYU Langone Health](https://nyulangone.org/)** | **[Student Intern](https://jobright.ai/jobs/info/69983bd5e0bddb6acac74f21?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Feb 20 |
 | **[VettaFi](https://vettafi.com/)** | **[Staff Writer Intern](https://jobright.ai/jobs/info/697c58c2727747250d570a48?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Feb 20 |
@@ -133,14 +135,14 @@ For a complete list, click the following sortable link below:
 | **[Washington Commanders](http://www.commanders.com/)** | **[Football Video Intern](https://jobright.ai/jobs/info/6997c06181476f6176afea42?utm_campaign=1053&utm_source=git)** | Ashburn, VA | On Site | Feb 18 |
 | **[EveryDayABA](www.everydayaba.net)** | **[Video Editor Intern](https://jobright.ai/jobs/info/699689b281476f6176ae6696?utm_campaign=1053&utm_source=git)** | Vista, CA | Remote | Feb 18 |
 | **[Pittsburgh Symphony Orchestra](https://pittsburghsymphony.org/)** | **[Orchestra Operations Intern - Summer 2026](https://jobright.ai/jobs/info/69969c13e0bddb6acac5277e?utm_campaign=1053&utm_source=git)** | Pittsburgh, PA | On Site | Feb 18 |
-| **[Veterans United Home Loans](https://www.veteransunited.com)** | **[Production Internship](https://jobright.ai/jobs/info/69967defce78e77b4fda8f98?utm_campaign=1053&utm_source=git)** | Lenexa, KS | On Site | Feb 18 |
+| **[Veterans United Home Loans](https://www.veterans-united.org)** | **[Production Internship](https://jobright.ai/jobs/info/69967defce78e77b4fda8f98?utm_campaign=1053&utm_source=git)** | Lenexa, KS | On Site | Feb 18 |
 | **[Good Karma Brands](https://goodkarmabrands.com/)** | **[ESPN West Palm Summer 2026 Internship](https://jobright.ai/jobs/info/69967580ce78e77b4fda8319?utm_campaign=1053&utm_source=git)** | West Palm Beach, FL | On Site | Feb 18 |
 | **[Hasbro](https://shop.hasbro.com)** | **[Intern, Events- Magic the Gathering](https://jobright.ai/jobs/info/69965c95ce78e77b4fda65c5?utm_campaign=1053&utm_source=git)** | United States | Remote | Feb 18 |
 | **[Iowa Heartlanders](https://www.iowaheartlanders.com)** | **[2026-27 Game Presentation + Event Production Internship](https://jobright.ai/jobs/info/699646f7ce78e77b4fda4320?utm_campaign=1053&utm_source=git)** | Coralville, IA | On Site | Feb 18 |
 | **[Paaw](www.paaw.co)** | **[Content Creator Internship - Pet Adoption Startup](https://jobright.ai/jobs/info/69963ea881476f6176adfb3a?utm_campaign=1053&utm_source=git)** | United States | Remote | Feb 18 |
 | **[Baker Publishing Group](http://bakerpublishinggroup.com/)** | **[Editorial Intern- Summer](https://jobright.ai/jobs/info/6996db9de0bddb6acac5754c?utm_campaign=1053&utm_source=git)** | 7808 Creekridge Circle, Minneapolis, MN, USA | On Site | Feb 18 |
-| **[Omni Fort Worth Hotel](https://www.omnihotels.com/)** | **[2026 Omni Care Internship / Events (June - August)](https://jobright.ai/jobs/info/699653dee0bddb6acac4c28a?utm_campaign=1053&utm_source=git)** | Boston, MA, US | On Site | Feb 18 |
-| ↳ | **[2026 Omni Care Internship / Events (June - August)](https://jobright.ai/jobs/info/6996509981476f6176ae16fe?utm_campaign=1053&utm_source=git)** | US-MA-Boston | On Site | Feb 18 |
+| **[Omni Fort Worth Hotel](https://www.omnihotels.com/)** | **[2026 Omni Care Internship / Events (June - August)](https://jobright.ai/jobs/info/6996509981476f6176ae16fe?utm_campaign=1053&utm_source=git)** | US-MA-Boston | On Site | Feb 18 |
+| ↳ | **[2026 Omni Care Internship / Events (June - August)](https://jobright.ai/jobs/info/699653dee0bddb6acac4c28a?utm_campaign=1053&utm_source=git)** | Boston, MA, US | On Site | Feb 18 |
 | **[Meridian International Center](http://www.meridian.org)** | **[Global Communications & Journalism Intern](https://jobright.ai/jobs/info/69964bc481476f6176ae0f2b?utm_campaign=1053&utm_source=git)** | Washington,DC,US | On Site | Feb 18 |
 | **[Crystal Bridges Museum of American Art](http://crystalbridges.org)** | **[2026 Art Management Intern: Summer (Housing Not Included)](https://jobright.ai/jobs/info/69620f57a112b402661078ab?utm_campaign=1053&utm_source=git)** | Bentonville, AR | On Site | Feb 18 |
 | **[Major League Baseball (MLB)](https://www.mlb.com)** | **[Intern, Event Operations](https://jobright.ai/jobs/info/6941d397bdcf884a5add8880?utm_campaign=1053&utm_source=git)** | Vero Beach, FL | On Site | Feb 18 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Spectrum Reach](https://www.spectrumreach.com)** | **[Video Production Intern, Spectrum Reach Summer 2026](https://jobright.ai/jobs/info/6995941dce78e77b4fd9b8e9?utm_campaign=1053&utm_source=git)** | St Louis, MO | On Site | Feb 18 |
 | **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Summer Intern, Experiential Events](https://jobright.ai/jobs/info/69793c7188e2b47213bd689e?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Feb 18 |
 | **[KUTV 2News / KMYU](http://kutv.com/)** | **[Intern - Studio Crew](https://jobright.ai/jobs/info/6995da0ace78e77b4fd9df1d?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Feb 18 |
-| **[Howard Hughes Medical Institute (HHMI)](http://www.hhmi.org/)** | **[Media Production, Communications, and Outreach Intern – Tangled Bank Studios](https://jobright.ai/jobs/info/695ddd6fe4cdbb1454cfd848?utm_campaign=1053&utm_source=git)** | Chevy Chase, MD | Hybrid | Feb 18 |
-| **[Ellucian](http://www.ellucian.com)** | **[Video Internship (Undergraduate)](https://jobright.ai/jobs/info/6977e29c52f3c27ec6440a9c?utm_campaign=1053&utm_source=git)** | Reston, VA | Hybrid | Feb 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
