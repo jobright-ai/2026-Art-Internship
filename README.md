@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[PURPLE](https://purplepr.com)** | **[Fashion Intern - Summer](https://jobright.ai/jobs/info/6997bb9ece78e77b4fdc19a7?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Feb 19 |
 | **[Resources for the Future](http://www.rff.org/)** | **[Editorial Internship](https://jobright.ai/jobs/info/699790ca81476f6176afa76a?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Feb 19 |
 | **[Omni Hotels & Resorts](http://www.omnihotels.com/)** | **[Omni Cares Culinary Internship / Summer 2026](https://jobright.ai/jobs/info/69979a64ce78e77b4fdbecc2?utm_campaign=1053&utm_source=git)** | Asheville, NC | On Site | Feb 19 |
 | **[Art Institute of Chicago](http://www.artic.edu/)** | **[McMullan Arts Leadership Internship Program](https://jobright.ai/jobs/info/69672aca1703f05405a8d979?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Feb 19 |
@@ -70,6 +71,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69979bdbce78e77b4fdbeed4?utm_campaign=1053&utm_source=git)** | Oklahoma City, OK | On Site | Feb 19 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69979ec781476f6176afba34?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | Feb 19 |
 | **[NetSPI](https://www.netspi.com)** | **[Video Editing and Production Intern (Technical Enablement)](https://jobright.ai/jobs/info/699761c581476f6176af8213?utm_campaign=1053&utm_source=git)** | Minneapolis, MN | On Site | Feb 19 |
+| **[Dotdash Meredith](https://www.dotdashmeredith.com/)** | **[Editorial Intern, People](https://jobright.ai/jobs/info/6997ad2ace78e77b4fdc08f2?utm_campaign=1053&utm_source=git)** | California-Los Angeles 1041 N. Formosa Ave | On Site | Feb 19 |
 | **[JKP](JKPub.com)** | **[WRITING – FICTION WRITING Intern](https://jobright.ai/jobs/info/69975a12e0bddb6acac61917?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Remote | Feb 19 |
 | **[Cox Enterprises](http://coxenterprises.com)** | **[AJC Reporting Intern - Summer 2026](https://jobright.ai/jobs/info/6997598cce78e77b4fdbb648?utm_campaign=1053&utm_source=git)** | Atlanta GA | Hybrid | Feb 19 |
 | **[NetSPI](https://www.netspi.com)** | **[Video Editing and Production Intern (Technical Enablement)](https://jobright.ai/jobs/info/69977650e0bddb6acac62e14?utm_campaign=1053&utm_source=git)** | Minneapolis, MN 55401, USA | On Site | Feb 19 |
@@ -124,8 +126,8 @@ For a complete list, click the following sortable link below:
 | **[Iowa Heartlanders](https://www.iowaheartlanders.com)** | **[2026-27 Game Presentation + Event Production Internship](https://jobright.ai/jobs/info/699646f7ce78e77b4fda4320?utm_campaign=1053&utm_source=git)** | Coralville, IA | On Site | Feb 18 |
 | **[Paaw](www.paaw.co)** | **[Content Creator Internship - Pet Adoption Startup](https://jobright.ai/jobs/info/69963ea881476f6176adfb3a?utm_campaign=1053&utm_source=git)** | United States | Remote | Feb 18 |
 | **[Baker Publishing Group](http://bakerpublishinggroup.com/)** | **[Editorial Intern- Summer](https://jobright.ai/jobs/info/6996db9de0bddb6acac5754c?utm_campaign=1053&utm_source=git)** | 7808 Creekridge Circle, Minneapolis, MN, USA | On Site | Feb 18 |
-| **[Omni Fort Worth Hotel](https://www.omnihotels.com/)** | **[2026 Omni Care Internship / Events (June - August)](https://jobright.ai/jobs/info/699653dee0bddb6acac4c28a?utm_campaign=1053&utm_source=git)** | Boston, MA, US | On Site | Feb 18 |
-| ↳ | **[2026 Omni Care Internship / Events (June - August)](https://jobright.ai/jobs/info/6996509981476f6176ae16fe?utm_campaign=1053&utm_source=git)** | US-MA-Boston | On Site | Feb 18 |
+| **[Omni Fort Worth Hotel](https://www.omnihotels.com/)** | **[2026 Omni Care Internship / Events (June - August)](https://jobright.ai/jobs/info/6996509981476f6176ae16fe?utm_campaign=1053&utm_source=git)** | US-MA-Boston | On Site | Feb 18 |
+| ↳ | **[2026 Omni Care Internship / Events (June - August)](https://jobright.ai/jobs/info/699653dee0bddb6acac4c28a?utm_campaign=1053&utm_source=git)** | Boston, MA, US | On Site | Feb 18 |
 | **[Meridian International Center](http://www.meridian.org)** | **[Global Communications & Journalism Intern](https://jobright.ai/jobs/info/69964bc481476f6176ae0f2b?utm_campaign=1053&utm_source=git)** | Washington,DC,US | On Site | Feb 18 |
 | **[Crystal Bridges Museum of American Art](http://crystalbridges.org)** | **[2026 Art Management Intern: Summer (Housing Not Included)](https://jobright.ai/jobs/info/69620f57a112b402661078ab?utm_campaign=1053&utm_source=git)** | Bentonville, AR | On Site | Feb 18 |
 | **[Major League Baseball (MLB)](https://www.mlb.com)** | **[Intern, Event Operations](https://jobright.ai/jobs/info/6941d397bdcf884a5add8880?utm_campaign=1053&utm_source=git)** | Vero Beach, FL | On Site | Feb 18 |
@@ -148,8 +150,6 @@ For a complete list, click the following sortable link below:
 | **[Weaver Brands](https://www.weaverleather.com/)** | **[Video Marketing Intern – Videographer](https://jobright.ai/jobs/info/6996a6d381476f6176ae9830?utm_campaign=1053&utm_source=git)** | Mount Hope, OH | On Site | Feb 17 |
 | **[AAAS](http://www.aaas.org/)** | **[Digital Storytelling Intern](https://jobright.ai/jobs/info/698b6307c5761b521a9adb04?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Feb 17 |
 | **[Seattle Kraken](https://www.nhl.com/kraken)** | **[Production Intern (September-April)](https://jobright.ai/jobs/info/6995623681476f6176ad4fa5?utm_campaign=1053&utm_source=git)** | Seattle, WA | On Site | Feb 17 |
-| **[Omni Hotels & Resorts](http://www.omnihotels.com/)** | **[Summer Omni Cares Internship- Recreation](https://jobright.ai/jobs/info/69955132ce78e77b4fd96df9?utm_campaign=1053&utm_source=git)** | Irving, TX | On Site | Feb 17 |
-| **[Omni Fort Worth Hotel](https://www.omnihotels.com/)** | **[Summer Omni Cares Internship- Recreation](https://jobright.ai/jobs/info/69951ef1e0bddb6acac3a6b7?utm_campaign=1053&utm_source=git)** | Irving, TX, US | On Site | Feb 17 |
 | **[Ideas United](http://ideasunited.com)** | **[Event Intern](https://jobright.ai/jobs/info/6995424be0bddb6acac3ce33?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Feb 17 |
 | **[Optimum Sports](https://optimumsports.com)** | **[2026 Omnicom Media Internship (NYC, CHI, LA)](https://jobright.ai/jobs/info/699514e7ce78e77b4fd92d79?utm_campaign=1053&utm_source=git)** | United States | Remote | Feb 17 |
 | **[Chapter One](https://www.startchapterone.com/)** | **[Digital Content Creator](https://jobright.ai/jobs/info/6996265be0bddb6acac48564?utm_campaign=1053&utm_source=git)** | New York, United States | On Site | Feb 17 |
