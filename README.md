@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Charlotte Hornets](https://www.nba.com/hornets/)** | **[Video Production Intern](https://jobright.ai/jobs/info/6999790de0bddb6acac8ba53?utm_campaign=1053&utm_source=git)** | Charlotte, NC | On Site | Feb 21 |
+| ↳ | **[Guest Experience Intern](https://jobright.ai/jobs/info/6999763281476f6176b234a3?utm_campaign=1053&utm_source=git)** | Charlotte, NC | On Site | Feb 21 |
 | **[The Ambony](http://www.manofthehourmag.com/)** | **[Pop Culture Journalist Intern](https://jobright.ai/jobs/info/69993cf681476f6176b1cbdf?utm_campaign=1053&utm_source=git)** | New York, NY | Remote | Feb 20 |
 | **[Marketeq Media Inc.](http://marketeqmedia.co)** | **[Video Editor / Media Production Internship](https://jobright.ai/jobs/info/69995e1fce78e77b4fde31e8?utm_campaign=1053&utm_source=git)** | Miami, FL | Remote | Feb 20 |
 | **[The Ambony](http://www.manofthehourmag.com/)** | **[Womenswear Style Journalist Intern](https://jobright.ai/jobs/info/699937cee0bddb6acac84993?utm_campaign=1053&utm_source=git)** | New York, NY | Remote | Feb 20 |
@@ -80,8 +82,8 @@ For a complete list, click the following sortable link below:
 | **[Tumbling Dumpling Media](https://www.linkedin.com/company/109629621)** | **[Editorial Intern](https://jobright.ai/jobs/info/6998f435ce78e77b4fdd88a1?utm_campaign=1053&utm_source=git)** | United States | Remote | Feb 20 |
 | **[SexSymbol Magazine](sexsymbolmagazine.com)** | **[YouTube Video Editing Intern (Unpaid, Remote – Internship)](https://jobright.ai/jobs/info/6998e1af81476f6176b14822?utm_campaign=1053&utm_source=git)** | United States | Remote | Feb 20 |
 | **[Glass Entertainment Group](https://www.glassentertainmentgroup.com/)** | **[Summer 2026 Internship](https://jobright.ai/jobs/info/6998ee1ece78e77b4fdd7f10?utm_campaign=1053&utm_source=git)** | United States | Remote | Feb 20 |
-| **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6998da17e0bddb6acac7c539?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Feb 20 |
-| ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6998f83581476f6176b165c4?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | Feb 20 |
+| **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6998f83581476f6176b165c4?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | Feb 20 |
+| ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6998da17e0bddb6acac7c539?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Feb 20 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6998fb34ce78e77b4fdd9505?utm_campaign=1053&utm_source=git)** | Oklahoma City, OK | On Site | Feb 20 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6998f2b4ce78e77b4fdd860e?utm_campaign=1053&utm_source=git)** | St Louis, MO | On Site | Feb 20 |
 | **[New Entry Sustainable Farming Project](http://www.nesfp.org)** | **[Farm Storytelling & Virtual Engagement Internship](https://jobright.ai/jobs/info/6998d1f7ce78e77b4fdd62a2?utm_campaign=1053&utm_source=git)** | Beverly, MA | Hybrid | Feb 20 |
@@ -138,10 +140,7 @@ For a complete list, click the following sortable link below:
 | **[Sony Electronics](http://www.sonyjobs.com)** | **[Summer Intern, A&R Research](https://jobright.ai/jobs/info/69973917ce78e77b4fdb8a30?utm_campaign=1053&utm_source=git)** | New York | On Site | Feb 19 |
 | **[Sony Music Publishing](https://www.sonymusicpub.com/)** | **[Summer Intern, A&R Research](https://jobright.ai/jobs/info/6997445181476f6176af5db0?utm_campaign=1053&utm_source=git)** | New York, United States | On Site | Feb 19 |
 | **[Charles River Laboratories](http://www.criver.com)** | **[2026 Summer Intern - Archive](https://jobright.ai/jobs/info/6997209c81476f6176af3ae8?utm_campaign=1053&utm_source=git)** | Ashland, OH | On Site | Feb 19 |
-| **[SiriusXM](http://siriusxm.com)** | **[Summer Intern, Pandora Curation - Part-Time](https://jobright.ai/jobs/info/697a9d4ff6fc293b0a2c852c?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Feb 19 |
-| ↳ | **[Summer Intern, Talk Programming - Part-Time](https://jobright.ai/jobs/info/697a9725f6fc293b0a2c7cc4?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Feb 19 |
-| ↳ | **[Summer Intern, Sports Programming - Part-Time](https://jobright.ai/jobs/info/697ae26817b11b1c2e41b2a0?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Feb 19 |
-| ↳ | **[Summer Intern, Sports Programming - Part-Time](https://jobright.ai/jobs/info/697a8d3b8dbbf73badc7bc4b?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Feb 19 |
+| **[SiriusXM](http://siriusxm.com)** | **[Summer Intern, Talk Programming - Part-Time](https://jobright.ai/jobs/info/697a9725f6fc293b0a2c7cc4?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Feb 19 |
 | ↳ | **[Summer Intern, Podcast Producer - Part Time](https://jobright.ai/jobs/info/697a7ed9f6fc293b0a2c516c?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | Feb 19 |
 | **[SOLV Energy](https://www.solvenergy.com/)** | **[Video Editor & Digital Media Intern](https://jobright.ai/jobs/info/695f49f10badca5763afc667?utm_campaign=1053&utm_source=git)** | San Diego, CA | On Site | Feb 19 |
 | **[SiriusXM](http://siriusxm.com)** | **[Summer Intern, Music Programming Operations - DC - Part-Time](https://jobright.ai/jobs/info/697a94f1f6fc293b0a2c77d1?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Feb 19 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[CLD PR & Experiential Productions](https://cldstylehouse.com)** | **[White Fox Pre-Coachella Suite Event Intern](https://jobright.ai/jobs/info/6996a8e2e0bddb6acac53ffd?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Feb 18 |
 | **[WMUR-TV](http://www.wmur.com/)** | **[News Internship](https://jobright.ai/jobs/info/69968f17e0bddb6acac50fc2?utm_campaign=1053&utm_source=git)** | Manchester, NH | On Site | Feb 18 |
 | **[UL Research Institutes](https://ul.org)** | **[Multimedia Design, Video Production Summer 2026 Intern - Fire Safety Research Institute](https://jobright.ai/jobs/info/697188bf333b6343a14e23b8?utm_campaign=1053&utm_source=git)** | Columbia, MD | Hybrid | Feb 18 |
+| **[Gorilla Commerce](https://gorillacommerce.co/)** | **[Video Editor Intern](https://jobright.ai/jobs/info/6997a046e0bddb6acac6530c?utm_campaign=1053&utm_source=git)** | Norwalk, CT | On Site | Feb 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
