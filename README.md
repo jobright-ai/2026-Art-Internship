@@ -57,11 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[The Ambony](http://www.manofthehourmag.com/)** | **[Womenswear Style Journalist Intern](https://jobright.ai/jobs/info/699937cee0bddb6acac84993?utm_campaign=1053&utm_source=git)** | New York, NY | Remote | Feb 20 |
+| **[The Ambony](http://www.manofthehourmag.com/)** | **[Pop Culture Journalist Intern](https://jobright.ai/jobs/info/69993cf681476f6176b1cbdf?utm_campaign=1053&utm_source=git)** | New York, NY | Remote | Feb 20 |
+| ↳ | **[Womenswear Style Journalist Intern](https://jobright.ai/jobs/info/699937cee0bddb6acac84993?utm_campaign=1053&utm_source=git)** | New York, NY | Remote | Feb 20 |
 | **[iHeartMedia](http://iheartmedia.com)** | **[Summer intern](https://jobright.ai/jobs/info/69993424e0bddb6acac843c9?utm_campaign=1053&utm_source=git)** | Burbank, CA | On Site | Feb 20 |
 | **[Publicis Health](http://publicishealth.com)** | **[Medical Editing Internship (New York) - Publicis Health](https://jobright.ai/jobs/info/69992def81476f6176b1b77c?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Feb 20 |
 | **[The Ambony](http://www.manofthehourmag.com/)** | **[Menswear Style Journalist Intern](https://jobright.ai/jobs/info/69992a75ce78e77b4fddde0a?utm_campaign=1053&utm_source=git)** | New York, NY | Remote | Feb 20 |
+| **[The Legal Aid Society](https://legalaidnyc.org/)** | **[Investigative Intern, Summer 2026](https://jobright.ai/jobs/info/699944e3ce78e77b4fde0659?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Feb 20 |
+| **[The Ambony](http://www.manofthehourmag.com/)** | **[Culture Journalist Intern](https://jobright.ai/jobs/info/699944bbce78e77b4fde0628?utm_campaign=1053&utm_source=git)** | New York, NY | Remote | Feb 20 |
 | **[Chautauqua Institution](https://www.chq.org)** | **[Internship (Literary Arts)/Seasonal Employment](https://jobright.ai/jobs/info/69992dbb81476f6176b1b747?utm_campaign=1053&utm_source=git)** | Chautauqua, NY | On Site | Feb 20 |
+| **[WBEZ Chicago](https://www.wbez.org/)** | **[Talk Shows Intern](https://jobright.ai/jobs/info/69993f7ee0bddb6acac85856?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Feb 20 |
 | **[Bloomsbury USA](http://www.bloomsbury.com/us)** | **[Intern, Adult Editorial](https://jobright.ai/jobs/info/69993aebe0bddb6acac84f06?utm_campaign=1053&utm_source=git)** | New York,NY,US | Hybrid | Feb 20 |
 | **[Gray Media](https://graymedia.com)** | **[GRAY MEDIA FUTURE FOCUS INTERN SUMMER '26 - WFIE](https://jobright.ai/jobs/info/69991e34e0bddb6acac81e5e?utm_campaign=1053&utm_source=git)** | Evansville, Indiana, United States | On Site | Feb 20 |
 | **[Ferris State University College of Business](http://ferris.edu/business)** | **[News Editor (Student Position)](https://jobright.ai/jobs/info/69991c09e0bddb6acac81a39?utm_campaign=1053&utm_source=git)** | Big Rapids, MI | On Site | Feb 20 |
@@ -75,8 +79,8 @@ For a complete list, click the following sortable link below:
 | **[Tumbling Dumpling Media](https://www.linkedin.com/company/109629621)** | **[Editorial Intern](https://jobright.ai/jobs/info/6998f435ce78e77b4fdd88a1?utm_campaign=1053&utm_source=git)** | United States | Remote | Feb 20 |
 | **[SexSymbol Magazine](sexsymbolmagazine.com)** | **[YouTube Video Editing Intern (Unpaid, Remote – Internship)](https://jobright.ai/jobs/info/6998e1af81476f6176b14822?utm_campaign=1053&utm_source=git)** | United States | Remote | Feb 20 |
 | **[Glass Entertainment Group](https://www.glassentertainmentgroup.com/)** | **[Summer 2026 Internship](https://jobright.ai/jobs/info/6998ee1ece78e77b4fdd7f10?utm_campaign=1053&utm_source=git)** | United States | Remote | Feb 20 |
-| **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6998f83581476f6176b165c4?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | Feb 20 |
-| ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6998da17e0bddb6acac7c539?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Feb 20 |
+| **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6998da17e0bddb6acac7c539?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Feb 20 |
+| ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6998f83581476f6176b165c4?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | Feb 20 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6998fb34ce78e77b4fdd9505?utm_campaign=1053&utm_source=git)** | Oklahoma City, OK | On Site | Feb 20 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6998f2b4ce78e77b4fdd860e?utm_campaign=1053&utm_source=git)** | St Louis, MO | On Site | Feb 20 |
 | **[New Entry Sustainable Farming Project](http://www.nesfp.org)** | **[Farm Storytelling & Virtual Engagement Internship](https://jobright.ai/jobs/info/6998d1f7ce78e77b4fdd62a2?utm_campaign=1053&utm_source=git)** | Beverly, MA | Hybrid | Feb 20 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Internship Program - Beverly Hills (Summer, 2026)](https://jobright.ai/jobs/info/6996a06f81476f6176ae8ad1?utm_campaign=1053&utm_source=git)** | Beverly Hills, CA | On Site | Feb 18 |
 | **[Social Cuts](https://www.socialcuts.com)** | **[Startup Operations Intern (In-Person, Downtown Austin, 15–20 hrs/week)](https://jobright.ai/jobs/info/6996be1ece78e77b4fdafa9c?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | Feb 18 |
 | **[Giant Spoon](http://giantspoon.com/)** | **[Content Production Intern (Summer)](https://jobright.ai/jobs/info/697a82b6f6fc293b0a2c55fb?utm_campaign=1053&utm_source=git)** | New York, United States | Hybrid | Feb 18 |
-| **[Babbel](http://www.babbel.com)** | **[Video Intern, Organic Content](https://jobright.ai/jobs/info/699682d181476f6176ae5b99?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Feb 18 |
-| **[CLD PR & Experiential Productions](https://cldstylehouse.com)** | **[White Fox Pre-Coachella Suite Event Intern](https://jobright.ai/jobs/info/6996a8e2e0bddb6acac53ffd?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Feb 18 |
-| **[WMUR-TV](http://www.wmur.com/)** | **[News Internship](https://jobright.ai/jobs/info/69968f17e0bddb6acac50fc2?utm_campaign=1053&utm_source=git)** | Manchester, NH | On Site | Feb 18 |
-| **[UL Research Institutes](https://ul.org)** | **[Multimedia Design, Video Production Summer 2026 Intern - Fire Safety Research Institute](https://jobright.ai/jobs/info/697188bf333b6343a14e23b8?utm_campaign=1053&utm_source=git)** | Columbia, MD | Hybrid | Feb 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
