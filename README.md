@@ -57,9 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Ambony](http://www.manofthehourmag.com/)** | **[Womenswear Style Journalist Intern](https://jobright.ai/jobs/info/699937cee0bddb6acac84993?utm_campaign=1053&utm_source=git)** | New York, NY | Remote | Feb 20 |
+| **[iHeartMedia](http://iheartmedia.com)** | **[Summer intern](https://jobright.ai/jobs/info/69993424e0bddb6acac843c9?utm_campaign=1053&utm_source=git)** | Burbank, CA | On Site | Feb 20 |
 | **[Publicis Health](http://publicishealth.com)** | **[Medical Editing Internship (New York) - Publicis Health](https://jobright.ai/jobs/info/69992def81476f6176b1b77c?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Feb 20 |
 | **[The Ambony](http://www.manofthehourmag.com/)** | **[Menswear Style Journalist Intern](https://jobright.ai/jobs/info/69992a75ce78e77b4fddde0a?utm_campaign=1053&utm_source=git)** | New York, NY | Remote | Feb 20 |
 | **[Chautauqua Institution](https://www.chq.org)** | **[Internship (Literary Arts)/Seasonal Employment](https://jobright.ai/jobs/info/69992dbb81476f6176b1b747?utm_campaign=1053&utm_source=git)** | Chautauqua, NY | On Site | Feb 20 |
+| **[Bloomsbury USA](http://www.bloomsbury.com/us)** | **[Intern, Adult Editorial](https://jobright.ai/jobs/info/69993aebe0bddb6acac84f06?utm_campaign=1053&utm_source=git)** | New York,NY,US | Hybrid | Feb 20 |
 | **[Gray Media](https://graymedia.com)** | **[GRAY MEDIA FUTURE FOCUS INTERN SUMMER '26 - WFIE](https://jobright.ai/jobs/info/69991e34e0bddb6acac81e5e?utm_campaign=1053&utm_source=git)** | Evansville, Indiana, United States | On Site | Feb 20 |
 | **[Ferris State University College of Business](http://ferris.edu/business)** | **[News Editor (Student Position)](https://jobright.ai/jobs/info/69991c09e0bddb6acac81a39?utm_campaign=1053&utm_source=git)** | Big Rapids, MI | On Site | Feb 20 |
 | ↳ | **[Staff Reporter (Student Position)](https://jobright.ai/jobs/info/69991d41e0bddb6acac81cab?utm_campaign=1053&utm_source=git)** | Big Rapids, MI | On Site | Feb 20 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[CLD PR & Experiential Productions](https://cldstylehouse.com)** | **[White Fox Pre-Coachella Suite Event Intern](https://jobright.ai/jobs/info/6996a8e2e0bddb6acac53ffd?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Feb 18 |
 | **[WMUR-TV](http://www.wmur.com/)** | **[News Internship](https://jobright.ai/jobs/info/69968f17e0bddb6acac50fc2?utm_campaign=1053&utm_source=git)** | Manchester, NH | On Site | Feb 18 |
 | **[UL Research Institutes](https://ul.org)** | **[Multimedia Design, Video Production Summer 2026 Intern - Fire Safety Research Institute](https://jobright.ai/jobs/info/697188bf333b6343a14e23b8?utm_campaign=1053&utm_source=git)** | Columbia, MD | Hybrid | Feb 18 |
-| **[Gorilla Commerce](https://gorillacommerce.co/)** | **[Video Editor Intern](https://jobright.ai/jobs/info/6997a046e0bddb6acac6530c?utm_campaign=1053&utm_source=git)** | Norwalk, CT | On Site | Feb 18 |
-| **[Colonial Williamsburg Foundation](https://www.colonialwilliamsburg.org/)** | **[Intern - Tin Shop](https://jobright.ai/jobs/info/699687e9e0bddb6acac50564?utm_campaign=1053&utm_source=git)** | Williamsburg, VA | On Site | Feb 18 |
-| **[Good Karma Brands](https://goodkarmabrands.com/)** | **[ESPN West Palm Summer 2026 Internship](https://jobright.ai/jobs/info/69968e15e0bddb6acac50e4c?utm_campaign=1053&utm_source=git)** | West Palm Beach, FL, US | On Site | Feb 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
