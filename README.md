@@ -86,7 +86,6 @@ For a complete list, click the following sortable link below:
 | **[iHeartMedia](http://iheartmedia.com)** | **[Summer intern](https://jobright.ai/jobs/info/6998f5b081476f6176b1619f?utm_campaign=1053&utm_source=git)** | Los Angeles, CA (Burbank - Olive) | On Site | Feb 20 |
 | **[UFP Industries](https://www.ufpi.com/)** | **[Production Intern](https://jobright.ai/jobs/info/6998fdae81476f6176b16f79?utm_campaign=1053&utm_source=git)** | Bartow, FL | On Site | Feb 20 |
 | **[Tumbling Dumpling Media](https://www.linkedin.com/company/109629621)** | **[Editorial Intern](https://jobright.ai/jobs/info/6998f435ce78e77b4fdd88a1?utm_campaign=1053&utm_source=git)** | United States | Remote | Feb 20 |
-| **[SexSymbol Magazine](sexsymbolmagazine.com)** | **[YouTube Video Editing Intern (Unpaid, Remote – Internship)](https://jobright.ai/jobs/info/6998e1af81476f6176b14822?utm_campaign=1053&utm_source=git)** | United States | Remote | Feb 20 |
 | **[Glass Entertainment Group](https://www.glassentertainmentgroup.com/)** | **[Summer 2026 Internship](https://jobright.ai/jobs/info/6998ee1ece78e77b4fdd7f10?utm_campaign=1053&utm_source=git)** | United States | Remote | Feb 20 |
 | **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6998f83581476f6176b165c4?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | Feb 20 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6998da17e0bddb6acac7c539?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Feb 20 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Social Cuts](https://www.socialcuts.com)** | **[Startup Operations Intern (In-Person, Downtown Austin, 15–20 hrs/week)](https://jobright.ai/jobs/info/6996be1ece78e77b4fdafa9c?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | Feb 18 |
 | **[Giant Spoon](http://giantspoon.com/)** | **[Content Production Intern (Summer)](https://jobright.ai/jobs/info/697a82b6f6fc293b0a2c55fb?utm_campaign=1053&utm_source=git)** | New York, United States | Hybrid | Feb 18 |
 | **[Babbel](http://www.babbel.com)** | **[Video Intern, Organic Content](https://jobright.ai/jobs/info/699682d181476f6176ae5b99?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Feb 18 |
+| **[CLD PR & Experiential Productions](https://cldstylehouse.com)** | **[White Fox Pre-Coachella Suite Event Intern](https://jobright.ai/jobs/info/6996a8e2e0bddb6acac53ffd?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Feb 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
