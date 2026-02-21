@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Bloomsbury USA](http://www.bloomsbury.com/us)** | **[Intern, Adult Editorial](https://jobright.ai/jobs/info/6999cb82e0bddb6acac908cf?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Feb 21 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Commercial Production Internship](https://jobright.ai/jobs/info/694e0eb429655e4dd657cbfb?utm_campaign=1053&utm_source=git)** | Dayton, OH | On Site | Feb 21 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Disney Programs Experience Intern, Fall 2026](https://jobright.ai/jobs/info/6995ce55ce78e77b4fd9d82c?utm_campaign=1053&utm_source=git)** | Winter Garden, FL | On Site | Feb 21 |
 | **[Soccer Shots Southwest Connecticut](https://www.soccershots.com/swct/)** | **[Soccer Shots Fall Internship Experience](https://jobright.ai/jobs/info/6999a402ce78e77b4fde87d7?utm_campaign=1053&utm_source=git)** | Shelton, CT | On Site | Feb 21 |
@@ -112,7 +113,6 @@ For a complete list, click the following sortable link below:
 | **[HealthCorps](https://www.HealthCorps.org)** | **[Videography Intern](https://jobright.ai/jobs/info/69982ff5ce78e77b4fdce317?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Feb 20 |
 | **[Redlands Chamber of Commerce](http://www.redlandschamber.org)** | **[Video Editing Intern](https://jobright.ai/jobs/info/69981ad3e0bddb6acac7211f?utm_campaign=1053&utm_source=git)** | Cherry Valley, IL | On Site | Feb 20 |
 | **[City of Racine](http://www.cityofracine.org)** | **[Main Gallery Young Artist](https://jobright.ai/jobs/info/699810e4e0bddb6acac71960?utm_campaign=1053&utm_source=git)** | Racine, WI | On Site | Feb 19 |
-| **[City Explorer - Live Streaming Hub](https://cityexplorer.live/)** | **[Live Streaming Internship](https://jobright.ai/jobs/info/69980744e0bddb6acac70ff9?utm_campaign=1053&utm_source=git)** | Quebec, Canada | Remote | Feb 19 |
 | **[Glenstone Museum](https://www.glenstone.org/)** | **[Registration and Art Preparation Intern](https://jobright.ai/jobs/info/699952b881476f6176b1f5b5?utm_campaign=1053&utm_source=git)** | Potomac, MD | On Site | Feb 19 |
 | **[Museum of Science](http://www.mos.org)** | **[Digital Media  College Internship](https://jobright.ai/jobs/info/6986346e0f6f7e7a2ce1176f?utm_campaign=1053&utm_source=git)** | Boston, MA | On Site | Feb 19 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[KABC-TV (ABC7) Sports News Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/6997de6ce0bddb6acac6b208?utm_campaign=1053&utm_source=git)** | Glendale, CA, USA | On Site | Feb 19 |
