@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ferris State University College of Business](http://ferris.edu/business)** | **[News Editor (Student Position)](https://jobright.ai/jobs/info/69991c09e0bddb6acac81a39?utm_campaign=1053&utm_source=git)** | Big Rapids, MI | On Site | Feb 20 |
+| ↳ | **[Staff Reporter (Student Position)](https://jobright.ai/jobs/info/69991d41e0bddb6acac81cab?utm_campaign=1053&utm_source=git)** | Big Rapids, MI | On Site | Feb 20 |
+| **[iHeartMedia](http://iheartmedia.com)** | **[Summer intern](https://jobright.ai/jobs/info/69991a1ce0bddb6acac816dc?utm_campaign=1053&utm_source=git)** | Burbank, CA | On Site | Feb 20 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[FX Original Programming Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/6998fd1e81476f6176b16e95?utm_campaign=1053&utm_source=git)** | Burbank, CA, USA | Hybrid | Feb 20 |
 | **[Universities of Wisconsin](https://www.wisconsin.edu/)** | **[Cornerstone Press Intern](https://jobright.ai/jobs/info/69990b62e0bddb6acac8031b?utm_campaign=1053&utm_source=git)** | Stevens Point, WI | On Site | Feb 20 |
 | **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6998d2c8e0bddb6acac7be2d?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Feb 20 |
@@ -92,6 +95,7 @@ For a complete list, click the following sortable link below:
 | **[Museum of Science](http://www.mos.org)** | **[Digital Media  College Internship](https://jobright.ai/jobs/info/6986346e0f6f7e7a2ce1176f?utm_campaign=1053&utm_source=git)** | Boston, MA | On Site | Feb 19 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[KABC-TV (ABC7) Sports News Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/6997de6ce0bddb6acac6b208?utm_campaign=1053&utm_source=git)** | Glendale, CA, USA | On Site | Feb 19 |
 | **[Redlands Chamber of Commerce](http://www.redlandschamber.org)** | **[Video Editing Intern](https://jobright.ai/jobs/info/6997e718ce78e77b4fdc651f?utm_campaign=1053&utm_source=git)** | Cherry Valley, US | On Site | Feb 19 |
+| **[Saint Xavier University](http://www.sxu.edu/)** | **[Xavierite Copy Editor - Student Employment](https://jobright.ai/jobs/info/69991d2281476f6176b19b36?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Feb 19 |
 | **[UT Institute of Agriculture](http://utia.tennessee.edu)** | **[10-Week Summer Professional Internship - Hospitality, Lone Oaks Farm: UTIA](https://jobright.ai/jobs/info/69990594ce78e77b4fdda325?utm_campaign=1053&utm_source=git)** | Middleton, TN | On Site | Feb 19 |
 | **[EAA Radio](http://www.eaaradio.net/)** | **[Events Intern](https://jobright.ai/jobs/info/6997e6e2e0bddb6acac6c5b2?utm_campaign=1053&utm_source=git)** | Oshkosh, WI 54902, USA | On Site | Feb 19 |
 | **[PURPLE](https://purplepr.com)** | **[Fashion Intern - Summer](https://jobright.ai/jobs/info/6997bb9ece78e77b4fdc19a7?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Feb 19 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Formlabs](http://www.formlabs.com)** | **[Video Content Creator Intern (Summer 2026)](https://jobright.ai/jobs/info/695ed5440badca5763af4b51?utm_campaign=1053&utm_source=git)** | Milwaukee, WI | On Site | Feb 18 |
 | **[Colonial Williamsburg Foundation](https://www.colonialwilliamsburg.org/)** | **[Intern - Tin Shop](https://jobright.ai/jobs/info/699677f7ce78e77b4fda8687?utm_campaign=1053&utm_source=git)** | Williamsburg, Virginia, United States | On Site | Feb 18 |
 | **[Gagosian](http://www.gagosian.com)** | **[Internship Program - New York (Summer, 2026)](https://jobright.ai/jobs/info/69968c6ae0bddb6acac50b7d?utm_campaign=1053&utm_source=git)** | 530 W 25th St | On Site | Feb 18 |
-| **[Washington Commanders](http://www.commanders.com/)** | **[Football Video Intern](https://jobright.ai/jobs/info/6997c06181476f6176afea42?utm_campaign=1053&utm_source=git)** | Ashburn, VA | On Site | Feb 18 |
-| **[EveryDayABA](www.everydayaba.net)** | **[Video Editor Intern](https://jobright.ai/jobs/info/699689b281476f6176ae6696?utm_campaign=1053&utm_source=git)** | Vista, CA | Remote | Feb 18 |
-| **[Pittsburgh Symphony Orchestra](https://pittsburghsymphony.org/)** | **[Orchestra Operations Intern - Summer 2026](https://jobright.ai/jobs/info/69969c13e0bddb6acac5277e?utm_campaign=1053&utm_source=git)** | Pittsburgh, PA | On Site | Feb 18 |
-| **[Veterans United Home Loans](https://www.veterans-united.org)** | **[Production Internship](https://jobright.ai/jobs/info/69967defce78e77b4fda8f98?utm_campaign=1053&utm_source=git)** | Lenexa, KS | On Site | Feb 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
