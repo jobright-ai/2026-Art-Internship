@@ -143,7 +143,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Intern, Music Programming Operations LA - Part-Time](https://jobright.ai/jobs/info/697a93889d60e431a16c24db?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | Feb 19 |
 | ↳ | **[Summer Intern, Video Production - Part-Time](https://jobright.ai/jobs/info/697a78718dbbf73badc79d09?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Feb 19 |
 | ↳ | **[Summer Intern, Podcast Producer - Part Time](https://jobright.ai/jobs/info/697ae08cc532c4768fe097e6?utm_campaign=1053&utm_source=git)** | New York, United States | Remote | Feb 19 |
-| ↳ | **[Summer Intern, Music Programming Operations - Miami - Part-Time](https://jobright.ai/jobs/info/697ae43b1423772304eacc22?utm_campaign=1053&utm_source=git)** | Miami Beach, FL | Hybrid | Feb 19 |
 | ↳ | **[Summer Intern, Sports Programming - Part-Time](https://jobright.ai/jobs/info/697a8d3b8dbbf73badc7bc4b?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Feb 19 |
 | ↳ | **[Summer Intern, Podcast Producer - Part Time](https://jobright.ai/jobs/info/697a7ed9f6fc293b0a2c516c?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | Feb 19 |
 | **[SOLV Energy](https://www.solvenergy.com/)** | **[Video Editor & Digital Media Intern](https://jobright.ai/jobs/info/695f49f10badca5763afc667?utm_campaign=1053&utm_source=git)** | San Diego, CA | On Site | Feb 19 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Internship Program - Beverly Hills (Summer, 2026)](https://jobright.ai/jobs/info/6996a06f81476f6176ae8ad1?utm_campaign=1053&utm_source=git)** | Beverly Hills, CA | On Site | Feb 18 |
 | **[Social Cuts](https://www.socialcuts.com)** | **[Startup Operations Intern (In-Person, Downtown Austin, 15–20 hrs/week)](https://jobright.ai/jobs/info/6996be1ece78e77b4fdafa9c?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | Feb 18 |
 | **[Giant Spoon](http://giantspoon.com/)** | **[Content Production Intern (Summer)](https://jobright.ai/jobs/info/697a82b6f6fc293b0a2c55fb?utm_campaign=1053&utm_source=git)** | New York, United States | Hybrid | Feb 18 |
+| **[Babbel](http://www.babbel.com)** | **[Video Intern, Organic Content](https://jobright.ai/jobs/info/699682d181476f6176ae5b99?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Feb 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
