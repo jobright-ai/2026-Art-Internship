@@ -57,10 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Publicis Health](http://publicishealth.com)** | **[Medical Editing Internship (New York) - Publicis Health](https://jobright.ai/jobs/info/69992def81476f6176b1b77c?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Feb 20 |
+| **[The Ambony](http://www.manofthehourmag.com/)** | **[Menswear Style Journalist Intern](https://jobright.ai/jobs/info/69992a75ce78e77b4fddde0a?utm_campaign=1053&utm_source=git)** | New York, NY | Remote | Feb 20 |
+| **[Chautauqua Institution](https://www.chq.org)** | **[Internship (Literary Arts)/Seasonal Employment](https://jobright.ai/jobs/info/69992dbb81476f6176b1b747?utm_campaign=1053&utm_source=git)** | Chautauqua, NY | On Site | Feb 20 |
 | **[Gray Media](https://graymedia.com)** | **[GRAY MEDIA FUTURE FOCUS INTERN SUMMER '26 - WFIE](https://jobright.ai/jobs/info/69991e34e0bddb6acac81e5e?utm_campaign=1053&utm_source=git)** | Evansville, Indiana, United States | On Site | Feb 20 |
 | **[Ferris State University College of Business](http://ferris.edu/business)** | **[News Editor (Student Position)](https://jobright.ai/jobs/info/69991c09e0bddb6acac81a39?utm_campaign=1053&utm_source=git)** | Big Rapids, MI | On Site | Feb 20 |
 | ↳ | **[Staff Reporter (Student Position)](https://jobright.ai/jobs/info/69991d41e0bddb6acac81cab?utm_campaign=1053&utm_source=git)** | Big Rapids, MI | On Site | Feb 20 |
-| **[iHeartMedia](http://iheartmedia.com)** | **[Summer intern](https://jobright.ai/jobs/info/69991a1ce0bddb6acac816dc?utm_campaign=1053&utm_source=git)** | Burbank, CA | On Site | Feb 20 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[FX Original Programming Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/6998fd1e81476f6176b16e95?utm_campaign=1053&utm_source=git)** | Burbank, CA, USA | Hybrid | Feb 20 |
 | **[Universities of Wisconsin](https://www.wisconsin.edu/)** | **[Cornerstone Press Intern](https://jobright.ai/jobs/info/69990b62e0bddb6acac8031b?utm_campaign=1053&utm_source=git)** | Stevens Point, WI | On Site | Feb 20 |
 | **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6998d2c8e0bddb6acac7be2d?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Feb 20 |
@@ -70,8 +72,8 @@ For a complete list, click the following sortable link below:
 | **[Tumbling Dumpling Media](https://www.linkedin.com/company/109629621)** | **[Editorial Intern](https://jobright.ai/jobs/info/6998f435ce78e77b4fdd88a1?utm_campaign=1053&utm_source=git)** | United States | Remote | Feb 20 |
 | **[SexSymbol Magazine](sexsymbolmagazine.com)** | **[YouTube Video Editing Intern (Unpaid, Remote – Internship)](https://jobright.ai/jobs/info/6998e1af81476f6176b14822?utm_campaign=1053&utm_source=git)** | United States | Remote | Feb 20 |
 | **[Glass Entertainment Group](https://www.glassentertainmentgroup.com/)** | **[Summer 2026 Internship](https://jobright.ai/jobs/info/6998ee1ece78e77b4fdd7f10?utm_campaign=1053&utm_source=git)** | United States | Remote | Feb 20 |
-| **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6998da17e0bddb6acac7c539?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Feb 20 |
-| ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6998f83581476f6176b165c4?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | Feb 20 |
+| **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6998f83581476f6176b165c4?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | Feb 20 |
+| ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6998da17e0bddb6acac7c539?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Feb 20 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6998fb34ce78e77b4fdd9505?utm_campaign=1053&utm_source=git)** | Oklahoma City, OK | On Site | Feb 20 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6998f2b4ce78e77b4fdd860e?utm_campaign=1053&utm_source=git)** | St Louis, MO | On Site | Feb 20 |
 | **[New Entry Sustainable Farming Project](http://www.nesfp.org)** | **[Farm Storytelling & Virtual Engagement Internship](https://jobright.ai/jobs/info/6998d1f7ce78e77b4fdd62a2?utm_campaign=1053&utm_source=git)** | Beverly, MA | Hybrid | Feb 20 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Gorilla Commerce](https://gorillacommerce.co/)** | **[Video Editor Intern](https://jobright.ai/jobs/info/6997a046e0bddb6acac6530c?utm_campaign=1053&utm_source=git)** | Norwalk, CT | On Site | Feb 18 |
 | **[Colonial Williamsburg Foundation](https://www.colonialwilliamsburg.org/)** | **[Intern - Tin Shop](https://jobright.ai/jobs/info/699687e9e0bddb6acac50564?utm_campaign=1053&utm_source=git)** | Williamsburg, VA | On Site | Feb 18 |
 | **[Good Karma Brands](https://goodkarmabrands.com/)** | **[ESPN West Palm Summer 2026 Internship](https://jobright.ai/jobs/info/69968e15e0bddb6acac50e4c?utm_campaign=1053&utm_source=git)** | West Palm Beach, FL, US | On Site | Feb 18 |
-| **[Formlabs](http://www.formlabs.com)** | **[Video Content Creator Intern (Summer 2026)](https://jobright.ai/jobs/info/695ed5440badca5763af4b51?utm_campaign=1053&utm_source=git)** | Milwaukee, WI | On Site | Feb 18 |
-| **[Colonial Williamsburg Foundation](https://www.colonialwilliamsburg.org/)** | **[Intern - Tin Shop](https://jobright.ai/jobs/info/699677f7ce78e77b4fda8687?utm_campaign=1053&utm_source=git)** | Williamsburg, Virginia, United States | On Site | Feb 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
