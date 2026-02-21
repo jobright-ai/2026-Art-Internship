@@ -57,7 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Bloomsbury USA](http://www.bloomsbury.com/us)** | **[Intern, Adult Editorial](https://jobright.ai/jobs/info/6999cb82e0bddb6acac908cf?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Feb 21 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Commercial Production Internship](https://jobright.ai/jobs/info/694e0eb429655e4dd657cbfb?utm_campaign=1053&utm_source=git)** | Dayton, OH | On Site | Feb 21 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Disney Programs Experience Intern, Fall 2026](https://jobright.ai/jobs/info/6995ce55ce78e77b4fd9d82c?utm_campaign=1053&utm_source=git)** | Winter Garden, FL | On Site | Feb 21 |
 | **[Soccer Shots Southwest Connecticut](https://www.soccershots.com/swct/)** | **[Soccer Shots Fall Internship Experience](https://jobright.ai/jobs/info/6999a402ce78e77b4fde87d7?utm_campaign=1053&utm_source=git)** | Shelton, CT | On Site | Feb 21 |
@@ -89,8 +88,8 @@ For a complete list, click the following sortable link below:
 | **[Tumbling Dumpling Media](https://www.linkedin.com/company/109629621)** | **[Editorial Intern](https://jobright.ai/jobs/info/6998f435ce78e77b4fdd88a1?utm_campaign=1053&utm_source=git)** | United States | Remote | Feb 20 |
 | **[SexSymbol Magazine](sexsymbolmagazine.com)** | **[YouTube Video Editing Intern (Unpaid, Remote – Internship)](https://jobright.ai/jobs/info/6998e1af81476f6176b14822?utm_campaign=1053&utm_source=git)** | United States | Remote | Feb 20 |
 | **[Glass Entertainment Group](https://www.glassentertainmentgroup.com/)** | **[Summer 2026 Internship](https://jobright.ai/jobs/info/6998ee1ece78e77b4fdd7f10?utm_campaign=1053&utm_source=git)** | United States | Remote | Feb 20 |
-| **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6998f83581476f6176b165c4?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | Feb 20 |
-| ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6998da17e0bddb6acac7c539?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Feb 20 |
+| **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6998da17e0bddb6acac7c539?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Feb 20 |
+| ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6998f83581476f6176b165c4?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | Feb 20 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6998fb34ce78e77b4fdd9505?utm_campaign=1053&utm_source=git)** | Oklahoma City, OK | On Site | Feb 20 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6998f2b4ce78e77b4fdd860e?utm_campaign=1053&utm_source=git)** | St Louis, MO | On Site | Feb 20 |
 | **[New Entry Sustainable Farming Project](http://www.nesfp.org)** | **[Farm Storytelling & Virtual Engagement Internship](https://jobright.ai/jobs/info/6998d1f7ce78e77b4fdd62a2?utm_campaign=1053&utm_source=git)** | Beverly, MA | Hybrid | Feb 20 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Internship Program - Beverly Hills (Summer, 2026)](https://jobright.ai/jobs/info/6996a06f81476f6176ae8ad1?utm_campaign=1053&utm_source=git)** | Beverly Hills, CA | On Site | Feb 18 |
 | **[Social Cuts](https://www.socialcuts.com)** | **[Startup Operations Intern (In-Person, Downtown Austin, 15–20 hrs/week)](https://jobright.ai/jobs/info/6996be1ece78e77b4fdafa9c?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | Feb 18 |
 | **[Giant Spoon](http://giantspoon.com/)** | **[Content Production Intern (Summer)](https://jobright.ai/jobs/info/697a82b6f6fc293b0a2c55fb?utm_campaign=1053&utm_source=git)** | New York, United States | Hybrid | Feb 18 |
+| **[Babbel](http://www.babbel.com)** | **[Video Intern, Organic Content](https://jobright.ai/jobs/info/699682d181476f6176ae5b99?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Feb 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
