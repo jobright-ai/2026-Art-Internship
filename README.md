@@ -58,7 +58,8 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[The Ambony](http://www.manofthehourmag.com/)** | **[Pop Culture Journalist Intern](https://jobright.ai/jobs/info/69993cf681476f6176b1cbdf?utm_campaign=1053&utm_source=git)** | New York, NY | Remote | Feb 20 |
-| ↳ | **[Womenswear Style Journalist Intern](https://jobright.ai/jobs/info/699937cee0bddb6acac84993?utm_campaign=1053&utm_source=git)** | New York, NY | Remote | Feb 20 |
+| **[Marketeq Media Inc.](http://marketeqmedia.co)** | **[Video Editor / Media Production Internship](https://jobright.ai/jobs/info/69995e1fce78e77b4fde31e8?utm_campaign=1053&utm_source=git)** | Miami, FL | Remote | Feb 20 |
+| **[The Ambony](http://www.manofthehourmag.com/)** | **[Womenswear Style Journalist Intern](https://jobright.ai/jobs/info/699937cee0bddb6acac84993?utm_campaign=1053&utm_source=git)** | New York, NY | Remote | Feb 20 |
 | **[iHeartMedia](http://iheartmedia.com)** | **[Summer intern](https://jobright.ai/jobs/info/69993424e0bddb6acac843c9?utm_campaign=1053&utm_source=git)** | Burbank, CA | On Site | Feb 20 |
 | **[Publicis Health](http://publicishealth.com)** | **[Medical Editing Internship (New York) - Publicis Health](https://jobright.ai/jobs/info/69992def81476f6176b1b77c?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Feb 20 |
 | **[The Ambony](http://www.manofthehourmag.com/)** | **[Menswear Style Journalist Intern](https://jobright.ai/jobs/info/69992a75ce78e77b4fddde0a?utm_campaign=1053&utm_source=git)** | New York, NY | Remote | Feb 20 |
@@ -102,6 +103,7 @@ For a complete list, click the following sortable link below:
 | **[Redlands Chamber of Commerce](http://www.redlandschamber.org)** | **[Video Editing Intern](https://jobright.ai/jobs/info/69981ad3e0bddb6acac7211f?utm_campaign=1053&utm_source=git)** | Cherry Valley, IL | On Site | Feb 20 |
 | **[City of Racine](http://www.cityofracine.org)** | **[Main Gallery Young Artist](https://jobright.ai/jobs/info/699810e4e0bddb6acac71960?utm_campaign=1053&utm_source=git)** | Racine, WI | On Site | Feb 19 |
 | **[City Explorer - Live Streaming Hub](https://cityexplorer.live/)** | **[Live Streaming Internship](https://jobright.ai/jobs/info/69980744e0bddb6acac70ff9?utm_campaign=1053&utm_source=git)** | Quebec, Canada | Remote | Feb 19 |
+| **[Glenstone Museum](https://www.glenstone.org/)** | **[Registration and Art Preparation Intern](https://jobright.ai/jobs/info/699952b881476f6176b1f5b5?utm_campaign=1053&utm_source=git)** | Potomac, MD | On Site | Feb 19 |
 | **[Museum of Science](http://www.mos.org)** | **[Digital Media  College Internship](https://jobright.ai/jobs/info/6986346e0f6f7e7a2ce1176f?utm_campaign=1053&utm_source=git)** | Boston, MA | On Site | Feb 19 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[KABC-TV (ABC7) Sports News Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/6997de6ce0bddb6acac6b208?utm_campaign=1053&utm_source=git)** | Glendale, CA, USA | On Site | Feb 19 |
 | **[Redlands Chamber of Commerce](http://www.redlandschamber.org)** | **[Video Editing Intern](https://jobright.ai/jobs/info/6997e718ce78e77b4fdc651f?utm_campaign=1053&utm_source=git)** | Cherry Valley, US | On Site | Feb 19 |
@@ -137,17 +139,12 @@ For a complete list, click the following sortable link below:
 | **[Sony Music Publishing](https://www.sonymusicpub.com/)** | **[Summer Intern, A&R Research](https://jobright.ai/jobs/info/6997445181476f6176af5db0?utm_campaign=1053&utm_source=git)** | New York, United States | On Site | Feb 19 |
 | **[Charles River Laboratories](http://www.criver.com)** | **[2026 Summer Intern - Archive](https://jobright.ai/jobs/info/6997209c81476f6176af3ae8?utm_campaign=1053&utm_source=git)** | Ashland, OH | On Site | Feb 19 |
 | **[SiriusXM](http://siriusxm.com)** | **[Summer Intern, Pandora Curation - Part-Time](https://jobright.ai/jobs/info/697a9d4ff6fc293b0a2c852c?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Feb 19 |
-| ↳ | **[Summer Intern, Talk Programming - Part-Time](https://jobright.ai/jobs/info/697a8e22f6fc293b0a2c69f6?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Feb 19 |
 | ↳ | **[Summer Intern, Talk Programming - Part-Time](https://jobright.ai/jobs/info/697a9725f6fc293b0a2c7cc4?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Feb 19 |
 | ↳ | **[Summer Intern, Sports Programming - Part-Time](https://jobright.ai/jobs/info/697ae26817b11b1c2e41b2a0?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Feb 19 |
-| ↳ | **[Summer Intern, Music Programming Operations LA - Part-Time](https://jobright.ai/jobs/info/697a93889d60e431a16c24db?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | Feb 19 |
-| ↳ | **[Summer Intern, Video Production - Part-Time](https://jobright.ai/jobs/info/697a78718dbbf73badc79d09?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Feb 19 |
-| ↳ | **[Summer Intern, Podcast Producer - Part Time](https://jobright.ai/jobs/info/697ae08cc532c4768fe097e6?utm_campaign=1053&utm_source=git)** | New York, United States | Remote | Feb 19 |
 | ↳ | **[Summer Intern, Sports Programming - Part-Time](https://jobright.ai/jobs/info/697a8d3b8dbbf73badc7bc4b?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Feb 19 |
 | ↳ | **[Summer Intern, Podcast Producer - Part Time](https://jobright.ai/jobs/info/697a7ed9f6fc293b0a2c516c?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | Feb 19 |
 | **[SOLV Energy](https://www.solvenergy.com/)** | **[Video Editor & Digital Media Intern](https://jobright.ai/jobs/info/695f49f10badca5763afc667?utm_campaign=1053&utm_source=git)** | San Diego, CA | On Site | Feb 19 |
-| **[SiriusXM](http://siriusxm.com)** | **[Summer Intern, Music Programming Operations - Nashville - Part-Time](https://jobright.ai/jobs/info/697a97c78dbbf73badc7d238?utm_campaign=1053&utm_source=git)** | Nashville, TN | On Site | Feb 19 |
-| ↳ | **[Summer Intern, Music Programming Operations - DC - Part-Time](https://jobright.ai/jobs/info/697a94f1f6fc293b0a2c77d1?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Feb 19 |
+| **[SiriusXM](http://siriusxm.com)** | **[Summer Intern, Music Programming Operations - DC - Part-Time](https://jobright.ai/jobs/info/697a94f1f6fc293b0a2c77d1?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Feb 19 |
 | **[Steve Madden](http://www.stevemadden.com)** | **[Intern - Production, Accessories - NYC](https://jobright.ai/jobs/info/697a8eff9d60e431a16c1b5c?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Feb 19 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Good Morning America Production Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/6996fb9ace78e77b4fdb437d?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Feb 19 |
 | **[Steve Madden](http://www.stevemadden.com)** | **[Intern - Production, Handbags - NYC](https://jobright.ai/jobs/info/697a78a3f6fc293b0a2c4a50?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Feb 19 |
@@ -157,4 +154,7 @@ For a complete list, click the following sortable link below:
 | **[Social Cuts](https://www.socialcuts.com)** | **[Startup Operations Intern (In-Person, Downtown Austin, 15–20 hrs/week)](https://jobright.ai/jobs/info/6996be1ece78e77b4fdafa9c?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | Feb 18 |
 | **[Giant Spoon](http://giantspoon.com/)** | **[Content Production Intern (Summer)](https://jobright.ai/jobs/info/697a82b6f6fc293b0a2c55fb?utm_campaign=1053&utm_source=git)** | New York, United States | Hybrid | Feb 18 |
 | **[Babbel](http://www.babbel.com)** | **[Video Intern, Organic Content](https://jobright.ai/jobs/info/699682d181476f6176ae5b99?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Feb 18 |
+| **[CLD PR & Experiential Productions](https://cldstylehouse.com)** | **[White Fox Pre-Coachella Suite Event Intern](https://jobright.ai/jobs/info/6996a8e2e0bddb6acac53ffd?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Feb 18 |
+| **[WMUR-TV](http://www.wmur.com/)** | **[News Internship](https://jobright.ai/jobs/info/69968f17e0bddb6acac50fc2?utm_campaign=1053&utm_source=git)** | Manchester, NH | On Site | Feb 18 |
+| **[UL Research Institutes](https://ul.org)** | **[Multimedia Design, Video Production Summer 2026 Intern - Fire Safety Research Institute](https://jobright.ai/jobs/info/697188bf333b6343a14e23b8?utm_campaign=1053&utm_source=git)** | Columbia, MD | Hybrid | Feb 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
