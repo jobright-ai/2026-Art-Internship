@@ -57,7 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[National Association of Latino Healthcare Executives](https://www.nalhe.org)** | **[Women on the Go Master&amp;#8217;s Intern](https://jobright.ai/jobs/info/699a9a1381476f6176b33eb6?utm_campaign=1053&utm_source=git)** | Pasadena, CA | Hybrid | Feb 21 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Commercial Production Internship](https://jobright.ai/jobs/info/694e0eb429655e4dd657cbfb?utm_campaign=1053&utm_source=git)** | Dayton, OH | On Site | Feb 21 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Disney Programs Experience Intern, Fall 2026](https://jobright.ai/jobs/info/6995ce55ce78e77b4fd9d82c?utm_campaign=1053&utm_source=git)** | Winter Garden, FL | On Site | Feb 21 |
 | **[Soccer Shots Southwest Connecticut](https://www.soccershots.com/swct/)** | **[Soccer Shots Fall Internship Experience](https://jobright.ai/jobs/info/6999a402ce78e77b4fde87d7?utm_campaign=1053&utm_source=git)** | Shelton, CT | On Site | Feb 21 |
@@ -143,6 +142,7 @@ For a complete list, click the following sortable link below:
 | **[Sony Electronics](http://www.sonyjobs.com)** | **[Summer Intern, A&R Research](https://jobright.ai/jobs/info/69973917ce78e77b4fdb8a30?utm_campaign=1053&utm_source=git)** | New York | On Site | Feb 19 |
 | **[Sony Music Publishing](https://www.sonymusicpub.com/)** | **[Summer Intern, A&R Research](https://jobright.ai/jobs/info/6997445181476f6176af5db0?utm_campaign=1053&utm_source=git)** | New York, United States | On Site | Feb 19 |
 | **[Charles River Laboratories](http://www.criver.com)** | **[2026 Summer Intern - Archive](https://jobright.ai/jobs/info/6997209c81476f6176af3ae8?utm_campaign=1053&utm_source=git)** | Ashland, OH | On Site | Feb 19 |
+| **[Audacy, Inc.](https://audacyinc.com/)** | **[Programming Intern](https://jobright.ai/jobs/info/699652b3e0bddb6acac4c0f6?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Feb 19 |
 | **[SOLV Energy](https://www.solvenergy.com/)** | **[Video Editor & Digital Media Intern](https://jobright.ai/jobs/info/695f49f10badca5763afc667?utm_campaign=1053&utm_source=git)** | San Diego, CA | On Site | Feb 19 |
 | **[Steve Madden](http://www.stevemadden.com)** | **[Intern - Production, Accessories - NYC](https://jobright.ai/jobs/info/697a8eff9d60e431a16c1b5c?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Feb 19 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Good Morning America Production Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/6996fb9ace78e77b4fdb437d?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Feb 19 |
