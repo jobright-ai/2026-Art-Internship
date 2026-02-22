@@ -57,9 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[KUTV 2News / KMYU](http://kutv.com/)** | **[Intern - Studio Crew](https://jobright.ai/jobs/info/699b7b96e0bddb6acaca6730?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Feb 22 |
+| **[Meridian International Center](http://www.meridian.org)** | **[Global Communications & Journalism Intern](https://jobright.ai/jobs/info/699b670181476f6176b3cbab?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Feb 22 |
 | **[Skild AI](https://www.skild.ai/)** | **[Cinematography Intern (Product Videography & Social Media)](https://jobright.ai/jobs/info/68d48fabffc1276de3fdbe8a?utm_campaign=1053&utm_source=git)** | San Mateo, CA | On Site | Feb 22 |
 | **[Paramount](https://www.paramount.com)** | **[CBS Sports Production and Production Management Internships (Summer 2026, In Person - NYC)](https://jobright.ai/jobs/info/6945fb6b63141d18845598ea?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Feb 22 |
 | **[Sinclair Inc.](http://sbgi.net/)** | **[KATV Spring 2026 Intern](https://jobright.ai/jobs/info/690b9aff221b890c277f61e1?utm_campaign=1053&utm_source=git)** | Little Rock, AR | On Site | Feb 22 |
+| **[Charles River Laboratories](http://www.criver.com)** | **[2026 Summer Intern - Archive](https://jobright.ai/jobs/info/6997209c81476f6176af3ae8?utm_campaign=1053&utm_source=git)** | Ashland, OH | On Site | Feb 21 |
 | **[where boundaries dissolve podcast](https://open.spotify.com/show/25b2YejpYhlVGrvbv6zbGj)** | **[Video Narrative Intern (YouTube Editor)](https://jobright.ai/jobs/info/699afc1481476f6176b38410?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Remote | Feb 21 |
 | **[Crypto India Magazine (CIM)](https://cryptoindiamagazine.com/)** | **[Crypto News Writer Intern](https://jobright.ai/jobs/info/699af82ace78e77b4fdfaf2b?utm_campaign=1053&utm_source=git)** | United States | Remote | Feb 21 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Commercial Production Internship](https://jobright.ai/jobs/info/694e0eb429655e4dd657cbfb?utm_campaign=1053&utm_source=git)** | Dayton, OH | On Site | Feb 21 |
@@ -89,8 +92,8 @@ For a complete list, click the following sortable link below:
 | **[Omni Hotels & Resorts](http://www.omnihotels.com/)** | **[Omni Care Internship Culinary / Summer 2026](https://jobright.ai/jobs/info/6998f86a81476f6176b1663f?utm_campaign=1053&utm_source=git)** | Bretton Woods, NH | On Site | Feb 20 |
 | **[iHeartMedia](http://iheartmedia.com)** | **[Summer intern](https://jobright.ai/jobs/info/6998f5b081476f6176b1619f?utm_campaign=1053&utm_source=git)** | Los Angeles, CA (Burbank - Olive) | On Site | Feb 20 |
 | **[UFP Industries](https://www.ufpi.com/)** | **[Production Intern](https://jobright.ai/jobs/info/6998fdae81476f6176b16f79?utm_campaign=1053&utm_source=git)** | Bartow, FL | On Site | Feb 20 |
-| **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6998f83581476f6176b165c4?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | Feb 20 |
-| ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6998da17e0bddb6acac7c539?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Feb 20 |
+| **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6998da17e0bddb6acac7c539?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Feb 20 |
+| ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6998f83581476f6176b165c4?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | Feb 20 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6998fb34ce78e77b4fdd9505?utm_campaign=1053&utm_source=git)** | Oklahoma City, OK | On Site | Feb 20 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6998f2b4ce78e77b4fdd860e?utm_campaign=1053&utm_source=git)** | St Louis, MO | On Site | Feb 20 |
 | **[New Entry Sustainable Farming Project](http://www.nesfp.org)** | **[Farm Storytelling & Virtual Engagement Internship](https://jobright.ai/jobs/info/6998d1f7ce78e77b4fdd62a2?utm_campaign=1053&utm_source=git)** | Beverly, MA | Hybrid | Feb 20 |
@@ -145,7 +148,6 @@ For a complete list, click the following sortable link below:
 | **[U.S. News & World Report](http://www.usnews.com)** | **[360 Editorial Summer 2026 Intern- New York](https://jobright.ai/jobs/info/69973b78ce78e77b4fdb8c44?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Feb 19 |
 | **[Sony Electronics](http://www.sonyjobs.com)** | **[Summer Intern, A&R Research](https://jobright.ai/jobs/info/69973917ce78e77b4fdb8a30?utm_campaign=1053&utm_source=git)** | New York | On Site | Feb 19 |
 | **[Sony Music Publishing](https://www.sonymusicpub.com/)** | **[Summer Intern, A&R Research](https://jobright.ai/jobs/info/6997445181476f6176af5db0?utm_campaign=1053&utm_source=git)** | New York, United States | On Site | Feb 19 |
-| **[Charles River Laboratories](http://www.criver.com)** | **[2026 Summer Intern - Archive](https://jobright.ai/jobs/info/6997209c81476f6176af3ae8?utm_campaign=1053&utm_source=git)** | Ashland, OH | On Site | Feb 19 |
 | **[Audacy, Inc.](https://audacyinc.com/)** | **[Programming Intern](https://jobright.ai/jobs/info/699652b3e0bddb6acac4c0f6?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Feb 19 |
 | **[SOLV Energy](https://www.solvenergy.com/)** | **[Video Editor & Digital Media Intern](https://jobright.ai/jobs/info/695f49f10badca5763afc667?utm_campaign=1053&utm_source=git)** | San Diego, CA | On Site | Feb 19 |
 | **[Steve Madden](http://www.stevemadden.com)** | **[Intern - Production, Accessories - NYC](https://jobright.ai/jobs/info/697a8eff9d60e431a16c1b5c?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Feb 19 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Gagosian](http://www.gagosian.com)** | **[Internship Program - New York (Summer, 2026)](https://jobright.ai/jobs/info/6996b26581476f6176aeab56?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Feb 18 |
 | **[City of Irving](https://www.cityofirving.org/2623/Family-Advocacy-Center)** | **[Intern - Production (Part-Time)](https://jobright.ai/jobs/info/699aa777ce78e77b4fdf70a5?utm_campaign=1053&utm_source=git)** | Irving, TX | On Site | Feb 18 |
 | **[Gagosian](http://www.gagosian.com)** | **[Internship Program - Beverly Hills (Summer, 2026)](https://jobright.ai/jobs/info/6996a06f81476f6176ae8ad1?utm_campaign=1053&utm_source=git)** | Beverly Hills, CA | On Site | Feb 18 |
-| **[Social Cuts](https://www.socialcuts.com)** | **[Startup Operations Intern (In-Person, Downtown Austin, 15–20 hrs/week)](https://jobright.ai/jobs/info/6996be1ece78e77b4fdafa9c?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | Feb 18 |
-| **[Giant Spoon](http://giantspoon.com/)** | **[Content Production Intern (Summer)](https://jobright.ai/jobs/info/697a82b6f6fc293b0a2c55fb?utm_campaign=1053&utm_source=git)** | New York, United States | Hybrid | Feb 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
