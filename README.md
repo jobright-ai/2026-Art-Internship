@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[National Association of Latino Healthcare Executives](https://www.nalhe.org)** | **[Women on the Go Master&amp;#8217;s Intern](https://jobright.ai/jobs/info/699a9a1381476f6176b33eb6?utm_campaign=1053&utm_source=git)** | Pasadena, CA | Hybrid | Feb 21 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Commercial Production Internship](https://jobright.ai/jobs/info/694e0eb429655e4dd657cbfb?utm_campaign=1053&utm_source=git)** | Dayton, OH | On Site | Feb 21 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Disney Programs Experience Intern, Fall 2026](https://jobright.ai/jobs/info/6995ce55ce78e77b4fd9d82c?utm_campaign=1053&utm_source=git)** | Winter Garden, FL | On Site | Feb 21 |
 | **[Soccer Shots Southwest Connecticut](https://www.soccershots.com/swct/)** | **[Soccer Shots Fall Internship Experience](https://jobright.ai/jobs/info/6999a402ce78e77b4fde87d7?utm_campaign=1053&utm_source=git)** | Shelton, CT | On Site | Feb 21 |
@@ -129,7 +130,6 @@ For a complete list, click the following sortable link below:
 | **[Audacy, Inc.](https://audacyinc.com/)** | **[Programming Intern](https://jobright.ai/jobs/info/69976ad4e0bddb6acac623a9?utm_campaign=1053&utm_source=git)** | GA-Atlanta, UNAVAILABLE, USA | On Site | Feb 19 |
 | **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6997a17f81476f6176afbdc4?utm_campaign=1053&utm_source=git)** | St Louis, MO | On Site | Feb 19 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69979bdbce78e77b4fdbeed4?utm_campaign=1053&utm_source=git)** | Oklahoma City, OK | On Site | Feb 19 |
-| ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6997bd87e0bddb6acac67e10?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Feb 19 |
 | **[NetSPI](https://www.netspi.com)** | **[Video Editing and Production Intern (Technical Enablement)](https://jobright.ai/jobs/info/699761c581476f6176af8213?utm_campaign=1053&utm_source=git)** | Minneapolis, MN | On Site | Feb 19 |
 | **[Dotdash Meredith](https://www.dotdashmeredith.com/)** | **[Editorial Intern, People](https://jobright.ai/jobs/info/6997ad2ace78e77b4fdc08f2?utm_campaign=1053&utm_source=git)** | California-Los Angeles 1041 N. Formosa Ave | On Site | Feb 19 |
 | **[Cox Enterprises](http://coxenterprises.com)** | **[AJC Reporting Intern - Summer 2026](https://jobright.ai/jobs/info/6997598cce78e77b4fdbb648?utm_campaign=1053&utm_source=git)** | Atlanta GA | Hybrid | Feb 19 |
