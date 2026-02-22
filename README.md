@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Skild AI](https://www.skild.ai/)** | **[Cinematography Intern (Product Videography & Social Media)](https://jobright.ai/jobs/info/68d48fabffc1276de3fdbe8a?utm_campaign=1053&utm_source=git)** | San Mateo, CA | On Site | Feb 22 |
+| **[Paramount](https://www.paramount.com)** | **[CBS Sports Production and Production Management Internships (Summer 2026, In Person - NYC)](https://jobright.ai/jobs/info/6945fb6b63141d18845598ea?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Feb 22 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Commercial Production Internship](https://jobright.ai/jobs/info/694e0eb429655e4dd657cbfb?utm_campaign=1053&utm_source=git)** | Dayton, OH | On Site | Feb 21 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Disney Programs Experience Intern, Fall 2026](https://jobright.ai/jobs/info/6995ce55ce78e77b4fd9d82c?utm_campaign=1053&utm_source=git)** | Winter Garden, FL | On Site | Feb 21 |
 | **[Soccer Shots Southwest Connecticut](https://www.soccershots.com/swct/)** | **[Soccer Shots Fall Internship Experience](https://jobright.ai/jobs/info/6999a402ce78e77b4fde87d7?utm_campaign=1053&utm_source=git)** | Shelton, CT | On Site | Feb 21 |
@@ -84,9 +86,8 @@ For a complete list, click the following sortable link below:
 | **[Omni Hotels & Resorts](http://www.omnihotels.com/)** | **[Omni Care Internship Culinary / Summer 2026](https://jobright.ai/jobs/info/6998f86a81476f6176b1663f?utm_campaign=1053&utm_source=git)** | Bretton Woods, NH | On Site | Feb 20 |
 | **[iHeartMedia](http://iheartmedia.com)** | **[Summer intern](https://jobright.ai/jobs/info/6998f5b081476f6176b1619f?utm_campaign=1053&utm_source=git)** | Los Angeles, CA (Burbank - Olive) | On Site | Feb 20 |
 | **[UFP Industries](https://www.ufpi.com/)** | **[Production Intern](https://jobright.ai/jobs/info/6998fdae81476f6176b16f79?utm_campaign=1053&utm_source=git)** | Bartow, FL | On Site | Feb 20 |
-| **[Glass Entertainment Group](https://www.glassentertainmentgroup.com/)** | **[Summer 2026 Internship](https://jobright.ai/jobs/info/6998ee1ece78e77b4fdd7f10?utm_campaign=1053&utm_source=git)** | United States | Remote | Feb 20 |
-| **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6998f83581476f6176b165c4?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | Feb 20 |
-| ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6998da17e0bddb6acac7c539?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Feb 20 |
+| **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6998da17e0bddb6acac7c539?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Feb 20 |
+| ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6998f83581476f6176b165c4?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | Feb 20 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6998fb34ce78e77b4fdd9505?utm_campaign=1053&utm_source=git)** | Oklahoma City, OK | On Site | Feb 20 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6998f2b4ce78e77b4fdd860e?utm_campaign=1053&utm_source=git)** | St Louis, MO | On Site | Feb 20 |
 | **[New Entry Sustainable Farming Project](http://www.nesfp.org)** | **[Farm Storytelling & Virtual Engagement Internship](https://jobright.ai/jobs/info/6998d1f7ce78e77b4fdd62a2?utm_campaign=1053&utm_source=git)** | Beverly, MA | Hybrid | Feb 20 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Babbel](http://www.babbel.com)** | **[Video Intern, Organic Content](https://jobright.ai/jobs/info/699682d181476f6176ae5b99?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Feb 18 |
 | **[CLD PR & Experiential Productions](https://cldstylehouse.com)** | **[White Fox Pre-Coachella Suite Event Intern](https://jobright.ai/jobs/info/6996a8e2e0bddb6acac53ffd?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Feb 18 |
 | **[WMUR-TV](http://www.wmur.com/)** | **[News Internship](https://jobright.ai/jobs/info/69968f17e0bddb6acac50fc2?utm_campaign=1053&utm_source=git)** | Manchester, NH | On Site | Feb 18 |
-| **[UL Research Institutes](https://ul.org)** | **[Multimedia Design, Video Production Summer 2026 Intern - Fire Safety Research Institute](https://jobright.ai/jobs/info/697188bf333b6343a14e23b8?utm_campaign=1053&utm_source=git)** | Columbia, MD | Hybrid | Feb 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
