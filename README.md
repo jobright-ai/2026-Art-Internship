@@ -66,8 +66,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Video Production Intern](https://jobright.ai/jobs/info/6999790de0bddb6acac8ba53?utm_campaign=1053&utm_source=git)** | Charlotte, NC | On Site | Feb 21 |
 | ↳ | **[Guest Experience Intern](https://jobright.ai/jobs/info/6999763281476f6176b234a3?utm_campaign=1053&utm_source=git)** | Charlotte, NC | On Site | Feb 21 |
 | **[The Ambony](http://www.manofthehourmag.com/)** | **[Pop Culture Journalist Intern](https://jobright.ai/jobs/info/69993cf681476f6176b1cbdf?utm_campaign=1053&utm_source=git)** | New York, NY | Remote | Feb 20 |
-| **[Marketeq Media Inc.](http://marketeqmedia.co)** | **[Video Editor / Media Production Internship](https://jobright.ai/jobs/info/69995e1fce78e77b4fde31e8?utm_campaign=1053&utm_source=git)** | Miami, FL | Remote | Feb 20 |
-| **[The Ambony](http://www.manofthehourmag.com/)** | **[Womenswear Style Journalist Intern](https://jobright.ai/jobs/info/699937cee0bddb6acac84993?utm_campaign=1053&utm_source=git)** | New York, NY | Remote | Feb 20 |
+| ↳ | **[Womenswear Style Journalist Intern](https://jobright.ai/jobs/info/699937cee0bddb6acac84993?utm_campaign=1053&utm_source=git)** | New York, NY | Remote | Feb 20 |
 | **[iHeartMedia](http://iheartmedia.com)** | **[Summer intern](https://jobright.ai/jobs/info/69993424e0bddb6acac843c9?utm_campaign=1053&utm_source=git)** | Burbank, CA | On Site | Feb 20 |
 | **[Publicis Health](http://publicishealth.com)** | **[Medical Editing Internship (New York) - Publicis Health](https://jobright.ai/jobs/info/69992def81476f6176b1b77c?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Feb 20 |
 | **[The Ambony](http://www.manofthehourmag.com/)** | **[Menswear Style Journalist Intern](https://jobright.ai/jobs/info/69992a75ce78e77b4fddde0a?utm_campaign=1053&utm_source=git)** | New York, NY | Remote | Feb 20 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Giant Spoon](http://giantspoon.com/)** | **[Content Production Intern (Summer)](https://jobright.ai/jobs/info/697a82b6f6fc293b0a2c55fb?utm_campaign=1053&utm_source=git)** | New York, United States | Hybrid | Feb 18 |
 | **[Babbel](http://www.babbel.com)** | **[Video Intern, Organic Content](https://jobright.ai/jobs/info/699682d181476f6176ae5b99?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Feb 18 |
 | **[CLD PR & Experiential Productions](https://cldstylehouse.com)** | **[White Fox Pre-Coachella Suite Event Intern](https://jobright.ai/jobs/info/6996a8e2e0bddb6acac53ffd?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Feb 18 |
+| **[WMUR-TV](http://www.wmur.com/)** | **[News Internship](https://jobright.ai/jobs/info/69968f17e0bddb6acac50fc2?utm_campaign=1053&utm_source=git)** | Manchester, NH | On Site | Feb 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
