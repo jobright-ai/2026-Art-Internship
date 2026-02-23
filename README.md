@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Tell Somebody](https://www.instagram.com/tellsomebodypresents/)** | **[Video Editing Internship - Tell Somebody](https://jobright.ai/jobs/info/699ccfccce78e77b4fe18bd0?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Feb 23 |
+| **[Patreon](http://www.patreon.com)** | **[Video Intern (Summer 2026)](https://jobright.ai/jobs/info/699ccc0781476f6176b55cbb?utm_campaign=1053&utm_source=git)** | San Francisco, CA | Hybrid | Feb 23 |
 | **[Andrews McMeel Universal](http://www.amuniversal.com/)** | **[GoComics Content Archive Intern](https://jobright.ai/jobs/info/699ca0d181476f6176b538e4?utm_campaign=1053&utm_source=git)** | Kansas City, MO 64106 | Hybrid | Feb 23 |
 | **[Westchester Magazine](https://westchestermagazine.com)** | **[Summer 2026 Editorial Internship (Print)](https://jobright.ai/jobs/info/699c82b2e0bddb6acacb8aef?utm_campaign=1053&utm_source=git)** | NYC Metro Area | Hybrid | Feb 23 |
 | **[Quilly](https://www.linkedin.com/company/99477222)** | **[Quilly Podcast Producer Intern (Unpaid)](https://jobright.ai/jobs/info/699ca012e0bddb6acacbb3ec?utm_campaign=1053&utm_source=git)** | United States | Remote | Feb 23 |
@@ -120,8 +122,8 @@ For a complete list, click the following sortable link below:
 | **[Omni Hotels & Resorts](http://www.omnihotels.com/)** | **[Omni Care Internship Culinary / Summer 2026](https://jobright.ai/jobs/info/6998f86a81476f6176b1663f?utm_campaign=1053&utm_source=git)** | Bretton Woods, NH | On Site | Feb 20 |
 | **[iHeartMedia](http://iheartmedia.com)** | **[Summer intern](https://jobright.ai/jobs/info/6998f5b081476f6176b1619f?utm_campaign=1053&utm_source=git)** | Los Angeles, CA (Burbank - Olive) | On Site | Feb 20 |
 | **[UFP Industries](https://www.ufpi.com/)** | **[Production Intern](https://jobright.ai/jobs/info/6998fdae81476f6176b16f79?utm_campaign=1053&utm_source=git)** | Bartow, FL | On Site | Feb 20 |
-| **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6998da17e0bddb6acac7c539?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Feb 20 |
-| ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6998f83581476f6176b165c4?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | Feb 20 |
+| **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6998f83581476f6176b165c4?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | Feb 20 |
+| ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6998da17e0bddb6acac7c539?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Feb 20 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6998fb34ce78e77b4fdd9505?utm_campaign=1053&utm_source=git)** | Oklahoma City, OK | On Site | Feb 20 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6998f2b4ce78e77b4fdd860e?utm_campaign=1053&utm_source=git)** | St Louis, MO | On Site | Feb 20 |
 | **[New Entry Sustainable Farming Project](http://www.nesfp.org)** | **[Farm Storytelling & Virtual Engagement Internship](https://jobright.ai/jobs/info/6998d1f7ce78e77b4fdd62a2?utm_campaign=1053&utm_source=git)** | Beverly, MA | Hybrid | Feb 20 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[EAA Radio](http://www.eaaradio.net/)** | **[Events Intern](https://jobright.ai/jobs/info/6997bbe881476f6176afe155?utm_campaign=1053&utm_source=git)** | Oshkosh, WI | On Site | Feb 19 |
 | **[Omni Hotels & Resorts](http://www.omnihotels.com/)** | **[Omni Cares Culinary Internship / Summer 2026](https://jobright.ai/jobs/info/69979a64ce78e77b4fdbecc2?utm_campaign=1053&utm_source=git)** | Asheville, NC | On Site | Feb 19 |
 | **[Art Institute of Chicago](http://www.artic.edu/)** | **[McMullan Arts Leadership Internship Program](https://jobright.ai/jobs/info/69672aca1703f05405a8d979?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Feb 19 |
-| **[MediaNews Group](https://www.medianewsgroup.com/)** | **[Intern](https://jobright.ai/jobs/info/69977530ce78e77b4fdbcce7?utm_campaign=1053&utm_source=git)** | San Diego, CA | On Site | Feb 19 |
-| **[MNRK Music Group](https://www.mnrk.com)** | **[Sync Intern- Runner Music (Los Angeles)](https://jobright.ai/jobs/info/699799e4ce78e77b4fdbebef?utm_campaign=1053&utm_source=git)** | CA, US | Hybrid | Feb 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
