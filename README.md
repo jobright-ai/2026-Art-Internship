@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Andrews McMeel Universal](http://www.amuniversal.com/)** | **[GoComics Content Archive Intern](https://jobright.ai/jobs/info/699ca0d181476f6176b538e4?utm_campaign=1053&utm_source=git)** | Kansas City, MO 64106 | Hybrid | Feb 23 |
 | **[Westchester Magazine](https://westchestermagazine.com)** | **[Summer 2026 Editorial Internship (Print)](https://jobright.ai/jobs/info/699c82b2e0bddb6acacb8aef?utm_campaign=1053&utm_source=git)** | NYC Metro Area | Hybrid | Feb 23 |
+| **[Quilly](https://www.linkedin.com/company/99477222)** | **[Quilly Podcast Producer Intern (Unpaid)](https://jobright.ai/jobs/info/699ca012e0bddb6acacbb3ec?utm_campaign=1053&utm_source=git)** | United States | Remote | Feb 23 |
 | **[Hearst Newspapers](https://eevd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_15)** | **[Social Video Intern](https://jobright.ai/jobs/info/699c7e4dce78e77b4fe1374b?utm_campaign=1053&utm_source=git)** | 301 Merritt 7, 1st Floor, Norwalk, CT, 06851, US | On Site | Feb 23 |
 | **[Kenneth Cole Productions](https://www.kennethcole.com/)** | **[Production/Creative Intern- Summer Internship](https://jobright.ai/jobs/info/699c780dce78e77b4fe13218?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Feb 23 |
 | **[Hearst Newspapers](https://eevd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_15)** | **[Reporter Intern](https://jobright.ai/jobs/info/699c76a6ce78e77b4fe13076?utm_campaign=1053&utm_source=git)** | 301 Merritt 7, 1st Floor, Norwalk, CT, 06851, US | On Site | Feb 23 |
@@ -68,6 +70,7 @@ For a complete list, click the following sortable link below:
 | **[UnitedMasters](https://unitedmasters.com/)** | **[Production Intern - The Come Up 2026](https://jobright.ai/jobs/info/699c637c81476f6176b4f283?utm_campaign=1053&utm_source=git)** | Brooklyn, NY | On Site | Feb 23 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Talk and Entertainment Show Intern 2](https://jobright.ai/jobs/info/68b9f5968043103d4f21c509?utm_campaign=1053&utm_source=git)** | Cleveland, OH | On Site | Feb 23 |
 | **[Soccer Shots Los Angeles](http://www.soccershots.org/losangeles)** | **[Soccer Shots Internship Spring Season 2025/2026](https://jobright.ai/jobs/info/699c581fce78e77b4fe10f73?utm_campaign=1053&utm_source=git)** | Carmel, IN | On Site | Feb 23 |
+| **[UnitedMasters](https://unitedmasters.com/)** | **[Production Intern - The 2026 Come Up Internship Program](https://jobright.ai/jobs/info/699ca11fe0bddb6acacbb4dc?utm_campaign=1053&utm_source=git)** | Brooklyn, NY | On Site | Feb 23 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Talk and Entertainment Show Intern 1](https://jobright.ai/jobs/info/69527c875bb7de448ef598bc?utm_campaign=1053&utm_source=git)** | Cleveland, OH | On Site | Feb 23 |
 | **[Soccer Shots Franchising](http://www.soccershotsfranchising.com)** | **[Soccer Shots Internship Spring Season 2025/2026](https://jobright.ai/jobs/info/699c3b2881476f6176b4b0dd?utm_campaign=1053&utm_source=git)** | Carmel, IN | On Site | Feb 23 |
 | **[GBH](http://www.wgbh.org/)** | **[GBH News - The Culture Show Internship - Summer 2026](https://jobright.ai/jobs/info/699c1e2681476f6176b48011?utm_campaign=1053&utm_source=git)** | Boston, MA | Hybrid | Feb 23 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Art Institute of Chicago](http://www.artic.edu/)** | **[McMullan Arts Leadership Internship Program](https://jobright.ai/jobs/info/69672aca1703f05405a8d979?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Feb 19 |
 | **[MediaNews Group](https://www.medianewsgroup.com/)** | **[Intern](https://jobright.ai/jobs/info/69977530ce78e77b4fdbcce7?utm_campaign=1053&utm_source=git)** | San Diego, CA | On Site | Feb 19 |
 | **[MNRK Music Group](https://www.mnrk.com)** | **[Sync Intern- Runner Music (Los Angeles)](https://jobright.ai/jobs/info/699799e4ce78e77b4fdbebef?utm_campaign=1053&utm_source=git)** | CA, US | Hybrid | Feb 19 |
-| **[People Inc.](https://www.people.inc/)** | **[Editorial Intern, People](https://jobright.ai/jobs/info/6997a7bbce78e77b4fdc0056?utm_campaign=1053&utm_source=git)** | LA Metro Area | On Site | Feb 19 |
-| **[Hiwin Corporation](http://www.hiwin.com/)** | **[Video Production Intern (High School-level)](https://jobright.ai/jobs/info/6997911e81476f6176afa802?utm_campaign=1053&utm_source=git)** | US Corporate Headquarters, Huntley, IL, US | On Site | Feb 19 |
-| **[Audacy, Inc.](https://audacyinc.com/)** | **[Programming Intern](https://jobright.ai/jobs/info/69976ad4e0bddb6acac623a9?utm_campaign=1053&utm_source=git)** | GA-Atlanta, UNAVAILABLE, USA | On Site | Feb 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
