@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[RG&T Solutions](https://www.linkedin.com/company/109157280)** | **[Intern - Consumer Experience](https://jobright.ai/jobs/info/699bfee781476f6176b46183?utm_campaign=1053&utm_source=git)** | Lake Spring, MO | On Site | Feb 22 |
 | **[GBH](http://www.wgbh.org/)** | **[GBH Archives Internship - Summer 2026 (AAPB Exhibit Curator)](https://jobright.ai/jobs/info/699be164e0bddb6acacacbec?utm_campaign=1053&utm_source=git)** | Boston | Remote | Feb 22 |
 | ↳ | **[Antiques Roadshow Internship - Summer 2026](https://jobright.ai/jobs/info/699be119e0bddb6acacacbd3?utm_campaign=1053&utm_source=git)** | United States | Remote | Feb 22 |
 | ↳ | **[NOVA Broadcast Research Internship - Summer 2026](https://jobright.ai/jobs/info/699bdf4b81476f6176b44132?utm_campaign=1053&utm_source=git)** | United States | Remote | Feb 22 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Steve Madden](http://www.stevemadden.com)** | **[Intern - Production, Accessories - NYC](https://jobright.ai/jobs/info/697a8eff9d60e431a16c1b5c?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Feb 19 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Good Morning America Production Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/6996fb9ace78e77b4fdb437d?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Feb 19 |
 | **[Steve Madden](http://www.stevemadden.com)** | **[Intern - Production, Handbags - NYC](https://jobright.ai/jobs/info/697a78a3f6fc293b0a2c4a50?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Feb 19 |
-| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[CREATIVE/PROMO/PRODUCTION INTERN](https://jobright.ai/jobs/info/6980469ace48107c0544777c?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Feb 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
