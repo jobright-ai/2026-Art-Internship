@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Talk and Entertainment Show Intern 2](https://jobright.ai/jobs/info/68b9f5968043103d4f21c509?utm_campaign=1053&utm_source=git)** | Cleveland, OH | On Site | Feb 23 |
+| **[Soccer Shots Los Angeles](http://www.soccershots.org/losangeles)** | **[Soccer Shots Internship Spring Season 2025/2026](https://jobright.ai/jobs/info/699c581fce78e77b4fe10f73?utm_campaign=1053&utm_source=git)** | Carmel, IN | On Site | Feb 23 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Talk and Entertainment Show Intern 1](https://jobright.ai/jobs/info/69527c875bb7de448ef598bc?utm_campaign=1053&utm_source=git)** | Cleveland, OH | On Site | Feb 23 |
 | **[Soccer Shots Franchising](http://www.soccershotsfranchising.com)** | **[Soccer Shots Internship Spring Season 2025/2026](https://jobright.ai/jobs/info/699c3b2881476f6176b4b0dd?utm_campaign=1053&utm_source=git)** | Carmel, IN | On Site | Feb 23 |
 | **[GBH](http://www.wgbh.org/)** | **[GBH News - The Culture Show Internship - Summer 2026](https://jobright.ai/jobs/info/699c1e2681476f6176b48011?utm_campaign=1053&utm_source=git)** | Boston, MA | Hybrid | Feb 23 |
@@ -69,6 +71,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Antiques Roadshow Internship - Summer 2026](https://jobright.ai/jobs/info/699c19f6ce78e77b4fe0a699?utm_campaign=1053&utm_source=git)** | United States | Remote | Feb 23 |
 | ↳ | **[GBH News Boston Public Radio Internship - Summer 2026](https://jobright.ai/jobs/info/699c19ebe0bddb6acacaf58c?utm_campaign=1053&utm_source=git)** | Boston, MA | Hybrid | Feb 23 |
 | **[Waterford.org](http://www.waterford.org)** | **[Summer Events Intern](https://jobright.ai/jobs/info/6969f8d4f25a38006698bcb1?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Feb 23 |
+| **[HINESIGHTS PODCAST](https://www.youtube.com/@HinesightsPodcast)** | **[Podcast Production & Media Intern](https://jobright.ai/jobs/info/699c4d9581476f6176b4cd01?utm_campaign=1053&utm_source=git)** | United States | Remote | Feb 22 |
 | **[RG&T Solutions](https://www.linkedin.com/company/109157280)** | **[Intern - Consumer Experience](https://jobright.ai/jobs/info/699bfee781476f6176b46183?utm_campaign=1053&utm_source=git)** | Lake Spring, MO | On Site | Feb 22 |
 | **[GBH](http://www.wgbh.org/)** | **[GBH Archives Internship - Summer 2026 (AAPB Exhibit Curator)](https://jobright.ai/jobs/info/699be164e0bddb6acacacbec?utm_campaign=1053&utm_source=git)** | Boston | Remote | Feb 22 |
 | ↳ | **[Antiques Roadshow Internship - Summer 2026](https://jobright.ai/jobs/info/699be119e0bddb6acacacbd3?utm_campaign=1053&utm_source=git)** | United States | Remote | Feb 22 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[NetSPI](https://www.netspi.com)** | **[Video Editing and Production Intern (Technical Enablement)](https://jobright.ai/jobs/info/69977650e0bddb6acac62e14?utm_campaign=1053&utm_source=git)** | Minneapolis, MN 55401, USA | On Site | Feb 19 |
 | **[Cox Enterprises](http://coxenterprises.com)** | **[AJC Photojournalism Intern - Summer 2026](https://jobright.ai/jobs/info/69977d48e0bddb6acac632ab?utm_campaign=1053&utm_source=git)** | Atlanta GA | Hybrid | Feb 19 |
 | **[Omni Fort Worth Hotel](https://www.omnihotels.com/)** | **[Omni Cares Culinary Internship / Summer 2026](https://jobright.ai/jobs/info/6997804d81476f6176af9ae6?utm_campaign=1053&utm_source=git)** | Asheville, NC, US | On Site | Feb 19 |
-| **[Audacy, Inc.](https://audacyinc.com/)** | **[Programming Intern](https://jobright.ai/jobs/info/6997721881476f6176af8ffa?utm_campaign=1053&utm_source=git)** | USA-GA-Atlanta | On Site | Feb 19 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Video Production Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69945bbc81476f6176ac1609?utm_campaign=1053&utm_source=git)** | Celebration, FL | On Site | Feb 19 |
-| ↳ | **[Event Services Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/699459fcce78e77b4fd84e52?utm_campaign=1053&utm_source=git)** | Lake Buena Vista, FL | On Site | Feb 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
