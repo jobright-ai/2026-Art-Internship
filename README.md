@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Talk and Entertainment Show Intern 1](https://jobright.ai/jobs/info/69527c875bb7de448ef598bc?utm_campaign=1053&utm_source=git)** | Cleveland, OH | On Site | Feb 23 |
 | **[Soccer Shots Franchising](http://www.soccershotsfranchising.com)** | **[Soccer Shots Internship Spring Season 2025/2026](https://jobright.ai/jobs/info/699c3b2881476f6176b4b0dd?utm_campaign=1053&utm_source=git)** | Carmel, IN | On Site | Feb 23 |
 | **[GBH](http://www.wgbh.org/)** | **[GBH News - The Culture Show Internship - Summer 2026](https://jobright.ai/jobs/info/699c1e2681476f6176b48011?utm_campaign=1053&utm_source=git)** | Boston, MA | Hybrid | Feb 23 |
 | ↳ | **[GBH News Rooted Internship - Summer 2026](https://jobright.ai/jobs/info/699c1ccece78e77b4fe0ab8e?utm_campaign=1053&utm_source=git)** | Boston, MA | Hybrid | Feb 23 |
@@ -106,12 +107,11 @@ For a complete list, click the following sortable link below:
 | **[Omni Hotels & Resorts](http://www.omnihotels.com/)** | **[Omni Care Internship Culinary / Summer 2026](https://jobright.ai/jobs/info/6998f86a81476f6176b1663f?utm_campaign=1053&utm_source=git)** | Bretton Woods, NH | On Site | Feb 20 |
 | **[iHeartMedia](http://iheartmedia.com)** | **[Summer intern](https://jobright.ai/jobs/info/6998f5b081476f6176b1619f?utm_campaign=1053&utm_source=git)** | Los Angeles, CA (Burbank - Olive) | On Site | Feb 20 |
 | **[UFP Industries](https://www.ufpi.com/)** | **[Production Intern](https://jobright.ai/jobs/info/6998fdae81476f6176b16f79?utm_campaign=1053&utm_source=git)** | Bartow, FL | On Site | Feb 20 |
-| **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6998da17e0bddb6acac7c539?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Feb 20 |
-| ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6998f83581476f6176b165c4?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | Feb 20 |
+| **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6998f83581476f6176b165c4?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | Feb 20 |
+| ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6998da17e0bddb6acac7c539?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Feb 20 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6998fb34ce78e77b4fdd9505?utm_campaign=1053&utm_source=git)** | Oklahoma City, OK | On Site | Feb 20 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6998f2b4ce78e77b4fdd860e?utm_campaign=1053&utm_source=git)** | St Louis, MO | On Site | Feb 20 |
 | **[New Entry Sustainable Farming Project](http://www.nesfp.org)** | **[Farm Storytelling & Virtual Engagement Internship](https://jobright.ai/jobs/info/6998d1f7ce78e77b4fdd62a2?utm_campaign=1053&utm_source=git)** | Beverly, MA | Hybrid | Feb 20 |
-| **[Hoo You Know](https://hooyouknow.com/)** | **[Hoo You Know Intern](https://jobright.ai/jobs/info/6999ac28e0bddb6acac8fcac?utm_campaign=1053&utm_source=git)** | Charlottesville, VA | On Site | Feb 20 |
 | **[City of San Carlos](http://www.cityofsancarlos.org)** | **[Summer Intern-Video Production](https://jobright.ai/jobs/info/6998cafa81476f6176b13553?utm_campaign=1053&utm_source=git)** | San Carlos, CA | On Site | Feb 20 |
 | **[Chautauqua Institution](https://www.chq.org)** | **[Internship (Literary Arts)/Seasonal Employment](https://jobright.ai/jobs/info/6998de3fe0bddb6acac7c8db?utm_campaign=1053&utm_source=git)** | Chautauqua, New York, United States | On Site | Feb 20 |
 | **[National Hockey League (NHL)](http://senators.nhl.com)** | **[Intern, NHL Productions](https://jobright.ai/jobs/info/6998c518e0bddb6acac7b3bb?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Feb 20 |
