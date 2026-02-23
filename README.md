@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Hearst Newspapers](https://eevd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_15)** | **[Social Video Intern](https://jobright.ai/jobs/info/699c7a1cce78e77b4fe13496?utm_campaign=1053&utm_source=git)** | 301 Merritt 7, 1st Floor, Norwalk, CT, 06851, US | On Site | Feb 23 |
+| **[Westchester Magazine](https://westchestermagazine.com)** | **[Summer 2026 Editorial Internship (Print)](https://jobright.ai/jobs/info/699c82b2e0bddb6acacb8aef?utm_campaign=1053&utm_source=git)** | NYC Metro Area | Hybrid | Feb 23 |
+| **[Hearst Newspapers](https://eevd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_15)** | **[Social Video Intern](https://jobright.ai/jobs/info/699c7e4dce78e77b4fe1374b?utm_campaign=1053&utm_source=git)** | 301 Merritt 7, 1st Floor, Norwalk, CT, 06851, US | On Site | Feb 23 |
 | **[Kenneth Cole Productions](https://www.kennethcole.com/)** | **[Production/Creative Intern- Summer Internship](https://jobright.ai/jobs/info/699c780dce78e77b4fe13218?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Feb 23 |
 | **[Hearst Newspapers](https://eevd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_15)** | **[Reporter Intern](https://jobright.ai/jobs/info/699c76a6ce78e77b4fe13076?utm_campaign=1053&utm_source=git)** | 301 Merritt 7, 1st Floor, Norwalk, CT, 06851, US | On Site | Feb 23 |
 | **[Hearst Connecticut Media Group](https://hearstmediact.com)** | **[Social Video Intern](https://jobright.ai/jobs/info/699c753881476f6176b5025c?utm_campaign=1053&utm_source=git)** | Norwalk, CT | On Site | Feb 23 |
@@ -71,7 +72,6 @@ For a complete list, click the following sortable link below:
 | **[Soccer Shots Franchising](http://www.soccershotsfranchising.com)** | **[Soccer Shots Internship Spring Season 2025/2026](https://jobright.ai/jobs/info/699c3b2881476f6176b4b0dd?utm_campaign=1053&utm_source=git)** | Carmel, IN | On Site | Feb 23 |
 | **[GBH](http://www.wgbh.org/)** | **[GBH News - The Culture Show Internship - Summer 2026](https://jobright.ai/jobs/info/699c1e2681476f6176b48011?utm_campaign=1053&utm_source=git)** | Boston, MA | Hybrid | Feb 23 |
 | ↳ | **[GBH News Rooted Internship - Summer 2026](https://jobright.ai/jobs/info/699c1ccece78e77b4fe0ab8e?utm_campaign=1053&utm_source=git)** | Boston, MA | Hybrid | Feb 23 |
-| ↳ | **[GBH News Digital Team Internship - Summer 2026](https://jobright.ai/jobs/info/699c1cc2e0bddb6acacafa19?utm_campaign=1053&utm_source=git)** | Boston, MA | Hybrid | Feb 23 |
 | ↳ | **[NEPM News Intern - Summer 2026](https://jobright.ai/jobs/info/699c1c97ce78e77b4fe0ab2a?utm_campaign=1053&utm_source=git)** | Springfield, MA | Hybrid | Feb 23 |
 | **[New England Public Media](https://www.nepm.org/)** | **[NEPM News Intern - Summer 2026](https://jobright.ai/jobs/info/699c1af3ce78e77b4fe0a891?utm_campaign=1053&utm_source=git)** | Springfield, MA | On Site | Feb 23 |
 | **[GBH](http://www.wgbh.org/)** | **[GBH Archives Internship - Summer 2026 (AAPB Exhibit Curator)](https://jobright.ai/jobs/info/699c1a28e0bddb6acacaf5a7?utm_campaign=1053&utm_source=git)** | Boston, MA | Remote | Feb 23 |
@@ -79,7 +79,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Antiques Roadshow Internship - Summer 2026](https://jobright.ai/jobs/info/699c19f6ce78e77b4fe0a699?utm_campaign=1053&utm_source=git)** | United States | Remote | Feb 23 |
 | ↳ | **[GBH News Boston Public Radio Internship - Summer 2026](https://jobright.ai/jobs/info/699c19ebe0bddb6acacaf58c?utm_campaign=1053&utm_source=git)** | Boston, MA | Hybrid | Feb 23 |
 | **[Waterford.org](http://www.waterford.org)** | **[Summer Events Intern](https://jobright.ai/jobs/info/6969f8d4f25a38006698bcb1?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Feb 23 |
-| **[HINESIGHTS PODCAST](https://www.youtube.com/@HinesightsPodcast)** | **[Podcast Production & Media Intern](https://jobright.ai/jobs/info/699c4d9581476f6176b4cd01?utm_campaign=1053&utm_source=git)** | United States | Remote | Feb 22 |
 | **[RG&T Solutions](https://www.linkedin.com/company/109157280)** | **[Intern - Consumer Experience](https://jobright.ai/jobs/info/699bfee781476f6176b46183?utm_campaign=1053&utm_source=git)** | Lake Spring, MO | On Site | Feb 22 |
 | **[GBH](http://www.wgbh.org/)** | **[GBH Archives Internship - Summer 2026 (AAPB Exhibit Curator)](https://jobright.ai/jobs/info/699be164e0bddb6acacacbec?utm_campaign=1053&utm_source=git)** | Boston | Remote | Feb 22 |
 | ↳ | **[Antiques Roadshow Internship - Summer 2026](https://jobright.ai/jobs/info/699be119e0bddb6acacacbd3?utm_campaign=1053&utm_source=git)** | United States | Remote | Feb 22 |
@@ -118,8 +117,8 @@ For a complete list, click the following sortable link below:
 | **[Omni Hotels & Resorts](http://www.omnihotels.com/)** | **[Omni Care Internship Culinary / Summer 2026](https://jobright.ai/jobs/info/6998f86a81476f6176b1663f?utm_campaign=1053&utm_source=git)** | Bretton Woods, NH | On Site | Feb 20 |
 | **[iHeartMedia](http://iheartmedia.com)** | **[Summer intern](https://jobright.ai/jobs/info/6998f5b081476f6176b1619f?utm_campaign=1053&utm_source=git)** | Los Angeles, CA (Burbank - Olive) | On Site | Feb 20 |
 | **[UFP Industries](https://www.ufpi.com/)** | **[Production Intern](https://jobright.ai/jobs/info/6998fdae81476f6176b16f79?utm_campaign=1053&utm_source=git)** | Bartow, FL | On Site | Feb 20 |
-| **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6998f83581476f6176b165c4?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | Feb 20 |
-| ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6998da17e0bddb6acac7c539?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Feb 20 |
+| **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6998da17e0bddb6acac7c539?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Feb 20 |
+| ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6998f83581476f6176b165c4?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | Feb 20 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6998fb34ce78e77b4fdd9505?utm_campaign=1053&utm_source=git)** | Oklahoma City, OK | On Site | Feb 20 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6998f2b4ce78e77b4fdd860e?utm_campaign=1053&utm_source=git)** | St Louis, MO | On Site | Feb 20 |
 | **[New Entry Sustainable Farming Project](http://www.nesfp.org)** | **[Farm Storytelling & Virtual Engagement Internship](https://jobright.ai/jobs/info/6998d1f7ce78e77b4fdd62a2?utm_campaign=1053&utm_source=git)** | Beverly, MA | Hybrid | Feb 20 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[MNRK Music Group](https://www.mnrk.com)** | **[Sync Intern- Runner Music (Los Angeles)](https://jobright.ai/jobs/info/699799e4ce78e77b4fdbebef?utm_campaign=1053&utm_source=git)** | CA, US | Hybrid | Feb 19 |
 | **[People Inc.](https://www.people.inc/)** | **[Editorial Intern, People](https://jobright.ai/jobs/info/6997a7bbce78e77b4fdc0056?utm_campaign=1053&utm_source=git)** | LA Metro Area | On Site | Feb 19 |
 | **[Hiwin Corporation](http://www.hiwin.com/)** | **[Video Production Intern (High School-level)](https://jobright.ai/jobs/info/6997911e81476f6176afa802?utm_campaign=1053&utm_source=git)** | US Corporate Headquarters, Huntley, IL, US | On Site | Feb 19 |
+| **[Audacy, Inc.](https://audacyinc.com/)** | **[Programming Intern](https://jobright.ai/jobs/info/69976ad4e0bddb6acac623a9?utm_campaign=1053&utm_source=git)** | GA-Atlanta, UNAVAILABLE, USA | On Site | Feb 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
