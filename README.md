@@ -82,11 +82,11 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Antiques Roadshow Internship - Summer 2026](https://jobright.ai/jobs/info/699c19f6ce78e77b4fe0a699?utm_campaign=1053&utm_source=git)** | United States | Remote | Feb 23 |
 | ↳ | **[GBH News Boston Public Radio Internship - Summer 2026](https://jobright.ai/jobs/info/699c19ebe0bddb6acacaf58c?utm_campaign=1053&utm_source=git)** | Boston, MA | Hybrid | Feb 23 |
 | **[Waterford.org](http://www.waterford.org)** | **[Summer Events Intern](https://jobright.ai/jobs/info/6969f8d4f25a38006698bcb1?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Feb 23 |
-| **[RG&T Solutions](https://www.linkedin.com/company/109157280)** | **[Intern - Consumer Experience](https://jobright.ai/jobs/info/699bfee781476f6176b46183?utm_campaign=1053&utm_source=git)** | Lake Spring, MO | On Site | Feb 22 |
 | **[GBH](http://www.wgbh.org/)** | **[GBH Archives Internship - Summer 2026 (AAPB Exhibit Curator)](https://jobright.ai/jobs/info/699be164e0bddb6acacacbec?utm_campaign=1053&utm_source=git)** | Boston | Remote | Feb 22 |
 | ↳ | **[Antiques Roadshow Internship - Summer 2026](https://jobright.ai/jobs/info/699be119e0bddb6acacacbd3?utm_campaign=1053&utm_source=git)** | United States | Remote | Feb 22 |
 | ↳ | **[NOVA Broadcast Research Internship - Summer 2026](https://jobright.ai/jobs/info/699bdf4b81476f6176b44132?utm_campaign=1053&utm_source=git)** | United States | Remote | Feb 22 |
 | **[Quilly](https://www.linkedin.com/company/99477222)** | **[Podcast Producer Internship (Unpaid)](https://jobright.ai/jobs/info/699bd03be0bddb6acacaa57f?utm_campaign=1053&utm_source=git)** | California, United States | Remote | Feb 22 |
+| **[Patreon](http://www.patreon.com)** | **[Video Intern](https://jobright.ai/jobs/info/699cb31ace78e77b4fe17342?utm_campaign=1053&utm_source=git)** | San Francisco | Hybrid | Feb 22 |
 | **[KUTV 2News / KMYU](http://kutv.com/)** | **[Intern - Studio Crew](https://jobright.ai/jobs/info/699b7b96e0bddb6acaca6730?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Feb 22 |
 | **[Meridian International Center](http://www.meridian.org)** | **[Global Communications & Journalism Intern](https://jobright.ai/jobs/info/699b670181476f6176b3cbab?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Feb 22 |
 | **[Skild AI](https://www.skild.ai/)** | **[Cinematography Intern (Product Videography & Social Media)](https://jobright.ai/jobs/info/68d48fabffc1276de3fdbe8a?utm_campaign=1053&utm_source=git)** | San Mateo, CA | On Site | Feb 22 |
