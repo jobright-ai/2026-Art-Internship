@@ -113,7 +113,6 @@ For a complete list, click the following sortable link below:
 | **[Advisors Excel](http://advisorsexcel.com)** | **[Copy Editor Intern](https://jobright.ai/jobs/info/690ac9914a1b456627b0b5c8?utm_campaign=1053&utm_source=git)** | Topeka Metropolitan Area | On Site | Feb 20 |
 | **[NYU Langone Health](https://nyulangone.org/)** | **[Student Intern](https://jobright.ai/jobs/info/69983bd5e0bddb6acac74f21?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Feb 20 |
 | **[VettaFi](https://vettafi.com/)** | **[Staff Writer Intern](https://jobright.ai/jobs/info/697c58c2727747250d570a48?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Feb 20 |
-| **[HealthCorps](https://www.HealthCorps.org)** | **[Videography Intern](https://jobright.ai/jobs/info/69982ff5ce78e77b4fdce317?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Feb 20 |
 | **[Redlands Chamber of Commerce](http://www.redlandschamber.org)** | **[Video Editing Intern](https://jobright.ai/jobs/info/69981ad3e0bddb6acac7211f?utm_campaign=1053&utm_source=git)** | Cherry Valley, IL | On Site | Feb 20 |
 | **[City of Racine](http://www.cityofracine.org)** | **[Main Gallery Young Artist](https://jobright.ai/jobs/info/699810e4e0bddb6acac71960?utm_campaign=1053&utm_source=git)** | Racine, WI | On Site | Feb 19 |
 | **[KET - Kentucky Educational Television](https://www.ket.org)** | **[Fall 2026 Public Affairs Television Production Internship](https://jobright.ai/jobs/info/699aa6ecce78e77b4fdf7071?utm_campaign=1053&utm_source=git)** | Louisville, KY | On Site | Feb 19 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Gagosian](http://www.gagosian.com)** | **[Internship Program - New York (Summer, 2026)](https://jobright.ai/jobs/info/6996b26581476f6176aeab56?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Feb 18 |
 | **[City of Irving](https://www.cityofirving.org/2623/Family-Advocacy-Center)** | **[Intern - Production (Part-Time)](https://jobright.ai/jobs/info/699aa777ce78e77b4fdf70a5?utm_campaign=1053&utm_source=git)** | Irving, TX | On Site | Feb 18 |
 | **[Gagosian](http://www.gagosian.com)** | **[Internship Program - Beverly Hills (Summer, 2026)](https://jobright.ai/jobs/info/6996a06f81476f6176ae8ad1?utm_campaign=1053&utm_source=git)** | Beverly Hills, CA | On Site | Feb 18 |
+| **[Social Cuts](https://www.socialcuts.com)** | **[Startup Operations Intern (In-Person, Downtown Austin, 15–20 hrs/week)](https://jobright.ai/jobs/info/6996be1ece78e77b4fdafa9c?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | Feb 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
