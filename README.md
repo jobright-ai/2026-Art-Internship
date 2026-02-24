@@ -57,13 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TelevisaUnivision](https://www.corporate.televisaunivision.com)** | **[Intern, Live Events](https://jobright.ai/jobs/info/699d0dc481476f6176b5ade3?utm_campaign=1053&utm_source=git)** | Miami, FL | On Site | Feb 23 |
+| ↳ | **[Intern, Realities & Specials](https://jobright.ai/jobs/info/699d13fee0bddb6acacc3186?utm_campaign=1053&utm_source=git)** | Miami, FL | On Site | Feb 23 |
+| ↳ | **[Intern, Network News](https://jobright.ai/jobs/info/699d1371e0bddb6acacc30c1?utm_campaign=1053&utm_source=git)** | Miami, FL | On Site | Feb 23 |
+| **[Gray Media](https://graymedia.com)** | **[GRAY MEDIA FUTURE FOCUS INTERN SPRING '26 - WGEM](https://jobright.ai/jobs/info/699d0c64ce78e77b4fe1da4b?utm_campaign=1053&utm_source=git)** | Quincy, Illinois, United States | On Site | Feb 23 |
 | **[Mount Auburn Cemetery](https://mountauburn.org)** | **[Preservation Craftsperson Intern](https://jobright.ai/jobs/info/699ce86de0bddb6acacbedc5?utm_campaign=1053&utm_source=git)** | Cambridge, MA | On Site | Feb 23 |
+| **[Warner Bros. Discovery](https://wbd.com)** | **[Discovery Family Channel – YouTube Kids Content Intern: Miami - Summer 2026](https://jobright.ai/jobs/info/699d0e12ce78e77b4fe1dc9d?utm_campaign=1053&utm_source=git)** | FL Miami 6505 Blue Lagoon Dri | Hybrid | Feb 23 |
 | **[Tell Somebody](https://www.instagram.com/tellsomebodypresents/)** | **[Video Editing Internship - Tell Somebody](https://jobright.ai/jobs/info/699ccfccce78e77b4fe18bd0?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Feb 23 |
 | **[Montgomery UP!](https://montgomeryup.com)** | **[Intern](https://jobright.ai/jobs/info/699cf952ce78e77b4fe1b805?utm_campaign=1053&utm_source=git)** | Montgomery, AL | On Site | Feb 23 |
-| **[Curated](http://powerhousevfx.com/)** | **[NExT Summer Intern - VFX Production](https://jobright.ai/jobs/info/699cff5c81476f6176b59390?utm_campaign=1053&utm_source=git)** | Vancouver, British Columbia, Canada | Remote | Feb 23 |
-| ↳ | **[NExT Summer Intern - VFX Art](https://jobright.ai/jobs/info/699cfb9081476f6176b58bc3?utm_campaign=1053&utm_source=git)** | Vancouver, British Columbia, Canada | Remote | Feb 23 |
-| ↳ | **[NExT Summer Intern - VFX Art](https://jobright.ai/jobs/info/699cf93dce78e77b4fe1b7e1?utm_campaign=1053&utm_source=git)** | Greater Toronto Area, Canada | Remote | Feb 23 |
+| **[Curated](http://powerhousevfx.com/)** | **[NExT Summer Intern - VFX Art](https://jobright.ai/jobs/info/699cfb9081476f6176b58bc3?utm_campaign=1053&utm_source=git)** | Vancouver, British Columbia, Canada | Remote | Feb 23 |
+| ↳ | **[NExT Summer Intern - VFX Production](https://jobright.ai/jobs/info/699cff5c81476f6176b59390?utm_campaign=1053&utm_source=git)** | Vancouver, British Columbia, Canada | Remote | Feb 23 |
 | ↳ | **[NExT Summer Intern - VFX Production](https://jobright.ai/jobs/info/699cfe9fce78e77b4fe1c2ee?utm_campaign=1053&utm_source=git)** | Greater Toronto Area, Canada | Remote | Feb 23 |
+| ↳ | **[NExT Summer Intern - VFX Art](https://jobright.ai/jobs/info/699cf93dce78e77b4fe1b7e1?utm_campaign=1053&utm_source=git)** | Greater Toronto Area, Canada | Remote | Feb 23 |
 | **[SDFX Studios](https://www.sdfxstudios.com)** | **[NExT Summer Intern - VFX Production](https://jobright.ai/jobs/info/699d022ee0bddb6acacc19e1?utm_campaign=1053&utm_source=git)** | Greater Toronto Area, Canada | Remote | Feb 23 |
 | **[Company 3](http://www.company3.com)** | **[NExT Summer Intern - Postproduction](https://jobright.ai/jobs/info/699cea6be0bddb6acacbf086?utm_campaign=1053&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Feb 23 |
 | ↳ | **[NExT Summer Intern - Postproduction](https://jobright.ai/jobs/info/699d03aace78e77b4fe1cd81?utm_campaign=1053&utm_source=git)** | Vancouver, British Columbia, Canada | Hybrid | Feb 23 |
@@ -140,8 +145,8 @@ For a complete list, click the following sortable link below:
 | **[Omni Hotels & Resorts](http://www.omnihotels.com/)** | **[Omni Care Internship Culinary / Summer 2026](https://jobright.ai/jobs/info/6998f86a81476f6176b1663f?utm_campaign=1053&utm_source=git)** | Bretton Woods, NH | On Site | Feb 20 |
 | **[iHeartMedia](http://iheartmedia.com)** | **[Summer intern](https://jobright.ai/jobs/info/6998f5b081476f6176b1619f?utm_campaign=1053&utm_source=git)** | Los Angeles, CA (Burbank - Olive) | On Site | Feb 20 |
 | **[UFP Industries](https://www.ufpi.com/)** | **[Production Intern](https://jobright.ai/jobs/info/6998fdae81476f6176b16f79?utm_campaign=1053&utm_source=git)** | Bartow, FL | On Site | Feb 20 |
-| **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6998f83581476f6176b165c4?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | Feb 20 |
-| ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6998da17e0bddb6acac7c539?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Feb 20 |
+| **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6998da17e0bddb6acac7c539?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Feb 20 |
+| ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6998f83581476f6176b165c4?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | Feb 20 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6998fb34ce78e77b4fdd9505?utm_campaign=1053&utm_source=git)** | Oklahoma City, OK | On Site | Feb 20 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6998f2b4ce78e77b4fdd860e?utm_campaign=1053&utm_source=git)** | St Louis, MO | On Site | Feb 20 |
 | **[New Entry Sustainable Farming Project](http://www.nesfp.org)** | **[Farm Storytelling & Virtual Engagement Internship](https://jobright.ai/jobs/info/6998d1f7ce78e77b4fdd62a2?utm_campaign=1053&utm_source=git)** | Beverly, MA | Hybrid | Feb 20 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[United Wholesale Mortgage](http://uwm.com)** | **[2026 Videography Summer Internship Program](https://jobright.ai/jobs/info/697c0cfd0b88cc7d6422fa35?utm_campaign=1053&utm_source=git)** | Pontiac, MI | On Site | Feb 20 |
 | **[WAVY-TV 10](http://wavy.com)** | **[WAVY Unpaid Hampton Roads Show/Production Intern, Summer Semester 2026](https://jobright.ai/jobs/info/6943685e94730b7398768007?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Feb 20 |
 | ↳ | **[WAVY Unpaid Sports Intern, Summer Semester 2026](https://jobright.ai/jobs/info/6944baa750bbaf765056d1fa?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Feb 20 |
-| ↳ | **[WAVY Unpaid Digital News Desk Intern, Summer 2026](https://jobright.ai/jobs/info/6943624650bbaf765055485d?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Feb 20 |
-| **[David Yurman](http://www.davidyurman.com)** | **[Video Editor Intern, E-Comm](https://jobright.ai/jobs/info/6943736f50bbaf7650556478?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Feb 20 |
-| **[KMBC 9](https://www.kmbc.com/#)** | **[KMBC Studio Productions Intern](https://jobright.ai/jobs/info/6944d0b594730b7398780ef3?utm_campaign=1053&utm_source=git)** | Kansas City, MO | On Site | Feb 20 |
-| **[AAAS](http://www.aaas.org/)** | **[Digital Storytelling Intern](https://jobright.ai/jobs/info/698b6307c5761b521a9adb04?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Feb 20 |
-| **[University of Missouri-Kansas City](http://www.umkc.edu/)** | **[KCUR Studios Intern, KCUR - Summer Internship Program, 72562](https://jobright.ai/jobs/info/697c090b0b88cc7d6422f64b?utm_campaign=1053&utm_source=git)** | Kansas City, MO | On Site | Feb 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
