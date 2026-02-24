@@ -57,9 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[VAZA](https://vazainc.com/)** | **[Video Editing & Content Intern](https://jobright.ai/jobs/info/699d64cfe0bddb6acaccb6a5?utm_campaign=1053&utm_source=git)** | Greater Toronto Area, Canada | Hybrid | Feb 24 |
+| **[OneWay Ministries](https://www.owm.org)** | **[Video Editor Intern](https://jobright.ai/jobs/info/699d62fece78e77b4fe2685d?utm_campaign=1053&utm_source=git)** | Aurora, IL | On Site | Feb 24 |
 | **[Moody Gardens®](https://www.moodygardens.org)** | **[Seasonal Events Summer Internship](https://jobright.ai/jobs/info/699d400a81476f6176b60b3c?utm_campaign=1053&utm_source=git)** | Galveston, TX 77554 | On Site | Feb 23 |
 | **[A24](http://a24films.com/)** | **[Production Intern - Summer 2026 (NY)](https://jobright.ai/jobs/info/699d3b1881476f6176b5fe52?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Feb 23 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[2026 Character TD Summer Internship - Character Simulation](https://jobright.ai/jobs/info/699d381ace78e77b4fe22559?utm_campaign=1053&utm_source=git)** | Burbank, CA, USA | On Site | Feb 23 |
+| **[A24](http://a24films.com/)** | **[ADP Intern - Summer 2026 (NY)](https://jobright.ai/jobs/info/699d5d86ce78e77b4fe26357?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Feb 23 |
+| ↳ | **[Post Production & Delivery Intern - Summer 2026 (LA)](https://jobright.ai/jobs/info/699d5e3b81476f6176b633ae?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Feb 23 |
 | **[TelevisaUnivision](https://www.corporate.televisaunivision.com)** | **[Intern, Live Events](https://jobright.ai/jobs/info/699d0dc481476f6176b5ade3?utm_campaign=1053&utm_source=git)** | Miami, FL | On Site | Feb 23 |
 | **[Warner Bros. Discovery](https://wbd.com)** | **[Discovery Family Channel – YouTube Kids Content Intern: Miami - Summer 2026](https://jobright.ai/jobs/info/699d2645ce78e77b4fe201c4?utm_campaign=1053&utm_source=git)** | Miami, FL | Hybrid | Feb 23 |
 | **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Summer 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/699d1ebfe0bddb6acacc3fbf?utm_campaign=1053&utm_source=git)** | Knoxville, TN | On Site | Feb 23 |
@@ -73,8 +77,8 @@ For a complete list, click the following sortable link below:
 | **[Children's Hospital of Philadelphia](http://chop.edu)** | **[Patient Media and Broadcasting Intern](https://jobright.ai/jobs/info/699d3532e0bddb6acacc697c?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Feb 23 |
 | **[Tell Somebody](https://www.instagram.com/tellsomebodypresents/)** | **[Video Editing Internship - Tell Somebody](https://jobright.ai/jobs/info/699ccfccce78e77b4fe18bd0?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Feb 23 |
 | **[Montgomery UP!](https://montgomeryup.com)** | **[Intern](https://jobright.ai/jobs/info/699cf952ce78e77b4fe1b805?utm_campaign=1053&utm_source=git)** | Montgomery, AL | On Site | Feb 23 |
-| **[Curated](http://powerhousevfx.com/)** | **[NExT Summer Intern - VFX Production](https://jobright.ai/jobs/info/699cff5c81476f6176b59390?utm_campaign=1053&utm_source=git)** | Vancouver, British Columbia, Canada | Remote | Feb 23 |
-| ↳ | **[NExT Summer Intern - VFX Art](https://jobright.ai/jobs/info/699cfb9081476f6176b58bc3?utm_campaign=1053&utm_source=git)** | Vancouver, British Columbia, Canada | Remote | Feb 23 |
+| **[Curated](http://powerhousevfx.com/)** | **[NExT Summer Intern - VFX Art](https://jobright.ai/jobs/info/699cfb9081476f6176b58bc3?utm_campaign=1053&utm_source=git)** | Vancouver, British Columbia, Canada | Remote | Feb 23 |
+| ↳ | **[NExT Summer Intern - VFX Production](https://jobright.ai/jobs/info/699cff5c81476f6176b59390?utm_campaign=1053&utm_source=git)** | Vancouver, British Columbia, Canada | Remote | Feb 23 |
 | ↳ | **[NExT Summer Intern - VFX Art](https://jobright.ai/jobs/info/699cf93dce78e77b4fe1b7e1?utm_campaign=1053&utm_source=git)** | Greater Toronto Area, Canada | Remote | Feb 23 |
 | ↳ | **[NExT Summer Intern - VFX Production](https://jobright.ai/jobs/info/699cfe9fce78e77b4fe1c2ee?utm_campaign=1053&utm_source=git)** | Greater Toronto Area, Canada | Remote | Feb 23 |
 | **[SDFX Studios](https://www.sdfxstudios.com)** | **[NExT Summer Intern - VFX Production](https://jobright.ai/jobs/info/699d022ee0bddb6acacc19e1?utm_campaign=1053&utm_source=git)** | Greater Toronto Area, Canada | Remote | Feb 23 |
@@ -127,7 +131,6 @@ For a complete list, click the following sortable link below:
 | **[Paramount](https://www.paramount.com)** | **[CBS Sports Production and Production Management Internships (Summer 2026, In Person - NYC)](https://jobright.ai/jobs/info/6945fb6b63141d18845598ea?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Feb 22 |
 | **[Sinclair Inc.](http://sbgi.net/)** | **[KATV Spring 2026 Intern](https://jobright.ai/jobs/info/690b9aff221b890c277f61e1?utm_campaign=1053&utm_source=git)** | Little Rock, AR | On Site | Feb 22 |
 | **[Bloomsbury USA](http://www.bloomsbury.com/us)** | **[Intern, Adult Editorial](https://jobright.ai/jobs/info/699d4172e0bddb6acacc8df3?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Feb 21 |
-| **[National Association of Latino Healthcare Executives](https://www.nalhe.org)** | **[Women on the Go Master&amp;#8217;s Intern](https://jobright.ai/jobs/info/699d2aab81476f6176b5d9b7?utm_campaign=1053&utm_source=git)** | Pasadena, CA | Hybrid | Feb 21 |
 | **[Charles River Laboratories](http://www.criver.com)** | **[2026 Summer Intern - Archive](https://jobright.ai/jobs/info/6997209c81476f6176af3ae8?utm_campaign=1053&utm_source=git)** | Ashland, OH | On Site | Feb 21 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Commercial Production Internship](https://jobright.ai/jobs/info/694e0eb429655e4dd657cbfb?utm_campaign=1053&utm_source=git)** | Dayton, OH | On Site | Feb 21 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Disney Programs Experience Intern, Fall 2026](https://jobright.ai/jobs/info/6995ce55ce78e77b4fd9d82c?utm_campaign=1053&utm_source=git)** | Winter Garden, FL | On Site | Feb 21 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Universities of Wisconsin](https://www.wisconsin.edu/)** | **[Cornerstone Press Intern](https://jobright.ai/jobs/info/69990b62e0bddb6acac8031b?utm_campaign=1053&utm_source=git)** | Stevens Point, WI | On Site | Feb 20 |
 | **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6998d2c8e0bddb6acac7be2d?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Feb 20 |
 | **[Omni Hotels & Resorts](http://www.omnihotels.com/)** | **[Omni Care Internship Culinary / Summer 2026](https://jobright.ai/jobs/info/6998f86a81476f6176b1663f?utm_campaign=1053&utm_source=git)** | Bretton Woods, NH | On Site | Feb 20 |
-| **[iHeartMedia](http://iheartmedia.com)** | **[Summer intern](https://jobright.ai/jobs/info/6998f5b081476f6176b1619f?utm_campaign=1053&utm_source=git)** | Los Angeles, CA (Burbank - Olive) | On Site | Feb 20 |
-| **[UFP Industries](https://www.ufpi.com/)** | **[Production Intern](https://jobright.ai/jobs/info/6998fdae81476f6176b16f79?utm_campaign=1053&utm_source=git)** | Bartow, FL | On Site | Feb 20 |
-| **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6998f83581476f6176b165c4?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | Feb 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
