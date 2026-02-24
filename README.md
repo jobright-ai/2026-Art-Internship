@@ -57,6 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TKO](https://tkogrp.com)** | **[Intern - Spanish Production Intern, UFC](https://jobright.ai/jobs/info/698158127f40342e15da5aa2?utm_campaign=1053&utm_source=git)** | Las Vegas, NV | On Site | Feb 24 |
+| ↳ | **[Intern - Original Content & Documentaries, WWE](https://jobright.ai/jobs/info/698159a649964d25b5e44db2?utm_campaign=1053&utm_source=git)** | Stamford, CT | On Site | Feb 24 |
+| ↳ | **[Intern – Live Production Intern, UFC](https://jobright.ai/jobs/info/698156b349964d25b5e44a21?utm_campaign=1053&utm_source=git)** | Las Vegas, NV | On Site | Feb 24 |
+| ↳ | **[Intern - Originals Production Intern, UFC](https://jobright.ai/jobs/info/6981543f49964d25b5e4476e?utm_campaign=1053&utm_source=git)** | Las Vegas, NV | On Site | Feb 24 |
+| ↳ | **[Intern - FIght Pass Intern, UFC](https://jobright.ai/jobs/info/698150bfabff4c399aa04981?utm_campaign=1053&utm_source=git)** | Las Vegas, NV | On Site | Feb 24 |
+| **[Ultimate Fighting Championship](http://UFC.com)** | **[Intern - Spanish Production Intern, UFC](https://jobright.ai/jobs/info/6981853f7f40342e15da8eb1?utm_campaign=1053&utm_source=git)** | Las Vegas, NV | On Site | Feb 24 |
+| **[WWE](http://wwe.com)** | **[Intern - Live Production, WWE](https://jobright.ai/jobs/info/6981719c7f40342e15da7d1f?utm_campaign=1053&utm_source=git)** | Stamford, CT | On Site | Feb 24 |
+| **[Ultimate Fighting Championship](http://UFC.com)** | **[Intern - FIght Pass Intern, UFC](https://jobright.ai/jobs/info/698179d07f40342e15da842d?utm_campaign=1053&utm_source=git)** | Las Vegas, NV | On Site | Feb 24 |
+| ↳ | **[Intern – Live Production Intern, UFC](https://jobright.ai/jobs/info/6981759f7f40342e15da8043?utm_campaign=1053&utm_source=git)** | Las Vegas, NV | On Site | Feb 24 |
+| ↳ | **[Intern - Originals Production Intern, UFC](https://jobright.ai/jobs/info/6981735aabff4c399aa07087?utm_campaign=1053&utm_source=git)** | Las Vegas, NV | On Site | Feb 24 |
+| **[Marketing Choices](https://marketingchoices.com)** | **[Multimedia Production Internship](https://jobright.ai/jobs/info/699d6e3f81476f6176b64109?utm_campaign=1053&utm_source=git)** | Colorado, United States | Remote | Feb 24 |
+| **[TKO](https://tkogrp.com)** | **[Intern - Live Production, WWE](https://jobright.ai/jobs/info/698156647f40342e15da58c7?utm_campaign=1053&utm_source=git)** | Stamford, CT | On Site | Feb 24 |
 | **[VAZA](https://vazainc.com/)** | **[Video Editing & Content Intern](https://jobright.ai/jobs/info/699d64cfe0bddb6acaccb6a5?utm_campaign=1053&utm_source=git)** | Greater Toronto Area, Canada | Hybrid | Feb 24 |
 | **[OneWay Ministries](https://www.owm.org)** | **[Video Editor Intern](https://jobright.ai/jobs/info/699d62fece78e77b4fe2685d?utm_campaign=1053&utm_source=git)** | Aurora, IL | On Site | Feb 24 |
 | **[Moody Gardens®](https://www.moodygardens.org)** | **[Seasonal Events Summer Internship](https://jobright.ai/jobs/info/699d400a81476f6176b60b3c?utm_campaign=1053&utm_source=git)** | Galveston, TX 77554 | On Site | Feb 23 |
@@ -79,8 +91,8 @@ For a complete list, click the following sortable link below:
 | **[Montgomery UP!](https://montgomeryup.com)** | **[Intern](https://jobright.ai/jobs/info/699cf952ce78e77b4fe1b805?utm_campaign=1053&utm_source=git)** | Montgomery, AL | On Site | Feb 23 |
 | **[Curated](http://powerhousevfx.com/)** | **[NExT Summer Intern - VFX Art](https://jobright.ai/jobs/info/699cfb9081476f6176b58bc3?utm_campaign=1053&utm_source=git)** | Vancouver, British Columbia, Canada | Remote | Feb 23 |
 | ↳ | **[NExT Summer Intern - VFX Production](https://jobright.ai/jobs/info/699cff5c81476f6176b59390?utm_campaign=1053&utm_source=git)** | Vancouver, British Columbia, Canada | Remote | Feb 23 |
-| ↳ | **[NExT Summer Intern - VFX Art](https://jobright.ai/jobs/info/699cf93dce78e77b4fe1b7e1?utm_campaign=1053&utm_source=git)** | Greater Toronto Area, Canada | Remote | Feb 23 |
 | ↳ | **[NExT Summer Intern - VFX Production](https://jobright.ai/jobs/info/699cfe9fce78e77b4fe1c2ee?utm_campaign=1053&utm_source=git)** | Greater Toronto Area, Canada | Remote | Feb 23 |
+| ↳ | **[NExT Summer Intern - VFX Art](https://jobright.ai/jobs/info/699cf93dce78e77b4fe1b7e1?utm_campaign=1053&utm_source=git)** | Greater Toronto Area, Canada | Remote | Feb 23 |
 | **[SDFX Studios](https://www.sdfxstudios.com)** | **[NExT Summer Intern - VFX Production](https://jobright.ai/jobs/info/699d022ee0bddb6acacc19e1?utm_campaign=1053&utm_source=git)** | Greater Toronto Area, Canada | Remote | Feb 23 |
 | **[Company 3](http://www.company3.com)** | **[NExT Summer Intern - Postproduction](https://jobright.ai/jobs/info/699cea6be0bddb6acacbf086?utm_campaign=1053&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Feb 23 |
 | ↳ | **[NExT Summer Intern - Postproduction](https://jobright.ai/jobs/info/699d03aace78e77b4fe1cd81?utm_campaign=1053&utm_source=git)** | Vancouver, British Columbia, Canada | Hybrid | Feb 23 |
@@ -145,16 +157,4 @@ For a complete list, click the following sortable link below:
 | **[iHeartMedia](http://iheartmedia.com)** | **[Summer intern](https://jobright.ai/jobs/info/69993424e0bddb6acac843c9?utm_campaign=1053&utm_source=git)** | Burbank, CA | On Site | Feb 20 |
 | **[Publicis Health](http://publicishealth.com)** | **[Medical Editing Internship (New York) - Publicis Health](https://jobright.ai/jobs/info/69992def81476f6176b1b77c?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Feb 20 |
 | **[The Ambony](http://www.manofthehourmag.com/)** | **[Menswear Style Journalist Intern](https://jobright.ai/jobs/info/69992a75ce78e77b4fddde0a?utm_campaign=1053&utm_source=git)** | New York, NY | Remote | Feb 20 |
-| **[The Legal Aid Society](https://legalaidnyc.org/)** | **[Investigative Intern, Summer 2026](https://jobright.ai/jobs/info/699944e3ce78e77b4fde0659?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Feb 20 |
-| **[The Ambony](http://www.manofthehourmag.com/)** | **[Culture Journalist Intern](https://jobright.ai/jobs/info/699944bbce78e77b4fde0628?utm_campaign=1053&utm_source=git)** | New York, NY | Remote | Feb 20 |
-| **[Chautauqua Institution](https://www.chq.org)** | **[Internship (Literary Arts)/Seasonal Employment](https://jobright.ai/jobs/info/69992dbb81476f6176b1b747?utm_campaign=1053&utm_source=git)** | Chautauqua, NY | On Site | Feb 20 |
-| **[WBEZ Chicago](https://www.wbez.org/)** | **[Talk Shows Intern](https://jobright.ai/jobs/info/69993f7ee0bddb6acac85856?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Feb 20 |
-| **[Bloomsbury USA](http://www.bloomsbury.com/us)** | **[Intern, Adult Editorial](https://jobright.ai/jobs/info/69993aebe0bddb6acac84f06?utm_campaign=1053&utm_source=git)** | New York,NY,US | Hybrid | Feb 20 |
-| **[Gray Media](https://graymedia.com)** | **[GRAY MEDIA FUTURE FOCUS INTERN SUMMER '26 - WFIE](https://jobright.ai/jobs/info/69991e34e0bddb6acac81e5e?utm_campaign=1053&utm_source=git)** | Evansville, Indiana, United States | On Site | Feb 20 |
-| **[Ferris State University College of Business](http://ferris.edu/business)** | **[News Editor (Student Position)](https://jobright.ai/jobs/info/69991c09e0bddb6acac81a39?utm_campaign=1053&utm_source=git)** | Big Rapids, MI | On Site | Feb 20 |
-| ↳ | **[Staff Reporter (Student Position)](https://jobright.ai/jobs/info/69991d41e0bddb6acac81cab?utm_campaign=1053&utm_source=git)** | Big Rapids, MI | On Site | Feb 20 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[FX Original Programming Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/6998fd1e81476f6176b16e95?utm_campaign=1053&utm_source=git)** | Burbank, CA, USA | Hybrid | Feb 20 |
-| **[Universities of Wisconsin](https://www.wisconsin.edu/)** | **[Cornerstone Press Intern](https://jobright.ai/jobs/info/69990b62e0bddb6acac8031b?utm_campaign=1053&utm_source=git)** | Stevens Point, WI | On Site | Feb 20 |
-| **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6998d2c8e0bddb6acac7be2d?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Feb 20 |
-| **[Omni Hotels & Resorts](http://www.omnihotels.com/)** | **[Omni Care Internship Culinary / Summer 2026](https://jobright.ai/jobs/info/6998f86a81476f6176b1663f?utm_campaign=1053&utm_source=git)** | Bretton Woods, NH | On Site | Feb 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
