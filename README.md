@@ -71,7 +71,6 @@ For a complete list, click the following sortable link below:
 | **[Jackpot Junction Casino Hotel](http://www.jackpotjunction.com)** | **[Golf Course Internship](https://jobright.ai/jobs/info/699eae47ce78e77b4fe43f02?utm_campaign=1053&utm_source=git)** | Jackpot Junction - Morton, MN 56270 | On Site | Feb 24 |
 | **[NPR](http://www.npr.org)** | **[Temporary Producer I, Programming & Promotion](https://jobright.ai/jobs/info/699e868de0bddb6acace3559?utm_campaign=1053&utm_source=git)** | United States | Remote | Feb 24 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[ABC News Studios Production Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/699eae00ce78e77b4fe43e12?utm_campaign=1053&utm_source=git)** | New York, NY, USA | Hybrid | Feb 24 |
-| **[Hustle Magazine](www.thehustlemagazine.com)** | **[Video Editor Intern](https://jobright.ai/jobs/info/699e954f81476f6176b7d957?utm_campaign=1053&utm_source=git)** | New York, NY | Remote | Feb 24 |
 | **[MOCEAN](http://moceanla.com)** | **[2026 SUMMER INTERNSHIP (Paid)](https://jobright.ai/jobs/info/6977d75088e2b47213bbd038?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | Feb 24 |
 | **[New Beginnings Global](https://nbcn.live)** | **[Travel Content Operation(Glendale-Onsite)](https://jobright.ai/jobs/info/699e7c63e0bddb6acace223a?utm_campaign=1053&utm_source=git)** | Glendale, CA | On Site | Feb 24 |
 | **[Texas Department of Transportation](https://www.txdot.gov)** | **[Content Management Internship](https://jobright.ai/jobs/info/699e525ae0bddb6acacdc4ca?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | Feb 24 |
@@ -139,8 +138,7 @@ For a complete list, click the following sortable link below:
 | **[Company 3](http://www.company3.com)** | **[NExT Summer Intern - Postproduction](https://jobright.ai/jobs/info/699cea6be0bddb6acacbf086?utm_campaign=1053&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Feb 23 |
 | ↳ | **[NExT Summer Intern - Postproduction](https://jobright.ai/jobs/info/699d03aace78e77b4fe1cd81?utm_campaign=1053&utm_source=git)** | Vancouver, British Columbia, Canada | Hybrid | Feb 23 |
 | ↳ | **[NExT Summer Intern - Postproduction](https://jobright.ai/jobs/info/699ce3abe0bddb6acacbe9bb?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Feb 23 |
-| **[Hangin.TV](https://hangin.tv/)** | **[Creative Video Producer (Internship)](https://jobright.ai/jobs/info/699cdedcce78e77b4fe19637?utm_campaign=1053&utm_source=git)** | NYC Metro Area | Hybrid | Feb 23 |
-| **[Company 3](http://www.company3.com)** | **[NExT Summer Intern - Postproduction](https://jobright.ai/jobs/info/699cdb22ce78e77b4fe193f0?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Feb 23 |
+| ↳ | **[NExT Summer Intern - Postproduction](https://jobright.ai/jobs/info/699cdb22ce78e77b4fe193f0?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Feb 23 |
 | **[Wizards of the Coast](http://company.wizards.com/)** | **[D&D Community Video Intern](https://jobright.ai/jobs/info/699ce72e81476f6176b56fee?utm_campaign=1053&utm_source=git)** | United States | Remote | Feb 23 |
 | **[Curated](http://powerhousevfx.com/)** | **[NExT Summer Intern - VFX Artist](https://jobright.ai/jobs/info/699ce643ce78e77b4fe19d03?utm_campaign=1053&utm_source=git)** | New York, NY | Remote | Feb 23 |
 | **[GBH](http://www.wgbh.org/)** | **[NEPM Sports Reporter Internship - Summer 2026](https://jobright.ai/jobs/info/699d03fcce78e77b4fe1ce26?utm_campaign=1053&utm_source=git)** | Springfield, MA | Hybrid | Feb 23 |
@@ -157,4 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Austin American-Statesman](https://www.statesman.com)** | **[Social Video Intern](https://jobright.ai/jobs/info/699c74f6ce78e77b4fe12f5a?utm_campaign=1053&utm_source=git)** | 301 Merritt 7, 1st Floor, Norwalk, CT, 06851, US | On Site | Feb 23 |
 | **[Northstar Travel Group](http://www.NorthstarTravelGroup.com)** | **[Editorial & Research Intern](https://jobright.ai/jobs/info/697412db37785856350df70a?utm_campaign=1053&utm_source=git)** | United States | Remote | Feb 23 |
 | **[Hearst Connecticut Media Group](https://hearstmediact.com)** | **[Social Video Intern](https://jobright.ai/jobs/info/699c6a84e0bddb6acacb75b7?utm_campaign=1053&utm_source=git)** | Meriden, CT | On Site | Feb 23 |
+| **[UnitedMasters](https://unitedmasters.com/)** | **[Production Intern - The Come Up 2026](https://jobright.ai/jobs/info/699c637c81476f6176b4f283?utm_campaign=1053&utm_source=git)** | Brooklyn, NY | On Site | Feb 23 |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Talk and Entertainment Show Intern 2](https://jobright.ai/jobs/info/68b9f5968043103d4f21c509?utm_campaign=1053&utm_source=git)** | Cleveland, OH | On Site | Feb 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
