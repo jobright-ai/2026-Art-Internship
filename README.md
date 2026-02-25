@@ -57,9 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[VX Media](https://www.vxmedia.co)** | **[Producer Intern](https://jobright.ai/jobs/info/699e47bace78e77b4fe36629?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Feb 24 |
+| **[Legends Global](http://legends.net)** | **[Video/Content Production Intern](https://jobright.ai/jobs/info/699e3b4fe0bddb6acacd9725?utm_campaign=1053&utm_source=git)** | Miami, FL | On Site | Feb 24 |
+| **[SexSymbol Magazine](sexsymbolmagazine.com)** | **[Editing Intern Video (Unpaid, Remote – Internship)](https://jobright.ai/jobs/info/699e32f781476f6176b713d3?utm_campaign=1053&utm_source=git)** | United States | Remote | Feb 24 |
 | **[Jomboy Media](https://jomboymedia.com)** | **[Production Internship - Summer 2026](https://jobright.ai/jobs/info/699e271581476f6176b707ff?utm_campaign=1053&utm_source=git)** | Jersey City, NJ | On Site | Feb 24 |
 | ↳ | **[Research and Stats Intern- Summer 2026](https://jobright.ai/jobs/info/699e268981476f6176b707a8?utm_campaign=1053&utm_source=git)** | New York, New York, United States | On Site | Feb 24 |
 | **[TelevisaUnivision](https://www.corporate.televisaunivision.com)** | **[Intern, Programming Strategy](https://jobright.ai/jobs/info/699e0ce781476f6176b6f7ac?utm_campaign=1053&utm_source=git)** | Miami, FL | On Site | Feb 24 |
+| **[AEG](http://www.aegworldwide.com)** | **[Summer Intern, Broadcast - Dignity Health Sports Park](https://jobright.ai/jobs/info/699e3a1fce78e77b4fe34e3c?utm_campaign=1053&utm_source=git)** | Carson, CA | On Site | Feb 24 |
 | **[County of San Mateo](https://www.smcgov.org)** | **[Memorial Park Naturalist Intern II](https://jobright.ai/jobs/info/699e1521e0bddb6acacd75fd?utm_campaign=1053&utm_source=git)** | San Mateo County, CA | Hybrid | Feb 24 |
 | **[City of Racine](http://www.cityofracine.org)** | **[Main Gallery Young Artist](https://jobright.ai/jobs/info/699e26eae0bddb6acacd8291?utm_campaign=1053&utm_source=git)** | Racine, WI | On Site | Feb 24 |
 | **[Starz](http://www.starz.com/)** | **[STARZ Intern, Content Operations - Video](https://jobright.ai/jobs/info/699e2d6681476f6176b70cb8?utm_campaign=1053&utm_source=git)** | Denver, CO (Greenwood Village) | On Site | Feb 24 |
@@ -151,10 +155,6 @@ For a complete list, click the following sortable link below:
 | **[GBH](http://www.wgbh.org/)** | **[GBH Archives Internship - Summer 2026 (AAPB Exhibit Curator)](https://jobright.ai/jobs/info/699be164e0bddb6acacacbec?utm_campaign=1053&utm_source=git)** | Boston | Remote | Feb 22 |
 | ↳ | **[Antiques Roadshow Internship - Summer 2026](https://jobright.ai/jobs/info/699be119e0bddb6acacacbd3?utm_campaign=1053&utm_source=git)** | United States | Remote | Feb 22 |
 | ↳ | **[NOVA Broadcast Research Internship - Summer 2026](https://jobright.ai/jobs/info/699bdf4b81476f6176b44132?utm_campaign=1053&utm_source=git)** | United States | Remote | Feb 22 |
-| **[Quilly](https://www.linkedin.com/company/99477222)** | **[Podcast Producer Internship (Unpaid)](https://jobright.ai/jobs/info/699bd03be0bddb6acacaa57f?utm_campaign=1053&utm_source=git)** | California, United States | Remote | Feb 22 |
 | **[Patreon](http://www.patreon.com)** | **[Video Intern](https://jobright.ai/jobs/info/699cb31ace78e77b4fe17342?utm_campaign=1053&utm_source=git)** | San Francisco | Hybrid | Feb 22 |
 | **[KUTV 2News / KMYU](http://kutv.com/)** | **[Intern - Studio Crew](https://jobright.ai/jobs/info/699b7b96e0bddb6acaca6730?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Feb 22 |
-| **[Meridian International Center](http://www.meridian.org)** | **[Global Communications & Journalism Intern](https://jobright.ai/jobs/info/699b670181476f6176b3cbab?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Feb 22 |
-| **[Skild AI](https://www.skild.ai/)** | **[Cinematography Intern (Product Videography & Social Media)](https://jobright.ai/jobs/info/68d48fabffc1276de3fdbe8a?utm_campaign=1053&utm_source=git)** | San Mateo, CA | On Site | Feb 22 |
-| **[Paramount](https://www.paramount.com)** | **[CBS Sports Production and Production Management Internships (Summer 2026, In Person - NYC)](https://jobright.ai/jobs/info/6945fb6b63141d18845598ea?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Feb 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
