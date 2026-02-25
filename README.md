@@ -57,8 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Jomboy Media](https://jomboymedia.com)** | **[Production Internship - Summer 2026](https://jobright.ai/jobs/info/699e271581476f6176b707ff?utm_campaign=1053&utm_source=git)** | Jersey City, NJ | On Site | Feb 24 |
+| ↳ | **[Research and Stats Intern- Summer 2026](https://jobright.ai/jobs/info/699e268981476f6176b707a8?utm_campaign=1053&utm_source=git)** | New York, New York, United States | On Site | Feb 24 |
 | **[TelevisaUnivision](https://www.corporate.televisaunivision.com)** | **[Intern, Programming Strategy](https://jobright.ai/jobs/info/699e0ce781476f6176b6f7ac?utm_campaign=1053&utm_source=git)** | Miami, FL | On Site | Feb 24 |
 | **[County of San Mateo](https://www.smcgov.org)** | **[Memorial Park Naturalist Intern II](https://jobright.ai/jobs/info/699e1521e0bddb6acacd75fd?utm_campaign=1053&utm_source=git)** | San Mateo County, CA | Hybrid | Feb 24 |
+| **[City of Racine](http://www.cityofracine.org)** | **[Main Gallery Young Artist](https://jobright.ai/jobs/info/699e26eae0bddb6acacd8291?utm_campaign=1053&utm_source=git)** | Racine, WI | On Site | Feb 24 |
+| **[Starz](http://www.starz.com/)** | **[STARZ Intern, Content Operations - Video](https://jobright.ai/jobs/info/699e2d6681476f6176b70cb8?utm_campaign=1053&utm_source=git)** | Denver, CO (Greenwood Village) | On Site | Feb 24 |
 | **[Weigel Broadcasting Co.](https://www.weigelbroadcasting.com/)** | **[Summer Post-Production Intern](https://jobright.ai/jobs/info/699e14dc81476f6176b6fc8d?utm_campaign=1053&utm_source=git)** | Chicago,IL,US | On Site | Feb 24 |
 | **[Westchester Magazine](https://westchestermagazine.com)** | **[Summer 2026 Editorial Internship (Print)](https://jobright.ai/jobs/info/699e1351e0bddb6acacd74e0?utm_campaign=1053&utm_source=git)** | NYC Metro Area | Hybrid | Feb 24 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Disney Experiences Video Production Intern, Fall 2026](https://jobright.ai/jobs/info/699de57f81476f6176b6c8e9?utm_campaign=1053&utm_source=git)** | Bay Lake, FL, USA | Hybrid | Feb 24 |
@@ -83,7 +87,6 @@ For a complete list, click the following sortable link below:
 | **[Marketing Choices](https://marketingchoices.com)** | **[Multimedia Production Internship](https://jobright.ai/jobs/info/699d6e3f81476f6176b64109?utm_campaign=1053&utm_source=git)** | Colorado, United States | Remote | Feb 24 |
 | **[TKO](https://tkogrp.com)** | **[Intern - Live Production, WWE](https://jobright.ai/jobs/info/698156647f40342e15da58c7?utm_campaign=1053&utm_source=git)** | Stamford, CT | On Site | Feb 24 |
 | **[Madden's on Gull Lake](http://maddens.com)** | **[Golf Course Maintenance: Turf Intern](https://jobright.ai/jobs/info/699d971de0bddb6acaccf13f?utm_campaign=1053&utm_source=git)** | Brainerd, MN 56401 | On Site | Feb 24 |
-| **[VAZA](https://vazainc.com/)** | **[Video Editing & Content Intern](https://jobright.ai/jobs/info/699d64cfe0bddb6acaccb6a5?utm_campaign=1053&utm_source=git)** | Greater Toronto Area, Canada | Hybrid | Feb 24 |
 | **[OneWay Ministries](https://www.owm.org)** | **[Video Editor Intern](https://jobright.ai/jobs/info/699d62fece78e77b4fe2685d?utm_campaign=1053&utm_source=git)** | Aurora, IL | On Site | Feb 24 |
 | **[Moody Gardens®](https://www.moodygardens.org)** | **[Seasonal Events Summer Internship](https://jobright.ai/jobs/info/699d400a81476f6176b60b3c?utm_campaign=1053&utm_source=git)** | Galveston, TX 77554 | On Site | Feb 23 |
 | **[A24](http://a24films.com/)** | **[Production Intern - Summer 2026 (NY)](https://jobright.ai/jobs/info/699d3b1881476f6176b5fe52?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Feb 23 |
@@ -103,10 +106,10 @@ For a complete list, click the following sortable link below:
 | **[Children's Hospital of Philadelphia](http://chop.edu)** | **[Patient Media and Broadcasting Intern](https://jobright.ai/jobs/info/699d3532e0bddb6acacc697c?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Feb 23 |
 | **[Tell Somebody](https://www.instagram.com/tellsomebodypresents/)** | **[Video Editing Internship - Tell Somebody](https://jobright.ai/jobs/info/699ccfccce78e77b4fe18bd0?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Feb 23 |
 | **[Montgomery UP!](https://montgomeryup.com)** | **[Intern](https://jobright.ai/jobs/info/699cf952ce78e77b4fe1b805?utm_campaign=1053&utm_source=git)** | Montgomery, AL | On Site | Feb 23 |
-| **[Curated](http://powerhousevfx.com/)** | **[NExT Summer Intern - VFX Art](https://jobright.ai/jobs/info/699cfb9081476f6176b58bc3?utm_campaign=1053&utm_source=git)** | Vancouver, British Columbia, Canada | Remote | Feb 23 |
-| ↳ | **[NExT Summer Intern - VFX Production](https://jobright.ai/jobs/info/699cff5c81476f6176b59390?utm_campaign=1053&utm_source=git)** | Vancouver, British Columbia, Canada | Remote | Feb 23 |
-| ↳ | **[NExT Summer Intern - VFX Art](https://jobright.ai/jobs/info/699cf93dce78e77b4fe1b7e1?utm_campaign=1053&utm_source=git)** | Greater Toronto Area, Canada | Remote | Feb 23 |
+| **[Curated](http://powerhousevfx.com/)** | **[NExT Summer Intern - VFX Production](https://jobright.ai/jobs/info/699cff5c81476f6176b59390?utm_campaign=1053&utm_source=git)** | Vancouver, British Columbia, Canada | Remote | Feb 23 |
+| ↳ | **[NExT Summer Intern - VFX Art](https://jobright.ai/jobs/info/699cfb9081476f6176b58bc3?utm_campaign=1053&utm_source=git)** | Vancouver, British Columbia, Canada | Remote | Feb 23 |
 | ↳ | **[NExT Summer Intern - VFX Production](https://jobright.ai/jobs/info/699cfe9fce78e77b4fe1c2ee?utm_campaign=1053&utm_source=git)** | Greater Toronto Area, Canada | Remote | Feb 23 |
+| ↳ | **[NExT Summer Intern - VFX Art](https://jobright.ai/jobs/info/699cf93dce78e77b4fe1b7e1?utm_campaign=1053&utm_source=git)** | Greater Toronto Area, Canada | Remote | Feb 23 |
 | **[SDFX Studios](https://www.sdfxstudios.com)** | **[NExT Summer Intern - VFX Production](https://jobright.ai/jobs/info/699d022ee0bddb6acacc19e1?utm_campaign=1053&utm_source=git)** | Greater Toronto Area, Canada | Remote | Feb 23 |
 | **[Company 3](http://www.company3.com)** | **[NExT Summer Intern - Postproduction](https://jobright.ai/jobs/info/699cea6be0bddb6acacbf086?utm_campaign=1053&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Feb 23 |
 | ↳ | **[NExT Summer Intern - Postproduction](https://jobright.ai/jobs/info/699d03aace78e77b4fe1cd81?utm_campaign=1053&utm_source=git)** | Vancouver, British Columbia, Canada | Hybrid | Feb 23 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Meridian International Center](http://www.meridian.org)** | **[Global Communications & Journalism Intern](https://jobright.ai/jobs/info/699b670181476f6176b3cbab?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Feb 22 |
 | **[Skild AI](https://www.skild.ai/)** | **[Cinematography Intern (Product Videography & Social Media)](https://jobright.ai/jobs/info/68d48fabffc1276de3fdbe8a?utm_campaign=1053&utm_source=git)** | San Mateo, CA | On Site | Feb 22 |
 | **[Paramount](https://www.paramount.com)** | **[CBS Sports Production and Production Management Internships (Summer 2026, In Person - NYC)](https://jobright.ai/jobs/info/6945fb6b63141d18845598ea?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Feb 22 |
-| **[Sinclair Inc.](http://sbgi.net/)** | **[KATV Spring 2026 Intern](https://jobright.ai/jobs/info/690b9aff221b890c277f61e1?utm_campaign=1053&utm_source=git)** | Little Rock, AR | On Site | Feb 22 |
-| **[Charles River Laboratories](http://www.criver.com)** | **[2026 Summer Intern - Archive](https://jobright.ai/jobs/info/6997209c81476f6176af3ae8?utm_campaign=1053&utm_source=git)** | Ashland, OH | On Site | Feb 21 |
-| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Commercial Production Internship](https://jobright.ai/jobs/info/694e0eb429655e4dd657cbfb?utm_campaign=1053&utm_source=git)** | Dayton, OH | On Site | Feb 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
