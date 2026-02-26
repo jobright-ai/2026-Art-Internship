@@ -57,8 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Audacy, Inc.](https://audacyinc.com/)** | **[Summer Intern](https://jobright.ai/jobs/info/69915efa0cc8ea15f1dc03b5?utm_campaign=1053&utm_source=git)** | Farmington, CT | On Site | Feb 26 |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[ABC News Studios Production Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69a0447081476f6176ba70d1?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Feb 26 |
+| ↳ | **[ABC News Special Projects Production Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69a041320836fe79d8611c6b?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Feb 26 |
+| **[General Dynamics Ordnance and Tactical Systems](http://www.gd-ots.com)** | **[Intern, Business Support (Digital Media Intern)](https://jobright.ai/jobs/info/69841d8d348f733a5c37eed6?utm_campaign=1053&utm_source=git)** | Saco, ME | On Site | Feb 26 |
 | **[TikTok](https://www.tiktok.com)** | **[TikTok Short Drama Project Intern (TikTok-Short-Drama) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69684e2af25a38006696b2a4?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Feb 26 |
 | **[Quanta Magazine](https://www.quantamagazine.org)** | **[Video Intern](https://jobright.ai/jobs/info/69680a03f25a380066965e98?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Feb 26 |
+| **[San Diego County Regional Airport Authority](http://www.san.org)** | **[Arts Administration - Intern II](https://jobright.ai/jobs/info/69a04be10836fe79d8612c65?utm_campaign=1053&utm_source=git)** | San Diego, California, United States | On Site | Feb 26 |
 | **[FOX 47 (WSYM)](https://www.fox47news.com)** | **[Multimedia Journalist Intern, WSYM](https://jobright.ai/jobs/info/69a034c081476f6176ba53de?utm_campaign=1053&utm_source=git)** | Greater Lansing | On Site | Feb 26 |
 | **[University of Michigan](https://www.umich.edu)** | **[Video Production Intern](https://jobright.ai/jobs/info/69a02c635218a81676712858?utm_campaign=1053&utm_source=git)** | Ann Arbor, MI | Hybrid | Feb 25 |
 | **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[Her Campus Wellness Editorial Intern - Summer 2026](https://jobright.ai/jobs/info/69a01447ce78e77b4fe64243?utm_campaign=1053&utm_source=git)** | United States | Remote | Feb 25 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[A24](http://a24films.com/)** | **[Production Intern - Summer 2026 (NY)](https://jobright.ai/jobs/info/699d3b1881476f6176b5fe52?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Feb 23 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[2026 Character TD Summer Internship - Character Simulation](https://jobright.ai/jobs/info/699d381ace78e77b4fe22559?utm_campaign=1053&utm_source=git)** | Burbank, CA, USA | On Site | Feb 23 |
 | **[A24](http://a24films.com/)** | **[ADP Intern - Summer 2026 (NY)](https://jobright.ai/jobs/info/699d5d86ce78e77b4fe26357?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Feb 23 |
-| ↳ | **[Post Production & Delivery Intern - Summer 2026 (LA)](https://jobright.ai/jobs/info/699d5e3b81476f6176b633ae?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Feb 23 |
-| **[TelevisaUnivision](https://www.corporate.televisaunivision.com)** | **[Intern, Live Events](https://jobright.ai/jobs/info/699d0dc481476f6176b5ade3?utm_campaign=1053&utm_source=git)** | Miami, FL | On Site | Feb 23 |
-| **[Warner Bros. Discovery](https://wbd.com)** | **[Discovery Family Channel – YouTube Kids Content Intern: Miami - Summer 2026](https://jobright.ai/jobs/info/699d2645ce78e77b4fe201c4?utm_campaign=1053&utm_source=git)** | Miami, FL | Hybrid | Feb 23 |
-| **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Summer 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/699d1ebfe0bddb6acacc3fbf?utm_campaign=1053&utm_source=git)** | Knoxville, TN | On Site | Feb 23 |
-| **[TelevisaUnivision](https://www.corporate.televisaunivision.com)** | **[Intern, Realities & Specials](https://jobright.ai/jobs/info/699d13fee0bddb6acacc3186?utm_campaign=1053&utm_source=git)** | Miami, FL | On Site | Feb 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
