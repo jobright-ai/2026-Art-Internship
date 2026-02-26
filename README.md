@@ -57,10 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[A24](http://a24films.com/)** | **[Music Administration Intern (LA)](https://jobright.ai/jobs/info/699ff85681476f6176b9e681?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Feb 25 |
 | **[Morningstar](http://www.morningstar.com)** | **[Summer Reporting Intern](https://jobright.ai/jobs/info/699fc947ce78e77b4fe5b173?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Feb 25 |
 | **[Michigan Medicine](http://www.uofmhealth.org/)** | **[Video Production Intern](https://jobright.ai/jobs/info/699fee3e53d97f23ee657f21?utm_campaign=1053&utm_source=git)** | Ann Arbor, MI | Hybrid | Feb 25 |
+| **[KnowBe4](http://www.KnowBe4.com)** | **[Social Media Production Intern (Hybrid)](https://jobright.ai/jobs/info/6945fb1bd1953b5d11bf09aa?utm_campaign=1053&utm_source=git)** | Clearwater, FL | Hybrid | Feb 25 |
 | **[Gray Media](https://graymedia.com)** | **[GRAY MEDIA FUTURE FOCUS INTERN SUMMER '26 - KMOV](https://jobright.ai/jobs/info/699fdfb553d97f23ee6567f1?utm_campaign=1053&utm_source=git)** | Maryland Heights, MO | On Site | Feb 25 |
 | **[Young & Laramore](http://yandl.com)** | **[Writer Intern](https://jobright.ai/jobs/info/699fe1fd53d97f23ee656c6c?utm_campaign=1053&utm_source=git)** | Indianapolis, 407 Fulton Street, US | Hybrid | Feb 25 |
+| **[Inc. Magazine](http://www.inc.com)** | **[Editorial Intern](https://jobright.ai/jobs/info/69a00a6253d97f23ee65b65b?utm_campaign=1053&utm_source=git)** | NYC Metro Area | Hybrid | Feb 25 |
 | **[St Culture Advocacy](http://www.stculture.org)** | **[Production Assistant - Webshow](https://jobright.ai/jobs/info/699faf8cce78e77b4fe59433?utm_campaign=1053&utm_source=git)** | Palos Verdes Peninsula, CA | On Site | Feb 25 |
 | **[ChristianaCare](http://christianacare.org)** | **[Summer Intern - Communications Production Assistant](https://jobright.ai/jobs/info/699fcac781476f6176b98765?utm_campaign=1053&utm_source=git)** | Wilmington, DE | On Site | Feb 25 |
 | **[Charles River Laboratories](http://www.criver.com)** | **[2026 Summer Intern - Archive](https://jobright.ai/jobs/info/6997209c81476f6176af3ae8?utm_campaign=1053&utm_source=git)** | Ashland, OH | On Site | Feb 25 |
@@ -90,6 +93,7 @@ For a complete list, click the following sortable link below:
 | **[KUTV 2News / KMYU](http://kutv.com/)** | **[Intern - Studio Crew](https://jobright.ai/jobs/info/699ef83b94ef206f184e0bdd?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Feb 25 |
 | **[Six Flags Entertainment Corporation](http://sixflags.com)** | **[Live Entertainment Internship](https://jobright.ai/jobs/info/699efee581476f6176b8854a?utm_campaign=1053&utm_source=git)** | Muskegon, MI | On Site | Feb 25 |
 | **[Hasbro](https://shop.hasbro.com)** | **[Intern, Music](https://jobright.ai/jobs/info/699efafcce78e77b4fe4b060?utm_campaign=1053&utm_source=git)** | City of Washington County, DC | On Site | Feb 25 |
+| **[Weigel Broadcasting Co.](https://www.weigelbroadcasting.com/)** | **[Summer Intern](https://jobright.ai/jobs/info/69a00fc353d97f23ee65c21b?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Feb 24 |
 | **[Jackpot Junction Casino Hotel](http://www.jackpotjunction.com)** | **[Golf Course Internship](https://jobright.ai/jobs/info/699eae47ce78e77b4fe43f02?utm_campaign=1053&utm_source=git)** | Jackpot Junction - Morton, MN 56270 | On Site | Feb 24 |
 | **[NPR](http://www.npr.org)** | **[Temporary Producer I, Programming & Promotion](https://jobright.ai/jobs/info/699e868de0bddb6acace3559?utm_campaign=1053&utm_source=git)** | United States | Remote | Feb 24 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[ABC News Studios Production Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/699eae00ce78e77b4fe43e12?utm_campaign=1053&utm_source=git)** | New York, NY, USA | Hybrid | Feb 24 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Montgomery UP!](https://montgomeryup.com)** | **[Intern](https://jobright.ai/jobs/info/699cf952ce78e77b4fe1b805?utm_campaign=1053&utm_source=git)** | Montgomery, AL | On Site | Feb 23 |
 | **[Curated](http://powerhousevfx.com/)** | **[NExT Summer Intern - VFX Production](https://jobright.ai/jobs/info/699cff5c81476f6176b59390?utm_campaign=1053&utm_source=git)** | Vancouver, British Columbia, Canada | Remote | Feb 23 |
 | ↳ | **[NExT Summer Intern - VFX Art](https://jobright.ai/jobs/info/699cfb9081476f6176b58bc3?utm_campaign=1053&utm_source=git)** | Vancouver, British Columbia, Canada | Remote | Feb 23 |
-| ↳ | **[NExT Summer Intern - VFX Production](https://jobright.ai/jobs/info/699cfe9fce78e77b4fe1c2ee?utm_campaign=1053&utm_source=git)** | Greater Toronto Area, Canada | Remote | Feb 23 |
-| ↳ | **[NExT Summer Intern - VFX Art](https://jobright.ai/jobs/info/699cf93dce78e77b4fe1b7e1?utm_campaign=1053&utm_source=git)** | Greater Toronto Area, Canada | Remote | Feb 23 |
-| **[SDFX Studios](https://www.sdfxstudios.com)** | **[NExT Summer Intern - VFX Production](https://jobright.ai/jobs/info/699d022ee0bddb6acacc19e1?utm_campaign=1053&utm_source=git)** | Greater Toronto Area, Canada | Remote | Feb 23 |
-| **[Company 3](http://www.company3.com)** | **[NExT Summer Intern - Postproduction](https://jobright.ai/jobs/info/699cea6be0bddb6acacbf086?utm_campaign=1053&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Feb 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
