@@ -57,14 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[St Culture Advocacy](http://www.stculture.org)** | **[Production Assistant - Webshow](https://jobright.ai/jobs/info/699faf8cce78e77b4fe59433?utm_campaign=1053&utm_source=git)** | Palos Verdes Peninsula, CA | On Site | Feb 25 |
 | **[Charles River Laboratories](http://www.criver.com)** | **[2026 Summer Intern - Archive](https://jobright.ai/jobs/info/6997209c81476f6176af3ae8?utm_campaign=1053&utm_source=git)** | Ashland, OH | On Site | Feb 25 |
+| **[Saatchi X](http://www.saatchix.net/)** | **[Intern, Production/QT](https://jobright.ai/jobs/info/699fa9c8d643757b0e4524e2?utm_campaign=1053&utm_source=git)** | Springdale, AR | On Site | Feb 25 |
 | **[Omni Fort Worth Hotel](https://www.omnihotels.com/)** | **[Activities Omni Care Internship / Summer 2026](https://jobright.ai/jobs/info/699f531e81476f6176b8f11d?utm_campaign=1053&utm_source=git)** | US-TX-Austin | On Site | Feb 25 |
 | **[Morningstar Sustainalytics](http://www.sustainalytics.com)** | **[Summer Reporting Intern](https://jobright.ai/jobs/info/699f8c3023374b3b6e6b58a4?utm_campaign=1053&utm_source=git)** | New York | Hybrid | Feb 25 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Disney Live Entertainment Costume Support Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/699f4811ce78e77b4fe5185e?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | Feb 25 |
 | **[Baker Publishing Group](http://bakerpublishinggroup.com/)** | **[Acquisitions Intern- Summer](https://jobright.ai/jobs/info/699f9479ce78e77b4fe56e4b?utm_campaign=1053&utm_source=git)** | 7808 Creekridge Circle, Minneapolis, MN, USA | On Site | Feb 25 |
 | **[ChristianaCare](http://christianacare.org)** | **[Summer Intern - Communications Production Assistant](https://jobright.ai/jobs/info/699f426c81476f6176b8e742?utm_campaign=1053&utm_source=git)** | Wilmington, DE | Hybrid | Feb 25 |
-| **[Publicis Groupe ANZ](http://www.publicisgroupeanz.com)** | **[Intern, Production/QT](https://jobright.ai/jobs/info/699f5bc0ce78e77b4fe52528?utm_campaign=1053&utm_source=git)** | US-AR-Springdale | On Site | Feb 25 |
-| ↳ | **[Intern, Production/QT](https://jobright.ai/jobs/info/699f75a981476f6176b908f8?utm_campaign=1053&utm_source=git)** | Springdale, AR, US | On Site | Feb 25 |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Disney Live Entertainment Costume Buying Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/699fbb75d643757b0e45417e?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | Feb 25 |
+| **[Publicis Groupe ANZ](http://www.publicisgroupeanz.com)** | **[Intern, Production/QT](https://jobright.ai/jobs/info/699f75a981476f6176b908f8?utm_campaign=1053&utm_source=git)** | Springdale, AR, US | On Site | Feb 25 |
+| ↳ | **[Intern, Production/QT](https://jobright.ai/jobs/info/699f5bc0ce78e77b4fe52528?utm_campaign=1053&utm_source=git)** | US-AR-Springdale | On Site | Feb 25 |
 | **[Behaviour Interactive](http://www.bhvr.com/)** | **[Capture Artist – Internship Summer 2026](https://jobright.ai/jobs/info/699f31be81476f6176b8cc5b?utm_campaign=1053&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Feb 25 |
 | **[Telligen](https://www.telligen.com/)** | **[Proposal Writer Internship](https://jobright.ai/jobs/info/699f225181476f6176b8bc51?utm_campaign=1053&utm_source=git)** | West Des Moines, IA | On Site | Feb 25 |
 | **[Salt XC](https://www.saltxc.com/)** | **[AI Enablement Content Producer (Intern)](https://jobright.ai/jobs/info/6982a17a0f6f7e7a2cdbf34a?utm_campaign=1053&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Feb 25 |
@@ -90,7 +93,6 @@ For a complete list, click the following sortable link below:
 | **[KERA – North Texas Public Broadcasting](https://www.kera.org/)** | **[DRC News Intern, Summer 2026](https://jobright.ai/jobs/info/699f556181476f6176b8f278?utm_campaign=1053&utm_source=git)** | Denton, TX | Hybrid | Feb 24 |
 | **[Birth Of Royal Child](https://birthofroyalchild.com/)** | **[Fashion Management Intern (Unpaid – Onsite Only)](https://jobright.ai/jobs/info/699e5b88ce78e77b4fe38b56?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Feb 24 |
 | **[Legends Global](http://legends.net)** | **[Video/Content Production Intern](https://jobright.ai/jobs/info/699e3b4fe0bddb6acacd9725?utm_campaign=1053&utm_source=git)** | Miami, FL | On Site | Feb 24 |
-| **[SexSymbol Magazine](sexsymbolmagazine.com)** | **[Editing Intern Video (Unpaid, Remote – Internship)](https://jobright.ai/jobs/info/699e32f781476f6176b713d3?utm_campaign=1053&utm_source=git)** | United States | Remote | Feb 24 |
 | **[Jomboy Media](https://jomboymedia.com)** | **[Production Internship - Summer 2026](https://jobright.ai/jobs/info/699e271581476f6176b707ff?utm_campaign=1053&utm_source=git)** | Jersey City, NJ | On Site | Feb 24 |
 | ↳ | **[Research and Stats Intern- Summer 2026](https://jobright.ai/jobs/info/699e268981476f6176b707a8?utm_campaign=1053&utm_source=git)** | New York, New York, United States | On Site | Feb 24 |
 | **[Perfect Game](http://www.perfectgame.org)** | **[Assistant Event Coordinator - West Coast Region - San Diego, CA](https://jobright.ai/jobs/info/699e4e2bce78e77b4fe372b2?utm_campaign=1053&utm_source=git)** | San Diego, CA | On Site | Feb 24 |
@@ -145,8 +147,8 @@ For a complete list, click the following sortable link below:
 | **[Montgomery UP!](https://montgomeryup.com)** | **[Intern](https://jobright.ai/jobs/info/699cf952ce78e77b4fe1b805?utm_campaign=1053&utm_source=git)** | Montgomery, AL | On Site | Feb 23 |
 | **[Curated](http://powerhousevfx.com/)** | **[NExT Summer Intern - VFX Production](https://jobright.ai/jobs/info/699cff5c81476f6176b59390?utm_campaign=1053&utm_source=git)** | Vancouver, British Columbia, Canada | Remote | Feb 23 |
 | ↳ | **[NExT Summer Intern - VFX Art](https://jobright.ai/jobs/info/699cfb9081476f6176b58bc3?utm_campaign=1053&utm_source=git)** | Vancouver, British Columbia, Canada | Remote | Feb 23 |
-| ↳ | **[NExT Summer Intern - VFX Art](https://jobright.ai/jobs/info/699cf93dce78e77b4fe1b7e1?utm_campaign=1053&utm_source=git)** | Greater Toronto Area, Canada | Remote | Feb 23 |
 | ↳ | **[NExT Summer Intern - VFX Production](https://jobright.ai/jobs/info/699cfe9fce78e77b4fe1c2ee?utm_campaign=1053&utm_source=git)** | Greater Toronto Area, Canada | Remote | Feb 23 |
+| ↳ | **[NExT Summer Intern - VFX Art](https://jobright.ai/jobs/info/699cf93dce78e77b4fe1b7e1?utm_campaign=1053&utm_source=git)** | Greater Toronto Area, Canada | Remote | Feb 23 |
 | **[SDFX Studios](https://www.sdfxstudios.com)** | **[NExT Summer Intern - VFX Production](https://jobright.ai/jobs/info/699d022ee0bddb6acacc19e1?utm_campaign=1053&utm_source=git)** | Greater Toronto Area, Canada | Remote | Feb 23 |
 | **[Company 3](http://www.company3.com)** | **[NExT Summer Intern - Postproduction](https://jobright.ai/jobs/info/699cea6be0bddb6acacbf086?utm_campaign=1053&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Feb 23 |
 | ↳ | **[NExT Summer Intern - Postproduction](https://jobright.ai/jobs/info/699d03aace78e77b4fe1cd81?utm_campaign=1053&utm_source=git)** | Vancouver, British Columbia, Canada | Hybrid | Feb 23 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Wizards of the Coast](http://company.wizards.com/)** | **[D&D Community Video Intern](https://jobright.ai/jobs/info/699ce72e81476f6176b56fee?utm_campaign=1053&utm_source=git)** | United States | Remote | Feb 23 |
 | **[Curated](http://powerhousevfx.com/)** | **[NExT Summer Intern - VFX Artist](https://jobright.ai/jobs/info/699ce643ce78e77b4fe19d03?utm_campaign=1053&utm_source=git)** | New York, NY | Remote | Feb 23 |
 | **[GBH](http://www.wgbh.org/)** | **[NEPM Sports Reporter Internship - Summer 2026](https://jobright.ai/jobs/info/699d03fcce78e77b4fe1ce26?utm_campaign=1053&utm_source=git)** | Springfield, MA | Hybrid | Feb 23 |
-| **[Curated](http://powerhousevfx.com/)** | **[NExT Summer Intern - VFX Production](https://jobright.ai/jobs/info/699cef3081476f6176b5799d?utm_campaign=1053&utm_source=git)** | New York, NY | Remote | Feb 23 |
-| **[SDFX Studios](https://www.sdfxstudios.com)** | **[NExT Summer Intern - VFX Production](https://jobright.ai/jobs/info/699cdb88ce78e77b4fe19448?utm_campaign=1053&utm_source=git)** | LA Metro Area | Remote | Feb 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
