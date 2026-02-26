@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Harvey Media](www.harveymediallc.com)** | **[Creative Producer Intern](https://jobright.ai/jobs/info/69a09b8d81476f6176baec96?utm_campaign=1053&utm_source=git)** | Tulsa Metropolitan Area | Hybrid | Feb 26 |
+| **[AVIXA](https://www.avixa.org)** | **[Content Delivery Intern-Digital Video](https://jobright.ai/jobs/info/69a08f2781476f6176badc27?utm_campaign=1053&utm_source=git)** | FAIRFAX VA, Fairfax, VA, US | Hybrid | Feb 26 |
+| **[DDA](https://www.theddagroup.com)** | **[Internship - Domestic](https://jobright.ai/jobs/info/69a082940836fe79d8617f23?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Feb 26 |
+| **[Psycho Bunny](https://www.psychobunny.com/)** | **[Omnichannel Internship](https://jobright.ai/jobs/info/6983d8980f6f7e7a2cdda7a7?utm_campaign=1053&utm_source=git)** | Montreal, Quebec, Canada | On Site | Feb 26 |
 | **[Operation Smile](http://www.operationsmile.org)** | **[Writing Internship - Operation Smile ILC](https://jobright.ai/jobs/info/696883c31703f05405aa42b9?utm_campaign=1053&utm_source=git)** | Virginia Beach, VA | On Site | Feb 26 |
 | **[Michigan Medicine](http://www.uofmhealth.org/)** | **[Video Production Intern](https://jobright.ai/jobs/info/69a063160836fe79d861509c?utm_campaign=1053&utm_source=git)** | Ann Arbor, MI | Hybrid | Feb 26 |
 | **[Audacy, Inc.](https://audacyinc.com/)** | **[Summer Intern](https://jobright.ai/jobs/info/69915efa0cc8ea15f1dc03b5?utm_campaign=1053&utm_source=git)** | Farmington, CT | On Site | Feb 26 |
@@ -68,7 +72,6 @@ For a complete list, click the following sortable link below:
 | **[Quanta Magazine](https://www.quantamagazine.org)** | **[Video Intern](https://jobright.ai/jobs/info/69680a03f25a380066965e98?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Feb 26 |
 | **[San Diego County Regional Airport Authority](http://www.san.org)** | **[Arts Administration - Intern II](https://jobright.ai/jobs/info/69a04be10836fe79d8612c65?utm_campaign=1053&utm_source=git)** | San Diego, California, United States | On Site | Feb 26 |
 | **[FOX 47 (WSYM)](https://www.fox47news.com)** | **[Multimedia Journalist Intern, WSYM](https://jobright.ai/jobs/info/69a034c081476f6176ba53de?utm_campaign=1053&utm_source=git)** | Greater Lansing | On Site | Feb 26 |
-| **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[Her Campus Wellness Editorial Intern - Summer 2026](https://jobright.ai/jobs/info/69a01447ce78e77b4fe64243?utm_campaign=1053&utm_source=git)** | United States | Remote | Feb 25 |
 | **[Studio Of Ruth](http://www.Studioofruth.com)** | **[Intern for Videography & Media](https://jobright.ai/jobs/info/69a017d681476f6176ba204f?utm_campaign=1053&utm_source=git)** | Atlanta, GA | Hybrid | Feb 25 |
 | **[San Diego County Regional Airport Authority](http://www.san.org)** | **[Arts Administration - Intern II](https://jobright.ai/jobs/info/69a024005218a81676711320?utm_campaign=1053&utm_source=git)** | San Diego, CA | On Site | Feb 25 |
 | **[A24](http://a24films.com/)** | **[Music Administration Intern (LA)](https://jobright.ai/jobs/info/699ff85681476f6176b9e681?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Feb 25 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[TKO](https://tkogrp.com)** | **[Intern - Live Production, WWE](https://jobright.ai/jobs/info/698156647f40342e15da58c7?utm_campaign=1053&utm_source=git)** | Stamford, CT | On Site | Feb 24 |
 | **[Madden's on Gull Lake](http://maddens.com)** | **[Golf Course Maintenance: Turf Intern](https://jobright.ai/jobs/info/699d971de0bddb6acaccf13f?utm_campaign=1053&utm_source=git)** | Brainerd, MN 56401 | On Site | Feb 24 |
 | **[OneWay Ministries](https://www.owm.org)** | **[Video Editor Intern](https://jobright.ai/jobs/info/699d62fece78e77b4fe2685d?utm_campaign=1053&utm_source=git)** | Aurora, IL | On Site | Feb 24 |
-| **[Moody Gardens®](https://www.moodygardens.org)** | **[Seasonal Events Summer Internship](https://jobright.ai/jobs/info/699d400a81476f6176b60b3c?utm_campaign=1053&utm_source=git)** | Galveston, TX 77554 | On Site | Feb 23 |
-| **[A24](http://a24films.com/)** | **[Production Intern - Summer 2026 (NY)](https://jobright.ai/jobs/info/699d3b1881476f6176b5fe52?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Feb 23 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[2026 Character TD Summer Internship - Character Simulation](https://jobright.ai/jobs/info/699d381ace78e77b4fe22559?utm_campaign=1053&utm_source=git)** | Burbank, CA, USA | On Site | Feb 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
