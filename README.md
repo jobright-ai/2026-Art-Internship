@@ -57,9 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Morningstar](http://www.morningstar.com)** | **[Summer Reporting Intern](https://jobright.ai/jobs/info/699fc947ce78e77b4fe5b173?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Feb 25 |
 | **[St Culture Advocacy](http://www.stculture.org)** | **[Production Assistant - Webshow](https://jobright.ai/jobs/info/699faf8cce78e77b4fe59433?utm_campaign=1053&utm_source=git)** | Palos Verdes Peninsula, CA | On Site | Feb 25 |
+| **[ChristianaCare](http://christianacare.org)** | **[Summer Intern - Communications Production Assistant](https://jobright.ai/jobs/info/699fcac781476f6176b98765?utm_campaign=1053&utm_source=git)** | Wilmington, DE | On Site | Feb 25 |
 | **[Charles River Laboratories](http://www.criver.com)** | **[2026 Summer Intern - Archive](https://jobright.ai/jobs/info/6997209c81476f6176af3ae8?utm_campaign=1053&utm_source=git)** | Ashland, OH | On Site | Feb 25 |
 | **[Saatchi X](http://www.saatchix.net/)** | **[Intern, Production/QT](https://jobright.ai/jobs/info/699fa9c8d643757b0e4524e2?utm_campaign=1053&utm_source=git)** | Springdale, AR | On Site | Feb 25 |
+| **[National Association of Black Journalists (NABJ)](http://www.nabj.org/)** | **[Summer Intern](https://jobright.ai/jobs/info/699fbcb5ce78e77b4fe5a0ef?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Feb 25 |
 | **[Omni Fort Worth Hotel](https://www.omnihotels.com/)** | **[Activities Omni Care Internship / Summer 2026](https://jobright.ai/jobs/info/699f531e81476f6176b8f11d?utm_campaign=1053&utm_source=git)** | US-TX-Austin | On Site | Feb 25 |
 | **[Morningstar Sustainalytics](http://www.sustainalytics.com)** | **[Summer Reporting Intern](https://jobright.ai/jobs/info/699f8c3023374b3b6e6b58a4?utm_campaign=1053&utm_source=git)** | New York | Hybrid | Feb 25 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Disney Live Entertainment Costume Support Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/699f4811ce78e77b4fe5185e?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | Feb 25 |
@@ -139,8 +142,8 @@ For a complete list, click the following sortable link below:
 | **[TelevisaUnivision](https://www.corporate.televisaunivision.com)** | **[Intern, Realities & Specials](https://jobright.ai/jobs/info/699d13fee0bddb6acacc3186?utm_campaign=1053&utm_source=git)** | Miami, FL | On Site | Feb 23 |
 | ↳ | **[Intern, Network News](https://jobright.ai/jobs/info/699d1371e0bddb6acacc30c1?utm_campaign=1053&utm_source=git)** | Miami, FL | On Site | Feb 23 |
 | **[Gray Media](https://graymedia.com)** | **[GRAY MEDIA FUTURE FOCUS INTERN SPRING '26 - WGEM](https://jobright.ai/jobs/info/699d0c64ce78e77b4fe1da4b?utm_campaign=1053&utm_source=git)** | Quincy, Illinois, United States | On Site | Feb 23 |
-| **[TelevisaUnivision](https://www.corporate.televisaunivision.com)** | **[Intern, Live Events](https://jobright.ai/jobs/info/699d1dfe81476f6176b5c291?utm_campaign=1053&utm_source=git)** | Miami, FL | On Site | Feb 23 |
-| ↳ | **[Intern, Realities & Specials](https://jobright.ai/jobs/info/699d2ace81476f6176b5db51?utm_campaign=1053&utm_source=git)** | Miami, FL | On Site | Feb 23 |
+| **[TelevisaUnivision](https://www.corporate.televisaunivision.com)** | **[Intern, Realities & Specials](https://jobright.ai/jobs/info/699d2ace81476f6176b5db51?utm_campaign=1053&utm_source=git)** | Miami, FL | On Site | Feb 23 |
+| ↳ | **[Intern, Live Events](https://jobright.ai/jobs/info/699d1dfe81476f6176b5c291?utm_campaign=1053&utm_source=git)** | Miami, FL | On Site | Feb 23 |
 | **[Mount Auburn Cemetery](https://mountauburn.org)** | **[Preservation Craftsperson Intern](https://jobright.ai/jobs/info/699ce86de0bddb6acacbedc5?utm_campaign=1053&utm_source=git)** | Cambridge, MA | On Site | Feb 23 |
 | **[Warner Bros. Discovery](https://wbd.com)** | **[Discovery Family Channel – YouTube Kids Content Intern: Miami - Summer 2026](https://jobright.ai/jobs/info/699d0e12ce78e77b4fe1dc9d?utm_campaign=1053&utm_source=git)** | FL Miami 6505 Blue Lagoon Dri | Hybrid | Feb 23 |
 | **[Children's Hospital of Philadelphia](http://chop.edu)** | **[Patient Media and Broadcasting Intern](https://jobright.ai/jobs/info/699d3532e0bddb6acacc697c?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Feb 23 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[NExT Summer Intern - Postproduction](https://jobright.ai/jobs/info/699d03aace78e77b4fe1cd81?utm_campaign=1053&utm_source=git)** | Vancouver, British Columbia, Canada | Hybrid | Feb 23 |
 | ↳ | **[NExT Summer Intern - Postproduction](https://jobright.ai/jobs/info/699ce3abe0bddb6acacbe9bb?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Feb 23 |
 | ↳ | **[NExT Summer Intern - Postproduction](https://jobright.ai/jobs/info/699cdb22ce78e77b4fe193f0?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Feb 23 |
-| **[Wizards of the Coast](http://company.wizards.com/)** | **[D&D Community Video Intern](https://jobright.ai/jobs/info/699ce72e81476f6176b56fee?utm_campaign=1053&utm_source=git)** | United States | Remote | Feb 23 |
-| **[Curated](http://powerhousevfx.com/)** | **[NExT Summer Intern - VFX Artist](https://jobright.ai/jobs/info/699ce643ce78e77b4fe19d03?utm_campaign=1053&utm_source=git)** | New York, NY | Remote | Feb 23 |
-| **[GBH](http://www.wgbh.org/)** | **[NEPM Sports Reporter Internship - Summer 2026](https://jobright.ai/jobs/info/699d03fcce78e77b4fe1ce26?utm_campaign=1053&utm_source=git)** | Springfield, MA | Hybrid | Feb 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
