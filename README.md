@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Watertown Shamrocks](https://watertownshamrocks.com/)** | **[Broadcast Production Assistant Internship](https://jobright.ai/jobs/info/69a0b1e20836fe79d861b19d?utm_campaign=1053&utm_source=git)** | Watertown, SD | On Site | Feb 26 |
+| **[National FFA Organization](https://www.ffa.org)** | **[Convention & Event Planner Intern](https://jobright.ai/jobs/info/69a0a9a081476f6176baf82b?utm_campaign=1053&utm_source=git)** | Indianapolis,IN,US | Hybrid | Feb 26 |
 | **[Harvey Media](www.harveymediallc.com)** | **[Creative Producer Intern](https://jobright.ai/jobs/info/69a09b8d81476f6176baec96?utm_campaign=1053&utm_source=git)** | Tulsa Metropolitan Area | Hybrid | Feb 26 |
 | **[AVIXA](https://www.avixa.org)** | **[Content Delivery Intern-Digital Video](https://jobright.ai/jobs/info/69a08f2781476f6176badc27?utm_campaign=1053&utm_source=git)** | FAIRFAX VA, Fairfax, VA, US | Hybrid | Feb 26 |
 | **[DDA](https://www.theddagroup.com)** | **[Internship - Domestic](https://jobright.ai/jobs/info/69a082940836fe79d8617f23?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Feb 26 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Marketing Choices](https://marketingchoices.com)** | **[Multimedia Production Internship](https://jobright.ai/jobs/info/699d6e3f81476f6176b64109?utm_campaign=1053&utm_source=git)** | Colorado, United States | Remote | Feb 24 |
 | **[Saratoga Hospital](http://saratogahospital.org/)** | **[Special Events Intern - Temporary](https://jobright.ai/jobs/info/699ed0bd81476f6176b84537?utm_campaign=1053&utm_source=git)** | Saratoga Springs, NY | On Site | Feb 24 |
 | **[TKO](https://tkogrp.com)** | **[Intern - Live Production, WWE](https://jobright.ai/jobs/info/698156647f40342e15da58c7?utm_campaign=1053&utm_source=git)** | Stamford, CT | On Site | Feb 24 |
-| **[Madden's on Gull Lake](http://maddens.com)** | **[Golf Course Maintenance: Turf Intern](https://jobright.ai/jobs/info/699d971de0bddb6acaccf13f?utm_campaign=1053&utm_source=git)** | Brainerd, MN 56401 | On Site | Feb 24 |
-| **[OneWay Ministries](https://www.owm.org)** | **[Video Editor Intern](https://jobright.ai/jobs/info/699d62fece78e77b4fe2685d?utm_campaign=1053&utm_source=git)** | Aurora, IL | On Site | Feb 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
