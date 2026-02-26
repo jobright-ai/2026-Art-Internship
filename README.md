@@ -58,6 +58,8 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Morningstar](http://www.morningstar.com)** | **[Summer Reporting Intern](https://jobright.ai/jobs/info/699fc947ce78e77b4fe5b173?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Feb 25 |
+| **[Gray Media](https://graymedia.com)** | **[GRAY MEDIA FUTURE FOCUS INTERN SUMMER '26 - KMOV](https://jobright.ai/jobs/info/699fdfb553d97f23ee6567f1?utm_campaign=1053&utm_source=git)** | Maryland Heights, MO | On Site | Feb 25 |
+| **[Young & Laramore](http://yandl.com)** | **[Writer Intern](https://jobright.ai/jobs/info/699fe1fd53d97f23ee656c6c?utm_campaign=1053&utm_source=git)** | Indianapolis, 407 Fulton Street, US | Hybrid | Feb 25 |
 | **[St Culture Advocacy](http://www.stculture.org)** | **[Production Assistant - Webshow](https://jobright.ai/jobs/info/699faf8cce78e77b4fe59433?utm_campaign=1053&utm_source=git)** | Palos Verdes Peninsula, CA | On Site | Feb 25 |
 | **[ChristianaCare](http://christianacare.org)** | **[Summer Intern - Communications Production Assistant](https://jobright.ai/jobs/info/699fcac781476f6176b98765?utm_campaign=1053&utm_source=git)** | Wilmington, DE | On Site | Feb 25 |
 | **[Charles River Laboratories](http://www.criver.com)** | **[2026 Summer Intern - Archive](https://jobright.ai/jobs/info/6997209c81476f6176af3ae8?utm_campaign=1053&utm_source=git)** | Ashland, OH | On Site | Feb 25 |
@@ -142,19 +144,17 @@ For a complete list, click the following sortable link below:
 | **[TelevisaUnivision](https://www.corporate.televisaunivision.com)** | **[Intern, Realities & Specials](https://jobright.ai/jobs/info/699d13fee0bddb6acacc3186?utm_campaign=1053&utm_source=git)** | Miami, FL | On Site | Feb 23 |
 | ↳ | **[Intern, Network News](https://jobright.ai/jobs/info/699d1371e0bddb6acacc30c1?utm_campaign=1053&utm_source=git)** | Miami, FL | On Site | Feb 23 |
 | **[Gray Media](https://graymedia.com)** | **[GRAY MEDIA FUTURE FOCUS INTERN SPRING '26 - WGEM](https://jobright.ai/jobs/info/699d0c64ce78e77b4fe1da4b?utm_campaign=1053&utm_source=git)** | Quincy, Illinois, United States | On Site | Feb 23 |
-| **[TelevisaUnivision](https://www.corporate.televisaunivision.com)** | **[Intern, Realities & Specials](https://jobright.ai/jobs/info/699d2ace81476f6176b5db51?utm_campaign=1053&utm_source=git)** | Miami, FL | On Site | Feb 23 |
-| ↳ | **[Intern, Live Events](https://jobright.ai/jobs/info/699d1dfe81476f6176b5c291?utm_campaign=1053&utm_source=git)** | Miami, FL | On Site | Feb 23 |
+| **[TelevisaUnivision](https://www.corporate.televisaunivision.com)** | **[Intern, Live Events](https://jobright.ai/jobs/info/699d1dfe81476f6176b5c291?utm_campaign=1053&utm_source=git)** | Miami, FL | On Site | Feb 23 |
+| ↳ | **[Intern, Realities & Specials](https://jobright.ai/jobs/info/699d2ace81476f6176b5db51?utm_campaign=1053&utm_source=git)** | Miami, FL | On Site | Feb 23 |
 | **[Mount Auburn Cemetery](https://mountauburn.org)** | **[Preservation Craftsperson Intern](https://jobright.ai/jobs/info/699ce86de0bddb6acacbedc5?utm_campaign=1053&utm_source=git)** | Cambridge, MA | On Site | Feb 23 |
 | **[Warner Bros. Discovery](https://wbd.com)** | **[Discovery Family Channel – YouTube Kids Content Intern: Miami - Summer 2026](https://jobright.ai/jobs/info/699d0e12ce78e77b4fe1dc9d?utm_campaign=1053&utm_source=git)** | FL Miami 6505 Blue Lagoon Dri | Hybrid | Feb 23 |
 | **[Children's Hospital of Philadelphia](http://chop.edu)** | **[Patient Media and Broadcasting Intern](https://jobright.ai/jobs/info/699d3532e0bddb6acacc697c?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Feb 23 |
 | **[Montgomery UP!](https://montgomeryup.com)** | **[Intern](https://jobright.ai/jobs/info/699cf952ce78e77b4fe1b805?utm_campaign=1053&utm_source=git)** | Montgomery, AL | On Site | Feb 23 |
-| **[Curated](http://powerhousevfx.com/)** | **[NExT Summer Intern - VFX Production](https://jobright.ai/jobs/info/699cff5c81476f6176b59390?utm_campaign=1053&utm_source=git)** | Vancouver, British Columbia, Canada | Remote | Feb 23 |
-| ↳ | **[NExT Summer Intern - VFX Art](https://jobright.ai/jobs/info/699cfb9081476f6176b58bc3?utm_campaign=1053&utm_source=git)** | Vancouver, British Columbia, Canada | Remote | Feb 23 |
+| **[Curated](http://powerhousevfx.com/)** | **[NExT Summer Intern - VFX Art](https://jobright.ai/jobs/info/699cfb9081476f6176b58bc3?utm_campaign=1053&utm_source=git)** | Vancouver, British Columbia, Canada | Remote | Feb 23 |
+| ↳ | **[NExT Summer Intern - VFX Production](https://jobright.ai/jobs/info/699cff5c81476f6176b59390?utm_campaign=1053&utm_source=git)** | Vancouver, British Columbia, Canada | Remote | Feb 23 |
 | ↳ | **[NExT Summer Intern - VFX Production](https://jobright.ai/jobs/info/699cfe9fce78e77b4fe1c2ee?utm_campaign=1053&utm_source=git)** | Greater Toronto Area, Canada | Remote | Feb 23 |
 | ↳ | **[NExT Summer Intern - VFX Art](https://jobright.ai/jobs/info/699cf93dce78e77b4fe1b7e1?utm_campaign=1053&utm_source=git)** | Greater Toronto Area, Canada | Remote | Feb 23 |
 | **[SDFX Studios](https://www.sdfxstudios.com)** | **[NExT Summer Intern - VFX Production](https://jobright.ai/jobs/info/699d022ee0bddb6acacc19e1?utm_campaign=1053&utm_source=git)** | Greater Toronto Area, Canada | Remote | Feb 23 |
 | **[Company 3](http://www.company3.com)** | **[NExT Summer Intern - Postproduction](https://jobright.ai/jobs/info/699cea6be0bddb6acacbf086?utm_campaign=1053&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Feb 23 |
 | ↳ | **[NExT Summer Intern - Postproduction](https://jobright.ai/jobs/info/699d03aace78e77b4fe1cd81?utm_campaign=1053&utm_source=git)** | Vancouver, British Columbia, Canada | Hybrid | Feb 23 |
-| ↳ | **[NExT Summer Intern - Postproduction](https://jobright.ai/jobs/info/699ce3abe0bddb6acacbe9bb?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Feb 23 |
-| ↳ | **[NExT Summer Intern - Postproduction](https://jobright.ai/jobs/info/699cdb22ce78e77b4fe193f0?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Feb 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
