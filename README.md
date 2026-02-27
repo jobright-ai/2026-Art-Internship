@@ -57,8 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SexSymbol Magazine](sexsymbolmagazine.com)** | **[Video Editing Intern Video ( Unpaid, Remote – Internship )](https://jobright.ai/jobs/info/69a206120da45516f16b4efe?utm_campaign=1053&utm_source=git)** | United States | Remote | Feb 27 |
 | **[Forsyth County](http://www.forsyth.cc)** | **[Intern](https://jobright.ai/jobs/info/69a1ee480da45516f16b395b?utm_campaign=1053&utm_source=git)** | Winston-Salem, NC | On Site | Feb 27 |
 | **[U.S. News & World Report](http://www.usnews.com)** | **[Health Editorial Summer 2026 Intern (DC)](https://jobright.ai/jobs/info/69851dc08da7a612045f773d?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Feb 27 |
+| **[Bootstrapper Capital](https://bootstrappercapital.com)** | **[Videographer + Content (Internship)](https://jobright.ai/jobs/info/69a203bb0da45516f16b4ca1?utm_campaign=1053&utm_source=git)** | NYC Metro Area | Remote | Feb 27 |
+| **[Community Impact](https://communityimpact.com)** | **[Editorial Intern - Houston, Texas](https://jobright.ai/jobs/info/69a20317b600907a96285078?utm_campaign=1053&utm_source=git)** | Jersey Village,TX,US | On Site | Feb 27 |
 | **[Sony Pictures Imageworks](http://www.imageworks.com)** | **[Sony Pictures Imageworks Internship - ICAD](https://jobright.ai/jobs/info/69a1fb4fb600907a9628496f?utm_campaign=1053&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Feb 27 |
 | **[Commonwealth of Massachusetts](https://www.mass.gov/)** | **[Biodiversity Media Intern (Unpaid)](https://jobright.ai/jobs/info/69a1d69d359fe034b1cd20f0?utm_campaign=1053&utm_source=git)** | United States-Massachusetts-Boston-100 Cambridge Street | On Site | Feb 27 |
 | **[The Massachusetts Executive Office of Labor and Workforce Development (EOLWD)](http://www.mass.gov/eolwd)** | **[Biodiversity Media Intern (Unpaid)](https://jobright.ai/jobs/info/69a1d57c359fe034b1cd2029?utm_campaign=1053&utm_source=git)** | United States-Massachusetts-Boston-100 Cambridge Street | On Site | Feb 27 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Walt Disney Animation Studios](https://www.disneyanimation.com/)** | **[2026 Character TD Summer Internship - Character Simulation](https://jobright.ai/jobs/info/699eea6781476f6176b86217?utm_campaign=1053&utm_source=git)** | Burbank, CA | On Site | Feb 25 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[KABC-TV (ABC7) Sports News Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/6999a1bde0bddb6acac8e2a2?utm_campaign=1053&utm_source=git)** | Glendale, CA | On Site | Feb 25 |
 | ↳ | **[Disney Experiences Video Production Intern, Fall 2026](https://jobright.ai/jobs/info/699ee1d194ef206f184de6ce?utm_campaign=1053&utm_source=git)** | Bay Lake, FL | On Site | Feb 25 |
-| **[Disney Experiences](https://disneyconnect.com/)** | **[Disney Experiences Video Production Intern, Fall 2026](https://jobright.ai/jobs/info/699efc88ce78e77b4fe4b1f2?utm_campaign=1053&utm_source=git)** | Bay Lake, FL | On Site | Feb 25 |
-| ↳ | **[Disney Experiences Digital Integration Intern, Fall 2026](https://jobright.ai/jobs/info/699efbec94ef206f184e0ff2?utm_campaign=1053&utm_source=git)** | Glendale, CA | On Site | Feb 25 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Disney Experiences Digital Integration Intern, Fall 2026](https://jobright.ai/jobs/info/699efab394ef206f184e0e97?utm_campaign=1053&utm_source=git)** | Glendale, CA | On Site | Feb 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
