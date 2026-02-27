@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[EWTN](http://www.ewtn.com/)** | **[Production Intern](https://jobright.ai/jobs/info/69a1b4fc0da45516f16b1540?utm_campaign=1053&utm_source=git)** | Birmingham, AL | On Site | Feb 27 |
+| **[Miami HEAT](http://HEAT.com)** | **[Intern, Content Studio - Summer 2026](https://jobright.ai/jobs/info/6984fe99348f733a5c391a4f?utm_campaign=1053&utm_source=git)** | Miami, FL | On Site | Feb 27 |
+| **[Austin American-Statesman](https://www.statesman.com)** | **[Newsroom Summer Intern](https://jobright.ai/jobs/info/69a1b21fb600907a962816d9?utm_campaign=1053&utm_source=git)** | 645 Albany Shaker Road, Albany, NY, 12211, US | Hybrid | Feb 27 |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[The Hill Summer 2026 Editorial Intern- Washington DC](https://jobright.ai/jobs/info/699026d30cc8ea15f1daceb6?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Feb 27 |
+| **[Michigan Medicine](http://www.uofmhealth.org/)** | **[Video Production Intern](https://jobright.ai/jobs/info/69a1ad3cb600907a962812dc?utm_campaign=1053&utm_source=git)** | Ann Arbor, MI | Hybrid | Feb 27 |
+| **[GovExec](https://about.govexec.com/)** | **[Editorial Intern, City & State New York](https://jobright.ai/jobs/info/698517c90f6f7e7a2cdf9bef?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Feb 27 |
 | **[Dow Jones](http://www.dowjones.com)** | **[Reporting Internship, Mansion Global](https://jobright.ai/jobs/info/699023b30f6f7e7a2cec81f7?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Feb 27 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[2026 Character TD Summer Internship - Character Simulation](https://jobright.ai/jobs/info/699eff74ce78e77b4fe4b4e5?utm_campaign=1053&utm_source=git)** | Burbank, CA | On Site | Feb 27 |
 | **[TikTok](https://www.tiktok.com)** | **[Short Drama Localization Project Intern (TikTok-PGC-Short Drama) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/698516de348f733a5c393e8b?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Feb 27 |
@@ -131,6 +137,7 @@ For a complete list, click the following sortable link below:
 | **[Salt XC](https://www.saltxc.com/)** | **[AI Enablement Content Producer (Intern)](https://jobright.ai/jobs/info/6982a17a0f6f7e7a2cdbf34a?utm_campaign=1053&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Feb 25 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Broadcasting Internship (NYSBA)](https://jobright.ai/jobs/info/6982675d0f6f7e7a2cdb920d?utm_campaign=1053&utm_source=git)** | Colchester, VT | On Site | Feb 25 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[ABC News Special Projects Production Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/699f216d81476f6176b8bbae?utm_campaign=1053&utm_source=git)** | New York, NY, USA | On Site | Feb 25 |
+| **[KERA – North Texas Public Broadcasting](https://www.kera.org/)** | **[Denton Record-Chronicle Intern, Summer 2026](https://jobright.ai/jobs/info/699f556181476f6176b8f278?utm_campaign=1053&utm_source=git)** | Denton, TX | Hybrid | Feb 25 |
 | **[EBSCO Information Services](https://www.ebsco.com)** | **[Proprietary Content Intern](https://jobright.ai/jobs/info/69824355a314e7636905a805?utm_campaign=1053&utm_source=git)** | United States | Remote | Feb 25 |
 | **[Walt Disney Animation Studios](https://www.disneyanimation.com/)** | **[2026 Character TD Summer Internship - Character Simulation](https://jobright.ai/jobs/info/699eea6781476f6176b86217?utm_campaign=1053&utm_source=git)** | Burbank, CA | On Site | Feb 25 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[KABC-TV (ABC7) Sports News Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/6999a1bde0bddb6acac8e2a2?utm_campaign=1053&utm_source=git)** | Glendale, CA | On Site | Feb 25 |
@@ -147,14 +154,7 @@ For a complete list, click the following sortable link below:
 | **[New Beginnings Global](https://nbcn.live)** | **[Travel Content Operation(Glendale-Onsite)](https://jobright.ai/jobs/info/699e7c63e0bddb6acace223a?utm_campaign=1053&utm_source=git)** | Glendale, CA | On Site | Feb 24 |
 | **[Lakeside](https://www.lakesidepharma.com.mx)** | **[Videography/Photography Intern](https://jobright.ai/jobs/info/69a030125218a81676713131?utm_campaign=1053&utm_source=git)** | 43440, OH, US | On Site | Feb 24 |
 | **[VX Media](https://www.vxmedia.co)** | **[Producer Intern](https://jobright.ai/jobs/info/699e47bace78e77b4fe36629?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Feb 24 |
-| **[KERA – North Texas Public Broadcasting](https://www.kera.org/)** | **[DRC News Intern, Summer 2026](https://jobright.ai/jobs/info/699f556181476f6176b8f278?utm_campaign=1053&utm_source=git)** | Denton, TX | Hybrid | Feb 24 |
 | **[Birth Of Royal Child](https://birthofroyalchild.com/)** | **[Fashion Management Intern (Unpaid – Onsite Only)](https://jobright.ai/jobs/info/699e5b88ce78e77b4fe38b56?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Feb 24 |
 | **[Legends Global](http://legends.net)** | **[Video/Content Production Intern](https://jobright.ai/jobs/info/699e3b4fe0bddb6acacd9725?utm_campaign=1053&utm_source=git)** | Miami, FL | On Site | Feb 24 |
 | **[Jomboy Media](https://jomboymedia.com)** | **[Production Internship - Summer 2026](https://jobright.ai/jobs/info/699e271581476f6176b707ff?utm_campaign=1053&utm_source=git)** | Jersey City, NJ | On Site | Feb 24 |
-| ↳ | **[Research and Stats Intern- Summer 2026](https://jobright.ai/jobs/info/699e268981476f6176b707a8?utm_campaign=1053&utm_source=git)** | New York, New York, United States | On Site | Feb 24 |
-| **[Perfect Game](http://www.perfectgame.org)** | **[Assistant Event Coordinator - West Coast Region - San Diego, CA](https://jobright.ai/jobs/info/699e4e2bce78e77b4fe372b2?utm_campaign=1053&utm_source=git)** | San Diego, CA | On Site | Feb 24 |
-| **[AEG](http://www.aegworldwide.com)** | **[Summer Intern, Broadcast - Dignity Health Sports Park](https://jobright.ai/jobs/info/699ee9dc81476f6176b861be?utm_campaign=1053&utm_source=git)** | Carson, CA | On Site | Feb 24 |
-| **[TelevisaUnivision](https://www.corporate.televisaunivision.com)** | **[Intern, Programming Strategy](https://jobright.ai/jobs/info/699e0ce781476f6176b6f7ac?utm_campaign=1053&utm_source=git)** | Miami, FL | On Site | Feb 24 |
-| **[AEG](http://www.aegworldwide.com)** | **[Summer Intern, Broadcast - Dignity Health Sports Park](https://jobright.ai/jobs/info/699e3a1fce78e77b4fe34e3c?utm_campaign=1053&utm_source=git)** | Carson, CA | On Site | Feb 24 |
-| **[Starz](http://www.starz.com/)** | **[STARZ Intern, Content Operations - Video](https://jobright.ai/jobs/info/699edb7481476f6176b8502a?utm_campaign=1053&utm_source=git)** | Greenwood Village, CO | On Site | Feb 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
