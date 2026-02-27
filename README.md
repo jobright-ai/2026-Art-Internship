@@ -58,7 +58,11 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Scientific American](http://www.scientificamerican.com/)** | **[News Intern](https://jobright.ai/jobs/info/69a0bf645218a8167671ea87?utm_campaign=1053&utm_source=git)** | New York, United States | Hybrid | Feb 26 |
+| **[GBH](http://www.wgbh.org/)** | **[Antiques Roadshow Internship - Summer 2026](https://jobright.ai/jobs/info/699c19f6ce78e77b4fe0a699?utm_campaign=1053&utm_source=git)** | United States | Remote | Feb 26 |
+| **[American Academy of Neurology](https://www.aan.com)** | **[INTERN, CONTINUUM EDITORIAL](https://jobright.ai/jobs/info/69a0de9581476f6176bb30da?utm_campaign=1053&utm_source=git)** | Minneapolis, MN | Hybrid | Feb 26 |
 | **[Watertown Shamrocks](https://watertownshamrocks.com/)** | **[Broadcast Production Assistant Internship](https://jobright.ai/jobs/info/69a0b1e20836fe79d861b19d?utm_campaign=1053&utm_source=git)** | Watertown, SD | On Site | Feb 26 |
+| **[Hearst Newspapers](https://eevd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_15)** | **[Reporter Internship](https://jobright.ai/jobs/info/69a0e64381476f6176bb3e17?utm_campaign=1053&utm_source=git)** | Midland, MI, United States | On Site | Feb 26 |
+| **[American Academy of Neurology](https://www.aan.com)** | **[INTERN, CONTINUUM EDITORIAL](https://jobright.ai/jobs/info/69a0e4b65218a81676721ac6?utm_campaign=1053&utm_source=git)** | Minneapolis, MN, US | Hybrid | Feb 26 |
 | **[National FFA Organization](https://www.ffa.org)** | **[Convention & Event Planner Intern](https://jobright.ai/jobs/info/69a0a9a081476f6176baf82b?utm_campaign=1053&utm_source=git)** | Indianapolis,IN,US | Hybrid | Feb 26 |
 | **[KCRA 3 & My58 Television](http://www.kcra.com)** | **[Intern](https://jobright.ai/jobs/info/69a0c5340836fe79d861c5c9?utm_campaign=1053&utm_source=git)** | Sacramento, CA | On Site | Feb 26 |
 | **[Ellucian](http://www.ellucian.com)** | **[Summer Video Intern (Undergraduate)](https://jobright.ai/jobs/info/69a0c79e5218a8167671f2e4?utm_campaign=1053&utm_source=git)** | Reston, VA | Hybrid | Feb 26 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[TKO](https://tkogrp.com)** | **[Intern - Spanish Production Intern, UFC](https://jobright.ai/jobs/info/698158127f40342e15da5aa2?utm_campaign=1053&utm_source=git)** | Las Vegas, NV | On Site | Feb 24 |
 | ↳ | **[Intern - Original Content & Documentaries, WWE](https://jobright.ai/jobs/info/698159a649964d25b5e44db2?utm_campaign=1053&utm_source=git)** | Stamford, CT | On Site | Feb 24 |
 | ↳ | **[Intern – Live Production Intern, UFC](https://jobright.ai/jobs/info/698156b349964d25b5e44a21?utm_campaign=1053&utm_source=git)** | Las Vegas, NV | On Site | Feb 24 |
-| ↳ | **[Intern - Originals Production Intern, UFC](https://jobright.ai/jobs/info/6981543f49964d25b5e4476e?utm_campaign=1053&utm_source=git)** | Las Vegas, NV | On Site | Feb 24 |
-| ↳ | **[Intern - FIght Pass Intern, UFC](https://jobright.ai/jobs/info/698150bfabff4c399aa04981?utm_campaign=1053&utm_source=git)** | Las Vegas, NV | On Site | Feb 24 |
-| **[Ultimate Fighting Championship](http://UFC.com)** | **[Intern - Spanish Production Intern, UFC](https://jobright.ai/jobs/info/6981853f7f40342e15da8eb1?utm_campaign=1053&utm_source=git)** | Las Vegas, NV | On Site | Feb 24 |
-| **[WWE](http://wwe.com)** | **[Intern - Live Production, WWE](https://jobright.ai/jobs/info/6981719c7f40342e15da7d1f?utm_campaign=1053&utm_source=git)** | Stamford, CT | On Site | Feb 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
