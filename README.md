@@ -133,7 +133,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Character TD Summer Internship - Character Simulation](https://jobright.ai/jobs/info/699eff74ce78e77b4fe4b4e5?utm_campaign=1053&utm_source=git)** | Burbank, CA | On Site | Feb 25 |
 | **[KUTV 2News / KMYU](http://kutv.com/)** | **[Intern - Studio Crew](https://jobright.ai/jobs/info/699ef83b94ef206f184e0bdd?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Feb 25 |
 | **[Hasbro](https://shop.hasbro.com)** | **[Intern, Music](https://jobright.ai/jobs/info/699efafcce78e77b4fe4b060?utm_campaign=1053&utm_source=git)** | City of Washington County, DC | On Site | Feb 25 |
-| **[Weigel Broadcasting Co.](https://www.weigelbroadcasting.com/)** | **[Summer Intern](https://jobright.ai/jobs/info/69a143360da45516f16a6fd9?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Feb 24 |
 | **[Jackpot Junction Casino Hotel](http://www.jackpotjunction.com)** | **[Golf Course Internship](https://jobright.ai/jobs/info/699eae47ce78e77b4fe43f02?utm_campaign=1053&utm_source=git)** | Jackpot Junction - Morton, MN 56270 | On Site | Feb 24 |
 | **[NPR](http://www.npr.org)** | **[Temporary Producer I, Programming & Promotion](https://jobright.ai/jobs/info/699e868de0bddb6acace3559?utm_campaign=1053&utm_source=git)** | United States | Remote | Feb 24 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[ABC News Studios Production Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/699eae00ce78e77b4fe43e12?utm_campaign=1053&utm_source=git)** | New York, NY, USA | Hybrid | Feb 24 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Weigel Broadcasting Co.](https://www.weigelbroadcasting.com/)** | **[Summer Post-Production Intern](https://jobright.ai/jobs/info/699e14dc81476f6176b6fc8d?utm_campaign=1053&utm_source=git)** | Chicago,IL,US | On Site | Feb 24 |
 | **[Westchester Magazine](https://westchestermagazine.com)** | **[Summer 2026 Editorial Internship (Print)](https://jobright.ai/jobs/info/699e1351e0bddb6acacd74e0?utm_campaign=1053&utm_source=git)** | NYC Metro Area | Hybrid | Feb 24 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Disney Experiences Video Production Intern, Fall 2026](https://jobright.ai/jobs/info/699de57f81476f6176b6c8e9?utm_campaign=1053&utm_source=git)** | Bay Lake, FL, USA | Hybrid | Feb 24 |
+| ↳ | **[Disney Experiences Digital Integration Intern, Fall 2026](https://jobright.ai/jobs/info/699df1aae0bddb6acacd5e66?utm_campaign=1053&utm_source=git)** | Glendale, CA, USA | On Site | Feb 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
