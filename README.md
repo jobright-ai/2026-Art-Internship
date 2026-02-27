@@ -88,6 +88,7 @@ For a complete list, click the following sortable link below:
 | **[KnowBe4](http://www.KnowBe4.com)** | **[Social Media Production Intern (Hybrid)](https://jobright.ai/jobs/info/6945fb1bd1953b5d11bf09aa?utm_campaign=1053&utm_source=git)** | Clearwater, FL | Hybrid | Feb 25 |
 | **[Gray Media](https://graymedia.com)** | **[GRAY MEDIA FUTURE FOCUS INTERN SUMMER '26 - KMOV](https://jobright.ai/jobs/info/699fdfb553d97f23ee6567f1?utm_campaign=1053&utm_source=git)** | Maryland Heights, MO | On Site | Feb 25 |
 | **[Young & Laramore](http://yandl.com)** | **[Writer Intern](https://jobright.ai/jobs/info/699fe1fd53d97f23ee656c6c?utm_campaign=1053&utm_source=git)** | Indianapolis, 407 Fulton Street, US | Hybrid | Feb 25 |
+| **[Atlanta Gladiators](http://atlantagladiators.com)** | **[Videography Intern 2025-2026 Season/Offseason](https://jobright.ai/jobs/info/69a0d3c00836fe79d861d3d5?utm_campaign=1053&utm_source=git)** | Duluth, GA | Hybrid | Feb 25 |
 | **[Inc. Magazine](http://www.inc.com)** | **[Editorial Intern](https://jobright.ai/jobs/info/69a00a6253d97f23ee65b65b?utm_campaign=1053&utm_source=git)** | NYC Metro Area | Hybrid | Feb 25 |
 | **[St Culture Advocacy](http://www.stculture.org)** | **[Production Assistant - Webshow](https://jobright.ai/jobs/info/699faf8cce78e77b4fe59433?utm_campaign=1053&utm_source=git)** | Palos Verdes Peninsula, CA | On Site | Feb 25 |
 | **[ChristianaCare](http://christianacare.org)** | **[Summer Intern - Communications Production Assistant](https://jobright.ai/jobs/info/699fcac781476f6176b98765?utm_campaign=1053&utm_source=git)** | Wilmington, DE | On Site | Feb 25 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern - FIght Pass Intern, UFC](https://jobright.ai/jobs/info/698150bfabff4c399aa04981?utm_campaign=1053&utm_source=git)** | Las Vegas, NV | On Site | Feb 24 |
 | **[Ultimate Fighting Championship](http://UFC.com)** | **[Intern - Spanish Production Intern, UFC](https://jobright.ai/jobs/info/6981853f7f40342e15da8eb1?utm_campaign=1053&utm_source=git)** | Las Vegas, NV | On Site | Feb 24 |
 | **[WWE](http://wwe.com)** | **[Intern - Live Production, WWE](https://jobright.ai/jobs/info/6981719c7f40342e15da7d1f?utm_campaign=1053&utm_source=git)** | Stamford, CT | On Site | Feb 24 |
-| **[Ultimate Fighting Championship](http://UFC.com)** | **[Intern - FIght Pass Intern, UFC](https://jobright.ai/jobs/info/698179d07f40342e15da842d?utm_campaign=1053&utm_source=git)** | Las Vegas, NV | On Site | Feb 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
