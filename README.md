@@ -58,6 +58,8 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Troon](http://www.troon.com/)** | **[PGA Intern - Assistant Golf Professional](https://jobright.ai/jobs/info/69a0fbf06b458d060735b442?utm_campaign=1053&utm_source=git)** | Flagstaff, Arizona, United States | On Site | Feb 26 |
+| **[HealthCorps](https://www.HealthCorps.org)** | **[Videographer Intern](https://jobright.ai/jobs/info/69a1253a81476f6176bb7e17?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Feb 26 |
+| **[EWTN](http://www.ewtn.com/)** | **[Production Intern](https://jobright.ai/jobs/info/69a1205b6b458d060735d903?utm_campaign=1053&utm_source=git)** | Irondale,AL,US | On Site | Feb 26 |
 | **[The Pioneer](https://www.bigrapidsnews.com/)** | **[Reporter Internship](https://jobright.ai/jobs/info/69a104b181476f6176bb5cb7?utm_campaign=1053&utm_source=git)** | Midland, MI | On Site | Feb 26 |
 | **[Klick](https://www.klick.com)** | **[Production Coordinator, Summer 2026](https://jobright.ai/jobs/info/69a1012d5218a81676723a3e?utm_campaign=1053&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Feb 26 |
 | **[SOCAN](http://www.socan.ca)** | **[Membership - Creative - Film & TV Intern](https://jobright.ai/jobs/info/69a108a481476f6176bb5f8f?utm_campaign=1053&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Feb 26 |
@@ -111,8 +113,8 @@ For a complete list, click the following sortable link below:
 | **[Baker Publishing Group](http://bakerpublishinggroup.com/)** | **[Acquisitions Intern- Summer](https://jobright.ai/jobs/info/699f9479ce78e77b4fe56e4b?utm_campaign=1053&utm_source=git)** | 7808 Creekridge Circle, Minneapolis, MN, USA | On Site | Feb 25 |
 | **[ChristianaCare](http://christianacare.org)** | **[Summer Intern - Communications Production Assistant](https://jobright.ai/jobs/info/699f426c81476f6176b8e742?utm_campaign=1053&utm_source=git)** | Wilmington, DE | Hybrid | Feb 25 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Disney Live Entertainment Costume Buying Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/699fbb75d643757b0e45417e?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | Feb 25 |
-| **[Publicis Groupe ANZ](http://www.publicisgroupeanz.com)** | **[Intern, Production/QT](https://jobright.ai/jobs/info/699f75a981476f6176b908f8?utm_campaign=1053&utm_source=git)** | Springdale, AR, US | On Site | Feb 25 |
-| ↳ | **[Intern, Production/QT](https://jobright.ai/jobs/info/699f5bc0ce78e77b4fe52528?utm_campaign=1053&utm_source=git)** | US-AR-Springdale | On Site | Feb 25 |
+| **[Publicis Groupe ANZ](http://www.publicisgroupeanz.com)** | **[Intern, Production/QT](https://jobright.ai/jobs/info/699f5bc0ce78e77b4fe52528?utm_campaign=1053&utm_source=git)** | US-AR-Springdale | On Site | Feb 25 |
+| ↳ | **[Intern, Production/QT](https://jobright.ai/jobs/info/699f75a981476f6176b908f8?utm_campaign=1053&utm_source=git)** | Springdale, AR, US | On Site | Feb 25 |
 | **[Behaviour Interactive](http://www.bhvr.com/)** | **[Capture Artist – Internship Summer 2026](https://jobright.ai/jobs/info/699f31be81476f6176b8cc5b?utm_campaign=1053&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Feb 25 |
 | **[Telligen](https://www.telligen.com/)** | **[Proposal Writer Internship](https://jobright.ai/jobs/info/699f225181476f6176b8bc51?utm_campaign=1053&utm_source=git)** | West Des Moines, IA | On Site | Feb 25 |
 | **[Salt XC](https://www.saltxc.com/)** | **[AI Enablement Content Producer (Intern)](https://jobright.ai/jobs/info/6982a17a0f6f7e7a2cdbf34a?utm_campaign=1053&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Feb 25 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[SignAI](https://signai.ca/)** | **[French Localization Intern (Québec French) – SignAI (Unpaid Internship)](https://jobright.ai/jobs/info/699dfe8281476f6176b6efb1?utm_campaign=1053&utm_source=git)** | Ontario, Canada | Remote | Feb 24 |
 | **[(USTA) United States Tennis Association](http://www.usta.com)** | **[Undergraduate Intern Summer 2026 - Video Services](https://jobright.ai/jobs/info/69856989348f733a5c39ca48?utm_campaign=1053&utm_source=git)** | Purchase, NY | Hybrid | Feb 24 |
 | **[Museum of Science](http://www.mos.org)** | **[Digital Media  College Internship](https://jobright.ai/jobs/info/6986346e0f6f7e7a2ce1176f?utm_campaign=1053&utm_source=git)** | Boston, MA | On Site | Feb 24 |
-| **[The Transmitter](https://spectrumnews.org/)** | **[Science Reporting Intern](https://jobright.ai/jobs/info/6959f933aa05c26e7ab3a721?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Feb 24 |
-| **[WWE](http://wwe.com)** | **[Intern - Original Content & Documentaries, WWE](https://jobright.ai/jobs/info/69817ba3abff4c399aa07fb2?utm_campaign=1053&utm_source=git)** | Stamford, CT | On Site | Feb 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
