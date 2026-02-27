@@ -57,6 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[LexisNexis Risk Solutions](https://risk.lexisnexis.com)** | **[Editorial Assistant Intern](https://jobright.ai/jobs/info/69a1ceb5b600907a96282b2d?utm_campaign=1053&utm_source=git)** | Florida | Remote | Feb 27 |
+| **[RELX](https://www.relx.com)** | **[Editorial Assistant Intern](https://jobright.ai/jobs/info/69a1cdd10da45516f16b25ff?utm_campaign=1053&utm_source=git)** | Florida | Remote | Feb 27 |
+| ↳ | **[Editorial Assistant Intern](https://jobright.ai/jobs/info/69a1ccf6b600907a962829d8?utm_campaign=1053&utm_source=git)** | New York | Remote | Feb 27 |
+| ↳ | **[Editorial Assistant Intern](https://jobright.ai/jobs/info/69a1ccceb600907a962829be?utm_campaign=1053&utm_source=git)** | Massachusetts | Remote | Feb 27 |
+| ↳ | **[Editorial Assistant Intern](https://jobright.ai/jobs/info/69a1cc52359fe034b1cd1a95?utm_campaign=1053&utm_source=git)** | Pennsylvania | Remote | Feb 27 |
+| **[LexisNexis Risk Solutions](https://risk.lexisnexis.com)** | **[Editorial Assistant Intern](https://jobright.ai/jobs/info/69a1cb51359fe034b1cd19e3?utm_campaign=1053&utm_source=git)** | Massachusetts | Remote | Feb 27 |
+| ↳ | **[Editorial Assistant Intern](https://jobright.ai/jobs/info/69a1ca1e0da45516f16b2359?utm_campaign=1053&utm_source=git)** | Pennsylvania | Remote | Feb 27 |
+| ↳ | **[Editorial Assistant Intern](https://jobright.ai/jobs/info/69a1c9f6359fe034b1cd18fa?utm_campaign=1053&utm_source=git)** | New York | Remote | Feb 27 |
+| **[Hearst Newspapers](https://eevd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_15)** | **[Newsroom Summer Intern](https://jobright.ai/jobs/info/69a1bbe9b600907a96281f1b?utm_campaign=1053&utm_source=git)** | 645 Albany Shaker Road, Albany, NY, 12211, US | Hybrid | Feb 27 |
 | **[EWTN](http://www.ewtn.com/)** | **[Production Intern](https://jobright.ai/jobs/info/69a1b4fc0da45516f16b1540?utm_campaign=1053&utm_source=git)** | Birmingham, AL | On Site | Feb 27 |
 | **[Miami HEAT](http://HEAT.com)** | **[Intern, Content Studio - Summer 2026](https://jobright.ai/jobs/info/6984fe99348f733a5c391a4f?utm_campaign=1053&utm_source=git)** | Miami, FL | On Site | Feb 27 |
 | **[Austin American-Statesman](https://www.statesman.com)** | **[Newsroom Summer Intern](https://jobright.ai/jobs/info/69a1b21fb600907a962816d9?utm_campaign=1053&utm_source=git)** | 645 Albany Shaker Road, Albany, NY, 12211, US | Hybrid | Feb 27 |
@@ -130,8 +139,8 @@ For a complete list, click the following sortable link below:
 | **[Baker Publishing Group](http://bakerpublishinggroup.com/)** | **[Acquisitions Intern- Summer](https://jobright.ai/jobs/info/699f9479ce78e77b4fe56e4b?utm_campaign=1053&utm_source=git)** | 7808 Creekridge Circle, Minneapolis, MN, USA | On Site | Feb 25 |
 | **[ChristianaCare](http://christianacare.org)** | **[Summer Intern - Communications Production Assistant](https://jobright.ai/jobs/info/699f426c81476f6176b8e742?utm_campaign=1053&utm_source=git)** | Wilmington, DE | Hybrid | Feb 25 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Disney Live Entertainment Costume Buying Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/699fbb75d643757b0e45417e?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | Feb 25 |
-| **[Publicis Groupe ANZ](http://www.publicisgroupeanz.com)** | **[Intern, Production/QT](https://jobright.ai/jobs/info/699f5bc0ce78e77b4fe52528?utm_campaign=1053&utm_source=git)** | US-AR-Springdale | On Site | Feb 25 |
-| ↳ | **[Intern, Production/QT](https://jobright.ai/jobs/info/699f75a981476f6176b908f8?utm_campaign=1053&utm_source=git)** | Springdale, AR, US | On Site | Feb 25 |
+| **[Publicis Groupe ANZ](http://www.publicisgroupeanz.com)** | **[Intern, Production/QT](https://jobright.ai/jobs/info/699f75a981476f6176b908f8?utm_campaign=1053&utm_source=git)** | Springdale, AR, US | On Site | Feb 25 |
+| ↳ | **[Intern, Production/QT](https://jobright.ai/jobs/info/699f5bc0ce78e77b4fe52528?utm_campaign=1053&utm_source=git)** | US-AR-Springdale | On Site | Feb 25 |
 | **[Behaviour Interactive](http://www.bhvr.com/)** | **[Capture Artist – Internship Summer 2026](https://jobright.ai/jobs/info/699f31be81476f6176b8cc5b?utm_campaign=1053&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Feb 25 |
 | **[Telligen](https://www.telligen.com/)** | **[Proposal Writer Internship](https://jobright.ai/jobs/info/699f225181476f6176b8bc51?utm_campaign=1053&utm_source=git)** | West Des Moines, IA | On Site | Feb 25 |
 | **[Salt XC](https://www.saltxc.com/)** | **[AI Enablement Content Producer (Intern)](https://jobright.ai/jobs/info/6982a17a0f6f7e7a2cdbf34a?utm_campaign=1053&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Feb 25 |
@@ -148,13 +157,4 @@ For a complete list, click the following sortable link below:
 | **[KUTV 2News / KMYU](http://kutv.com/)** | **[Intern - Studio Crew](https://jobright.ai/jobs/info/699ef83b94ef206f184e0bdd?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Feb 25 |
 | **[Hasbro](https://shop.hasbro.com)** | **[Intern, Music](https://jobright.ai/jobs/info/699efafcce78e77b4fe4b060?utm_campaign=1053&utm_source=git)** | City of Washington County, DC | On Site | Feb 25 |
 | **[Jackpot Junction Casino Hotel](http://www.jackpotjunction.com)** | **[Golf Course Internship](https://jobright.ai/jobs/info/699eae47ce78e77b4fe43f02?utm_campaign=1053&utm_source=git)** | Jackpot Junction - Morton, MN 56270 | On Site | Feb 24 |
-| **[NPR](http://www.npr.org)** | **[Temporary Producer I, Programming & Promotion](https://jobright.ai/jobs/info/699e868de0bddb6acace3559?utm_campaign=1053&utm_source=git)** | United States | Remote | Feb 24 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[ABC News Studios Production Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/699eae00ce78e77b4fe43e12?utm_campaign=1053&utm_source=git)** | New York, NY, USA | Hybrid | Feb 24 |
-| **[MOCEAN](http://moceanla.com)** | **[2026 SUMMER INTERNSHIP (Paid)](https://jobright.ai/jobs/info/6977d75088e2b47213bbd038?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | Feb 24 |
-| **[New Beginnings Global](https://nbcn.live)** | **[Travel Content Operation(Glendale-Onsite)](https://jobright.ai/jobs/info/699e7c63e0bddb6acace223a?utm_campaign=1053&utm_source=git)** | Glendale, CA | On Site | Feb 24 |
-| **[Lakeside](https://www.lakesidepharma.com.mx)** | **[Videography/Photography Intern](https://jobright.ai/jobs/info/69a030125218a81676713131?utm_campaign=1053&utm_source=git)** | 43440, OH, US | On Site | Feb 24 |
-| **[VX Media](https://www.vxmedia.co)** | **[Producer Intern](https://jobright.ai/jobs/info/699e47bace78e77b4fe36629?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Feb 24 |
-| **[Birth Of Royal Child](https://birthofroyalchild.com/)** | **[Fashion Management Intern (Unpaid – Onsite Only)](https://jobright.ai/jobs/info/699e5b88ce78e77b4fe38b56?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Feb 24 |
-| **[Legends Global](http://legends.net)** | **[Video/Content Production Intern](https://jobright.ai/jobs/info/699e3b4fe0bddb6acacd9725?utm_campaign=1053&utm_source=git)** | Miami, FL | On Site | Feb 24 |
-| **[Jomboy Media](https://jomboymedia.com)** | **[Production Internship - Summer 2026](https://jobright.ai/jobs/info/699e271581476f6176b707ff?utm_campaign=1053&utm_source=git)** | Jersey City, NJ | On Site | Feb 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
