@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Community Impact](https://communityimpact.com)** | **[Editorial Intern - Houston, Texas](https://jobright.ai/jobs/info/69a299c9b600907a9628f49c?utm_campaign=1053&utm_source=git)** | Houston, TX | On Site | Feb 27 |
+| **[Texas Department of Transportation](https://www.txdot.gov)** | **[Content Management Internship](https://jobright.ai/jobs/info/69a28ae90da45516f16be026?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | Feb 27 |
 | **[The Philadelphia Inquirer](https://www.inquirer.com/)** | **[Business Reporter Intern](https://jobright.ai/jobs/info/69a26708359fe034b1cda548?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | Hybrid | Feb 27 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[NewsNation News Internship Summer 2026 (Washington, DC)](https://jobright.ai/jobs/info/69a25103359fe034b1cd8b57?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Feb 27 |
 | **[VettaFi](https://vettafi.com/)** | **[Staff Writer Intern](https://jobright.ai/jobs/info/69a265780da45516f16bab94?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Feb 27 |
@@ -110,7 +112,8 @@ For a complete list, click the following sortable link below:
 | **[Expanding Boundaries International](https://linktr.ee/ebabroad)** | **[TikTok Content Creator (Volunteer/Internship) - Remote](https://jobright.ai/jobs/info/69a15c0b359fe034b1cc97e1?utm_campaign=1053&utm_source=git)** | Westminster, MD | Remote | Feb 27 |
 | **[Universal Orlando Resort](https://UniversalOrlandoJobs.com)** | **[Internship – Halloween Horror Nights Wrist Banding (Fall 2026)](https://jobright.ai/jobs/info/69a15789b600907a9627a7da?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | Feb 27 |
 | ↳ | **[Internship – Producer Intern, Popcorn Creative (Fall 2026)](https://jobright.ai/jobs/info/69a154b90da45516f16a9c97?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | Feb 27 |
-| ↳ | **[Internship – Editorial Writing, Discover Universal Blog (Fall 2026)*](https://jobright.ai/jobs/info/69a154aad29bbd4d8e6b083d?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | Feb 27 |
+| **[Universal Orlando Resort](https://UniversalOrlandoJobs.com)** | **[Internship – Discover Universal Video Content Strategy (Fall 2026)](https://jobright.ai/jobs/info/69a152ac0da45516f16a97ce?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | Feb 26 |
+| ↳ | **[Internship – Editorial Writing, Discover Universal (Fall 2026)*](https://jobright.ai/jobs/info/69a154aad29bbd4d8e6b083d?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | Feb 26 |
 | **[Manifold Ventures](https://www.manifoldventures.net)** | **[Volunteer](https://jobright.ai/jobs/info/69a13b0d6b458d060735f8f4?utm_campaign=1053&utm_source=git)** | New York, United States | Remote | Feb 26 |
 | **[Rock Events](https://rockevents.com/)** | **[Event Production Intern - Summer 2026](https://jobright.ai/jobs/info/69a1310f6b458d060735ebff?utm_campaign=1053&utm_source=git)** | Detroit, MI | On Site | Feb 26 |
 | **[Troon](http://www.troon.com/)** | **[PGA Intern - Assistant Golf Professional](https://jobright.ai/jobs/info/69a0fbf06b458d060735b442?utm_campaign=1053&utm_source=git)** | Flagstaff, Arizona, United States | On Site | Feb 26 |
@@ -123,7 +126,6 @@ For a complete list, click the following sortable link below:
 | **[Klick](https://www.klick.com)** | **[Production Coordinator, Summer 2026](https://jobright.ai/jobs/info/69a1012d5218a81676723a3e?utm_campaign=1053&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Feb 26 |
 | **[SOCAN](http://www.socan.ca)** | **[Membership - Creative - Film & TV Intern](https://jobright.ai/jobs/info/69a108a481476f6176bb5f8f?utm_campaign=1053&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Feb 26 |
 | **[Scientific American](http://www.scientificamerican.com/)** | **[News Intern](https://jobright.ai/jobs/info/69a0bf645218a8167671ea87?utm_campaign=1053&utm_source=git)** | New York, United States | Hybrid | Feb 26 |
-| **[GBH](http://www.wgbh.org/)** | **[Antiques Roadshow Internship - Summer 2026](https://jobright.ai/jobs/info/699c19f6ce78e77b4fe0a699?utm_campaign=1053&utm_source=git)** | United States | Remote | Feb 26 |
 | **[American Academy of Neurology](https://www.aan.com)** | **[INTERN, CONTINUUM EDITORIAL](https://jobright.ai/jobs/info/69a0de9581476f6176bb30da?utm_campaign=1053&utm_source=git)** | Minneapolis, MN | Hybrid | Feb 26 |
 | **[Watertown Shamrocks](https://watertownshamrocks.com/)** | **[Broadcast Production Assistant Internship](https://jobright.ai/jobs/info/69a0b1e20836fe79d861b19d?utm_campaign=1053&utm_source=git)** | Watertown, SD | On Site | Feb 26 |
 | **[Hearst Newspapers](https://eevd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_15)** | **[Reporter Internship](https://jobright.ai/jobs/info/69a0e64381476f6176bb3e17?utm_campaign=1053&utm_source=git)** | Midland, MI, United States | On Site | Feb 26 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[KnowBe4](http://www.KnowBe4.com)** | **[Social Media Production Intern (Hybrid)](https://jobright.ai/jobs/info/6945fb1bd1953b5d11bf09aa?utm_campaign=1053&utm_source=git)** | Clearwater, FL | Hybrid | Feb 25 |
 | **[Gray Media](https://graymedia.com)** | **[GRAY MEDIA FUTURE FOCUS INTERN SUMMER '26 - KMOV](https://jobright.ai/jobs/info/699fdfb553d97f23ee6567f1?utm_campaign=1053&utm_source=git)** | Maryland Heights, MO | On Site | Feb 25 |
 | **[Young & Laramore](http://yandl.com)** | **[Writer Intern](https://jobright.ai/jobs/info/699fe1fd53d97f23ee656c6c?utm_campaign=1053&utm_source=git)** | Indianapolis, 407 Fulton Street, US | Hybrid | Feb 25 |
-| **[Atlanta Gladiators](http://atlantagladiators.com)** | **[Videography Intern 2025-2026 Season/Offseason](https://jobright.ai/jobs/info/69a0d3c00836fe79d861d3d5?utm_campaign=1053&utm_source=git)** | Duluth, GA | Hybrid | Feb 25 |
-| **[Inc. Magazine](http://www.inc.com)** | **[Editorial Intern](https://jobright.ai/jobs/info/69a00a6253d97f23ee65b65b?utm_campaign=1053&utm_source=git)** | NYC Metro Area | Hybrid | Feb 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
