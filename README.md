@@ -57,7 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Community Impact](https://communityimpact.com)** | **[Editorial Intern - Houston, Texas](https://jobright.ai/jobs/info/69a299c9b600907a9628f49c?utm_campaign=1053&utm_source=git)** | Houston, TX | On Site | Feb 27 |
 | **[Texas Department of Transportation](https://www.txdot.gov)** | **[Content Management Internship](https://jobright.ai/jobs/info/69a28ae90da45516f16be026?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | Feb 27 |
 | **[The Philadelphia Inquirer](https://www.inquirer.com/)** | **[Business Reporter Intern](https://jobright.ai/jobs/info/69a26708359fe034b1cda548?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | Hybrid | Feb 27 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[NewsNation News Internship Summer 2026 (Washington, DC)](https://jobright.ai/jobs/info/69a25103359fe034b1cd8b57?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Feb 27 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[KnowBe4](http://www.KnowBe4.com)** | **[Social Media Production Intern (Hybrid)](https://jobright.ai/jobs/info/6945fb1bd1953b5d11bf09aa?utm_campaign=1053&utm_source=git)** | Clearwater, FL | Hybrid | Feb 25 |
 | **[Gray Media](https://graymedia.com)** | **[GRAY MEDIA FUTURE FOCUS INTERN SUMMER '26 - KMOV](https://jobright.ai/jobs/info/699fdfb553d97f23ee6567f1?utm_campaign=1053&utm_source=git)** | Maryland Heights, MO | On Site | Feb 25 |
 | **[Young & Laramore](http://yandl.com)** | **[Writer Intern](https://jobright.ai/jobs/info/699fe1fd53d97f23ee656c6c?utm_campaign=1053&utm_source=git)** | Indianapolis, 407 Fulton Street, US | Hybrid | Feb 25 |
+| **[Atlanta Gladiators](http://atlantagladiators.com)** | **[Videography Intern 2025-2026 Season/Offseason](https://jobright.ai/jobs/info/69a0d3c00836fe79d861d3d5?utm_campaign=1053&utm_source=git)** | Duluth, GA | Hybrid | Feb 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
