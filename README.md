@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[HealthCorps](https://www.HealthCorps.org)** | **[Videography Intern(Unpaid Experience or School Credit)](https://jobright.ai/jobs/info/69a33a0b0da45516f16c7a4f?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Feb 28 |
+| **[HealthCorps](https://www.HealthCorps.org)** | **[HealthCorps Videographer Intern(Unpaid Experience or School Credit)](https://jobright.ai/jobs/info/69a34d1d359fe034b1ce8038?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Feb 28 |
+| **[Michigan Medicine](http://www.uofmhealth.org/)** | **[Video Production Intern](https://jobright.ai/jobs/info/69a34d07b600907a96298d91?utm_campaign=1053&utm_source=git)** | Ann Arbor, MI | Hybrid | Feb 28 |
 | **[Higginbotham](https://www.higginbotham.com)** | **[Higginbotham Summer Internship - Corporate Marketing & Communications Video Editor Intern](https://jobright.ai/jobs/info/691694a56f36db06ef057fea?utm_campaign=1053&utm_source=git)** | Fort Worth, TX | On Site | Feb 28 |
 | **[Amazon](https://amazon.com)** | **[IP & Literary Intern, Prime Video & Amazon MGM Studios](https://jobright.ai/jobs/info/694f4897a2668b7f54527891?utm_campaign=1053&utm_source=git)** | Culver City, CA | On Site | Feb 28 |
 | **[American Fidelity](http://www.americanfidelity.com)** | **[Videographer Intern](https://jobright.ai/jobs/info/696ae5255fc86241853a190e?utm_campaign=1053&utm_source=git)** | Oklahoma City, OK | On Site | Feb 28 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Audacy, Inc.](https://audacyinc.com/)** | **[Summer Intern](https://jobright.ai/jobs/info/69915efa0cc8ea15f1dc03b5?utm_campaign=1053&utm_source=git)** | Farmington, CT | On Site | Feb 26 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[ABC News Studios Production Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69a0447081476f6176ba70d1?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Feb 26 |
 | ↳ | **[ABC News Special Projects Production Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69a041320836fe79d8611c6b?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Feb 26 |
-| **[General Dynamics Ordnance and Tactical Systems](http://www.gd-ots.com)** | **[Intern, Business Support (Digital Media Intern)](https://jobright.ai/jobs/info/69841d8d348f733a5c37eed6?utm_campaign=1053&utm_source=git)** | Saco, ME | On Site | Feb 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
