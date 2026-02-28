@@ -57,8 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Arborist Trainee Internship (2026) / Lake Bluff, IL](https://jobright.ai/jobs/info/69a2229ab600907a96286f17?utm_campaign=1053&utm_source=git)** | Lake Bluff, IL | On Site | Feb 27 |
+| ↳ | **[Arborist Trainee Internship (2026) / Crystal Lake, IL](https://jobright.ai/jobs/info/69a2213b359fe034b1cd5ea6?utm_campaign=1053&utm_source=git)** | Crystal Lake, IL | On Site | Feb 27 |
+| **[NORTH SIX](http://northsix.net)** | **[Studio Intern](https://jobright.ai/jobs/info/69a221110da45516f16b69e8?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Feb 27 |
+| **[Precision Medicine Group](https://www.precisionmedicinegrp.com/pfm/)** | **[Summer 2026 Internship - Medical Writing Intern](https://jobright.ai/jobs/info/69a21e81b600907a96286ac7?utm_campaign=1053&utm_source=git)** | United States | Remote | Feb 27 |
+| **[Giant Spoon](http://giantspoon.com/)** | **[Content Production Intern (Summer)](https://jobright.ai/jobs/info/697a82b6f6fc293b0a2c55fb?utm_campaign=1053&utm_source=git)** | New York, United States | Hybrid | Feb 27 |
+| **[Precision AQ](http://www.precisionaq.com)** | **[Summer 2026 Internship - Medical Writing Intern](https://jobright.ai/jobs/info/69a224a4b600907a9628713e?utm_campaign=1053&utm_source=git)** | United States | Remote | Feb 27 |
 | **[SexSymbol Magazine](sexsymbolmagazine.com)** | **[Video Editing Intern Video ( Unpaid, Remote – Internship )](https://jobright.ai/jobs/info/69a206120da45516f16b4efe?utm_campaign=1053&utm_source=git)** | United States | Remote | Feb 27 |
+| **[WHYY](http://whyy.org/)** | **[TV Production Intern](https://jobright.ai/jobs/info/69a22b2c359fe034b1cd68ab?utm_campaign=1053&utm_source=git)** | HQ - Philadelphia, PA 19106 | On Site | Feb 27 |
+| **[Morning Walk](http://jacobsonrost.com)** | **[Video Editing Intern](https://jobright.ai/jobs/info/69a21103359fe034b1cd4fac?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Feb 27 |
 | **[Forsyth County](http://www.forsyth.cc)** | **[Intern](https://jobright.ai/jobs/info/69a1ee480da45516f16b395b?utm_campaign=1053&utm_source=git)** | Winston-Salem, NC | On Site | Feb 27 |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[The Hive, Producer Intern, Summer 2026](https://jobright.ai/jobs/info/69a228c70da45516f16b7192?utm_campaign=1053&utm_source=git)** | Burbank, CA, USA | On Site | Feb 27 |
 | **[U.S. News & World Report](http://www.usnews.com)** | **[Health Editorial Summer 2026 Intern (DC)](https://jobright.ai/jobs/info/69851dc08da7a612045f773d?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Feb 27 |
 | **[Bootstrapper Capital](https://bootstrappercapital.com)** | **[Videographer + Content (Internship)](https://jobright.ai/jobs/info/69a203bb0da45516f16b4ca1?utm_campaign=1053&utm_source=git)** | NYC Metro Area | Remote | Feb 27 |
 | **[Community Impact](https://communityimpact.com)** | **[Editorial Intern - Houston, Texas](https://jobright.ai/jobs/info/69a20317b600907a96285078?utm_campaign=1053&utm_source=git)** | Jersey Village,TX,US | On Site | Feb 27 |
@@ -86,8 +95,8 @@ For a complete list, click the following sortable link below:
 | **[Expanding Boundaries International](https://linktr.ee/ebabroad)** | **[TikTok Content Creator (Volunteer/Internship) - Remote](https://jobright.ai/jobs/info/69a15c0b359fe034b1cc97e1?utm_campaign=1053&utm_source=git)** | Westminster, MD | Remote | Feb 27 |
 | **[Universal Orlando Resort](https://UniversalOrlandoJobs.com)** | **[Internship – Halloween Horror Nights Wrist Banding (Fall 2026)](https://jobright.ai/jobs/info/69a15789b600907a9627a7da?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | Feb 27 |
 | ↳ | **[Internship – Producer Intern, Popcorn Creative (Fall 2026)](https://jobright.ai/jobs/info/69a154b90da45516f16a9c97?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | Feb 27 |
-| ↳ | **[Internship – Editorial Writing, Discover Universal (Fall 2026)*](https://jobright.ai/jobs/info/69a154aad29bbd4d8e6b083d?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | Feb 27 |
 | ↳ | **[Internship – Discover Universal Video Content Strategy (Fall 2026)](https://jobright.ai/jobs/info/69a152ac0da45516f16a97ce?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | Feb 27 |
+| ↳ | **[Internship – Editorial Writing, Discover Universal Blog (Fall 2026)*](https://jobright.ai/jobs/info/69a154aad29bbd4d8e6b083d?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | Feb 27 |
 | **[Manifold Ventures](https://www.manifoldventures.net)** | **[Volunteer](https://jobright.ai/jobs/info/69a13b0d6b458d060735f8f4?utm_campaign=1053&utm_source=git)** | New York, United States | Remote | Feb 26 |
 | **[Rock Events](https://rockevents.com/)** | **[Event Production Intern - Summer 2026](https://jobright.ai/jobs/info/69a1310f6b458d060735ebff?utm_campaign=1053&utm_source=git)** | Detroit, MI | On Site | Feb 26 |
 | **[Troon](http://www.troon.com/)** | **[PGA Intern - Assistant Golf Professional](https://jobright.ai/jobs/info/69a0fbf06b458d060735b442?utm_campaign=1053&utm_source=git)** | Flagstaff, Arizona, United States | On Site | Feb 26 |
@@ -148,13 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Publicis Groupe ANZ](http://www.publicisgroupeanz.com)** | **[Intern, Production/QT](https://jobright.ai/jobs/info/699f5bc0ce78e77b4fe52528?utm_campaign=1053&utm_source=git)** | US-AR-Springdale | On Site | Feb 25 |
 | ↳ | **[Intern, Production/QT](https://jobright.ai/jobs/info/699f75a981476f6176b908f8?utm_campaign=1053&utm_source=git)** | Springdale, AR, US | On Site | Feb 25 |
 | **[Behaviour Interactive](http://www.bhvr.com/)** | **[Capture Artist – Internship Summer 2026](https://jobright.ai/jobs/info/699f31be81476f6176b8cc5b?utm_campaign=1053&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Feb 25 |
-| **[Telligen](https://www.telligen.com/)** | **[Proposal Writer Internship](https://jobright.ai/jobs/info/699f225181476f6176b8bc51?utm_campaign=1053&utm_source=git)** | West Des Moines, IA | On Site | Feb 25 |
-| **[Salt XC](https://www.saltxc.com/)** | **[AI Enablement Content Producer (Intern)](https://jobright.ai/jobs/info/6982a17a0f6f7e7a2cdbf34a?utm_campaign=1053&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Feb 25 |
-| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Broadcasting Internship (NYSBA)](https://jobright.ai/jobs/info/6982675d0f6f7e7a2cdb920d?utm_campaign=1053&utm_source=git)** | Colchester, VT | On Site | Feb 25 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[ABC News Special Projects Production Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/699f216d81476f6176b8bbae?utm_campaign=1053&utm_source=git)** | New York, NY, USA | On Site | Feb 25 |
-| **[KERA – North Texas Public Broadcasting](https://www.kera.org/)** | **[Denton Record-Chronicle Intern, Summer 2026](https://jobright.ai/jobs/info/699f556181476f6176b8f278?utm_campaign=1053&utm_source=git)** | Denton, TX | Hybrid | Feb 25 |
-| **[EBSCO Information Services](https://www.ebsco.com)** | **[Proprietary Content Intern](https://jobright.ai/jobs/info/69824355a314e7636905a805?utm_campaign=1053&utm_source=git)** | United States | Remote | Feb 25 |
-| **[Walt Disney Animation Studios](https://www.disneyanimation.com/)** | **[2026 Character TD Summer Internship - Character Simulation](https://jobright.ai/jobs/info/699eea6781476f6176b86217?utm_campaign=1053&utm_source=git)** | Burbank, CA | On Site | Feb 25 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[KABC-TV (ABC7) Sports News Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/6999a1bde0bddb6acac8e2a2?utm_campaign=1053&utm_source=git)** | Glendale, CA | On Site | Feb 25 |
-| ↳ | **[Disney Experiences Video Production Intern, Fall 2026](https://jobright.ai/jobs/info/699ee1d194ef206f184de6ce?utm_campaign=1053&utm_source=git)** | Bay Lake, FL | On Site | Feb 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
