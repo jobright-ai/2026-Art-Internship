@@ -57,7 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[NewsNation News Internship Summer 2026 (Washington, DC)](https://jobright.ai/jobs/info/69a25103359fe034b1cd8b57?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Feb 27 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Disney Experiences Digital Integration Intern, Fall 2026](https://jobright.ai/jobs/info/699efab394ef206f184e0e97?utm_campaign=1053&utm_source=git)** | Glendale, CA | On Site | Feb 27 |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[NewsNation News Internship Summer 2026 (Washington, DC)](https://jobright.ai/jobs/info/69a24fc0359fe034b1cd8a46?utm_campaign=1053&utm_source=git)** | DC, Washington | On Site | Feb 27 |
+| ↳ | **[NewsNation News Internship Summer 2026 (New York)](https://jobright.ai/jobs/info/69a24ed7b600907a9628985f?utm_campaign=1053&utm_source=git)** | NY, New York | On Site | Feb 27 |
 | **[TelevisaUnivision](https://www.corporate.televisaunivision.com)** | **[Intern, Asi Studios](https://jobright.ai/jobs/info/69a248b4b600907a96289360?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Feb 27 |
 | **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Arborist Trainee Internship (2026) / Lake Bluff, IL](https://jobright.ai/jobs/info/69a2229ab600907a96286f17?utm_campaign=1053&utm_source=git)** | Lake Bluff, IL | On Site | Feb 27 |
 | ↳ | **[Arborist Trainee Internship (2026) / Crystal Lake, IL](https://jobright.ai/jobs/info/69a2213b359fe034b1cd5ea6?utm_campaign=1053&utm_source=git)** | Crystal Lake, IL | On Site | Feb 27 |
@@ -136,7 +139,6 @@ For a complete list, click the following sortable link below:
 | **[General Dynamics Ordnance and Tactical Systems](http://www.gd-ots.com)** | **[Intern, Business Support (Digital Media Intern)](https://jobright.ai/jobs/info/69841d8d348f733a5c37eed6?utm_campaign=1053&utm_source=git)** | Saco, ME | On Site | Feb 26 |
 | **[TikTok](https://www.tiktok.com)** | **[TikTok Short Drama Project Intern (TikTok-Short-Drama) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69684e2af25a38006696b2a4?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Feb 26 |
 | **[Skild AI](https://www.skild.ai/)** | **[Technical Animator Intern](https://jobright.ai/jobs/info/6913e9241465e02904e9882f?utm_campaign=1053&utm_source=git)** | San Mateo, CA | On Site | Feb 26 |
-| **[Quanta Magazine](https://www.quantamagazine.org)** | **[Video Intern](https://jobright.ai/jobs/info/69680a03f25a380066965e98?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Feb 26 |
 | **[San Diego County Regional Airport Authority](http://www.san.org)** | **[Arts Administration - Intern II](https://jobright.ai/jobs/info/69a04be10836fe79d8612c65?utm_campaign=1053&utm_source=git)** | San Diego, California, United States | On Site | Feb 26 |
 | **[FOX 47 (WSYM)](https://www.fox47news.com)** | **[Multimedia Journalist Intern, WSYM](https://jobright.ai/jobs/info/69a034c081476f6176ba53de?utm_campaign=1053&utm_source=git)** | Greater Lansing | On Site | Feb 26 |
 | **[San Diego County Regional Airport Authority](http://www.san.org)** | **[Arts Administration - Intern II](https://jobright.ai/jobs/info/69a024005218a81676711320?utm_campaign=1053&utm_source=git)** | San Diego, CA | On Site | Feb 25 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Saatchi X](http://www.saatchix.net/)** | **[Intern, Production/QT](https://jobright.ai/jobs/info/699fa9c8d643757b0e4524e2?utm_campaign=1053&utm_source=git)** | Springdale, AR | On Site | Feb 25 |
 | **[Omni Fort Worth Hotel](https://www.omnihotels.com/)** | **[Activities Omni Care Internship / Summer 2026](https://jobright.ai/jobs/info/699f531e81476f6176b8f11d?utm_campaign=1053&utm_source=git)** | US-TX-Austin | On Site | Feb 25 |
 | **[Extremeline Productions](https://extremelineproductions.com)** | **[Paid Internship - Video Production](https://jobright.ai/jobs/info/69a02acf0836fe79d860faa9?utm_campaign=1053&utm_source=git)** | Ottawa, Ontario, Canada | On Site | Feb 25 |
-| **[Morningstar Sustainalytics](http://www.sustainalytics.com)** | **[Summer Reporting Intern](https://jobright.ai/jobs/info/699f8c3023374b3b6e6b58a4?utm_campaign=1053&utm_source=git)** | New York | Hybrid | Feb 25 |
-| **[Baker Publishing Group](http://bakerpublishinggroup.com/)** | **[Acquisitions Intern- Summer](https://jobright.ai/jobs/info/699f9479ce78e77b4fe56e4b?utm_campaign=1053&utm_source=git)** | 7808 Creekridge Circle, Minneapolis, MN, USA | On Site | Feb 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
