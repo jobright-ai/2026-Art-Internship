@@ -57,8 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Stride, Inc.](https://www.stridelearning.com)** | **[Content Creator Intern](https://jobright.ai/jobs/info/696aa0835fc86241853999d5?utm_campaign=1053&utm_source=git)** | Virginia, United States | Remote | Feb 28 |
 | **[Waterford.org](http://www.waterford.org)** | **[Summer Events Intern](https://jobright.ai/jobs/info/6969f8d4f25a38006698bcb1?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Feb 28 |
 | **[Pluralsight](http://www.pluralsight.com)** | **[Newsletter Production Intern](https://jobright.ai/jobs/info/69869f4b0f6f7e7a2ce1a9e1?utm_campaign=1053&utm_source=git)** | Westlake, TX | Hybrid | Feb 28 |
+| **[SDFX Studios](https://www.sdfxstudios.com)** | **[NExT Summer Intern - VFX Production](https://jobright.ai/jobs/info/699d022ee0bddb6acacc19e1?utm_campaign=1053&utm_source=git)** | Greater Toronto Area, Canada | Remote | Feb 28 |
 | **[University of Michigan](https://www.umich.edu)** | **[Video Production Intern](https://jobright.ai/jobs/info/69a2a6210da45516f16c070a?utm_campaign=1053&utm_source=git)** | Ann Arbor, MI | Hybrid | Feb 28 |
 | **[TelevisaUnivision](https://www.corporate.televisaunivision.com)** | **[Intern, Asi Studios](https://jobright.ai/jobs/info/69a2a546359fe034b1cdfaa5?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Feb 28 |
 | **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[News & Politics Editorial Intern - Summer 2026](https://jobright.ai/jobs/info/69a2b2ad359fe034b1ce0dc6?utm_campaign=1053&utm_source=git)** | United States | Remote | Feb 27 |
@@ -91,7 +93,7 @@ For a complete list, click the following sortable link below:
 | **[Forsyth County](http://www.forsyth.cc)** | **[Intern](https://jobright.ai/jobs/info/69a1ee480da45516f16b395b?utm_campaign=1053&utm_source=git)** | Winston-Salem, NC | On Site | Feb 27 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[The Hive, Producer Intern, Summer 2026](https://jobright.ai/jobs/info/69a228c70da45516f16b7192?utm_campaign=1053&utm_source=git)** | Burbank, CA, USA | On Site | Feb 27 |
 | **[U.S. News & World Report](http://www.usnews.com)** | **[Health Editorial Summer 2026 Intern (DC)](https://jobright.ai/jobs/info/69851dc08da7a612045f773d?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Feb 27 |
-| **[Bootstrapper Capital](https://bootstrappercapital.com)** | **[Videographer + Content (Internship)](https://jobright.ai/jobs/info/69a203bb0da45516f16b4ca1?utm_campaign=1053&utm_source=git)** | NYC Metro Area | Remote | Feb 27 |
+| **[Bootstrapper Capital // powered by Bootstrapper.ai](https://bootstrappercapital.com)** | **[Videographer + Content (Internship)](https://jobright.ai/jobs/info/69a203bb0da45516f16b4ca1?utm_campaign=1053&utm_source=git)** | NYC Metro Area | Remote | Feb 27 |
 | **[Community Impact](https://communityimpact.com)** | **[Editorial Intern - Houston, Texas](https://jobright.ai/jobs/info/69a20317b600907a96285078?utm_campaign=1053&utm_source=git)** | Jersey Village,TX,US | On Site | Feb 27 |
 | **[Sony Pictures Imageworks](http://www.imageworks.com)** | **[Sony Pictures Imageworks Internship - ICAD](https://jobright.ai/jobs/info/69a1fb4fb600907a9628496f?utm_campaign=1053&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Feb 27 |
 | **[Commonwealth of Massachusetts](https://www.mass.gov/)** | **[Biodiversity Media Intern (Unpaid)](https://jobright.ai/jobs/info/69a1d69d359fe034b1cd20f0?utm_campaign=1053&utm_source=git)** | United States-Massachusetts-Boston-100 Cambridge Street | On Site | Feb 27 |
@@ -110,9 +112,7 @@ For a complete list, click the following sortable link below:
 | **[Miami HEAT](http://HEAT.com)** | **[Intern, Content Studio - Summer 2026](https://jobright.ai/jobs/info/6984fe99348f733a5c391a4f?utm_campaign=1053&utm_source=git)** | Miami, FL | On Site | Feb 27 |
 | **[Austin American-Statesman](https://www.statesman.com)** | **[Newsroom Summer Intern](https://jobright.ai/jobs/info/69a1b21fb600907a962816d9?utm_campaign=1053&utm_source=git)** | 645 Albany Shaker Road, Albany, NY, 12211, US | Hybrid | Feb 27 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[The Hill Summer 2026 Editorial Intern- Washington DC](https://jobright.ai/jobs/info/699026d30cc8ea15f1daceb6?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Feb 27 |
-| **[Michigan Medicine](http://www.uofmhealth.org/)** | **[Video Production Intern](https://jobright.ai/jobs/info/69a1ad3cb600907a962812dc?utm_campaign=1053&utm_source=git)** | Ann Arbor, MI | Hybrid | Feb 27 |
 | **[GovExec](https://about.govexec.com/)** | **[Editorial Intern, City & State New York](https://jobright.ai/jobs/info/698517c90f6f7e7a2cdf9bef?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Feb 27 |
-| **[EWTN](http://www.ewtn.com/)** | **[Production Intern](https://jobright.ai/jobs/info/69a2d38d0da45516f16c39ba?utm_campaign=1053&utm_source=git)** | Birmingham, AL | On Site | Feb 27 |
 | **[Dow Jones](http://www.dowjones.com)** | **[Reporting Internship, Mansion Global](https://jobright.ai/jobs/info/699023b30f6f7e7a2cec81f7?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Feb 27 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[2026 Character TD Summer Internship - Character Simulation](https://jobright.ai/jobs/info/699eff74ce78e77b4fe4b4e5?utm_campaign=1053&utm_source=git)** | Burbank, CA | On Site | Feb 27 |
 | ↳ | **[Disney Experiences Video Production Intern, Fall 2026](https://jobright.ai/jobs/info/699ee1d194ef206f184de6ce?utm_campaign=1053&utm_source=git)** | Bay Lake, FL | On Site | Feb 27 |
