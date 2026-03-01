@@ -128,6 +128,7 @@ For a complete list, click the following sortable link below:
 | **[Universal Orlando Resort](https://UniversalOrlandoJobs.com)** | **[Internship – Halloween Horror Nights Wrist Banding (Fall 2026)](https://jobright.ai/jobs/info/69a15789b600907a9627a7da?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | Feb 27 |
 | ↳ | **[Internship – Producer Intern, Popcorn Creative (Fall 2026)](https://jobright.ai/jobs/info/69a154b90da45516f16a9c97?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | Feb 27 |
 | ↳ | **[Internship – Editorial Writing, Discover Universal Blog (Fall 2026)*](https://jobright.ai/jobs/info/69a154aad29bbd4d8e6b083d?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | Feb 27 |
+| **[Quanta Magazine](https://www.quantamagazine.org)** | **[Video Intern](https://jobright.ai/jobs/info/69a3cf32b600907a9629c9b8?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Feb 26 |
 | **[Rock Events](https://rockevents.com/)** | **[Event Production Intern - Summer 2026](https://jobright.ai/jobs/info/69a1310f6b458d060735ebff?utm_campaign=1053&utm_source=git)** | Detroit, MI | On Site | Feb 26 |
 | **[Troon](http://www.troon.com/)** | **[PGA Intern - Assistant Golf Professional](https://jobright.ai/jobs/info/69a0fbf06b458d060735b442?utm_campaign=1053&utm_source=git)** | Flagstaff, Arizona, United States | On Site | Feb 26 |
 | **[Quicken Loans](http://www.quickenloans.com/)** | **[Event Production Intern - Summer 2026](https://jobright.ai/jobs/info/69a136d25218a8167672747c?utm_campaign=1053&utm_source=git)** | Detroit, MI | On Site | Feb 26 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Audacy, Inc.](https://audacyinc.com/)** | **[Summer Intern](https://jobright.ai/jobs/info/69915efa0cc8ea15f1dc03b5?utm_campaign=1053&utm_source=git)** | Farmington, CT | On Site | Feb 26 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[ABC News Studios Production Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69a0447081476f6176ba70d1?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Feb 26 |
 | ↳ | **[ABC News Special Projects Production Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69a041320836fe79d8611c6b?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Feb 26 |
-| **[General Dynamics Ordnance and Tactical Systems](http://www.gd-ots.com)** | **[Intern, Business Support (Digital Media Intern)](https://jobright.ai/jobs/info/69841d8d348f733a5c37eed6?utm_campaign=1053&utm_source=git)** | Saco, ME | On Site | Feb 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
