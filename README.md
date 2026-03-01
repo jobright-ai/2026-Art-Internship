@@ -57,9 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[University of Michigan](https://www.umich.edu)** | **[Video Production Intern](https://jobright.ai/jobs/info/69a3f4f60da45516f16cf0cc?utm_campaign=1053&utm_source=git)** | Ann Arbor, MI | Hybrid | Mar 01 |
 | **[Waco Tribune-Herald](http://wacotrib.com)** | **[Executive and Artistic Director, The Soraya](https://jobright.ai/jobs/info/69a3f0b40da45516f16ce8a8?utm_campaign=1053&utm_source=git)** | Northridge, CA | On Site | Feb 28 |
 | **[HealthCorps](https://www.HealthCorps.org)** | **[HealthCorps Videographer Intern(Unpaid Experience or School Credit)](https://jobright.ai/jobs/info/69a34d1d359fe034b1ce8038?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Feb 28 |
-| **[Michigan Medicine](http://www.uofmhealth.org/)** | **[Video Production Intern](https://jobright.ai/jobs/info/69a34d07b600907a96298d91?utm_campaign=1053&utm_source=git)** | Ann Arbor, MI | Hybrid | Feb 28 |
 | **[Higginbotham](https://www.higginbotham.com)** | **[Higginbotham Summer Internship - Corporate Marketing & Communications Video Editor Intern](https://jobright.ai/jobs/info/691694a56f36db06ef057fea?utm_campaign=1053&utm_source=git)** | Fort Worth, TX | On Site | Feb 28 |
 | **[Amazon](https://amazon.com)** | **[IP & Literary Intern, Prime Video & Amazon MGM Studios](https://jobright.ai/jobs/info/694f4897a2668b7f54527891?utm_campaign=1053&utm_source=git)** | Culver City, CA | On Site | Feb 28 |
 | **[American Fidelity](http://www.americanfidelity.com)** | **[Videographer Intern](https://jobright.ai/jobs/info/696ae5255fc86241853a190e?utm_campaign=1053&utm_source=git)** | Oklahoma City, OK | On Site | Feb 28 |
@@ -72,6 +72,7 @@ For a complete list, click the following sortable link below:
 | **[Waterford.org](http://www.waterford.org)** | **[Summer Events Intern](https://jobright.ai/jobs/info/6969f8d4f25a38006698bcb1?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Feb 28 |
 | **[Pluralsight](http://www.pluralsight.com)** | **[Newsletter Production Intern](https://jobright.ai/jobs/info/69869f4b0f6f7e7a2ce1a9e1?utm_campaign=1053&utm_source=git)** | Westlake, TX | Hybrid | Feb 28 |
 | **[SDFX Studios](https://www.sdfxstudios.com)** | **[NExT Summer Intern - VFX Production](https://jobright.ai/jobs/info/699d022ee0bddb6acacc19e1?utm_campaign=1053&utm_source=git)** | Greater Toronto Area, Canada | Remote | Feb 28 |
+| **[Community Impact](https://communityimpact.com)** | **[Editorial Intern - Houston, Texas](https://jobright.ai/jobs/info/69a40565b600907a962a08dd?utm_campaign=1053&utm_source=git)** | Houston, TX | On Site | Feb 28 |
 | **[TelevisaUnivision](https://www.corporate.televisaunivision.com)** | **[Intern, Asi Studios](https://jobright.ai/jobs/info/69a2a546359fe034b1cdfaa5?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Feb 28 |
 | **[Texas Department of Transportation](https://www.txdot.gov)** | **[Content Management Internship](https://jobright.ai/jobs/info/69a28ae90da45516f16be026?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | Feb 27 |
 | **[The Philadelphia Inquirer](https://www.inquirer.com/)** | **[Business Reporter Intern](https://jobright.ai/jobs/info/69a26708359fe034b1cda548?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | Hybrid | Feb 27 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[AVIXA](https://www.avixa.org)** | **[Content Delivery Intern-Digital Video](https://jobright.ai/jobs/info/69a08f2781476f6176badc27?utm_campaign=1053&utm_source=git)** | FAIRFAX VA, Fairfax, VA, US | Hybrid | Feb 26 |
 | **[DDA](https://www.theddagroup.com)** | **[Internship - Domestic](https://jobright.ai/jobs/info/69a082940836fe79d8617f23?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Feb 26 |
 | **[Psycho Bunny](https://www.psychobunny.com/)** | **[Omnichannel Internship](https://jobright.ai/jobs/info/6983d8980f6f7e7a2cdda7a7?utm_campaign=1053&utm_source=git)** | Montreal, Quebec, Canada | On Site | Feb 26 |
-| **[Operation Smile](http://www.operationsmile.org)** | **[Writing Internship - Operation Smile ILC](https://jobright.ai/jobs/info/696883c31703f05405aa42b9?utm_campaign=1053&utm_source=git)** | Virginia Beach, VA | On Site | Feb 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
