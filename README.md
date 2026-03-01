@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Chris Vaughn Company](https://chrisvaughncompany.com)** | **[🌟 Exciting Internship Opportunity: Content Writers Wanted at The Jersey Review!](https://jobright.ai/jobs/info/69a46474359fe034b1cf3766?utm_campaign=1053&utm_source=git)** | Belmar, NJ | Remote | Mar 01 |
 | **[Michigan Medicine](http://www.uofmhealth.org/)** | **[Video Production Intern](https://jobright.ai/jobs/info/69a44609b600907a962a39ed?utm_campaign=1053&utm_source=git)** | Ann Arbor, MI | Hybrid | Mar 01 |
 | **[City of West Jordan](https://www.westjordan.utah.gov/)** | **[City Events Intern](https://jobright.ai/jobs/info/69a44367b600907a962a38b5?utm_campaign=1053&utm_source=git)** | West Jordan,UT,US | On Site | Mar 01 |
 | **[The Walt Disney Studios](https://waltdisneystudios.com)** | **[The Hive, Producer Intern, Summer 2026](https://jobright.ai/jobs/info/69a43729b600907a962a2a2b?utm_campaign=1053&utm_source=git)** | Burbank, CA | On Site | Mar 01 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[KCRA 3 & My58 Television](http://www.kcra.com)** | **[Intern](https://jobright.ai/jobs/info/69a0c5340836fe79d861c5c9?utm_campaign=1053&utm_source=git)** | Sacramento, CA | On Site | Feb 26 |
 | **[Ellucian](http://www.ellucian.com)** | **[Summer Video Intern (Undergraduate)](https://jobright.ai/jobs/info/69a0c79e5218a8167671f2e4?utm_campaign=1053&utm_source=git)** | Reston, VA | Hybrid | Feb 26 |
 | **[Watertown Shamrocks](https://watertownshamrocks.com/)** | **[In-Arena Host / On-Air Talent Internship](https://jobright.ai/jobs/info/69a0be9e81476f6176bb0aec?utm_campaign=1053&utm_source=git)** | Watertown, SD | On Site | Feb 26 |
-| **[Translation](http://www.translationllc.com/)** | **[Production Intern - The 2026 Come Up Internship Program](https://jobright.ai/jobs/info/69a0c36981476f6176bb0fdb?utm_campaign=1053&utm_source=git)** | Brooklyn, NY | On Site | Feb 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
