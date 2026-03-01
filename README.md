@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Michigan Medicine](http://www.uofmhealth.org/)** | **[Video Production Intern](https://jobright.ai/jobs/info/69a44609b600907a962a39ed?utm_campaign=1053&utm_source=git)** | Ann Arbor, MI | Hybrid | Mar 01 |
+| **[City of West Jordan](https://www.westjordan.utah.gov/)** | **[City Events Intern](https://jobright.ai/jobs/info/69a44367b600907a962a38b5?utm_campaign=1053&utm_source=git)** | West Jordan,UT,US | On Site | Mar 01 |
 | **[The Walt Disney Studios](https://waltdisneystudios.com)** | **[The Hive, Producer Intern, Summer 2026](https://jobright.ai/jobs/info/69a43729b600907a962a2a2b?utm_campaign=1053&utm_source=git)** | Burbank, CA | On Site | Mar 01 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[The Hive, Producer Intern, Summer 2026](https://jobright.ai/jobs/info/69a426dfb600907a962a27a1?utm_campaign=1053&utm_source=git)** | Burbank, CA | On Site | Mar 01 |
 | **[Museum of Science](http://www.mos.org)** | **[Digital Media  College Internship](https://jobright.ai/jobs/info/6986346e0f6f7e7a2ce1176f?utm_campaign=1053&utm_source=git)** | Boston, MA | On Site | Mar 01 |
@@ -77,7 +79,6 @@ For a complete list, click the following sortable link below:
 | **[Waterford.org](http://www.waterford.org)** | **[Summer Events Intern](https://jobright.ai/jobs/info/6969f8d4f25a38006698bcb1?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Feb 28 |
 | **[Pluralsight](http://www.pluralsight.com)** | **[Newsletter Production Intern](https://jobright.ai/jobs/info/69869f4b0f6f7e7a2ce1a9e1?utm_campaign=1053&utm_source=git)** | Westlake, TX | Hybrid | Feb 28 |
 | **[SDFX Studios](https://www.sdfxstudios.com)** | **[NExT Summer Intern - VFX Production](https://jobright.ai/jobs/info/699d022ee0bddb6acacc19e1?utm_campaign=1053&utm_source=git)** | Greater Toronto Area, Canada | Remote | Feb 28 |
-| **[Community Impact](https://communityimpact.com)** | **[Editorial Intern - Houston, Texas](https://jobright.ai/jobs/info/69a409aeb600907a962a15ab?utm_campaign=1053&utm_source=git)** | Houston, TX | On Site | Feb 28 |
 | **[TelevisaUnivision](https://www.corporate.televisaunivision.com)** | **[Intern, Asi Studios](https://jobright.ai/jobs/info/69a2a546359fe034b1cdfaa5?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Feb 28 |
 | **[Texas Department of Transportation](https://www.txdot.gov)** | **[Content Management Internship](https://jobright.ai/jobs/info/69a28ae90da45516f16be026?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | Feb 27 |
 | **[The Philadelphia Inquirer](https://www.inquirer.com/)** | **[Business Reporter Intern](https://jobright.ai/jobs/info/69a26708359fe034b1cda548?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | Hybrid | Feb 27 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Ellucian](http://www.ellucian.com)** | **[Summer Video Intern (Undergraduate)](https://jobright.ai/jobs/info/69a0c79e5218a8167671f2e4?utm_campaign=1053&utm_source=git)** | Reston, VA | Hybrid | Feb 26 |
 | **[Watertown Shamrocks](https://watertownshamrocks.com/)** | **[In-Arena Host / On-Air Talent Internship](https://jobright.ai/jobs/info/69a0be9e81476f6176bb0aec?utm_campaign=1053&utm_source=git)** | Watertown, SD | On Site | Feb 26 |
 | **[Translation](http://www.translationllc.com/)** | **[Production Intern - The 2026 Come Up Internship Program](https://jobright.ai/jobs/info/69a0c36981476f6176bb0fdb?utm_campaign=1053&utm_source=git)** | Brooklyn, NY | On Site | Feb 26 |
-| **[Harvey Media](www.harveymediallc.com)** | **[Creative Producer Intern](https://jobright.ai/jobs/info/69a09b8d81476f6176baec96?utm_campaign=1053&utm_source=git)** | Tulsa Metropolitan Area | Hybrid | Feb 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
