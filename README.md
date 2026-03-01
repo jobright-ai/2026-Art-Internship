@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hustle Magazine](www.thehustlemagazine.com)** | **[Costume Design Internship](https://jobright.ai/jobs/info/69a46d29359fe034b1cf3ae0?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Mar 01 |
 | **[The Chris Vaughn Company](https://chrisvaughncompany.com)** | **[🌟 Exciting Internship Opportunity: Content Writers Wanted at The Jersey Review!](https://jobright.ai/jobs/info/69a46474359fe034b1cf3766?utm_campaign=1053&utm_source=git)** | Belmar, NJ | Remote | Mar 01 |
 | **[Michigan Medicine](http://www.uofmhealth.org/)** | **[Video Production Intern](https://jobright.ai/jobs/info/69a44609b600907a962a39ed?utm_campaign=1053&utm_source=git)** | Ann Arbor, MI | Hybrid | Mar 01 |
 | **[City of West Jordan](https://www.westjordan.utah.gov/)** | **[City Events Intern](https://jobright.ai/jobs/info/69a44367b600907a962a38b5?utm_campaign=1053&utm_source=git)** | West Jordan,UT,US | On Site | Mar 01 |
@@ -66,7 +67,6 @@ For a complete list, click the following sortable link below:
 | **[NARS Cosmetics](https://www.narscosmetics.com/)** | **[Hajimari Intern, Global Artistry & Education (NARS)](https://jobright.ai/jobs/info/696bf310350cf4380313264e?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Mar 01 |
 | **[Good Karma Brands](https://goodkarmabrands.com/)** | **[ESPN Chicago Summer 2026 Content Internship](https://jobright.ai/jobs/info/69a40b31359fe034b1cf08fb?utm_campaign=1053&utm_source=git)** | Chicago, IL, US | On Site | Mar 01 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[ABC News Special Projects Production Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69a041320836fe79d8611c6b?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Mar 01 |
-| **[University of Michigan](https://www.umich.edu)** | **[Video Production Intern](https://jobright.ai/jobs/info/69a3f4f60da45516f16cf0cc?utm_campaign=1053&utm_source=git)** | Ann Arbor, MI | Hybrid | Mar 01 |
 | **[Waco Tribune-Herald](http://wacotrib.com)** | **[Executive and Artistic Director, The Soraya](https://jobright.ai/jobs/info/69a3f0b40da45516f16ce8a8?utm_campaign=1053&utm_source=git)** | Northridge, CA | On Site | Feb 28 |
 | **[HealthCorps](https://www.HealthCorps.org)** | **[HealthCorps Videography Intern](https://jobright.ai/jobs/info/69a34d1d359fe034b1ce8038?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Feb 28 |
 | **[Higginbotham](https://www.higginbotham.com)** | **[Higginbotham Summer Internship - Corporate Marketing & Communications Video Editor Intern](https://jobright.ai/jobs/info/691694a56f36db06ef057fea?utm_campaign=1053&utm_source=git)** | Fort Worth, TX | On Site | Feb 28 |
