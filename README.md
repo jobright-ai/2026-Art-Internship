@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Hustle Magazine](www.thehustlemagazine.com)** | **[Costume Design Internship](https://jobright.ai/jobs/info/69a46d29359fe034b1cf3ae0?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Mar 01 |
+| **[Sty1e Studios INC](https://www.sty1estudios.com/)** | **[Gameplay Video Editor](https://jobright.ai/jobs/info/69a4c9ca359fe034b1cf68b1?utm_campaign=1053&utm_source=git)** | United States | Remote | Mar 01 |
+| **[GBH](http://www.wgbh.org/)** | **[NEPM News Intern - Summer 2026](https://jobright.ai/jobs/info/699c1c97ce78e77b4fe0ab2a?utm_campaign=1053&utm_source=git)** | Springfield, MA | Hybrid | Mar 01 |
+| ↳ | **[GBH Archives Internship - Summer 2026 (AAPB Exhibit Curator)](https://jobright.ai/jobs/info/699c1a28e0bddb6acacaf5a7?utm_campaign=1053&utm_source=git)** | Boston, MA | Remote | Mar 01 |
 | **[The Chris Vaughn Company](https://chrisvaughncompany.com)** | **[🌟 Exciting Internship Opportunity: Content Writers Wanted at The Jersey Review!](https://jobright.ai/jobs/info/69a46474359fe034b1cf3766?utm_campaign=1053&utm_source=git)** | Belmar, NJ | Remote | Mar 01 |
 | **[Michigan Medicine](http://www.uofmhealth.org/)** | **[Video Production Intern](https://jobright.ai/jobs/info/69a44609b600907a962a39ed?utm_campaign=1053&utm_source=git)** | Ann Arbor, MI | Hybrid | Mar 01 |
 | **[City of West Jordan](https://www.westjordan.utah.gov/)** | **[City Events Intern](https://jobright.ai/jobs/info/69a44367b600907a962a38b5?utm_campaign=1053&utm_source=git)** | West Jordan,UT,US | On Site | Mar 01 |
@@ -99,7 +101,6 @@ For a complete list, click the following sortable link below:
 | **[Precision Medicine Group](https://www.precisionmedicinegrp.com/pfm/)** | **[Summer 2026 Internship - Medical Writing Intern](https://jobright.ai/jobs/info/69a21e81b600907a96286ac7?utm_campaign=1053&utm_source=git)** | United States | Remote | Feb 27 |
 | **[Art Institute of Chicago](http://www.artic.edu/)** | **[McMullan Arts Leadership Internship Program](https://jobright.ai/jobs/info/69672aca1703f05405a8d979?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Feb 27 |
 | **[GBH](http://www.wgbh.org/)** | **[GBH News "Under the Radar" Internship - Summer 2026](https://jobright.ai/jobs/info/699c1a0681476f6176b47933?utm_campaign=1053&utm_source=git)** | Boston, MA | Hybrid | Feb 27 |
-| **[Brave Pudding](https://bravepudding.com)** | **[Content Intern](https://jobright.ai/jobs/info/69a2e1d4b600907a9629446e?utm_campaign=1053&utm_source=git)** | West Palm Beach, FL | On Site | Feb 27 |
 | **[Precision Medicine Group](https://www.precisionmedicinegrp.com/pfm/)** | **[Summer 2026 Internship - Medical Writing Intern](https://jobright.ai/jobs/info/69a247d9b600907a9628928a?utm_campaign=1053&utm_source=git)** | Remote, United States | Remote | Feb 27 |
 | **[Precision AQ](http://www.precisionaq.com)** | **[Summer 2026 Internship - Medical Writing Intern](https://jobright.ai/jobs/info/69a24857359fe034b1cd83e4?utm_campaign=1053&utm_source=git)** | Remote, United States | Remote | Feb 27 |
 | **[Giant Spoon](http://giantspoon.com/)** | **[Content Production Intern (Summer)](https://jobright.ai/jobs/info/697a82b6f6fc293b0a2c55fb?utm_campaign=1053&utm_source=git)** | New York, United States | Hybrid | Feb 27 |
@@ -116,7 +117,6 @@ For a complete list, click the following sortable link below:
 | **[Commonwealth of Massachusetts](https://www.mass.gov/)** | **[Biodiversity Media Intern (Unpaid)](https://jobright.ai/jobs/info/69a1d69d359fe034b1cd20f0?utm_campaign=1053&utm_source=git)** | United States-Massachusetts-Boston-100 Cambridge Street | On Site | Feb 27 |
 | **[The Massachusetts Executive Office of Labor and Workforce Development (EOLWD)](http://www.mass.gov/eolwd)** | **[Biodiversity Media Intern (Unpaid)](https://jobright.ai/jobs/info/69a1d57c359fe034b1cd2029?utm_campaign=1053&utm_source=git)** | United States-Massachusetts-Boston-100 Cambridge Street | On Site | Feb 27 |
 | **[Hearst Newspapers](https://eevd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_15)** | **[WCVB News Intern](https://jobright.ai/jobs/info/69a1d54a0da45516f16b2aad?utm_campaign=1053&utm_source=git)** | Needham, MA, United States | On Site | Feb 27 |
-| **[GBH](http://www.wgbh.org/)** | **[Antiques Roadshow Internship - Summer 2026](https://jobright.ai/jobs/info/69a2aab0b600907a96290ff6?utm_campaign=1053&utm_source=git)** | United States | Remote | Feb 27 |
 | **[LexisNexis Risk Solutions](https://risk.lexisnexis.com)** | **[Editorial Assistant Intern](https://jobright.ai/jobs/info/69a1ceb5b600907a96282b2d?utm_campaign=1053&utm_source=git)** | Florida | Remote | Feb 27 |
 | **[RELX](https://www.relx.com)** | **[Editorial Assistant Intern](https://jobright.ai/jobs/info/69a1cdd10da45516f16b25ff?utm_campaign=1053&utm_source=git)** | Florida | Remote | Feb 27 |
 | ↳ | **[Editorial Assistant Intern](https://jobright.ai/jobs/info/69a1ccf6b600907a962829d8?utm_campaign=1053&utm_source=git)** | New York | Remote | Feb 27 |
