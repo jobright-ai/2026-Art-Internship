@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SexSymbol Magazine](sexsymbolmagazine.com)** | **[Video Editing Intern ( Unpaid, Remote – Internship )](https://jobright.ai/jobs/info/69a4e755b600907a962a7dbe?utm_campaign=1053&utm_source=git)** | United States | Remote | Mar 01 |
 | **[HealthCorps](https://www.HealthCorps.org)** | **[Videographer Intern](https://jobright.ai/jobs/info/69a4d5c3359fe034b1cf6baf?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Mar 01 |
 | **[Sty1e Studios INC](https://www.sty1estudios.com/)** | **[Gameplay Video Editor](https://jobright.ai/jobs/info/69a4c9ca359fe034b1cf68b1?utm_campaign=1053&utm_source=git)** | United States | Remote | Mar 01 |
 | **[GBH](http://www.wgbh.org/)** | **[NEPM News Intern - Summer 2026](https://jobright.ai/jobs/info/699c1c97ce78e77b4fe0ab2a?utm_campaign=1053&utm_source=git)** | Springfield, MA | Hybrid | Mar 01 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[National FFA Organization](https://www.ffa.org)** | **[Convention & Event Planner Intern](https://jobright.ai/jobs/info/69a0a9a081476f6176baf82b?utm_campaign=1053&utm_source=git)** | Indianapolis,IN,US | Hybrid | Feb 26 |
 | **[KCRA 3 & My58 Television](http://www.kcra.com)** | **[Intern](https://jobright.ai/jobs/info/69a0c5340836fe79d861c5c9?utm_campaign=1053&utm_source=git)** | Sacramento, CA | On Site | Feb 26 |
 | **[Ellucian](http://www.ellucian.com)** | **[Summer Video Intern (Undergraduate)](https://jobright.ai/jobs/info/69a0c79e5218a8167671f2e4?utm_campaign=1053&utm_source=git)** | Reston, VA | Hybrid | Feb 26 |
-| **[Watertown Shamrocks](https://watertownshamrocks.com/)** | **[In-Arena Host / On-Air Talent Internship](https://jobright.ai/jobs/info/69a0be9e81476f6176bb0aec?utm_campaign=1053&utm_source=git)** | Watertown, SD | On Site | Feb 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
