@@ -138,8 +138,7 @@ For a complete list, click the following sortable link below:
 | **[Expanding Boundaries International](https://linktr.ee/ebabroad)** | **[TikTok Content Creator (Volunteer/Internship) - Remote](https://jobright.ai/jobs/info/69a15c0b359fe034b1cc97e1?utm_campaign=1053&utm_source=git)** | Westminster, MD | Remote | Feb 27 |
 | **[Universal Orlando Resort](https://UniversalOrlandoJobs.com)** | **[Internship – Halloween Horror Nights Wrist Banding (Fall 2026)](https://jobright.ai/jobs/info/69a15789b600907a9627a7da?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | Feb 27 |
 | ↳ | **[Internship – Producer Intern, Popcorn Creative (Fall 2026)](https://jobright.ai/jobs/info/69a154b90da45516f16a9c97?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | Feb 27 |
-| **[Universal Orlando Resort](https://UniversalOrlandoJobs.com)** | **[Internship – Discover Universal Video Content Strategy (Fall 2026)](https://jobright.ai/jobs/info/69a152ac0da45516f16a97ce?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | Feb 26 |
-| ↳ | **[Internship – Editorial Writing, Discover Universal (Fall 2026)*](https://jobright.ai/jobs/info/69a154aad29bbd4d8e6b083d?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | Feb 26 |
+| ↳ | **[Internship – Editorial Writing, Discover Universal Blog (Fall 2026)*](https://jobright.ai/jobs/info/69a154aad29bbd4d8e6b083d?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | Feb 27 |
 | **[Quanta Magazine](https://www.quantamagazine.org)** | **[Video Intern](https://jobright.ai/jobs/info/69a3cf32b600907a9629c9b8?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Feb 26 |
 | **[Rock Events](https://rockevents.com/)** | **[Event Production Intern - Summer 2026](https://jobright.ai/jobs/info/69a1310f6b458d060735ebff?utm_campaign=1053&utm_source=git)** | Detroit, MI | On Site | Feb 26 |
 | **[Troon](http://www.troon.com/)** | **[PGA Intern - Assistant Golf Professional](https://jobright.ai/jobs/info/69a0fbf06b458d060735b442?utm_campaign=1053&utm_source=git)** | Flagstaff, Arizona, United States | On Site | Feb 26 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[American Academy of Neurology](https://www.aan.com)** | **[INTERN, CONTINUUM EDITORIAL](https://jobright.ai/jobs/info/69a0e4b65218a81676721ac6?utm_campaign=1053&utm_source=git)** | Minneapolis, MN, US | Hybrid | Feb 26 |
 | **[National FFA Organization](https://www.ffa.org)** | **[Convention & Event Planner Intern](https://jobright.ai/jobs/info/69a0a9a081476f6176baf82b?utm_campaign=1053&utm_source=git)** | Indianapolis,IN,US | Hybrid | Feb 26 |
 | **[KCRA 3 & My58 Television](http://www.kcra.com)** | **[Intern](https://jobright.ai/jobs/info/69a0c5340836fe79d861c5c9?utm_campaign=1053&utm_source=git)** | Sacramento, CA | On Site | Feb 26 |
+| **[Ellucian](http://www.ellucian.com)** | **[Summer Video Intern (Undergraduate)](https://jobright.ai/jobs/info/69a0c79e5218a8167671f2e4?utm_campaign=1053&utm_source=git)** | Reston, VA | Hybrid | Feb 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
