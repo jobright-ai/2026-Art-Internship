@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[HealthCorps](https://www.HealthCorps.org)** | **[Videographer Intern](https://jobright.ai/jobs/info/69a4d5c3359fe034b1cf6baf?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Mar 01 |
 | **[Sty1e Studios INC](https://www.sty1estudios.com/)** | **[Gameplay Video Editor](https://jobright.ai/jobs/info/69a4c9ca359fe034b1cf68b1?utm_campaign=1053&utm_source=git)** | United States | Remote | Mar 01 |
 | **[GBH](http://www.wgbh.org/)** | **[NEPM News Intern - Summer 2026](https://jobright.ai/jobs/info/699c1c97ce78e77b4fe0ab2a?utm_campaign=1053&utm_source=git)** | Springfield, MA | Hybrid | Mar 01 |
 | ↳ | **[GBH Archives Internship - Summer 2026 (AAPB Exhibit Curator)](https://jobright.ai/jobs/info/699c1a28e0bddb6acacaf5a7?utm_campaign=1053&utm_source=git)** | Boston, MA | Remote | Mar 01 |
@@ -70,7 +71,6 @@ For a complete list, click the following sortable link below:
 | **[Good Karma Brands](https://goodkarmabrands.com/)** | **[ESPN Chicago Summer 2026 Content Internship](https://jobright.ai/jobs/info/69a40b31359fe034b1cf08fb?utm_campaign=1053&utm_source=git)** | Chicago, IL, US | On Site | Mar 01 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[ABC News Special Projects Production Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69a041320836fe79d8611c6b?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Mar 01 |
 | **[Waco Tribune-Herald](http://wacotrib.com)** | **[Executive and Artistic Director, The Soraya](https://jobright.ai/jobs/info/69a3f0b40da45516f16ce8a8?utm_campaign=1053&utm_source=git)** | Northridge, CA | On Site | Feb 28 |
-| **[HealthCorps](https://www.HealthCorps.org)** | **[HealthCorps Videography Intern](https://jobright.ai/jobs/info/69a34d1d359fe034b1ce8038?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Feb 28 |
 | **[Higginbotham](https://www.higginbotham.com)** | **[Higginbotham Summer Internship - Corporate Marketing & Communications Video Editor Intern](https://jobright.ai/jobs/info/691694a56f36db06ef057fea?utm_campaign=1053&utm_source=git)** | Fort Worth, TX | On Site | Feb 28 |
 | **[Amazon](https://amazon.com)** | **[IP & Literary Intern, Prime Video & Amazon MGM Studios](https://jobright.ai/jobs/info/694f4897a2668b7f54527891?utm_campaign=1053&utm_source=git)** | Culver City, CA | On Site | Feb 28 |
 | **[American Fidelity](http://www.americanfidelity.com)** | **[Videographer Intern](https://jobright.ai/jobs/info/696ae5255fc86241853a190e?utm_campaign=1053&utm_source=git)** | Oklahoma City, OK | On Site | Feb 28 |
