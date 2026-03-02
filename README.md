@@ -57,9 +57,21 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[DreamWorks Animation](https://www.dreamworks.com)** | **[CFX Production Development Intern, DreamWorks Animation, Summer 2026](https://jobright.ai/jobs/info/69a5ce80b600907a962b7dcc?utm_campaign=1053&utm_source=git)** | Glendale, CA | Hybrid | Mar 02 |
+| **[LAIKA Studios](https://laika.com/)** | **[Puppet Fabrication CG Modeling Intern](https://jobright.ai/jobs/info/69a5e0bf0da45516f16ea3e6?utm_campaign=1053&utm_source=git)** | Hillsboro, OR | On Site | Mar 02 |
+| **[The Social Agency](http://Thesocialagency.dk)** | **[TikTok + Content Assistant Intern – Spring 2026](https://jobright.ai/jobs/info/69a5e091b600907a962ba52d?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Mar 02 |
+| **[Virginia Space Grant Consortium](https://www.linkedin.com/company/11371131)** | **[Intern](https://jobright.ai/jobs/info/69a5dc53359fe034b1d08b49?utm_campaign=1053&utm_source=git)** | Hampton Roads, Virginia Metropolitan Area | On Site | Mar 02 |
+| **[DreamWorks Animation](https://www.dreamworks.com)** | **[TV Casting Intern, DreamWorks Animation, Summer 2026](https://jobright.ai/jobs/info/69a5db27b600907a962b99ba?utm_campaign=1053&utm_source=git)** | Glendale, CA | Hybrid | Mar 02 |
+| ↳ | **[Lighting Intern, DreamWorks Animation, Summer 2026](https://jobright.ai/jobs/info/69a5daae359fe034b1d08768?utm_campaign=1053&utm_source=git)** | Glendale, CA | Hybrid | Mar 02 |
+| ↳ | **[Global Hair Development Intern, DreamWorks Animation, Summer 2026](https://jobright.ai/jobs/info/69a5d978b600907a962b9603?utm_campaign=1053&utm_source=git)** | Glendale, CA | Hybrid | Mar 02 |
+| ↳ | **[Feature Technical Direction Intern, DreamWorks Animation, Summer 2026](https://jobright.ai/jobs/info/69a5d8570da45516f16e9199?utm_campaign=1053&utm_source=git)** | Glendale, CA | Hybrid | Mar 02 |
+| ↳ | **[Feature Development Intern, DreamWorks Animation, Summer 2026](https://jobright.ai/jobs/info/69a5d310b600907a962b87e7?utm_campaign=1053&utm_source=git)** | Glendale, CA | Hybrid | Mar 02 |
+| ↳ | **[IMF Intern, DreamWorks Animation, Summer 2026](https://jobright.ai/jobs/info/69a5d2e0359fe034b1d07631?utm_campaign=1053&utm_source=git)** | Glendale, CA | Hybrid | Mar 02 |
+| ↳ | **[TV Development & Current Series Intern, DreamWorks Animation, Summer 2026](https://jobright.ai/jobs/info/69a5d22a0da45516f16e83fe?utm_campaign=1053&utm_source=git)** | Glendale, CA | Hybrid | Mar 02 |
+| ↳ | **[Custom Animation Intern, DreamWorks Animation, Summer 2026](https://jobright.ai/jobs/info/69a5d0750da45516f16e80b7?utm_campaign=1053&utm_source=git)** | Glendale, CA | Hybrid | Mar 02 |
+| ↳ | **[CFX Production Development Intern, DreamWorks Animation, Summer 2026](https://jobright.ai/jobs/info/69a5ce80b600907a962b7dcc?utm_campaign=1053&utm_source=git)** | Glendale, CA | Hybrid | Mar 02 |
 | ↳ | **[IMF Intern, DreamWorks Animation, Summer 2026](https://jobright.ai/jobs/info/69a5cb23359fe034b1d065a7?utm_campaign=1053&utm_source=git)** | Glendale, CA | Remote | Mar 02 |
 | ↳ | **[Animation Production Intern, DreamWorks Animation, Summer 2026](https://jobright.ai/jobs/info/69a5c8d70da45516f16e7076?utm_campaign=1053&utm_source=git)** | Glendale, CA | Hybrid | Mar 02 |
+| **[Kalahari Resorts & Conventions](http://www.kalahariresorts.com)** | **[Culinary & Pastry Internship](https://jobright.ai/jobs/info/68e6aeefe8daec61499ad5dd?utm_campaign=1053&utm_source=git)** | Pocono, PA | On Site | Mar 02 |
 | **[iHeartMedia](http://iheartmedia.com)** | **[Summer intern](https://jobright.ai/jobs/info/69993424e0bddb6acac843c9?utm_campaign=1053&utm_source=git)** | Burbank, CA | On Site | Mar 02 |
 | **[Crain Communications](https://crain.com)** | **[DJNF Intern](https://jobright.ai/jobs/info/69a5aa230da45516f16e59d6?utm_campaign=1053&utm_source=git)** | New York | On Site | Mar 02 |
 | **[Extremeline Productions](https://extremelineproductions.com)** | **[Paid Internship - Video Production](https://jobright.ai/jobs/info/69a5a7ff0da45516f16e584e?utm_campaign=1053&utm_source=git)** | Ottawa, Ontario, Canada | On Site | Mar 02 |
@@ -128,6 +140,7 @@ For a complete list, click the following sortable link below:
 | **[Commonwealth of Massachusetts](https://www.mass.gov/)** | **[Biodiversity Media Intern (Unpaid)](https://jobright.ai/jobs/info/69a1d69d359fe034b1cd20f0?utm_campaign=1053&utm_source=git)** | United States-Massachusetts-Boston-100 Cambridge Street | On Site | Feb 27 |
 | **[The Massachusetts Executive Office of Labor and Workforce Development (EOLWD)](http://www.mass.gov/eolwd)** | **[Biodiversity Media Intern (Unpaid)](https://jobright.ai/jobs/info/69a1d57c359fe034b1cd2029?utm_campaign=1053&utm_source=git)** | United States-Massachusetts-Boston-100 Cambridge Street | On Site | Feb 27 |
 | **[Hearst Newspapers](https://eevd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_15)** | **[WCVB News Intern](https://jobright.ai/jobs/info/69a1d54a0da45516f16b2aad?utm_campaign=1053&utm_source=git)** | Needham, MA, United States | On Site | Feb 27 |
+| **[National FFA Organization](https://www.ffa.org)** | **[Convention & Event Planner Intern](https://jobright.ai/jobs/info/69a5d7a80da45516f16e900b?utm_campaign=1053&utm_source=git)** | Indianapolis, IN | Hybrid | Feb 27 |
 | **[LexisNexis Risk Solutions](https://risk.lexisnexis.com)** | **[Editorial Assistant Intern](https://jobright.ai/jobs/info/69a1ceb5b600907a96282b2d?utm_campaign=1053&utm_source=git)** | Florida | Remote | Feb 27 |
 | **[RELX](https://www.relx.com)** | **[Editorial Assistant Intern](https://jobright.ai/jobs/info/69a1cdd10da45516f16b25ff?utm_campaign=1053&utm_source=git)** | Florida | Remote | Feb 27 |
 | ↳ | **[Editorial Assistant Intern](https://jobright.ai/jobs/info/69a1ccf6b600907a962829d8?utm_campaign=1053&utm_source=git)** | New York | Remote | Feb 27 |
@@ -144,17 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Dow Jones](http://www.dowjones.com)** | **[Reporting Internship, Mansion Global](https://jobright.ai/jobs/info/699023b30f6f7e7a2cec81f7?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Feb 27 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[2026 Character TD Summer Internship - Character Simulation](https://jobright.ai/jobs/info/699eff74ce78e77b4fe4b4e5?utm_campaign=1053&utm_source=git)** | Burbank, CA | On Site | Feb 27 |
 | ↳ | **[Disney Experiences Video Production Intern, Fall 2026](https://jobright.ai/jobs/info/699ee1d194ef206f184de6ce?utm_campaign=1053&utm_source=git)** | Bay Lake, FL | On Site | Feb 27 |
-| **[TikTok](https://www.tiktok.com)** | **[Short Drama Localization Project Intern (TikTok-PGC-Short Drama) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/698516de348f733a5c393e8b?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Feb 27 |
-| **[Expanding Boundaries International](https://linktr.ee/ebabroad)** | **[TikTok Content Creator (Volunteer/Internship) - Remote](https://jobright.ai/jobs/info/69a15c0b359fe034b1cc97e1?utm_campaign=1053&utm_source=git)** | Westminster, MD | Remote | Feb 27 |
-| **[Universal Orlando Resort](https://UniversalOrlandoJobs.com)** | **[Internship – Halloween Horror Nights Wrist Banding (Fall 2026)](https://jobright.ai/jobs/info/69a15789b600907a9627a7da?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | Feb 27 |
-| ↳ | **[Internship – Producer Intern, Popcorn Creative (Fall 2026)](https://jobright.ai/jobs/info/69a154b90da45516f16a9c97?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | Feb 27 |
-| ↳ | **[Internship – Editorial Writing, Discover Universal Blog (Fall 2026)*](https://jobright.ai/jobs/info/69a154aad29bbd4d8e6b083d?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | Feb 27 |
-| **[Quanta Magazine](https://www.quantamagazine.org)** | **[Video Intern](https://jobright.ai/jobs/info/69a3cf32b600907a9629c9b8?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Feb 26 |
-| **[Rock Events](https://rockevents.com/)** | **[Event Production Intern - Summer 2026](https://jobright.ai/jobs/info/69a1310f6b458d060735ebff?utm_campaign=1053&utm_source=git)** | Detroit, MI | On Site | Feb 26 |
-| **[Troon](http://www.troon.com/)** | **[PGA Intern - Assistant Golf Professional](https://jobright.ai/jobs/info/69a0fbf06b458d060735b442?utm_campaign=1053&utm_source=git)** | Flagstaff, Arizona, United States | On Site | Feb 26 |
-| **[Quicken Loans](http://www.quickenloans.com/)** | **[Event Production Intern - Summer 2026](https://jobright.ai/jobs/info/69a136d25218a8167672747c?utm_campaign=1053&utm_source=git)** | Detroit, MI | On Site | Feb 26 |
-| **[Nekia Nichelle, LLC.](http://www.nekianichelle.com)** | **[Jr. Lifestyle Contributing Writer Intern](https://jobright.ai/jobs/info/69a12b026b458d060735e4b7?utm_campaign=1053&utm_source=git)** | Chicago, IL | Remote | Feb 26 |
-| **[Diodes Incorporated](http://www.diodes.com)** | **[Digital Communication Internship](https://jobright.ai/jobs/info/69a14f9cd29bbd4d8e6afd59?utm_campaign=1053&utm_source=git)** | Plano, TX, US | On Site | Feb 26 |
-| **[EWTN](http://www.ewtn.com/)** | **[Production Intern](https://jobright.ai/jobs/info/69a1205b6b458d060735d903?utm_campaign=1053&utm_source=git)** | Irondale,AL,US | On Site | Feb 26 |
-| **[The Pioneer](https://www.bigrapidsnews.com/)** | **[Reporter Internship](https://jobright.ai/jobs/info/69a104b181476f6176bb5cb7?utm_campaign=1053&utm_source=git)** | Midland, MI | On Site | Feb 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
