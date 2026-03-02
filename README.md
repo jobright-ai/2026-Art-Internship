@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[CR Fashion Book](https://crfashionbook.com)** | **[CR Fashion Book Summer 2026 Editorial and Social Media Internship](https://jobright.ai/jobs/info/69a5b5f10da45516f16e6534?utm_campaign=1053&utm_source=git)** | New York, NY | Remote | Mar 02 |
+| **[DreamWorks Animation](https://www.dreamworks.com)** | **[CFX Production Development Intern, DreamWorks Animation, Summer 2026](https://jobright.ai/jobs/info/69a5ce80b600907a962b7dcc?utm_campaign=1053&utm_source=git)** | Glendale, CA | Hybrid | Mar 02 |
+| ↳ | **[IMF Intern, DreamWorks Animation, Summer 2026](https://jobright.ai/jobs/info/69a5cb23359fe034b1d065a7?utm_campaign=1053&utm_source=git)** | Glendale, CA | Remote | Mar 02 |
+| ↳ | **[Animation Production Intern, DreamWorks Animation, Summer 2026](https://jobright.ai/jobs/info/69a5c8d70da45516f16e7076?utm_campaign=1053&utm_source=git)** | Glendale, CA | Hybrid | Mar 02 |
 | **[iHeartMedia](http://iheartmedia.com)** | **[Summer intern](https://jobright.ai/jobs/info/69993424e0bddb6acac843c9?utm_campaign=1053&utm_source=git)** | Burbank, CA | On Site | Mar 02 |
 | **[Crain Communications](https://crain.com)** | **[DJNF Intern](https://jobright.ai/jobs/info/69a5aa230da45516f16e59d6?utm_campaign=1053&utm_source=git)** | New York | On Site | Mar 02 |
 | **[Extremeline Productions](https://extremelineproductions.com)** | **[Paid Internship - Video Production](https://jobright.ai/jobs/info/69a5a7ff0da45516f16e584e?utm_campaign=1053&utm_source=git)** | Ottawa, Ontario, Canada | On Site | Mar 02 |
@@ -72,9 +74,7 @@ For a complete list, click the following sortable link below:
 | **[Giant Spoon](http://giantspoon.com/)** | **[Content Production Intern (Summer)](https://jobright.ai/jobs/info/697a82b6f6fc293b0a2c55fb?utm_campaign=1053&utm_source=git)** | New York, United States | Hybrid | Mar 02 |
 | **[Six Flags](https://www.sixflags.com)** | **[Entertainment Event Technician Internship](https://jobright.ai/jobs/info/69a544d4b600907a962ae2fc?utm_campaign=1053&utm_source=git)** | Waukegan, IL | On Site | Mar 02 |
 | ↳ | **[Show Wardrobe Technician Internship](https://jobright.ai/jobs/info/69a544b4b600907a962ae2c6?utm_campaign=1053&utm_source=git)** | Waukegan, IL | On Site | Mar 02 |
-| **[SexSymbol Magazine](sexsymbolmagazine.com)** | **[Video Editing Intern ( Unpaid, Remote – Internship )](https://jobright.ai/jobs/info/69a4e755b600907a962a7dbe?utm_campaign=1053&utm_source=git)** | United States | Remote | Mar 01 |
 | **[HealthCorps](https://www.HealthCorps.org)** | **[Videographer Intern](https://jobright.ai/jobs/info/69a4d5c3359fe034b1cf6baf?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Mar 01 |
-| **[Sty1e Studios INC](https://www.sty1estudios.com/)** | **[Gameplay Video Editor](https://jobright.ai/jobs/info/69a4c9ca359fe034b1cf68b1?utm_campaign=1053&utm_source=git)** | United States | Remote | Mar 01 |
 | **[GBH](http://www.wgbh.org/)** | **[GBH News "Under the Radar" Internship - Summer 2026](https://jobright.ai/jobs/info/699c1a0681476f6176b47933?utm_campaign=1053&utm_source=git)** | Boston, MA | Hybrid | Mar 01 |
 | ↳ | **[NEPM News Intern - Summer 2026](https://jobright.ai/jobs/info/699c1c97ce78e77b4fe0ab2a?utm_campaign=1053&utm_source=git)** | Springfield, MA | Hybrid | Mar 01 |
 | ↳ | **[GBH Archives Internship - Summer 2026 (AAPB Exhibit Curator)](https://jobright.ai/jobs/info/699c1a28e0bddb6acacaf5a7?utm_campaign=1053&utm_source=git)** | Boston, MA | Remote | Mar 01 |
@@ -113,7 +113,6 @@ For a complete list, click the following sortable link below:
 | **[TelevisaUnivision](https://www.corporate.televisaunivision.com)** | **[Intern, Asi Studios](https://jobright.ai/jobs/info/69a248b4b600907a96289360?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Feb 27 |
 | **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Arborist Trainee Internship (2026) / Lake Bluff, IL](https://jobright.ai/jobs/info/69a2229ab600907a96286f17?utm_campaign=1053&utm_source=git)** | Lake Bluff, IL | On Site | Feb 27 |
 | ↳ | **[Arborist Trainee Internship (2026) / Crystal Lake, IL](https://jobright.ai/jobs/info/69a2213b359fe034b1cd5ea6?utm_campaign=1053&utm_source=git)** | Crystal Lake, IL | On Site | Feb 27 |
-| **[NORTH SIX](http://northsix.net)** | **[Studio Intern](https://jobright.ai/jobs/info/69a221110da45516f16b69e8?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Feb 27 |
 | **[Precision Medicine Group](https://www.precisionmedicinegrp.com/pfm/)** | **[Summer 2026 Internship - Medical Writing Intern](https://jobright.ai/jobs/info/69a21e81b600907a96286ac7?utm_campaign=1053&utm_source=git)** | United States | Remote | Feb 27 |
 | ↳ | **[Summer 2026 Internship - Medical Writing Intern](https://jobright.ai/jobs/info/69a247d9b600907a9628928a?utm_campaign=1053&utm_source=git)** | Remote, United States | Remote | Feb 27 |
 | **[Precision AQ](http://www.precisionaq.com)** | **[Summer 2026 Internship - Medical Writing Intern](https://jobright.ai/jobs/info/69a24857359fe034b1cd83e4?utm_campaign=1053&utm_source=git)** | Remote, United States | Remote | Feb 27 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Nekia Nichelle, LLC.](http://www.nekianichelle.com)** | **[Jr. Lifestyle Contributing Writer Intern](https://jobright.ai/jobs/info/69a12b026b458d060735e4b7?utm_campaign=1053&utm_source=git)** | Chicago, IL | Remote | Feb 26 |
 | **[Diodes Incorporated](http://www.diodes.com)** | **[Digital Communication Internship](https://jobright.ai/jobs/info/69a14f9cd29bbd4d8e6afd59?utm_campaign=1053&utm_source=git)** | Plano, TX, US | On Site | Feb 26 |
 | **[EWTN](http://www.ewtn.com/)** | **[Production Intern](https://jobright.ai/jobs/info/69a1205b6b458d060735d903?utm_campaign=1053&utm_source=git)** | Irondale,AL,US | On Site | Feb 26 |
+| **[The Pioneer](https://www.bigrapidsnews.com/)** | **[Reporter Internship](https://jobright.ai/jobs/info/69a104b181476f6176bb5cb7?utm_campaign=1053&utm_source=git)** | Midland, MI | On Site | Feb 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
