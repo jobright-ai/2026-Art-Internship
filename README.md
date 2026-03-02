@@ -57,9 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Michigan Medicine](http://www.uofmhealth.org/)** | **[Video Production Intern](https://jobright.ai/jobs/info/69a59837b600907a962b43af?utm_campaign=1053&utm_source=git)** | Ann Arbor, MI | Hybrid | Mar 02 |
+| **[Penguin Random House](https://www.penguinrandomhouse.com/)** | **[2026 Fall - 2027 Spring Internship Program: Bookmaking, Production, Adult and Childrens Books](https://jobright.ai/jobs/info/69a57e70b600907a962b2e54?utm_campaign=1053&utm_source=git)** | New York, United States | Remote | Mar 02 |
+| **[Penguin Random House | 企鹅兰登](http://www.penguinrandomhouse.com)** | **[2026 Fall - 2027 Spring Internship Program: Bookmaking, Managing Editorial and Production Editorial](https://jobright.ai/jobs/info/69a582d60da45516f16e2ea7?utm_campaign=1053&utm_source=git)** | New York, United States | Remote | Mar 02 |
+| ↳ | **[2026 Fall - 2027 Spring Internship Program: Bookmaking, Production, Adult and Childrens Books](https://jobright.ai/jobs/info/69a581eab600907a962b2fe6?utm_campaign=1053&utm_source=git)** | New York, United States | Remote | Mar 02 |
 | **[Concord](https://concord.com/)** | **[Publishing A&R, Latin Intern](https://jobright.ai/jobs/info/69a57ef5b600907a962b2e87?utm_campaign=1053&utm_source=git)** | Miami, FL | On Site | Mar 02 |
 | **[Penguin Random House](https://www.penguinrandomhouse.com/)** | **[2026 Fall - 2027 Spring Internship Program: Bookmaking, Managing Editorial and Production Editorial](https://jobright.ai/jobs/info/69a57e85359fe034b1d01e6d?utm_campaign=1053&utm_source=git)** | New York, United States | Remote | Mar 02 |
-| ↳ | **[2026 Fall - 2027 Spring Internship Program: Bookmaking, Production, Adult and Childrens Books](https://jobright.ai/jobs/info/69a57e70b600907a962b2e54?utm_campaign=1053&utm_source=git)** | New York, United States | Remote | Mar 02 |
 | **[Shiseido](http://www.shiseido.com/)** | **[Hajimari Intern, Global Artistry & Education (NARS)](https://jobright.ai/jobs/info/69a554cc0da45516f16df5e1?utm_campaign=1053&utm_source=git)** | New York, United States | On Site | Mar 02 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[ABC News Studios Production Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69a0447081476f6176ba70d1?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Mar 02 |
 | **[Giant Spoon](http://giantspoon.com/)** | **[Content Production Intern (Summer)](https://jobright.ai/jobs/info/697a82b6f6fc293b0a2c55fb?utm_campaign=1053&utm_source=git)** | New York, United States | Hybrid | Mar 02 |
@@ -69,7 +72,7 @@ For a complete list, click the following sortable link below:
 | **[HealthCorps](https://www.HealthCorps.org)** | **[Videographer Intern](https://jobright.ai/jobs/info/69a4d5c3359fe034b1cf6baf?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Mar 01 |
 | **[Sty1e Studios INC](https://www.sty1estudios.com/)** | **[Gameplay Video Editor](https://jobright.ai/jobs/info/69a4c9ca359fe034b1cf68b1?utm_campaign=1053&utm_source=git)** | United States | Remote | Mar 01 |
 | **[GBH](http://www.wgbh.org/)** | **[GBH News "Under the Radar" Internship - Summer 2026](https://jobright.ai/jobs/info/699c1a0681476f6176b47933?utm_campaign=1053&utm_source=git)** | Boston, MA | Hybrid | Mar 01 |
-| **[Art Institute of Chicago](http://www.artic.edu/)** | **[McMullan Arts Leadership Internship Program](https://jobright.ai/jobs/info/69672aca1703f05405a8d979?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Mar 01 |
+| **[Angels of Honor](www.angelsofhonor.org)** | **[Content Creator Intern (Summer 2026)](https://jobright.ai/jobs/info/69a585eab600907a962b30f6?utm_campaign=1053&utm_source=git)** | United States | Remote | Mar 01 |
 | **[GBH](http://www.wgbh.org/)** | **[NEPM News Intern - Summer 2026](https://jobright.ai/jobs/info/699c1c97ce78e77b4fe0ab2a?utm_campaign=1053&utm_source=git)** | Springfield, MA | Hybrid | Mar 01 |
 | ↳ | **[GBH Archives Internship - Summer 2026 (AAPB Exhibit Curator)](https://jobright.ai/jobs/info/699c1a28e0bddb6acacaf5a7?utm_campaign=1053&utm_source=git)** | Boston, MA | Remote | Mar 01 |
 | **[Good Karma Brands](https://goodkarmabrands.com/)** | **[ESPN Chicago Summer 2026 Content Internship](https://jobright.ai/jobs/info/69a52979b600907a962ac5f3?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Mar 01 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Diodes Incorporated](http://www.diodes.com)** | **[Digital Communication Internship](https://jobright.ai/jobs/info/69a14f9cd29bbd4d8e6afd59?utm_campaign=1053&utm_source=git)** | Plano, TX, US | On Site | Feb 26 |
 | **[EWTN](http://www.ewtn.com/)** | **[Production Intern](https://jobright.ai/jobs/info/69a1205b6b458d060735d903?utm_campaign=1053&utm_source=git)** | Irondale,AL,US | On Site | Feb 26 |
 | **[The Pioneer](https://www.bigrapidsnews.com/)** | **[Reporter Internship](https://jobright.ai/jobs/info/69a104b181476f6176bb5cb7?utm_campaign=1053&utm_source=git)** | Midland, MI | On Site | Feb 26 |
-| **[Klick](https://www.klick.com)** | **[Production Coordinator, Summer 2026](https://jobright.ai/jobs/info/69a1012d5218a81676723a3e?utm_campaign=1053&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Feb 26 |
-| **[SOCAN](http://www.socan.ca)** | **[Membership - Creative - Film & TV Intern](https://jobright.ai/jobs/info/69a108a481476f6176bb5f8f?utm_campaign=1053&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Feb 26 |
-| **[Scientific American](http://www.scientificamerican.com/)** | **[News Intern](https://jobright.ai/jobs/info/69a0bf645218a8167671ea87?utm_campaign=1053&utm_source=git)** | New York, United States | Hybrid | Feb 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
