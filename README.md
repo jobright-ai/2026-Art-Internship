@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Springbrook NY, Inc](https://springbrookny.org)** | **[Event and Hospitality Internship - Unpaid](https://jobright.ai/jobs/info/69a63a4ed706a731db381593?utm_campaign=1053&utm_source=git)** | Oneonta, NY | On Site | Mar 02 |
+| **[A Tiger Cub](https://atigercub.com)** | **[Arts & Community Engagement Intern](https://jobright.ai/jobs/info/69a63255b600907a962c117f?utm_campaign=1053&utm_source=git)** | Dunwoody, GA | On Site | Mar 02 |
 | **[The E.W. Scripps Company](http://www.scripps.com)** | **[Sports MMJ Intern (SUMMER)  WLEX](https://jobright.ai/jobs/info/69a6256fb600907a962c0821?utm_campaign=1053&utm_source=git)** | Lexington, KY - WLEX | On Site | Mar 02 |
 | **[The Philadelphia Inquirer](https://www.inquirer.com/)** | **[Business Reporter Intern](https://jobright.ai/jobs/info/69a26708359fe034b1cda548?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | Hybrid | Mar 02 |
 | **[Arcwize](https://www.arcwize.com)** | **[Editorial Writing Intern](https://jobright.ai/jobs/info/69a61e37b600907a962c01eb?utm_campaign=1053&utm_source=git)** | United States | Remote | Mar 02 |
@@ -82,7 +84,6 @@ For a complete list, click the following sortable link below:
 | **[The Wall Street Journal](https://www.wjs.com/)** | **[Sports Intern](https://jobright.ai/jobs/info/69a619710da45516f16efbe6?utm_campaign=1053&utm_source=git)** | NYC - 1211 Ave of the Americas | On Site | Mar 02 |
 | **[Green Bay Packers](http://www.packers.com/)** | **[Game Presentation Production Intern](https://jobright.ai/jobs/info/69a61b4b0da45516f16efebd?utm_campaign=1053&utm_source=git)** | 1265 Lombardi Ave, Green Bay, WI 54304, USA | On Site | Mar 02 |
 | ↳ | **[Video Production Intern](https://jobright.ai/jobs/info/69a613d8b600907a962bf655?utm_campaign=1053&utm_source=git)** | 1265 Lombardi Ave, Green Bay, WI 54304, USA | On Site | Mar 02 |
-| **[The Social Agency](http://Thesocialagency.dk)** | **[TikTok + Content Assistant Intern – Spring 2026](https://jobright.ai/jobs/info/69a5e091b600907a962ba52d?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Mar 02 |
 | **[Virginia Space Grant Consortium](https://www.linkedin.com/company/11371131)** | **[Intern](https://jobright.ai/jobs/info/69a5dc53359fe034b1d08b49?utm_campaign=1053&utm_source=git)** | Hampton Roads, Virginia Metropolitan Area | On Site | Mar 02 |
 | **[DreamWorks Animation](https://www.dreamworks.com)** | **[TV Casting Intern, DreamWorks Animation, Summer 2026](https://jobright.ai/jobs/info/69a5db27b600907a962b99ba?utm_campaign=1053&utm_source=git)** | Glendale, CA | Hybrid | Mar 02 |
 | ↳ | **[Lighting Intern, DreamWorks Animation, Summer 2026](https://jobright.ai/jobs/info/69a5daae359fe034b1d08768?utm_campaign=1053&utm_source=git)** | Glendale, CA | Hybrid | Mar 02 |
@@ -154,7 +155,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 Internship - Medical Writing Intern](https://jobright.ai/jobs/info/69a247d9b600907a9628928a?utm_campaign=1053&utm_source=git)** | Remote, United States | Remote | Feb 27 |
 | **[Precision AQ](http://www.precisionaq.com)** | **[Summer 2026 Internship - Medical Writing Intern](https://jobright.ai/jobs/info/69a24857359fe034b1cd83e4?utm_campaign=1053&utm_source=git)** | Remote, United States | Remote | Feb 27 |
 | ↳ | **[Summer 2026 Internship - Medical Writing Intern](https://jobright.ai/jobs/info/69a224a4b600907a9628713e?utm_campaign=1053&utm_source=git)** | United States | Remote | Feb 27 |
-| **[EWTN](http://www.ewtn.com/)** | **[Production Intern](https://jobright.ai/jobs/info/69a606560da45516f16edde6?utm_campaign=1053&utm_source=git)** | Birmingham, AL | On Site | Feb 27 |
 | **[WHYY](http://whyy.org/)** | **[TV Production Intern](https://jobright.ai/jobs/info/69a22b2c359fe034b1cd68ab?utm_campaign=1053&utm_source=git)** | HQ - Philadelphia, PA 19106 | On Site | Feb 27 |
 | **[Morning Walk](http://jacobsonrost.com)** | **[Video Editing Intern](https://jobright.ai/jobs/info/69a21103359fe034b1cd4fac?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Feb 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
