@@ -57,11 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sony Electronics](http://www.sonyjobs.com)** | **[Summer Intern, Sync](https://jobright.ai/jobs/info/69a668e1d706a731db3858eb?utm_campaign=1053&utm_source=git)** | Miami | On Site | Mar 02 |
+| **[Griffin Media](http://griffincommunications.net/)** | **[News On 6 Summer Newsroom Intern](https://jobright.ai/jobs/info/69a662cb2c0d8b0f5cd084e1?utm_campaign=1053&utm_source=git)** | Tulsa Griffin Media Center - Tulsa, OK 74103 | On Site | Mar 02 |
+| **[University Athletic Association Inc](http://thrivehds.hirecentric.com)** | **[Intern - Event Operations](https://jobright.ai/jobs/info/69a640772c0d8b0f5cd04a74?utm_campaign=1053&utm_source=git)** | Gainesville, Florida, United States | On Site | Mar 02 |
 | **[Springbrook NY, Inc](https://springbrookny.org)** | **[Event and Hospitality Internship - Unpaid](https://jobright.ai/jobs/info/69a63a4ed706a731db381593?utm_campaign=1053&utm_source=git)** | Oneonta, NY | On Site | Mar 02 |
 | **[A Tiger Cub](https://atigercub.com)** | **[Arts & Community Engagement Intern](https://jobright.ai/jobs/info/69a63255b600907a962c117f?utm_campaign=1053&utm_source=git)** | Dunwoody, GA | On Site | Mar 02 |
 | **[The E.W. Scripps Company](http://www.scripps.com)** | **[Sports MMJ Intern (SUMMER)  WLEX](https://jobright.ai/jobs/info/69a6256fb600907a962c0821?utm_campaign=1053&utm_source=git)** | Lexington, KY - WLEX | On Site | Mar 02 |
 | **[The Philadelphia Inquirer](https://www.inquirer.com/)** | **[Business Reporter Intern](https://jobright.ai/jobs/info/69a26708359fe034b1cda548?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | Hybrid | Mar 02 |
-| **[Arcwize](https://www.arcwize.com)** | **[Editorial Writing Intern](https://jobright.ai/jobs/info/69a61e37b600907a962c01eb?utm_campaign=1053&utm_source=git)** | United States | Remote | Mar 02 |
 | **[Sacramento River Cats](http://rivercats.com)** | **[Content Creation Intern](https://jobright.ai/jobs/info/69a61d950da45516f16f01f7?utm_campaign=1053&utm_source=git)** | West Sacramento, CA | On Site | Mar 02 |
 | **[LAIKA Studios](https://laika.com/)** | **[Costume Fabrication Intern](https://jobright.ai/jobs/info/69a607fd0da45516f16ee0e8?utm_campaign=1053&utm_source=git)** | Hillsboro, OR | On Site | Mar 02 |
 | ↳ | **[Stop Motion Animation Intern](https://jobright.ai/jobs/info/69a602bcb600907a962bdbfe?utm_campaign=1053&utm_source=git)** | Hillsboro, OR | On Site | Mar 02 |
@@ -70,6 +72,7 @@ For a complete list, click the following sortable link below:
 | **[H/L Agency](https://hl.agency)** | **[Summer Intern](https://jobright.ai/jobs/info/69a612400da45516f16ef149?utm_campaign=1053&utm_source=git)** | Oakland, CA | Hybrid | Mar 02 |
 | **[New York Post](http://nypost.com/)** | **[Sports Intern](https://jobright.ai/jobs/info/69a611be359fe034b1d0e1ab?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Mar 02 |
 | ↳ | **[Page Six Studio Intern](https://jobright.ai/jobs/info/69a611a4b600907a962bf3ac?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Mar 02 |
+| **[SDFX Studios](https://www.sdfxstudios.com)** | **[NExT Summer Intern - VFX Production](https://jobright.ai/jobs/info/699d022ee0bddb6acacc19e1?utm_campaign=1053&utm_source=git)** | Greater Toronto Area, Canada | Remote | Mar 02 |
 | **[AEG](http://www.aegworldwide.com)** | **[Summer Intern, Goldenvoice Festivals (Production)](https://jobright.ai/jobs/info/69a60725b600907a962be493?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Mar 02 |
 | **[American Academy of Neurology](https://www.aan.com)** | **[INTERN, JOURNAL PRODUCTION](https://jobright.ai/jobs/info/69a602e30da45516f16ed8cd?utm_campaign=1053&utm_source=git)** | Minneapolis, MN | Hybrid | Mar 02 |
 | **[Bandana](https://bandana.com/)** | **[Animation Intern](https://jobright.ai/jobs/info/69a6219f359fe034b1d0f2f1?utm_campaign=1053&utm_source=git)** | Brooklyn, NY | On Site | Mar 02 |
@@ -113,7 +116,6 @@ For a complete list, click the following sortable link below:
 | **[Shiseido](http://www.shiseido.com/)** | **[Hajimari Intern, Global Artistry & Education (NARS)](https://jobright.ai/jobs/info/69a554cc0da45516f16df5e1?utm_campaign=1053&utm_source=git)** | New York, United States | On Site | Mar 02 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[ABC News Studios Production Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69a0447081476f6176ba70d1?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Mar 02 |
 | **[Giant Spoon](http://giantspoon.com/)** | **[Content Production Intern (Summer)](https://jobright.ai/jobs/info/697a82b6f6fc293b0a2c55fb?utm_campaign=1053&utm_source=git)** | New York, United States | Hybrid | Mar 02 |
-| **[Six Flags](https://www.sixflags.com)** | **[Show Wardrobe Technician Internship](https://jobright.ai/jobs/info/69a544b4b600907a962ae2c6?utm_campaign=1053&utm_source=git)** | Waukegan, IL | On Site | Mar 02 |
 | **[KERA – North Texas Public Broadcasting](https://www.kera.org/)** | **[Bob Ray Sanders Reporting Intern, Summer 2026](https://jobright.ai/jobs/info/69a5eecb0da45516f16eb8ba?utm_campaign=1053&utm_source=git)** | Fort Worth, TX | Hybrid | Mar 01 |
 | **[GBH](http://www.wgbh.org/)** | **[GBH News "Under the Radar" Internship - Summer 2026](https://jobright.ai/jobs/info/699c1a0681476f6176b47933?utm_campaign=1053&utm_source=git)** | Boston, MA | Hybrid | Mar 01 |
 | ↳ | **[NEPM News Intern - Summer 2026](https://jobright.ai/jobs/info/699c1c97ce78e77b4fe0ab2a?utm_campaign=1053&utm_source=git)** | Springfield, MA | Hybrid | Mar 01 |
@@ -136,7 +138,6 @@ For a complete list, click the following sortable link below:
 | **[Stride, Inc.](https://www.stridelearning.com)** | **[Content Creator Intern](https://jobright.ai/jobs/info/696aa0835fc86241853999d5?utm_campaign=1053&utm_source=git)** | Virginia, United States | Remote | Feb 28 |
 | **[Waterford.org](http://www.waterford.org)** | **[Summer Events Intern](https://jobright.ai/jobs/info/6969f8d4f25a38006698bcb1?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Feb 28 |
 | **[Pluralsight](http://www.pluralsight.com)** | **[Newsletter Production Intern](https://jobright.ai/jobs/info/69869f4b0f6f7e7a2ce1a9e1?utm_campaign=1053&utm_source=git)** | Westlake, TX | Hybrid | Feb 28 |
-| **[SDFX Studios](https://www.sdfxstudios.com)** | **[NExT Summer Intern - VFX Production](https://jobright.ai/jobs/info/699d022ee0bddb6acacc19e1?utm_campaign=1053&utm_source=git)** | Greater Toronto Area, Canada | Remote | Feb 28 |
 | **[TelevisaUnivision](https://www.corporate.televisaunivision.com)** | **[Intern, Asi Studios](https://jobright.ai/jobs/info/69a2a546359fe034b1cdfaa5?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Feb 28 |
 | **[Texas Department of Transportation](https://www.txdot.gov)** | **[Content Management Internship](https://jobright.ai/jobs/info/69a28ae90da45516f16be026?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | Feb 27 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[NewsNation News Internship Summer 2026 (Washington, DC)](https://jobright.ai/jobs/info/69a25103359fe034b1cd8b57?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Feb 27 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Precision AQ](http://www.precisionaq.com)** | **[Summer 2026 Internship - Medical Writing Intern](https://jobright.ai/jobs/info/69a24857359fe034b1cd83e4?utm_campaign=1053&utm_source=git)** | Remote, United States | Remote | Feb 27 |
 | ↳ | **[Summer 2026 Internship - Medical Writing Intern](https://jobright.ai/jobs/info/69a224a4b600907a9628713e?utm_campaign=1053&utm_source=git)** | United States | Remote | Feb 27 |
 | **[WHYY](http://whyy.org/)** | **[TV Production Intern](https://jobright.ai/jobs/info/69a22b2c359fe034b1cd68ab?utm_campaign=1053&utm_source=git)** | HQ - Philadelphia, PA 19106 | On Site | Feb 27 |
-| **[Morning Walk](http://jacobsonrost.com)** | **[Video Editing Intern](https://jobright.ai/jobs/info/69a21103359fe034b1cd4fac?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Feb 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
