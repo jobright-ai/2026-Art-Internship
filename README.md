@@ -96,7 +96,8 @@ For a complete list, click the following sortable link below:
 | **[Gen](https://www.gendigital.com)** | **[Intern, Writer](https://jobright.ai/jobs/info/69a6fce976bbe83d3afa4dff?utm_campaign=1053&utm_source=git)** | USA - New York, New York | On Site | Mar 03 |
 | **[The Wall Street Journal](https://www.wjs.com/)** | **[Youtube Intern](https://jobright.ai/jobs/info/69a779591fc3d83b780944a3?utm_campaign=1053&utm_source=git)** | NYC - 1211 Ave of the Americas | On Site | Mar 03 |
 | **[TGR](http://www.thegarnettereport.com)** | **[Spring/Summer Internship](https://jobright.ai/jobs/info/69a740b31fc3d83b78093733?utm_campaign=1053&utm_source=git)** | NYC Metro Area | Remote | Mar 03 |
-| **[Legendary Entertainment](http://www.legendary.com)** | **[Intern, Nerdist Social Video - Summer 2026](https://jobright.ai/jobs/info/69a7cf7376bbe83d3afb4de8?utm_campaign=1053&utm_source=git)** | Burbank, CA | On Site | Mar 03 |
+| **[Legendary Entertainment](http://www.legendary.com)** | **[Intern, Production Assets & Archives - Summer 2026](https://jobright.ai/jobs/info/69a7e5fd637232443f653e1f?utm_campaign=1053&utm_source=git)** | Burbank, CA | On Site | Mar 03 |
+| ↳ | **[Intern, Nerdist Social Video - Summer 2026](https://jobright.ai/jobs/info/69a7cf7376bbe83d3afb4de8?utm_campaign=1053&utm_source=git)** | Burbank, CA | On Site | Mar 03 |
 | **[Gamewell Mechanical LLC](http://gamewellmech.com)** | **[Videography Intern](https://jobright.ai/jobs/info/69a6ed7e76bbe83d3afa41d4?utm_campaign=1053&utm_source=git)** | PATTERSON OFFICE - RICHMOND, VA 23221 | On Site | Mar 03 |
 | **[Charles River Laboratories](http://www.criver.com)** | **[2026 Summer Intern - Archive](https://jobright.ai/jobs/info/6997209c81476f6176af3ae8?utm_campaign=1053&utm_source=git)** | Ashland, OH | On Site | Mar 03 |
 | **[Edelman](http://www.edelman.com)** | **[Edelman U.S. Summer 2026 Internship Program](https://jobright.ai/jobs/info/698a3f8c4db8972cecff7ee2?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Mar 03 |
@@ -106,8 +107,8 @@ For a complete list, click the following sortable link below:
 | **[WLEX-TV](http://lex18.com)** | **[Sports MMJ Intern (SUMMER) WLEX](https://jobright.ai/jobs/info/69a69005708b430a607af3c3?utm_campaign=1053&utm_source=git)** | Lexington, KY | On Site | Mar 02 |
 | **[Legendary Entertainment](http://www.legendary.com)** | **[Intern, Nerdist Social Video - Summer 2026](https://jobright.ai/jobs/info/69a68ea8708b430a607af2a2?utm_campaign=1053&utm_source=git)** | Burbank,CA,US | On Site | Mar 02 |
 | **[New York Post](http://nypost.com/)** | **[DC News Reporting Intern](https://jobright.ai/jobs/info/69a68231e567421f4257887f?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Mar 02 |
-| **[Legendary Entertainment](http://www.legendary.com)** | **[Intern, Film Development- Summer 2026](https://jobright.ai/jobs/info/69a69ecf1a944544ef6349b5?utm_campaign=1053&utm_source=git)** | Burbank,CA,US | On Site | Mar 02 |
-| ↳ | **[Intern, Production Assets & Archives - Summer 2026](https://jobright.ai/jobs/info/69a69f29f11be161e274ef88?utm_campaign=1053&utm_source=git)** | Burbank,CA,US | On Site | Mar 02 |
+| **[Legendary Entertainment](http://www.legendary.com)** | **[Intern, Production Assets & Archives - Summer 2026](https://jobright.ai/jobs/info/69a69f29f11be161e274ef88?utm_campaign=1053&utm_source=git)** | Burbank,CA,US | On Site | Mar 02 |
+| ↳ | **[Intern, Film Development- Summer 2026](https://jobright.ai/jobs/info/69a69ecf1a944544ef6349b5?utm_campaign=1053&utm_source=git)** | Burbank,CA,US | On Site | Mar 02 |
 | ↳ | **[Intern, Nerdist Editorial - Summer 2026](https://jobright.ai/jobs/info/69a69a47f707784310aff2fd?utm_campaign=1053&utm_source=git)** | Burbank,CA,US | On Site | Mar 02 |
 | **[Sony Electronics](http://www.sonyjobs.com)** | **[Summer Intern, Sync](https://jobright.ai/jobs/info/69a668e1d706a731db3858eb?utm_campaign=1053&utm_source=git)** | Miami | On Site | Mar 02 |
 | **[Griffin Media](http://griffincommunications.net/)** | **[News On 6 Summer Newsroom Intern](https://jobright.ai/jobs/info/69a662cb2c0d8b0f5cd084e1?utm_campaign=1053&utm_source=git)** | Tulsa Griffin Media Center - Tulsa, OK 74103 | On Site | Mar 02 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Culinary & Pastry Internship](https://jobright.ai/jobs/info/68e6b6cb1852e62f0081dcbc?utm_campaign=1053&utm_source=git)** | Sandusky, OH | On Site | Mar 02 |
 | **[iHeartMedia](http://iheartmedia.com)** | **[Summer intern](https://jobright.ai/jobs/info/69993424e0bddb6acac843c9?utm_campaign=1053&utm_source=git)** | Burbank, CA | On Site | Mar 02 |
 | **[Crain Communications](https://crain.com)** | **[DJNF Intern](https://jobright.ai/jobs/info/69a5aa230da45516f16e59d6?utm_campaign=1053&utm_source=git)** | New York | On Site | Mar 02 |
-| **[Extremeline Productions](https://extremelineproductions.com)** | **[Paid Internship - Video Production](https://jobright.ai/jobs/info/69a5a7ff0da45516f16e584e?utm_campaign=1053&utm_source=git)** | Ottawa, Ontario, Canada | On Site | Mar 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
