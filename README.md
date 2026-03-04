@@ -57,9 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Toll Brothers](https://www.tollbrothers.com)** | **[2026 Internship Program: Assistant Framing Superintendent Intern](https://jobright.ai/jobs/info/69a88fe62580d3183f009423?utm_campaign=1053&utm_source=git)** | US-VA-Leesburg | On Site | Mar 04 |
+| ↳ | **[2026 Internship Program: Assistant Framing Superintendent Intern](https://jobright.ai/jobs/info/69a887ef7ac93962b7084883?utm_campaign=1053&utm_source=git)** | Leesburg, VA, US | On Site | Mar 04 |
+| **[City of West Jordan](https://www.westjordan.utah.gov/)** | **[City Events Intern](https://jobright.ai/jobs/info/69a87cba7ac93962b70843e2?utm_campaign=1053&utm_source=git)** | West Jordan, UT | On Site | Mar 04 |
+| **[AMB Sports and Entertainment](http://blankfamilyofbusinesses.com)** | **[Game Presentation and Stadium Productions Intern](https://jobright.ai/jobs/info/69a878672580d3183f00878b?utm_campaign=1053&utm_source=git)** | Mercedes-Benz Stadium | On Site | Mar 04 |
+| **[Leo Burnett](https://leoburnett.com)** | **[2026 Leo Chicago Summer Internship - Strategy](https://jobright.ai/jobs/info/698c6b31f64d441a164e5f69?utm_campaign=1053&utm_source=git)** | Chicago, IL | Hybrid | Mar 04 |
 | **[SexSymbol Magazine](sexsymbolmagazine.com)** | **[Short-Form Content & Post-Production Intern](https://jobright.ai/jobs/info/69a86e782580d3183f00825d?utm_campaign=1053&utm_source=git)** | United States | Remote | Mar 04 |
 | **[ACLU](https://www.aclu.org/)** | **[Summer 2026 Undergraduate Multimedia Intern - Communications Department](https://jobright.ai/jobs/info/69a868122580d3183f007fae?utm_campaign=1053&utm_source=git)** | Remote/Hybrid- New York City | Remote | Mar 04 |
 | **[Frich Money](http://getfrich.com/)** | **[Multiplatform Video Producer Intern](https://jobright.ai/jobs/info/69a860ac2580d3183f007be8?utm_campaign=1053&utm_source=git)** | United States | Remote | Mar 04 |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Media Production Intern (In- Person) Summer 2026.](https://jobright.ai/jobs/info/698c168b0f6f7e7a2ce7a8d3?utm_campaign=1053&utm_source=git)** | Mobile, AL | On Site | Mar 04 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[WLS-TV (ABC7) I-Team & Consumer Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69a833002580d3183f00365b?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Mar 04 |
 | ↳ | **[Physical Production Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69a82fce2580d3183f003149?utm_campaign=1053&utm_source=git)** | Burbank, CA | On Site | Mar 04 |
 | **[The Walt Disney Studios](https://waltdisneystudios.com)** | **[Physical Production Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69a82caa2580d3183f002f75?utm_campaign=1053&utm_source=git)** | Burbank, CA | On Site | Mar 04 |
@@ -67,7 +73,6 @@ For a complete list, click the following sortable link below:
 | **[Seattle Kraken](https://www.nhl.com/kraken)** | **[Digital Library Intern (June - April)](https://jobright.ai/jobs/info/69a7bad076bbe83d3afb31e0?utm_campaign=1053&utm_source=git)** | Seattle, WA | Hybrid | Mar 03 |
 | **[Denver Broncos Football Club](http://www.denverbroncos.com/)** | **[Video Production Intern](https://jobright.ai/jobs/info/69a7b142637232443f64fe0f?utm_campaign=1053&utm_source=git)** | Englewood, Colorado | On Site | Mar 03 |
 | **[D.C. United](http://dcunited.com)** | **[Intern- Videographer Internship (Summer 2026)](https://jobright.ai/jobs/info/69a7b465637232443f650119?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Mar 03 |
-| **[Gen](https://www.gendigital.com)** | **[Intern, Writer](https://jobright.ai/jobs/info/69a7b1b2637232443f64fe65?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Mar 03 |
 | **[The Broadmoor](http://www.broadmoor.com)** | **[Greenskeeper Intern- Golf Course Maintenance](https://jobright.ai/jobs/info/69a7eed876bbe83d3afb6809?utm_campaign=1053&utm_source=git)** | Colorado Springs, CO | On Site | Mar 03 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Physical Production Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69a7783f2672cb0acb4befcc?utm_campaign=1053&utm_source=git)** | Burbank, CA, USA | On Site | Mar 03 |
 | **[14.ai](https://14.ai)** | **[Videographer Intern at 14.ai (On-Site – San Francisco, ASAP Start)](https://jobright.ai/jobs/info/69a79acc76bbe83d3afafcb9?utm_campaign=1053&utm_source=git)** | San Francisco, CA, US | On Site | Mar 03 |
@@ -80,9 +85,9 @@ For a complete list, click the following sortable link below:
 | **[the artists know](www.theartistsknow.com)** | **[Artist Community Intern](https://jobright.ai/jobs/info/69a83a5a7ac93962b707fd58?utm_campaign=1053&utm_source=git)** | Nashville, TN | Hybrid | Mar 03 |
 | **[AECOM](http://www.aecom.com/)** | **[Architectural Historian Intern](https://jobright.ai/jobs/info/69a748c72672cb0acb4bb716?utm_campaign=1053&utm_source=git)** | Portland, OR | Hybrid | Mar 03 |
 | **[D.C. Witness](https://dcwitness.org/)** | **[Editorial Intern](https://jobright.ai/jobs/info/69a768022672cb0acb4bdd2d?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Mar 03 |
+| **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Studio Project coordination & Production (Summer 2026)](https://jobright.ai/jobs/info/69a8913379f3f4037f427a26?utm_campaign=1053&utm_source=git)** | Dorval, Québec, CA, H4S 1Y9 | Hybrid | Mar 03 |
 | **[Sun Sentinel Media Group](http://www.sun-sentinel.com)** | **[Intern](https://jobright.ai/jobs/info/697d23dd727747250d57dd71?utm_campaign=1053&utm_source=git)** | Deerfield Beach, FL | On Site | Mar 03 |
 | **[Griffin Media](http://griffincommunications.net/)** | **[New On 6 Summer Sports Intern](https://jobright.ai/jobs/info/69a7669e2672cb0acb4bdb60?utm_campaign=1053&utm_source=git)** | Tulsa Griffin Media Center - Tulsa, OK 74103 | On Site | Mar 03 |
-| **[Westchester Magazine](https://westchestermagazine.com)** | **[Summer 2026 Editorial Internship (Print)](https://jobright.ai/jobs/info/69a7363e76bbe83d3afa90ff?utm_campaign=1053&utm_source=git)** | NYC Metro Area | Hybrid | Mar 03 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Paid Intern - For the Strength of Youth Writer/Editor (Church Magazines)](https://jobright.ai/jobs/info/698ab2494db8972cec001825?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | Hybrid | Mar 03 |
 | **[AECOM](http://www.aecom.com/)** | **[Architectural Historian Intern](https://jobright.ai/jobs/info/69a76b1f2672cb0acb4be146?utm_campaign=1053&utm_source=git)** | Portland, OR | Hybrid | Mar 03 |
 | **[Eurasia Group](http://www.eurasiagroup.net/)** | **[Summer Internship, GZERO Media (Newsletter)](https://jobright.ai/jobs/info/69a74f9f2672cb0acb4bc051?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Mar 03 |
@@ -103,10 +108,8 @@ For a complete list, click the following sortable link below:
 | **[Eurasia Group](http://www.eurasiagroup.net/)** | **[Summer Internship, GZERO Media  (Video)](https://jobright.ai/jobs/info/69a724a276bbe83d3afa8056?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Mar 03 |
 | **[Mullins Media Co](www.mullinsmediaco.com)** | **[Post-Production & Media Intern](https://jobright.ai/jobs/info/69a72acd76bbe83d3afa8752?utm_campaign=1053&utm_source=git)** | Lynchburg, VA | Hybrid | Mar 03 |
 | **[The Wilds Golf Club](https://www.golfthewilds.com)** | **[Golf Operations Intern](https://jobright.ai/jobs/info/69a7f0731fc3d83b7809600f?utm_campaign=1053&utm_source=git)** | Shakopee, MN | On Site | Mar 03 |
-| **[Gen](https://www.gendigital.com)** | **[Intern, Writer](https://jobright.ai/jobs/info/69a6fce976bbe83d3afa4dff?utm_campaign=1053&utm_source=git)** | USA - New York, New York | On Site | Mar 03 |
 | **[The Wall Street Journal](https://www.wjs.com/)** | **[Youtube Intern](https://jobright.ai/jobs/info/69a779591fc3d83b780944a3?utm_campaign=1053&utm_source=git)** | NYC - 1211 Ave of the Americas | On Site | Mar 03 |
 | **[TGR](http://www.thegarnettereport.com)** | **[Spring/Summer Internship](https://jobright.ai/jobs/info/69a740b31fc3d83b78093733?utm_campaign=1053&utm_source=git)** | NYC Metro Area | Remote | Mar 03 |
-| **[Legendary Entertainment](http://www.legendary.com)** | **[Intern, Production Assets & Archives - Summer 2026](https://jobright.ai/jobs/info/69a7f7e4637232443f654e04?utm_campaign=1053&utm_source=git)** | Burbank, CA | On Site | Mar 03 |
 | **[Gamewell Mechanical LLC](http://gamewellmech.com)** | **[Videography Intern](https://jobright.ai/jobs/info/69a6ed7e76bbe83d3afa41d4?utm_campaign=1053&utm_source=git)** | PATTERSON OFFICE - RICHMOND, VA 23221 | On Site | Mar 03 |
 | **[Charles River Laboratories](http://www.criver.com)** | **[2026 Summer Intern - Archive](https://jobright.ai/jobs/info/6997209c81476f6176af3ae8?utm_campaign=1053&utm_source=git)** | Ashland, OH | On Site | Mar 03 |
 | **[Edelman](http://www.edelman.com)** | **[Edelman U.S. Summer 2026 Internship Program](https://jobright.ai/jobs/info/698a3f8c4db8972cecff7ee2?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Mar 03 |
@@ -117,8 +120,8 @@ For a complete list, click the following sortable link below:
 | **[Legendary Entertainment](http://www.legendary.com)** | **[Intern, Nerdist Social Video - Summer 2026](https://jobright.ai/jobs/info/69a68ea8708b430a607af2a2?utm_campaign=1053&utm_source=git)** | Burbank,CA,US | On Site | Mar 02 |
 | **[New York Post](http://nypost.com/)** | **[DC News Reporting Intern](https://jobright.ai/jobs/info/69a68231e567421f4257887f?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Mar 02 |
 | **[Legendary Entertainment](http://www.legendary.com)** | **[Intern, Nerdist Editorial - Summer 2026](https://jobright.ai/jobs/info/69a69a47f707784310aff2fd?utm_campaign=1053&utm_source=git)** | Burbank,CA,US | On Site | Mar 02 |
-| ↳ | **[Intern, Film Development- Summer 2026](https://jobright.ai/jobs/info/69a69ecf1a944544ef6349b5?utm_campaign=1053&utm_source=git)** | Burbank,CA,US | On Site | Mar 02 |
 | ↳ | **[Intern, Production Assets & Archives - Summer 2026](https://jobright.ai/jobs/info/69a69f29f11be161e274ef88?utm_campaign=1053&utm_source=git)** | Burbank,CA,US | On Site | Mar 02 |
+| ↳ | **[Intern, Film Development- Summer 2026](https://jobright.ai/jobs/info/69a69ecf1a944544ef6349b5?utm_campaign=1053&utm_source=git)** | Burbank,CA,US | On Site | Mar 02 |
 | **[Sony Electronics](http://www.sonyjobs.com)** | **[Summer Intern, Sync](https://jobright.ai/jobs/info/69a668e1d706a731db3858eb?utm_campaign=1053&utm_source=git)** | Miami | On Site | Mar 02 |
 | **[Griffin Media](http://griffincommunications.net/)** | **[News On 6 Summer Newsroom Intern](https://jobright.ai/jobs/info/69a662cb2c0d8b0f5cd084e1?utm_campaign=1053&utm_source=git)** | Tulsa Griffin Media Center - Tulsa, OK 74103 | On Site | Mar 02 |
 | **[University Athletic Association Inc](http://thrivehds.hirecentric.com)** | **[Intern - Event Operations](https://jobright.ai/jobs/info/69a640772c0d8b0f5cd04a74?utm_campaign=1053&utm_source=git)** | Gainesville, Florida, United States | On Site | Mar 02 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Feature Development Intern, DreamWorks Animation, Summer 2026](https://jobright.ai/jobs/info/69a5d310b600907a962b87e7?utm_campaign=1053&utm_source=git)** | Glendale, CA | Hybrid | Mar 02 |
 | ↳ | **[IMF Intern, DreamWorks Animation, Summer 2026](https://jobright.ai/jobs/info/69a5d2e0359fe034b1d07631?utm_campaign=1053&utm_source=git)** | Glendale, CA | Hybrid | Mar 02 |
 | ↳ | **[TV Development & Current Series Intern, DreamWorks Animation, Summer 2026](https://jobright.ai/jobs/info/69a5d22a0da45516f16e83fe?utm_campaign=1053&utm_source=git)** | Glendale, CA | Hybrid | Mar 02 |
-| ↳ | **[Custom Animation Intern, DreamWorks Animation, Summer 2026](https://jobright.ai/jobs/info/69a5d0750da45516f16e80b7?utm_campaign=1053&utm_source=git)** | Glendale, CA | Hybrid | Mar 02 |
-| ↳ | **[CFX Production Development Intern, DreamWorks Animation, Summer 2026](https://jobright.ai/jobs/info/69a5ce80b600907a962b7dcc?utm_campaign=1053&utm_source=git)** | Glendale, CA | Hybrid | Mar 02 |
-| ↳ | **[IMF Intern, DreamWorks Animation, Summer 2026](https://jobright.ai/jobs/info/69a5cb23359fe034b1d065a7?utm_campaign=1053&utm_source=git)** | Glendale, CA | Remote | Mar 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
