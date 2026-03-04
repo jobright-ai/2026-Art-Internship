@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ACLU](https://www.aclu.org/)** | **[Summer 2026 Undergraduate Multimedia Intern - Communications Department](https://jobright.ai/jobs/info/69a868122580d3183f007fae?utm_campaign=1053&utm_source=git)** | Remote/Hybrid- New York City | Remote | Mar 04 |
+| **[Frich Money](http://getfrich.com/)** | **[Multiplatform Video Producer Intern](https://jobright.ai/jobs/info/69a860ac2580d3183f007be8?utm_campaign=1053&utm_source=git)** | United States | Remote | Mar 04 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[WLS-TV (ABC7) I-Team & Consumer Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69a833002580d3183f00365b?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Mar 04 |
 | ↳ | **[Physical Production Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69a82fce2580d3183f003149?utm_campaign=1053&utm_source=git)** | Burbank, CA | On Site | Mar 04 |
 | **[The Walt Disney Studios](https://waltdisneystudios.com)** | **[Physical Production Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69a82caa2580d3183f002f75?utm_campaign=1053&utm_source=git)** | Burbank, CA | On Site | Mar 04 |
@@ -113,9 +115,9 @@ For a complete list, click the following sortable link below:
 | **[WLEX-TV](http://lex18.com)** | **[Sports MMJ Intern (SUMMER) WLEX](https://jobright.ai/jobs/info/69a69005708b430a607af3c3?utm_campaign=1053&utm_source=git)** | Lexington, KY | On Site | Mar 02 |
 | **[Legendary Entertainment](http://www.legendary.com)** | **[Intern, Nerdist Social Video - Summer 2026](https://jobright.ai/jobs/info/69a68ea8708b430a607af2a2?utm_campaign=1053&utm_source=git)** | Burbank,CA,US | On Site | Mar 02 |
 | **[New York Post](http://nypost.com/)** | **[DC News Reporting Intern](https://jobright.ai/jobs/info/69a68231e567421f4257887f?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Mar 02 |
-| **[Legendary Entertainment](http://www.legendary.com)** | **[Intern, Nerdist Editorial - Summer 2026](https://jobright.ai/jobs/info/69a69a47f707784310aff2fd?utm_campaign=1053&utm_source=git)** | Burbank,CA,US | On Site | Mar 02 |
+| **[Legendary Entertainment](http://www.legendary.com)** | **[Intern, Film Development- Summer 2026](https://jobright.ai/jobs/info/69a69ecf1a944544ef6349b5?utm_campaign=1053&utm_source=git)** | Burbank,CA,US | On Site | Mar 02 |
 | ↳ | **[Intern, Production Assets & Archives - Summer 2026](https://jobright.ai/jobs/info/69a69f29f11be161e274ef88?utm_campaign=1053&utm_source=git)** | Burbank,CA,US | On Site | Mar 02 |
-| ↳ | **[Intern, Film Development- Summer 2026](https://jobright.ai/jobs/info/69a69ecf1a944544ef6349b5?utm_campaign=1053&utm_source=git)** | Burbank,CA,US | On Site | Mar 02 |
+| ↳ | **[Intern, Nerdist Editorial - Summer 2026](https://jobright.ai/jobs/info/69a69a47f707784310aff2fd?utm_campaign=1053&utm_source=git)** | Burbank,CA,US | On Site | Mar 02 |
 | **[Sony Electronics](http://www.sonyjobs.com)** | **[Summer Intern, Sync](https://jobright.ai/jobs/info/69a668e1d706a731db3858eb?utm_campaign=1053&utm_source=git)** | Miami | On Site | Mar 02 |
 | **[Griffin Media](http://griffincommunications.net/)** | **[News On 6 Summer Newsroom Intern](https://jobright.ai/jobs/info/69a662cb2c0d8b0f5cd084e1?utm_campaign=1053&utm_source=git)** | Tulsa Griffin Media Center - Tulsa, OK 74103 | On Site | Mar 02 |
 | **[University Athletic Association Inc](http://thrivehds.hirecentric.com)** | **[Intern - Event Operations](https://jobright.ai/jobs/info/69a640772c0d8b0f5cd04a74?utm_campaign=1053&utm_source=git)** | Gainesville, Florida, United States | On Site | Mar 02 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[CFX Production Development Intern, DreamWorks Animation, Summer 2026](https://jobright.ai/jobs/info/69a5ce80b600907a962b7dcc?utm_campaign=1053&utm_source=git)** | Glendale, CA | Hybrid | Mar 02 |
 | ↳ | **[IMF Intern, DreamWorks Animation, Summer 2026](https://jobright.ai/jobs/info/69a5cb23359fe034b1d065a7?utm_campaign=1053&utm_source=git)** | Glendale, CA | Remote | Mar 02 |
 | ↳ | **[Animation Production Intern, DreamWorks Animation, Summer 2026](https://jobright.ai/jobs/info/69a5c8d70da45516f16e7076?utm_campaign=1053&utm_source=git)** | Glendale, CA | Hybrid | Mar 02 |
-| **[Capital Sense Funding](https://www.capitalsensefunding.com/)** | **[Content Creation Intern](https://jobright.ai/jobs/info/69a6fa371fc3d83b780928d4?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Mar 02 |
-| **[Kalahari Resorts & Conventions](http://www.kalahariresorts.com)** | **[Culinary & Pastry Internship](https://jobright.ai/jobs/info/68e6ad371852e62f0081d3cb?utm_campaign=1053&utm_source=git)** | Wisconsin Dells, WI | On Site | Mar 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
