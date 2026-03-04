@@ -99,7 +99,7 @@ For a complete list, click the following sortable link below:
 | **[Gen](https://www.gendigital.com)** | **[Intern, Writer](https://jobright.ai/jobs/info/69a6fce976bbe83d3afa4dff?utm_campaign=1053&utm_source=git)** | USA - New York, New York | On Site | Mar 03 |
 | **[The Wall Street Journal](https://www.wjs.com/)** | **[Youtube Intern](https://jobright.ai/jobs/info/69a779591fc3d83b780944a3?utm_campaign=1053&utm_source=git)** | NYC - 1211 Ave of the Americas | On Site | Mar 03 |
 | **[TGR](http://www.thegarnettereport.com)** | **[Spring/Summer Internship](https://jobright.ai/jobs/info/69a740b31fc3d83b78093733?utm_campaign=1053&utm_source=git)** | NYC Metro Area | Remote | Mar 03 |
-| **[Legendary Entertainment](http://www.legendary.com)** | **[Intern, Nerdist Social Video - Summer 2026](https://jobright.ai/jobs/info/69a7cf7376bbe83d3afb4de8?utm_campaign=1053&utm_source=git)** | Burbank, CA | On Site | Mar 03 |
+| **[Legendary Entertainment](http://www.legendary.com)** | **[Intern, Production Assets & Archives - Summer 2026](https://jobright.ai/jobs/info/69a7f7e4637232443f654e04?utm_campaign=1053&utm_source=git)** | Burbank, CA | On Site | Mar 03 |
 | **[Gamewell Mechanical LLC](http://gamewellmech.com)** | **[Videography Intern](https://jobright.ai/jobs/info/69a6ed7e76bbe83d3afa41d4?utm_campaign=1053&utm_source=git)** | PATTERSON OFFICE - RICHMOND, VA 23221 | On Site | Mar 03 |
 | **[Charles River Laboratories](http://www.criver.com)** | **[2026 Summer Intern - Archive](https://jobright.ai/jobs/info/6997209c81476f6176af3ae8?utm_campaign=1053&utm_source=git)** | Ashland, OH | On Site | Mar 03 |
 | **[Edelman](http://www.edelman.com)** | **[Edelman U.S. Summer 2026 Internship Program](https://jobright.ai/jobs/info/698a3f8c4db8972cecff7ee2?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Mar 03 |
@@ -109,9 +109,9 @@ For a complete list, click the following sortable link below:
 | **[WLEX-TV](http://lex18.com)** | **[Sports MMJ Intern (SUMMER) WLEX](https://jobright.ai/jobs/info/69a69005708b430a607af3c3?utm_campaign=1053&utm_source=git)** | Lexington, KY | On Site | Mar 02 |
 | **[Legendary Entertainment](http://www.legendary.com)** | **[Intern, Nerdist Social Video - Summer 2026](https://jobright.ai/jobs/info/69a68ea8708b430a607af2a2?utm_campaign=1053&utm_source=git)** | Burbank,CA,US | On Site | Mar 02 |
 | **[New York Post](http://nypost.com/)** | **[DC News Reporting Intern](https://jobright.ai/jobs/info/69a68231e567421f4257887f?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Mar 02 |
-| **[Legendary Entertainment](http://www.legendary.com)** | **[Intern, Production Assets & Archives - Summer 2026](https://jobright.ai/jobs/info/69a69f29f11be161e274ef88?utm_campaign=1053&utm_source=git)** | Burbank,CA,US | On Site | Mar 02 |
+| **[Legendary Entertainment](http://www.legendary.com)** | **[Intern, Nerdist Editorial - Summer 2026](https://jobright.ai/jobs/info/69a69a47f707784310aff2fd?utm_campaign=1053&utm_source=git)** | Burbank,CA,US | On Site | Mar 02 |
 | ↳ | **[Intern, Film Development- Summer 2026](https://jobright.ai/jobs/info/69a69ecf1a944544ef6349b5?utm_campaign=1053&utm_source=git)** | Burbank,CA,US | On Site | Mar 02 |
-| ↳ | **[Intern, Nerdist Editorial - Summer 2026](https://jobright.ai/jobs/info/69a69a47f707784310aff2fd?utm_campaign=1053&utm_source=git)** | Burbank,CA,US | On Site | Mar 02 |
+| ↳ | **[Intern, Production Assets & Archives - Summer 2026](https://jobright.ai/jobs/info/69a69f29f11be161e274ef88?utm_campaign=1053&utm_source=git)** | Burbank,CA,US | On Site | Mar 02 |
 | **[Sony Electronics](http://www.sonyjobs.com)** | **[Summer Intern, Sync](https://jobright.ai/jobs/info/69a668e1d706a731db3858eb?utm_campaign=1053&utm_source=git)** | Miami | On Site | Mar 02 |
 | **[Griffin Media](http://griffincommunications.net/)** | **[News On 6 Summer Newsroom Intern](https://jobright.ai/jobs/info/69a662cb2c0d8b0f5cd084e1?utm_campaign=1053&utm_source=git)** | Tulsa Griffin Media Center - Tulsa, OK 74103 | On Site | Mar 02 |
 | **[University Athletic Association Inc](http://thrivehds.hirecentric.com)** | **[Intern - Event Operations](https://jobright.ai/jobs/info/69a640772c0d8b0f5cd04a74?utm_campaign=1053&utm_source=git)** | Gainesville, Florida, United States | On Site | Mar 02 |
@@ -153,8 +153,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Animation Production Intern, DreamWorks Animation, Summer 2026](https://jobright.ai/jobs/info/69a5c8d70da45516f16e7076?utm_campaign=1053&utm_source=git)** | Glendale, CA | Hybrid | Mar 02 |
 | **[Capital Sense Funding](https://www.capitalsensefunding.com/)** | **[Content Creation Intern](https://jobright.ai/jobs/info/69a6fa371fc3d83b780928d4?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Mar 02 |
 | **[Kalahari Resorts & Conventions](http://www.kalahariresorts.com)** | **[Culinary & Pastry Internship](https://jobright.ai/jobs/info/68e6ad371852e62f0081d3cb?utm_campaign=1053&utm_source=git)** | Wisconsin Dells, WI | On Site | Mar 02 |
-| **[Minnesota Historical Society](http://www.mnhs.org/)** | **[Intern - Digital Production and Programming](https://jobright.ai/jobs/info/69a5e62f359fe034b1d0a083?utm_campaign=1053&utm_source=git)** | St Paul, MN, US | On Site | Mar 02 |
-| ↳ | **[Intern - Production Assistant](https://jobright.ai/jobs/info/69a5e7a6b600907a962bb159?utm_campaign=1053&utm_source=git)** | St Paul, MN, US | On Site | Mar 02 |
+| **[Minnesota Historical Society](http://www.mnhs.org/)** | **[Intern - Production Assistant](https://jobright.ai/jobs/info/69a5e7a6b600907a962bb159?utm_campaign=1053&utm_source=git)** | St Paul, MN, US | On Site | Mar 02 |
+| ↳ | **[Intern - Digital Production and Programming](https://jobright.ai/jobs/info/69a5e62f359fe034b1d0a083?utm_campaign=1053&utm_source=git)** | St Paul, MN, US | On Site | Mar 02 |
 | **[Kalahari Resorts & Conventions](http://www.kalahariresorts.com)** | **[Culinary & Pastry Internship](https://jobright.ai/jobs/info/68e6aeefe8daec61499ad5dd?utm_campaign=1053&utm_source=git)** | Pocono, PA | On Site | Mar 02 |
 | ↳ | **[Culinary & Pastry Internship](https://jobright.ai/jobs/info/68e6b6cb1852e62f0081dcbc?utm_campaign=1053&utm_source=git)** | Sandusky, OH | On Site | Mar 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
