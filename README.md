@@ -57,10 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[University of Michigan](https://www.umich.edu)** | **[Video Production Intern](https://jobright.ai/jobs/info/69a7ec2776bbe83d3afb6609?utm_campaign=1053&utm_source=git)** | Ann Arbor, MI | Hybrid | Mar 04 |
 | **[Seattle Kraken](https://www.nhl.com/kraken)** | **[Digital Library Intern (June - April)](https://jobright.ai/jobs/info/69a7bad076bbe83d3afb31e0?utm_campaign=1053&utm_source=git)** | Seattle, WA | Hybrid | Mar 03 |
 | **[Denver Broncos Football Club](http://www.denverbroncos.com/)** | **[Video Production Intern](https://jobright.ai/jobs/info/69a7b142637232443f64fe0f?utm_campaign=1053&utm_source=git)** | Englewood, Colorado | On Site | Mar 03 |
 | **[D.C. United](http://dcunited.com)** | **[Intern- Videographer Internship (Summer 2026)](https://jobright.ai/jobs/info/69a7b465637232443f650119?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Mar 03 |
 | **[Gen](https://www.gendigital.com)** | **[Intern, Writer](https://jobright.ai/jobs/info/69a7b1b2637232443f64fe65?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Mar 03 |
+| **[The Broadmoor](http://www.broadmoor.com)** | **[Greenskeeper Intern- Golf Course Maintenance](https://jobright.ai/jobs/info/69a7eed876bbe83d3afb6809?utm_campaign=1053&utm_source=git)** | Colorado Springs, CO | On Site | Mar 03 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Physical Production Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69a7783f2672cb0acb4befcc?utm_campaign=1053&utm_source=git)** | Burbank, CA, USA | On Site | Mar 03 |
 | **[14.ai](https://14.ai)** | **[Videographer Intern at 14.ai (On-Site – San Francisco, ASAP Start)](https://jobright.ai/jobs/info/69a79acc76bbe83d3afafcb9?utm_campaign=1053&utm_source=git)** | San Francisco, CA, US | On Site | Mar 03 |
 | **[McKim & Creed, Inc.](http://mckimcreed.com)** | **[Summer Multimedia Intern](https://jobright.ai/jobs/info/69a7722676bbe83d3afad619?utm_campaign=1053&utm_source=git)** | Charlotte, NC | On Site | Mar 03 |
@@ -93,11 +95,11 @@ For a complete list, click the following sortable link below:
 | **[The Wall Street Journal](https://www.wjs.com/)** | **[Decider Features Intern](https://jobright.ai/jobs/info/69a709f576bbe83d3afa5a93?utm_campaign=1053&utm_source=git)** | NYC - 1211 Ave of the Americas | On Site | Mar 03 |
 | **[Eurasia Group](http://www.eurasiagroup.net/)** | **[Summer Internship, GZERO Media  (Video)](https://jobright.ai/jobs/info/69a724a276bbe83d3afa8056?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Mar 03 |
 | **[Mullins Media Co](www.mullinsmediaco.com)** | **[Post-Production & Media Intern](https://jobright.ai/jobs/info/69a72acd76bbe83d3afa8752?utm_campaign=1053&utm_source=git)** | Lynchburg, VA | Hybrid | Mar 03 |
+| **[The Wilds Golf Club](https://www.golfthewilds.com)** | **[Golf Operations Intern](https://jobright.ai/jobs/info/69a7f0731fc3d83b7809600f?utm_campaign=1053&utm_source=git)** | Shakopee, MN | On Site | Mar 03 |
 | **[Gen](https://www.gendigital.com)** | **[Intern, Writer](https://jobright.ai/jobs/info/69a6fce976bbe83d3afa4dff?utm_campaign=1053&utm_source=git)** | USA - New York, New York | On Site | Mar 03 |
 | **[The Wall Street Journal](https://www.wjs.com/)** | **[Youtube Intern](https://jobright.ai/jobs/info/69a779591fc3d83b780944a3?utm_campaign=1053&utm_source=git)** | NYC - 1211 Ave of the Americas | On Site | Mar 03 |
 | **[TGR](http://www.thegarnettereport.com)** | **[Spring/Summer Internship](https://jobright.ai/jobs/info/69a740b31fc3d83b78093733?utm_campaign=1053&utm_source=git)** | NYC Metro Area | Remote | Mar 03 |
-| **[Legendary Entertainment](http://www.legendary.com)** | **[Intern, Production Assets & Archives - Summer 2026](https://jobright.ai/jobs/info/69a7e5fd637232443f653e1f?utm_campaign=1053&utm_source=git)** | Burbank, CA | On Site | Mar 03 |
-| ↳ | **[Intern, Nerdist Social Video - Summer 2026](https://jobright.ai/jobs/info/69a7cf7376bbe83d3afb4de8?utm_campaign=1053&utm_source=git)** | Burbank, CA | On Site | Mar 03 |
+| **[Legendary Entertainment](http://www.legendary.com)** | **[Intern, Nerdist Social Video - Summer 2026](https://jobright.ai/jobs/info/69a7cf7376bbe83d3afb4de8?utm_campaign=1053&utm_source=git)** | Burbank, CA | On Site | Mar 03 |
 | **[Gamewell Mechanical LLC](http://gamewellmech.com)** | **[Videography Intern](https://jobright.ai/jobs/info/69a6ed7e76bbe83d3afa41d4?utm_campaign=1053&utm_source=git)** | PATTERSON OFFICE - RICHMOND, VA 23221 | On Site | Mar 03 |
 | **[Charles River Laboratories](http://www.criver.com)** | **[2026 Summer Intern - Archive](https://jobright.ai/jobs/info/6997209c81476f6176af3ae8?utm_campaign=1053&utm_source=git)** | Ashland, OH | On Site | Mar 03 |
 | **[Edelman](http://www.edelman.com)** | **[Edelman U.S. Summer 2026 Internship Program](https://jobright.ai/jobs/info/698a3f8c4db8972cecff7ee2?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Mar 03 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern - Production Assistant](https://jobright.ai/jobs/info/69a5e7a6b600907a962bb159?utm_campaign=1053&utm_source=git)** | St Paul, MN, US | On Site | Mar 02 |
 | **[Kalahari Resorts & Conventions](http://www.kalahariresorts.com)** | **[Culinary & Pastry Internship](https://jobright.ai/jobs/info/68e6aeefe8daec61499ad5dd?utm_campaign=1053&utm_source=git)** | Pocono, PA | On Site | Mar 02 |
 | ↳ | **[Culinary & Pastry Internship](https://jobright.ai/jobs/info/68e6b6cb1852e62f0081dcbc?utm_campaign=1053&utm_source=git)** | Sandusky, OH | On Site | Mar 02 |
-| **[iHeartMedia](http://iheartmedia.com)** | **[Summer intern](https://jobright.ai/jobs/info/69993424e0bddb6acac843c9?utm_campaign=1053&utm_source=git)** | Burbank, CA | On Site | Mar 02 |
-| **[Crain Communications](https://crain.com)** | **[DJNF Intern](https://jobright.ai/jobs/info/69a5aa230da45516f16e59d6?utm_campaign=1053&utm_source=git)** | New York | On Site | Mar 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
