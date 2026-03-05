@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Rise 2 Stardom](www.Rise2Stardom.com)** | **[Grand Strand Fashion Week Internship](https://jobright.ai/jobs/info/69a9c47f1f59c56275e27a6d?utm_campaign=1053&utm_source=git)** | Murrells Inlet, SC | On Site | Mar 05 |
+| **[Ensign Services](https://www.ensignservices.net)** | **[Internship for Media Creator](https://jobright.ai/jobs/info/69a9bf711f59c56275e27640?utm_campaign=1053&utm_source=git)** | McAllen, TX | On Site | Mar 05 |
 | **[Sergio Tacchini](https://www.sergiotacchini.com)** | **[Production Intern](https://jobright.ai/jobs/info/69a9b57c9ca4e908ec64ec90?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Mar 05 |
 | **[PBS](http://www.pbs.org)** | **[Intern (Digital Studios)](https://jobright.ai/jobs/info/69a9ab5a2ebd316bece13cf1?utm_campaign=1053&utm_source=git)** | Arlington, VA | Hybrid | Mar 05 |
 | ↳ | **[Intern (Station Services - Programming and Products)](https://jobright.ai/jobs/info/69a9ab582ebd316bece13cdf?utm_campaign=1053&utm_source=git)** | Arlington, VA | Hybrid | Mar 05 |
@@ -109,7 +111,6 @@ For a complete list, click the following sortable link below:
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[WLS-TV (ABC7) I-Team & Consumer Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69a833002580d3183f00365b?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Mar 04 |
 | ↳ | **[Physical Production Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69a82fce2580d3183f003149?utm_campaign=1053&utm_source=git)** | Burbank, CA | On Site | Mar 04 |
 | **[The Walt Disney Studios](https://waltdisneystudios.com)** | **[Physical Production Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69a82caa2580d3183f002f75?utm_campaign=1053&utm_source=git)** | Burbank, CA | On Site | Mar 04 |
-| **[Legendary Entertainment](http://www.legendary.com)** | **[Intern, Film Post Production - Summer 2026](https://jobright.ai/jobs/info/69a95cf17f9271426f8844cc?utm_campaign=1053&utm_source=git)** | Burbank, CA | On Site | Mar 04 |
 | **[Denver Broncos Football Club](http://www.denverbroncos.com/)** | **[Video Production Intern](https://jobright.ai/jobs/info/69a931ff2580d3183f0163cc?utm_campaign=1053&utm_source=git)** | Englewood, CO | On Site | Mar 03 |
 | **[Seattle Kraken](https://www.nhl.com/kraken)** | **[Digital Library Intern (June - April)](https://jobright.ai/jobs/info/69a7bad076bbe83d3afb31e0?utm_campaign=1053&utm_source=git)** | Seattle, WA | Hybrid | Mar 03 |
 | **[The Juilliard School](http://www.juilliard.edu/)** | **[Audio/Video Editor Apprentice, Media Production](https://jobright.ai/jobs/info/69a9382479f3f4037f440473?utm_campaign=1053&utm_source=git)** | New York, United States | Hybrid | Mar 03 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Wilds Golf Club](https://www.golfthewilds.com)** | **[Golf Operations Intern](https://jobright.ai/jobs/info/69a7f0731fc3d83b7809600f?utm_campaign=1053&utm_source=git)** | Shakopee, MN | On Site | Mar 03 |
 | **[The Wall Street Journal](https://www.wjs.com/)** | **[Youtube Intern](https://jobright.ai/jobs/info/69a779591fc3d83b780944a3?utm_campaign=1053&utm_source=git)** | NYC - 1211 Ave of the Americas | On Site | Mar 03 |
 | **[TGR](http://www.thegarnettereport.com)** | **[Spring/Summer Internship](https://jobright.ai/jobs/info/69a740b31fc3d83b78093733?utm_campaign=1053&utm_source=git)** | NYC Metro Area | Remote | Mar 03 |
-| **[University of Notre Dame](http://mendoza.nd.edu)** | **[Media Production Student Intern](https://jobright.ai/jobs/info/69a92fe779f3f4037f43f325?utm_campaign=1053&utm_source=git)** | Notre Dame, IN | On Site | Mar 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
