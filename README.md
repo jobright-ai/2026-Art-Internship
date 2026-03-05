@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[PBS](http://www.pbs.org)** | **[Intern (PBS KIDS Initiatives and Creative Production)](https://jobright.ai/jobs/info/69a99b5af6c22f2e3686a1ea?utm_campaign=1053&utm_source=git)** | Arlington, VA | Hybrid | Mar 05 |
+| ↳ | **[Intern (PBS KIDS Distribution)](https://jobright.ai/jobs/info/69a99b50f6c22f2e3686a1d3?utm_campaign=1053&utm_source=git)** | Arlington, VA | Hybrid | Mar 05 |
+| **[Pinehurst Resort](https://www.pinehurst.com/)** | **[Golf Course Maintenance Intern-No.4-Seasonal](https://jobright.ai/jobs/info/69a99620f2055e05d171d8a1?utm_campaign=1053&utm_source=git)** | Pinehurst, NC, USA | On Site | Mar 05 |
+| **[TESstylist](https://tesstylist.com)** | **[Fashion Intern](https://jobright.ai/jobs/info/69a9939f7f9271426f886f04?utm_campaign=1053&utm_source=git)** | Boston, MA | On Site | Mar 05 |
 | **[Rural King](https://www.ruralking.com)** | **[2026-2027 LIFT Internship - Video Production/Content Creation](https://jobright.ai/jobs/info/698d12580f6f7e7a2ce8c669?utm_campaign=1053&utm_source=git)** | Mattoon, IL | On Site | Mar 05 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Hello Iowa Intern (Unpaid)](https://jobright.ai/jobs/info/6938ede1b95c305f206e2e4b?utm_campaign=1053&utm_source=git)** | Des Moines, IA | On Site | Mar 05 |
 | ↳ | **[Media Production Intern (In- Person) Summer 2026.](https://jobright.ai/jobs/info/69a93b2a2615b60842abb55a?utm_campaign=1053&utm_source=git)** | Mobile, AL | On Site | Mar 05 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Edelman](http://www.edelman.com)** | **[Edelman U.S. Summer 2026 Internship Program](https://jobright.ai/jobs/info/698a3f8c4db8972cecff7ee2?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Mar 03 |
 | **[Troon](http://www.troon.com/)** | **[Golf Course Maintenance Internship](https://jobright.ai/jobs/info/6986795a8da7a6120461449b?utm_campaign=1053&utm_source=git)** | St Michaels, MD | On Site | Mar 03 |
 | ↳ | **[Golf Course Maintenance Intern](https://jobright.ai/jobs/info/693c5aae50bbaf76504fa5e9?utm_campaign=1053&utm_source=git)** | Bend, OR | On Site | Mar 03 |
-| **[New York Post](http://nypost.com/)** | **[Sports Reporting Intern](https://jobright.ai/jobs/info/69a611be359fe034b1d0e1ab?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Mar 03 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[WLS-TV (ABC7) I-Team & Consumer Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69a6966a1a944544ef633ee1?utm_campaign=1053&utm_source=git)** | Chicago, IL, USA | On Site | Mar 03 |
-| **[WLEX-TV](http://lex18.com)** | **[Sports MMJ Intern (SUMMER) WLEX](https://jobright.ai/jobs/info/69a69005708b430a607af3c3?utm_campaign=1053&utm_source=git)** | Lexington, KY | On Site | Mar 02 |
-| **[Legendary Entertainment](http://www.legendary.com)** | **[Intern, Nerdist Social Video - Summer 2026](https://jobright.ai/jobs/info/69a68ea8708b430a607af2a2?utm_campaign=1053&utm_source=git)** | Burbank,CA,US | On Site | Mar 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
