@@ -57,9 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Studio Project Coordination & Production (Summer 2026)](https://jobright.ai/jobs/info/69a8ec117ac93962b708d0a9?utm_campaign=1053&utm_source=git)** | Dorval, Quebec, Canada | Hybrid | Mar 04 |
+| **[Illumination](https://www.illumination.com/)** | **[Production Assistant Intern - Summer 2026](https://jobright.ai/jobs/info/69a8dd622580d3183f010103?utm_campaign=1053&utm_source=git)** | Santa Monica - INTERNSHIPS | Hybrid | Mar 04 |
 | **[Business Insider](http://www.businessinsider.com)** | **[Media Studios Intern](https://jobright.ai/jobs/info/69a8ccf12580d3183f00e59b?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Mar 04 |
+| **[Relevate Health](https://www.relevatehealth.com/)** | **[Editorial Intern](https://jobright.ai/jobs/info/69a8eb0d7ac93962b708ceca?utm_campaign=1053&utm_source=git)** | United States | Remote | Mar 04 |
+| **[Forum Communications Co.](http://www.forumcomm.com/)** | **[Summer Reporter Intern](https://jobright.ai/jobs/info/69a8ead979f3f4037f437ea7?utm_campaign=1053&utm_source=git)** | Grand Forks,ND,US | On Site | Mar 04 |
 | **[Barstool Sports](http://www.barstoolsports.com)** | **[Production Intern](https://jobright.ai/jobs/info/69a8a1872580d3183f00a3a3?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Mar 04 |
-| **[UFC GYM](http://UFCGYM.com)** | **[Intern](https://jobright.ai/jobs/info/69a89fd47ac93962b7085c48?utm_campaign=1053&utm_source=git)** | Las Vegas, NV | On Site | Mar 04 |
 | **[AMB Sports and Entertainment](http://blankfamilyofbusinesses.com)** | **[Game Presentation and Stadium Productions Intern](https://jobright.ai/jobs/info/69a89d667ac93962b7085a23?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Mar 04 |
 | **[Revere Health](https://reverehealth.com/)** | **[Video Production Intern](https://jobright.ai/jobs/info/69a898632580d3183f009b1e?utm_campaign=1053&utm_source=git)** | Provo/Orem, Utah, United States | On Site | Mar 04 |
 | **[Barstool Sports](http://www.barstoolsports.com)** | **[Post-Production Intern - CHI](https://jobright.ai/jobs/info/69a897c42580d3183f009aa6?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Mar 04 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[New York Post](http://nypost.com/)** | **[Page Six Studio Intern](https://jobright.ai/jobs/info/69a611a4b600907a962bf3ac?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Mar 02 |
 | **[SDFX Studios](https://www.sdfxstudios.com)** | **[NExT Summer Intern - VFX Production](https://jobright.ai/jobs/info/699d022ee0bddb6acacc19e1?utm_campaign=1053&utm_source=git)** | Greater Toronto Area, Canada | Remote | Mar 02 |
 | **[AEG](http://www.aegworldwide.com)** | **[Summer Intern, Goldenvoice Festivals (Production)](https://jobright.ai/jobs/info/69a60725b600907a962be493?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Mar 02 |
-| **[American Academy of Neurology](https://www.aan.com)** | **[INTERN, JOURNAL PRODUCTION](https://jobright.ai/jobs/info/69a602e30da45516f16ed8cd?utm_campaign=1053&utm_source=git)** | Minneapolis, MN | Hybrid | Mar 02 |
-| **[Bandana](https://bandana.com/)** | **[Animation Intern](https://jobright.ai/jobs/info/69a6219f359fe034b1d0f2f1?utm_campaign=1053&utm_source=git)** | Brooklyn, NY | On Site | Mar 02 |
-| **[Business Insider](http://www.businessinsider.com)** | **[Media Studios Intern](https://jobright.ai/jobs/info/69a5fb2a359fe034b1d0bfd8?utm_campaign=1053&utm_source=git)** | New York, New York, United States | On Site | Mar 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
