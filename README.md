@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Business Insider](http://www.businessinsider.com)** | **[Media Studios Intern](https://jobright.ai/jobs/info/69a8ccf12580d3183f00e59b?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Mar 04 |
 | **[Barstool Sports](http://www.barstoolsports.com)** | **[Production Intern](https://jobright.ai/jobs/info/69a8a1872580d3183f00a3a3?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Mar 04 |
 | **[UFC GYM](http://UFCGYM.com)** | **[Intern](https://jobright.ai/jobs/info/69a89fd47ac93962b7085c48?utm_campaign=1053&utm_source=git)** | Las Vegas, NV | On Site | Mar 04 |
 | **[AMB Sports and Entertainment](http://blankfamilyofbusinesses.com)** | **[Game Presentation and Stadium Productions Intern](https://jobright.ai/jobs/info/69a89d667ac93962b7085a23?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Mar 04 |
@@ -137,8 +138,8 @@ For a complete list, click the following sortable link below:
 | **[Legendary Entertainment](http://www.legendary.com)** | **[Intern, Nerdist Social Video - Summer 2026](https://jobright.ai/jobs/info/69a68ea8708b430a607af2a2?utm_campaign=1053&utm_source=git)** | Burbank,CA,US | On Site | Mar 02 |
 | **[New York Post](http://nypost.com/)** | **[DC News Reporting Intern](https://jobright.ai/jobs/info/69a68231e567421f4257887f?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Mar 02 |
 | **[Legendary Entertainment](http://www.legendary.com)** | **[Intern, Production Assets & Archives - Summer 2026](https://jobright.ai/jobs/info/69a69f29f11be161e274ef88?utm_campaign=1053&utm_source=git)** | Burbank,CA,US | On Site | Mar 02 |
-| ↳ | **[Intern, Nerdist Editorial - Summer 2026](https://jobright.ai/jobs/info/69a69a47f707784310aff2fd?utm_campaign=1053&utm_source=git)** | Burbank,CA,US | On Site | Mar 02 |
 | ↳ | **[Intern, Film Development- Summer 2026](https://jobright.ai/jobs/info/69a69ecf1a944544ef6349b5?utm_campaign=1053&utm_source=git)** | Burbank,CA,US | On Site | Mar 02 |
+| ↳ | **[Intern, Nerdist Editorial - Summer 2026](https://jobright.ai/jobs/info/69a69a47f707784310aff2fd?utm_campaign=1053&utm_source=git)** | Burbank,CA,US | On Site | Mar 02 |
 | **[Sony Electronics](http://www.sonyjobs.com)** | **[Summer Intern, Sync](https://jobright.ai/jobs/info/69a668e1d706a731db3858eb?utm_campaign=1053&utm_source=git)** | Miami | On Site | Mar 02 |
 | **[Griffin Media](http://griffincommunications.net/)** | **[News On 6 Summer Newsroom Intern](https://jobright.ai/jobs/info/69a662cb2c0d8b0f5cd084e1?utm_campaign=1053&utm_source=git)** | Tulsa Griffin Media Center - Tulsa, OK 74103 | On Site | Mar 02 |
 | **[University Athletic Association Inc](http://thrivehds.hirecentric.com)** | **[Intern - Event Operations](https://jobright.ai/jobs/info/69a640772c0d8b0f5cd04a74?utm_campaign=1053&utm_source=git)** | Gainesville, Florida, United States | On Site | Mar 02 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[American Academy of Neurology](https://www.aan.com)** | **[INTERN, JOURNAL PRODUCTION](https://jobright.ai/jobs/info/69a602e30da45516f16ed8cd?utm_campaign=1053&utm_source=git)** | Minneapolis, MN | Hybrid | Mar 02 |
 | **[Bandana](https://bandana.com/)** | **[Animation Intern](https://jobright.ai/jobs/info/69a6219f359fe034b1d0f2f1?utm_campaign=1053&utm_source=git)** | Brooklyn, NY | On Site | Mar 02 |
 | **[Business Insider](http://www.businessinsider.com)** | **[Media Studios Intern](https://jobright.ai/jobs/info/69a5fb2a359fe034b1d0bfd8?utm_campaign=1053&utm_source=git)** | New York, New York, United States | On Site | Mar 02 |
-| **[Boot Barn](https://www.bootbarn.com)** | **[Intern – Photography, Videography, & Editing](https://jobright.ai/jobs/info/69a5f92c359fe034b1d0bcaf?utm_campaign=1053&utm_source=git)** | Irvine, CA | On Site | Mar 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
