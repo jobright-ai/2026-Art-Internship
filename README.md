@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sergio Tacchini](https://www.sergiotacchini.com)** | **[Production Intern](https://jobright.ai/jobs/info/69a9b57c9ca4e908ec64ec90?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Mar 05 |
+| **[PBS](http://www.pbs.org)** | **[Intern (Digital Studios)](https://jobright.ai/jobs/info/69a9ab5a2ebd316bece13cf1?utm_campaign=1053&utm_source=git)** | Arlington, VA | Hybrid | Mar 05 |
+| ↳ | **[Intern (Station Services - Programming and Products)](https://jobright.ai/jobs/info/69a9ab582ebd316bece13cdf?utm_campaign=1053&utm_source=git)** | Arlington, VA | Hybrid | Mar 05 |
+| ↳ | **[Intern (PBS LearningMedia YouTube)](https://jobright.ai/jobs/info/69a9ab511f59c56275e26904?utm_campaign=1053&utm_source=git)** | Arlington, VA | Hybrid | Mar 05 |
 | **[Michigan Medicine](http://www.uofmhealth.org/)** | **[Video Production Intern](https://jobright.ai/jobs/info/69a9a3471f59c56275e26133?utm_campaign=1053&utm_source=git)** | Ann Arbor, MI | Hybrid | Mar 05 |
 | **[Sony Music Entertainment](http://www.sonymusic.com)** | **[Intern, Video Production](https://jobright.ai/jobs/info/69a99beb7f9271426f88749a?utm_campaign=1053&utm_source=git)** | Toronto, Ontario, Canada | On Site | Mar 05 |
 | **[PBS](http://www.pbs.org)** | **[Intern (PBS KIDS Initiatives and Creative Production)](https://jobright.ai/jobs/info/69a99b5af6c22f2e3686a1ea?utm_campaign=1053&utm_source=git)** | Arlington, VA | Hybrid | Mar 05 |
@@ -100,7 +104,6 @@ For a complete list, click the following sortable link below:
 | **[Museum of Science](http://www.mos.org)** | **[Digital Media  College Internship](https://jobright.ai/jobs/info/6986346e0f6f7e7a2ce1176f?utm_campaign=1053&utm_source=git)** | Boston, MA | On Site | Mar 04 |
 | **[SOCAN](http://www.socan.ca)** | **[Membership - Creative - Film & TV Intern](https://jobright.ai/jobs/info/69a108a481476f6176bb5f8f?utm_campaign=1053&utm_source=git)** | North York, Ontario, Canada | Remote | Mar 04 |
 | **[ACLU](https://www.aclu.org/)** | **[Summer 2026 Undergraduate Multimedia Intern - Communications Department](https://jobright.ai/jobs/info/69a868122580d3183f007fae?utm_campaign=1053&utm_source=git)** | Remote/Hybrid- New York City | Remote | Mar 04 |
-| **[Frich Money](http://getfrich.com/)** | **[Multiplatform Video Producer Intern](https://jobright.ai/jobs/info/69a860ac2580d3183f007be8?utm_campaign=1053&utm_source=git)** | United States | Remote | Mar 04 |
 | **[Sony Music Entertainment](http://www.sonymusic.com)** | **[Intern, Video Production](https://jobright.ai/jobs/info/69a8a40d79f3f4037f42d5c6?utm_campaign=1053&utm_source=git)** | Canada, Ontario, Toronto | On Site | Mar 04 |
 | **[EBSCO Information Services](https://www.ebsco.com)** | **[Content Editorial Intern](https://jobright.ai/jobs/info/69a413fe359fe034b1cf0fb9?utm_campaign=1053&utm_source=git)** | United States | Remote | Mar 04 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[WLS-TV (ABC7) I-Team & Consumer Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69a833002580d3183f00365b?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Mar 04 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Wall Street Journal](https://www.wjs.com/)** | **[Youtube Intern](https://jobright.ai/jobs/info/69a779591fc3d83b780944a3?utm_campaign=1053&utm_source=git)** | NYC - 1211 Ave of the Americas | On Site | Mar 03 |
 | **[TGR](http://www.thegarnettereport.com)** | **[Spring/Summer Internship](https://jobright.ai/jobs/info/69a740b31fc3d83b78093733?utm_campaign=1053&utm_source=git)** | NYC Metro Area | Remote | Mar 03 |
 | **[University of Notre Dame](http://mendoza.nd.edu)** | **[Media Production Student Intern](https://jobright.ai/jobs/info/69a92fe779f3f4037f43f325?utm_campaign=1053&utm_source=git)** | Notre Dame, IN | On Site | Mar 03 |
-| **[Gamewell Mechanical LLC](http://gamewellmech.com)** | **[Videography Intern](https://jobright.ai/jobs/info/69a6ed7e76bbe83d3afa41d4?utm_campaign=1053&utm_source=git)** | PATTERSON OFFICE - RICHMOND, VA 23221 | On Site | Mar 03 |
-| **[Charles River Laboratories](http://www.criver.com)** | **[2026 Summer Intern - Archive](https://jobright.ai/jobs/info/6997209c81476f6176af3ae8?utm_campaign=1053&utm_source=git)** | Ashland, OH | On Site | Mar 03 |
-| **[Edelman](http://www.edelman.com)** | **[Edelman U.S. Summer 2026 Internship Program](https://jobright.ai/jobs/info/698a3f8c4db8972cecff7ee2?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Mar 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
