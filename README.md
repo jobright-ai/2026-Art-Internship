@@ -57,8 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[University of Michigan](https://www.umich.edu)** | **[Video Production Intern](https://jobright.ai/jobs/info/69a9479d79f3f4037f442651?utm_campaign=1053&utm_source=git)** | Ann Arbor, MI | Hybrid | Mar 05 |
-| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Media Production Intern (In- Person) Summer 2026.](https://jobright.ai/jobs/info/69a93b2a2615b60842abb55a?utm_campaign=1053&utm_source=git)** | Mobile, AL | On Site | Mar 05 |
+| **[Rural King](https://www.ruralking.com)** | **[2026-2027 LIFT Internship - Video Production/Content Creation](https://jobright.ai/jobs/info/698d12580f6f7e7a2ce8c669?utm_campaign=1053&utm_source=git)** | Mattoon, IL | On Site | Mar 05 |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Hello Iowa Intern (Unpaid)](https://jobright.ai/jobs/info/6938ede1b95c305f206e2e4b?utm_campaign=1053&utm_source=git)** | Des Moines, IA | On Site | Mar 05 |
+| ↳ | **[Media Production Intern (In- Person) Summer 2026.](https://jobright.ai/jobs/info/69a93b2a2615b60842abb55a?utm_campaign=1053&utm_source=git)** | Mobile, AL | On Site | Mar 05 |
 | **[Town of Clayton](https://linktr.ee/townofclaytonnc)** | **[Intern - Communication and Outreach](https://jobright.ai/jobs/info/69a8f2d579f3f4037f438ee6?utm_campaign=1053&utm_source=git)** | Clayton, NC | On Site | Mar 04 |
 | **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69a8f08a79f3f4037f4389d3?utm_campaign=1053&utm_source=git)** | Greenbrier River, WV | On Site | Mar 04 |
 | **[Chautauqua Institution](https://www.chq.org)** | **[Foundation Events & Hospitality Intern (Foundation)/Seasonal Employment](https://jobright.ai/jobs/info/69a95464f2055e05d171781f?utm_campaign=1053&utm_source=git)** | Chautauqua, NY | On Site | Mar 04 |
@@ -79,6 +80,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Post-Production Intern - CHI](https://jobright.ai/jobs/info/69a9463579f3f4037f442517?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Mar 04 |
 | ↳ | **[Production Intern](https://jobright.ai/jobs/info/69a925f32580d3183f015acd?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Mar 04 |
 | ↳ | **[Post-Production Intern - NYC](https://jobright.ai/jobs/info/69a926282580d3183f015adc?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Mar 04 |
+| **[UTAH SECTION OF THE PGA OF AMERICA](https://www.linkedin.com/company/59757399)** | **[2026 Junior Golf Summer Staff/Intern](https://jobright.ai/jobs/info/69a97d357f9271426f885c37?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Mar 04 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Studio Project Coordination & Production (Summer 2026)](https://jobright.ai/jobs/info/69a8c35c79f3f4037f433944?utm_campaign=1053&utm_source=git)** | Dorval, Québec, CA, H4S 1Y9 | Hybrid | Mar 04 |
 | **[Manor Vail Lodge](http://manorvail.com)** | **[Food & Beverage, Events & Bqts Intern at Manor Vail Lodge](https://jobright.ai/jobs/info/69a8c77179f3f4037f43422f?utm_campaign=1053&utm_source=git)** | Vail, CO, US | On Site | Mar 04 |
 | **[Michigan Central](https://michigancountymap.com/)** | **[Art Program Intern](https://jobright.ai/jobs/info/69a8b9c779f3f4037f4323ad?utm_campaign=1053&utm_source=git)** | 2050 15th Street | On Site | Mar 04 |
@@ -87,6 +89,7 @@ For a complete list, click the following sortable link below:
 | **[Toll Brothers](https://www.tollbrothers.com)** | **[2026 Internship Program: Assistant Framing Superintendent Intern](https://jobright.ai/jobs/info/69a887ef7ac93962b7084883?utm_campaign=1053&utm_source=git)** | Leesburg, VA, US | On Site | Mar 04 |
 | **[City of West Jordan](https://www.westjordan.utah.gov/)** | **[City Events Intern](https://jobright.ai/jobs/info/69a87cba7ac93962b70843e2?utm_campaign=1053&utm_source=git)** | West Jordan, UT | On Site | Mar 04 |
 | **[AMB Sports and Entertainment](http://blankfamilyofbusinesses.com)** | **[Game Presentation and Stadium Productions Intern](https://jobright.ai/jobs/info/69a878672580d3183f00878b?utm_campaign=1053&utm_source=git)** | Mercedes-Benz Stadium | On Site | Mar 04 |
+| **[Effortless Events - Greater Chicago Area](https://effortless-events.com)** | **[Event Planning Intern](https://jobright.ai/jobs/info/69a985faf2055e05d171b782?utm_campaign=1053&utm_source=git)** | Plainfield, IL | On Site | Mar 04 |
 | **[Leo Burnett](https://leoburnett.com)** | **[2026 Leo Chicago Summer Internship - Strategy](https://jobright.ai/jobs/info/698c6b31f64d441a164e5f69?utm_campaign=1053&utm_source=git)** | Chicago, IL | Hybrid | Mar 04 |
 | **[Museum of Science](http://www.mos.org)** | **[Digital Media  College Internship](https://jobright.ai/jobs/info/6986346e0f6f7e7a2ce1176f?utm_campaign=1053&utm_source=git)** | Boston, MA | On Site | Mar 04 |
 | **[SOCAN](http://www.socan.ca)** | **[Membership - Creative - Film & TV Intern](https://jobright.ai/jobs/info/69a108a481476f6176bb5f8f?utm_campaign=1053&utm_source=git)** | North York, Ontario, Canada | Remote | Mar 04 |
@@ -115,7 +118,6 @@ For a complete list, click the following sortable link below:
 | **[New York Post](http://nypost.com/)** | **[Lifestyle Intern](https://jobright.ai/jobs/info/69a763b82672cb0acb4bd7d6?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Mar 03 |
 | **[Eurasia Group](http://www.eurasiagroup.net/)** | **[Summer Internship, GZERO Media  (Video)](https://jobright.ai/jobs/info/69a9254c79f3f4037f43de75?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Mar 03 |
 | **[Alcon](http://www.alcon.com)** | **[Summer 2026 Intern - Video Production](https://jobright.ai/jobs/info/69a75b3a2672cb0acb4bcdf3?utm_campaign=1053&utm_source=git)** | Fort Worth, TX | On Site | Mar 03 |
-| **[National Association of Black Journalists (NABJ)](http://www.nabj.org/)** | **[Lee Ester News Fellow](https://jobright.ai/jobs/info/69a9240b79f3f4037f43dc13?utm_campaign=1053&utm_source=git)** | Milwaukee, WI | Hybrid | Mar 03 |
 | **[the artists know](www.theartistsknow.com)** | **[Artist Community Intern](https://jobright.ai/jobs/info/69a83a5a7ac93962b707fd58?utm_campaign=1053&utm_source=git)** | Nashville, TN | Hybrid | Mar 03 |
 | **[AECOM](http://www.aecom.com/)** | **[Architectural Historian Intern](https://jobright.ai/jobs/info/69a748c72672cb0acb4bb716?utm_campaign=1053&utm_source=git)** | Portland, OR | Hybrid | Mar 03 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Studio Project coordination & Production (Summer 2026)](https://jobright.ai/jobs/info/69a8913379f3f4037f427a26?utm_campaign=1053&utm_source=git)** | Dorval, Québec, CA, H4S 1Y9 | Hybrid | Mar 03 |
@@ -151,10 +153,8 @@ For a complete list, click the following sortable link below:
 | **[Edelman](http://www.edelman.com)** | **[Edelman U.S. Summer 2026 Internship Program](https://jobright.ai/jobs/info/698a3f8c4db8972cecff7ee2?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Mar 03 |
 | **[Troon](http://www.troon.com/)** | **[Golf Course Maintenance Internship](https://jobright.ai/jobs/info/6986795a8da7a6120461449b?utm_campaign=1053&utm_source=git)** | St Michaels, MD | On Site | Mar 03 |
 | ↳ | **[Golf Course Maintenance Intern](https://jobright.ai/jobs/info/693c5aae50bbaf76504fa5e9?utm_campaign=1053&utm_source=git)** | Bend, OR | On Site | Mar 03 |
+| **[New York Post](http://nypost.com/)** | **[Sports Reporting Intern](https://jobright.ai/jobs/info/69a611be359fe034b1d0e1ab?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Mar 03 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[WLS-TV (ABC7) I-Team & Consumer Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69a6966a1a944544ef633ee1?utm_campaign=1053&utm_source=git)** | Chicago, IL, USA | On Site | Mar 03 |
 | **[WLEX-TV](http://lex18.com)** | **[Sports MMJ Intern (SUMMER) WLEX](https://jobright.ai/jobs/info/69a69005708b430a607af3c3?utm_campaign=1053&utm_source=git)** | Lexington, KY | On Site | Mar 02 |
 | **[Legendary Entertainment](http://www.legendary.com)** | **[Intern, Nerdist Social Video - Summer 2026](https://jobright.ai/jobs/info/69a68ea8708b430a607af2a2?utm_campaign=1053&utm_source=git)** | Burbank,CA,US | On Site | Mar 02 |
-| **[New York Post](http://nypost.com/)** | **[DC News Reporting Intern](https://jobright.ai/jobs/info/69a68231e567421f4257887f?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Mar 02 |
-| **[Legendary Entertainment](http://www.legendary.com)** | **[Intern, Nerdist Editorial - Summer 2026](https://jobright.ai/jobs/info/69a69a47f707784310aff2fd?utm_campaign=1053&utm_source=git)** | Burbank,CA,US | On Site | Mar 02 |
-| ↳ | **[Intern, Production Assets & Archives - Summer 2026](https://jobright.ai/jobs/info/69a69f29f11be161e274ef88?utm_campaign=1053&utm_source=git)** | Burbank,CA,US | On Site | Mar 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
