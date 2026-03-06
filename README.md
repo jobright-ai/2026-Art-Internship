@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Community Impact](https://communityimpact.com)** | **[Editorial Intern - Dallas, Texas](https://jobright.ai/jobs/info/69aa841b2ebd316bece24241?utm_campaign=1053&utm_source=git)** | Frisco,TX,US | On Site | Mar 05 |
 | **[GBH](http://www.wgbh.org/)** | **[GBH News Boston Public Radio Internship - Summer 2026](https://jobright.ai/jobs/info/699c19ebe0bddb6acacaf58c?utm_campaign=1053&utm_source=git)** | Boston, MA | Hybrid | Mar 05 |
 | **[Gensler](http://www.gensler.com)** | **[Student Internship – Video Production - Summer/Fall 2026](https://jobright.ai/jobs/info/69aa45732ebd316bece208a0?utm_campaign=1053&utm_source=git)** | Dallas, TX, US | On Site | Mar 05 |
 | **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69aa432d1f59c56275e31f3a?utm_campaign=1053&utm_source=git)** | Wichita, KS | On Site | Mar 05 |
@@ -107,11 +108,11 @@ For a complete list, click the following sortable link below:
 | **[Forum Communications Co.](http://www.forumcomm.com/)** | **[Summer Reporter Intern](https://jobright.ai/jobs/info/69a8ead979f3f4037f437ea7?utm_campaign=1053&utm_source=git)** | Grand Forks,ND,US | On Site | Mar 04 |
 | **[Barstool Sports](http://www.barstoolsports.com)** | **[Production Intern](https://jobright.ai/jobs/info/69a8a1872580d3183f00a3a3?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Mar 04 |
 | **[AMB Sports and Entertainment](http://blankfamilyofbusinesses.com)** | **[Game Presentation and Stadium Productions Intern](https://jobright.ai/jobs/info/69a89d667ac93962b7085a23?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Mar 04 |
+| **[Barstool Sports](http://www.barstoolsports.com)** | **[Post-Production Intern - CHI](https://jobright.ai/jobs/info/69a9463579f3f4037f442517?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Mar 04 |
+| ↳ | **[Post-Production Intern - NYC](https://jobright.ai/jobs/info/69a926282580d3183f015adc?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Mar 04 |
 | **[Revere Health](https://reverehealth.com/)** | **[Video Production Intern](https://jobright.ai/jobs/info/69a898632580d3183f009b1e?utm_campaign=1053&utm_source=git)** | Provo/Orem, Utah, United States | On Site | Mar 04 |
 | **[Barstool Sports](http://www.barstoolsports.com)** | **[Post-Production Intern - CHI](https://jobright.ai/jobs/info/69a897c42580d3183f009aa6?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Mar 04 |
-| ↳ | **[Post-Production Intern - CHI](https://jobright.ai/jobs/info/69a9463579f3f4037f442517?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Mar 04 |
 | ↳ | **[Production Intern](https://jobright.ai/jobs/info/69a925f32580d3183f015acd?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Mar 04 |
-| ↳ | **[Post-Production Intern - NYC](https://jobright.ai/jobs/info/69a926282580d3183f015adc?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Mar 04 |
 | **[UTAH SECTION OF THE PGA OF AMERICA](https://www.linkedin.com/company/59757399)** | **[2026 Junior Golf Summer Staff/Intern](https://jobright.ai/jobs/info/69a97d357f9271426f885c37?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Mar 04 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Studio Project Coordination & Production (Summer 2026)](https://jobright.ai/jobs/info/69a8c35c79f3f4037f433944?utm_campaign=1053&utm_source=git)** | Dorval, Québec, CA, H4S 1Y9 | Hybrid | Mar 04 |
 | **[Manor Vail Lodge](http://manorvail.com)** | **[Food & Beverage, Events & Bqts Intern at Manor Vail Lodge](https://jobright.ai/jobs/info/69a8c77179f3f4037f43422f?utm_campaign=1053&utm_source=git)** | Vail, CO, US | On Site | Mar 04 |
@@ -131,8 +132,8 @@ For a complete list, click the following sortable link below:
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[WLS-TV (ABC7) I-Team & Consumer Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69a833002580d3183f00365b?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Mar 04 |
 | ↳ | **[Physical Production Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69a82fce2580d3183f003149?utm_campaign=1053&utm_source=git)** | Burbank, CA | On Site | Mar 04 |
 | **[The Walt Disney Studios](https://waltdisneystudios.com)** | **[Physical Production Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69a82caa2580d3183f002f75?utm_campaign=1053&utm_source=git)** | Burbank, CA | On Site | Mar 04 |
+| **[Legendary Entertainment](http://www.legendary.com)** | **[Intern, Nerdist Social Video - Summer 2026](https://jobright.ai/jobs/info/69aa7f929ca4e908ec65cfd3?utm_campaign=1053&utm_source=git)** | Burbank, CA | On Site | Mar 03 |
 | **[Denver Broncos Football Club](http://www.denverbroncos.com/)** | **[Video Production Intern](https://jobright.ai/jobs/info/69a931ff2580d3183f0163cc?utm_campaign=1053&utm_source=git)** | Englewood, CO | On Site | Mar 03 |
-| **[Legendary Entertainment](http://www.legendary.com)** | **[Intern, Production Assets & Archives - Summer 2026](https://jobright.ai/jobs/info/69aa6c0b1f59c56275e34529?utm_campaign=1053&utm_source=git)** | Burbank, CA | On Site | Mar 03 |
 | **[Seattle Kraken](https://www.nhl.com/kraken)** | **[Digital Library Intern (June - April)](https://jobright.ai/jobs/info/69a7bad076bbe83d3afb31e0?utm_campaign=1053&utm_source=git)** | Seattle, WA | Hybrid | Mar 03 |
 | **[The Juilliard School](http://www.juilliard.edu/)** | **[Audio/Video Editor Apprentice, Media Production](https://jobright.ai/jobs/info/69a9382479f3f4037f440473?utm_campaign=1053&utm_source=git)** | New York, United States | Hybrid | Mar 03 |
 | **[Denver Broncos Football Club](http://www.denverbroncos.com/)** | **[Video Production Intern](https://jobright.ai/jobs/info/69a7b142637232443f64fe0f?utm_campaign=1053&utm_source=git)** | Englewood, Colorado | On Site | Mar 03 |
@@ -149,7 +150,6 @@ For a complete list, click the following sortable link below:
 | **[New York Post](http://nypost.com/)** | **[Lifestyle Intern](https://jobright.ai/jobs/info/69a763b82672cb0acb4bd7d6?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Mar 03 |
 | **[Eurasia Group](http://www.eurasiagroup.net/)** | **[Summer Internship, GZERO Media  (Video)](https://jobright.ai/jobs/info/69a9254c79f3f4037f43de75?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Mar 03 |
 | **[Alcon](http://www.alcon.com)** | **[Summer 2026 Intern - Video Production](https://jobright.ai/jobs/info/69a75b3a2672cb0acb4bcdf3?utm_campaign=1053&utm_source=git)** | Fort Worth, TX | On Site | Mar 03 |
-| **[the artists know](www.theartistsknow.com)** | **[Artist Community Intern](https://jobright.ai/jobs/info/69a83a5a7ac93962b707fd58?utm_campaign=1053&utm_source=git)** | Nashville, TN | Hybrid | Mar 03 |
 | **[AECOM](http://www.aecom.com/)** | **[Architectural Historian Intern](https://jobright.ai/jobs/info/69a748c72672cb0acb4bb716?utm_campaign=1053&utm_source=git)** | Portland, OR | Hybrid | Mar 03 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Studio Project coordination & Production (Summer 2026)](https://jobright.ai/jobs/info/69a8913379f3f4037f427a26?utm_campaign=1053&utm_source=git)** | Dorval, Québec, CA, H4S 1Y9 | Hybrid | Mar 03 |
 | **[Sun Sentinel Media Group](http://www.sun-sentinel.com)** | **[Intern](https://jobright.ai/jobs/info/697d23dd727747250d57dd71?utm_campaign=1053&utm_source=git)** | Deerfield Beach, FL | On Site | Mar 03 |
