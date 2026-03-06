@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Gensler](http://www.gensler.com)** | **[Student Internship – Video Production - Summer/Fall 2026](https://jobright.ai/jobs/info/69aa45732ebd316bece208a0?utm_campaign=1053&utm_source=git)** | Dallas, TX, US | On Site | Mar 05 |
+| **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69aa432d1f59c56275e31f3a?utm_campaign=1053&utm_source=git)** | Wichita, KS | On Site | Mar 05 |
+| **[Lincoln Center for the Performing Arts](http://www.lincolncenter.org/)** | **[Intern, Festival Orchestra](https://jobright.ai/jobs/info/69aa34779ca4e908ec658aba?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Mar 05 |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Paid Intern - News](https://jobright.ai/jobs/info/69aa34642ebd316bece1f7a9?utm_campaign=1053&utm_source=git)** | Joplin, MO | On Site | Mar 05 |
+| **[SexSymbol Magazine](sexsymbolmagazine.com)** | **[B-Roll Curator Intern](https://jobright.ai/jobs/info/69aa2c4f2ebd316bece1e3e5?utm_campaign=1053&utm_source=git)** | United States | Remote | Mar 05 |
 | **[CPL](https://cplteam.com/locations)** | **[Placemaking Intern](https://jobright.ai/jobs/info/69aa25ce1f59c56275e2f151?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Mar 05 |
 | **[Dallas Wings](http://dallaswingsbasketball.com)** | **[Content Producer Intern - SUMMER - College Credit Only](https://jobright.ai/jobs/info/69aa22b29ca4e908ec656bff?utm_campaign=1053&utm_source=git)** | Arlington, TX | On Site | Mar 05 |
 | **[Peabody Essex Museum](http://www.pem.org/)** | **[TikTok Intern](https://jobright.ai/jobs/info/69aa16e29ca4e908ec65631a?utm_campaign=1053&utm_source=git)** | Salem, MA | On Site | Mar 05 |
@@ -68,8 +73,8 @@ For a complete list, click the following sortable link below:
 | **[The New School](http://www.newschool.edu/nssr/)** | **[VLC Programs Summer Intern](https://jobright.ai/jobs/info/69a9fbb61f59c56275e2cdbc?utm_campaign=1053&utm_source=git)** | New York City, NY | Hybrid | Mar 05 |
 | **[Barstool Sports](http://www.barstoolsports.com)** | **[Fore Play Production Intern](https://jobright.ai/jobs/info/69a9f3149ca4e908ec653c36?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Mar 05 |
 | **[SiriusXM](http://siriusxm.com)** | **[Summer Intern, Music Programming Operations - NY - Part-Time](https://jobright.ai/jobs/info/69a9f03b2ebd316bece1a7e1?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Mar 05 |
+| **[Ensign Services](https://www.ensignservices.net)** | **[Internship for Media Creator](https://jobright.ai/jobs/info/69aa2ac01f59c56275e2f833?utm_campaign=1053&utm_source=git)** | McAllen, TX | On Site | Mar 05 |
 | **[Rise 2 Stardom](www.Rise2Stardom.com)** | **[Grand Strand Fashion Week Internship](https://jobright.ai/jobs/info/69a9c47f1f59c56275e27a6d?utm_campaign=1053&utm_source=git)** | Murrells Inlet, SC | On Site | Mar 05 |
-| **[Ensign Services](https://www.ensignservices.net)** | **[Internship for Media Creator](https://jobright.ai/jobs/info/69a9bf711f59c56275e27640?utm_campaign=1053&utm_source=git)** | McAllen, TX | On Site | Mar 05 |
 | **[PBS](http://www.pbs.org)** | **[Intern (Digital Studios)](https://jobright.ai/jobs/info/69a9ab5a2ebd316bece13cf1?utm_campaign=1053&utm_source=git)** | Arlington, VA | Hybrid | Mar 05 |
 | ↳ | **[Intern (Station Services - Programming and Products)](https://jobright.ai/jobs/info/69a9ab582ebd316bece13cdf?utm_campaign=1053&utm_source=git)** | Arlington, VA | Hybrid | Mar 05 |
 | ↳ | **[Intern (PBS LearningMedia YouTube)](https://jobright.ai/jobs/info/69a9ab511f59c56275e26904?utm_campaign=1053&utm_source=git)** | Arlington, VA | Hybrid | Mar 05 |
@@ -100,11 +105,11 @@ For a complete list, click the following sortable link below:
 | **[Forum Communications Co.](http://www.forumcomm.com/)** | **[Summer Reporter Intern](https://jobright.ai/jobs/info/69a8ead979f3f4037f437ea7?utm_campaign=1053&utm_source=git)** | Grand Forks,ND,US | On Site | Mar 04 |
 | **[Barstool Sports](http://www.barstoolsports.com)** | **[Production Intern](https://jobright.ai/jobs/info/69a8a1872580d3183f00a3a3?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Mar 04 |
 | **[AMB Sports and Entertainment](http://blankfamilyofbusinesses.com)** | **[Game Presentation and Stadium Productions Intern](https://jobright.ai/jobs/info/69a89d667ac93962b7085a23?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Mar 04 |
-| **[Barstool Sports](http://www.barstoolsports.com)** | **[Post-Production Intern - CHI](https://jobright.ai/jobs/info/69a9463579f3f4037f442517?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Mar 04 |
-| ↳ | **[Post-Production Intern - NYC](https://jobright.ai/jobs/info/69a926282580d3183f015adc?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Mar 04 |
 | **[Revere Health](https://reverehealth.com/)** | **[Video Production Intern](https://jobright.ai/jobs/info/69a898632580d3183f009b1e?utm_campaign=1053&utm_source=git)** | Provo/Orem, Utah, United States | On Site | Mar 04 |
 | **[Barstool Sports](http://www.barstoolsports.com)** | **[Post-Production Intern - CHI](https://jobright.ai/jobs/info/69a897c42580d3183f009aa6?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Mar 04 |
+| ↳ | **[Post-Production Intern - CHI](https://jobright.ai/jobs/info/69a9463579f3f4037f442517?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Mar 04 |
 | ↳ | **[Production Intern](https://jobright.ai/jobs/info/69a925f32580d3183f015acd?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Mar 04 |
+| ↳ | **[Post-Production Intern - NYC](https://jobright.ai/jobs/info/69a926282580d3183f015adc?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Mar 04 |
 | **[UTAH SECTION OF THE PGA OF AMERICA](https://www.linkedin.com/company/59757399)** | **[2026 Junior Golf Summer Staff/Intern](https://jobright.ai/jobs/info/69a97d357f9271426f885c37?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Mar 04 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Studio Project Coordination & Production (Summer 2026)](https://jobright.ai/jobs/info/69a8c35c79f3f4037f433944?utm_campaign=1053&utm_source=git)** | Dorval, Québec, CA, H4S 1Y9 | Hybrid | Mar 04 |
 | **[Manor Vail Lodge](http://manorvail.com)** | **[Food & Beverage, Events & Bqts Intern at Manor Vail Lodge](https://jobright.ai/jobs/info/69a8c77179f3f4037f43422f?utm_campaign=1053&utm_source=git)** | Vail, CO, US | On Site | Mar 04 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[AECOM](http://www.aecom.com/)** | **[Architectural Historian Intern](https://jobright.ai/jobs/info/69a76b1f2672cb0acb4be146?utm_campaign=1053&utm_source=git)** | Portland, OR | Hybrid | Mar 03 |
 | **[Eurasia Group](http://www.eurasiagroup.net/)** | **[Summer Internship, GZERO Media (Newsletter)](https://jobright.ai/jobs/info/69a74f9f2672cb0acb4bc051?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Mar 03 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Paid Intern - YA Weekly Writer/Editor (Church Magazines)](https://jobright.ai/jobs/info/698aa15cc5761b521a99e808?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Mar 03 |
-| **[University of Notre Dame](http://mendoza.nd.edu)** | **[Media Production Student Intern](https://jobright.ai/jobs/info/69a89f4f79f3f4037f42bfbc?utm_campaign=1053&utm_source=git)** | Notre Dame, IN | On Site | Mar 03 |
-| **[AARP](http://www.aarp.org)** | **[Editorial and Video Production Intern (Summer)](https://jobright.ai/jobs/info/698a895e0f6f7e7a2ce5bb89?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Mar 03 |
-| **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Paid Intern – Liahona Digital Content Writer/Creator](https://jobright.ai/jobs/info/698a518947434001cc688620?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | Hybrid | Mar 03 |
-| **[The Wall Street Journal](https://www.wjs.com/)** | **[Lifestyle Intern](https://jobright.ai/jobs/info/69a71bd21fc3d83b78092ec3?utm_campaign=1053&utm_source=git)** | NYC - 1211 Ave of the Americas | On Site | Mar 03 |
-| ↳ | **[Sunday News Reporting Intern](https://jobright.ai/jobs/info/69a71b792672cb0acb4b8957?utm_campaign=1053&utm_source=git)** | NYC - 1211 Ave of the Americas | On Site | Mar 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
