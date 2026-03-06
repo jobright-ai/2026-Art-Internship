@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[GBH](http://www.wgbh.org/)** | **[GBH News Boston Public Radio Internship - Summer 2026](https://jobright.ai/jobs/info/699c19ebe0bddb6acacaf58c?utm_campaign=1053&utm_source=git)** | Boston, MA | Hybrid | Mar 05 |
 | **[Gensler](http://www.gensler.com)** | **[Student Internship – Video Production - Summer/Fall 2026](https://jobright.ai/jobs/info/69aa45732ebd316bece208a0?utm_campaign=1053&utm_source=git)** | Dallas, TX, US | On Site | Mar 05 |
 | **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69aa432d1f59c56275e31f3a?utm_campaign=1053&utm_source=git)** | Wichita, KS | On Site | Mar 05 |
 | **[Lincoln Center for the Performing Arts](http://www.lincolncenter.org/)** | **[Intern, Festival Orchestra](https://jobright.ai/jobs/info/69aa34779ca4e908ec658aba?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Mar 05 |
@@ -64,6 +65,7 @@ For a complete list, click the following sortable link below:
 | **[SexSymbol Magazine](sexsymbolmagazine.com)** | **[B-Roll Curator Intern](https://jobright.ai/jobs/info/69aa2c4f2ebd316bece1e3e5?utm_campaign=1053&utm_source=git)** | United States | Remote | Mar 05 |
 | **[CPL](https://cplteam.com/locations)** | **[Placemaking Intern](https://jobright.ai/jobs/info/69aa25ce1f59c56275e2f151?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Mar 05 |
 | **[Dallas Wings](http://dallaswingsbasketball.com)** | **[Content Producer Intern - SUMMER - College Credit Only](https://jobright.ai/jobs/info/69aa22b29ca4e908ec656bff?utm_campaign=1053&utm_source=git)** | Arlington, TX | On Site | Mar 05 |
+| **[Red Velvet Studios](redvelvetstudio.com)** | **[Music & Content Intern](https://jobright.ai/jobs/info/69aa4e201f59c56275e32a94?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Mar 05 |
 | **[Peabody Essex Museum](http://www.pem.org/)** | **[TikTok Intern](https://jobright.ai/jobs/info/69aa16e29ca4e908ec65631a?utm_campaign=1053&utm_source=git)** | Salem, MA | On Site | Mar 05 |
 | **[Texas Book Festival](https://www.texasbookfestival.org/)** | **[Literary Programming, Youth Programs, & Development Internships](https://jobright.ai/jobs/info/69aa12cd1f59c56275e2e366?utm_campaign=1053&utm_source=git)** | Austin, Texas Metropolitan Area | Hybrid | Mar 05 |
 | **[PBS](http://www.pbs.org)** | **[Intern (PBS LearningMedia YouTube)](https://jobright.ai/jobs/info/69aa0c5b1f59c56275e2dcd1?utm_campaign=1053&utm_source=git)** | Arlington, VA | On Site | Mar 05 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[OSF HealthCare](https://www.osfhealthcare.org/locations/medical-group/)** | **[Media Relations Multi Media Internship](https://jobright.ai/jobs/info/69a92afd79f3f4037f43e993?utm_campaign=1053&utm_source=git)** | Peoria, IL | On Site | Mar 03 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Paid Intern - For the Strength of Youth Writer/Editor (Church Magazines)](https://jobright.ai/jobs/info/698ab2494db8972cec001825?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | Hybrid | Mar 03 |
 | **[AECOM](http://www.aecom.com/)** | **[Architectural Historian Intern](https://jobright.ai/jobs/info/69a76b1f2672cb0acb4be146?utm_campaign=1053&utm_source=git)** | Portland, OR | Hybrid | Mar 03 |
-| **[Eurasia Group](http://www.eurasiagroup.net/)** | **[Summer Internship, GZERO Media (Newsletter)](https://jobright.ai/jobs/info/69a74f9f2672cb0acb4bc051?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Mar 03 |
-| **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Paid Intern - YA Weekly Writer/Editor (Church Magazines)](https://jobright.ai/jobs/info/698aa15cc5761b521a99e808?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Mar 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
