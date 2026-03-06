@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sergio Tacchini](https://www.sergiotacchini.com)** | **[Production Intern](https://jobright.ai/jobs/info/69aae9df7e1fab39d3828392?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Mar 06 |
+| **[Michigan Medicine](http://www.uofmhealth.org/)** | **[Video Production Intern](https://jobright.ai/jobs/info/69aae4507e1fab39d3828281?utm_campaign=1053&utm_source=git)** | Ann Arbor, MI | Hybrid | Mar 06 |
+| **[Edelman](http://www.edelman.com)** | **[Edelman U.S. Summer 2026 Internship Program](https://jobright.ai/jobs/info/69aada2f7e1fab39d3827b86?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | Mar 06 |
+| ↳ | **[Edelman U.S. Summer 2026 Internship Program](https://jobright.ai/jobs/info/69aad9d52747003c3d508b86?utm_campaign=1053&utm_source=git)** | Chicago, IL | Hybrid | Mar 06 |
+| **[Flextrip](flextriptravel.com)** | **[Blog and Writing Intern](https://jobright.ai/jobs/info/69aad3e4142d5b4265fc283e?utm_campaign=1053&utm_source=git)** | United States | Remote | Mar 06 |
 | **[KUTV 2News / KMYU](http://kutv.com/)** | **[Intern - Studio Crew](https://jobright.ai/jobs/info/69aabf332747003c3d506896?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Mar 06 |
 | **[University of Michigan](https://www.umich.edu)** | **[Video Production Intern](https://jobright.ai/jobs/info/69aa91ee34184204e44916b3?utm_campaign=1053&utm_source=git)** | Ann Arbor, MI | Hybrid | Mar 06 |
 | **[Gensler](http://www.gensler.com)** | **[Student Internship – Video Production - Summer/Fall 2026](https://jobright.ai/jobs/info/69aa8d001f59c56275e378da?utm_campaign=1053&utm_source=git)** | Dallas, TX | On Site | Mar 06 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Urban Ministries, Inc. (UMI)](https://urbanministries.com/)** | **[Digital Production Intern](https://jobright.ai/jobs/info/69a771bc2672cb0acb4be82c?utm_campaign=1053&utm_source=git)** | Calumet City, IL | Hybrid | Mar 03 |
 | **[Denver Broncos Football Club](http://www.denverbroncos.com/)** | **[Game Entertainment Intern](https://jobright.ai/jobs/info/69a7706c2672cb0acb4be691?utm_campaign=1053&utm_source=git)** | Englewood, CO | On Site | Mar 03 |
 | **[FlyQuest](https://flyquest.gg/)** | **[2026 Broadcast & Digital Experience Intern - Summer](https://jobright.ai/jobs/info/69a7661b2672cb0acb4bdabc?utm_campaign=1053&utm_source=git)** | Culver City, CA | On Site | Mar 03 |
-| **[New York Post](http://nypost.com/)** | **[Lifestyle Intern](https://jobright.ai/jobs/info/69a763b82672cb0acb4bd7d6?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Mar 03 |
-| **[Eurasia Group](http://www.eurasiagroup.net/)** | **[Summer Internship, GZERO Media  (Video)](https://jobright.ai/jobs/info/69a9254c79f3f4037f43de75?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Mar 03 |
-| **[Alcon](http://www.alcon.com)** | **[Summer 2026 Intern - Video Production](https://jobright.ai/jobs/info/69a75b3a2672cb0acb4bcdf3?utm_campaign=1053&utm_source=git)** | Fort Worth, TX | On Site | Mar 03 |
-| **[AECOM](http://www.aecom.com/)** | **[Architectural Historian Intern](https://jobright.ai/jobs/info/69a748c72672cb0acb4bb716?utm_campaign=1053&utm_source=git)** | Portland, OR | Hybrid | Mar 03 |
-| **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Studio Project coordination & Production (Summer 2026)](https://jobright.ai/jobs/info/69a8913379f3f4037f427a26?utm_campaign=1053&utm_source=git)** | Dorval, Québec, CA, H4S 1Y9 | Hybrid | Mar 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
