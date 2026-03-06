@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[KUTV 2News / KMYU](http://kutv.com/)** | **[Intern - Studio Crew](https://jobright.ai/jobs/info/69aabf332747003c3d506896?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Mar 06 |
 | **[University of Michigan](https://www.umich.edu)** | **[Video Production Intern](https://jobright.ai/jobs/info/69aa91ee34184204e44916b3?utm_campaign=1053&utm_source=git)** | Ann Arbor, MI | Hybrid | Mar 06 |
 | **[Gensler](http://www.gensler.com)** | **[Student Internship – Video Production - Summer/Fall 2026](https://jobright.ai/jobs/info/69aa8d001f59c56275e378da?utm_campaign=1053&utm_source=git)** | Dallas, TX | On Site | Mar 06 |
 | **[Community Impact](https://communityimpact.com)** | **[Editorial Intern - Dallas, Texas](https://jobright.ai/jobs/info/69aa841b2ebd316bece24241?utm_campaign=1053&utm_source=git)** | Frisco,TX,US | On Site | Mar 05 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Studio Project coordination & Production (Summer 2026)](https://jobright.ai/jobs/info/69a8913379f3f4037f427a26?utm_campaign=1053&utm_source=git)** | Dorval, Québec, CA, H4S 1Y9 | Hybrid | Mar 03 |
 | **[Sun Sentinel Media Group](http://www.sun-sentinel.com)** | **[Intern](https://jobright.ai/jobs/info/697d23dd727747250d57dd71?utm_campaign=1053&utm_source=git)** | Deerfield Beach, FL | On Site | Mar 03 |
 | **[Mountaintop Golf & Lake Club](https://mountaintopgolfclub.com)** | **[Golf Operations Intern](https://jobright.ai/jobs/info/69a8ad0079f3f4037f42fc45?utm_campaign=1053&utm_source=git)** | Cashiers, NC, US | On Site | Mar 03 |
-| **[Griffin Media](http://griffincommunications.net/)** | **[New On 6 Summer Sports Intern](https://jobright.ai/jobs/info/69a7669e2672cb0acb4bdb60?utm_campaign=1053&utm_source=git)** | Tulsa Griffin Media Center - Tulsa, OK 74103 | On Site | Mar 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
