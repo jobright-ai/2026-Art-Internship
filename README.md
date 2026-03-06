@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[PBS](http://www.pbs.org)** | **[Intern (PBS LearningMedia YouTube)](https://jobright.ai/jobs/info/69aa0c5b1f59c56275e2dcd1?utm_campaign=1053&utm_source=git)** | Arlington, VA | On Site | Mar 05 |
+| **[The Creative Agency](https://thecreativeagencyco.com)** | **[Production Assistant](https://jobright.ai/jobs/info/69aa07449ca4e908ec65551a?utm_campaign=1053&utm_source=git)** | Fort Collins, CO | On Site | Mar 05 |
+| **[InsideHook](http://www.insidehook.com)** | **[Editorial Fellow, Commerce](https://jobright.ai/jobs/info/69a9feab9ca4e908ec654f9c?utm_campaign=1053&utm_source=git)** | New York, United States | Hybrid | Mar 05 |
+| **[The New School](http://www.newschool.edu/nssr/)** | **[VLC Programs Summer Intern](https://jobright.ai/jobs/info/69a9fbb61f59c56275e2cdbc?utm_campaign=1053&utm_source=git)** | New York City, NY | Hybrid | Mar 05 |
 | **[Barstool Sports](http://www.barstoolsports.com)** | **[Fore Play Production Intern](https://jobright.ai/jobs/info/69a9f3149ca4e908ec653c36?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Mar 05 |
 | **[SiriusXM](http://siriusxm.com)** | **[Summer Intern, Music Programming Operations - NY - Part-Time](https://jobright.ai/jobs/info/69a9f03b2ebd316bece1a7e1?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Mar 05 |
 | **[Rise 2 Stardom](www.Rise2Stardom.com)** | **[Grand Strand Fashion Week Internship](https://jobright.ai/jobs/info/69a9c47f1f59c56275e27a6d?utm_campaign=1053&utm_source=git)** | Murrells Inlet, SC | On Site | Mar 05 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Wall Street Journal](https://www.wjs.com/)** | **[Digital Production Intern](https://jobright.ai/jobs/info/69a7154f2672cb0acb4b7f80?utm_campaign=1053&utm_source=git)** | NYC - 1211 Ave of the Americas | On Site | Mar 03 |
 | ↳ | **[Sports Video Production Intern](https://jobright.ai/jobs/info/69a714472672cb0acb4b7da4?utm_campaign=1053&utm_source=git)** | NYC - 1211 Ave of the Americas | On Site | Mar 03 |
 | **[New York Post](http://nypost.com/)** | **[Sports Video Production Intern](https://jobright.ai/jobs/info/69a713be76bbe83d3afa6d47?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Mar 03 |
-| ↳ | **[Decider Features Intern](https://jobright.ai/jobs/info/69a712e62672cb0acb4b7b13?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Mar 03 |
-| ↳ | **[Digital Production Intern](https://jobright.ai/jobs/info/69a712b22672cb0acb4b7aa6?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Mar 03 |
-| ↳ | **[Youtube Intern](https://jobright.ai/jobs/info/69a70bc22672cb0acb4b6de4?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Mar 03 |
-| **[The Social Agency](http://Thesocialagency.dk)** | **[TikTok + Content Assistant Intern – Spring 2026](https://jobright.ai/jobs/info/69a70b852672cb0acb4b6d6f?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Mar 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
