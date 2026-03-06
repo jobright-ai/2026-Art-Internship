@@ -57,7 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[University of Michigan](https://www.umich.edu)** | **[Video Production Intern](https://jobright.ai/jobs/info/69aa91ee34184204e44916b3?utm_campaign=1053&utm_source=git)** | Ann Arbor, MI | Hybrid | Mar 06 |
+| **[Gensler](http://www.gensler.com)** | **[Student Internship – Video Production - Summer/Fall 2026](https://jobright.ai/jobs/info/69aa8d001f59c56275e378da?utm_campaign=1053&utm_source=git)** | Dallas, TX | On Site | Mar 06 |
 | **[Community Impact](https://communityimpact.com)** | **[Editorial Intern - Dallas, Texas](https://jobright.ai/jobs/info/69aa841b2ebd316bece24241?utm_campaign=1053&utm_source=git)** | Frisco,TX,US | On Site | Mar 05 |
+| **[BRIDGE SHOWROOM](http://www.bridgeshowroom.com)** | **[Fashion internship at Nashville, The Edit](https://jobright.ai/jobs/info/69aaa37b9ca4e908ec661845?utm_campaign=1053&utm_source=git)** | Nashville, TN | On Site | Mar 05 |
 | **[GBH](http://www.wgbh.org/)** | **[GBH News Boston Public Radio Internship - Summer 2026](https://jobright.ai/jobs/info/699c19ebe0bddb6acacaf58c?utm_campaign=1053&utm_source=git)** | Boston, MA | Hybrid | Mar 05 |
 | **[Gensler](http://www.gensler.com)** | **[Student Internship – Video Production - Summer/Fall 2026](https://jobright.ai/jobs/info/69aa45732ebd316bece208a0?utm_campaign=1053&utm_source=git)** | Dallas, TX, US | On Site | Mar 05 |
 | **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69aa432d1f59c56275e31f3a?utm_campaign=1053&utm_source=git)** | Wichita, KS | On Site | Mar 05 |
@@ -132,7 +135,6 @@ For a complete list, click the following sortable link below:
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[WLS-TV (ABC7) I-Team & Consumer Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69a833002580d3183f00365b?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Mar 04 |
 | ↳ | **[Physical Production Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69a82fce2580d3183f003149?utm_campaign=1053&utm_source=git)** | Burbank, CA | On Site | Mar 04 |
 | **[The Walt Disney Studios](https://waltdisneystudios.com)** | **[Physical Production Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69a82caa2580d3183f002f75?utm_campaign=1053&utm_source=git)** | Burbank, CA | On Site | Mar 04 |
-| **[Legendary Entertainment](http://www.legendary.com)** | **[Intern, Nerdist Social Video - Summer 2026](https://jobright.ai/jobs/info/69aa7f929ca4e908ec65cfd3?utm_campaign=1053&utm_source=git)** | Burbank, CA | On Site | Mar 03 |
 | **[Denver Broncos Football Club](http://www.denverbroncos.com/)** | **[Video Production Intern](https://jobright.ai/jobs/info/69a931ff2580d3183f0163cc?utm_campaign=1053&utm_source=git)** | Englewood, CO | On Site | Mar 03 |
 | **[Seattle Kraken](https://www.nhl.com/kraken)** | **[Digital Library Intern (June - April)](https://jobright.ai/jobs/info/69a7bad076bbe83d3afb31e0?utm_campaign=1053&utm_source=git)** | Seattle, WA | Hybrid | Mar 03 |
 | **[The Juilliard School](http://www.juilliard.edu/)** | **[Audio/Video Editor Apprentice, Media Production](https://jobright.ai/jobs/info/69a9382479f3f4037f440473?utm_campaign=1053&utm_source=git)** | New York, United States | Hybrid | Mar 03 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Sun Sentinel Media Group](http://www.sun-sentinel.com)** | **[Intern](https://jobright.ai/jobs/info/697d23dd727747250d57dd71?utm_campaign=1053&utm_source=git)** | Deerfield Beach, FL | On Site | Mar 03 |
 | **[Mountaintop Golf & Lake Club](https://mountaintopgolfclub.com)** | **[Golf Operations Intern](https://jobright.ai/jobs/info/69a8ad0079f3f4037f42fc45?utm_campaign=1053&utm_source=git)** | Cashiers, NC, US | On Site | Mar 03 |
 | **[Griffin Media](http://griffincommunications.net/)** | **[New On 6 Summer Sports Intern](https://jobright.ai/jobs/info/69a7669e2672cb0acb4bdb60?utm_campaign=1053&utm_source=git)** | Tulsa Griffin Media Center - Tulsa, OK 74103 | On Site | Mar 03 |
-| **[OSF HealthCare](https://www.osfhealthcare.org/locations/medical-group/)** | **[Media Relations Multi Media Internship](https://jobright.ai/jobs/info/69a92afd79f3f4037f43e993?utm_campaign=1053&utm_source=git)** | Peoria, IL | On Site | Mar 03 |
-| **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Paid Intern - For the Strength of Youth Writer/Editor (Church Magazines)](https://jobright.ai/jobs/info/698ab2494db8972cec001825?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | Hybrid | Mar 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
