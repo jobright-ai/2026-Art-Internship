@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Universal Music Group](https://www.universalmusic.com)** | **[Universal Music Group 2026 Summer Internship Program: Creative & Operations](https://jobright.ai/jobs/info/69ab73ef142d5b4265fca79d?utm_campaign=1053&utm_source=git)** | Nashville, TN | On Site | Mar 06 |
 | **[Vevo](http://vevo.com)** | **[Summer 206 Video Production & Editorial Intern](https://jobright.ai/jobs/info/69ab683d7e1fab39d382f185?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Mar 06 |
 | **[DigiMarCon - Digital Marketing, Media and Advertising Conferences & Exhibitions](http://digimarcon.com)** | **[🌎 Paid Traveling Internship: Event Management (10 Weeks / USA & Canada Tour)](https://jobright.ai/jobs/info/69ab65787e1fab39d382ebb3?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Mar 06 |
 | **[Klick](https://www.klick.com)** | **[Production Coordinator, Summer 2026](https://jobright.ai/jobs/info/69ab65312747003c3d510072?utm_campaign=1053&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Mar 06 |
@@ -100,7 +101,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Edelman U.S. Summer 2026 Internship Program](https://jobright.ai/jobs/info/69aaf542142d5b4265fc3a5e?utm_campaign=1053&utm_source=git)** | Seattle, WA | Hybrid | Mar 06 |
 | ↳ | **[Edelman U.S. Summer 2026 Internship Program](https://jobright.ai/jobs/info/69aaf548142d5b4265fc3a63?utm_campaign=1053&utm_source=git)** | San Francisco, CA | Hybrid | Mar 06 |
 | ↳ | **[Edelman U.S. Summer 2026 Internship Program](https://jobright.ai/jobs/info/69aaf55e142d5b4265fc3a7a?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Mar 06 |
-| **[Flextrip](flextriptravel.com)** | **[Blog and Writing Intern](https://jobright.ai/jobs/info/69aad3e4142d5b4265fc283e?utm_campaign=1053&utm_source=git)** | United States | Remote | Mar 06 |
 | **[KUTV 2News / KMYU](http://kutv.com/)** | **[Intern - Studio Crew](https://jobright.ai/jobs/info/69aabf332747003c3d506896?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Mar 06 |
 | **[Gensler](http://www.gensler.com)** | **[Student Internship – Video Production - Summer/Fall 2026](https://jobright.ai/jobs/info/69aa8d001f59c56275e378da?utm_campaign=1053&utm_source=git)** | Dallas, TX | On Site | Mar 06 |
 | **[Community Impact](https://communityimpact.com)** | **[Editorial Intern - Dallas, Texas](https://jobright.ai/jobs/info/69aa841b2ebd316bece24241?utm_campaign=1053&utm_source=git)** | Frisco,TX,US | On Site | Mar 05 |
