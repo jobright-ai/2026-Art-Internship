@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SPORTFIVE](http://www.sportfive.com/)** | **[Summer Intern, Experiential & Production](https://jobright.ai/jobs/info/69ab91522747003c3d511020?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Mar 06 |
 | **[Universal Music Group](https://www.universalmusic.com)** | **[Universal Music Group 2026 Summer Internship Program: Creative & Operations](https://jobright.ai/jobs/info/69ab73ef142d5b4265fca79d?utm_campaign=1053&utm_source=git)** | Nashville, TN | On Site | Mar 06 |
+| **[MD Anderson Cancer Center](https://www.mdanderson.org/)** | **[College Student - Strategic Commuication - Creative Communication](https://jobright.ai/jobs/info/69ab92cf7e1fab39d382fea3?utm_campaign=1053&utm_source=git)** | Houston, TX | Remote | Mar 06 |
 | **[Vevo](http://vevo.com)** | **[Summer 206 Video Production & Editorial Intern](https://jobright.ai/jobs/info/69ab683d7e1fab39d382f185?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Mar 06 |
 | **[DigiMarCon - Digital Marketing, Media and Advertising Conferences & Exhibitions](http://digimarcon.com)** | **[🌎 Paid Traveling Internship: Event Management (10 Weeks / USA & Canada Tour)](https://jobright.ai/jobs/info/69ab65787e1fab39d382ebb3?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Mar 06 |
 | **[Klick](https://www.klick.com)** | **[Production Coordinator, Summer 2026](https://jobright.ai/jobs/info/69ab65312747003c3d510072?utm_campaign=1053&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Mar 06 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[AMB Sports and Entertainment](http://blankfamilyofbusinesses.com)** | **[Game Presentation and Stadium Productions Intern](https://jobright.ai/jobs/info/69a89d667ac93962b7085a23?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Mar 04 |
 | **[Revere Health](https://reverehealth.com/)** | **[Video Production Intern](https://jobright.ai/jobs/info/69a898632580d3183f009b1e?utm_campaign=1053&utm_source=git)** | Provo/Orem, Utah, United States | On Site | Mar 04 |
 | **[Barstool Sports](http://www.barstoolsports.com)** | **[Post-Production Intern - CHI](https://jobright.ai/jobs/info/69a897c42580d3183f009aa6?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Mar 04 |
-| ↳ | **[Post-Production Intern - CHI](https://jobright.ai/jobs/info/69a9463579f3f4037f442517?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Mar 04 |
-| ↳ | **[Production Intern](https://jobright.ai/jobs/info/69a925f32580d3183f015acd?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Mar 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
