@@ -111,7 +111,6 @@ For a complete list, click the following sortable link below:
 | **[Lincoln Center for the Performing Arts](http://www.lincolncenter.org/)** | **[Intern, Festival Orchestra](https://jobright.ai/jobs/info/69aa34779ca4e908ec658aba?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Mar 05 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Paid Intern - News](https://jobright.ai/jobs/info/69aa34642ebd316bece1f7a9?utm_campaign=1053&utm_source=git)** | Joplin, MO | On Site | Mar 05 |
 | **[SexSymbol Magazine](sexsymbolmagazine.com)** | **[B-Roll Curator Intern](https://jobright.ai/jobs/info/69aa2c4f2ebd316bece1e3e5?utm_campaign=1053&utm_source=git)** | United States | Remote | Mar 05 |
-| **[CPL](https://cplteam.com/locations)** | **[Placemaking Intern](https://jobright.ai/jobs/info/69ab685b142d5b4265fca184?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Mar 05 |
 | **[Dallas Wings](http://dallaswingsbasketball.com)** | **[Content Producer Intern - SUMMER - College Credit Only](https://jobright.ai/jobs/info/69aa22b29ca4e908ec656bff?utm_campaign=1053&utm_source=git)** | Arlington, TX | On Site | Mar 05 |
 | **[Philadelphia International Airport (PHL)](https://www.phl.org/)** | **[Work Study Intern - Special Events Intern job](https://jobright.ai/jobs/info/69ab4b092747003c3d50f96e?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Mar 05 |
 | **[Peabody Essex Museum](http://www.pem.org/)** | **[TikTok Intern](https://jobright.ai/jobs/info/69aa16e29ca4e908ec65631a?utm_campaign=1053&utm_source=git)** | Salem, MA | On Site | Mar 05 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Revere Health](https://reverehealth.com/)** | **[Video Production Intern](https://jobright.ai/jobs/info/69a898632580d3183f009b1e?utm_campaign=1053&utm_source=git)** | Provo/Orem, Utah, United States | On Site | Mar 04 |
 | **[Barstool Sports](http://www.barstoolsports.com)** | **[Post-Production Intern - CHI](https://jobright.ai/jobs/info/69a897c42580d3183f009aa6?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Mar 04 |
 | ↳ | **[Post-Production Intern - CHI](https://jobright.ai/jobs/info/69a9463579f3f4037f442517?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Mar 04 |
+| ↳ | **[Production Intern](https://jobright.ai/jobs/info/69a925f32580d3183f015acd?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Mar 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
