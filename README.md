@@ -102,12 +102,11 @@ For a complete list, click the following sortable link below:
 | **[Toll Brothers](https://www.tollbrothers.com)** | **[2026 Internship Program: Assistant Framing Superintendent Intern](https://jobright.ai/jobs/info/69ab01e5142d5b4265fc427a?utm_campaign=1053&utm_source=git)** | Morrisville, PA | On Site | Mar 06 |
 | **[elliestyled](http://elliestyled.com)** | **[Event Production Intern (Summer 2026)](https://jobright.ai/jobs/info/69aaf81a7e1fab39d3828b4d?utm_campaign=1053&utm_source=git)** | Highland Park, IL | On Site | Mar 06 |
 | **[Sergio Tacchini](https://www.sergiotacchini.com)** | **[Production Intern](https://jobright.ai/jobs/info/69aae9df7e1fab39d3828392?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Mar 06 |
-| **[Michigan Medicine](http://www.uofmhealth.org/)** | **[Video Production Intern](https://jobright.ai/jobs/info/69aae4507e1fab39d3828281?utm_campaign=1053&utm_source=git)** | Ann Arbor, MI | Hybrid | Mar 06 |
 | **[Edelman](http://www.edelman.com)** | **[Edelman U.S. Summer 2026 Internship Program](https://jobright.ai/jobs/info/69aada2f7e1fab39d3827b86?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | Mar 06 |
 | ↳ | **[Edelman U.S. Summer 2026 Internship Program](https://jobright.ai/jobs/info/69aad9d52747003c3d508b86?utm_campaign=1053&utm_source=git)** | Chicago, IL | Hybrid | Mar 06 |
 | ↳ | **[Edelman U.S. Summer 2026 Internship Program](https://jobright.ai/jobs/info/69aaf7272747003c3d50a10a?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Mar 06 |
-| ↳ | **[Edelman U.S. Summer 2026 Internship Program](https://jobright.ai/jobs/info/69aaf7202747003c3d50a102?utm_campaign=1053&utm_source=git)** | Atlanta, GA | Hybrid | Mar 06 |
 | ↳ | **[Edelman U.S. Summer 2026 Internship Program](https://jobright.ai/jobs/info/69aaf542142d5b4265fc3a5e?utm_campaign=1053&utm_source=git)** | Seattle, WA | Hybrid | Mar 06 |
+| ↳ | **[Edelman U.S. Summer 2026 Internship Program](https://jobright.ai/jobs/info/69aaf7202747003c3d50a102?utm_campaign=1053&utm_source=git)** | Atlanta, GA | Hybrid | Mar 06 |
 | ↳ | **[Edelman U.S. Summer 2026 Internship Program](https://jobright.ai/jobs/info/69aaf548142d5b4265fc3a63?utm_campaign=1053&utm_source=git)** | San Francisco, CA | Hybrid | Mar 06 |
 | ↳ | **[Edelman U.S. Summer 2026 Internship Program](https://jobright.ai/jobs/info/69aaf55e142d5b4265fc3a7a?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Mar 06 |
 | **[KUTV 2News / KMYU](http://kutv.com/)** | **[Intern - Studio Crew](https://jobright.ai/jobs/info/69aabf332747003c3d506896?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Mar 06 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Business Insider](http://www.businessinsider.com)** | **[Media Studios Intern](https://jobright.ai/jobs/info/69a8ccf12580d3183f00e59b?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Mar 04 |
 | **[Chautauqua Institution](https://www.chq.org)** | **[Foundation Events & Hospitality Intern (Foundation)/Seasonal Employment](https://jobright.ai/jobs/info/69a8f8297ac93962b708dfe6?utm_campaign=1053&utm_source=git)** | Chautauqua, New York, United States | On Site | Mar 04 |
 | **[Relevate Health](https://www.relevatehealth.com/)** | **[Editorial Intern](https://jobright.ai/jobs/info/69a8eb0d7ac93962b708ceca?utm_campaign=1053&utm_source=git)** | United States | Remote | Mar 04 |
+| **[The Tease](http://www.TheTease.com)** | **[Editorial & Podcast Internship - Summer 2026](https://jobright.ai/jobs/info/69a8f1e77ac93962b708d8af?utm_campaign=1053&utm_source=git)** | Madison, Wisconsin, United States | Remote | Mar 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
