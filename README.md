@@ -57,8 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[MARKHAM](markham.co)** | **[Event Internship- Los Angeles](https://jobright.ai/jobs/info/69aca5257e1fab39d3843fbe?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Mar 07 |
-| ↳ | **[Event Internship- New York](https://jobright.ai/jobs/info/69aca51b142d5b4265fdf069?utm_campaign=1053&utm_source=git)** | New York City | On Site | Mar 07 |
+| **[MARKHAM](markham.co)** | **[Event Internship- New York](https://jobright.ai/jobs/info/69aca51b142d5b4265fdf069?utm_campaign=1053&utm_source=git)** | New York City | On Site | Mar 07 |
+| ↳ | **[Event Internship- Los Angeles](https://jobright.ai/jobs/info/69aca5257e1fab39d3843fbe?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Mar 07 |
 | **[Canyon Entertainment Group](https://canyonentertainmentgroup.com)** | **[Video Editing, Post Production Internship](https://jobright.ai/jobs/info/69ac8231142d5b4265fdc815?utm_campaign=1053&utm_source=git)** | Canada | Remote | Mar 07 |
 | **[The Washington Post](http://www.washingtonpost.com/)** | **[Opinion Video Intern](https://jobright.ai/jobs/info/68caff29d905e25191d9e2c9?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Mar 07 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Physical Production Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69a82fce2580d3183f003149?utm_campaign=1053&utm_source=git)** | Burbank, CA | On Site | Mar 07 |
@@ -73,7 +73,6 @@ For a complete list, click the following sortable link below:
 | **[City Explorer - Live Streaming Hub](https://cityexplorer.live/)** | **[Live Streaming Internship](https://jobright.ai/jobs/info/69ac097f2747003c3d51e2a9?utm_campaign=1053&utm_source=git)** | LA Metro Area | Remote | Mar 07 |
 | ↳ | **[Live Streaming Internship](https://jobright.ai/jobs/info/69ac096c7e1fab39d383c83e?utm_campaign=1053&utm_source=git)** | Chicago, IL | Remote | Mar 07 |
 | ↳ | **[Live Streaming Internship](https://jobright.ai/jobs/info/69ac0931142d5b4265fd799b?utm_campaign=1053&utm_source=git)** | Miami, FL | Remote | Mar 07 |
-| ↳ | **[Live Streaming Internship](https://jobright.ai/jobs/info/69ac071f7e1fab39d383c6d5?utm_campaign=1053&utm_source=git)** | DC-Baltimore Area | Remote | Mar 07 |
 | **[dormakaba Americas](https://www.dormakaba.com/us-en)** | **[Multimedia Intern](https://jobright.ai/jobs/info/698fc2fb6ea51a7610f22f67?utm_campaign=1053&utm_source=git)** | Indianapolis, IN | On Site | Mar 07 |
 | **[Vevo](http://vevo.com)** | **[Summer 2026 Music & Talent Intern](https://jobright.ai/jobs/info/69abc9f6142d5b4265fd3136?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Mar 06 |
 | **[Onit](http://onit.com)** | **[Legal Innovation Community](https://jobright.ai/jobs/info/69aba0c02747003c3d512e42?utm_campaign=1053&utm_source=git)** | Atlanta, GA | Remote | Mar 06 |
@@ -84,8 +83,8 @@ For a complete list, click the following sortable link below:
 | **[MobilizeGreen](https://www.mobilizegreen.org/)** | **[Park Intern – America 250 Commemoration Support](https://jobright.ai/jobs/info/69ab9628142d5b4265fcb756?utm_campaign=1053&utm_source=git)** | Yorktown, VA | On Site | Mar 06 |
 | **[University of Pikeville](http://www.upike.edu/)** | **[Summer INTERNSHIP – Appalshop Research and Script Development Intern](https://jobright.ai/jobs/info/69abb770142d5b4265fd03e4?utm_campaign=1053&utm_source=git)** | Pikeville, Kentucky, United States | Hybrid | Mar 06 |
 | ↳ | **[Summer INTERNSHIP – Appalshop Newsletter Content Writer Intern](https://jobright.ai/jobs/info/69abb4fb2747003c3d51584e?utm_campaign=1053&utm_source=git)** | Pikeville, Kentucky, United States | Hybrid | Mar 06 |
-| ↳ | **[Summer INTERNSHIP – WMMT Programming Assistant Intern](https://jobright.ai/jobs/info/69abb08a7e1fab39d38336f1?utm_campaign=1053&utm_source=git)** | Pikeville, Kentucky, United States | On Site | Mar 06 |
 | ↳ | **[Summer INTERNSHIP - Appalshop Multimedia Content Creator Intern](https://jobright.ai/jobs/info/69abb771142d5b4265fd03ed?utm_campaign=1053&utm_source=git)** | Pikeville, Kentucky, United States | Hybrid | Mar 06 |
+| ↳ | **[Summer INTERNSHIP – WMMT Programming Assistant Intern](https://jobright.ai/jobs/info/69abb08a7e1fab39d38336f1?utm_campaign=1053&utm_source=git)** | Pikeville, Kentucky, United States | On Site | Mar 06 |
 | **[MD Anderson Cancer Center](https://www.mdanderson.org/)** | **[College Student - Strategic Commuication - Creative Communication](https://jobright.ai/jobs/info/69ab92cf7e1fab39d382fea3?utm_campaign=1053&utm_source=git)** | Houston, TX | Remote | Mar 06 |
 | **[Vevo](http://vevo.com)** | **[Summer 206 Video Production & Editorial Intern](https://jobright.ai/jobs/info/69ab683d7e1fab39d382f185?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Mar 06 |
 | **[DigiMarCon - Digital Marketing, Media and Advertising Conferences & Exhibitions](http://digimarcon.com)** | **[🌎 Paid Traveling Internship: Event Management (10 Weeks / USA & Canada Tour)](https://jobright.ai/jobs/info/69ab65787e1fab39d382ebb3?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Mar 06 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern (Digital Studios)](https://jobright.ai/jobs/info/69a9ef269ca4e908ec6535d1?utm_campaign=1053&utm_source=git)** | Arlington, VA | Hybrid | Mar 05 |
 | **[Sony Music Entertainment](http://www.sonymusic.com)** | **[Intern, Video Production](https://jobright.ai/jobs/info/69a99beb7f9271426f88749a?utm_campaign=1053&utm_source=git)** | Toronto, Ontario, Canada | On Site | Mar 05 |
 | **[PBS](http://www.pbs.org)** | **[Intern (PBS KIDS Initiatives and Creative Production)](https://jobright.ai/jobs/info/69a99b5af6c22f2e3686a1ea?utm_campaign=1053&utm_source=git)** | Arlington, VA | Hybrid | Mar 05 |
+| ↳ | **[Intern (PBS KIDS Distribution)](https://jobright.ai/jobs/info/69a99b50f6c22f2e3686a1d3?utm_campaign=1053&utm_source=git)** | Arlington, VA | Hybrid | Mar 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
