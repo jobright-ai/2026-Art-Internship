@@ -67,8 +67,8 @@ For a complete list, click the following sortable link below:
 | **[University of Michigan](https://www.umich.edu)** | **[Video Production Intern](https://jobright.ai/jobs/info/69ad2efb142d5b4265fe5cb5?utm_campaign=1053&utm_source=git)** | Ann Arbor, MI | Hybrid | Mar 08 |
 | **[Our National Conversation (ONC)](https://www.ournationalconversation.org)** | **[Conservative Writer](https://jobright.ai/jobs/info/69acf3af7e1fab39d3846a93?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Remote | Mar 07 |
 | ↳ | **[Editorial Intern](https://jobright.ai/jobs/info/69ace78d2747003c3d527c35?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Remote | Mar 07 |
-| **[MARKHAM](markham.co)** | **[Event Internship- New York](https://jobright.ai/jobs/info/69aca51b142d5b4265fdf069?utm_campaign=1053&utm_source=git)** | New York City | On Site | Mar 07 |
-| ↳ | **[Event Internship- Los Angeles](https://jobright.ai/jobs/info/69aca5257e1fab39d3843fbe?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Mar 07 |
+| **[MARKHAM](markham.co)** | **[Event Internship- Los Angeles](https://jobright.ai/jobs/info/69aca5257e1fab39d3843fbe?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Mar 07 |
+| ↳ | **[Event Internship- New York](https://jobright.ai/jobs/info/69aca51b142d5b4265fdf069?utm_campaign=1053&utm_source=git)** | New York City | On Site | Mar 07 |
 | **[The Washington Post](http://www.washingtonpost.com/)** | **[Opinion Video Intern](https://jobright.ai/jobs/info/68caff29d905e25191d9e2c9?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Mar 07 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Physical Production Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69a82fce2580d3183f003149?utm_campaign=1053&utm_source=git)** | Burbank, CA | On Site | Mar 07 |
 | **[Hasbro](https://shop.hasbro.com)** | **[Intern, Narrative Design](https://jobright.ai/jobs/info/698f9b260cc8ea15f1da3163?utm_campaign=1053&utm_source=git)** | Renton, WA | Hybrid | Mar 07 |
