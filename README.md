@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Marketing Choices](https://marketingchoices.com)** | **[Editorial Internship](https://jobright.ai/jobs/info/69b03d1774950064509619ce?utm_campaign=1053&utm_source=git)** | Colorado, United States | Remote | Mar 10 |
 | **[LangPal](www.lang-pal.com)** | **[Student Content Creator](https://jobright.ai/jobs/info/69b0313d749500645095f9fc?utm_campaign=1053&utm_source=git)** | United States | Remote | Mar 10 |
 | **[STARR Restaurants](http://www.starr-restaurant.com)** | **[Content Creator Intern](https://jobright.ai/jobs/info/69b0205a749500645095cf0c?utm_campaign=1053&utm_source=git)** | NYC Metro Area | On Site | Mar 10 |
 | **[Heyday Athletic](https://www.heydayathletic.com)** | **[Summer Intern](https://jobright.ai/jobs/info/69b01b40dfaeda6ff599695d?utm_campaign=1053&utm_source=git)** | Greater Philadelphia | On Site | Mar 10 |
@@ -103,8 +104,8 @@ For a complete list, click the following sortable link below:
 | **[Simons Foundation](https://www.simonsfoundation.org)** | **[Editorial Intern, Quanta Books](https://jobright.ai/jobs/info/693c868750bbaf76504fbe50?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Mar 08 |
 | **[UT MD Anderson](https://www.mdanderson.org/)** | **[College Student - Strategic Communication- Creative Communication](https://jobright.ai/jobs/info/69ab92cf7e1fab39d382fea3?utm_campaign=1053&utm_source=git)** | Houston, TX | Remote | Mar 07 |
 | **[Our National Conversation (ONC)](https://www.ournationalconversation.org)** | **[Editorial Intern](https://jobright.ai/jobs/info/69ace78d2747003c3d527c35?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Remote | Mar 07 |
-| **[MARKHAM](markham.co)** | **[Event Internship- Los Angeles](https://jobright.ai/jobs/info/69aca5257e1fab39d3843fbe?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Mar 07 |
-| ↳ | **[Event Internship- New York](https://jobright.ai/jobs/info/69aca51b142d5b4265fdf069?utm_campaign=1053&utm_source=git)** | New York City | On Site | Mar 07 |
+| **[MARKHAM](markham.co)** | **[Event Internship- New York](https://jobright.ai/jobs/info/69aca51b142d5b4265fdf069?utm_campaign=1053&utm_source=git)** | New York City | On Site | Mar 07 |
+| ↳ | **[Event Internship- Los Angeles](https://jobright.ai/jobs/info/69aca5257e1fab39d3843fbe?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Mar 07 |
 | **[The Washington Post](http://www.washingtonpost.com/)** | **[Opinion Video Intern](https://jobright.ai/jobs/info/68caff29d905e25191d9e2c9?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Mar 07 |
 | **[Hasbro](https://shop.hasbro.com)** | **[Intern, Narrative Design](https://jobright.ai/jobs/info/698f9b260cc8ea15f1da3163?utm_campaign=1053&utm_source=git)** | Renton, WA | Hybrid | Mar 07 |
 | **[Six Flags Entertainment Corporation](http://sixflags.com)** | **[Entertainment Event Technician Internship](https://jobright.ai/jobs/info/6973d0d337785856350da366?utm_campaign=1053&utm_source=git)** | Gurnee, IL | On Site | Mar 07 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Toll Brothers](https://www.tollbrothers.com)** | **[2026 Internship Program: Assistant Framing Superintendent Intern](https://jobright.ai/jobs/info/69ab01e5142d5b4265fc427a?utm_campaign=1053&utm_source=git)** | Morrisville, PA | On Site | Mar 06 |
 | **[elliestyled](http://elliestyled.com)** | **[Event Production Intern (Summer 2026)](https://jobright.ai/jobs/info/69aaf81a7e1fab39d3828b4d?utm_campaign=1053&utm_source=git)** | Highland Park, IL | On Site | Mar 06 |
 | **[Sergio Tacchini](https://www.sergiotacchini.com)** | **[Production Intern](https://jobright.ai/jobs/info/69aae9df7e1fab39d3828392?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Mar 06 |
-| **[Edelman](http://www.edelman.com)** | **[Edelman U.S. Summer 2026 Internship Program](https://jobright.ai/jobs/info/69aada2f7e1fab39d3827b86?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | Mar 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
