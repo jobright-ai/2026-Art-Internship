@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Dassault Systèmes](http://www.3ds.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/69af5ade749500645093d77e?utm_campaign=1053&utm_source=git)** | New York, United States | On Site | Mar 09 |
 | **[Powercore 360](http://powercore360.com)** | **[Video Editor - Paid Intern/Part time](https://jobright.ai/jobs/info/69af48c1749500645093cbfe?utm_campaign=1053&utm_source=git)** | United States | Remote | Mar 09 |
 | **[GBH](http://www.wgbh.org/)** | **[GBH News Boston Public Radio Internship - Summer 2026](https://jobright.ai/jobs/info/699c19ebe0bddb6acacaf58c?utm_campaign=1053&utm_source=git)** | Boston, MA | Hybrid | Mar 09 |
 | **[SOCAN](http://www.socan.ca)** | **[Concert Administrator Intern](https://jobright.ai/jobs/info/69af3178dfaeda6ff5974804?utm_campaign=1053&utm_source=git)** | North York, Ontario, Canada | Remote | Mar 09 |
@@ -87,8 +88,8 @@ For a complete list, click the following sortable link below:
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[KFSN-TV (ABC30) Newsroom Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69ad5e057e1fab39d384ccf9?utm_campaign=1053&utm_source=git)** | Fresno, CA | On Site | Mar 08 |
 | **[Simons Foundation](https://www.simonsfoundation.org)** | **[Editorial Intern, Quanta Books](https://jobright.ai/jobs/info/693c868750bbaf76504fbe50?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Mar 08 |
 | **[Our National Conversation (ONC)](https://www.ournationalconversation.org)** | **[Editorial Intern](https://jobright.ai/jobs/info/69ace78d2747003c3d527c35?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Remote | Mar 07 |
-| **[MARKHAM](markham.co)** | **[Event Internship- New York](https://jobright.ai/jobs/info/69aca51b142d5b4265fdf069?utm_campaign=1053&utm_source=git)** | New York City | On Site | Mar 07 |
-| ↳ | **[Event Internship- Los Angeles](https://jobright.ai/jobs/info/69aca5257e1fab39d3843fbe?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Mar 07 |
+| **[MARKHAM](markham.co)** | **[Event Internship- Los Angeles](https://jobright.ai/jobs/info/69aca5257e1fab39d3843fbe?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Mar 07 |
+| ↳ | **[Event Internship- New York](https://jobright.ai/jobs/info/69aca51b142d5b4265fdf069?utm_campaign=1053&utm_source=git)** | New York City | On Site | Mar 07 |
 | **[The Washington Post](http://www.washingtonpost.com/)** | **[Opinion Video Intern](https://jobright.ai/jobs/info/68caff29d905e25191d9e2c9?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Mar 07 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Physical Production Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69a82fce2580d3183f003149?utm_campaign=1053&utm_source=git)** | Burbank, CA | On Site | Mar 07 |
 | **[Hasbro](https://shop.hasbro.com)** | **[Intern, Narrative Design](https://jobright.ai/jobs/info/698f9b260cc8ea15f1da3163?utm_campaign=1053&utm_source=git)** | Renton, WA | Hybrid | Mar 07 |
@@ -108,9 +109,9 @@ For a complete list, click the following sortable link below:
 | **[Universal Music Group](https://www.universalmusic.com)** | **[Universal Music Group 2026 Summer Internship Program: Creative & Operations](https://jobright.ai/jobs/info/69ab73ef142d5b4265fca79d?utm_campaign=1053&utm_source=git)** | Nashville, TN | On Site | Mar 06 |
 | **[MobilizeGreen](https://www.mobilizegreen.org/)** | **[Park Intern – America 250 Commemoration Support](https://jobright.ai/jobs/info/69ab9628142d5b4265fcb756?utm_campaign=1053&utm_source=git)** | Yorktown, VA | On Site | Mar 06 |
 | **[University of Pikeville](http://www.upike.edu/)** | **[Summer INTERNSHIP – Appalshop Research and Script Development Intern](https://jobright.ai/jobs/info/69abb770142d5b4265fd03e4?utm_campaign=1053&utm_source=git)** | Pikeville, Kentucky, United States | Hybrid | Mar 06 |
+| ↳ | **[Summer INTERNSHIP – WMMT Programming Assistant Intern](https://jobright.ai/jobs/info/69abb08a7e1fab39d38336f1?utm_campaign=1053&utm_source=git)** | Pikeville, Kentucky, United States | On Site | Mar 06 |
 | ↳ | **[Summer INTERNSHIP – Appalshop Newsletter Content Writer Intern](https://jobright.ai/jobs/info/69abb4fb2747003c3d51584e?utm_campaign=1053&utm_source=git)** | Pikeville, Kentucky, United States | Hybrid | Mar 06 |
 | ↳ | **[Summer INTERNSHIP - Appalshop Multimedia Content Creator Intern](https://jobright.ai/jobs/info/69abb771142d5b4265fd03ed?utm_campaign=1053&utm_source=git)** | Pikeville, Kentucky, United States | Hybrid | Mar 06 |
-| ↳ | **[Summer INTERNSHIP – WMMT Programming Assistant Intern](https://jobright.ai/jobs/info/69abb08a7e1fab39d38336f1?utm_campaign=1053&utm_source=git)** | Pikeville, Kentucky, United States | On Site | Mar 06 |
 | **[UT MD Anderson](https://www.mdanderson.org/)** | **[College Student - Strategic Commuication - Creative Communication](https://jobright.ai/jobs/info/69ab92cf7e1fab39d382fea3?utm_campaign=1053&utm_source=git)** | Houston, TX | Remote | Mar 06 |
 | **[Vevo](http://vevo.com)** | **[Summer 206 Video Production & Editorial Intern](https://jobright.ai/jobs/info/69ab683d7e1fab39d382f185?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Mar 06 |
 | **[DigiMarCon - Digital Marketing, Media and Advertising Conferences & Exhibitions](http://digimarcon.com)** | **[🌎 Paid Traveling Internship: Event Management (10 Weeks / USA & Canada Tour)](https://jobright.ai/jobs/info/69ab65787e1fab39d382ebb3?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Mar 06 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Gensler](http://www.gensler.com)** | **[Student Internship – Video Production - Summer/Fall 2026](https://jobright.ai/jobs/info/69aa8d001f59c56275e378da?utm_campaign=1053&utm_source=git)** | Dallas, TX | On Site | Mar 06 |
 | **[PBS](http://www.pbs.org)** | **[Intern (Station Services - Station Programming Engagement)](https://jobright.ai/jobs/info/69a9eb882ebd316bece19eac?utm_campaign=1053&utm_source=git)** | Arlington, VA | On Site | Mar 06 |
 | **[Community Impact](https://communityimpact.com)** | **[Editorial Intern - Dallas, Texas](https://jobright.ai/jobs/info/69aa841b2ebd316bece24241?utm_campaign=1053&utm_source=git)** | Frisco,TX,US | On Site | Mar 05 |
-| **[Gensler](http://www.gensler.com)** | **[Student Internship – Video Production - Summer/Fall 2026](https://jobright.ai/jobs/info/69aa45732ebd316bece208a0?utm_campaign=1053&utm_source=git)** | Dallas, TX, US | On Site | Mar 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
