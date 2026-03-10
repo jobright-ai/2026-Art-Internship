@@ -57,15 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Fresh Tape Media](http://freshtapemedia.com)** | **[Post-Production Intern](https://jobright.ai/jobs/info/69b05fd4dfaeda6ff59a1db9?utm_campaign=1053&utm_source=git)** | Denver, CO | Hybrid | Mar 10 |
+| **[Alaka`ina Foundation Family of Companies](https://www.alakainafoundation.com/)** | **[Part Time Writer - Intern](https://jobright.ai/jobs/info/69b045980b2db6275c03e142?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | Mar 10 |
 | **[Marketing Choices](https://marketingchoices.com)** | **[Editorial Internship](https://jobright.ai/jobs/info/69b03d1774950064509619ce?utm_campaign=1053&utm_source=git)** | Colorado, United States | Remote | Mar 10 |
-| **[LangPal](www.lang-pal.com)** | **[Student Content Creator](https://jobright.ai/jobs/info/69b0313d749500645095f9fc?utm_campaign=1053&utm_source=git)** | United States | Remote | Mar 10 |
+| **[Michigan Medicine](http://www.uofmhealth.org/)** | **[Video Production Intern](https://jobright.ai/jobs/info/69b0449674950064509630f5?utm_campaign=1053&utm_source=git)** | Ann Arbor, MI | On Site | Mar 10 |
 | **[STARR Restaurants](http://www.starr-restaurant.com)** | **[Content Creator Intern](https://jobright.ai/jobs/info/69b0205a749500645095cf0c?utm_campaign=1053&utm_source=git)** | NYC Metro Area | On Site | Mar 10 |
 | **[Heyday Athletic](https://www.heydayathletic.com)** | **[Summer Intern](https://jobright.ai/jobs/info/69b01b40dfaeda6ff599695d?utm_campaign=1053&utm_source=git)** | Greater Philadelphia | On Site | Mar 10 |
 | **[Ellucian](http://www.ellucian.com)** | **[Video Internship (Undergraduate)](https://jobright.ai/jobs/info/6977e29c52f3c27ec6440a9c?utm_campaign=1053&utm_source=git)** | Reston, VA | Hybrid | Mar 10 |
 | **[Workiva](http://www.workiva.com)** | **[Summer 2026 Intern - Video Production](https://jobright.ai/jobs/info/697723effdeb8243a279f38e?utm_campaign=1053&utm_source=git)** | Ames, IA | Hybrid | Mar 10 |
 | **[Snowflake](https://www.snowflake.com)** | **[Video Production Intern - Summer 2026](https://jobright.ai/jobs/info/69afe016dfaeda6ff598d92a?utm_campaign=1053&utm_source=git)** | Menlo Park, CA | On Site | Mar 10 |
 | **[CJ ENM America](https://www.kconusa.com/home/)** | **[Intern, Production and Operation](https://jobright.ai/jobs/info/69afdff0dfaeda6ff598d87d?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Mar 10 |
-| **[University of Michigan](https://www.umich.edu)** | **[Video Production Intern](https://jobright.ai/jobs/info/69afd018f63f733065b3ca68?utm_campaign=1053&utm_source=git)** | Ann Arbor, MI | On Site | Mar 10 |
 | **[American Geophysical Union](https://www.agu.org)** | **[Science Writer, Intern  (51150)](https://jobright.ai/jobs/info/69b02b48749500645095ee04?utm_campaign=1053&utm_source=git)** | AMERICAN GEOPHYSICAL UNION - WASHINGTON, DC 20009 | Remote | Mar 09 |
 | **[First Community Credit Union - Houston, TX](http://www.fccu.org)** | **[Videography Intern](https://jobright.ai/jobs/info/69ab353a142d5b4265fc7ced?utm_campaign=1053&utm_source=git)** | Houston, TX | On Site | Mar 09 |
 | **[Medidata Solutions](https://www.medidata.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/69af87eddfaeda6ff597abec?utm_campaign=1053&utm_source=git)** | New York, United States | On Site | Mar 09 |
@@ -124,9 +125,9 @@ For a complete list, click the following sortable link below:
 | **[Universal Music Group](https://www.universalmusic.com)** | **[Universal Music Group 2026 Summer Internship Program: Creative & Operations](https://jobright.ai/jobs/info/69ab73ef142d5b4265fca79d?utm_campaign=1053&utm_source=git)** | Nashville, TN | On Site | Mar 06 |
 | **[MobilizeGreen](https://www.mobilizegreen.org/)** | **[Park Intern – America 250 Commemoration Support](https://jobright.ai/jobs/info/69ab9628142d5b4265fcb756?utm_campaign=1053&utm_source=git)** | Yorktown, VA | On Site | Mar 06 |
 | **[University of Pikeville](http://www.upike.edu/)** | **[Summer INTERNSHIP – Appalshop Research and Script Development Intern](https://jobright.ai/jobs/info/69abb770142d5b4265fd03e4?utm_campaign=1053&utm_source=git)** | Pikeville, Kentucky, United States | Hybrid | Mar 06 |
-| ↳ | **[Summer INTERNSHIP – WMMT Programming Assistant Intern](https://jobright.ai/jobs/info/69abb08a7e1fab39d38336f1?utm_campaign=1053&utm_source=git)** | Pikeville, Kentucky, United States | On Site | Mar 06 |
-| ↳ | **[Summer INTERNSHIP - Appalshop Multimedia Content Creator Intern](https://jobright.ai/jobs/info/69abb771142d5b4265fd03ed?utm_campaign=1053&utm_source=git)** | Pikeville, Kentucky, United States | Hybrid | Mar 06 |
 | ↳ | **[Summer INTERNSHIP – Appalshop Newsletter Content Writer Intern](https://jobright.ai/jobs/info/69abb4fb2747003c3d51584e?utm_campaign=1053&utm_source=git)** | Pikeville, Kentucky, United States | Hybrid | Mar 06 |
+| ↳ | **[Summer INTERNSHIP - Appalshop Multimedia Content Creator Intern](https://jobright.ai/jobs/info/69abb771142d5b4265fd03ed?utm_campaign=1053&utm_source=git)** | Pikeville, Kentucky, United States | Hybrid | Mar 06 |
+| ↳ | **[Summer INTERNSHIP – WMMT Programming Assistant Intern](https://jobright.ai/jobs/info/69abb08a7e1fab39d38336f1?utm_campaign=1053&utm_source=git)** | Pikeville, Kentucky, United States | On Site | Mar 06 |
 | **[Vevo](http://vevo.com)** | **[Summer 206 Video Production & Editorial Intern](https://jobright.ai/jobs/info/69ab683d7e1fab39d382f185?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Mar 06 |
 | **[DigiMarCon - Digital Marketing, Media and Advertising Conferences & Exhibitions](http://digimarcon.com)** | **[🌎 Paid Traveling Internship: Event Management (10 Weeks / USA & Canada Tour)](https://jobright.ai/jobs/info/69ab65787e1fab39d382ebb3?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Mar 06 |
 | **[Klick](https://www.klick.com)** | **[Production Coordinator, Summer 2026](https://jobright.ai/jobs/info/69ab65312747003c3d510072?utm_campaign=1053&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Mar 06 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[ItGirl Production Intern](https://jobright.ai/jobs/info/69ab0260142d5b4265fc4316?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Mar 06 |
 | **[Toll Brothers](https://www.tollbrothers.com)** | **[2026 Internship Program: Assistant Framing Superintendent Intern](https://jobright.ai/jobs/info/69ab01e5142d5b4265fc427a?utm_campaign=1053&utm_source=git)** | Morrisville, PA | On Site | Mar 06 |
 | **[elliestyled](http://elliestyled.com)** | **[Event Production Intern (Summer 2026)](https://jobright.ai/jobs/info/69aaf81a7e1fab39d3828b4d?utm_campaign=1053&utm_source=git)** | Highland Park, IL | On Site | Mar 06 |
-| **[Sergio Tacchini](https://www.sergiotacchini.com)** | **[Production Intern](https://jobright.ai/jobs/info/69aae9df7e1fab39d3828392?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Mar 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
