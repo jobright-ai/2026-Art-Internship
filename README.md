@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[American Oversight](https://www.americanoversight.org/)** | **[Summer Editorial Intern](https://jobright.ai/jobs/info/69b21ab5548f140066e8537f?utm_campaign=1053&utm_source=git)** | Washington, DC | Remote | Mar 11 |
 | **[Southern Alberta Institute of Technology (SAIT)](https://www.sait.ca/)** | **[Film & Video Production, Co-op Student](https://jobright.ai/jobs/info/69b1ff0265de58104c716e0d?utm_campaign=1053&utm_source=git)** | Greater Calgary Metropolitan Area | On Site | Mar 11 |
 | **[Hearst Newspapers](https://eevd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_15)** | **[Fall News Intern](https://jobright.ai/jobs/info/69b1fc56d04c69566c74a11d?utm_campaign=1053&utm_source=git)** | 400 Ardmore Blvd, Pittsburgh, PA, 15221, US | On Site | Mar 11 |
 | **[New York Post](http://nypost.com/)** | **[Decider Features Intern](https://jobright.ai/jobs/info/69a712e62672cb0acb4b7b13?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Mar 11 |
@@ -115,8 +116,8 @@ For a complete list, click the following sortable link below:
 | **[Daniel Stowe Conservancy](https://dsbg.org)** | **[Special Events Intern](https://jobright.ai/jobs/info/69b0aec87495006450977221?utm_campaign=1053&utm_source=git)** | Belmont,NC,US | On Site | Mar 10 |
 | **[Fresh Tape Media](http://freshtapemedia.com)** | **[Post-Production Intern](https://jobright.ai/jobs/info/69b05fd4dfaeda6ff59a1db9?utm_campaign=1053&utm_source=git)** | Denver, CO | Hybrid | Mar 10 |
 | **[Andrews McMeel Universal](http://www.amuniversal.com/)** | **[Intern, Calendar Group](https://jobright.ai/jobs/info/69b0b06374950064509774bd?utm_campaign=1053&utm_source=git)** | Kansas City, MO 64106 | Hybrid | Mar 10 |
-| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Current Programming Intern, Sony Pictures Television – Summer 2026](https://jobright.ai/jobs/info/69b0a3837495006450975230?utm_campaign=1053&utm_source=git)** | Culver City, California | On Site | Mar 10 |
-| ↳ | **[Development Intern, Sony Nonfiction - Summer 2026](https://jobright.ai/jobs/info/69b0a3847495006450975236?utm_campaign=1053&utm_source=git)** | Van Nuys, California | On Site | Mar 10 |
+| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Development Intern, Sony Nonfiction - Summer 2026](https://jobright.ai/jobs/info/69b0a3847495006450975236?utm_campaign=1053&utm_source=git)** | Van Nuys, California | On Site | Mar 10 |
+| ↳ | **[Current Programming Intern, Sony Pictures Television – Summer 2026](https://jobright.ai/jobs/info/69b0a3837495006450975230?utm_campaign=1053&utm_source=git)** | Culver City, California | On Site | Mar 10 |
 | **[Alaka`ina Foundation Family of Companies](https://www.alakainafoundation.com/)** | **[Part Time Writer - Intern](https://jobright.ai/jobs/info/69b045980b2db6275c03e142?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | Mar 10 |
 | **[Saks Global](https://www.saksglobal.com)** | **[Alterations Internship](https://jobright.ai/jobs/info/69b1b183548f140066e779fc?utm_campaign=1053&utm_source=git)** | NM_0230_King Of Prussia | On Site | Mar 10 |
 | **[Marketing Choices](https://marketingchoices.com)** | **[Editorial Internship](https://jobright.ai/jobs/info/69b03d1774950064509619ce?utm_campaign=1053&utm_source=git)** | Colorado, United States | Remote | Mar 10 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Ambony](http://www.manofthehourmag.com/)** | **[Beauty & Grooming Journalist Intern](https://jobright.ai/jobs/info/69ae45ce4f6bcc1828095f9e?utm_campaign=1053&utm_source=git)** | New York, NY | Remote | Mar 08 |
 | ↳ | **[Entertainment Journalist (Internship)](https://jobright.ai/jobs/info/69ae45cd4f6bcc1828095f9a?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Remote | Mar 08 |
 | **[TV Guide Magazine](http://www.tvguidemagsales.com)** | **[TV GUIDE MAGAZINE EDITORIAL INTERNSHIP](https://jobright.ai/jobs/info/69adfb62142d5b4265fec17d?utm_campaign=1053&utm_source=git)** | NYC Metro Area | On Site | Mar 08 |
-| **[The Newark Museum of Art](https://www.newarkmuseumart.org)** | **[Intern - Media Productions](https://jobright.ai/jobs/info/69ade7dd142d5b4265febe31?utm_campaign=1053&utm_source=git)** | Newark, NJ, US | On Site | Mar 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
