@@ -57,10 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SLACK Journals](https://journals.healio.com/ )** | **[Journals-Editorial Summer Internship](https://jobright.ai/jobs/info/698f6a2e0f6f7e7a2ceb9f42?utm_campaign=1053&utm_source=git)** | Thorofare, NJ | Hybrid | Mar 12 |
+| **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Summer 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69b2c8d4a8ac8e70ff66d2a2?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Mar 12 |
 | **[Coastal Carolina University](http://www.coastal.edu/)** | **[Production Assistant (Student Employee)](https://jobright.ai/jobs/info/69b2c1d9a8ac8e70ff66c3b5?utm_campaign=1053&utm_source=git)** | Conway, SC | On Site | Mar 12 |
 | **[Colonial Williamsburg Foundation](https://www.colonialwilliamsburg.org/)** | **[Intern - Tin Shop](https://jobright.ai/jobs/info/699687e9e0bddb6acac50564?utm_campaign=1053&utm_source=git)** | Williamsburg, VA | On Site | Mar 12 |
 | **[Audacy, Inc.](https://audacyinc.com/)** | **[Programming Intern](https://jobright.ai/jobs/info/699652b3e0bddb6acac4c0f6?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Mar 12 |
 | **[University of Michigan](https://www.umich.edu)** | **[Video Production Intern](https://jobright.ai/jobs/info/69b27712ad360c0340a754cc?utm_campaign=1053&utm_source=git)** | Ann Arbor, MI | On Site | Mar 12 |
+| **[Jupitrr](https://jupitrr.com/?ref=betalist)** | **[Video & Content Intern](https://jobright.ai/jobs/info/69b2cc93a8ac8e70ff66d607?utm_campaign=1053&utm_source=git)** | Vancouver, British Columbia, Canada | Hybrid | Mar 12 |
 | **[SexSymbol Magazine](sexsymbolmagazine.com)** | **[B-Roll & Media Library Intern](https://jobright.ai/jobs/info/69b24cdcad360c0340a707d0?utm_campaign=1053&utm_source=git)** | United States | Remote | Mar 11 |
 | **[Premier Lacrosse League](https://www.premierlacrosseleague.com/)** | **[Fan Experience Intern, Guest Services](https://jobright.ai/jobs/info/69b23055548f140066e86c71?utm_campaign=1053&utm_source=git)** | United States | Remote | Mar 11 |
 | **[West End Strategy Team](https://westendstrategy.com)** | **[Paid Summer Intern](https://jobright.ai/jobs/info/69b2286265de58104c719e98?utm_campaign=1053&utm_source=git)** | Washington, District of Columbia, United States | Hybrid | Mar 11 |
@@ -107,8 +110,8 @@ For a complete list, click the following sortable link below:
 | **[ANDMORE®](http://www.imcenters.com)** | **[Internship (Educational Credit)](https://jobright.ai/jobs/info/69b0e436dfaeda6ff59ba93b?utm_campaign=1053&utm_source=git)** | Atlanta, GA | Hybrid | Mar 10 |
 | **[Laborde Products](http://labordeproducts.com/)** | **[Summer 2026 Intern - Media Production](https://jobright.ai/jobs/info/69b0e0cbdfaeda6ff59ba6a7?utm_campaign=1053&utm_source=git)** | Covington, LA | On Site | Mar 10 |
 | **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Development Intern, Game Show Network - Summer 2026](https://jobright.ai/jobs/info/69b0e6ac749500645098037e?utm_campaign=1053&utm_source=git)** | Santa Monica, California | On Site | Mar 10 |
-| **[Ohio History Connection](https://www.ohiohistory.org/)** | **[Summer 2026- America 250-Ohio Commission Public History Internship](https://jobright.ai/jobs/info/69b1f823548f140066e821a2?utm_campaign=1053&utm_source=git)** | Columbus,OH,US | Hybrid | Mar 10 |
-| ↳ | **[Summer 2026 - America 250- Ohio Commission Digital Media Internship](https://jobright.ai/jobs/info/69b1f8abd04c69566c74982a?utm_campaign=1053&utm_source=git)** | Columbus,OH,US | Hybrid | Mar 10 |
+| **[Ohio History Connection](https://www.ohiohistory.org/)** | **[Summer 2026 - America 250- Ohio Commission Digital Media Internship](https://jobright.ai/jobs/info/69b1f8abd04c69566c74982a?utm_campaign=1053&utm_source=git)** | Columbus,OH,US | Hybrid | Mar 10 |
+| ↳ | **[Summer 2026- America 250-Ohio Commission Public History Internship](https://jobright.ai/jobs/info/69b1f823548f140066e821a2?utm_campaign=1053&utm_source=git)** | Columbus,OH,US | Hybrid | Mar 10 |
 | ↳ | **[Summer 2026 - Echoes Magazine Internship](https://jobright.ai/jobs/info/69b18059d04c69566c73d298?utm_campaign=1053&utm_source=git)** | Columbus,OH,US | On Site | Mar 10 |
 | **[DigiMarCon - Digital Marketing, Media and Advertising Conferences & Exhibitions](http://digimarcon.com)** | **[🌎 Paid Traveling Internship: Event Management (10 Weeks / USA & Canada Tour)](https://jobright.ai/jobs/info/69b0b2017495006450977630?utm_campaign=1053&utm_source=git)** | Riverside, CA | On Site | Mar 10 |
 | **[SD Wheel](https://www.sdwheel.com/)** | **[Videographer Intern (Summer)](https://jobright.ai/jobs/info/69b102520b2db6275c05f976?utm_campaign=1053&utm_source=git)** | Wrightstown,WI,US | On Site | Mar 10 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Campbell's Company](https://www.thecampbellscompany.com/)** | **[IT Video/Multimedia Content Intern Summer 2026](https://jobright.ai/jobs/info/69af0c8d6b21de023e6023c2?utm_campaign=1053&utm_source=git)** | USA - NJ - Camden | On Site | Mar 09 |
 | **[Charlotte Regional Visitors Authority](https://www.crva.com)** | **[Hospitality INTERN](https://jobright.ai/jobs/info/69af02d574950064509370a7?utm_campaign=1053&utm_source=git)** | Charlotte, NC, US | On Site | Mar 09 |
 | **[Lincoln Center for the Performing Arts](http://www.lincolncenter.org/)** | **[Intern, Festival Orchestra](https://jobright.ai/jobs/info/69aa34779ca4e908ec658aba?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Mar 09 |
-| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Digital Intern](https://jobright.ai/jobs/info/698d18290f6f7e7a2ce8cf9e?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Mar 09 |
-| **[United States Golf Association (USGA)](http://www.usga.org)** | **[2026 Video Production Internship](https://jobright.ai/jobs/info/69af25627495006450939cd9?utm_campaign=1053&utm_source=git)** | Liberty Corner, NJ | On Site | Mar 09 |
-| **[KUTV 2News / KMYU](http://kutv.com/)** | **[Intern - Studio Crew](https://jobright.ai/jobs/info/69ae9e695224a240f103b476?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Mar 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
