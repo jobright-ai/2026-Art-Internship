@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Golden Hippo®](https://www.huntrealestate.com/)** | **[Video Editor Intern](https://jobright.ai/jobs/info/69b3123bae2a534885ea569c?utm_campaign=1053&utm_source=git)** | Hybrid (Woodland Hills, CA) | Hybrid | Mar 12 |
 | **[Spencer Magazine Limited](http://www.spencer-magazine.com)** | **[Assistant to the Publisher - Spencer Magazine - (UNPAID) Internship](https://jobright.ai/jobs/info/69b307afa8ac8e70ff672d52?utm_campaign=1053&utm_source=git)** | Toronto, Ontario, Canada | On Site | Mar 12 |
 | **[BRIDGE SHOWROOM](http://www.bridgeshowroom.com)** | **[Fashion internship in Dallas FIG](https://jobright.ai/jobs/info/69b2fff8ad360c0340a81210?utm_campaign=1053&utm_source=git)** | Dallas, TX | On Site | Mar 12 |
 | **[Salvi](https://www.salvimedia.com/)** | **[Editing Intern](https://jobright.ai/jobs/info/69b2ff4da8ac8e70ff672624?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Mar 12 |
@@ -139,11 +140,10 @@ For a complete list, click the following sortable link below:
 | **[Daniel Stowe Conservancy](https://dsbg.org)** | **[Special Events Intern](https://jobright.ai/jobs/info/69b0aec87495006450977221?utm_campaign=1053&utm_source=git)** | Belmont,NC,US | On Site | Mar 10 |
 | **[Fresh Tape Media](http://freshtapemedia.com)** | **[Post-Production Intern](https://jobright.ai/jobs/info/69b05fd4dfaeda6ff59a1db9?utm_campaign=1053&utm_source=git)** | Denver, CO | Hybrid | Mar 10 |
 | **[Andrews McMeel Universal](http://www.amuniversal.com/)** | **[Intern, Calendar Group](https://jobright.ai/jobs/info/69b0b06374950064509774bd?utm_campaign=1053&utm_source=git)** | Kansas City, MO 64106 | Hybrid | Mar 10 |
-| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Current Programming Intern, Sony Pictures Television – Summer 2026](https://jobright.ai/jobs/info/69b0a3837495006450975230?utm_campaign=1053&utm_source=git)** | Culver City, California | On Site | Mar 10 |
-| ↳ | **[Development Intern, Sony Nonfiction - Summer 2026](https://jobright.ai/jobs/info/69b0a3847495006450975236?utm_campaign=1053&utm_source=git)** | Van Nuys, California | On Site | Mar 10 |
+| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Development Intern, Sony Nonfiction - Summer 2026](https://jobright.ai/jobs/info/69b0a3847495006450975236?utm_campaign=1053&utm_source=git)** | Van Nuys, California | On Site | Mar 10 |
+| ↳ | **[Current Programming Intern, Sony Pictures Television – Summer 2026](https://jobright.ai/jobs/info/69b0a3837495006450975230?utm_campaign=1053&utm_source=git)** | Culver City, California | On Site | Mar 10 |
 | **[Alaka`ina Foundation Family of Companies](https://www.alakainafoundation.com/)** | **[Part Time Writer - Intern](https://jobright.ai/jobs/info/69b045980b2db6275c03e142?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | Mar 10 |
 | **[Saks Global](https://www.saksglobal.com)** | **[Alterations Internship](https://jobright.ai/jobs/info/69b1b183548f140066e779fc?utm_campaign=1053&utm_source=git)** | NM_0230_King Of Prussia | On Site | Mar 10 |
-| **[Marketing Choices](https://marketingchoices.com)** | **[Editorial Internship](https://jobright.ai/jobs/info/69b03d1774950064509619ce?utm_campaign=1053&utm_source=git)** | Colorado, United States | Remote | Mar 10 |
 | **[Omni Hotels & Resorts](http://www.omnihotels.com/)** | **[Activities Omni Care Internship / Summer 2026](https://jobright.ai/jobs/info/69b06d200b2db6275c045454?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | Mar 10 |
 | **[STARR Restaurants](http://www.starr-restaurant.com)** | **[Content Creator Intern](https://jobright.ai/jobs/info/69b0205a749500645095cf0c?utm_campaign=1053&utm_source=git)** | NYC Metro Area | On Site | Mar 10 |
 | **[Heyday Athletic](https://www.heydayathletic.com)** | **[Summer Intern](https://jobright.ai/jobs/info/69b01b40dfaeda6ff599695d?utm_campaign=1053&utm_source=git)** | Greater Philadelphia | On Site | Mar 10 |
