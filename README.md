@@ -57,7 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[West End Strategy Team](https://westendstrategy.com)** | **[Paid Summer Intern](https://jobright.ai/jobs/info/69b2286265de58104c719e98?utm_campaign=1053&utm_source=git)** | Washington, District of Columbia, United States | Hybrid | Mar 11 |
+| **[WTAE Hearst Pittsburgh](https://www.hearstpittsburgh.com)** | **[Summer News Intern](https://jobright.ai/jobs/info/69b22553d04c69566c74d91b?utm_campaign=1053&utm_source=git)** | Pittsburgh, PA | On Site | Mar 11 |
+| **[Northern California Golf Association and Poppy Holding Inc.](https://www.ncga.org/)** | **[PJ Boatwright Intern - Golf Course Maintenance (Poppy Hills)](https://jobright.ai/jobs/info/69b21c25548f140066e858fa?utm_campaign=1053&utm_source=git)** | Pebble Beach,CA,US | On Site | Mar 11 |
 | **[American Oversight](https://www.americanoversight.org/)** | **[Summer Editorial Intern](https://jobright.ai/jobs/info/69b21ab5548f140066e8537f?utm_campaign=1053&utm_source=git)** | Washington, DC | Remote | Mar 11 |
+| **[City of Kenmore](http://www.kenmorewa.gov)** | **[College Intern - Special Events for the City of Kenmore](https://jobright.ai/jobs/info/69b221ea548f140066e85d67?utm_campaign=1053&utm_source=git)** | Kenmore, WA, United States | On Site | Mar 11 |
 | **[Southern Alberta Institute of Technology (SAIT)](https://www.sait.ca/)** | **[Film & Video Production, Co-op Student](https://jobright.ai/jobs/info/69b1ff0265de58104c716e0d?utm_campaign=1053&utm_source=git)** | Greater Calgary Metropolitan Area | On Site | Mar 11 |
 | **[Hearst Newspapers](https://eevd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_15)** | **[Fall News Intern](https://jobright.ai/jobs/info/69b1fc56d04c69566c74a11d?utm_campaign=1053&utm_source=git)** | 400 Ardmore Blvd, Pittsburgh, PA, 15221, US | On Site | Mar 11 |
 | **[New York Post](http://nypost.com/)** | **[Decider Features Intern](https://jobright.ai/jobs/info/69a712e62672cb0acb4b7b13?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Mar 11 |
@@ -99,7 +103,7 @@ For a complete list, click the following sortable link below:
 | **[City Explorer - Live Streaming Hub](https://cityexplorer.live/)** | **[Live Streaming Internship](https://jobright.ai/jobs/info/69b0e81cdfaeda6ff59bb664?utm_campaign=1053&utm_source=git)** | Boston, MA | Remote | Mar 10 |
 | **[ANDMORE®](http://www.imcenters.com)** | **[Internship (Educational Credit)](https://jobright.ai/jobs/info/69b0e436dfaeda6ff59ba93b?utm_campaign=1053&utm_source=git)** | Atlanta, GA | Hybrid | Mar 10 |
 | **[Laborde Products](http://labordeproducts.com/)** | **[Summer 2026 Intern - Media Production](https://jobright.ai/jobs/info/69b0e0cbdfaeda6ff59ba6a7?utm_campaign=1053&utm_source=git)** | Covington, LA | On Site | Mar 10 |
-| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Development Intern, Game Show Network - Summer 2026](https://jobright.ai/jobs/info/69b0e6ac749500645098037e?utm_campaign=1053&utm_source=git)** | Santa Monica, California | On Site | Mar 10 |
+| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Development Intern, Game Show Network - Summer 2026](https://jobright.ai/jobs/info/69b0e92c0b2db6275c05d490?utm_campaign=1053&utm_source=git)** | Santa Monica, California | On Site | Mar 10 |
 | **[Ohio History Connection](https://www.ohiohistory.org/)** | **[Summer 2026 - America 250- Ohio Commission Digital Media Internship](https://jobright.ai/jobs/info/69b1f8abd04c69566c74982a?utm_campaign=1053&utm_source=git)** | Columbus,OH,US | Hybrid | Mar 10 |
 | ↳ | **[Summer 2026- America 250-Ohio Commission Public History Internship](https://jobright.ai/jobs/info/69b1f823548f140066e821a2?utm_campaign=1053&utm_source=git)** | Columbus,OH,US | Hybrid | Mar 10 |
 | ↳ | **[Summer 2026 - Echoes Magazine Internship](https://jobright.ai/jobs/info/69b18059d04c69566c73d298?utm_campaign=1053&utm_source=git)** | Columbus,OH,US | On Site | Mar 10 |
@@ -116,8 +120,8 @@ For a complete list, click the following sortable link below:
 | **[Daniel Stowe Conservancy](https://dsbg.org)** | **[Special Events Intern](https://jobright.ai/jobs/info/69b0aec87495006450977221?utm_campaign=1053&utm_source=git)** | Belmont,NC,US | On Site | Mar 10 |
 | **[Fresh Tape Media](http://freshtapemedia.com)** | **[Post-Production Intern](https://jobright.ai/jobs/info/69b05fd4dfaeda6ff59a1db9?utm_campaign=1053&utm_source=git)** | Denver, CO | Hybrid | Mar 10 |
 | **[Andrews McMeel Universal](http://www.amuniversal.com/)** | **[Intern, Calendar Group](https://jobright.ai/jobs/info/69b0b06374950064509774bd?utm_campaign=1053&utm_source=git)** | Kansas City, MO 64106 | Hybrid | Mar 10 |
-| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Development Intern, Sony Nonfiction - Summer 2026](https://jobright.ai/jobs/info/69b0a3847495006450975236?utm_campaign=1053&utm_source=git)** | Van Nuys, California | On Site | Mar 10 |
-| ↳ | **[Current Programming Intern, Sony Pictures Television – Summer 2026](https://jobright.ai/jobs/info/69b0a3837495006450975230?utm_campaign=1053&utm_source=git)** | Culver City, California | On Site | Mar 10 |
+| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Current Programming Intern, Sony Pictures Television – Summer 2026](https://jobright.ai/jobs/info/69b0a3837495006450975230?utm_campaign=1053&utm_source=git)** | Culver City, California | On Site | Mar 10 |
+| ↳ | **[Development Intern, Sony Nonfiction - Summer 2026](https://jobright.ai/jobs/info/69b0a3847495006450975236?utm_campaign=1053&utm_source=git)** | Van Nuys, California | On Site | Mar 10 |
 | **[Alaka`ina Foundation Family of Companies](https://www.alakainafoundation.com/)** | **[Part Time Writer - Intern](https://jobright.ai/jobs/info/69b045980b2db6275c03e142?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | Mar 10 |
 | **[Saks Global](https://www.saksglobal.com)** | **[Alterations Internship](https://jobright.ai/jobs/info/69b1b183548f140066e779fc?utm_campaign=1053&utm_source=git)** | NM_0230_King Of Prussia | On Site | Mar 10 |
 | **[Marketing Choices](https://marketingchoices.com)** | **[Editorial Internship](https://jobright.ai/jobs/info/69b03d1774950064509619ce?utm_campaign=1053&utm_source=git)** | Colorado, United States | Remote | Mar 10 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[United States Golf Association (USGA)](http://www.usga.org)** | **[2026 Video Production Internship](https://jobright.ai/jobs/info/69af25627495006450939cd9?utm_campaign=1053&utm_source=git)** | Liberty Corner, NJ | On Site | Mar 09 |
 | **[KUTV 2News / KMYU](http://kutv.com/)** | **[Intern - Studio Crew](https://jobright.ai/jobs/info/69ae9e695224a240f103b476?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Mar 09 |
 | **[City Explorer - Live Streaming Hub](https://cityexplorer.live/)** | **[Live Streaming Internship](https://jobright.ai/jobs/info/69ae56f04f6bcc1828098103?utm_campaign=1053&utm_source=git)** | NYC Metro Area | Remote | Mar 08 |
-| **[Six Flags](https://www.sixflags.com)** | **[Entertainment Event Technician Internship](https://jobright.ai/jobs/info/69aec9aaa4f2e119f26e1c98?utm_campaign=1053&utm_source=git)** | Waukegan, IL | On Site | Mar 08 |
-| **[The Ambony](http://www.manofthehourmag.com/)** | **[Beauty & Grooming Journalist Intern](https://jobright.ai/jobs/info/69ae45ce4f6bcc1828095f9e?utm_campaign=1053&utm_source=git)** | New York, NY | Remote | Mar 08 |
-| ↳ | **[Entertainment Journalist (Internship)](https://jobright.ai/jobs/info/69ae45cd4f6bcc1828095f9a?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Remote | Mar 08 |
-| **[TV Guide Magazine](http://www.tvguidemagsales.com)** | **[TV GUIDE MAGAZINE EDITORIAL INTERNSHIP](https://jobright.ai/jobs/info/69adfb62142d5b4265fec17d?utm_campaign=1053&utm_source=git)** | NYC Metro Area | On Site | Mar 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
