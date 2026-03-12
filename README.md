@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[New York Post](http://nypost.com/)** | **[Decider Features Intern](https://jobright.ai/jobs/info/69a712e62672cb0acb4b7b13?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Mar 11 |
+| **[SOCAN](http://www.socan.ca)** | **[Concert Administrator Intern](https://jobright.ai/jobs/info/69af3178dfaeda6ff5974804?utm_campaign=1053&utm_source=git)** | North York, Ontario, Canada | Remote | Mar 11 |
 | **[PBS](http://www.pbs.org)** | **[Intern (Digital Studios)](https://jobright.ai/jobs/info/69b1db22548f140066e7cc4f?utm_campaign=1053&utm_source=git)** | Arlington, VA | Hybrid | Mar 11 |
 | **[Omni Hotels & Resorts](http://www.omnihotels.com/)** | **[Omni Care Intern / Culinary](https://jobright.ai/jobs/info/69b1d4a4d04c69566c743260?utm_campaign=1053&utm_source=git)** | OKC Metro Area | On Site | Mar 11 |
 | **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Development Intern, Game Show Network - Summer 2026](https://jobright.ai/jobs/info/69b1cb96548f140066e7a0d4?utm_campaign=1053&utm_source=git)** | Santa Monica, CA | On Site | Mar 11 |
@@ -92,7 +94,9 @@ For a complete list, click the following sortable link below:
 | **[ANDMORE®](http://www.imcenters.com)** | **[Internship (Educational Credit)](https://jobright.ai/jobs/info/69b0e436dfaeda6ff59ba93b?utm_campaign=1053&utm_source=git)** | Atlanta, GA | Hybrid | Mar 10 |
 | **[Laborde Products](http://labordeproducts.com/)** | **[Summer 2026 Intern - Media Production](https://jobright.ai/jobs/info/69b0e0cbdfaeda6ff59ba6a7?utm_campaign=1053&utm_source=git)** | Covington, LA | On Site | Mar 10 |
 | **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Development Intern, Game Show Network - Summer 2026](https://jobright.ai/jobs/info/69b0e6ac749500645098037e?utm_campaign=1053&utm_source=git)** | Santa Monica, California | On Site | Mar 10 |
-| **[Ohio History Connection](https://www.ohiohistory.org/)** | **[Summer 2026 - Echoes Magazine Internship](https://jobright.ai/jobs/info/69b18059d04c69566c73d298?utm_campaign=1053&utm_source=git)** | Columbus,OH,US | On Site | Mar 10 |
+| **[Ohio History Connection](https://www.ohiohistory.org/)** | **[Summer 2026 - America 250- Ohio Commission Digital Media Internship](https://jobright.ai/jobs/info/69b1f8abd04c69566c74982a?utm_campaign=1053&utm_source=git)** | Columbus,OH,US | Hybrid | Mar 10 |
+| ↳ | **[Summer 2026- America 250-Ohio Commission Public History Internship](https://jobright.ai/jobs/info/69b1f823548f140066e821a2?utm_campaign=1053&utm_source=git)** | Columbus,OH,US | Hybrid | Mar 10 |
+| ↳ | **[Summer 2026 - Echoes Magazine Internship](https://jobright.ai/jobs/info/69b18059d04c69566c73d298?utm_campaign=1053&utm_source=git)** | Columbus,OH,US | On Site | Mar 10 |
 | **[DigiMarCon - Digital Marketing, Media and Advertising Conferences & Exhibitions](http://digimarcon.com)** | **[🌎 Paid Traveling Internship: Event Management (10 Weeks / USA & Canada Tour)](https://jobright.ai/jobs/info/69b0b2017495006450977630?utm_campaign=1053&utm_source=git)** | Riverside, CA | On Site | Mar 10 |
 | **[SD Wheel](https://www.sdwheel.com/)** | **[Videographer Intern (Summer)](https://jobright.ai/jobs/info/69b102520b2db6275c05f976?utm_campaign=1053&utm_source=git)** | Wrightstown,WI,US | On Site | Mar 10 |
 | **[DigiMarCon - Digital Marketing, Media and Advertising Conferences & Exhibitions](http://digimarcon.com)** | **[🌎 Paid Traveling Internship: Event Management (10 Weeks / USA & Canada Tour)](https://jobright.ai/jobs/info/69b0ac5e7495006450976b32?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Mar 10 |
@@ -105,8 +109,8 @@ For a complete list, click the following sortable link below:
 | **[Daniel Stowe Conservancy](https://dsbg.org)** | **[Special Events Intern](https://jobright.ai/jobs/info/69b0aec87495006450977221?utm_campaign=1053&utm_source=git)** | Belmont,NC,US | On Site | Mar 10 |
 | **[Fresh Tape Media](http://freshtapemedia.com)** | **[Post-Production Intern](https://jobright.ai/jobs/info/69b05fd4dfaeda6ff59a1db9?utm_campaign=1053&utm_source=git)** | Denver, CO | Hybrid | Mar 10 |
 | **[Andrews McMeel Universal](http://www.amuniversal.com/)** | **[Intern, Calendar Group](https://jobright.ai/jobs/info/69b0b06374950064509774bd?utm_campaign=1053&utm_source=git)** | Kansas City, MO 64106 | Hybrid | Mar 10 |
-| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Development Intern, Sony Nonfiction - Summer 2026](https://jobright.ai/jobs/info/69b0a3847495006450975236?utm_campaign=1053&utm_source=git)** | Van Nuys, California | On Site | Mar 10 |
-| ↳ | **[Current Programming Intern, Sony Pictures Television – Summer 2026](https://jobright.ai/jobs/info/69b0a3837495006450975230?utm_campaign=1053&utm_source=git)** | Culver City, California | On Site | Mar 10 |
+| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Current Programming Intern, Sony Pictures Television – Summer 2026](https://jobright.ai/jobs/info/69b0a3837495006450975230?utm_campaign=1053&utm_source=git)** | Culver City, California | On Site | Mar 10 |
+| ↳ | **[Development Intern, Sony Nonfiction - Summer 2026](https://jobright.ai/jobs/info/69b0a3847495006450975236?utm_campaign=1053&utm_source=git)** | Van Nuys, California | On Site | Mar 10 |
 | **[Alaka`ina Foundation Family of Companies](https://www.alakainafoundation.com/)** | **[Part Time Writer - Intern](https://jobright.ai/jobs/info/69b045980b2db6275c03e142?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | Mar 10 |
 | **[Saks Global](https://www.saksglobal.com)** | **[Alterations Internship](https://jobright.ai/jobs/info/69b1b183548f140066e779fc?utm_campaign=1053&utm_source=git)** | NM_0230_King Of Prussia | On Site | Mar 10 |
 | **[Marketing Choices](https://marketingchoices.com)** | **[Editorial Internship](https://jobright.ai/jobs/info/69b03d1774950064509619ce?utm_campaign=1053&utm_source=git)** | Colorado, United States | Remote | Mar 10 |
@@ -129,8 +133,7 @@ For a complete list, click the following sortable link below:
 | **[Dassault Systèmes](http://www.3ds.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/69af5ade749500645093d77e?utm_campaign=1053&utm_source=git)** | New York, United States | On Site | Mar 09 |
 | **[GBH](http://www.wgbh.org/)** | **[GBH News Boston Public Radio Internship - Summer 2026](https://jobright.ai/jobs/info/699c19ebe0bddb6acacaf58c?utm_campaign=1053&utm_source=git)** | Boston, MA | Hybrid | Mar 09 |
 | **[Omni Hotels & Resorts](http://www.omnihotels.com/)** | **[2026 Omni Care Summer Internship / Events (June - August)](https://jobright.ai/jobs/info/69b00bf2dfaeda6ff599521d?utm_campaign=1053&utm_source=git)** | Boston, MA | On Site | Mar 09 |
-| **[SOCAN](http://www.socan.ca)** | **[Concert Administrator Intern](https://jobright.ai/jobs/info/69af3178dfaeda6ff5974804?utm_campaign=1053&utm_source=git)** | North York, Ontario, Canada | Remote | Mar 09 |
-| **[Omni Hotels & Resorts](http://www.omnihotels.com/)** | **[Omni Care Internship / Culinary / Summer 2026](https://jobright.ai/jobs/info/69b01961749500645095bc4b?utm_campaign=1053&utm_source=git)** | Charlotte, NC | On Site | Mar 09 |
+| ↳ | **[Omni Care Internship / Culinary / Summer 2026](https://jobright.ai/jobs/info/69b01961749500645095bc4b?utm_campaign=1053&utm_source=git)** | Charlotte, NC | On Site | Mar 09 |
 | ↳ | **[Omni Care Internship Culinary / Fall 2026](https://jobright.ai/jobs/info/69b0189b0b2db6275c036a56?utm_campaign=1053&utm_source=git)** | Washington, NH | On Site | Mar 09 |
 | **[Northside Hospital](http://www.northside.com)** | **[Department Intern](https://jobright.ai/jobs/info/69af26946b21de023e604daf?utm_campaign=1053&utm_source=git)** | US-GA-Atlanta | On Site | Mar 09 |
 | ↳ | **[Department Intern](https://jobright.ai/jobs/info/69af2693dfaeda6ff5973a04?utm_campaign=1053&utm_source=git)** | Atlanta, GA, US | On Site | Mar 09 |
@@ -147,14 +150,11 @@ For a complete list, click the following sortable link below:
 | **[The Ambony](http://www.manofthehourmag.com/)** | **[Beauty & Grooming Journalist Intern](https://jobright.ai/jobs/info/69ae45ce4f6bcc1828095f9e?utm_campaign=1053&utm_source=git)** | New York, NY | Remote | Mar 08 |
 | ↳ | **[Entertainment Journalist (Internship)](https://jobright.ai/jobs/info/69ae45cd4f6bcc1828095f9a?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Remote | Mar 08 |
 | **[TV Guide Magazine](http://www.tvguidemagsales.com)** | **[TV GUIDE MAGAZINE EDITORIAL INTERNSHIP](https://jobright.ai/jobs/info/69adfb62142d5b4265fec17d?utm_campaign=1053&utm_source=git)** | NYC Metro Area | On Site | Mar 08 |
-| **[New York Post](http://nypost.com/)** | **[Decider Features Intern](https://jobright.ai/jobs/info/69a712e62672cb0acb4b7b13?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Mar 08 |
 | **[The Newark Museum of Art](https://www.newarkmuseumart.org)** | **[Intern - Media Productions](https://jobright.ai/jobs/info/69ade7dd142d5b4265febe31?utm_campaign=1053&utm_source=git)** | Newark, NJ, US | On Site | Mar 08 |
 | ↳ | **[Intern - Conservation](https://jobright.ai/jobs/info/69adb12b7e1fab39d384fb37?utm_campaign=1053&utm_source=git)** | Newark, NJ, US | On Site | Mar 08 |
 | **[Six Flags Entertainment Corporation](http://sixflags.com)** | **[Show Wardrobe Technician Internship](https://jobright.ai/jobs/info/697738cb88e2b47213bb1c1b?utm_campaign=1053&utm_source=git)** | Gurnee, IL | On Site | Mar 08 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[KFSN-TV (ABC30) Newsroom Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69ad5e057e1fab39d384ccf9?utm_campaign=1053&utm_source=git)** | Fresno, CA | On Site | Mar 08 |
 | **[Simons Foundation](https://www.simonsfoundation.org)** | **[Editorial Intern, Quanta Books](https://jobright.ai/jobs/info/693c868750bbaf76504fbe50?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Mar 08 |
 | **[UT MD Anderson](https://www.mdanderson.org/)** | **[College Student - Strategic Communication- Creative Communication](https://jobright.ai/jobs/info/69ab92cf7e1fab39d382fea3?utm_campaign=1053&utm_source=git)** | Houston, TX | Remote | Mar 07 |
-| **[MARKHAM](markham.co)** | **[Event Internship- New York](https://jobright.ai/jobs/info/69aca51b142d5b4265fdf069?utm_campaign=1053&utm_source=git)** | New York City | On Site | Mar 07 |
-| ↳ | **[Event Internship- Los Angeles](https://jobright.ai/jobs/info/69aca5257e1fab39d3843fbe?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Mar 07 |
-| **[Universal Music Group](https://www.universalmusic.com)** | **[Universal Music Group 2026 Summer Internship Program: Creative & Operations (Onsite: TN)](https://jobright.ai/jobs/info/69ab73ef142d5b4265fca79d?utm_campaign=1053&utm_source=git)** | Nashville, TN | On Site | Mar 07 |
+| **[MARKHAM](markham.co)** | **[Event Internship- Los Angeles](https://jobright.ai/jobs/info/69aca5257e1fab39d3843fbe?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Mar 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
