@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[City of Kenmore](http://www.kenmorewa.gov)** | **[Special Events Summer Intern](https://jobright.ai/jobs/info/69b46c3c3b74eb1e2c81ad43?utm_campaign=1053&utm_source=git)** | Snohomish, WA | On Site | Mar 13 |
+| **[Marriott Vacations Worldwide](https://www.marriottvacationsworldwide.com/)** | **[Summer 2026 - College Intern - Myrtle Beach, SC (Recreation and Food & Beverage)](https://jobright.ai/jobs/info/69b4683b3b74eb1e2c819e5d?utm_campaign=1053&utm_source=git)** | Marriott's OceanWatch at Grande Dunes | On Site | Mar 13 |
+| ↳ | **[Summer 2026 - College Intern - Myrtle Beach, SC (Recreation and Food & Beverage)](https://jobright.ai/jobs/info/69b467595697383741392717?utm_campaign=1053&utm_source=git)** | Sheraton Broadway Resort | On Site | Mar 13 |
 | **[Legarza Sports and More](https://www.legarzasports.org)** | **[Summer Intern - Sports Management Events](https://jobright.ai/jobs/info/69b44bd7569738374138f9cf?utm_campaign=1053&utm_source=git)** | San Francisco Bay Area | On Site | Mar 13 |
 | **[BuildingGreen](https://www.buildinggreen.com/)** | **[Editorial Intern, Sustainability](https://jobright.ai/jobs/info/69b44a6b569738374138f66f?utm_campaign=1053&utm_source=git)** | United States | Remote | Mar 13 |
 | **[Indiana University](https://www.iu.edu)** | **[Part Time Student Content Intern](https://jobright.ai/jobs/info/69b430da06c1ba00c54568cc?utm_campaign=1053&utm_source=git)** | Bloomington, IN | On Site | Mar 13 |
@@ -92,13 +95,13 @@ For a complete list, click the following sortable link below:
 | **[Golden Hippo®](https://www.huntrealestate.com/)** | **[Video Editor Intern](https://jobright.ai/jobs/info/69b3218ea8ac8e70ff674f97?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | Mar 12 |
 | **[HumanKind OS](https://www.linkedin.com/company/109231052)** | **[Video Editor Intern](https://jobright.ai/jobs/info/69b32691ad360c0340a84899?utm_campaign=1053&utm_source=git)** | United States | Remote | Mar 12 |
 | **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69b334c6a8ac8e70ff6774aa?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Mar 12 |
-| ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69b334ebae2a534885ea9c28?utm_campaign=1053&utm_source=git)** | Wichita, KS | On Site | Mar 12 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69b334fdae2a534885ea9c94?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | Mar 12 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69b334c0ad360c0340a858c4?utm_campaign=1053&utm_source=git)** | Greenbrier River, WV | On Site | Mar 12 |
+| ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69b334ebae2a534885ea9c28?utm_campaign=1053&utm_source=git)** | Wichita, KS | On Site | Mar 12 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69b334caad360c0340a858f2?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Mar 12 |
 | **[Golden Hippo®](https://www.huntrealestate.com/)** | **[Video Editor Intern](https://jobright.ai/jobs/info/69b3123bae2a534885ea569c?utm_campaign=1053&utm_source=git)** | Hybrid (Woodland Hills, CA) | Hybrid | Mar 12 |
-| **[U.S. Hunger](https://ushunger.org/)** | **[Summer 2026 Grant and Mission Writing Intern](https://jobright.ai/jobs/info/69b32f38a8ac8e70ff67705d?utm_campaign=1053&utm_source=git)** | Feeding Children Everywhere - HQ | On Site | Mar 12 |
-| ↳ | **[Fall 2026 Grant and Mission Writing Intern](https://jobright.ai/jobs/info/69b330baae2a534885ea975d?utm_campaign=1053&utm_source=git)** | Feeding Children Everywhere - HQ | On Site | Mar 12 |
+| **[U.S. Hunger](https://ushunger.org/)** | **[Fall 2026 Grant and Mission Writing Intern](https://jobright.ai/jobs/info/69b330baae2a534885ea975d?utm_campaign=1053&utm_source=git)** | Feeding Children Everywhere - HQ | On Site | Mar 12 |
+| ↳ | **[Summer 2026 Grant and Mission Writing Intern](https://jobright.ai/jobs/info/69b32f38a8ac8e70ff67705d?utm_campaign=1053&utm_source=git)** | Feeding Children Everywhere - HQ | On Site | Mar 12 |
 | **[BRIDGE SHOWROOM](http://www.bridgeshowroom.com)** | **[Fashion internship in Dallas FIG](https://jobright.ai/jobs/info/69b2fff8ad360c0340a81210?utm_campaign=1053&utm_source=git)** | Dallas, TX | On Site | Mar 12 |
 | **[Salvi](https://www.salvimedia.com/)** | **[Editing Intern](https://jobright.ai/jobs/info/69b2ff4da8ac8e70ff672624?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Mar 12 |
 | **[NESN](http://nesn.com)** | **[Studio Operations Intern](https://jobright.ai/jobs/info/69b2fb39ad360c0340a80b59?utm_campaign=1053&utm_source=git)** | Watertown, MA, US | On Site | Mar 12 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Studio Museum in Harlem](https://www.studiomuseum.org/)** | **[Summer 2026 Director's Office Intern](https://jobright.ai/jobs/info/6994ccd081476f6176ac9e37?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Mar 11 |
 | **[Starz](http://www.starz.com/)** | **[STARZ Intern, Acquisitions](https://jobright.ai/jobs/info/69952c01ce78e77b4fd94442?utm_campaign=1053&utm_source=git)** | Santa Monica, CA | On Site | Mar 11 |
 | **[Howard Hughes Medical Institute (HHMI)](http://www.hhmi.org/)** | **[Media Production, Communications, and Outreach Intern – Tangled Bank Studios](https://jobright.ai/jobs/info/695ddd6fe4cdbb1454cfd848?utm_campaign=1053&utm_source=git)** | Chevy Chase, MD | Hybrid | Mar 11 |
-| **[Alliance Laundry Systems LLC](https://alliancelaundry.com/)** | **[History Research and Writing Intern](https://jobright.ai/jobs/info/6994851b81476f6176ac4a1e?utm_campaign=1053&utm_source=git)** | Ripon, WI | Hybrid | Mar 11 |
-| **[McClatchy Media](https://www.mcclatchy.com/)** | **[News Intern - Part-time](https://jobright.ai/jobs/info/6983cce901214b4cdacbced6?utm_campaign=1053&utm_source=git)** | San Luis Obispo, CA | On Site | Mar 11 |
-| **[ANDMORE®](http://www.imcenters.com)** | **[Internship (Educational Credit)](https://jobright.ai/jobs/info/69b0e436dfaeda6ff59ba93b?utm_campaign=1053&utm_source=git)** | Atlanta, GA | Hybrid | Mar 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
