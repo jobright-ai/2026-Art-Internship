@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Burlington Electric Department](https://www.burlingtonelectric.com/)** | **[BCA Production Internship](https://jobright.ai/jobs/info/69b362f9ad360c0340a87b9a?utm_campaign=1053&utm_source=git)** | Vermont, United States | On Site | Mar 12 |
 | **[Mythic](https://mythic.us/)** | **[Video Production / Content Creation Intern](https://jobright.ai/jobs/info/69b352b7a8ac8e70ff678c4e?utm_campaign=1053&utm_source=git)** | Charlotte, NC | Hybrid | Mar 12 |
 | **[Buzz | Social Media Marketing](https://www.buzzsocialmediamarketing.com/)** | **[Content Creator](https://jobright.ai/jobs/info/69b3389da8ac8e70ff677b33?utm_campaign=1053&utm_source=git)** | United States | Remote | Mar 12 |
 | **[HumanKind OS](https://www.linkedin.com/company/109231052)** | **[Video Editor Intern](https://jobright.ai/jobs/info/69b32691ad360c0340a84899?utm_campaign=1053&utm_source=git)** | United States | Remote | Mar 12 |
@@ -67,15 +68,15 @@ For a complete list, click the following sortable link below:
 | **[Gen](https://www.gendigital.com)** | **[Editorial Intern](https://jobright.ai/jobs/info/69b32b84ad360c0340a84dc0?utm_campaign=1053&utm_source=git)** | USA - New York, New York | On Site | Mar 12 |
 | **[Golden Hippo®](https://www.huntrealestate.com/)** | **[Video Editor Intern](https://jobright.ai/jobs/info/69b3218ea8ac8e70ff674f97?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | Mar 12 |
 | **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69b334c6a8ac8e70ff6774aa?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Mar 12 |
-| ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69b334c0ad360c0340a858c4?utm_campaign=1053&utm_source=git)** | Greenbrier River, WV | On Site | Mar 12 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69b334fdae2a534885ea9c94?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | Mar 12 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69b334ebae2a534885ea9c28?utm_campaign=1053&utm_source=git)** | Wichita, KS | On Site | Mar 12 |
+| ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69b334c0ad360c0340a858c4?utm_campaign=1053&utm_source=git)** | Greenbrier River, WV | On Site | Mar 12 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69b334caad360c0340a858f2?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Mar 12 |
 | **[Golden Hippo®](https://www.huntrealestate.com/)** | **[Video Editor Intern](https://jobright.ai/jobs/info/69b3123bae2a534885ea569c?utm_campaign=1053&utm_source=git)** | Hybrid (Woodland Hills, CA) | Hybrid | Mar 12 |
 | **[Cleveland Browns](http://www.clevelandbrowns.com)** | **[Video Editing and Motion Graphic Animation – Game Production Intern](https://jobright.ai/jobs/info/69b32a02a8ac8e70ff6766e9?utm_campaign=1053&utm_source=git)** | 100 Alfred Lerner Way, Cleveland, OH, USA | On Site | Mar 12 |
 | **[Spencer Magazine Limited](http://www.spencer-magazine.com)** | **[Assistant to the Publisher - Spencer Magazine - (UNPAID) Internship](https://jobright.ai/jobs/info/69b307afa8ac8e70ff672d52?utm_campaign=1053&utm_source=git)** | Toronto, Ontario, Canada | On Site | Mar 12 |
-| **[U.S. Hunger](https://ushunger.org/)** | **[Fall 2026 Grant and Mission Writing Intern](https://jobright.ai/jobs/info/69b330baae2a534885ea975d?utm_campaign=1053&utm_source=git)** | Feeding Children Everywhere - HQ | On Site | Mar 12 |
-| ↳ | **[Summer 2026 Grant and Mission Writing Intern](https://jobright.ai/jobs/info/69b32f38a8ac8e70ff67705d?utm_campaign=1053&utm_source=git)** | Feeding Children Everywhere - HQ | On Site | Mar 12 |
+| **[U.S. Hunger](https://ushunger.org/)** | **[Summer 2026 Grant and Mission Writing Intern](https://jobright.ai/jobs/info/69b32f38a8ac8e70ff67705d?utm_campaign=1053&utm_source=git)** | Feeding Children Everywhere - HQ | On Site | Mar 12 |
+| ↳ | **[Fall 2026 Grant and Mission Writing Intern](https://jobright.ai/jobs/info/69b330baae2a534885ea975d?utm_campaign=1053&utm_source=git)** | Feeding Children Everywhere - HQ | On Site | Mar 12 |
 | **[BRIDGE SHOWROOM](http://www.bridgeshowroom.com)** | **[Fashion internship in Dallas FIG](https://jobright.ai/jobs/info/69b2fff8ad360c0340a81210?utm_campaign=1053&utm_source=git)** | Dallas, TX | On Site | Mar 12 |
 | **[Salvi](https://www.salvimedia.com/)** | **[Editing Intern](https://jobright.ai/jobs/info/69b2ff4da8ac8e70ff672624?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Mar 12 |
 | **[NESN](http://nesn.com)** | **[Studio Operations Intern](https://jobright.ai/jobs/info/69b2fb39ad360c0340a80b59?utm_campaign=1053&utm_source=git)** | Watertown, MA, US | On Site | Mar 12 |
@@ -140,9 +141,9 @@ For a complete list, click the following sortable link below:
 | **[Six Flags](https://www.sixflags.com)** | **[Entertainment Event Technician Internship](https://jobright.ai/jobs/info/69b109880b2db6275c060d3e?utm_campaign=1053&utm_source=git)** | Waukegan, IL | On Site | Mar 10 |
 | **[ANDMORE®](http://www.imcenters.com)** | **[Internship (Educational Credit)](https://jobright.ai/jobs/info/69b0e436dfaeda6ff59ba93b?utm_campaign=1053&utm_source=git)** | Atlanta, GA | Hybrid | Mar 10 |
 | **[Laborde Products](http://labordeproducts.com/)** | **[Summer 2026 Intern - Media Production](https://jobright.ai/jobs/info/69b0e0cbdfaeda6ff59ba6a7?utm_campaign=1053&utm_source=git)** | Covington, LA | On Site | Mar 10 |
-| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Development Intern, Game Show Network - Summer 2026](https://jobright.ai/jobs/info/69b0e6ac749500645098037e?utm_campaign=1053&utm_source=git)** | Santa Monica, California | On Site | Mar 10 |
-| **[Ohio History Connection](https://www.ohiohistory.org/)** | **[Summer 2026- America 250-Ohio Commission Public History Internship](https://jobright.ai/jobs/info/69b1f823548f140066e821a2?utm_campaign=1053&utm_source=git)** | Columbus,OH,US | Hybrid | Mar 10 |
-| ↳ | **[Summer 2026 - America 250- Ohio Commission Digital Media Internship](https://jobright.ai/jobs/info/69b1f8abd04c69566c74982a?utm_campaign=1053&utm_source=git)** | Columbus,OH,US | Hybrid | Mar 10 |
+| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Development Intern, Game Show Network - Summer 2026](https://jobright.ai/jobs/info/69b0e92c0b2db6275c05d490?utm_campaign=1053&utm_source=git)** | Santa Monica, California | On Site | Mar 10 |
+| **[Ohio History Connection](https://www.ohiohistory.org/)** | **[Summer 2026 - America 250- Ohio Commission Digital Media Internship](https://jobright.ai/jobs/info/69b1f8abd04c69566c74982a?utm_campaign=1053&utm_source=git)** | Columbus,OH,US | Hybrid | Mar 10 |
+| ↳ | **[Summer 2026- America 250-Ohio Commission Public History Internship](https://jobright.ai/jobs/info/69b1f823548f140066e821a2?utm_campaign=1053&utm_source=git)** | Columbus,OH,US | Hybrid | Mar 10 |
 | ↳ | **[Summer 2026 - Echoes Magazine Internship](https://jobright.ai/jobs/info/69b18059d04c69566c73d298?utm_campaign=1053&utm_source=git)** | Columbus,OH,US | On Site | Mar 10 |
 | **[DigiMarCon - Digital Marketing, Media and Advertising Conferences & Exhibitions](http://digimarcon.com)** | **[🌎 Paid Traveling Internship: Event Management (10 Weeks / USA & Canada Tour)](https://jobright.ai/jobs/info/69b0b2017495006450977630?utm_campaign=1053&utm_source=git)** | Riverside, CA | On Site | Mar 10 |
 | **[SD Wheel](https://www.sdwheel.com/)** | **[Videographer Intern (Summer)](https://jobright.ai/jobs/info/69b102520b2db6275c05f976?utm_campaign=1053&utm_source=git)** | Wrightstown,WI,US | On Site | Mar 10 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Capitol Hoops](www.Capitolhoops.com)** | **[Summer Intern](https://jobright.ai/jobs/info/69b16c0ad04c69566c73af0e?utm_campaign=1053&utm_source=git)** | DC-Baltimore Area | On Site | Mar 10 |
 | **[Daniel Stowe Conservancy](https://dsbg.org)** | **[Special Events Intern](https://jobright.ai/jobs/info/69b0aec87495006450977221?utm_campaign=1053&utm_source=git)** | Belmont,NC,US | On Site | Mar 10 |
 | **[Fresh Tape Media](http://freshtapemedia.com)** | **[Post-Production Intern](https://jobright.ai/jobs/info/69b05fd4dfaeda6ff59a1db9?utm_campaign=1053&utm_source=git)** | Denver, CO | Hybrid | Mar 10 |
-| **[Andrews McMeel Universal](http://www.amuniversal.com/)** | **[Intern, Calendar Group](https://jobright.ai/jobs/info/69b0b06374950064509774bd?utm_campaign=1053&utm_source=git)** | Kansas City, MO 64106 | Hybrid | Mar 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
