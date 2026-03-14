@@ -57,12 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Mobile Loaves & Fishes](http://mlf.org/)** | **[Property Beautification Intern](https://jobright.ai/jobs/info/69b4787f569738374139504c?utm_campaign=1053&utm_source=git)** | 9116 Hog Eye Road, Austin, TX, USA | On Site | Mar 13 |
 | **[Ohio History Connection](https://www.ohiohistory.org/)** | **[Summer 2026 - Echoes Magazine Internship](https://jobright.ai/jobs/info/69b4759f5697383741394d66?utm_campaign=1053&utm_source=git)** | Columbus, OH | On Site | Mar 13 |
 | **[Westgate Resorts](https://www.westgateresorts.com/)** | **[Resort Activities Host - Summer Paid Internship](https://jobright.ai/jobs/info/69b4756d06c1ba00c545e67b?utm_campaign=1053&utm_source=git)** | Park City, UT | On Site | Mar 13 |
 | **[Ohio History Connection](https://www.ohiohistory.org/)** | **[Summer 2026- America 250-Ohio Commission Public History Internship](https://jobright.ai/jobs/info/69b474583b74eb1e2c81c60c?utm_campaign=1053&utm_source=git)** | Columbus, OH | Hybrid | Mar 13 |
 | **[Marriott Vacations Worldwide](https://www.marriottvacationsworldwide.com/)** | **[Summer 2026 - College Intern - Myrtle Beach, SC (Recreation and Food & Beverage)](https://jobright.ai/jobs/info/69b473b63b74eb1e2c81c525?utm_campaign=1053&utm_source=git)** | Myrtle Beach, SC | On Site | Mar 13 |
+| **[Outlyr](http://eigermarketing.com/)** | **[Event Intern - Meijer LPGA Classic for Simply Give](https://jobright.ai/jobs/info/69b4909b5697383741397673?utm_campaign=1053&utm_source=git)** | Grand Rapids, MI | On Site | Mar 13 |
 | **[City of Kenmore](http://www.kenmorewa.gov)** | **[Special Events Summer Intern](https://jobright.ai/jobs/info/69b46c3c3b74eb1e2c81ad43?utm_campaign=1053&utm_source=git)** | Snohomish, WA | On Site | Mar 13 |
+| **[LV Collective](https://lvcollective.com)** | **[Video Production Intern Summer 2026](https://jobright.ai/jobs/info/69b4993c3b74eb1e2c81f863?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | Mar 13 |
 | **[Marriott Vacations Worldwide](https://www.marriottvacationsworldwide.com/)** | **[Summer 2026 - College Intern - Myrtle Beach, SC (Recreation and Food & Beverage)](https://jobright.ai/jobs/info/69b4683b3b74eb1e2c819e5d?utm_campaign=1053&utm_source=git)** | Marriott's OceanWatch at Grande Dunes | On Site | Mar 13 |
 | ↳ | **[Summer 2026 - College Intern - Myrtle Beach, SC (Recreation and Food & Beverage)](https://jobright.ai/jobs/info/69b467595697383741392717?utm_campaign=1053&utm_source=git)** | Sheraton Broadway Resort | On Site | Mar 13 |
 | **[The Jamestown Foundation](http://www.jamestown.org)** | **[Eurasia Editorial Internship - Summer 2026](https://jobright.ai/jobs/info/69b475745697383741394d1b?utm_campaign=1053&utm_source=git)** | DC-Baltimore Area | On Site | Mar 13 |
@@ -103,8 +104,8 @@ For a complete list, click the following sortable link below:
 | **[HumanKind OS](https://www.linkedin.com/company/109231052)** | **[Video Editor Intern](https://jobright.ai/jobs/info/69b32691ad360c0340a84899?utm_campaign=1053&utm_source=git)** | United States | Remote | Mar 12 |
 | **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69b334c6a8ac8e70ff6774aa?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Mar 12 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69b334c0ad360c0340a858c4?utm_campaign=1053&utm_source=git)** | Greenbrier River, WV | On Site | Mar 12 |
-| ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69b334ebae2a534885ea9c28?utm_campaign=1053&utm_source=git)** | Wichita, KS | On Site | Mar 12 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69b334fdae2a534885ea9c94?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | Mar 12 |
+| ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69b334ebae2a534885ea9c28?utm_campaign=1053&utm_source=git)** | Wichita, KS | On Site | Mar 12 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69b334caad360c0340a858f2?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Mar 12 |
 | **[Golden Hippo®](https://www.huntrealestate.com/)** | **[Video Editor Intern](https://jobright.ai/jobs/info/69b3123bae2a534885ea569c?utm_campaign=1053&utm_source=git)** | Hybrid (Woodland Hills, CA) | Hybrid | Mar 12 |
 | **[Cleveland Browns](http://www.clevelandbrowns.com)** | **[Video Editing and Motion Graphic Animation – Game Production Intern](https://jobright.ai/jobs/info/69b477f73b74eb1e2c81ca6e?utm_campaign=1053&utm_source=git)** | 100 Alfred Lerner Way, Cleveland, OH, USA | On Site | Mar 12 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Temecula City Lifestyle](www.citylifestyle.com/temecula)** | **[Editorial Intern](https://jobright.ai/jobs/info/69b1aaaed04c69566c73f09f?utm_campaign=1053&utm_source=git)** | Temecula, CA | Hybrid | Mar 11 |
 | **[Lincoln Center for the Performing Arts](http://www.lincolncenter.org/)** | **[Intern, Festival Orchestra](https://jobright.ai/jobs/info/69aa34779ca4e908ec658aba?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Mar 11 |
 | **[Omnicom Health](http://www.omnicomhealthgroup.com/)** | **[2026 Bold Beginners - Editorial Intern](https://jobright.ai/jobs/info/69b186e1548f140066e75ea6?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Mar 11 |
-| **[Vistra Corp.](https://vistracorp.com)** | **[Summer Production Intern - Forney Plant](https://jobright.ai/jobs/info/699553b3ce78e77b4fd972cd?utm_campaign=1053&utm_source=git)** | Forney, TX | On Site | Mar 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
