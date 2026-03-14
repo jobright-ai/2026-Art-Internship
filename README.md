@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hustle Magazine](www.thehustlemagazine.com)** | **[Editorial Intern](https://jobright.ai/jobs/info/69b5ae6f3b74eb1e2c837c11?utm_campaign=1053&utm_source=git)** | New York, NY | Remote | Mar 14 |
 | **[Westgate Resorts](https://www.westgateresorts.com/)** | **[Resort Activities Host - Summer Paid Internship](https://jobright.ai/jobs/info/69b5a4593b74eb1e2c8375c2?utm_campaign=1053&utm_source=git)** | Park City, UT | On Site | Mar 14 |
 | **[AEG](http://www.aegworldwide.com)** | **[Summer Intern, Broadcast - Dignity Health Sports Park](https://jobright.ai/jobs/info/699e3a1fce78e77b4fe34e3c?utm_campaign=1053&utm_source=git)** | Carson, CA | On Site | Mar 14 |
 | **[WAVY-TV 10](http://wavy.com)** | **[WAVY Unpaid Hampton Roads Show/Production Intern, Summer Semester 2026](https://jobright.ai/jobs/info/6943644f50bbaf7650554c0f?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Mar 14 |
@@ -79,8 +80,7 @@ For a complete list, click the following sortable link below:
 | **[Omni Hotels & Resorts](http://www.omnihotels.com/)** | **[J1 International Internship/ Pastry](https://jobright.ai/jobs/info/69b4c1ca06c1ba00c5464002?utm_campaign=1053&utm_source=git)** | The Omni Grove Park Inn, 290 Macon Ave, Asheville, North Carolina, United States of America | On Site | Mar 13 |
 | **[Wasserman](http://www.teamwass.com)** | **[Summer 2026 Internship - Intern, Golf](https://jobright.ai/jobs/info/69b4a08a56973837413983f8?utm_campaign=1053&utm_source=git)** | CAN - Toronto Office (Hanna Avenue) | Hybrid | Mar 13 |
 | **[Ohio History Connection](https://www.ohiohistory.org/)** | **[Summer 2026 - Echoes Magazine Internship](https://jobright.ai/jobs/info/69b4759f5697383741394d66?utm_campaign=1053&utm_source=git)** | Columbus, OH | On Site | Mar 13 |
-| **[Westgate Resorts](https://www.westgateresorts.com/)** | **[Resort Activities Host - Summer Paid Internship](https://jobright.ai/jobs/info/69b4756d06c1ba00c545e67b?utm_campaign=1053&utm_source=git)** | Park City, UT | On Site | Mar 13 |
-| **[Ohio History Connection](https://www.ohiohistory.org/)** | **[Summer 2026- America 250-Ohio Commission Public History Internship](https://jobright.ai/jobs/info/69b474583b74eb1e2c81c60c?utm_campaign=1053&utm_source=git)** | Columbus, OH | Hybrid | Mar 13 |
+| ↳ | **[Summer 2026- America 250-Ohio Commission Public History Internship](https://jobright.ai/jobs/info/69b474583b74eb1e2c81c60c?utm_campaign=1053&utm_source=git)** | Columbus, OH | Hybrid | Mar 13 |
 | **[Marriott Vacations Worldwide](https://www.marriottvacationsworldwide.com/)** | **[Summer 2026 - College Intern - Myrtle Beach, SC (Recreation and Food & Beverage)](https://jobright.ai/jobs/info/69b473b63b74eb1e2c81c525?utm_campaign=1053&utm_source=git)** | Myrtle Beach, SC | On Site | Mar 13 |
 | **[Outlyr](http://eigermarketing.com/)** | **[Event Intern - Meijer LPGA Classic for Simply Give](https://jobright.ai/jobs/info/69b4909b5697383741397673?utm_campaign=1053&utm_source=git)** | Grand Rapids, MI | On Site | Mar 13 |
 | **[City of Kenmore](http://www.kenmorewa.gov)** | **[Special Events Summer Intern](https://jobright.ai/jobs/info/69b46c3c3b74eb1e2c81ad43?utm_campaign=1053&utm_source=git)** | Snohomish, WA | On Site | Mar 13 |
