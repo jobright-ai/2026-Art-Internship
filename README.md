@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[WAVY-TV 10](http://wavy.com)** | **[WAVY Unpaid Hampton Roads Show/Production Intern, Summer Semester 2026](https://jobright.ai/jobs/info/6943644f50bbaf7650554c0f?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Mar 14 |
+| **[NYU Langone Health](https://nyulangone.org/)** | **[Student Intern](https://jobright.ai/jobs/info/69983bd5e0bddb6acac74f21?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Mar 14 |
 | **[Steve Madden](http://www.stevemadden.com)** | **[Intern - Production, Handbags - NYC](https://jobright.ai/jobs/info/69b53aae56973837413a669c?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Mar 14 |
 | **[Advisors Excel](http://advisorsexcel.com)** | **[Copy Editor Intern](https://jobright.ai/jobs/info/690ac9914a1b456627b0b5c8?utm_campaign=1053&utm_source=git)** | Topeka Metropolitan Area | On Site | Mar 14 |
 | **[GBH](http://www.wgbh.org/)** | **[GBH Archives Internship - Summer 2026 (AAPB Exhibit Curator)](https://jobright.ai/jobs/info/69b37ce3a8ac8e70ff67c328?utm_campaign=1053&utm_source=git)** | Boston, MA | Remote | Mar 14 |
@@ -86,6 +88,7 @@ For a complete list, click the following sortable link below:
 | **[Mobile Loaves & Fishes](http://mlf.org/)** | **[Property Beautification Intern](https://jobright.ai/jobs/info/69b4c9f9569738374139b87f?utm_campaign=1053&utm_source=git)** | 9116 Hog Eye Road, Austin, TX, USA | On Site | Mar 13 |
 | **[The Jamestown Foundation](http://www.jamestown.org)** | **[Eurasia Editorial Internship - Summer 2026](https://jobright.ai/jobs/info/69b475745697383741394d1b?utm_campaign=1053&utm_source=git)** | DC-Baltimore Area | On Site | Mar 13 |
 | **[Legarza Sports and More](https://www.legarzasports.org)** | **[Summer Intern - Sports Management Events](https://jobright.ai/jobs/info/69b44bd7569738374138f9cf?utm_campaign=1053&utm_source=git)** | San Francisco Bay Area | On Site | Mar 13 |
+| **[True Grit Management](https://truegritmanagement.com/)** | **[Artist Management Intern](https://jobright.ai/jobs/info/69b54e5456973837413a6eca?utm_campaign=1053&utm_source=git)** | United States | Remote | Mar 13 |
 | **[BuildingGreen](https://www.buildinggreen.com/)** | **[Editorial Intern, Sustainability](https://jobright.ai/jobs/info/69b44a6b569738374138f66f?utm_campaign=1053&utm_source=git)** | United States | Remote | Mar 13 |
 | **[Indiana University](https://www.iu.edu)** | **[Part Time Student Content Intern](https://jobright.ai/jobs/info/69b430da06c1ba00c54568cc?utm_campaign=1053&utm_source=git)** | Bloomington, IN | On Site | Mar 13 |
 | ↳ | **[Michael A. McRobbie University Collections Intern](https://jobright.ai/jobs/info/69b430d806c1ba00c54568bd?utm_campaign=1053&utm_source=git)** | Bloomington, IN | On Site | Mar 13 |
@@ -120,11 +123,11 @@ For a complete list, click the following sortable link below:
 | **[The Daily Beast](http://www.thedailybeast.com)** | **[Editorial Intern](https://jobright.ai/jobs/info/69b32d02ad360c0340a85226?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Mar 12 |
 | **[Gen](https://www.gendigital.com)** | **[Editorial Intern](https://jobright.ai/jobs/info/69b32b84ad360c0340a84dc0?utm_campaign=1053&utm_source=git)** | USA - New York, New York | On Site | Mar 12 |
 | **[Basement Digital](www.basement-digital.com)** | **[Summer Internship - Digital Content Production (Paid)](https://jobright.ai/jobs/info/69b40a5106c1ba00c5452d69?utm_campaign=1053&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Mar 12 |
-| **[HumanKind OS](https://www.linkedin.com/company/109231052)** | **[Video Editor Intern](https://jobright.ai/jobs/info/69b32691ad360c0340a84899?utm_campaign=1053&utm_source=git)** | United States | Remote | Mar 12 |
 | **[Golden Hippo®](https://www.huntrealestate.com/)** | **[Video Editor Intern](https://jobright.ai/jobs/info/69b3218ea8ac8e70ff674f97?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | Mar 12 |
+| **[HumanKind OS](https://www.linkedin.com/company/109231052)** | **[Video Editor Intern](https://jobright.ai/jobs/info/69b32691ad360c0340a84899?utm_campaign=1053&utm_source=git)** | United States | Remote | Mar 12 |
 | **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69b334c6a8ac8e70ff6774aa?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Mar 12 |
-| ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69b334ebae2a534885ea9c28?utm_campaign=1053&utm_source=git)** | Wichita, KS | On Site | Mar 12 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69b334fdae2a534885ea9c94?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | Mar 12 |
+| ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69b334ebae2a534885ea9c28?utm_campaign=1053&utm_source=git)** | Wichita, KS | On Site | Mar 12 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69b334c0ad360c0340a858c4?utm_campaign=1053&utm_source=git)** | Greenbrier River, WV | On Site | Mar 12 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69b334caad360c0340a858f2?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Mar 12 |
 | **[Golden Hippo®](https://www.huntrealestate.com/)** | **[Video Editor Intern](https://jobright.ai/jobs/info/69b3123bae2a534885ea569c?utm_campaign=1053&utm_source=git)** | Hybrid (Woodland Hills, CA) | Hybrid | Mar 12 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Northern California Golf Association and Poppy Holding Inc.](https://www.ncga.org/)** | **[PJ Boatwright Intern - Golf Course Maintenance (Poppy Hills)](https://jobright.ai/jobs/info/69b21c25548f140066e858fa?utm_campaign=1053&utm_source=git)** | Pebble Beach,CA,US | On Site | Mar 11 |
 | **[American Oversight](https://www.americanoversight.org/)** | **[Summer Editorial Intern](https://jobright.ai/jobs/info/69b21ab5548f140066e8537f?utm_campaign=1053&utm_source=git)** | Washington, DC | Remote | Mar 11 |
 | **[Saks Global](https://www.saksglobal.com)** | **[Alterations Internship](https://jobright.ai/jobs/info/69b2e69ead360c0340a7f491?utm_campaign=1053&utm_source=git)** | Prussia, IA | On Site | Mar 11 |
-| **[Central Minnesota Jobs and Training Services, Inc.](https://www.cmjts.org/)** | **[Video Content Creator - Apple Valley](https://jobright.ai/jobs/info/69b334c1ad360c0340a858ca?utm_campaign=1053&utm_source=git)** | Minnesota, United States | On Site | Mar 11 |
-| **[NESN](http://nesn.com)** | **[Studio Operations Intern](https://jobright.ai/jobs/info/69b2fb50ae2a534885ea44e6?utm_campaign=1053&utm_source=git)** | Watertown, MA | On Site | Mar 11 |
-| **[City of Kenmore](http://www.kenmorewa.gov)** | **[College Intern - Special Events for the City of Kenmore](https://jobright.ai/jobs/info/69b221ea548f140066e85d67?utm_campaign=1053&utm_source=git)** | Kenmore, WA, United States | On Site | Mar 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
