@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[State of South Dakota](https://doh.sd.gov/)** | **[Intern - SDPB Journalism (Summer)](https://jobright.ai/jobs/info/69b4b2cf5697383741398d24?utm_campaign=1053&utm_source=git)** | Sioux Falls, SD | On Site | Mar 13 |
+| ↳ | **[Intern - SDPB Media Production (Summer)](https://jobright.ai/jobs/info/69b4b2b63b74eb1e2c8205ba?utm_campaign=1053&utm_source=git)** | Vermillion, SD | On Site | Mar 13 |
+| **[Public Media Network](http://www.publicmedianet.org)** | **[Public Media Network Internship Program Summer 2026](https://jobright.ai/jobs/info/69b4ae6f3b74eb1e2c820426?utm_campaign=1053&utm_source=git)** | Kalamazoo, MI | On Site | Mar 13 |
+| **[Wasserman](http://www.teamwass.com)** | **[Summer 2026 Internship - Intern, Golf](https://jobright.ai/jobs/info/69b4a08a56973837413983f8?utm_campaign=1053&utm_source=git)** | CAN - Toronto Office (Hanna Avenue) | Hybrid | Mar 13 |
 | **[Ohio History Connection](https://www.ohiohistory.org/)** | **[Summer 2026 - Echoes Magazine Internship](https://jobright.ai/jobs/info/69b4759f5697383741394d66?utm_campaign=1053&utm_source=git)** | Columbus, OH | On Site | Mar 13 |
 | **[Westgate Resorts](https://www.westgateresorts.com/)** | **[Resort Activities Host - Summer Paid Internship](https://jobright.ai/jobs/info/69b4756d06c1ba00c545e67b?utm_campaign=1053&utm_source=git)** | Park City, UT | On Site | Mar 13 |
 | **[Ohio History Connection](https://www.ohiohistory.org/)** | **[Summer 2026- America 250-Ohio Commission Public History Internship](https://jobright.ai/jobs/info/69b474583b74eb1e2c81c60c?utm_campaign=1053&utm_source=git)** | Columbus, OH | Hybrid | Mar 13 |
@@ -97,15 +101,16 @@ For a complete list, click the following sortable link below:
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[WDI Special Effects Intern, Orlando, Summer/Fall 2026](https://jobright.ai/jobs/info/69b3355aad360c0340a85b0f?utm_campaign=1053&utm_source=git)** | Lake Buena Vista, FL, USA | Hybrid | Mar 12 |
 | **[ASU Foundation for a New American University](http://www.asufoundation.org/)** | **[Summer intern, NEWSWELL Times of San Diego](https://jobright.ai/jobs/info/69b33543ad360c0340a85a65?utm_campaign=1053&utm_source=git)** | San Diego, CA | On Site | Mar 12 |
 | **[Mediabistro](https://www.mediabistro.com)** | **[Editorial Intern](https://jobright.ai/jobs/info/69b334d7ad360c0340a8592e?utm_campaign=1053&utm_source=git)** | New York, NY | Remote | Mar 12 |
+| **[Solidigm](https://www.solidigmtechnology.com)** | **[Intern Experience & Engagement Intern](https://jobright.ai/jobs/info/6994c7cb81476f6176ac977c?utm_campaign=1053&utm_source=git)** | Rancho Cordova, CA | On Site | Mar 12 |
 | **[The Daily Beast](http://www.thedailybeast.com)** | **[Editorial Intern](https://jobright.ai/jobs/info/69b32d02ad360c0340a85226?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Mar 12 |
 | **[Gen](https://www.gendigital.com)** | **[Editorial Intern](https://jobright.ai/jobs/info/69b32b84ad360c0340a84dc0?utm_campaign=1053&utm_source=git)** | USA - New York, New York | On Site | Mar 12 |
 | **[Basement Digital](www.basement-digital.com)** | **[Summer Internship - Digital Content Production (Paid)](https://jobright.ai/jobs/info/69b40a5106c1ba00c5452d69?utm_campaign=1053&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Mar 12 |
 | **[Golden Hippo®](https://www.huntrealestate.com/)** | **[Video Editor Intern](https://jobright.ai/jobs/info/69b3218ea8ac8e70ff674f97?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | Mar 12 |
 | **[HumanKind OS](https://www.linkedin.com/company/109231052)** | **[Video Editor Intern](https://jobright.ai/jobs/info/69b32691ad360c0340a84899?utm_campaign=1053&utm_source=git)** | United States | Remote | Mar 12 |
 | **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69b334c6a8ac8e70ff6774aa?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Mar 12 |
-| ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69b334c0ad360c0340a858c4?utm_campaign=1053&utm_source=git)** | Greenbrier River, WV | On Site | Mar 12 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69b334fdae2a534885ea9c94?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | Mar 12 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69b334ebae2a534885ea9c28?utm_campaign=1053&utm_source=git)** | Wichita, KS | On Site | Mar 12 |
+| ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69b334c0ad360c0340a858c4?utm_campaign=1053&utm_source=git)** | Greenbrier River, WV | On Site | Mar 12 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69b334caad360c0340a858f2?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Mar 12 |
 | **[Golden Hippo®](https://www.huntrealestate.com/)** | **[Video Editor Intern](https://jobright.ai/jobs/info/69b3123bae2a534885ea569c?utm_campaign=1053&utm_source=git)** | Hybrid (Woodland Hills, CA) | Hybrid | Mar 12 |
 | **[Cleveland Browns](http://www.clevelandbrowns.com)** | **[Video Editing and Motion Graphic Animation – Game Production Intern](https://jobright.ai/jobs/info/69b477f73b74eb1e2c81ca6e?utm_campaign=1053&utm_source=git)** | 100 Alfred Lerner Way, Cleveland, OH, USA | On Site | Mar 12 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Gray Media](https://graymedia.com)** | **[GRAY MEDIA FUTURE FOCUS INTERN FALL '26 - KYTV/KSPR](https://jobright.ai/jobs/info/69b1c295548f140066e78695?utm_campaign=1053&utm_source=git)** | Springfield, Missouri, United States | On Site | Mar 11 |
 | ↳ | **[WIS NEWSROOM "CRAIG MELVIN INTERNSHIP" SUMMER '26 - WIS-TV](https://jobright.ai/jobs/info/69b1c29065de58104c70bf3d?utm_campaign=1053&utm_source=git)** | Columbia, South Carolina, United States | On Site | Mar 11 |
 | **[Koniag Government Services](https://www.koniag-gs.com/)** | **[Intern - Proposal Editor](https://jobright.ai/jobs/info/69b1c074548f140066e7840f?utm_campaign=1053&utm_source=git)** | Chantilly, VA | Remote | Mar 11 |
-| **[Koniag](https://www.koniag.com)** | **[Intern - Proposal Editor](https://jobright.ai/jobs/info/69b1ff8565de58104c716f59?utm_campaign=1053&utm_source=git)** | Chantilly, VA, USA | Remote | Mar 11 |
-| **[WLEX-TV](http://lex18.com)** | **[Sports MMJ Intern (SUMMER) WLEX](https://jobright.ai/jobs/info/69a69005708b430a607af3c3?utm_campaign=1053&utm_source=git)** | Lexington, KY | On Site | Mar 11 |
-| **[Temecula City Lifestyle](www.citylifestyle.com/temecula)** | **[Editorial Intern](https://jobright.ai/jobs/info/69b1aaaed04c69566c73f09f?utm_campaign=1053&utm_source=git)** | Temecula, CA | Hybrid | Mar 11 |
-| **[Lincoln Center for the Performing Arts](http://www.lincolncenter.org/)** | **[Intern, Festival Orchestra](https://jobright.ai/jobs/info/69aa34779ca4e908ec658aba?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Mar 11 |
-| **[Omnicom Health](http://www.omnicomhealthgroup.com/)** | **[2026 Bold Beginners - Editorial Intern](https://jobright.ai/jobs/info/69b186e1548f140066e75ea6?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Mar 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
