@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Westgate Resorts](https://www.westgateresorts.com/)** | **[Resort Activities Host - Summer Paid Internship](https://jobright.ai/jobs/info/69b5a4593b74eb1e2c8375c2?utm_campaign=1053&utm_source=git)** | Park City, UT | On Site | Mar 14 |
 | **[AEG](http://www.aegworldwide.com)** | **[Summer Intern, Broadcast - Dignity Health Sports Park](https://jobright.ai/jobs/info/699e3a1fce78e77b4fe34e3c?utm_campaign=1053&utm_source=git)** | Carson, CA | On Site | Mar 14 |
 | **[WAVY-TV 10](http://wavy.com)** | **[WAVY Unpaid Hampton Roads Show/Production Intern, Summer Semester 2026](https://jobright.ai/jobs/info/6943644f50bbaf7650554c0f?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Mar 14 |
 | **[NYU Langone Health](https://nyulangone.org/)** | **[Student Intern](https://jobright.ai/jobs/info/69983bd5e0bddb6acac74f21?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Mar 14 |
@@ -89,7 +90,6 @@ For a complete list, click the following sortable link below:
 | **[Mobile Loaves & Fishes](http://mlf.org/)** | **[Property Beautification Intern](https://jobright.ai/jobs/info/69b4c9f9569738374139b87f?utm_campaign=1053&utm_source=git)** | 9116 Hog Eye Road, Austin, TX, USA | On Site | Mar 13 |
 | **[The Jamestown Foundation](http://www.jamestown.org)** | **[Eurasia Editorial Internship - Summer 2026](https://jobright.ai/jobs/info/69b475745697383741394d1b?utm_campaign=1053&utm_source=git)** | DC-Baltimore Area | On Site | Mar 13 |
 | **[Legarza Sports and More](https://www.legarzasports.org)** | **[Summer Intern - Sports Management Events](https://jobright.ai/jobs/info/69b44bd7569738374138f9cf?utm_campaign=1053&utm_source=git)** | San Francisco Bay Area | On Site | Mar 13 |
-| **[True Grit Management](https://truegritmanagement.com/)** | **[Artist Management Intern](https://jobright.ai/jobs/info/69b54e5456973837413a6eca?utm_campaign=1053&utm_source=git)** | United States | Remote | Mar 13 |
 | **[BuildingGreen](https://www.buildinggreen.com/)** | **[Editorial Intern, Sustainability](https://jobright.ai/jobs/info/69b44a6b569738374138f66f?utm_campaign=1053&utm_source=git)** | United States | Remote | Mar 13 |
 | **[Indiana University](https://www.iu.edu)** | **[Part Time Student Content Intern](https://jobright.ai/jobs/info/69b430da06c1ba00c54568cc?utm_campaign=1053&utm_source=git)** | Bloomington, IN | On Site | Mar 13 |
 | ↳ | **[Michael A. McRobbie University Collections Intern](https://jobright.ai/jobs/info/69b430d806c1ba00c54568bd?utm_campaign=1053&utm_source=git)** | Bloomington, IN | On Site | Mar 13 |
@@ -125,9 +125,9 @@ For a complete list, click the following sortable link below:
 | **[Golden Hippo®](https://www.huntrealestate.com/)** | **[Video Editor Intern](https://jobright.ai/jobs/info/69b3218ea8ac8e70ff674f97?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | Mar 12 |
 | **[HumanKind OS](https://www.linkedin.com/company/109231052)** | **[Video Editor Intern](https://jobright.ai/jobs/info/69b32691ad360c0340a84899?utm_campaign=1053&utm_source=git)** | United States | Remote | Mar 12 |
 | **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69b334c6a8ac8e70ff6774aa?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Mar 12 |
+| ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69b334c0ad360c0340a858c4?utm_campaign=1053&utm_source=git)** | Greenbrier River, WV | On Site | Mar 12 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69b334ebae2a534885ea9c28?utm_campaign=1053&utm_source=git)** | Wichita, KS | On Site | Mar 12 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69b334fdae2a534885ea9c94?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | Mar 12 |
-| ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69b334c0ad360c0340a858c4?utm_campaign=1053&utm_source=git)** | Greenbrier River, WV | On Site | Mar 12 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69b334caad360c0340a858f2?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Mar 12 |
 | **[Golden Hippo®](https://www.huntrealestate.com/)** | **[Video Editor Intern](https://jobright.ai/jobs/info/69b3123bae2a534885ea569c?utm_campaign=1053&utm_source=git)** | Hybrid (Woodland Hills, CA) | Hybrid | Mar 12 |
 | **[1st Due Products](www.1stdueproducts.com)** | **[Video intern](https://jobright.ai/jobs/info/69b4eee556973837413a0048?utm_campaign=1053&utm_source=git)** | Boca Raton, FL | On Site | Mar 12 |
