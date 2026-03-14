@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Steve Madden](http://www.stevemadden.com)** | **[Intern - Production, Handbags - NYC](https://jobright.ai/jobs/info/69b53aae56973837413a669c?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Mar 14 |
+| **[Advisors Excel](http://advisorsexcel.com)** | **[Copy Editor Intern](https://jobright.ai/jobs/info/690ac9914a1b456627b0b5c8?utm_campaign=1053&utm_source=git)** | Topeka Metropolitan Area | On Site | Mar 14 |
 | **[GBH](http://www.wgbh.org/)** | **[GBH Archives Internship - Summer 2026 (AAPB Exhibit Curator)](https://jobright.ai/jobs/info/69b37ce3a8ac8e70ff67c328?utm_campaign=1053&utm_source=git)** | Boston, MA | Remote | Mar 14 |
 | ↳ | **[Antiques Roadshow Internship - Summer 2026](https://jobright.ai/jobs/info/69a55af5b600907a962b05f8?utm_campaign=1053&utm_source=git)** | United States | Remote | Mar 14 |
 | **[For Stars Network](www.forstarsnetwork.com)** | **[Summer Media Intern](https://jobright.ai/jobs/info/69b4f2573b74eb1e2c826df3?utm_campaign=1053&utm_source=git)** | Newport Beach, CA | Hybrid | Mar 13 |
@@ -121,8 +123,8 @@ For a complete list, click the following sortable link below:
 | **[HumanKind OS](https://www.linkedin.com/company/109231052)** | **[Video Editor Intern](https://jobright.ai/jobs/info/69b32691ad360c0340a84899?utm_campaign=1053&utm_source=git)** | United States | Remote | Mar 12 |
 | **[Golden Hippo®](https://www.huntrealestate.com/)** | **[Video Editor Intern](https://jobright.ai/jobs/info/69b3218ea8ac8e70ff674f97?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | Mar 12 |
 | **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69b334c6a8ac8e70ff6774aa?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Mar 12 |
-| ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69b334fdae2a534885ea9c94?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | Mar 12 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69b334ebae2a534885ea9c28?utm_campaign=1053&utm_source=git)** | Wichita, KS | On Site | Mar 12 |
+| ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69b334fdae2a534885ea9c94?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | Mar 12 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69b334c0ad360c0340a858c4?utm_campaign=1053&utm_source=git)** | Greenbrier River, WV | On Site | Mar 12 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69b334caad360c0340a858f2?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Mar 12 |
 | **[Golden Hippo®](https://www.huntrealestate.com/)** | **[Video Editor Intern](https://jobright.ai/jobs/info/69b3123bae2a534885ea569c?utm_campaign=1053&utm_source=git)** | Hybrid (Woodland Hills, CA) | Hybrid | Mar 12 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Central Minnesota Jobs and Training Services, Inc.](https://www.cmjts.org/)** | **[Video Content Creator - Apple Valley](https://jobright.ai/jobs/info/69b334c1ad360c0340a858ca?utm_campaign=1053&utm_source=git)** | Minnesota, United States | On Site | Mar 11 |
 | **[NESN](http://nesn.com)** | **[Studio Operations Intern](https://jobright.ai/jobs/info/69b2fb50ae2a534885ea44e6?utm_campaign=1053&utm_source=git)** | Watertown, MA | On Site | Mar 11 |
 | **[City of Kenmore](http://www.kenmorewa.gov)** | **[College Intern - Special Events for the City of Kenmore](https://jobright.ai/jobs/info/69b221ea548f140066e85d67?utm_campaign=1053&utm_source=git)** | Kenmore, WA, United States | On Site | Mar 11 |
-| **[Southern Alberta Institute of Technology (SAIT)](https://www.sait.ca/)** | **[Film & Video Production, Co-op Student](https://jobright.ai/jobs/info/69b1ff0265de58104c716e0d?utm_campaign=1053&utm_source=git)** | Greater Calgary Metropolitan Area | On Site | Mar 11 |
-| **[Hearst Newspapers](https://eevd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_15)** | **[Fall News Intern](https://jobright.ai/jobs/info/69b1fc56d04c69566c74a11d?utm_campaign=1053&utm_source=git)** | 400 Ardmore Blvd, Pittsburgh, PA, 15221, US | On Site | Mar 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
