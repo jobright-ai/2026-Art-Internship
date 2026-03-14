@@ -57,12 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Creative Funding Agency](https://www.creativefundingagency.com/agency)** | **[Film Development Intern](https://jobright.ai/jobs/info/69b5df8406c1ba00c547c883?utm_campaign=1053&utm_source=git)** | Beverly Hills, CA | Hybrid | Mar 14 |
+| **[KUTV 2News / KMYU](http://kutv.com/)** | **[Intern - Studio Crew](https://jobright.ai/jobs/info/69b5d9d056973837413b383e?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Mar 14 |
 | **[Westgate Resorts](https://www.westgateresorts.com/)** | **[Resort Activities Host - Summer Internship](https://jobright.ai/jobs/info/69b5ce703b74eb1e2c839a85?utm_campaign=1053&utm_source=git)** | Park City, UT | On Site | Mar 14 |
 | **[Kalamazoo Growlers](http://northwoodsleague.com/kalamazoo-growlers/)** | **[Videoboard Show Director Internship](https://jobright.ai/jobs/info/69b5ccc756973837413b2dde?utm_campaign=1053&utm_source=git)** | Kalamazoo, MI | On Site | Mar 14 |
 | **[REVOLVE](https://www.revolve.com/)** | **[RVLV/FWRD Styling Intern](https://jobright.ai/jobs/info/69b5cb8d56973837413b2cd7?utm_campaign=1053&utm_source=git)** | California-Studio, Cerritos, CA, US | On Site | Mar 14 |
 | ↳ | **[Studio Production Intern](https://jobright.ai/jobs/info/69b5cb8a3b74eb1e2c839938?utm_campaign=1053&utm_source=git)** | Cerritos, CA, US | On Site | Mar 14 |
 | ↳ | **[Studio Production Intern](https://jobright.ai/jobs/info/69b5c3823b74eb1e2c839710?utm_campaign=1053&utm_source=git)** | Cerritos, CA | On Site | Mar 14 |
 | **[Cleveland Browns](http://www.clevelandbrowns.com)** | **[Video Editing and Motion Graphic Animation – Game Production Intern](https://jobright.ai/jobs/info/69b5c17206c1ba00c547b8c9?utm_campaign=1053&utm_source=git)** | Cleveland, OH | On Site | Mar 14 |
+| **[Westgate Resorts](https://www.westgateresorts.com/)** | **[Resort Activities Host - Summer Internship](https://jobright.ai/jobs/info/69b5b3b43b74eb1e2c8380c9?utm_campaign=1053&utm_source=git)** | Park City, UT | On Site | Mar 14 |
 | **[AEG](http://www.aegworldwide.com)** | **[Summer Intern, Broadcast - Dignity Health Sports Park](https://jobright.ai/jobs/info/699e3a1fce78e77b4fe34e3c?utm_campaign=1053&utm_source=git)** | Carson, CA | On Site | Mar 14 |
 | **[WAVY-TV 10](http://wavy.com)** | **[WAVY Unpaid Hampton Roads Show/Production Intern, Summer Semester 2026](https://jobright.ai/jobs/info/6943644f50bbaf7650554c0f?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Mar 14 |
 | **[NYU Langone Health](https://nyulangone.org/)** | **[Student Intern](https://jobright.ai/jobs/info/69983bd5e0bddb6acac74f21?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Mar 14 |
@@ -70,7 +73,6 @@ For a complete list, click the following sortable link below:
 | **[Advisors Excel](http://advisorsexcel.com)** | **[Copy Editor Intern](https://jobright.ai/jobs/info/690ac9914a1b456627b0b5c8?utm_campaign=1053&utm_source=git)** | Topeka Metropolitan Area | On Site | Mar 14 |
 | **[GBH](http://www.wgbh.org/)** | **[GBH Archives Internship - Summer 2026 (AAPB Exhibit Curator)](https://jobright.ai/jobs/info/69b37ce3a8ac8e70ff67c328?utm_campaign=1053&utm_source=git)** | Boston, MA | Remote | Mar 14 |
 | ↳ | **[Antiques Roadshow Internship - Summer 2026](https://jobright.ai/jobs/info/69a55af5b600907a962b05f8?utm_campaign=1053&utm_source=git)** | United States | Remote | Mar 14 |
-| **[For Stars Network](www.forstarsnetwork.com)** | **[Summer Media Intern](https://jobright.ai/jobs/info/69b4f2573b74eb1e2c826df3?utm_campaign=1053&utm_source=git)** | Newport Beach, CA | Hybrid | Mar 13 |
 | **[New York Post](http://nypost.com/)** | **[Decider Features Intern](https://jobright.ai/jobs/info/69a712e62672cb0acb4b7b13?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Mar 13 |
 | **[Omnicom Health](http://www.omnicomhealthgroup.com/)** | **[2026 Bold Beginners - Editorial Intern](https://jobright.ai/jobs/info/69b186e1548f140066e75ea6?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Mar 13 |
 | **[Omni Hotels & Resorts](http://www.omnihotels.com/)** | **[J1 International Internship / Culinary](https://jobright.ai/jobs/info/69b4ca8c569738374139b962?utm_campaign=1053&utm_source=git)** | Asheville, NC | On Site | Mar 13 |
@@ -129,9 +131,9 @@ For a complete list, click the following sortable link below:
 | **[Golden Hippo®](https://www.huntrealestate.com/)** | **[Video Editor Intern](https://jobright.ai/jobs/info/69b3218ea8ac8e70ff674f97?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | Mar 12 |
 | **[HumanKind OS](https://www.linkedin.com/company/109231052)** | **[Video Editor Intern](https://jobright.ai/jobs/info/69b32691ad360c0340a84899?utm_campaign=1053&utm_source=git)** | United States | Remote | Mar 12 |
 | **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69b334c6a8ac8e70ff6774aa?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Mar 12 |
-| ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69b334c0ad360c0340a858c4?utm_campaign=1053&utm_source=git)** | Greenbrier River, WV | On Site | Mar 12 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69b334ebae2a534885ea9c28?utm_campaign=1053&utm_source=git)** | Wichita, KS | On Site | Mar 12 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69b334fdae2a534885ea9c94?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | Mar 12 |
+| ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69b334c0ad360c0340a858c4?utm_campaign=1053&utm_source=git)** | Greenbrier River, WV | On Site | Mar 12 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69b334caad360c0340a858f2?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Mar 12 |
 | **[Golden Hippo®](https://www.huntrealestate.com/)** | **[Video Editor Intern](https://jobright.ai/jobs/info/69b3123bae2a534885ea569c?utm_campaign=1053&utm_source=git)** | Hybrid (Woodland Hills, CA) | Hybrid | Mar 12 |
 | **[1st Due Products](www.1stdueproducts.com)** | **[Video intern](https://jobright.ai/jobs/info/69b4eee556973837413a0048?utm_campaign=1053&utm_source=git)** | Boca Raton, FL | On Site | Mar 12 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Jupitrr AI](https://jupitrr.com/?ref=betalist)** | **[Video & Content Intern](https://jobright.ai/jobs/info/69b2cc93a8ac8e70ff66d607?utm_campaign=1053&utm_source=git)** | Vancouver, British Columbia, Canada | Hybrid | Mar 12 |
 | **[Louis Vuitton](http://www.louisvuitton.com)** | **[VIP & Influencer Intern - 2026](https://jobright.ai/jobs/info/69b5201306c1ba00c546de72?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Mar 12 |
 | **[Premier Lacrosse League](https://www.premierlacrosseleague.com/)** | **[Fan Experience Intern, Guest Services](https://jobright.ai/jobs/info/69b23055548f140066e86c71?utm_campaign=1053&utm_source=git)** | United States | Remote | Mar 11 |
-| **[West End Strategy Team](https://westendstrategy.com)** | **[Paid Summer Intern](https://jobright.ai/jobs/info/69b2286265de58104c719e98?utm_campaign=1053&utm_source=git)** | Washington, District of Columbia, United States | Hybrid | Mar 11 |
-| **[WTAE Hearst Pittsburgh](https://www.hearstpittsburgh.com)** | **[Summer News Intern](https://jobright.ai/jobs/info/69b22553d04c69566c74d91b?utm_campaign=1053&utm_source=git)** | Pittsburgh, PA | On Site | Mar 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
