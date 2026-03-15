@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BRIDGE SHOWROOM](http://www.bridgeshowroom.com)** | **[Fashion internship in Dallas FIG](https://jobright.ai/jobs/info/69b5f3713b74eb1e2c83a9dc?utm_campaign=1053&utm_source=git)** | Dallas, TX | On Site | Mar 14 |
 | **[Creative Funding Agency](https://www.creativefundingagency.com/agency)** | **[Film Development Intern](https://jobright.ai/jobs/info/69b5df8406c1ba00c547c883?utm_campaign=1053&utm_source=git)** | Beverly Hills, CA | Hybrid | Mar 14 |
 | **[KUTV 2News / KMYU](http://kutv.com/)** | **[Intern - Studio Crew](https://jobright.ai/jobs/info/69b5d9d056973837413b383e?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Mar 14 |
 | **[Westgate Resorts](https://www.westgateresorts.com/)** | **[Resort Activities Host - Summer Internship](https://jobright.ai/jobs/info/69b5ce703b74eb1e2c839a85?utm_campaign=1053&utm_source=git)** | Park City, UT | On Site | Mar 14 |
@@ -131,9 +132,9 @@ For a complete list, click the following sortable link below:
 | **[Golden Hippo®](https://www.huntrealestate.com/)** | **[Video Editor Intern](https://jobright.ai/jobs/info/69b3218ea8ac8e70ff674f97?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | Mar 12 |
 | **[HumanKind OS](https://www.linkedin.com/company/109231052)** | **[Video Editor Intern](https://jobright.ai/jobs/info/69b32691ad360c0340a84899?utm_campaign=1053&utm_source=git)** | United States | Remote | Mar 12 |
 | **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69b334c6a8ac8e70ff6774aa?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Mar 12 |
+| ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69b334c0ad360c0340a858c4?utm_campaign=1053&utm_source=git)** | Greenbrier River, WV | On Site | Mar 12 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69b334ebae2a534885ea9c28?utm_campaign=1053&utm_source=git)** | Wichita, KS | On Site | Mar 12 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69b334fdae2a534885ea9c94?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | Mar 12 |
-| ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69b334c0ad360c0340a858c4?utm_campaign=1053&utm_source=git)** | Greenbrier River, WV | On Site | Mar 12 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69b334caad360c0340a858f2?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Mar 12 |
 | **[Golden Hippo®](https://www.huntrealestate.com/)** | **[Video Editor Intern](https://jobright.ai/jobs/info/69b3123bae2a534885ea569c?utm_campaign=1053&utm_source=git)** | Hybrid (Woodland Hills, CA) | Hybrid | Mar 12 |
 | **[1st Due Products](www.1stdueproducts.com)** | **[Video intern](https://jobright.ai/jobs/info/69b4eee556973837413a0048?utm_campaign=1053&utm_source=git)** | Boca Raton, FL | On Site | Mar 12 |
@@ -141,7 +142,6 @@ For a complete list, click the following sortable link below:
 | **[U.S. Hunger](https://ushunger.org/)** | **[Summer 2026 Grant and Mission Writing Intern](https://jobright.ai/jobs/info/69b32f38a8ac8e70ff67705d?utm_campaign=1053&utm_source=git)** | Feeding Children Everywhere - HQ | On Site | Mar 12 |
 | ↳ | **[Fall 2026 Grant and Mission Writing Intern](https://jobright.ai/jobs/info/69b330baae2a534885ea975d?utm_campaign=1053&utm_source=git)** | Feeding Children Everywhere - HQ | On Site | Mar 12 |
 | **[BRIDGE SHOWROOM](http://www.bridgeshowroom.com)** | **[Fashion internship in Dallas FIG](https://jobright.ai/jobs/info/69b2fff8ad360c0340a81210?utm_campaign=1053&utm_source=git)** | Dallas, TX | On Site | Mar 12 |
-| **[Salvi](https://www.salvimedia.com/)** | **[Editing Intern](https://jobright.ai/jobs/info/69b2ff4da8ac8e70ff672624?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Mar 12 |
 | **[NESN](http://nesn.com)** | **[Studio Operations Intern](https://jobright.ai/jobs/info/69b2fb39ad360c0340a80b59?utm_campaign=1053&utm_source=git)** | Watertown, MA, US | On Site | Mar 12 |
 | **[Salvi](https://www.salvimedia.com/)** | **[Production Intern](https://jobright.ai/jobs/info/69b2fae6a8ac8e70ff671f2b?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Mar 12 |
 | **[Hasbro](https://shop.hasbro.com)** | **[Intern, Events- Magic the Gathering](https://jobright.ai/jobs/info/69965c95ce78e77b4fda65c5?utm_campaign=1053&utm_source=git)** | United States | Remote | Mar 12 |
