@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Skild AI](https://www.skild.ai/)** | **[Cinematography Intern (Product Videography & Social Media)](https://jobright.ai/jobs/info/68d48fabffc1276de3fdbe8a?utm_campaign=1053&utm_source=git)** | San Mateo, CA | On Site | Mar 15 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Disney Branded Television Production Management Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69b6212356973837413b5e54?utm_campaign=1053&utm_source=git)** | Glendale, CA, USA | On Site | Mar 14 |
 | **[BRIDGE SHOWROOM](http://www.bridgeshowroom.com)** | **[Fashion internship in Dallas FIG](https://jobright.ai/jobs/info/69b5f3713b74eb1e2c83a9dc?utm_campaign=1053&utm_source=git)** | Dallas, TX | On Site | Mar 14 |
 | **[Creative Funding Agency](https://www.creativefundingagency.com/agency)** | **[Film Development Intern](https://jobright.ai/jobs/info/69b5df8406c1ba00c547c883?utm_campaign=1053&utm_source=git)** | Beverly Hills, CA | Hybrid | Mar 14 |
@@ -134,14 +135,14 @@ For a complete list, click the following sortable link below:
 | **[Golden Hippo®](https://www.huntrealestate.com/)** | **[Video Editor Intern](https://jobright.ai/jobs/info/69b3218ea8ac8e70ff674f97?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | Mar 12 |
 | **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69b334c6a8ac8e70ff6774aa?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Mar 12 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69b334c0ad360c0340a858c4?utm_campaign=1053&utm_source=git)** | Greenbrier River, WV | On Site | Mar 12 |
-| ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69b334ebae2a534885ea9c28?utm_campaign=1053&utm_source=git)** | Wichita, KS | On Site | Mar 12 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69b334fdae2a534885ea9c94?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | Mar 12 |
+| ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69b334ebae2a534885ea9c28?utm_campaign=1053&utm_source=git)** | Wichita, KS | On Site | Mar 12 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69b334caad360c0340a858f2?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Mar 12 |
 | **[Golden Hippo®](https://www.huntrealestate.com/)** | **[Video Editor Intern](https://jobright.ai/jobs/info/69b3123bae2a534885ea569c?utm_campaign=1053&utm_source=git)** | Hybrid (Woodland Hills, CA) | Hybrid | Mar 12 |
 | **[1st Due Products](www.1stdueproducts.com)** | **[Video intern](https://jobright.ai/jobs/info/69b4eee556973837413a0048?utm_campaign=1053&utm_source=git)** | Boca Raton, FL | On Site | Mar 12 |
 | **[Cleveland Browns](http://www.clevelandbrowns.com)** | **[Video Editing and Motion Graphic Animation – Game Production Intern](https://jobright.ai/jobs/info/69b477f73b74eb1e2c81ca6e?utm_campaign=1053&utm_source=git)** | 100 Alfred Lerner Way, Cleveland, OH, USA | On Site | Mar 12 |
-| **[U.S. Hunger](https://ushunger.org/)** | **[Fall 2026 Grant and Mission Writing Intern](https://jobright.ai/jobs/info/69b330baae2a534885ea975d?utm_campaign=1053&utm_source=git)** | Feeding Children Everywhere - HQ | On Site | Mar 12 |
-| ↳ | **[Summer 2026 Grant and Mission Writing Intern](https://jobright.ai/jobs/info/69b32f38a8ac8e70ff67705d?utm_campaign=1053&utm_source=git)** | Feeding Children Everywhere - HQ | On Site | Mar 12 |
+| **[U.S. Hunger](https://ushunger.org/)** | **[Summer 2026 Grant and Mission Writing Intern](https://jobright.ai/jobs/info/69b32f38a8ac8e70ff67705d?utm_campaign=1053&utm_source=git)** | Feeding Children Everywhere - HQ | On Site | Mar 12 |
+| ↳ | **[Fall 2026 Grant and Mission Writing Intern](https://jobright.ai/jobs/info/69b330baae2a534885ea975d?utm_campaign=1053&utm_source=git)** | Feeding Children Everywhere - HQ | On Site | Mar 12 |
 | **[NESN](http://nesn.com)** | **[Studio Operations Intern](https://jobright.ai/jobs/info/69b2fb39ad360c0340a80b59?utm_campaign=1053&utm_source=git)** | Watertown, MA, US | On Site | Mar 12 |
 | **[Hasbro](https://shop.hasbro.com)** | **[Intern, Events- Magic the Gathering](https://jobright.ai/jobs/info/69965c95ce78e77b4fda65c5?utm_campaign=1053&utm_source=git)** | United States | Remote | Mar 12 |
 | **[UL Research Institutes](https://ul.org)** | **[Multimedia Design, Video Production Summer 2026 Intern - Fire Safety Research Institute](https://jobright.ai/jobs/info/697188bf333b6343a14e23b8?utm_campaign=1053&utm_source=git)** | Columbia, MD | Hybrid | Mar 12 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Louis Vuitton](http://www.louisvuitton.com)** | **[VIP & Influencer Intern - 2026](https://jobright.ai/jobs/info/69b5201306c1ba00c546de72?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Mar 12 |
 | **[Premier Lacrosse League](https://www.premierlacrosseleague.com/)** | **[Fan Experience Intern, Guest Services](https://jobright.ai/jobs/info/69b23055548f140066e86c71?utm_campaign=1053&utm_source=git)** | United States | Remote | Mar 11 |
 | **[West End Strategy Team](https://westendstrategy.com)** | **[Paid Summer Intern](https://jobright.ai/jobs/info/69b2286265de58104c719e98?utm_campaign=1053&utm_source=git)** | Washington, District of Columbia, United States | Hybrid | Mar 11 |
-| **[WTAE Hearst Pittsburgh](https://www.hearstpittsburgh.com)** | **[Summer News Intern](https://jobright.ai/jobs/info/69b22553d04c69566c74d91b?utm_campaign=1053&utm_source=git)** | Pittsburgh, PA | On Site | Mar 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
