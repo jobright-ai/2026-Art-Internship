@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Gray Media](https://graymedia.com)** | **[GRAY MEDIA FUTURE FOCUS INTERN SUMMER '26 - WECT](https://jobright.ai/jobs/info/69b85e2706c1ba00c54a38d1?utm_campaign=1053&utm_source=git)** | Wilmington, NC | On Site | Mar 16 |
+| **[Mass General Brigham](https://www.massgeneralbrigham.org)** | **[Science Writing Intern](https://jobright.ai/jobs/info/69b8585b56973837413d8b63?utm_campaign=1053&utm_source=git)** | Somerville, MA | Remote | Mar 16 |
+| **[Barstool Sports](http://www.barstoolsports.com)** | **[General Production Intern](https://jobright.ai/jobs/info/69b8508306c1ba00c54a1191?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Mar 16 |
 | **[Racine](http://www.racine.eu)** | **[Main Gallery Young Artist](https://jobright.ai/jobs/info/69b838fc06c1ba00c549fc55?utm_campaign=1053&utm_source=git)** | Racine, WI | On Site | Mar 16 |
 | **[State of South Dakota](https://doh.sd.gov/)** | **[Intern - SDPB Media Production (Summer)](https://jobright.ai/jobs/info/69b4b2b63b74eb1e2c8205ba?utm_campaign=1053&utm_source=git)** | Vermillion, SD | On Site | Mar 16 |
 | **[Toll Brothers](https://www.tollbrothers.com)** | **[2026 Internship Program: Assistant Framing Superintendent Intern](https://jobright.ai/jobs/info/69b834fa56973837413d5ebb?utm_campaign=1053&utm_source=git)** | Charlotte, NC | On Site | Mar 16 |
@@ -134,8 +137,8 @@ For a complete list, click the following sortable link below:
 | **[HumanKind OS](https://www.linkedin.com/company/109231052)** | **[Video Editor Intern](https://jobright.ai/jobs/info/69b32691ad360c0340a84899?utm_campaign=1053&utm_source=git)** | United States | Remote | Mar 12 |
 | **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69b334c6a8ac8e70ff6774aa?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Mar 12 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69b334c0ad360c0340a858c4?utm_campaign=1053&utm_source=git)** | Greenbrier River, WV | On Site | Mar 12 |
-| ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69b334ebae2a534885ea9c28?utm_campaign=1053&utm_source=git)** | Wichita, KS | On Site | Mar 12 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69b334fdae2a534885ea9c94?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | Mar 12 |
+| ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69b334ebae2a534885ea9c28?utm_campaign=1053&utm_source=git)** | Wichita, KS | On Site | Mar 12 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69b334caad360c0340a858f2?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Mar 12 |
 | **[Golden Hippo®](https://www.huntrealestate.com/)** | **[Video Editor Intern](https://jobright.ai/jobs/info/69b3123bae2a534885ea569c?utm_campaign=1053&utm_source=git)** | Hybrid (Woodland Hills, CA) | Hybrid | Mar 12 |
 | **[1st Due Products](www.1stdueproducts.com)** | **[Video intern](https://jobright.ai/jobs/info/69b4eee556973837413a0048?utm_campaign=1053&utm_source=git)** | Boca Raton, FL | On Site | Mar 12 |
@@ -151,10 +154,7 @@ For a complete list, click the following sortable link below:
 | **[Colonial Williamsburg Foundation](https://www.colonialwilliamsburg.org/)** | **[Intern - Tin Shop](https://jobright.ai/jobs/info/699687e9e0bddb6acac50564?utm_campaign=1053&utm_source=git)** | Williamsburg, VA | On Site | Mar 12 |
 | **[WMUR-TV](http://www.wmur.com/)** | **[News Internship](https://jobright.ai/jobs/info/69968f17e0bddb6acac50fc2?utm_campaign=1053&utm_source=git)** | Manchester, NH | On Site | Mar 12 |
 | **[Audacy, Inc.](https://audacyinc.com/)** | **[Programming Intern](https://jobright.ai/jobs/info/699652b3e0bddb6acac4c0f6?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Mar 12 |
-| **[Louis Vuitton](http://www.louisvuitton.com)** | **[VIP & Influencer Intern - 2026](https://jobright.ai/jobs/info/69b5201306c1ba00c546de72?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Mar 12 |
 | **[Premier Lacrosse League](https://www.premierlacrosseleague.com/)** | **[Fan Experience Intern, Guest Services](https://jobright.ai/jobs/info/69b23055548f140066e86c71?utm_campaign=1053&utm_source=git)** | United States | Remote | Mar 11 |
 | **[West End Strategy Team](https://westendstrategy.com)** | **[Paid Summer Intern](https://jobright.ai/jobs/info/69b2286265de58104c719e98?utm_campaign=1053&utm_source=git)** | Washington, District of Columbia, United States | Hybrid | Mar 11 |
 | **[WTAE Hearst Pittsburgh](https://www.hearstpittsburgh.com)** | **[Summer News Intern](https://jobright.ai/jobs/info/69b22553d04c69566c74d91b?utm_campaign=1053&utm_source=git)** | Pittsburgh, PA | On Site | Mar 11 |
-| **[Destination by Hyatt](https://www.thewoodmark.com/still-spa.htm)** | **[Turf Internship – The Club at Spruce Peak – Summer 2026](https://jobright.ai/jobs/info/69b623713b74eb1e2c83dc6c?utm_campaign=1053&utm_source=git)** | Stowe, VT | On Site | Mar 11 |
-| **[Northern California Golf Association and Poppy Holding Inc.](https://www.ncga.org/)** | **[PJ Boatwright Intern - Golf Course Maintenance (Poppy Hills)](https://jobright.ai/jobs/info/69b21c25548f140066e858fa?utm_campaign=1053&utm_source=git)** | Pebble Beach,CA,US | On Site | Mar 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
