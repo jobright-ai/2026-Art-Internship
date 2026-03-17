@@ -89,8 +89,8 @@ For a complete list, click the following sortable link below:
 | **[Gray Media](https://graymedia.com)** | **[GRAY MEDIA FUTURE FOCUS INTERN SUMMER '26 - WECT](https://jobright.ai/jobs/info/69b85e2706c1ba00c54a38d1?utm_campaign=1053&utm_source=git)** | Wilmington, NC | On Site | Mar 16 |
 | **[Mass General Brigham](https://www.massgeneralbrigham.org)** | **[Science Writing Intern](https://jobright.ai/jobs/info/69b8585b56973837413d8b63?utm_campaign=1053&utm_source=git)** | Somerville, MA | Remote | Mar 16 |
 | **[Barstool Sports](http://www.barstoolsports.com)** | **[General Production Intern](https://jobright.ai/jobs/info/69b8508306c1ba00c54a1191?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Mar 16 |
-| **[Austin PBS](http://www.austinpbs.org)** | **[Weekly News Show Intern](https://jobright.ai/jobs/info/69b878b806c1ba00c54a70e8?utm_campaign=1053&utm_source=git)** | Austin,TX,US | Hybrid | Mar 16 |
-| ↳ | **[Marketing Video Editor Intern](https://jobright.ai/jobs/info/69b879033b74eb1e2c864d97?utm_campaign=1053&utm_source=git)** | Austin,TX,US | Hybrid | Mar 16 |
+| **[Austin PBS](http://www.austinpbs.org)** | **[Marketing Video Editor Intern](https://jobright.ai/jobs/info/69b879033b74eb1e2c864d97?utm_campaign=1053&utm_source=git)** | Austin,TX,US | Hybrid | Mar 16 |
+| ↳ | **[Weekly News Show Intern](https://jobright.ai/jobs/info/69b878b806c1ba00c54a70e8?utm_campaign=1053&utm_source=git)** | Austin,TX,US | Hybrid | Mar 16 |
 | **[Racine](http://www.racine.eu)** | **[Main Gallery Young Artist](https://jobright.ai/jobs/info/69b838fc06c1ba00c549fc55?utm_campaign=1053&utm_source=git)** | Racine, WI | On Site | Mar 16 |
 | **[State of South Dakota](https://doh.sd.gov/)** | **[Intern - SDPB Media Production (Summer)](https://jobright.ai/jobs/info/69b4b2b63b74eb1e2c8205ba?utm_campaign=1053&utm_source=git)** | Vermillion, SD | On Site | Mar 16 |
 | **[Toll Brothers](https://www.tollbrothers.com)** | **[2026 Internship Program: Assistant Framing Superintendent Intern](https://jobright.ai/jobs/info/69b834fa56973837413d5ebb?utm_campaign=1053&utm_source=git)** | Charlotte, NC | On Site | Mar 16 |
