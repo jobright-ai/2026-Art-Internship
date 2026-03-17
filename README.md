@@ -57,7 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Talk and Entertainment Show Intern 1](https://jobright.ai/jobs/info/69527c875bb7de448ef598bc?utm_campaign=1053&utm_source=git)** | Cleveland, OH | On Site | Mar 17 |
+| **[ASU Foundation for a New American University](http://www.asufoundation.org/)** | **[Summer intern, Santa Barbara News-Press](https://jobright.ai/jobs/info/69b98d8856973837413f0325?utm_campaign=1053&utm_source=git)** | CA Santa Barbara | On Site | Mar 17 |
+| **[Gen](https://www.gendigital.com)** | **[Editorial Intern - Summer Internship](https://jobright.ai/jobs/info/69b9714c3b74eb1e2c875eb8?utm_campaign=1053&utm_source=git)** | USA - New York, New York | On Site | Mar 17 |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Morning News Summer Intern](https://jobright.ai/jobs/info/69b971303b74eb1e2c875e7c?utm_campaign=1053&utm_source=git)** | PA-Philadelphia;5001 Wynnefield Avenue (Tribune-WPHL) | On Site | Mar 17 |
+| ↳ | **[Lifestyle Show Summer Intern](https://jobright.ai/jobs/info/69b9707756973837413ee9e3?utm_campaign=1053&utm_source=git)** | PA-Philadelphia;5001 Wynnefield Avenue (Tribune-WPHL) | On Site | Mar 17 |
+| ↳ | **[Talk and Entertainment Show Intern 1](https://jobright.ai/jobs/info/69527c875bb7de448ef598bc?utm_campaign=1053&utm_source=git)** | Cleveland, OH | On Site | Mar 17 |
 | **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[North Valley and Sierra Regional Team Intern](https://jobright.ai/jobs/info/69b92dc756973837413eaa53?utm_campaign=1053&utm_source=git)** | Chico | Hybrid | Mar 17 |
 | ↳ | **[North Valley and Sierra Regional Team Intern](https://jobright.ai/jobs/info/69b92c993b74eb1e2c871686?utm_campaign=1053&utm_source=git)** | Chico North Valley Division Headquart... | Hybrid | Mar 17 |
 | ↳ | **[North Valley and Sierra Regional Team Intern](https://jobright.ai/jobs/info/69b92c9906c1ba00c54b3ba8?utm_campaign=1053&utm_source=git)** | Chico North Valley Division Headquarters Campus | Hybrid | Mar 17 |
@@ -66,7 +70,8 @@ For a complete list, click the following sortable link below:
 | **[Academy Museum of Motion Pictures](http://academymuseum.org)** | **[Getty Marrow Film Programs and Public Engagement Intern, Summer 2026 (Gold Rising)](https://jobright.ai/jobs/info/69b8a37f06c1ba00c54aaca8?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Mar 16 |
 | **[Heravi Peace Institute](https://chass.usu.edu/peace-institute/)** | **[Community Engagement Internship](https://jobright.ai/jobs/info/69b8bd0256973837413e5c7d?utm_campaign=1053&utm_source=git)** | US-UT-Park City | On Site | Mar 16 |
 | ↳ | **[Community Engagement Internship](https://jobright.ai/jobs/info/69b8bc6e3b74eb1e2c86c9c4?utm_campaign=1053&utm_source=git)** | Park City, UT, US | On Site | Mar 16 |
-| **[Paradigm Education Solutions](https://paradigmeducation.com/)** | **[Publishing Services Internship](https://jobright.ai/jobs/info/69b902853b74eb1e2c86e653?utm_campaign=1053&utm_source=git)** | 4050 Westmark Drive, Dubuque, IA, USA | On Site | Mar 16 |
+| **[Paradigm Education Solutions](https://paradigmeducation.com/)** | **[Editorial Assistant Intern](https://jobright.ai/jobs/info/69b98c043b74eb1e2c877112?utm_campaign=1053&utm_source=git)** | 4050 Westmark Drive, Dubuque, IA, USA | On Site | Mar 16 |
+| ↳ | **[Publishing Services Internship](https://jobright.ai/jobs/info/69b902853b74eb1e2c86e653?utm_campaign=1053&utm_source=git)** | 4050 Westmark Drive, Dubuque, IA, USA | On Site | Mar 16 |
 | **[VML HEALTH](http://vml.com)** | **[Intern - Production Coordinator](https://jobright.ai/jobs/info/69b882f256973837413de791?utm_campaign=1053&utm_source=git)** | New York, New York, United States | Hybrid | Mar 16 |
 | **[New York Post](http://nypost.com/)** | **[Decider Features Intern](https://jobright.ai/jobs/info/69a712e62672cb0acb4b7b13?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Mar 16 |
 | **[NINETY8 Music Group](www.ninety8.info)** | **[Artist Manager (day to day) internship](https://jobright.ai/jobs/info/69b86f6d06c1ba00c54a6197?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | Mar 16 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Solidigm](https://www.solidigmtechnology.com)** | **[Intern Experience & Engagement Intern](https://jobright.ai/jobs/info/6994c7cb81476f6176ac977c?utm_campaign=1053&utm_source=git)** | Rancho Cordova, CA | On Site | Mar 12 |
 | **[Basement Digital](www.basement-digital.com)** | **[Summer Internship - Digital Content Production (Paid)](https://jobright.ai/jobs/info/69b40a5106c1ba00c5452d69?utm_campaign=1053&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Mar 12 |
 | **[Golden Hippo®](https://www.huntrealestate.com/)** | **[Video Editor Intern](https://jobright.ai/jobs/info/69b3218ea8ac8e70ff674f97?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | Mar 12 |
-| **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69b334c6a8ac8e70ff6774aa?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Mar 12 |
-| ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69b334ebae2a534885ea9c28?utm_campaign=1053&utm_source=git)** | Wichita, KS | On Site | Mar 12 |
-| ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69b334fdae2a534885ea9c94?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | Mar 12 |
-| ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69b334c0ad360c0340a858c4?utm_campaign=1053&utm_source=git)** | Greenbrier River, WV | On Site | Mar 12 |
-| ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69b334caad360c0340a858f2?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Mar 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
