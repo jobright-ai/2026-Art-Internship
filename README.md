@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[New Hampshire Public Radio](http://nhpr.org/)** | **[Public Radio News Intern](https://jobright.ai/jobs/info/69b8778556973837413dd34e?utm_campaign=1053&utm_source=git)** | Concord, NH | On Site | Mar 16 |
+| **[VML HEALTH](http://vml.com)** | **[Intern - Production Coordinator](https://jobright.ai/jobs/info/69b882f256973837413de791?utm_campaign=1053&utm_source=git)** | New York, New York, United States | Hybrid | Mar 16 |
+| **[New York Post](http://nypost.com/)** | **[Decider Features Intern](https://jobright.ai/jobs/info/69a712e62672cb0acb4b7b13?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Mar 16 |
 | **[NINETY8 Music Group](www.ninety8.info)** | **[Artist Manager (day to day) internship](https://jobright.ai/jobs/info/69b86f6d06c1ba00c54a6197?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | Mar 16 |
 | **[Golden Hippo®](https://www.huntrealestate.com/)** | **[Intern, Video Editor - Summer 2026](https://jobright.ai/jobs/info/69b86d2306c1ba00c54a5ea5?utm_campaign=1053&utm_source=git)** | Woodland Hills, CA | Hybrid | Mar 16 |
 | **[State Affairs](https://stateaffairs.com/)** | **[Newsroom Intern, Wisconsin](https://jobright.ai/jobs/info/69b86b2806c1ba00c54a5ccd?utm_campaign=1053&utm_source=git)** | Madison, WI | On Site | Mar 16 |
@@ -96,7 +97,6 @@ For a complete list, click the following sortable link below:
 | **[Advisors Excel](http://advisorsexcel.com)** | **[Copy Editor Intern](https://jobright.ai/jobs/info/690ac9914a1b456627b0b5c8?utm_campaign=1053&utm_source=git)** | Topeka Metropolitan Area | On Site | Mar 14 |
 | **[GBH](http://www.wgbh.org/)** | **[GBH Archives Internship - Summer 2026 (AAPB Exhibit Curator)](https://jobright.ai/jobs/info/69b37ce3a8ac8e70ff67c328?utm_campaign=1053&utm_source=git)** | Boston, MA | Remote | Mar 14 |
 | ↳ | **[Antiques Roadshow Internship - Summer 2026](https://jobright.ai/jobs/info/69a55af5b600907a962b05f8?utm_campaign=1053&utm_source=git)** | United States | Remote | Mar 14 |
-| **[New York Post](http://nypost.com/)** | **[Decider Features Intern](https://jobright.ai/jobs/info/69a712e62672cb0acb4b7b13?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Mar 13 |
 | **[Omnicom Health](http://www.omnicomhealthgroup.com/)** | **[2026 Bold Beginners - Editorial Intern](https://jobright.ai/jobs/info/69b186e1548f140066e75ea6?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Mar 13 |
 | **[Omni Hotels & Resorts](http://www.omnihotels.com/)** | **[J1 International Internship / Culinary](https://jobright.ai/jobs/info/69b4ca8c569738374139b962?utm_campaign=1053&utm_source=git)** | Asheville, NC | On Site | Mar 13 |
 | **[Wasserman](http://www.teamwass.com)** | **[Summer 2026 Internship - Intern, Golf](https://jobright.ai/jobs/info/69b4e7b43b74eb1e2c825c2b?utm_campaign=1053&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Mar 13 |
@@ -145,9 +145,9 @@ For a complete list, click the following sortable link below:
 | **[Basement Digital](www.basement-digital.com)** | **[Summer Internship - Digital Content Production (Paid)](https://jobright.ai/jobs/info/69b40a5106c1ba00c5452d69?utm_campaign=1053&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Mar 12 |
 | **[Golden Hippo®](https://www.huntrealestate.com/)** | **[Video Editor Intern](https://jobright.ai/jobs/info/69b3218ea8ac8e70ff674f97?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | Mar 12 |
 | **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69b334c6a8ac8e70ff6774aa?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Mar 12 |
+| ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69b334c0ad360c0340a858c4?utm_campaign=1053&utm_source=git)** | Greenbrier River, WV | On Site | Mar 12 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69b334fdae2a534885ea9c94?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | Mar 12 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69b334ebae2a534885ea9c28?utm_campaign=1053&utm_source=git)** | Wichita, KS | On Site | Mar 12 |
-| ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69b334c0ad360c0340a858c4?utm_campaign=1053&utm_source=git)** | Greenbrier River, WV | On Site | Mar 12 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69b334caad360c0340a858f2?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Mar 12 |
 | **[Golden Hippo®](https://www.huntrealestate.com/)** | **[Video Editor Intern](https://jobright.ai/jobs/info/69b3123bae2a534885ea569c?utm_campaign=1053&utm_source=git)** | Hybrid (Woodland Hills, CA) | Hybrid | Mar 12 |
 | **[1st Due Products](www.1stdueproducts.com)** | **[Video intern](https://jobright.ai/jobs/info/69b4eee556973837413a0048?utm_campaign=1053&utm_source=git)** | Boca Raton, FL | On Site | Mar 12 |
