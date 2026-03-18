@@ -57,7 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[REVOLVE](https://www.revolve.com/)** | **[Content Oeprations Intern](https://jobright.ai/jobs/info/69bad93406c1ba00c54d2663?utm_campaign=1053&utm_source=git)** | Cerritos, CA | On Site | Mar 18 |
+| **[Hasbro](https://shop.hasbro.com)** | **[Intern, Music](https://jobright.ai/jobs/info/699efafcce78e77b4fe4b060?utm_campaign=1053&utm_source=git)** | City of Washington County, DC | On Site | Mar 18 |
+| **[Hart](http://www.hartinc.com)** | **[Internship, Video Production](https://jobright.ai/jobs/info/69bae38a569738374140b411?utm_campaign=1053&utm_source=git)** | Toledo, OH | On Site | Mar 18 |
+| **[REVOLVE](https://www.revolve.com/)** | **[Content Oeprations Intern](https://jobright.ai/jobs/info/69bae35c3b74eb1e2c89180e?utm_campaign=1053&utm_source=git)** | California-Studio, Cerritos, CA, US | On Site | Mar 18 |
+| ↳ | **[Content Oeprations Intern](https://jobright.ai/jobs/info/69bad93406c1ba00c54d2663?utm_campaign=1053&utm_source=git)** | Cerritos, CA | On Site | Mar 18 |
 | **[Detroit Lions](http://www.detroitlions.com)** | **[Production Intern](https://jobright.ai/jobs/info/69bad6ca06c1ba00c54d2560?utm_campaign=1053&utm_source=git)** | Allen Park, MI 48101 | On Site | Mar 18 |
 | **[Michigan Medicine](http://www.uofmhealth.org/)** | **[Video Production Intern](https://jobright.ai/jobs/info/69bacf993b74eb1e2c89089e?utm_campaign=1053&utm_source=git)** | Ann Arbor, MI | Hybrid | Mar 18 |
 | **[Authentic Brands Group](https://authentic.com)** | **[Authentic Live Summer Intern](https://jobright.ai/jobs/info/69babe813b74eb1e2c88f509?utm_campaign=1053&utm_source=git)** | NYC Metro Area | On Site | Mar 18 |
@@ -119,8 +122,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern, Live Events](https://jobright.ai/jobs/info/699d0dc481476f6176b5ade3?utm_campaign=1053&utm_source=git)** | Miami, FL | On Site | Mar 17 |
 | **[GBH](http://www.wgbh.org/)** | **[NEPM Sports Reporter Internship - Summer 2026](https://jobright.ai/jobs/info/69b32504ad360c0340a8440e?utm_campaign=1053&utm_source=git)** | Springfield, MA | On Site | Mar 17 |
 | **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[North Valley and Sierra Regional Team Intern](https://jobright.ai/jobs/info/69b92dc756973837413eaa53?utm_campaign=1053&utm_source=git)** | Chico | Hybrid | Mar 17 |
-| ↳ | **[North Valley and Sierra Regional Team Intern](https://jobright.ai/jobs/info/69b92c9906c1ba00c54b3ba8?utm_campaign=1053&utm_source=git)** | Chico North Valley Division Headquarters Campus | Hybrid | Mar 17 |
 | ↳ | **[North Valley and Sierra Regional Team Intern](https://jobright.ai/jobs/info/69b92c993b74eb1e2c871686?utm_campaign=1053&utm_source=git)** | Chico North Valley Division Headquart... | Hybrid | Mar 17 |
+| ↳ | **[North Valley and Sierra Regional Team Intern](https://jobright.ai/jobs/info/69b92c9906c1ba00c54b3ba8?utm_campaign=1053&utm_source=git)** | Chico North Valley Division Headquarters Campus | Hybrid | Mar 17 |
 | **[Los Angeles Rams](https://www.therams.com/)** | **[Seasonal Writing Intern](https://jobright.ai/jobs/info/69b912913b74eb1e2c87074d?utm_campaign=1053&utm_source=git)** | Woodland Hills, CA | On Site | Mar 16 |
 | **[Golden Hippo®](https://www.huntrealestate.com/)** | **[Intern, Video Editor - Summer 2026](https://jobright.ai/jobs/info/69baa5be5697383741407a87?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, US | Hybrid | Mar 16 |
 | **[Social View Agency](https://www.linkedin.com/company/81888485)** | **[Onsite Content Creator Intern](https://jobright.ai/jobs/info/69b8c26d56973837413e602f?utm_campaign=1053&utm_source=git)** | Henderson, NV | On Site | Mar 16 |
@@ -139,8 +142,8 @@ For a complete list, click the following sortable link below:
 | **[Barstool Sports](http://www.barstoolsports.com)** | **[General Production Intern](https://jobright.ai/jobs/info/69b8615f56973837413da54e?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Mar 16 |
 | **[Gray Media](https://graymedia.com)** | **[GRAY MEDIA FUTURE FOCUS INTERN SUMMER '26 - WECT](https://jobright.ai/jobs/info/69b85e2706c1ba00c54a38d1?utm_campaign=1053&utm_source=git)** | Wilmington, NC | On Site | Mar 16 |
 | **[Barstool Sports](http://www.barstoolsports.com)** | **[General Production Intern](https://jobright.ai/jobs/info/69b8508306c1ba00c54a1191?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Mar 16 |
-| **[Austin PBS](http://www.austinpbs.org)** | **[Weekly News Show Intern](https://jobright.ai/jobs/info/69b878b806c1ba00c54a70e8?utm_campaign=1053&utm_source=git)** | Austin,TX,US | Hybrid | Mar 16 |
-| ↳ | **[Marketing Video Editor Intern](https://jobright.ai/jobs/info/69b879033b74eb1e2c864d97?utm_campaign=1053&utm_source=git)** | Austin,TX,US | Hybrid | Mar 16 |
+| **[Austin PBS](http://www.austinpbs.org)** | **[Marketing Video Editor Intern](https://jobright.ai/jobs/info/69b879033b74eb1e2c864d97?utm_campaign=1053&utm_source=git)** | Austin,TX,US | Hybrid | Mar 16 |
+| ↳ | **[Weekly News Show Intern](https://jobright.ai/jobs/info/69b878b806c1ba00c54a70e8?utm_campaign=1053&utm_source=git)** | Austin,TX,US | Hybrid | Mar 16 |
 | **[Racine](http://www.racine.eu)** | **[Main Gallery Young Artist](https://jobright.ai/jobs/info/69b838fc06c1ba00c549fc55?utm_campaign=1053&utm_source=git)** | Racine, WI | On Site | Mar 16 |
 | **[State of South Dakota](https://doh.sd.gov/)** | **[Intern - SDPB Media Production (Summer)](https://jobright.ai/jobs/info/69b4b2b63b74eb1e2c8205ba?utm_campaign=1053&utm_source=git)** | Vermillion, SD | On Site | Mar 16 |
 | **[Toll Brothers](https://www.tollbrothers.com)** | **[2026 Internship Program: Assistant Framing Superintendent Intern](https://jobright.ai/jobs/info/69b834fa56973837413d5ebb?utm_campaign=1053&utm_source=git)** | Charlotte, NC | On Site | Mar 16 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Daily Beast](http://www.thedailybeast.com)** | **[Editorial Intern, Beauty & Wellness](https://jobright.ai/jobs/info/69b32d02ad360c0340a85226?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Mar 15 |
 | **[Skild AI](https://www.skild.ai/)** | **[Cinematography Intern (Product Videography & Social Media)](https://jobright.ai/jobs/info/68d48fabffc1276de3fdbe8a?utm_campaign=1053&utm_source=git)** | San Mateo, CA | On Site | Mar 15 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Disney Branded Television Production Management Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69b6212356973837413b5e54?utm_campaign=1053&utm_source=git)** | Glendale, CA, USA | On Site | Mar 14 |
-| **[KUTV 2News / KMYU](http://kutv.com/)** | **[Intern - Studio Crew](https://jobright.ai/jobs/info/69b5d9d056973837413b383e?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Mar 14 |
-| **[REVOLVE](https://www.revolve.com/)** | **[RVLV/FWRD Styling Intern](https://jobright.ai/jobs/info/69b5cb8d56973837413b2cd7?utm_campaign=1053&utm_source=git)** | California-Studio, Cerritos, CA, US | On Site | Mar 14 |
-| ↳ | **[Studio Production Intern](https://jobright.ai/jobs/info/69b5cb8a3b74eb1e2c839938?utm_campaign=1053&utm_source=git)** | Cerritos, CA, US | On Site | Mar 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
