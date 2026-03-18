@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Midwest Communications, Inc.](http://mwcradio.com/)** | **[Media & Broadcasting Intern](https://jobright.ai/jobs/info/69ba0bd43b74eb1e2c8809b6?utm_campaign=1053&utm_source=git)** | Duluth,MN,US | On Site | Mar 17 |
 | **[Sanford Health](http://www.sanfordhealth.org)** | **[Summer Internship - Sanford Fit Program](https://jobright.ai/jobs/info/69b9e9e03b74eb1e2c87db8c?utm_campaign=1053&utm_source=git)** | SD, Sioux Falls | On Site | Mar 17 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[ABC News Live (Evenings/Weekend) Production Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69b9d6b356973837413f691b?utm_campaign=1053&utm_source=git)** | New York, NY, USA | On Site | Mar 17 |
 | **[Barstool Sports](http://www.barstoolsports.com)** | **[Mostly Sports Production Intern](https://jobright.ai/jobs/info/69b9d57c06c1ba00c54bf46e?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Mar 17 |
@@ -73,15 +74,15 @@ For a complete list, click the following sortable link below:
 | **[Gen](https://www.gendigital.com)** | **[Editorial Intern - Summer Internship](https://jobright.ai/jobs/info/69b9714c3b74eb1e2c875eb8?utm_campaign=1053&utm_source=git)** | USA - New York, New York | On Site | Mar 17 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Morning News Summer Intern](https://jobright.ai/jobs/info/69b971303b74eb1e2c875e7c?utm_campaign=1053&utm_source=git)** | PA-Philadelphia;5001 Wynnefield Avenue (Tribune-WPHL) | On Site | Mar 17 |
 | ↳ | **[Lifestyle Show Summer Intern](https://jobright.ai/jobs/info/69b9707756973837413ee9e3?utm_campaign=1053&utm_source=git)** | PA-Philadelphia;5001 Wynnefield Avenue (Tribune-WPHL) | On Site | Mar 17 |
+| **[Mount Auburn Cemetery](https://mountauburn.org)** | **[Preservation Craftsperson Intern](https://jobright.ai/jobs/info/699ce86de0bddb6acacbedc5?utm_campaign=1053&utm_source=git)** | Cambridge, MA | On Site | Mar 17 |
 | **[GBH](http://www.wgbh.org/)** | **[NEPM Sports Reporter Internship - Summer 2026](https://jobright.ai/jobs/info/69b32504ad360c0340a8440e?utm_campaign=1053&utm_source=git)** | Springfield, MA | On Site | Mar 17 |
 | **[TelevisaUnivision](https://www.corporate.televisaunivision.com)** | **[Intern, Realities & Specials](https://jobright.ai/jobs/info/699d13fee0bddb6acacc3186?utm_campaign=1053&utm_source=git)** | Miami, FL | On Site | Mar 17 |
 | ↳ | **[Intern, Live Events](https://jobright.ai/jobs/info/699d0dc481476f6176b5ade3?utm_campaign=1053&utm_source=git)** | Miami, FL | On Site | Mar 17 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Talk and Entertainment Show Intern 1](https://jobright.ai/jobs/info/69527c875bb7de448ef598bc?utm_campaign=1053&utm_source=git)** | Cleveland, OH | On Site | Mar 17 |
-| **[Fingerpaint Group](https://www.fingerpaint.com/)** | **[Editorial Intern](https://jobright.ai/jobs/info/699cdc90e0bddb6acacbe4d7?utm_campaign=1053&utm_source=git)** | Cedar Knolls, NJ | Hybrid | Mar 17 |
 | **[Patreon](http://www.patreon.com)** | **[Video Intern (Summer 2026)](https://jobright.ai/jobs/info/699ccc0781476f6176b55cbb?utm_campaign=1053&utm_source=git)** | San Francisco, CA | Hybrid | Mar 17 |
 | **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[North Valley and Sierra Regional Team Intern](https://jobright.ai/jobs/info/69b92dc756973837413eaa53?utm_campaign=1053&utm_source=git)** | Chico | Hybrid | Mar 17 |
-| ↳ | **[North Valley and Sierra Regional Team Intern](https://jobright.ai/jobs/info/69b92c9906c1ba00c54b3ba8?utm_campaign=1053&utm_source=git)** | Chico North Valley Division Headquarters Campus | Hybrid | Mar 17 |
 | ↳ | **[North Valley and Sierra Regional Team Intern](https://jobright.ai/jobs/info/69b92c993b74eb1e2c871686?utm_campaign=1053&utm_source=git)** | Chico North Valley Division Headquart... | Hybrid | Mar 17 |
+| ↳ | **[North Valley and Sierra Regional Team Intern](https://jobright.ai/jobs/info/69b92c9906c1ba00c54b3ba8?utm_campaign=1053&utm_source=git)** | Chico North Valley Division Headquarters Campus | Hybrid | Mar 17 |
 | **[Los Angeles Rams](https://www.therams.com/)** | **[Seasonal Writing Intern](https://jobright.ai/jobs/info/69b912913b74eb1e2c87074d?utm_campaign=1053&utm_source=git)** | Woodland Hills, CA | On Site | Mar 16 |
 | **[Social View Agency](https://www.linkedin.com/company/81888485)** | **[Onsite Content Creator Intern](https://jobright.ai/jobs/info/69b8c26d56973837413e602f?utm_campaign=1053&utm_source=git)** | Henderson, NV | On Site | Mar 16 |
 | **[Academy Museum of Motion Pictures](http://academymuseum.org)** | **[Getty Marrow Film Programs and Public Engagement Intern, Summer 2026 (Gold Rising)](https://jobright.ai/jobs/info/69b8a37f06c1ba00c54aaca8?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Mar 16 |
@@ -99,8 +100,8 @@ For a complete list, click the following sortable link below:
 | **[Gray Media](https://graymedia.com)** | **[GRAY MEDIA FUTURE FOCUS INTERN SUMMER '26 - WECT](https://jobright.ai/jobs/info/69b85e2706c1ba00c54a38d1?utm_campaign=1053&utm_source=git)** | Wilmington, NC | On Site | Mar 16 |
 | **[Mass General Brigham](https://www.massgeneralbrigham.org)** | **[Science Writing Intern](https://jobright.ai/jobs/info/69b8585b56973837413d8b63?utm_campaign=1053&utm_source=git)** | Somerville, MA | Remote | Mar 16 |
 | **[Barstool Sports](http://www.barstoolsports.com)** | **[General Production Intern](https://jobright.ai/jobs/info/69b8508306c1ba00c54a1191?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Mar 16 |
-| **[Austin PBS](http://www.austinpbs.org)** | **[Weekly News Show Intern](https://jobright.ai/jobs/info/69b878b806c1ba00c54a70e8?utm_campaign=1053&utm_source=git)** | Austin,TX,US | Hybrid | Mar 16 |
-| ↳ | **[Marketing Video Editor Intern](https://jobright.ai/jobs/info/69b879033b74eb1e2c864d97?utm_campaign=1053&utm_source=git)** | Austin,TX,US | Hybrid | Mar 16 |
+| **[Austin PBS](http://www.austinpbs.org)** | **[Marketing Video Editor Intern](https://jobright.ai/jobs/info/69b879033b74eb1e2c864d97?utm_campaign=1053&utm_source=git)** | Austin,TX,US | Hybrid | Mar 16 |
+| ↳ | **[Weekly News Show Intern](https://jobright.ai/jobs/info/69b878b806c1ba00c54a70e8?utm_campaign=1053&utm_source=git)** | Austin,TX,US | Hybrid | Mar 16 |
 | **[Racine](http://www.racine.eu)** | **[Main Gallery Young Artist](https://jobright.ai/jobs/info/69b838fc06c1ba00c549fc55?utm_campaign=1053&utm_source=git)** | Racine, WI | On Site | Mar 16 |
 | **[State of South Dakota](https://doh.sd.gov/)** | **[Intern - SDPB Media Production (Summer)](https://jobright.ai/jobs/info/69b4b2b63b74eb1e2c8205ba?utm_campaign=1053&utm_source=git)** | Vermillion, SD | On Site | Mar 16 |
 | **[Toll Brothers](https://www.tollbrothers.com)** | **[2026 Internship Program: Assistant Framing Superintendent Intern](https://jobright.ai/jobs/info/69b834fa56973837413d5ebb?utm_campaign=1053&utm_source=git)** | Charlotte, NC | On Site | Mar 16 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[KMBC 9](https://www.kmbc.com/#)** | **[KMBC Studio Productions Intern](https://jobright.ai/jobs/info/6944d0b594730b7398780ef3?utm_campaign=1053&utm_source=git)** | Kansas City, MO | On Site | Mar 13 |
 | **[Burlington Electric Department](https://www.burlingtonelectric.com/)** | **[BCA Production Internship](https://jobright.ai/jobs/info/69b802ff56973837413d28fb?utm_campaign=1053&utm_source=git)** | Vermont, United States | On Site | Mar 13 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[WDI Special Effects Intern, Orlando, Summer/Fall 2026](https://jobright.ai/jobs/info/69b3fb8c3b74eb1e2c8109c9?utm_campaign=1053&utm_source=git)** | Lake Buena Vista, FL | On Site | Mar 13 |
-| **[Cartier](http://www.cartier.com)** | **[Arts & Culture Intern](https://jobright.ai/jobs/info/69a98d40f6c22f2e36868dd9?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Mar 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
