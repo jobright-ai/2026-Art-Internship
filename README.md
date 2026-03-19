@@ -71,6 +71,7 @@ For a complete list, click the following sortable link below:
 | **[Quanta Magazine](https://www.quantamagazine.org)** | **[Video Intern](https://jobright.ai/jobs/info/69a3cf32b600907a9629c9b8?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Mar 19 |
 | **[National Association of Black Journalists (NABJ)](http://www.nabj.org/)** | **[News Intern](https://jobright.ai/jobs/info/69bbe05845e08b3dc1f79a68?utm_campaign=1053&utm_source=git)** | Oklahoma City, OK | On Site | Mar 19 |
 | ↳ | **[WPBF News Intern](https://jobright.ai/jobs/info/69bbdbe45b89c002acf0a702?utm_campaign=1053&utm_source=git)** | Palm Beach Gardens, FL | On Site | Mar 19 |
+| **[Bloomsbury USA](http://www.bloomsbury.com/us)** | **[Fairchild Books- Spring/Summer Editorial Internship](https://jobright.ai/jobs/info/69bc36fb5b89c002acf186d0?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Mar 19 |
 | **[Premier Lacrosse League](https://www.premierlacrosseleague.com/)** | **[PLL Production Internship (Originals)](https://jobright.ai/jobs/info/69bbcb23c42b5f053292030c?utm_campaign=1053&utm_source=git)** | United States | Remote | Mar 19 |
 | **[New York Post](http://nypost.com/)** | **[Digital Production Intern](https://jobright.ai/jobs/info/69a712b22672cb0acb4b7aa6?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Mar 18 |
 | **[WISC-TV](http://channel3000.com)** | **[Spring Newsroom Internships](https://jobright.ai/jobs/info/69bb53bb5697383741415176?utm_campaign=1053&utm_source=git)** | Madison, WI | On Site | Mar 18 |
@@ -96,8 +97,8 @@ For a complete list, click the following sortable link below:
 | **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69bb23c2569738374141215e?utm_campaign=1053&utm_source=git)** | Greenbrier River, WV | On Site | Mar 18 |
 | ↳ | **[Summer 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69bb23d33b74eb1e2c899090?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Mar 18 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69bb23c2569738374141215d?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Mar 18 |
-| ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69bb23cf3b74eb1e2c89907d?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Mar 18 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69bb23d056973837414121bb?utm_campaign=1053&utm_source=git)** | Wichita, KS | On Site | Mar 18 |
+| ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69bb23cf3b74eb1e2c89907d?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Mar 18 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69bb23c83b74eb1e2c899059?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | Mar 18 |
 | **[AARP](http://www.aarp.org)** | **[Editorial and Video Production Intern (Summer)](https://jobright.ai/jobs/info/698a895e0f6f7e7a2ce5bb89?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Mar 18 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[The View Production Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69bb1d5a06c1ba00c54d935f?utm_campaign=1053&utm_source=git)** | New York, NY, USA | On Site | Mar 18 |
@@ -148,13 +149,12 @@ For a complete list, click the following sortable link below:
 | **[Capital Impact Partners](http://www.capitalimpact.org)** | **[Video and Photography Intern](https://jobright.ai/jobs/info/69bb8d0106c1ba00c54e1b94?utm_campaign=1053&utm_source=git)** | Arlington, VA | Hybrid | Mar 17 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[ABC News Live (Evenings/Weekend) Production Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69b9d6b356973837413f691b?utm_campaign=1053&utm_source=git)** | New York, NY, USA | On Site | Mar 17 |
 | **[Barstool Sports](http://www.barstoolsports.com)** | **[Mostly Sports Production Intern](https://jobright.ai/jobs/info/69b9d57c06c1ba00c54bf46e?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Mar 17 |
-| **[Northside Hospital](http://www.northside.com)** | **[DEPARTMENT INTERN](https://jobright.ai/jobs/info/69b9f03406c1ba00c54c08ee?utm_campaign=1053&utm_source=git)** | Atlanta, GA, US | On Site | Mar 17 |
-| ↳ | **[DEPARTMENT INTERN](https://jobright.ai/jobs/info/69b9f1a256973837413f7b04?utm_campaign=1053&utm_source=git)** | US-GA-Atlanta | On Site | Mar 17 |
+| **[Northside Hospital](http://www.northside.com)** | **[DEPARTMENT INTERN](https://jobright.ai/jobs/info/69b9f1a256973837413f7b04?utm_campaign=1053&utm_source=git)** | US-GA-Atlanta | On Site | Mar 17 |
+| ↳ | **[DEPARTMENT INTERN](https://jobright.ai/jobs/info/69b9f03406c1ba00c54c08ee?utm_campaign=1053&utm_source=git)** | Atlanta, GA, US | On Site | Mar 17 |
 | **[Inspiration Ministries](https://inspiration.org/)** | **[Multi-Media Intern](https://jobright.ai/jobs/info/69b9cee83b74eb1e2c87ca50?utm_campaign=1053&utm_source=git)** | India,SC,US | On Site | Mar 17 |
 | **[GBH](http://www.wgbh.org/)** | **[GBH News "All Things Considered" Internship - Summer 2026](https://jobright.ai/jobs/info/69ba7fab3b74eb1e2c885c84?utm_campaign=1053&utm_source=git)** | Boston, MA | Hybrid | Mar 17 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Intern/News](https://jobright.ai/jobs/info/694e400f29655e4dd657f7ec?utm_campaign=1053&utm_source=git)** | Panama City, FL | On Site | Mar 17 |
 | **[TelevisaUnivision](https://www.corporate.televisaunivision.com)** | **[Intern, Network News](https://jobright.ai/jobs/info/699d1371e0bddb6acacc30c1?utm_campaign=1053&utm_source=git)** | Miami, FL | On Site | Mar 17 |
 | **[Barstool Sports](http://www.barstoolsports.com)** | **[The Yak Intern](https://jobright.ai/jobs/info/69b9bc6806c1ba00c54bd5e6?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Mar 17 |
-| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Talk and Entertainment Show Intern 1](https://jobright.ai/jobs/info/69527c875bb7de448ef598bc?utm_campaign=1053&utm_source=git)** | Cleveland, OH | On Site | Mar 17 |
 | **[American Geophysical Union](https://www.agu.org)** | **[Science Writer, Intern (51150)](https://jobright.ai/jobs/info/69ba87c406c1ba00c54c9383?utm_campaign=1053&utm_source=git)** | Washington, DC | Remote | Mar 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
