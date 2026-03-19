@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Pretzel Logic Productions](https://pretzellogicproductions.com/)** | **[INTERN – Video Editing & Post-Production](https://jobright.ai/jobs/info/69bb48245697383741414909?utm_campaign=1053&utm_source=git)** | San Diego, CA | On Site | Mar 18 |
+| **[ALO](https://www.aloyoga.com/)** | **[PR & Wellness Club Intern](https://jobright.ai/jobs/info/69bb40cc06c1ba00c54dbd37?utm_campaign=1053&utm_source=git)** | Beverly Hills, CA | On Site | Mar 18 |
+| **[Heavenly YIN studios](https://www.patreon.com/HEAVENLYYINSTUDIOS?utm_campaign=creatorshare_creator)** | **[Animation Intern](https://jobright.ai/jobs/info/69bb3ee33b74eb1e2c89b140?utm_campaign=1053&utm_source=git)** | United States | Remote | Mar 18 |
+| **[Ingram Micro](https://corp.ingrammicro.com)** | **[Summer Intern - Video Producer](https://jobright.ai/jobs/info/69bb392606c1ba00c54db0fb?utm_campaign=1053&utm_source=git)** | Irvine, CA | Hybrid | Mar 18 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Multimedia Production Intern - iDeas Lab (Summer 2026)](https://jobright.ai/jobs/info/69bb303b06c1ba00c54da6e8?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Mar 18 |
 | **[Santa Barbara News-Press](https://www.news-press.com/)** | **[Reporting Intern](https://jobright.ai/jobs/info/69bb29c756973837414128d9?utm_campaign=1053&utm_source=git)** | Santa Barbara, CA | On Site | Mar 18 |
 | **[GovCIO](https://govcio.com)** | **[Staff Writer Intern](https://jobright.ai/jobs/info/69bb1bdf5697383741411a7a?utm_campaign=1053&utm_source=git)** | US-VA-Fairfax | Remote | Mar 18 |
@@ -73,8 +77,8 @@ For a complete list, click the following sortable link below:
 | **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Summer 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69bb23d33b74eb1e2c899090?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Mar 18 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69bb23c2569738374141215e?utm_campaign=1053&utm_source=git)** | Greenbrier River, WV | On Site | Mar 18 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69bb23d056973837414121bb?utm_campaign=1053&utm_source=git)** | Wichita, KS | On Site | Mar 18 |
-| ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69bb23c2569738374141215d?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Mar 18 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69bb23cf3b74eb1e2c89907d?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Mar 18 |
+| ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69bb23c2569738374141215d?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Mar 18 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69bb23c83b74eb1e2c899059?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | Mar 18 |
 | **[Techyries](https://www.linktr.ee/techyries)** | **[Video Editing Intern](https://jobright.ai/jobs/info/69baffdb06c1ba00c54d5013?utm_campaign=1053&utm_source=git)** | United States | Remote | Mar 18 |
 | **[AARP](http://www.aarp.org)** | **[Editorial and Video Production Intern (Summer)](https://jobright.ai/jobs/info/698a895e0f6f7e7a2ce5bb89?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Mar 18 |
@@ -147,14 +151,10 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern, Live Events](https://jobright.ai/jobs/info/699d0dc481476f6176b5ade3?utm_campaign=1053&utm_source=git)** | Miami, FL | On Site | Mar 17 |
 | **[GBH](http://www.wgbh.org/)** | **[NEPM Sports Reporter Internship - Summer 2026](https://jobright.ai/jobs/info/69b32504ad360c0340a8440e?utm_campaign=1053&utm_source=git)** | Springfield, MA | On Site | Mar 17 |
 | **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[North Valley and Sierra Regional Team Intern](https://jobright.ai/jobs/info/69b92dc756973837413eaa53?utm_campaign=1053&utm_source=git)** | Chico | Hybrid | Mar 17 |
-| ↳ | **[North Valley and Sierra Regional Team Intern](https://jobright.ai/jobs/info/69b92c9906c1ba00c54b3ba8?utm_campaign=1053&utm_source=git)** | Chico North Valley Division Headquarters Campus | Hybrid | Mar 17 |
 | ↳ | **[North Valley and Sierra Regional Team Intern](https://jobright.ai/jobs/info/69b92c993b74eb1e2c871686?utm_campaign=1053&utm_source=git)** | Chico North Valley Division Headquart... | Hybrid | Mar 17 |
+| ↳ | **[North Valley and Sierra Regional Team Intern](https://jobright.ai/jobs/info/69b92c9906c1ba00c54b3ba8?utm_campaign=1053&utm_source=git)** | Chico North Valley Division Headquarters Campus | Hybrid | Mar 17 |
 | **[Los Angeles Rams](https://www.therams.com/)** | **[Seasonal Writing Intern](https://jobright.ai/jobs/info/69b912913b74eb1e2c87074d?utm_campaign=1053&utm_source=git)** | Woodland Hills, CA | On Site | Mar 16 |
 | **[Golden Hippo®](https://www.huntrealestate.com/)** | **[Intern, Video Editor - Summer 2026](https://jobright.ai/jobs/info/69baa5be5697383741407a87?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, US | Hybrid | Mar 16 |
 | **[Social View Agency](https://www.linkedin.com/company/81888485)** | **[Onsite Content Creator Intern](https://jobright.ai/jobs/info/69b8c26d56973837413e602f?utm_campaign=1053&utm_source=git)** | Henderson, NV | On Site | Mar 16 |
 | **[Heravi Peace Institute](https://chass.usu.edu/peace-institute/)** | **[Community Engagement Internship](https://jobright.ai/jobs/info/69b8bc6e3b74eb1e2c86c9c4?utm_campaign=1053&utm_source=git)** | Park City, UT, US | On Site | Mar 16 |
-| ↳ | **[Community Engagement Internship](https://jobright.ai/jobs/info/69b8bd0256973837413e5c7d?utm_campaign=1053&utm_source=git)** | US-UT-Park City | On Site | Mar 16 |
-| **[Paradigm Education Solutions](https://paradigmeducation.com/)** | **[Editorial Assistant Intern](https://jobright.ai/jobs/info/69b98c043b74eb1e2c877112?utm_campaign=1053&utm_source=git)** | 4050 Westmark Drive, Dubuque, IA, USA | On Site | Mar 16 |
-| ↳ | **[Publishing Services Internship](https://jobright.ai/jobs/info/69b902853b74eb1e2c86e653?utm_campaign=1053&utm_source=git)** | 4050 Westmark Drive, Dubuque, IA, USA | On Site | Mar 16 |
-| **[Embroydica](https://www.embroydica.com/)** | **[Writing Intern](https://jobright.ai/jobs/info/69baa51b3b74eb1e2c88d9f8?utm_campaign=1053&utm_source=git)** | Warrington, PA | Remote | Mar 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
