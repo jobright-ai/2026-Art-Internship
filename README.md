@@ -57,10 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Audacy, Inc.](https://audacyinc.com/)** | **[Summer Intern](https://jobright.ai/jobs/info/69915efa0cc8ea15f1dc03b5?utm_campaign=1053&utm_source=git)** | Farmington, CT | On Site | Mar 20 |
+| **[KCRA 3 & My58 Television](http://www.kcra.com)** | **[Intern](https://jobright.ai/jobs/info/69a0c5340836fe79d861c5c9?utm_campaign=1053&utm_source=git)** | Sacramento, CA | On Site | Mar 20 |
 | **[Rock Events](https://rockevents.com/)** | **[Event Production Intern - Summer 2026](https://jobright.ai/jobs/info/69a1310f6b458d060735ebff?utm_campaign=1053&utm_source=git)** | Detroit, MI | On Site | Mar 20 |
 | **[Ellucian](http://www.ellucian.com)** | **[Summer Video Intern (Undergraduate)](https://jobright.ai/jobs/info/69a0c79e5218a8167671f2e4?utm_campaign=1053&utm_source=git)** | Reston, VA | Hybrid | Mar 20 |
 | **[University of Michigan](https://www.umich.edu)** | **[Video Production Intern](https://jobright.ai/jobs/info/69bd04a74828227293ff3418?utm_campaign=1053&utm_source=git)** | Ann Arbor, MI | Hybrid | Mar 20 |
-| **[U.S. Hunger](https://ushunger.org/)** | **[Summer 2026 Grant Writing Mission Intern](https://jobright.ai/jobs/info/69bd28b3b10602456282183b?utm_campaign=1053&utm_source=git)** | Longwood, FL | On Site | Mar 20 |
 | **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[Her Campus Wellness Editorial Intern - Summer 2026](https://jobright.ai/jobs/info/69bcee6045e08b3dc1f9dee3?utm_campaign=1053&utm_source=git)** | United States | Remote | Mar 19 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[LN Concerts, Production Intern](https://jobright.ai/jobs/info/69bcee0b4828227293ff0306?utm_campaign=1053&utm_source=git)** | Cambridge, MA | On Site | Mar 19 |
 | ↳ | **[LN Concerts, Booking Intern](https://jobright.ai/jobs/info/69bcedef4828227293ff02e1?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | Mar 19 |
@@ -85,17 +86,17 @@ For a complete list, click the following sortable link below:
 | **[Gray Media](https://graymedia.com)** | **[GRAY MEDIA FUTURE FOCUS INTERN SUMMER '26 WOIO/WUAB](https://jobright.ai/jobs/info/69bc6ef545e08b3dc1f9225b?utm_campaign=1053&utm_source=git)** | Cleveland, Ohio, United States | On Site | Mar 19 |
 | **[Quicknode](https://www.quicknode.com)** | **[Ecosystem Intern](https://jobright.ai/jobs/info/69bc69cd4828227293fe3e35?utm_campaign=1053&utm_source=git)** | United States | Remote | Mar 19 |
 | **[Gray Media](https://graymedia.com)** | **[GRAY MEDIA FUTURE FOCUS INTERN SUMMER '26 WOIO/WUAB](https://jobright.ai/jobs/info/69bc69134828227293fe3bef?utm_campaign=1053&utm_source=git)** | Cleveland, OH | On Site | Mar 19 |
-| **[Saks Global](https://www.saksglobal.com)** | **[Alterations Academy Internship](https://jobright.ai/jobs/info/69bc80465b89c002acf23e8d?utm_campaign=1053&utm_source=git)** | King of Prussia, PA | On Site | Mar 19 |
-| ↳ | **[Alterations Intern](https://jobright.ai/jobs/info/69bc7e384828227293fe601b?utm_campaign=1053&utm_source=git)** | Short Hills, NJ | On Site | Mar 19 |
+| **[Saks Global](https://www.saksglobal.com)** | **[Alterations Intern](https://jobright.ai/jobs/info/69bc7e384828227293fe601b?utm_campaign=1053&utm_source=git)** | Short Hills, NJ | On Site | Mar 19 |
+| ↳ | **[Alterations Academy Internship](https://jobright.ai/jobs/info/69bc80465b89c002acf23e8d?utm_campaign=1053&utm_source=git)** | King of Prussia, PA | On Site | Mar 19 |
 | **[Hearst Newspapers](https://eevd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_15)** | **[Intern - Hearst Magazines International](https://jobright.ai/jobs/info/69bc56634828227293fe0581?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Mar 19 |
 | **[Hearst Magazines](http://www.hearst.com/magazines)** | **[Intern - Cosmopolitan](https://jobright.ai/jobs/info/69bc565b5b89c002acf1dc15?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Mar 19 |
 | **[Hearst Newspapers](https://eevd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_15)** | **[Intern - Runner's World](https://jobright.ai/jobs/info/69bc56545b89c002acf1dc04?utm_campaign=1053&utm_source=git)** | Easton, PA, United States | On Site | Mar 19 |
 | ↳ | **[Intern - Cosmopolitan](https://jobright.ai/jobs/info/69bc56515b89c002acf1dbdd?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Mar 19 |
 | ↳ | **[Intern - Town & Country and Elle Decor](https://jobright.ai/jobs/info/69bc56505b89c002acf1dbda?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Hybrid | Mar 19 |
 | **[Hearst Magazines](http://www.hearst.com/magazines)** | **[Intern - Runner's World](https://jobright.ai/jobs/info/69bc563545e08b3dc1f8d38e?utm_campaign=1053&utm_source=git)** | Easton, PA, United States | On Site | Mar 19 |
-| ↳ | **[Intern - Harper's Bazaar](https://jobright.ai/jobs/info/69bc563445e08b3dc1f8d382?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Hybrid | Mar 19 |
 | ↳ | **[Intern - Town & Country and Elle Decor](https://jobright.ai/jobs/info/69bc563445e08b3dc1f8d381?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Hybrid | Mar 19 |
 | ↳ | **[Intern - Hearst Magazines International](https://jobright.ai/jobs/info/69bc563445e08b3dc1f8d38d?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Mar 19 |
+| ↳ | **[Intern - Harper's Bazaar](https://jobright.ai/jobs/info/69bc563445e08b3dc1f8d382?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Hybrid | Mar 19 |
 | **[Hearst Newspapers](https://eevd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_15)** | **[Intern - Harper's Bazaar](https://jobright.ai/jobs/info/69bc562345e08b3dc1f8d31b?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Hybrid | Mar 19 |
 | **[S&P Global](https://www.spglobal.com)** | **[Summer Intern, Content & Digital](https://jobright.ai/jobs/info/69bc6e7545e08b3dc1f91e8f?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Mar 19 |
 | **[Golden Hippo®](https://www.huntrealestate.com/)** | **[Video Editor Intern](https://jobright.ai/jobs/info/69b3218ea8ac8e70ff674f97?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | Mar 19 |
@@ -103,7 +104,6 @@ For a complete list, click the following sortable link below:
 | **[Attend Wealth: Financial Solutions For Doctors](https://helloattend.com)** | **[Summer 2026 Media Content Internship](https://jobright.ai/jobs/info/69bc4db84828227293fdec5c?utm_campaign=1053&utm_source=git)** | Atlanta Metro | On Site | Mar 19 |
 | **[Operation Smile](http://www.operationsmile.org)** | **[Writing Internship - Operation Smile ILC](https://jobright.ai/jobs/info/696883c31703f05405aa42b9?utm_campaign=1053&utm_source=git)** | Virginia Beach, VA | On Site | Mar 19 |
 | **[ASM Global](http://www.asmglobal.com)** | **[Hospitality Intern - The Meadows Music Theater](https://jobright.ai/jobs/info/69bc238f5b89c002acf14fe9?utm_campaign=1053&utm_source=git)** | Hartford, CT | On Site | Mar 19 |
-| **[Michigan Medicine](http://www.uofmhealth.org/)** | **[Video Production Intern](https://jobright.ai/jobs/info/69bc22e845e08b3dc1f84551?utm_campaign=1053&utm_source=git)** | Ann Arbor, MI | Hybrid | Mar 19 |
 | **[HubSpot](http://www.hubspot.com)** | **[Event Production Co-op, Global Events (Fall 2026)](https://jobright.ai/jobs/info/69b3c8eca8ac8e70ff6806cb?utm_campaign=1053&utm_source=git)** | United States | Remote | Mar 19 |
 | **[Saks Global](https://www.saksglobal.com)** | **[Alterations Academy Internship](https://jobright.ai/jobs/info/69bc55495b89c002acf1d674?utm_campaign=1053&utm_source=git)** | NM_0219_CHICAGO | On Site | Mar 19 |
 | **[Yale University](https://www.yale.edu)** | **[Production Intern, YUP](https://jobright.ai/jobs/info/69bc07c15b89c002acf0f1f5?utm_campaign=1053&utm_source=git)** | Temple St, 302 | On Site | Mar 19 |
@@ -136,11 +136,11 @@ For a complete list, click the following sortable link below:
 | **[Dotdash Meredith](https://www.dotdashmeredith.com/)** | **[Video Producer: Editorial](https://jobright.ai/jobs/info/69bb28d23b74eb1e2c89983d?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Mar 18 |
 | **[Pittsburgh Downtown Partnership](http://www.downtownpittsburgh.com)** | **[Events Intern](https://jobright.ai/jobs/info/69bb07783b74eb1e2c895997?utm_campaign=1053&utm_source=git)** | Pittsburgh, Pennsylvania, United States | On Site | Mar 18 |
 | **[Middle East Institute](http://www.mei.edu)** | **[Arts & Culture Internship (Unpaid)](https://jobright.ai/jobs/info/69bb0461569738374140dcf1?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Mar 18 |
-| **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Summer 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69bb23d33b74eb1e2c899090?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Mar 18 |
-| ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69bb23c2569738374141215e?utm_campaign=1053&utm_source=git)** | Greenbrier River, WV | On Site | Mar 18 |
+| **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69bb23c2569738374141215e?utm_campaign=1053&utm_source=git)** | Greenbrier River, WV | On Site | Mar 18 |
+| ↳ | **[Summer 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69bb23d33b74eb1e2c899090?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Mar 18 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69bb23d056973837414121bb?utm_campaign=1053&utm_source=git)** | Wichita, KS | On Site | Mar 18 |
-| ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69bb23cf3b74eb1e2c89907d?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Mar 18 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69bb23c2569738374141215d?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Mar 18 |
+| ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69bb23cf3b74eb1e2c89907d?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Mar 18 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69bb23c83b74eb1e2c899059?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | Mar 18 |
 | **[AARP](http://www.aarp.org)** | **[Editorial and Video Production Intern (Summer)](https://jobright.ai/jobs/info/698a895e0f6f7e7a2ce5bb89?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Mar 18 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[The View Production Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69bb1d5a06c1ba00c54d935f?utm_campaign=1053&utm_source=git)** | New York, NY, USA | On Site | Mar 18 |
