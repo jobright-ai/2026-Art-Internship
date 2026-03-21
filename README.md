@@ -57,7 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Sinclair Inc.](http://sbgi.net/)** | **[ARC News Intern (WHAM) - Summer 2026](https://jobright.ai/jobs/info/69be33a2482822729300eda4?utm_campaign=1053&utm_source=git)** | Rochester, NY | On Site | Mar 20 |
+| **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[LN Concerts, Booking Intern](https://jobright.ai/jobs/info/69be42b1393a1008f7442d13?utm_campaign=1053&utm_source=git)** | San Diego, CA | On Site | Mar 21 |
+| **[Sinclair Inc.](http://sbgi.net/)** | **[News Intern (Summer 2026)](https://jobright.ai/jobs/info/69be3911393a1008f7442077?utm_campaign=1053&utm_source=git)** | South Bend, IN | On Site | Mar 20 |
+| ↳ | **[ARC News Intern (KSNV) - Summer 2026](https://jobright.ai/jobs/info/69be38d1b10602456283a9c3?utm_campaign=1053&utm_source=git)** | Las Vegas, NV | On Site | Mar 20 |
+| ↳ | **[News Intern (Summer 2026)](https://jobright.ai/jobs/info/69be38c5482822729300f77a?utm_campaign=1053&utm_source=git)** | Jefferson City, MO | On Site | Mar 20 |
+| ↳ | **[ARC News Intern (WHAM) - Summer 2026](https://jobright.ai/jobs/info/69be33a2482822729300eda4?utm_campaign=1053&utm_source=git)** | Rochester, NY | On Site | Mar 20 |
 | ↳ | **[News Intern (Summer 2026)](https://jobright.ai/jobs/info/69be3397482822729300ed92?utm_campaign=1053&utm_source=git)** | Portland, OR | On Site | Mar 20 |
 | ↳ | **[ARC News Intern (KOMO) - Summer 2026](https://jobright.ai/jobs/info/69be3392b106024562839a38?utm_campaign=1053&utm_source=git)** | Seattle, WA | On Site | Mar 20 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Summer 2026: Community Fridge Intern (Unpaid)](https://jobright.ai/jobs/info/69be0773482822729300bca6?utm_campaign=1053&utm_source=git)** | San Diego, CA | On Site | Mar 20 |
@@ -95,8 +99,8 @@ For a complete list, click the following sortable link below:
 | **[DBC Brand](https://www.dbcbrand.com/)** | **[Content Creator](https://jobright.ai/jobs/info/69be20e8393a1008f7440475?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Mar 20 |
 | **[Scientific American](http://www.scientificamerican.com/)** | **[News Intern](https://jobright.ai/jobs/info/69a0bf645218a8167671ea87?utm_campaign=1053&utm_source=git)** | New York, United States | Hybrid | Mar 20 |
 | **[Audacy, Inc.](https://audacyinc.com/)** | **[Summer Intern](https://jobright.ai/jobs/info/69915efa0cc8ea15f1dc03b5?utm_campaign=1053&utm_source=git)** | Farmington, CT | On Site | Mar 20 |
-| **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[LN Concerts, Booking Intern](https://jobright.ai/jobs/info/69bd9e88b106024562828c83?utm_campaign=1053&utm_source=git)** | Beverly Hills, CA | On Site | Mar 20 |
-| ↳ | **[LN Concerts, Booking Intern](https://jobright.ai/jobs/info/69bd9e86b106024562828c81?utm_campaign=1053&utm_source=git)** | Beverly Hills, CA | On Site | Mar 20 |
+| **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[LN Concerts, Booking Intern](https://jobright.ai/jobs/info/69bd9e86b106024562828c81?utm_campaign=1053&utm_source=git)** | Beverly Hills, CA | On Site | Mar 20 |
+| ↳ | **[LN Concerts, Booking Intern](https://jobright.ai/jobs/info/69bd9e88b106024562828c83?utm_campaign=1053&utm_source=git)** | Beverly Hills, CA | On Site | Mar 20 |
 | **[KCRA 3 & My58 Television](http://www.kcra.com)** | **[Intern](https://jobright.ai/jobs/info/69a0c5340836fe79d861c5c9?utm_campaign=1053&utm_source=git)** | Sacramento, CA | On Site | Mar 20 |
 | **[Rock Events](https://rockevents.com/)** | **[Event Production Intern - Summer 2026](https://jobright.ai/jobs/info/69a1310f6b458d060735ebff?utm_campaign=1053&utm_source=git)** | Detroit, MI | On Site | Mar 20 |
 | **[Ellucian](http://www.ellucian.com)** | **[Summer Video Intern (Undergraduate)](https://jobright.ai/jobs/info/69a0c79e5218a8167671f2e4?utm_campaign=1053&utm_source=git)** | Reston, VA | Hybrid | Mar 20 |
@@ -129,8 +133,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern - Cosmopolitan](https://jobright.ai/jobs/info/69bc56515b89c002acf1dbdd?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Mar 19 |
 | ↳ | **[Intern - Town & Country and Elle Decor](https://jobright.ai/jobs/info/69bc56505b89c002acf1dbda?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Hybrid | Mar 19 |
 | **[Hearst Magazines](http://www.hearst.com/magazines)** | **[Intern - Runner's World](https://jobright.ai/jobs/info/69bc563545e08b3dc1f8d38e?utm_campaign=1053&utm_source=git)** | Easton, PA, United States | On Site | Mar 19 |
-| ↳ | **[Intern - Harper's Bazaar](https://jobright.ai/jobs/info/69bc563445e08b3dc1f8d382?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Hybrid | Mar 19 |
 | ↳ | **[Intern - Hearst Magazines International](https://jobright.ai/jobs/info/69bc563445e08b3dc1f8d38d?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Mar 19 |
+| ↳ | **[Intern - Harper's Bazaar](https://jobright.ai/jobs/info/69bc563445e08b3dc1f8d382?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Hybrid | Mar 19 |
 | **[S&P Global](https://www.spglobal.com)** | **[Summer Intern, Content & Digital](https://jobright.ai/jobs/info/69bc6e7545e08b3dc1f91e8f?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Mar 19 |
 | **[Hearst Magazines](http://www.hearst.com/magazines)** | **[Intern - Town & Country and Elle Decor](https://jobright.ai/jobs/info/69be149c393a1008f743ed9e?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Hybrid | Mar 19 |
 | **[Hearst Newspapers](https://eevd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_15)** | **[Intern - Harper's Bazaar](https://jobright.ai/jobs/info/69be149c393a1008f743ed9a?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Hybrid | Mar 19 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[New York Post](http://nypost.com/)** | **[Digital Production Intern](https://jobright.ai/jobs/info/69a712b22672cb0acb4b7aa6?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Mar 18 |
 | **[WISC-TV](http://channel3000.com)** | **[Spring Newsroom Internships](https://jobright.ai/jobs/info/69bb53bb5697383741415176?utm_campaign=1053&utm_source=git)** | Madison, WI | On Site | Mar 18 |
 | **[Sanford Health](http://www.sanfordhealth.org)** | **[Summer Internship - Sanford Fit Program](https://jobright.ai/jobs/info/69bb51855697383741414c83?utm_campaign=1053&utm_source=git)** | Sioux Falls, SD | Hybrid | Mar 18 |
-| **[Academy Museum of Motion Pictures](http://academymuseum.org)** | **[Getty Marrow Film Programs and Public Engagement Intern, Summer 2026 (Gold Rising)](https://jobright.ai/jobs/info/69bb6acf569738374141660b?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Mar 18 |
-| **[Pretzel Logic Productions](https://pretzellogicproductions.com/)** | **[INTERN – Video Editing & Post-Production](https://jobright.ai/jobs/info/69bb48245697383741414909?utm_campaign=1053&utm_source=git)** | San Diego, CA | On Site | Mar 18 |
-| **[ALO](https://www.aloyoga.com/)** | **[PR & Wellness Club Intern](https://jobright.ai/jobs/info/69bb40cc06c1ba00c54dbd37?utm_campaign=1053&utm_source=git)** | Beverly Hills, CA | On Site | Mar 18 |
-| **[Quicknode](https://www.quicknode.com)** | **[Ecosystem Intern](https://jobright.ai/jobs/info/69bc2ee345e08b3dc1f873e8?utm_campaign=1053&utm_source=git)** | USA | Remote | Mar 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
