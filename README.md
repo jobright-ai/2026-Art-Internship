@@ -134,8 +134,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern - Cosmopolitan](https://jobright.ai/jobs/info/69bc56515b89c002acf1dbdd?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Mar 19 |
 | ↳ | **[Intern - Town & Country and Elle Decor](https://jobright.ai/jobs/info/69bc56505b89c002acf1dbda?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Hybrid | Mar 19 |
 | **[Hearst Magazines](http://www.hearst.com/magazines)** | **[Intern - Runner's World](https://jobright.ai/jobs/info/69bc563545e08b3dc1f8d38e?utm_campaign=1053&utm_source=git)** | Easton, PA, United States | On Site | Mar 19 |
-| ↳ | **[Intern - Harper's Bazaar](https://jobright.ai/jobs/info/69bc563445e08b3dc1f8d382?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Hybrid | Mar 19 |
 | ↳ | **[Intern - Hearst Magazines International](https://jobright.ai/jobs/info/69bc563445e08b3dc1f8d38d?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Mar 19 |
+| ↳ | **[Intern - Harper's Bazaar](https://jobright.ai/jobs/info/69bc563445e08b3dc1f8d382?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Hybrid | Mar 19 |
 | **[S&P Global](https://www.spglobal.com)** | **[Summer Intern, Content & Digital](https://jobright.ai/jobs/info/69bc6e7545e08b3dc1f91e8f?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Mar 19 |
 | **[Hearst Magazines](http://www.hearst.com/magazines)** | **[Intern - Town & Country and Elle Decor](https://jobright.ai/jobs/info/69be149c393a1008f743ed9e?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Hybrid | Mar 19 |
 | **[Hearst Newspapers](https://eevd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_15)** | **[Intern - Harper's Bazaar](https://jobright.ai/jobs/info/69be149c393a1008f743ed9a?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Hybrid | Mar 19 |
