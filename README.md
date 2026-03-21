@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sinclair Inc.](http://sbgi.net/)** | **[ARC News Intern (WHAM) - Summer 2026](https://jobright.ai/jobs/info/69be33a2482822729300eda4?utm_campaign=1053&utm_source=git)** | Rochester, NY | On Site | Mar 20 |
+| ↳ | **[News Intern (Summer 2026)](https://jobright.ai/jobs/info/69be3397482822729300ed92?utm_campaign=1053&utm_source=git)** | Portland, OR | On Site | Mar 20 |
+| ↳ | **[ARC News Intern (KOMO) - Summer 2026](https://jobright.ai/jobs/info/69be3392b106024562839a38?utm_campaign=1053&utm_source=git)** | Seattle, WA | On Site | Mar 20 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Summer 2026: Community Fridge Intern (Unpaid)](https://jobright.ai/jobs/info/69be0773482822729300bca6?utm_campaign=1053&utm_source=git)** | San Diego, CA | On Site | Mar 20 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[LN Concerts, Talent Booking Intern](https://jobright.ai/jobs/info/69bdff3bb106024562836402?utm_campaign=1053&utm_source=git)** | Beverly Hills, CA, USA | On Site | Mar 20 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Summer 2026: Community Fridge Intern (Unpaid)](https://jobright.ai/jobs/info/69bdf581b1060245628355a8?utm_campaign=1053&utm_source=git)** | San Diego, CA USA | On Site | Mar 20 |
@@ -68,6 +71,7 @@ For a complete list, click the following sortable link below:
 | **[Sinclair Inc.](http://sbgi.net/)** | **[News Intern (Summer 2026)](https://jobright.ai/jobs/info/69bdc60cb10602456282f05e?utm_campaign=1053&utm_source=git)** | 1100 Fairfield Drive, West Palm Beach, FL, 33407, US | On Site | Mar 20 |
 | **[Pacvue](https://www.pacvue.com/)** | **[Video Editor Summer Intern](https://jobright.ai/jobs/info/69bdc373b10602456282e67a?utm_campaign=1053&utm_source=git)** | United States | Remote | Mar 20 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[KABC-TV (ABC7) Digital News Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69bdb66e4828227293000166?utm_campaign=1053&utm_source=git)** | Glendale, CA, USA | On Site | Mar 20 |
+| **[Sinclair Inc.](http://sbgi.net/)** | **[ARC News Intern (KATV) - Summer 2026](https://jobright.ai/jobs/info/69be16e0b1060245628379bb?utm_campaign=1053&utm_source=git)** | 10 Turtle Creek Lane, Little Rock, AR, 72202, US | On Site | Mar 20 |
 | **[GBH](http://www.wgbh.org/)** | **[GBH News "All Things Considered" Internship - Summer 2026](https://jobright.ai/jobs/info/69ba7fab3b74eb1e2c885c84?utm_campaign=1053&utm_source=git)** | Boston, MA | Hybrid | Mar 20 |
 | **[Gray Media](https://graymedia.com)** | **[GRAY MEDIA FUTURE FOCUS INTERN SUMMER '26 - KOTA/KEVN](https://jobright.ai/jobs/info/69bdabfb4828227293ffeca4?utm_campaign=1053&utm_source=git)** | Rapid City, SD | On Site | Mar 20 |
 | **[The National WWII Museum](http://www.nationalww2museum.org/)** | **[World War II Media Center Intern](https://jobright.ai/jobs/info/69bdcb0bb10602456283042b?utm_campaign=1053&utm_source=git)** | New Orleans,LA,US | On Site | Mar 20 |
@@ -88,6 +92,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern (PBS LearningMedia YouTube)](https://jobright.ai/jobs/info/69aa0c5b1f59c56275e2dcd1?utm_campaign=1053&utm_source=git)** | Arlington, VA | Hybrid | Mar 20 |
 | ↳ | **[Intern (PBS KIDS Initiatives and Creative Production)](https://jobright.ai/jobs/info/69bd6d504828227293ff9faa?utm_campaign=1053&utm_source=git)** | Arlington, VA | Hybrid | Mar 20 |
 | **[Michigan Medicine](http://www.uofmhealth.org/)** | **[Video Production Intern](https://jobright.ai/jobs/info/69bd684e393a1008f742be01?utm_campaign=1053&utm_source=git)** | Ann Arbor, MI | Hybrid | Mar 20 |
+| **[DBC Brand](https://www.dbcbrand.com/)** | **[Content Creator](https://jobright.ai/jobs/info/69be20e8393a1008f7440475?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Mar 20 |
 | **[Scientific American](http://www.scientificamerican.com/)** | **[News Intern](https://jobright.ai/jobs/info/69a0bf645218a8167671ea87?utm_campaign=1053&utm_source=git)** | New York, United States | Hybrid | Mar 20 |
 | **[Audacy, Inc.](https://audacyinc.com/)** | **[Summer Intern](https://jobright.ai/jobs/info/69915efa0cc8ea15f1dc03b5?utm_campaign=1053&utm_source=git)** | Farmington, CT | On Site | Mar 20 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[LN Concerts, Booking Intern](https://jobright.ai/jobs/info/69bd9e88b106024562828c83?utm_campaign=1053&utm_source=git)** | Beverly Hills, CA | On Site | Mar 20 |
@@ -127,11 +132,14 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern - Harper's Bazaar](https://jobright.ai/jobs/info/69bc563445e08b3dc1f8d382?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Hybrid | Mar 19 |
 | ↳ | **[Intern - Hearst Magazines International](https://jobright.ai/jobs/info/69bc563445e08b3dc1f8d38d?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Mar 19 |
 | **[S&P Global](https://www.spglobal.com)** | **[Summer Intern, Content & Digital](https://jobright.ai/jobs/info/69bc6e7545e08b3dc1f91e8f?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Mar 19 |
+| **[Hearst Magazines](http://www.hearst.com/magazines)** | **[Intern - Town & Country and Elle Decor](https://jobright.ai/jobs/info/69be149c393a1008f743ed9e?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Hybrid | Mar 19 |
+| **[Hearst Newspapers](https://eevd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_15)** | **[Intern - Harper's Bazaar](https://jobright.ai/jobs/info/69be149c393a1008f743ed9a?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Hybrid | Mar 19 |
 | **[Golden Hippo®](https://www.huntrealestate.com/)** | **[Video Editor Intern](https://jobright.ai/jobs/info/69b3218ea8ac8e70ff674f97?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | Mar 19 |
 | **[Attend Wealth: Financial Solutions For Doctors](https://helloattend.com)** | **[Summer 2026 Media Content Internship](https://jobright.ai/jobs/info/69bc4db84828227293fdec5c?utm_campaign=1053&utm_source=git)** | Atlanta Metro | On Site | Mar 19 |
 | **[Operation Smile](http://www.operationsmile.org)** | **[Writing Internship - Operation Smile ILC](https://jobright.ai/jobs/info/696883c31703f05405aa42b9?utm_campaign=1053&utm_source=git)** | Virginia Beach, VA | On Site | Mar 19 |
 | **[ASM Global](http://www.asmglobal.com)** | **[Hospitality Intern - The Meadows Music Theater](https://jobright.ai/jobs/info/69bc238f5b89c002acf14fe9?utm_campaign=1053&utm_source=git)** | Hartford, CT | On Site | Mar 19 |
 | **[Saks Global](https://www.saksglobal.com)** | **[Alterations Academy Internship](https://jobright.ai/jobs/info/69bc55495b89c002acf1d674?utm_campaign=1053&utm_source=git)** | NM_0219_CHICAGO | On Site | Mar 19 |
+| **[Toronto26](https://www.toronto26.com)** | **[Soccer Content Creator Intern](https://jobright.ai/jobs/info/69be29c7b10602456283901f?utm_campaign=1053&utm_source=git)** | Toronto, ON | On Site | Mar 19 |
 | **[Yale University](https://www.yale.edu)** | **[Production Intern, YUP](https://jobright.ai/jobs/info/69bc07c15b89c002acf0f1f5?utm_campaign=1053&utm_source=git)** | Temple St, 302 | On Site | Mar 19 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[The View Production Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69bbff545b89c002acf0eaca?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Mar 19 |
 | ↳ | **[WLS-TV (ABC7) I-Team & Consumer & News Anchor Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69bbfec645e08b3dc1f7df60?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Mar 19 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Pretzel Logic Productions](https://pretzellogicproductions.com/)** | **[INTERN – Video Editing & Post-Production](https://jobright.ai/jobs/info/69bb48245697383741414909?utm_campaign=1053&utm_source=git)** | San Diego, CA | On Site | Mar 18 |
 | **[ALO](https://www.aloyoga.com/)** | **[PR & Wellness Club Intern](https://jobright.ai/jobs/info/69bb40cc06c1ba00c54dbd37?utm_campaign=1053&utm_source=git)** | Beverly Hills, CA | On Site | Mar 18 |
 | **[Quicknode](https://www.quicknode.com)** | **[Ecosystem Intern](https://jobright.ai/jobs/info/69bc2ee345e08b3dc1f873e8?utm_campaign=1053&utm_source=git)** | USA | Remote | Mar 18 |
-| **[Ingram Micro](https://corp.ingrammicro.com)** | **[Summer Intern - Video Producer](https://jobright.ai/jobs/info/69bb392606c1ba00c54db0fb?utm_campaign=1053&utm_source=git)** | Irvine, CA | Hybrid | Mar 18 |
-| **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Multimedia Production Intern - iDeas Lab (Summer 2026)](https://jobright.ai/jobs/info/69bb303b06c1ba00c54da6e8?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Mar 18 |
-| **[Santa Barbara News-Press](https://www.news-press.com/)** | **[Reporting Intern](https://jobright.ai/jobs/info/69bb29c756973837414128d9?utm_campaign=1053&utm_source=git)** | Santa Barbara, CA | On Site | Mar 18 |
-| **[GovCIO](https://govcio.com)** | **[Staff Writer Intern](https://jobright.ai/jobs/info/69bb1bdf5697383741411a7a?utm_campaign=1053&utm_source=git)** | US-VA-Fairfax | Remote | Mar 18 |
-| ↳ | **[Staff Writer Intern](https://jobright.ai/jobs/info/69bb160a3b74eb1e2c8979c3?utm_campaign=1053&utm_source=git)** | Fairfax, VA, US | Remote | Mar 18 |
-| **[Worcester Railers HC](https://www.railershc.com)** | **[Videographer Intern - Fall 2026](https://jobright.ai/jobs/info/69bb09d83b74eb1e2c895fa8?utm_campaign=1053&utm_source=git)** | Worcester, MA | On Site | Mar 18 |
-| ↳ | **[Game Presentation Intern - Fall 2026](https://jobright.ai/jobs/info/69bb09a706c1ba00c54d6a1e?utm_campaign=1053&utm_source=git)** | Worcester, MA | On Site | Mar 18 |
-| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Digital Content Intern, Unpaid](https://jobright.ai/jobs/info/69bb08ca569738374140e490?utm_campaign=1053&utm_source=git)** | Shreveport, Louisiana, United States | On Site | Mar 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
