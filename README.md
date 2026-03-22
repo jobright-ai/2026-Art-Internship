@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Broken Leg Entertainment](https://brokenleginc.com/)** | **[Editing Intern](https://jobright.ai/jobs/info/69c04a4c79e36d3a847cad7d?utm_campaign=1053&utm_source=git)** | Atlanta, GA | Remote | Mar 22 |
 | **[Their Story is Our Story](https://tsosrefugees.org/)** | **[Spring 2026 Internship Program (Unpaid, Remote) / Their Story is Our Story](https://jobright.ai/jobs/info/69c011f679e36d3a847c8f66?utm_campaign=1053&utm_source=git)** | United States | Remote | Mar 22 |
 | **[Magna International](http://www.magna.com/)** | **[Video Intern - Summer 2026](https://jobright.ai/jobs/info/696ac17f350cf4380311cfd2?utm_campaign=1053&utm_source=git)** | Troy, MI | On Site | Mar 22 |
 | **[Michigan Medicine](http://www.uofmhealth.org/)** | **[Video Production Intern](https://jobright.ai/jobs/info/69bff9622c312363dcd2aae0?utm_campaign=1053&utm_source=git)** | Ann Arbor, MI | Hybrid | Mar 22 |
@@ -151,10 +152,9 @@ For a complete list, click the following sortable link below:
 | **[Gray Media](https://graymedia.com)** | **[GRAY MEDIA FUTURE FOCUS INTERN SUMMER '26 WOIO/WUAB](https://jobright.ai/jobs/info/69bc6ef545e08b3dc1f9225b?utm_campaign=1053&utm_source=git)** | Cleveland, Ohio, United States | On Site | Mar 19 |
 | **[Quicknode](https://www.quicknode.com)** | **[Ecosystem Intern](https://jobright.ai/jobs/info/69bc69cd4828227293fe3e35?utm_campaign=1053&utm_source=git)** | United States | Remote | Mar 19 |
 | **[Gray Media](https://graymedia.com)** | **[GRAY MEDIA FUTURE FOCUS INTERN SUMMER '26 WOIO/WUAB](https://jobright.ai/jobs/info/69bc69134828227293fe3bef?utm_campaign=1053&utm_source=git)** | Cleveland, OH | On Site | Mar 19 |
-| **[Saks Global](https://www.saksglobal.com)** | **[Alterations Academy Internship](https://jobright.ai/jobs/info/69bc80465b89c002acf23e8d?utm_campaign=1053&utm_source=git)** | King of Prussia, PA | On Site | Mar 19 |
-| ↳ | **[Alterations Intern](https://jobright.ai/jobs/info/69bc7e384828227293fe601b?utm_campaign=1053&utm_source=git)** | Short Hills, NJ | On Site | Mar 19 |
+| **[Saks Global](https://www.saksglobal.com)** | **[Alterations Intern](https://jobright.ai/jobs/info/69bc7e384828227293fe601b?utm_campaign=1053&utm_source=git)** | Short Hills, NJ | On Site | Mar 19 |
+| ↳ | **[Alterations Academy Internship](https://jobright.ai/jobs/info/69bc80465b89c002acf23e8d?utm_campaign=1053&utm_source=git)** | King of Prussia, PA | On Site | Mar 19 |
 | **[Hearst Newspapers](https://eevd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_15)** | **[Intern - Hearst Magazines International](https://jobright.ai/jobs/info/69bc56634828227293fe0581?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Mar 19 |
 | **[Hearst Magazines](http://www.hearst.com/magazines)** | **[Intern - Cosmopolitan](https://jobright.ai/jobs/info/69bc565b5b89c002acf1dc15?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Mar 19 |
 | **[Hearst Newspapers](https://eevd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_15)** | **[Intern - Runner's World](https://jobright.ai/jobs/info/69bc56545b89c002acf1dc04?utm_campaign=1053&utm_source=git)** | Easton, PA, United States | On Site | Mar 19 |
-| ↳ | **[Intern - Cosmopolitan](https://jobright.ai/jobs/info/69bc56515b89c002acf1dbdd?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Mar 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
