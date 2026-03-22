@@ -57,13 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Michigan Medicine](http://www.uofmhealth.org/)** | **[Video Production Intern](https://jobright.ai/jobs/info/69bff9622c312363dcd2aae0?utm_campaign=1053&utm_source=git)** | Ann Arbor, MI | Hybrid | Mar 22 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Digital Content Intern](https://jobright.ai/jobs/info/698cc1cb78b4502f12a339b1?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Mar 22 |
 | **[Stride, Inc.](https://www.stridelearning.com)** | **[Content Creator Intern](https://jobright.ai/jobs/info/696aa0835fc86241853999d5?utm_campaign=1053&utm_source=git)** | Virginia, United States | Remote | Mar 22 |
-| **[University of Michigan](https://www.umich.edu)** | **[Video Production Intern](https://jobright.ai/jobs/info/69bfa21079e36d3a847c4ac1?utm_campaign=1053&utm_source=git)** | Ann Arbor, MI | Hybrid | Mar 22 |
 | **[Ever](https://evercars.com)** | **[Video Producer Internship](https://jobright.ai/jobs/info/69bf8b732c312363dcd24a37?utm_campaign=1053&utm_source=git)** | San Francisco | On Site | Mar 21 |
 | ↳ | **[Video Producer Internship](https://jobright.ai/jobs/info/69bf86ce79e36d3a847c27b5?utm_campaign=1053&utm_source=git)** | San Francisco, CA | On Site | Mar 21 |
 | **[University of Idaho](http://www.uidaho.edu/)** | **[Event Operations Coordinator](https://jobright.ai/jobs/info/69bf18d3393a1008f744e516?utm_campaign=1053&utm_source=git)** | Moscow, ID | On Site | Mar 21 |
-| **[Washington Commanders](http://www.commanders.com/)** | **[Football Video Intern](https://jobright.ai/jobs/info/69bf0bf3482822729301b8ae?utm_campaign=1053&utm_source=git)** | Ashburn, VA | On Site | Mar 21 |
 | **[GrantAide](https://www.linkedin.com/company/69304819)** | **[Internship for Creative Video & Animation](https://jobright.ai/jobs/info/69bf0695482822729301b56d?utm_campaign=1053&utm_source=git)** | San Francisco Bay Area | Remote | Mar 21 |
 | **[Joiana](https://joianajewelry.shop/)** | **[Community & Content Intern](https://jobright.ai/jobs/info/69bf83b879e36d3a847c2468?utm_campaign=1053&utm_source=git)** | San Diego, CA | On Site | Mar 21 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Disney Accelerator Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69beefa6393a1008f744c2d9?utm_campaign=1053&utm_source=git)** | Glendale, CA | Hybrid | Mar 21 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Hearst Newspapers](https://eevd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_15)** | **[Intern - Runner's World](https://jobright.ai/jobs/info/69bc56545b89c002acf1dc04?utm_campaign=1053&utm_source=git)** | Easton, PA, United States | On Site | Mar 19 |
 | ↳ | **[Intern - Cosmopolitan](https://jobright.ai/jobs/info/69bc56515b89c002acf1dbdd?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Mar 19 |
 | ↳ | **[Intern - Town & Country and Elle Decor](https://jobright.ai/jobs/info/69bc56505b89c002acf1dbda?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Hybrid | Mar 19 |
+| **[Hearst Magazines](http://www.hearst.com/magazines)** | **[Intern - Runner's World](https://jobright.ai/jobs/info/69bc563545e08b3dc1f8d38e?utm_campaign=1053&utm_source=git)** | Easton, PA, United States | On Site | Mar 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
