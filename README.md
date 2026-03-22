@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[University of Idaho](http://www.uidaho.edu/)** | **[Event Operations Coordinator](https://jobright.ai/jobs/info/69bf18d3393a1008f744e516?utm_campaign=1053&utm_source=git)** | Moscow, ID | On Site | Mar 21 |
 | **[Washington Commanders](http://www.commanders.com/)** | **[Football Video Intern](https://jobright.ai/jobs/info/69bf0bf3482822729301b8ae?utm_campaign=1053&utm_source=git)** | Ashburn, VA | On Site | Mar 21 |
 | **[GrantAide](https://www.linkedin.com/company/69304819)** | **[Internship for Creative Video & Animation](https://jobright.ai/jobs/info/69bf0695482822729301b56d?utm_campaign=1053&utm_source=git)** | San Francisco Bay Area | Remote | Mar 21 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Disney Accelerator Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69beefa6393a1008f744c2d9?utm_campaign=1053&utm_source=git)** | Glendale, CA | Hybrid | Mar 21 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Hearst Magazines](http://www.hearst.com/magazines)** | **[Intern - Town & Country and Elle Decor](https://jobright.ai/jobs/info/69be149c393a1008f743ed9e?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Hybrid | Mar 19 |
 | **[Hearst Newspapers](https://eevd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_15)** | **[Intern - Harper's Bazaar](https://jobright.ai/jobs/info/69be149c393a1008f743ed9a?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Hybrid | Mar 19 |
 | **[Golden Hippo®](https://www.huntrealestate.com/)** | **[Video Editor Intern](https://jobright.ai/jobs/info/69b3218ea8ac8e70ff674f97?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | Mar 19 |
-| **[Attend Wealth: Financial Solutions For Doctors](https://helloattend.com)** | **[Summer 2026 Media Content Internship](https://jobright.ai/jobs/info/69bc4db84828227293fdec5c?utm_campaign=1053&utm_source=git)** | Atlanta Metro | On Site | Mar 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
