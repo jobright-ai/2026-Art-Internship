@@ -77,7 +77,8 @@ For a complete list, click the following sortable link below:
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[NewsNation News Internship Summer 2026 (Washington, DC)](https://jobright.ai/jobs/info/69a25103359fe034b1cd8b57?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Mar 21 |
 | **[Precision Medicine Group](https://www.precisionmedicinegrp.com/pfm/)** | **[Summer 2026 Internship - Medical Writing Intern](https://jobright.ai/jobs/info/69a21e81b600907a96286ac7?utm_campaign=1053&utm_source=git)** | United States | Remote | Mar 21 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Paid Intern (Photojournalist/Multi-Media Journalist/Producer)](https://jobright.ai/jobs/info/68c2c0f25001f8077bf5dcb5?utm_campaign=1053&utm_source=git)** | Wichita, KS | On Site | Mar 21 |
-| ↳ | **[The Hill Summer 2026 Editorial Intern- Washington DC](https://jobright.ai/jobs/info/699026d30cc8ea15f1daceb6?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Mar 21 |
+| **[The National WWII Museum](http://www.nationalww2museum.org/)** | **[World War II Media Center Intern](https://jobright.ai/jobs/info/69bfbbb07798f73e35e49844?utm_campaign=1053&utm_source=git)** | New Orleans, LA | On Site | Mar 21 |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[The Hill Summer 2026 Editorial Intern- Washington DC](https://jobright.ai/jobs/info/699026d30cc8ea15f1daceb6?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Mar 21 |
 | **[WCVB Channel 5](http://www.wcvb.com/)** | **[WCVB News Intern](https://jobright.ai/jobs/info/69be8f64393a1008f74477ab?utm_campaign=1053&utm_source=git)** | Needham, MA | On Site | Mar 21 |
 | **[Kohler Hospitality](https://www.kohlerwisconsin.com/)** | **[Pro Golf Management Intern, Whistling Straits](https://jobright.ai/jobs/info/69bc961f5b89c002acf25a20?utm_campaign=1053&utm_source=git)** | Kohler, WI | On Site | Mar 21 |
 | **[TikTok](https://www.tiktok.com)** | **[Short Drama Localization Project Intern (TikTok-PGC-Short Drama) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/698516de348f733a5c393e8b?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Mar 21 |
@@ -122,6 +123,7 @@ For a complete list, click the following sortable link below:
 | **[DataBank](http://www.databank.com)** | **[Video Producer Intern (Remote)](https://jobright.ai/jobs/info/69bb8b1c5697383741419abe?utm_campaign=1053&utm_source=git)** | Dallas, TX | Remote | Mar 20 |
 | **[Rock Events](https://rockevents.com/)** | **[Event Production Intern - Summer 2026](https://jobright.ai/jobs/info/69a1310f6b458d060735ebff?utm_campaign=1053&utm_source=git)** | Detroit, MI | On Site | Mar 20 |
 | **[Ellucian](http://www.ellucian.com)** | **[Summer Video Intern (Undergraduate)](https://jobright.ai/jobs/info/69a0c79e5218a8167671f2e4?utm_campaign=1053&utm_source=git)** | Reston, VA | Hybrid | Mar 20 |
+| **[Hearst Magazines](http://www.hearst.com/magazines)** | **[Intern - Hearst Magazines International](https://jobright.ai/jobs/info/69bfb55b2c312363dcd277ae?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Mar 20 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[LN Concerts, Production Intern](https://jobright.ai/jobs/info/69bcee0b4828227293ff0306?utm_campaign=1053&utm_source=git)** | Cambridge, MA | On Site | Mar 19 |
 | ↳ | **[LN Concerts, Booking Intern](https://jobright.ai/jobs/info/69bcedef4828227293ff02e1?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | Mar 19 |
 | ↳ | **[LN Concerts, Booking Intern](https://jobright.ai/jobs/info/69bce49ae6a0d97925850f81?utm_campaign=1053&utm_source=git)** | Austin, TX, USA | On Site | Mar 19 |
@@ -152,9 +154,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern - Cosmopolitan](https://jobright.ai/jobs/info/69bc56515b89c002acf1dbdd?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Mar 19 |
 | ↳ | **[Intern - Town & Country and Elle Decor](https://jobright.ai/jobs/info/69bc56505b89c002acf1dbda?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Hybrid | Mar 19 |
 | **[Hearst Magazines](http://www.hearst.com/magazines)** | **[Intern - Runner's World](https://jobright.ai/jobs/info/69bc563545e08b3dc1f8d38e?utm_campaign=1053&utm_source=git)** | Easton, PA, United States | On Site | Mar 19 |
-| ↳ | **[Intern - Harper's Bazaar](https://jobright.ai/jobs/info/69bc563445e08b3dc1f8d382?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Hybrid | Mar 19 |
 | ↳ | **[Intern - Hearst Magazines International](https://jobright.ai/jobs/info/69bc563445e08b3dc1f8d38d?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Mar 19 |
+| ↳ | **[Intern - Harper's Bazaar](https://jobright.ai/jobs/info/69bc563445e08b3dc1f8d382?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Hybrid | Mar 19 |
 | **[S&P Global](https://www.spglobal.com)** | **[Summer Intern, Content & Digital](https://jobright.ai/jobs/info/69bc6e7545e08b3dc1f91e8f?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Mar 19 |
-| **[Hearst Magazines](http://www.hearst.com/magazines)** | **[Intern - Town & Country and Elle Decor](https://jobright.ai/jobs/info/69be149c393a1008f743ed9e?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Hybrid | Mar 19 |
-| **[Hearst Newspapers](https://eevd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_15)** | **[Intern - Harper's Bazaar](https://jobright.ai/jobs/info/69be149c393a1008f743ed9a?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Hybrid | Mar 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
