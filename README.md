@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[National Education Association](http://www.nea.org)** | **[NEA Editorial Intern, Center for Communications (Spring/Summer 2026)](https://jobright.ai/jobs/info/69c0ca7e7798f73e35e55e24?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Mar 22 |
 | **[Sync with God](https://syncwithgod.com)** | **[Content/Book Editor Intern](https://jobright.ai/jobs/info/69c0a9ae2c312363dcd308d6?utm_campaign=1053&utm_source=git)** | Lincoln, NE | Remote | Mar 22 |
 | **[Joiana](https://joianajewelry.shop/)** | **[Community & Content Intern](https://jobright.ai/jobs/info/69c06a0a79e36d3a847cc22d?utm_campaign=1053&utm_source=git)** | San Diego, CA | On Site | Mar 22 |
 | **[Haydenfilms Institute](https://haydenfilmsinstitute.org)** | **[Video Editor – Summer 2026 Internship (Full-Time / For Credit)](https://jobright.ai/jobs/info/69c052557798f73e35e4e960?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | Hybrid | Mar 22 |
@@ -70,6 +71,7 @@ For a complete list, click the following sortable link below:
 | **[Stride, Inc.](https://www.stridelearning.com)** | **[Content Creator Intern](https://jobright.ai/jobs/info/696aa0835fc86241853999d5?utm_campaign=1053&utm_source=git)** | Virginia, United States | Remote | Mar 22 |
 | **[Ever](https://evercars.com)** | **[Video Producer Internship](https://jobright.ai/jobs/info/69bf8b732c312363dcd24a37?utm_campaign=1053&utm_source=git)** | San Francisco | On Site | Mar 21 |
 | ↳ | **[Video Producer Internship](https://jobright.ai/jobs/info/69bf86ce79e36d3a847c27b5?utm_campaign=1053&utm_source=git)** | San Francisco, CA | On Site | Mar 21 |
+| **[Dow Jones](http://www.dowjones.com)** | **[Reporting Internship, Mansion Global](https://jobright.ai/jobs/info/69c0c26a79e36d3a847d0afa?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Mar 21 |
 | **[University of Idaho](http://www.uidaho.edu/)** | **[Event Operations Coordinator](https://jobright.ai/jobs/info/69bf18d3393a1008f744e516?utm_campaign=1053&utm_source=git)** | Moscow, ID | On Site | Mar 21 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Disney Accelerator Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69beefa6393a1008f744c2d9?utm_campaign=1053&utm_source=git)** | Glendale, CA | Hybrid | Mar 21 |
 | **[Higginbotham](https://www.higginbotham.com)** | **[Higginbotham Summer Internship - Corporate Marketing & Communications Video Editor Intern](https://jobright.ai/jobs/info/691694a56f36db06ef057fea?utm_campaign=1053&utm_source=git)** | Fort Worth, TX | On Site | Mar 21 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Skirball Cultural Center](https://www.skirball.org)** | **[Superhero Sketching Internship](https://jobright.ai/jobs/info/69bc76194828227293fe575a?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Mar 19 |
 | **[Hearst Magazines](http://www.hearst.com/magazines)** | **[Intern - Cosmopolitan](https://jobright.ai/jobs/info/69bc75df4828227293fe56fa?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Mar 19 |
 | **[Gray Media](https://graymedia.com)** | **[GRAY MEDIA FUTURE FOCUS INTERN SUMMER '26 WOIO/WUAB](https://jobright.ai/jobs/info/69bc6ef545e08b3dc1f9225b?utm_campaign=1053&utm_source=git)** | Cleveland, Ohio, United States | On Site | Mar 19 |
-| **[Quicknode](https://www.quicknode.com)** | **[Ecosystem Intern](https://jobright.ai/jobs/info/69bc69cd4828227293fe3e35?utm_campaign=1053&utm_source=git)** | United States | Remote | Mar 19 |
-| **[Gray Media](https://graymedia.com)** | **[GRAY MEDIA FUTURE FOCUS INTERN SUMMER '26 WOIO/WUAB](https://jobright.ai/jobs/info/69bc69134828227293fe3bef?utm_campaign=1053&utm_source=git)** | Cleveland, OH | On Site | Mar 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
