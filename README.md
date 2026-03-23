@@ -98,10 +98,11 @@ For a complete list, click the following sortable link below:
 | **[Sinclair Inc.](http://sbgi.net/)** | **[ARC News Intern (WHAM) - Summer 2026](https://jobright.ai/jobs/info/69be33a2482822729300eda4?utm_campaign=1053&utm_source=git)** | Rochester, NY | On Site | Mar 20 |
 | ↳ | **[News Intern (Summer 2026)](https://jobright.ai/jobs/info/69be3397482822729300ed92?utm_campaign=1053&utm_source=git)** | Portland, OR | On Site | Mar 20 |
 | ↳ | **[ARC News Intern (KOMO) - Summer 2026](https://jobright.ai/jobs/info/69be3392b106024562839a38?utm_campaign=1053&utm_source=git)** | Seattle, WA | On Site | Mar 20 |
+| **[PBS](http://www.pbs.org)** | **[Intern (Station Services - Station Programming Engagement)](https://jobright.ai/jobs/info/69c0da8379e36d3a847d2f16?utm_campaign=1053&utm_source=git)** | Arlington, VA | On Site | Mar 20 |
+| **[Coastal Carolina University](http://www.coastal.edu/)** | **[Production Assistant (Student Employee)](https://jobright.ai/jobs/info/69b30326a8ac8e70ff6727ac?utm_campaign=1053&utm_source=git)** | Conway, SC | On Site | Mar 20 |
 | **[PBS](http://www.pbs.org)** | **[Intern (PBS LearningMedia YouTube)](https://jobright.ai/jobs/info/69c0bb0e7798f73e35e540a6?utm_campaign=1053&utm_source=git)** | Arlington, VA | Hybrid | Mar 20 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Summer 2026: Community Fridge Intern (Unpaid)](https://jobright.ai/jobs/info/69be0773482822729300bca6?utm_campaign=1053&utm_source=git)** | San Diego, CA | On Site | Mar 20 |
-| **[PBS](http://www.pbs.org)** | **[Intern (Digital Studios)](https://jobright.ai/jobs/info/69c0afb27798f73e35e52eee?utm_campaign=1053&utm_source=git)** | Arlington, VA | Hybrid | Mar 20 |
-| ↳ | **[Intern (PBS KIDS Distribution)](https://jobright.ai/jobs/info/69c0a66c7798f73e35e51ae0?utm_campaign=1053&utm_source=git)** | Arlington, VA | Hybrid | Mar 20 |
+| **[PBS](http://www.pbs.org)** | **[Intern (PBS KIDS Distribution)](https://jobright.ai/jobs/info/69c0a66c7798f73e35e51ae0?utm_campaign=1053&utm_source=git)** | Arlington, VA | Hybrid | Mar 20 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[LN Concerts, Talent Booking Intern](https://jobright.ai/jobs/info/69bdff3bb106024562836402?utm_campaign=1053&utm_source=git)** | Beverly Hills, CA, USA | On Site | Mar 20 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Summer 2026: Community Fridge Intern (Unpaid)](https://jobright.ai/jobs/info/69bdf581b1060245628355a8?utm_campaign=1053&utm_source=git)** | San Diego, CA USA | On Site | Mar 20 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[LN Concerts, Production Intern](https://jobright.ai/jobs/info/69bdeede4828227293009d61?utm_campaign=1053&utm_source=git)** | San Francisco, CA | On Site | Mar 20 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Hearst Magazines](http://www.hearst.com/magazines)** | **[Intern - Harper's Bazaar](https://jobright.ai/jobs/info/69bc768245e08b3dc1f935c6?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Mar 19 |
 | **[Skirball Cultural Center](https://www.skirball.org)** | **[Superhero Sketching Internship](https://jobright.ai/jobs/info/69bc76194828227293fe575a?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Mar 19 |
 | **[Hearst Magazines](http://www.hearst.com/magazines)** | **[Intern - Cosmopolitan](https://jobright.ai/jobs/info/69bc75df4828227293fe56fa?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Mar 19 |
-| **[Gray Media](https://graymedia.com)** | **[GRAY MEDIA FUTURE FOCUS INTERN SUMMER '26 WOIO/WUAB](https://jobright.ai/jobs/info/69bc6ef545e08b3dc1f9225b?utm_campaign=1053&utm_source=git)** | Cleveland, Ohio, United States | On Site | Mar 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
