@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[eoFlix](https://entertainmentoxygen.com/)** | **[Content Program & Partnerships Intern (Remote)](https://jobright.ai/jobs/info/69c1072f7798f73e35e5d330?utm_campaign=1053&utm_source=git)** | West Hollywood, CA | Remote | Mar 23 |
 | **[University of Michigan](https://www.umich.edu)** | **[Video Production Intern](https://jobright.ai/jobs/info/69c0f48c7798f73e35e5a752?utm_campaign=1053&utm_source=git)** | Ann Arbor, MI | Hybrid | Mar 23 |
 | **[National Education Association](http://www.nea.org)** | **[NEA Editorial Intern, Center for Communications (Spring/Summer 2026)](https://jobright.ai/jobs/info/69c0ca7e7798f73e35e55e24?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Mar 22 |
 | **[Sync with God](https://syncwithgod.com)** | **[Content/Book Editor Intern](https://jobright.ai/jobs/info/69c0a9ae2c312363dcd308d6?utm_campaign=1053&utm_source=git)** | Lincoln, NE | Remote | Mar 22 |
@@ -65,7 +66,6 @@ For a complete list, click the following sortable link below:
 | **[Cliff Castle Casino Hotel](https://www.cliffcastlecasinohotel.com)** | **[Intern Chef](https://jobright.ai/jobs/info/69c04e7c2c312363dcd2d2da?utm_campaign=1053&utm_source=git)** | Camp Verde, AZ | On Site | Mar 22 |
 | **[Their Story is Our Story](https://tsosrefugees.org/)** | **[Spring 2026 Internship Program (Unpaid, Remote) / Their Story is Our Story](https://jobright.ai/jobs/info/69c011f679e36d3a847c8f66?utm_campaign=1053&utm_source=git)** | United States | Remote | Mar 22 |
 | **[Magna International](http://www.magna.com/)** | **[Video Intern - Summer 2026](https://jobright.ai/jobs/info/696ac17f350cf4380311cfd2?utm_campaign=1053&utm_source=git)** | Troy, MI | On Site | Mar 22 |
-| **[Michigan Medicine](http://www.uofmhealth.org/)** | **[Video Production Intern](https://jobright.ai/jobs/info/69bff9622c312363dcd2aae0?utm_campaign=1053&utm_source=git)** | Ann Arbor, MI | Hybrid | Mar 22 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Digital Content Intern](https://jobright.ai/jobs/info/698cc1cb78b4502f12a339b1?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Mar 22 |
 | **[Stride, Inc.](https://www.stridelearning.com)** | **[Content Creator Intern](https://jobright.ai/jobs/info/696aa0835fc86241853999d5?utm_campaign=1053&utm_source=git)** | Virginia, United States | Remote | Mar 22 |
 | **[Ever](https://evercars.com)** | **[Video Producer Internship](https://jobright.ai/jobs/info/69bf8b732c312363dcd24a37?utm_campaign=1053&utm_source=git)** | San Francisco | On Site | Mar 21 |
@@ -156,5 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Gray Media](https://graymedia.com)** | **[GRAY MEDIA FUTURE FOCUS INTERN SUMMER '26 WOIO/WUAB](https://jobright.ai/jobs/info/69bc6ef545e08b3dc1f9225b?utm_campaign=1053&utm_source=git)** | Cleveland, Ohio, United States | On Site | Mar 19 |
 | **[Quicknode](https://www.quicknode.com)** | **[Ecosystem Intern](https://jobright.ai/jobs/info/69bc69cd4828227293fe3e35?utm_campaign=1053&utm_source=git)** | United States | Remote | Mar 19 |
 | **[Gray Media](https://graymedia.com)** | **[GRAY MEDIA FUTURE FOCUS INTERN SUMMER '26 WOIO/WUAB](https://jobright.ai/jobs/info/69bc69134828227293fe3bef?utm_campaign=1053&utm_source=git)** | Cleveland, OH | On Site | Mar 19 |
-| **[Saks Global](https://www.saksglobal.com)** | **[Alterations Academy Internship](https://jobright.ai/jobs/info/69bc80465b89c002acf23e8d?utm_campaign=1053&utm_source=git)** | King of Prussia, PA | On Site | Mar 19 |
+| **[Saks Global](https://www.saksglobal.com)** | **[Alterations Intern](https://jobright.ai/jobs/info/69bc7e384828227293fe601b?utm_campaign=1053&utm_source=git)** | Short Hills, NJ | On Site | Mar 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
