@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Intern, Weather](https://jobright.ai/jobs/info/69c19fa779e36d3a847e9c77?utm_campaign=1053&utm_source=git)** | IL, Champaign | On Site | Mar 23 |
 | **[PBS](http://www.pbs.org)** | **[Intern (PBS KIDS Initiatives and Creative Production)](https://jobright.ai/jobs/info/69c19cf275f7ff1cd80fdddc?utm_campaign=1053&utm_source=git)** | Arlington, VA | On Site | Mar 23 |
 | ↳ | **[Intern (PBS KIDS Distribution)](https://jobright.ai/jobs/info/69c19ce575f7ff1cd80fdda1?utm_campaign=1053&utm_source=git)** | Arlington, VA | On Site | Mar 23 |
 | **[Cars Commerce](https://www.carscommerce.inc)** | **[Editorial News Intern](https://jobright.ai/jobs/info/69c1986875f7ff1cd80fca52?utm_campaign=1053&utm_source=git)** | Remote - Illinois | Remote | Mar 23 |
@@ -72,7 +73,7 @@ For a complete list, click the following sortable link below:
 | **[Santa Barbara News-Press](https://www.news-press.com/)** | **[Reporting Intern](https://jobright.ai/jobs/info/69c1657d79e36d3a847e1425?utm_campaign=1053&utm_source=git)** | Santa Barbara, CA | On Site | Mar 23 |
 | **[Miami Waterkeeper](https://www.miamiwaterkeeper.org)** | **[Multilingual Digital Content Intern](https://jobright.ai/jobs/info/69c15f3079e36d3a847e0993?utm_campaign=1053&utm_source=git)** | Coral Gables, FL | On Site | Mar 23 |
 | **[Daktronics](http://www.daktronics.com/en-us)** | **[James Madison University Event Production Intern](https://jobright.ai/jobs/info/6959d946f1f8465b79f0377f?utm_campaign=1053&utm_source=git)** | Harrisonburg, VA | On Site | Mar 23 |
-| **[Greening Youth Foundation NA](https://gyfoundation.org/)** | **[Transformation of Freedom Intern](https://jobright.ai/jobs/info/69c197182c312363dcd4a239?utm_campaign=1053&utm_source=git)** | Jackson, MS | On Site | Mar 23 |
+| **[Greening Youth Foundation NA](https://gyfoundation.org/)** | **[Transformation of Freedom Intern](https://jobright.ai/jobs/info/69c1a48d2c312363dcd4c8fe?utm_campaign=1053&utm_source=git)** | Jackson, MS | On Site | Mar 23 |
 | **[Omnicom Health](http://www.omnicomhealthgroup.com/)** | **[2026 Bold Beginners - Editorial Intern](https://jobright.ai/jobs/info/69b186e1548f140066e75ea6?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Mar 23 |
 | **[National Education Association](http://www.nea.org)** | **[NEA Editorial Intern, Center for Communications (Spring/Summer 2026)](https://jobright.ai/jobs/info/69c0ca7e7798f73e35e55e24?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Mar 22 |
 | **[Sync with God](https://syncwithgod.com)** | **[Content/Book Editor Intern](https://jobright.ai/jobs/info/69c0a9ae2c312363dcd308d6?utm_campaign=1053&utm_source=git)** | Lincoln, NE | Remote | Mar 22 |
@@ -145,7 +146,6 @@ For a complete list, click the following sortable link below:
 | **[KCRA 3 & My58 Television](http://www.kcra.com)** | **[Intern](https://jobright.ai/jobs/info/69a0c5340836fe79d861c5c9?utm_campaign=1053&utm_source=git)** | Sacramento, CA | On Site | Mar 20 |
 | **[DataBank](http://www.databank.com)** | **[Video Producer Intern (Remote)](https://jobright.ai/jobs/info/69bb8b1c5697383741419abe?utm_campaign=1053&utm_source=git)** | Dallas, TX | Remote | Mar 20 |
 | **[Rock Events](https://rockevents.com/)** | **[Event Production Intern - Summer 2026](https://jobright.ai/jobs/info/69a1310f6b458d060735ebff?utm_campaign=1053&utm_source=git)** | Detroit, MI | On Site | Mar 20 |
-| **[U.S. Hunger](https://ushunger.org/)** | **[Summer 2026 Grant Writing Mission Intern](https://jobright.ai/jobs/info/69c129db79e36d3a847dc73b?utm_campaign=1053&utm_source=git)** | Longwood, FL | On Site | Mar 20 |
 | **[Ellucian](http://www.ellucian.com)** | **[Summer Video Intern (Undergraduate)](https://jobright.ai/jobs/info/69a0c79e5218a8167671f2e4?utm_campaign=1053&utm_source=git)** | Reston, VA | Hybrid | Mar 20 |
 | **[Hearst Magazines](http://www.hearst.com/magazines)** | **[Intern - Hearst Magazines International](https://jobright.ai/jobs/info/69bfb55b2c312363dcd277ae?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Mar 20 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[LN Concerts, Production Intern](https://jobright.ai/jobs/info/69bcee0b4828227293ff0306?utm_campaign=1053&utm_source=git)** | Cambridge, MA | On Site | Mar 19 |
