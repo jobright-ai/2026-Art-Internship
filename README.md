@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Joiana](https://joianajewelry.shop/)** | **[Community & Content Intern](https://jobright.ai/jobs/info/69c06a0a79e36d3a847cc22d?utm_campaign=1053&utm_source=git)** | San Diego, CA | On Site | Mar 22 |
 | **[Haydenfilms Institute](https://haydenfilmsinstitute.org)** | **[Video Editor – Summer 2026 Internship (Full-Time / For Credit)](https://jobright.ai/jobs/info/69c052557798f73e35e4e960?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | Hybrid | Mar 22 |
 | **[City of Irving](https://www.cityofirving.org/2623/Family-Advocacy-Center)** | **[Intern - Production (Part-Time)](https://jobright.ai/jobs/info/69c0504a79e36d3a847caeaf?utm_campaign=1053&utm_source=git)** | Irving, TX | On Site | Mar 22 |
 | **[Cliff Castle Casino Hotel](https://www.cliffcastlecasinohotel.com)** | **[Intern Chef](https://jobright.ai/jobs/info/69c04e7c2c312363dcd2d2da?utm_campaign=1053&utm_source=git)** | Camp Verde, AZ | On Site | Mar 22 |
@@ -70,7 +71,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Video Producer Internship](https://jobright.ai/jobs/info/69bf86ce79e36d3a847c27b5?utm_campaign=1053&utm_source=git)** | San Francisco, CA | On Site | Mar 21 |
 | **[University of Idaho](http://www.uidaho.edu/)** | **[Event Operations Coordinator](https://jobright.ai/jobs/info/69bf18d3393a1008f744e516?utm_campaign=1053&utm_source=git)** | Moscow, ID | On Site | Mar 21 |
 | **[GrantAide](https://www.linkedin.com/company/69304819)** | **[Internship for Creative Video & Animation](https://jobright.ai/jobs/info/69bf0695482822729301b56d?utm_campaign=1053&utm_source=git)** | San Francisco Bay Area | Remote | Mar 21 |
-| **[Joiana](https://joianajewelry.shop/)** | **[Community & Content Intern](https://jobright.ai/jobs/info/69bf83b879e36d3a847c2468?utm_campaign=1053&utm_source=git)** | San Diego, CA | On Site | Mar 21 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Disney Accelerator Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69beefa6393a1008f744c2d9?utm_campaign=1053&utm_source=git)** | Glendale, CA | Hybrid | Mar 21 |
 | **[Higginbotham](https://www.higginbotham.com)** | **[Higginbotham Summer Internship - Corporate Marketing & Communications Video Editor Intern](https://jobright.ai/jobs/info/691694a56f36db06ef057fea?utm_campaign=1053&utm_source=git)** | Fort Worth, TX | On Site | Mar 21 |
 | **[Times Union Media Group](http://www.timesunion.com)** | **[Newsroom Summer Intern](https://jobright.ai/jobs/info/69bec41e393a1008f744a1e7?utm_campaign=1053&utm_source=git)** | Albany, NY | Hybrid | Mar 21 |
@@ -126,8 +126,8 @@ For a complete list, click the following sortable link below:
 | **[DBC Brand](https://www.dbcbrand.com/)** | **[Content Creator](https://jobright.ai/jobs/info/69be20e8393a1008f7440475?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Mar 20 |
 | **[Scientific American](http://www.scientificamerican.com/)** | **[News Intern](https://jobright.ai/jobs/info/69a0bf645218a8167671ea87?utm_campaign=1053&utm_source=git)** | New York, United States | Hybrid | Mar 20 |
 | **[Audacy, Inc.](https://audacyinc.com/)** | **[Summer Intern](https://jobright.ai/jobs/info/69915efa0cc8ea15f1dc03b5?utm_campaign=1053&utm_source=git)** | Farmington, CT | On Site | Mar 20 |
-| **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[LN Concerts, Booking Intern](https://jobright.ai/jobs/info/69bd9e86b106024562828c81?utm_campaign=1053&utm_source=git)** | Beverly Hills, CA | On Site | Mar 20 |
-| ↳ | **[LN Concerts, Booking Intern](https://jobright.ai/jobs/info/69bd9e88b106024562828c83?utm_campaign=1053&utm_source=git)** | Beverly Hills, CA | On Site | Mar 20 |
+| **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[LN Concerts, Booking Intern](https://jobright.ai/jobs/info/69bd9e88b106024562828c83?utm_campaign=1053&utm_source=git)** | Beverly Hills, CA | On Site | Mar 20 |
+| ↳ | **[LN Concerts, Booking Intern](https://jobright.ai/jobs/info/69bd9e86b106024562828c81?utm_campaign=1053&utm_source=git)** | Beverly Hills, CA | On Site | Mar 20 |
 | **[KCRA 3 & My58 Television](http://www.kcra.com)** | **[Intern](https://jobright.ai/jobs/info/69a0c5340836fe79d861c5c9?utm_campaign=1053&utm_source=git)** | Sacramento, CA | On Site | Mar 20 |
 | **[DataBank](http://www.databank.com)** | **[Video Producer Intern (Remote)](https://jobright.ai/jobs/info/69bb8b1c5697383741419abe?utm_campaign=1053&utm_source=git)** | Dallas, TX | Remote | Mar 20 |
 | **[Rock Events](https://rockevents.com/)** | **[Event Production Intern - Summer 2026](https://jobright.ai/jobs/info/69a1310f6b458d060735ebff?utm_campaign=1053&utm_source=git)** | Detroit, MI | On Site | Mar 20 |
