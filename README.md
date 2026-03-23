@@ -57,10 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TruGen AI](https://trugen.ai)** | **[Short-Form Video Creator: Startup Content (Internship)](https://jobright.ai/jobs/info/69c1712775f7ff1cd80f69df?utm_campaign=1053&utm_source=git)** | Chicago, IL | Hybrid | Mar 23 |
+| **[Magnet Media, Inc.](http://www.magnetmediafilms.com)** | **[Production Intern Summer 2026](https://jobright.ai/jobs/info/69c16da479e36d3a847e1eab?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Mar 23 |
+| **[English Language and Literature](englishlanguageandliterature.com)** | **[Web Content Writer](https://jobright.ai/jobs/info/69c16c512c312363dcd4401b?utm_campaign=1053&utm_source=git)** | United States | Remote | Mar 23 |
+| **[Santa Barbara News-Press](https://www.news-press.com/)** | **[Reporting Intern](https://jobright.ai/jobs/info/69c1657d79e36d3a847e1425?utm_campaign=1053&utm_source=git)** | Santa Barbara, CA | On Site | Mar 23 |
+| **[Miami Waterkeeper](https://www.miamiwaterkeeper.org)** | **[Multilingual Digital Content Intern](https://jobright.ai/jobs/info/69c15f3079e36d3a847e0993?utm_campaign=1053&utm_source=git)** | Coral Gables, FL | On Site | Mar 23 |
+| **[Daktronics](http://www.daktronics.com/en-us)** | **[James Madison University Event Production Intern](https://jobright.ai/jobs/info/6959d946f1f8465b79f0377f?utm_campaign=1053&utm_source=git)** | Harrisonburg, VA | On Site | Mar 23 |
 | **[NexStratus](www.nexstratus.com)** | **[GTM & Narrative Intern (AI + Enterprise)](https://jobright.ai/jobs/info/69c14a7e79e36d3a847de8b5?utm_campaign=1053&utm_source=git)** | Cary, NC | Remote | Mar 23 |
 | **[Omnicom Health](http://www.omnicomhealthgroup.com/)** | **[2026 Bold Beginners - Editorial Intern](https://jobright.ai/jobs/info/69b186e1548f140066e75ea6?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Mar 23 |
-| **[Canyon Entertainment Group](https://canyonentertainmentgroup.com)** | **[Live Event Management Internship](https://jobright.ai/jobs/info/69c12da02c312363dcd3ef86?utm_campaign=1053&utm_source=git)** | Canada | Remote | Mar 23 |
-| **[eoFlix](https://entertainmentoxygen.com/)** | **[Content Program & Partnerships Intern (Remote)](https://jobright.ai/jobs/info/69c1072f7798f73e35e5d330?utm_campaign=1053&utm_source=git)** | West Hollywood, CA | Remote | Mar 23 |
 | **[University of Michigan](https://www.umich.edu)** | **[Video Production Intern](https://jobright.ai/jobs/info/69c0f48c7798f73e35e5a752?utm_campaign=1053&utm_source=git)** | Ann Arbor, MI | Hybrid | Mar 23 |
 | **[National Education Association](http://www.nea.org)** | **[NEA Editorial Intern, Center for Communications (Spring/Summer 2026)](https://jobright.ai/jobs/info/69c0ca7e7798f73e35e55e24?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Mar 22 |
 | **[Sync with God](https://syncwithgod.com)** | **[Content/Book Editor Intern](https://jobright.ai/jobs/info/69c0a9ae2c312363dcd308d6?utm_campaign=1053&utm_source=git)** | Lincoln, NE | Remote | Mar 22 |
@@ -128,8 +132,8 @@ For a complete list, click the following sortable link below:
 | **[DBC Brand](https://www.dbcbrand.com/)** | **[Content Creator](https://jobright.ai/jobs/info/69be20e8393a1008f7440475?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Mar 20 |
 | **[Scientific American](http://www.scientificamerican.com/)** | **[News Intern](https://jobright.ai/jobs/info/69a0bf645218a8167671ea87?utm_campaign=1053&utm_source=git)** | New York, United States | Hybrid | Mar 20 |
 | **[Audacy, Inc.](https://audacyinc.com/)** | **[Summer Intern](https://jobright.ai/jobs/info/69915efa0cc8ea15f1dc03b5?utm_campaign=1053&utm_source=git)** | Farmington, CT | On Site | Mar 20 |
-| **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[LN Concerts, Booking Intern](https://jobright.ai/jobs/info/69bd9e88b106024562828c83?utm_campaign=1053&utm_source=git)** | Beverly Hills, CA | On Site | Mar 20 |
-| ↳ | **[LN Concerts, Booking Intern](https://jobright.ai/jobs/info/69bd9e86b106024562828c81?utm_campaign=1053&utm_source=git)** | Beverly Hills, CA | On Site | Mar 20 |
+| **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[LN Concerts, Booking Intern](https://jobright.ai/jobs/info/69bd9e86b106024562828c81?utm_campaign=1053&utm_source=git)** | Beverly Hills, CA | On Site | Mar 20 |
+| ↳ | **[LN Concerts, Booking Intern](https://jobright.ai/jobs/info/69bd9e88b106024562828c83?utm_campaign=1053&utm_source=git)** | Beverly Hills, CA | On Site | Mar 20 |
 | **[KCRA 3 & My58 Television](http://www.kcra.com)** | **[Intern](https://jobright.ai/jobs/info/69a0c5340836fe79d861c5c9?utm_campaign=1053&utm_source=git)** | Sacramento, CA | On Site | Mar 20 |
 | **[DataBank](http://www.databank.com)** | **[Video Producer Intern (Remote)](https://jobright.ai/jobs/info/69bb8b1c5697383741419abe?utm_campaign=1053&utm_source=git)** | Dallas, TX | Remote | Mar 20 |
 | **[Rock Events](https://rockevents.com/)** | **[Event Production Intern - Summer 2026](https://jobright.ai/jobs/info/69a1310f6b458d060735ebff?utm_campaign=1053&utm_source=git)** | Detroit, MI | On Site | Mar 20 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[University of Wyoming](https://www.uwyo.edu/)** | **[Hourly Pooled - Event Management Intern, Game Management](https://jobright.ai/jobs/info/69bc77fd4828227293fe5983?utm_campaign=1053&utm_source=git)** | University of Wyoming, Laramie, WY, 82071, US | On Site | Mar 19 |
 | **[Hearst Magazines](http://www.hearst.com/magazines)** | **[Intern - Harper's Bazaar](https://jobright.ai/jobs/info/69bc768245e08b3dc1f935c6?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Mar 19 |
 | **[Skirball Cultural Center](https://www.skirball.org)** | **[Superhero Sketching Internship](https://jobright.ai/jobs/info/69bc76194828227293fe575a?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Mar 19 |
-| **[Gray Media](https://graymedia.com)** | **[GRAY MEDIA FUTURE FOCUS INTERN SUMMER '26 WOIO/WUAB](https://jobright.ai/jobs/info/69bc6ef545e08b3dc1f9225b?utm_campaign=1053&utm_source=git)** | Cleveland, Ohio, United States | On Site | Mar 19 |
-| **[Quicknode](https://www.quicknode.com)** | **[Ecosystem Intern](https://jobright.ai/jobs/info/69bc69cd4828227293fe3e35?utm_campaign=1053&utm_source=git)** | United States | Remote | Mar 19 |
-| **[Gray Media](https://graymedia.com)** | **[GRAY MEDIA FUTURE FOCUS INTERN SUMMER '26 WOIO/WUAB](https://jobright.ai/jobs/info/69bc69134828227293fe3bef?utm_campaign=1053&utm_source=git)** | Cleveland, OH | On Site | Mar 19 |
-| **[Saks Global](https://www.saksglobal.com)** | **[Alterations Academy Internship](https://jobright.ai/jobs/info/69bc80465b89c002acf23e8d?utm_campaign=1053&utm_source=git)** | King of Prussia, PA | On Site | Mar 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
