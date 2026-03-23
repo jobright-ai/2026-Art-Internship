@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[NexStratus](www.nexstratus.com)** | **[GTM & Narrative Intern (AI + Enterprise)](https://jobright.ai/jobs/info/69c14a7e79e36d3a847de8b5?utm_campaign=1053&utm_source=git)** | Cary, NC | Remote | Mar 23 |
 | **[Omnicom Health](http://www.omnicomhealthgroup.com/)** | **[2026 Bold Beginners - Editorial Intern](https://jobright.ai/jobs/info/69b186e1548f140066e75ea6?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Mar 23 |
 | **[Canyon Entertainment Group](https://canyonentertainmentgroup.com)** | **[Live Event Management Internship](https://jobright.ai/jobs/info/69c12da02c312363dcd3ef86?utm_campaign=1053&utm_source=git)** | Canada | Remote | Mar 23 |
 | **[eoFlix](https://entertainmentoxygen.com/)** | **[Content Program & Partnerships Intern (Remote)](https://jobright.ai/jobs/info/69c1072f7798f73e35e5d330?utm_campaign=1053&utm_source=git)** | West Hollywood, CA | Remote | Mar 23 |
@@ -123,13 +124,12 @@ For a complete list, click the following sortable link below:
 | **[City of Douglasville, GA](https://www.douglasvillega.gov/)** | **[INTERN - KEEP DOUGLASVILLE BEAUTIFUL (SUMMER)](https://jobright.ai/jobs/info/69bd90ea393a1008f742efa1?utm_campaign=1053&utm_source=git)** | Douglasville, GA, US | On Site | Mar 20 |
 | **[MentorX Corp.](http://mentorx.net)** | **[IP Content Intern](https://jobright.ai/jobs/info/69bd8fef4828227293ffcbd0?utm_campaign=1053&utm_source=git)** | Irvine, CA | On Site | Mar 20 |
 | **[Editorialist](http://editorialist.com)** | **[Editorial Intern](https://jobright.ai/jobs/info/69bd790fb106024562826543?utm_campaign=1053&utm_source=git)** | New York City | On Site | Mar 20 |
-| **[Salvi](https://www.salvimedia.com/)** | **[Editing Intern](https://jobright.ai/jobs/info/69bd7766b1060245628262ff?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Mar 20 |
 | **[Battery Park City Authority](https://bpca.ny.gov/home/)** | **[Community & Public Arts Intern](https://jobright.ai/jobs/info/69bd6f624828227293ffa406?utm_campaign=1053&utm_source=git)** | New York, NY, US | On Site | Mar 20 |
 | **[DBC Brand](https://www.dbcbrand.com/)** | **[Content Creator](https://jobright.ai/jobs/info/69be20e8393a1008f7440475?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Mar 20 |
 | **[Scientific American](http://www.scientificamerican.com/)** | **[News Intern](https://jobright.ai/jobs/info/69a0bf645218a8167671ea87?utm_campaign=1053&utm_source=git)** | New York, United States | Hybrid | Mar 20 |
 | **[Audacy, Inc.](https://audacyinc.com/)** | **[Summer Intern](https://jobright.ai/jobs/info/69915efa0cc8ea15f1dc03b5?utm_campaign=1053&utm_source=git)** | Farmington, CT | On Site | Mar 20 |
-| **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[LN Concerts, Booking Intern](https://jobright.ai/jobs/info/69bd9e86b106024562828c81?utm_campaign=1053&utm_source=git)** | Beverly Hills, CA | On Site | Mar 20 |
-| ↳ | **[LN Concerts, Booking Intern](https://jobright.ai/jobs/info/69bd9e88b106024562828c83?utm_campaign=1053&utm_source=git)** | Beverly Hills, CA | On Site | Mar 20 |
+| **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[LN Concerts, Booking Intern](https://jobright.ai/jobs/info/69bd9e88b106024562828c83?utm_campaign=1053&utm_source=git)** | Beverly Hills, CA | On Site | Mar 20 |
+| ↳ | **[LN Concerts, Booking Intern](https://jobright.ai/jobs/info/69bd9e86b106024562828c81?utm_campaign=1053&utm_source=git)** | Beverly Hills, CA | On Site | Mar 20 |
 | **[KCRA 3 & My58 Television](http://www.kcra.com)** | **[Intern](https://jobright.ai/jobs/info/69a0c5340836fe79d861c5c9?utm_campaign=1053&utm_source=git)** | Sacramento, CA | On Site | Mar 20 |
 | **[DataBank](http://www.databank.com)** | **[Video Producer Intern (Remote)](https://jobright.ai/jobs/info/69bb8b1c5697383741419abe?utm_campaign=1053&utm_source=git)** | Dallas, TX | Remote | Mar 20 |
 | **[Rock Events](https://rockevents.com/)** | **[Event Production Intern - Summer 2026](https://jobright.ai/jobs/info/69a1310f6b458d060735ebff?utm_campaign=1053&utm_source=git)** | Detroit, MI | On Site | Mar 20 |
@@ -153,8 +153,8 @@ For a complete list, click the following sortable link below:
 | **[University of Wyoming](https://www.uwyo.edu/)** | **[Hourly Pooled - Event Management Intern, Game Management](https://jobright.ai/jobs/info/69bc77fd4828227293fe5983?utm_campaign=1053&utm_source=git)** | University of Wyoming, Laramie, WY, 82071, US | On Site | Mar 19 |
 | **[Hearst Magazines](http://www.hearst.com/magazines)** | **[Intern - Harper's Bazaar](https://jobright.ai/jobs/info/69bc768245e08b3dc1f935c6?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Mar 19 |
 | **[Skirball Cultural Center](https://www.skirball.org)** | **[Superhero Sketching Internship](https://jobright.ai/jobs/info/69bc76194828227293fe575a?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Mar 19 |
-| **[Hearst Magazines](http://www.hearst.com/magazines)** | **[Intern - Cosmopolitan](https://jobright.ai/jobs/info/69bc75df4828227293fe56fa?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Mar 19 |
 | **[Gray Media](https://graymedia.com)** | **[GRAY MEDIA FUTURE FOCUS INTERN SUMMER '26 WOIO/WUAB](https://jobright.ai/jobs/info/69bc6ef545e08b3dc1f9225b?utm_campaign=1053&utm_source=git)** | Cleveland, Ohio, United States | On Site | Mar 19 |
 | **[Quicknode](https://www.quicknode.com)** | **[Ecosystem Intern](https://jobright.ai/jobs/info/69bc69cd4828227293fe3e35?utm_campaign=1053&utm_source=git)** | United States | Remote | Mar 19 |
 | **[Gray Media](https://graymedia.com)** | **[GRAY MEDIA FUTURE FOCUS INTERN SUMMER '26 WOIO/WUAB](https://jobright.ai/jobs/info/69bc69134828227293fe3bef?utm_campaign=1053&utm_source=git)** | Cleveland, OH | On Site | Mar 19 |
+| **[Saks Global](https://www.saksglobal.com)** | **[Alterations Academy Internship](https://jobright.ai/jobs/info/69bc80465b89c002acf23e8d?utm_campaign=1053&utm_source=git)** | King of Prussia, PA | On Site | Mar 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
