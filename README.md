@@ -57,10 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Morning Brew Inc.](http://morningbrewinc.com)** | **[Intern, Social Video](https://jobright.ai/jobs/info/69c30127753c101b2156736e?utm_campaign=1053&utm_source=git)** | NYC Metro Area | On Site | Mar 24 |
+| **[Artist House](https://www.artisthouse.world/)** | **[Videography Intern (Music & Content Studio)](https://jobright.ai/jobs/info/69c2fe83ec22f8310ab10673?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Mar 24 |
+| **[AAAS](http://www.aaas.org/)** | **[Digital Storytelling Intern](https://jobright.ai/jobs/info/698b6307c5761b521a9adb04?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Mar 24 |
 | **[OTTera, Inc.](http://www.ottera.tv/)** | **[Content Creator Intern](https://jobright.ai/jobs/info/69c2e959753c101b21565129?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Mar 24 |
 | **[Dupont Creative](https://www.dupontcreative.com/)** | **[Video Editing Intern](https://jobright.ai/jobs/info/69c2e31e94007a2195def16f?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Mar 24 |
 | **[LAIKA Studios](https://laika.com/)** | **[Puppet Fabrication CG Modeling Intern](https://jobright.ai/jobs/info/69a601000da45516f16ed5d2?utm_campaign=1053&utm_source=git)** | Hillsboro, OR | On Site | Mar 24 |
-| **[AAAS](http://www.aaas.org/)** | **[Digital Storytelling Intern](https://jobright.ai/jobs/info/698b6307c5761b521a9adb04?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Mar 24 |
 | **[WVTM 13](https://www.wvtm13.com)** | **[Creative Services Intern](https://jobright.ai/jobs/info/69c2d80194007a2195dedb1a?utm_campaign=1053&utm_source=git)** | Birmingham, AL | On Site | Mar 24 |
 | **[LAIKA Studios](https://laika.com/)** | **[Stop Motion Animation Intern](https://jobright.ai/jobs/info/69a602bcb600907a962bdbfe?utm_campaign=1053&utm_source=git)** | Hillsboro, OR | On Site | Mar 24 |
 | **[Mass Youth Soccer](https://www.mayouthsoccer.org)** | **[Community Engagement World Cup Festival Intern](https://jobright.ai/jobs/info/69c2d10894007a2195decf44?utm_campaign=1053&utm_source=git)** | Lancaster, MA | On Site | Mar 24 |
@@ -93,6 +95,7 @@ For a complete list, click the following sortable link below:
 | **[Sales Gravy | Sell More](http://www.salesgravy.com/)** | **[Video Production &amp; Editing Intern - Summer 2026](https://jobright.ai/jobs/info/69c27ebca5b03d40c194dbfa?utm_campaign=1053&utm_source=git)** | 115 E Hall St, Thomson, 30824, US | On Site | Mar 23 |
 | **[K-LOVE](https://www.klove.com/)** | **[Streaming and Programming Intern](https://jobright.ai/jobs/info/69c289e6ec22f8310ab068e4?utm_campaign=1053&utm_source=git)** | Franklin, TN | On Site | Mar 23 |
 | ↳ | **[Post Production Intern](https://jobright.ai/jobs/info/69c28943a5b03d40c194f6a6?utm_campaign=1053&utm_source=git)** | Franklin, TN | On Site | Mar 23 |
+| **[Patreon](http://www.patreon.com)** | **[Video Intern (Summer 2026)](https://jobright.ai/jobs/info/69c2f7d494007a2195df148b?utm_campaign=1053&utm_source=git)** | San Francisco | Hybrid | Mar 23 |
 | **[GigFinesse](https://www.gigfinesse.com/)** | **[Artist Relations Intern (Summer 2026)](https://jobright.ai/jobs/info/69c1c26b79e36d3a847ed01f?utm_campaign=1053&utm_source=git)** | Austin, Texas | On Site | Mar 23 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Intern, News](https://jobright.ai/jobs/info/69c1c03879e36d3a847ecc2c?utm_campaign=1053&utm_source=git)** | IL, Champaign | On Site | Mar 23 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[20/20 Production Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69c1b5cb75f7ff1cd8100350?utm_campaign=1053&utm_source=git)** | New York, NY, USA | On Site | Mar 23 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Kohler Hospitality](https://www.kohlerwisconsin.com/)** | **[Pro Golf Management Intern, Whistling Straits](https://jobright.ai/jobs/info/69bc961f5b89c002acf25a20?utm_campaign=1053&utm_source=git)** | Kohler, WI | On Site | Mar 21 |
 | **[Bread](https://www.breadpayments.com/)** | **[Events, Sponsorships, & Production Specialist](https://jobright.ai/jobs/info/69be515ab10602456283c9c5?utm_campaign=1053&utm_source=git)** | Columbus, OH | Hybrid | Mar 21 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[LN Concerts, Booking Intern](https://jobright.ai/jobs/info/69be42b1393a1008f7442d13?utm_campaign=1053&utm_source=git)** | San Diego, CA | On Site | Mar 21 |
-| **[Sinclair Inc.](http://sbgi.net/)** | **[ARC News Intern (WHAM) - Summer 2026](https://jobright.ai/jobs/info/69be33a2482822729300eda4?utm_campaign=1053&utm_source=git)** | Rochester, NY | On Site | Mar 20 |
-| ↳ | **[News Intern (Summer 2026)](https://jobright.ai/jobs/info/69be3397482822729300ed92?utm_campaign=1053&utm_source=git)** | Portland, OR | On Site | Mar 20 |
-| ↳ | **[ARC News Intern (KOMO) - Summer 2026](https://jobright.ai/jobs/info/69be3392b106024562839a38?utm_campaign=1053&utm_source=git)** | Seattle, WA | On Site | Mar 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
