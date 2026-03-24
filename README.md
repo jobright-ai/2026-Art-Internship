@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TGR](http://www.thegarnettereport.com)** | **[Spring/Summer Internship](https://jobright.ai/jobs/info/69c2a9ec94007a2195de94ca?utm_campaign=1053&utm_source=git)** | NYC Metro Area | On Site | Mar 24 |
+| **[LAIKA Studios](https://laika.com/)** | **[Costume Fabrication Intern](https://jobright.ai/jobs/info/69a607fd0da45516f16ee0e8?utm_campaign=1053&utm_source=git)** | Hillsboro, OR | On Site | Mar 24 |
+| **[Spencer Magazine](http://www.spencer-magazine.com)** | **[Assistant to the Publisher - Spencer Magazine - (UNPAID) Internship](https://jobright.ai/jobs/info/69c2a6ad94007a2195de93dc?utm_campaign=1053&utm_source=git)** | Toronto, ON | On Site | Mar 24 |
+| **[Morning Brew](https://www.morningbrew.com)** | **[Intern, Social Video](https://jobright.ai/jobs/info/69c29d06753c101b2155e528?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Mar 24 |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[News Intern](https://jobright.ai/jobs/info/69c29a9aec22f8310ab07b56?utm_campaign=1053&utm_source=git)** | Memphis, TN | On Site | Mar 24 |
+| **[The Wall Street Journal](https://www.wjs.com/)** | **[Video Field Production Intern](https://jobright.ai/jobs/info/69c29a4694007a2195de8a58?utm_campaign=1053&utm_source=git)** | NYC - 1211 Ave of the Americas | On Site | Mar 24 |
 | **[Sales Gravy | Sell More](http://www.salesgravy.com/)** | **[Video Production & Editing Intern - Summer 2026](https://jobright.ai/jobs/info/69c254482c312363dcd5f3b7?utm_campaign=1053&utm_source=git)** | Thomson, GA | On Site | Mar 24 |
 | **[WCIA 3](https://www.wcia.com/)** | **[Unpaid Intern, Sports](https://jobright.ai/jobs/info/69c28299a5b03d40c194e14d?utm_campaign=1053&utm_source=git)** | Champaign, IL | On Site | Mar 24 |
 | **[Morningstar](http://www.morningstar.com)** | **[Summer Reporting Intern](https://jobright.ai/jobs/info/69c24995c9ad035e829b0822?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Mar 24 |
@@ -65,6 +71,8 @@ For a complete list, click the following sortable link below:
 | **[GBH](http://www.wgbh.org/)** | **[GBH Archives Internship - Summer 2026 (AAPB Exhibit Curator)](https://jobright.ai/jobs/info/69bce6e245e08b3dc1f9d806?utm_campaign=1053&utm_source=git)** | Boston, MA | Hybrid | Mar 23 |
 | **[Ohio History Connection](https://www.ohiohistory.org/)** | **[Summer 2026- Exhibits and Interpretation Internship](https://jobright.ai/jobs/info/69c1f737c9ad035e829a55da?utm_campaign=1053&utm_source=git)** | Columbus, OH | On Site | Mar 23 |
 | **[Sales Gravy | Sell More](http://www.salesgravy.com/)** | **[Video Production &amp; Editing Intern - Summer 2026](https://jobright.ai/jobs/info/69c27ebca5b03d40c194dbfa?utm_campaign=1053&utm_source=git)** | 115 E Hall St, Thomson, 30824, US | On Site | Mar 23 |
+| **[K-LOVE](https://www.klove.com/)** | **[Streaming and Programming Intern](https://jobright.ai/jobs/info/69c289e6ec22f8310ab068e4?utm_campaign=1053&utm_source=git)** | Franklin, TN | On Site | Mar 23 |
+| ↳ | **[Post Production Intern](https://jobright.ai/jobs/info/69c28943a5b03d40c194f6a6?utm_campaign=1053&utm_source=git)** | Franklin, TN | On Site | Mar 23 |
 | **[GigFinesse](https://www.gigfinesse.com/)** | **[Artist Relations Intern (Summer 2026)](https://jobright.ai/jobs/info/69c1c26b79e36d3a847ed01f?utm_campaign=1053&utm_source=git)** | Austin, Texas | On Site | Mar 23 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Intern, News](https://jobright.ai/jobs/info/69c1c03879e36d3a847ecc2c?utm_campaign=1053&utm_source=git)** | IL, Champaign | On Site | Mar 23 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[20/20 Production Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69c1b5cb75f7ff1cd8100350?utm_campaign=1053&utm_source=git)** | New York, NY, USA | On Site | Mar 23 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Dr. Phillips Center for the Performing Arts](http://www.drphillipscenter.org/)** | **[Intern, Production (Assistant Stage Management)](https://jobright.ai/jobs/info/69bdccf5393a1008f7437125?utm_campaign=1053&utm_source=git)** | Dr. Phillips Center, 155 E ANDERSON ST, Orlando, Florida, United States of America | On Site | Mar 20 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[LN Concerts, Booking Intern](https://jobright.ai/jobs/info/69bda951393a1008f743083d?utm_campaign=1053&utm_source=git)** | Nashville, TN | On Site | Mar 20 |
 | **[Gray Media](https://graymedia.com)** | **[GRAY MEDIA FUTURE FOCUS INTERN SUMMER '26 - KOTA/KEVN](https://jobright.ai/jobs/info/69bda5b94828227293ffde98?utm_campaign=1053&utm_source=git)** | Rapid City, South Dakota, United States | On Site | Mar 20 |
-| **[PICXM](https://picxm.com)** | **[Podcast Assistant – Paid Internship](https://jobright.ai/jobs/info/69bd93d54828227293ffd18f?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | Hybrid | Mar 20 |
-| **[NESN](http://nesn.com)** | **[Creative Services Intern - Summer 2026](https://jobright.ai/jobs/info/69bd90ea393a1008f742efa0?utm_campaign=1053&utm_source=git)** | Pittsburgh, PA, US | On Site | Mar 20 |
-| **[City of Douglasville, GA](https://www.douglasvillega.gov/)** | **[INTERN - KEEP DOUGLASVILLE BEAUTIFUL (SUMMER)](https://jobright.ai/jobs/info/69bd90ea393a1008f742efa1?utm_campaign=1053&utm_source=git)** | Douglasville, GA, US | On Site | Mar 20 |
-| **[MentorX Corp.](http://mentorx.net)** | **[IP Content Intern](https://jobright.ai/jobs/info/69bd8fef4828227293ffcbd0?utm_campaign=1053&utm_source=git)** | Irvine, CA | On Site | Mar 20 |
-| **[Editorialist](http://editorialist.com)** | **[Editorial Intern](https://jobright.ai/jobs/info/69bd790fb106024562826543?utm_campaign=1053&utm_source=git)** | New York City | On Site | Mar 20 |
-| **[Battery Park City Authority](https://bpca.ny.gov/home/)** | **[Community & Public Arts Intern](https://jobright.ai/jobs/info/69bd6f624828227293ffa406?utm_campaign=1053&utm_source=git)** | New York, NY, US | On Site | Mar 20 |
-| **[Scientific American](http://www.scientificamerican.com/)** | **[News Intern](https://jobright.ai/jobs/info/69a0bf645218a8167671ea87?utm_campaign=1053&utm_source=git)** | New York, United States | Hybrid | Mar 20 |
-| **[Audacy, Inc.](https://audacyinc.com/)** | **[Summer Intern](https://jobright.ai/jobs/info/69915efa0cc8ea15f1dc03b5?utm_campaign=1053&utm_source=git)** | Farmington, CT | On Site | Mar 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
