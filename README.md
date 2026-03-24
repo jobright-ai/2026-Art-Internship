@@ -66,6 +66,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern - Women's Health](https://jobright.ai/jobs/info/69c1b3732c312363dcd4db10?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Mar 23 |
 | **[Starz](http://www.starz.com/)** | **[STARZ Intern, Acquisitions](https://jobright.ai/jobs/info/69952c01ce78e77b4fd94442?utm_campaign=1053&utm_source=git)** | Santa Monica, CA | On Site | Mar 23 |
 | **[Operation Smile](http://www.operationsmile.org)** | **[Writing Internship - Operation Smile ILC](https://jobright.ai/jobs/info/696883c31703f05405aa42b9?utm_campaign=1053&utm_source=git)** | Virginia Beach, VA | On Site | Mar 23 |
+| **[DIRECTV](https://www.directv.com/)** | **[2026 DIRECTV Content Internship](https://jobright.ai/jobs/info/69c1cec875f7ff1cd8102570?utm_campaign=1053&utm_source=git)** | El Segundo, CA | Remote | Mar 23 |
 | **[Hachette Book Group](http://www.hachettebookgroup.com)** | **[Spring/Summer 2026 Editorial Internship, UNSQ](https://jobright.ai/jobs/info/69c1b08875f7ff1cd80ffd2c?utm_campaign=1053&utm_source=git)** | New York, New York | Hybrid | Mar 23 |
 | **[New York Post](http://nypost.com/)** | **[Lifestyle Intern](https://jobright.ai/jobs/info/69a763b82672cb0acb4bd7d6?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Mar 23 |
 | **[The MY HERO Project](https://myhero.com/)** | **[MY HERO International Film Festival Internship](https://jobright.ai/jobs/info/69c1add975f7ff1cd80ffb37?utm_campaign=1053&utm_source=git)** | United States | Remote | Mar 23 |
@@ -86,9 +87,11 @@ For a complete list, click the following sortable link below:
 | **[Santa Barbara News-Press](https://www.news-press.com/)** | **[Reporting Intern](https://jobright.ai/jobs/info/69c1657d79e36d3a847e1425?utm_campaign=1053&utm_source=git)** | Santa Barbara, CA | On Site | Mar 23 |
 | **[Miami Waterkeeper](https://www.miamiwaterkeeper.org)** | **[Multilingual Digital Content Intern](https://jobright.ai/jobs/info/69c15f3079e36d3a847e0993?utm_campaign=1053&utm_source=git)** | Coral Gables, FL | On Site | Mar 23 |
 | **[Daktronics](http://www.daktronics.com/en-us)** | **[James Madison University Event Production Intern](https://jobright.ai/jobs/info/6959d946f1f8465b79f0377f?utm_campaign=1053&utm_source=git)** | Harrisonburg, VA | On Site | Mar 23 |
+| **[Greening Youth Foundation NA](https://gyfoundation.org/)** | **[Transformation of Freedom Intern](https://jobright.ai/jobs/info/69c1ced42c312363dcd50843?utm_campaign=1053&utm_source=git)** | Jackson, MS | On Site | Mar 23 |
 | **[Omnicom Health](http://www.omnicomhealthgroup.com/)** | **[2026 Bold Beginners - Editorial Intern](https://jobright.ai/jobs/info/69b186e1548f140066e75ea6?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Mar 23 |
 | **[National Education Association](http://www.nea.org)** | **[NEA Editorial Intern, Center for Communications (Spring/Summer 2026)](https://jobright.ai/jobs/info/69c0ca7e7798f73e35e55e24?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Mar 22 |
 | **[Sync with God](https://syncwithgod.com)** | **[Content/Book Editor Intern](https://jobright.ai/jobs/info/69c0a9ae2c312363dcd308d6?utm_campaign=1053&utm_source=git)** | Lincoln, NE | Remote | Mar 22 |
+| **[Slate Studios](http://slate-nyc.com)** | **[Creative Production Intern – New York (Part Time)](https://jobright.ai/jobs/info/69c1e4c975f7ff1cd8103fbf?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Mar 22 |
 | **[Joiana](https://joianajewelry.shop/)** | **[Community & Content Intern](https://jobright.ai/jobs/info/69c06a0a79e36d3a847cc22d?utm_campaign=1053&utm_source=git)** | San Diego, CA | On Site | Mar 22 |
 | **[Haydenfilms Institute](https://haydenfilmsinstitute.org)** | **[Video Editor – Summer 2026 Internship (Full-Time / For Credit)](https://jobright.ai/jobs/info/69c052557798f73e35e4e960?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | Hybrid | Mar 22 |
 | **[Cliff Castle Casino Hotel](https://www.cliffcastlecasinohotel.com)** | **[Intern Chef](https://jobright.ai/jobs/info/69c04e7c2c312363dcd2d2da?utm_campaign=1053&utm_source=git)** | Camp Verde, AZ | On Site | Mar 22 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Audacy, Inc.](https://audacyinc.com/)** | **[Summer Intern](https://jobright.ai/jobs/info/69915efa0cc8ea15f1dc03b5?utm_campaign=1053&utm_source=git)** | Farmington, CT | On Site | Mar 20 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[LN Concerts, Booking Intern](https://jobright.ai/jobs/info/69bd9e88b106024562828c83?utm_campaign=1053&utm_source=git)** | Beverly Hills, CA | On Site | Mar 20 |
 | ↳ | **[LN Concerts, Booking Intern](https://jobright.ai/jobs/info/69bd9e86b106024562828c81?utm_campaign=1053&utm_source=git)** | Beverly Hills, CA | On Site | Mar 20 |
-| **[KCRA 3 & My58 Television](http://www.kcra.com)** | **[Intern](https://jobright.ai/jobs/info/69a0c5340836fe79d861c5c9?utm_campaign=1053&utm_source=git)** | Sacramento, CA | On Site | Mar 20 |
-| **[DataBank](http://www.databank.com)** | **[Video Producer Intern (Remote)](https://jobright.ai/jobs/info/69bb8b1c5697383741419abe?utm_campaign=1053&utm_source=git)** | Dallas, TX | Remote | Mar 20 |
-| **[Rock Events](https://rockevents.com/)** | **[Event Production Intern - Summer 2026](https://jobright.ai/jobs/info/69a1310f6b458d060735ebff?utm_campaign=1053&utm_source=git)** | Detroit, MI | On Site | Mar 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
