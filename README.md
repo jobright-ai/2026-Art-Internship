@@ -129,6 +129,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[News Intern (Summer 2026)](https://jobright.ai/jobs/info/69be3397482822729300ed92?utm_campaign=1053&utm_source=git)** | Portland, OR | On Site | Mar 20 |
 | ↳ | **[ARC News Intern (KOMO) - Summer 2026](https://jobright.ai/jobs/info/69be3392b106024562839a38?utm_campaign=1053&utm_source=git)** | Seattle, WA | On Site | Mar 20 |
 | **[Coastal Carolina University](http://www.coastal.edu/)** | **[Production Assistant (Student Employee)](https://jobright.ai/jobs/info/69b30326a8ac8e70ff6727ac?utm_campaign=1053&utm_source=git)** | Conway, SC | On Site | Mar 20 |
+| **[U.S. Hunger](https://ushunger.org/)** | **[Summer 2026 Grant Writing Mission Intern](https://jobright.ai/jobs/info/69c21560c9ad035e829ac137?utm_campaign=1053&utm_source=git)** | Longwood, FL | On Site | Mar 20 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Summer 2026: Community Fridge Intern (Unpaid)](https://jobright.ai/jobs/info/69be0773482822729300bca6?utm_campaign=1053&utm_source=git)** | San Diego, CA | On Site | Mar 20 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[LN Concerts, Talent Booking Intern](https://jobright.ai/jobs/info/69bdff3bb106024562836402?utm_campaign=1053&utm_source=git)** | Beverly Hills, CA, USA | On Site | Mar 20 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Summer 2026: Community Fridge Intern (Unpaid)](https://jobright.ai/jobs/info/69bdf581b1060245628355a8?utm_campaign=1053&utm_source=git)** | San Diego, CA USA | On Site | Mar 20 |
@@ -153,8 +154,7 @@ For a complete list, click the following sortable link below:
 | **[MentorX Corp.](http://mentorx.net)** | **[IP Content Intern](https://jobright.ai/jobs/info/69bd8fef4828227293ffcbd0?utm_campaign=1053&utm_source=git)** | Irvine, CA | On Site | Mar 20 |
 | **[Editorialist](http://editorialist.com)** | **[Editorial Intern](https://jobright.ai/jobs/info/69bd790fb106024562826543?utm_campaign=1053&utm_source=git)** | New York City | On Site | Mar 20 |
 | **[Battery Park City Authority](https://bpca.ny.gov/home/)** | **[Community & Public Arts Intern](https://jobright.ai/jobs/info/69bd6f624828227293ffa406?utm_campaign=1053&utm_source=git)** | New York, NY, US | On Site | Mar 20 |
-| **[DBC Brand](https://www.dbcbrand.com/)** | **[Content Creator](https://jobright.ai/jobs/info/69be20e8393a1008f7440475?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Mar 20 |
 | **[Scientific American](http://www.scientificamerican.com/)** | **[News Intern](https://jobright.ai/jobs/info/69a0bf645218a8167671ea87?utm_campaign=1053&utm_source=git)** | New York, United States | Hybrid | Mar 20 |
 | **[Audacy, Inc.](https://audacyinc.com/)** | **[Summer Intern](https://jobright.ai/jobs/info/69915efa0cc8ea15f1dc03b5?utm_campaign=1053&utm_source=git)** | Farmington, CT | On Site | Mar 20 |
-| **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[LN Concerts, Booking Intern](https://jobright.ai/jobs/info/69bd9e86b106024562828c81?utm_campaign=1053&utm_source=git)** | Beverly Hills, CA | On Site | Mar 20 |
+| **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[LN Concerts, Booking Intern](https://jobright.ai/jobs/info/69bd9e88b106024562828c83?utm_campaign=1053&utm_source=git)** | Beverly Hills, CA | On Site | Mar 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
