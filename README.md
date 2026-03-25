@@ -57,7 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[Social Content Development Intern](https://jobright.ai/jobs/info/69c42845d5a1016e98db3378?utm_campaign=1053&utm_source=git)** | Oakland, CA | Hybrid | Mar 25 |
+| **[Flynn](https://helloflynn.com)** | **[Video Production Intern / Co-op](https://jobright.ai/jobs/info/69c41dd4d5a1016e98db288d?utm_campaign=1053&utm_source=git)** | Pittsford, NY | On Site | Mar 25 |
 | **[McKim & Creed, Inc.](http://mckimcreed.com)** | **[Summer Multimedia Intern](https://jobright.ai/jobs/info/69a7722676bbe83d3afad619?utm_campaign=1053&utm_source=git)** | Charlotte, NC | On Site | Mar 25 |
+| **[GBH](http://www.wgbh.org/)** | **[GBH News "All Things Considered" Internship - Summer 2026](https://jobright.ai/jobs/info/69c427d46f4f855eeda68346?utm_campaign=1053&utm_source=git)** | Boston | Hybrid | Mar 25 |
 | **[SRND AI](srnd.ai)** | **[(Unpaid) On-Camera Content Intern](https://jobright.ai/jobs/info/69c3f2d56f4f855eeda64e48?utm_campaign=1053&utm_source=git)** | United States | Remote | Mar 25 |
 | **[University of Notre Dame](http://mendoza.nd.edu)** | **[Content Specialist Intern](https://jobright.ai/jobs/info/69c3f2b133eecf3107940e19?utm_campaign=1053&utm_source=git)** | Notre Dame, IN | On Site | Mar 25 |
 | **[Yale University](https://www.yale.edu)** | **[Art & Architecture Intern, YUP](https://jobright.ai/jobs/info/69c3fc4cd5a1016e98db052d?utm_campaign=1053&utm_source=git)** | Temple St, 302 | Hybrid | Mar 25 |
@@ -70,9 +73,9 @@ For a complete list, click the following sortable link below:
 | **[Morning Brew Inc.](http://morningbrewinc.com)** | **[Intern, Social Video](https://jobright.ai/jobs/info/69c30127753c101b2156736e?utm_campaign=1053&utm_source=git)** | NYC Metro Area | On Site | Mar 24 |
 | **[AAAS](http://www.aaas.org/)** | **[Digital Storytelling Intern](https://jobright.ai/jobs/info/698b6307c5761b521a9adb04?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Mar 24 |
 | **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[Social Content Development Intern](https://jobright.ai/jobs/info/69c3145bec22f8310ab12a41?utm_campaign=1053&utm_source=git)** | Oakland | Hybrid | Mar 24 |
-| **[Clark Planetarium](http://www.clarkplanetarium.org)** | **[ZAP (Zoo, Arts, and Parks) - Special Projects Intern](https://jobright.ai/jobs/info/69c3147a94007a2195df41e9?utm_campaign=1053&utm_source=git)** | US-UT-Taylorsville | Hybrid | Mar 24 |
-| ↳ | **[ZAP (Zoo, Arts, and Parks) - Special Projects Intern](https://jobright.ai/jobs/info/69c31478753c101b215694d7?utm_campaign=1053&utm_source=git)** | 2525 West Taylorsville Blvd. | Hybrid | Mar 24 |
+| **[Clark Planetarium](http://www.clarkplanetarium.org)** | **[ZAP (Zoo, Arts, and Parks) - Special Projects Intern](https://jobright.ai/jobs/info/69c31478753c101b215694d7?utm_campaign=1053&utm_source=git)** | 2525 West Taylorsville Blvd. | Hybrid | Mar 24 |
 | ↳ | **[ZAP (Zoo, Arts, and Parks) - Special Projects Intern](https://jobright.ai/jobs/info/69c3147994007a2195df41e1?utm_campaign=1053&utm_source=git)** | 84129 | Hybrid | Mar 24 |
+| ↳ | **[ZAP (Zoo, Arts, and Parks) - Special Projects Intern](https://jobright.ai/jobs/info/69c3147a94007a2195df41e9?utm_campaign=1053&utm_source=git)** | US-UT-Taylorsville | Hybrid | Mar 24 |
 | ↳ | **[ZAP (Zoo, Arts, and Parks) - Special Projects Intern](https://jobright.ai/jobs/info/69c314deec22f8310ab12bfa?utm_campaign=1053&utm_source=git)** | Taylorsville, UT, US | Hybrid | Mar 24 |
 | **[OTTera, Inc.](http://www.ottera.tv/)** | **[Content Creator Intern](https://jobright.ai/jobs/info/69c2e959753c101b21565129?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Mar 24 |
 | **[Dupont Creative](https://www.dupontcreative.com/)** | **[Video Editing Intern](https://jobright.ai/jobs/info/69c2e31e94007a2195def16f?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Mar 24 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Disney Accelerator Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69beefa6393a1008f744c2d9?utm_campaign=1053&utm_source=git)** | Glendale, CA | Hybrid | Mar 21 |
 | **[Higginbotham](https://www.higginbotham.com)** | **[Higginbotham Summer Internship - Corporate Marketing & Communications Video Editor Intern](https://jobright.ai/jobs/info/691694a56f36db06ef057fea?utm_campaign=1053&utm_source=git)** | Fort Worth, TX | On Site | Mar 21 |
 | **[Times Union Media Group](http://www.timesunion.com)** | **[Newsroom Summer Intern](https://jobright.ai/jobs/info/69bec41e393a1008f744a1e7?utm_campaign=1053&utm_source=git)** | Albany, NY | Hybrid | Mar 21 |
-| **[U.S. News & World Report](http://www.usnews.com)** | **[Health Editorial Summer 2026 Intern (DC)](https://jobright.ai/jobs/info/69beb5cd4828227293017635?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Mar 21 |
-| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[News Intern](https://jobright.ai/jobs/info/69beb138482822729301709c?utm_campaign=1053&utm_source=git)** | Memphis, TN | On Site | Mar 21 |
-| ↳ | **[NewsNation News Internship Summer 2026 (New York)](https://jobright.ai/jobs/info/69a26b500da45516f16bb2cd?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Mar 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
