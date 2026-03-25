@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Corvane](Corvane.com)** | **[TikTok & Instagram Reels Content Intern](https://jobright.ai/jobs/info/69c38a5094007a2195e01407?utm_campaign=1053&utm_source=git)** | United States | Remote | Mar 25 |
+| **[Kopari Beauty](https://www.koparibeauty.com/)** | **[Video Content & Editing Intern](https://jobright.ai/jobs/info/69c382707a7a0045db8954cd?utm_campaign=1053&utm_source=git)** | La Jolla Shores, CA | Hybrid | Mar 24 |
+| **[CoPatible](https://copatible.com)** | **[Experience Matchmaker Intern](https://jobright.ai/jobs/info/69c3786694007a2195dff984?utm_campaign=1053&utm_source=git)** | San Francisco, CA | On Site | Mar 24 |
 | **[Salt Lake County](https://www.slco.org)** | **[ZAP (Zoo, Arts, and Parks) - Special Projects Intern](https://jobright.ai/jobs/info/69c349d6753c101b2156ee1d?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | Hybrid | Mar 24 |
 | **[Arizona Golf Association](https://www.azgolf.org)** | **[USGA Boatwright Tournament Operations & Administration Intern](https://jobright.ai/jobs/info/69c324aeec22f8310ab151ea?utm_campaign=1053&utm_source=git)** | Phoenix, AZ | On Site | Mar 24 |
 | **[City of Eden Prairie](http://www.edenprairie.org)** | **[Arts Engagement Intern (Post-Graduate Opportunity)](https://jobright.ai/jobs/info/69c31cd4753c101b2156ae1d?utm_campaign=1053&utm_source=git)** | Eden Prairie, MN | On Site | Mar 24 |
@@ -66,9 +69,9 @@ For a complete list, click the following sortable link below:
 | **[AAAS](http://www.aaas.org/)** | **[Digital Storytelling Intern](https://jobright.ai/jobs/info/698b6307c5761b521a9adb04?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Mar 24 |
 | **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[Social Content Development Intern](https://jobright.ai/jobs/info/69c3145bec22f8310ab12a41?utm_campaign=1053&utm_source=git)** | Oakland | Hybrid | Mar 24 |
 | **[Clark Planetarium](http://www.clarkplanetarium.org)** | **[ZAP (Zoo, Arts, and Parks) - Special Projects Intern](https://jobright.ai/jobs/info/69c3147994007a2195df41e1?utm_campaign=1053&utm_source=git)** | 84129 | Hybrid | Mar 24 |
-| ↳ | **[ZAP (Zoo, Arts, and Parks) - Special Projects Intern](https://jobright.ai/jobs/info/69c31478753c101b215694d7?utm_campaign=1053&utm_source=git)** | 2525 West Taylorsville Blvd. | Hybrid | Mar 24 |
 | ↳ | **[ZAP (Zoo, Arts, and Parks) - Special Projects Intern](https://jobright.ai/jobs/info/69c314deec22f8310ab12bfa?utm_campaign=1053&utm_source=git)** | Taylorsville, UT, US | Hybrid | Mar 24 |
 | ↳ | **[ZAP (Zoo, Arts, and Parks) - Special Projects Intern](https://jobright.ai/jobs/info/69c3147a94007a2195df41e9?utm_campaign=1053&utm_source=git)** | US-UT-Taylorsville | Hybrid | Mar 24 |
+| ↳ | **[ZAP (Zoo, Arts, and Parks) - Special Projects Intern](https://jobright.ai/jobs/info/69c31478753c101b215694d7?utm_campaign=1053&utm_source=git)** | 2525 West Taylorsville Blvd. | Hybrid | Mar 24 |
 | **[OTTera, Inc.](http://www.ottera.tv/)** | **[Content Creator Intern](https://jobright.ai/jobs/info/69c2e959753c101b21565129?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Mar 24 |
 | **[Dupont Creative](https://www.dupontcreative.com/)** | **[Video Editing Intern](https://jobright.ai/jobs/info/69c2e31e94007a2195def16f?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Mar 24 |
 | **[LAIKA Studios](https://laika.com/)** | **[Puppet Fabrication CG Modeling Intern](https://jobright.ai/jobs/info/69a601000da45516f16ed5d2?utm_campaign=1053&utm_source=git)** | Hillsboro, OR | On Site | Mar 24 |
@@ -103,8 +106,8 @@ For a complete list, click the following sortable link below:
 | **[Sales Gravy | Sell More](http://www.salesgravy.com/)** | **[Video Production &amp; Editing Intern - Summer 2026](https://jobright.ai/jobs/info/69c27ebca5b03d40c194dbfa?utm_campaign=1053&utm_source=git)** | 115 E Hall St, Thomson, 30824, US | On Site | Mar 23 |
 | **[K-LOVE](https://www.klove.com/)** | **[Streaming and Programming Intern](https://jobright.ai/jobs/info/69c289e6ec22f8310ab068e4?utm_campaign=1053&utm_source=git)** | Franklin, TN | On Site | Mar 23 |
 | ↳ | **[Post Production Intern](https://jobright.ai/jobs/info/69c28943a5b03d40c194f6a6?utm_campaign=1053&utm_source=git)** | Franklin, TN | On Site | Mar 23 |
-| **[Open Road Integrated Media Inc.](http://www.openroadmedia.com)** | **[Content Writing Intern (FT/Paid)](https://jobright.ai/jobs/info/69c30db2753c101b21568a82?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Mar 23 |
-| ↳ | **[Content Writing Intern (PT/For-Credit)](https://jobright.ai/jobs/info/69c30dc694007a2195df3676?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Mar 23 |
+| **[Open Road Integrated Media Inc.](http://www.openroadmedia.com)** | **[Content Writing Intern (PT/For-Credit)](https://jobright.ai/jobs/info/69c30dc694007a2195df3676?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Mar 23 |
+| ↳ | **[Content Writing Intern (FT/Paid)](https://jobright.ai/jobs/info/69c30db2753c101b21568a82?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Mar 23 |
 | **[Patreon](http://www.patreon.com)** | **[Video Intern (Summer 2026)](https://jobright.ai/jobs/info/69c2f7d494007a2195df148b?utm_campaign=1053&utm_source=git)** | San Francisco | Hybrid | Mar 23 |
 | **[GigFinesse](https://www.gigfinesse.com/)** | **[Artist Relations Intern (Summer 2026)](https://jobright.ai/jobs/info/69c1c26b79e36d3a847ed01f?utm_campaign=1053&utm_source=git)** | Austin, Texas | On Site | Mar 23 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Intern, News](https://jobright.ai/jobs/info/69c1c03879e36d3a847ecc2c?utm_campaign=1053&utm_source=git)** | IL, Champaign | On Site | Mar 23 |
@@ -144,6 +147,7 @@ For a complete list, click the following sortable link below:
 | **[Stride, Inc.](https://www.stridelearning.com)** | **[Content Creator Intern](https://jobright.ai/jobs/info/696aa0835fc86241853999d5?utm_campaign=1053&utm_source=git)** | Virginia, United States | Remote | Mar 22 |
 | **[Ever](https://evercars.com)** | **[Video Producer Internship](https://jobright.ai/jobs/info/69bf8b732c312363dcd24a37?utm_campaign=1053&utm_source=git)** | San Francisco | On Site | Mar 21 |
 | ↳ | **[Video Producer Internship](https://jobright.ai/jobs/info/69bf86ce79e36d3a847c27b5?utm_campaign=1053&utm_source=git)** | San Francisco, CA | On Site | Mar 21 |
+| **[Dow Jones](http://www.dowjones.com)** | **[Reporting Internship, Mansion Global](https://jobright.ai/jobs/info/69c37b327a7a0045db894406?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Mar 21 |
 | **[University of Idaho](http://www.uidaho.edu/)** | **[Event Operations Coordinator](https://jobright.ai/jobs/info/69bf18d3393a1008f744e516?utm_campaign=1053&utm_source=git)** | Moscow, ID | On Site | Mar 21 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Disney Accelerator Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69beefa6393a1008f744c2d9?utm_campaign=1053&utm_source=git)** | Glendale, CA | Hybrid | Mar 21 |
 | **[Higginbotham](https://www.higginbotham.com)** | **[Higginbotham Summer Internship - Corporate Marketing & Communications Video Editor Intern](https://jobright.ai/jobs/info/691694a56f36db06ef057fea?utm_campaign=1053&utm_source=git)** | Fort Worth, TX | On Site | Mar 21 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[NewsNation News Internship Summer 2026 (New York)](https://jobright.ai/jobs/info/69a26b500da45516f16bb2cd?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Mar 21 |
 | **[TelevisaUnivision](https://www.corporate.televisaunivision.com)** | **[Intern, Asi Studios](https://jobright.ai/jobs/info/69a2a546359fe034b1cdfaa5?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Mar 21 |
 | **[PC Construction Company](http://www.pcconstruction.com)** | **[Craft Intern](https://jobright.ai/jobs/info/693227594c474121999f7788?utm_campaign=1053&utm_source=git)** | South Burlington, VT | On Site | Mar 21 |
-| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[News Internship](https://jobright.ai/jobs/info/67f965625c2cf2888f6ee1b7?utm_campaign=1053&utm_source=git)** | Dothan, AL | On Site | Mar 21 |
-| **[Precision AQ](http://www.precisionaq.com)** | **[Summer 2026 Internship - Medical Writing Intern](https://jobright.ai/jobs/info/69a224a4b600907a9628713e?utm_campaign=1053&utm_source=git)** | United States | Remote | Mar 21 |
-| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[NewsNation News Internship Summer 2026 (Washington, DC)](https://jobright.ai/jobs/info/69a25103359fe034b1cd8b57?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Mar 21 |
-| **[Precision Medicine Group](https://www.precisionmedicinegrp.com/pfm/)** | **[Summer 2026 Internship - Medical Writing Intern](https://jobright.ai/jobs/info/69a21e81b600907a96286ac7?utm_campaign=1053&utm_source=git)** | United States | Remote | Mar 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
