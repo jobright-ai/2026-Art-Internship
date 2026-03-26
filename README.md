@@ -155,6 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Santa Barbara News-Press](https://www.news-press.com/)** | **[Reporting Intern](https://jobright.ai/jobs/info/69c1657d79e36d3a847e1425?utm_campaign=1053&utm_source=git)** | Santa Barbara, CA | On Site | Mar 23 |
 | **[Miami Waterkeeper](https://www.miamiwaterkeeper.org)** | **[Multilingual Digital Content Intern](https://jobright.ai/jobs/info/69c15f3079e36d3a847e0993?utm_campaign=1053&utm_source=git)** | Coral Gables, FL | On Site | Mar 23 |
 | **[Daktronics](http://www.daktronics.com/en-us)** | **[James Madison University Event Production Intern](https://jobright.ai/jobs/info/6959d946f1f8465b79f0377f?utm_campaign=1053&utm_source=git)** | Harrisonburg, VA | On Site | Mar 23 |
+| **[Greening Youth Foundation NA](https://gyfoundation.org/)** | **[Transformation of Freedom Intern](https://jobright.ai/jobs/info/69c49dced5a1016e98dbec43?utm_campaign=1053&utm_source=git)** | Jackson, MS | On Site | Mar 23 |
 | **[Omnicom Health](http://www.omnicomhealthgroup.com/)** | **[2026 Bold Beginners - Editorial Intern](https://jobright.ai/jobs/info/69b186e1548f140066e75ea6?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Mar 23 |
-| **[National Education Association](http://www.nea.org)** | **[NEA Editorial Intern, Center for Communications (Spring/Summer 2026)](https://jobright.ai/jobs/info/69c0ca7e7798f73e35e55e24?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Mar 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
