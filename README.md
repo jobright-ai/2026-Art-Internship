@@ -57,9 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Northside Hospital](http://www.northside.com)** | **[Department Intern](https://jobright.ai/jobs/info/69c564acaa3c2c1995dfe60f?utm_campaign=1053&utm_source=git)** | Atlanta, GA, US | On Site | Mar 26 |
+| ↳ | **[Department Intern](https://jobright.ai/jobs/info/69c5649f1818a24cd84b4b76?utm_campaign=1053&utm_source=git)** | US-GA-Atlanta | On Site | Mar 26 |
+| **[Mass General Brigham](https://www.massgeneralbrigham.org)** | **[Video Storytelling Intern](https://jobright.ai/jobs/info/69c563c6aa9a29199e803d62?utm_campaign=1053&utm_source=git)** | Somerville-MA | Hybrid | Mar 26 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Media Production Intern (In- Person) Summer 2026.](https://jobright.ai/jobs/info/69a93b2a2615b60842abb55a?utm_campaign=1053&utm_source=git)** | Mobile, AL | On Site | Mar 26 |
 | ↳ | **[Unpaid Internship](https://jobright.ai/jobs/info/69c54eefe565c26a7000e2b4?utm_campaign=1053&utm_source=git)** | Savannah, GA | On Site | Mar 26 |
 | ↳ | **[Hello Iowa Intern (Unpaid)](https://jobright.ai/jobs/info/6938ede1b95c305f206e2e4b?utm_campaign=1053&utm_source=git)** | Des Moines, IA | On Site | Mar 26 |
+| **[High Impact Promotion](https://highimpactpromo.com/)** | **[Digital Production Unpaid Internship](https://jobright.ai/jobs/info/69c568eeaa9a29199e8042d9?utm_campaign=1053&utm_source=git)** | Chicago, IL | Hybrid | Mar 26 |
 | **[Canyon Entertainment Group](https://canyonentertainmentgroup.com)** | **[Script Writing Internship](https://jobright.ai/jobs/info/69c52f021818a24cd84b1bda?utm_campaign=1053&utm_source=git)** | Greater Toronto Area, Canada | Remote | Mar 26 |
 | **[Atlanta Hawks](https://www.nba.com/hawks)** | **[Sekou Smith Summer League Experience Intern](https://jobright.ai/jobs/info/69c516b567e81074795b5c78?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Mar 26 |
 | **[New York Post](http://nypost.com/)** | **[Lifestyle Intern](https://jobright.ai/jobs/info/69a763b82672cb0acb4bd7d6?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Mar 26 |
@@ -89,7 +93,6 @@ For a complete list, click the following sortable link below:
 | **[Fox Corporation](https://www.foxcorporation.com/)** | **[News/Streaming Intern](https://jobright.ai/jobs/info/69c445d333eecf31079473f1?utm_campaign=1053&utm_source=git)** | Washington, District of Columbia, USA | On Site | Mar 25 |
 | **[Flynn](https://helloflynn.com)** | **[Video Production Intern / Co-op](https://jobright.ai/jobs/info/69c41dd4d5a1016e98db288d?utm_campaign=1053&utm_source=git)** | Pittsford, NY | On Site | Mar 25 |
 | **[Fox Corporation](https://www.foxcorporation.com/)** | **[News/Streaming Intern](https://jobright.ai/jobs/info/69c43cb733eecf31079467b9?utm_campaign=1053&utm_source=git)** | Washington, District of Columbia, USA | On Site | Mar 25 |
-| **[McKim & Creed, Inc.](http://mckimcreed.com)** | **[Summer Multimedia Intern](https://jobright.ai/jobs/info/69a7722676bbe83d3afad619?utm_campaign=1053&utm_source=git)** | Charlotte, NC | On Site | Mar 25 |
 | **[SRND AI](srnd.ai)** | **[(Unpaid) On-Camera Content Intern](https://jobright.ai/jobs/info/69c3f2d56f4f855eeda64e48?utm_campaign=1053&utm_source=git)** | United States | Remote | Mar 25 |
 | **[University of Notre Dame](http://mendoza.nd.edu)** | **[Content Specialist Intern](https://jobright.ai/jobs/info/69c3f2b133eecf3107940e19?utm_campaign=1053&utm_source=git)** | Notre Dame, IN | On Site | Mar 25 |
 | **[Yale University](https://www.yale.edu)** | **[Art & Architecture Intern, YUP](https://jobright.ai/jobs/info/69c3fc4cd5a1016e98db052d?utm_campaign=1053&utm_source=git)** | Temple St, 302 | Hybrid | Mar 25 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Hachette Book Group](http://www.hachettebookgroup.com)** | **[Summer 2026 Basic Books Group Editorial Internship](https://jobright.ai/jobs/info/69c1c1b32c312363dcd4f289?utm_campaign=1053&utm_source=git)** | New York, New York | Hybrid | Mar 23 |
 | **[PBS](http://www.pbs.org)** | **[Intern (PBS KIDS Initiatives and Creative Production)](https://jobright.ai/jobs/info/69c19cf275f7ff1cd80fdddc?utm_campaign=1053&utm_source=git)** | Arlington, VA | On Site | Mar 23 |
 | ↳ | **[Intern (PBS KIDS Distribution)](https://jobright.ai/jobs/info/69c19ce575f7ff1cd80fdda1?utm_campaign=1053&utm_source=git)** | Arlington, VA | On Site | Mar 23 |
-| **[Cars Commerce](https://www.carscommerce.inc)** | **[Editorial News Intern](https://jobright.ai/jobs/info/69c1986875f7ff1cd80fca52?utm_campaign=1053&utm_source=git)** | Remote - Illinois | Remote | Mar 23 |
-| **[PBS](http://www.pbs.org)** | **[Intern (PBS LearningMedia YouTube)](https://jobright.ai/jobs/info/69c190a275f7ff1cd80fb462?utm_campaign=1053&utm_source=git)** | Arlington, VA | On Site | Mar 23 |
-| ↳ | **[Intern (Digital Studios)](https://jobright.ai/jobs/info/69c18c4375f7ff1cd80fb166?utm_campaign=1053&utm_source=git)** | Arlington, VA | On Site | Mar 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
