@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[City of Greenwood Village](https://greenwoodvillage.com)** | **[Seasonal Recreation Intern](https://jobright.ai/jobs/info/69c63826e565c26a7001bff8?utm_campaign=1053&utm_source=git)** | Greenwood Village, CO | On Site | Mar 27 |
+| **[Pacvue](https://www.pacvue.com/)** | **[Video Editor Summer Intern](https://jobright.ai/jobs/info/69bdc373b10602456282e67a?utm_campaign=1053&utm_source=git)** | United States | Remote | Mar 27 |
 | **[Morningstar](http://www.morningstar.com)** | **[Summer Reporting Intern](https://jobright.ai/jobs/info/69c24995c9ad035e829b0822?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Mar 26 |
 | **[Waco Tribune-Herald](http://wacotrib.com)** | **[Digital Media Newsroom Intern](https://jobright.ai/jobs/info/69c6006b83ea553769fd2094?utm_campaign=1053&utm_source=git)** | Iselin, NJ | Hybrid | Mar 26 |
 | **[Golden Hippo®](https://www.huntrealestate.com/)** | **[Art Production Assistant Intern](https://jobright.ai/jobs/info/69c5d8bd1b5ad0288737a4eb?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | Mar 26 |
@@ -118,6 +120,8 @@ For a complete list, click the following sortable link below:
 | **[University of Notre Dame](http://mendoza.nd.edu)** | **[Content Specialist Intern](https://jobright.ai/jobs/info/69c3f2b133eecf3107940e19?utm_campaign=1053&utm_source=git)** | Notre Dame, IN | On Site | Mar 25 |
 | **[Yale University](https://www.yale.edu)** | **[Art & Architecture Intern, YUP](https://jobright.ai/jobs/info/69c3fc4cd5a1016e98db052d?utm_campaign=1053&utm_source=git)** | Temple St, 302 | Hybrid | Mar 25 |
 | **[WLKY-TV CBS Louisville, KY - Hearst Television](https://www.wlky.com/)** | **[WLKY - Internship](https://jobright.ai/jobs/info/69c3f5b96f4f855eeda65264?utm_campaign=1053&utm_source=git)** | Louisville, KY | On Site | Mar 25 |
+| **[Nashville Soccer Club](https://www.nashvillesc.com/)** | **[Guest Experience Intern (Summer 2026)](https://jobright.ai/jobs/info/69c631c61818a24cd84c12d7?utm_campaign=1053&utm_source=git)** | Nashville, TN | On Site | Mar 25 |
+| ↳ | **[Mascot Intern (Summer 2026)](https://jobright.ai/jobs/info/69c63200aa3c2c1995e0af7b?utm_campaign=1053&utm_source=git)** | Nashville, TN | On Site | Mar 25 |
 | **[Kopari Beauty](https://www.koparibeauty.com/)** | **[Video Content & Editing Intern](https://jobright.ai/jobs/info/69c382707a7a0045db8954cd?utm_campaign=1053&utm_source=git)** | La Jolla Shores, CA | Hybrid | Mar 24 |
 | **[Salt Lake County](https://www.slco.org)** | **[ZAP (Zoo, Arts, and Parks) - Special Projects Intern](https://jobright.ai/jobs/info/69c349d6753c101b2156ee1d?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | Hybrid | Mar 24 |
 | **[Slate Studios](http://slate-nyc.com)** | **[Creative Production Intern – Miami (Part Time)](https://jobright.ai/jobs/info/69c48895d5a1016e98dbca2d?utm_campaign=1053&utm_source=git)** | Miami, FL | On Site | Mar 24 |
@@ -127,10 +131,10 @@ For a complete list, click the following sortable link below:
 | **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[Social Content Development Intern](https://jobright.ai/jobs/info/69c30da9753c101b21568a65?utm_campaign=1053&utm_source=git)** | Oakland General Office (OGO) | Hybrid | Mar 24 |
 | **[AAAS](http://www.aaas.org/)** | **[Digital Storytelling Intern](https://jobright.ai/jobs/info/698b6307c5761b521a9adb04?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Mar 24 |
 | **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[Social Content Development Intern](https://jobright.ai/jobs/info/69c3145bec22f8310ab12a41?utm_campaign=1053&utm_source=git)** | Oakland | Hybrid | Mar 24 |
-| **[Clark Planetarium](http://www.clarkplanetarium.org)** | **[ZAP (Zoo, Arts, and Parks) - Special Projects Intern](https://jobright.ai/jobs/info/69c31478753c101b215694d7?utm_campaign=1053&utm_source=git)** | 2525 West Taylorsville Blvd. | Hybrid | Mar 24 |
-| ↳ | **[ZAP (Zoo, Arts, and Parks) - Special Projects Intern](https://jobright.ai/jobs/info/69c3147a94007a2195df41e9?utm_campaign=1053&utm_source=git)** | US-UT-Taylorsville | Hybrid | Mar 24 |
+| **[Clark Planetarium](http://www.clarkplanetarium.org)** | **[ZAP (Zoo, Arts, and Parks) - Special Projects Intern](https://jobright.ai/jobs/info/69c3147994007a2195df41e1?utm_campaign=1053&utm_source=git)** | 84129 | Hybrid | Mar 24 |
+| ↳ | **[ZAP (Zoo, Arts, and Parks) - Special Projects Intern](https://jobright.ai/jobs/info/69c31478753c101b215694d7?utm_campaign=1053&utm_source=git)** | 2525 West Taylorsville Blvd. | Hybrid | Mar 24 |
 | ↳ | **[ZAP (Zoo, Arts, and Parks) - Special Projects Intern](https://jobright.ai/jobs/info/69c314deec22f8310ab12bfa?utm_campaign=1053&utm_source=git)** | Taylorsville, UT, US | Hybrid | Mar 24 |
-| ↳ | **[ZAP (Zoo, Arts, and Parks) - Special Projects Intern](https://jobright.ai/jobs/info/69c3147994007a2195df41e1?utm_campaign=1053&utm_source=git)** | 84129 | Hybrid | Mar 24 |
+| ↳ | **[ZAP (Zoo, Arts, and Parks) - Special Projects Intern](https://jobright.ai/jobs/info/69c3147a94007a2195df41e9?utm_campaign=1053&utm_source=git)** | US-UT-Taylorsville | Hybrid | Mar 24 |
 | **[OTTera, Inc.](http://www.ottera.tv/)** | **[Content Creator Intern](https://jobright.ai/jobs/info/69c2e959753c101b21565129?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Mar 24 |
 | **[LAIKA Studios](https://laika.com/)** | **[Puppet Fabrication CG Modeling Intern](https://jobright.ai/jobs/info/69a601000da45516f16ed5d2?utm_campaign=1053&utm_source=git)** | Hillsboro, OR | On Site | Mar 24 |
 | **[WVTM 13](https://www.wvtm13.com)** | **[Creative Services Intern](https://jobright.ai/jobs/info/69c2d80194007a2195dedb1a?utm_campaign=1053&utm_source=git)** | Birmingham, AL | On Site | Mar 24 |
@@ -140,7 +144,6 @@ For a complete list, click the following sortable link below:
 | **[GBH](http://www.wgbh.org/)** | **[NEPM News Intern - Summer 2026](https://jobright.ai/jobs/info/699c1c97ce78e77b4fe0ab2a?utm_campaign=1053&utm_source=git)** | Springfield, MA | On Site | Mar 24 |
 | **[Larian Studios](http://www.larian.com/)** | **[3D Animator Internship / Animateur 3D stagiaire](https://jobright.ai/jobs/info/69c2c54b94007a2195debbb9?utm_campaign=1053&utm_source=git)** | Quebec, Canada | On Site | Mar 24 |
 | **[University of Notre Dame](http://mendoza.nd.edu)** | **[Media Production Student Intern](https://jobright.ai/jobs/info/69a92fe779f3f4037f43f325?utm_campaign=1053&utm_source=git)** | Notre Dame, IN | On Site | Mar 24 |
-| **[Pacvue](https://www.pacvue.com/)** | **[Video Editor Summer Intern](https://jobright.ai/jobs/info/69bdc373b10602456282e67a?utm_campaign=1053&utm_source=git)** | United States | Remote | Mar 24 |
 | **[Larian Studios](http://www.larian.com/)** | **[3D Animator Internship / Animateur 3D stagiaire](https://jobright.ai/jobs/info/69c2c1a5753c101b21560d62?utm_campaign=1053&utm_source=git)** | Quebec | On Site | Mar 24 |
 | **[Cincinnati Bengals](http://www.bengals.com)** | **[Fan Development Event Internship](https://jobright.ai/jobs/info/69c2d7f694007a2195dedb05?utm_campaign=1053&utm_source=git)** | Cincinnati, OH | On Site | Mar 24 |
 | **[Wayne County Michigan](http://www.waynecounty.com)** | **[Student Intern 2 (Parks Division)](https://jobright.ai/jobs/info/69c2b8be753c101b215601a4?utm_campaign=1053&utm_source=git)** | Detroit,MI,US | On Site | Mar 24 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[American Academy of Neurology](https://www.aan.com)** | **[INTERN, JOURNAL PRODUCTION](https://jobright.ai/jobs/info/69a602e30da45516f16ed8cd?utm_campaign=1053&utm_source=git)** | Minneapolis, MN | Hybrid | Mar 24 |
 | **[Sales Gravy | Sell More](http://www.salesgravy.com/)** | **[Video Production & Editing Intern - Summer 2026](https://jobright.ai/jobs/info/69c254482c312363dcd5f3b7?utm_campaign=1053&utm_source=git)** | Thomson, GA | On Site | Mar 24 |
 | **[WCIA 3](https://www.wcia.com/)** | **[Unpaid Intern, Sports](https://jobright.ai/jobs/info/69c28299a5b03d40c194e14d?utm_campaign=1053&utm_source=git)** | Champaign, IL | On Site | Mar 24 |
-| **[ALO](https://www.aloyoga.com/)** | **[PR & Wellness Club Intern](https://jobright.ai/jobs/info/69baf0e2569738374140c630?utm_campaign=1053&utm_source=git)** | Beverly Hills, California, United States | On Site | Mar 23 |
-| **[WCIA 3](https://www.wcia.com/)** | **[Unpaid Intern, Weather](https://jobright.ai/jobs/info/69c20a5e75f7ff1cd810a997?utm_campaign=1053&utm_source=git)** | Champaign, IL | On Site | Mar 23 |
-| **[Ohio History Connection](https://www.ohiohistory.org/)** | **[Summer 2026- Exhibits and Interpretation Internship](https://jobright.ai/jobs/info/69c1f737c9ad035e829a55da?utm_campaign=1053&utm_source=git)** | Columbus, OH | On Site | Mar 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
