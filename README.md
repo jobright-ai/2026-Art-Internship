@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Twilio](https://www.twilio.com/)** | **[Video Producer Intern](https://jobright.ai/jobs/info/69c5aaeeaa9a29199e808a68?utm_campaign=1053&utm_source=git)** | United States | Remote | Mar 26 |
+| **[Studs](https://studs.com/)** | **[Apprentice Piercer](https://jobright.ai/jobs/info/69c5a482aa9a29199e808515?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | Mar 26 |
 | **[K-LOVE](https://www.klove.com/)** | **[Post Production Intern](https://jobright.ai/jobs/info/69c28943a5b03d40c194f6a6?utm_campaign=1053&utm_source=git)** | Franklin, TN | On Site | Mar 26 |
 | **[Mass General Brigham](https://www.massgeneralbrigham.org)** | **[Video Storytelling Intern](https://jobright.ai/jobs/info/69c595afaa9a29199e8077cd?utm_campaign=1053&utm_source=git)** | Somerville, MA | Hybrid | Mar 26 |
 | **[Toronto26](https://www.toronto26.com)** | **[Soccer Content Creator Intern](https://jobright.ai/jobs/info/69c595911818a24cd84b81f1?utm_campaign=1053&utm_source=git)** | Toronto, ON | On Site | Mar 26 |
@@ -120,8 +122,8 @@ For a complete list, click the following sortable link below:
 | **[AAAS](http://www.aaas.org/)** | **[Digital Storytelling Intern](https://jobright.ai/jobs/info/698b6307c5761b521a9adb04?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Mar 24 |
 | **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[Social Content Development Intern](https://jobright.ai/jobs/info/69c3145bec22f8310ab12a41?utm_campaign=1053&utm_source=git)** | Oakland | Hybrid | Mar 24 |
 | **[Clark Planetarium](http://www.clarkplanetarium.org)** | **[ZAP (Zoo, Arts, and Parks) - Special Projects Intern](https://jobright.ai/jobs/info/69c31478753c101b215694d7?utm_campaign=1053&utm_source=git)** | 2525 West Taylorsville Blvd. | Hybrid | Mar 24 |
-| ↳ | **[ZAP (Zoo, Arts, and Parks) - Special Projects Intern](https://jobright.ai/jobs/info/69c314deec22f8310ab12bfa?utm_campaign=1053&utm_source=git)** | Taylorsville, UT, US | Hybrid | Mar 24 |
 | ↳ | **[ZAP (Zoo, Arts, and Parks) - Special Projects Intern](https://jobright.ai/jobs/info/69c3147a94007a2195df41e9?utm_campaign=1053&utm_source=git)** | US-UT-Taylorsville | Hybrid | Mar 24 |
+| ↳ | **[ZAP (Zoo, Arts, and Parks) - Special Projects Intern](https://jobright.ai/jobs/info/69c314deec22f8310ab12bfa?utm_campaign=1053&utm_source=git)** | Taylorsville, UT, US | Hybrid | Mar 24 |
 | ↳ | **[ZAP (Zoo, Arts, and Parks) - Special Projects Intern](https://jobright.ai/jobs/info/69c3147994007a2195df41e1?utm_campaign=1053&utm_source=git)** | 84129 | Hybrid | Mar 24 |
 | **[OTTera, Inc.](http://www.ottera.tv/)** | **[Content Creator Intern](https://jobright.ai/jobs/info/69c2e959753c101b21565129?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Mar 24 |
 | **[LAIKA Studios](https://laika.com/)** | **[Puppet Fabrication CG Modeling Intern](https://jobright.ai/jobs/info/69a601000da45516f16ed5d2?utm_campaign=1053&utm_source=git)** | Hillsboro, OR | On Site | Mar 24 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Open Road Integrated Media Inc.](http://www.openroadmedia.com)** | **[Content Writing Intern (FT/Paid)](https://jobright.ai/jobs/info/69c30db2753c101b21568a82?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Mar 23 |
 | ↳ | **[Content Writing Intern (PT/For-Credit)](https://jobright.ai/jobs/info/69c30dc694007a2195df3676?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Mar 23 |
 | **[GigFinesse](https://www.gigfinesse.com/)** | **[Artist Relations Intern (Summer 2026)](https://jobright.ai/jobs/info/69c1c26b79e36d3a847ed01f?utm_campaign=1053&utm_source=git)** | Austin, Texas | On Site | Mar 23 |
-| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Intern, News](https://jobright.ai/jobs/info/69c1c03879e36d3a847ecc2c?utm_campaign=1053&utm_source=git)** | IL, Champaign | On Site | Mar 23 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[20/20 Production Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69c1b5cb75f7ff1cd8100350?utm_campaign=1053&utm_source=git)** | New York, NY, USA | On Site | Mar 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
