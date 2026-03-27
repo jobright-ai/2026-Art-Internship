@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Intern - KOIN / KRCW - Portland, OR (Unpaid)](https://jobright.ai/jobs/info/69c67c251b5ad02887384c1a?utm_campaign=1053&utm_source=git)** | Portland, OR | On Site | Mar 27 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[ABC News Assignment Desk Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69c65b561b5ad02887384393?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Mar 27 |
 | **[Sinclair Inc.](http://sbgi.net/)** | **[News Intern](https://jobright.ai/jobs/info/69c65427aa3c2c1995e0f759?utm_campaign=1053&utm_source=git)** | Oklahoma City, OK | On Site | Mar 27 |
 | ↳ | **[News Intern](https://jobright.ai/jobs/info/69c650ab83ea553769fd97d1?utm_campaign=1053&utm_source=git)** | Steubenville, OH | On Site | Mar 27 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[20/20 Production Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69c2b382ec22f8310ab095ac?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Mar 24 |
 | **[Oakland County Football Club](http://www.oaklandcountyfc.com)** | **[2026 Video Production/Live Streaming Internship](https://jobright.ai/jobs/info/69c2b37f94007a2195dea520?utm_campaign=1053&utm_source=git)** | Royal Oak, MI | Hybrid | Mar 24 |
 | **[TGR](http://www.thegarnettereport.com)** | **[Spring/Summer Internship](https://jobright.ai/jobs/info/69c2a9ec94007a2195de94ca?utm_campaign=1053&utm_source=git)** | NYC Metro Area | On Site | Mar 24 |
-| **[LAIKA Studios](https://laika.com/)** | **[Costume Fabrication Intern](https://jobright.ai/jobs/info/69a607fd0da45516f16ee0e8?utm_campaign=1053&utm_source=git)** | Hillsboro, OR | On Site | Mar 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
