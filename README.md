@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[AccuWeather](http://www.accuweather.com)** | **[Summer Producer Intern](https://jobright.ai/jobs/info/69c6c2ff1b5ad02887386c02?utm_campaign=1053&utm_source=git)** | State College, PA | On Site | Mar 27 |
 | **[The Athletic](https://theathletic.com/)** | **[NHL Student Intern, Fall 2026 (Remote)](https://jobright.ai/jobs/info/69c6b1ef83ea553769fdcac5?utm_campaign=1053&utm_source=git)** | United States | Remote | Mar 27 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[ABC News Podcast Production Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69c6abf21818a24cd84c78d1?utm_campaign=1053&utm_source=git)** | New York, NY, USA | On Site | Mar 27 |
 | **[Erie Events](https://www.erieevents.com/)** | **[Event Management Intern](https://jobright.ai/jobs/info/69c6a644b773006330b71cfd?utm_campaign=1053&utm_source=git)** | Erie, PA 16507, USA | On Site | Mar 27 |
@@ -142,10 +143,10 @@ For a complete list, click the following sortable link below:
 | **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[Social Content Development Intern](https://jobright.ai/jobs/info/69c30da9753c101b21568a65?utm_campaign=1053&utm_source=git)** | Oakland General Office (OGO) | Hybrid | Mar 24 |
 | **[AAAS](http://www.aaas.org/)** | **[Digital Storytelling Intern](https://jobright.ai/jobs/info/698b6307c5761b521a9adb04?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Mar 24 |
 | **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[Social Content Development Intern](https://jobright.ai/jobs/info/69c3145bec22f8310ab12a41?utm_campaign=1053&utm_source=git)** | Oakland | Hybrid | Mar 24 |
-| **[Clark Planetarium](http://www.clarkplanetarium.org)** | **[ZAP (Zoo, Arts, and Parks) - Special Projects Intern](https://jobright.ai/jobs/info/69c3147a94007a2195df41e9?utm_campaign=1053&utm_source=git)** | US-UT-Taylorsville | Hybrid | Mar 24 |
-| ↳ | **[ZAP (Zoo, Arts, and Parks) - Special Projects Intern](https://jobright.ai/jobs/info/69c31478753c101b215694d7?utm_campaign=1053&utm_source=git)** | 2525 West Taylorsville Blvd. | Hybrid | Mar 24 |
-| ↳ | **[ZAP (Zoo, Arts, and Parks) - Special Projects Intern](https://jobright.ai/jobs/info/69c314deec22f8310ab12bfa?utm_campaign=1053&utm_source=git)** | Taylorsville, UT, US | Hybrid | Mar 24 |
+| **[Clark Planetarium](http://www.clarkplanetarium.org)** | **[ZAP (Zoo, Arts, and Parks) - Special Projects Intern](https://jobright.ai/jobs/info/69c314deec22f8310ab12bfa?utm_campaign=1053&utm_source=git)** | Taylorsville, UT, US | Hybrid | Mar 24 |
 | ↳ | **[ZAP (Zoo, Arts, and Parks) - Special Projects Intern](https://jobright.ai/jobs/info/69c3147994007a2195df41e1?utm_campaign=1053&utm_source=git)** | 84129 | Hybrid | Mar 24 |
+| ↳ | **[ZAP (Zoo, Arts, and Parks) - Special Projects Intern](https://jobright.ai/jobs/info/69c31478753c101b215694d7?utm_campaign=1053&utm_source=git)** | 2525 West Taylorsville Blvd. | Hybrid | Mar 24 |
+| ↳ | **[ZAP (Zoo, Arts, and Parks) - Special Projects Intern](https://jobright.ai/jobs/info/69c3147a94007a2195df41e9?utm_campaign=1053&utm_source=git)** | US-UT-Taylorsville | Hybrid | Mar 24 |
 | **[OTTera, Inc.](http://www.ottera.tv/)** | **[Content Creator Intern](https://jobright.ai/jobs/info/69c2e959753c101b21565129?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Mar 24 |
 | **[LAIKA Studios](https://laika.com/)** | **[Puppet Fabrication CG Modeling Intern](https://jobright.ai/jobs/info/69a601000da45516f16ed5d2?utm_campaign=1053&utm_source=git)** | Hillsboro, OR | On Site | Mar 24 |
 | **[WVTM 13](https://www.wvtm13.com)** | **[Creative Services Intern](https://jobright.ai/jobs/info/69c2d80194007a2195dedb1a?utm_campaign=1053&utm_source=git)** | Birmingham, AL | On Site | Mar 24 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Larian Studios](http://www.larian.com/)** | **[3D Animator Internship / Animateur 3D stagiaire](https://jobright.ai/jobs/info/69c2c54b94007a2195debbb9?utm_campaign=1053&utm_source=git)** | Quebec, Canada | On Site | Mar 24 |
 | **[University of Notre Dame](http://mendoza.nd.edu)** | **[Media Production Student Intern](https://jobright.ai/jobs/info/69a92fe779f3f4037f43f325?utm_campaign=1053&utm_source=git)** | Notre Dame, IN | On Site | Mar 24 |
 | **[Larian Studios](http://www.larian.com/)** | **[3D Animator Internship / Animateur 3D stagiaire](https://jobright.ai/jobs/info/69c2c1a5753c101b21560d62?utm_campaign=1053&utm_source=git)** | Quebec | On Site | Mar 24 |
-| **[Cincinnati Bengals](http://www.bengals.com)** | **[Fan Development Event Internship](https://jobright.ai/jobs/info/69c2d7f694007a2195dedb05?utm_campaign=1053&utm_source=git)** | Cincinnati, OH | On Site | Mar 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
