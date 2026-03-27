@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[ABC News Assignment Desk Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69c65b561b5ad02887384393?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Mar 27 |
+| **[Sinclair Inc.](http://sbgi.net/)** | **[News Intern](https://jobright.ai/jobs/info/69c65427aa3c2c1995e0f759?utm_campaign=1053&utm_source=git)** | Oklahoma City, OK | On Site | Mar 27 |
+| ↳ | **[News Intern](https://jobright.ai/jobs/info/69c650ab83ea553769fd97d1?utm_campaign=1053&utm_source=git)** | Steubenville, OH | On Site | Mar 27 |
 | **[City of Greenwood Village](https://greenwoodvillage.com)** | **[Seasonal Recreation Intern](https://jobright.ai/jobs/info/69c63826e565c26a7001bff8?utm_campaign=1053&utm_source=git)** | Greenwood Village, CO | On Site | Mar 27 |
 | **[Pacvue](https://www.pacvue.com/)** | **[Video Editor Summer Intern](https://jobright.ai/jobs/info/69bdc373b10602456282e67a?utm_campaign=1053&utm_source=git)** | United States | Remote | Mar 27 |
 | **[Forsyth County](http://www.forsyth.cc)** | **[Intern](https://jobright.ai/jobs/info/69c6450883ea553769fd7096?utm_campaign=1053&utm_source=git)** | Winston-Salem, NC | On Site | Mar 26 |
@@ -89,10 +92,10 @@ For a complete list, click the following sortable link below:
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Media Production Intern (In- Person) Summer 2026.](https://jobright.ai/jobs/info/69a93b2a2615b60842abb55a?utm_campaign=1053&utm_source=git)** | Mobile, AL | On Site | Mar 26 |
 | ↳ | **[Hello Iowa Intern (Unpaid)](https://jobright.ai/jobs/info/6938ede1b95c305f206e2e4b?utm_campaign=1053&utm_source=git)** | Des Moines, IA | On Site | Mar 26 |
 | **[High Impact Promotion](https://highimpactpromo.com/)** | **[Digital Production Unpaid Internship](https://jobright.ai/jobs/info/69c568eeaa9a29199e8042d9?utm_campaign=1053&utm_source=git)** | Chicago, IL | Hybrid | Mar 26 |
-| **[Canyon Entertainment Group](https://canyonentertainmentgroup.com)** | **[Script Writing Internship](https://jobright.ai/jobs/info/69c52f021818a24cd84b1bda?utm_campaign=1053&utm_source=git)** | Greater Toronto Area, Canada | Remote | Mar 26 |
 | **[Atlanta Hawks](https://www.nba.com/hawks)** | **[Sekou Smith Summer League Experience Intern](https://jobright.ai/jobs/info/69c516b567e81074795b5c78?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Mar 26 |
 | **[New York Post](http://nypost.com/)** | **[Lifestyle Intern](https://jobright.ai/jobs/info/69a763b82672cb0acb4bd7d6?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Mar 26 |
 | **[Production Resource Group](https://www.prg.com/)** | **[Summer Intern- National Western Center - Venue Production Assistant](https://jobright.ai/jobs/info/69c4fe286f4f855eeda7bc6f?utm_campaign=1053&utm_source=git)** | Denver, CO | On Site | Mar 26 |
+| **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[Intern – Communications (Videography and Digital Media) Job ID : 274546](https://jobright.ai/jobs/info/69c6469983ea553769fd71ea?utm_campaign=1053&utm_source=git)** | New York, United States | On Site | Mar 26 |
 | **[Front Office Sports](https://frontofficesports.com/)** | **[Editorial Intern](https://jobright.ai/jobs/info/69c4e11c6f4f855eeda79433?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Mar 26 |
 | **[Sports Illustrated Stadium](https://www.sportsillustratedstadium.com)** | **[2026 Internship, Summer - Event Operations](https://jobright.ai/jobs/info/69c4bc2b6f4f855eeda763c2?utm_campaign=1053&utm_source=git)** | Harrison, NJ | On Site | Mar 25 |
 | **[Red Bull New York](http://www.newyorkredbulls.com)** | **[2026 Internship, Spring - Creative Video](https://jobright.ai/jobs/info/69c4bc206f4f855eeda763a8?utm_campaign=1053&utm_source=git)** | Harrison, NJ | On Site | Mar 25 |
@@ -104,6 +107,7 @@ For a complete list, click the following sortable link below:
 | **[Stand Together](https://standtogether.org/)** | **[KAP 2026-2027 - Content Creator - Young Voices](https://jobright.ai/jobs/info/69c443826f4f855eeda6ae3a?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Mar 25 |
 | **[Fox Corporation](https://www.foxcorporation.com/)** | **[Digital Content Producer - Intern](https://jobright.ai/jobs/info/69c462e6d5a1016e98db9715?utm_campaign=1053&utm_source=git)** | Orlando, Florida, USA | On Site | Mar 25 |
 | ↳ | **[Digital Content Producer - Intern](https://jobright.ai/jobs/info/69c462e633eecf310794ae64?utm_campaign=1053&utm_source=git)** | Orlando, Florida, USA | On Site | Mar 25 |
+| **[University of Notre Dame](nd.edu)** | **[Content Specialist Intern](https://jobright.ai/jobs/info/69c6536de565c26a7001f8e8?utm_campaign=1053&utm_source=git)** | Notre Dame, IN, US | On Site | Mar 25 |
 | **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69c43466d5a1016e98db4844?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Mar 25 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69c434656f4f855eeda69832?utm_campaign=1053&utm_source=git)** | Greenbrier River, WV | On Site | Mar 25 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69c4345fd5a1016e98db482d?utm_campaign=1053&utm_source=git)** | Wichita, KS | On Site | Mar 25 |
@@ -132,10 +136,10 @@ For a complete list, click the following sortable link below:
 | **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[Social Content Development Intern](https://jobright.ai/jobs/info/69c30da9753c101b21568a65?utm_campaign=1053&utm_source=git)** | Oakland General Office (OGO) | Hybrid | Mar 24 |
 | **[AAAS](http://www.aaas.org/)** | **[Digital Storytelling Intern](https://jobright.ai/jobs/info/698b6307c5761b521a9adb04?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Mar 24 |
 | **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[Social Content Development Intern](https://jobright.ai/jobs/info/69c3145bec22f8310ab12a41?utm_campaign=1053&utm_source=git)** | Oakland | Hybrid | Mar 24 |
-| **[Clark Planetarium](http://www.clarkplanetarium.org)** | **[ZAP (Zoo, Arts, and Parks) - Special Projects Intern](https://jobright.ai/jobs/info/69c31478753c101b215694d7?utm_campaign=1053&utm_source=git)** | 2525 West Taylorsville Blvd. | Hybrid | Mar 24 |
-| ↳ | **[ZAP (Zoo, Arts, and Parks) - Special Projects Intern](https://jobright.ai/jobs/info/69c3147a94007a2195df41e9?utm_campaign=1053&utm_source=git)** | US-UT-Taylorsville | Hybrid | Mar 24 |
-| ↳ | **[ZAP (Zoo, Arts, and Parks) - Special Projects Intern](https://jobright.ai/jobs/info/69c314deec22f8310ab12bfa?utm_campaign=1053&utm_source=git)** | Taylorsville, UT, US | Hybrid | Mar 24 |
+| **[Clark Planetarium](http://www.clarkplanetarium.org)** | **[ZAP (Zoo, Arts, and Parks) - Special Projects Intern](https://jobright.ai/jobs/info/69c314deec22f8310ab12bfa?utm_campaign=1053&utm_source=git)** | Taylorsville, UT, US | Hybrid | Mar 24 |
 | ↳ | **[ZAP (Zoo, Arts, and Parks) - Special Projects Intern](https://jobright.ai/jobs/info/69c3147994007a2195df41e1?utm_campaign=1053&utm_source=git)** | 84129 | Hybrid | Mar 24 |
+| ↳ | **[ZAP (Zoo, Arts, and Parks) - Special Projects Intern](https://jobright.ai/jobs/info/69c3147a94007a2195df41e9?utm_campaign=1053&utm_source=git)** | US-UT-Taylorsville | Hybrid | Mar 24 |
+| ↳ | **[ZAP (Zoo, Arts, and Parks) - Special Projects Intern](https://jobright.ai/jobs/info/69c31478753c101b215694d7?utm_campaign=1053&utm_source=git)** | 2525 West Taylorsville Blvd. | Hybrid | Mar 24 |
 | **[OTTera, Inc.](http://www.ottera.tv/)** | **[Content Creator Intern](https://jobright.ai/jobs/info/69c2e959753c101b21565129?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Mar 24 |
 | **[LAIKA Studios](https://laika.com/)** | **[Puppet Fabrication CG Modeling Intern](https://jobright.ai/jobs/info/69a601000da45516f16ed5d2?utm_campaign=1053&utm_source=git)** | Hillsboro, OR | On Site | Mar 24 |
 | **[WVTM 13](https://www.wvtm13.com)** | **[Creative Services Intern](https://jobright.ai/jobs/info/69c2d80194007a2195dedb1a?utm_campaign=1053&utm_source=git)** | Birmingham, AL | On Site | Mar 24 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Oakland County Football Club](http://www.oaklandcountyfc.com)** | **[2026 Video Production/Live Streaming Internship](https://jobright.ai/jobs/info/69c2b37f94007a2195dea520?utm_campaign=1053&utm_source=git)** | Royal Oak, MI | Hybrid | Mar 24 |
 | **[TGR](http://www.thegarnettereport.com)** | **[Spring/Summer Internship](https://jobright.ai/jobs/info/69c2a9ec94007a2195de94ca?utm_campaign=1053&utm_source=git)** | NYC Metro Area | On Site | Mar 24 |
 | **[LAIKA Studios](https://laika.com/)** | **[Costume Fabrication Intern](https://jobright.ai/jobs/info/69a607fd0da45516f16ee0e8?utm_campaign=1053&utm_source=git)** | Hillsboro, OR | On Site | Mar 24 |
-| **[Morning Brew](https://www.morningbrew.com)** | **[Intern, Social Video](https://jobright.ai/jobs/info/69c29d06753c101b2155e528?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Mar 24 |
-| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[News Intern](https://jobright.ai/jobs/info/69c29a9aec22f8310ab07b56?utm_campaign=1053&utm_source=git)** | Memphis, TN | On Site | Mar 24 |
-| **[American Academy of Neurology](https://www.aan.com)** | **[INTERN, JOURNAL PRODUCTION](https://jobright.ai/jobs/info/69a602e30da45516f16ed8cd?utm_campaign=1053&utm_source=git)** | Minneapolis, MN | Hybrid | Mar 24 |
-| **[Sales Gravy | Sell More](http://www.salesgravy.com/)** | **[Video Production & Editing Intern - Summer 2026](https://jobright.ai/jobs/info/69c254482c312363dcd5f3b7?utm_campaign=1053&utm_source=git)** | Thomson, GA | On Site | Mar 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
