@@ -61,6 +61,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Assistant·e Monteur·euse, production (stage)](https://jobright.ai/jobs/info/69ab50ff7e1fab39d382e7dd?utm_campaign=1053&utm_source=git)** | Montreal, QC | On Site | Mar 28 |
 | **[Cossette](http://www.cossette.com)** | **[Directeur·trice artistique (Stage)](https://jobright.ai/jobs/info/69c808aae565c26a7002d371?utm_campaign=1053&utm_source=git)** | Montreal, QC | Hybrid | Mar 28 |
 | **[Kelly Tutors](www.kellytutors.com)** | **[Podcast Production Intern (Remote, 2-5 hrs/week)](https://jobright.ai/jobs/info/69c8026d83ea553769fe7ef0?utm_campaign=1053&utm_source=git)** | Seattle metropolitan area, WA | Remote | Mar 28 |
+| **[Sparks Village Academy](sparksvillage.com)** | **[Paid Videography Internship](https://jobright.ai/jobs/info/69c83007b773006330b7e3e4?utm_campaign=1053&utm_source=git)** | United States | Remote | Mar 28 |
 | **[Six Flags Entertainment Corporation](http://sixflags.com)** | **[Entertainment Event Technician Internship](https://jobright.ai/jobs/info/6973d0d337785856350da366?utm_campaign=1053&utm_source=git)** | Gurnee, IL | On Site | Mar 28 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[WABC - TV (ABC7) Programming Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69c7d85de565c26a7002c497?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Mar 28 |
 | **[Genzest LLC](https://nailphoria.com/)** | **[Livestream Operation intern](https://jobright.ai/jobs/info/69c7ca0383ea553769fe6995?utm_campaign=1053&utm_source=git)** | West Hollywood, CA | On Site | Mar 28 |
@@ -98,7 +99,6 @@ For a complete list, click the following sortable link below:
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Intern - KOIN / KRCW - Portland, OR (Unpaid)](https://jobright.ai/jobs/info/69c67c251b5ad02887384c1a?utm_campaign=1053&utm_source=git)** | Portland, OR | On Site | Mar 27 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[ABC News Assignment Desk Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69c65b561b5ad02887384393?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Mar 27 |
 | **[Sinclair Inc.](http://sbgi.net/)** | **[News Intern](https://jobright.ai/jobs/info/69c650ab83ea553769fd97d1?utm_campaign=1053&utm_source=git)** | Steubenville, OH | On Site | Mar 27 |
-| **[City of Greenwood Village](https://greenwoodvillage.com)** | **[Seasonal Recreation Intern](https://jobright.ai/jobs/info/69c63826e565c26a7001bff8?utm_campaign=1053&utm_source=git)** | Greenwood Village, CO | On Site | Mar 27 |
 | **[Pacvue](https://www.pacvue.com/)** | **[Video Editor Summer Intern](https://jobright.ai/jobs/info/69bdc373b10602456282e67a?utm_campaign=1053&utm_source=git)** | United States | Remote | Mar 27 |
 | **[Forsyth County](http://www.forsyth.cc)** | **[Intern](https://jobright.ai/jobs/info/69c6450883ea553769fd7096?utm_campaign=1053&utm_source=git)** | Winston-Salem, NC | On Site | Mar 26 |
 | **[Morningstar](http://www.morningstar.com)** | **[Summer Reporting Intern](https://jobright.ai/jobs/info/69c24995c9ad035e829b0822?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Mar 26 |
@@ -108,8 +108,8 @@ For a complete list, click the following sortable link below:
 | **[Golden Hippo®](https://www.huntrealestate.com/)** | **[Art Production Assistant Intern](https://jobright.ai/jobs/info/69c5d8bd1b5ad0288737a4eb?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | Mar 26 |
 | **[O.H. Partners](https://ohpartners.com)** | **[Content Creator Intern](https://jobright.ai/jobs/info/69c5ccef1b5ad02887379bfb?utm_campaign=1053&utm_source=git)** | Phoenix, AZ | On Site | Mar 26 |
 | **[MobilizeGreen](https://www.mobilizegreen.org/)** | **[Park Intern – America 250 Commemoration Support](https://jobright.ai/jobs/info/69c5cbccaa3c2c1995e04d67?utm_campaign=1053&utm_source=git)** | Yorktown, VA | On Site | Mar 26 |
-| **[FloSports](http://www.flosports.tv/)** | **[Summer Internship - Content Video Production](https://jobright.ai/jobs/info/69c70ed4b773006330b756a5?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | Mar 26 |
-| ↳ | **[Summer Internship - FloTrack/MileSplit](https://jobright.ai/jobs/info/69c70e551b5ad028873898aa?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | Mar 26 |
+| **[FloSports](http://www.flosports.tv/)** | **[Summer Internship - FloTrack/MileSplit](https://jobright.ai/jobs/info/69c70e551b5ad028873898aa?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | Mar 26 |
+| ↳ | **[Summer Internship - Content Video Production](https://jobright.ai/jobs/info/69c70ed4b773006330b756a5?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | Mar 26 |
 | **[Twilio](https://www.twilio.com/)** | **[Video Producer Intern](https://jobright.ai/jobs/info/69c5aaeeaa9a29199e808a68?utm_campaign=1053&utm_source=git)** | United States | Remote | Mar 26 |
 | **[Studs](https://studs.com/)** | **[Apprentice Piercer](https://jobright.ai/jobs/info/69c5a482aa9a29199e808515?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | Mar 26 |
 | **[K-LOVE](https://www.klove.com/)** | **[Post Production Intern](https://jobright.ai/jobs/info/69c28943a5b03d40c194f6a6?utm_campaign=1053&utm_source=git)** | Franklin, TN | On Site | Mar 26 |
