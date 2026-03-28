@@ -57,12 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Genzest LLC](https://nailphoria.com/)** | **[Livestream Operation intern](https://jobright.ai/jobs/info/69c7ca0383ea553769fe6995?utm_campaign=1053&utm_source=git)** | West Hollywood, CA | On Site | Mar 28 |
+| **[Berkeley Lab](https://newscenter.lbl.gov/)** | **[Science Writer](https://jobright.ai/jobs/info/69c7b79de565c26a7002afd7?utm_campaign=1053&utm_source=git)** | Berkeley, CA | Hybrid | Mar 28 |
 | **[IMG](http://img.com)** | **[Intern, Studios](https://jobright.ai/jobs/info/69ab38bd7e1fab39d382d1af?utm_campaign=1053&utm_source=git)** | Stamford, CT | On Site | Mar 28 |
 | **[The Reynolds and Reynolds Company](https://www.reyrey.com)** | **[Multimedia Production Specialist Intern](https://jobright.ai/jobs/info/69738c76206da320f49d8899?utm_campaign=1053&utm_source=git)** | Greater Houston | On Site | Mar 28 |
 | **[Universal Music Group](https://www.universalmusic.com)** | **[Universal Music Group 2026 Summer Internship Program: Creative & Operations (Onsite: TN)](https://jobright.ai/jobs/info/69ab73ef142d5b4265fca79d?utm_campaign=1053&utm_source=git)** | Nashville, TN | On Site | Mar 28 |
 | **[Town of Clayton](https://linktr.ee/townofclaytonnc)** | **[Intern - Communication and Outreach](https://jobright.ai/jobs/info/69c773abb773006330b78bf3?utm_campaign=1053&utm_source=git)** | Clayton, NC | On Site | Mar 27 |
 | **[Forsyth County](http://www.forsyth.cc)** | **[Intern](https://jobright.ai/jobs/info/69c767d11818a24cd84ce06a?utm_campaign=1053&utm_source=git)** | Winston-Salem, NC | On Site | Mar 27 |
-| **[City of Rochester Hills](http://www.rochesterhills.org/)** | **[Video Production Intern](https://jobright.ai/jobs/info/69c7653e1818a24cd84cdfa5?utm_campaign=1053&utm_source=git)** | Rochester Hills, MI | On Site | Mar 27 |
 | **[Denver Broncos Football Club](http://www.denverbroncos.com/)** | **[Video Production Intern](https://jobright.ai/jobs/info/69a931ff2580d3183f0163cc?utm_campaign=1053&utm_source=git)** | Englewood, CO | On Site | Mar 27 |
 | **[Radical Catalyst Art & Literary Journal](https://www.linkedin.com/company/104917984)** | **[Spanish Editorial & Translation Intern](https://jobright.ai/jobs/info/69c77b0b1b5ad0288738d0b1?utm_campaign=1053&utm_source=git)** | United States | Remote | Mar 27 |
 | **[Penguin Random House](https://www.penguinrandomhouse.com/)** | **[Associate Production Editor - (Open to remote)](https://jobright.ai/jobs/info/69c74751b773006330b776a9?utm_campaign=1053&utm_source=git)** | New York, United States | Remote | Mar 27 |
@@ -113,7 +114,7 @@ For a complete list, click the following sortable link below:
 | **[AFM Agency](https://afmagency.net/)** | **[2026 Summer Internship-Creator](https://jobright.ai/jobs/info/69c586a01b5ad02887375f9a?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Mar 26 |
 | **[Golden Hippo®](https://www.huntrealestate.com/)** | **[Art Production Assistant Intern](https://jobright.ai/jobs/info/69c57e1183ea553769fcb1fa?utm_campaign=1053&utm_source=git)** | Hybrid (Woodland Hills, CA) | Hybrid | Mar 26 |
 | **[Twilio](https://www.twilio.com/)** | **[Video Producer Intern](https://jobright.ai/jobs/info/69c57e05aa9a29199e805a0a?utm_campaign=1053&utm_source=git)** | Remote - US | Remote | Mar 26 |
-| **[Leo Burnett](https://www.leoburnett.com.au/)** | **[2026 Leo Chicago Summer Internship - Strategy](https://jobright.ai/jobs/info/698c6b31f64d441a164e5f69?utm_campaign=1053&utm_source=git)** | Chicago, IL | Hybrid | Mar 26 |
+| **[Leo Burnett](https://leoburnett.com)** | **[2026 Leo Chicago Summer Internship - Strategy](https://jobright.ai/jobs/info/698c6b31f64d441a164e5f69?utm_campaign=1053&utm_source=git)** | Chicago, IL | Hybrid | Mar 26 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Digital News Intern- Summer, 2026](https://jobright.ai/jobs/info/69c570a383ea553769fca030?utm_campaign=1053&utm_source=git)** | LA-Metairie;One Galleria Blvd (Tribune-WGNO/WNOL) | On Site | Mar 26 |
 | **[Golden Pet Brands](www.goldenpetbrands.com)** | **[Intern, Video Editor - Summer 2026](https://jobright.ai/jobs/info/69c2b9a8ec22f8310ab09d13?utm_campaign=1053&utm_source=git)** | Los Angeles, California, United States | Hybrid | Mar 26 |
 | **[Golden Hippo®](https://www.huntrealestate.com/)** | **[Video Editor Intern](https://jobright.ai/jobs/info/69b3218ea8ac8e70ff674f97?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | Mar 26 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Nashville Soccer Club](https://www.nashvillesc.com/)** | **[Guest Experience Intern (Summer 2026)](https://jobright.ai/jobs/info/69c631c61818a24cd84c12d7?utm_campaign=1053&utm_source=git)** | Nashville, TN | On Site | Mar 25 |
 | ↳ | **[Mascot Intern (Summer 2026)](https://jobright.ai/jobs/info/69c63200aa3c2c1995e0af7b?utm_campaign=1053&utm_source=git)** | Nashville, TN | On Site | Mar 25 |
 | **[Kopari Beauty](https://www.koparibeauty.com/)** | **[Video Content & Editing Intern](https://jobright.ai/jobs/info/69c382707a7a0045db8954cd?utm_campaign=1053&utm_source=git)** | La Jolla Shores, CA | Hybrid | Mar 24 |
-| **[Salt Lake County](https://www.slco.org)** | **[ZAP (Zoo, Arts, and Parks) - Special Projects Intern](https://jobright.ai/jobs/info/69c349d6753c101b2156ee1d?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | Hybrid | Mar 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
