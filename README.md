@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[IMG](http://img.com)** | **[Intern, Studios](https://jobright.ai/jobs/info/69ab38bd7e1fab39d382d1af?utm_campaign=1053&utm_source=git)** | Stamford, CT | On Site | Mar 28 |
+| **[The Reynolds and Reynolds Company](https://www.reyrey.com)** | **[Multimedia Production Specialist Intern](https://jobright.ai/jobs/info/69738c76206da320f49d8899?utm_campaign=1053&utm_source=git)** | Greater Houston | On Site | Mar 28 |
 | **[Universal Music Group](https://www.universalmusic.com)** | **[Universal Music Group 2026 Summer Internship Program: Creative & Operations (Onsite: TN)](https://jobright.ai/jobs/info/69ab73ef142d5b4265fca79d?utm_campaign=1053&utm_source=git)** | Nashville, TN | On Site | Mar 28 |
 | **[Town of Clayton](https://linktr.ee/townofclaytonnc)** | **[Intern - Communication and Outreach](https://jobright.ai/jobs/info/69c773abb773006330b78bf3?utm_campaign=1053&utm_source=git)** | Clayton, NC | On Site | Mar 27 |
 | **[Forsyth County](http://www.forsyth.cc)** | **[Intern](https://jobright.ai/jobs/info/69c767d11818a24cd84ce06a?utm_campaign=1053&utm_source=git)** | Winston-Salem, NC | On Site | Mar 27 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Mascot Intern (Summer 2026)](https://jobright.ai/jobs/info/69c63200aa3c2c1995e0af7b?utm_campaign=1053&utm_source=git)** | Nashville, TN | On Site | Mar 25 |
 | **[Kopari Beauty](https://www.koparibeauty.com/)** | **[Video Content & Editing Intern](https://jobright.ai/jobs/info/69c382707a7a0045db8954cd?utm_campaign=1053&utm_source=git)** | La Jolla Shores, CA | Hybrid | Mar 24 |
 | **[Salt Lake County](https://www.slco.org)** | **[ZAP (Zoo, Arts, and Parks) - Special Projects Intern](https://jobright.ai/jobs/info/69c349d6753c101b2156ee1d?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | Hybrid | Mar 24 |
-| **[GBH](http://www.wgbh.org/)** | **[GBH Archives Internship - Summer 2026 (AAPB Exhibit Curator)](https://jobright.ai/jobs/info/69c72ee383ea553769fe1702?utm_campaign=1053&utm_source=git)** | Boston, MA | Hybrid | Mar 24 |
-| **[Slate Studios](http://slate-nyc.com)** | **[Creative Production Intern – Miami (Part Time)](https://jobright.ai/jobs/info/69c48895d5a1016e98dbca2d?utm_campaign=1053&utm_source=git)** | Miami, FL | On Site | Mar 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
