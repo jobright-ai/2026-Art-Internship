@@ -57,12 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Six Flags Entertainment Corporation](http://sixflags.com)** | **[Entertainment Event Technician Internship](https://jobright.ai/jobs/info/6973d0d337785856350da366?utm_campaign=1053&utm_source=git)** | Gurnee, IL | On Site | Mar 28 |
+| **[LUNARTECH](https://lunartech.ai)** | **[Video Editor Internship - United States](https://jobright.ai/jobs/info/69c7d89fb773006330b7c8e8?utm_campaign=1053&utm_source=git)** | United States | Remote | Mar 28 |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[WABC - TV (ABC7) Programming Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69c7d85de565c26a7002c497?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Mar 28 |
 | **[Genzest LLC](https://nailphoria.com/)** | **[Livestream Operation intern](https://jobright.ai/jobs/info/69c7ca0383ea553769fe6995?utm_campaign=1053&utm_source=git)** | West Hollywood, CA | On Site | Mar 28 |
 | **[Berkeley Lab](https://newscenter.lbl.gov/)** | **[Science Writer](https://jobright.ai/jobs/info/69c7b79de565c26a7002afd7?utm_campaign=1053&utm_source=git)** | Berkeley, CA | Hybrid | Mar 28 |
 | **[IMG](http://img.com)** | **[Intern, Studios](https://jobright.ai/jobs/info/69ab38bd7e1fab39d382d1af?utm_campaign=1053&utm_source=git)** | Stamford, CT | On Site | Mar 28 |
 | **[The Reynolds and Reynolds Company](https://www.reyrey.com)** | **[Multimedia Production Specialist Intern](https://jobright.ai/jobs/info/69738c76206da320f49d8899?utm_campaign=1053&utm_source=git)** | Greater Houston | On Site | Mar 28 |
 | **[Universal Music Group](https://www.universalmusic.com)** | **[Universal Music Group 2026 Summer Internship Program: Creative & Operations (Onsite: TN)](https://jobright.ai/jobs/info/69ab73ef142d5b4265fca79d?utm_campaign=1053&utm_source=git)** | Nashville, TN | On Site | Mar 28 |
-| **[Town of Clayton](https://linktr.ee/townofclaytonnc)** | **[Intern - Communication and Outreach](https://jobright.ai/jobs/info/69c773abb773006330b78bf3?utm_campaign=1053&utm_source=git)** | Clayton, NC | On Site | Mar 27 |
 | **[Forsyth County](http://www.forsyth.cc)** | **[Intern](https://jobright.ai/jobs/info/69c767d11818a24cd84ce06a?utm_campaign=1053&utm_source=git)** | Winston-Salem, NC | On Site | Mar 27 |
 | **[Denver Broncos Football Club](http://www.denverbroncos.com/)** | **[Video Production Intern](https://jobright.ai/jobs/info/69a931ff2580d3183f0163cc?utm_campaign=1053&utm_source=git)** | Englewood, CO | On Site | Mar 27 |
 | **[Radical Catalyst Art & Literary Journal](https://www.linkedin.com/company/104917984)** | **[Spanish Editorial & Translation Intern](https://jobright.ai/jobs/info/69c77b0b1b5ad0288738d0b1?utm_campaign=1053&utm_source=git)** | United States | Remote | Mar 27 |
@@ -102,8 +104,8 @@ For a complete list, click the following sortable link below:
 | **[Golden Hippo®](https://www.huntrealestate.com/)** | **[Art Production Assistant Intern](https://jobright.ai/jobs/info/69c5d8bd1b5ad0288737a4eb?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | Mar 26 |
 | **[O.H. Partners](https://ohpartners.com)** | **[Content Creator Intern](https://jobright.ai/jobs/info/69c5ccef1b5ad02887379bfb?utm_campaign=1053&utm_source=git)** | Phoenix, AZ | On Site | Mar 26 |
 | **[MobilizeGreen](https://www.mobilizegreen.org/)** | **[Park Intern – America 250 Commemoration Support](https://jobright.ai/jobs/info/69c5cbccaa3c2c1995e04d67?utm_campaign=1053&utm_source=git)** | Yorktown, VA | On Site | Mar 26 |
-| **[FloSports](http://www.flosports.tv/)** | **[Summer Internship - FloTrack/MileSplit](https://jobright.ai/jobs/info/69c70e551b5ad028873898aa?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | Mar 26 |
-| ↳ | **[Summer Internship - Content Video Production](https://jobright.ai/jobs/info/69c70ed4b773006330b756a5?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | Mar 26 |
+| **[FloSports](http://www.flosports.tv/)** | **[Summer Internship - Content Video Production](https://jobright.ai/jobs/info/69c70ed4b773006330b756a5?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | Mar 26 |
+| ↳ | **[Summer Internship - FloTrack/MileSplit](https://jobright.ai/jobs/info/69c70e551b5ad028873898aa?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | Mar 26 |
 | **[Twilio](https://www.twilio.com/)** | **[Video Producer Intern](https://jobright.ai/jobs/info/69c5aaeeaa9a29199e808a68?utm_campaign=1053&utm_source=git)** | United States | Remote | Mar 26 |
 | **[Studs](https://studs.com/)** | **[Apprentice Piercer](https://jobright.ai/jobs/info/69c5a482aa9a29199e808515?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | Mar 26 |
 | **[K-LOVE](https://www.klove.com/)** | **[Post Production Intern](https://jobright.ai/jobs/info/69c28943a5b03d40c194f6a6?utm_campaign=1053&utm_source=git)** | Franklin, TN | On Site | Mar 26 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Yale University](https://www.yale.edu)** | **[Art & Architecture Intern, YUP](https://jobright.ai/jobs/info/69c3fc4cd5a1016e98db052d?utm_campaign=1053&utm_source=git)** | Temple St, 302 | Hybrid | Mar 25 |
 | **[WLKY-TV CBS Louisville, KY - Hearst Television](https://www.wlky.com/)** | **[WLKY - Internship](https://jobright.ai/jobs/info/69c3f5b96f4f855eeda65264?utm_campaign=1053&utm_source=git)** | Louisville, KY | On Site | Mar 25 |
 | **[Nashville Soccer Club](https://www.nashvillesc.com/)** | **[Guest Experience Intern (Summer 2026)](https://jobright.ai/jobs/info/69c631c61818a24cd84c12d7?utm_campaign=1053&utm_source=git)** | Nashville, TN | On Site | Mar 25 |
-| ↳ | **[Mascot Intern (Summer 2026)](https://jobright.ai/jobs/info/69c63200aa3c2c1995e0af7b?utm_campaign=1053&utm_source=git)** | Nashville, TN | On Site | Mar 25 |
-| **[Kopari Beauty](https://www.koparibeauty.com/)** | **[Video Content & Editing Intern](https://jobright.ai/jobs/info/69c382707a7a0045db8954cd?utm_campaign=1053&utm_source=git)** | La Jolla Shores, CA | Hybrid | Mar 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
