@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Universal Music Group](https://www.universalmusic.com)** | **[Universal Music Group 2026 Summer Internship Program: Creative & Operations (Onsite: TN)](https://jobright.ai/jobs/info/69ab73ef142d5b4265fca79d?utm_campaign=1053&utm_source=git)** | Nashville, TN | On Site | Mar 28 |
 | **[Town of Clayton](https://linktr.ee/townofclaytonnc)** | **[Intern - Communication and Outreach](https://jobright.ai/jobs/info/69c773abb773006330b78bf3?utm_campaign=1053&utm_source=git)** | Clayton, NC | On Site | Mar 27 |
 | **[Forsyth County](http://www.forsyth.cc)** | **[Intern](https://jobright.ai/jobs/info/69c767d11818a24cd84ce06a?utm_campaign=1053&utm_source=git)** | Winston-Salem, NC | On Site | Mar 27 |
 | **[City of Rochester Hills](http://www.rochesterhills.org/)** | **[Video Production Intern](https://jobright.ai/jobs/info/69c7653e1818a24cd84cdfa5?utm_campaign=1053&utm_source=git)** | Rochester Hills, MI | On Site | Mar 27 |
@@ -71,7 +72,6 @@ For a complete list, click the following sortable link below:
 | **[Chorus America](https://chorusamerica.org)** | **[Director of Production](https://jobright.ai/jobs/info/69c70de6e565c26a700254d6?utm_campaign=1053&utm_source=git)** | St Louis, MO | On Site | Mar 27 |
 | **[The Wyanoke Group](http://www.wyanokegroup.com/)** | **[Healio News Editorial Intern - Summer 2026](https://jobright.ai/jobs/info/69c70af6aa3c2c1995e14a16?utm_campaign=1053&utm_source=git)** | Thorofare, NJ | Hybrid | Mar 27 |
 | **[The Freeman Company (TFC) Brands](http://www.thefreemancompany.com)** | **[Intern Event & Exhibit Services](https://jobright.ai/jobs/info/69c704bd83ea553769fdfd18?utm_campaign=1053&utm_source=git)** | Dallas, TX | On Site | Mar 27 |
-| **[Intermedium USA](https://intermediumcorp.com)** | **[Internship --social media editor video EXPERIENCE -  social media editing experience  Internship](https://jobright.ai/jobs/info/69c701041b5ad028873890ed?utm_campaign=1053&utm_source=git)** | United States | Remote | Mar 27 |
 | **[Minnesota Soccer Group](www.mnsoccergroup.com)** | **[AI Camera Operator / Matchday Media Specialist – Internship](https://jobright.ai/jobs/info/69c70a81e565c26a7002540c?utm_campaign=1053&utm_source=git)** | Minneapolis, MN | On Site | Mar 27 |
 | **[Toll Brothers](https://www.tollbrothers.com)** | **[2026 Internship Program: Assistant Framing Superintendent Intern](https://jobright.ai/jobs/info/69ab01e5142d5b4265fc427a?utm_campaign=1053&utm_source=git)** | Morrisville, PA | On Site | Mar 27 |
 | **[The Walters Art Museum](http://thewalters.org)** | **[Library Archives Intern (37815)](https://jobright.ai/jobs/info/69c6d7b083ea553769fde19d?utm_campaign=1053&utm_source=git)** | Walters Art Museum - Baltimore, MD 21201 | On Site | Mar 27 |
@@ -99,8 +99,8 @@ For a complete list, click the following sortable link below:
 | **[Golden Hippo®](https://www.huntrealestate.com/)** | **[Art Production Assistant Intern](https://jobright.ai/jobs/info/69c5d8bd1b5ad0288737a4eb?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | Mar 26 |
 | **[O.H. Partners](https://ohpartners.com)** | **[Content Creator Intern](https://jobright.ai/jobs/info/69c5ccef1b5ad02887379bfb?utm_campaign=1053&utm_source=git)** | Phoenix, AZ | On Site | Mar 26 |
 | **[MobilizeGreen](https://www.mobilizegreen.org/)** | **[Park Intern – America 250 Commemoration Support](https://jobright.ai/jobs/info/69c5cbccaa3c2c1995e04d67?utm_campaign=1053&utm_source=git)** | Yorktown, VA | On Site | Mar 26 |
-| **[FloSports](http://www.flosports.tv/)** | **[Summer Internship - Content Video Production](https://jobright.ai/jobs/info/69c70ed4b773006330b756a5?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | Mar 26 |
-| ↳ | **[Summer Internship - FloTrack/MileSplit](https://jobright.ai/jobs/info/69c70e551b5ad028873898aa?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | Mar 26 |
+| **[FloSports](http://www.flosports.tv/)** | **[Summer Internship - FloTrack/MileSplit](https://jobright.ai/jobs/info/69c70e551b5ad028873898aa?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | Mar 26 |
+| ↳ | **[Summer Internship - Content Video Production](https://jobright.ai/jobs/info/69c70ed4b773006330b756a5?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | Mar 26 |
 | **[Twilio](https://www.twilio.com/)** | **[Video Producer Intern](https://jobright.ai/jobs/info/69c5aaeeaa9a29199e808a68?utm_campaign=1053&utm_source=git)** | United States | Remote | Mar 26 |
 | **[Studs](https://studs.com/)** | **[Apprentice Piercer](https://jobright.ai/jobs/info/69c5a482aa9a29199e808515?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | Mar 26 |
 | **[K-LOVE](https://www.klove.com/)** | **[Post Production Intern](https://jobright.ai/jobs/info/69c28943a5b03d40c194f6a6?utm_campaign=1053&utm_source=git)** | Franklin, TN | On Site | Mar 26 |
@@ -126,6 +126,7 @@ For a complete list, click the following sortable link below:
 | **[Atlanta Hawks](https://www.nba.com/hawks)** | **[Sekou Smith Summer League Experience Intern](https://jobright.ai/jobs/info/69c516b567e81074795b5c78?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Mar 26 |
 | **[New York Post](http://nypost.com/)** | **[Lifestyle Intern](https://jobright.ai/jobs/info/69a763b82672cb0acb4bd7d6?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Mar 26 |
 | **[Production Resource Group](https://www.prg.com/)** | **[Summer Intern- National Western Center - Venue Production Assistant](https://jobright.ai/jobs/info/69c4fe286f4f855eeda7bc6f?utm_campaign=1053&utm_source=git)** | Denver, CO | On Site | Mar 26 |
+| **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[Intern – Communications (Videography and Digital Media) Job ID : 274546](https://jobright.ai/jobs/info/69c794eb83ea553769fe4c68?utm_campaign=1053&utm_source=git)** | New York, United States | On Site | Mar 26 |
 | **[Front Office Sports](https://frontofficesports.com/)** | **[Editorial Intern](https://jobright.ai/jobs/info/69c4e11c6f4f855eeda79433?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Mar 26 |
 | **[Sports Illustrated Stadium](https://www.sportsillustratedstadium.com)** | **[2026 Internship, Summer - Event Operations](https://jobright.ai/jobs/info/69c4bc2b6f4f855eeda763c2?utm_campaign=1053&utm_source=git)** | Harrison, NJ | On Site | Mar 25 |
 | **[Red Bull New York](http://www.newyorkredbulls.com)** | **[2026 Internship, Spring - Creative Video](https://jobright.ai/jobs/info/69c4bc206f4f855eeda763a8?utm_campaign=1053&utm_source=git)** | Harrison, NJ | On Site | Mar 25 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Salt Lake County](https://www.slco.org)** | **[ZAP (Zoo, Arts, and Parks) - Special Projects Intern](https://jobright.ai/jobs/info/69c349d6753c101b2156ee1d?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | Hybrid | Mar 24 |
 | **[GBH](http://www.wgbh.org/)** | **[GBH Archives Internship - Summer 2026 (AAPB Exhibit Curator)](https://jobright.ai/jobs/info/69c72ee383ea553769fe1702?utm_campaign=1053&utm_source=git)** | Boston, MA | Hybrid | Mar 24 |
 | **[Slate Studios](http://slate-nyc.com)** | **[Creative Production Intern – Miami (Part Time)](https://jobright.ai/jobs/info/69c48895d5a1016e98dbca2d?utm_campaign=1053&utm_source=git)** | Miami, FL | On Site | Mar 24 |
-| **[City of Noblesville](https://www.cityofnoblesville.org)** | **[Special Events Intern (Temporary) - Parks & Recreation](https://jobright.ai/jobs/info/69c443dad5a1016e98db5d86?utm_campaign=1053&utm_source=git)** | Noblesville, IN | On Site | Mar 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
