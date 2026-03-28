@@ -57,8 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cossette](http://www.cossette.com)** | **[Directeur·trice artistique (Stage)](https://jobright.ai/jobs/info/69c808aae565c26a7002d371?utm_campaign=1053&utm_source=git)** | Montreal, QC | Hybrid | Mar 28 |
+| **[Kelly Tutors](www.kellytutors.com)** | **[Podcast Production Intern (Remote, 2-5 hrs/week)](https://jobright.ai/jobs/info/69c8026d83ea553769fe7ef0?utm_campaign=1053&utm_source=git)** | Seattle metropolitan area, WA | Remote | Mar 28 |
 | **[Six Flags Entertainment Corporation](http://sixflags.com)** | **[Entertainment Event Technician Internship](https://jobright.ai/jobs/info/6973d0d337785856350da366?utm_campaign=1053&utm_source=git)** | Gurnee, IL | On Site | Mar 28 |
-| **[LUNARTECH](https://lunartech.ai)** | **[Video Editor Internship - United States](https://jobright.ai/jobs/info/69c7d89fb773006330b7c8e8?utm_campaign=1053&utm_source=git)** | United States | Remote | Mar 28 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[WABC - TV (ABC7) Programming Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69c7d85de565c26a7002c497?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Mar 28 |
 | **[Genzest LLC](https://nailphoria.com/)** | **[Livestream Operation intern](https://jobright.ai/jobs/info/69c7ca0383ea553769fe6995?utm_campaign=1053&utm_source=git)** | West Hollywood, CA | On Site | Mar 28 |
 | **[Berkeley Lab](https://newscenter.lbl.gov/)** | **[Science Writer](https://jobright.ai/jobs/info/69c7b79de565c26a7002afd7?utm_campaign=1053&utm_source=git)** | Berkeley, CA | Hybrid | Mar 28 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[University of Notre Dame](http://mendoza.nd.edu)** | **[Content Specialist Intern](https://jobright.ai/jobs/info/69c3f2b133eecf3107940e19?utm_campaign=1053&utm_source=git)** | Notre Dame, IN | On Site | Mar 25 |
 | **[Yale University](https://www.yale.edu)** | **[Art & Architecture Intern, YUP](https://jobright.ai/jobs/info/69c3fc4cd5a1016e98db052d?utm_campaign=1053&utm_source=git)** | Temple St, 302 | Hybrid | Mar 25 |
 | **[WLKY-TV CBS Louisville, KY - Hearst Television](https://www.wlky.com/)** | **[WLKY - Internship](https://jobright.ai/jobs/info/69c3f5b96f4f855eeda65264?utm_campaign=1053&utm_source=git)** | Louisville, KY | On Site | Mar 25 |
-| **[Nashville Soccer Club](https://www.nashvillesc.com/)** | **[Guest Experience Intern (Summer 2026)](https://jobright.ai/jobs/info/69c631c61818a24cd84c12d7?utm_campaign=1053&utm_source=git)** | Nashville, TN | On Site | Mar 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
