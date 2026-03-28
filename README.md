@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Penguin Random House](https://www.penguinrandomhouse.com/)** | **[Associate Production Editor - (Open to remote)](https://jobright.ai/jobs/info/69c74751b773006330b776a9?utm_campaign=1053&utm_source=git)** | New York, United States | Remote | Mar 27 |
+| **[FloSports](http://www.flosports.tv/)** | **[Summer Internship - FloTrack/MileSplit](https://jobright.ai/jobs/info/69c73b51b773006330b771af?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | Mar 27 |
+| ↳ | **[Summer Internship - Content Video Production](https://jobright.ai/jobs/info/69c739daaa3c2c1995e1678f?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | Mar 27 |
 | **[USA Water Polo](https://usawaterpolo.org/)** | **[Events Intern](https://jobright.ai/jobs/info/69c71f9c1b5ad0288738a5c6?utm_campaign=1053&utm_source=git)** | Irvine, CA | Hybrid | Mar 27 |
 | **[Freeman Company](https://linktr.ee/freeman.events)** | **[Intern Event & Exhibit Services](https://jobright.ai/jobs/info/69c70f5cb773006330b7599f?utm_campaign=1053&utm_source=git)** | Texas - Dallas | On Site | Mar 27 |
 | **[Chorus America](https://chorusamerica.org)** | **[Director of Production](https://jobright.ai/jobs/info/69c70de6e565c26a700254d6?utm_campaign=1053&utm_source=git)** | St Louis, MO | On Site | Mar 27 |
@@ -80,8 +83,7 @@ For a complete list, click the following sortable link below:
 | **[Erie Events](https://www.erieevents.com/)** | **[Event Management Intern](https://jobright.ai/jobs/info/69c69544b773006330b7136c?utm_campaign=1053&utm_source=git)** | Erie, PA | On Site | Mar 27 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Intern - KOIN / KRCW - Portland, OR (Unpaid)](https://jobright.ai/jobs/info/69c67c251b5ad02887384c1a?utm_campaign=1053&utm_source=git)** | Portland, OR | On Site | Mar 27 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[ABC News Assignment Desk Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69c65b561b5ad02887384393?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Mar 27 |
-| **[Sinclair Inc.](http://sbgi.net/)** | **[News Intern](https://jobright.ai/jobs/info/69c65427aa3c2c1995e0f759?utm_campaign=1053&utm_source=git)** | Oklahoma City, OK | On Site | Mar 27 |
-| ↳ | **[News Intern](https://jobright.ai/jobs/info/69c650ab83ea553769fd97d1?utm_campaign=1053&utm_source=git)** | Steubenville, OH | On Site | Mar 27 |
+| **[Sinclair Inc.](http://sbgi.net/)** | **[News Intern](https://jobright.ai/jobs/info/69c650ab83ea553769fd97d1?utm_campaign=1053&utm_source=git)** | Steubenville, OH | On Site | Mar 27 |
 | **[City of Greenwood Village](https://greenwoodvillage.com)** | **[Seasonal Recreation Intern](https://jobright.ai/jobs/info/69c63826e565c26a7001bff8?utm_campaign=1053&utm_source=git)** | Greenwood Village, CO | On Site | Mar 27 |
 | **[Pacvue](https://www.pacvue.com/)** | **[Video Editor Summer Intern](https://jobright.ai/jobs/info/69bdc373b10602456282e67a?utm_campaign=1053&utm_source=git)** | United States | Remote | Mar 27 |
 | **[Forsyth County](http://www.forsyth.cc)** | **[Intern](https://jobright.ai/jobs/info/69c6450883ea553769fd7096?utm_campaign=1053&utm_source=git)** | Winston-Salem, NC | On Site | Mar 26 |
@@ -141,7 +143,6 @@ For a complete list, click the following sortable link below:
 | **[Fox Corporation](https://www.foxcorporation.com/)** | **[News/Streaming Intern](https://jobright.ai/jobs/info/69c445d333eecf31079473f1?utm_campaign=1053&utm_source=git)** | Washington, District of Columbia, USA | On Site | Mar 25 |
 | **[Flynn](https://helloflynn.com)** | **[Video Production Intern / Co-op](https://jobright.ai/jobs/info/69c41dd4d5a1016e98db288d?utm_campaign=1053&utm_source=git)** | Pittsford, NY | On Site | Mar 25 |
 | **[Fox Corporation](https://www.foxcorporation.com/)** | **[News/Streaming Intern](https://jobright.ai/jobs/info/69c43cb733eecf31079467b9?utm_campaign=1053&utm_source=git)** | Washington, District of Columbia, USA | On Site | Mar 25 |
-| **[SRND AI](srnd.ai)** | **[(Unpaid) On-Camera Content Intern](https://jobright.ai/jobs/info/69c3f2d56f4f855eeda64e48?utm_campaign=1053&utm_source=git)** | United States | Remote | Mar 25 |
 | **[University of Notre Dame](http://mendoza.nd.edu)** | **[Content Specialist Intern](https://jobright.ai/jobs/info/69c3f2b133eecf3107940e19?utm_campaign=1053&utm_source=git)** | Notre Dame, IN | On Site | Mar 25 |
 | **[Yale University](https://www.yale.edu)** | **[Art & Architecture Intern, YUP](https://jobright.ai/jobs/info/69c3fc4cd5a1016e98db052d?utm_campaign=1053&utm_source=git)** | Temple St, 302 | Hybrid | Mar 25 |
 | **[WLKY-TV CBS Louisville, KY - Hearst Television](https://www.wlky.com/)** | **[WLKY - Internship](https://jobright.ai/jobs/info/69c3f5b96f4f855eeda65264?utm_campaign=1053&utm_source=git)** | Louisville, KY | On Site | Mar 25 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[City of Eden Prairie](http://www.edenprairie.org)** | **[Arts Engagement Intern (Post-Graduate Opportunity)](https://jobright.ai/jobs/info/69c31cd4753c101b2156ae1d?utm_campaign=1053&utm_source=git)** | Eden Prairie, MN | On Site | Mar 24 |
 | **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[Social Content Development Intern](https://jobright.ai/jobs/info/69c30da9753c101b21568a65?utm_campaign=1053&utm_source=git)** | Oakland General Office (OGO) | Hybrid | Mar 24 |
 | **[AAAS](http://www.aaas.org/)** | **[Digital Storytelling Intern](https://jobright.ai/jobs/info/698b6307c5761b521a9adb04?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Mar 24 |
-| **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[Social Content Development Intern](https://jobright.ai/jobs/info/69c3145bec22f8310ab12a41?utm_campaign=1053&utm_source=git)** | Oakland | Hybrid | Mar 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
