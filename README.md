@@ -57,10 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Forsyth County](http://www.forsyth.cc)** | **[Intern](https://jobright.ai/jobs/info/69c767d11818a24cd84ce06a?utm_campaign=1053&utm_source=git)** | Winston-Salem, NC | On Site | Mar 27 |
+| **[City of Rochester Hills](http://www.rochesterhills.org/)** | **[Video Production Intern](https://jobright.ai/jobs/info/69c7653e1818a24cd84cdfa5?utm_campaign=1053&utm_source=git)** | Rochester Hills, MI | On Site | Mar 27 |
 | **[Denver Broncos Football Club](http://www.denverbroncos.com/)** | **[Video Production Intern](https://jobright.ai/jobs/info/69a931ff2580d3183f0163cc?utm_campaign=1053&utm_source=git)** | Englewood, CO | On Site | Mar 27 |
 | **[Penguin Random House](https://www.penguinrandomhouse.com/)** | **[Associate Production Editor - (Open to remote)](https://jobright.ai/jobs/info/69c74751b773006330b776a9?utm_campaign=1053&utm_source=git)** | New York, United States | Remote | Mar 27 |
 | **[FloSports](http://www.flosports.tv/)** | **[Summer Internship - FloTrack/MileSplit](https://jobright.ai/jobs/info/69c73b51b773006330b771af?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | Mar 27 |
 | ↳ | **[Summer Internship - Content Video Production](https://jobright.ai/jobs/info/69c739daaa3c2c1995e1678f?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | Mar 27 |
+| **[Auburn University](https://www.auburn.edu/)** | **[Special Event Crew Student Intern](https://jobright.ai/jobs/info/69c75d5783ea553769fe295d?utm_campaign=1053&utm_source=git)** | Auburn, AL | On Site | Mar 27 |
 | **[USA Water Polo](https://usawaterpolo.org/)** | **[Events Intern](https://jobright.ai/jobs/info/69c71f9c1b5ad0288738a5c6?utm_campaign=1053&utm_source=git)** | Irvine, CA | Hybrid | Mar 27 |
 | **[Freeman Company](https://linktr.ee/freeman.events)** | **[Intern Event & Exhibit Services](https://jobright.ai/jobs/info/69c70f5cb773006330b7599f?utm_campaign=1053&utm_source=git)** | Texas - Dallas | On Site | Mar 27 |
 | **[Chorus America](https://chorusamerica.org)** | **[Director of Production](https://jobright.ai/jobs/info/69c70de6e565c26a700254d6?utm_campaign=1053&utm_source=git)** | St Louis, MO | On Site | Mar 27 |
@@ -100,7 +103,6 @@ For a complete list, click the following sortable link below:
 | **[Studs](https://studs.com/)** | **[Apprentice Piercer](https://jobright.ai/jobs/info/69c5a482aa9a29199e808515?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | Mar 26 |
 | **[K-LOVE](https://www.klove.com/)** | **[Post Production Intern](https://jobright.ai/jobs/info/69c28943a5b03d40c194f6a6?utm_campaign=1053&utm_source=git)** | Franklin, TN | On Site | Mar 26 |
 | **[Mass General Brigham](https://www.massgeneralbrigham.org)** | **[Video Storytelling Intern](https://jobright.ai/jobs/info/69c595afaa9a29199e8077cd?utm_campaign=1053&utm_source=git)** | Somerville, MA | Hybrid | Mar 26 |
-| **[Toronto26](https://www.toronto26.com)** | **[Soccer Content Creator Intern](https://jobright.ai/jobs/info/69c595911818a24cd84b81f1?utm_campaign=1053&utm_source=git)** | Toronto, ON | On Site | Mar 26 |
 | **[NAACP](http://www.naacp.org/)** | **[HB/FedEx Summer Production Intern](https://jobright.ai/jobs/info/69c58fa183ea553769fccb3b?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, US | On Site | Mar 26 |
 | **[Ethos Group](https://ethosgroup.io/)** | **[Intern](https://jobright.ai/jobs/info/69c5e70aaa9a29199e80b801?utm_campaign=1053&utm_source=git)** | NYC Metro Area | Remote | Mar 26 |
 | **[Distribution Management](http://distributionmgmt.com)** | **[Video Production & Editing Internship](https://jobright.ai/jobs/info/69c588b1aa3c2c1995e01392?utm_campaign=1053&utm_source=git)** | St Charles, MO | On Site | Mar 26 |
@@ -131,7 +133,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Digital Content Producer - Intern](https://jobright.ai/jobs/info/69c46f176f4f855eeda6fc28?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | Mar 25 |
 | **[Stand Together](https://standtogether.org/)** | **[KAP 2026-2027 - Content Creator - Young Voices](https://jobright.ai/jobs/info/69c443826f4f855eeda6ae3a?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Mar 25 |
 | **[Fox Corporation](https://www.foxcorporation.com/)** | **[Digital Content Producer - Intern](https://jobright.ai/jobs/info/69c462e6d5a1016e98db9715?utm_campaign=1053&utm_source=git)** | Orlando, Florida, USA | On Site | Mar 25 |
-| ↳ | **[Digital Content Producer - Intern](https://jobright.ai/jobs/info/69c462e633eecf310794ae64?utm_campaign=1053&utm_source=git)** | Orlando, Florida, USA | On Site | Mar 25 |
 | **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69c43466d5a1016e98db4844?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Mar 25 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69c434656f4f855eeda69832?utm_campaign=1053&utm_source=git)** | Greenbrier River, WV | On Site | Mar 25 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69c4345fd5a1016e98db482d?utm_campaign=1053&utm_source=git)** | Wichita, KS | On Site | Mar 25 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[City of Noblesville](https://www.cityofnoblesville.org)** | **[Special Events Intern (Temporary) - Parks & Recreation](https://jobright.ai/jobs/info/69c443dad5a1016e98db5d86?utm_campaign=1053&utm_source=git)** | Noblesville, IN | On Site | Mar 24 |
 | **[Arizona Golf Association](https://www.azgolf.org)** | **[USGA Boatwright Tournament Operations & Administration Intern](https://jobright.ai/jobs/info/69c324aeec22f8310ab151ea?utm_campaign=1053&utm_source=git)** | Phoenix, AZ | On Site | Mar 24 |
 | **[City of Eden Prairie](http://www.edenprairie.org)** | **[Arts Engagement Intern (Post-Graduate Opportunity)](https://jobright.ai/jobs/info/69c31cd4753c101b2156ae1d?utm_campaign=1053&utm_source=git)** | Eden Prairie, MN | On Site | Mar 24 |
-| **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[Social Content Development Intern](https://jobright.ai/jobs/info/69c30da9753c101b21568a65?utm_campaign=1053&utm_source=git)** | Oakland General Office (OGO) | Hybrid | Mar 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
