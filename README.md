@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[septième](https://www.linkedin.com/company/51033581)** | **[Coordonnateur·trice de production (stage)](https://jobright.ai/jobs/info/69c80d3ee565c26a7002d8d1?utm_campaign=1053&utm_source=git)** | Montreal, QC | On Site | Mar 28 |
+| ↳ | **[Assistant·e Monteur·euse, production (stage)](https://jobright.ai/jobs/info/69ab50ff7e1fab39d382e7dd?utm_campaign=1053&utm_source=git)** | Montreal, QC | On Site | Mar 28 |
 | **[Cossette](http://www.cossette.com)** | **[Directeur·trice artistique (Stage)](https://jobright.ai/jobs/info/69c808aae565c26a7002d371?utm_campaign=1053&utm_source=git)** | Montreal, QC | Hybrid | Mar 28 |
 | **[Kelly Tutors](www.kellytutors.com)** | **[Podcast Production Intern (Remote, 2-5 hrs/week)](https://jobright.ai/jobs/info/69c8026d83ea553769fe7ef0?utm_campaign=1053&utm_source=git)** | Seattle metropolitan area, WA | Remote | Mar 28 |
 | **[Six Flags Entertainment Corporation](http://sixflags.com)** | **[Entertainment Event Technician Internship](https://jobright.ai/jobs/info/6973d0d337785856350da366?utm_campaign=1053&utm_source=git)** | Gurnee, IL | On Site | Mar 28 |
@@ -87,6 +89,7 @@ For a complete list, click the following sortable link below:
 | **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Intern, Post Production, Sony Pictures Classics - Summer 2026](https://jobright.ai/jobs/info/69c6c936e565c26a70022906?utm_campaign=1053&utm_source=git)** | New York, New York | On Site | Mar 27 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[WABC - TV (ABC7) Programming Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69c6c9211b5ad02887386d7b?utm_campaign=1053&utm_source=git)** | New York, NY, USA | On Site | Mar 27 |
 | **[AccuWeather](http://www.accuweather.com)** | **[Summer Producer Intern](https://jobright.ai/jobs/info/69c6c2ff1b5ad02887386c02?utm_campaign=1053&utm_source=git)** | State College, PA | On Site | Mar 27 |
+| **[Sinclair Inc.](http://sbgi.net/)** | **[News Intern](https://jobright.ai/jobs/info/68e4ad111852e62f0080864b?utm_campaign=1053&utm_source=git)** | Mishawaka, IN | On Site | Mar 27 |
 | **[The Athletic](https://theathletic.com/)** | **[NHL Student Intern, Fall 2026 (Remote)](https://jobright.ai/jobs/info/69c6b1ef83ea553769fdcac5?utm_campaign=1053&utm_source=git)** | United States | Remote | Mar 27 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[ABC News Podcast Production Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69c6abf21818a24cd84c78d1?utm_campaign=1053&utm_source=git)** | New York, NY, USA | On Site | Mar 27 |
 | **[Erie Events](https://www.erieevents.com/)** | **[Event Management Intern](https://jobright.ai/jobs/info/69c6a644b773006330b71cfd?utm_campaign=1053&utm_source=git)** | Erie, PA 16507, USA | On Site | Mar 27 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Fox Corporation](https://www.foxcorporation.com/)** | **[News/Streaming Intern](https://jobright.ai/jobs/info/69c445d333eecf31079473f1?utm_campaign=1053&utm_source=git)** | Washington, District of Columbia, USA | On Site | Mar 25 |
 | **[Flynn](https://helloflynn.com)** | **[Video Production Intern / Co-op](https://jobright.ai/jobs/info/69c41dd4d5a1016e98db288d?utm_campaign=1053&utm_source=git)** | Pittsford, NY | On Site | Mar 25 |
 | **[Fox Corporation](https://www.foxcorporation.com/)** | **[News/Streaming Intern](https://jobright.ai/jobs/info/69c43cb733eecf31079467b9?utm_campaign=1053&utm_source=git)** | Washington, District of Columbia, USA | On Site | Mar 25 |
-| **[University of Notre Dame](http://mendoza.nd.edu)** | **[Content Specialist Intern](https://jobright.ai/jobs/info/69c3f2b133eecf3107940e19?utm_campaign=1053&utm_source=git)** | Notre Dame, IN | On Site | Mar 25 |
-| **[Yale University](https://www.yale.edu)** | **[Art & Architecture Intern, YUP](https://jobright.ai/jobs/info/69c3fc4cd5a1016e98db052d?utm_campaign=1053&utm_source=git)** | Temple St, 302 | Hybrid | Mar 25 |
-| **[WLKY-TV CBS Louisville, KY - Hearst Television](https://www.wlky.com/)** | **[WLKY - Internship](https://jobright.ai/jobs/info/69c3f5b96f4f855eeda65264?utm_campaign=1053&utm_source=git)** | Louisville, KY | On Site | Mar 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
