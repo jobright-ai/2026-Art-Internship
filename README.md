@@ -154,7 +154,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Digital Content Producer - Intern](https://jobright.ai/jobs/info/69c46f176f4f855eeda6fc28?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | Mar 25 |
 | **[Stand Together](https://standtogether.org/)** | **[KAP 2026-2027 - Content Creator - Young Voices](https://jobright.ai/jobs/info/69c443826f4f855eeda6ae3a?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Mar 25 |
 | **[Fox Corporation](https://www.foxcorporation.com/)** | **[Digital Content Producer - Intern](https://jobright.ai/jobs/info/69c462e6d5a1016e98db9715?utm_campaign=1053&utm_source=git)** | Orlando, Florida, USA | On Site | Mar 25 |
+| **[University of Notre Dame](nd.edu)** | **[Content Specialist Intern](https://jobright.ai/jobs/info/69c98d26e565c26a7003722c?utm_campaign=1053&utm_source=git)** | Notre Dame, IN, US | On Site | Mar 25 |
 | **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69c43466d5a1016e98db4844?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Mar 25 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69c434656f4f855eeda69832?utm_campaign=1053&utm_source=git)** | Greenbrier River, WV | On Site | Mar 25 |
-| ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69c4345fd5a1016e98db482d?utm_campaign=1053&utm_source=git)** | Wichita, KS | On Site | Mar 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
