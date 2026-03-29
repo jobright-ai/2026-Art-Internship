@@ -57,8 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[LUNARTECH](https://lunartech.ai)** | **[Video Editor Internship - United States](https://jobright.ai/jobs/info/69c97e981b5ad02887399997?utm_campaign=1053&utm_source=git)** | United States | Remote | Mar 29 |
 | **[The Washington Post](http://www.washingtonpost.com/)** | **[Opinion Video Intern](https://jobright.ai/jobs/info/68caff29d905e25191d9e2c9?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Mar 29 |
-| **[City of Noblesville](https://www.cityofnoblesville.org)** | **[Special Events Intern (Temporary) - Parks & Recreation](https://jobright.ai/jobs/info/69c9430eaa3c2c1995e24071?utm_campaign=1053&utm_source=git)** | Noblesville, IN | On Site | Mar 29 |
 | **[Morris Elite Soccer Club](https://www.morriselitesoccer.com)** | **[2026 Summer Internship Program](https://jobright.ai/jobs/info/69c93396aa3c2c1995e23b08?utm_campaign=1053&utm_source=git)** | Madison, NJ | On Site | Mar 29 |
 | **[Kohler Hospitality](https://www.kohlerwisconsin.com/)** | **[Decor & Design Intern, Meeting and Events](https://jobright.ai/jobs/info/699fc5a5ce78e77b4fe5ac0f?utm_campaign=1053&utm_source=git)** | Kohler, WI | On Site | Mar 29 |
 | **[Our National Conversation (ONC)](https://www.ournationalconversation.org)** | **[Conservative Writer](https://jobright.ai/jobs/info/69c8b5031b5ad02887394f59?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Remote | Mar 28 |
@@ -97,6 +97,7 @@ For a complete list, click the following sortable link below:
 | **[Horizon Field Group](horizonfieldgroup.com)** | **[Part-Time Content Creator (Video Shooting & Editing) – NYC (Hybrid)](https://jobright.ai/jobs/info/69c6d0921818a24cd84c8b5d?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Mar 27 |
 | **[GBH](http://www.wgbh.org/)** | **[GBH News Rooted Internship - Summer 2026](https://jobright.ai/jobs/info/69c6cf7f83ea553769fddad7?utm_campaign=1053&utm_source=git)** | Boston, MA | Hybrid | Mar 27 |
 | ↳ | **[GBH News Digital Team Internship - Summer 2026](https://jobright.ai/jobs/info/69c6cf5c83ea553769fddac0?utm_campaign=1053&utm_source=git)** | Boston, MA | Hybrid | Mar 27 |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Paid Intern - News](https://jobright.ai/jobs/info/69aa34642ebd316bece1f7a9?utm_campaign=1053&utm_source=git)** | Joplin, MO | On Site | Mar 27 |
 | **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Intern, Post Production, Sony Pictures Classics - Summer 2026](https://jobright.ai/jobs/info/69c6c936e565c26a70022906?utm_campaign=1053&utm_source=git)** | New York, New York | On Site | Mar 27 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[WABC - TV (ABC7) Programming Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69c6c9211b5ad02887386d7b?utm_campaign=1053&utm_source=git)** | New York, NY, USA | On Site | Mar 27 |
 | **[AccuWeather](http://www.accuweather.com)** | **[Summer Producer Intern](https://jobright.ai/jobs/info/69c6c2ff1b5ad02887386c02?utm_campaign=1053&utm_source=git)** | State College, PA | On Site | Mar 27 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69c43466d5a1016e98db4844?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Mar 25 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69c434656f4f855eeda69832?utm_campaign=1053&utm_source=git)** | Greenbrier River, WV | On Site | Mar 25 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69c4345fd5a1016e98db482d?utm_campaign=1053&utm_source=git)** | Wichita, KS | On Site | Mar 25 |
-| ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69c43450d5a1016e98db47ff?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Mar 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
