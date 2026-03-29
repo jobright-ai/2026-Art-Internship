@@ -111,8 +111,8 @@ For a complete list, click the following sortable link below:
 | **[Golden Hippo®](https://www.huntrealestate.com/)** | **[Art Production Assistant Intern](https://jobright.ai/jobs/info/69c5d8bd1b5ad0288737a4eb?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | Mar 26 |
 | **[O.H. Partners](https://ohpartners.com)** | **[Content Creator Intern](https://jobright.ai/jobs/info/69c5ccef1b5ad02887379bfb?utm_campaign=1053&utm_source=git)** | Phoenix, AZ | On Site | Mar 26 |
 | **[MobilizeGreen](https://www.mobilizegreen.org/)** | **[Park Intern – America 250 Commemoration Support](https://jobright.ai/jobs/info/69c5cbccaa3c2c1995e04d67?utm_campaign=1053&utm_source=git)** | Yorktown, VA | On Site | Mar 26 |
-| **[FloSports](http://www.flosports.tv/)** | **[Summer Internship - FloTrack/MileSplit](https://jobright.ai/jobs/info/69c70e551b5ad028873898aa?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | Mar 26 |
-| ↳ | **[Summer Internship - Content Video Production](https://jobright.ai/jobs/info/69c70ed4b773006330b756a5?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | Mar 26 |
+| **[FloSports](http://www.flosports.tv/)** | **[Summer Internship - Content Video Production](https://jobright.ai/jobs/info/69c70ed4b773006330b756a5?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | Mar 26 |
+| ↳ | **[Summer Internship - FloTrack/MileSplit](https://jobright.ai/jobs/info/69c70e551b5ad028873898aa?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | Mar 26 |
 | **[Twilio](https://www.twilio.com/)** | **[Video Producer Intern](https://jobright.ai/jobs/info/69c5aaeeaa9a29199e808a68?utm_campaign=1053&utm_source=git)** | United States | Remote | Mar 26 |
 | **[Studs](https://studs.com/)** | **[Apprentice Piercer](https://jobright.ai/jobs/info/69c5a482aa9a29199e808515?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | Mar 26 |
 | **[K-LOVE](https://www.klove.com/)** | **[Post Production Intern](https://jobright.ai/jobs/info/69c28943a5b03d40c194f6a6?utm_campaign=1053&utm_source=git)** | Franklin, TN | On Site | Mar 26 |
@@ -120,7 +120,6 @@ For a complete list, click the following sortable link below:
 | **[NAACP](http://www.naacp.org/)** | **[HB/FedEx Summer Production Intern](https://jobright.ai/jobs/info/69c58fa183ea553769fccb3b?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, US | On Site | Mar 26 |
 | **[Ethos Group](https://ethosgroup.io/)** | **[Intern](https://jobright.ai/jobs/info/69c5e70aaa9a29199e80b801?utm_campaign=1053&utm_source=git)** | NYC Metro Area | Remote | Mar 26 |
 | **[Distribution Management](http://distributionmgmt.com)** | **[Video Production & Editing Internship](https://jobright.ai/jobs/info/69c588b1aa3c2c1995e01392?utm_campaign=1053&utm_source=git)** | St Charles, MO | On Site | Mar 26 |
-| **[AFM Agency](https://afmagency.net/)** | **[2026 Summer Internship-Creator](https://jobright.ai/jobs/info/69c586a01b5ad02887375f9a?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Mar 26 |
 | **[Golden Hippo®](https://www.huntrealestate.com/)** | **[Art Production Assistant Intern](https://jobright.ai/jobs/info/69c57e1183ea553769fcb1fa?utm_campaign=1053&utm_source=git)** | Hybrid (Woodland Hills, CA) | Hybrid | Mar 26 |
 | **[Twilio](https://www.twilio.com/)** | **[Video Producer Intern](https://jobright.ai/jobs/info/69c57e05aa9a29199e805a0a?utm_campaign=1053&utm_source=git)** | Remote - US | Remote | Mar 26 |
 | **[Leo Burnett](https://leoburnett.com)** | **[2026 Leo Chicago Summer Internship - Strategy](https://jobright.ai/jobs/info/698c6b31f64d441a164e5f69?utm_campaign=1053&utm_source=git)** | Chicago, IL | Hybrid | Mar 26 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[BRIC Arts & Media](https://www.bricartsmedia.org/)** | **[Stage Management - Production Intern  BRIC Celebrate Brooklyn! Festival](https://jobright.ai/jobs/info/69c4515d33eecf3107948acb?utm_campaign=1053&utm_source=git)** | Brooklyn, New York, United States | On Site | Mar 25 |
 | **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[Social Content Development Intern](https://jobright.ai/jobs/info/69c42845d5a1016e98db3378?utm_campaign=1053&utm_source=git)** | Oakland, CA | Hybrid | Mar 25 |
 | **[Lee Enterprises](http://lee.net/)** | **[News Internship-Council Bluffs, IA](https://jobright.ai/jobs/info/69c45161d5a1016e98db7440?utm_campaign=1053&utm_source=git)** | Council Bluffs, IA, USA | On Site | Mar 25 |
+| **[Fox Corporation](https://www.foxcorporation.com/)** | **[News/Streaming Intern](https://jobright.ai/jobs/info/69c445d333eecf31079473f1?utm_campaign=1053&utm_source=git)** | Washington, District of Columbia, USA | On Site | Mar 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
