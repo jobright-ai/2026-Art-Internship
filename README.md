@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Washington Post](http://www.washingtonpost.com/)** | **[Opinion Video Intern](https://jobright.ai/jobs/info/68caff29d905e25191d9e2c9?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Mar 29 |
 | **[City of Noblesville](https://www.cityofnoblesville.org)** | **[Special Events Intern (Temporary) - Parks & Recreation](https://jobright.ai/jobs/info/69c9430eaa3c2c1995e24071?utm_campaign=1053&utm_source=git)** | Noblesville, IN | On Site | Mar 29 |
 | **[Morris Elite Soccer Club](https://www.morriselitesoccer.com)** | **[2026 Summer Internship Program](https://jobright.ai/jobs/info/69c93396aa3c2c1995e23b08?utm_campaign=1053&utm_source=git)** | Madison, NJ | On Site | Mar 29 |
 | **[Kohler Hospitality](https://www.kohlerwisconsin.com/)** | **[Decor & Design Intern, Meeting and Events](https://jobright.ai/jobs/info/699fc5a5ce78e77b4fe5ac0f?utm_campaign=1053&utm_source=git)** | Kohler, WI | On Site | Mar 29 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69c434656f4f855eeda69832?utm_campaign=1053&utm_source=git)** | Greenbrier River, WV | On Site | Mar 25 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69c4345fd5a1016e98db482d?utm_campaign=1053&utm_source=git)** | Wichita, KS | On Site | Mar 25 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69c43450d5a1016e98db47ff?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Mar 25 |
-| ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69c4327633eecf310794589d?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | Mar 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
