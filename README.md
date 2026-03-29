@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Decibel Made](http://decibelmade.com)** | **[Videography & Content Creation Intern](https://jobright.ai/jobs/info/69c85432b773006330b7ec80?utm_campaign=1053&utm_source=git)** | Bloomingdale, NJ | On Site | Mar 28 |
 | **[septième](https://www.linkedin.com/company/51033581)** | **[Coordonnateur·trice de production (stage)](https://jobright.ai/jobs/info/69c80d3ee565c26a7002d8d1?utm_campaign=1053&utm_source=git)** | Montreal, QC | On Site | Mar 28 |
 | ↳ | **[Assistant·e Monteur·euse, production (stage)](https://jobright.ai/jobs/info/69ab50ff7e1fab39d382e7dd?utm_campaign=1053&utm_source=git)** | Montreal, QC | On Site | Mar 28 |
 | **[Cossette](http://www.cossette.com)** | **[Directeur·trice artistique (Stage)](https://jobright.ai/jobs/info/69c808aae565c26a7002d371?utm_campaign=1053&utm_source=git)** | Montreal, QC | Hybrid | Mar 28 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[BRIC Arts & Media](https://www.bricartsmedia.org/)** | **[Stage Management - Production Intern  BRIC Celebrate Brooklyn! Festival](https://jobright.ai/jobs/info/69c4515d33eecf3107948acb?utm_campaign=1053&utm_source=git)** | Brooklyn, New York, United States | On Site | Mar 25 |
 | **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[Social Content Development Intern](https://jobright.ai/jobs/info/69c42845d5a1016e98db3378?utm_campaign=1053&utm_source=git)** | Oakland, CA | Hybrid | Mar 25 |
 | **[Lee Enterprises](http://lee.net/)** | **[News Internship-Council Bluffs, IA](https://jobright.ai/jobs/info/69c45161d5a1016e98db7440?utm_campaign=1053&utm_source=git)** | Council Bluffs, IA, USA | On Site | Mar 25 |
-| **[Fox Corporation](https://www.foxcorporation.com/)** | **[News/Streaming Intern](https://jobright.ai/jobs/info/69c445d333eecf31079473f1?utm_campaign=1053&utm_source=git)** | Washington, District of Columbia, USA | On Site | Mar 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
