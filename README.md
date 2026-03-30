@@ -57,9 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Borgen Project](http://borgenproject.org)** | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/69ca614eaa3c2c1995e2ca9c?utm_campaign=1053&utm_source=git)** | Muncie, IN | Remote | Mar 30 |
+| ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/69ca5f28466f1e133aac374f?utm_campaign=1053&utm_source=git)** | Madison, WI | Remote | Mar 30 |
+| ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/69ca5f27466f1e133aac374e?utm_campaign=1053&utm_source=git)** | Madison, SD | Remote | Mar 30 |
+| ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/69ca5edb1b5ad028873a1079?utm_campaign=1053&utm_source=git)** | Las Cruces, NM | Remote | Mar 30 |
+| ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/69ca5d608fc6090c5d44d114?utm_campaign=1053&utm_source=git)** | Jackson, MS | Remote | Mar 30 |
+| ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/69ca5d5fa8c1822476e1c173?utm_campaign=1053&utm_source=git)** | Kingston, RI | Remote | Mar 30 |
+| ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/69ca5d5f8fc6090c5d44d113?utm_campaign=1053&utm_source=git)** | Ottawa, KS | Remote | Mar 30 |
 | **[Quanta Books](www.quantabooks.org)** | **[Editorial Intern](https://jobright.ai/jobs/info/693c868750bbaf76504fbe50?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Mar 30 |
-| **[The Borgen Project](http://borgenproject.org)** | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/69ca53bd1b5ad028873a0d7f?utm_campaign=1053&utm_source=git)** | Jackson, MS | Remote | Mar 30 |
-| ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/69ca51871b5ad028873a0d4e?utm_campaign=1053&utm_source=git)** | Las Cruces, NM | Remote | Mar 30 |
 | **[LUNARTECH](https://lunartech.ai)** | **[Video Editor Internship - United States - Boston](https://jobright.ai/jobs/info/69ca4ed783ea553769ff775b?utm_campaign=1053&utm_source=git)** | United States | Remote | Mar 30 |
 | **[City of Kenmore](http://www.kenmorewa.gov)** | **[Special Events Summer Intern](https://jobright.ai/jobs/info/69ca4bd783ea553769ff7666?utm_campaign=1053&utm_source=git)** | Kenmore, WA | On Site | Mar 30 |
 | **[Saint Xavier University](http://www.sxu.edu/)** | **[Xavierite Copy Editor - Student Employment](https://jobright.ai/jobs/info/69ca35a1aa3c2c1995e2b3cb?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Mar 29 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Production Resource Group](https://www.prg.com/)** | **[Summer Intern- National Western Center - Venue Production Assistant](https://jobright.ai/jobs/info/69c4fe286f4f855eeda7bc6f?utm_campaign=1053&utm_source=git)** | Denver, CO | On Site | Mar 26 |
 | **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[Intern – Communications (Videography and Digital Media) Job ID : 274546](https://jobright.ai/jobs/info/69c794eb83ea553769fe4c68?utm_campaign=1053&utm_source=git)** | New York, United States | On Site | Mar 26 |
 | **[Front Office Sports](https://frontofficesports.com/)** | **[Editorial Intern](https://jobright.ai/jobs/info/69c4e11c6f4f855eeda79433?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Mar 26 |
-| **[Big Night Entertainment Group](http://bneg.com/)** | **[Big Night Entertainment Group - Media Intern](https://jobright.ai/jobs/info/69ca21a11b5ad0288739ee3e?utm_campaign=1053&utm_source=git)** | Boston, MA | On Site | Mar 25 |
-| **[Sports Illustrated Stadium](https://www.sportsillustratedstadium.com)** | **[2026 Internship, Summer - Event Operations](https://jobright.ai/jobs/info/69c4bc2b6f4f855eeda763c2?utm_campaign=1053&utm_source=git)** | Harrison, NJ | On Site | Mar 25 |
-| **[Red Bull New York](http://www.newyorkredbulls.com)** | **[2026 Internship, Spring - Creative Video](https://jobright.ai/jobs/info/69c4bc206f4f855eeda763a8?utm_campaign=1053&utm_source=git)** | Harrison, NJ | On Site | Mar 25 |
-| **[Red Bull](https://redbull.com)** | **[2026 Internship, Summer - Event Operations](https://jobright.ai/jobs/info/69c4d8c133eecf310795478e?utm_campaign=1053&utm_source=git)** | Harrison, NJ, USA | On Site | Mar 25 |
-| ↳ | **[2026 Internship, Spring - Creative Video](https://jobright.ai/jobs/info/69c4d95ed5a1016e98dc3b11?utm_campaign=1053&utm_source=git)** | Harrison, NJ, USA | On Site | Mar 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
