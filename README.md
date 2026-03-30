@@ -57,11 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Quanta Books](www.quantabooks.org)** | **[Editorial Intern](https://jobright.ai/jobs/info/693c868750bbaf76504fbe50?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Mar 30 |
+| **[The Borgen Project](http://borgenproject.org)** | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/69ca53bd1b5ad028873a0d7f?utm_campaign=1053&utm_source=git)** | Jackson, MS | Remote | Mar 30 |
+| ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/69ca51871b5ad028873a0d4e?utm_campaign=1053&utm_source=git)** | Las Cruces, NM | Remote | Mar 30 |
+| **[LUNARTECH](https://lunartech.ai)** | **[Video Editor Internship - United States - Boston](https://jobright.ai/jobs/info/69ca4ed783ea553769ff775b?utm_campaign=1053&utm_source=git)** | United States | Remote | Mar 30 |
+| **[City of Kenmore](http://www.kenmorewa.gov)** | **[Special Events Summer Intern](https://jobright.ai/jobs/info/69ca4bd783ea553769ff7666?utm_campaign=1053&utm_source=git)** | Kenmore, WA | On Site | Mar 30 |
 | **[Saint Xavier University](http://www.sxu.edu/)** | **[Xavierite Copy Editor - Student Employment](https://jobright.ai/jobs/info/69ca35a1aa3c2c1995e2b3cb?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Mar 29 |
 | **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Arborist Trainee Internship (2026) / Crystal Lake, IL](https://jobright.ai/jobs/info/69c9a7e5b773006330b88219?utm_campaign=1053&utm_source=git)** | Crystal Lake, IL | On Site | Mar 29 |
 | ↳ | **[Arborist Trainee Internship (2026) / Lake Bluff, IL](https://jobright.ai/jobs/info/69c9a7e383ea553769ff2b68?utm_campaign=1053&utm_source=git)** | Lake Bluff, IL | On Site | Mar 29 |
 | **[Audio Radar](www.audioradar.com)** | **[Summer Intern](https://jobright.ai/jobs/info/69c9a5bae565c26a70037e7a?utm_campaign=1053&utm_source=git)** | Zeeland, MI | On Site | Mar 29 |
-| **[LUNARTECH](https://lunartech.ai)** | **[Video Editor Internship - United States](https://jobright.ai/jobs/info/69c97e981b5ad02887399997?utm_campaign=1053&utm_source=git)** | United States | Remote | Mar 29 |
 | **[The Washington Post](http://www.washingtonpost.com/)** | **[Opinion Video Intern](https://jobright.ai/jobs/info/68caff29d905e25191d9e2c9?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Mar 29 |
 | **[Morris Elite Soccer Club](https://www.morriselitesoccer.com)** | **[2026 Summer Internship Program](https://jobright.ai/jobs/info/69c93396aa3c2c1995e23b08?utm_campaign=1053&utm_source=git)** | Madison, NJ | On Site | Mar 29 |
 | **[Six Flags Entertainment Corporation](http://sixflags.com)** | **[Show Wardrobe Technician Internship](https://jobright.ai/jobs/info/697738cb88e2b47213bb1c1b?utm_campaign=1053&utm_source=git)** | Gurnee, IL | On Site | Mar 29 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Red Bull New York](http://www.newyorkredbulls.com)** | **[2026 Internship, Spring - Creative Video](https://jobright.ai/jobs/info/69c4bc206f4f855eeda763a8?utm_campaign=1053&utm_source=git)** | Harrison, NJ | On Site | Mar 25 |
 | **[Red Bull](https://redbull.com)** | **[2026 Internship, Summer - Event Operations](https://jobright.ai/jobs/info/69c4d8c133eecf310795478e?utm_campaign=1053&utm_source=git)** | Harrison, NJ, USA | On Site | Mar 25 |
 | ↳ | **[2026 Internship, Spring - Creative Video](https://jobright.ai/jobs/info/69c4d95ed5a1016e98dc3b11?utm_campaign=1053&utm_source=git)** | Harrison, NJ, USA | On Site | Mar 25 |
-| **[Fox Television Stations](https://www.foxcorporation.com/businesses/fox-television-stations/)** | **[News/Streaming Intern](https://jobright.ai/jobs/info/69c483b0d5a1016e98dbc783?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Mar 25 |
-| ↳ | **[Digital Content Producer - Intern](https://jobright.ai/jobs/info/69c46f176f4f855eeda6fc28?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | Mar 25 |
-| **[Stand Together](https://standtogether.org/)** | **[KAP 2026-2027 - Content Creator - Young Voices](https://jobright.ai/jobs/info/69c443826f4f855eeda6ae3a?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Mar 25 |
-| **[Fox Corporation](https://www.foxcorporation.com/)** | **[Digital Content Producer - Intern](https://jobright.ai/jobs/info/69c462e6d5a1016e98db9715?utm_campaign=1053&utm_source=git)** | Orlando, Florida, USA | On Site | Mar 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
