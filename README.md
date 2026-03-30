@@ -57,16 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Skin Anarchy The Podcast](https://linktr.ee/Skincareanarchy)** | **[Journalism & Editorial Intern](https://jobright.ai/jobs/info/69ca90ef466f1e133aac4a6f?utm_campaign=1053&utm_source=git)** | United States | Remote | Mar 30 |
+| **[ComTec Information Systems (IT)](http://comtecinfo.com)** | **[Filming Project Intern](https://jobright.ai/jobs/info/69ca8992aa3c2c1995e2d84c?utm_campaign=1053&utm_source=git)** | Lexington, NC | On Site | Mar 30 |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Intern](https://jobright.ai/jobs/info/69ca87138fc6090c5d44e5e1?utm_campaign=1053&utm_source=git)** | Amarillo, TX | On Site | Mar 30 |
 | **[The Borgen Project](http://borgenproject.org)** | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/69ca69e08fc6090c5d44da0e?utm_campaign=1053&utm_source=git)** | Madison, WI | Remote | Mar 30 |
 | ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/69ca69d88fc6090c5d44da0a?utm_campaign=1053&utm_source=git)** | Madison, SD | Remote | Mar 30 |
 | ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/69ca69bcaa3c2c1995e2cc43?utm_campaign=1053&utm_source=git)** | Ottawa, KS | Remote | Mar 30 |
-| **[Manifold Ventures](https://www.manifoldventures.net)** | **[Editor](https://jobright.ai/jobs/info/69ca69781b5ad028873a170b?utm_campaign=1053&utm_source=git)** | New York, United States | Remote | Mar 30 |
-| **[The Borgen Project](http://borgenproject.org)** | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/69ca614eaa3c2c1995e2ca9c?utm_campaign=1053&utm_source=git)** | Muncie, IN | Remote | Mar 30 |
+| ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/69ca614eaa3c2c1995e2ca9c?utm_campaign=1053&utm_source=git)** | Muncie, IN | Remote | Mar 30 |
 | ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/69ca5edb1b5ad028873a1079?utm_campaign=1053&utm_source=git)** | Las Cruces, NM | Remote | Mar 30 |
 | ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/69ca5d608fc6090c5d44d114?utm_campaign=1053&utm_source=git)** | Jackson, MS | Remote | Mar 30 |
 | ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/69ca5d5fa8c1822476e1c173?utm_campaign=1053&utm_source=git)** | Kingston, RI | Remote | Mar 30 |
 | **[Quanta Books](www.quantabooks.org)** | **[Editorial Intern](https://jobright.ai/jobs/info/693c868750bbaf76504fbe50?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Mar 30 |
-| **[LUNARTECH](https://lunartech.ai)** | **[Video Editor Internship - United States - Boston](https://jobright.ai/jobs/info/69ca4ed783ea553769ff775b?utm_campaign=1053&utm_source=git)** | United States | Remote | Mar 30 |
 | **[City of Kenmore](http://www.kenmorewa.gov)** | **[Special Events Summer Intern](https://jobright.ai/jobs/info/69ca4bd783ea553769ff7666?utm_campaign=1053&utm_source=git)** | Kenmore, WA | On Site | Mar 30 |
 | **[Saint Xavier University](http://www.sxu.edu/)** | **[Xavierite Copy Editor - Student Employment](https://jobright.ai/jobs/info/69ca35a1aa3c2c1995e2b3cb?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Mar 29 |
 | **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Arborist Trainee Internship (2026) / Crystal Lake, IL](https://jobright.ai/jobs/info/69c9a7e5b773006330b88219?utm_campaign=1053&utm_source=git)** | Crystal Lake, IL | On Site | Mar 29 |
@@ -130,8 +131,8 @@ For a complete list, click the following sortable link below:
 | **[Golden Hippo®](https://www.huntrealestate.com/)** | **[Art Production Assistant Intern](https://jobright.ai/jobs/info/69c5d8bd1b5ad0288737a4eb?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | Mar 26 |
 | **[O.H. Partners](https://ohpartners.com)** | **[Content Creator Intern](https://jobright.ai/jobs/info/69c5ccef1b5ad02887379bfb?utm_campaign=1053&utm_source=git)** | Phoenix, AZ | On Site | Mar 26 |
 | **[MobilizeGreen](https://www.mobilizegreen.org/)** | **[Park Intern – America 250 Commemoration Support](https://jobright.ai/jobs/info/69c5cbccaa3c2c1995e04d67?utm_campaign=1053&utm_source=git)** | Yorktown, VA | On Site | Mar 26 |
-| **[FloSports](http://www.flosports.tv/)** | **[Summer Internship - Content Video Production](https://jobright.ai/jobs/info/69c70ed4b773006330b756a5?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | Mar 26 |
-| ↳ | **[Summer Internship - FloTrack/MileSplit](https://jobright.ai/jobs/info/69c70e551b5ad028873898aa?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | Mar 26 |
+| **[FloSports](http://www.flosports.tv/)** | **[Summer Internship - FloTrack/MileSplit](https://jobright.ai/jobs/info/69c70e551b5ad028873898aa?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | Mar 26 |
+| ↳ | **[Summer Internship - Content Video Production](https://jobright.ai/jobs/info/69c70ed4b773006330b756a5?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | Mar 26 |
 | **[Twilio](https://www.twilio.com/)** | **[Video Producer Intern](https://jobright.ai/jobs/info/69c5aaeeaa9a29199e808a68?utm_campaign=1053&utm_source=git)** | United States | Remote | Mar 26 |
 | **[Studs](https://studs.com/)** | **[Apprentice Piercer](https://jobright.ai/jobs/info/69c5a482aa9a29199e808515?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | Mar 26 |
 | **[K-LOVE](https://www.klove.com/)** | **[Post Production Intern](https://jobright.ai/jobs/info/69c28943a5b03d40c194f6a6?utm_campaign=1053&utm_source=git)** | Franklin, TN | On Site | Mar 26 |
@@ -145,8 +146,6 @@ For a complete list, click the following sortable link below:
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Digital News Intern- Summer, 2026](https://jobright.ai/jobs/info/69c570a383ea553769fca030?utm_campaign=1053&utm_source=git)** | LA-Metairie;One Galleria Blvd (Tribune-WGNO/WNOL) | On Site | Mar 26 |
 | **[Golden Pet Brands](www.goldenpetbrands.com)** | **[Intern, Video Editor - Summer 2026](https://jobright.ai/jobs/info/69c2b9a8ec22f8310ab09d13?utm_campaign=1053&utm_source=git)** | Los Angeles, California, United States | Hybrid | Mar 26 |
 | **[Golden Hippo®](https://www.huntrealestate.com/)** | **[Video Editor Intern](https://jobright.ai/jobs/info/69b3218ea8ac8e70ff674f97?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | Mar 26 |
-| **[Northside Hospital](http://www.northside.com)** | **[Department Intern](https://jobright.ai/jobs/info/69c564acaa3c2c1995dfe60f?utm_campaign=1053&utm_source=git)** | Atlanta, GA, US | On Site | Mar 26 |
-| ↳ | **[Department Intern](https://jobright.ai/jobs/info/69c5649f1818a24cd84b4b76?utm_campaign=1053&utm_source=git)** | US-GA-Atlanta | On Site | Mar 26 |
 | **[Rural King](https://www.ruralking.com)** | **[2026-2027 LIFT Internship - Video Production/Content Creation](https://jobright.ai/jobs/info/698d12580f6f7e7a2ce8c669?utm_campaign=1053&utm_source=git)** | Mattoon, IL | On Site | Mar 26 |
 | **[Mass General Brigham](https://www.massgeneralbrigham.org)** | **[Video Storytelling Intern](https://jobright.ai/jobs/info/69c563c6aa9a29199e803d62?utm_campaign=1053&utm_source=git)** | Somerville-MA | Hybrid | Mar 26 |
 | **[Coastal Carolina University](http://www.coastal.edu/)** | **[Production Assistant (Student Employee)](https://jobright.ai/jobs/info/69b30326a8ac8e70ff6727ac?utm_campaign=1053&utm_source=git)** | Conway, SC | On Site | Mar 26 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[New York Post](http://nypost.com/)** | **[Lifestyle Intern](https://jobright.ai/jobs/info/69a763b82672cb0acb4bd7d6?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Mar 26 |
 | **[Production Resource Group](https://www.prg.com/)** | **[Summer Intern- National Western Center - Venue Production Assistant](https://jobright.ai/jobs/info/69c4fe286f4f855eeda7bc6f?utm_campaign=1053&utm_source=git)** | Denver, CO | On Site | Mar 26 |
 | **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[Intern – Communications (Videography and Digital Media) Job ID : 274546](https://jobright.ai/jobs/info/69c794eb83ea553769fe4c68?utm_campaign=1053&utm_source=git)** | New York, United States | On Site | Mar 26 |
+| **[Front Office Sports](https://frontofficesports.com/)** | **[Editorial Intern](https://jobright.ai/jobs/info/69c4e11c6f4f855eeda79433?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Mar 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
