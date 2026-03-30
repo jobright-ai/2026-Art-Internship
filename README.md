@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Bryant Park Corporation / 34th Street Partnership](https://bryantpark.org)** | **[Cultural and Children's Events and Amenities Intern](https://jobright.ai/jobs/info/69cad08fa8c1822476e207b4?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Mar 30 |
 | **[National Audubon Society](http://www.audubon.org)** | **[Editorial Intern, Audubon Magazine](https://jobright.ai/jobs/info/69cacaef1b5ad028873a5162?utm_campaign=1053&utm_source=git)** | United States | On Site | Mar 30 |
 | **[Audubon California](https://ca.audubon.org/)** | **[Editorial Intern, Audubon Magazine](https://jobright.ai/jobs/info/69caca5fe565c26a70040969?utm_campaign=1053&utm_source=git)** | Remote (35) | Remote | Mar 30 |
 | **[State of South Carolina](https://sc.gov/)** | **[Production Intern- Columbia](https://jobright.ai/jobs/info/69cab91eaa3c2c1995e2f82c?utm_campaign=1053&utm_source=git)** | Columbia, SC | On Site | Mar 30 |
@@ -83,7 +84,6 @@ For a complete list, click the following sortable link below:
 | **[septième](https://www.linkedin.com/company/51033581)** | **[Coordonnateur·trice de production (stage)](https://jobright.ai/jobs/info/69c80d3ee565c26a7002d8d1?utm_campaign=1053&utm_source=git)** | Montreal, QC | On Site | Mar 28 |
 | ↳ | **[Assistant·e Monteur·euse, production (stage)](https://jobright.ai/jobs/info/69ab50ff7e1fab39d382e7dd?utm_campaign=1053&utm_source=git)** | Montreal, QC | On Site | Mar 28 |
 | **[Cossette](http://www.cossette.com)** | **[Directeur·trice artistique (Stage)](https://jobright.ai/jobs/info/69c808aae565c26a7002d371?utm_campaign=1053&utm_source=git)** | Montreal, QC | Hybrid | Mar 28 |
-| **[Sparks Village Academy](sparksvillage.com)** | **[Paid Videography Internship](https://jobright.ai/jobs/info/69c83007b773006330b7e3e4?utm_campaign=1053&utm_source=git)** | United States | Remote | Mar 28 |
 | **[Six Flags Entertainment Corporation](http://sixflags.com)** | **[Entertainment Event Technician Internship](https://jobright.ai/jobs/info/6973d0d337785856350da366?utm_campaign=1053&utm_source=git)** | Gurnee, IL | On Site | Mar 28 |
 | **[Audacy, Inc.](https://audacyinc.com/)** | **[WINS Intern](https://jobright.ai/jobs/info/69912da80cc8ea15f1dbc378?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Mar 28 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[WABC - TV (ABC7) Programming Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69c7d85de565c26a7002c497?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Mar 28 |
@@ -106,7 +106,6 @@ For a complete list, click the following sortable link below:
 | **[The Wyanoke Group](http://www.wyanokegroup.com/)** | **[Healio News Editorial Intern - Summer 2026](https://jobright.ai/jobs/info/69c70af6aa3c2c1995e14a16?utm_campaign=1053&utm_source=git)** | Thorofare, NJ | Hybrid | Mar 27 |
 | **[The Freeman Company (TFC) Brands](http://www.thefreemancompany.com)** | **[Intern Event & Exhibit Services](https://jobright.ai/jobs/info/69c704bd83ea553769fdfd18?utm_campaign=1053&utm_source=git)** | Dallas, TX | On Site | Mar 27 |
 | **[AM Best](https://www.ambest.com)** | **[2026 Summer Intern - Best's News](https://jobright.ai/jobs/info/6994aa3bce78e77b4fd8a926?utm_campaign=1053&utm_source=git)** | Oldwick, NJ | Hybrid | Mar 27 |
-| **[Life Solved](www.lifesolvedcoaching.com)** | **[Summer 2026 Intern: Content Creation](https://jobright.ai/jobs/info/69c8b526e565c26a70030a6b?utm_campaign=1053&utm_source=git)** | Rockville, MD | On Site | Mar 27 |
 | **[Minnesota Soccer Group](www.mnsoccergroup.com)** | **[AI Camera Operator / Matchday Media Specialist – Internship](https://jobright.ai/jobs/info/69c70a81e565c26a7002540c?utm_campaign=1053&utm_source=git)** | Minneapolis, MN | On Site | Mar 27 |
 | **[Toll Brothers](https://www.tollbrothers.com)** | **[2026 Internship Program: Assistant Framing Superintendent Intern](https://jobright.ai/jobs/info/69ab01e5142d5b4265fc427a?utm_campaign=1053&utm_source=git)** | Morrisville, PA | On Site | Mar 27 |
 | **[The Walters Art Museum](http://thewalters.org)** | **[Library Archives Intern (37815)](https://jobright.ai/jobs/info/69c6d7b083ea553769fde19d?utm_campaign=1053&utm_source=git)** | Walters Art Museum - Baltimore, MD 21201 | On Site | Mar 27 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Atlanta Hawks](https://www.nba.com/hawks)** | **[Sekou Smith Summer League Experience Intern](https://jobright.ai/jobs/info/69c516b567e81074795b5c78?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Mar 26 |
 | **[New York Post](http://nypost.com/)** | **[Lifestyle Intern](https://jobright.ai/jobs/info/69a763b82672cb0acb4bd7d6?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Mar 26 |
 | **[Production Resource Group](https://www.prg.com/)** | **[Summer Intern- National Western Center - Venue Production Assistant](https://jobright.ai/jobs/info/69c4fe286f4f855eeda7bc6f?utm_campaign=1053&utm_source=git)** | Denver, CO | On Site | Mar 26 |
+| **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[Intern – Communications (Videography and Digital Media) Job ID : 274546](https://jobright.ai/jobs/info/69c794eb83ea553769fe4c68?utm_campaign=1053&utm_source=git)** | New York, United States | On Site | Mar 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
