@@ -97,7 +97,6 @@ For a complete list, click the following sortable link below:
 | **[Minnesota Soccer Group](www.mnsoccergroup.com)** | **[AI Camera Operator / Matchday Media Specialist – Internship](https://jobright.ai/jobs/info/69c70a81e565c26a7002540c?utm_campaign=1053&utm_source=git)** | Minneapolis, MN | On Site | Mar 27 |
 | **[Toll Brothers](https://www.tollbrothers.com)** | **[2026 Internship Program: Assistant Framing Superintendent Intern](https://jobright.ai/jobs/info/69ab01e5142d5b4265fc427a?utm_campaign=1053&utm_source=git)** | Morrisville, PA | On Site | Mar 27 |
 | **[The Walters Art Museum](http://thewalters.org)** | **[Library Archives Intern (37815)](https://jobright.ai/jobs/info/69c6d7b083ea553769fde19d?utm_campaign=1053&utm_source=git)** | Walters Art Museum - Baltimore, MD 21201 | On Site | Mar 27 |
-| **[Horizon Field Group](horizonfieldgroup.com)** | **[Part-Time Content Creator (Video Shooting & Editing) – NYC (Hybrid)](https://jobright.ai/jobs/info/69c6d0921818a24cd84c8b5d?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Mar 27 |
 | **[GBH](http://www.wgbh.org/)** | **[GBH News Rooted Internship - Summer 2026](https://jobright.ai/jobs/info/69c6cf7f83ea553769fddad7?utm_campaign=1053&utm_source=git)** | Boston, MA | Hybrid | Mar 27 |
 | ↳ | **[GBH News Digital Team Internship - Summer 2026](https://jobright.ai/jobs/info/69c6cf5c83ea553769fddac0?utm_campaign=1053&utm_source=git)** | Boston, MA | Hybrid | Mar 27 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Paid Intern - News](https://jobright.ai/jobs/info/69aa34642ebd316bece1f7a9?utm_campaign=1053&utm_source=git)** | Joplin, MO | On Site | Mar 27 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Digital Content Producer - Intern](https://jobright.ai/jobs/info/69c46f176f4f855eeda6fc28?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | Mar 25 |
 | **[Stand Together](https://standtogether.org/)** | **[KAP 2026-2027 - Content Creator - Young Voices](https://jobright.ai/jobs/info/69c443826f4f855eeda6ae3a?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Mar 25 |
 | **[Fox Corporation](https://www.foxcorporation.com/)** | **[Digital Content Producer - Intern](https://jobright.ai/jobs/info/69c462e6d5a1016e98db9715?utm_campaign=1053&utm_source=git)** | Orlando, Florida, USA | On Site | Mar 25 |
+| **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69c43466d5a1016e98db4844?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Mar 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
