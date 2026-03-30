@@ -60,6 +60,7 @@ For a complete list, click the following sortable link below:
 | **[LUNARTECH](https://lunartech.ai)** | **[Video Editor Internship - United States](https://jobright.ai/jobs/info/69c97e981b5ad02887399997?utm_campaign=1053&utm_source=git)** | United States | Remote | Mar 29 |
 | **[The Washington Post](http://www.washingtonpost.com/)** | **[Opinion Video Intern](https://jobright.ai/jobs/info/68caff29d905e25191d9e2c9?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Mar 29 |
 | **[Morris Elite Soccer Club](https://www.morriselitesoccer.com)** | **[2026 Summer Internship Program](https://jobright.ai/jobs/info/69c93396aa3c2c1995e23b08?utm_campaign=1053&utm_source=git)** | Madison, NJ | On Site | Mar 29 |
+| **[Six Flags Entertainment Corporation](http://sixflags.com)** | **[Show Wardrobe Technician Internship](https://jobright.ai/jobs/info/697738cb88e2b47213bb1c1b?utm_campaign=1053&utm_source=git)** | Gurnee, IL | On Site | Mar 29 |
 | **[Kohler Hospitality](https://www.kohlerwisconsin.com/)** | **[Decor & Design Intern, Meeting and Events](https://jobright.ai/jobs/info/699fc5a5ce78e77b4fe5ac0f?utm_campaign=1053&utm_source=git)** | Kohler, WI | On Site | Mar 29 |
 | **[Our National Conversation (ONC)](https://www.ournationalconversation.org)** | **[Conservative Writer](https://jobright.ai/jobs/info/69c8b5031b5ad02887394f59?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Remote | Mar 28 |
 | **[Decibel Made](http://decibelmade.com)** | **[Videography & Content Creation Intern](https://jobright.ai/jobs/info/69c85432b773006330b7ec80?utm_campaign=1053&utm_source=git)** | Bloomingdale, NJ | On Site | Mar 28 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Fox Corporation](https://www.foxcorporation.com/)** | **[Digital Content Producer - Intern](https://jobright.ai/jobs/info/69c462e6d5a1016e98db9715?utm_campaign=1053&utm_source=git)** | Orlando, Florida, USA | On Site | Mar 25 |
 | **[University of Notre Dame](nd.edu)** | **[Content Specialist Intern](https://jobright.ai/jobs/info/69c98d26e565c26a7003722c?utm_campaign=1053&utm_source=git)** | Notre Dame, IN, US | On Site | Mar 25 |
 | **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69c43466d5a1016e98db4844?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Mar 25 |
-| ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69c434656f4f855eeda69832?utm_campaign=1053&utm_source=git)** | Greenbrier River, WV | On Site | Mar 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
