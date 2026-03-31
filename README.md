@@ -57,9 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Golden Pet Brands](www.goldenpetbrands.com)** | **[Intern, Video Editor - Summer 2026](https://jobright.ai/jobs/info/69b86d2306c1ba00c54a5ea5?utm_campaign=1053&utm_source=git)** | Hybrid (North Hollywood, CA) | Hybrid | Mar 30 |
+| **[The Sports Facilities Companies](https://sportsfacilities.com)** | **[Intern - Sand Mountain Park &amp; Amphitheater](https://jobright.ai/jobs/info/69caf99d466f1e133aac966a?utm_campaign=1053&utm_source=git)** | Albertville,AL,US | On Site | Mar 30 |
 | **[Forsyth County](http://www.forsyth.cc)** | **[Intern](https://jobright.ai/jobs/info/69cae8b7a8c1822476e21b0d?utm_campaign=1053&utm_source=git)** | Winston-Salem, NC | On Site | Mar 30 |
 | **[Denver Broncos Football Club](http://www.denverbroncos.com/)** | **[Video Production Intern](https://jobright.ai/jobs/info/69a931ff2580d3183f0163cc?utm_campaign=1053&utm_source=git)** | Englewood, CO | On Site | Mar 30 |
 | **[Twin Cities PBS](http://www.tpt.org)** | **[Public History & Digital Content Internship Summer 2026](https://jobright.ai/jobs/info/69cae3b58fc6090c5d4523f4?utm_campaign=1053&utm_source=git)** | St Paul, Minnesota, United States | Hybrid | Mar 30 |
+| **[Michigan State University](http://msu.edu)** | **[Assistant Director of Football Creative Video](https://jobright.ai/jobs/info/69caf1c9a8c1822476e2236f?utm_campaign=1053&utm_source=git)** | East Lansing, MI | On Site | Mar 30 |
+| **[International Rescue Committee](http://www.rescue.org/)** | **[Summer 2026: Community Fridge Intern (Unpaid)](https://jobright.ai/jobs/info/69be0773482822729300bca6?utm_campaign=1053&utm_source=git)** | San Diego, CA | On Site | Mar 30 |
 | **[Bryant Park Corporation / 34th Street Partnership](https://bryantpark.org)** | **[Cultural and Children's Events and Amenities Intern](https://jobright.ai/jobs/info/69cad08fa8c1822476e207b4?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Mar 30 |
 | **[National Audubon Society](http://www.audubon.org)** | **[Editorial Intern, Audubon Magazine](https://jobright.ai/jobs/info/69cacaef1b5ad028873a5162?utm_campaign=1053&utm_source=git)** | United States | On Site | Mar 30 |
 | **[Audubon California](https://ca.audubon.org/)** | **[Editorial Intern, Audubon Magazine](https://jobright.ai/jobs/info/69caca5fe565c26a70040969?utm_campaign=1053&utm_source=git)** | Remote (35) | Remote | Mar 30 |
@@ -87,7 +91,6 @@ For a complete list, click the following sortable link below:
 | **[septième](https://www.linkedin.com/company/51033581)** | **[Coordonnateur·trice de production (stage)](https://jobright.ai/jobs/info/69c80d3ee565c26a7002d8d1?utm_campaign=1053&utm_source=git)** | Montreal, QC | On Site | Mar 28 |
 | ↳ | **[Assistant·e Monteur·euse, production (stage)](https://jobright.ai/jobs/info/69ab50ff7e1fab39d382e7dd?utm_campaign=1053&utm_source=git)** | Montreal, QC | On Site | Mar 28 |
 | **[Cossette](http://www.cossette.com)** | **[Directeur·trice artistique (Stage)](https://jobright.ai/jobs/info/69c808aae565c26a7002d371?utm_campaign=1053&utm_source=git)** | Montreal, QC | Hybrid | Mar 28 |
-| **[Six Flags Entertainment Corporation](http://sixflags.com)** | **[Entertainment Event Technician Internship](https://jobright.ai/jobs/info/6973d0d337785856350da366?utm_campaign=1053&utm_source=git)** | Gurnee, IL | On Site | Mar 28 |
 | **[Audacy, Inc.](https://audacyinc.com/)** | **[WINS Intern](https://jobright.ai/jobs/info/69912da80cc8ea15f1dbc378?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Mar 28 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[WABC - TV (ABC7) Programming Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69c7d85de565c26a7002c497?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Mar 28 |
 | **[Colonial Williamsburg Foundation](https://www.colonialwilliamsburg.org/)** | **[Intern - Fife & Drum](https://jobright.ai/jobs/info/6789b384fade8859f716aab4?utm_campaign=1053&utm_source=git)** | Williamsburg, VA | On Site | Mar 28 |
@@ -111,7 +114,6 @@ For a complete list, click the following sortable link below:
 | **[Minnesota Soccer Group](www.mnsoccergroup.com)** | **[AI Camera Operator / Matchday Media Specialist – Internship](https://jobright.ai/jobs/info/69c70a81e565c26a7002540c?utm_campaign=1053&utm_source=git)** | Minneapolis, MN | On Site | Mar 27 |
 | **[Toll Brothers](https://www.tollbrothers.com)** | **[2026 Internship Program: Assistant Framing Superintendent Intern](https://jobright.ai/jobs/info/69ab01e5142d5b4265fc427a?utm_campaign=1053&utm_source=git)** | Morrisville, PA | On Site | Mar 27 |
 | **[The Walters Art Museum](http://thewalters.org)** | **[Library Archives Intern (37815)](https://jobright.ai/jobs/info/69c6d7b083ea553769fde19d?utm_campaign=1053&utm_source=git)** | Walters Art Museum - Baltimore, MD 21201 | On Site | Mar 27 |
-| **[GBH](http://www.wgbh.org/)** | **[GBH News Digital Team Internship - Summer 2026](https://jobright.ai/jobs/info/69c6cf5c83ea553769fddac0?utm_campaign=1053&utm_source=git)** | Boston, MA | Hybrid | Mar 27 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Paid Intern - News](https://jobright.ai/jobs/info/69aa34642ebd316bece1f7a9?utm_campaign=1053&utm_source=git)** | Joplin, MO | On Site | Mar 27 |
 | **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Intern, Post Production, Sony Pictures Classics - Summer 2026](https://jobright.ai/jobs/info/69c6c936e565c26a70022906?utm_campaign=1053&utm_source=git)** | New York, New York | On Site | Mar 27 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[WABC - TV (ABC7) Programming Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69c6c9211b5ad02887386d7b?utm_campaign=1053&utm_source=git)** | New York, NY, USA | On Site | Mar 27 |
@@ -132,8 +134,9 @@ For a complete list, click the following sortable link below:
 | **[Waco Tribune-Herald](http://wacotrib.com)** | **[Digital Media Newsroom Intern](https://jobright.ai/jobs/info/69c6006b83ea553769fd2094?utm_campaign=1053&utm_source=git)** | Iselin, NJ | Hybrid | Mar 26 |
 | **[Golden Hippo®](https://www.huntrealestate.com/)** | **[Art Production Assistant Intern](https://jobright.ai/jobs/info/69c5d8bd1b5ad0288737a4eb?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | Mar 26 |
 | **[O.H. Partners](https://ohpartners.com)** | **[Content Creator Intern](https://jobright.ai/jobs/info/69c5ccef1b5ad02887379bfb?utm_campaign=1053&utm_source=git)** | Phoenix, AZ | On Site | Mar 26 |
-| **[FloSports](http://www.flosports.tv/)** | **[Summer Internship - FloTrack/MileSplit](https://jobright.ai/jobs/info/69c70e551b5ad028873898aa?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | Mar 26 |
-| ↳ | **[Summer Internship - Content Video Production](https://jobright.ai/jobs/info/69c70ed4b773006330b756a5?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | Mar 26 |
+| **[FloSports](http://www.flosports.tv/)** | **[Summer Internship - Content Video Production](https://jobright.ai/jobs/info/69c70ed4b773006330b756a5?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | Mar 26 |
+| ↳ | **[Summer Internship - FloTrack/MileSplit](https://jobright.ai/jobs/info/69c70e551b5ad028873898aa?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | Mar 26 |
+| **[Red Bull New York](http://www.newyorkredbulls.com)** | **[2026 Internship, Summer - Creative Video](https://jobright.ai/jobs/info/69c4bc206f4f855eeda763a8?utm_campaign=1053&utm_source=git)** | Harrison, NJ | On Site | Mar 26 |
 | **[Twilio](https://www.twilio.com/)** | **[Video Producer Intern](https://jobright.ai/jobs/info/69c5aaeeaa9a29199e808a68?utm_campaign=1053&utm_source=git)** | United States | Remote | Mar 26 |
 | **[Studs](https://studs.com/)** | **[Apprentice Piercer](https://jobright.ai/jobs/info/69c5a482aa9a29199e808515?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | Mar 26 |
 | **[K-LOVE](https://www.klove.com/)** | **[Post Production Intern](https://jobright.ai/jobs/info/69c28943a5b03d40c194f6a6?utm_campaign=1053&utm_source=git)** | Franklin, TN | On Site | Mar 26 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Hello Iowa Intern (Unpaid)](https://jobright.ai/jobs/info/6938ede1b95c305f206e2e4b?utm_campaign=1053&utm_source=git)** | Des Moines, IA | On Site | Mar 26 |
 | **[High Impact Promotion](https://highimpactpromo.com/)** | **[Digital Production Unpaid Internship](https://jobright.ai/jobs/info/69c568eeaa9a29199e8042d9?utm_campaign=1053&utm_source=git)** | Chicago, IL | Hybrid | Mar 26 |
 | **[Atlanta Hawks](https://www.nba.com/hawks)** | **[Sekou Smith Summer League Experience Intern](https://jobright.ai/jobs/info/69c516b567e81074795b5c78?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Mar 26 |
-| **[New York Post](http://nypost.com/)** | **[Lifestyle Intern](https://jobright.ai/jobs/info/69a763b82672cb0acb4bd7d6?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Mar 26 |
-| **[Production Resource Group](https://www.prg.com/)** | **[Summer Intern- National Western Center - Venue Production Assistant](https://jobright.ai/jobs/info/69c4fe286f4f855eeda7bc6f?utm_campaign=1053&utm_source=git)** | Denver, CO | On Site | Mar 26 |
-| **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[Intern – Communications (Videography and Digital Media) Job ID : 274546](https://jobright.ai/jobs/info/69c794eb83ea553769fe4c68?utm_campaign=1053&utm_source=git)** | New York, United States | On Site | Mar 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
