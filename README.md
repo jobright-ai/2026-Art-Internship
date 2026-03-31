@@ -105,7 +105,6 @@ For a complete list, click the following sortable link below:
 | **[IMG](http://img.com)** | **[Intern, Studios](https://jobright.ai/jobs/info/69ab38bd7e1fab39d382d1af?utm_campaign=1053&utm_source=git)** | Stamford, CT | On Site | Mar 28 |
 | **[The Reynolds and Reynolds Company](https://www.reyrey.com)** | **[Multimedia Production Specialist Intern](https://jobright.ai/jobs/info/69738c76206da320f49d8899?utm_campaign=1053&utm_source=git)** | Greater Houston | On Site | Mar 28 |
 | **[Universal Music Group](https://www.universalmusic.com)** | **[Universal Music Group 2026 Summer Internship Program: Creative & Operations (Onsite: TN)](https://jobright.ai/jobs/info/69ab73ef142d5b4265fca79d?utm_campaign=1053&utm_source=git)** | Nashville, TN | On Site | Mar 28 |
-| **[Forsyth County](http://www.forsyth.cc)** | **[Intern](https://jobright.ai/jobs/info/69c767d11818a24cd84ce06a?utm_campaign=1053&utm_source=git)** | Winston-Salem, NC | On Site | Mar 27 |
 | **[Sinclair Inc.](http://sbgi.net/)** | **[News Intern](https://jobright.ai/jobs/info/69c8a064aa3c2c1995e1f795?utm_campaign=1053&utm_source=git)** | Oklahoma City, OK | On Site | Mar 27 |
 | **[Penguin Random House](https://www.penguinrandomhouse.com/)** | **[Associate Production Editor - (Open to remote)](https://jobright.ai/jobs/info/69c74751b773006330b776a9?utm_campaign=1053&utm_source=git)** | New York, United States | Remote | Mar 27 |
 | **[FloSports](http://www.flosports.tv/)** | **[Summer Internship - FloTrack/MileSplit](https://jobright.ai/jobs/info/69c73b51b773006330b771af?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | Mar 27 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Golden Pet Brands](www.goldenpetbrands.com)** | **[Intern, Video Editor - Summer 2026](https://jobright.ai/jobs/info/69c2b9a8ec22f8310ab09d13?utm_campaign=1053&utm_source=git)** | Los Angeles, California, United States | Hybrid | Mar 26 |
 | **[Golden Hippo®](https://www.huntrealestate.com/)** | **[Video Editor Intern](https://jobright.ai/jobs/info/69b3218ea8ac8e70ff674f97?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | Mar 26 |
 | **[Rural King](https://www.ruralking.com)** | **[2026-2027 LIFT Internship - Video Production/Content Creation](https://jobright.ai/jobs/info/698d12580f6f7e7a2ce8c669?utm_campaign=1053&utm_source=git)** | Mattoon, IL | On Site | Mar 26 |
+| **[Mass General Brigham](https://www.massgeneralbrigham.org)** | **[Video Storytelling Intern](https://jobright.ai/jobs/info/69c563c6aa9a29199e803d62?utm_campaign=1053&utm_source=git)** | Somerville-MA | Hybrid | Mar 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
