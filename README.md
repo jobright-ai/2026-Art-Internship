@@ -57,10 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Place Showroom](http://placeshowroom.com)** | **[LA Internship Summer 2026](https://jobright.ai/jobs/info/69cb2ea08fc6090c5d455908?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Mar 30 |
 | **[MobilizeGreen](https://www.mobilizegreen.org/)** | **[Park Intern – America 250 Commemoration Support](https://jobright.ai/jobs/info/69cb29a9aa3c2c1995e34af8?utm_campaign=1053&utm_source=git)** | Yorktown, VA | On Site | Mar 30 |
 | **[Solidigm](https://www.solidigmtechnology.com)** | **[Intern Experience & Engagement Intern](https://jobright.ai/jobs/info/69cb2944e565c26a7004550e?utm_campaign=1053&utm_source=git)** | Rancho Cordova | Hybrid | Mar 30 |
 | **[Skirball Cultural Center](https://www.skirball.org)** | **[Public Programs Internship](https://jobright.ai/jobs/info/69cb12008fc6090c5d4548d7?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | Mar 30 |
 | **[6 Degrees Media](https://www.6degrees.media/)** | **[UGC Creator Short-form Video (Contract)](https://jobright.ai/jobs/info/69cb0eb18fc6090c5d4546ae?utm_campaign=1053&utm_source=git)** | United States | Remote | Mar 30 |
+| **[Monocacy Wealth Management](https://monocacywm.com)** | **[YouTube Content Intern](https://jobright.ai/jobs/info/69cb2e3d466f1e133aacb9bc?utm_campaign=1053&utm_source=git)** | Arlington, VA | Hybrid | Mar 30 |
 | **[Golden Pet Brands](www.goldenpetbrands.com)** | **[Intern, Video Editor - Summer 2026](https://jobright.ai/jobs/info/69b86d2306c1ba00c54a5ea5?utm_campaign=1053&utm_source=git)** | Hybrid (North Hollywood, CA) | Hybrid | Mar 30 |
 | **[The Sports Facilities Companies](https://sportsfacilities.com)** | **[Intern - Sand Mountain Park &amp; Amphitheater](https://jobright.ai/jobs/info/69caf99d466f1e133aac966a?utm_campaign=1053&utm_source=git)** | Albertville,AL,US | On Site | Mar 30 |
 | **[No Boring Brands](https://www.noboringbrands.co)** | **[Content Creator Intern](https://jobright.ai/jobs/info/69cb164de565c26a70044918?utm_campaign=1053&utm_source=git)** | Baltimore, MD | On Site | Mar 30 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Golden Pet Brands](www.goldenpetbrands.com)** | **[Intern, Video Editor - Summer 2026](https://jobright.ai/jobs/info/69c2b9a8ec22f8310ab09d13?utm_campaign=1053&utm_source=git)** | Los Angeles, California, United States | Hybrid | Mar 26 |
 | **[Golden Hippo®](https://www.huntrealestate.com/)** | **[Video Editor Intern](https://jobright.ai/jobs/info/69b3218ea8ac8e70ff674f97?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | Mar 26 |
 | **[Rural King](https://www.ruralking.com)** | **[2026-2027 LIFT Internship - Video Production/Content Creation](https://jobright.ai/jobs/info/698d12580f6f7e7a2ce8c669?utm_campaign=1053&utm_source=git)** | Mattoon, IL | On Site | Mar 26 |
-| **[Mass General Brigham](https://www.massgeneralbrigham.org)** | **[Video Storytelling Intern](https://jobright.ai/jobs/info/69c563c6aa9a29199e803d62?utm_campaign=1053&utm_source=git)** | Somerville-MA | Hybrid | Mar 26 |
-| **[Coastal Carolina University](http://www.coastal.edu/)** | **[Production Assistant (Student Employee)](https://jobright.ai/jobs/info/69b30326a8ac8e70ff6727ac?utm_campaign=1053&utm_source=git)** | Conway, SC | On Site | Mar 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
