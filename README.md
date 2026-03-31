@@ -58,8 +58,10 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Place Showroom](http://placeshowroom.com)** | **[LA Internship Summer 2026](https://jobright.ai/jobs/info/69cb2ea08fc6090c5d455908?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Mar 30 |
+| ↳ | **[NYC Internship Summer 2026](https://jobright.ai/jobs/info/69cb4c0de565c26a7004671f?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Mar 30 |
 | **[MobilizeGreen](https://www.mobilizegreen.org/)** | **[Park Intern – America 250 Commemoration Support](https://jobright.ai/jobs/info/69cb29a9aa3c2c1995e34af8?utm_campaign=1053&utm_source=git)** | Yorktown, VA | On Site | Mar 30 |
 | **[Solidigm](https://www.solidigmtechnology.com)** | **[Intern Experience & Engagement Intern](https://jobright.ai/jobs/info/69cb2944e565c26a7004550e?utm_campaign=1053&utm_source=git)** | Rancho Cordova | Hybrid | Mar 30 |
+| **[University of Cincinnati](http://researchcompliance.uc.edu/UCTCA.aspx)** | **[Assistant Director of Creative Video, Athletics](https://jobright.ai/jobs/info/69cb4ab48fc6090c5d456881?utm_campaign=1053&utm_source=git)** | Cincinnati, OH | On Site | Mar 30 |
 | **[Skirball Cultural Center](https://www.skirball.org)** | **[Public Programs Internship](https://jobright.ai/jobs/info/69cb12008fc6090c5d4548d7?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | Mar 30 |
 | **[6 Degrees Media](https://www.6degrees.media/)** | **[UGC Creator Short-form Video (Contract)](https://jobright.ai/jobs/info/69cb0eb18fc6090c5d4546ae?utm_campaign=1053&utm_source=git)** | United States | Remote | Mar 30 |
 | **[Monocacy Wealth Management](https://monocacywm.com)** | **[YouTube Content Intern](https://jobright.ai/jobs/info/69cb2e3d466f1e133aacb9bc?utm_campaign=1053&utm_source=git)** | Arlington, VA | Hybrid | Mar 30 |
@@ -69,6 +71,7 @@ For a complete list, click the following sortable link below:
 | **[Forsyth County](http://www.forsyth.cc)** | **[Intern](https://jobright.ai/jobs/info/69cae8b7a8c1822476e21b0d?utm_campaign=1053&utm_source=git)** | Winston-Salem, NC | On Site | Mar 30 |
 | **[Denver Broncos Football Club](http://www.denverbroncos.com/)** | **[Video Production Intern](https://jobright.ai/jobs/info/69a931ff2580d3183f0163cc?utm_campaign=1053&utm_source=git)** | Englewood, CO | On Site | Mar 30 |
 | **[Twin Cities PBS](http://www.tpt.org)** | **[Public History & Digital Content Internship Summer 2026](https://jobright.ai/jobs/info/69cae3b58fc6090c5d4523f4?utm_campaign=1053&utm_source=git)** | St Paul, Minnesota, United States | Hybrid | Mar 30 |
+| **[KRAFTON Inc.](https://www.krafton.com)** | **[Internship : Production](https://jobright.ai/jobs/info/69cb48088fc6090c5d4567a8?utm_campaign=1053&utm_source=git)** | El Segundo, CA | On Site | Mar 30 |
 | **[Michigan State University](http://msu.edu)** | **[Assistant Director of Football Creative Video](https://jobright.ai/jobs/info/69caf1c9a8c1822476e2236f?utm_campaign=1053&utm_source=git)** | East Lansing, MI | On Site | Mar 30 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Summer 2026: Community Fridge Intern (Unpaid)](https://jobright.ai/jobs/info/69be0773482822729300bca6?utm_campaign=1053&utm_source=git)** | San Diego, CA | On Site | Mar 30 |
 | **[National Audubon Society](http://www.audubon.org)** | **[Editorial Intern, Audubon Magazine](https://jobright.ai/jobs/info/69cacaef1b5ad028873a5162?utm_campaign=1053&utm_source=git)** | United States | On Site | Mar 30 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Leo Burnett](https://leoburnett.com)** | **[2026 Leo Chicago Summer Internship - Strategy](https://jobright.ai/jobs/info/698c6b31f64d441a164e5f69?utm_campaign=1053&utm_source=git)** | Chicago, IL | Hybrid | Mar 26 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Digital News Intern- Summer, 2026](https://jobright.ai/jobs/info/69c570a383ea553769fca030?utm_campaign=1053&utm_source=git)** | LA-Metairie;One Galleria Blvd (Tribune-WGNO/WNOL) | On Site | Mar 26 |
 | **[Golden Pet Brands](www.goldenpetbrands.com)** | **[Intern, Video Editor - Summer 2026](https://jobright.ai/jobs/info/69c2b9a8ec22f8310ab09d13?utm_campaign=1053&utm_source=git)** | Los Angeles, California, United States | Hybrid | Mar 26 |
-| **[Golden Hippo®](https://www.huntrealestate.com/)** | **[Video Editor Intern](https://jobright.ai/jobs/info/69b3218ea8ac8e70ff674f97?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | Mar 26 |
-| **[Rural King](https://www.ruralking.com)** | **[2026-2027 LIFT Internship - Video Production/Content Creation](https://jobright.ai/jobs/info/698d12580f6f7e7a2ce8c669?utm_campaign=1053&utm_source=git)** | Mattoon, IL | On Site | Mar 26 |
-| **[Mass General Brigham](https://www.massgeneralbrigham.org)** | **[Video Storytelling Intern](https://jobright.ai/jobs/info/69c563c6aa9a29199e803d62?utm_campaign=1053&utm_source=git)** | Somerville-MA | Hybrid | Mar 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
