@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ellucian](http://www.ellucian.com)** | **[Video Internship (Undergraduate)](https://jobright.ai/jobs/info/6977e29c52f3c27ec6440a9c?utm_campaign=1053&utm_source=git)** | Reston, VA | Hybrid | Apr 01 |
 | **[The Jerusalem Fund For Education & Community Development](https://thejerusalemfund.org)** | **[Summer Intern](https://jobright.ai/jobs/info/69ccc1e4cfdc6132f941313b?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Mar 31 |
 | **[The KINN](www.thekinn.co)** | **[KINN Events & Media Technology Intern](https://jobright.ai/jobs/info/69ccb6f8891d7b11cfcb2798?utm_campaign=1053&utm_source=git)** | LA Metro Area | On Site | Mar 31 |
 | **[The Music Center](https://www.musiccenter.org/)** | **[Programming Intern](https://jobright.ai/jobs/info/69ccb2a1cfdc6132f94125ca?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, US | On Site | Mar 31 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[FloSports](http://www.flosports.tv/)** | **[Summer Internship - FloTrack/MileSplit](https://jobright.ai/jobs/info/69c73b51b773006330b771af?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | Mar 27 |
 | ↳ | **[Summer Internship - Content Video Production](https://jobright.ai/jobs/info/69c739daaa3c2c1995e1678f?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | Mar 27 |
 | **[USA Water Polo](https://usawaterpolo.org/)** | **[Events Intern](https://jobright.ai/jobs/info/69c71f9c1b5ad0288738a5c6?utm_campaign=1053&utm_source=git)** | Irvine, CA | Hybrid | Mar 27 |
-| **[Freeman Company](https://linktr.ee/freeman.events)** | **[Intern Event & Exhibit Services](https://jobright.ai/jobs/info/69c70f5cb773006330b7599f?utm_campaign=1053&utm_source=git)** | Texas - Dallas | On Site | Mar 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
