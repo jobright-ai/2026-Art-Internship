@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The KINN](www.thekinn.co)** | **[KINN Events & Media Technology Intern](https://jobright.ai/jobs/info/69ccb6f8891d7b11cfcb2798?utm_campaign=1053&utm_source=git)** | LA Metro Area | On Site | Mar 31 |
+| **[The Music Center](https://www.musiccenter.org/)** | **[Programming Intern](https://jobright.ai/jobs/info/69ccb2a1cfdc6132f94125ca?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, US | On Site | Mar 31 |
 | **[SiriusXM](http://siriusxm.com)** | **[Summer Intern, Talk Programming - Part-Time](https://jobright.ai/jobs/info/69cca3a0cfdc6132f941165b?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Mar 31 |
 | ↳ | **[Summer Intern, Talk Programming - Part-Time](https://jobright.ai/jobs/info/69cc98f2cdb525785fb7fbe3?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Mar 31 |
 | **[dnd video](http://dndvideo.com/)** | **[Content Creator](https://jobright.ai/jobs/info/69cc8beacdb525785fb7ecd4?utm_campaign=1053&utm_source=git)** | United States | Remote | Mar 31 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Chorus America](https://chorusamerica.org)** | **[Director of Production](https://jobright.ai/jobs/info/69c70de6e565c26a700254d6?utm_campaign=1053&utm_source=git)** | St Louis, MO | On Site | Mar 27 |
 | **[The Wyanoke Group](http://www.wyanokegroup.com/)** | **[Healio News Editorial Intern - Summer 2026](https://jobright.ai/jobs/info/69c70af6aa3c2c1995e14a16?utm_campaign=1053&utm_source=git)** | Thorofare, NJ | Hybrid | Mar 27 |
 | **[The Freeman Company (TFC) Brands](http://www.thefreemancompany.com)** | **[Intern Event & Exhibit Services](https://jobright.ai/jobs/info/69c704bd83ea553769fdfd18?utm_campaign=1053&utm_source=git)** | Dallas, TX | On Site | Mar 27 |
-| **[AM Best](https://www.ambest.com)** | **[2026 Summer Intern - Best's News](https://jobright.ai/jobs/info/6994aa3bce78e77b4fd8a926?utm_campaign=1053&utm_source=git)** | Oldwick, NJ | Hybrid | Mar 27 |
-| **[Minnesota Soccer Group](www.mnsoccergroup.com)** | **[AI Camera Operator / Matchday Media Specialist – Internship](https://jobright.ai/jobs/info/69c70a81e565c26a7002540c?utm_campaign=1053&utm_source=git)** | Minneapolis, MN | On Site | Mar 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
