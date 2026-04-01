@@ -61,6 +61,7 @@ For a complete list, click the following sortable link below:
 | **[The KINN](www.thekinn.co)** | **[KINN Events & Media Technology Intern](https://jobright.ai/jobs/info/69ccb6f8891d7b11cfcb2798?utm_campaign=1053&utm_source=git)** | LA Metro Area | On Site | Mar 31 |
 | **[The Music Center](https://www.musiccenter.org/)** | **[Programming Intern](https://jobright.ai/jobs/info/69ccb2a1cfdc6132f94125ca?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, US | On Site | Mar 31 |
 | **[SiriusXM](http://siriusxm.com)** | **[Summer Intern, Talk Programming - Part-Time](https://jobright.ai/jobs/info/69cca3a0cfdc6132f941165b?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Mar 31 |
+| ↳ | **[Summer Intern, Talk Programming - Part-Time](https://jobright.ai/jobs/info/69ccd5cecfdc6132f9413fc2?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Mar 31 |
 | ↳ | **[Summer Intern, Talk Programming - Part-Time](https://jobright.ai/jobs/info/69cc98f2cdb525785fb7fbe3?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Mar 31 |
 | **[dnd video](http://dndvideo.com/)** | **[Content Creator](https://jobright.ai/jobs/info/69cc8beacdb525785fb7ecd4?utm_campaign=1053&utm_source=git)** | United States | Remote | Mar 31 |
 | **[Leaders Lead Podcast](flowcode.com/p/FIHnpn9a8?fc=0)** | **[Podcast Video Editor Intern](https://jobright.ai/jobs/info/69cca542cdb525785fb80ea9?utm_campaign=1053&utm_source=git)** | Washington, United States | Remote | Mar 31 |
@@ -69,6 +70,7 @@ For a complete list, click the following sortable link below:
 | **[Cosmic Bay Studios](https://www.linkedin.com/company/105924616)** | **[3D Artist Intern – Animation](https://jobright.ai/jobs/info/69cc9366366bb95ba54f312e?utm_campaign=1053&utm_source=git)** | United States | Remote | Mar 31 |
 | **[Creighton Farms](https://creightonfarms.com/)** | **[Experience & Events Intern](https://jobright.ai/jobs/info/69cc915ccdb525785fb7f237?utm_campaign=1053&utm_source=git)** | Aldie, VA | On Site | Mar 31 |
 | ↳ | **[Experience & Events Intern](https://jobright.ai/jobs/info/69cc4fd48130af1ac8337c5e?utm_campaign=1053&utm_source=git)** | ALDIE, VA 20105 | On Site | Mar 31 |
+| **[The E.W. Scripps Company](http://www.scripps.com)** | **[Digital News Intern (SUMMER), WTMJ](https://jobright.ai/jobs/info/69ccd541398fb071abf7066a?utm_campaign=1053&utm_source=git)** | Milwaukee, WI | On Site | Mar 31 |
 | **[Boston Globe Media](http://www.bostonglobe.com)** | **[Editorial Intern, Boston Magazine](https://jobright.ai/jobs/info/69cc3c97366bb95ba54ee60a?utm_campaign=1053&utm_source=git)** | Boston, MA 02109, USA | Hybrid | Mar 31 |
 | **[City of Greenwood Village](https://greenwoodvillage.com)** | **[Seasonal Recreation Intern](https://jobright.ai/jobs/info/69cc653d891d7b11cfcac232?utm_campaign=1053&utm_source=git)** | Greenwood Village, CO | On Site | Mar 31 |
 | **[Boston Globe Media](http://www.bostonglobe.com)** | **[Editorial Intern, Boston Magazine](https://jobright.ai/jobs/info/69cc875ee1921223acc78c5e?utm_campaign=1053&utm_source=git)** | Boston, MA | Hybrid | Mar 31 |
@@ -112,7 +114,6 @@ For a complete list, click the following sortable link below:
 | **[Golden Pet Brands](www.goldenpetbrands.com)** | **[Intern, Video Editor - Summer 2026](https://jobright.ai/jobs/info/69b86d2306c1ba00c54a5ea5?utm_campaign=1053&utm_source=git)** | Hybrid (North Hollywood, CA) | Hybrid | Mar 30 |
 | **[The Sports Facilities Companies](https://sportsfacilities.com)** | **[Intern - Sand Mountain Park &amp; Amphitheater](https://jobright.ai/jobs/info/69caf99d466f1e133aac966a?utm_campaign=1053&utm_source=git)** | Albertville,AL,US | On Site | Mar 30 |
 | **[No Boring Brands](https://www.noboringbrands.co)** | **[Content Creator Intern](https://jobright.ai/jobs/info/69cb164de565c26a70044918?utm_campaign=1053&utm_source=git)** | Baltimore, MD | On Site | Mar 30 |
-| **[Forsyth County](http://www.forsyth.cc)** | **[Intern](https://jobright.ai/jobs/info/69cae8b7a8c1822476e21b0d?utm_campaign=1053&utm_source=git)** | Winston-Salem, NC | On Site | Mar 30 |
 | **[Denver Broncos Football Club](http://www.denverbroncos.com/)** | **[Video Production Intern](https://jobright.ai/jobs/info/69a931ff2580d3183f0163cc?utm_campaign=1053&utm_source=git)** | Englewood, CO | On Site | Mar 30 |
 | **[Twin Cities PBS](http://www.tpt.org)** | **[Public History & Digital Content Internship Summer 2026](https://jobright.ai/jobs/info/69cae3b58fc6090c5d4523f4?utm_campaign=1053&utm_source=git)** | St Paul, Minnesota, United States | Hybrid | Mar 30 |
 | **[KRAFTON Inc.](https://www.krafton.com)** | **[Internship : Production](https://jobright.ai/jobs/info/69cb48088fc6090c5d4567a8?utm_campaign=1053&utm_source=git)** | El Segundo, CA | On Site | Mar 30 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Internship - Content Video Production](https://jobright.ai/jobs/info/69c739daaa3c2c1995e1678f?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | Mar 27 |
 | **[USA Water Polo](https://usawaterpolo.org/)** | **[Events Intern](https://jobright.ai/jobs/info/69c71f9c1b5ad0288738a5c6?utm_campaign=1053&utm_source=git)** | Irvine, CA | Hybrid | Mar 27 |
 | **[Freeman Company](https://linktr.ee/freeman.events)** | **[Intern Event & Exhibit Services](https://jobright.ai/jobs/info/69c70f5cb773006330b7599f?utm_campaign=1053&utm_source=git)** | Texas - Dallas | On Site | Mar 27 |
-| **[Chorus America](https://chorusamerica.org)** | **[Director of Production](https://jobright.ai/jobs/info/69c70de6e565c26a700254d6?utm_campaign=1053&utm_source=git)** | St Louis, MO | On Site | Mar 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
