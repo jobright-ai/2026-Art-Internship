@@ -57,14 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ryan Lawn & Tree](http://ryanlawn.com)** | **[Summer Intern - Tulsa](https://jobright.ai/jobs/info/69cd8c99366bb95ba550039c?utm_campaign=1053&utm_source=git)** | Broken Arrow,OK,US | On Site | Apr 01 |
 | **[VIZ Media](http://www.viz.com)** | **[Video Intern (P/T, Paid)](https://jobright.ai/jobs/info/69cd7d42cdb525785fb885c9?utm_campaign=1053&utm_source=git)** | San Francisco, California, United States | On Site | Apr 01 |
-| **[NoGood](https://nogood.io)** | **[Intern- Social Video Creator](https://jobright.ai/jobs/info/69cd738fcfdc6132f9418e83?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Apr 01 |
-| ↳ | **[Intern- Social Video Creator](https://jobright.ai/jobs/info/69cd7357891d7b11cfcb8f66?utm_campaign=1053&utm_source=git)** | New York, New York, United States | Hybrid | Apr 01 |
+| **[NoGood](https://nogood.io)** | **[Intern- Social Video Creator](https://jobright.ai/jobs/info/69cd7357891d7b11cfcb8f66?utm_campaign=1053&utm_source=git)** | New York, New York, United States | Hybrid | Apr 01 |
 | **[CBC/Radio-Canada](https://cbc.radio-canada.ca)** | **[Researcher (CMG) (Indigenous summer paid internship) (English Services)](https://jobright.ai/jobs/info/69cd7214891d7b11cfcb8cdd?utm_campaign=1053&utm_source=git)** | Prince George, BC | On Site | Apr 01 |
+| **[VIZ Media](http://www.viz.com)** | **[Video Intern (P/T, Paid)](https://jobright.ai/jobs/info/69cd8546398fb071abf783ed?utm_campaign=1053&utm_source=git)** | San Francisco, CA | On Site | Apr 01 |
 | **[7th Empire Media](http://7thempiremedia.com/)** | **[Production and Social Media Assistant (Hot Docs Premiere)](https://jobright.ai/jobs/info/69cd74f454f00230c6cef98f?utm_campaign=1053&utm_source=git)** | Toronto, ON | On Site | Apr 01 |
 | **[Power Digital Marketing](http://www.powerdigitalmarketing.com)** | **[Fashion Intern, Summer 2026](https://jobright.ai/jobs/info/69cd4ff4398fb071abf74107?utm_campaign=1053&utm_source=git)** | United States | Remote | Apr 01 |
 | **[Racine](http://www.racine.eu)** | **[Main Gallery Young Artist](https://jobright.ai/jobs/info/69cd4fcf891d7b11cfcb7bc8?utm_campaign=1053&utm_source=git)** | Racine, WI | On Site | Apr 01 |
 | **[Power Digital Marketing](http://www.powerdigitalmarketing.com)** | **[Fashion Intern, Summer 2026](https://jobright.ai/jobs/info/69cd478a398fb071abf7351c?utm_campaign=1053&utm_source=git)** | Remote - United States | Remote | Apr 01 |
+| **[Numerator](http://numerator.com)** | **[Zell Intern](https://jobright.ai/jobs/info/69cd8ec9366bb95ba55004f6?utm_campaign=1053&utm_source=git)** | Manhattan SNF - New York, NY | On Site | Apr 01 |
 | **[Kalahari Resorts & Conventions](http://www.kalahariresorts.com)** | **[Culinary & Pastry Internship](https://jobright.ai/jobs/info/68e6aeefe8daec61499ad5dd?utm_campaign=1053&utm_source=git)** | Pocono, PA | On Site | Apr 01 |
 | **[Radio-Canada](http://www.radio-canada.ca/)** | **[Researcher (CMG) (Indigenous summer paid internship) (English Services)](https://jobright.ai/jobs/info/69cd3c23cdb525785fb85e3d?utm_campaign=1053&utm_source=git)** | Prince George, BC | On Site | Apr 01 |
 | ↳ | **[Researcher (CMG) (Indigenous summer paid internship) (English Services)](https://jobright.ai/jobs/info/69cd3bda366bb95ba54f9cdc?utm_campaign=1053&utm_source=git)** | Victoria, BC | On Site | Apr 01 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Decibel Made](http://decibelmade.com)** | **[Videography & Content Creation Intern](https://jobright.ai/jobs/info/69c85432b773006330b7ec80?utm_campaign=1053&utm_source=git)** | Bloomingdale, NJ | On Site | Mar 28 |
 | **[septième](https://www.linkedin.com/company/51033581)** | **[Coordonnateur·trice de production (stage)](https://jobright.ai/jobs/info/69c80d3ee565c26a7002d8d1?utm_campaign=1053&utm_source=git)** | Montreal, QC | On Site | Mar 28 |
 | ↳ | **[Assistant·e Monteur·euse, production (stage)](https://jobright.ai/jobs/info/69ab50ff7e1fab39d382e7dd?utm_campaign=1053&utm_source=git)** | Montreal, QC | On Site | Mar 28 |
-| **[Cossette](http://www.cossette.com)** | **[Directeur·trice artistique (Stage)](https://jobright.ai/jobs/info/69c808aae565c26a7002d371?utm_campaign=1053&utm_source=git)** | Montreal, QC | Hybrid | Mar 28 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[WABC - TV (ABC7) Programming Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69c7d85de565c26a7002c497?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Mar 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
