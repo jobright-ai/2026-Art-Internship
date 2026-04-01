@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Rock Events](https://rockevents.com/)** | **[Event Facilities Tech Intern - Summer 2026](https://jobright.ai/jobs/info/69793de552f3c27ec645937b?utm_campaign=1053&utm_source=git)** | Detroit, MI | On Site | Apr 01 |
+| **[Canyon Entertainment Group](https://canyonentertainmentgroup.com)** | **[Video Editing Internship](https://jobright.ai/jobs/info/69cd2277366bb95ba54f932d?utm_campaign=1053&utm_source=git)** | Canada | Remote | Apr 01 |
 | **[Soccer Shots Franchising](http://www.soccershotsfranchising.com)** | **[Soccer Shots Internship Spring Season 2025/2026](https://jobright.ai/jobs/info/69cd1ab5366bb95ba54f9075?utm_campaign=1053&utm_source=git)** | Carmel, IN | On Site | Apr 01 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[News Summer Internship- unpaid](https://jobright.ai/jobs/info/69c97db4e565c26a700357b9?utm_campaign=1053&utm_source=git)** | Columbus, OH | On Site | Apr 01 |
 | **[McClatchy Media](https://www.mcclatchy.com/)** | **[News Intern - Part-time](https://jobright.ai/jobs/info/6983cce901214b4cdacbced6?utm_campaign=1053&utm_source=git)** | San Luis Obispo, CA | On Site | Apr 01 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[GBH](http://www.wgbh.org/)** | **[GBH News Rooted Internship - Summer 2026](https://jobright.ai/jobs/info/69cccb95cdb525785fb82f34?utm_campaign=1053&utm_source=git)** | Boston, MA | Hybrid | Mar 28 |
 | **[Sinclair Inc.](http://sbgi.net/)** | **[News Intern](https://jobright.ai/jobs/info/69c8a064aa3c2c1995e1f795?utm_campaign=1053&utm_source=git)** | Oklahoma City, OK | On Site | Mar 27 |
 | **[Penguin Random House](https://www.penguinrandomhouse.com/)** | **[Associate Production Editor - (Open to remote)](https://jobright.ai/jobs/info/69c74751b773006330b776a9?utm_campaign=1053&utm_source=git)** | New York, United States | Remote | Mar 27 |
-| **[FloSports](http://www.flosports.tv/)** | **[Summer Internship - FloTrack/MileSplit](https://jobright.ai/jobs/info/69c73b51b773006330b771af?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | Mar 27 |
-| ↳ | **[Summer Internship - Content Video Production](https://jobright.ai/jobs/info/69c739daaa3c2c1995e1678f?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | Mar 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
