@@ -57,9 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[NoGood](https://nogood.io)** | **[Intern- Social Video Creator](https://jobright.ai/jobs/info/69cd738fcfdc6132f9418e83?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Apr 01 |
+| ↳ | **[Intern- Social Video Creator](https://jobright.ai/jobs/info/69cd7357891d7b11cfcb8f66?utm_campaign=1053&utm_source=git)** | New York, New York, United States | Hybrid | Apr 01 |
+| **[CBC/Radio-Canada](https://cbc.radio-canada.ca)** | **[Researcher (CMG) (Indigenous summer paid internship) (English Services)](https://jobright.ai/jobs/info/69cd7214891d7b11cfcb8cdd?utm_campaign=1053&utm_source=git)** | Prince George, BC | On Site | Apr 01 |
 | **[Power Digital Marketing](http://www.powerdigitalmarketing.com)** | **[Fashion Intern, Summer 2026](https://jobright.ai/jobs/info/69cd4ff4398fb071abf74107?utm_campaign=1053&utm_source=git)** | United States | Remote | Apr 01 |
 | **[Racine](http://www.racine.eu)** | **[Main Gallery Young Artist](https://jobright.ai/jobs/info/69cd4fcf891d7b11cfcb7bc8?utm_campaign=1053&utm_source=git)** | Racine, WI | On Site | Apr 01 |
 | **[Power Digital Marketing](http://www.powerdigitalmarketing.com)** | **[Fashion Intern, Summer 2026](https://jobright.ai/jobs/info/69cd478a398fb071abf7351c?utm_campaign=1053&utm_source=git)** | Remote - United States | Remote | Apr 01 |
+| **[Numerator](http://numerator.com)** | **[Zell Intern](https://jobright.ai/jobs/info/69cd6ab0366bb95ba54fbc5a?utm_campaign=1053&utm_source=git)** | Manhattan SNF - New York, NY | On Site | Apr 01 |
 | **[Radio-Canada](http://www.radio-canada.ca/)** | **[Researcher (CMG) (Indigenous summer paid internship) (English Services)](https://jobright.ai/jobs/info/69cd3c23cdb525785fb85e3d?utm_campaign=1053&utm_source=git)** | Prince George, BC | On Site | Apr 01 |
 | ↳ | **[Researcher (CMG) (Indigenous summer paid internship) (English Services)](https://jobright.ai/jobs/info/69cd3bda366bb95ba54f9cdc?utm_campaign=1053&utm_source=git)** | Victoria, BC | On Site | Apr 01 |
 | ↳ | **[Researcher (CMG) (Indigenous summer paid internship) (English Services)](https://jobright.ai/jobs/info/69cd3bd4398fb071abf7322f?utm_campaign=1053&utm_source=git)** | Prince Rupert, BC | On Site | Apr 01 |
@@ -145,7 +149,6 @@ For a complete list, click the following sortable link below:
 | **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Arborist Trainee Internship (2026) / Crystal Lake, IL](https://jobright.ai/jobs/info/69c9a7e5b773006330b88219?utm_campaign=1053&utm_source=git)** | Crystal Lake, IL | On Site | Mar 29 |
 | ↳ | **[Arborist Trainee Internship (2026) / Lake Bluff, IL](https://jobright.ai/jobs/info/69c9a7e383ea553769ff2b68?utm_campaign=1053&utm_source=git)** | Lake Bluff, IL | On Site | Mar 29 |
 | **[The Washington Post](http://www.washingtonpost.com/)** | **[Opinion Video Intern](https://jobright.ai/jobs/info/68caff29d905e25191d9e2c9?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Mar 29 |
-| **[Morris Elite Soccer Club](https://www.morriselitesoccer.com)** | **[2026 Summer Internship Program](https://jobright.ai/jobs/info/69c93396aa3c2c1995e23b08?utm_campaign=1053&utm_source=git)** | Madison, NJ | On Site | Mar 29 |
 | **[Kohler Hospitality](https://www.kohlerwisconsin.com/)** | **[Decor & Design Intern, Meeting and Events](https://jobright.ai/jobs/info/699fc5a5ce78e77b4fe5ac0f?utm_campaign=1053&utm_source=git)** | Kohler, WI | On Site | Mar 29 |
 | **[Decibel Made](http://decibelmade.com)** | **[Videography & Content Creation Intern](https://jobright.ai/jobs/info/69c85432b773006330b7ec80?utm_campaign=1053&utm_source=git)** | Bloomingdale, NJ | On Site | Mar 28 |
 | **[septième](https://www.linkedin.com/company/51033581)** | **[Coordonnateur·trice de production (stage)](https://jobright.ai/jobs/info/69c80d3ee565c26a7002d8d1?utm_campaign=1053&utm_source=git)** | Montreal, QC | On Site | Mar 28 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[WABC - TV (ABC7) Programming Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69c7d85de565c26a7002c497?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Mar 28 |
 | **[Colonial Williamsburg Foundation](https://www.colonialwilliamsburg.org/)** | **[Intern - Fife & Drum](https://jobright.ai/jobs/info/6789b384fade8859f716aab4?utm_campaign=1053&utm_source=git)** | Williamsburg, VA | On Site | Mar 28 |
 | **[IMG](http://img.com)** | **[Intern, Studios](https://jobright.ai/jobs/info/69ab38bd7e1fab39d382d1af?utm_campaign=1053&utm_source=git)** | Stamford, CT | On Site | Mar 28 |
-| **[The Reynolds and Reynolds Company](https://www.reyrey.com)** | **[Multimedia Production Specialist Intern](https://jobright.ai/jobs/info/69738c76206da320f49d8899?utm_campaign=1053&utm_source=git)** | Greater Houston | On Site | Mar 28 |
-| **[Universal Music Group](https://www.universalmusic.com)** | **[Universal Music Group 2026 Summer Internship Program: Creative & Operations (Onsite: TN)](https://jobright.ai/jobs/info/69ab73ef142d5b4265fca79d?utm_campaign=1053&utm_source=git)** | Nashville, TN | On Site | Mar 28 |
-| **[Sinclair Inc.](http://sbgi.net/)** | **[News Intern](https://jobright.ai/jobs/info/69c8a064aa3c2c1995e1f795?utm_campaign=1053&utm_source=git)** | Oklahoma City, OK | On Site | Mar 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
