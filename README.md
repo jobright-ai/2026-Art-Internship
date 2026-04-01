@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SiriusXM](http://siriusxm.com)** | **[Summer Intern, Talk Programming - Part-Time](https://jobright.ai/jobs/info/69cca3a0cfdc6132f941165b?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Mar 31 |
+| ↳ | **[Summer Intern, Talk Programming - Part-Time](https://jobright.ai/jobs/info/69cc98f2cdb525785fb7fbe3?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Mar 31 |
 | **[dnd video](http://dndvideo.com/)** | **[Content Creator](https://jobright.ai/jobs/info/69cc8beacdb525785fb7ecd4?utm_campaign=1053&utm_source=git)** | United States | Remote | Mar 31 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Yellow Shoes Planning Innovation Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69cc6c14e1921223acc75c0e?utm_campaign=1053&utm_source=git)** | Celebration, FL, USA | On Site | Mar 31 |
 | **[MobilizeGreen](https://www.mobilizegreen.org/)** | **[Park Intern – America 250 Commemoration Support](https://jobright.ai/jobs/info/69cc93aae1921223acc799ea?utm_campaign=1053&utm_source=git)** | Yorktown, VA | On Site | Mar 31 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[AM Best](https://www.ambest.com)** | **[2026 Summer Intern - Best's News](https://jobright.ai/jobs/info/6994aa3bce78e77b4fd8a926?utm_campaign=1053&utm_source=git)** | Oldwick, NJ | Hybrid | Mar 27 |
 | **[Minnesota Soccer Group](www.mnsoccergroup.com)** | **[AI Camera Operator / Matchday Media Specialist – Internship](https://jobright.ai/jobs/info/69c70a81e565c26a7002540c?utm_campaign=1053&utm_source=git)** | Minneapolis, MN | On Site | Mar 27 |
 | **[Toll Brothers](https://www.tollbrothers.com)** | **[2026 Internship Program: Assistant Framing Superintendent Intern](https://jobright.ai/jobs/info/69ab01e5142d5b4265fc427a?utm_campaign=1053&utm_source=git)** | Morrisville, PA | On Site | Mar 27 |
-| **[The Walters Art Museum](http://thewalters.org)** | **[Library Archives Intern (37815)](https://jobright.ai/jobs/info/69c6d7b083ea553769fde19d?utm_campaign=1053&utm_source=git)** | Walters Art Museum - Baltimore, MD 21201 | On Site | Mar 27 |
-| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Paid Intern - News](https://jobright.ai/jobs/info/69aa34642ebd316bece1f7a9?utm_campaign=1053&utm_source=git)** | Joplin, MO | On Site | Mar 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
