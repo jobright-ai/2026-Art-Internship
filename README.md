@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[City of Philadelphia](http://www.phila.gov/)** | **[Historical Preservation Intern](https://jobright.ai/jobs/info/69cdacce891d7b11cfcbec3a?utm_campaign=1053&utm_source=git)** | 1515 Arch St, Philadelphia, PA 19102, USA | On Site | Apr 01 |
+| **[Hearst Newspapers](https://eevd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_15)** | **[WISN Summer Intern](https://jobright.ai/jobs/info/69cdac6b398fb071abf7b08d?utm_campaign=1053&utm_source=git)** | 759 North 19th Street, Milwaukee, WI, 53233, US | On Site | Apr 01 |
+| **[WLEX-TV](http://lex18.com)** | **[Production Intern (SUMMER) - WLEX-TV](https://jobright.ai/jobs/info/69cda583cdb525785fb8d620?utm_campaign=1053&utm_source=git)** | Lexington, KY | On Site | Apr 01 |
+| **[Respect My Region](https://www.respectmyregion.com)** | **[Music and Sports Editor Internship](https://jobright.ai/jobs/info/69cd9af6891d7b11cfcbde82?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Remote | Apr 01 |
+| **[Bluefox Production](www.bluefoxproduction.com/socials)** | **[Live Event Production - Intern](https://jobright.ai/jobs/info/69cd92e3398fb071abf7a2e2?utm_campaign=1053&utm_source=git)** | Overland Park, KS | On Site | Apr 01 |
 | **[Ryan Lawn & Tree](http://ryanlawn.com)** | **[Summer Intern - Tulsa](https://jobright.ai/jobs/info/69cd8c99366bb95ba550039c?utm_campaign=1053&utm_source=git)** | Broken Arrow,OK,US | On Site | Apr 01 |
 | **[VIZ Media](http://www.viz.com)** | **[Video Intern (P/T, Paid)](https://jobright.ai/jobs/info/69cd7d42cdb525785fb885c9?utm_campaign=1053&utm_source=git)** | San Francisco, California, United States | On Site | Apr 01 |
 | **[NoGood](https://nogood.io)** | **[Intern- Social Video Creator](https://jobright.ai/jobs/info/69cd7357891d7b11cfcb8f66?utm_campaign=1053&utm_source=git)** | New York, New York, United States | Hybrid | Apr 01 |
@@ -66,13 +71,13 @@ For a complete list, click the following sortable link below:
 | **[Power Digital Marketing](http://www.powerdigitalmarketing.com)** | **[Fashion Intern, Summer 2026](https://jobright.ai/jobs/info/69cd4ff4398fb071abf74107?utm_campaign=1053&utm_source=git)** | United States | Remote | Apr 01 |
 | **[Racine](http://www.racine.eu)** | **[Main Gallery Young Artist](https://jobright.ai/jobs/info/69cd4fcf891d7b11cfcb7bc8?utm_campaign=1053&utm_source=git)** | Racine, WI | On Site | Apr 01 |
 | **[Power Digital Marketing](http://www.powerdigitalmarketing.com)** | **[Fashion Intern, Summer 2026](https://jobright.ai/jobs/info/69cd478a398fb071abf7351c?utm_campaign=1053&utm_source=git)** | Remote - United States | Remote | Apr 01 |
-| **[Numerator](http://numerator.com)** | **[Zell Intern](https://jobright.ai/jobs/info/69cd8ec9366bb95ba55004f6?utm_campaign=1053&utm_source=git)** | Manhattan SNF - New York, NY | On Site | Apr 01 |
 | **[Kalahari Resorts & Conventions](http://www.kalahariresorts.com)** | **[Culinary & Pastry Internship](https://jobright.ai/jobs/info/68e6aeefe8daec61499ad5dd?utm_campaign=1053&utm_source=git)** | Pocono, PA | On Site | Apr 01 |
 | **[Radio-Canada](http://www.radio-canada.ca/)** | **[Researcher (CMG) (Indigenous summer paid internship) (English Services)](https://jobright.ai/jobs/info/69cd3c23cdb525785fb85e3d?utm_campaign=1053&utm_source=git)** | Prince George, BC | On Site | Apr 01 |
 | ↳ | **[Researcher (CMG) (Indigenous summer paid internship) (English Services)](https://jobright.ai/jobs/info/69cd3bda366bb95ba54f9cdc?utm_campaign=1053&utm_source=git)** | Victoria, BC | On Site | Apr 01 |
 | ↳ | **[Researcher (CMG) (Indigenous summer paid internship) (English Services)](https://jobright.ai/jobs/info/69cd3bd4398fb071abf7322f?utm_campaign=1053&utm_source=git)** | Prince Rupert, BC | On Site | Apr 01 |
 | ↳ | **[Researcher (CMG) (Indigenous summer paid internship) (English Services)](https://jobright.ai/jobs/info/69cd3bc254f00230c6ced68e?utm_campaign=1053&utm_source=git)** | Kelowna, BC | On Site | Apr 01 |
 | ↳ | **[Researcher (CMG) (Indigenous summer paid internship) (English Services)](https://jobright.ai/jobs/info/69cd3bc2cfdc6132f94169ee?utm_campaign=1053&utm_source=git)** | Kamloops, BC | On Site | Apr 01 |
+| **[Kalahari Resorts & Conventions](http://www.kalahariresorts.com)** | **[Culinary & Pastry Internship](https://jobright.ai/jobs/info/68e6b6cb1852e62f0081dcbc?utm_campaign=1053&utm_source=git)** | Sandusky, OH | On Site | Apr 01 |
 | **[Vistra Corp.](https://vistracorp.com)** | **[Summer Production Intern - Forney Plant](https://jobright.ai/jobs/info/699553b3ce78e77b4fd972cd?utm_campaign=1053&utm_source=git)** | Forney, TX | On Site | Apr 01 |
 | **[The Huntington](http://www.huntington.org/)** | **[Getty Marrow Art Museum Collections Management Intern](https://jobright.ai/jobs/info/69b62c683b74eb1e2c83e3f6?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Apr 01 |
 | **[Rock Events](https://rockevents.com/)** | **[Event Facilities Tech Intern - Summer 2026](https://jobright.ai/jobs/info/69793de552f3c27ec645937b?utm_campaign=1053&utm_source=git)** | Detroit, MI | On Site | Apr 01 |
@@ -90,7 +95,8 @@ For a complete list, click the following sortable link below:
 | **[MobilizeGreen](https://www.mobilizegreen.org/)** | **[Park Intern – America 250 Commemoration Support](https://jobright.ai/jobs/info/69cc93aae1921223acc799ea?utm_campaign=1053&utm_source=git)** | Yorktown, VA | On Site | Mar 31 |
 | **[Cosmic Bay Studios](https://www.linkedin.com/company/105924616)** | **[3D Artist Intern – Animation](https://jobright.ai/jobs/info/69cc9366366bb95ba54f312e?utm_campaign=1053&utm_source=git)** | United States | Remote | Mar 31 |
 | **[Creighton Farms](https://creightonfarms.com/)** | **[Experience & Events Intern](https://jobright.ai/jobs/info/69cc915ccdb525785fb7f237?utm_campaign=1053&utm_source=git)** | Aldie, VA | On Site | Mar 31 |
-| ↳ | **[Experience & Events Intern](https://jobright.ai/jobs/info/69cc4fd48130af1ac8337c5e?utm_campaign=1053&utm_source=git)** | ALDIE, VA 20105 | On Site | Mar 31 |
+| **[Waco Tribune-Herald](http://wacotrib.com)** | **[Reporter Intern](https://jobright.ai/jobs/info/69cda7f2cdb525785fb8d6d9?utm_campaign=1053&utm_source=git)** | Ann Arbor, MI | On Site | Mar 31 |
+| **[Creighton Farms](https://creightonfarms.com/)** | **[Experience & Events Intern](https://jobright.ai/jobs/info/69cc4fd48130af1ac8337c5e?utm_campaign=1053&utm_source=git)** | ALDIE, VA 20105 | On Site | Mar 31 |
 | **[Boston Globe Media](http://www.bostonglobe.com)** | **[Editorial Intern, Boston Magazine](https://jobright.ai/jobs/info/69cc3c97366bb95ba54ee60a?utm_campaign=1053&utm_source=git)** | Boston, MA 02109, USA | Hybrid | Mar 31 |
 | **[City of Greenwood Village](https://greenwoodvillage.com)** | **[Seasonal Recreation Intern](https://jobright.ai/jobs/info/69cc653d891d7b11cfcac232?utm_campaign=1053&utm_source=git)** | Greenwood Village, CO | On Site | Mar 31 |
 | **[Boston Globe Media](http://www.bostonglobe.com)** | **[Editorial Intern, Boston Magazine](https://jobright.ai/jobs/info/69cc875ee1921223acc78c5e?utm_campaign=1053&utm_source=git)** | Boston, MA | Hybrid | Mar 31 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Quanta Books](www.quantabooks.org)** | **[Editorial Intern](https://jobright.ai/jobs/info/693c868750bbaf76504fbe50?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Mar 30 |
 | **[Saint Xavier University](http://www.sxu.edu/)** | **[Xavierite Copy Editor - Student Employment](https://jobright.ai/jobs/info/69ca35a1aa3c2c1995e2b3cb?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Mar 29 |
 | **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Arborist Trainee Internship (2026) / Crystal Lake, IL](https://jobright.ai/jobs/info/69c9a7e5b773006330b88219?utm_campaign=1053&utm_source=git)** | Crystal Lake, IL | On Site | Mar 29 |
-| ↳ | **[Arborist Trainee Internship (2026) / Lake Bluff, IL](https://jobright.ai/jobs/info/69c9a7e383ea553769ff2b68?utm_campaign=1053&utm_source=git)** | Lake Bluff, IL | On Site | Mar 29 |
-| **[The Washington Post](http://www.washingtonpost.com/)** | **[Opinion Video Intern](https://jobright.ai/jobs/info/68caff29d905e25191d9e2c9?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Mar 29 |
-| **[Kohler Hospitality](https://www.kohlerwisconsin.com/)** | **[Decor & Design Intern, Meeting and Events](https://jobright.ai/jobs/info/699fc5a5ce78e77b4fe5ac0f?utm_campaign=1053&utm_source=git)** | Kohler, WI | On Site | Mar 29 |
-| **[Decibel Made](http://decibelmade.com)** | **[Videography & Content Creation Intern](https://jobright.ai/jobs/info/69c85432b773006330b7ec80?utm_campaign=1053&utm_source=git)** | Bloomingdale, NJ | On Site | Mar 28 |
-| **[septième](https://www.linkedin.com/company/51033581)** | **[Coordonnateur·trice de production (stage)](https://jobright.ai/jobs/info/69c80d3ee565c26a7002d8d1?utm_campaign=1053&utm_source=git)** | Montreal, QC | On Site | Mar 28 |
-| ↳ | **[Assistant·e Monteur·euse, production (stage)](https://jobright.ai/jobs/info/69ab50ff7e1fab39d382e7dd?utm_campaign=1053&utm_source=git)** | Montreal, QC | On Site | Mar 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
