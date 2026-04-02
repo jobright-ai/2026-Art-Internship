@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Koniag Government Services](https://www.koniag-gs.com/)** | **[Intern - Proposal Editor](https://jobright.ai/jobs/info/69b1c074548f140066e7840f?utm_campaign=1053&utm_source=git)** | Chantilly, VA | Remote | Apr 02 |
 | **[Pickle](https://www.shoponpickle.com)** | **[Events & Community Summer Intern (NYC)](https://jobright.ai/jobs/info/69ce2a5b54f00230c6cfc422?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Apr 02 |
+| **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[Her Campus Wellness Editorial Intern - Summer 2026](https://jobright.ai/jobs/info/69ce3546366bb95ba5508eb9?utm_campaign=1053&utm_source=git)** | United States | Remote | Apr 02 |
 | **[NVE Experience Agency](http://experiencenve.com)** | **[Event Production Summer Internship](https://jobright.ai/jobs/info/69cdf5e5398fb071abf7fbce?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 01 |
 | **[Valo Media](teamvalomedia.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/69cdecc5398fb071abf7e25a?utm_campaign=1053&utm_source=git)** | Grand Rapids Metro | On Site | Apr 01 |
 | **[WISN-TV](https://www.wisn.com)** | **[WISN Summer Intern](https://jobright.ai/jobs/info/69cde87bcdb525785fb90481?utm_campaign=1053&utm_source=git)** | Milwaukee, WI | On Site | Apr 01 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Globe Pequot Publishing Group](www.GlobePequot.com)** | **[Internship - Globe](https://jobright.ai/jobs/info/69cab8591b5ad028873a42f9?utm_campaign=1053&utm_source=git)** | Essex, CT, US | On Site | Mar 30 |
 | **[VIVA USA Inc.](https://www.viva-it.com)** | **[Video Editor Intern OR Film Intern](https://jobright.ai/jobs/info/69ca9bdaa8c1822476e1e334?utm_campaign=1053&utm_source=git)** | Lexington, NC | On Site | Mar 30 |
 | **[ComTec Information Systems (IT)](http://comtecinfo.com)** | **[Filming Project Intern](https://jobright.ai/jobs/info/69ca8992aa3c2c1995e2d84c?utm_campaign=1053&utm_source=git)** | Lexington, NC | On Site | Mar 30 |
-| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Intern](https://jobright.ai/jobs/info/69ca87138fc6090c5d44e5e1?utm_campaign=1053&utm_source=git)** | Amarillo, TX | On Site | Mar 30 |
-| **[The Borgen Project](http://borgenproject.org)** | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/69ca69e08fc6090c5d44da0e?utm_campaign=1053&utm_source=git)** | Madison, WI | Remote | Mar 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
