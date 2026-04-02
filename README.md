@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Abuse Refuge Org. (ARO)](https://GoARO.org)** | **[Special Projects Intern (Volunteer/Remote)](https://jobright.ai/jobs/info/69cebc80366bb95ba550edec?utm_campaign=1053&utm_source=git)** | 480 Olde Worthington Rd, Westerville, OH 43082, USA | Remote | Apr 02 |
 | **[Temple Square Hospitality Corporation](http://templesquarehospitality.com)** | **[KSL Sports Summer Internship](https://jobright.ai/jobs/info/69cead4e366bb95ba550deaf?utm_campaign=1053&utm_source=git)** | SLC Triad Center | On Site | Apr 02 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Disney Entertainment Television Communication Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69cea662891d7b11cfccadb3?utm_campaign=1053&utm_source=git)** | Burbank, CA, USA | Hybrid | Apr 02 |
 | **[Golden Hippo®](https://www.huntrealestate.com/)** | **[Art Production Assistant Intern](https://jobright.ai/jobs/info/69c5d8bd1b5ad0288737a4eb?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 02 |
@@ -68,7 +69,6 @@ For a complete list, click the following sortable link below:
 | **[Kohler Hospitality](https://www.kohlerwisconsin.com/)** | **[Pro Golf Management Intern, Blackwolf Run](https://jobright.ai/jobs/info/69ce552c891d7b11cfcc7e5a?utm_campaign=1053&utm_source=git)** | Kohler, WI | On Site | Apr 02 |
 | **[McClatchy Media](https://www.mcclatchy.com/)** | **[News Intern - Mahoning Matters Summer 2026](https://jobright.ai/jobs/info/69b1c669548f140066e7921c?utm_campaign=1053&utm_source=git)** | United States | Remote | Apr 02 |
 | **[Koniag Government Services](https://www.koniag-gs.com/)** | **[Intern - Proposal Editor](https://jobright.ai/jobs/info/69b1c074548f140066e7840f?utm_campaign=1053&utm_source=git)** | Chantilly, VA | Remote | Apr 02 |
-| **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[Her Campus Wellness Editorial Intern - Summer 2026](https://jobright.ai/jobs/info/69ce3546366bb95ba5508eb9?utm_campaign=1053&utm_source=git)** | United States | Remote | Apr 02 |
 | **[NVE Experience Agency](http://experiencenve.com)** | **[Event Production Summer Internship](https://jobright.ai/jobs/info/69cdf5e5398fb071abf7fbce?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 01 |
 | **[Valo Media](teamvalomedia.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/69cdecc5398fb071abf7e25a?utm_campaign=1053&utm_source=git)** | Grand Rapids Metro | On Site | Apr 01 |
 | **[WISN-TV](https://www.wisn.com)** | **[WISN Summer Intern](https://jobright.ai/jobs/info/69cde87bcdb525785fb90481?utm_campaign=1053&utm_source=git)** | Milwaukee, WI | On Site | Apr 01 |
