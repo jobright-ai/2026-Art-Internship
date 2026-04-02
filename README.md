@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Radio-Canada](http://www.radio-canada.ca/)** | **[Researcher (CMG) (Indigenous summer paid internship) (English Services)](https://jobright.ai/jobs/info/69cde09b366bb95ba5503daf?utm_campaign=1053&utm_source=git)** | Prince George, BC | On Site | Apr 01 |
 | **[NVE Experience Agency](http://experiencenve.com)** | **[Event Production Summer Internship](https://jobright.ai/jobs/info/69cdb994398fb071abf7b976?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 01 |
 | **[City of Philadelphia](http://www.phila.gov/)** | **[Historical Preservation Intern](https://jobright.ai/jobs/info/69cdacce891d7b11cfcbec3a?utm_campaign=1053&utm_source=git)** | 1515 Arch St, Philadelphia, PA 19102, USA | On Site | Apr 01 |
 | **[Hearst Newspapers](https://eevd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_15)** | **[WISN Summer Intern](https://jobright.ai/jobs/info/69cdac6b398fb071abf7b08d?utm_campaign=1053&utm_source=git)** | 759 North 19th Street, Milwaukee, WI, 53233, US | On Site | Apr 01 |
@@ -64,6 +65,8 @@ For a complete list, click the following sortable link below:
 | **[Respect My Region](https://www.respectmyregion.com)** | **[Music and Sports Editor Internship](https://jobright.ai/jobs/info/69cd9af6891d7b11cfcbde82?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Remote | Apr 01 |
 | **[Bluefox Production](www.bluefoxproduction.com/socials)** | **[Live Event Production - Intern](https://jobright.ai/jobs/info/69cd92e3398fb071abf7a2e2?utm_campaign=1053&utm_source=git)** | Overland Park, KS | On Site | Apr 01 |
 | **[Ryan Lawn & Tree](http://ryanlawn.com)** | **[Summer Intern - Tulsa](https://jobright.ai/jobs/info/69cd8c99366bb95ba550039c?utm_campaign=1053&utm_source=git)** | Broken Arrow,OK,US | On Site | Apr 01 |
+| **[Chicago Sky WNBA](http://chicagosky.net)** | **[Chicago Sky PR/Communications Game Day Intern (FOR EDUCATIONAL CREDIT)](https://jobright.ai/jobs/info/69cddf6ccdb525785fb8fd22?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Apr 01 |
+| **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69cddb7fcfdc6132f942084d?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | Apr 01 |
 | **[VIZ Media](http://www.viz.com)** | **[Video Intern (P/T, Paid)](https://jobright.ai/jobs/info/69cd7d42cdb525785fb885c9?utm_campaign=1053&utm_source=git)** | San Francisco, California, United States | On Site | Apr 01 |
 | **[NoGood](https://nogood.io)** | **[Intern- Social Video Creator](https://jobright.ai/jobs/info/69cd7357891d7b11cfcb8f66?utm_campaign=1053&utm_source=git)** | New York, New York, United States | Hybrid | Apr 01 |
 | **[CBC/Radio-Canada](https://cbc.radio-canada.ca)** | **[Researcher (CMG) (Indigenous summer paid internship) (English Services)](https://jobright.ai/jobs/info/69cd7214891d7b11cfcb8cdd?utm_campaign=1053&utm_source=git)** | Prince George, BC | On Site | Apr 01 |
@@ -126,7 +129,6 @@ For a complete list, click the following sortable link below:
 | **[Omnicom Health](http://www.omnicomhealthgroup.com/)** | **[2026 Bold Beginners - Editorial Intern](https://jobright.ai/jobs/info/69b186e1548f140066e75ea6?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Mar 31 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[C3 Presents - Festival Operation & Sustainability Intern](https://jobright.ai/jobs/info/69af177ddfaeda6ff5971ac1?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | Mar 31 |
 | **[SEMAFOR](https://www.semafor.com)** | **[Editorial Event Producer](https://jobright.ai/jobs/info/6992fb99ce78e77b4fd6cd83?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Mar 31 |
-| **[GZTV](www.gztvnetwork.com)** | **[Film Editor Intern](https://jobright.ai/jobs/info/69cbd4a0366bb95ba54ec67f?utm_campaign=1053&utm_source=git)** | Atlanta, GA | Hybrid | Mar 31 |
 | **[Snowflake](https://www.snowflake.com)** | **[Video Production Intern - Summer 2026](https://jobright.ai/jobs/info/69afe016dfaeda6ff598d92a?utm_campaign=1053&utm_source=git)** | Menlo Park, CA | On Site | Mar 31 |
 | **[South Carolina Department of Employment and Workforce](http://dew.sc.gov)** | **[Production Intern- Columbia](https://jobright.ai/jobs/info/69cc95a5366bb95ba54f35ac?utm_campaign=1053&utm_source=git)** | Richland County, SC | On Site | Mar 30 |
 | **[Place Showroom](http://placeshowroom.com)** | **[LA Internship Summer 2026](https://jobright.ai/jobs/info/69cb2ea08fc6090c5d455908?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Mar 30 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/69ca614eaa3c2c1995e2ca9c?utm_campaign=1053&utm_source=git)** | Muncie, IN | Remote | Mar 30 |
 | ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/69ca5edb1b5ad028873a1079?utm_campaign=1053&utm_source=git)** | Las Cruces, NM | Remote | Mar 30 |
 | ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/69ca5d608fc6090c5d44d114?utm_campaign=1053&utm_source=git)** | Jackson, MS | Remote | Mar 30 |
-| ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/69ca5d5fa8c1822476e1c173?utm_campaign=1053&utm_source=git)** | Kingston, RI | Remote | Mar 30 |
-| **[Quanta Books](www.quantabooks.org)** | **[Editorial Intern](https://jobright.ai/jobs/info/693c868750bbaf76504fbe50?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Mar 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
