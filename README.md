@@ -70,7 +70,6 @@ For a complete list, click the following sortable link below:
 | **[VIZ Media](http://www.viz.com)** | **[Video Intern (P/T, Paid)](https://jobright.ai/jobs/info/69cd8546398fb071abf783ed?utm_campaign=1053&utm_source=git)** | San Francisco, CA | On Site | Apr 01 |
 | **[Alaka`ina Foundation Family of Companies](https://www.alakainafoundation.com/)** | **[Part Time Writer - Intern](https://jobright.ai/jobs/info/69b045980b2db6275c03e142?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | Apr 01 |
 | **[Social View Agency](https://www.linkedin.com/company/81888485)** | **[Content Creator Intern](https://jobright.ai/jobs/info/69cdb0e0398fb071abf7b555?utm_campaign=1053&utm_source=git)** | Queens, NY | On Site | Apr 01 |
-| **[7th Empire Media](http://7thempiremedia.com/)** | **[Production and Social Media Assistant (Hot Docs Premiere)](https://jobright.ai/jobs/info/69cd74f454f00230c6cef98f?utm_campaign=1053&utm_source=git)** | Toronto, ON | On Site | Apr 01 |
 | **[Power Digital Marketing](http://www.powerdigitalmarketing.com)** | **[Fashion Intern, Summer 2026](https://jobright.ai/jobs/info/69cd4ff4398fb071abf74107?utm_campaign=1053&utm_source=git)** | United States | Remote | Apr 01 |
 | **[Racine](http://www.racine.eu)** | **[Main Gallery Young Artist](https://jobright.ai/jobs/info/69cd4fcf891d7b11cfcb7bc8?utm_campaign=1053&utm_source=git)** | Racine, WI | On Site | Apr 01 |
 | **[Power Digital Marketing](http://www.powerdigitalmarketing.com)** | **[Fashion Intern, Summer 2026](https://jobright.ai/jobs/info/69cd478a398fb071abf7351c?utm_campaign=1053&utm_source=git)** | Remote - United States | Remote | Apr 01 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/69ca5edb1b5ad028873a1079?utm_campaign=1053&utm_source=git)** | Las Cruces, NM | Remote | Mar 30 |
 | ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/69ca5d608fc6090c5d44d114?utm_campaign=1053&utm_source=git)** | Jackson, MS | Remote | Mar 30 |
 | ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/69ca5d5fa8c1822476e1c173?utm_campaign=1053&utm_source=git)** | Kingston, RI | Remote | Mar 30 |
+| **[Quanta Books](www.quantabooks.org)** | **[Editorial Intern](https://jobright.ai/jobs/info/693c868750bbaf76504fbe50?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Mar 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
