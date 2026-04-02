@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Valo Media](teamvalomedia.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/69cdecc5398fb071abf7e25a?utm_campaign=1053&utm_source=git)** | Grand Rapids Metro | On Site | Apr 01 |
+| **[WISN-TV](https://www.wisn.com)** | **[WISN Summer Intern](https://jobright.ai/jobs/info/69cde87bcdb525785fb90481?utm_campaign=1053&utm_source=git)** | Milwaukee, WI | On Site | Apr 01 |
 | **[Radio-Canada](http://www.radio-canada.ca/)** | **[Researcher (CMG) (Indigenous summer paid internship) (English Services)](https://jobright.ai/jobs/info/69cde09b366bb95ba5503daf?utm_campaign=1053&utm_source=git)** | Prince George, BC | On Site | Apr 01 |
 | **[NVE Experience Agency](http://experiencenve.com)** | **[Event Production Summer Internship](https://jobright.ai/jobs/info/69cdb994398fb071abf7b976?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 01 |
 | **[City of Philadelphia](http://www.phila.gov/)** | **[Historical Preservation Intern](https://jobright.ai/jobs/info/69cdacce891d7b11cfcbec3a?utm_campaign=1053&utm_source=git)** | 1515 Arch St, Philadelphia, PA 19102, USA | On Site | Apr 01 |
@@ -80,8 +82,8 @@ For a complete list, click the following sortable link below:
 | **[Radio-Canada](http://www.radio-canada.ca/)** | **[Researcher (CMG) (Indigenous summer paid internship) (English Services)](https://jobright.ai/jobs/info/69cd3c23cdb525785fb85e3d?utm_campaign=1053&utm_source=git)** | Prince George, BC | On Site | Apr 01 |
 | ↳ | **[Researcher (CMG) (Indigenous summer paid internship) (English Services)](https://jobright.ai/jobs/info/69cd3bda366bb95ba54f9cdc?utm_campaign=1053&utm_source=git)** | Victoria, BC | On Site | Apr 01 |
 | ↳ | **[Researcher (CMG) (Indigenous summer paid internship) (English Services)](https://jobright.ai/jobs/info/69cd3bd4398fb071abf7322f?utm_campaign=1053&utm_source=git)** | Prince Rupert, BC | On Site | Apr 01 |
-| ↳ | **[Researcher (CMG) (Indigenous summer paid internship) (English Services)](https://jobright.ai/jobs/info/69cd3bc2cfdc6132f94169ee?utm_campaign=1053&utm_source=git)** | Kamloops, BC | On Site | Apr 01 |
 | ↳ | **[Researcher (CMG) (Indigenous summer paid internship) (English Services)](https://jobright.ai/jobs/info/69cd3bc254f00230c6ced68e?utm_campaign=1053&utm_source=git)** | Kelowna, BC | On Site | Apr 01 |
+| ↳ | **[Researcher (CMG) (Indigenous summer paid internship) (English Services)](https://jobright.ai/jobs/info/69cd3bc2cfdc6132f94169ee?utm_campaign=1053&utm_source=git)** | Kamloops, BC | On Site | Apr 01 |
 | **[Kalahari Resorts & Conventions](http://www.kalahariresorts.com)** | **[Culinary & Pastry Internship](https://jobright.ai/jobs/info/68e6b6cb1852e62f0081dcbc?utm_campaign=1053&utm_source=git)** | Sandusky, OH | On Site | Apr 01 |
 | **[Vistra Corp.](https://vistracorp.com)** | **[Summer Production Intern - Forney Plant](https://jobright.ai/jobs/info/699553b3ce78e77b4fd972cd?utm_campaign=1053&utm_source=git)** | Forney, TX | On Site | Apr 01 |
 | **[The Huntington](http://www.huntington.org/)** | **[Getty Marrow Art Museum Collections Management Intern](https://jobright.ai/jobs/info/69b62c683b74eb1e2c83e3f6?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Apr 01 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/69ca69d88fc6090c5d44da0a?utm_campaign=1053&utm_source=git)** | Madison, SD | Remote | Mar 30 |
 | ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/69ca69bcaa3c2c1995e2cc43?utm_campaign=1053&utm_source=git)** | Ottawa, KS | Remote | Mar 30 |
 | ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/69ca614eaa3c2c1995e2ca9c?utm_campaign=1053&utm_source=git)** | Muncie, IN | Remote | Mar 30 |
-| ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/69ca5edb1b5ad028873a1079?utm_campaign=1053&utm_source=git)** | Las Cruces, NM | Remote | Mar 30 |
-| ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/69ca5d608fc6090c5d44d114?utm_campaign=1053&utm_source=git)** | Jackson, MS | Remote | Mar 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
