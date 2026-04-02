@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Abuse Refuge Org. (ARO)](https://GoARO.org)** | **[Special Projects Intern (Volunteer/Remote)](https://jobright.ai/jobs/info/69ceeb1ecdb525785fb9d107?utm_campaign=1053&utm_source=git)** | Westerville, OH | Remote | Apr 02 |
+| **[Bonneville International](http://bonneville.com/)** | **[KSL Sports Summer Internship](https://jobright.ai/jobs/info/69cee6ed398fb071abf8a873?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Apr 02 |
+| **[GrantAide](https://www.linkedin.com/company/69304819)** | **[Internship for Creative Video & Animation](https://jobright.ai/jobs/info/69cee6d4891d7b11cfcce21a?utm_campaign=1053&utm_source=git)** | San Francisco Bay Area | Remote | Apr 02 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Paid Intern – Liahona Digital Content Writer/Creator](https://jobright.ai/jobs/info/69cee12d366bb95ba551070a?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT, United States | Hybrid | Apr 02 |
 | **[Buffalo Toronto Public Media](https://www.wned.org)** | **[Internship - Radio News Production](https://jobright.ai/jobs/info/69cee106366bb95ba5510604?utm_campaign=1053&utm_source=git)** | 140 Lower Terrace, Buffalo, NY 14202, USA | Hybrid | Apr 02 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Paid Intern – Liahona Digital Content Writer/Creator](https://jobright.ai/jobs/info/69cedcbbcfdc6132f942d2d9?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | Hybrid | Apr 02 |
@@ -71,7 +74,8 @@ For a complete list, click the following sortable link below:
 | **[evanhealy](http://evanhealy.com)** | **[Creative story-teller + social media content intern](https://jobright.ai/jobs/info/69ced94754f00230c6d03eee?utm_campaign=1053&utm_source=git)** | Carlsbad, CA | On Site | Apr 02 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Disney Entertainment Television Communication Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69cea662891d7b11cfccadb3?utm_campaign=1053&utm_source=git)** | Burbank, CA, USA | Hybrid | Apr 02 |
 | **[Golden Hippo®](https://www.huntrealestate.com/)** | **[Art Production Assistant Intern](https://jobright.ai/jobs/info/69c5d8bd1b5ad0288737a4eb?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 02 |
-| ↳ | **[Video Editor Intern](https://jobright.ai/jobs/info/69b3218ea8ac8e70ff674f97?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 02 |
+| **[Golden Pet Brands](www.goldenpetbrands.com)** | **[Intern, Video Editor - Summer 2026](https://jobright.ai/jobs/info/69c2b9a8ec22f8310ab09d13?utm_campaign=1053&utm_source=git)** | Los Angeles, California, United States | Hybrid | Apr 02 |
+| **[Golden Hippo®](https://www.huntrealestate.com/)** | **[Video Editor Intern](https://jobright.ai/jobs/info/69b3218ea8ac8e70ff674f97?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 02 |
 | **[SOLV Energy](https://www.solvenergy.com/)** | **[Video Editor & Digital Media Intern](https://jobright.ai/jobs/info/695f49f10badca5763afc667?utm_campaign=1053&utm_source=git)** | San Diego, CA | On Site | Apr 02 |
 | **[Destination by Hyatt](https://www.thewoodmark.com/still-spa.htm)** | **[Turf Internship – The Club at Spruce Peak – Summer 2026](https://jobright.ai/jobs/info/69b623713b74eb1e2c83dc6c?utm_campaign=1053&utm_source=git)** | Stowe, VT | On Site | Apr 02 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Yellow Shoes Planning Innovation Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69ce5fe2398fb071abf847fd?utm_campaign=1053&utm_source=git)** | Celebration, FL | On Site | Apr 02 |
@@ -120,7 +124,6 @@ For a complete list, click the following sortable link below:
 | **[Ellucian](http://www.ellucian.com)** | **[Video Internship (Undergraduate)](https://jobright.ai/jobs/info/6977e29c52f3c27ec6440a9c?utm_campaign=1053&utm_source=git)** | Reston, VA | Hybrid | Apr 01 |
 | **[Northside Hospital](http://www.northside.com)** | **[Department Intern](https://jobright.ai/jobs/info/69cd44fd366bb95ba54f9f7d?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Apr 01 |
 | **[The Jerusalem Fund For Education & Community Development](https://thejerusalemfund.org)** | **[Summer Intern](https://jobright.ai/jobs/info/69ccc1e4cfdc6132f941313b?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Mar 31 |
-| **[The KINN](www.thekinn.co)** | **[KINN Events & Media Technology Intern](https://jobright.ai/jobs/info/69ccb6f8891d7b11cfcb2798?utm_campaign=1053&utm_source=git)** | LA Metro Area | On Site | Mar 31 |
 | **[The Music Center](https://www.musiccenter.org/)** | **[Programming Intern](https://jobright.ai/jobs/info/69ccb2a1cfdc6132f94125ca?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, US | On Site | Mar 31 |
 | **[dnd video](http://dndvideo.com/)** | **[Content Creator](https://jobright.ai/jobs/info/69cc8beacdb525785fb7ecd4?utm_campaign=1053&utm_source=git)** | United States | Remote | Mar 31 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Yellow Shoes Planning Innovation Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69cc6c14e1921223acc75c0e?utm_campaign=1053&utm_source=git)** | Celebration, FL, USA | On Site | Mar 31 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Omnicom Health](http://www.omnicomhealthgroup.com/)** | **[2026 Bold Beginners - Editorial Intern](https://jobright.ai/jobs/info/69b186e1548f140066e75ea6?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Mar 31 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[C3 Presents - Festival Operation & Sustainability Intern](https://jobright.ai/jobs/info/69af177ddfaeda6ff5971ac1?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | Mar 31 |
 | **[SEMAFOR](https://www.semafor.com)** | **[Editorial Event Producer](https://jobright.ai/jobs/info/6992fb99ce78e77b4fd6cd83?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Mar 31 |
-| **[Snowflake](https://www.snowflake.com)** | **[Video Production Intern - Summer 2026](https://jobright.ai/jobs/info/69afe016dfaeda6ff598d92a?utm_campaign=1053&utm_source=git)** | Menlo Park, CA | On Site | Mar 31 |
-| **[South Carolina Department of Employment and Workforce](http://dew.sc.gov)** | **[Production Intern- Columbia](https://jobright.ai/jobs/info/69cc95a5366bb95ba54f35ac?utm_campaign=1053&utm_source=git)** | Richland County, SC | On Site | Mar 30 |
-| **[Place Showroom](http://placeshowroom.com)** | **[LA Internship Summer 2026](https://jobright.ai/jobs/info/69cb2ea08fc6090c5d455908?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Mar 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
