@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Oliver Mechanical Inc](https://olivermechanicalinc.com)** | **[Videography/Photography Summer Intern](https://jobright.ai/jobs/info/69ced232cfdc6132f942c96c?utm_campaign=1053&utm_source=git)** | Londonderry, NH | On Site | Apr 02 |
+| **[English Language and Literature](https://englishlanguageandliterature.com/)** | **[Web Content Writer](https://jobright.ai/jobs/info/69ced03a891d7b11cfcccd3b?utm_campaign=1053&utm_source=git)** | United States | Remote | Apr 02 |
+| **[Romontio](https://romontio.com/)** | **[Production Intern](https://jobright.ai/jobs/info/69cece8ecdb525785fb9b942?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Apr 02 |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Hello Iowa Intern (Unpaid)](https://jobright.ai/jobs/info/69cece39891d7b11cfcccc0d?utm_campaign=1053&utm_source=git)** | Des Moines, IA | On Site | Apr 02 |
 | **[Abuse Refuge Org. (ARO)](https://GoARO.org)** | **[Special Projects Intern (Volunteer/Remote)](https://jobright.ai/jobs/info/69cebc80366bb95ba550edec?utm_campaign=1053&utm_source=git)** | 480 Olde Worthington Rd, Westerville, OH 43082, USA | Remote | Apr 02 |
 | **[Temple Square Hospitality Corporation](http://templesquarehospitality.com)** | **[KSL Sports Summer Internship](https://jobright.ai/jobs/info/69cead4e366bb95ba550deaf?utm_campaign=1053&utm_source=git)** | SLC Triad Center | On Site | Apr 02 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Disney Entertainment Television Communication Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69cea662891d7b11cfccadb3?utm_campaign=1053&utm_source=git)** | Burbank, CA, USA | Hybrid | Apr 02 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Monocacy Wealth Management](https://monocacywm.com)** | **[YouTube Content Intern](https://jobright.ai/jobs/info/69cb2e3d466f1e133aacb9bc?utm_campaign=1053&utm_source=git)** | Arlington, VA | Hybrid | Mar 30 |
 | **[Studs](https://studs.com/)** | **[Apprentice Piercer](https://jobright.ai/jobs/info/69cb548a466f1e133aaccc7b?utm_campaign=1053&utm_source=git)** | Boston, MA | On Site | Mar 30 |
 | **[Golden Pet Brands](www.goldenpetbrands.com)** | **[Intern, Video Editor - Summer 2026](https://jobright.ai/jobs/info/69b86d2306c1ba00c54a5ea5?utm_campaign=1053&utm_source=git)** | Hybrid (North Hollywood, CA) | Hybrid | Mar 30 |
-| **[No Boring Brands](https://www.noboringbrands.co)** | **[Content Creator Intern](https://jobright.ai/jobs/info/69cb164de565c26a70044918?utm_campaign=1053&utm_source=git)** | Baltimore, MD | On Site | Mar 30 |
-| **[Denver Broncos Football Club](http://www.denverbroncos.com/)** | **[Video Production Intern](https://jobright.ai/jobs/info/69a931ff2580d3183f0163cc?utm_campaign=1053&utm_source=git)** | Englewood, CO | On Site | Mar 30 |
-| **[Twin Cities PBS](http://www.tpt.org)** | **[Public History & Digital Content Internship Summer 2026](https://jobright.ai/jobs/info/69cae3b58fc6090c5d4523f4?utm_campaign=1053&utm_source=git)** | St Paul, Minnesota, United States | Hybrid | Mar 30 |
-| **[Michigan State University](http://msu.edu)** | **[Assistant Director of Football Creative Video](https://jobright.ai/jobs/info/69caf1c9a8c1822476e2236f?utm_campaign=1053&utm_source=git)** | East Lansing, MI | On Site | Mar 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
