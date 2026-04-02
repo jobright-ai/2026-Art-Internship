@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SOLV Energy](https://www.solvenergy.com/)** | **[Video Editor & Digital Media Intern](https://jobright.ai/jobs/info/695f49f10badca5763afc667?utm_campaign=1053&utm_source=git)** | San Diego, CA | On Site | Apr 02 |
 | **[Destination by Hyatt](https://www.thewoodmark.com/still-spa.htm)** | **[Turf Internship – The Club at Spruce Peak – Summer 2026](https://jobright.ai/jobs/info/69b623713b74eb1e2c83dc6c?utm_campaign=1053&utm_source=git)** | Stowe, VT | On Site | Apr 02 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Yellow Shoes Planning Innovation Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69ce5fe2398fb071abf847fd?utm_campaign=1053&utm_source=git)** | Celebration, FL | On Site | Apr 02 |
 | **[Disney Experiences](https://disneyconnect.com/)** | **[Yellow Shoes Planning Innovation Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69ce5e38cfdc6132f9427a1d?utm_campaign=1053&utm_source=git)** | Celebration, FL | On Site | Apr 02 |
@@ -77,7 +78,6 @@ For a complete list, click the following sortable link below:
 | **[Respect My Region](https://www.respectmyregion.com)** | **[Music and Sports Editor Internship](https://jobright.ai/jobs/info/69cd9af6891d7b11cfcbde82?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Remote | Apr 01 |
 | **[Bluefox Production](www.bluefoxproduction.com/socials)** | **[Live Event Production - Intern](https://jobright.ai/jobs/info/69cd92e3398fb071abf7a2e2?utm_campaign=1053&utm_source=git)** | Overland Park, KS | On Site | Apr 01 |
 | **[Ryan Lawn & Tree](http://ryanlawn.com)** | **[Summer Intern - Tulsa](https://jobright.ai/jobs/info/69cd8c99366bb95ba550039c?utm_campaign=1053&utm_source=git)** | Broken Arrow,OK,US | On Site | Apr 01 |
-| **[Donor Alliance](https://www.donoralliance.org/)** | **[Special Events Intern](https://jobright.ai/jobs/info/69ce7adb891d7b11cfcc8c8e?utm_campaign=1053&utm_source=git)** | Denver, CO | On Site | Apr 01 |
 | **[Chicago Sky WNBA](http://chicagosky.net)** | **[Chicago Sky PR/Communications Game Day Intern (FOR EDUCATIONAL CREDIT)](https://jobright.ai/jobs/info/69cddf6ccdb525785fb8fd22?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Apr 01 |
 | **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69cddb7fcfdc6132f942084d?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | Apr 01 |
 | **[VIZ Media](http://www.viz.com)** | **[Video Intern (P/T, Paid)](https://jobright.ai/jobs/info/69cd7d42cdb525785fb885c9?utm_campaign=1053&utm_source=git)** | San Francisco, California, United States | On Site | Apr 01 |
@@ -94,8 +94,8 @@ For a complete list, click the following sortable link below:
 | **[Radio-Canada](http://www.radio-canada.ca/)** | **[Researcher (CMG) (Indigenous summer paid internship) (English Services)](https://jobright.ai/jobs/info/69cd3c23cdb525785fb85e3d?utm_campaign=1053&utm_source=git)** | Prince George, BC | On Site | Apr 01 |
 | ↳ | **[Researcher (CMG) (Indigenous summer paid internship) (English Services)](https://jobright.ai/jobs/info/69cd3bda366bb95ba54f9cdc?utm_campaign=1053&utm_source=git)** | Victoria, BC | On Site | Apr 01 |
 | ↳ | **[Researcher (CMG) (Indigenous summer paid internship) (English Services)](https://jobright.ai/jobs/info/69cd3bd4398fb071abf7322f?utm_campaign=1053&utm_source=git)** | Prince Rupert, BC | On Site | Apr 01 |
-| ↳ | **[Researcher (CMG) (Indigenous summer paid internship) (English Services)](https://jobright.ai/jobs/info/69cd3bc254f00230c6ced68e?utm_campaign=1053&utm_source=git)** | Kelowna, BC | On Site | Apr 01 |
 | ↳ | **[Researcher (CMG) (Indigenous summer paid internship) (English Services)](https://jobright.ai/jobs/info/69cd3bc2cfdc6132f94169ee?utm_campaign=1053&utm_source=git)** | Kamloops, BC | On Site | Apr 01 |
+| ↳ | **[Researcher (CMG) (Indigenous summer paid internship) (English Services)](https://jobright.ai/jobs/info/69cd3bc254f00230c6ced68e?utm_campaign=1053&utm_source=git)** | Kelowna, BC | On Site | Apr 01 |
 | **[Kalahari Resorts & Conventions](http://www.kalahariresorts.com)** | **[Culinary & Pastry Internship](https://jobright.ai/jobs/info/68e6b6cb1852e62f0081dcbc?utm_campaign=1053&utm_source=git)** | Sandusky, OH | On Site | Apr 01 |
 | **[Vistra Corp.](https://vistracorp.com)** | **[Summer Production Intern - Forney Plant](https://jobright.ai/jobs/info/699553b3ce78e77b4fd972cd?utm_campaign=1053&utm_source=git)** | Forney, TX | On Site | Apr 01 |
 | **[The Huntington](http://www.huntington.org/)** | **[Getty Marrow Art Museum Collections Management Intern](https://jobright.ai/jobs/info/69b62c683b74eb1e2c83e3f6?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Apr 01 |
