@@ -57,8 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Yellow Shoes Planning Innovation Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69ce5fe2398fb071abf847fd?utm_campaign=1053&utm_source=git)** | Celebration, FL | On Site | Apr 02 |
+| **[Disney Experiences](https://disneyconnect.com/)** | **[Yellow Shoes Planning Innovation Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69ce5e38cfdc6132f9427a1d?utm_campaign=1053&utm_source=git)** | Celebration, FL | On Site | Apr 02 |
 | **[Kohler Hospitality](https://www.kohlerwisconsin.com/)** | **[Pro Golf Management Intern, Blackwolf Run](https://jobright.ai/jobs/info/69ce552c891d7b11cfcc7e5a?utm_campaign=1053&utm_source=git)** | Kohler, WI | On Site | Apr 02 |
-| **[City of Greenwood Village](https://greenwoodvillage.com)** | **[Seasonal Recreation Intern](https://jobright.ai/jobs/info/69ce4799366bb95ba550a230?utm_campaign=1053&utm_source=git)** | Greenwood Village, CO | On Site | Apr 02 |
 | **[Koniag Government Services](https://www.koniag-gs.com/)** | **[Intern - Proposal Editor](https://jobright.ai/jobs/info/69b1c074548f140066e7840f?utm_campaign=1053&utm_source=git)** | Chantilly, VA | Remote | Apr 02 |
 | **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[Her Campus Wellness Editorial Intern - Summer 2026](https://jobright.ai/jobs/info/69ce3546366bb95ba5508eb9?utm_campaign=1053&utm_source=git)** | United States | Remote | Apr 02 |
 | **[NVE Experience Agency](http://experiencenve.com)** | **[Event Production Summer Internship](https://jobright.ai/jobs/info/69cdf5e5398fb071abf7fbce?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 01 |
@@ -111,8 +112,7 @@ For a complete list, click the following sortable link below:
 | **[Waco Tribune-Herald](http://wacotrib.com)** | **[Reporter Intern](https://jobright.ai/jobs/info/69cda7f2cdb525785fb8d6d9?utm_campaign=1053&utm_source=git)** | Ann Arbor, MI | On Site | Mar 31 |
 | **[Creighton Farms](https://creightonfarms.com/)** | **[Experience & Events Intern](https://jobright.ai/jobs/info/69cc4fd48130af1ac8337c5e?utm_campaign=1053&utm_source=git)** | ALDIE, VA 20105 | On Site | Mar 31 |
 | **[Boston Globe Media](http://www.bostonglobe.com)** | **[Editorial Intern, Boston Magazine](https://jobright.ai/jobs/info/69cc3c97366bb95ba54ee60a?utm_campaign=1053&utm_source=git)** | Boston, MA 02109, USA | Hybrid | Mar 31 |
-| **[City of Greenwood Village](https://greenwoodvillage.com)** | **[Seasonal Recreation Intern](https://jobright.ai/jobs/info/69cc653d891d7b11cfcac232?utm_campaign=1053&utm_source=git)** | Greenwood Village, CO | On Site | Mar 31 |
-| **[Boston Globe Media](http://www.bostonglobe.com)** | **[Editorial Intern, Boston Magazine](https://jobright.ai/jobs/info/69cc875ee1921223acc78c5e?utm_campaign=1053&utm_source=git)** | Boston, MA | Hybrid | Mar 31 |
+| ↳ | **[Editorial Intern, Boston Magazine](https://jobright.ai/jobs/info/69cc875ee1921223acc78c5e?utm_campaign=1053&utm_source=git)** | Boston, MA | Hybrid | Mar 31 |
 | **[Auburn University](https://www.auburn.edu/)** | **[Special Event Crew Student Intern](https://jobright.ai/jobs/info/69c75d5783ea553769fe295d?utm_campaign=1053&utm_source=git)** | Auburn, AL | On Site | Mar 31 |
 | **[GigFinesse](https://www.gigfinesse.com/)** | **[Artist Relations MAINLINE Intern (Summer 2026)](https://jobright.ai/jobs/info/69c1c26b79e36d3a847ed01f?utm_campaign=1053&utm_source=git)** | Austin, Texas | On Site | Mar 31 |
 | **[Fox Corporation](https://www.foxcorporation.com/)** | **[TMZ Podcast Intern - Summer 2026](https://jobright.ai/jobs/info/69cc3408366bb95ba54ee290?utm_campaign=1053&utm_source=git)** | Los Angeles, California, USA | On Site | Mar 31 |
