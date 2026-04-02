@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Kohler Hospitality](https://www.kohlerwisconsin.com/)** | **[Pro Golf Management Intern, Blackwolf Run](https://jobright.ai/jobs/info/69ce552c891d7b11cfcc7e5a?utm_campaign=1053&utm_source=git)** | Kohler, WI | On Site | Apr 02 |
 | **[City of Greenwood Village](https://greenwoodvillage.com)** | **[Seasonal Recreation Intern](https://jobright.ai/jobs/info/69ce4799366bb95ba550a230?utm_campaign=1053&utm_source=git)** | Greenwood Village, CO | On Site | Apr 02 |
 | **[Koniag Government Services](https://www.koniag-gs.com/)** | **[Intern - Proposal Editor](https://jobright.ai/jobs/info/69b1c074548f140066e7840f?utm_campaign=1053&utm_source=git)** | Chantilly, VA | Remote | Apr 02 |
 | **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[Her Campus Wellness Editorial Intern - Summer 2026](https://jobright.ai/jobs/info/69ce3546366bb95ba5508eb9?utm_campaign=1053&utm_source=git)** | United States | Remote | Apr 02 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[State of South Carolina](https://sc.gov/)** | **[Production Intern- Columbia](https://jobright.ai/jobs/info/69cab91eaa3c2c1995e2f82c?utm_campaign=1053&utm_source=git)** | Columbia, SC | On Site | Mar 30 |
 | **[Globe Pequot Publishing Group](www.GlobePequot.com)** | **[Internship - Globe](https://jobright.ai/jobs/info/69cab8591b5ad028873a42f9?utm_campaign=1053&utm_source=git)** | Essex, CT, US | On Site | Mar 30 |
 | **[VIVA USA Inc.](https://www.viva-it.com)** | **[Video Editor Intern OR Film Intern](https://jobright.ai/jobs/info/69ca9bdaa8c1822476e1e334?utm_campaign=1053&utm_source=git)** | Lexington, NC | On Site | Mar 30 |
-| **[ComTec Information Systems (IT)](http://comtecinfo.com)** | **[Filming Project Intern](https://jobright.ai/jobs/info/69ca8992aa3c2c1995e2d84c?utm_campaign=1053&utm_source=git)** | Lexington, NC | On Site | Mar 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
