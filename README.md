@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Golden Hippo®](https://www.huntrealestate.com/)** | **[Video Editor Intern](https://jobright.ai/jobs/info/69b3218ea8ac8e70ff674f97?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 02 |
 | **[SOLV Energy](https://www.solvenergy.com/)** | **[Video Editor & Digital Media Intern](https://jobright.ai/jobs/info/695f49f10badca5763afc667?utm_campaign=1053&utm_source=git)** | San Diego, CA | On Site | Apr 02 |
 | **[Destination by Hyatt](https://www.thewoodmark.com/still-spa.htm)** | **[Turf Internship – The Club at Spruce Peak – Summer 2026](https://jobright.ai/jobs/info/69b623713b74eb1e2c83dc6c?utm_campaign=1053&utm_source=git)** | Stowe, VT | On Site | Apr 02 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Yellow Shoes Planning Innovation Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69ce5fe2398fb071abf847fd?utm_campaign=1053&utm_source=git)** | Celebration, FL | On Site | Apr 02 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Michigan State University](http://msu.edu)** | **[Assistant Director of Football Creative Video](https://jobright.ai/jobs/info/69caf1c9a8c1822476e2236f?utm_campaign=1053&utm_source=git)** | East Lansing, MI | On Site | Mar 30 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Summer 2026: Community Fridge Intern (Unpaid)](https://jobright.ai/jobs/info/69be0773482822729300bca6?utm_campaign=1053&utm_source=git)** | San Diego, CA | On Site | Mar 30 |
 | **[National Audubon Society](http://www.audubon.org)** | **[Editorial Intern, Audubon Magazine](https://jobright.ai/jobs/info/69cacaef1b5ad028873a5162?utm_campaign=1053&utm_source=git)** | United States | On Site | Mar 30 |
-| **[Audubon California](https://ca.audubon.org/)** | **[Editorial Intern, Audubon Magazine](https://jobright.ai/jobs/info/69caca5fe565c26a70040969?utm_campaign=1053&utm_source=git)** | Remote (35) | Remote | Mar 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
