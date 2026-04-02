@@ -57,9 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[NVE Experience Agency](http://experiencenve.com)** | **[Event Production Summer Internship](https://jobright.ai/jobs/info/69cdf5e5398fb071abf7fbce?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 01 |
 | **[Valo Media](teamvalomedia.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/69cdecc5398fb071abf7e25a?utm_campaign=1053&utm_source=git)** | Grand Rapids Metro | On Site | Apr 01 |
 | **[WISN-TV](https://www.wisn.com)** | **[WISN Summer Intern](https://jobright.ai/jobs/info/69cde87bcdb525785fb90481?utm_campaign=1053&utm_source=git)** | Milwaukee, WI | On Site | Apr 01 |
 | **[Radio-Canada](http://www.radio-canada.ca/)** | **[Researcher (CMG) (Indigenous summer paid internship) (English Services)](https://jobright.ai/jobs/info/69cde09b366bb95ba5503daf?utm_campaign=1053&utm_source=git)** | Prince George, BC | On Site | Apr 01 |
+| **[Chicago Sky WNBA](http://chicagosky.net)** | **[Game Operations Intern (Seasonal)](https://jobright.ai/jobs/info/69cdf630398fb071abf7fc26?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Apr 01 |
 | **[NVE Experience Agency](http://experiencenve.com)** | **[Event Production Summer Internship](https://jobright.ai/jobs/info/69cdb994398fb071abf7b976?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 01 |
 | **[City of Philadelphia](http://www.phila.gov/)** | **[Historical Preservation Intern](https://jobright.ai/jobs/info/69cdacce891d7b11cfcbec3a?utm_campaign=1053&utm_source=git)** | 1515 Arch St, Philadelphia, PA 19102, USA | On Site | Apr 01 |
 | **[Hearst Newspapers](https://eevd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_15)** | **[WISN Summer Intern](https://jobright.ai/jobs/info/69cdac6b398fb071abf7b08d?utm_campaign=1053&utm_source=git)** | 759 North 19th Street, Milwaukee, WI, 53233, US | On Site | Apr 01 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Intern](https://jobright.ai/jobs/info/69ca87138fc6090c5d44e5e1?utm_campaign=1053&utm_source=git)** | Amarillo, TX | On Site | Mar 30 |
 | **[The Borgen Project](http://borgenproject.org)** | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/69ca69e08fc6090c5d44da0e?utm_campaign=1053&utm_source=git)** | Madison, WI | Remote | Mar 30 |
 | ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/69ca69d88fc6090c5d44da0a?utm_campaign=1053&utm_source=git)** | Madison, SD | Remote | Mar 30 |
-| ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/69ca69bcaa3c2c1995e2cc43?utm_campaign=1053&utm_source=git)** | Ottawa, KS | Remote | Mar 30 |
-| ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/69ca614eaa3c2c1995e2ca9c?utm_campaign=1053&utm_source=git)** | Muncie, IN | Remote | Mar 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
