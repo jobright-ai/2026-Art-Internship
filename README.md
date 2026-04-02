@@ -57,8 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[City of Greenwood Village](https://greenwoodvillage.com)** | **[Seasonal Recreation Intern](https://jobright.ai/jobs/info/69ce4799366bb95ba550a230?utm_campaign=1053&utm_source=git)** | Greenwood Village, CO | On Site | Apr 02 |
 | **[Koniag Government Services](https://www.koniag-gs.com/)** | **[Intern - Proposal Editor](https://jobright.ai/jobs/info/69b1c074548f140066e7840f?utm_campaign=1053&utm_source=git)** | Chantilly, VA | Remote | Apr 02 |
-| **[Pickle](https://www.shoponpickle.com)** | **[Events & Community Summer Intern (NYC)](https://jobright.ai/jobs/info/69ce2a5b54f00230c6cfc422?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Apr 02 |
 | **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[Her Campus Wellness Editorial Intern - Summer 2026](https://jobright.ai/jobs/info/69ce3546366bb95ba5508eb9?utm_campaign=1053&utm_source=git)** | United States | Remote | Apr 02 |
 | **[NVE Experience Agency](http://experiencenve.com)** | **[Event Production Summer Internship](https://jobright.ai/jobs/info/69cdf5e5398fb071abf7fbce?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 01 |
 | **[Valo Media](teamvalomedia.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/69cdecc5398fb071abf7e25a?utm_campaign=1053&utm_source=git)** | Grand Rapids Metro | On Site | Apr 01 |
