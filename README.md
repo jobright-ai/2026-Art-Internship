@@ -60,6 +60,8 @@ For a complete list, click the following sortable link below:
 | **[Saint Xavier University](http://www.sxu.edu/)** | **[Xavierite Copy Editor - Student Employment](https://jobright.ai/jobs/info/69cf41d554f00230c6d08724?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Apr 02 |
 | **[Los Angeles Rams](https://www.therams.com/)** | **[Seasonal Digital Intern](https://jobright.ai/jobs/info/69cf2befcdb525785fb9f6ef?utm_campaign=1053&utm_source=git)** | Woodland Hills, CA | Hybrid | Apr 02 |
 | **[TmrO App](https://www.tmroapp.com/)** | **[Video Editor](https://jobright.ai/jobs/info/69cf2b4acdb525785fb9f23e?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Apr 02 |
+| **[GGC server 咕咕服](www.ggcgo.com)** | **[Community Operations & Events Intern](https://jobright.ai/jobs/info/69cf5dc1891d7b11cfcd2bfc?utm_campaign=1053&utm_source=git)** | California, United States | Remote | Apr 02 |
+| **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[Paid Intern – Liahona Digital Content Writer/Creator](https://jobright.ai/jobs/info/69cf5d32891d7b11cfcd2b99?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | Hybrid | Apr 02 |
 | **[Reading Royals](https://royalshockey.com)** | **[Video Production + Game Presentation Internship (Fall 2026)](https://jobright.ai/jobs/info/69cf4144cfdc6132f943192d?utm_campaign=1053&utm_source=git)** | Reading, PA | On Site | Apr 02 |
 | **[CLD PR & Experiential Productions](https://cldstylehouse.com)** | **[Event Production Intern](https://jobright.ai/jobs/info/69cf0afecdb525785fb9e271?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Apr 02 |
 | **[TapBlaze](http://www.tapblaze.com)** | **[Narrative Design Intern](https://jobright.ai/jobs/info/69cf2839366bb95ba5513103?utm_campaign=1053&utm_source=git)** | Los Angeles Office | On Site | Apr 02 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Erie Events](https://www.erieevents.com/)** | **[Event Management Intern](https://jobright.ai/jobs/info/69cbf4bfcdb525785fb78d0f?utm_campaign=1053&utm_source=git)** | Erie, PA | On Site | Mar 31 |
 | **[Medidata Solutions](https://www.medidata.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/69af87eddfaeda6ff597abec?utm_campaign=1053&utm_source=git)** | New York, United States | On Site | Mar 31 |
 | **[Philadelphia Country Club](http://philadelphiacc.net)** | **[Golf Intern](https://jobright.ai/jobs/info/69cc557b891d7b11cfcabcf5?utm_campaign=1053&utm_source=git)** | Gladwyne, PA | On Site | Mar 31 |
-| **[Horizon Productions](http://horizonvp.com/)** | **[Video Production Summer Internship](https://jobright.ai/jobs/info/69cc572d366bb95ba54ef0a3?utm_campaign=1053&utm_source=git)** | Durham, NC | On Site | Mar 31 |
-| **[BDG](http://bustle.com)** | **[Branded Production Intern](https://jobright.ai/jobs/info/69cc4a60cfdc6132f940b6d3?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Mar 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
