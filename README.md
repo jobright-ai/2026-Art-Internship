@@ -57,8 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Saint Xavier University](http://www.sxu.edu/)** | **[Xavierite Copy Editor - Student Employment](https://jobright.ai/jobs/info/69cf41d554f00230c6d08724?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Apr 02 |
 | **[Los Angeles Rams](https://www.therams.com/)** | **[Seasonal Digital Intern](https://jobright.ai/jobs/info/69cf2befcdb525785fb9f6ef?utm_campaign=1053&utm_source=git)** | Woodland Hills, CA | Hybrid | Apr 02 |
 | **[TmrO App](https://www.tmroapp.com/)** | **[Video Editor](https://jobright.ai/jobs/info/69cf2b4acdb525785fb9f23e?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Apr 02 |
+| **[Reading Royals](https://royalshockey.com)** | **[Video Production + Game Presentation Internship (Fall 2026)](https://jobright.ai/jobs/info/69cf4144cfdc6132f943192d?utm_campaign=1053&utm_source=git)** | Reading, PA | On Site | Apr 02 |
 | **[CLD PR & Experiential Productions](https://cldstylehouse.com)** | **[Event Production Intern](https://jobright.ai/jobs/info/69cf0afecdb525785fb9e271?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Apr 02 |
 | **[TapBlaze](http://www.tapblaze.com)** | **[Narrative Design Intern](https://jobright.ai/jobs/info/69cf2839366bb95ba5513103?utm_campaign=1053&utm_source=git)** | Los Angeles Office | On Site | Apr 02 |
 | **[Abuse Refuge Org. (ARO)](https://GoARO.org)** | **[Special Projects Intern (Volunteer/Remote)](https://jobright.ai/jobs/info/69ceeb1ecdb525785fb9d107?utm_campaign=1053&utm_source=git)** | Westerville, OH | Remote | Apr 02 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Medidata Solutions](https://www.medidata.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/69af87eddfaeda6ff597abec?utm_campaign=1053&utm_source=git)** | New York, United States | On Site | Mar 31 |
 | **[Philadelphia Country Club](http://philadelphiacc.net)** | **[Golf Intern](https://jobright.ai/jobs/info/69cc557b891d7b11cfcabcf5?utm_campaign=1053&utm_source=git)** | Gladwyne, PA | On Site | Mar 31 |
 | **[Horizon Productions](http://horizonvp.com/)** | **[Video Production Summer Internship](https://jobright.ai/jobs/info/69cc572d366bb95ba54ef0a3?utm_campaign=1053&utm_source=git)** | Durham, NC | On Site | Mar 31 |
-| **[BDG](http://bustle.com)** | **[Branded Production Intern](https://jobright.ai/jobs/info/69cc4a60cfdc6132f940b6d3?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Mar 31 |
-| ↳ | **[Branded Production Intern](https://jobright.ai/jobs/info/69cbe20dcdb525785fb788d9?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Mar 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
