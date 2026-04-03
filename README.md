@@ -130,7 +130,6 @@ For a complete list, click the following sortable link below:
 | **[Ellucian](http://www.ellucian.com)** | **[Video Internship (Undergraduate)](https://jobright.ai/jobs/info/6977e29c52f3c27ec6440a9c?utm_campaign=1053&utm_source=git)** | Reston, VA | Hybrid | Apr 01 |
 | **[Northside Hospital](http://www.northside.com)** | **[Department Intern](https://jobright.ai/jobs/info/69cd44fd366bb95ba54f9f7d?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Apr 01 |
 | **[The Jerusalem Fund For Education & Community Development](https://thejerusalemfund.org)** | **[Summer Intern](https://jobright.ai/jobs/info/69ccc1e4cfdc6132f941313b?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Mar 31 |
-| **[The Music Center](https://www.musiccenter.org/)** | **[Programming Intern](https://jobright.ai/jobs/info/69ccb2a1cfdc6132f94125ca?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, US | On Site | Mar 31 |
 | **[dnd video](http://dndvideo.com/)** | **[Content Creator](https://jobright.ai/jobs/info/69cc8beacdb525785fb7ecd4?utm_campaign=1053&utm_source=git)** | United States | Remote | Mar 31 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Yellow Shoes Planning Innovation Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69cc6c14e1921223acc75c0e?utm_campaign=1053&utm_source=git)** | Celebration, FL, USA | On Site | Mar 31 |
 | **[MobilizeGreen](https://www.mobilizegreen.org/)** | **[Park Intern – America 250 Commemoration Support](https://jobright.ai/jobs/info/69cc93aae1921223acc799ea?utm_campaign=1053&utm_source=git)** | Yorktown, VA | On Site | Mar 31 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Medidata Solutions](https://www.medidata.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/69af87eddfaeda6ff597abec?utm_campaign=1053&utm_source=git)** | New York, United States | On Site | Mar 31 |
 | **[Philadelphia Country Club](http://philadelphiacc.net)** | **[Golf Intern](https://jobright.ai/jobs/info/69cc557b891d7b11cfcabcf5?utm_campaign=1053&utm_source=git)** | Gladwyne, PA | On Site | Mar 31 |
 | **[Horizon Productions](http://horizonvp.com/)** | **[Video Production Summer Internship](https://jobright.ai/jobs/info/69cc572d366bb95ba54ef0a3?utm_campaign=1053&utm_source=git)** | Durham, NC | On Site | Mar 31 |
+| **[BDG](http://bustle.com)** | **[Branded Production Intern](https://jobright.ai/jobs/info/69cc4a60cfdc6132f940b6d3?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Mar 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
