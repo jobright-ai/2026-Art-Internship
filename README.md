@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Brilliant Infotech Inc.](http://brilliantinfotech.com)** | **[Social Media Video Editing Internship / Fall 2026](https://jobright.ai/jobs/info/69cfe83854f00230c6d0d31b?utm_campaign=1053&utm_source=git)** | Texas, United States | Remote | Apr 03 |
+| **[Zozy | Personal Inventory Assistant](https://www.sayadios.com/)** | **[Content Creator Internship](https://jobright.ai/jobs/info/69cfe7f3cdb525785fba57e3?utm_campaign=1053&utm_source=git)** | Austin, Texas Metropolitan Area | Remote | Apr 03 |
 | **[WAVY-TV 10](http://wavy.com)** | **[WAVY Unpaid Digital News Desk Intern, Summer 2026](https://jobright.ai/jobs/info/6943624650bbaf765055485d?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Apr 03 |
 | **[The Global Leadership Network](https://www.globalleadership.org)** | **[MEDIA AND PRODUCER ASST. - SUMMER INTERNSHIP](https://jobright.ai/jobs/info/69cfd569366bb95ba551931e?utm_campaign=1053&utm_source=git)** | Global Leadership Network - South Barrington, IL 60010 | Hybrid | Apr 03 |
 | **[WAVY-TV 10](http://wavy.com)** | **[WAVY Unpaid Hampton Roads Show/Production Intern, Summer Semester 2026](https://jobright.ai/jobs/info/6943685e94730b7398768007?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Apr 03 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[TMZ News Desk Intern - Summer 2026](https://jobright.ai/jobs/info/69cc33f98130af1ac8337266?utm_campaign=1053&utm_source=git)** | Los Angeles, California, USA | On Site | Mar 31 |
 | ↳ | **[TMZ Sports Intern - Summer 2026](https://jobright.ai/jobs/info/69cc32decdb525785fb7a0f2?utm_campaign=1053&utm_source=git)** | Los Angeles, California, USA | On Site | Mar 31 |
 | ↳ | **[TMZ Clearance Department Intern - Summer 2026](https://jobright.ai/jobs/info/69cc32bb891d7b11cfcaaf66?utm_campaign=1053&utm_source=git)** | Los Angeles, California, USA | On Site | Mar 31 |
-| **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69cc6088366bb95ba54ef365?utm_campaign=1053&utm_source=git)** | Greenbrier River, WV | On Site | Mar 31 |
-| ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69cc5e12366bb95ba54ef2d8?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Mar 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
