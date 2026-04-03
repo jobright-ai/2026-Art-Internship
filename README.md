@@ -57,9 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[WMUR-TV](http://www.wmur.com/)** | **[News Internship](https://jobright.ai/jobs/info/69968f17e0bddb6acac50fc2?utm_campaign=1053&utm_source=git)** | Manchester, NH | On Site | Apr 03 |
+| **[Rocket](https://www.rocketcompanies.com/)** | **[Video Editor Intern - Summer 2026](https://jobright.ai/jobs/info/69cae19ba8c1822476e2133d?utm_campaign=1053&utm_source=git)** | Detroit, MI | On Site | Apr 03 |
 | **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Summer Intern, Experiential Events](https://jobright.ai/jobs/info/69793c7188e2b47213bd689e?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Apr 03 |
+| **[Northside Hospital](http://www.northside.com)** | **[Department Intern](https://jobright.ai/jobs/info/69cd44fd366bb95ba54f9f7d?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Apr 03 |
 | **[TapBlaze](http://www.tapblaze.com)** | **[Narrative Design Intern](https://jobright.ai/jobs/info/69cf87f8cdb525785fba35f7?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Apr 03 |
 | **[City of Greenwood Village](https://greenwoodvillage.com)** | **[Seasonal Recreation Intern](https://jobright.ai/jobs/info/69cfa348cdb525785fba3f06?utm_campaign=1053&utm_source=git)** | Greenwood Village, CO | On Site | Apr 03 |
+| **[YMCA of Greater Grand Rapids](http://www.grymca.org/)** | **[Sports & STEAM Intern](https://jobright.ai/jobs/info/69cfb3c5891d7b11cfcd5435?utm_campaign=1053&utm_source=git)** | Grand Rapids, MI | On Site | Apr 03 |
 | **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[Her Campus Wellness Editorial Intern - Summer 2026](https://jobright.ai/jobs/info/69cf8830cdb525785fba3608?utm_campaign=1053&utm_source=git)** | United States | Remote | Apr 02 |
 | **[Saint Xavier University](http://www.sxu.edu/)** | **[Xavierite Copy Editor - Student Employment](https://jobright.ai/jobs/info/69cf41d554f00230c6d08724?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Apr 02 |
 | **[Los Angeles Rams](https://www.therams.com/)** | **[Seasonal Digital Intern](https://jobright.ai/jobs/info/69cf2befcdb525785fb9f6ef?utm_campaign=1053&utm_source=git)** | Woodland Hills, CA | Hybrid | Apr 02 |
@@ -133,7 +137,6 @@ For a complete list, click the following sortable link below:
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[News Summer Internship- unpaid](https://jobright.ai/jobs/info/69c97db4e565c26a700357b9?utm_campaign=1053&utm_source=git)** | Columbus, OH | On Site | Apr 01 |
 | **[McClatchy Media](https://www.mcclatchy.com/)** | **[News Intern - Part-time](https://jobright.ai/jobs/info/6983cce901214b4cdacbced6?utm_campaign=1053&utm_source=git)** | San Luis Obispo, CA | On Site | Apr 01 |
 | **[Ellucian](http://www.ellucian.com)** | **[Video Internship (Undergraduate)](https://jobright.ai/jobs/info/6977e29c52f3c27ec6440a9c?utm_campaign=1053&utm_source=git)** | Reston, VA | Hybrid | Apr 01 |
-| **[Northside Hospital](http://www.northside.com)** | **[Department Intern](https://jobright.ai/jobs/info/69cd44fd366bb95ba54f9f7d?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Apr 01 |
 | **[dnd video](http://dndvideo.com/)** | **[Content Creator](https://jobright.ai/jobs/info/69cc8beacdb525785fb7ecd4?utm_campaign=1053&utm_source=git)** | United States | Remote | Mar 31 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Yellow Shoes Planning Innovation Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69cc6c14e1921223acc75c0e?utm_campaign=1053&utm_source=git)** | Celebration, FL, USA | On Site | Mar 31 |
 | **[MobilizeGreen](https://www.mobilizegreen.org/)** | **[Park Intern – America 250 Commemoration Support](https://jobright.ai/jobs/info/69cc93aae1921223acc799ea?utm_campaign=1053&utm_source=git)** | Yorktown, VA | On Site | Mar 31 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69cc7c798130af1ac8338bca?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Mar 31 |
 | **[TMZ](http://www.tmz.com/)** | **[TMZ Sports Intern - Summer 2026](https://jobright.ai/jobs/info/69cc2f42cfdc6132f940ac78?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Mar 31 |
 | ↳ | **[TMZ Podcast Intern - Summer 2026](https://jobright.ai/jobs/info/69cc2f37366bb95ba54edfd3?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Mar 31 |
-| **[Santa Barbara News-Press](https://www.news-press.com/)** | **[Summer Reporting Intern](https://jobright.ai/jobs/info/69cc2ef4366bb95ba54edfa8?utm_campaign=1053&utm_source=git)** | Santa Barbara, CA | On Site | Mar 31 |
-| **[Dassault Systèmes](http://www.3ds.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/69af5ade749500645093d77e?utm_campaign=1053&utm_source=git)** | New York, United States | On Site | Mar 31 |
-| **[Erie Events](https://www.erieevents.com/)** | **[Event Management Intern](https://jobright.ai/jobs/info/69cbf4bfcdb525785fb78d0f?utm_campaign=1053&utm_source=git)** | Erie, PA | On Site | Mar 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
