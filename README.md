@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Summer Intern, Experiential Events](https://jobright.ai/jobs/info/69793c7188e2b47213bd689e?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Apr 03 |
 | **[TapBlaze](http://www.tapblaze.com)** | **[Narrative Design Intern](https://jobright.ai/jobs/info/69cf87f8cdb525785fba35f7?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Apr 03 |
 | **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[Her Campus Wellness Editorial Intern - Summer 2026](https://jobright.ai/jobs/info/69cf8830cdb525785fba3608?utm_campaign=1053&utm_source=git)** | United States | Remote | Apr 02 |
 | **[Saint Xavier University](http://www.sxu.edu/)** | **[Xavierite Copy Editor - Student Employment](https://jobright.ai/jobs/info/69cf41d554f00230c6d08724?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Apr 02 |
@@ -104,7 +105,6 @@ For a complete list, click the following sortable link below:
 | **[City of Philadelphia](http://www.phila.gov/)** | **[Historical Preservation Intern](https://jobright.ai/jobs/info/69cdacce891d7b11cfcbec3a?utm_campaign=1053&utm_source=git)** | 1515 Arch St, Philadelphia, PA 19102, USA | On Site | Apr 01 |
 | **[Hearst Newspapers](https://eevd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_15)** | **[WISN Summer Intern](https://jobright.ai/jobs/info/69cdac6b398fb071abf7b08d?utm_campaign=1053&utm_source=git)** | 759 North 19th Street, Milwaukee, WI, 53233, US | On Site | Apr 01 |
 | **[WLEX-TV](http://lex18.com)** | **[Production Intern (SUMMER) - WLEX-TV](https://jobright.ai/jobs/info/69cda583cdb525785fb8d620?utm_campaign=1053&utm_source=git)** | Lexington, KY | On Site | Apr 01 |
-| **[Respect My Region](https://www.respectmyregion.com)** | **[Music and Sports Editor Internship](https://jobright.ai/jobs/info/69cd9af6891d7b11cfcbde82?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Remote | Apr 01 |
 | **[Bluefox Production](www.bluefoxproduction.com/socials)** | **[Live Event Production - Intern](https://jobright.ai/jobs/info/69cd92e3398fb071abf7a2e2?utm_campaign=1053&utm_source=git)** | Overland Park, KS | On Site | Apr 01 |
 | **[Ryan Lawn & Tree](http://ryanlawn.com)** | **[Summer Intern - Tulsa](https://jobright.ai/jobs/info/69cd8c99366bb95ba550039c?utm_campaign=1053&utm_source=git)** | Broken Arrow,OK,US | On Site | Apr 01 |
 | **[Chicago Sky WNBA](http://chicagosky.net)** | **[Chicago Sky PR/Communications Game Day Intern (FOR EDUCATIONAL CREDIT)](https://jobright.ai/jobs/info/69cddf6ccdb525785fb8fd22?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Apr 01 |
@@ -133,7 +133,6 @@ For a complete list, click the following sortable link below:
 | **[McClatchy Media](https://www.mcclatchy.com/)** | **[News Intern - Part-time](https://jobright.ai/jobs/info/6983cce901214b4cdacbced6?utm_campaign=1053&utm_source=git)** | San Luis Obispo, CA | On Site | Apr 01 |
 | **[Ellucian](http://www.ellucian.com)** | **[Video Internship (Undergraduate)](https://jobright.ai/jobs/info/6977e29c52f3c27ec6440a9c?utm_campaign=1053&utm_source=git)** | Reston, VA | Hybrid | Apr 01 |
 | **[Northside Hospital](http://www.northside.com)** | **[Department Intern](https://jobright.ai/jobs/info/69cd44fd366bb95ba54f9f7d?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Apr 01 |
-| **[The Jerusalem Fund For Education & Community Development](https://thejerusalemfund.org)** | **[Summer Intern](https://jobright.ai/jobs/info/69ccc1e4cfdc6132f941313b?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Mar 31 |
 | **[dnd video](http://dndvideo.com/)** | **[Content Creator](https://jobright.ai/jobs/info/69cc8beacdb525785fb7ecd4?utm_campaign=1053&utm_source=git)** | United States | Remote | Mar 31 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Yellow Shoes Planning Innovation Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69cc6c14e1921223acc75c0e?utm_campaign=1053&utm_source=git)** | Celebration, FL, USA | On Site | Mar 31 |
 | **[MobilizeGreen](https://www.mobilizegreen.org/)** | **[Park Intern – America 250 Commemoration Support](https://jobright.ai/jobs/info/69cc93aae1921223acc799ea?utm_campaign=1053&utm_source=git)** | Yorktown, VA | On Site | Mar 31 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Santa Barbara News-Press](https://www.news-press.com/)** | **[Summer Reporting Intern](https://jobright.ai/jobs/info/69cc2ef4366bb95ba54edfa8?utm_campaign=1053&utm_source=git)** | Santa Barbara, CA | On Site | Mar 31 |
 | **[Dassault Systèmes](http://www.3ds.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/69af5ade749500645093d77e?utm_campaign=1053&utm_source=git)** | New York, United States | On Site | Mar 31 |
 | **[Erie Events](https://www.erieevents.com/)** | **[Event Management Intern](https://jobright.ai/jobs/info/69cbf4bfcdb525785fb78d0f?utm_campaign=1053&utm_source=git)** | Erie, PA | On Site | Mar 31 |
+| **[Medidata Solutions](https://www.medidata.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/69af87eddfaeda6ff597abec?utm_campaign=1053&utm_source=git)** | New York, United States | On Site | Mar 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
