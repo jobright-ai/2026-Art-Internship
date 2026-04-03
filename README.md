@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[VAB Paid Intern](https://jobright.ai/jobs/info/69d03399366bb95ba551c97d?utm_campaign=1053&utm_source=git)** | Richmond, VA | On Site | Apr 03 |
+| **[Monster Energy](http://www.monsterenergy.com/)** | **[Internship - Content Producer](https://jobright.ai/jobs/info/69d031bbcdb525785fba87b6?utm_campaign=1053&utm_source=git)** | Corona, California, United States | On Site | Apr 03 |
+| **[PathSeekers](https://pathseekers.net/)** | **[Event Intern - WebSummit](https://jobright.ai/jobs/info/69d02d170b098b7a670773ad?utm_campaign=1053&utm_source=git)** | Vancouver, BC | On Site | Apr 03 |
 | **[Ohio Wesleyan University](http://www.owu.edu/)** | **[Student Worker - Reporting & Writing Intern](https://jobright.ai/jobs/info/69d01f37891d7b11cfcd8a64?utm_campaign=1053&utm_source=git)** | Delaware, OH, US | On Site | Apr 03 |
 | **[University of Colorado Boulder](https://www.colorado.edu)** | **[Ice Rink Operations Intern](https://jobright.ai/jobs/info/69d01bea54f00230c6d0f337?utm_campaign=1053&utm_source=git)** | Boulder, CO | On Site | Apr 03 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Video Editor Intern - BYU-Pathway Worldwide (Full-Time Intern)](https://jobright.ai/jobs/info/69d0135d0b098b7a6707637e?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT, United States | On Site | Apr 03 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[MobilizeGreen](https://www.mobilizegreen.org/)** | **[Park Intern – America 250 Commemoration Support](https://jobright.ai/jobs/info/69cc93aae1921223acc799ea?utm_campaign=1053&utm_source=git)** | Yorktown, VA | On Site | Mar 31 |
 | **[Creighton Farms](https://creightonfarms.com/)** | **[Experience & Events Intern](https://jobright.ai/jobs/info/69cc915ccdb525785fb7f237?utm_campaign=1053&utm_source=git)** | Aldie, VA | On Site | Mar 31 |
 | **[Waco Tribune-Herald](http://wacotrib.com)** | **[Reporter Intern](https://jobright.ai/jobs/info/69cda7f2cdb525785fb8d6d9?utm_campaign=1053&utm_source=git)** | Ann Arbor, MI | On Site | Mar 31 |
-| **[Creighton Farms](https://creightonfarms.com/)** | **[Experience & Events Intern](https://jobright.ai/jobs/info/69cc4fd48130af1ac8337c5e?utm_campaign=1053&utm_source=git)** | ALDIE, VA 20105 | On Site | Mar 31 |
-| **[Boston Globe Media](http://www.bostonglobe.com)** | **[Editorial Intern, Boston Magazine](https://jobright.ai/jobs/info/69cc3c97366bb95ba54ee60a?utm_campaign=1053&utm_source=git)** | Boston, MA 02109, USA | Hybrid | Mar 31 |
-| ↳ | **[Editorial Intern, Boston Magazine](https://jobright.ai/jobs/info/69cc875ee1921223acc78c5e?utm_campaign=1053&utm_source=git)** | Boston, MA | Hybrid | Mar 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
