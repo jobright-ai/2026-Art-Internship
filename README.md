@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ohio Wesleyan University](http://www.owu.edu/)** | **[Student Worker - Reporting & Writing Intern](https://jobright.ai/jobs/info/69d01f37891d7b11cfcd8a64?utm_campaign=1053&utm_source=git)** | Delaware, OH, US | On Site | Apr 03 |
+| **[University of Colorado Boulder](https://www.colorado.edu)** | **[Ice Rink Operations Intern](https://jobright.ai/jobs/info/69d01bea54f00230c6d0f337?utm_campaign=1053&utm_source=git)** | Boulder, CO | On Site | Apr 03 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Video Editor Intern - BYU-Pathway Worldwide (Full-Time Intern)](https://jobright.ai/jobs/info/69d0135d0b098b7a6707637e?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT, United States | On Site | Apr 03 |
 | **[BDG](http://bustle.com)** | **[Editorial & Social Intern, Parenting & Lifestyle](https://jobright.ai/jobs/info/69d0047d366bb95ba551a90b?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Apr 03 |
 | **[U.S. News & World Report](http://www.usnews.com)** | **[360 Editorial Summer 2026 Intern- New York](https://jobright.ai/jobs/info/69b5201206c1ba00c546de57?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Apr 03 |
@@ -139,8 +141,8 @@ For a complete list, click the following sortable link below:
 | **[Radio-Canada](http://www.radio-canada.ca/)** | **[Researcher (CMG) (Indigenous summer paid internship) (English Services)](https://jobright.ai/jobs/info/69cd3c23cdb525785fb85e3d?utm_campaign=1053&utm_source=git)** | Prince George, BC | On Site | Apr 01 |
 | ↳ | **[Researcher (CMG) (Indigenous summer paid internship) (English Services)](https://jobright.ai/jobs/info/69cd3bda366bb95ba54f9cdc?utm_campaign=1053&utm_source=git)** | Victoria, BC | On Site | Apr 01 |
 | ↳ | **[Researcher (CMG) (Indigenous summer paid internship) (English Services)](https://jobright.ai/jobs/info/69cd3bd4398fb071abf7322f?utm_campaign=1053&utm_source=git)** | Prince Rupert, BC | On Site | Apr 01 |
-| ↳ | **[Researcher (CMG) (Indigenous summer paid internship) (English Services)](https://jobright.ai/jobs/info/69cd3bc254f00230c6ced68e?utm_campaign=1053&utm_source=git)** | Kelowna, BC | On Site | Apr 01 |
 | ↳ | **[Researcher (CMG) (Indigenous summer paid internship) (English Services)](https://jobright.ai/jobs/info/69cd3bc2cfdc6132f94169ee?utm_campaign=1053&utm_source=git)** | Kamloops, BC | On Site | Apr 01 |
+| ↳ | **[Researcher (CMG) (Indigenous summer paid internship) (English Services)](https://jobright.ai/jobs/info/69cd3bc254f00230c6ced68e?utm_campaign=1053&utm_source=git)** | Kelowna, BC | On Site | Apr 01 |
 | **[Kalahari Resorts & Conventions](http://www.kalahariresorts.com)** | **[Culinary & Pastry Internship](https://jobright.ai/jobs/info/68e6b6cb1852e62f0081dcbc?utm_campaign=1053&utm_source=git)** | Sandusky, OH | On Site | Apr 01 |
 | **[Vistra Corp.](https://vistracorp.com)** | **[Summer Production Intern - Forney Plant](https://jobright.ai/jobs/info/699553b3ce78e77b4fd972cd?utm_campaign=1053&utm_source=git)** | Forney, TX | On Site | Apr 01 |
 | **[Rock Events](https://rockevents.com/)** | **[Event Facilities Tech Intern - Summer 2026](https://jobright.ai/jobs/info/69793de552f3c27ec645937b?utm_campaign=1053&utm_source=git)** | Detroit, MI | On Site | Apr 01 |
@@ -148,7 +150,6 @@ For a complete list, click the following sortable link below:
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[News Summer Internship- unpaid](https://jobright.ai/jobs/info/69c97db4e565c26a700357b9?utm_campaign=1053&utm_source=git)** | Columbus, OH | On Site | Apr 01 |
 | **[McClatchy Media](https://www.mcclatchy.com/)** | **[News Intern - Part-time](https://jobright.ai/jobs/info/6983cce901214b4cdacbced6?utm_campaign=1053&utm_source=git)** | San Luis Obispo, CA | On Site | Apr 01 |
 | **[Ellucian](http://www.ellucian.com)** | **[Video Internship (Undergraduate)](https://jobright.ai/jobs/info/6977e29c52f3c27ec6440a9c?utm_campaign=1053&utm_source=git)** | Reston, VA | Hybrid | Apr 01 |
-| **[dnd video](http://dndvideo.com/)** | **[Content Creator](https://jobright.ai/jobs/info/69cc8beacdb525785fb7ecd4?utm_campaign=1053&utm_source=git)** | United States | Remote | Mar 31 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Yellow Shoes Planning Innovation Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69cc6c14e1921223acc75c0e?utm_campaign=1053&utm_source=git)** | Celebration, FL, USA | On Site | Mar 31 |
 | **[MobilizeGreen](https://www.mobilizegreen.org/)** | **[Park Intern – America 250 Commemoration Support](https://jobright.ai/jobs/info/69cc93aae1921223acc799ea?utm_campaign=1053&utm_source=git)** | Yorktown, VA | On Site | Mar 31 |
 | **[Creighton Farms](https://creightonfarms.com/)** | **[Experience & Events Intern](https://jobright.ai/jobs/info/69cc915ccdb525785fb7f237?utm_campaign=1053&utm_source=git)** | Aldie, VA | On Site | Mar 31 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Creighton Farms](https://creightonfarms.com/)** | **[Experience & Events Intern](https://jobright.ai/jobs/info/69cc4fd48130af1ac8337c5e?utm_campaign=1053&utm_source=git)** | ALDIE, VA 20105 | On Site | Mar 31 |
 | **[Boston Globe Media](http://www.bostonglobe.com)** | **[Editorial Intern, Boston Magazine](https://jobright.ai/jobs/info/69cc3c97366bb95ba54ee60a?utm_campaign=1053&utm_source=git)** | Boston, MA 02109, USA | Hybrid | Mar 31 |
 | ↳ | **[Editorial Intern, Boston Magazine](https://jobright.ai/jobs/info/69cc875ee1921223acc78c5e?utm_campaign=1053&utm_source=git)** | Boston, MA | Hybrid | Mar 31 |
-| **[Auburn University](https://www.auburn.edu/)** | **[Special Event Crew Student Intern](https://jobright.ai/jobs/info/69c75d5783ea553769fe295d?utm_campaign=1053&utm_source=git)** | Auburn, AL | On Site | Mar 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
