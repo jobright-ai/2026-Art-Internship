@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CLD PR & Experiential Productions](https://cldstylehouse.com)** | **[Event Production Intern](https://jobright.ai/jobs/info/69cf0afecdb525785fb9e271?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Apr 02 |
 | **[Abuse Refuge Org. (ARO)](https://GoARO.org)** | **[Special Projects Intern (Volunteer/Remote)](https://jobright.ai/jobs/info/69ceeb1ecdb525785fb9d107?utm_campaign=1053&utm_source=git)** | Westerville, OH | Remote | Apr 02 |
 | **[Bonneville International](http://bonneville.com/)** | **[KSL Sports Summer Internship](https://jobright.ai/jobs/info/69cee6ed398fb071abf8a873?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Apr 02 |
 | **[GrantAide](https://www.linkedin.com/company/69304819)** | **[Internship for Creative Video & Animation](https://jobright.ai/jobs/info/69cee6d4891d7b11cfcce21a?utm_campaign=1053&utm_source=git)** | San Francisco Bay Area | Remote | Apr 02 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Branded Production Intern](https://jobright.ai/jobs/info/69cbe20dcdb525785fb788d9?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Mar 31 |
 | **[Omnicom Health](http://www.omnicomhealthgroup.com/)** | **[2026 Bold Beginners - Editorial Intern](https://jobright.ai/jobs/info/69b186e1548f140066e75ea6?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Mar 31 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[C3 Presents - Festival Operation & Sustainability Intern](https://jobright.ai/jobs/info/69af177ddfaeda6ff5971ac1?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | Mar 31 |
-| **[SEMAFOR](https://www.semafor.com)** | **[Editorial Event Producer](https://jobright.ai/jobs/info/6992fb99ce78e77b4fd6cd83?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Mar 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
