@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BDG](http://bustle.com)** | **[Editorial & Social Intern, Parenting & Lifestyle](https://jobright.ai/jobs/info/69d0047d366bb95ba551a90b?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Apr 03 |
+| **[U.S. News & World Report](http://www.usnews.com)** | **[360 Editorial Summer 2026 Intern- New York](https://jobright.ai/jobs/info/69b5201206c1ba00c546de57?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Apr 03 |
+| **[Netflix](https://www.netflix.com)** | **[Documentary Awards & Publicity Intern, Summer 2026](https://jobright.ai/jobs/info/69d0021bcfdc6132f9437817?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Apr 03 |
+| ↳ | **[Documentary Awards & Publicity Intern, Summer 2026](https://jobright.ai/jobs/info/69d00193891d7b11cfcd7ac2?utm_campaign=1053&utm_source=git)** | Los Angeles | On Site | Apr 03 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[VAB Paid Intern](https://jobright.ai/jobs/info/69cff1c10b098b7a67074d94?utm_campaign=1053&utm_source=git)** | VA, Richmond | On Site | Apr 03 |
 | **[Brilliant Infotech Inc.](http://brilliantinfotech.com)** | **[Social Media Video Editing Internship / Fall 2026](https://jobright.ai/jobs/info/69cfe83854f00230c6d0d31b?utm_campaign=1053&utm_source=git)** | Texas, United States | Remote | Apr 03 |
 | **[Zozy | Personal Inventory Assistant](https://www.sayadios.com/)** | **[Content Creator Internship](https://jobright.ai/jobs/info/69cfe7f3cdb525785fba57e3?utm_campaign=1053&utm_source=git)** | Austin, Texas Metropolitan Area | Remote | Apr 03 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Boston Globe Media](http://www.bostonglobe.com)** | **[Editorial Intern, Boston Magazine](https://jobright.ai/jobs/info/69cc3c97366bb95ba54ee60a?utm_campaign=1053&utm_source=git)** | Boston, MA 02109, USA | Hybrid | Mar 31 |
 | ↳ | **[Editorial Intern, Boston Magazine](https://jobright.ai/jobs/info/69cc875ee1921223acc78c5e?utm_campaign=1053&utm_source=git)** | Boston, MA | Hybrid | Mar 31 |
 | **[Auburn University](https://www.auburn.edu/)** | **[Special Event Crew Student Intern](https://jobright.ai/jobs/info/69c75d5783ea553769fe295d?utm_campaign=1053&utm_source=git)** | Auburn, AL | On Site | Mar 31 |
-| **[GigFinesse](https://www.gigfinesse.com/)** | **[Artist Relations MAINLINE Intern (Summer 2026)](https://jobright.ai/jobs/info/69c1c26b79e36d3a847ed01f?utm_campaign=1053&utm_source=git)** | Austin, Texas | On Site | Mar 31 |
-| **[Fox Corporation](https://www.foxcorporation.com/)** | **[TMZ Podcast Intern - Summer 2026](https://jobright.ai/jobs/info/69cc3408366bb95ba54ee290?utm_campaign=1053&utm_source=git)** | Los Angeles, California, USA | On Site | Mar 31 |
-| ↳ | **[TMZ News Desk Intern - Summer 2026](https://jobright.ai/jobs/info/69cc33f98130af1ac8337266?utm_campaign=1053&utm_source=git)** | Los Angeles, California, USA | On Site | Mar 31 |
-| ↳ | **[TMZ Sports Intern - Summer 2026](https://jobright.ai/jobs/info/69cc32decdb525785fb7a0f2?utm_campaign=1053&utm_source=git)** | Los Angeles, California, USA | On Site | Mar 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
