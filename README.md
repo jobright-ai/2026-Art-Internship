@@ -57,11 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[VAB Paid Intern](https://jobright.ai/jobs/info/69cff1c10b098b7a67074d94?utm_campaign=1053&utm_source=git)** | VA, Richmond | On Site | Apr 03 |
 | **[Brilliant Infotech Inc.](http://brilliantinfotech.com)** | **[Social Media Video Editing Internship / Fall 2026](https://jobright.ai/jobs/info/69cfe83854f00230c6d0d31b?utm_campaign=1053&utm_source=git)** | Texas, United States | Remote | Apr 03 |
 | **[Zozy | Personal Inventory Assistant](https://www.sayadios.com/)** | **[Content Creator Internship](https://jobright.ai/jobs/info/69cfe7f3cdb525785fba57e3?utm_campaign=1053&utm_source=git)** | Austin, Texas Metropolitan Area | Remote | Apr 03 |
 | **[WAVY-TV 10](http://wavy.com)** | **[WAVY Unpaid Digital News Desk Intern, Summer 2026](https://jobright.ai/jobs/info/6943624650bbaf765055485d?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Apr 03 |
 | **[The Global Leadership Network](https://www.globalleadership.org)** | **[MEDIA AND PRODUCER ASST. - SUMMER INTERNSHIP](https://jobright.ai/jobs/info/69cfd569366bb95ba551931e?utm_campaign=1053&utm_source=git)** | Global Leadership Network - South Barrington, IL 60010 | Hybrid | Apr 03 |
-| **[WAVY-TV 10](http://wavy.com)** | **[WAVY Unpaid Hampton Roads Show/Production Intern, Summer Semester 2026](https://jobright.ai/jobs/info/6943685e94730b7398768007?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Apr 03 |
+| **[WAVY-TV 10](http://wavy.com)** | **[WAVY Unpaid Hampton Roads Show/Production Intern, Summer Semester 2026](https://jobright.ai/jobs/info/69436d3594730b73987687c4?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Apr 03 |
 | ↳ | **[WAVY Unpaid Sports Intern, Summer Semester 2026](https://jobright.ai/jobs/info/6944baa750bbaf765056d1fa?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Apr 03 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Disney Entertainment Television Communication Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69cfc7f9cfdc6132f9435a12?utm_campaign=1053&utm_source=git)** | Burbank, CA | On Site | Apr 03 |
 | **[Valo Media](teamvalomedia.com)** | **[Video Production & Content Intern](https://jobright.ai/jobs/info/69cdecc5398fb071abf7e25a?utm_campaign=1053&utm_source=git)** | Grand Rapids Metro | On Site | Apr 03 |
@@ -134,8 +135,8 @@ For a complete list, click the following sortable link below:
 | **[Radio-Canada](http://www.radio-canada.ca/)** | **[Researcher (CMG) (Indigenous summer paid internship) (English Services)](https://jobright.ai/jobs/info/69cd3c23cdb525785fb85e3d?utm_campaign=1053&utm_source=git)** | Prince George, BC | On Site | Apr 01 |
 | ↳ | **[Researcher (CMG) (Indigenous summer paid internship) (English Services)](https://jobright.ai/jobs/info/69cd3bda366bb95ba54f9cdc?utm_campaign=1053&utm_source=git)** | Victoria, BC | On Site | Apr 01 |
 | ↳ | **[Researcher (CMG) (Indigenous summer paid internship) (English Services)](https://jobright.ai/jobs/info/69cd3bd4398fb071abf7322f?utm_campaign=1053&utm_source=git)** | Prince Rupert, BC | On Site | Apr 01 |
-| ↳ | **[Researcher (CMG) (Indigenous summer paid internship) (English Services)](https://jobright.ai/jobs/info/69cd3bc2cfdc6132f94169ee?utm_campaign=1053&utm_source=git)** | Kamloops, BC | On Site | Apr 01 |
 | ↳ | **[Researcher (CMG) (Indigenous summer paid internship) (English Services)](https://jobright.ai/jobs/info/69cd3bc254f00230c6ced68e?utm_campaign=1053&utm_source=git)** | Kelowna, BC | On Site | Apr 01 |
+| ↳ | **[Researcher (CMG) (Indigenous summer paid internship) (English Services)](https://jobright.ai/jobs/info/69cd3bc2cfdc6132f94169ee?utm_campaign=1053&utm_source=git)** | Kamloops, BC | On Site | Apr 01 |
 | **[Kalahari Resorts & Conventions](http://www.kalahariresorts.com)** | **[Culinary & Pastry Internship](https://jobright.ai/jobs/info/68e6b6cb1852e62f0081dcbc?utm_campaign=1053&utm_source=git)** | Sandusky, OH | On Site | Apr 01 |
 | **[Vistra Corp.](https://vistracorp.com)** | **[Summer Production Intern - Forney Plant](https://jobright.ai/jobs/info/699553b3ce78e77b4fd972cd?utm_campaign=1053&utm_source=git)** | Forney, TX | On Site | Apr 01 |
 | **[Rock Events](https://rockevents.com/)** | **[Event Facilities Tech Intern - Summer 2026](https://jobright.ai/jobs/info/69793de552f3c27ec645937b?utm_campaign=1053&utm_source=git)** | Detroit, MI | On Site | Apr 01 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Fox Corporation](https://www.foxcorporation.com/)** | **[TMZ Podcast Intern - Summer 2026](https://jobright.ai/jobs/info/69cc3408366bb95ba54ee290?utm_campaign=1053&utm_source=git)** | Los Angeles, California, USA | On Site | Mar 31 |
 | ↳ | **[TMZ News Desk Intern - Summer 2026](https://jobright.ai/jobs/info/69cc33f98130af1ac8337266?utm_campaign=1053&utm_source=git)** | Los Angeles, California, USA | On Site | Mar 31 |
 | ↳ | **[TMZ Sports Intern - Summer 2026](https://jobright.ai/jobs/info/69cc32decdb525785fb7a0f2?utm_campaign=1053&utm_source=git)** | Los Angeles, California, USA | On Site | Mar 31 |
-| ↳ | **[TMZ Clearance Department Intern - Summer 2026](https://jobright.ai/jobs/info/69cc32bb891d7b11cfcaaf66?utm_campaign=1053&utm_source=git)** | Los Angeles, California, USA | On Site | Mar 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
