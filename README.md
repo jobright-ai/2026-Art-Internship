@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Video Production Intern](https://jobright.ai/jobs/info/69b418b4569738374138a5c3?utm_campaign=1053&utm_source=git)** | Richardson, TX | On Site | Apr 04 |
+| **[Storm Guard Roofing](https://stormguardrc.com)** | **[Production Intern Summer 2026](https://jobright.ai/jobs/info/69d10b300b098b7a6707f75a?utm_campaign=1053&utm_source=git)** | Madison, WI | On Site | Apr 04 |
 | **[WAVY-TV 10](http://wavy.com)** | **[WAVY Unpaid Newsroom Intern, Summer 2026](https://jobright.ai/jobs/info/69d1076fcdb525785fbb01aa?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Apr 04 |
 | **[City of Noblesville](https://www.cityofnoblesville.org)** | **[Special Events Intern (Temporary) - Parks & Recreation](https://jobright.ai/jobs/info/69d0e60054f00230c6d172c1?utm_campaign=1053&utm_source=git)** | Noblesville, IN | On Site | Apr 04 |
 | **[City of Irving](https://www.cityofirving.org/2623/Family-Advocacy-Center)** | **[Intern - Production (Part-Time)](https://jobright.ai/jobs/info/69d0e2a00b098b7a6707e6a7?utm_campaign=1053&utm_source=git)** | Irving, TX | On Site | Apr 04 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Social View Agency](https://www.linkedin.com/company/81888485)** | **[Content Creator Intern](https://jobright.ai/jobs/info/69cdb0e0398fb071abf7b555?utm_campaign=1053&utm_source=git)** | Queens, NY | On Site | Apr 01 |
 | **[Power Digital Marketing](http://www.powerdigitalmarketing.com)** | **[Fashion Intern, Summer 2026](https://jobright.ai/jobs/info/69cd4ff4398fb071abf74107?utm_campaign=1053&utm_source=git)** | United States | Remote | Apr 01 |
 | ↳ | **[Fashion Intern, Summer 2026](https://jobright.ai/jobs/info/69cd478a398fb071abf7351c?utm_campaign=1053&utm_source=git)** | Remote - United States | Remote | Apr 01 |
-| **[Kalahari Resorts & Conventions](http://www.kalahariresorts.com)** | **[Culinary & Pastry Internship](https://jobright.ai/jobs/info/68e6aeefe8daec61499ad5dd?utm_campaign=1053&utm_source=git)** | Pocono, PA | On Site | Apr 01 |
-| **[Radio-Canada](http://www.radio-canada.ca/)** | **[Researcher (CMG) (Indigenous summer paid internship) (English Services)](https://jobright.ai/jobs/info/69cd3c23cdb525785fb85e3d?utm_campaign=1053&utm_source=git)** | Prince George, BC | On Site | Apr 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
