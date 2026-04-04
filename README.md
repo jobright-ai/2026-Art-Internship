@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Ambony](http://www.manofthehourmag.com/)** | **[Lifestyle Journalist Intern (Home, Tech & Auto)](https://jobright.ai/jobs/info/69d090b7891d7b11cfcdca61?utm_campaign=1053&utm_source=git)** | New York, NY | Remote | Apr 03 |
 | **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[Visitor Experience Curatorial Intern - Nauvoo, IL](https://jobright.ai/jobs/info/69d088cd891d7b11cfcdc6a4?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Apr 03 |
 | ↳ | **[Video Editor Intern - BYU-Pathway Worldwide (Full-Time Intern)](https://jobright.ai/jobs/info/69d088cc891d7b11cfcdc6a0?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | Hybrid | Apr 03 |
 | **[City of Rochester Hills](http://www.rochesterhills.org/)** | **[Video Production Intern](https://jobright.ai/jobs/info/69d07fe4366bb95ba551f139?utm_campaign=1053&utm_source=git)** | Rochester Hills, MI | On Site | Apr 03 |
@@ -68,7 +69,6 @@ For a complete list, click the following sortable link below:
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Video Editor Intern - BYU-Pathway Worldwide (Full-Time Intern)](https://jobright.ai/jobs/info/69d03d46891d7b11cfcd9f16?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | Hybrid | Apr 03 |
 | **[Indiana University Bloomington](https://www.iu.edu)** | **[Part-Time Student Editorial Intern, Center for Rural Engagement](https://jobright.ai/jobs/info/69d03bf9cfdc6132f9439b0f?utm_campaign=1053&utm_source=git)** | Bloomington, IN | On Site | Apr 03 |
 | **[Monster Energy](http://www.monsterenergy.com/)** | **[Internship - Content Producer](https://jobright.ai/jobs/info/69d03bed891d7b11cfcd9e16?utm_campaign=1053&utm_source=git)** | Corona, CA | On Site | Apr 03 |
-| **[City of Kenmore](http://www.kenmorewa.gov)** | **[Special Events Summer Intern](https://jobright.ai/jobs/info/69d037890b098b7a67077b59?utm_campaign=1053&utm_source=git)** | Kenmore, WA | On Site | Apr 03 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[VAB Paid Intern](https://jobright.ai/jobs/info/69d03399366bb95ba551c97d?utm_campaign=1053&utm_source=git)** | Richmond, VA | On Site | Apr 03 |
 | **[Monster Energy](http://www.monsterenergy.com/)** | **[Internship - Content Producer](https://jobright.ai/jobs/info/69d031bbcdb525785fba87b6?utm_campaign=1053&utm_source=git)** | Corona, California, United States | On Site | Apr 03 |
 | **[PathSeekers](https://pathseekers.net/)** | **[Event Intern - WebSummit](https://jobright.ai/jobs/info/69d02d170b098b7a670773ad?utm_campaign=1053&utm_source=git)** | Vancouver, BC | On Site | Apr 03 |
@@ -96,8 +96,8 @@ For a complete list, click the following sortable link below:
 | **[Elite Podcast Studio](ElitePodcastStudio.com)** | **[Summer Internship 2026 / Elite Podcast Studio (Tampa Bay)](https://jobright.ai/jobs/info/69cfce21366bb95ba5518ce2?utm_campaign=1053&utm_source=git)** | Odessa, FL | On Site | Apr 03 |
 | **[Northside Hospital](http://www.northside.com)** | **[Department Intern](https://jobright.ai/jobs/info/69cd44fd366bb95ba54f9f7d?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Apr 03 |
 | **[TapBlaze](http://www.tapblaze.com)** | **[Narrative Design Intern](https://jobright.ai/jobs/info/69cf87f8cdb525785fba35f7?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Apr 03 |
-| **[YMCA of Greater Grand Rapids](http://www.grymca.org/)** | **[Sports & STEAM Intern](https://jobright.ai/jobs/info/69d0847d891d7b11cfcdc515?utm_campaign=1053&utm_source=git)** | Grand Rapids, MI | On Site | Apr 03 |
 | **[Saint Xavier University](http://www.sxu.edu/)** | **[Xavierite Copy Editor - Student Employment](https://jobright.ai/jobs/info/69cf41d554f00230c6d08724?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Apr 02 |
+| **[Pickle](https://www.shoponpickle.com)** | **[Events & Community Summer Intern (NYC)](https://jobright.ai/jobs/info/69d08b7954f00230c6d1330c?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Apr 02 |
 | **[Los Angeles Rams](https://www.therams.com/)** | **[Seasonal Digital Intern](https://jobright.ai/jobs/info/69cf2befcdb525785fb9f6ef?utm_campaign=1053&utm_source=git)** | Woodland Hills, CA | Hybrid | Apr 02 |
 | **[TmrO App](https://www.tmroapp.com/)** | **[Video Editor](https://jobright.ai/jobs/info/69cf2b4acdb525785fb9f23e?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Apr 02 |
 | **[GGC server 咕咕服](www.ggcgo.com)** | **[Community Operations & Events Intern](https://jobright.ai/jobs/info/69cf5dc1891d7b11cfcd2bfc?utm_campaign=1053&utm_source=git)** | California, United States | Remote | Apr 02 |
@@ -156,5 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Radio-Canada](http://www.radio-canada.ca/)** | **[Researcher (CMG) (Indigenous summer paid internship) (English Services)](https://jobright.ai/jobs/info/69cd3c23cdb525785fb85e3d?utm_campaign=1053&utm_source=git)** | Prince George, BC | On Site | Apr 01 |
 | ↳ | **[Researcher (CMG) (Indigenous summer paid internship) (English Services)](https://jobright.ai/jobs/info/69cd3bda366bb95ba54f9cdc?utm_campaign=1053&utm_source=git)** | Victoria, BC | On Site | Apr 01 |
 | ↳ | **[Researcher (CMG) (Indigenous summer paid internship) (English Services)](https://jobright.ai/jobs/info/69cd3bd4398fb071abf7322f?utm_campaign=1053&utm_source=git)** | Prince Rupert, BC | On Site | Apr 01 |
-| ↳ | **[Researcher (CMG) (Indigenous summer paid internship) (English Services)](https://jobright.ai/jobs/info/69cd3bc254f00230c6ced68e?utm_campaign=1053&utm_source=git)** | Kelowna, BC | On Site | Apr 01 |
+| ↳ | **[Researcher (CMG) (Indigenous summer paid internship) (English Services)](https://jobright.ai/jobs/info/69cd3bc2cfdc6132f94169ee?utm_campaign=1053&utm_source=git)** | Kamloops, BC | On Site | Apr 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
