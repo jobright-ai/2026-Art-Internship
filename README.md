@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[Her Campus Wellness Editorial Intern - Summer 2026](https://jobright.ai/jobs/info/69d0bd120b098b7a6707d476?utm_campaign=1053&utm_source=git)** | United States | Remote | Apr 04 |
 | **[The Ambony](http://www.manofthehourmag.com/)** | **[Lifestyle Journalist Intern (Home, Tech & Auto)](https://jobright.ai/jobs/info/69d090b7891d7b11cfcdca61?utm_campaign=1053&utm_source=git)** | New York, NY | Remote | Apr 03 |
 | **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[Visitor Experience Curatorial Intern - Nauvoo, IL](https://jobright.ai/jobs/info/69d088cd891d7b11cfcdc6a4?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Apr 03 |
 | ↳ | **[Video Editor Intern - BYU-Pathway Worldwide (Full-Time Intern)](https://jobright.ai/jobs/info/69d088cc891d7b11cfcdc6a0?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | Hybrid | Apr 03 |
@@ -73,7 +74,6 @@ For a complete list, click the following sortable link below:
 | **[Monster Energy](http://www.monsterenergy.com/)** | **[Internship - Content Producer](https://jobright.ai/jobs/info/69d031bbcdb525785fba87b6?utm_campaign=1053&utm_source=git)** | Corona, California, United States | On Site | Apr 03 |
 | **[PathSeekers](https://pathseekers.net/)** | **[Event Intern - WebSummit](https://jobright.ai/jobs/info/69d02d170b098b7a670773ad?utm_campaign=1053&utm_source=git)** | Vancouver, BC | On Site | Apr 03 |
 | **[Ohio Wesleyan University](http://www.owu.edu/)** | **[Student Worker - Reporting & Writing Intern](https://jobright.ai/jobs/info/69d01f37891d7b11cfcd8a64?utm_campaign=1053&utm_source=git)** | Delaware, OH, US | On Site | Apr 03 |
-| **[University of Colorado Boulder](https://www.colorado.edu)** | **[Ice Rink Operations Intern](https://jobright.ai/jobs/info/69d01bea54f00230c6d0f337?utm_campaign=1053&utm_source=git)** | Boulder, CO | On Site | Apr 03 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Video Editor Intern - BYU-Pathway Worldwide (Full-Time Intern)](https://jobright.ai/jobs/info/69d0135d0b098b7a6707637e?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT, United States | On Site | Apr 03 |
 | **[BDG](http://bustle.com)** | **[Editorial & Social Intern, Parenting & Lifestyle](https://jobright.ai/jobs/info/69d0047d366bb95ba551a90b?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Apr 03 |
 | **[U.S. News & World Report](http://www.usnews.com)** | **[360 Editorial Summer 2026 Intern- New York](https://jobright.ai/jobs/info/69b5201206c1ba00c546de57?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Apr 03 |
@@ -156,5 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Radio-Canada](http://www.radio-canada.ca/)** | **[Researcher (CMG) (Indigenous summer paid internship) (English Services)](https://jobright.ai/jobs/info/69cd3c23cdb525785fb85e3d?utm_campaign=1053&utm_source=git)** | Prince George, BC | On Site | Apr 01 |
 | ↳ | **[Researcher (CMG) (Indigenous summer paid internship) (English Services)](https://jobright.ai/jobs/info/69cd3bda366bb95ba54f9cdc?utm_campaign=1053&utm_source=git)** | Victoria, BC | On Site | Apr 01 |
 | ↳ | **[Researcher (CMG) (Indigenous summer paid internship) (English Services)](https://jobright.ai/jobs/info/69cd3bd4398fb071abf7322f?utm_campaign=1053&utm_source=git)** | Prince Rupert, BC | On Site | Apr 01 |
-| ↳ | **[Researcher (CMG) (Indigenous summer paid internship) (English Services)](https://jobright.ai/jobs/info/69cd3bc2cfdc6132f94169ee?utm_campaign=1053&utm_source=git)** | Kamloops, BC | On Site | Apr 01 |
+| ↳ | **[Researcher (CMG) (Indigenous summer paid internship) (English Services)](https://jobright.ai/jobs/info/69cd3bc254f00230c6ced68e?utm_campaign=1053&utm_source=git)** | Kelowna, BC | On Site | Apr 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
