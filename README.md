@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Our National Conversation (ONC)](https://www.ournationalconversation.org)** | **[Podcast Production Intern](https://jobright.ai/jobs/info/69d046f1cdb525785fba94b1?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, USA | Remote | Apr 03 |
+| **[Bass Pro Shops](https://www.basspro.com)** | **[Intern - Golf Maintenance](https://jobright.ai/jobs/info/69d0460fcfdc6132f9439e19?utm_campaign=1053&utm_source=git)** | Ridgedale, MO (Big Cedar Lodge) | On Site | Apr 03 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Video Editor Intern - BYU-Pathway Worldwide (Full-Time Intern)](https://jobright.ai/jobs/info/69d03d46891d7b11cfcd9f16?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | Hybrid | Apr 03 |
 | **[Indiana University Bloomington](https://www.iu.edu)** | **[Part-Time Student Editorial Intern, Center for Rural Engagement](https://jobright.ai/jobs/info/69d03bf9cfdc6132f9439b0f?utm_campaign=1053&utm_source=git)** | Bloomington, IN | On Site | Apr 03 |
 | **[Monster Energy](http://www.monsterenergy.com/)** | **[Internship - Content Producer](https://jobright.ai/jobs/info/69d03bed891d7b11cfcd9e16?utm_campaign=1053&utm_source=git)** | Corona, CA | On Site | Apr 03 |
@@ -143,18 +145,16 @@ For a complete list, click the following sortable link below:
 | **[Minnesota State Fair Foundation](https://www.msffoundation.org/)** | **[Minnesota State Fair Foundation Summer Intern](https://jobright.ai/jobs/info/69ce66b654f00230c6cfeef4?utm_campaign=1053&utm_source=git)** | St Paul, MN | On Site | Apr 01 |
 | **[Social View Agency](https://www.linkedin.com/company/81888485)** | **[Content Creator Intern](https://jobright.ai/jobs/info/69cdb0e0398fb071abf7b555?utm_campaign=1053&utm_source=git)** | Queens, NY | On Site | Apr 01 |
 | **[Power Digital Marketing](http://www.powerdigitalmarketing.com)** | **[Fashion Intern, Summer 2026](https://jobright.ai/jobs/info/69cd4ff4398fb071abf74107?utm_campaign=1053&utm_source=git)** | United States | Remote | Apr 01 |
-| **[Racine](http://www.racine.eu)** | **[Main Gallery Young Artist](https://jobright.ai/jobs/info/69cd4fcf891d7b11cfcb7bc8?utm_campaign=1053&utm_source=git)** | Racine, WI | On Site | Apr 01 |
-| **[Power Digital Marketing](http://www.powerdigitalmarketing.com)** | **[Fashion Intern, Summer 2026](https://jobright.ai/jobs/info/69cd478a398fb071abf7351c?utm_campaign=1053&utm_source=git)** | Remote - United States | Remote | Apr 01 |
+| ↳ | **[Fashion Intern, Summer 2026](https://jobright.ai/jobs/info/69cd478a398fb071abf7351c?utm_campaign=1053&utm_source=git)** | Remote - United States | Remote | Apr 01 |
 | **[Kalahari Resorts & Conventions](http://www.kalahariresorts.com)** | **[Culinary & Pastry Internship](https://jobright.ai/jobs/info/68e6aeefe8daec61499ad5dd?utm_campaign=1053&utm_source=git)** | Pocono, PA | On Site | Apr 01 |
 | **[Radio-Canada](http://www.radio-canada.ca/)** | **[Researcher (CMG) (Indigenous summer paid internship) (English Services)](https://jobright.ai/jobs/info/69cd3c23cdb525785fb85e3d?utm_campaign=1053&utm_source=git)** | Prince George, BC | On Site | Apr 01 |
 | ↳ | **[Researcher (CMG) (Indigenous summer paid internship) (English Services)](https://jobright.ai/jobs/info/69cd3bda366bb95ba54f9cdc?utm_campaign=1053&utm_source=git)** | Victoria, BC | On Site | Apr 01 |
 | ↳ | **[Researcher (CMG) (Indigenous summer paid internship) (English Services)](https://jobright.ai/jobs/info/69cd3bd4398fb071abf7322f?utm_campaign=1053&utm_source=git)** | Prince Rupert, BC | On Site | Apr 01 |
-| ↳ | **[Researcher (CMG) (Indigenous summer paid internship) (English Services)](https://jobright.ai/jobs/info/69cd3bc2cfdc6132f94169ee?utm_campaign=1053&utm_source=git)** | Kamloops, BC | On Site | Apr 01 |
 | ↳ | **[Researcher (CMG) (Indigenous summer paid internship) (English Services)](https://jobright.ai/jobs/info/69cd3bc254f00230c6ced68e?utm_campaign=1053&utm_source=git)** | Kelowna, BC | On Site | Apr 01 |
+| ↳ | **[Researcher (CMG) (Indigenous summer paid internship) (English Services)](https://jobright.ai/jobs/info/69cd3bc2cfdc6132f94169ee?utm_campaign=1053&utm_source=git)** | Kamloops, BC | On Site | Apr 01 |
 | **[Kalahari Resorts & Conventions](http://www.kalahariresorts.com)** | **[Culinary & Pastry Internship](https://jobright.ai/jobs/info/68e6b6cb1852e62f0081dcbc?utm_campaign=1053&utm_source=git)** | Sandusky, OH | On Site | Apr 01 |
 | **[Vistra Corp.](https://vistracorp.com)** | **[Summer Production Intern - Forney Plant](https://jobright.ai/jobs/info/699553b3ce78e77b4fd972cd?utm_campaign=1053&utm_source=git)** | Forney, TX | On Site | Apr 01 |
 | **[Rock Events](https://rockevents.com/)** | **[Event Facilities Tech Intern - Summer 2026](https://jobright.ai/jobs/info/69793de552f3c27ec645937b?utm_campaign=1053&utm_source=git)** | Detroit, MI | On Site | Apr 01 |
 | **[Soccer Shots Franchising](http://www.soccershotsfranchising.com)** | **[Soccer Shots Internship Spring Season 2025/2026](https://jobright.ai/jobs/info/69cd1ab5366bb95ba54f9075?utm_campaign=1053&utm_source=git)** | Carmel, IN | On Site | Apr 01 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[News Summer Internship- unpaid](https://jobright.ai/jobs/info/69c97db4e565c26a700357b9?utm_campaign=1053&utm_source=git)** | Columbus, OH | On Site | Apr 01 |
-| **[McClatchy Media](https://www.mcclatchy.com/)** | **[News Intern - Part-time](https://jobright.ai/jobs/info/6983cce901214b4cdacbced6?utm_campaign=1053&utm_source=git)** | San Luis Obispo, CA | On Site | Apr 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
