@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[City of Noblesville](https://www.cityofnoblesville.org)** | **[Special Events Intern (Temporary) - Parks & Recreation](https://jobright.ai/jobs/info/69d0e60054f00230c6d172c1?utm_campaign=1053&utm_source=git)** | Noblesville, IN | On Site | Apr 04 |
+| **[City of Irving](https://www.cityofirving.org/2623/Family-Advocacy-Center)** | **[Intern - Production (Part-Time)](https://jobright.ai/jobs/info/69d0e2a00b098b7a6707e6a7?utm_campaign=1053&utm_source=git)** | Irving, TX | On Site | Apr 04 |
 | **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[Her Campus Wellness Editorial Intern - Summer 2026](https://jobright.ai/jobs/info/69d0bd120b098b7a6707d476?utm_campaign=1053&utm_source=git)** | United States | Remote | Apr 04 |
 | **[The Ambony](http://www.manofthehourmag.com/)** | **[Lifestyle Journalist Intern (Home, Tech & Auto)](https://jobright.ai/jobs/info/69d090b7891d7b11cfcdca61?utm_campaign=1053&utm_source=git)** | New York, NY | Remote | Apr 03 |
 | **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[Visitor Experience Curatorial Intern - Nauvoo, IL](https://jobright.ai/jobs/info/69d088cd891d7b11cfcdc6a4?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Apr 03 |
@@ -97,7 +99,6 @@ For a complete list, click the following sortable link below:
 | **[Northside Hospital](http://www.northside.com)** | **[Department Intern](https://jobright.ai/jobs/info/69cd44fd366bb95ba54f9f7d?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Apr 03 |
 | **[TapBlaze](http://www.tapblaze.com)** | **[Narrative Design Intern](https://jobright.ai/jobs/info/69cf87f8cdb525785fba35f7?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Apr 03 |
 | **[Saint Xavier University](http://www.sxu.edu/)** | **[Xavierite Copy Editor - Student Employment](https://jobright.ai/jobs/info/69cf41d554f00230c6d08724?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Apr 02 |
-| **[Pickle](https://www.shoponpickle.com)** | **[Events & Community Summer Intern (NYC)](https://jobright.ai/jobs/info/69d08b7954f00230c6d1330c?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Apr 02 |
 | **[Los Angeles Rams](https://www.therams.com/)** | **[Seasonal Digital Intern](https://jobright.ai/jobs/info/69cf2befcdb525785fb9f6ef?utm_campaign=1053&utm_source=git)** | Woodland Hills, CA | Hybrid | Apr 02 |
 | **[TmrO App](https://www.tmroapp.com/)** | **[Video Editor](https://jobright.ai/jobs/info/69cf2b4acdb525785fb9f23e?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Apr 02 |
 | **[GGC server 咕咕服](www.ggcgo.com)** | **[Community Operations & Events Intern](https://jobright.ai/jobs/info/69cf5dc1891d7b11cfcd2bfc?utm_campaign=1053&utm_source=git)** | California, United States | Remote | Apr 02 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Radio-Canada](http://www.radio-canada.ca/)** | **[Researcher (CMG) (Indigenous summer paid internship) (English Services)](https://jobright.ai/jobs/info/69cd3c23cdb525785fb85e3d?utm_campaign=1053&utm_source=git)** | Prince George, BC | On Site | Apr 01 |
 | ↳ | **[Researcher (CMG) (Indigenous summer paid internship) (English Services)](https://jobright.ai/jobs/info/69cd3bda366bb95ba54f9cdc?utm_campaign=1053&utm_source=git)** | Victoria, BC | On Site | Apr 01 |
 | ↳ | **[Researcher (CMG) (Indigenous summer paid internship) (English Services)](https://jobright.ai/jobs/info/69cd3bd4398fb071abf7322f?utm_campaign=1053&utm_source=git)** | Prince Rupert, BC | On Site | Apr 01 |
-| ↳ | **[Researcher (CMG) (Indigenous summer paid internship) (English Services)](https://jobright.ai/jobs/info/69cd3bc254f00230c6ced68e?utm_campaign=1053&utm_source=git)** | Kelowna, BC | On Site | Apr 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
