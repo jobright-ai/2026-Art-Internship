@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[WAVY-TV 10](http://wavy.com)** | **[WAVY Unpaid Newsroom Intern, Summer 2026](https://jobright.ai/jobs/info/69d1076fcdb525785fbb01aa?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Apr 04 |
 | **[City of Noblesville](https://www.cityofnoblesville.org)** | **[Special Events Intern (Temporary) - Parks & Recreation](https://jobright.ai/jobs/info/69d0e60054f00230c6d172c1?utm_campaign=1053&utm_source=git)** | Noblesville, IN | On Site | Apr 04 |
 | **[City of Irving](https://www.cityofirving.org/2623/Family-Advocacy-Center)** | **[Intern - Production (Part-Time)](https://jobright.ai/jobs/info/69d0e2a00b098b7a6707e6a7?utm_campaign=1053&utm_source=git)** | Irving, TX | On Site | Apr 04 |
 | **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[Her Campus Wellness Editorial Intern - Summer 2026](https://jobright.ai/jobs/info/69d0bd120b098b7a6707d476?utm_campaign=1053&utm_source=git)** | United States | Remote | Apr 04 |
@@ -66,6 +67,7 @@ For a complete list, click the following sortable link below:
 | **[City of Rochester Hills](http://www.rochesterhills.org/)** | **[Video Production Intern](https://jobright.ai/jobs/info/69d07fe4366bb95ba551f139?utm_campaign=1053&utm_source=git)** | Rochester Hills, MI | On Site | Apr 03 |
 | **[The Ambony](http://www.manofthehourmag.com/)** | **[Lifestyle Journalist Intern (Home, Tech & Auto)](https://jobright.ai/jobs/info/69d07c9e54f00230c6d12a1f?utm_campaign=1053&utm_source=git)** | 2 Astor Pl, New York, NY 10003, USA | Remote | Apr 03 |
 | **[United States Hockey League (USHL)](https://www.ushl.com/)** | **[Game Day Content Intern](https://jobright.ai/jobs/info/69d07028cdb525785fbaa413?utm_campaign=1053&utm_source=git)** | Dubuque, IA | On Site | Apr 03 |
+| **[The Legal Aid Society](https://legalaidnyc.org/)** | **[Media Production Intern](https://jobright.ai/jobs/info/69d10152cdb525785fbaff8c?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Apr 03 |
 | **[Our National Conversation (ONC)](https://www.ournationalconversation.org)** | **[Podcast Production Intern](https://jobright.ai/jobs/info/69d046f1cdb525785fba94b1?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, USA | Remote | Apr 03 |
 | **[Bass Pro Shops](https://www.basspro.com)** | **[Intern - Golf Maintenance](https://jobright.ai/jobs/info/69d0460fcfdc6132f9439e19?utm_campaign=1053&utm_source=git)** | Ridgedale, MO (Big Cedar Lodge) | On Site | Apr 03 |
 | **[Our National Conversation (ONC)](https://www.ournationalconversation.org)** | **[Podcast Production Intern](https://jobright.ai/jobs/info/69d05cbb891d7b11cfcdac3b?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Remote | Apr 03 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Fashion Intern, Summer 2026](https://jobright.ai/jobs/info/69cd478a398fb071abf7351c?utm_campaign=1053&utm_source=git)** | Remote - United States | Remote | Apr 01 |
 | **[Kalahari Resorts & Conventions](http://www.kalahariresorts.com)** | **[Culinary & Pastry Internship](https://jobright.ai/jobs/info/68e6aeefe8daec61499ad5dd?utm_campaign=1053&utm_source=git)** | Pocono, PA | On Site | Apr 01 |
 | **[Radio-Canada](http://www.radio-canada.ca/)** | **[Researcher (CMG) (Indigenous summer paid internship) (English Services)](https://jobright.ai/jobs/info/69cd3c23cdb525785fb85e3d?utm_campaign=1053&utm_source=git)** | Prince George, BC | On Site | Apr 01 |
-| ↳ | **[Researcher (CMG) (Indigenous summer paid internship) (English Services)](https://jobright.ai/jobs/info/69cd3bda366bb95ba54f9cdc?utm_campaign=1053&utm_source=git)** | Victoria, BC | On Site | Apr 01 |
-| ↳ | **[Researcher (CMG) (Indigenous summer paid internship) (English Services)](https://jobright.ai/jobs/info/69cd3bd4398fb071abf7322f?utm_campaign=1053&utm_source=git)** | Prince Rupert, BC | On Site | Apr 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
