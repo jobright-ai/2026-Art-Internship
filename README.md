@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[City of Noblesville](https://www.cityofnoblesville.org)** | **[Special Events Intern (Temporary) - Parks & Recreation](https://jobright.ai/jobs/info/69d27c48366bb95ba552e1ca?utm_campaign=1053&utm_source=git)** | Noblesville, IN | On Site | Apr 05 |
 | **[Sightline Media Group](http://www.sightlinemediagroup.com)** | **[Editorial Intern, Military Times](https://jobright.ai/jobs/info/69d271dc891d7b11cfceaaa1?utm_campaign=1053&utm_source=git)** | Washington, DC | Remote | Apr 05 |
 | **[Aurzo](https://www.linkedin.com/company/105644155)** | **[Video Editior Intern](https://jobright.ai/jobs/info/69d25c3ecfdc6132f944aba0?utm_campaign=1053&utm_source=git)** | United States | Remote | Apr 05 |
 | **[Skild AI](https://www.skild.ai/)** | **[Cinematography Intern (Product Videography & Social Media)](https://jobright.ai/jobs/info/68d48fabffc1276de3fdbe8a?utm_campaign=1053&utm_source=git)** | San Mateo, CA | On Site | Apr 05 |
@@ -78,7 +79,6 @@ For a complete list, click the following sortable link below:
 | **[The Ambony](http://www.manofthehourmag.com/)** | **[Lifestyle Journalist Intern (Home, Tech & Auto)](https://jobright.ai/jobs/info/69d090b7891d7b11cfcdca61?utm_campaign=1053&utm_source=git)** | New York, NY | Remote | Apr 03 |
 | **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[Visitor Experience Curatorial Intern - Nauvoo, IL](https://jobright.ai/jobs/info/69d088cd891d7b11cfcdc6a4?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Apr 03 |
 | ↳ | **[Video Editor Intern - BYU-Pathway Worldwide (Full-Time Intern)](https://jobright.ai/jobs/info/69d088cc891d7b11cfcdc6a0?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | Hybrid | Apr 03 |
-| **[City of Rochester Hills](http://www.rochesterhills.org/)** | **[Video Production Intern](https://jobright.ai/jobs/info/69d07fe4366bb95ba551f139?utm_campaign=1053&utm_source=git)** | Rochester Hills, MI | On Site | Apr 03 |
 | **[The Ambony](http://www.manofthehourmag.com/)** | **[Lifestyle Journalist Intern (Home, Tech & Auto)](https://jobright.ai/jobs/info/69d07c9e54f00230c6d12a1f?utm_campaign=1053&utm_source=git)** | 2 Astor Pl, New York, NY 10003, USA | Remote | Apr 03 |
 | **[United States Hockey League (USHL)](https://www.ushl.com/)** | **[Game Day Content Intern](https://jobright.ai/jobs/info/69d07028cdb525785fbaa413?utm_campaign=1053&utm_source=git)** | Dubuque, IA | On Site | Apr 03 |
 | **[The Legal Aid Society](https://legalaidnyc.org/)** | **[Media Production Intern](https://jobright.ai/jobs/info/69d10152cdb525785fbaff8c?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Apr 03 |
