@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[City of Rochester Hills](http://www.rochesterhills.org/)** | **[Video Production Intern](https://jobright.ai/jobs/info/69d2d55e54f00230c6d22581?utm_campaign=1053&utm_source=git)** | Rochester Hills, MI | On Site | Apr 05 |
+| **[International Child Art Foundation](https://icaf.org)** | **[Summer Internship 2026 on-site, full-time, and unpaid](https://jobright.ai/jobs/info/69d2cfcacdb525785fbba8bd?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Apr 05 |
+| **[Loudoun United Football Club](https://www.loudoununitedfc.com/)** | **[Videography and Content Creation Intern](https://jobright.ai/jobs/info/69d2c0ddcdb525785fbba7fa?utm_campaign=1053&utm_source=git)** | Leesburg, VA | On Site | Apr 05 |
+| **[Canyon Entertainment Group](https://canyonentertainmentgroup.com)** | **[Script Writing Internship](https://jobright.ai/jobs/info/69d2a2a9891d7b11cfceb67e?utm_campaign=1053&utm_source=git)** | Canada | Remote | Apr 05 |
 | **[City of Noblesville](https://www.cityofnoblesville.org)** | **[Special Events Intern (Temporary) - Parks & Recreation](https://jobright.ai/jobs/info/69d27c48366bb95ba552e1ca?utm_campaign=1053&utm_source=git)** | Noblesville, IN | On Site | Apr 05 |
 | **[Sightline Media Group](http://www.sightlinemediagroup.com)** | **[Editorial Intern, Military Times](https://jobright.ai/jobs/info/69d271dc891d7b11cfceaaa1?utm_campaign=1053&utm_source=git)** | Washington, DC | Remote | Apr 05 |
 | **[Aurzo](https://www.linkedin.com/company/105644155)** | **[Video Editior Intern](https://jobright.ai/jobs/info/69d25c3ecfdc6132f944aba0?utm_campaign=1053&utm_source=git)** | United States | Remote | Apr 05 |
@@ -64,8 +68,6 @@ For a complete list, click the following sortable link below:
 | **[Advisors Excel](http://advisorsexcel.com)** | **[Copy Editor Intern](https://jobright.ai/jobs/info/690ac9914a1b456627b0b5c8?utm_campaign=1053&utm_source=git)** | Topeka Metropolitan Area | On Site | Apr 05 |
 | **[Kohler Hospitality](https://www.kohlerwisconsin.com/)** | **[Pro Golf Management Intern, Whistling Straits](https://jobright.ai/jobs/info/69d233cf54f00230c6d20413?utm_campaign=1053&utm_source=git)** | Kohler, WI | On Site | Apr 05 |
 | **[Saint Xavier University](http://www.sxu.edu/)** | **[Xavierite Copy Editor - Student Employment](https://jobright.ai/jobs/info/69d1e1f454f00230c6d1dc4c?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Apr 04 |
-| **[H&K Group](https://hk-ksa.com/)** | **[Digital Content Creator/Videographer](https://jobright.ai/jobs/info/69d1b1de0b098b7a67083041?utm_campaign=1053&utm_source=git)** | Skippack, PA | Hybrid | Apr 04 |
-| **[Chair Massage ToGo](www.chairmassagetogo.com)** | **[Video Editor Intern](https://jobright.ai/jobs/info/69d17181cdb525785fbb27b6?utm_campaign=1053&utm_source=git)** | Greater Toronto Area, Canada | Remote | Apr 04 |
 | **[H&K Group](https://hk-ksa.com/)** | **[Digital Content Creator/Videographer](https://jobright.ai/jobs/info/69d16bb7cfdc6132f9443877?utm_campaign=1053&utm_source=git)** | Skippack, PA | Hybrid | Apr 04 |
 | **[City of Lancaster](https://www.cityoflancasterca.org)** | **[Intern - Special Events](https://jobright.ai/jobs/info/69d14a22366bb95ba5525b33?utm_campaign=1053&utm_source=git)** | Lancaster, PA | On Site | Apr 04 |
 | **[WAVY-TV 10](http://wavy.com)** | **[WAVY Unpaid Newsroom Intern, Summer 2026](https://jobright.ai/jobs/info/69d12665891d7b11cfce220e?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Apr 04 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Hearst Newspapers](https://eevd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_15)** | **[WISN Summer Intern](https://jobright.ai/jobs/info/69cdac6b398fb071abf7b08d?utm_campaign=1053&utm_source=git)** | 759 North 19th Street, Milwaukee, WI, 53233, US | On Site | Apr 01 |
 | **[Bluefox Production](www.bluefoxproduction.com/socials)** | **[Live Event Production - Intern](https://jobright.ai/jobs/info/69cd92e3398fb071abf7a2e2?utm_campaign=1053&utm_source=git)** | Overland Park, KS | On Site | Apr 01 |
 | **[Ryan Lawn & Tree](http://ryanlawn.com)** | **[Summer Intern - Tulsa](https://jobright.ai/jobs/info/69cd8c99366bb95ba550039c?utm_campaign=1053&utm_source=git)** | Broken Arrow,OK,US | On Site | Apr 01 |
-| **[Chicago Sky WNBA](http://chicagosky.net)** | **[Chicago Sky PR/Communications Game Day Intern (FOR EDUCATIONAL CREDIT)](https://jobright.ai/jobs/info/69cddf6ccdb525785fb8fd22?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Apr 01 |
-| **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69cddb7fcfdc6132f942084d?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | Apr 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
