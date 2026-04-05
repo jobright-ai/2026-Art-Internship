@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[City of Kenmore](http://www.kenmorewa.gov)** | **[Special Events Summer Intern](https://jobright.ai/jobs/info/69d1cd5acfdc6132f944643d?utm_campaign=1053&utm_source=git)** | Kenmore, WA | On Site | Apr 04 |
 | **[H&K Group](https://hk-ksa.com/)** | **[Digital Content Creator/Videographer](https://jobright.ai/jobs/info/69d1b1de0b098b7a67083041?utm_campaign=1053&utm_source=git)** | Skippack, PA | Hybrid | Apr 04 |
 | **[Chair Massage ToGo](www.chairmassagetogo.com)** | **[Video Editor Intern](https://jobright.ai/jobs/info/69d17181cdb525785fbb27b6?utm_campaign=1053&utm_source=git)** | Greater Toronto Area, Canada | Remote | Apr 04 |
 | **[H&K Group](https://hk-ksa.com/)** | **[Digital Content Creator/Videographer](https://jobright.ai/jobs/info/69d16bb7cfdc6132f9443877?utm_campaign=1053&utm_source=git)** | Skippack, PA | Hybrid | Apr 04 |
@@ -133,7 +134,6 @@ For a complete list, click the following sortable link below:
 | **[Golden Pet Brands](www.goldenpetbrands.com)** | **[Intern, Video Editor - Summer 2026](https://jobright.ai/jobs/info/69c2b9a8ec22f8310ab09d13?utm_campaign=1053&utm_source=git)** | Los Angeles, California, United States | Hybrid | Apr 02 |
 | **[Golden Hippo®](https://www.huntrealestate.com/)** | **[Video Editor Intern](https://jobright.ai/jobs/info/69b3218ea8ac8e70ff674f97?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 02 |
 | **[SOLV Energy](https://www.solvenergy.com/)** | **[Video Editor & Digital Media Intern](https://jobright.ai/jobs/info/695f49f10badca5763afc667?utm_campaign=1053&utm_source=git)** | San Diego, CA | On Site | Apr 02 |
-| **[Destination by Hyatt](https://www.thewoodmark.com/still-spa.htm)** | **[Turf Internship – The Club at Spruce Peak – Summer 2026](https://jobright.ai/jobs/info/69b623713b74eb1e2c83dc6c?utm_campaign=1053&utm_source=git)** | Stowe, VT | On Site | Apr 02 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Yellow Shoes Planning Innovation Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69ce5fe2398fb071abf847fd?utm_campaign=1053&utm_source=git)** | Celebration, FL | On Site | Apr 02 |
 | **[Disney Experiences](https://disneyconnect.com/)** | **[Yellow Shoes Planning Innovation Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69ce5e38cfdc6132f9427a1d?utm_campaign=1053&utm_source=git)** | Celebration, FL | On Site | Apr 02 |
 | **[Kohler Hospitality](https://www.kohlerwisconsin.com/)** | **[Pro Golf Management Intern, Blackwolf Run](https://jobright.ai/jobs/info/69ce552c891d7b11cfcc7e5a?utm_campaign=1053&utm_source=git)** | Kohler, WI | On Site | Apr 02 |
