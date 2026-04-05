@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[H&K Group](https://hk-ksa.com/)** | **[Digital Content Creator/Videographer](https://jobright.ai/jobs/info/69d1b1de0b098b7a67083041?utm_campaign=1053&utm_source=git)** | Skippack, PA | Hybrid | Apr 04 |
 | **[Chair Massage ToGo](www.chairmassagetogo.com)** | **[Video Editor Intern](https://jobright.ai/jobs/info/69d17181cdb525785fbb27b6?utm_campaign=1053&utm_source=git)** | Greater Toronto Area, Canada | Remote | Apr 04 |
 | **[H&K Group](https://hk-ksa.com/)** | **[Digital Content Creator/Videographer](https://jobright.ai/jobs/info/69d16bb7cfdc6132f9443877?utm_campaign=1053&utm_source=git)** | Skippack, PA | Hybrid | Apr 04 |
 | **[City of Lancaster](https://www.cityoflancasterca.org)** | **[Intern - Special Events](https://jobright.ai/jobs/info/69d14a22366bb95ba5525b33?utm_campaign=1053&utm_source=git)** | Lancaster, PA | On Site | Apr 04 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[VIZ Media](http://www.viz.com)** | **[Video Intern (P/T, Paid)](https://jobright.ai/jobs/info/69cd8546398fb071abf783ed?utm_campaign=1053&utm_source=git)** | San Francisco, CA | On Site | Apr 01 |
 | **[Alaka`ina Foundation Family of Companies](https://www.alakainafoundation.com/)** | **[Part Time Writer - Intern](https://jobright.ai/jobs/info/69b045980b2db6275c03e142?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | Apr 01 |
 | **[Minnesota State Fair Foundation](https://www.msffoundation.org/)** | **[Minnesota State Fair Foundation Summer Intern](https://jobright.ai/jobs/info/69ce66b654f00230c6cfeef4?utm_campaign=1053&utm_source=git)** | St Paul, MN | On Site | Apr 01 |
-| **[Power Digital Marketing](http://www.powerdigitalmarketing.com)** | **[Fashion Intern, Summer 2026](https://jobright.ai/jobs/info/69cd4ff4398fb071abf74107?utm_campaign=1053&utm_source=git)** | United States | Remote | Apr 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
