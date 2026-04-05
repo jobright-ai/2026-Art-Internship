@@ -60,7 +60,6 @@ For a complete list, click the following sortable link below:
 | **[Advisors Excel](http://advisorsexcel.com)** | **[Copy Editor Intern](https://jobright.ai/jobs/info/690ac9914a1b456627b0b5c8?utm_campaign=1053&utm_source=git)** | Topeka Metropolitan Area | On Site | Apr 05 |
 | **[Kohler Hospitality](https://www.kohlerwisconsin.com/)** | **[Pro Golf Management Intern, Whistling Straits](https://jobright.ai/jobs/info/69d233cf54f00230c6d20413?utm_campaign=1053&utm_source=git)** | Kohler, WI | On Site | Apr 05 |
 | **[Saint Xavier University](http://www.sxu.edu/)** | **[Xavierite Copy Editor - Student Employment](https://jobright.ai/jobs/info/69d1e1f454f00230c6d1dc4c?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Apr 04 |
-| **[City of Kenmore](http://www.kenmorewa.gov)** | **[Special Events Summer Intern](https://jobright.ai/jobs/info/69d1cd5acfdc6132f944643d?utm_campaign=1053&utm_source=git)** | Kenmore, WA | On Site | Apr 04 |
 | **[H&K Group](https://hk-ksa.com/)** | **[Digital Content Creator/Videographer](https://jobright.ai/jobs/info/69d1b1de0b098b7a67083041?utm_campaign=1053&utm_source=git)** | Skippack, PA | Hybrid | Apr 04 |
 | **[Chair Massage ToGo](www.chairmassagetogo.com)** | **[Video Editor Intern](https://jobright.ai/jobs/info/69d17181cdb525785fbb27b6?utm_campaign=1053&utm_source=git)** | Greater Toronto Area, Canada | Remote | Apr 04 |
 | **[H&K Group](https://hk-ksa.com/)** | **[Digital Content Creator/Videographer](https://jobright.ai/jobs/info/69d16bb7cfdc6132f9443877?utm_campaign=1053&utm_source=git)** | Skippack, PA | Hybrid | Apr 04 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[VIZ Media](http://www.viz.com)** | **[Video Intern (P/T, Paid)](https://jobright.ai/jobs/info/69cd7d42cdb525785fb885c9?utm_campaign=1053&utm_source=git)** | San Francisco, California, United States | On Site | Apr 01 |
 | **[NoGood](https://nogood.io)** | **[Intern- Social Video Creator](https://jobright.ai/jobs/info/69cd7357891d7b11cfcb8f66?utm_campaign=1053&utm_source=git)** | New York, New York, United States | Hybrid | Apr 01 |
 | **[CBC/Radio-Canada](https://cbc.radio-canada.ca)** | **[Researcher (CMG) (Indigenous summer paid internship) (English Services)](https://jobright.ai/jobs/info/69cd7214891d7b11cfcb8cdd?utm_campaign=1053&utm_source=git)** | Prince George, BC | On Site | Apr 01 |
+| **[VIZ Media](http://www.viz.com)** | **[Video Intern (P/T, Paid)](https://jobright.ai/jobs/info/69cd8546398fb071abf783ed?utm_campaign=1053&utm_source=git)** | San Francisco, CA | On Site | Apr 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
