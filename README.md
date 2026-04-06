@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Return Records](https://returnrecords.com)** | **[Live Events Intern](https://jobright.ai/jobs/info/69d4307c891d7b11cfcf8259?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Apr 06 |
 | **[Five Wings Arts Council](http://fwac.org)** | **[Paid Video Production Intern](https://jobright.ai/jobs/info/69d40a32891d7b11cfcf6d14?utm_campaign=1053&utm_source=git)** | Brainerd, MN | On Site | Apr 06 |
 | **[Christopher John Rogers](https://christopherjohnrogers.com)** | **[Fashion Production Intern (University Credit)](https://jobright.ai/jobs/info/69d408f554f00230c6d2d8e5?utm_campaign=1053&utm_source=git)** | NYC Metro Area | On Site | Apr 06 |
 | **[Bring Change to Mind (BC2M)](https://bringchange2mind.org/)** | **[Student Stories Intern](https://jobright.ai/jobs/info/69d4060fcfdc6132f9456d95?utm_campaign=1053&utm_source=git)** | United States | Remote | Apr 06 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Golden Hippo®](https://www.huntrealestate.com/)** | **[Art Production Assistant Intern](https://jobright.ai/jobs/info/69c5d8bd1b5ad0288737a4eb?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 02 |
 | **[Golden Pet Brands](www.goldenpetbrands.com)** | **[Intern, Video Editor - Summer 2026](https://jobright.ai/jobs/info/69c2b9a8ec22f8310ab09d13?utm_campaign=1053&utm_source=git)** | Los Angeles, California, United States | Hybrid | Apr 02 |
 | **[Golden Hippo®](https://www.huntrealestate.com/)** | **[Video Editor Intern](https://jobright.ai/jobs/info/69b3218ea8ac8e70ff674f97?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 02 |
-| **[SOLV Energy](https://www.solvenergy.com/)** | **[Video Editor & Digital Media Intern](https://jobright.ai/jobs/info/695f49f10badca5763afc667?utm_campaign=1053&utm_source=git)** | San Diego, CA | On Site | Apr 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
