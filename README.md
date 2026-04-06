@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Colonial Williamsburg Foundation](https://www.colonialwilliamsburg.org/)** | **[​​Conservation Intern​](https://jobright.ai/jobs/info/69d3ced8891d7b11cfcf43ff?utm_campaign=1053&utm_source=git)** | Williamsburg, Virginia, United States | On Site | Apr 06 |
+| **[Intermedium USA](https://intermediumcorp.com)** | **[Internship-social media editor video EXPERIENCE](https://jobright.ai/jobs/info/69d3c8db366bb95ba5536a91?utm_campaign=1053&utm_source=git)** | United States | Remote | Apr 06 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Internship](https://jobright.ai/jobs/info/69d3c276891d7b11cfcf30e7?utm_campaign=1053&utm_source=git)** | Savannah, GA | On Site | Apr 06 |
 | **[Indiana University Bloomington](https://www.iu.edu)** | **[Part-Time Student Editorial Intern, Center for Rural Engagement](https://jobright.ai/jobs/info/69d386bf54f00230c6d283b4?utm_campaign=1053&utm_source=git)** | Bloomington, IN | On Site | Apr 06 |
 | **[B'Creative Media](http://www.BcreativeMedia.net)** | **[Associate Producer Intern](https://jobright.ai/jobs/info/69d36d700b098b7a6708f0cf?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Apr 06 |
@@ -104,6 +106,7 @@ For a complete list, click the following sortable link below:
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[VAB Paid Intern](https://jobright.ai/jobs/info/69cff1c10b098b7a67074d94?utm_campaign=1053&utm_source=git)** | VA, Richmond | On Site | Apr 03 |
 | **[Brilliant Infotech Inc.](http://brilliantinfotech.com)** | **[Social Media Video Editing Internship / Fall 2026](https://jobright.ai/jobs/info/69cfe83854f00230c6d0d31b?utm_campaign=1053&utm_source=git)** | Texas, United States | Remote | Apr 03 |
 | **[WAVY-TV 10](http://wavy.com)** | **[WAVY Unpaid Digital News Desk Intern, Summer 2026](https://jobright.ai/jobs/info/6943624650bbaf765055485d?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Apr 03 |
+| **[YMCA of Greater Grand Rapids](http://www.grymca.org/)** | **[Sports & STEAM Intern](https://jobright.ai/jobs/info/69d3cf11891d7b11cfcf4529?utm_campaign=1053&utm_source=git)** | Grand Rapids, MI | On Site | Apr 03 |
 | **[The Global Leadership Network](https://www.globalleadership.org)** | **[MEDIA AND PRODUCER ASST. - SUMMER INTERNSHIP](https://jobright.ai/jobs/info/69cfd569366bb95ba551931e?utm_campaign=1053&utm_source=git)** | Global Leadership Network - South Barrington, IL 60010 | Hybrid | Apr 03 |
 | **[WAVY-TV 10](http://wavy.com)** | **[WAVY Unpaid Hampton Roads Show/Production Intern, Summer Semester 2026](https://jobright.ai/jobs/info/69436d3594730b73987687c4?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Apr 03 |
 | ↳ | **[WAVY Unpaid Sports Intern, Summer Semester 2026](https://jobright.ai/jobs/info/6944baa750bbaf765056d1fa?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Apr 03 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[WISN-TV](https://www.wisn.com)** | **[WISN Summer Intern](https://jobright.ai/jobs/info/69cde87bcdb525785fb90481?utm_campaign=1053&utm_source=git)** | Milwaukee, WI | On Site | Apr 01 |
 | **[Radio-Canada](http://www.radio-canada.ca/)** | **[Researcher (CMG) (Indigenous summer paid internship) (English Services)](https://jobright.ai/jobs/info/69cde09b366bb95ba5503daf?utm_campaign=1053&utm_source=git)** | Prince George, BC | On Site | Apr 01 |
 | **[Chicago Sky WNBA](http://chicagosky.net)** | **[Game Operations Intern (Seasonal)](https://jobright.ai/jobs/info/69cdf630398fb071abf7fc26?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Apr 01 |
-| **[Ryan Lawn & Tree](http://ryanlawn.com)** | **[Summer Intern - Tulsa](https://jobright.ai/jobs/info/69ce23bf891d7b11cfcc5732?utm_campaign=1053&utm_source=git)** | Broken Arrow, OK | On Site | Apr 01 |
-| **[NVE Experience Agency](http://experiencenve.com)** | **[Event Production Summer Internship](https://jobright.ai/jobs/info/69cdb994398fb071abf7b976?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 01 |
-| **[City of Philadelphia](http://www.phila.gov/)** | **[Historical Preservation Intern](https://jobright.ai/jobs/info/69cdacce891d7b11cfcbec3a?utm_campaign=1053&utm_source=git)** | 1515 Arch St, Philadelphia, PA 19102, USA | On Site | Apr 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
