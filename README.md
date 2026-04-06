@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Five Wings Arts Council](http://fwac.org)** | **[Paid Video Production Intern](https://jobright.ai/jobs/info/69d40a32891d7b11cfcf6d14?utm_campaign=1053&utm_source=git)** | Brainerd, MN | On Site | Apr 06 |
+| **[Christopher John Rogers](https://christopherjohnrogers.com)** | **[Fashion Production Intern (University Credit)](https://jobright.ai/jobs/info/69d408f554f00230c6d2d8e5?utm_campaign=1053&utm_source=git)** | NYC Metro Area | On Site | Apr 06 |
+| **[Bring Change to Mind (BC2M)](https://bringchange2mind.org/)** | **[Student Stories Intern](https://jobright.ai/jobs/info/69d4060fcfdc6132f9456d95?utm_campaign=1053&utm_source=git)** | United States | Remote | Apr 06 |
 | **[English Language and Literature](https://englishlanguageandliterature.com/)** | **[Web Content Writer](https://jobright.ai/jobs/info/69d3f974e63cea7a8b65555a?utm_campaign=1053&utm_source=git)** | Canada | Remote | Apr 06 |
 | **[The Washington Post](http://www.washingtonpost.com/)** | **[Summer Intern, WP Creator (Social Video & Production)](https://jobright.ai/jobs/info/69d3f403891d7b11cfcf5dc5?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Apr 06 |
 | ↳ | **[Summer Intern, WP Creator (Social Video & Production)](https://jobright.ai/jobs/info/69d3f330366bb95ba5538f50?utm_campaign=1053&utm_source=git)** | DC-Washington-TWP Headquarters | On Site | Apr 06 |
@@ -141,6 +144,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Paid Intern – Liahona Digital Content Writer/Creator](https://jobright.ai/jobs/info/69cedcbbcfdc6132f942d2d9?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | Hybrid | Apr 02 |
 | **[Lancaster Cupcake](https://www.lancastercupcake.com)** | **[Special Events Summer 2026 Internship](https://jobright.ai/jobs/info/69cedab4cfdc6132f942d1a9?utm_campaign=1053&utm_source=git)** | Lebanon, PA | On Site | Apr 02 |
 | **[Brilliant Agency](https://brilliantprandmarketing.com)** | **[Social Media Video Editing Internship / Fall 2026](https://jobright.ai/jobs/info/69ced97b891d7b11cfccd744?utm_campaign=1053&utm_source=git)** | Texas, United States | Remote | Apr 02 |
+| **[Buffalo Toronto Public Media](https://www.wned.org)** | **[Internship - Radio News Production](https://jobright.ai/jobs/info/69d4086d366bb95ba5539ca3?utm_campaign=1053&utm_source=git)** | 140 Lower Terrace, Buffalo, NY 14202, USA | Hybrid | Apr 02 |
 | **[Oliver Mechanical Inc](https://olivermechanicalinc.com)** | **[Videography/Photography Summer Intern](https://jobright.ai/jobs/info/69ced232cfdc6132f942c96c?utm_campaign=1053&utm_source=git)** | Londonderry, NH | On Site | Apr 02 |
 | **[Romontio](https://romontio.com/)** | **[Production Intern](https://jobright.ai/jobs/info/69cece8ecdb525785fb9b942?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Apr 02 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Hello Iowa Intern (Unpaid)](https://jobright.ai/jobs/info/69cece39891d7b11cfcccc0d?utm_campaign=1053&utm_source=git)** | Des Moines, IA | On Site | Apr 02 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Golden Pet Brands](www.goldenpetbrands.com)** | **[Intern, Video Editor - Summer 2026](https://jobright.ai/jobs/info/69c2b9a8ec22f8310ab09d13?utm_campaign=1053&utm_source=git)** | Los Angeles, California, United States | Hybrid | Apr 02 |
 | **[Golden Hippo®](https://www.huntrealestate.com/)** | **[Video Editor Intern](https://jobright.ai/jobs/info/69b3218ea8ac8e70ff674f97?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 02 |
 | **[SOLV Energy](https://www.solvenergy.com/)** | **[Video Editor & Digital Media Intern](https://jobright.ai/jobs/info/695f49f10badca5763afc667?utm_campaign=1053&utm_source=git)** | San Diego, CA | On Site | Apr 02 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Yellow Shoes Planning Innovation Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69ce5fe2398fb071abf847fd?utm_campaign=1053&utm_source=git)** | Celebration, FL | On Site | Apr 02 |
-| **[Disney Experiences](https://disneyconnect.com/)** | **[Yellow Shoes Planning Innovation Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69ce5e38cfdc6132f9427a1d?utm_campaign=1053&utm_source=git)** | Celebration, FL | On Site | Apr 02 |
-| **[Kohler Hospitality](https://www.kohlerwisconsin.com/)** | **[Pro Golf Management Intern, Blackwolf Run](https://jobright.ai/jobs/info/69ce552c891d7b11cfcc7e5a?utm_campaign=1053&utm_source=git)** | Kohler, WI | On Site | Apr 02 |
-| **[McClatchy Media](https://www.mcclatchy.com/)** | **[News Intern - Mahoning Matters Summer 2026](https://jobright.ai/jobs/info/69b1c669548f140066e7921c?utm_campaign=1053&utm_source=git)** | United States | Remote | Apr 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
