@@ -57,12 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Internship](https://jobright.ai/jobs/info/69d3c276891d7b11cfcf30e7?utm_campaign=1053&utm_source=git)** | Savannah, GA | On Site | Apr 06 |
 | **[Indiana University Bloomington](https://www.iu.edu)** | **[Part-Time Student Editorial Intern, Center for Rural Engagement](https://jobright.ai/jobs/info/69d386bf54f00230c6d283b4?utm_campaign=1053&utm_source=git)** | Bloomington, IN | On Site | Apr 06 |
 | **[B'Creative Media](http://www.BcreativeMedia.net)** | **[Associate Producer Intern](https://jobright.ai/jobs/info/69d36d700b098b7a6708f0cf?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Apr 06 |
 | **[Our National Conversation (ONC)](https://www.ournationalconversation.org)** | **[Progressive Writer Intern](https://jobright.ai/jobs/info/69d33264366bb95ba5531a4f?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Remote | Apr 05 |
 | ↳ | **[Progressive Writer Intern](https://jobright.ai/jobs/info/69d31e8954f00230c6d24e9c?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, USA | Remote | Apr 05 |
 | **[City of Rochester Hills](http://www.rochesterhills.org/)** | **[Video Production Intern](https://jobright.ai/jobs/info/69d2d55e54f00230c6d22581?utm_campaign=1053&utm_source=git)** | Rochester Hills, MI | On Site | Apr 05 |
-| **[International Child Art Foundation](https://icaf.org)** | **[Summer Internship 2026 on-site, full-time, and unpaid](https://jobright.ai/jobs/info/69d2cfcacdb525785fbba8bd?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Apr 05 |
 | **[Loudoun United Football Club](https://www.loudoununitedfc.com/)** | **[Videography and Content Creation Intern](https://jobright.ai/jobs/info/69d2c0ddcdb525785fbba7fa?utm_campaign=1053&utm_source=git)** | Leesburg, VA | On Site | Apr 05 |
 | **[Sightline Media Group](http://www.sightlinemediagroup.com)** | **[Editorial Intern, Military Times](https://jobright.ai/jobs/info/69d271dc891d7b11cfceaaa1?utm_campaign=1053&utm_source=git)** | Washington, DC | Remote | Apr 05 |
 | **[Skild AI](https://www.skild.ai/)** | **[Cinematography Intern (Product Videography & Social Media)](https://jobright.ai/jobs/info/68d48fabffc1276de3fdbe8a?utm_campaign=1053&utm_source=git)** | San Mateo, CA | On Site | Apr 05 |
