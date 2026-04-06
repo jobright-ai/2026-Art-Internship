@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[English Language and Literature](https://englishlanguageandliterature.com/)** | **[Web Content Writer](https://jobright.ai/jobs/info/69d3f974e63cea7a8b65555a?utm_campaign=1053&utm_source=git)** | Canada | Remote | Apr 06 |
+| **[The Washington Post](http://www.washingtonpost.com/)** | **[Summer Intern, WP Creator (Social Video & Production)](https://jobright.ai/jobs/info/69d3f403891d7b11cfcf5dc5?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Apr 06 |
+| ↳ | **[Summer Intern, WP Creator (Social Video & Production)](https://jobright.ai/jobs/info/69d3f330366bb95ba5538f50?utm_campaign=1053&utm_source=git)** | DC-Washington-TWP Headquarters | On Site | Apr 06 |
 | **[National FFA Organization](https://www.ffa.org)** | **[NATIONAL FFA CONVENTION & EXPO NEWSROOM VIDEO EDITOR INTERNSHIP](https://jobright.ai/jobs/info/69d3ebd5cdb525785fbc48fb?utm_campaign=1053&utm_source=git)** | Indianapolis,IN,US | On Site | Apr 06 |
 | ↳ | **[NATIONAL FFA CONVENTION & EXPO NEWSROOM JOURNALIST INTERNSHIP](https://jobright.ai/jobs/info/69d3eba7e63cea7a8b654e3c?utm_campaign=1053&utm_source=git)** | Indianapolis,IN,US | On Site | Apr 06 |
 | ↳ | **[NATIONAL FFA CONVENTION & EXPO NEWSROOM ANCHOR INTERNSHIP](https://jobright.ai/jobs/info/69d3eb8fcfdc6132f9455db0?utm_campaign=1053&utm_source=git)** | Indianapolis,IN,US | On Site | Apr 06 |
@@ -84,7 +87,6 @@ For a complete list, click the following sortable link below:
 | **[United Wholesale Mortgage](http://uwm.com)** | **[2026 Videography Summer Internship Program](https://jobright.ai/jobs/info/697c0cfd0b88cc7d6422fa35?utm_campaign=1053&utm_source=git)** | Pontiac, MI | On Site | Apr 04 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Video Production Intern](https://jobright.ai/jobs/info/69b418b4569738374138a5c3?utm_campaign=1053&utm_source=git)** | Richardson, TX | On Site | Apr 04 |
 | **[Storm Guard Roofing](https://stormguardrc.com)** | **[Production Intern Summer 2026](https://jobright.ai/jobs/info/69d10b300b098b7a6707f75a?utm_campaign=1053&utm_source=git)** | Madison, WI | On Site | Apr 04 |
-| **[City of Irving](https://www.cityofirving.org/2623/Family-Advocacy-Center)** | **[Intern - Production (Part-Time)](https://jobright.ai/jobs/info/69d0e2a00b098b7a6707e6a7?utm_campaign=1053&utm_source=git)** | Irving, TX | On Site | Apr 04 |
 | **[The Ambony](http://www.manofthehourmag.com/)** | **[Lifestyle Journalist Intern (Home, Tech & Auto)](https://jobright.ai/jobs/info/69d090b7891d7b11cfcdca61?utm_campaign=1053&utm_source=git)** | New York, NY | Remote | Apr 03 |
 | **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[Visitor Experience Curatorial Intern - Nauvoo, IL](https://jobright.ai/jobs/info/69d088cd891d7b11cfcdc6a4?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Apr 03 |
 | ↳ | **[Video Editor Intern - BYU-Pathway Worldwide (Full-Time Intern)](https://jobright.ai/jobs/info/69d088cc891d7b11cfcdc6a0?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | Hybrid | Apr 03 |
@@ -136,8 +138,7 @@ For a complete list, click the following sortable link below:
 | **[Abuse Refuge Org. (ARO)](https://GoARO.org)** | **[Special Projects Intern (Volunteer/Remote)](https://jobright.ai/jobs/info/69ceeb1ecdb525785fb9d107?utm_campaign=1053&utm_source=git)** | Westerville, OH | Remote | Apr 02 |
 | **[Bonneville International](http://bonneville.com/)** | **[KSL Sports Summer Internship](https://jobright.ai/jobs/info/69cee6ed398fb071abf8a873?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Apr 02 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Paid Intern – Liahona Digital Content Writer/Creator](https://jobright.ai/jobs/info/69cee12d366bb95ba551070a?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT, United States | Hybrid | Apr 02 |
-| **[Buffalo Toronto Public Media](https://www.wned.org)** | **[Internship - Radio News Production](https://jobright.ai/jobs/info/69cee106366bb95ba5510604?utm_campaign=1053&utm_source=git)** | 140 Lower Terrace, Buffalo, NY 14202, USA | Hybrid | Apr 02 |
-| **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Paid Intern – Liahona Digital Content Writer/Creator](https://jobright.ai/jobs/info/69cedcbbcfdc6132f942d2d9?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | Hybrid | Apr 02 |
+| ↳ | **[Paid Intern – Liahona Digital Content Writer/Creator](https://jobright.ai/jobs/info/69cedcbbcfdc6132f942d2d9?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | Hybrid | Apr 02 |
 | **[Lancaster Cupcake](https://www.lancastercupcake.com)** | **[Special Events Summer 2026 Internship](https://jobright.ai/jobs/info/69cedab4cfdc6132f942d1a9?utm_campaign=1053&utm_source=git)** | Lebanon, PA | On Site | Apr 02 |
 | **[Brilliant Agency](https://brilliantprandmarketing.com)** | **[Social Media Video Editing Internship / Fall 2026](https://jobright.ai/jobs/info/69ced97b891d7b11cfccd744?utm_campaign=1053&utm_source=git)** | Texas, United States | Remote | Apr 02 |
 | **[Oliver Mechanical Inc](https://olivermechanicalinc.com)** | **[Videography/Photography Summer Intern](https://jobright.ai/jobs/info/69ced232cfdc6132f942c96c?utm_campaign=1053&utm_source=git)** | Londonderry, NH | On Site | Apr 02 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Disney Experiences](https://disneyconnect.com/)** | **[Yellow Shoes Planning Innovation Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69ce5e38cfdc6132f9427a1d?utm_campaign=1053&utm_source=git)** | Celebration, FL | On Site | Apr 02 |
 | **[Kohler Hospitality](https://www.kohlerwisconsin.com/)** | **[Pro Golf Management Intern, Blackwolf Run](https://jobright.ai/jobs/info/69ce552c891d7b11cfcc7e5a?utm_campaign=1053&utm_source=git)** | Kohler, WI | On Site | Apr 02 |
 | **[McClatchy Media](https://www.mcclatchy.com/)** | **[News Intern - Mahoning Matters Summer 2026](https://jobright.ai/jobs/info/69b1c669548f140066e7921c?utm_campaign=1053&utm_source=git)** | United States | Remote | Apr 02 |
-| **[Koniag Government Services](https://www.koniag-gs.com/)** | **[Intern - Proposal Editor](https://jobright.ai/jobs/info/69b1c074548f140066e7840f?utm_campaign=1053&utm_source=git)** | Chantilly, VA | Remote | Apr 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
