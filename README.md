@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Internship](https://jobright.ai/jobs/info/68d711c2d3fe025a3015ea9d?utm_campaign=1053&utm_source=git)** | Savannah, GA | On Site | Apr 07 |
+| **[TelevisaUnivision](https://www.corporate.televisaunivision.com)** | **[Intern, Live Events](https://jobright.ai/jobs/info/699d0dc481476f6176b5ade3?utm_campaign=1053&utm_source=git)** | Miami, FL | On Site | Apr 07 |
 | **[City of Irving](https://www.cityofirving.org/2623/Family-Advocacy-Center)** | **[Intern - Production (Part-Time)](https://jobright.ai/jobs/info/69d5004f706f771673ba00c7?utm_campaign=1053&utm_source=git)** | Irving, TX | On Site | Apr 07 |
 | **[ALO](https://www.aloyoga.com/)** | **[PR & Wellness Club Intern](https://jobright.ai/jobs/info/69baf0e2569738374140c630?utm_campaign=1053&utm_source=git)** | Beverly Hills, California, United States | On Site | Apr 06 |
 | **[Our National Conversation (ONC)](https://www.ournationalconversation.org)** | **[Digital Reporter Intern](https://jobright.ai/jobs/info/69d485b7e63cea7a8b65aa2f?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Remote | Apr 06 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Temple Square Hospitality Corporation](http://templesquarehospitality.com)** | **[KSL Sports Summer Internship](https://jobright.ai/jobs/info/69cead4e366bb95ba550deaf?utm_campaign=1053&utm_source=git)** | SLC Triad Center | On Site | Apr 02 |
 | **[evanhealy](http://evanhealy.com)** | **[Creative story-teller + social media content intern](https://jobright.ai/jobs/info/69ced94754f00230c6d03eee?utm_campaign=1053&utm_source=git)** | Carlsbad, CA | On Site | Apr 02 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Disney Entertainment Television Communication Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69cea662891d7b11cfccadb3?utm_campaign=1053&utm_source=git)** | Burbank, CA, USA | Hybrid | Apr 02 |
-| **[Golden Hippo®](https://www.huntrealestate.com/)** | **[Art Production Assistant Intern](https://jobright.ai/jobs/info/69c5d8bd1b5ad0288737a4eb?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 02 |
-| **[Golden Pet Brands](www.goldenpetbrands.com)** | **[Intern, Video Editor - Summer 2026](https://jobright.ai/jobs/info/69c2b9a8ec22f8310ab09d13?utm_campaign=1053&utm_source=git)** | Los Angeles, California, United States | Hybrid | Apr 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
