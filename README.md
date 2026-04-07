@@ -57,7 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Hearst Connecticut Media Group](https://hearstmediact.com)** | **[Social Video Intern](https://jobright.ai/jobs/info/699c6a84e0bddb6acacb75b7?utm_campaign=1053&utm_source=git)** | Meriden, CT | On Site | Apr 07 |
+| **[Nomara USA](https://intermediumcorp.com)** | **[Social Media Video Editor Intern — Your Launchpad Into the Industry](https://jobright.ai/jobs/info/69d5352fe63cea7a8b65f78b?utm_campaign=1053&utm_source=git)** | United States | Remote | Apr 07 |
+| **[Hearst Connecticut Media Group](https://hearstmediact.com)** | **[Reporter Intern](https://jobright.ai/jobs/info/69d40fba891d7b11cfcf6f6b?utm_campaign=1053&utm_source=git)** | Norwalk, CT | On Site | Apr 07 |
+| **[Worcester Railers HC](https://www.railershc.com)** | **[Community & Fan Engagement Intern Fall 2026](https://jobright.ai/jobs/info/69d52bf1706f771673ba0fa9?utm_campaign=1053&utm_source=git)** | Worcester, MA | On Site | Apr 07 |
+| **[Return Records](https://returnrecords.com)** | **[Live Events Intern](https://jobright.ai/jobs/info/69d5286c891d7b11cfcffc2e?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Apr 07 |
+| **[Hearst Connecticut Media Group](https://hearstmediact.com)** | **[Reporter Intern](https://jobright.ai/jobs/info/69d40fca366bb95ba553a20a?utm_campaign=1053&utm_source=git)** | Meriden, CT | On Site | Apr 07 |
+| ↳ | **[Social Video Intern](https://jobright.ai/jobs/info/699c6a84e0bddb6acacb75b7?utm_campaign=1053&utm_source=git)** | Meriden, CT | On Site | Apr 07 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Internship](https://jobright.ai/jobs/info/68d711c2d3fe025a3015ea9d?utm_campaign=1053&utm_source=git)** | Savannah, GA | On Site | Apr 07 |
 | **[TelevisaUnivision](https://www.corporate.televisaunivision.com)** | **[Intern, Live Events](https://jobright.ai/jobs/info/699d0dc481476f6176b5ade3?utm_campaign=1053&utm_source=git)** | Miami, FL | On Site | Apr 07 |
 | **[City of Irving](https://www.cityofirving.org/2623/Family-Advocacy-Center)** | **[Intern - Production (Part-Time)](https://jobright.ai/jobs/info/69d5004f706f771673ba00c7?utm_campaign=1053&utm_source=git)** | Irving, TX | On Site | Apr 07 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Buffalo Toronto Public Media](https://www.wned.org)** | **[Internship - Radio News Production](https://jobright.ai/jobs/info/69d4086d366bb95ba5539ca3?utm_campaign=1053&utm_source=git)** | 140 Lower Terrace, Buffalo, NY 14202, USA | Hybrid | Apr 02 |
 | **[Oliver Mechanical Inc](https://olivermechanicalinc.com)** | **[Videography/Photography Summer Intern](https://jobright.ai/jobs/info/69ced232cfdc6132f942c96c?utm_campaign=1053&utm_source=git)** | Londonderry, NH | On Site | Apr 02 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Hello Iowa Intern (Unpaid)](https://jobright.ai/jobs/info/69cece39891d7b11cfcccc0d?utm_campaign=1053&utm_source=git)** | Des Moines, IA | On Site | Apr 02 |
-| **[Audacy, Inc.](https://audacyinc.com/)** | **[Programming Intern](https://jobright.ai/jobs/info/699652b3e0bddb6acac4c0f6?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Apr 02 |
-| **[Abuse Refuge Org. (ARO)](https://GoARO.org)** | **[Special Projects Intern (Volunteer/Remote)](https://jobright.ai/jobs/info/69cebc80366bb95ba550edec?utm_campaign=1053&utm_source=git)** | 480 Olde Worthington Rd, Westerville, OH 43082, USA | Remote | Apr 02 |
-| **[Temple Square Hospitality Corporation](http://templesquarehospitality.com)** | **[KSL Sports Summer Internship](https://jobright.ai/jobs/info/69cead4e366bb95ba550deaf?utm_campaign=1053&utm_source=git)** | SLC Triad Center | On Site | Apr 02 |
-| **[evanhealy](http://evanhealy.com)** | **[Creative story-teller + social media content intern](https://jobright.ai/jobs/info/69ced94754f00230c6d03eee?utm_campaign=1053&utm_source=git)** | Carlsbad, CA | On Site | Apr 02 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Disney Entertainment Television Communication Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69cea662891d7b11cfccadb3?utm_campaign=1053&utm_source=git)** | Burbank, CA, USA | Hybrid | Apr 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
