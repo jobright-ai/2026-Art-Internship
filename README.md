@@ -57,7 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[WorldWinner](https://www.gametaco.com)** | **[Content & Social Media Editor Intern](https://jobright.ai/jobs/info/69d44073cdb525785fbc7cdf?utm_campaign=1053&utm_source=git)** | REMOTE-United States | Remote | Apr 06 |
+| **[New York Post](http://nypost.com/)** | **[Page Six Intern](https://jobright.ai/jobs/info/69bb8b715697383741419d2c?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Apr 06 |
 | **[Return Records](https://returnrecords.com)** | **[Live Events Intern](https://jobright.ai/jobs/info/69d4307c891d7b11cfcf8259?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Apr 06 |
+| **[WorldWinner](https://www.gametaco.com)** | **[Content & Social Media Editor Intern](https://jobright.ai/jobs/info/69d4405654f00230c6d2f907?utm_campaign=1053&utm_source=git)** | United States | Remote | Apr 06 |
 | **[Five Wings Arts Council](http://fwac.org)** | **[Paid Video Production Intern](https://jobright.ai/jobs/info/69d40a32891d7b11cfcf6d14?utm_campaign=1053&utm_source=git)** | Brainerd, MN | On Site | Apr 06 |
 | **[Christopher John Rogers](https://christopherjohnrogers.com)** | **[Fashion Production Intern (University Credit)](https://jobright.ai/jobs/info/69d408f554f00230c6d2d8e5?utm_campaign=1053&utm_source=git)** | NYC Metro Area | On Site | Apr 06 |
 | **[Bring Change to Mind (BC2M)](https://bringchange2mind.org/)** | **[Student Stories Intern](https://jobright.ai/jobs/info/69d4060fcfdc6132f9456d95?utm_campaign=1053&utm_source=git)** | United States | Remote | Apr 06 |
@@ -75,6 +78,8 @@ For a complete list, click the following sortable link below:
 | **[B'Creative Media](http://www.BcreativeMedia.net)** | **[Associate Producer Intern](https://jobright.ai/jobs/info/69d36d700b098b7a6708f0cf?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Apr 06 |
 | **[Our National Conversation (ONC)](https://www.ournationalconversation.org)** | **[Progressive Writer Intern](https://jobright.ai/jobs/info/69d33264366bb95ba5531a4f?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Remote | Apr 05 |
 | ↳ | **[Progressive Writer Intern](https://jobright.ai/jobs/info/69d31e8954f00230c6d24e9c?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, USA | Remote | Apr 05 |
+| **[Happy Hospitality](http://www.happycamper.pizza)** | **[Events & Catering Paid Internship](https://jobright.ai/jobs/info/69d43af0891d7b11cfcf8aeb?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Apr 05 |
+| **[Spin Master Games](http://www.spinmaster.com)** | **[Development Intern for Entertainment](https://jobright.ai/jobs/info/69d43d6acdb525785fbc7b6a?utm_campaign=1053&utm_source=git)** | Toronto, ON | Hybrid | Apr 05 |
 | **[City of Rochester Hills](http://www.rochesterhills.org/)** | **[Video Production Intern](https://jobright.ai/jobs/info/69d2d55e54f00230c6d22581?utm_campaign=1053&utm_source=git)** | Rochester Hills, MI | On Site | Apr 05 |
 | **[Loudoun United Football Club](https://www.loudoununitedfc.com/)** | **[Videography and Content Creation Intern](https://jobright.ai/jobs/info/69d2c0ddcdb525785fbba7fa?utm_campaign=1053&utm_source=git)** | Leesburg, VA | On Site | Apr 05 |
 | **[Sightline Media Group](http://www.sightlinemediagroup.com)** | **[Editorial Intern, Military Times](https://jobright.ai/jobs/info/69d271dc891d7b11cfceaaa1?utm_campaign=1053&utm_source=git)** | Washington, DC | Remote | Apr 05 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Audacy, Inc.](https://audacyinc.com/)** | **[Programming Intern](https://jobright.ai/jobs/info/699652b3e0bddb6acac4c0f6?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Apr 02 |
 | **[Abuse Refuge Org. (ARO)](https://GoARO.org)** | **[Special Projects Intern (Volunteer/Remote)](https://jobright.ai/jobs/info/69cebc80366bb95ba550edec?utm_campaign=1053&utm_source=git)** | 480 Olde Worthington Rd, Westerville, OH 43082, USA | Remote | Apr 02 |
 | **[Temple Square Hospitality Corporation](http://templesquarehospitality.com)** | **[KSL Sports Summer Internship](https://jobright.ai/jobs/info/69cead4e366bb95ba550deaf?utm_campaign=1053&utm_source=git)** | SLC Triad Center | On Site | Apr 02 |
-| **[evanhealy](http://evanhealy.com)** | **[Creative story-teller + social media content intern](https://jobright.ai/jobs/info/69ced94754f00230c6d03eee?utm_campaign=1053&utm_source=git)** | Carlsbad, CA | On Site | Apr 02 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Disney Entertainment Television Communication Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69cea662891d7b11cfccadb3?utm_campaign=1053&utm_source=git)** | Burbank, CA, USA | Hybrid | Apr 02 |
-| **[Golden Hippo®](https://www.huntrealestate.com/)** | **[Art Production Assistant Intern](https://jobright.ai/jobs/info/69c5d8bd1b5ad0288737a4eb?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 02 |
-| **[Golden Pet Brands](www.goldenpetbrands.com)** | **[Intern, Video Editor - Summer 2026](https://jobright.ai/jobs/info/69c2b9a8ec22f8310ab09d13?utm_campaign=1053&utm_source=git)** | Los Angeles, California, United States | Hybrid | Apr 02 |
-| **[Golden Hippo®](https://www.huntrealestate.com/)** | **[Video Editor Intern](https://jobright.ai/jobs/info/69b3218ea8ac8e70ff674f97?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
