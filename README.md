@@ -57,11 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Prison Fellowship](https://www.prisonfellowship.org/)** | **[Video Content Intern](https://jobright.ai/jobs/info/69d6814fcfdc6132f946a3ec?utm_campaign=1053&utm_source=git)** | United States | Remote | Apr 08 |
 | **[Las Vegas Motor Speedway](http://lvms.com)** | **[Events Intern](https://jobright.ai/jobs/info/69d671f252a5bf5800128c93?utm_campaign=1053&utm_source=git)** | Hampton, GA, US | On Site | Apr 08 |
 | **[Capital Sense Funding](https://www.capitalsensefunding.com/)** | **[Digital Content Creator (Internship)](https://jobright.ai/jobs/info/69d6717d48f0c8161d2f7cdc?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Apr 08 |
 | **[WPHL-TV](https://www.phl17.com)** | **[Lifestyle Show Summer Intern](https://jobright.ai/jobs/info/69ba92e506c1ba00c54cb479?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Apr 08 |
 | **[99 Yards](https://99yards.app)** | **[Brooklyn Fashion Week Volunteer / Intern Role  April 11-18](https://jobright.ai/jobs/info/69d66aa448f0c8161d2f7b97?utm_campaign=1053&utm_source=git)** | NYC Metro Area | On Site | Apr 08 |
 | **[Hearst Connecticut Media Group](https://hearstmediact.com)** | **[Social Video Intern](https://jobright.ai/jobs/info/699c753881476f6176b5025c?utm_campaign=1053&utm_source=git)** | Norwalk, CT | On Site | Apr 08 |
+| **[Duke University](http://www.duke.edu)** | **[Faith & Leadership Intern, Divinity School](https://jobright.ai/jobs/info/69d6866452a5bf5800129300?utm_campaign=1053&utm_source=git)** | Durham, NC | On Site | Apr 08 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Intern/News](https://jobright.ai/jobs/info/694e400f29655e4dd657f7ec?utm_campaign=1053&utm_source=git)** | Panama City, FL | On Site | Apr 08 |
 | ↳ | **[Unpaid Internship](https://jobright.ai/jobs/info/69bcd0d8e6a0d9792584ec25?utm_campaign=1053&utm_source=git)** | Savannah, GA | On Site | Apr 08 |
 | **[WMUR-TV](http://www.wmur.com/)** | **[Creative Services Intern](https://jobright.ai/jobs/info/69ba8f1506c1ba00c54ca4eb?utm_campaign=1053&utm_source=git)** | Manchester, NH | On Site | Apr 08 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Documentary Awards & Publicity Intern, Summer 2026](https://jobright.ai/jobs/info/69d00193891d7b11cfcd7ac2?utm_campaign=1053&utm_source=git)** | Los Angeles | On Site | Apr 03 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[VAB Paid Intern](https://jobright.ai/jobs/info/69cff1c10b098b7a67074d94?utm_campaign=1053&utm_source=git)** | VA, Richmond | On Site | Apr 03 |
 | **[Brilliant Infotech Inc.](http://brilliantinfotech.com)** | **[Social Media Video Editing Internship / Fall 2026](https://jobright.ai/jobs/info/69cfe83854f00230c6d0d31b?utm_campaign=1053&utm_source=git)** | Texas, United States | Remote | Apr 03 |
-| **[WAVY-TV 10](http://wavy.com)** | **[WAVY Unpaid Digital News Desk Intern, Summer 2026](https://jobright.ai/jobs/info/6943624650bbaf765055485d?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Apr 03 |
-| **[The Global Leadership Network](https://www.globalleadership.org)** | **[MEDIA AND PRODUCER ASST. - SUMMER INTERNSHIP](https://jobright.ai/jobs/info/69cfd569366bb95ba551931e?utm_campaign=1053&utm_source=git)** | Global Leadership Network - South Barrington, IL 60010 | Hybrid | Apr 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
