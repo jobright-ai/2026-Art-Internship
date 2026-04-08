@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Little League International](https://www.littleleague.org/)** | **[Video Intern](https://jobright.ai/jobs/info/69d5cbdd891d7b11cfd05ac8?utm_campaign=1053&utm_source=git)** | Williamsport, PA | On Site | Apr 07 |
+| **[Corvane](Corvane.com)** | **[Content and Editorial Intern](https://jobright.ai/jobs/info/69d5cb17cfdc6132f9465ffc?utm_campaign=1053&utm_source=git)** | United States | Remote | Apr 07 |
 | **[The Untitled Space](https://untitled-space.com)** | **[Art Gallery Internship](https://jobright.ai/jobs/info/69d5b64e366bb95ba5546eae?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Apr 07 |
 | **[septième](https://www.linkedin.com/company/51033581)** | **[Assistant·e Monteur·euse, production (stage)](https://jobright.ai/jobs/info/69d59c0c366bb95ba554653d?utm_campaign=1053&utm_source=git)** | Montreal, QC | On Site | Apr 07 |
 | ↳ | **[Coordonnateur·trice de production (stage)](https://jobright.ai/jobs/info/69d599aacdb525785fbd215a?utm_campaign=1053&utm_source=git)** | Montreal, QC | On Site | Apr 07 |
@@ -75,10 +77,12 @@ For a complete list, click the following sortable link below:
 | **[Return Records](https://returnrecords.com)** | **[Live Events Intern](https://jobright.ai/jobs/info/69d5286c891d7b11cfcffc2e?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Apr 07 |
 | **[Hearst Connecticut Media Group](https://hearstmediact.com)** | **[Reporter Intern](https://jobright.ai/jobs/info/69d40fca366bb95ba553a20a?utm_campaign=1053&utm_source=git)** | Meriden, CT | On Site | Apr 07 |
 | ↳ | **[Social Video Intern](https://jobright.ai/jobs/info/699c6a84e0bddb6acacb75b7?utm_campaign=1053&utm_source=git)** | Meriden, CT | On Site | Apr 07 |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Internship](https://jobright.ai/jobs/info/69d5c2eacdb525785fbd3c9c?utm_campaign=1053&utm_source=git)** | Savannah, GA | On Site | Apr 07 |
 | **[TelevisaUnivision](https://www.corporate.televisaunivision.com)** | **[Intern, Live Events](https://jobright.ai/jobs/info/699d0dc481476f6176b5ade3?utm_campaign=1053&utm_source=git)** | Miami, FL | On Site | Apr 07 |
 | **[ALO](https://www.aloyoga.com/)** | **[PR & Wellness Club Intern](https://jobright.ai/jobs/info/69baf0e2569738374140c630?utm_campaign=1053&utm_source=git)** | Beverly Hills, California, United States | On Site | Apr 06 |
 | **[Our National Conversation (ONC)](https://www.ournationalconversation.org)** | **[Digital Reporter Intern](https://jobright.ai/jobs/info/69d485b7e63cea7a8b65aa2f?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Remote | Apr 06 |
 | **[St. Louis Blues](http://www.stlouisblues.com)** | **[Intern, Video Production](https://jobright.ai/jobs/info/69d47fbd366bb95ba553e2d8?utm_campaign=1053&utm_source=git)** | St Louis, MO | On Site | Apr 06 |
+| **[National FFA Organization](https://www.ffa.org)** | **[NATIONAL FFA CONVENTION & EXPO NEWSROOM JOURNALIST INTERNSHIP](https://jobright.ai/jobs/info/69d5cbbf366bb95ba5548cb9?utm_campaign=1053&utm_source=git)** | Indianapolis, IN | On Site | Apr 06 |
 | **[Our National Conversation (ONC)](https://www.ournationalconversation.org)** | **[Digital Reporter Intern](https://jobright.ai/jobs/info/69d470e5cdb525785fbc9768?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, USA | Remote | Apr 06 |
 | **[Atomic](https://atomic.vc)** | **[Summer AI Content & Video Intern](https://jobright.ai/jobs/info/69d5503a706f771673ba215a?utm_campaign=1053&utm_source=git)** | Miami, FL | Hybrid | Apr 06 |
 | **[WorldWinner](https://www.gametaco.com)** | **[Content & Social Media Editor Intern](https://jobright.ai/jobs/info/69d44073cdb525785fbc7cdf?utm_campaign=1053&utm_source=git)** | REMOTE-United States | Remote | Apr 06 |
@@ -151,10 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Saint Xavier University](http://www.sxu.edu/)** | **[Xavierite Copy Editor - Student Employment](https://jobright.ai/jobs/info/69cf41d554f00230c6d08724?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Apr 02 |
 | **[Los Angeles Rams](https://www.therams.com/)** | **[Seasonal Digital Intern](https://jobright.ai/jobs/info/69cf2befcdb525785fb9f6ef?utm_campaign=1053&utm_source=git)** | Woodland Hills, CA | Hybrid | Apr 02 |
 | **[GGC server 咕咕服](www.ggcgo.com)** | **[Community Operations & Events Intern](https://jobright.ai/jobs/info/69cf5dc1891d7b11cfcd2bfc?utm_campaign=1053&utm_source=git)** | California, United States | Remote | Apr 02 |
-| **[Pickle](https://www.shoponpickle.com)** | **[Events & Community Summer Intern (NYC)](https://jobright.ai/jobs/info/69d5bf43706f771673ba548f?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Apr 02 |
 | **[Reading Royals](https://royalshockey.com)** | **[Video Production + Game Presentation Internship (Fall 2026)](https://jobright.ai/jobs/info/69cf4144cfdc6132f943192d?utm_campaign=1053&utm_source=git)** | Reading, PA | On Site | Apr 02 |
 | **[Los Angeles Rams](https://www.therams.com/)** | **[Seasonal Digital Intern](https://jobright.ai/jobs/info/69cf80df366bb95ba5516fb5?utm_campaign=1053&utm_source=git)** | Los Angeles, California, United States | Hybrid | Apr 02 |
-| **[CLD PR & Experiential Productions](https://cldstylehouse.com)** | **[Event Production Intern](https://jobright.ai/jobs/info/69cf0afecdb525785fb9e271?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Apr 02 |
-| **[WTAE Hearst Pittsburgh](https://www.hearstpittsburgh.com)** | **[Summer News Intern](https://jobright.ai/jobs/info/69b22553d04c69566c74d91b?utm_campaign=1053&utm_source=git)** | Pittsburgh, PA | On Site | Apr 02 |
-| **[TapBlaze](http://www.tapblaze.com)** | **[Narrative Design Intern](https://jobright.ai/jobs/info/69cf2839366bb95ba5513103?utm_campaign=1053&utm_source=git)** | Los Angeles Office | On Site | Apr 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
