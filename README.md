@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Capital Impact Partners](http://www.capitalimpact.org)** | **[Video and Photography Intern](https://jobright.ai/jobs/info/69d63f63366bb95ba554bec5?utm_campaign=1053&utm_source=git)** | Arlington, VA | Hybrid | Apr 08 |
+| **[WPBF 25](https://www.wpbf.com)** | **[WPBF News Intern](https://jobright.ai/jobs/info/69ba85e05697383741400e44?utm_campaign=1053&utm_source=git)** | Palm Beach Gardens, FL | On Site | Apr 08 |
 | **[Starz](http://www.starz.com/)** | **[STARZ Intern, Content Operations - Video](https://jobright.ai/jobs/info/699edb7481476f6176b8502a?utm_campaign=1053&utm_source=git)** | Greenwood Village, CO | On Site | Apr 08 |
 | **[Freedom of the Press Foundation](http://pressfreedomfoundation.org)** | **[Audience Editor](https://jobright.ai/jobs/info/69d60b53366bb95ba554b07f?utm_campaign=1053&utm_source=git)** | Brooklyn, NY | Hybrid | Apr 08 |
 | **[Duke University](http://www.duke.edu)** | **[Faith & Leadership Intern, Divinity School](https://jobright.ai/jobs/info/69d5df80e63cea7a8b665c68?utm_campaign=1053&utm_source=git)** | Durham, NC, US, 27710 | On Site | Apr 07 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Rocket](https://www.rocketcompanies.com/)** | **[Video Editor Intern - Summer 2026](https://jobright.ai/jobs/info/69cae19ba8c1822476e2133d?utm_campaign=1053&utm_source=git)** | Detroit, MI | On Site | Apr 03 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid News Intern](https://jobright.ai/jobs/info/69b1c6a4548f140066e79343?utm_campaign=1053&utm_source=git)** | Wichita, KS | On Site | Apr 03 |
 | **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Summer Intern, Experiential Events](https://jobright.ai/jobs/info/69793c7188e2b47213bd689e?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Apr 03 |
-| **[Elite Podcast Studio](ElitePodcastStudio.com)** | **[Summer Internship 2026 / Elite Podcast Studio (Tampa Bay)](https://jobright.ai/jobs/info/69cfce21366bb95ba5518ce2?utm_campaign=1053&utm_source=git)** | Odessa, FL | On Site | Apr 03 |
-| **[TapBlaze](http://www.tapblaze.com)** | **[Narrative Design Intern](https://jobright.ai/jobs/info/69cf87f8cdb525785fba35f7?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Apr 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
