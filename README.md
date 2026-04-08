@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Intern/News](https://jobright.ai/jobs/info/694e400f29655e4dd657f7ec?utm_campaign=1053&utm_source=git)** | Panama City, FL | On Site | Apr 08 |
+| ↳ | **[Unpaid Internship](https://jobright.ai/jobs/info/69bcd0d8e6a0d9792584ec25?utm_campaign=1053&utm_source=git)** | Savannah, GA | On Site | Apr 08 |
 | **[WMUR-TV](http://www.wmur.com/)** | **[Creative Services Intern](https://jobright.ai/jobs/info/69ba8f1506c1ba00c54ca4eb?utm_campaign=1053&utm_source=git)** | Manchester, NH | On Site | Apr 08 |
 | **[WPHL-TV](https://www.phl17.com)** | **[Morning News Summer Intern](https://jobright.ai/jobs/info/69ba965406c1ba00c54cb6df?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Apr 08 |
 | **[TelevisaUnivision](https://www.corporate.televisaunivision.com)** | **[Intern, Realities & Specials](https://jobright.ai/jobs/info/699d13fee0bddb6acacc3186?utm_campaign=1053&utm_source=git)** | Miami, FL | On Site | Apr 08 |
@@ -88,8 +90,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Social Video Intern](https://jobright.ai/jobs/info/699c6a84e0bddb6acacb75b7?utm_campaign=1053&utm_source=git)** | Meriden, CT | On Site | Apr 07 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Internship](https://jobright.ai/jobs/info/69d5f2b0706f771673ba7f52?utm_campaign=1053&utm_source=git)** | Savannah, GA | On Site | Apr 07 |
 | **[TelevisaUnivision](https://www.corporate.televisaunivision.com)** | **[Intern, Live Events](https://jobright.ai/jobs/info/699d0dc481476f6176b5ade3?utm_campaign=1053&utm_source=git)** | Miami, FL | On Site | Apr 07 |
-| **[National FFA Organization](https://www.ffa.org)** | **[NATIONAL FFA CONVENTION & EXPO NEWSROOM JOURNALIST INTERNSHIP](https://jobright.ai/jobs/info/69d612fd366bb95ba554b2fa?utm_campaign=1053&utm_source=git)** | Indianapolis, IN | On Site | Apr 07 |
-| ↳ | **[NATIONAL FFA CONVENTION & EXPO NEWSROOM ANCHOR INTERNSHIP](https://jobright.ai/jobs/info/69d612f2cfdc6132f94685c4?utm_campaign=1053&utm_source=git)** | Indianapolis, IN | On Site | Apr 07 |
 | **[ALO](https://www.aloyoga.com/)** | **[PR & Wellness Club Intern](https://jobright.ai/jobs/info/69baf0e2569738374140c630?utm_campaign=1053&utm_source=git)** | Beverly Hills, California, United States | On Site | Apr 06 |
 | **[Our National Conversation (ONC)](https://www.ournationalconversation.org)** | **[Digital Reporter Intern](https://jobright.ai/jobs/info/69d485b7e63cea7a8b65aa2f?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Remote | Apr 06 |
 | **[St. Louis Blues](http://www.stlouisblues.com)** | **[Intern, Video Production](https://jobright.ai/jobs/info/69d47fbd366bb95ba553e2d8?utm_campaign=1053&utm_source=git)** | St Louis, MO | On Site | Apr 06 |
