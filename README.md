@@ -137,7 +137,6 @@ For a complete list, click the following sortable link below:
 | **[Waco Tribune-Herald](http://wacotrib.com)** | **[Performing Arts Center Operations Coordinator](https://jobright.ai/jobs/info/69d392060b098b7a67090115?utm_campaign=1053&utm_source=git)** | Hayward, CA | On Site | Apr 05 |
 | **[Kohler Hospitality](https://www.kohlerwisconsin.com/)** | **[Pro Golf Management Intern, Whistling Straits](https://jobright.ai/jobs/info/69d233cf54f00230c6d20413?utm_campaign=1053&utm_source=git)** | Kohler, WI | On Site | Apr 05 |
 | **[Storm Guard Roofing](https://stormguardrc.com)** | **[Production Intern Summer 2026](https://jobright.ai/jobs/info/69d62b0de63cea7a8b667f51?utm_campaign=1053&utm_source=git)** | Madison, WI | On Site | Apr 05 |
-| **[Saint Xavier University](http://www.sxu.edu/)** | **[Xavierite Copy Editor - Student Employment](https://jobright.ai/jobs/info/69d1e1f454f00230c6d1dc4c?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Apr 04 |
 | **[WAVY-TV 10](http://wavy.com)** | **[WAVY Unpaid Newsroom Intern, Summer 2026](https://jobright.ai/jobs/info/69d12665891d7b11cfce220e?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Apr 04 |
 | ↳ | **[WAVY Unpaid Sports Intern, Summer Semester 2026](https://jobright.ai/jobs/info/6943686294730b7398768010?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Apr 04 |
 | ↳ | **[WAVY Hampton Roads Show Summer Intern 2024](https://jobright.ai/jobs/info/69d123bc891d7b11cfce1e2e?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Apr 04 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Video Editor Intern - BYU-Pathway Worldwide (Full-Time Intern)](https://jobright.ai/jobs/info/69d03d46891d7b11cfcd9f16?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | Hybrid | Apr 03 |
 | **[Monster Energy](http://www.monsterenergy.com/)** | **[Internship - Content Producer](https://jobright.ai/jobs/info/69d03bed891d7b11cfcd9e16?utm_campaign=1053&utm_source=git)** | Corona, CA | On Site | Apr 03 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[VAB Paid Intern](https://jobright.ai/jobs/info/69d03399366bb95ba551c97d?utm_campaign=1053&utm_source=git)** | Richmond, VA | On Site | Apr 03 |
+| **[Monster Energy](http://www.monsterenergy.com/)** | **[Internship - Content Producer](https://jobright.ai/jobs/info/69d031bbcdb525785fba87b6?utm_campaign=1053&utm_source=git)** | Corona, California, United States | On Site | Apr 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
