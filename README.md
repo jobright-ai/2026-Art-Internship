@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Nashville Superspeedway](http://www.nashvillesuperspeedway.com)** | **[Events Intern](https://jobright.ai/jobs/info/69d6937de63cea7a8b669c0c?utm_campaign=1053&utm_source=git)** | Hampton, GA, US | On Site | Apr 08 |
+| **[U.S. News & World Report](http://www.usnews.com)** | **[2026 News Intern (DC & NY)](https://jobright.ai/jobs/info/69d6899ee63cea7a8b669623?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Apr 08 |
+| ↳ | **[2026 Fall Editorial Intern (NY & DC)](https://jobright.ai/jobs/info/69d687c4706f771673bab2cb?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Apr 08 |
 | **[Prison Fellowship](https://www.prisonfellowship.org/)** | **[Video Content Intern](https://jobright.ai/jobs/info/69d6814fcfdc6132f946a3ec?utm_campaign=1053&utm_source=git)** | United States | Remote | Apr 08 |
 | **[Las Vegas Motor Speedway](http://lvms.com)** | **[Events Intern](https://jobright.ai/jobs/info/69d671f252a5bf5800128c93?utm_campaign=1053&utm_source=git)** | Hampton, GA, US | On Site | Apr 08 |
 | **[Capital Sense Funding](https://www.capitalsensefunding.com/)** | **[Digital Content Creator (Internship)](https://jobright.ai/jobs/info/69d6717d48f0c8161d2f7cdc?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Apr 08 |
@@ -84,7 +87,6 @@ For a complete list, click the following sortable link below:
 | **[Behaviour Interactive](http://www.bhvr.com/)** | **[VFX Artist – Internship Summer 2026](https://jobright.ai/jobs/info/69d58dd2cfdc6132f94633bc?utm_campaign=1053&utm_source=git)** | Montreal, QC | On Site | Apr 07 |
 | **[Cossette](http://www.cossette.com)** | **[Directeur·trice artistique (Stage)](https://jobright.ai/jobs/info/69d5836ce63cea7a8b661eba?utm_campaign=1053&utm_source=git)** | Montreal, QC | Hybrid | Apr 07 |
 | **[Zipline](https://www.zipline.com/)** | **[Digital Experiences Intern (New Grad - Summer 2026)](https://jobright.ai/jobs/info/69d56918891d7b11cfd01b85?utm_campaign=1053&utm_source=git)** | South San Francisco, California, USA | On Site | Apr 07 |
-| **[Farm Equipment Magazine](https://www.keisercoversil.com/)** | **[Lessiter Media Ag Division Editorial Internship](https://jobright.ai/jobs/info/69d60dff366bb95ba554b27a?utm_campaign=1053&utm_source=git)** | Brookfield, WI | On Site | Apr 07 |
 | **[Toll Brothers](https://www.tollbrothers.com)** | **[2026 Internship Program: Assistant Framing Superintendent Intern](https://jobright.ai/jobs/info/69b834fa56973837413d5ebb?utm_campaign=1053&utm_source=git)** | Charlotte, NC | On Site | Apr 07 |
 | **[Hearst Connecticut Media Group](https://hearstmediact.com)** | **[Reporter Intern](https://jobright.ai/jobs/info/69d40fba891d7b11cfcf6f6b?utm_campaign=1053&utm_source=git)** | Norwalk, CT | On Site | Apr 07 |
 | **[Children's Wisconsin](https://childrenswi.org/)** | **[Events Intern](https://jobright.ai/jobs/info/69d548c2e63cea7a8b65fdd7?utm_campaign=1053&utm_source=git)** | Milwaukee, WI | On Site | Apr 07 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[U.S. News & World Report](http://www.usnews.com)** | **[360 Editorial Summer 2026 Intern- New York](https://jobright.ai/jobs/info/69b5201206c1ba00c546de57?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Apr 03 |
 | **[Netflix](https://www.netflix.com)** | **[Documentary Awards & Publicity Intern, Summer 2026](https://jobright.ai/jobs/info/69d0021bcfdc6132f9437817?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Apr 03 |
 | ↳ | **[Documentary Awards & Publicity Intern, Summer 2026](https://jobright.ai/jobs/info/69d00193891d7b11cfcd7ac2?utm_campaign=1053&utm_source=git)** | Los Angeles | On Site | Apr 03 |
-| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[VAB Paid Intern](https://jobright.ai/jobs/info/69cff1c10b098b7a67074d94?utm_campaign=1053&utm_source=git)** | VA, Richmond | On Site | Apr 03 |
-| **[Brilliant Infotech Inc.](http://brilliantinfotech.com)** | **[Social Media Video Editing Internship / Fall 2026](https://jobright.ai/jobs/info/69cfe83854f00230c6d0d31b?utm_campaign=1053&utm_source=git)** | Texas, United States | Remote | Apr 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
