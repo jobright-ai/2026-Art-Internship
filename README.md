@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Westwood Community Church](https://www.westwoodcc.org)** | **[Film Production Intern](https://jobright.ai/jobs/info/69d6a4d0706f771673babeed?utm_campaign=1053&utm_source=git)** | Excelsior,MN,US | On Site | Apr 08 |
 | **[West Shore Home](http://westshorehome.com)** | **[Video Production Intern (Summer 2026)](https://jobright.ai/jobs/info/69d6a0da52a5bf5800129dea?utm_campaign=1053&utm_source=git)** | Harrisburg, PA | On Site | Apr 08 |
 | **[SexSymbol Magazine](sexsymbolmagazine.com)** | **[Business Operations (Remote, Unpaid) Internship](https://jobright.ai/jobs/info/69d69f49706f771673babc49?utm_campaign=1053&utm_source=git)** | NYC Metro Area | Remote | Apr 08 |
 | ↳ | **[Business Operations (Unpaid, Remote) Internship](https://jobright.ai/jobs/info/69d69c1acfdc6132f946af34?utm_campaign=1053&utm_source=git)** | United States | Remote | Apr 08 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Video Editor Intern - BYU-Pathway Worldwide (Full-Time Intern)](https://jobright.ai/jobs/info/69d03d46891d7b11cfcd9f16?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | Hybrid | Apr 03 |
 | **[Monster Energy](http://www.monsterenergy.com/)** | **[Internship - Content Producer](https://jobright.ai/jobs/info/69d03bed891d7b11cfcd9e16?utm_campaign=1053&utm_source=git)** | Corona, CA | On Site | Apr 03 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[VAB Paid Intern](https://jobright.ai/jobs/info/69d03399366bb95ba551c97d?utm_campaign=1053&utm_source=git)** | Richmond, VA | On Site | Apr 03 |
-| **[Monster Energy](http://www.monsterenergy.com/)** | **[Internship - Content Producer](https://jobright.ai/jobs/info/69d031bbcdb525785fba87b6?utm_campaign=1053&utm_source=git)** | Corona, California, United States | On Site | Apr 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
