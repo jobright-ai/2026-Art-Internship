@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69d6ccbe706f771673bae157?utm_campaign=1053&utm_source=git)** | Wichita, KS | On Site | Apr 08 |
+| ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69d6ccabe63cea7a8b66c4f5?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Apr 08 |
+| ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69d6ccaae63cea7a8b66c4f4?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | Apr 08 |
+| ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69d6cc9252a5bf580012c21f?utm_campaign=1053&utm_source=git)** | Greenbrier River, WV | On Site | Apr 08 |
+| **[ASM Global](http://www.asmglobal.com)** | **[Intern Catering & Special Events Coordinator](https://jobright.ai/jobs/info/69d6cc8b48f0c8161d2fb316?utm_campaign=1053&utm_source=git)** | Frisco, TX | On Site | Apr 08 |
+| **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69d6cc27366bb95ba554ff1e?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Apr 08 |
+| **[Methix](www.mymethix.com)** | **[Summer '26 Interns (remote): Music Tech 🎶💻](https://jobright.ai/jobs/info/69d6beebe63cea7a8b66ba27?utm_campaign=1053&utm_source=git)** | United States | Remote | Apr 08 |
 | **[Westwood Community Church](https://www.westwoodcc.org)** | **[Film Production Intern](https://jobright.ai/jobs/info/69d6a4d0706f771673babeed?utm_campaign=1053&utm_source=git)** | Excelsior,MN,US | On Site | Apr 08 |
 | **[West Shore Home](http://westshorehome.com)** | **[Video Production Intern (Summer 2026)](https://jobright.ai/jobs/info/69d6a0da52a5bf5800129dea?utm_campaign=1053&utm_source=git)** | Harrisburg, PA | On Site | Apr 08 |
 | **[SexSymbol Magazine](sexsymbolmagazine.com)** | **[Business Operations (Remote, Unpaid) Internship](https://jobright.ai/jobs/info/69d69f49706f771673babc49?utm_campaign=1053&utm_source=git)** | NYC Metro Area | Remote | Apr 08 |
@@ -87,6 +94,7 @@ For a complete list, click the following sortable link below:
 | **[Duke University](http://www.duke.edu)** | **[Faith & Leadership Intern, Divinity School](https://jobright.ai/jobs/info/69d5df80e63cea7a8b665c68?utm_campaign=1053&utm_source=git)** | Durham, NC, US, 27710 | On Site | Apr 07 |
 | **[Little League International](https://www.littleleague.org/)** | **[Video Intern](https://jobright.ai/jobs/info/69d5cbdd891d7b11cfd05ac8?utm_campaign=1053&utm_source=git)** | Williamsport, PA | On Site | Apr 07 |
 | **[The Untitled Space](https://untitled-space.com)** | **[Art Gallery Internship](https://jobright.ai/jobs/info/69d5b64e366bb95ba5546eae?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Apr 07 |
+| **[Ingham County](https://roads.ingham.org)** | **[Content Creator Intern - Fair Department](https://jobright.ai/jobs/info/69d6c68348f0c8161d2fb075?utm_campaign=1053&utm_source=git)** | Lansing, MI | Hybrid | Apr 07 |
 | **[septième](https://www.linkedin.com/company/51033581)** | **[Assistant·e Monteur·euse, production (stage)](https://jobright.ai/jobs/info/69d59c0c366bb95ba554653d?utm_campaign=1053&utm_source=git)** | Montreal, QC | On Site | Apr 07 |
 | ↳ | **[Coordonnateur·trice de production (stage)](https://jobright.ai/jobs/info/69d599aacdb525785fbd215a?utm_campaign=1053&utm_source=git)** | Montreal, QC | On Site | Apr 07 |
 | **[Manor Vail Lodge](http://manorvail.com)** | **[Food & Beverage, Events & Bqts Intern at Manor Vail Lodge](https://jobright.ai/jobs/info/69d594d2e63cea7a8b662678?utm_campaign=1053&utm_source=git)** | Vail, CO, US | On Site | Apr 07 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Ambony](http://www.manofthehourmag.com/)** | **[Lifestyle Journalist Intern (Home, Tech & Auto)](https://jobright.ai/jobs/info/69d07c9e54f00230c6d12a1f?utm_campaign=1053&utm_source=git)** | 2 Astor Pl, New York, NY 10003, USA | Remote | Apr 03 |
 | **[United States Hockey League (USHL)](https://www.ushl.com/)** | **[Game Day Content Intern](https://jobright.ai/jobs/info/69d07028cdb525785fbaa413?utm_campaign=1053&utm_source=git)** | Dubuque, IA | On Site | Apr 03 |
 | **[PrimeMarket AI](www.primemarketai.com)** | **[Content Creator Intern (Social Media Focus) / Unpaid](https://jobright.ai/jobs/info/69d342190b098b7a6708d57c?utm_campaign=1053&utm_source=git)** | NYC Metro Area | Remote | Apr 03 |
-| **[The Legal Aid Society](https://legalaidnyc.org/)** | **[Media Production Intern](https://jobright.ai/jobs/info/69d10152cdb525785fbaff8c?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Apr 03 |
-| **[Our National Conversation (ONC)](https://www.ournationalconversation.org)** | **[Podcast Production Intern](https://jobright.ai/jobs/info/69d046f1cdb525785fba94b1?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, USA | Remote | Apr 03 |
-| **[Bass Pro Shops](https://www.basspro.com)** | **[Intern - Golf Maintenance](https://jobright.ai/jobs/info/69d0460fcfdc6132f9439e19?utm_campaign=1053&utm_source=git)** | Ridgedale, MO (Big Cedar Lodge) | On Site | Apr 03 |
-| **[Our National Conversation (ONC)](https://www.ournationalconversation.org)** | **[Podcast Production Intern](https://jobright.ai/jobs/info/69d05cbb891d7b11cfcdac3b?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Remote | Apr 03 |
-| **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Video Editor Intern - BYU-Pathway Worldwide (Full-Time Intern)](https://jobright.ai/jobs/info/69d03d46891d7b11cfcd9f16?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | Hybrid | Apr 03 |
-| **[Monster Energy](http://www.monsterenergy.com/)** | **[Internship - Content Producer](https://jobright.ai/jobs/info/69d03bed891d7b11cfcd9e16?utm_campaign=1053&utm_source=git)** | Corona, CA | On Site | Apr 03 |
-| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[VAB Paid Intern](https://jobright.ai/jobs/info/69d03399366bb95ba551c97d?utm_campaign=1053&utm_source=git)** | Richmond, VA | On Site | Apr 03 |
-| **[Monster Energy](http://www.monsterenergy.com/)** | **[Internship - Content Producer](https://jobright.ai/jobs/info/69d031bbcdb525785fba87b6?utm_campaign=1053&utm_source=git)** | Corona, California, United States | On Site | Apr 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
