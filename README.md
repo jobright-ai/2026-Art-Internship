@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[West Shore Home](http://westshorehome.com)** | **[Video Production Intern (Summer 2026)](https://jobright.ai/jobs/info/69d6a0da52a5bf5800129dea?utm_campaign=1053&utm_source=git)** | Harrisburg, PA | On Site | Apr 08 |
+| **[SexSymbol Magazine](sexsymbolmagazine.com)** | **[Business Operations (Remote, Unpaid) Internship](https://jobright.ai/jobs/info/69d69f49706f771673babc49?utm_campaign=1053&utm_source=git)** | NYC Metro Area | Remote | Apr 08 |
+| ↳ | **[Business Operations (Unpaid, Remote) Internship](https://jobright.ai/jobs/info/69d69c1acfdc6132f946af34?utm_campaign=1053&utm_source=git)** | United States | Remote | Apr 08 |
+| **[Pampas Picnics + Rentals | Event Design and Decor](https://www.pampaspicnics.com)** | **[Summer Special Events Intern](https://jobright.ai/jobs/info/69d69bad48f0c8161d2f8cf9?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Apr 08 |
+| **[Another Planet Entertainment](http://apeconcerts.com)** | **[Festival Operations Intern](https://jobright.ai/jobs/info/69d69827cfdc6132f946ad92?utm_campaign=1053&utm_source=git)** | San Francisco Bay Area | On Site | Apr 08 |
+| **[American Geophysical Union](https://www.agu.org)** | **[Science Writer, Intern (51150)](https://jobright.ai/jobs/info/69ba87c406c1ba00c54c9383?utm_campaign=1053&utm_source=git)** | Washington, DC | Remote | Apr 08 |
 | **[Nashville Superspeedway](http://www.nashvillesuperspeedway.com)** | **[Events Intern](https://jobright.ai/jobs/info/69d6937de63cea7a8b669c0c?utm_campaign=1053&utm_source=git)** | Hampton, GA, US | On Site | Apr 08 |
 | **[U.S. News & World Report](http://www.usnews.com)** | **[2026 News Intern (DC & NY)](https://jobright.ai/jobs/info/69d6899ee63cea7a8b669623?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Apr 08 |
 | ↳ | **[2026 Fall Editorial Intern (NY & DC)](https://jobright.ai/jobs/info/69d687c4706f771673bab2cb?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Apr 08 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Monster Energy](http://www.monsterenergy.com/)** | **[Internship - Content Producer](https://jobright.ai/jobs/info/69d03bed891d7b11cfcd9e16?utm_campaign=1053&utm_source=git)** | Corona, CA | On Site | Apr 03 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[VAB Paid Intern](https://jobright.ai/jobs/info/69d03399366bb95ba551c97d?utm_campaign=1053&utm_source=git)** | Richmond, VA | On Site | Apr 03 |
 | **[Monster Energy](http://www.monsterenergy.com/)** | **[Internship - Content Producer](https://jobright.ai/jobs/info/69d031bbcdb525785fba87b6?utm_campaign=1053&utm_source=git)** | Corona, California, United States | On Site | Apr 03 |
-| **[Ohio Wesleyan University](http://www.owu.edu/)** | **[Student Worker - Reporting & Writing Intern](https://jobright.ai/jobs/info/69d01f37891d7b11cfcd8a64?utm_campaign=1053&utm_source=git)** | Delaware, OH, US | On Site | Apr 03 |
-| **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Video Editor Intern - BYU-Pathway Worldwide (Full-Time Intern)](https://jobright.ai/jobs/info/69d0135d0b098b7a6707637e?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT, United States | On Site | Apr 03 |
-| **[BDG](http://bustle.com)** | **[Editorial & Social Intern, Parenting & Lifestyle](https://jobright.ai/jobs/info/69d0047d366bb95ba551a90b?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Apr 03 |
-| **[U.S. News & World Report](http://www.usnews.com)** | **[360 Editorial Summer 2026 Intern- New York](https://jobright.ai/jobs/info/69b5201206c1ba00c546de57?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Apr 03 |
-| **[Netflix](https://www.netflix.com)** | **[Documentary Awards & Publicity Intern, Summer 2026](https://jobright.ai/jobs/info/69d0021bcfdc6132f9437817?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Apr 03 |
-| ↳ | **[Documentary Awards & Publicity Intern, Summer 2026](https://jobright.ai/jobs/info/69d00193891d7b11cfcd7ac2?utm_campaign=1053&utm_source=git)** | Los Angeles | On Site | Apr 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
