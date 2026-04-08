@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[septième](https://www.linkedin.com/company/51033581)** | **[Assistant·e Monteur·euse, production (stage)](https://jobright.ai/jobs/info/69d59c0c366bb95ba554653d?utm_campaign=1053&utm_source=git)** | Montreal, QC | On Site | Apr 07 |
+| ↳ | **[Coordonnateur·trice de production (stage)](https://jobright.ai/jobs/info/69d599aacdb525785fbd215a?utm_campaign=1053&utm_source=git)** | Montreal, QC | On Site | Apr 07 |
 | **[Manor Vail Lodge](http://manorvail.com)** | **[Food & Beverage, Events & Bqts Intern at Manor Vail Lodge](https://jobright.ai/jobs/info/69d594d2e63cea7a8b662678?utm_campaign=1053&utm_source=git)** | Vail, CO, US | On Site | Apr 07 |
 | **[Zipline](https://www.zipline.com/)** | **[Digital Experiences Intern (New Grad - Summer 2026)](https://jobright.ai/jobs/info/69d58f0f706f771673ba4282?utm_campaign=1053&utm_source=git)** | South San Francisco, CA | On Site | Apr 07 |
 | **[Behaviour Interactive](http://www.bhvr.com/)** | **[VFX Artist – Internship Summer 2026](https://jobright.ai/jobs/info/69d58dd2cfdc6132f94633bc?utm_campaign=1053&utm_source=git)** | Montreal, QC | On Site | Apr 07 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Los Angeles Rams](https://www.therams.com/)** | **[Seasonal Digital Intern](https://jobright.ai/jobs/info/69cf80df366bb95ba5516fb5?utm_campaign=1053&utm_source=git)** | Los Angeles, California, United States | Hybrid | Apr 02 |
 | **[CLD PR & Experiential Productions](https://cldstylehouse.com)** | **[Event Production Intern](https://jobright.ai/jobs/info/69cf0afecdb525785fb9e271?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Apr 02 |
 | **[WTAE Hearst Pittsburgh](https://www.hearstpittsburgh.com)** | **[Summer News Intern](https://jobright.ai/jobs/info/69b22553d04c69566c74d91b?utm_campaign=1053&utm_source=git)** | Pittsburgh, PA | On Site | Apr 02 |
-| **[TapBlaze](http://www.tapblaze.com)** | **[Narrative Design Intern](https://jobright.ai/jobs/info/69cf2839366bb95ba5513103?utm_campaign=1053&utm_source=git)** | Los Angeles Office | On Site | Apr 02 |
-| **[Abuse Refuge Org. (ARO)](https://GoARO.org)** | **[Special Projects Intern (Volunteer/Remote)](https://jobright.ai/jobs/info/69ceeb1ecdb525785fb9d107?utm_campaign=1053&utm_source=git)** | Westerville, OH | Remote | Apr 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
