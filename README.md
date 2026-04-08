@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Untitled Space](https://untitled-space.com)** | **[Art Gallery Internship](https://jobright.ai/jobs/info/69d5b64e366bb95ba5546eae?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Apr 07 |
 | **[septième](https://www.linkedin.com/company/51033581)** | **[Assistant·e Monteur·euse, production (stage)](https://jobright.ai/jobs/info/69d59c0c366bb95ba554653d?utm_campaign=1053&utm_source=git)** | Montreal, QC | On Site | Apr 07 |
 | ↳ | **[Coordonnateur·trice de production (stage)](https://jobright.ai/jobs/info/69d599aacdb525785fbd215a?utm_campaign=1053&utm_source=git)** | Montreal, QC | On Site | Apr 07 |
 | **[Manor Vail Lodge](http://manorvail.com)** | **[Food & Beverage, Events & Bqts Intern at Manor Vail Lodge](https://jobright.ai/jobs/info/69d594d2e63cea7a8b662678?utm_campaign=1053&utm_source=git)** | Vail, CO, US | On Site | Apr 07 |
@@ -112,7 +113,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[WAVY Unpaid Hampton Roads Show/Production Intern, Summer Semester 2026](https://jobright.ai/jobs/info/6943644f50bbaf7650554c0f?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Apr 04 |
 | **[United Wholesale Mortgage](http://uwm.com)** | **[2026 Videography Summer Internship Program](https://jobright.ai/jobs/info/697c0cfd0b88cc7d6422fa35?utm_campaign=1053&utm_source=git)** | Pontiac, MI | On Site | Apr 04 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Video Production Intern](https://jobright.ai/jobs/info/69b418b4569738374138a5c3?utm_campaign=1053&utm_source=git)** | Richardson, TX | On Site | Apr 04 |
-| **[Storm Guard Roofing](https://stormguardrc.com)** | **[Production Intern Summer 2026](https://jobright.ai/jobs/info/69d10b300b098b7a6707f75a?utm_campaign=1053&utm_source=git)** | Madison, WI | On Site | Apr 04 |
 | **[The Ambony](http://www.manofthehourmag.com/)** | **[Lifestyle Journalist Intern (Home, Tech & Auto)](https://jobright.ai/jobs/info/69d090b7891d7b11cfcdca61?utm_campaign=1053&utm_source=git)** | New York, NY | Remote | Apr 03 |
 | **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[Visitor Experience Curatorial Intern - Nauvoo, IL](https://jobright.ai/jobs/info/69d088cd891d7b11cfcdc6a4?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Apr 03 |
 | ↳ | **[Video Editor Intern - BYU-Pathway Worldwide (Full-Time Intern)](https://jobright.ai/jobs/info/69d088cc891d7b11cfcdc6a0?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | Hybrid | Apr 03 |
@@ -151,10 +151,10 @@ For a complete list, click the following sortable link below:
 | **[Saint Xavier University](http://www.sxu.edu/)** | **[Xavierite Copy Editor - Student Employment](https://jobright.ai/jobs/info/69cf41d554f00230c6d08724?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Apr 02 |
 | **[Los Angeles Rams](https://www.therams.com/)** | **[Seasonal Digital Intern](https://jobright.ai/jobs/info/69cf2befcdb525785fb9f6ef?utm_campaign=1053&utm_source=git)** | Woodland Hills, CA | Hybrid | Apr 02 |
 | **[GGC server 咕咕服](www.ggcgo.com)** | **[Community Operations & Events Intern](https://jobright.ai/jobs/info/69cf5dc1891d7b11cfcd2bfc?utm_campaign=1053&utm_source=git)** | California, United States | Remote | Apr 02 |
+| **[Pickle](https://www.shoponpickle.com)** | **[Events & Community Summer Intern (NYC)](https://jobright.ai/jobs/info/69d5bf43706f771673ba548f?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Apr 02 |
 | **[Reading Royals](https://royalshockey.com)** | **[Video Production + Game Presentation Internship (Fall 2026)](https://jobright.ai/jobs/info/69cf4144cfdc6132f943192d?utm_campaign=1053&utm_source=git)** | Reading, PA | On Site | Apr 02 |
 | **[Los Angeles Rams](https://www.therams.com/)** | **[Seasonal Digital Intern](https://jobright.ai/jobs/info/69cf80df366bb95ba5516fb5?utm_campaign=1053&utm_source=git)** | Los Angeles, California, United States | Hybrid | Apr 02 |
 | **[CLD PR & Experiential Productions](https://cldstylehouse.com)** | **[Event Production Intern](https://jobright.ai/jobs/info/69cf0afecdb525785fb9e271?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Apr 02 |
 | **[WTAE Hearst Pittsburgh](https://www.hearstpittsburgh.com)** | **[Summer News Intern](https://jobright.ai/jobs/info/69b22553d04c69566c74d91b?utm_campaign=1053&utm_source=git)** | Pittsburgh, PA | On Site | Apr 02 |
 | **[TapBlaze](http://www.tapblaze.com)** | **[Narrative Design Intern](https://jobright.ai/jobs/info/69cf2839366bb95ba5513103?utm_campaign=1053&utm_source=git)** | Los Angeles Office | On Site | Apr 02 |
-| **[Abuse Refuge Org. (ARO)](https://GoARO.org)** | **[Special Projects Intern (Volunteer/Remote)](https://jobright.ai/jobs/info/69ceeb1ecdb525785fb9d107?utm_campaign=1053&utm_source=git)** | Westerville, OH | Remote | Apr 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
