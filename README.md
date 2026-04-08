@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Manor Vail Lodge](http://manorvail.com)** | **[Food & Beverage, Events & Bqts Intern at Manor Vail Lodge](https://jobright.ai/jobs/info/69d594d2e63cea7a8b662678?utm_campaign=1053&utm_source=git)** | Vail, CO, US | On Site | Apr 07 |
+| **[Zipline](https://www.zipline.com/)** | **[Digital Experiences Intern (New Grad - Summer 2026)](https://jobright.ai/jobs/info/69d58f0f706f771673ba4282?utm_campaign=1053&utm_source=git)** | South San Francisco, CA | On Site | Apr 07 |
+| **[Behaviour Interactive](http://www.bhvr.com/)** | **[VFX Artist – Internship Summer 2026](https://jobright.ai/jobs/info/69d58dd2cfdc6132f94633bc?utm_campaign=1053&utm_source=git)** | Montreal, QC | On Site | Apr 07 |
 | **[Cossette](http://www.cossette.com)** | **[Directeur·trice artistique (Stage)](https://jobright.ai/jobs/info/69d5836ce63cea7a8b661eba?utm_campaign=1053&utm_source=git)** | Montreal, QC | Hybrid | Apr 07 |
 | **[Zipline](https://www.zipline.com/)** | **[Digital Experiences Intern (New Grad - Summer 2026)](https://jobright.ai/jobs/info/69d56918891d7b11cfd01b85?utm_campaign=1053&utm_source=git)** | South San Francisco, California, USA | On Site | Apr 07 |
 | **[Toll Brothers](https://www.tollbrothers.com)** | **[2026 Internship Program: Assistant Framing Superintendent Intern](https://jobright.ai/jobs/info/69b834fa56973837413d5ebb?utm_campaign=1053&utm_source=git)** | Charlotte, NC | On Site | Apr 07 |
@@ -70,7 +73,6 @@ For a complete list, click the following sortable link below:
 | **[Hearst Connecticut Media Group](https://hearstmediact.com)** | **[Reporter Intern](https://jobright.ai/jobs/info/69d40fca366bb95ba553a20a?utm_campaign=1053&utm_source=git)** | Meriden, CT | On Site | Apr 07 |
 | ↳ | **[Social Video Intern](https://jobright.ai/jobs/info/699c6a84e0bddb6acacb75b7?utm_campaign=1053&utm_source=git)** | Meriden, CT | On Site | Apr 07 |
 | **[TelevisaUnivision](https://www.corporate.televisaunivision.com)** | **[Intern, Live Events](https://jobright.ai/jobs/info/699d0dc481476f6176b5ade3?utm_campaign=1053&utm_source=git)** | Miami, FL | On Site | Apr 07 |
-| **[City of Irving](https://www.cityofirving.org/2623/Family-Advocacy-Center)** | **[Intern - Production (Part-Time)](https://jobright.ai/jobs/info/69d5004f706f771673ba00c7?utm_campaign=1053&utm_source=git)** | Irving, TX | On Site | Apr 07 |
 | **[ALO](https://www.aloyoga.com/)** | **[PR & Wellness Club Intern](https://jobright.ai/jobs/info/69baf0e2569738374140c630?utm_campaign=1053&utm_source=git)** | Beverly Hills, California, United States | On Site | Apr 06 |
 | **[Our National Conversation (ONC)](https://www.ournationalconversation.org)** | **[Digital Reporter Intern](https://jobright.ai/jobs/info/69d485b7e63cea7a8b65aa2f?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Remote | Apr 06 |
 | **[St. Louis Blues](http://www.stlouisblues.com)** | **[Intern, Video Production](https://jobright.ai/jobs/info/69d47fbd366bb95ba553e2d8?utm_campaign=1053&utm_source=git)** | St Louis, MO | On Site | Apr 06 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[WTAE Hearst Pittsburgh](https://www.hearstpittsburgh.com)** | **[Summer News Intern](https://jobright.ai/jobs/info/69b22553d04c69566c74d91b?utm_campaign=1053&utm_source=git)** | Pittsburgh, PA | On Site | Apr 02 |
 | **[TapBlaze](http://www.tapblaze.com)** | **[Narrative Design Intern](https://jobright.ai/jobs/info/69cf2839366bb95ba5513103?utm_campaign=1053&utm_source=git)** | Los Angeles Office | On Site | Apr 02 |
 | **[Abuse Refuge Org. (ARO)](https://GoARO.org)** | **[Special Projects Intern (Volunteer/Remote)](https://jobright.ai/jobs/info/69ceeb1ecdb525785fb9d107?utm_campaign=1053&utm_source=git)** | Westerville, OH | Remote | Apr 02 |
-| **[Bonneville International](http://bonneville.com/)** | **[KSL Sports Summer Internship](https://jobright.ai/jobs/info/69cee6ed398fb071abf8a873?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Apr 02 |
-| **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Paid Intern – Liahona Digital Content Writer/Creator](https://jobright.ai/jobs/info/69cee12d366bb95ba551070a?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT, United States | Hybrid | Apr 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
