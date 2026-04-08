@@ -57,8 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Duke University](http://www.duke.edu)** | **[Faith & Leadership Intern, Divinity School](https://jobright.ai/jobs/info/69d5df80e63cea7a8b665c68?utm_campaign=1053&utm_source=git)** | Durham, NC, US, 27710 | On Site | Apr 07 |
 | **[Little League International](https://www.littleleague.org/)** | **[Video Intern](https://jobright.ai/jobs/info/69d5cbdd891d7b11cfd05ac8?utm_campaign=1053&utm_source=git)** | Williamsport, PA | On Site | Apr 07 |
-| **[Corvane](Corvane.com)** | **[Content and Editorial Intern](https://jobright.ai/jobs/info/69d5cb17cfdc6132f9465ffc?utm_campaign=1053&utm_source=git)** | United States | Remote | Apr 07 |
 | **[The Untitled Space](https://untitled-space.com)** | **[Art Gallery Internship](https://jobright.ai/jobs/info/69d5b64e366bb95ba5546eae?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Apr 07 |
 | **[septième](https://www.linkedin.com/company/51033581)** | **[Assistant·e Monteur·euse, production (stage)](https://jobright.ai/jobs/info/69d59c0c366bb95ba554653d?utm_campaign=1053&utm_source=git)** | Montreal, QC | On Site | Apr 07 |
 | ↳ | **[Coordonnateur·trice de production (stage)](https://jobright.ai/jobs/info/69d599aacdb525785fbd215a?utm_campaign=1053&utm_source=git)** | Montreal, QC | On Site | Apr 07 |
@@ -80,7 +80,7 @@ For a complete list, click the following sortable link below:
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Internship](https://jobright.ai/jobs/info/69d5c2eacdb525785fbd3c9c?utm_campaign=1053&utm_source=git)** | Savannah, GA | On Site | Apr 07 |
 | **[TelevisaUnivision](https://www.corporate.televisaunivision.com)** | **[Intern, Live Events](https://jobright.ai/jobs/info/699d0dc481476f6176b5ade3?utm_campaign=1053&utm_source=git)** | Miami, FL | On Site | Apr 07 |
 | **[ALO](https://www.aloyoga.com/)** | **[PR & Wellness Club Intern](https://jobright.ai/jobs/info/69baf0e2569738374140c630?utm_campaign=1053&utm_source=git)** | Beverly Hills, California, United States | On Site | Apr 06 |
-| **[National FFA Organization](https://www.ffa.org)** | **[NATIONAL FFA CONVENTION & EXPO NEWSROOM VIDEO EDITOR INTERNSHIP](https://jobright.ai/jobs/info/69d5dd33cfdc6132f9466a6c?utm_campaign=1053&utm_source=git)** | Indianapolis, IN | On Site | Apr 06 |
+| **[National FFA Organization](https://www.ffa.org)** | **[NATIONAL FFA CONVENTION & EXPO NEWSROOM VIDEOGRAPHER INTERNSHIP](https://jobright.ai/jobs/info/69d5e8954a12eb12c5e1493f?utm_campaign=1053&utm_source=git)** | Indianapolis, IN | On Site | Apr 06 |
 | **[Our National Conversation (ONC)](https://www.ournationalconversation.org)** | **[Digital Reporter Intern](https://jobright.ai/jobs/info/69d485b7e63cea7a8b65aa2f?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Remote | Apr 06 |
 | **[St. Louis Blues](http://www.stlouisblues.com)** | **[Intern, Video Production](https://jobright.ai/jobs/info/69d47fbd366bb95ba553e2d8?utm_campaign=1053&utm_source=git)** | St Louis, MO | On Site | Apr 06 |
 | **[Our National Conversation (ONC)](https://www.ournationalconversation.org)** | **[Digital Reporter Intern](https://jobright.ai/jobs/info/69d470e5cdb525785fbc9768?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, USA | Remote | Apr 06 |
@@ -88,7 +88,6 @@ For a complete list, click the following sortable link below:
 | **[WorldWinner](https://www.gametaco.com)** | **[Content & Social Media Editor Intern](https://jobright.ai/jobs/info/69d44073cdb525785fbc7cdf?utm_campaign=1053&utm_source=git)** | REMOTE-United States | Remote | Apr 06 |
 | **[New York Post](http://nypost.com/)** | **[Page Six Intern](https://jobright.ai/jobs/info/69d54e2d706f771673ba20bd?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Apr 06 |
 | **[Five Wings Arts Council](http://fwac.org)** | **[Paid Video Production Intern](https://jobright.ai/jobs/info/69d40a32891d7b11cfcf6d14?utm_campaign=1053&utm_source=git)** | Brainerd, MN | On Site | Apr 06 |
-| **[Christopher John Rogers](https://christopherjohnrogers.com)** | **[Fashion Production Intern (University Credit)](https://jobright.ai/jobs/info/69d408f554f00230c6d2d8e5?utm_campaign=1053&utm_source=git)** | NYC Metro Area | On Site | Apr 06 |
 | **[The Washington Post](http://www.washingtonpost.com/)** | **[Summer Intern, WP Creator (Social Video & Production)](https://jobright.ai/jobs/info/69d3f403891d7b11cfcf5dc5?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Apr 06 |
 | ↳ | **[Summer Intern, WP Creator (Social Video & Production)](https://jobright.ai/jobs/info/69d3f330366bb95ba5538f50?utm_campaign=1053&utm_source=git)** | DC-Washington-TWP Headquarters | On Site | Apr 06 |
 | **[National FFA Organization](https://www.ffa.org)** | **[NATIONAL FFA CONVENTION & EXPO NEWSROOM VIDEO EDITOR INTERNSHIP](https://jobright.ai/jobs/info/69d3ebd5cdb525785fbc48fb?utm_campaign=1053&utm_source=git)** | Indianapolis,IN,US | On Site | Apr 06 |
@@ -96,6 +95,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[NATIONAL FFA CONVENTION & EXPO NEWSROOM ANCHOR INTERNSHIP](https://jobright.ai/jobs/info/69d3eb8fcfdc6132f9455db0?utm_campaign=1053&utm_source=git)** | Indianapolis,IN,US | On Site | Apr 06 |
 | ↳ | **[NATIONAL FFA CONVENTION & EXPO NEWSROOM VIDEOGRAPHER INTERNSHIP](https://jobright.ai/jobs/info/69d3eb72891d7b11cfcf59d8?utm_campaign=1053&utm_source=git)** | Indianapolis,IN,US | On Site | Apr 06 |
 | **[ESW Beauty](https://eswbeauty.com)** | **[Content Creator Intern (6-Month Internship)](https://jobright.ai/jobs/info/69d3e848891d7b11cfcf5784?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Apr 06 |
+| **[Dallas Hoops Journal](dallashoopsjournal.com)** | **[Digital Media & Sports Journalism Internship (Dallas-Based)](https://jobright.ai/jobs/info/69d5e379cfdc6132f9466d7e?utm_campaign=1053&utm_source=git)** | Plano, TX | On Site | Apr 06 |
 | **[Colonial Williamsburg Foundation](https://www.colonialwilliamsburg.org/)** | **[​​Conservation Intern​](https://jobright.ai/jobs/info/69d3ced8891d7b11cfcf43ff?utm_campaign=1053&utm_source=git)** | Williamsburg, Virginia, United States | On Site | Apr 06 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Internship](https://jobright.ai/jobs/info/69d3c276891d7b11cfcf30e7?utm_campaign=1053&utm_source=git)** | Savannah, GA | On Site | Apr 06 |
 | **[Indiana University Bloomington](https://www.iu.edu)** | **[Part-Time Student Editorial Intern, Center for Rural Engagement](https://jobright.ai/jobs/info/69d386bf54f00230c6d283b4?utm_campaign=1053&utm_source=git)** | Bloomington, IN | On Site | Apr 06 |
