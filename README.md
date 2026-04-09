@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ingram Micro](https://corp.ingrammicro.com)** | **[Summer Intern - Video Producer](https://jobright.ai/jobs/info/69bb392606c1ba00c54db0fb?utm_campaign=1053&utm_source=git)** | Irvine, CA | Hybrid | Apr 09 |
 | **[Golden Pet Brands](www.goldenpetbrands.com)** | **[Intern, Video Editor - Summer 2026](https://jobright.ai/jobs/info/69c2b9a8ec22f8310ab09d13?utm_campaign=1053&utm_source=git)** | Los Angeles, California, United States | Hybrid | Apr 09 |
 | **[Mito Red Light](https://mitoredlight.com)** | **[Podcast Production Intern (Part-Time / In-Person / Scottsdale, AZ)](https://jobright.ai/jobs/info/69d7ec8bf4ea471a51fe26f4?utm_campaign=1053&utm_source=git)** | Scottsdale, AZ | On Site | Apr 09 |
 | **[INFICON](http://www.inficon.com)** | **[Digital Content Creator Summer Intern](https://jobright.ai/jobs/info/69d7ec23869c7e25d859234d?utm_campaign=1053&utm_source=git)** | East Syracuse, NY, USA | On Site | Apr 09 |
@@ -64,6 +65,7 @@ For a complete list, click the following sortable link below:
 | **[Golden Hippo®](https://www.huntrealestate.com/)** | **[Art Production Assistant Intern](https://jobright.ai/jobs/info/69c5d8bd1b5ad0288737a4eb?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 09 |
 | ↳ | **[Video Editor Intern](https://jobright.ai/jobs/info/69b3218ea8ac8e70ff674f97?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 09 |
 | **[The National Center for Urban Solutions - NCUS](https://ncusolutions.org)** | **[Cinematographer/Video Production Intern](https://jobright.ai/jobs/info/69d7d72c738f2f099e898b6f?utm_campaign=1053&utm_source=git)** | Columbus,OH,US | On Site | Apr 09 |
+| **[INFICON](http://www.inficon.com)** | **[Digital Content Creator Summer Intern](https://jobright.ai/jobs/info/69d809fcb67cec4f9b09a080?utm_campaign=1053&utm_source=git)** | East Syracuse, NY | On Site | Apr 09 |
 | **[TelevisaUnivision](https://www.corporate.televisaunivision.com)** | **[Intern, Programming Strategy](https://jobright.ai/jobs/info/699e0ce781476f6176b6f7ac?utm_campaign=1053&utm_source=git)** | Miami, FL | On Site | Apr 09 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Broadcasting Internship (NYSBA)](https://jobright.ai/jobs/info/6982675d0f6f7e7a2cdb920d?utm_campaign=1053&utm_source=git)** | Colchester, VT | On Site | Apr 09 |
 | ↳ | **[Digital Content Intern, Unpaid](https://jobright.ai/jobs/info/69bb08ca569738374140e490?utm_campaign=1053&utm_source=git)** | Shreveport, Louisiana, United States | On Site | Apr 09 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Internship](https://jobright.ai/jobs/info/69d3c276891d7b11cfcf30e7?utm_campaign=1053&utm_source=git)** | Savannah, GA | On Site | Apr 06 |
 | **[Indiana University Bloomington](https://www.iu.edu)** | **[Part-Time Student Editorial Intern, Center for Rural Engagement](https://jobright.ai/jobs/info/69d386bf54f00230c6d283b4?utm_campaign=1053&utm_source=git)** | Bloomington, IN | On Site | Apr 06 |
 | **[B'Creative Media](http://www.BcreativeMedia.net)** | **[Associate Producer Intern](https://jobright.ai/jobs/info/69d36d700b098b7a6708f0cf?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Apr 06 |
-| **[Our National Conversation (ONC)](https://www.ournationalconversation.org)** | **[Progressive Writer Intern](https://jobright.ai/jobs/info/69d33264366bb95ba5531a4f?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Remote | Apr 05 |
-| ↳ | **[Progressive Writer Intern](https://jobright.ai/jobs/info/69d31e8954f00230c6d24e9c?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, USA | Remote | Apr 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
