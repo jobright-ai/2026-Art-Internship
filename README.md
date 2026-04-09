@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Salt XC](https://www.saltxc.com/)** | **[AI Enablement Content Producer (Intern)](https://jobright.ai/jobs/info/6982a17a0f6f7e7a2cdbf34a?utm_campaign=1053&utm_source=git)** | Toronto, ON | Hybrid | Apr 09 |
+| **[Golden Hippo®](https://www.huntrealestate.com/)** | **[Video Editor Intern](https://jobright.ai/jobs/info/69b3218ea8ac8e70ff674f97?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 09 |
+| **[The National Center for Urban Solutions - NCUS](https://ncusolutions.org)** | **[Cinematographer/Video Production Intern](https://jobright.ai/jobs/info/69d7d72c738f2f099e898b6f?utm_campaign=1053&utm_source=git)** | Columbus,OH,US | On Site | Apr 09 |
 | **[TelevisaUnivision](https://www.corporate.televisaunivision.com)** | **[Intern, Programming Strategy](https://jobright.ai/jobs/info/699e0ce781476f6176b6f7ac?utm_campaign=1053&utm_source=git)** | Miami, FL | On Site | Apr 09 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Broadcasting Internship (NYSBA)](https://jobright.ai/jobs/info/6982675d0f6f7e7a2cdb920d?utm_campaign=1053&utm_source=git)** | Colchester, VT | On Site | Apr 09 |
 | ↳ | **[Digital Content Intern, Unpaid](https://jobright.ai/jobs/info/69bb08ca569738374140e490?utm_campaign=1053&utm_source=git)** | Shreveport, Louisiana, United States | On Site | Apr 09 |
@@ -114,7 +117,6 @@ For a complete list, click the following sortable link below:
 | **[The Untitled Space](https://untitled-space.com)** | **[Art Gallery Internship](https://jobright.ai/jobs/info/69d5b64e366bb95ba5546eae?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Apr 07 |
 | **[Ingham County](https://roads.ingham.org)** | **[Content Creator Intern - Fair Department](https://jobright.ai/jobs/info/69d6c68348f0c8161d2fb075?utm_campaign=1053&utm_source=git)** | Lansing, MI | Hybrid | Apr 07 |
 | **[septième](https://www.linkedin.com/company/51033581)** | **[Assistant·e Monteur·euse, production (stage)](https://jobright.ai/jobs/info/69d59c0c366bb95ba554653d?utm_campaign=1053&utm_source=git)** | Montreal, QC | On Site | Apr 07 |
-| ↳ | **[Coordonnateur·trice de production (stage)](https://jobright.ai/jobs/info/69d599aacdb525785fbd215a?utm_campaign=1053&utm_source=git)** | Montreal, QC | On Site | Apr 07 |
 | **[Manor Vail Lodge](http://manorvail.com)** | **[Food & Beverage, Events & Bqts Intern at Manor Vail Lodge](https://jobright.ai/jobs/info/69d594d2e63cea7a8b662678?utm_campaign=1053&utm_source=git)** | Vail, CO, US | On Site | Apr 07 |
 | **[Zipline](https://www.zipline.com/)** | **[Digital Experiences Intern (New Grad - Summer 2026)](https://jobright.ai/jobs/info/69d58f0f706f771673ba4282?utm_campaign=1053&utm_source=git)** | South San Francisco, CA | On Site | Apr 07 |
 | **[Behaviour Interactive](http://www.bhvr.com/)** | **[VFX Artist – Internship Summer 2026](https://jobright.ai/jobs/info/69d58dd2cfdc6132f94633bc?utm_campaign=1053&utm_source=git)** | Montreal, QC | On Site | Apr 07 |
@@ -147,7 +149,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[NATIONAL FFA CONVENTION & EXPO NEWSROOM VIDEOGRAPHER INTERNSHIP](https://jobright.ai/jobs/info/69d3eb72891d7b11cfcf59d8?utm_campaign=1053&utm_source=git)** | Indianapolis,IN,US | On Site | Apr 06 |
 | **[ESW Beauty](https://eswbeauty.com)** | **[Content Creator Intern (6-Month Internship)](https://jobright.ai/jobs/info/69d3e848891d7b11cfcf5784?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Apr 06 |
 | **[Dallas Hoops Journal](dallashoopsjournal.com)** | **[Digital Media & Sports Journalism Internship (Dallas-Based)](https://jobright.ai/jobs/info/69d5e379cfdc6132f9466d7e?utm_campaign=1053&utm_source=git)** | Plano, TX | On Site | Apr 06 |
-| **[Colonial Williamsburg Foundation](https://www.colonialwilliamsburg.org/)** | **[​​Conservation Intern​](https://jobright.ai/jobs/info/69d3ced8891d7b11cfcf43ff?utm_campaign=1053&utm_source=git)** | Williamsburg, Virginia, United States | On Site | Apr 06 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Internship](https://jobright.ai/jobs/info/69d3c276891d7b11cfcf30e7?utm_campaign=1053&utm_source=git)** | Savannah, GA | On Site | Apr 06 |
 | **[Indiana University Bloomington](https://www.iu.edu)** | **[Part-Time Student Editorial Intern, Center for Rural Engagement](https://jobright.ai/jobs/info/69d386bf54f00230c6d283b4?utm_campaign=1053&utm_source=git)** | Bloomington, IN | On Site | Apr 06 |
 | **[B'Creative Media](http://www.BcreativeMedia.net)** | **[Associate Producer Intern](https://jobright.ai/jobs/info/69d36d700b098b7a6708f0cf?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Apr 06 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Happy Hospitality](http://www.happycamper.pizza)** | **[Events & Catering Paid Internship](https://jobright.ai/jobs/info/69d43af0891d7b11cfcf8aeb?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Apr 05 |
 | **[Spin Master Games](http://www.spinmaster.com)** | **[Development Intern for Entertainment](https://jobright.ai/jobs/info/69d43d6acdb525785fbc7b6a?utm_campaign=1053&utm_source=git)** | Toronto, ON | Hybrid | Apr 05 |
 | **[City of Rochester Hills](http://www.rochesterhills.org/)** | **[Video Production Intern](https://jobright.ai/jobs/info/69d2d55e54f00230c6d22581?utm_campaign=1053&utm_source=git)** | Rochester Hills, MI | On Site | Apr 05 |
-| **[Loudoun United Football Club](https://www.loudoununitedfc.com/)** | **[Videography and Content Creation Intern](https://jobright.ai/jobs/info/69d2c0ddcdb525785fbba7fa?utm_campaign=1053&utm_source=git)** | Leesburg, VA | On Site | Apr 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
