@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[AEQUUS SPORTS LLC](https://www.uslspokane.com)** | **[Pro-Soccer Internship - Fall 2026](https://jobright.ai/jobs/info/69d720da52a5bf580012e0a5?utm_campaign=1053&utm_source=git)** | Spokane, WA | On Site | Apr 08 |
 | **[Lupine Creative](https://lupinecreative.com)** | **[Production Intern](https://jobright.ai/jobs/info/69d6f9e9e63cea7a8b66d56e?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 08 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[FX Creative and Cultural Diversity Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69d6f88652a5bf580012d144?utm_campaign=1053&utm_source=git)** | Burbank, CA, USA | On Site | Apr 08 |
 | **[Legends Global](http://legends.net)** | **[Intern Catering & Special Events Coordinator](https://jobright.ai/jobs/info/69d6e54948f0c8161d2fbd9c?utm_campaign=1053&utm_source=git)** | Frisco, TX | On Site | Apr 08 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[WAVY Unpaid Hampton Roads Show/Production Intern, Summer Semester 2026](https://jobright.ai/jobs/info/6943644f50bbaf7650554c0f?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Apr 04 |
 | **[United Wholesale Mortgage](http://uwm.com)** | **[2026 Videography Summer Internship Program](https://jobright.ai/jobs/info/697c0cfd0b88cc7d6422fa35?utm_campaign=1053&utm_source=git)** | Pontiac, MI | On Site | Apr 04 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Video Production Intern](https://jobright.ai/jobs/info/69b418b4569738374138a5c3?utm_campaign=1053&utm_source=git)** | Richardson, TX | On Site | Apr 04 |
-| **[The Ambony](http://www.manofthehourmag.com/)** | **[Lifestyle Journalist Intern (Home, Tech & Auto)](https://jobright.ai/jobs/info/69d090b7891d7b11cfcdca61?utm_campaign=1053&utm_source=git)** | New York, NY | Remote | Apr 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
