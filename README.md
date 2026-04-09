@@ -57,10 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[NBCUniversal](https://www.nbcuniversal.com/)** | **[NBC Bay Area - News Internship – Summer 2026](https://jobright.ai/jobs/info/69d817a0b861c42857c48a02?utm_campaign=1053&utm_source=git)** | San Jose, CA | On Site | Apr 09 |
+| **[SiriusXM](http://siriusxm.com)** | **[Summer Intern, Podcast Producer - Part Time](https://jobright.ai/jobs/info/69d82697b861c42857c490b0?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 09 |
+| **[NBCUniversal](https://www.nbcuniversal.com/)** | **[NBC Bay Area - Digital Internship – Summer 2026](https://jobright.ai/jobs/info/69d8250af4ea471a51fe4100?utm_campaign=1053&utm_source=git)** | San Jose, CA | On Site | Apr 09 |
+| ↳ | **[NBC Bay Area - News Internship – Summer 2026](https://jobright.ai/jobs/info/69d8243cb67cec4f9b09ad60?utm_campaign=1053&utm_source=git)** | San Jose, CA | On Site | Apr 09 |
+| **[Government of Alberta](http://alberta.ca/)** | **[Correspondence Writer](https://jobright.ai/jobs/info/69d823d8b67cec4f9b09abc9?utm_campaign=1053&utm_source=git)** | Edmonton, AB | On Site | Apr 09 |
+| **[Wud](https://www.wud.com/)** | **[Video Editor Intern](https://jobright.ai/jobs/info/69d823d39f97a42dc9c1a998?utm_campaign=1053&utm_source=git)** | Etobicoke, ON | On Site | Apr 09 |
+| **[Ingham County](https://roads.ingham.org)** | **[Content Creator Intern - Fair Department](https://jobright.ai/jobs/info/69d8217e869c7e25d8593cf6?utm_campaign=1053&utm_source=git)** | Lansing, MI | Hybrid | Apr 09 |
 | **[DreamWorks Animation](https://www.dreamworks.com)** | **[NBC Bay Area - Digital Internship – Summer 2026](https://jobright.ai/jobs/info/69d816d4869c7e25d85939dd?utm_campaign=1053&utm_source=git)** | 2450 N. First Street, San Jose, CALIFORNIA | On Site | Apr 09 |
 | ↳ | **[NBC Bay Area - News Internship – Summer 2026](https://jobright.ai/jobs/info/69d816c79f97a42dc9c1a399?utm_campaign=1053&utm_source=git)** | 2450 N. First Street, San Jose, CALIFORNIA | On Site | Apr 09 |
 | **[Ingram Micro](https://corp.ingrammicro.com)** | **[Summer Intern - Video Producer](https://jobright.ai/jobs/info/69bb392606c1ba00c54db0fb?utm_campaign=1053&utm_source=git)** | Irvine, CA | Hybrid | Apr 09 |
+| **[Columbus Blue Jackets](http://bluejackets.com)** | **[2026-27 Season Video Production Intern](https://jobright.ai/jobs/info/69d824f0f4ea471a51fe40b3?utm_campaign=1053&utm_source=git)** | Columbus, OH | On Site | Apr 09 |
 | **[Golden Pet Brands](www.goldenpetbrands.com)** | **[Intern, Video Editor - Summer 2026](https://jobright.ai/jobs/info/69c2b9a8ec22f8310ab09d13?utm_campaign=1053&utm_source=git)** | Los Angeles, California, United States | Hybrid | Apr 09 |
 | **[Mito Red Light](https://mitoredlight.com)** | **[Podcast Production Intern (Part-Time / In-Person / Scottsdale, AZ)](https://jobright.ai/jobs/info/69d7ec8bf4ea471a51fe26f4?utm_campaign=1053&utm_source=git)** | Scottsdale, AZ | On Site | Apr 09 |
 | **[INFICON](http://www.inficon.com)** | **[Digital Content Creator Summer Intern](https://jobright.ai/jobs/info/69d7ec23869c7e25d859234d?utm_campaign=1053&utm_source=git)** | East Syracuse, NY, USA | On Site | Apr 09 |
@@ -73,7 +79,6 @@ For a complete list, click the following sortable link below:
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Broadcasting Internship (NYSBA)](https://jobright.ai/jobs/info/6982675d0f6f7e7a2cdb920d?utm_campaign=1053&utm_source=git)** | Colchester, VT | On Site | Apr 09 |
 | ↳ | **[Digital Content Intern, Unpaid](https://jobright.ai/jobs/info/69bb08ca569738374140e490?utm_campaign=1053&utm_source=git)** | Shreveport, Louisiana, United States | On Site | Apr 09 |
 | **[WPHL-TV](https://www.phl17.com)** | **[Production Summer Intern](https://jobright.ai/jobs/info/69bb08c9569738374140e482?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Apr 09 |
-| **[ALO](https://www.aloyoga.com/)** | **[PR & Wellness Club Intern](https://jobright.ai/jobs/info/69bb40cc06c1ba00c54dbd37?utm_campaign=1053&utm_source=git)** | Beverly Hills, CA | On Site | Apr 09 |
 | **[SWCA Environmental Consultants](https://www.swca.com/)** | **[Cultural Resources Intern](https://jobright.ai/jobs/info/69b25401ae2a534885e943ad?utm_campaign=1053&utm_source=git)** | Amherst, MA | On Site | Apr 09 |
 | **[Legends Global](http://legends.net)** | **[Video/Content Production Intern](https://jobright.ai/jobs/info/69d586cccdb525785fbd18dc?utm_campaign=1053&utm_source=git)** | Miami, FL | On Site | Apr 09 |
 | **[DriveTime](https://www.drivetime.com)** | **[Content Creator Intern (Summer 2026)](https://jobright.ai/jobs/info/69ba98b45697383741405a4f?utm_campaign=1053&utm_source=git)** | Tempe, AZ | On Site | Apr 09 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[NATIONAL FFA CONVENTION & EXPO NEWSROOM JOURNALIST INTERNSHIP](https://jobright.ai/jobs/info/69d3eba7e63cea7a8b654e3c?utm_campaign=1053&utm_source=git)** | Indianapolis,IN,US | On Site | Apr 06 |
 | ↳ | **[NATIONAL FFA CONVENTION & EXPO NEWSROOM ANCHOR INTERNSHIP](https://jobright.ai/jobs/info/69d3eb8fcfdc6132f9455db0?utm_campaign=1053&utm_source=git)** | Indianapolis,IN,US | On Site | Apr 06 |
 | ↳ | **[NATIONAL FFA CONVENTION & EXPO NEWSROOM VIDEOGRAPHER INTERNSHIP](https://jobright.ai/jobs/info/69d3eb72891d7b11cfcf59d8?utm_campaign=1053&utm_source=git)** | Indianapolis,IN,US | On Site | Apr 06 |
-| **[ESW Beauty](https://eswbeauty.com)** | **[Content Creator Intern (6-Month Internship)](https://jobright.ai/jobs/info/69d3e848891d7b11cfcf5784?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Apr 06 |
-| **[Dallas Hoops Journal](dallashoopsjournal.com)** | **[Digital Media & Sports Journalism Internship (Dallas-Based)](https://jobright.ai/jobs/info/69d5e379cfdc6132f9466d7e?utm_campaign=1053&utm_source=git)** | Plano, TX | On Site | Apr 06 |
-| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Internship](https://jobright.ai/jobs/info/69d3c276891d7b11cfcf30e7?utm_campaign=1053&utm_source=git)** | Savannah, GA | On Site | Apr 06 |
-| **[Indiana University Bloomington](https://www.iu.edu)** | **[Part-Time Student Editorial Intern, Center for Rural Engagement](https://jobright.ai/jobs/info/69d386bf54f00230c6d283b4?utm_campaign=1053&utm_source=git)** | Bloomington, IN | On Site | Apr 06 |
-| **[B'Creative Media](http://www.BcreativeMedia.net)** | **[Associate Producer Intern](https://jobright.ai/jobs/info/69d36d700b098b7a6708f0cf?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Apr 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
