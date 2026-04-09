@@ -64,6 +64,7 @@ For a complete list, click the following sortable link below:
 | **[ASM Global](http://www.asmglobal.com)** | **[Intern Catering & Special Events Coordinator](https://jobright.ai/jobs/info/69d6cc8b48f0c8161d2fb316?utm_campaign=1053&utm_source=git)** | Frisco, TX | On Site | Apr 08 |
 | **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69d6cc27366bb95ba554ff1e?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Apr 08 |
 | **[Methix](www.mymethix.com)** | **[Summer '26 Interns (remote): Music Tech 🎶💻](https://jobright.ai/jobs/info/69d6beebe63cea7a8b66ba27?utm_campaign=1053&utm_source=git)** | United States | Remote | Apr 08 |
+| **[Seekr](https://seekr.com)** | **[Character Performers/Mascots for Bluey x CAMP Production](https://jobright.ai/jobs/info/69d6d275e63cea7a8b66c795?utm_campaign=1053&utm_source=git)** | King of Prussia, PA | On Site | Apr 08 |
 | **[Westwood Community Church](https://www.westwoodcc.org)** | **[Film Production Intern](https://jobright.ai/jobs/info/69d6a4d0706f771673babeed?utm_campaign=1053&utm_source=git)** | Excelsior,MN,US | On Site | Apr 08 |
 | **[West Shore Home](http://westshorehome.com)** | **[Video Production Intern (Summer 2026)](https://jobright.ai/jobs/info/69d6a0da52a5bf5800129dea?utm_campaign=1053&utm_source=git)** | Harrisburg, PA | On Site | Apr 08 |
 | **[SexSymbol Magazine](sexsymbolmagazine.com)** | **[Business Operations (Remote, Unpaid) Internship](https://jobright.ai/jobs/info/69d69f49706f771673babc49?utm_campaign=1053&utm_source=git)** | NYC Metro Area | Remote | Apr 08 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Video Editor Intern - BYU-Pathway Worldwide (Full-Time Intern)](https://jobright.ai/jobs/info/69d088cc891d7b11cfcdc6a0?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | Hybrid | Apr 03 |
 | **[The Ambony](http://www.manofthehourmag.com/)** | **[Lifestyle Journalist Intern (Home, Tech & Auto)](https://jobright.ai/jobs/info/69d07c9e54f00230c6d12a1f?utm_campaign=1053&utm_source=git)** | 2 Astor Pl, New York, NY 10003, USA | Remote | Apr 03 |
 | **[United States Hockey League (USHL)](https://www.ushl.com/)** | **[Game Day Content Intern](https://jobright.ai/jobs/info/69d07028cdb525785fbaa413?utm_campaign=1053&utm_source=git)** | Dubuque, IA | On Site | Apr 03 |
-| **[PrimeMarket AI](www.primemarketai.com)** | **[Content Creator Intern (Social Media Focus) / Unpaid](https://jobright.ai/jobs/info/69d342190b098b7a6708d57c?utm_campaign=1053&utm_source=git)** | NYC Metro Area | Remote | Apr 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
