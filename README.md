@@ -57,11 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Digital Content Intern, Unpaid](https://jobright.ai/jobs/info/69bb08ca569738374140e490?utm_campaign=1053&utm_source=git)** | Shreveport, Louisiana, United States | On Site | Apr 09 |
+| **[TelevisaUnivision](https://www.corporate.televisaunivision.com)** | **[Intern, Programming Strategy](https://jobright.ai/jobs/info/699e0ce781476f6176b6f7ac?utm_campaign=1053&utm_source=git)** | Miami, FL | On Site | Apr 09 |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Broadcasting Internship (NYSBA)](https://jobright.ai/jobs/info/6982675d0f6f7e7a2cdb920d?utm_campaign=1053&utm_source=git)** | Colchester, VT | On Site | Apr 09 |
+| ↳ | **[Digital Content Intern, Unpaid](https://jobright.ai/jobs/info/69bb08ca569738374140e490?utm_campaign=1053&utm_source=git)** | Shreveport, Louisiana, United States | On Site | Apr 09 |
 | **[WPHL-TV](https://www.phl17.com)** | **[Production Summer Intern](https://jobright.ai/jobs/info/69bb08c9569738374140e482?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Apr 09 |
 | **[ALO](https://www.aloyoga.com/)** | **[PR & Wellness Club Intern](https://jobright.ai/jobs/info/69bb40cc06c1ba00c54dbd37?utm_campaign=1053&utm_source=git)** | Beverly Hills, CA | On Site | Apr 09 |
+| **[SWCA Environmental Consultants](https://www.swca.com/)** | **[Cultural Resources Intern](https://jobright.ai/jobs/info/69b25401ae2a534885e943ad?utm_campaign=1053&utm_source=git)** | Amherst, MA | On Site | Apr 09 |
 | **[Legends Global](http://legends.net)** | **[Video/Content Production Intern](https://jobright.ai/jobs/info/69d586cccdb525785fbd18dc?utm_campaign=1053&utm_source=git)** | Miami, FL | On Site | Apr 09 |
 | **[DriveTime](https://www.drivetime.com)** | **[Content Creator Intern (Summer 2026)](https://jobright.ai/jobs/info/69ba98b45697383741405a4f?utm_campaign=1053&utm_source=git)** | Tempe, AZ | On Site | Apr 09 |
+| **[Saint Xavier University](http://www.sxu.edu/)** | **[Xavierite Copy Editor - Student Employment](https://jobright.ai/jobs/info/69d7b439b861c42857c44b68?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Apr 09 |
 | **[AEQUUS SPORTS LLC](https://www.uslspokane.com)** | **[Pro-Soccer Internship - Fall 2026](https://jobright.ai/jobs/info/69d720da52a5bf580012e0a5?utm_campaign=1053&utm_source=git)** | Spokane, WA | On Site | Apr 08 |
 | **[Columbus Blue Jackets](http://bluejackets.com)** | **[2026-27 Season Journalism Intern](https://jobright.ai/jobs/info/69d72d44950d1a0760b7c04f?utm_campaign=1053&utm_source=git)** | Columbus, OH | On Site | Apr 08 |
 | ↳ | **[2026-27 Season Broadcasting Intern](https://jobright.ai/jobs/info/69d72c7d48f0c8161d2fd7fc?utm_campaign=1053&utm_source=git)** | Columbus, OH | On Site | Apr 08 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Happy Hospitality](http://www.happycamper.pizza)** | **[Events & Catering Paid Internship](https://jobright.ai/jobs/info/69d43af0891d7b11cfcf8aeb?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Apr 05 |
 | **[Spin Master Games](http://www.spinmaster.com)** | **[Development Intern for Entertainment](https://jobright.ai/jobs/info/69d43d6acdb525785fbc7b6a?utm_campaign=1053&utm_source=git)** | Toronto, ON | Hybrid | Apr 05 |
 | **[City of Rochester Hills](http://www.rochesterhills.org/)** | **[Video Production Intern](https://jobright.ai/jobs/info/69d2d55e54f00230c6d22581?utm_campaign=1053&utm_source=git)** | Rochester Hills, MI | On Site | Apr 05 |
-| **[Loudoun United Football Club](https://www.loudoununitedfc.com/)** | **[Videography and Content Creation Intern](https://jobright.ai/jobs/info/69d2c0ddcdb525785fbba7fa?utm_campaign=1053&utm_source=git)** | Leesburg, VA | On Site | Apr 05 |
-| **[Sightline Media Group](http://www.sightlinemediagroup.com)** | **[Editorial Intern, Military Times](https://jobright.ai/jobs/info/69d271dc891d7b11cfceaaa1?utm_campaign=1053&utm_source=git)** | Washington, DC | Remote | Apr 05 |
-| **[Skild AI](https://www.skild.ai/)** | **[Cinematography Intern (Product Videography & Social Media)](https://jobright.ai/jobs/info/68d48fabffc1276de3fdbe8a?utm_campaign=1053&utm_source=git)** | San Mateo, CA | On Site | Apr 05 |
-| **[Waco Tribune-Herald](http://wacotrib.com)** | **[Performing Arts Center Operations Coordinator](https://jobright.ai/jobs/info/69d392060b098b7a67090115?utm_campaign=1053&utm_source=git)** | Hayward, CA | On Site | Apr 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
