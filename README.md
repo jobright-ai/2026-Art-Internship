@@ -122,6 +122,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Social Video Intern](https://jobright.ai/jobs/info/699c6a84e0bddb6acacb75b7?utm_campaign=1053&utm_source=git)** | Meriden, CT | On Site | Apr 07 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Internship](https://jobright.ai/jobs/info/69d5f2b0706f771673ba7f52?utm_campaign=1053&utm_source=git)** | Savannah, GA | On Site | Apr 07 |
 | **[TelevisaUnivision](https://www.corporate.televisaunivision.com)** | **[Intern, Live Events](https://jobright.ai/jobs/info/699d0dc481476f6176b5ade3?utm_campaign=1053&utm_source=git)** | Miami, FL | On Site | Apr 07 |
+| **[County of Riverside](https://rivco.org)** | **[Behavioral Health Friday Night Live (Indio) - Paid Internship](https://jobright.ai/jobs/info/69d75fabcfdc6132f9472440?utm_campaign=1053&utm_source=git)** | Riverside County, CA | On Site | Apr 07 |
 | **[ALO](https://www.aloyoga.com/)** | **[PR & Wellness Club Intern](https://jobright.ai/jobs/info/69baf0e2569738374140c630?utm_campaign=1053&utm_source=git)** | Beverly Hills, California, United States | On Site | Apr 06 |
 | **[Our National Conversation (ONC)](https://www.ournationalconversation.org)** | **[Digital Reporter Intern](https://jobright.ai/jobs/info/69d485b7e63cea7a8b65aa2f?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Remote | Apr 06 |
 | **[St. Louis Blues](http://www.stlouisblues.com)** | **[Intern, Video Production](https://jobright.ai/jobs/info/69d47fbd366bb95ba553e2d8?utm_campaign=1053&utm_source=git)** | St Louis, MO | On Site | Apr 06 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[WAVY-TV 10](http://wavy.com)** | **[WAVY Unpaid Newsroom Intern, Summer 2026](https://jobright.ai/jobs/info/69d12665891d7b11cfce220e?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Apr 04 |
 | ↳ | **[WAVY Unpaid Sports Intern, Summer Semester 2026](https://jobright.ai/jobs/info/6943686294730b7398768010?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Apr 04 |
 | ↳ | **[WAVY Hampton Roads Show Summer Intern 2024](https://jobright.ai/jobs/info/69d123bc891d7b11cfce1e2e?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Apr 04 |
-| ↳ | **[WAVY Unpaid Hampton Roads Show/Production Intern, Summer Semester 2026](https://jobright.ai/jobs/info/6943644f50bbaf7650554c0f?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Apr 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
