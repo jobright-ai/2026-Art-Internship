@@ -70,7 +70,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69d6cc9252a5bf580012c21f?utm_campaign=1053&utm_source=git)** | Greenbrier River, WV | On Site | Apr 08 |
 | **[ASM Global](http://www.asmglobal.com)** | **[Intern Catering & Special Events Coordinator](https://jobright.ai/jobs/info/69d6cc8b48f0c8161d2fb316?utm_campaign=1053&utm_source=git)** | Frisco, TX | On Site | Apr 08 |
 | **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69d6cc27366bb95ba554ff1e?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Apr 08 |
-| **[Methix](www.mymethix.com)** | **[Summer '26 Interns (remote): Music Tech 🎶💻](https://jobright.ai/jobs/info/69d6beebe63cea7a8b66ba27?utm_campaign=1053&utm_source=git)** | United States | Remote | Apr 08 |
 | **[Seekr](https://seekr.com)** | **[Character Performers/Mascots for Bluey x CAMP Production](https://jobright.ai/jobs/info/69d6d275e63cea7a8b66c795?utm_campaign=1053&utm_source=git)** | King of Prussia, PA | On Site | Apr 08 |
 | **[Westwood Community Church](https://www.westwoodcc.org)** | **[Film Production Intern](https://jobright.ai/jobs/info/69d6a4d0706f771673babeed?utm_campaign=1053&utm_source=git)** | Excelsior,MN,US | On Site | Apr 08 |
 | **[West Shore Home](http://westshorehome.com)** | **[Video Production Intern (Summer 2026)](https://jobright.ai/jobs/info/69d6a0da52a5bf5800129dea?utm_campaign=1053&utm_source=git)** | Harrisburg, PA | On Site | Apr 08 |
@@ -123,7 +122,6 @@ For a complete list, click the following sortable link below:
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Internship](https://jobright.ai/jobs/info/69d5f2b0706f771673ba7f52?utm_campaign=1053&utm_source=git)** | Savannah, GA | On Site | Apr 07 |
 | **[TelevisaUnivision](https://www.corporate.televisaunivision.com)** | **[Intern, Live Events](https://jobright.ai/jobs/info/699d0dc481476f6176b5ade3?utm_campaign=1053&utm_source=git)** | Miami, FL | On Site | Apr 07 |
 | **[ALO](https://www.aloyoga.com/)** | **[PR & Wellness Club Intern](https://jobright.ai/jobs/info/69baf0e2569738374140c630?utm_campaign=1053&utm_source=git)** | Beverly Hills, California, United States | On Site | Apr 06 |
-| **[National FFA Organization](https://www.ffa.org)** | **[NATIONAL FFA CONVENTION & EXPO NEWSROOM JOURNALIST INTERNSHIP](https://jobright.ai/jobs/info/69d72c2e366bb95ba5552485?utm_campaign=1053&utm_source=git)** | Indianapolis, IN | On Site | Apr 06 |
 | **[Our National Conversation (ONC)](https://www.ournationalconversation.org)** | **[Digital Reporter Intern](https://jobright.ai/jobs/info/69d485b7e63cea7a8b65aa2f?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Remote | Apr 06 |
 | **[St. Louis Blues](http://www.stlouisblues.com)** | **[Intern, Video Production](https://jobright.ai/jobs/info/69d47fbd366bb95ba553e2d8?utm_campaign=1053&utm_source=git)** | St Louis, MO | On Site | Apr 06 |
 | **[Our National Conversation (ONC)](https://www.ournationalconversation.org)** | **[Digital Reporter Intern](https://jobright.ai/jobs/info/69d470e5cdb525785fbc9768?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, USA | Remote | Apr 06 |
@@ -157,4 +155,6 @@ For a complete list, click the following sortable link below:
 | **[WAVY-TV 10](http://wavy.com)** | **[WAVY Unpaid Newsroom Intern, Summer 2026](https://jobright.ai/jobs/info/69d12665891d7b11cfce220e?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Apr 04 |
 | ↳ | **[WAVY Unpaid Sports Intern, Summer Semester 2026](https://jobright.ai/jobs/info/6943686294730b7398768010?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Apr 04 |
 | ↳ | **[WAVY Hampton Roads Show Summer Intern 2024](https://jobright.ai/jobs/info/69d123bc891d7b11cfce1e2e?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Apr 04 |
+| ↳ | **[WAVY Unpaid Hampton Roads Show/Production Intern, Summer Semester 2026](https://jobright.ai/jobs/info/6943644f50bbaf7650554c0f?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Apr 04 |
+| **[United Wholesale Mortgage](http://uwm.com)** | **[2026 Videography Summer Internship Program](https://jobright.ai/jobs/info/697c0cfd0b88cc7d6422fa35?utm_campaign=1053&utm_source=git)** | Pontiac, MI | On Site | Apr 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
