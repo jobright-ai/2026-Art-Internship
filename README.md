@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Legends Global](http://legends.net)** | **[Intern Catering & Special Events Coordinator](https://jobright.ai/jobs/info/69d6e54948f0c8161d2fbd9c?utm_campaign=1053&utm_source=git)** | Frisco, TX | On Site | Apr 08 |
 | **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69d6ccbe706f771673bae157?utm_campaign=1053&utm_source=git)** | Wichita, KS | On Site | Apr 08 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69d6ccabe63cea7a8b66c4f5?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Apr 08 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69d6ccaae63cea7a8b66c4f4?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | Apr 08 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[Visitor Experience Curatorial Intern - Nauvoo, IL](https://jobright.ai/jobs/info/69d088cd891d7b11cfcdc6a4?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Apr 03 |
 | ↳ | **[Video Editor Intern - BYU-Pathway Worldwide (Full-Time Intern)](https://jobright.ai/jobs/info/69d088cc891d7b11cfcdc6a0?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | Hybrid | Apr 03 |
 | **[The Ambony](http://www.manofthehourmag.com/)** | **[Lifestyle Journalist Intern (Home, Tech & Auto)](https://jobright.ai/jobs/info/69d07c9e54f00230c6d12a1f?utm_campaign=1053&utm_source=git)** | 2 Astor Pl, New York, NY 10003, USA | Remote | Apr 03 |
-| **[United States Hockey League (USHL)](https://www.ushl.com/)** | **[Game Day Content Intern](https://jobright.ai/jobs/info/69d07028cdb525785fbaa413?utm_campaign=1053&utm_source=git)** | Dubuque, IA | On Site | Apr 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
