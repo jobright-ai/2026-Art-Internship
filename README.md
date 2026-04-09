@@ -73,6 +73,7 @@ For a complete list, click the following sortable link below:
 | **[Seekr](https://seekr.com)** | **[Character Performers/Mascots for Bluey x CAMP Production](https://jobright.ai/jobs/info/69d6d275e63cea7a8b66c795?utm_campaign=1053&utm_source=git)** | King of Prussia, PA | On Site | Apr 08 |
 | **[Westwood Community Church](https://www.westwoodcc.org)** | **[Film Production Intern](https://jobright.ai/jobs/info/69d6a4d0706f771673babeed?utm_campaign=1053&utm_source=git)** | Excelsior,MN,US | On Site | Apr 08 |
 | **[West Shore Home](http://westshorehome.com)** | **[Video Production Intern (Summer 2026)](https://jobright.ai/jobs/info/69d6a0da52a5bf5800129dea?utm_campaign=1053&utm_source=git)** | Harrisburg, PA | On Site | Apr 08 |
+| **[NASA’s Virginia Space Grant - FREE STEM Programs](https://linktr.ee/VSGC)** | **[Media Intern $15/hr](https://jobright.ai/jobs/info/69d74aa2cfdc6132f9471808?utm_campaign=1053&utm_source=git)** | Hampton Roads, Virginia Metropolitan Area | On Site | Apr 08 |
 | **[SexSymbol Magazine](sexsymbolmagazine.com)** | **[Business Operations (Remote, Unpaid) Internship](https://jobright.ai/jobs/info/69d69f49706f771673babc49?utm_campaign=1053&utm_source=git)** | NYC Metro Area | Remote | Apr 08 |
 | ↳ | **[Business Operations (Unpaid, Remote) Internship](https://jobright.ai/jobs/info/69d69c1acfdc6132f946af34?utm_campaign=1053&utm_source=git)** | United States | Remote | Apr 08 |
 | **[Pampas Picnics + Rentals | Event Design and Decor](https://www.pampaspicnics.com)** | **[Summer Special Events Intern](https://jobright.ai/jobs/info/69d69bad48f0c8161d2f8cf9?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Apr 08 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[WAVY Unpaid Sports Intern, Summer Semester 2026](https://jobright.ai/jobs/info/6943686294730b7398768010?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Apr 04 |
 | ↳ | **[WAVY Hampton Roads Show Summer Intern 2024](https://jobright.ai/jobs/info/69d123bc891d7b11cfce1e2e?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Apr 04 |
 | ↳ | **[WAVY Unpaid Hampton Roads Show/Production Intern, Summer Semester 2026](https://jobright.ai/jobs/info/6943644f50bbaf7650554c0f?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Apr 04 |
-| **[United Wholesale Mortgage](http://uwm.com)** | **[2026 Videography Summer Internship Program](https://jobright.ai/jobs/info/697c0cfd0b88cc7d6422fa35?utm_campaign=1053&utm_source=git)** | Pontiac, MI | On Site | Apr 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
