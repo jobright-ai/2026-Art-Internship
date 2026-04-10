@@ -63,7 +63,6 @@ For a complete list, click the following sortable link below:
 | **[Tumbling Dumpling Media](https://www.linkedin.com/company/109629621)** | **[Editorial Intern](https://jobright.ai/jobs/info/69d93bed5356a60f40fd84ca?utm_campaign=1053&utm_source=git)** | United States | Remote | Apr 10 |
 | **[Temple Square Hospitality Corporation](http://templesquarehospitality.com)** | **[Video Products Intern](https://jobright.ai/jobs/info/69d9369db67cec4f9b0a082d?utm_campaign=1053&utm_source=git)** | SLC Triad Center | On Site | Apr 10 |
 | **[Freedom of the Press Foundation](http://pressfreedomfoundation.org)** | **[Audience Editor](https://jobright.ai/jobs/info/69d935c49f97a42dc9c200c4?utm_campaign=1053&utm_source=git)** | Brooklyn, NY | Hybrid | Apr 10 |
-| **[City of Kenmore](http://www.kenmorewa.gov)** | **[Special Events Summer Intern](https://jobright.ai/jobs/info/69d9275cb67cec4f9b0a0384?utm_campaign=1053&utm_source=git)** | Kenmore, WA | On Site | Apr 10 |
 | **[1P Algorithms](https://www.1palgos.io)** | **[Video Editor Intern](https://jobright.ai/jobs/info/69d9248b869c7e25d8599215?utm_campaign=1053&utm_source=git)** | United States | Remote | Apr 10 |
 | **[Waterford.org](http://www.waterford.org)** | **[Summer Events Intern](https://jobright.ai/jobs/info/6969f8d4f25a38006698bcb1?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Apr 10 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[LN Concerts, Booking Intern](https://jobright.ai/jobs/info/69bd9e88b106024562828c83?utm_campaign=1053&utm_source=git)** | Beverly Hills, CA | On Site | Apr 10 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Worcester Railers HC](https://www.railershc.com)** | **[Community & Fan Engagement Intern Fall 2026](https://jobright.ai/jobs/info/69d52bf1706f771673ba0fa9?utm_campaign=1053&utm_source=git)** | Worcester, MA | On Site | Apr 07 |
 | **[Return Records](https://returnrecords.com)** | **[Live Events Intern](https://jobright.ai/jobs/info/69d5286c891d7b11cfcffc2e?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Apr 07 |
 | **[Hearst Connecticut Media Group](https://hearstmediact.com)** | **[Reporter Intern](https://jobright.ai/jobs/info/69d40fca366bb95ba553a20a?utm_campaign=1053&utm_source=git)** | Meriden, CT | On Site | Apr 07 |
+| ↳ | **[Social Video Intern](https://jobright.ai/jobs/info/699c6a84e0bddb6acacb75b7?utm_campaign=1053&utm_source=git)** | Meriden, CT | On Site | Apr 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
