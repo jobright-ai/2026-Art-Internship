@@ -57,7 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[B6 Studios](www.b6studios.com)** | **[Intern - Short-Form Content Editing (Remote)](https://jobright.ai/jobs/info/69d85051869c7e25d8594cee?utm_campaign=1053&utm_source=git)** | United States | Remote | Apr 09 |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Digital Content Intern](https://jobright.ai/jobs/info/69d85dcdf4ea471a51fe545b?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Apr 09 |
 | **[Children's Wisconsin](https://childrenswi.org/)** | **[Events Intern](https://jobright.ai/jobs/info/69d841fe9f97a42dc9c1b535?utm_campaign=1053&utm_source=git)** | Milwaukee, WI | On Site | Apr 09 |
 | **[U.S. News & World Report](http://www.usnews.com)** | **[2026 News Summer Intern](https://jobright.ai/jobs/info/69d82b55869c7e25d859436a?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Apr 09 |
 | **[SiriusXM](http://siriusxm.com)** | **[Summer Intern, Podcast Producer - Part Time](https://jobright.ai/jobs/info/69d82697b861c42857c490b0?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 09 |
@@ -65,8 +65,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[NBC Bay Area - News Internship – Summer 2026](https://jobright.ai/jobs/info/69d8243cb67cec4f9b09ad60?utm_campaign=1053&utm_source=git)** | San Jose, CA | On Site | Apr 09 |
 | **[Government of Alberta](http://alberta.ca/)** | **[Correspondence Writer](https://jobright.ai/jobs/info/69d823d8b67cec4f9b09abc9?utm_campaign=1053&utm_source=git)** | Edmonton, AB | On Site | Apr 09 |
 | **[Wud](https://www.wud.com/)** | **[Video Editor Intern](https://jobright.ai/jobs/info/69d823d39f97a42dc9c1a998?utm_campaign=1053&utm_source=git)** | Etobicoke, ON | On Site | Apr 09 |
-| **[Ingham County](https://roads.ingham.org)** | **[Content Creator Intern - Fair Department](https://jobright.ai/jobs/info/69d8217e869c7e25d8593cf6?utm_campaign=1053&utm_source=git)** | Lansing, MI | Hybrid | Apr 09 |
-| **[NBCUniversal](https://www.nbcuniversal.com/)** | **[NBC Bay Area - News Internship – Summer 2026](https://jobright.ai/jobs/info/69d817a0b861c42857c48a02?utm_campaign=1053&utm_source=git)** | San Jose, CA | On Site | Apr 09 |
 | **[DreamWorks Animation](https://www.dreamworks.com)** | **[NBC Bay Area - Digital Internship – Summer 2026](https://jobright.ai/jobs/info/69d816d4869c7e25d85939dd?utm_campaign=1053&utm_source=git)** | 2450 N. First Street, San Jose, CALIFORNIA | On Site | Apr 09 |
 | ↳ | **[NBC Bay Area - News Internship – Summer 2026](https://jobright.ai/jobs/info/69d816c79f97a42dc9c1a399?utm_campaign=1053&utm_source=git)** | 2450 N. First Street, San Jose, CALIFORNIA | On Site | Apr 09 |
 | **[Ingram Micro](https://corp.ingrammicro.com)** | **[Summer Intern - Video Producer](https://jobright.ai/jobs/info/69bb392606c1ba00c54db0fb?utm_campaign=1053&utm_source=git)** | Irvine, CA | Hybrid | Apr 09 |
@@ -157,4 +155,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Intern, WP Creator (Social Video & Production)](https://jobright.ai/jobs/info/69d3f330366bb95ba5538f50?utm_campaign=1053&utm_source=git)** | DC-Washington-TWP Headquarters | On Site | Apr 06 |
 | **[National FFA Organization](https://www.ffa.org)** | **[NATIONAL FFA CONVENTION & EXPO NEWSROOM VIDEO EDITOR INTERNSHIP](https://jobright.ai/jobs/info/69d3ebd5cdb525785fbc48fb?utm_campaign=1053&utm_source=git)** | Indianapolis,IN,US | On Site | Apr 06 |
 | ↳ | **[NATIONAL FFA CONVENTION & EXPO NEWSROOM JOURNALIST INTERNSHIP](https://jobright.ai/jobs/info/69d3eba7e63cea7a8b654e3c?utm_campaign=1053&utm_source=git)** | Indianapolis,IN,US | On Site | Apr 06 |
+| ↳ | **[NATIONAL FFA CONVENTION & EXPO NEWSROOM ANCHOR INTERNSHIP](https://jobright.ai/jobs/info/69d3eb8fcfdc6132f9455db0?utm_campaign=1053&utm_source=git)** | Indianapolis,IN,US | On Site | Apr 06 |
+| ↳ | **[NATIONAL FFA CONVENTION & EXPO NEWSROOM VIDEOGRAPHER INTERNSHIP](https://jobright.ai/jobs/info/69d3eb72891d7b11cfcf59d8?utm_campaign=1053&utm_source=git)** | Indianapolis,IN,US | On Site | Apr 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
