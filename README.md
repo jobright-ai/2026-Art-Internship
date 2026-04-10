@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Rowan](www.trustrowan.com)** | **[Assistant Video Editor Intern](https://jobright.ai/jobs/info/69d833d3f4ea471a51fe4899?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Apr 09 |
+| **[U.S. News & World Report](http://www.usnews.com)** | **[2026 News Summer Intern](https://jobright.ai/jobs/info/69d82b55869c7e25d859436a?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Apr 09 |
 | **[SiriusXM](http://siriusxm.com)** | **[Summer Intern, Podcast Producer - Part Time](https://jobright.ai/jobs/info/69d82697b861c42857c490b0?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 09 |
 | **[NBCUniversal](https://www.nbcuniversal.com/)** | **[NBC Bay Area - Digital Internship – Summer 2026](https://jobright.ai/jobs/info/69d8250af4ea471a51fe4100?utm_campaign=1053&utm_source=git)** | San Jose, CA | On Site | Apr 09 |
 | ↳ | **[NBC Bay Area - News Internship – Summer 2026](https://jobright.ai/jobs/info/69d8243cb67cec4f9b09ad60?utm_campaign=1053&utm_source=git)** | San Jose, CA | On Site | Apr 09 |
@@ -68,7 +70,6 @@ For a complete list, click the following sortable link below:
 | **[Ingram Micro](https://corp.ingrammicro.com)** | **[Summer Intern - Video Producer](https://jobright.ai/jobs/info/69bb392606c1ba00c54db0fb?utm_campaign=1053&utm_source=git)** | Irvine, CA | Hybrid | Apr 09 |
 | **[Columbus Blue Jackets](http://bluejackets.com)** | **[2026-27 Season Video Production Intern](https://jobright.ai/jobs/info/69d824f0f4ea471a51fe40b3?utm_campaign=1053&utm_source=git)** | Columbus, OH | On Site | Apr 09 |
 | **[Golden Pet Brands](www.goldenpetbrands.com)** | **[Intern, Video Editor - Summer 2026](https://jobright.ai/jobs/info/69c2b9a8ec22f8310ab09d13?utm_campaign=1053&utm_source=git)** | Los Angeles, California, United States | Hybrid | Apr 09 |
-| **[Mito Red Light](https://mitoredlight.com)** | **[Podcast Production Intern (Part-Time / In-Person / Scottsdale, AZ)](https://jobright.ai/jobs/info/69d7ec8bf4ea471a51fe26f4?utm_campaign=1053&utm_source=git)** | Scottsdale, AZ | On Site | Apr 09 |
 | **[INFICON](http://www.inficon.com)** | **[Digital Content Creator Summer Intern](https://jobright.ai/jobs/info/69d7ec23869c7e25d859234d?utm_campaign=1053&utm_source=git)** | East Syracuse, NY, USA | On Site | Apr 09 |
 | **[Salt XC](https://www.saltxc.com/)** | **[AI Enablement Content Producer (Intern)](https://jobright.ai/jobs/info/6982a17a0f6f7e7a2cdbf34a?utm_campaign=1053&utm_source=git)** | Toronto, ON | Hybrid | Apr 09 |
 | **[Golden Hippo®](https://www.huntrealestate.com/)** | **[Art Production Assistant Intern](https://jobright.ai/jobs/info/69c5d8bd1b5ad0288737a4eb?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 09 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[National FFA Organization](https://www.ffa.org)** | **[NATIONAL FFA CONVENTION & EXPO NEWSROOM VIDEO EDITOR INTERNSHIP](https://jobright.ai/jobs/info/69d3ebd5cdb525785fbc48fb?utm_campaign=1053&utm_source=git)** | Indianapolis,IN,US | On Site | Apr 06 |
 | ↳ | **[NATIONAL FFA CONVENTION & EXPO NEWSROOM JOURNALIST INTERNSHIP](https://jobright.ai/jobs/info/69d3eba7e63cea7a8b654e3c?utm_campaign=1053&utm_source=git)** | Indianapolis,IN,US | On Site | Apr 06 |
 | ↳ | **[NATIONAL FFA CONVENTION & EXPO NEWSROOM ANCHOR INTERNSHIP](https://jobright.ai/jobs/info/69d3eb8fcfdc6132f9455db0?utm_campaign=1053&utm_source=git)** | Indianapolis,IN,US | On Site | Apr 06 |
-| ↳ | **[NATIONAL FFA CONVENTION & EXPO NEWSROOM VIDEOGRAPHER INTERNSHIP](https://jobright.ai/jobs/info/69d3eb72891d7b11cfcf59d8?utm_campaign=1053&utm_source=git)** | Indianapolis,IN,US | On Site | Apr 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
