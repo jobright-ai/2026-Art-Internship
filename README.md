@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CBC/Radio-Canada](https://cbc.radio-canada.ca)** | **[Researcher (CMG) (Indigenous summer paid internship) (English Services)](https://jobright.ai/jobs/info/69cd7214891d7b11cfcb8cdd?utm_campaign=1053&utm_source=git)** | Prince George, BC | On Site | Apr 10 |
 | **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[Her Campus Wellness Editorial Intern - Summer 2026](https://jobright.ai/jobs/info/69d95b1c5356a60f40fd910e?utm_campaign=1053&utm_source=git)** | United States | Remote | Apr 10 |
 | **[KHAITE](https://khaite.com/)** | **[Creative Production Intern, Summer 2026](https://jobright.ai/jobs/info/69d94477b67cec4f9b0a0fd2?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Apr 10 |
 | **[TORQ Coatings](www.torqcoatings.com)** | **[Videographer / Content Intern (Summer 2026)](https://jobright.ai/jobs/info/69d94403b67cec4f9b0a0f74?utm_campaign=1053&utm_source=git)** | Lombard, IL | Hybrid | Apr 10 |
@@ -153,8 +154,7 @@ For a complete list, click the following sortable link below:
 | **[Hearst Connecticut Media Group](https://hearstmediact.com)** | **[Reporter Intern](https://jobright.ai/jobs/info/69d40fba891d7b11cfcf6f6b?utm_campaign=1053&utm_source=git)** | Norwalk, CT | On Site | Apr 07 |
 | **[Children's Wisconsin](https://childrenswi.org/)** | **[Events Intern](https://jobright.ai/jobs/info/69d548c2e63cea7a8b65fdd7?utm_campaign=1053&utm_source=git)** | Milwaukee, WI | On Site | Apr 07 |
 | **[Nomara USA](https://intermediumcorp.com)** | **[Social Media Video Editor Intern — Your Launchpad Into the Industry](https://jobright.ai/jobs/info/69d5352fe63cea7a8b65f78b?utm_campaign=1053&utm_source=git)** | United States | Remote | Apr 07 |
+| **[Commonwealth of Massachusetts](https://www.mass.gov/)** | **[Biodiversity Media Intern - Department of Fish and Game](https://jobright.ai/jobs/info/69d96649b67cec4f9b0a1dc7?utm_campaign=1053&utm_source=git)** | United States-Massachusetts-Boston-100 Cambridge Street | On Site | Apr 07 |
 | **[Worcester Railers HC](https://www.railershc.com)** | **[Community & Fan Engagement Intern Fall 2026](https://jobright.ai/jobs/info/69d52bf1706f771673ba0fa9?utm_campaign=1053&utm_source=git)** | Worcester, MA | On Site | Apr 07 |
-| **[Return Records](https://returnrecords.com)** | **[Live Events Intern](https://jobright.ai/jobs/info/69d5286c891d7b11cfcffc2e?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Apr 07 |
-| **[Hearst Connecticut Media Group](https://hearstmediact.com)** | **[Reporter Intern](https://jobright.ai/jobs/info/69d40fca366bb95ba553a20a?utm_campaign=1053&utm_source=git)** | Meriden, CT | On Site | Apr 07 |
-| ↳ | **[Social Video Intern](https://jobright.ai/jobs/info/699c6a84e0bddb6acacb75b7?utm_campaign=1053&utm_source=git)** | Meriden, CT | On Site | Apr 07 |
+| **[The Massachusetts Executive Office of Labor and Workforce Development (EOLWD)](http://www.mass.gov/eolwd)** | **[Biodiversity Media Intern - Department of Fish and Game](https://jobright.ai/jobs/info/69d965df738f2f099e8a19f0?utm_campaign=1053&utm_source=git)** | United States-Massachusetts-Boston-100 Cambridge Street | On Site | Apr 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
