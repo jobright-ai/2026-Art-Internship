@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[City of Kenmore](http://www.kenmorewa.gov)** | **[Special Events Summer Intern](https://jobright.ai/jobs/info/69d9275cb67cec4f9b0a0384?utm_campaign=1053&utm_source=git)** | Kenmore, WA | On Site | Apr 10 |
+| **[1P Algorithms](https://www.1palgos.io)** | **[Video Editor Intern](https://jobright.ai/jobs/info/69d9248b869c7e25d8599215?utm_campaign=1053&utm_source=git)** | United States | Remote | Apr 10 |
 | **[Waterford.org](http://www.waterford.org)** | **[Summer Events Intern](https://jobright.ai/jobs/info/6969f8d4f25a38006698bcb1?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Apr 10 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[LN Concerts, Booking Intern](https://jobright.ai/jobs/info/69bd9e88b106024562828c83?utm_campaign=1053&utm_source=git)** | Beverly Hills, CA | On Site | Apr 10 |
 | ↳ | **[LN Concerts, Booking Intern](https://jobright.ai/jobs/info/69bcedef4828227293ff02e1?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | Apr 10 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[County of Riverside](https://rivco.org)** | **[Behavioral Health Friday Night Live (Indio) - Paid Internship](https://jobright.ai/jobs/info/69d75fabcfdc6132f9472440?utm_campaign=1053&utm_source=git)** | Riverside County, CA | On Site | Apr 07 |
 | **[Our National Conversation (ONC)](https://www.ournationalconversation.org)** | **[Digital Reporter Intern](https://jobright.ai/jobs/info/69d485b7e63cea7a8b65aa2f?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Remote | Apr 06 |
 | **[St. Louis Blues](http://www.stlouisblues.com)** | **[Intern, Video Production](https://jobright.ai/jobs/info/69d47fbd366bb95ba553e2d8?utm_campaign=1053&utm_source=git)** | St Louis, MO | On Site | Apr 06 |
-| **[Our National Conversation (ONC)](https://www.ournationalconversation.org)** | **[Digital Reporter Intern](https://jobright.ai/jobs/info/69d470e5cdb525785fbc9768?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, USA | Remote | Apr 06 |
-| **[Atomic](https://atomic.vc)** | **[Summer AI Content & Video Intern](https://jobright.ai/jobs/info/69d5503a706f771673ba215a?utm_campaign=1053&utm_source=git)** | Miami, FL | Hybrid | Apr 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
