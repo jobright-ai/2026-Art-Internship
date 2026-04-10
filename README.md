@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Waterford.org](http://www.waterford.org)** | **[Summer Events Intern](https://jobright.ai/jobs/info/6969f8d4f25a38006698bcb1?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Apr 10 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[LN Concerts, Booking Intern](https://jobright.ai/jobs/info/69bd9e88b106024562828c83?utm_campaign=1053&utm_source=git)** | Beverly Hills, CA | On Site | Apr 10 |
 | ↳ | **[LN Concerts, Booking Intern](https://jobright.ai/jobs/info/69bcedef4828227293ff02e1?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | Apr 10 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[FX Creative and Cultural Diversity Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69d8f0de738f2f099e89f307?utm_campaign=1053&utm_source=git)** | Burbank, CA | On Site | Apr 10 |
@@ -71,7 +72,6 @@ For a complete list, click the following sortable link below:
 | **[NBCUniversal](https://www.nbcuniversal.com/)** | **[NBC Bay Area - Digital Internship – Summer 2026](https://jobright.ai/jobs/info/69d8250af4ea471a51fe4100?utm_campaign=1053&utm_source=git)** | San Jose, CA | On Site | Apr 09 |
 | ↳ | **[NBC Bay Area - News Internship – Summer 2026](https://jobright.ai/jobs/info/69d8243cb67cec4f9b09ad60?utm_campaign=1053&utm_source=git)** | San Jose, CA | On Site | Apr 09 |
 | **[Government of Alberta](http://alberta.ca/)** | **[Correspondence Writer](https://jobright.ai/jobs/info/69d823d8b67cec4f9b09abc9?utm_campaign=1053&utm_source=git)** | Edmonton, AB | On Site | Apr 09 |
-| **[Wud](https://www.wud.com/)** | **[Video Editor Intern](https://jobright.ai/jobs/info/69d823d39f97a42dc9c1a998?utm_campaign=1053&utm_source=git)** | Etobicoke, ON | On Site | Apr 09 |
 | **[DreamWorks Animation](https://www.dreamworks.com)** | **[NBC Bay Area - Digital Internship – Summer 2026](https://jobright.ai/jobs/info/69d816d4869c7e25d85939dd?utm_campaign=1053&utm_source=git)** | 2450 N. First Street, San Jose, CALIFORNIA | On Site | Apr 09 |
 | ↳ | **[NBC Bay Area - News Internship – Summer 2026](https://jobright.ai/jobs/info/69d816c79f97a42dc9c1a399?utm_campaign=1053&utm_source=git)** | 2450 N. First Street, San Jose, CALIFORNIA | On Site | Apr 09 |
 | **[Ingram Micro](https://corp.ingrammicro.com)** | **[Summer Intern - Video Producer](https://jobright.ai/jobs/info/69bb392606c1ba00c54db0fb?utm_campaign=1053&utm_source=git)** | Irvine, CA | Hybrid | Apr 09 |
