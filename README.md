@@ -131,7 +131,6 @@ For a complete list, click the following sortable link below:
 | **[WPBF 25](https://www.wpbf.com)** | **[WPBF News Intern](https://jobright.ai/jobs/info/69ba85e05697383741400e44?utm_campaign=1053&utm_source=git)** | Palm Beach Gardens, FL | On Site | Apr 08 |
 | **[Starz](http://www.starz.com/)** | **[STARZ Intern, Content Operations - Video](https://jobright.ai/jobs/info/699edb7481476f6176b8502a?utm_campaign=1053&utm_source=git)** | Greenwood Village, CO | On Site | Apr 08 |
 | **[Freedom of the Press Foundation](http://pressfreedomfoundation.org)** | **[Audience Editor](https://jobright.ai/jobs/info/69d60b53366bb95ba554b07f?utm_campaign=1053&utm_source=git)** | Brooklyn, NY | Hybrid | Apr 08 |
-| **[Farm Equipment Magazine](https://www.keisercoversil.com/)** | **[Lessiter Media Ag Division Editorial Internship](https://jobright.ai/jobs/info/69d89859b861c42857c4ba3a?utm_campaign=1053&utm_source=git)** | Brookfield, WI | On Site | Apr 07 |
 | **[Duke University](http://www.duke.edu)** | **[Faith & Leadership Intern, Divinity School](https://jobright.ai/jobs/info/69d5df80e63cea7a8b665c68?utm_campaign=1053&utm_source=git)** | Durham, NC, US, 27710 | On Site | Apr 07 |
 | **[Little League International](https://www.littleleague.org/)** | **[Video Intern](https://jobright.ai/jobs/info/69d5cbdd891d7b11cfd05ac8?utm_campaign=1053&utm_source=git)** | Williamsport, PA | On Site | Apr 07 |
 | **[The Untitled Space](https://untitled-space.com)** | **[Art Gallery Internship](https://jobright.ai/jobs/info/69d5b64e366bb95ba5546eae?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Apr 07 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[WorldWinner](https://www.gametaco.com)** | **[Content & Social Media Editor Intern](https://jobright.ai/jobs/info/69d44073cdb525785fbc7cdf?utm_campaign=1053&utm_source=git)** | REMOTE-United States | Remote | Apr 06 |
 | **[Five Wings Arts Council](http://fwac.org)** | **[Paid Video Production Intern](https://jobright.ai/jobs/info/69d40a32891d7b11cfcf6d14?utm_campaign=1053&utm_source=git)** | Brainerd, MN | On Site | Apr 06 |
 | **[The Washington Post](http://www.washingtonpost.com/)** | **[Summer Intern, WP Creator (Social Video & Production)](https://jobright.ai/jobs/info/69d3f403891d7b11cfcf5dc5?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Apr 06 |
+| ↳ | **[Summer Intern, WP Creator (Social Video & Production)](https://jobright.ai/jobs/info/69d3f330366bb95ba5538f50?utm_campaign=1053&utm_source=git)** | DC-Washington-TWP Headquarters | On Site | Apr 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
