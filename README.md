@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[B6 Studios](www.b6studios.com)** | **[Short-Form Content Editing Internship - Remote](https://jobright.ai/jobs/info/69d86e269f97a42dc9c1c27a?utm_campaign=1053&utm_source=git)** | United States | Remote | Apr 09 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Digital Content Intern](https://jobright.ai/jobs/info/69d85dcdf4ea471a51fe545b?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Apr 09 |
 | **[Children's Wisconsin](https://childrenswi.org/)** | **[Events Intern](https://jobright.ai/jobs/info/69d841fe9f97a42dc9c1b535?utm_campaign=1053&utm_source=git)** | Milwaukee, WI | On Site | Apr 09 |
 | **[U.S. News & World Report](http://www.usnews.com)** | **[2026 News Summer Intern](https://jobright.ai/jobs/info/69d82b55869c7e25d859436a?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Apr 09 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[National FFA Organization](https://www.ffa.org)** | **[NATIONAL FFA CONVENTION & EXPO NEWSROOM VIDEO EDITOR INTERNSHIP](https://jobright.ai/jobs/info/69d3ebd5cdb525785fbc48fb?utm_campaign=1053&utm_source=git)** | Indianapolis,IN,US | On Site | Apr 06 |
 | ↳ | **[NATIONAL FFA CONVENTION & EXPO NEWSROOM JOURNALIST INTERNSHIP](https://jobright.ai/jobs/info/69d3eba7e63cea7a8b654e3c?utm_campaign=1053&utm_source=git)** | Indianapolis,IN,US | On Site | Apr 06 |
 | ↳ | **[NATIONAL FFA CONVENTION & EXPO NEWSROOM ANCHOR INTERNSHIP](https://jobright.ai/jobs/info/69d3eb8fcfdc6132f9455db0?utm_campaign=1053&utm_source=git)** | Indianapolis,IN,US | On Site | Apr 06 |
-| ↳ | **[NATIONAL FFA CONVENTION & EXPO NEWSROOM VIDEOGRAPHER INTERNSHIP](https://jobright.ai/jobs/info/69d3eb72891d7b11cfcf59d8?utm_campaign=1053&utm_source=git)** | Indianapolis,IN,US | On Site | Apr 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
