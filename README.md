@@ -57,7 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Rowan](www.trustrowan.com)** | **[Assistant Video Editor Intern](https://jobright.ai/jobs/info/69d833d3f4ea471a51fe4899?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Apr 09 |
+| **[Children's Wisconsin](https://childrenswi.org/)** | **[Events Intern](https://jobright.ai/jobs/info/69d841fe9f97a42dc9c1b535?utm_campaign=1053&utm_source=git)** | Milwaukee, WI | On Site | Apr 09 |
 | **[U.S. News & World Report](http://www.usnews.com)** | **[2026 News Summer Intern](https://jobright.ai/jobs/info/69d82b55869c7e25d859436a?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Apr 09 |
 | **[SiriusXM](http://siriusxm.com)** | **[Summer Intern, Podcast Producer - Part Time](https://jobright.ai/jobs/info/69d82697b861c42857c490b0?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 09 |
 | **[NBCUniversal](https://www.nbcuniversal.com/)** | **[NBC Bay Area - Digital Internship – Summer 2026](https://jobright.ai/jobs/info/69d8250af4ea471a51fe4100?utm_campaign=1053&utm_source=git)** | San Jose, CA | On Site | Apr 09 |
@@ -65,6 +65,7 @@ For a complete list, click the following sortable link below:
 | **[Government of Alberta](http://alberta.ca/)** | **[Correspondence Writer](https://jobright.ai/jobs/info/69d823d8b67cec4f9b09abc9?utm_campaign=1053&utm_source=git)** | Edmonton, AB | On Site | Apr 09 |
 | **[Wud](https://www.wud.com/)** | **[Video Editor Intern](https://jobright.ai/jobs/info/69d823d39f97a42dc9c1a998?utm_campaign=1053&utm_source=git)** | Etobicoke, ON | On Site | Apr 09 |
 | **[Ingham County](https://roads.ingham.org)** | **[Content Creator Intern - Fair Department](https://jobright.ai/jobs/info/69d8217e869c7e25d8593cf6?utm_campaign=1053&utm_source=git)** | Lansing, MI | Hybrid | Apr 09 |
+| **[NBCUniversal](https://www.nbcuniversal.com/)** | **[NBC Bay Area - News Internship – Summer 2026](https://jobright.ai/jobs/info/69d817a0b861c42857c48a02?utm_campaign=1053&utm_source=git)** | San Jose, CA | On Site | Apr 09 |
 | **[DreamWorks Animation](https://www.dreamworks.com)** | **[NBC Bay Area - Digital Internship – Summer 2026](https://jobright.ai/jobs/info/69d816d4869c7e25d85939dd?utm_campaign=1053&utm_source=git)** | 2450 N. First Street, San Jose, CALIFORNIA | On Site | Apr 09 |
 | ↳ | **[NBC Bay Area - News Internship – Summer 2026](https://jobright.ai/jobs/info/69d816c79f97a42dc9c1a399?utm_campaign=1053&utm_source=git)** | 2450 N. First Street, San Jose, CALIFORNIA | On Site | Apr 09 |
 | **[Ingram Micro](https://corp.ingrammicro.com)** | **[Summer Intern - Video Producer](https://jobright.ai/jobs/info/69bb392606c1ba00c54db0fb?utm_campaign=1053&utm_source=git)** | Irvine, CA | Hybrid | Apr 09 |
@@ -130,7 +131,6 @@ For a complete list, click the following sortable link below:
 | **[Duke University](http://www.duke.edu)** | **[Faith & Leadership Intern, Divinity School](https://jobright.ai/jobs/info/69d5df80e63cea7a8b665c68?utm_campaign=1053&utm_source=git)** | Durham, NC, US, 27710 | On Site | Apr 07 |
 | **[Little League International](https://www.littleleague.org/)** | **[Video Intern](https://jobright.ai/jobs/info/69d5cbdd891d7b11cfd05ac8?utm_campaign=1053&utm_source=git)** | Williamsport, PA | On Site | Apr 07 |
 | **[The Untitled Space](https://untitled-space.com)** | **[Art Gallery Internship](https://jobright.ai/jobs/info/69d5b64e366bb95ba5546eae?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Apr 07 |
-| **[Ingham County](https://roads.ingham.org)** | **[Content Creator Intern - Fair Department](https://jobright.ai/jobs/info/69d6c68348f0c8161d2fb075?utm_campaign=1053&utm_source=git)** | Lansing, MI | Hybrid | Apr 07 |
 | **[Manor Vail Lodge](http://manorvail.com)** | **[Food & Beverage, Events & Bqts Intern at Manor Vail Lodge](https://jobright.ai/jobs/info/69d594d2e63cea7a8b662678?utm_campaign=1053&utm_source=git)** | Vail, CO, US | On Site | Apr 07 |
 | **[Zipline](https://www.zipline.com/)** | **[Digital Experiences Intern (New Grad - Summer 2026)](https://jobright.ai/jobs/info/69d58f0f706f771673ba4282?utm_campaign=1053&utm_source=git)** | South San Francisco, CA | On Site | Apr 07 |
 | **[Behaviour Interactive](http://www.bhvr.com/)** | **[VFX Artist – Internship Summer 2026](https://jobright.ai/jobs/info/69d58dd2cfdc6132f94633bc?utm_campaign=1053&utm_source=git)** | Montreal, QC | On Site | Apr 07 |
