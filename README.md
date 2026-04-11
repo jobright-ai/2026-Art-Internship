@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[FC Dallas](http://www.fcdallas.com)** | **[2026 Summer Internship / Soccer Celebration](https://jobright.ai/jobs/info/69d9a4755356a60f40fdb4cf?utm_campaign=1053&utm_source=git)** | Frisco, Texas | On Site | Apr 10 |
 | **[Crumbl](https://crumblcookies.com)** | **[French Language Specialist Intern](https://jobright.ai/jobs/info/69d995d05356a60f40fda75a?utm_campaign=1053&utm_source=git)** | Provo, UT | Hybrid | Apr 10 |
 | **[KHAITE](https://khaite.com/)** | **[Creative Production Intern, Summer 2026](https://jobright.ai/jobs/info/69d9885a9f97a42dc9c220c0?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Apr 10 |
 | **[SESAC Music Group](https://www.sesacmusicgroup.com)** | **[Sync Intern- Runner Music (West Hollywood, CA)](https://jobright.ai/jobs/info/69d0c79454f00230c6d16385?utm_campaign=1053&utm_source=git)** | California, United States | Hybrid | Apr 10 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Hearst Connecticut Media Group](https://hearstmediact.com)** | **[Reporter Intern](https://jobright.ai/jobs/info/69d40fba891d7b11cfcf6f6b?utm_campaign=1053&utm_source=git)** | Norwalk, CT | On Site | Apr 07 |
 | **[Children's Wisconsin](https://childrenswi.org/)** | **[Events Intern](https://jobright.ai/jobs/info/69d548c2e63cea7a8b65fdd7?utm_campaign=1053&utm_source=git)** | Milwaukee, WI | On Site | Apr 07 |
 | **[Nomara USA](https://intermediumcorp.com)** | **[Social Media Video Editor Intern — Your Launchpad Into the Industry](https://jobright.ai/jobs/info/69d5352fe63cea7a8b65f78b?utm_campaign=1053&utm_source=git)** | United States | Remote | Apr 07 |
-| **[Commonwealth of Massachusetts](https://www.mass.gov/)** | **[Biodiversity Media Intern - Department of Fish and Game](https://jobright.ai/jobs/info/69d96649b67cec4f9b0a1dc7?utm_campaign=1053&utm_source=git)** | United States-Massachusetts-Boston-100 Cambridge Street | On Site | Apr 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
