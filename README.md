@@ -57,7 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sinclair Inc.](http://sbgi.net/)** | **[ARC News Intern (KSNV) - Summer 2026](https://jobright.ai/jobs/info/69bfd1ba79e36d3a847c711d?utm_campaign=1053&utm_source=git)** | Las Vegas, NV | On Site | Apr 11 |
+| **[City of Kenmore](http://www.kenmorewa.gov)** | **[Special Events Summer Intern](https://jobright.ai/jobs/info/69da2161869c7e25d85a0f78?utm_campaign=1053&utm_source=git)** | Kenmore, WA | On Site | Apr 11 |
+| **[Sinclair Inc.](http://sbgi.net/)** | **[News Intern (Summer 2026)](https://jobright.ai/jobs/info/69c918d51818a24cd84d9b34?utm_campaign=1053&utm_source=git)** | Portland, OR | On Site | Apr 11 |
+| ↳ | **[ARC News Intern (WHAM) - Summer 2026](https://jobright.ai/jobs/info/69be33a2482822729300eda4?utm_campaign=1053&utm_source=git)** | Rochester, NY | On Site | Apr 11 |
+| ↳ | **[News Intern (Summer 2026)](https://jobright.ai/jobs/info/69c90b351b5ad02887397c43?utm_campaign=1053&utm_source=git)** | Jefferson City, MO | On Site | Apr 11 |
 | **[Collab](https://collab.inc)** | **[YouTube Content Library & Asset Management Intern (Summer 2026)](https://jobright.ai/jobs/info/69da045d738f2f099e8a7757?utm_campaign=1053&utm_source=git)** | Santa Monica, CA | Remote | Apr 11 |
+| **[The Daily Beast](http://www.thedailybeast.com)** | **[Breaking News Intern - Summer 2026](https://jobright.ai/jobs/info/66ff353b84a38684300850f0?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Apr 11 |
 | **[FC Dallas](http://www.fcdallas.com)** | **[2026 Summer Internship / Soccer Celebration](https://jobright.ai/jobs/info/69d9e317869c7e25d859e93b?utm_campaign=1053&utm_source=git)** | Frisco, TX | On Site | Apr 10 |
 | **[City of Lancaster](https://www.cityoflancasterca.org)** | **[Intern - Special Events](https://jobright.ai/jobs/info/69d9d615738f2f099e8a50ca?utm_campaign=1053&utm_source=git)** | Lancaster, PA | On Site | Apr 10 |
 | **[Crumbl](https://crumblcookies.com)** | **[French Language Specialist Intern](https://jobright.ai/jobs/info/69d9b0719f97a42dc9c23993?utm_campaign=1053&utm_source=git)** | Provo, UT | Hybrid | Apr 10 |
@@ -71,7 +77,6 @@ For a complete list, click the following sortable link below:
 | **[TORQ Coatings](www.torqcoatings.com)** | **[Videographer / Content Intern (Summer 2026)](https://jobright.ai/jobs/info/69d94403b67cec4f9b0a0f74?utm_campaign=1053&utm_source=git)** | Lombard, IL | Hybrid | Apr 10 |
 | **[ZillyPlanet](https://www.zillyplanet.com)** | **[Canva Video Builder/Animator Intern (Remote / Project Contract)](https://jobright.ai/jobs/info/69d93c8e869c7e25d859983d?utm_campaign=1053&utm_source=git)** | United States | Remote | Apr 10 |
 | **[Tumbling Dumpling Media](https://www.linkedin.com/company/109629621)** | **[Editorial Intern](https://jobright.ai/jobs/info/69d93bed5356a60f40fd84ca?utm_campaign=1053&utm_source=git)** | United States | Remote | Apr 10 |
-| **[Freedom of the Press Foundation](http://pressfreedomfoundation.org)** | **[Audience Editor](https://jobright.ai/jobs/info/69da03829f97a42dc9c27281?utm_campaign=1053&utm_source=git)** | Brooklyn, NY | Hybrid | Apr 10 |
 | **[Temple Square Hospitality Corporation](http://templesquarehospitality.com)** | **[Video Products Intern](https://jobright.ai/jobs/info/69d9369db67cec4f9b0a082d?utm_campaign=1053&utm_source=git)** | SLC Triad Center | On Site | Apr 10 |
 | **[Waterford.org](http://www.waterford.org)** | **[Summer Events Intern](https://jobright.ai/jobs/info/6969f8d4f25a38006698bcb1?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Apr 10 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[LN Concerts, Booking Intern](https://jobright.ai/jobs/info/69bd9e88b106024562828c83?utm_campaign=1053&utm_source=git)** | Beverly Hills, CA | On Site | Apr 10 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Little League International](https://www.littleleague.org/)** | **[Video Intern](https://jobright.ai/jobs/info/69d5cbdd891d7b11cfd05ac8?utm_campaign=1053&utm_source=git)** | Williamsport, PA | On Site | Apr 07 |
 | **[The Untitled Space](https://untitled-space.com)** | **[Art Gallery Internship](https://jobright.ai/jobs/info/69d5b64e366bb95ba5546eae?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Apr 07 |
 | **[Manor Vail Lodge](http://manorvail.com)** | **[Food & Beverage, Events & Bqts Intern at Manor Vail Lodge](https://jobright.ai/jobs/info/69d594d2e63cea7a8b662678?utm_campaign=1053&utm_source=git)** | Vail, CO, US | On Site | Apr 07 |
-| **[Zipline](https://www.zipline.com/)** | **[Digital Experiences Intern (New Grad - Summer 2026)](https://jobright.ai/jobs/info/69d58f0f706f771673ba4282?utm_campaign=1053&utm_source=git)** | South San Francisco, CA | On Site | Apr 07 |
-| **[Behaviour Interactive](http://www.bhvr.com/)** | **[VFX Artist – Internship Summer 2026](https://jobright.ai/jobs/info/69d58dd2cfdc6132f94633bc?utm_campaign=1053&utm_source=git)** | Montreal, QC | On Site | Apr 07 |
-| **[Zipline](https://www.zipline.com/)** | **[Digital Experiences Intern (New Grad - Summer 2026)](https://jobright.ai/jobs/info/69d56918891d7b11cfd01b85?utm_campaign=1053&utm_source=git)** | South San Francisco, California, USA | On Site | Apr 07 |
-| **[Toll Brothers](https://www.tollbrothers.com)** | **[2026 Internship Program: Assistant Framing Superintendent Intern](https://jobright.ai/jobs/info/69b834fa56973837413d5ebb?utm_campaign=1053&utm_source=git)** | Charlotte, NC | On Site | Apr 07 |
-| **[Hearst Connecticut Media Group](https://hearstmediact.com)** | **[Reporter Intern](https://jobright.ai/jobs/info/69d40fba891d7b11cfcf6f6b?utm_campaign=1053&utm_source=git)** | Norwalk, CT | On Site | Apr 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
