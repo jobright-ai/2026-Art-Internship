@@ -57,14 +57,19 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[News Intern](https://jobright.ai/jobs/info/69beb138482822729301709c?utm_campaign=1053&utm_source=git)** | Memphis, TN | On Site | Apr 11 |
+| ↳ | **[Paid Intern (Photojournalist/Multi-Media Journalist/Producer)](https://jobright.ai/jobs/info/68c2c0f25001f8077bf5dcb5?utm_campaign=1053&utm_source=git)** | Wichita, KS | On Site | Apr 11 |
+| **[Precision Medicine Group](https://www.precisionmedicinegrp.com/pfm/)** | **[Summer 2026 Internship - Medical Writing Intern](https://jobright.ai/jobs/info/69a21e81b600907a96286ac7?utm_campaign=1053&utm_source=git)** | United States | Remote | Apr 11 |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[NewsNation News Internship Summer 2026 (Washington, DC)](https://jobright.ai/jobs/info/69d5f2d1706f771673ba8090?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Apr 11 |
+| **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[LN Concerts, Booking Intern](https://jobright.ai/jobs/info/69be42b1393a1008f7442d13?utm_campaign=1053&utm_source=git)** | San Diego, CA | On Site | Apr 11 |
 | **[Dow Jones](http://www.dowjones.com)** | **[Reporting Internship, Mansion Global](https://jobright.ai/jobs/info/69d9cc70738f2f099e8a4a80?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Apr 11 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[LN Concerts, Booking Intern](https://jobright.ai/jobs/info/69bda951393a1008f743083d?utm_campaign=1053&utm_source=git)** | Nashville, TN | On Site | Apr 11 |
 | ↳ | **[LN Concerts, Production Intern](https://jobright.ai/jobs/info/69bdeede4828227293009d61?utm_campaign=1053&utm_source=git)** | San Francisco, CA | On Site | Apr 11 |
 | **[KCRA 3 & My58 Television](http://www.kcra.com)** | **[Intern](https://jobright.ai/jobs/info/69a0c5340836fe79d861c5c9?utm_campaign=1053&utm_source=git)** | Sacramento, CA | On Site | Apr 11 |
 | **[Sinclair Inc.](http://sbgi.net/)** | **[ARC News Intern (KSNV) - Summer 2026](https://jobright.ai/jobs/info/69bfd1ba79e36d3a847c711d?utm_campaign=1053&utm_source=git)** | Las Vegas, NV | On Site | Apr 11 |
 | **[City of Kenmore](http://www.kenmorewa.gov)** | **[Special Events Summer Intern](https://jobright.ai/jobs/info/69da2161869c7e25d85a0f78?utm_campaign=1053&utm_source=git)** | Kenmore, WA | On Site | Apr 11 |
-| **[Sinclair Inc.](http://sbgi.net/)** | **[ARC News Intern (WHAM) - Summer 2026](https://jobright.ai/jobs/info/69be33a2482822729300eda4?utm_campaign=1053&utm_source=git)** | Rochester, NY | On Site | Apr 11 |
-| ↳ | **[News Intern (Summer 2026)](https://jobright.ai/jobs/info/69c918d51818a24cd84d9b34?utm_campaign=1053&utm_source=git)** | Portland, OR | On Site | Apr 11 |
+| **[Sinclair Inc.](http://sbgi.net/)** | **[News Intern (Summer 2026)](https://jobright.ai/jobs/info/69c918d51818a24cd84d9b34?utm_campaign=1053&utm_source=git)** | Portland, OR | On Site | Apr 11 |
+| ↳ | **[ARC News Intern (WHAM) - Summer 2026](https://jobright.ai/jobs/info/69be33a2482822729300eda4?utm_campaign=1053&utm_source=git)** | Rochester, NY | On Site | Apr 11 |
 | ↳ | **[News Intern (Summer 2026)](https://jobright.ai/jobs/info/69c90b351b5ad02887397c43?utm_campaign=1053&utm_source=git)** | Jefferson City, MO | On Site | Apr 11 |
 | **[Collab](https://collab.inc)** | **[YouTube Content Library & Asset Management Intern (Summer 2026)](https://jobright.ai/jobs/info/69da045d738f2f099e8a7757?utm_campaign=1053&utm_source=git)** | Santa Monica, CA | Remote | Apr 11 |
 | **[The Daily Beast](http://www.thedailybeast.com)** | **[Breaking News Intern - Summer 2026](https://jobright.ai/jobs/info/66ff353b84a38684300850f0?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Apr 11 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Ingham County](https://roads.ingham.org)** | **[Content Creator Intern - Fair Department](https://jobright.ai/jobs/info/69d9090b869c7e25d85988b2?utm_campaign=1053&utm_source=git)** | Lansing, MI | Hybrid | Apr 08 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Intern/News](https://jobright.ai/jobs/info/694e400f29655e4dd657f7ec?utm_campaign=1053&utm_source=git)** | Panama City, FL | On Site | Apr 08 |
 | ↳ | **[Unpaid Internship](https://jobright.ai/jobs/info/69bcd0d8e6a0d9792584ec25?utm_campaign=1053&utm_source=git)** | Savannah, GA | On Site | Apr 08 |
-| **[WMUR-TV](http://www.wmur.com/)** | **[Creative Services Intern](https://jobright.ai/jobs/info/69ba8f1506c1ba00c54ca4eb?utm_campaign=1053&utm_source=git)** | Manchester, NH | On Site | Apr 08 |
-| **[WPHL-TV](https://www.phl17.com)** | **[Morning News Summer Intern](https://jobright.ai/jobs/info/69ba965406c1ba00c54cb6df?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Apr 08 |
-| **[TelevisaUnivision](https://www.corporate.televisaunivision.com)** | **[Intern, Realities & Specials](https://jobright.ai/jobs/info/699d13fee0bddb6acacc3186?utm_campaign=1053&utm_source=git)** | Miami, FL | On Site | Apr 08 |
-| **[WPBF 25](https://www.wpbf.com)** | **[WPBF Creative Services Intern](https://jobright.ai/jobs/info/69ba84e8569738374140089e?utm_campaign=1053&utm_source=git)** | Palm Beach Gardens, FL | On Site | Apr 08 |
-| **[Capital Impact Partners](http://www.capitalimpact.org)** | **[Video and Photography Intern](https://jobright.ai/jobs/info/69d63f63366bb95ba554bec5?utm_campaign=1053&utm_source=git)** | Arlington, VA | Hybrid | Apr 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
