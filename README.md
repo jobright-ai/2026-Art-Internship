@@ -73,8 +73,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[LN Concerts, Production Intern](https://jobright.ai/jobs/info/69bdeede4828227293009d61?utm_campaign=1053&utm_source=git)** | San Francisco, CA | On Site | Apr 11 |
 | **[KCRA 3 & My58 Television](http://www.kcra.com)** | **[Intern](https://jobright.ai/jobs/info/69a0c5340836fe79d861c5c9?utm_campaign=1053&utm_source=git)** | Sacramento, CA | On Site | Apr 11 |
 | **[Sinclair Inc.](http://sbgi.net/)** | **[ARC News Intern (KSNV) - Summer 2026](https://jobright.ai/jobs/info/69bfd1ba79e36d3a847c711d?utm_campaign=1053&utm_source=git)** | Las Vegas, NV | On Site | Apr 11 |
-| ↳ | **[ARC News Intern (WHAM) - Summer 2026](https://jobright.ai/jobs/info/69be33a2482822729300eda4?utm_campaign=1053&utm_source=git)** | Rochester, NY | On Site | Apr 11 |
 | ↳ | **[News Intern (Summer 2026)](https://jobright.ai/jobs/info/69c918d51818a24cd84d9b34?utm_campaign=1053&utm_source=git)** | Portland, OR | On Site | Apr 11 |
+| ↳ | **[ARC News Intern (WHAM) - Summer 2026](https://jobright.ai/jobs/info/69be33a2482822729300eda4?utm_campaign=1053&utm_source=git)** | Rochester, NY | On Site | Apr 11 |
 | ↳ | **[News Intern (Summer 2026)](https://jobright.ai/jobs/info/69c90b351b5ad02887397c43?utm_campaign=1053&utm_source=git)** | Jefferson City, MO | On Site | Apr 11 |
 | ↳ | **[ARC News Intern (KOMO) - Summer 2026](https://jobright.ai/jobs/info/69be3392b106024562839a38?utm_campaign=1053&utm_source=git)** | Seattle, WA | On Site | Apr 11 |
 | **[Collab](https://collab.inc)** | **[YouTube Content Library & Asset Management Intern (Summer 2026)](https://jobright.ai/jobs/info/69da045d738f2f099e8a7757?utm_campaign=1053&utm_source=git)** | Santa Monica, CA | Remote | Apr 11 |
@@ -88,7 +88,6 @@ For a complete list, click the following sortable link below:
 | **[KHAITE](https://khaite.com/)** | **[Creative Production Intern, Summer 2026](https://jobright.ai/jobs/info/69d9885a9f97a42dc9c220c0?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Apr 10 |
 | **[SESAC Music Group](https://www.sesacmusicgroup.com)** | **[Sync Intern- Runner Music (West Hollywood, CA)](https://jobright.ai/jobs/info/69d0c79454f00230c6d16385?utm_campaign=1053&utm_source=git)** | California, United States | Hybrid | Apr 10 |
 | **[CBC/Radio-Canada](https://cbc.radio-canada.ca)** | **[Researcher (CMG) (Indigenous summer paid internship) (English Services)](https://jobright.ai/jobs/info/69cd7214891d7b11cfcb8cdd?utm_campaign=1053&utm_source=git)** | Prince George, BC | On Site | Apr 10 |
-| **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[Her Campus Wellness Editorial Intern - Summer 2026](https://jobright.ai/jobs/info/69d95b1c5356a60f40fd910e?utm_campaign=1053&utm_source=git)** | United States | Remote | Apr 10 |
 | **[TORQ Coatings](www.torqcoatings.com)** | **[Videographer / Content Intern (Summer 2026)](https://jobright.ai/jobs/info/69d94403b67cec4f9b0a0f74?utm_campaign=1053&utm_source=git)** | Lombard, IL | Hybrid | Apr 10 |
 | **[ZillyPlanet](https://www.zillyplanet.com)** | **[Canva Video Builder/Animator Intern (Remote / Project Contract)](https://jobright.ai/jobs/info/69d93c8e869c7e25d859983d?utm_campaign=1053&utm_source=git)** | United States | Remote | Apr 10 |
 | **[Tumbling Dumpling Media](https://www.linkedin.com/company/109629621)** | **[Editorial Intern](https://jobright.ai/jobs/info/69d93bed5356a60f40fd84ca?utm_campaign=1053&utm_source=git)** | United States | Remote | Apr 10 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Prison Fellowship](https://www.prisonfellowship.org/)** | **[Video Content Intern](https://jobright.ai/jobs/info/69d6814fcfdc6132f946a3ec?utm_campaign=1053&utm_source=git)** | United States | Remote | Apr 08 |
 | **[Las Vegas Motor Speedway](http://lvms.com)** | **[Events Intern](https://jobright.ai/jobs/info/69d671f252a5bf5800128c93?utm_campaign=1053&utm_source=git)** | Hampton, GA, US | On Site | Apr 08 |
 | **[Capital Sense Funding](https://www.capitalsensefunding.com/)** | **[Digital Content Creator (Internship)](https://jobright.ai/jobs/info/69d6717d48f0c8161d2f7cdc?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Apr 08 |
+| **[WPHL-TV](https://www.phl17.com)** | **[Lifestyle Show Summer Intern](https://jobright.ai/jobs/info/69ba92e506c1ba00c54cb479?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Apr 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
