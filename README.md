@@ -73,8 +73,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[LN Concerts, Production Intern](https://jobright.ai/jobs/info/69bdeede4828227293009d61?utm_campaign=1053&utm_source=git)** | San Francisco, CA | On Site | Apr 11 |
 | **[KCRA 3 & My58 Television](http://www.kcra.com)** | **[Intern](https://jobright.ai/jobs/info/69a0c5340836fe79d861c5c9?utm_campaign=1053&utm_source=git)** | Sacramento, CA | On Site | Apr 11 |
 | **[Sinclair Inc.](http://sbgi.net/)** | **[ARC News Intern (KSNV) - Summer 2026](https://jobright.ai/jobs/info/69bfd1ba79e36d3a847c711d?utm_campaign=1053&utm_source=git)** | Las Vegas, NV | On Site | Apr 11 |
-| ↳ | **[News Intern (Summer 2026)](https://jobright.ai/jobs/info/69c918d51818a24cd84d9b34?utm_campaign=1053&utm_source=git)** | Portland, OR | On Site | Apr 11 |
 | ↳ | **[ARC News Intern (WHAM) - Summer 2026](https://jobright.ai/jobs/info/69be33a2482822729300eda4?utm_campaign=1053&utm_source=git)** | Rochester, NY | On Site | Apr 11 |
+| ↳ | **[News Intern (Summer 2026)](https://jobright.ai/jobs/info/69c918d51818a24cd84d9b34?utm_campaign=1053&utm_source=git)** | Portland, OR | On Site | Apr 11 |
 | ↳ | **[News Intern (Summer 2026)](https://jobright.ai/jobs/info/69c90b351b5ad02887397c43?utm_campaign=1053&utm_source=git)** | Jefferson City, MO | On Site | Apr 11 |
 | ↳ | **[ARC News Intern (KOMO) - Summer 2026](https://jobright.ai/jobs/info/69be3392b106024562839a38?utm_campaign=1053&utm_source=git)** | Seattle, WA | On Site | Apr 11 |
 | **[Collab](https://collab.inc)** | **[YouTube Content Library & Asset Management Intern (Summer 2026)](https://jobright.ai/jobs/info/69da045d738f2f099e8a7757?utm_campaign=1053&utm_source=git)** | Santa Monica, CA | Remote | Apr 11 |
@@ -101,7 +101,6 @@ For a complete list, click the following sortable link below:
 | **[Nashville Soccer Club](https://www.nashvillesc.com/)** | **[Video Analysis Intern (Summer 2026)- COLLEGE CREDIT ONLY](https://jobright.ai/jobs/info/69da2f4cf748bc5d08a516ac?utm_campaign=1053&utm_source=git)** | Nashville, TN | On Site | Apr 10 |
 | **[TikTok](https://www.tiktok.com)** | **[TikTok Short Drama Project Intern (TikTok-Short-Drama) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69684e2af25a38006696b2a4?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Apr 10 |
 | **[Waco Tribune-Herald](http://wacotrib.com)** | **[Theater Arts Technical Designer (Temporary)](https://jobright.ai/jobs/info/69da03afb67cec4f9b0a7957?utm_campaign=1053&utm_source=git)** | Fremont, CA | On Site | Apr 10 |
-| **[B6 Studios](www.b6studios.com)** | **[Short-Form Content Editing Internship - Remote](https://jobright.ai/jobs/info/69d86e269f97a42dc9c1c27a?utm_campaign=1053&utm_source=git)** | United States | Remote | Apr 09 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Digital Content Intern](https://jobright.ai/jobs/info/69d85dcdf4ea471a51fe545b?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Apr 09 |
 | **[Children's Wisconsin](https://childrenswi.org/)** | **[Events Intern](https://jobright.ai/jobs/info/69d841fe9f97a42dc9c1b535?utm_campaign=1053&utm_source=git)** | Milwaukee, WI | On Site | Apr 09 |
 | **[Kroenke Sports & Entertainment](https://www.ballarena.com)** | **[Intern, Production](https://jobright.ai/jobs/info/69d960435356a60f40fd9627?utm_campaign=1053&utm_source=git)** | Centennial, CO | On Site | Apr 09 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Capital Sense Funding](https://www.capitalsensefunding.com/)** | **[Digital Content Creator (Internship)](https://jobright.ai/jobs/info/69d6717d48f0c8161d2f7cdc?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Apr 08 |
 | **[WPHL-TV](https://www.phl17.com)** | **[Lifestyle Show Summer Intern](https://jobright.ai/jobs/info/69ba92e506c1ba00c54cb479?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Apr 08 |
 | **[Hearst Connecticut Media Group](https://hearstmediact.com)** | **[Social Video Intern](https://jobright.ai/jobs/info/699c753881476f6176b5025c?utm_campaign=1053&utm_source=git)** | Norwalk, CT | On Site | Apr 08 |
+| **[Duke University](http://www.duke.edu)** | **[Faith & Leadership Intern, Divinity School](https://jobright.ai/jobs/info/69d6866452a5bf5800129300?utm_campaign=1053&utm_source=git)** | Durham, NC | On Site | Apr 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
