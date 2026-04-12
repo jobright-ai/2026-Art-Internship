@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cuyahoga Community College](http://www.tri-c.edu)** | **[Fall Intern, Jazzfest](https://jobright.ai/jobs/info/69db8db19f97a42dc9c2eeae?utm_campaign=1053&utm_source=git)** | Cleveland, OH | On Site | Apr 12 |
+| **[Kohler Hospitality](https://www.kohlerwisconsin.com/)** | **[Pro Golf Management Intern, Whistling Straits](https://jobright.ai/jobs/info/69bc961f5b89c002acf25a20?utm_campaign=1053&utm_source=git)** | Kohler, WI | On Site | Apr 12 |
 | **[Golden Hippo®](https://www.huntrealestate.com/)** | **[Post Production Coordinator Intern](https://jobright.ai/jobs/info/69b423833b74eb1e2c8139b4?utm_campaign=1053&utm_source=git)** | Hybrid (Woodland Hills, CA) | Hybrid | Apr 11 |
 | **[City of Lancaster](https://www.cityoflancasterca.org)** | **[Intern - Special Events](https://jobright.ai/jobs/info/69db1aef9f97a42dc9c2d0a1?utm_campaign=1053&utm_source=git)** | Lancaster, PA | On Site | Apr 11 |
 | **[Jomboy Media](https://jomboymedia.com)** | **[Executive + Content Assistant Intern- Summer 2026](https://jobright.ai/jobs/info/69dacb31869c7e25d85a5144?utm_campaign=1053&utm_source=git)** | New York, New York, United States | Hybrid | Apr 11 |
@@ -73,8 +75,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[LN Concerts, Production Intern](https://jobright.ai/jobs/info/69bdeede4828227293009d61?utm_campaign=1053&utm_source=git)** | San Francisco, CA | On Site | Apr 11 |
 | **[KCRA 3 & My58 Television](http://www.kcra.com)** | **[Intern](https://jobright.ai/jobs/info/69a0c5340836fe79d861c5c9?utm_campaign=1053&utm_source=git)** | Sacramento, CA | On Site | Apr 11 |
 | **[Sinclair Inc.](http://sbgi.net/)** | **[ARC News Intern (KSNV) - Summer 2026](https://jobright.ai/jobs/info/69bfd1ba79e36d3a847c711d?utm_campaign=1053&utm_source=git)** | Las Vegas, NV | On Site | Apr 11 |
-| ↳ | **[ARC News Intern (WHAM) - Summer 2026](https://jobright.ai/jobs/info/69be33a2482822729300eda4?utm_campaign=1053&utm_source=git)** | Rochester, NY | On Site | Apr 11 |
 | ↳ | **[News Intern (Summer 2026)](https://jobright.ai/jobs/info/69c918d51818a24cd84d9b34?utm_campaign=1053&utm_source=git)** | Portland, OR | On Site | Apr 11 |
+| ↳ | **[ARC News Intern (WHAM) - Summer 2026](https://jobright.ai/jobs/info/69be33a2482822729300eda4?utm_campaign=1053&utm_source=git)** | Rochester, NY | On Site | Apr 11 |
 | ↳ | **[News Intern (Summer 2026)](https://jobright.ai/jobs/info/69c90b351b5ad02887397c43?utm_campaign=1053&utm_source=git)** | Jefferson City, MO | On Site | Apr 11 |
 | ↳ | **[ARC News Intern (KOMO) - Summer 2026](https://jobright.ai/jobs/info/69be3392b106024562839a38?utm_campaign=1053&utm_source=git)** | Seattle, WA | On Site | Apr 11 |
 | **[Collab](https://collab.inc)** | **[YouTube Content Library & Asset Management Intern (Summer 2026)](https://jobright.ai/jobs/info/69da045d738f2f099e8a7757?utm_campaign=1053&utm_source=git)** | Santa Monica, CA | Remote | Apr 11 |
@@ -98,6 +100,7 @@ For a complete list, click the following sortable link below:
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[FX Creative and Cultural Diversity Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69d8f0de738f2f099e89f307?utm_campaign=1053&utm_source=git)** | Burbank, CA | On Site | Apr 10 |
 | **[Rock Events](https://rockevents.com/)** | **[Event Production Intern - Summer 2026](https://jobright.ai/jobs/info/69a1310f6b458d060735ebff?utm_campaign=1053&utm_source=git)** | Detroit, MI | On Site | Apr 10 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[LN Concerts, Production Intern](https://jobright.ai/jobs/info/69bcee0b4828227293ff0306?utm_campaign=1053&utm_source=git)** | Cambridge, MA | On Site | Apr 10 |
+| **[Golden Hippo®](https://www.huntrealestate.com/)** | **[Post Production Coordinator Intern](https://jobright.ai/jobs/info/69b46c433b74eb1e2c81ad7d?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 10 |
 | **[Nashville Soccer Club](https://www.nashvillesc.com/)** | **[Video Analysis Intern (Summer 2026)- COLLEGE CREDIT ONLY](https://jobright.ai/jobs/info/69da2f4cf748bc5d08a516ac?utm_campaign=1053&utm_source=git)** | Nashville, TN | On Site | Apr 10 |
 | **[TikTok](https://www.tiktok.com)** | **[TikTok Short Drama Project Intern (TikTok-Short-Drama) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69684e2af25a38006696b2a4?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Apr 10 |
 | **[Waco Tribune-Herald](http://wacotrib.com)** | **[Theater Arts Technical Designer (Temporary)](https://jobright.ai/jobs/info/69da03afb67cec4f9b0a7957?utm_campaign=1053&utm_source=git)** | Fremont, CA | On Site | Apr 10 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Prison Fellowship](https://www.prisonfellowship.org/)** | **[Video Content Intern](https://jobright.ai/jobs/info/69d6814fcfdc6132f946a3ec?utm_campaign=1053&utm_source=git)** | United States | Remote | Apr 08 |
 | **[Las Vegas Motor Speedway](http://lvms.com)** | **[Events Intern](https://jobright.ai/jobs/info/69d671f252a5bf5800128c93?utm_campaign=1053&utm_source=git)** | Hampton, GA, US | On Site | Apr 08 |
 | **[Capital Sense Funding](https://www.capitalsensefunding.com/)** | **[Digital Content Creator (Internship)](https://jobright.ai/jobs/info/69d6717d48f0c8161d2f7cdc?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Apr 08 |
-| **[WPHL-TV](https://www.phl17.com)** | **[Lifestyle Show Summer Intern](https://jobright.ai/jobs/info/69ba92e506c1ba00c54cb479?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Apr 08 |
-| **[Hearst Connecticut Media Group](https://hearstmediact.com)** | **[Social Video Intern](https://jobright.ai/jobs/info/699c753881476f6176b5025c?utm_campaign=1053&utm_source=git)** | Norwalk, CT | On Site | Apr 08 |
-| **[Duke University](http://www.duke.edu)** | **[Faith & Leadership Intern, Divinity School](https://jobright.ai/jobs/info/69d6866452a5bf5800129300?utm_campaign=1053&utm_source=git)** | Durham, NC | On Site | Apr 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
