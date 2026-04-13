@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Inspire](https://inspirebrands.com)** | **[Maverick Studios Production Support Intern - Summer 2026](https://jobright.ai/jobs/info/69dd61ae9f97a42dc9c35fcd?utm_campaign=1053&utm_source=git)** | Atlanta Support Center | On Site | Apr 13 |
 | **[Heart of Los Angeles (HOLA)](https://www.heartofla.org)** | **[Visual Arts Department Intern](https://jobright.ai/jobs/info/69dd53ff5356a60f40fedaa4?utm_campaign=1053&utm_source=git)** | LOS ANGELES, CA 90057 | On Site | Apr 13 |
 | **[Sodexo Live!](www.sodexolive.com)** | **[Intern ? Culinary @ Lucas Oil Stadium](https://jobright.ai/jobs/info/69dd52fcbc6f6622c9911947?utm_campaign=1053&utm_source=git)** | Indianapolis, IN | On Site | Apr 13 |
 | **[SexSymbol Magazine](sexsymbolmagazine.com)** | **[Editing Intern](https://jobright.ai/jobs/info/69dd4e265356a60f40fed7fb?utm_campaign=1053&utm_source=git)** | NYC Metro Area | Remote | Apr 13 |
@@ -97,8 +98,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[LN Concerts, Production Intern](https://jobright.ai/jobs/info/69bdeede4828227293009d61?utm_campaign=1053&utm_source=git)** | San Francisco, CA | On Site | Apr 11 |
 | **[KCRA 3 & My58 Television](http://www.kcra.com)** | **[Intern](https://jobright.ai/jobs/info/69a0c5340836fe79d861c5c9?utm_campaign=1053&utm_source=git)** | Sacramento, CA | On Site | Apr 11 |
 | **[Sinclair Inc.](http://sbgi.net/)** | **[ARC News Intern (KSNV) - Summer 2026](https://jobright.ai/jobs/info/69bfd1ba79e36d3a847c711d?utm_campaign=1053&utm_source=git)** | Las Vegas, NV | On Site | Apr 11 |
-| ↳ | **[ARC News Intern (WHAM) - Summer 2026](https://jobright.ai/jobs/info/69be33a2482822729300eda4?utm_campaign=1053&utm_source=git)** | Rochester, NY | On Site | Apr 11 |
 | ↳ | **[News Intern (Summer 2026)](https://jobright.ai/jobs/info/69c918d51818a24cd84d9b34?utm_campaign=1053&utm_source=git)** | Portland, OR | On Site | Apr 11 |
+| ↳ | **[ARC News Intern (WHAM) - Summer 2026](https://jobright.ai/jobs/info/69be33a2482822729300eda4?utm_campaign=1053&utm_source=git)** | Rochester, NY | On Site | Apr 11 |
 | ↳ | **[News Intern (Summer 2026)](https://jobright.ai/jobs/info/69c90b351b5ad02887397c43?utm_campaign=1053&utm_source=git)** | Jefferson City, MO | On Site | Apr 11 |
 | ↳ | **[ARC News Intern (KOMO) - Summer 2026](https://jobright.ai/jobs/info/69be3392b106024562839a38?utm_campaign=1053&utm_source=git)** | Seattle, WA | On Site | Apr 11 |
 | **[Collab](https://collab.inc)** | **[YouTube Content Library & Asset Management Intern (Summer 2026)](https://jobright.ai/jobs/info/69da045d738f2f099e8a7757?utm_campaign=1053&utm_source=git)** | Santa Monica, CA | Remote | Apr 11 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Columbus Blue Jackets](http://bluejackets.com)** | **[2026-27 Season Journalism Intern](https://jobright.ai/jobs/info/69d72d44950d1a0760b7c04f?utm_campaign=1053&utm_source=git)** | Columbus, OH | On Site | Apr 08 |
 | ↳ | **[2026-27 Season Broadcasting Intern](https://jobright.ai/jobs/info/69d72c7d48f0c8161d2fd7fc?utm_campaign=1053&utm_source=git)** | Columbus, OH | On Site | Apr 08 |
 | **[Doing Things](https://www.doingthingsmedia.com/)** | **[Content Creator & Video Editor Intern](https://jobright.ai/jobs/info/69d7d56af4ea471a51fe1e09?utm_campaign=1053&utm_source=git)** | New York, NY | Remote | Apr 08 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[FX Creative and Cultural Diversity Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69d6f88652a5bf580012d144?utm_campaign=1053&utm_source=git)** | Burbank, CA, USA | On Site | Apr 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
