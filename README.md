@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sage Mastery House](https://www.masteryhouse.org)** | **[ADMINISTRATIVE PRODUCTION INTERN](https://jobright.ai/jobs/info/69dc33ed869c7e25d85a90ef?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 12 |
 | **[Ingham County](https://roads.ingham.org)** | **[Content Creator Intern - Fair Department](https://jobright.ai/jobs/info/69dc0ba2738f2f099e8afe59?utm_campaign=1053&utm_source=git)** | Lansing, MI | Hybrid | Apr 12 |
 | **[City of Lancaster](https://www.cityoflancasterca.org)** | **[Intern - Special Events](https://jobright.ai/jobs/info/69dc0ae3869c7e25d85a8d82?utm_campaign=1053&utm_source=git)** | Lancaster, PA | On Site | Apr 12 |
 | **[Times Union Media Group](http://www.timesunion.com)** | **[Newsroom Summer Intern](https://jobright.ai/jobs/info/69bec41e393a1008f744a1e7?utm_campaign=1053&utm_source=git)** | Albany, NY | Hybrid | Apr 12 |
@@ -81,8 +82,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[LN Concerts, Production Intern](https://jobright.ai/jobs/info/69bdeede4828227293009d61?utm_campaign=1053&utm_source=git)** | San Francisco, CA | On Site | Apr 11 |
 | **[KCRA 3 & My58 Television](http://www.kcra.com)** | **[Intern](https://jobright.ai/jobs/info/69a0c5340836fe79d861c5c9?utm_campaign=1053&utm_source=git)** | Sacramento, CA | On Site | Apr 11 |
 | **[Sinclair Inc.](http://sbgi.net/)** | **[ARC News Intern (KSNV) - Summer 2026](https://jobright.ai/jobs/info/69bfd1ba79e36d3a847c711d?utm_campaign=1053&utm_source=git)** | Las Vegas, NV | On Site | Apr 11 |
-| ↳ | **[News Intern (Summer 2026)](https://jobright.ai/jobs/info/69c918d51818a24cd84d9b34?utm_campaign=1053&utm_source=git)** | Portland, OR | On Site | Apr 11 |
 | ↳ | **[ARC News Intern (WHAM) - Summer 2026](https://jobright.ai/jobs/info/69be33a2482822729300eda4?utm_campaign=1053&utm_source=git)** | Rochester, NY | On Site | Apr 11 |
+| ↳ | **[News Intern (Summer 2026)](https://jobright.ai/jobs/info/69c918d51818a24cd84d9b34?utm_campaign=1053&utm_source=git)** | Portland, OR | On Site | Apr 11 |
 | ↳ | **[News Intern (Summer 2026)](https://jobright.ai/jobs/info/69c90b351b5ad02887397c43?utm_campaign=1053&utm_source=git)** | Jefferson City, MO | On Site | Apr 11 |
 | ↳ | **[ARC News Intern (KOMO) - Summer 2026](https://jobright.ai/jobs/info/69be3392b106024562839a38?utm_campaign=1053&utm_source=git)** | Seattle, WA | On Site | Apr 11 |
 | **[Collab](https://collab.inc)** | **[YouTube Content Library & Asset Management Intern (Summer 2026)](https://jobright.ai/jobs/info/69da045d738f2f099e8a7757?utm_campaign=1053&utm_source=git)** | Santa Monica, CA | Remote | Apr 11 |
@@ -96,7 +97,6 @@ For a complete list, click the following sortable link below:
 | **[KHAITE](https://khaite.com/)** | **[Creative Production Intern, Summer 2026](https://jobright.ai/jobs/info/69d9885a9f97a42dc9c220c0?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Apr 10 |
 | **[SESAC Music Group](https://www.sesacmusicgroup.com)** | **[Sync Intern- Runner Music (West Hollywood, CA)](https://jobright.ai/jobs/info/69d0c79454f00230c6d16385?utm_campaign=1053&utm_source=git)** | California, United States | Hybrid | Apr 10 |
 | **[CBC/Radio-Canada](https://cbc.radio-canada.ca)** | **[Researcher (CMG) (Indigenous summer paid internship) (English Services)](https://jobright.ai/jobs/info/69cd7214891d7b11cfcb8cdd?utm_campaign=1053&utm_source=git)** | Prince George, BC | On Site | Apr 10 |
-| **[TORQ Coatings](www.torqcoatings.com)** | **[Videographer / Content Intern (Summer 2026)](https://jobright.ai/jobs/info/69d94403b67cec4f9b0a0f74?utm_campaign=1053&utm_source=git)** | Lombard, IL | Hybrid | Apr 10 |
 | **[ZillyPlanet](https://www.zillyplanet.com)** | **[Canva Video Builder/Animator Intern (Remote / Project Contract)](https://jobright.ai/jobs/info/69d93c8e869c7e25d859983d?utm_campaign=1053&utm_source=git)** | United States | Remote | Apr 10 |
 | **[Temple Square Hospitality Corporation](http://templesquarehospitality.com)** | **[Video Products Intern](https://jobright.ai/jobs/info/69d9369db67cec4f9b0a082d?utm_campaign=1053&utm_source=git)** | SLC Triad Center | On Site | Apr 10 |
 | **[Waterford.org](http://www.waterford.org)** | **[Summer Events Intern](https://jobright.ai/jobs/info/6969f8d4f25a38006698bcb1?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Apr 10 |
