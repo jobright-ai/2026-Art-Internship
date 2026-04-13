@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Heart of Los Angeles (HOLA)](https://www.heartofla.org)** | **[Visual Arts Department Intern](https://jobright.ai/jobs/info/69dd53ff5356a60f40fedaa4?utm_campaign=1053&utm_source=git)** | LOS ANGELES, CA 90057 | On Site | Apr 13 |
+| **[Sodexo Live!](www.sodexolive.com)** | **[Intern ? Culinary @ Lucas Oil Stadium](https://jobright.ai/jobs/info/69dd52fcbc6f6622c9911947?utm_campaign=1053&utm_source=git)** | Indianapolis, IN | On Site | Apr 13 |
+| **[SexSymbol Magazine](sexsymbolmagazine.com)** | **[Editing Intern](https://jobright.ai/jobs/info/69dd4e265356a60f40fed7fb?utm_campaign=1053&utm_source=git)** | NYC Metro Area | Remote | Apr 13 |
 | **[ElectraCast Media](http://www.electracast.com)** | **[Intern Podcast & Marketing Clips Editor](https://jobright.ai/jobs/info/69dd387a5356a60f40fed22e?utm_campaign=1053&utm_source=git)** | United States | Remote | Apr 13 |
 | **[MATTE Projects](https://matteprojects.com/)** | **[Experiential Production Internship Summer 2026](https://jobright.ai/jobs/info/69dd3855f748bc5d08a5ec73?utm_campaign=1053&utm_source=git)** | New York, New York | On Site | Apr 13 |
 | **[Daktronics](http://www.daktronics.com/en-us)** | **[James Madison University Event Production Intern](https://jobright.ai/jobs/info/6959d946f1f8465b79f0377f?utm_campaign=1053&utm_source=git)** | Harrisonburg, VA | On Site | Apr 13 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026-27 Season Broadcasting Intern](https://jobright.ai/jobs/info/69d72c7d48f0c8161d2fd7fc?utm_campaign=1053&utm_source=git)** | Columbus, OH | On Site | Apr 08 |
 | **[Doing Things](https://www.doingthingsmedia.com/)** | **[Content Creator & Video Editor Intern](https://jobright.ai/jobs/info/69d7d56af4ea471a51fe1e09?utm_campaign=1053&utm_source=git)** | New York, NY | Remote | Apr 08 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[FX Creative and Cultural Diversity Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69d6f88652a5bf580012d144?utm_campaign=1053&utm_source=git)** | Burbank, CA, USA | On Site | Apr 08 |
-| **[New York Post](http://nypost.com/)** | **[Page Six Intern](https://jobright.ai/jobs/info/69d54e2d706f771673ba20bd?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Apr 08 |
-| **[Legends Global](http://legends.net)** | **[Intern Catering & Special Events Coordinator](https://jobright.ai/jobs/info/69d6e54948f0c8161d2fbd9c?utm_campaign=1053&utm_source=git)** | Frisco, TX | On Site | Apr 08 |
-| **[University of San Diego](http://www.sandiego.edu/)** | **[Associate Director, Multimedia News and Video Production](https://jobright.ai/jobs/info/69d6feac366bb95ba55510b0?utm_campaign=1053&utm_source=git)** | San Diego, CA | On Site | Apr 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
