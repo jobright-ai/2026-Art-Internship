@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[English Language and Literature](https://englishlanguageandliterature.com/)** | **[Web Content Writer](https://jobright.ai/jobs/info/69dca970b67cec4f9b0b2d22?utm_campaign=1053&utm_source=git)** | United States | Remote | Apr 13 |
 | **[Children's Wisconsin](https://childrenswi.org/)** | **[Events Intern](https://jobright.ai/jobs/info/69d841fe9f97a42dc9c1b535?utm_campaign=1053&utm_source=git)** | Milwaukee, WI | On Site | Apr 12 |
 | **[Eurasia Group](http://www.eurasiagroup.net/)** | **[Summer Internship, GZERO Media (Newsletter)](https://jobright.ai/jobs/info/69dc566f9f97a42dc9c304f4?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Apr 12 |
 | **[Sage Mastery House](https://www.masteryhouse.org)** | **[ADMINISTRATIVE PRODUCTION INTERN](https://jobright.ai/jobs/info/69dc33ed869c7e25d85a90ef?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 12 |
@@ -68,6 +69,7 @@ For a complete list, click the following sortable link below:
 | **[TelevisaUnivision](https://www.corporate.televisaunivision.com)** | **[Intern, Asi Studios](https://jobright.ai/jobs/info/69a2a546359fe034b1cdfaa5?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Apr 12 |
 | **[Cuyahoga Community College](http://www.tri-c.edu)** | **[Fall Intern, Jazzfest](https://jobright.ai/jobs/info/69db8db19f97a42dc9c2eeae?utm_campaign=1053&utm_source=git)** | Cleveland, OH | On Site | Apr 12 |
 | **[Kohler Hospitality](https://www.kohlerwisconsin.com/)** | **[Pro Golf Management Intern, Whistling Straits](https://jobright.ai/jobs/info/69bc961f5b89c002acf25a20?utm_campaign=1053&utm_source=git)** | Kohler, WI | On Site | Apr 12 |
+| **[Donor Alliance](https://www.donoralliance.org/)** | **[Special Events Intern](https://jobright.ai/jobs/info/69dca7ce738f2f099e8b27b4?utm_campaign=1053&utm_source=git)** | Denver, CO | On Site | Apr 12 |
 | **[Golden Hippo®](https://www.huntrealestate.com/)** | **[Post Production Coordinator Intern](https://jobright.ai/jobs/info/69b423833b74eb1e2c8139b4?utm_campaign=1053&utm_source=git)** | Hybrid (Woodland Hills, CA) | Hybrid | Apr 11 |
 | **[Jomboy Media](https://jomboymedia.com)** | **[Executive + Content Assistant Intern- Summer 2026](https://jobright.ai/jobs/info/69dacb31869c7e25d85a5144?utm_campaign=1053&utm_source=git)** | New York, New York, United States | Hybrid | Apr 11 |
 | **[Hackensack Meridian Health](https://www.hackensackmeridianhealth.org)** | **[Intern, Foundation Events](https://jobright.ai/jobs/info/69dac82d9f97a42dc9c2bfca?utm_campaign=1053&utm_source=git)** | Edison, NJ | On Site | Apr 11 |
@@ -83,8 +85,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[LN Concerts, Production Intern](https://jobright.ai/jobs/info/69bdeede4828227293009d61?utm_campaign=1053&utm_source=git)** | San Francisco, CA | On Site | Apr 11 |
 | **[KCRA 3 & My58 Television](http://www.kcra.com)** | **[Intern](https://jobright.ai/jobs/info/69a0c5340836fe79d861c5c9?utm_campaign=1053&utm_source=git)** | Sacramento, CA | On Site | Apr 11 |
 | **[Sinclair Inc.](http://sbgi.net/)** | **[ARC News Intern (KSNV) - Summer 2026](https://jobright.ai/jobs/info/69bfd1ba79e36d3a847c711d?utm_campaign=1053&utm_source=git)** | Las Vegas, NV | On Site | Apr 11 |
-| ↳ | **[News Intern (Summer 2026)](https://jobright.ai/jobs/info/69c918d51818a24cd84d9b34?utm_campaign=1053&utm_source=git)** | Portland, OR | On Site | Apr 11 |
 | ↳ | **[ARC News Intern (WHAM) - Summer 2026](https://jobright.ai/jobs/info/69be33a2482822729300eda4?utm_campaign=1053&utm_source=git)** | Rochester, NY | On Site | Apr 11 |
+| ↳ | **[News Intern (Summer 2026)](https://jobright.ai/jobs/info/69c918d51818a24cd84d9b34?utm_campaign=1053&utm_source=git)** | Portland, OR | On Site | Apr 11 |
 | ↳ | **[News Intern (Summer 2026)](https://jobright.ai/jobs/info/69c90b351b5ad02887397c43?utm_campaign=1053&utm_source=git)** | Jefferson City, MO | On Site | Apr 11 |
 | ↳ | **[ARC News Intern (KOMO) - Summer 2026](https://jobright.ai/jobs/info/69be3392b106024562839a38?utm_campaign=1053&utm_source=git)** | Seattle, WA | On Site | Apr 11 |
 | **[Collab](https://collab.inc)** | **[YouTube Content Library & Asset Management Intern (Summer 2026)](https://jobright.ai/jobs/info/69da045d738f2f099e8a7757?utm_campaign=1053&utm_source=git)** | Santa Monica, CA | Remote | Apr 11 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[West Shore Home](http://westshorehome.com)** | **[Video Production Intern (Summer 2026)](https://jobright.ai/jobs/info/69d6a0da52a5bf5800129dea?utm_campaign=1053&utm_source=git)** | Harrisburg, PA | On Site | Apr 08 |
 | **[NASA’s Virginia Space Grant - FREE STEM Programs](https://linktr.ee/VSGC)** | **[Media Intern $15/hr](https://jobright.ai/jobs/info/69d74aa2cfdc6132f9471808?utm_campaign=1053&utm_source=git)** | Hampton Roads, Virginia Metropolitan Area | On Site | Apr 08 |
 | **[SexSymbol Magazine](sexsymbolmagazine.com)** | **[Business Operations (Remote, Unpaid) Internship](https://jobright.ai/jobs/info/69d69f49706f771673babc49?utm_campaign=1053&utm_source=git)** | NYC Metro Area | Remote | Apr 08 |
-| ↳ | **[Business Operations (Unpaid, Remote) Internship](https://jobright.ai/jobs/info/69d69c1acfdc6132f946af34?utm_campaign=1053&utm_source=git)** | United States | Remote | Apr 08 |
-| **[Another Planet Entertainment](http://apeconcerts.com)** | **[Festival Operations Intern](https://jobright.ai/jobs/info/69d69827cfdc6132f946ad92?utm_campaign=1053&utm_source=git)** | San Francisco Bay Area | On Site | Apr 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
