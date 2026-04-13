@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Slate Studios](http://slate-nyc.com)** | **[Creative Production Intern ? Miami (Part Time)](https://jobright.ai/jobs/info/69dd277161f6ed54321fb6de?utm_campaign=1053&utm_source=git)** | Miami, FL | On Site | Apr 13 |
+| ↳ | **[Creative Production Intern ? New York (Part Time)](https://jobright.ai/jobs/info/69dd276461f6ed54321fb6d2?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Apr 13 |
 | **[TGR](http://www.thegarnettereport.com)** | **[Spring/Summer Internship](https://jobright.ai/jobs/info/69dd1c76738f2f099e8b497b?utm_campaign=1053&utm_source=git)** | NYC Metro Area | On Site | Apr 13 |
 | **[City of Lancaster](https://www.cityoflancasterca.org)** | **[Intern - Special Events](https://jobright.ai/jobs/info/69dd13e3bc6f6622c9910437?utm_campaign=1053&utm_source=git)** | Lancaster, PA | On Site | Apr 13 |
 | **[Brilliant Agency](https://brilliantprandmarketing.com)** | **[Social Media Video Editing Internship / Fall 2026](https://jobright.ai/jobs/info/69ced97b891d7b11cfccd744?utm_campaign=1053&utm_source=git)** | Houston, TX | Remote | Apr 13 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69d6ccbe706f771673bae157?utm_campaign=1053&utm_source=git)** | Wichita, KS | On Site | Apr 08 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69d6ccabe63cea7a8b66c4f5?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Apr 08 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69d6ccaae63cea7a8b66c4f4?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | Apr 08 |
-| ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69d6cc9252a5bf580012c21f?utm_campaign=1053&utm_source=git)** | Greenbrier River, WV | On Site | Apr 08 |
-| **[ASM Global](http://www.asmglobal.com)** | **[Intern Catering & Special Events Coordinator](https://jobright.ai/jobs/info/69d6cc8b48f0c8161d2fb316?utm_campaign=1053&utm_source=git)** | Frisco, TX | On Site | Apr 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
