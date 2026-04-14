@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Saatchi US](http://www.wearesaatchi.com)** | **[Intern - Content Production](https://jobright.ai/jobs/info/69ddbeeae34484770f19ef04?utm_campaign=1053&utm_source=git)** | El Segundo, CA | Hybrid | Apr 13 |
 | **[Slate Magazine](http://www.slate.com)** | **[Audience Engagement Intern](https://jobright.ai/jobs/info/69ddb2208182b27d347411a0?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Apr 13 |
 | ↳ | **[Audience Engagement Intern](https://jobright.ai/jobs/info/69ddb217aba61f14173119f8?utm_campaign=1053&utm_source=git)** | Brooklyn, NY | On Site | Apr 13 |
 | **[Woodwell Climate Research Center](https://www.woodwellclimate.org)** | **[Intern, Event Planning Coordinator](https://jobright.ai/jobs/info/69ddb1f1433ac8430e0d63f3?utm_campaign=1053&utm_source=git)** | Onsite, Falmouth, MA, US | Hybrid | Apr 13 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[TelevisaUnivision](https://www.corporate.televisaunivision.com)** | **[Intern, Programming Strategy](https://jobright.ai/jobs/info/699e0ce781476f6176b6f7ac?utm_campaign=1053&utm_source=git)** | Miami, FL | On Site | Apr 09 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Broadcasting Internship (NYSBA)](https://jobright.ai/jobs/info/6982675d0f6f7e7a2cdb920d?utm_campaign=1053&utm_source=git)** | Colchester, VT | On Site | Apr 09 |
 | ↳ | **[Digital Content Intern, Unpaid](https://jobright.ai/jobs/info/69bb08ca569738374140e490?utm_campaign=1053&utm_source=git)** | Shreveport, Louisiana, United States | On Site | Apr 09 |
-| **[WPHL-TV](https://www.phl17.com)** | **[Production Summer Intern](https://jobright.ai/jobs/info/69bb08c9569738374140e482?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Apr 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
