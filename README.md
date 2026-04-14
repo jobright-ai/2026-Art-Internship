@@ -57,9 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Publicis Groupe ANZ](http://www.publicisgroupeanz.com)** | **[Intern - Content Production](https://jobright.ai/jobs/info/69dda36c433ac8430e0d5bcb?utm_campaign=1053&utm_source=git)** | El Segundo, CA, US | Hybrid | Apr 13 |
+| ↳ | **[Intern - Content Production](https://jobright.ai/jobs/info/69dda3495913ad339813978d?utm_campaign=1053&utm_source=git)** | US-CA-El Segundo | Hybrid | Apr 13 |
+| **[Morgridge Institute for Research](https://morgridge.org)** | **[Student Science Writer](https://jobright.ai/jobs/info/69dda2c08182b27d347406af?utm_campaign=1053&utm_source=git)** | Madison, WI | On Site | Apr 13 |
 | **[Radio-Canada](http://www.radio-canada.ca/)** | **[Researcher (CMG) (Indigenous summer paid internship) (English Services)](https://jobright.ai/jobs/info/69cde09b366bb95ba5503daf?utm_campaign=1053&utm_source=git)** | Prince George, BC | On Site | Apr 13 |
 | **[Penguin Random House](https://www.penguinrandomhouse.com/)** | **[Assistant Editor, Inklore - (Open to remote)](https://jobright.ai/jobs/info/69dd87ad5356a60f40fee8f4?utm_campaign=1053&utm_source=git)** | New York, United States | Remote | Apr 13 |
 | **[Gaulin Media](http://www.gaulinmedia.com)** | **[Summer Intern Journalist (multiple)](https://jobright.ai/jobs/info/69dd7e7f738f2f099e8b6864?utm_campaign=1053&utm_source=git)** | Canada, NC | Remote | Apr 13 |
+| **[Lone Star College](http://www.lonestar.edu)** | **[Part-Time Intern, Falcon Force Content Creator](https://jobright.ai/jobs/info/69dda2164d3bec4144b4ca99?utm_campaign=1053&utm_source=git)** | Cypress, TX | On Site | Apr 13 |
 | **[Kelly Tutors](www.kellytutors.com)** | **[Virtual Event Planning Internship (Flexible, 2-5 Hours/Week)](https://jobright.ai/jobs/info/69dd76d69f97a42dc9c36530?utm_campaign=1053&utm_source=git)** | Seattle, WA | Remote | Apr 13 |
 | **[Gregory Poole Equipment Company](http://www.gregorypoole.com)** | **[EQ Corporate Intern](https://jobright.ai/jobs/info/69dd6ff25356a60f40fee3da?utm_campaign=1053&utm_source=git)** | 4807 Beryl Rd, Raleigh, NC 27606, USA | On Site | Apr 13 |
 | **[Inspire](https://inspirebrands.com)** | **[Maverick Studios Production Support Intern - Summer 2026](https://jobright.ai/jobs/info/69dd61ae9f97a42dc9c35fcd?utm_campaign=1053&utm_source=git)** | Atlanta Support Center | On Site | Apr 13 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Legends Global](http://legends.net)** | **[Video/Content Production Intern](https://jobright.ai/jobs/info/69d586cccdb525785fbd18dc?utm_campaign=1053&utm_source=git)** | Miami, FL | On Site | Apr 09 |
 | **[TelevisaUnivision](https://www.corporate.televisaunivision.com)** | **[Intern, Network News](https://jobright.ai/jobs/info/699d1371e0bddb6acacc30c1?utm_campaign=1053&utm_source=git)** | Miami, FL | On Site | Apr 09 |
 | **[DriveTime](https://www.drivetime.com)** | **[Content Creator Intern (Summer 2026)](https://jobright.ai/jobs/info/69ba98b45697383741405a4f?utm_campaign=1053&utm_source=git)** | Tempe, AZ | On Site | Apr 09 |
-| **[U.S. News & World Report](http://www.usnews.com)** | **[2026 Fall News Intern (DC & NY)](https://jobright.ai/jobs/info/69d6899ee63cea7a8b669623?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Apr 09 |
-| **[AEQUUS SPORTS LLC](https://www.uslspokane.com)** | **[Pro-Soccer Internship - Fall 2026](https://jobright.ai/jobs/info/69d720da52a5bf580012e0a5?utm_campaign=1053&utm_source=git)** | Spokane, WA | On Site | Apr 08 |
-| **[Columbus Blue Jackets](http://bluejackets.com)** | **[2026-27 Season Journalism Intern](https://jobright.ai/jobs/info/69d72d44950d1a0760b7c04f?utm_campaign=1053&utm_source=git)** | Columbus, OH | On Site | Apr 08 |
-| ↳ | **[2026-27 Season Broadcasting Intern](https://jobright.ai/jobs/info/69d72c7d48f0c8161d2fd7fc?utm_campaign=1053&utm_source=git)** | Columbus, OH | On Site | Apr 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
