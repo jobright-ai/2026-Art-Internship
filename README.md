@@ -57,6 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[New York Post](http://nypost.com/)** | **[Editorial Page Intern](https://jobright.ai/jobs/info/69de7b7e36823d1b42581537?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Apr 14 |
+| **[Hearst Magazines](http://www.hearst.com/magazines)** | **[Intern - Car and Driver](https://jobright.ai/jobs/info/69c1b37e2c312363dcd4db24?utm_campaign=1053&utm_source=git)** | Ann Arbor, MI | On Site | Apr 14 |
+| **[New York Post](http://nypost.com/)** | **[Page Six Video Intern](https://jobright.ai/jobs/info/69de788518cf504166e2d49a?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Apr 14 |
+| **[Kansas State University](http://www.k-state.edu/)** | **[Event Operations Post Grad Intern](https://jobright.ai/jobs/info/69de786718cf504166e2d458?utm_campaign=1053&utm_source=git)** | Manhattan, KS | On Site | Apr 14 |
+| **[The Wall Street Journal](https://www.wjs.com/)** | **[Page Six Video Intern](https://jobright.ai/jobs/info/69de73d2433ac8430e0d9bb9?utm_campaign=1053&utm_source=git)** | NYC - 1211 Ave of the Americas | On Site | Apr 14 |
+| ↳ | **[Editorial Page Intern](https://jobright.ai/jobs/info/69de728936823d1b4258108d?utm_campaign=1053&utm_source=git)** | NYC - 1211 Ave of the Americas | On Site | Apr 14 |
+| **[Temecula City Lifestyle](www.citylifestyle.com/temecula)** | **[Editorial Intern](https://jobright.ai/jobs/info/69de658a36823d1b42580c27?utm_campaign=1053&utm_source=git)** | Temecula, CA | Hybrid | Apr 14 |
+| **[StorylineMarketing LLC](https://www.storylinemarketing.net/growth)** | **[Freelance Video Editor](https://jobright.ai/jobs/info/69de6545aba61f1417314b08?utm_campaign=1053&utm_source=git)** | Phoenix, AZ | Remote | Apr 14 |
+| **[High Society](wearehighsociety.com)** | **[Social Media & Videography Intern](https://jobright.ai/jobs/info/69de606318cf504166e2ca56?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Apr 14 |
 | **[The Vision Detroit](https://linktr.ee/thevisiondetroit)** | **[Video & Content Intern](https://jobright.ai/jobs/info/69de5044433ac8430e0d8ff6?utm_campaign=1053&utm_source=git)** | Detroit, MI | Hybrid | Apr 14 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[News Intern](https://jobright.ai/jobs/info/69c29a9aec22f8310ab07b56?utm_campaign=1053&utm_source=git)** | Memphis, TN | On Site | Apr 14 |
 | **[University of Idaho](http://www.uidaho.edu/)** | **[Event Operations Coordinator](https://jobright.ai/jobs/info/69de3ac436823d1b425800d9?utm_campaign=1053&utm_source=git)** | Moscow, ID | On Site | Apr 14 |
@@ -71,7 +80,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern - Content Production](https://jobright.ai/jobs/info/69dda3495913ad339813978d?utm_campaign=1053&utm_source=git)** | US-CA-El Segundo | Hybrid | Apr 13 |
 | **[Morgridge Institute for Research](https://morgridge.org)** | **[Student Science Writer](https://jobright.ai/jobs/info/69dda2c08182b27d347406af?utm_campaign=1053&utm_source=git)** | Madison, WI | On Site | Apr 13 |
 | **[Radio-Canada](http://www.radio-canada.ca/)** | **[Researcher (CMG) (Indigenous summer paid internship) (English Services)](https://jobright.ai/jobs/info/69cde09b366bb95ba5503daf?utm_campaign=1053&utm_source=git)** | Prince George, BC | On Site | Apr 13 |
-| **[Penguin Random House](https://www.penguinrandomhouse.com/)** | **[Assistant Editor, Inklore - (Open to remote)](https://jobright.ai/jobs/info/69dd87ad5356a60f40fee8f4?utm_campaign=1053&utm_source=git)** | New York, United States | Remote | Apr 13 |
 | **[Gaulin Media](http://www.gaulinmedia.com)** | **[Summer Intern Journalist (multiple)](https://jobright.ai/jobs/info/69dd7e7f738f2f099e8b6864?utm_campaign=1053&utm_source=git)** | Canada, NC | Remote | Apr 13 |
 | **[MATTE Projects](https://matteprojects.com/)** | **[Experiential Production Internship Summer 2026 (On-Site, New York)](https://jobright.ai/jobs/info/69ddab0e8182b27d34740e46?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Apr 13 |
 | **[Lone Star College](http://www.lonestar.edu)** | **[Part-Time Intern, Falcon Force Content Creator](https://jobright.ai/jobs/info/69dda2164d3bec4144b4ca99?utm_campaign=1053&utm_source=git)** | Cypress, TX | On Site | Apr 13 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[DreamWorks Animation](https://www.dreamworks.com)** | **[NBC Bay Area - Digital Internship – Summer 2026](https://jobright.ai/jobs/info/69d816d4869c7e25d85939dd?utm_campaign=1053&utm_source=git)** | 2450 N. First Street, San Jose, CALIFORNIA | On Site | Apr 09 |
 | ↳ | **[NBC Bay Area - News Internship – Summer 2026](https://jobright.ai/jobs/info/69d816c79f97a42dc9c1a399?utm_campaign=1053&utm_source=git)** | 2450 N. First Street, San Jose, CALIFORNIA | On Site | Apr 09 |
 | **[Columbus Blue Jackets](http://bluejackets.com)** | **[2026-27 Season Video Production Intern](https://jobright.ai/jobs/info/69d824f0f4ea471a51fe40b3?utm_campaign=1053&utm_source=git)** | Columbus, OH | On Site | Apr 09 |
-| **[Golden Pet Brands](www.goldenpetbrands.com)** | **[Intern, Video Editor - Summer 2026](https://jobright.ai/jobs/info/69c2b9a8ec22f8310ab09d13?utm_campaign=1053&utm_source=git)** | Los Angeles, California, United States | Hybrid | Apr 09 |
-| **[INFICON](http://www.inficon.com)** | **[Digital Content Creator Summer Intern](https://jobright.ai/jobs/info/69d7ec23869c7e25d859234d?utm_campaign=1053&utm_source=git)** | East Syracuse, NY, USA | On Site | Apr 09 |
-| **[Salt XC](https://www.saltxc.com/)** | **[AI Enablement Content Producer (Intern)](https://jobright.ai/jobs/info/6982a17a0f6f7e7a2cdbf34a?utm_campaign=1053&utm_source=git)** | Toronto, ON | Hybrid | Apr 09 |
-| **[Golden Hippo®](https://www.huntrealestate.com/)** | **[Art Production Assistant Intern](https://jobright.ai/jobs/info/69c5d8bd1b5ad0288737a4eb?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 09 |
-| ↳ | **[Video Editor Intern](https://jobright.ai/jobs/info/69b3218ea8ac8e70ff674f97?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 09 |
-| **[The National Center for Urban Solutions - NCUS](https://ncusolutions.org)** | **[Cinematographer/Video Production Intern](https://jobright.ai/jobs/info/69d7d72c738f2f099e898b6f?utm_campaign=1053&utm_source=git)** | Columbus,OH,US | On Site | Apr 09 |
-| **[INFICON](http://www.inficon.com)** | **[Digital Content Creator Summer Intern](https://jobright.ai/jobs/info/69d809fcb67cec4f9b09a080?utm_campaign=1053&utm_source=git)** | East Syracuse, NY | On Site | Apr 09 |
-| **[TelevisaUnivision](https://www.corporate.televisaunivision.com)** | **[Intern, Programming Strategy](https://jobright.ai/jobs/info/699e0ce781476f6176b6f7ac?utm_campaign=1053&utm_source=git)** | Miami, FL | On Site | Apr 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
