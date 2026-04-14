@@ -57,12 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Slate Magazine](http://www.slate.com)** | **[Audience Engagement Intern](https://jobright.ai/jobs/info/69ddb2208182b27d347411a0?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Apr 13 |
+| ↳ | **[Audience Engagement Intern](https://jobright.ai/jobs/info/69ddb217aba61f14173119f8?utm_campaign=1053&utm_source=git)** | Brooklyn, NY | On Site | Apr 13 |
+| **[Woodwell Climate Research Center](https://www.woodwellclimate.org)** | **[Intern, Event Planning Coordinator](https://jobright.ai/jobs/info/69ddb1f1433ac8430e0d63f3?utm_campaign=1053&utm_source=git)** | Onsite, Falmouth, MA, US | Hybrid | Apr 13 |
+| **[GRAMMY Museum](https://grammymuseum.org/)** | **[Intern, Digital Content](https://jobright.ai/jobs/info/69ddaa7fe34484770f19e67e?utm_campaign=1053&utm_source=git)** | Santa Monica, CA | On Site | Apr 13 |
 | **[Publicis Groupe ANZ](http://www.publicisgroupeanz.com)** | **[Intern - Content Production](https://jobright.ai/jobs/info/69dda36c433ac8430e0d5bcb?utm_campaign=1053&utm_source=git)** | El Segundo, CA, US | Hybrid | Apr 13 |
 | ↳ | **[Intern - Content Production](https://jobright.ai/jobs/info/69dda3495913ad339813978d?utm_campaign=1053&utm_source=git)** | US-CA-El Segundo | Hybrid | Apr 13 |
 | **[Morgridge Institute for Research](https://morgridge.org)** | **[Student Science Writer](https://jobright.ai/jobs/info/69dda2c08182b27d347406af?utm_campaign=1053&utm_source=git)** | Madison, WI | On Site | Apr 13 |
 | **[Radio-Canada](http://www.radio-canada.ca/)** | **[Researcher (CMG) (Indigenous summer paid internship) (English Services)](https://jobright.ai/jobs/info/69cde09b366bb95ba5503daf?utm_campaign=1053&utm_source=git)** | Prince George, BC | On Site | Apr 13 |
 | **[Penguin Random House](https://www.penguinrandomhouse.com/)** | **[Assistant Editor, Inklore - (Open to remote)](https://jobright.ai/jobs/info/69dd87ad5356a60f40fee8f4?utm_campaign=1053&utm_source=git)** | New York, United States | Remote | Apr 13 |
 | **[Gaulin Media](http://www.gaulinmedia.com)** | **[Summer Intern Journalist (multiple)](https://jobright.ai/jobs/info/69dd7e7f738f2f099e8b6864?utm_campaign=1053&utm_source=git)** | Canada, NC | Remote | Apr 13 |
+| **[MATTE Projects](https://matteprojects.com/)** | **[Experiential Production Internship Summer 2026 (On-Site, New York)](https://jobright.ai/jobs/info/69ddab0e8182b27d34740e46?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Apr 13 |
 | **[Lone Star College](http://www.lonestar.edu)** | **[Part-Time Intern, Falcon Force Content Creator](https://jobright.ai/jobs/info/69dda2164d3bec4144b4ca99?utm_campaign=1053&utm_source=git)** | Cypress, TX | On Site | Apr 13 |
 | **[Kelly Tutors](www.kellytutors.com)** | **[Virtual Event Planning Internship (Flexible, 2-5 Hours/Week)](https://jobright.ai/jobs/info/69dd76d69f97a42dc9c36530?utm_campaign=1053&utm_source=git)** | Seattle, WA | Remote | Apr 13 |
 | **[Gregory Poole Equipment Company](http://www.gregorypoole.com)** | **[EQ Corporate Intern](https://jobright.ai/jobs/info/69dd6ff25356a60f40fee3da?utm_campaign=1053&utm_source=git)** | 4807 Beryl Rd, Raleigh, NC 27606, USA | On Site | Apr 13 |
@@ -105,15 +110,14 @@ For a complete list, click the following sortable link below:
 | ↳ | **[LN Concerts, Production Intern](https://jobright.ai/jobs/info/69bdeede4828227293009d61?utm_campaign=1053&utm_source=git)** | San Francisco, CA | On Site | Apr 11 |
 | **[KCRA 3 & My58 Television](http://www.kcra.com)** | **[Intern](https://jobright.ai/jobs/info/69a0c5340836fe79d861c5c9?utm_campaign=1053&utm_source=git)** | Sacramento, CA | On Site | Apr 11 |
 | **[Sinclair Inc.](http://sbgi.net/)** | **[ARC News Intern (KSNV) - Summer 2026](https://jobright.ai/jobs/info/69bfd1ba79e36d3a847c711d?utm_campaign=1053&utm_source=git)** | Las Vegas, NV | On Site | Apr 11 |
-| ↳ | **[ARC News Intern (WHAM) - Summer 2026](https://jobright.ai/jobs/info/69be33a2482822729300eda4?utm_campaign=1053&utm_source=git)** | Rochester, NY | On Site | Apr 11 |
 | ↳ | **[News Intern (Summer 2026)](https://jobright.ai/jobs/info/69c918d51818a24cd84d9b34?utm_campaign=1053&utm_source=git)** | Portland, OR | On Site | Apr 11 |
+| ↳ | **[ARC News Intern (WHAM) - Summer 2026](https://jobright.ai/jobs/info/69be33a2482822729300eda4?utm_campaign=1053&utm_source=git)** | Rochester, NY | On Site | Apr 11 |
 | ↳ | **[News Intern (Summer 2026)](https://jobright.ai/jobs/info/69c90b351b5ad02887397c43?utm_campaign=1053&utm_source=git)** | Jefferson City, MO | On Site | Apr 11 |
 | ↳ | **[ARC News Intern (KOMO) - Summer 2026](https://jobright.ai/jobs/info/69be3392b106024562839a38?utm_campaign=1053&utm_source=git)** | Seattle, WA | On Site | Apr 11 |
 | **[Collab](https://collab.inc)** | **[YouTube Content Library & Asset Management Intern (Summer 2026)](https://jobright.ai/jobs/info/69da045d738f2f099e8a7757?utm_campaign=1053&utm_source=git)** | Santa Monica, CA | Remote | Apr 11 |
 | **[The Daily Beast](http://www.thedailybeast.com)** | **[Breaking News Intern - Summer 2026](https://jobright.ai/jobs/info/66ff353b84a38684300850f0?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Apr 11 |
 | **[FC Dallas](http://www.fcdallas.com)** | **[2026 Summer Internship / Soccer Celebration](https://jobright.ai/jobs/info/69d9e317869c7e25d859e93b?utm_campaign=1053&utm_source=git)** | Frisco, TX | On Site | Apr 10 |
 | **[City of Lancaster](https://www.cityoflancasterca.org)** | **[Intern - Special Events](https://jobright.ai/jobs/info/69d9d615738f2f099e8a50ca?utm_campaign=1053&utm_source=git)** | Lancaster, PA | On Site | Apr 10 |
-| **[Freedom of the Press Foundation](http://pressfreedomfoundation.org)** | **[Audience Editor](https://jobright.ai/jobs/info/69dc6b219f97a42dc9c30e80?utm_campaign=1053&utm_source=git)** | Brooklyn, NY | Hybrid | Apr 10 |
 | **[Crumbl](https://crumblcookies.com)** | **[French Language Specialist Intern](https://jobright.ai/jobs/info/69d9b0719f97a42dc9c23993?utm_campaign=1053&utm_source=git)** | Provo, UT | Hybrid | Apr 10 |
 | **[Fox Television Stations](https://www.foxcorporation.com/businesses/fox-television-stations/)** | **[Intern](https://jobright.ai/jobs/info/69d9ae6b9f97a42dc9c2374b?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Apr 10 |
 | **[FC Dallas](http://www.fcdallas.com)** | **[2026 Summer Internship / Soccer Celebration](https://jobright.ai/jobs/info/69d9a4755356a60f40fdb4cf?utm_campaign=1053&utm_source=git)** | Frisco, Texas | On Site | Apr 10 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Broadcasting Internship (NYSBA)](https://jobright.ai/jobs/info/6982675d0f6f7e7a2cdb920d?utm_campaign=1053&utm_source=git)** | Colchester, VT | On Site | Apr 09 |
 | ↳ | **[Digital Content Intern, Unpaid](https://jobright.ai/jobs/info/69bb08ca569738374140e490?utm_campaign=1053&utm_source=git)** | Shreveport, Louisiana, United States | On Site | Apr 09 |
 | **[WPHL-TV](https://www.phl17.com)** | **[Production Summer Intern](https://jobright.ai/jobs/info/69bb08c9569738374140e482?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Apr 09 |
-| **[SWCA Environmental Consultants](https://www.swca.com/)** | **[Cultural Resources Intern](https://jobright.ai/jobs/info/69b25401ae2a534885e943ad?utm_campaign=1053&utm_source=git)** | Amherst, MA | On Site | Apr 09 |
-| **[Legends Global](http://legends.net)** | **[Video/Content Production Intern](https://jobright.ai/jobs/info/69d586cccdb525785fbd18dc?utm_campaign=1053&utm_source=git)** | Miami, FL | On Site | Apr 09 |
-| **[TelevisaUnivision](https://www.corporate.televisaunivision.com)** | **[Intern, Network News](https://jobright.ai/jobs/info/699d1371e0bddb6acacc30c1?utm_campaign=1053&utm_source=git)** | Miami, FL | On Site | Apr 09 |
-| **[DriveTime](https://www.drivetime.com)** | **[Content Creator Intern (Summer 2026)](https://jobright.ai/jobs/info/69ba98b45697383741405a4f?utm_campaign=1053&utm_source=git)** | Tempe, AZ | On Site | Apr 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
