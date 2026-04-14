@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Buffalo Sabres](http://sabres.com)** | **[Video Intern](https://jobright.ai/jobs/info/69deb1a7433ac8430e0dbdc1?utm_campaign=1053&utm_source=git)** | Buffalo, New York, United States | On Site | Apr 14 |
+| ↳ | **[Media & Content Writing Intern](https://jobright.ai/jobs/info/69deb17daba61f1417317211?utm_campaign=1053&utm_source=git)** | Buffalo, New York, United States | On Site | Apr 14 |
 | **[The Washington Post](http://www.washingtonpost.com/)** | **[Newsroom Internship Program: Summer 2026](https://jobright.ai/jobs/info/69dea5d018cf504166e2eeac?utm_campaign=1053&utm_source=git)** | DC-Washington-TWP Headquarters | On Site | Apr 14 |
 | **[Drum Corps International](https://www.dci.org/static/about-drum-corps-international)** | **[Video Production Intern/Seasonal](https://jobright.ai/jobs/info/69dea0b9aba61f14173168ce?utm_campaign=1053&utm_source=git)** | Indianapolis, IN | On Site | Apr 14 |
 | **[Everyday Health Group](https://www.everydayhealthgroup.com)** | **[Video Team Intern](https://jobright.ai/jobs/info/69de92e7aba61f14173162fb?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Apr 14 |
@@ -78,7 +80,6 @@ For a complete list, click the following sortable link below:
 | **[University of Idaho](http://www.uidaho.edu/)** | **[Event Operations Coordinator](https://jobright.ai/jobs/info/69de3ac436823d1b425800d9?utm_campaign=1053&utm_source=git)** | Moscow, ID | On Site | Apr 14 |
 | **[Inspire](https://inspirebrands.com)** | **[Maverick Studios Production Support Intern - Summer 2026](https://jobright.ai/jobs/info/69ddfc5018cf504166e2b7a1?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Apr 14 |
 | **[Goddard Riverside](https://goddard.org)** | **[Archive Summer Intern](https://jobright.ai/jobs/info/69dddc1fe34484770f19fb6b?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Apr 13 |
-| **[Saatchi US](http://www.wearesaatchi.com)** | **[Intern - Content Production](https://jobright.ai/jobs/info/69ddbeeae34484770f19ef04?utm_campaign=1053&utm_source=git)** | El Segundo, CA | Hybrid | Apr 13 |
 | **[Slate Magazine](http://www.slate.com)** | **[Audience Engagement Intern](https://jobright.ai/jobs/info/69ddb2208182b27d347411a0?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Apr 13 |
 | ↳ | **[Audience Engagement Intern](https://jobright.ai/jobs/info/69ddb217aba61f14173119f8?utm_campaign=1053&utm_source=git)** | Brooklyn, NY | On Site | Apr 13 |
 | **[Woodwell Climate Research Center](https://www.woodwellclimate.org)** | **[Intern, Event Planning Coordinator](https://jobright.ai/jobs/info/69ddb1f1433ac8430e0d63f3?utm_campaign=1053&utm_source=git)** | Onsite, Falmouth, MA, US | Hybrid | Apr 13 |
@@ -95,6 +96,7 @@ For a complete list, click the following sortable link below:
 | **[CLD PR & Experiential Productions](https://cldstylehouse.com)** | **[Event Production Intern](https://jobright.ai/jobs/info/69dd8cdd61f6ed54321fdf83?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Apr 13 |
 | **[Heart of Los Angeles (HOLA)](https://www.heartofla.org)** | **[Visual Arts Department Intern](https://jobright.ai/jobs/info/69dd53ff5356a60f40fedaa4?utm_campaign=1053&utm_source=git)** | LOS ANGELES, CA 90057 | On Site | Apr 13 |
 | **[Sodexo Live!](www.sodexolive.com)** | **[Intern ? Culinary @ Lucas Oil Stadium](https://jobright.ai/jobs/info/69dd52fcbc6f6622c9911947?utm_campaign=1053&utm_source=git)** | Indianapolis, IN | On Site | Apr 13 |
+| **[Onit](http://onit.com)** | **[Legal Innovation Community Intern](https://jobright.ai/jobs/info/69aba0c02747003c3d512e42?utm_campaign=1053&utm_source=git)** | Atlanta, GA | Remote | Apr 13 |
 | **[ElectraCast Media](http://www.electracast.com)** | **[Intern Podcast & Marketing Clips Editor](https://jobright.ai/jobs/info/69dd387a5356a60f40fed22e?utm_campaign=1053&utm_source=git)** | United States | Remote | Apr 13 |
 | **[MATTE Projects](https://matteprojects.com/)** | **[Experiential Production Internship Summer 2026](https://jobright.ai/jobs/info/69dd3855f748bc5d08a5ec73?utm_campaign=1053&utm_source=git)** | New York, New York | On Site | Apr 13 |
 | **[Daktronics](http://www.daktronics.com/en-us)** | **[James Madison University Event Production Intern](https://jobright.ai/jobs/info/6959d946f1f8465b79f0377f?utm_campaign=1053&utm_source=git)** | Harrisonburg, VA | On Site | Apr 13 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[TikTok Short Drama Project Intern (TikTok-Short-Drama) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69684e2af25a38006696b2a4?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Apr 10 |
 | **[Waco Tribune-Herald](http://wacotrib.com)** | **[Theater Arts Technical Designer (Temporary)](https://jobright.ai/jobs/info/69da03afb67cec4f9b0a7957?utm_campaign=1053&utm_source=git)** | Fremont, CA | On Site | Apr 10 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Digital Content Intern](https://jobright.ai/jobs/info/69d85dcdf4ea471a51fe545b?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Apr 09 |
-| **[Kroenke Sports & Entertainment](https://www.ballarena.com)** | **[Intern, Production](https://jobright.ai/jobs/info/69d960435356a60f40fd9627?utm_campaign=1053&utm_source=git)** | Centennial, CO | On Site | Apr 09 |
-| **[U.S. News & World Report](http://www.usnews.com)** | **[2026 News Summer Intern](https://jobright.ai/jobs/info/69d82b55869c7e25d859436a?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Apr 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
