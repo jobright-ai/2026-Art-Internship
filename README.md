@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[University of Idaho](http://www.uidaho.edu/)** | **[Event Operations Coordinator](https://jobright.ai/jobs/info/69de3ac436823d1b425800d9?utm_campaign=1053&utm_source=git)** | Moscow, ID | On Site | Apr 14 |
 | **[Inspire](https://inspirebrands.com)** | **[Maverick Studios Production Support Intern - Summer 2026](https://jobright.ai/jobs/info/69ddfc5018cf504166e2b7a1?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Apr 14 |
 | **[Goddard Riverside](https://goddard.org)** | **[Archive Summer Intern](https://jobright.ai/jobs/info/69dddc1fe34484770f19fb6b?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Apr 13 |
 | **[Saatchi US](http://www.wearesaatchi.com)** | **[Intern - Content Production](https://jobright.ai/jobs/info/69ddbeeae34484770f19ef04?utm_campaign=1053&utm_source=git)** | El Segundo, CA | Hybrid | Apr 13 |
@@ -118,7 +119,6 @@ For a complete list, click the following sortable link below:
 | **[Collab](https://collab.inc)** | **[YouTube Content Library & Asset Management Intern (Summer 2026)](https://jobright.ai/jobs/info/69da045d738f2f099e8a7757?utm_campaign=1053&utm_source=git)** | Santa Monica, CA | Remote | Apr 11 |
 | **[The Daily Beast](http://www.thedailybeast.com)** | **[Breaking News Intern - Summer 2026](https://jobright.ai/jobs/info/66ff353b84a38684300850f0?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Apr 11 |
 | **[FC Dallas](http://www.fcdallas.com)** | **[2026 Summer Internship / Soccer Celebration](https://jobright.ai/jobs/info/69d9e317869c7e25d859e93b?utm_campaign=1053&utm_source=git)** | Frisco, TX | On Site | Apr 10 |
-| **[The National Center for Urban Solutions - NCUS](https://ncusolutions.org)** | **[Cinematographer/Video Production Intern](https://jobright.ai/jobs/info/69ddd985aba61f1417312a31?utm_campaign=1053&utm_source=git)** | Columbus, OH | On Site | Apr 10 |
 | **[Crumbl](https://crumblcookies.com)** | **[French Language Specialist Intern](https://jobright.ai/jobs/info/69d9b0719f97a42dc9c23993?utm_campaign=1053&utm_source=git)** | Provo, UT | Hybrid | Apr 10 |
 | **[Fox Television Stations](https://www.foxcorporation.com/businesses/fox-television-stations/)** | **[Intern](https://jobright.ai/jobs/info/69d9ae6b9f97a42dc9c2374b?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Apr 10 |
 | **[FC Dallas](http://www.fcdallas.com)** | **[2026 Summer Internship / Soccer Celebration](https://jobright.ai/jobs/info/69d9a4755356a60f40fdb4cf?utm_campaign=1053&utm_source=git)** | Frisco, Texas | On Site | Apr 10 |
