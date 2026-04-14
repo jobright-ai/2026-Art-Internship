@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cars Commerce](https://www.carscommerce.inc)** | **[Editorial News Intern](https://jobright.ai/jobs/info/69c18b592c312363dcd489b1?utm_campaign=1053&utm_source=git)** | Greater Chicago Area | Hybrid | Apr 14 |
+| **[Imaginary Content](https://www.imaginarycontent.com)** | **[Content Studio/Production Intern](https://jobright.ai/jobs/info/69de812c18cf504166e2d6e7?utm_campaign=1053&utm_source=git)** | Norwalk, CT | On Site | Apr 14 |
 | **[New York Post](http://nypost.com/)** | **[Editorial Page Intern](https://jobright.ai/jobs/info/69de7b7e36823d1b42581537?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Apr 14 |
 | **[Hearst Magazines](http://www.hearst.com/magazines)** | **[Intern - Car and Driver](https://jobright.ai/jobs/info/69c1b37e2c312363dcd4db24?utm_campaign=1053&utm_source=git)** | Ann Arbor, MI | On Site | Apr 14 |
 | **[New York Post](http://nypost.com/)** | **[Page Six Video Intern](https://jobright.ai/jobs/info/69de788518cf504166e2d49a?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Apr 14 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[NBC Bay Area - News Internship – Summer 2026](https://jobright.ai/jobs/info/69d8243cb67cec4f9b09ad60?utm_campaign=1053&utm_source=git)** | San Jose, CA | On Site | Apr 09 |
 | **[Government of Alberta](http://alberta.ca/)** | **[Correspondence Writer](https://jobright.ai/jobs/info/69d823d8b67cec4f9b09abc9?utm_campaign=1053&utm_source=git)** | Edmonton, AB | On Site | Apr 09 |
 | **[DreamWorks Animation](https://www.dreamworks.com)** | **[NBC Bay Area - Digital Internship – Summer 2026](https://jobright.ai/jobs/info/69d816d4869c7e25d85939dd?utm_campaign=1053&utm_source=git)** | 2450 N. First Street, San Jose, CALIFORNIA | On Site | Apr 09 |
-| ↳ | **[NBC Bay Area - News Internship – Summer 2026](https://jobright.ai/jobs/info/69d816c79f97a42dc9c1a399?utm_campaign=1053&utm_source=git)** | 2450 N. First Street, San Jose, CALIFORNIA | On Site | Apr 09 |
-| **[Columbus Blue Jackets](http://bluejackets.com)** | **[2026-27 Season Video Production Intern](https://jobright.ai/jobs/info/69d824f0f4ea471a51fe40b3?utm_campaign=1053&utm_source=git)** | Columbus, OH | On Site | Apr 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
