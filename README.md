@@ -72,7 +72,6 @@ For a complete list, click the following sortable link below:
 | **[Gaulin Media](http://www.gaulinmedia.com)** | **[Summer Intern Journalist (multiple)](https://jobright.ai/jobs/info/69dd7e7f738f2f099e8b6864?utm_campaign=1053&utm_source=git)** | Canada, NC | Remote | Apr 13 |
 | **[MATTE Projects](https://matteprojects.com/)** | **[Experiential Production Internship Summer 2026 (On-Site, New York)](https://jobright.ai/jobs/info/69ddab0e8182b27d34740e46?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Apr 13 |
 | **[Lone Star College](http://www.lonestar.edu)** | **[Part-Time Intern, Falcon Force Content Creator](https://jobright.ai/jobs/info/69dda2164d3bec4144b4ca99?utm_campaign=1053&utm_source=git)** | Cypress, TX | On Site | Apr 13 |
-| **[Kelly Tutors](www.kellytutors.com)** | **[Virtual Event Planning Internship (Flexible, 2-5 Hours/Week)](https://jobright.ai/jobs/info/69dd76d69f97a42dc9c36530?utm_campaign=1053&utm_source=git)** | Seattle, WA | Remote | Apr 13 |
 | **[Gregory Poole Equipment Company](http://www.gregorypoole.com)** | **[EQ Corporate Intern](https://jobright.ai/jobs/info/69dd6ff25356a60f40fee3da?utm_campaign=1053&utm_source=git)** | 4807 Beryl Rd, Raleigh, NC 27606, USA | On Site | Apr 13 |
 | **[Inspire](https://inspirebrands.com)** | **[Maverick Studios Production Support Intern - Summer 2026](https://jobright.ai/jobs/info/69dd61ae9f97a42dc9c35fcd?utm_campaign=1053&utm_source=git)** | Atlanta Support Center | On Site | Apr 13 |
 | **[CLD PR & Experiential Productions](https://cldstylehouse.com)** | **[Event Production Intern](https://jobright.ai/jobs/info/69dd8cdd61f6ed54321fdf83?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Apr 13 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[INFICON](http://www.inficon.com)** | **[Digital Content Creator Summer Intern](https://jobright.ai/jobs/info/69d809fcb67cec4f9b09a080?utm_campaign=1053&utm_source=git)** | East Syracuse, NY | On Site | Apr 09 |
 | **[TelevisaUnivision](https://www.corporate.televisaunivision.com)** | **[Intern, Programming Strategy](https://jobright.ai/jobs/info/699e0ce781476f6176b6f7ac?utm_campaign=1053&utm_source=git)** | Miami, FL | On Site | Apr 09 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Broadcasting Internship (NYSBA)](https://jobright.ai/jobs/info/6982675d0f6f7e7a2cdb920d?utm_campaign=1053&utm_source=git)** | Colchester, VT | On Site | Apr 09 |
+| ↳ | **[Digital Content Intern, Unpaid](https://jobright.ai/jobs/info/69bb08ca569738374140e490?utm_campaign=1053&utm_source=git)** | Shreveport, Louisiana, United States | On Site | Apr 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
