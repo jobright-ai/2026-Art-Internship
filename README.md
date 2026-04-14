@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Buffalo Sabres](http://sabres.com)** | **[Media & Content Writing Intern](https://jobright.ai/jobs/info/69dec110aba61f1417317958?utm_campaign=1053&utm_source=git)** | Buffalo, NY | On Site | Apr 14 |
+| ↳ | **[Video Intern](https://jobright.ai/jobs/info/69dec0fe18cf504166e2fb65?utm_campaign=1053&utm_source=git)** | Buffalo, NY | On Site | Apr 14 |
+| **[The University of Georgia](http://www.ai.uga.edu)** | **[Event Management and Facilities Intern](https://jobright.ai/jobs/info/69dec0eb36823d1b42583a5e?utm_campaign=1053&utm_source=git)** | Athens, GA | On Site | Apr 14 |
 | **[Buffalo Sabres](http://sabres.com)** | **[Video Intern](https://jobright.ai/jobs/info/69deb1a7433ac8430e0dbdc1?utm_campaign=1053&utm_source=git)** | Buffalo, New York, United States | On Site | Apr 14 |
 | ↳ | **[Media & Content Writing Intern](https://jobright.ai/jobs/info/69deb17daba61f1417317211?utm_campaign=1053&utm_source=git)** | Buffalo, New York, United States | On Site | Apr 14 |
 | **[The Washington Post](http://www.washingtonpost.com/)** | **[Newsroom Internship Program: Summer 2026](https://jobright.ai/jobs/info/69dea5d018cf504166e2eeac?utm_campaign=1053&utm_source=git)** | DC-Washington-TWP Headquarters | On Site | Apr 14 |
@@ -130,8 +133,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[LN Concerts, Production Intern](https://jobright.ai/jobs/info/69bdeede4828227293009d61?utm_campaign=1053&utm_source=git)** | San Francisco, CA | On Site | Apr 11 |
 | **[KCRA 3 & My58 Television](http://www.kcra.com)** | **[Intern](https://jobright.ai/jobs/info/69a0c5340836fe79d861c5c9?utm_campaign=1053&utm_source=git)** | Sacramento, CA | On Site | Apr 11 |
 | **[Sinclair Inc.](http://sbgi.net/)** | **[ARC News Intern (KSNV) - Summer 2026](https://jobright.ai/jobs/info/69bfd1ba79e36d3a847c711d?utm_campaign=1053&utm_source=git)** | Las Vegas, NV | On Site | Apr 11 |
-| ↳ | **[ARC News Intern (WHAM) - Summer 2026](https://jobright.ai/jobs/info/69be33a2482822729300eda4?utm_campaign=1053&utm_source=git)** | Rochester, NY | On Site | Apr 11 |
 | ↳ | **[News Intern (Summer 2026)](https://jobright.ai/jobs/info/69c918d51818a24cd84d9b34?utm_campaign=1053&utm_source=git)** | Portland, OR | On Site | Apr 11 |
+| ↳ | **[ARC News Intern (WHAM) - Summer 2026](https://jobright.ai/jobs/info/69be33a2482822729300eda4?utm_campaign=1053&utm_source=git)** | Rochester, NY | On Site | Apr 11 |
 | ↳ | **[News Intern (Summer 2026)](https://jobright.ai/jobs/info/69c90b351b5ad02887397c43?utm_campaign=1053&utm_source=git)** | Jefferson City, MO | On Site | Apr 11 |
 | ↳ | **[ARC News Intern (KOMO) - Summer 2026](https://jobright.ai/jobs/info/69be3392b106024562839a38?utm_campaign=1053&utm_source=git)** | Seattle, WA | On Site | Apr 11 |
 | **[Collab](https://collab.inc)** | **[YouTube Content Library & Asset Management Intern (Summer 2026)](https://jobright.ai/jobs/info/69da045d738f2f099e8a7757?utm_campaign=1053&utm_source=git)** | Santa Monica, CA | Remote | Apr 11 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[LN Concerts, Production Intern](https://jobright.ai/jobs/info/69bcee0b4828227293ff0306?utm_campaign=1053&utm_source=git)** | Cambridge, MA | On Site | Apr 10 |
 | **[Golden Hippo®](https://www.huntrealestate.com/)** | **[Post Production Coordinator Intern](https://jobright.ai/jobs/info/69b46c433b74eb1e2c81ad7d?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 10 |
 | **[Nashville Soccer Club](https://www.nashvillesc.com/)** | **[Video Analysis Intern (Summer 2026)- COLLEGE CREDIT ONLY](https://jobright.ai/jobs/info/69da2f4cf748bc5d08a516ac?utm_campaign=1053&utm_source=git)** | Nashville, TN | On Site | Apr 10 |
-| **[TikTok](https://www.tiktok.com)** | **[TikTok Short Drama Project Intern (TikTok-Short-Drama) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69684e2af25a38006696b2a4?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Apr 10 |
-| **[Waco Tribune-Herald](http://wacotrib.com)** | **[Theater Arts Technical Designer (Temporary)](https://jobright.ai/jobs/info/69da03afb67cec4f9b0a7957?utm_campaign=1053&utm_source=git)** | Fremont, CA | On Site | Apr 10 |
-| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Digital Content Intern](https://jobright.ai/jobs/info/69d85dcdf4ea471a51fe545b?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Apr 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
