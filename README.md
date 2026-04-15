@@ -61,7 +61,6 @@ For a complete list, click the following sortable link below:
 | **[Backlinkgen](https://backlinkgen.com)** | **[On line Content Writer Internship](https://jobright.ai/jobs/info/69df806e14bf245fc7a6c539?utm_campaign=1053&utm_source=git)** | Canada | Remote | Apr 15 |
 | **[Canyon Entertainment Group](https://canyonentertainmentgroup.com)** | **[Live Event Management Internship](https://jobright.ai/jobs/info/69df69d9e34484770f1a8c07?utm_campaign=1053&utm_source=git)** | Canada | Remote | Apr 15 |
 | **[Yamaha Corporation](https://www.yamaha.com)** | **[Drums and Percussion Intern](https://jobright.ai/jobs/info/69df24e718cf504166e32877?utm_campaign=1053&utm_source=git)** | Buena Park, CA | Hybrid | Apr 14 |
-| **[B6 Studios](www.b6studios.com)** | **[Editing Internship - Short Form Content (Remote)](https://jobright.ai/jobs/info/69df0e08aba61f1417319dcc?utm_campaign=1053&utm_source=git)** | United States | Remote | Apr 14 |
 | **[Surfline\Wavetrak, Inc.](http://www.surfline.com)** | **[Video Archive & Editing Intern](https://jobright.ai/jobs/info/69df01e318cf504166e31828?utm_campaign=1053&utm_source=git)** | San Diego, CA | Remote | Apr 14 |
 | **[Woodward Communications, Inc.](https://www.wcinet.com/)** | **[NEWSROOM FELLOW](https://jobright.ai/jobs/info/69def3c518cf504166e3113d?utm_campaign=1053&utm_source=git)** | Dubuque, IA | On Site | Apr 14 |
 | **[Yamaha Corporation](https://www.yamaha.com)** | **[Drums and Percussion Intern](https://jobright.ai/jobs/info/69dee76baba61f141731843f?utm_campaign=1053&utm_source=git)** | Buena Park, California, United States | Hybrid | Apr 14 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Collab](https://collab.inc)** | **[YouTube Content Library &amp; Asset Management Intern (Summer 2026)](https://jobright.ai/jobs/info/69d9adac869c7e25d859cb6d?utm_campaign=1053&utm_source=git)** | Santa Monica, US | Remote | Apr 10 |
 | **[KHAITE](https://khaite.com/)** | **[Creative Production Intern, Summer 2026](https://jobright.ai/jobs/info/69d9885a9f97a42dc9c220c0?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Apr 10 |
 | **[SESAC Music Group](https://www.sesacmusicgroup.com)** | **[Sync Intern- Runner Music (West Hollywood, CA)](https://jobright.ai/jobs/info/69d0c79454f00230c6d16385?utm_campaign=1053&utm_source=git)** | California, United States | Hybrid | Apr 10 |
+| **[Waterford.org](http://www.waterford.org)** | **[Summer Events Intern](https://jobright.ai/jobs/info/6969f8d4f25a38006698bcb1?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Apr 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
