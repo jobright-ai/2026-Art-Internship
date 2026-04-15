@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Youth Empowering Parents (YEP)](http://www.yepeducation.com)** | **[Social Media Videographer (Summer Internship)](https://jobright.ai/jobs/info/69dfe888aba61f141731e304?utm_campaign=1053&utm_source=git)** | Toronto, ON | On Site | Apr 15 |
 | **[The Upstate Sound Music Group 🏴☠️](http://theupstatesound.com)** | **[A&R Assistant Intern - Miami [Latin Ent. Division]](https://jobright.ai/jobs/info/69dfd8644920452a85dcfd63?utm_campaign=1053&utm_source=git)** | Nashville, TN | Remote | Apr 15 |
 | **[University of Notre Dame](http://mendoza.nd.edu)** | **[Content Specialist Intern](https://jobright.ai/jobs/info/69c3f2b133eecf3107940e19?utm_campaign=1053&utm_source=git)** | Notre Dame, IN | On Site | Apr 15 |
 | **[The Borgen Project](http://borgenproject.org)** | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/69dfc8d84920452a85dcf770?utm_campaign=1053&utm_source=git)** | Tacoma, WA | Remote | Apr 15 |
@@ -76,7 +77,6 @@ For a complete list, click the following sortable link below:
 | **[The University of Georgia](http://www.ai.uga.edu)** | **[Event Management and Facilities Intern](https://jobright.ai/jobs/info/69dec0eb36823d1b42583a5e?utm_campaign=1053&utm_source=git)** | Athens, GA | On Site | Apr 14 |
 | **[Buffalo Sabres](http://sabres.com)** | **[Video Intern](https://jobright.ai/jobs/info/69deb1a7433ac8430e0dbdc1?utm_campaign=1053&utm_source=git)** | Buffalo, New York, United States | On Site | Apr 14 |
 | ↳ | **[Media & Content Writing Intern](https://jobright.ai/jobs/info/69deb17daba61f1417317211?utm_campaign=1053&utm_source=git)** | Buffalo, New York, United States | On Site | Apr 14 |
-| **[Sandhills Global Event Center](https://www.lancastereventcenter.org)** | **[Event Management & Guest Experience Intern](https://jobright.ai/jobs/info/69df0dede34484770f1a6e3f?utm_campaign=1053&utm_source=git)** | Lincoln, NE | On Site | Apr 14 |
 | **[Drum Corps International](https://www.dci.org/static/about-drum-corps-international)** | **[Video Production Intern/Seasonal](https://jobright.ai/jobs/info/69dea0b9aba61f14173168ce?utm_campaign=1053&utm_source=git)** | Indianapolis, IN | On Site | Apr 14 |
 | **[Everyday Health Group](https://www.everydayhealthgroup.com)** | **[Video Team Intern](https://jobright.ai/jobs/info/69de92e7aba61f14173162fb?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Apr 14 |
 | **[Pirq](http://www.drinkpirq.com)** | **[TikTok Content Creator Intern](https://jobright.ai/jobs/info/69de92b1aba61f1417316266?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | Apr 14 |
@@ -103,7 +103,6 @@ For a complete list, click the following sortable link below:
 | **[GRAMMY Museum](https://grammymuseum.org/)** | **[Intern, Digital Content](https://jobright.ai/jobs/info/69ddaa7fe34484770f19e67e?utm_campaign=1053&utm_source=git)** | Santa Monica, CA | On Site | Apr 13 |
 | **[Publicis Groupe ANZ](http://www.publicisgroupeanz.com)** | **[Intern - Content Production](https://jobright.ai/jobs/info/69dda36c433ac8430e0d5bcb?utm_campaign=1053&utm_source=git)** | El Segundo, CA, US | Hybrid | Apr 13 |
 | ↳ | **[Intern - Content Production](https://jobright.ai/jobs/info/69dda3495913ad339813978d?utm_campaign=1053&utm_source=git)** | US-CA-El Segundo | Hybrid | Apr 13 |
-| **[Morgridge Institute for Research](https://morgridge.org)** | **[Student Science Writer](https://jobright.ai/jobs/info/69dda2c08182b27d347406af?utm_campaign=1053&utm_source=git)** | Madison, WI | On Site | Apr 13 |
 | **[Gaulin Media](http://www.gaulinmedia.com)** | **[Summer Intern Journalist (multiple)](https://jobright.ai/jobs/info/69dd7e7f738f2f099e8b6864?utm_campaign=1053&utm_source=git)** | Canada, NC | Remote | Apr 13 |
 | **[MATTE Projects](https://matteprojects.com/)** | **[Experiential Production Internship Summer 2026 (On-Site, New York)](https://jobright.ai/jobs/info/69ddab0e8182b27d34740e46?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Apr 13 |
 | **[Lone Star College](http://www.lonestar.edu)** | **[Part-Time Intern, Falcon Force Content Creator](https://jobright.ai/jobs/info/69dda2164d3bec4144b4ca99?utm_campaign=1053&utm_source=git)** | Cypress, TX | On Site | Apr 13 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[FC Dallas](http://www.fcdallas.com)** | **[2026 Summer Internship / Soccer Celebration](https://jobright.ai/jobs/info/69d9a4755356a60f40fdb4cf?utm_campaign=1053&utm_source=git)** | Frisco, Texas | On Site | Apr 10 |
 | **[Collab](https://collab.inc)** | **[YouTube Content Library &amp; Asset Management Intern (Summer 2026)](https://jobright.ai/jobs/info/69d9adac869c7e25d859cb6d?utm_campaign=1053&utm_source=git)** | Santa Monica, US | Remote | Apr 10 |
 | **[KHAITE](https://khaite.com/)** | **[Creative Production Intern, Summer 2026](https://jobright.ai/jobs/info/69d9885a9f97a42dc9c220c0?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Apr 10 |
+| **[SESAC Music Group](https://www.sesacmusicgroup.com)** | **[Sync Intern- Runner Music (West Hollywood, CA)](https://jobright.ai/jobs/info/69d0c79454f00230c6d16385?utm_campaign=1053&utm_source=git)** | California, United States | Hybrid | Apr 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
