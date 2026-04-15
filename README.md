@@ -57,7 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Hirose Electric Americas](https://www.hirose.com/us/)** | **[Video Specialist Intern](https://jobright.ai/jobs/info/69dfcbbdaba61f141731d8dc?utm_campaign=1053&utm_source=git)** | Downers Grove, IL | On Site | Apr 15 |
+| **[The Upstate Sound Music Group 🏴☠️](http://theupstatesound.com)** | **[A&R Assistant Intern - Miami [Latin Ent. Division]](https://jobright.ai/jobs/info/69dfd8644920452a85dcfd63?utm_campaign=1053&utm_source=git)** | Nashville, TN | Remote | Apr 15 |
 | **[University of Notre Dame](http://mendoza.nd.edu)** | **[Content Specialist Intern](https://jobright.ai/jobs/info/69c3f2b133eecf3107940e19?utm_campaign=1053&utm_source=git)** | Notre Dame, IN | On Site | Apr 15 |
 | **[The Borgen Project](http://borgenproject.org)** | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/69dfc8d84920452a85dcf770?utm_campaign=1053&utm_source=git)** | Tacoma, WA | Remote | Apr 15 |
 | **[Skin Anarchy The Podcast](https://linktr.ee/Skincareanarchy)** | **[Multi-Media Podcast Editing Intern](https://jobright.ai/jobs/info/69dfb32d5913ad339814513e?utm_campaign=1053&utm_source=git)** | United States | Remote | Apr 15 |
@@ -122,7 +122,6 @@ For a complete list, click the following sortable link below:
 | **[Brilliant Agency](https://brilliantprandmarketing.com)** | **[Social Media Video Editing Internship / Fall 2026](https://jobright.ai/jobs/info/69ced97b891d7b11cfccd744?utm_campaign=1053&utm_source=git)** | Houston, TX | Remote | Apr 13 |
 | **[National Education Association](http://www.nea.org)** | **[NEA Editorial Intern, Center for Communications (Spring/Summer 2026)](https://jobright.ai/jobs/info/69d5e037366bb95ba5549935?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Apr 13 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Digital Content Intern](https://jobright.ai/jobs/info/698cc1cb78b4502f12a339b1?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Apr 13 |
-| **[Los Angeles Rams](https://www.therams.com/)** | **[Seasonal Writing Intern](https://jobright.ai/jobs/info/69dfca244920452a85dcf81e?utm_campaign=1053&utm_source=git)** | Woodland Hills, CA | On Site | Apr 13 |
 | **[Children's Wisconsin](https://childrenswi.org/)** | **[Events Intern](https://jobright.ai/jobs/info/69d841fe9f97a42dc9c1b535?utm_campaign=1053&utm_source=git)** | Milwaukee, WI | On Site | Apr 12 |
 | **[Eurasia Group](http://www.eurasiagroup.net/)** | **[Summer Internship, GZERO Media (Newsletter)](https://jobright.ai/jobs/info/69dc566f9f97a42dc9c304f4?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Apr 12 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[NewsNation News Internship Summer 2026 (New York)](https://jobright.ai/jobs/info/69a26b500da45516f16bb2cd?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Apr 12 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Fox Television Stations](https://www.foxcorporation.com/businesses/fox-television-stations/)** | **[Intern](https://jobright.ai/jobs/info/69d9ae6b9f97a42dc9c2374b?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Apr 10 |
 | **[FC Dallas](http://www.fcdallas.com)** | **[2026 Summer Internship / Soccer Celebration](https://jobright.ai/jobs/info/69d9a4755356a60f40fdb4cf?utm_campaign=1053&utm_source=git)** | Frisco, Texas | On Site | Apr 10 |
 | **[Collab](https://collab.inc)** | **[YouTube Content Library &amp; Asset Management Intern (Summer 2026)](https://jobright.ai/jobs/info/69d9adac869c7e25d859cb6d?utm_campaign=1053&utm_source=git)** | Santa Monica, US | Remote | Apr 10 |
+| **[KHAITE](https://khaite.com/)** | **[Creative Production Intern, Summer 2026](https://jobright.ai/jobs/info/69d9885a9f97a42dc9c220c0?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Apr 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
