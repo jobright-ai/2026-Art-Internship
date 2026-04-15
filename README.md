@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[B6 Studios](www.b6studios.com)** | **[Editing Internship - Short Form Content (Remote)](https://jobright.ai/jobs/info/69df0e08aba61f1417319dcc?utm_campaign=1053&utm_source=git)** | United States | Remote | Apr 14 |
 | **[Surfline\Wavetrak, Inc.](http://www.surfline.com)** | **[Video Archive & Editing Intern](https://jobright.ai/jobs/info/69df01e318cf504166e31828?utm_campaign=1053&utm_source=git)** | San Diego, CA | Remote | Apr 14 |
 | **[Woodward Communications, Inc.](https://www.wcinet.com/)** | **[NEWSROOM FELLOW](https://jobright.ai/jobs/info/69def3c518cf504166e3113d?utm_campaign=1053&utm_source=git)** | Dubuque, IA | On Site | Apr 14 |
 | **[Yamaha Corporation](https://www.yamaha.com)** | **[Drums and Percussion Intern](https://jobright.ai/jobs/info/69dee76baba61f141731843f?utm_campaign=1053&utm_source=git)** | Buena Park, California, United States | Hybrid | Apr 14 |
@@ -68,6 +69,7 @@ For a complete list, click the following sortable link below:
 | **[The University of Georgia](http://www.ai.uga.edu)** | **[Event Management and Facilities Intern](https://jobright.ai/jobs/info/69dec0eb36823d1b42583a5e?utm_campaign=1053&utm_source=git)** | Athens, GA | On Site | Apr 14 |
 | **[Buffalo Sabres](http://sabres.com)** | **[Video Intern](https://jobright.ai/jobs/info/69deb1a7433ac8430e0dbdc1?utm_campaign=1053&utm_source=git)** | Buffalo, New York, United States | On Site | Apr 14 |
 | ↳ | **[Media & Content Writing Intern](https://jobright.ai/jobs/info/69deb17daba61f1417317211?utm_campaign=1053&utm_source=git)** | Buffalo, New York, United States | On Site | Apr 14 |
+| **[Sandhills Global Event Center](https://www.lancastereventcenter.org)** | **[Event Management & Guest Experience Intern](https://jobright.ai/jobs/info/69df0dede34484770f1a6e3f?utm_campaign=1053&utm_source=git)** | Lincoln, NE | On Site | Apr 14 |
 | **[Drum Corps International](https://www.dci.org/static/about-drum-corps-international)** | **[Video Production Intern/Seasonal](https://jobright.ai/jobs/info/69dea0b9aba61f14173168ce?utm_campaign=1053&utm_source=git)** | Indianapolis, IN | On Site | Apr 14 |
 | **[Everyday Health Group](https://www.everydayhealthgroup.com)** | **[Video Team Intern](https://jobright.ai/jobs/info/69de92e7aba61f14173162fb?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Apr 14 |
 | **[Pirq](http://www.drinkpirq.com)** | **[TikTok Content Creator Intern](https://jobright.ai/jobs/info/69de92b1aba61f1417316266?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | Apr 14 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Temple Square Hospitality Corporation](http://templesquarehospitality.com)** | **[Video Products Intern](https://jobright.ai/jobs/info/69d9369db67cec4f9b0a082d?utm_campaign=1053&utm_source=git)** | SLC Triad Center | On Site | Apr 10 |
 | **[Waterford.org](http://www.waterford.org)** | **[Summer Events Intern](https://jobright.ai/jobs/info/6969f8d4f25a38006698bcb1?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Apr 10 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[LN Concerts, Booking Intern](https://jobright.ai/jobs/info/69bd9e88b106024562828c83?utm_campaign=1053&utm_source=git)** | Beverly Hills, CA | On Site | Apr 10 |
-| ↳ | **[LN Concerts, Booking Intern](https://jobright.ai/jobs/info/69bcedef4828227293ff02e1?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | Apr 10 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[FX Creative and Cultural Diversity Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69d8f0de738f2f099e89f307?utm_campaign=1053&utm_source=git)** | Burbank, CA | On Site | Apr 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
