@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Kennywood Park](https://www.kennywood.com/)** | **[Adventureland Park - Food & Beverage Intern - Special Events](https://jobright.ai/jobs/info/69e07afa9564e855a25ddc90?utm_campaign=1053&utm_source=git)** | Altoona, IA | On Site | Apr 15 |
 | **[Tykoon Agency](http://www.tykoonmp.com)** | **[Content Producer Intern](https://jobright.ai/jobs/info/69e059facf5a9e0c33c85de2?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Apr 15 |
 | **[Fox Television Stations](https://www.foxcorporation.com/businesses/fox-television-stations/)** | **[Intern](https://jobright.ai/jobs/info/69e044fee34484770f1ad6f2?utm_campaign=1053&utm_source=git)** | Seattle, WA | On Site | Apr 15 |
 | **[Word on Fire Catholic Ministries](http://www.WordOnFire.org)** | **[Production Intern](https://jobright.ai/jobs/info/69e07403cf5a9e0c33c86a1c?utm_campaign=1053&utm_source=git)** | Rochester, MN | On Site | Apr 15 |
@@ -74,8 +75,8 @@ For a complete list, click the following sortable link below:
 | **[Fox Corporation](https://www.foxcorporation.com/)** | **[Intern](https://jobright.ai/jobs/info/69e0105f14bf245fc7a6fb55?utm_campaign=1053&utm_source=git)** | Seattle, Washington, USA | On Site | Apr 15 |
 | **[AEG](http://www.aegworldwide.com)** | **[Summer Intern, Broadcast Graphics Editor - Dignity Health Sports Park](https://jobright.ai/jobs/info/69e036145913ad339814873e?utm_campaign=1053&utm_source=git)** | Carson, CA | On Site | Apr 15 |
 | **[Social View Agency](https://www.linkedin.com/company/81888485)** | **[Content Creator Intern](https://jobright.ai/jobs/info/69e0097a5913ad339814783e?utm_campaign=1053&utm_source=git)** | Naperville, IL | On Site | Apr 15 |
-| **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69dff76faba61f141731eb71?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | Apr 15 |
-| ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69dff76faba61f141731eb74?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Apr 15 |
+| **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69dff76faba61f141731eb74?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Apr 15 |
+| ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69dff76faba61f141731eb71?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | Apr 15 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Walt Disney Alternative Studio Production & Post Production Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69dff736aba61f141731eb4d?utm_campaign=1053&utm_source=git)** | Burbank, CA, USA | Hybrid | Apr 15 |
 | **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69dff7235913ad3398147044?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Apr 15 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69dff6fe4920452a85dd0bb2?utm_campaign=1053&utm_source=git)** | Wichita, KS | On Site | Apr 15 |
@@ -85,9 +86,9 @@ For a complete list, click the following sortable link below:
 | **[Complex NTWRK](https://www.complex.com)** | **[Studio Operations Intern- College Credit](https://jobright.ai/jobs/info/69dff633433ac8430e0e3735?utm_campaign=1053&utm_source=git)** | New York, United States | On Site | Apr 15 |
 | **[Youth Empowering Parents (YEP)](http://www.yepeducation.com)** | **[Social Media Videographer (Summer Internship)](https://jobright.ai/jobs/info/69dfe888aba61f141731e304?utm_campaign=1053&utm_source=git)** | Toronto, ON | On Site | Apr 15 |
 | **[The Upstate Sound Music Group 🏴☠️](http://theupstatesound.com)** | **[A&R Assistant Intern - Miami [Latin Ent. Division]](https://jobright.ai/jobs/info/69dfd8644920452a85dcfd63?utm_campaign=1053&utm_source=git)** | Nashville, TN | Remote | Apr 15 |
+| **[Hirose Electric Americas](https://www.hirose.com/us/)** | **[Video Specialist Intern](https://jobright.ai/jobs/info/69e079b7b20fd532b4ae1d13?utm_campaign=1053&utm_source=git)** | Downers Grove, IL | On Site | Apr 15 |
 | **[University of Notre Dame](http://mendoza.nd.edu)** | **[Content Specialist Intern](https://jobright.ai/jobs/info/69c3f2b133eecf3107940e19?utm_campaign=1053&utm_source=git)** | Notre Dame, IN | On Site | Apr 15 |
 | **[The Borgen Project](http://borgenproject.org)** | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/69dfc8d84920452a85dcf770?utm_campaign=1053&utm_source=git)** | Tacoma, WA | Remote | Apr 15 |
-| **[Skin Anarchy The Podcast](https://linktr.ee/Skincareanarchy)** | **[Multi-Media Podcast Editing Intern](https://jobright.ai/jobs/info/69dfb32d5913ad339814513e?utm_campaign=1053&utm_source=git)** | United States | Remote | Apr 15 |
 | **[Tribuno del Pueblo](https://tribunodelpueblo.org/home/)** | **[Summer Intern](https://jobright.ai/jobs/info/69dfab32e34484770f1a9ab1?utm_campaign=1053&utm_source=git)** | United States | Remote | Apr 15 |
 | **[Atomic](https://atomic.vc)** | **[Summer AI Content & Video Intern](https://jobright.ai/jobs/info/69dfc31caba61f141731d4ca?utm_campaign=1053&utm_source=git)** | Miami-FTL Area | On Site | Apr 15 |
 | **[WVTM 13](https://www.wvtm13.com)** | **[Creative Services Intern](https://jobright.ai/jobs/info/69c2d80194007a2195dedb1a?utm_campaign=1053&utm_source=git)** | Birmingham, AL | On Site | Apr 15 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[City of Lancaster](https://www.cityoflancasterca.org)** | **[Intern - Special Events](https://jobright.ai/jobs/info/69db1aef9f97a42dc9c2d0a1?utm_campaign=1053&utm_source=git)** | Lancaster, PA | On Site | Apr 11 |
 | **[Jomboy Media](https://jomboymedia.com)** | **[Executive + Content Assistant Intern- Summer 2026](https://jobright.ai/jobs/info/69dacb31869c7e25d85a5144?utm_campaign=1053&utm_source=git)** | New York, New York, United States | Hybrid | Apr 11 |
 | **[Hackensack Meridian Health](https://www.hackensackmeridianhealth.org)** | **[Intern, Foundation Events](https://jobright.ai/jobs/info/69dac82d9f97a42dc9c2bfca?utm_campaign=1053&utm_source=git)** | Edison, NJ | On Site | Apr 11 |
-| **[AARP](http://www.aarp.org)** | **[Copy Editing Intern (Fall)](https://jobright.ai/jobs/info/69bddd8148282272930090ec?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Apr 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
