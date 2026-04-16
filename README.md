@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Kestra Medical Technologies, Inc.](https://kestramedical.com/)** | **[Videographer & Motion Design Intern](https://jobright.ai/jobs/info/69e148396c20aa11495405d8?utm_campaign=1053&utm_source=git)** | Kirkland, WA | On Site | Apr 16 |
+| **[Missouri Secretary of State](sos.mo.gov)** | **[Intern - Archives Division](https://jobright.ai/jobs/info/69e1479cff71e82d604b6271?utm_campaign=1053&utm_source=git)** | Jefferson City, MO | On Site | Apr 16 |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[NewsNation Summer Intern - Creative Producer (New York)](https://jobright.ai/jobs/info/69e1469ed612782e61147d88?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Apr 16 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[WPVI-TV (6abc) Multiplatform Programming Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69e12e6cd612782e61147431?utm_campaign=1053&utm_source=git)** | Philadelphia, PA, USA | On Site | Apr 16 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[NewsNation Summer Intern - Creative Producer (New York)](https://jobright.ai/jobs/info/69e12e69ff71e82d604b5838?utm_campaign=1053&utm_source=git)** | NY, New York | On Site | Apr 16 |
 | **[Golden Hippo®](https://www.huntrealestate.com/)** | **[Art Production Assistant Intern](https://jobright.ai/jobs/info/69c5d8bd1b5ad0288737a4eb?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 16 |
@@ -143,7 +146,6 @@ For a complete list, click the following sortable link below:
 | **[Gaulin Media](http://www.gaulinmedia.com)** | **[Summer Intern Journalist (multiple)](https://jobright.ai/jobs/info/69dd7e7f738f2f099e8b6864?utm_campaign=1053&utm_source=git)** | Canada, NC | Remote | Apr 13 |
 | **[MATTE Projects](https://matteprojects.com/)** | **[Experiential Production Internship Summer 2026 (On-Site, New York)](https://jobright.ai/jobs/info/69ddab0e8182b27d34740e46?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Apr 13 |
 | **[Lone Star College](http://www.lonestar.edu)** | **[Part-Time Intern, Falcon Force Content Creator](https://jobright.ai/jobs/info/69dda2164d3bec4144b4ca99?utm_campaign=1053&utm_source=git)** | Cypress, TX | On Site | Apr 13 |
-| **[Gregory Poole Equipment Company](http://www.gregorypoole.com)** | **[EQ Corporate Intern](https://jobright.ai/jobs/info/69dd6ff25356a60f40fee3da?utm_campaign=1053&utm_source=git)** | 4807 Beryl Rd, Raleigh, NC 27606, USA | On Site | Apr 13 |
 | **[Inspire](https://inspirebrands.com)** | **[Maverick Studios Production Support Intern - Summer 2026](https://jobright.ai/jobs/info/69dd61ae9f97a42dc9c35fcd?utm_campaign=1053&utm_source=git)** | Atlanta Support Center | On Site | Apr 13 |
 | **[CLD PR & Experiential Productions](https://cldstylehouse.com)** | **[Event Production Intern](https://jobright.ai/jobs/info/69dd8cdd61f6ed54321fdf83?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Apr 13 |
 | **[Heart of Los Angeles (HOLA)](https://www.heartofla.org)** | **[Visual Arts Department Intern](https://jobright.ai/jobs/info/69dd53ff5356a60f40fedaa4?utm_campaign=1053&utm_source=git)** | LOS ANGELES, CA 90057 | On Site | Apr 13 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[National Education Association](http://www.nea.org)** | **[NEA Editorial Intern, Center for Communications (Spring/Summer 2026)](https://jobright.ai/jobs/info/69d5e037366bb95ba5549935?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Apr 13 |
 | **[Children's Wisconsin](https://childrenswi.org/)** | **[Events Intern](https://jobright.ai/jobs/info/69d841fe9f97a42dc9c1b535?utm_campaign=1053&utm_source=git)** | Milwaukee, WI | On Site | Apr 12 |
 | **[Eurasia Group](http://www.eurasiagroup.net/)** | **[Summer Internship, GZERO Media (Newsletter)](https://jobright.ai/jobs/info/69dc566f9f97a42dc9c304f4?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Apr 12 |
-| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[NewsNation News Internship Summer 2026 (New York)](https://jobright.ai/jobs/info/69a26b500da45516f16bb2cd?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Apr 12 |
-| **[Precision AQ](http://www.precisionaq.com)** | **[Summer 2026 Internship - Medical Writing Intern](https://jobright.ai/jobs/info/69a224a4b600907a9628713e?utm_campaign=1053&utm_source=git)** | United States | Remote | Apr 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
