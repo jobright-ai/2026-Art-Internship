@@ -81,6 +81,7 @@ For a complete list, click the following sortable link below:
 | **[Tykoon Agency](http://www.tykoonmp.com)** | **[Content Producer Intern](https://jobright.ai/jobs/info/69e059facf5a9e0c33c85de2?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Apr 15 |
 | **[Fox Television Stations](https://www.foxcorporation.com/businesses/fox-television-stations/)** | **[Intern](https://jobright.ai/jobs/info/69e044fee34484770f1ad6f2?utm_campaign=1053&utm_source=git)** | Seattle, WA | On Site | Apr 15 |
 | **[Word on Fire Catholic Ministries](http://www.WordOnFire.org)** | **[Production Intern](https://jobright.ai/jobs/info/69e07403cf5a9e0c33c86a1c?utm_campaign=1053&utm_source=git)** | Rochester, MN | On Site | Apr 15 |
+| **[City of Seguin](https://www.seguintexas.gov)** | **[Internship (Golf)](https://jobright.ai/jobs/info/69e185aeacc736112f5c4050?utm_campaign=1053&utm_source=git)** | Seguin, TX | On Site | Apr 15 |
 | **[9fin](https://9fin.com)** | **[Distressed Debt Reporter - 3-6 month Internship](https://jobright.ai/jobs/info/69e02dc8aba61f1417320047?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Apr 15 |
 | ↳ | **[Distressed Debt Reporter - 3-6 month Internship](https://jobright.ai/jobs/info/69e02a884920452a85dd1e2e?utm_campaign=1053&utm_source=git)** | New York, United States | Hybrid | Apr 15 |
 | **[PUG.ai](https://www.pug.ai)** | **[Content Creator Intern Assistant (OnCamera)](https://jobright.ai/jobs/info/69e02a72e34484770f1acda2?utm_campaign=1053&utm_source=git)** | LA Metro Area | On Site | Apr 15 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Sodexo Live!](www.sodexolive.com)** | **[Intern ? Culinary @ Lucas Oil Stadium](https://jobright.ai/jobs/info/69dd52fcbc6f6622c9911947?utm_campaign=1053&utm_source=git)** | Indianapolis, IN | On Site | Apr 13 |
 | **[MATTE Projects](https://matteprojects.com/)** | **[Experiential Production Internship Summer 2026](https://jobright.ai/jobs/info/69dd3855f748bc5d08a5ec73?utm_campaign=1053&utm_source=git)** | New York, New York | On Site | Apr 13 |
 | **[Daktronics](http://www.daktronics.com/en-us)** | **[James Madison University Event Production Intern](https://jobright.ai/jobs/info/6959d946f1f8465b79f0377f?utm_campaign=1053&utm_source=git)** | Harrisonburg, VA | On Site | Apr 13 |
-| **[TGR](http://www.thegarnettereport.com)** | **[Spring/Summer Internship](https://jobright.ai/jobs/info/69dd1c76738f2f099e8b497b?utm_campaign=1053&utm_source=git)** | NYC Metro Area | On Site | Apr 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
