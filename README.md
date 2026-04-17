@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Invite Only Studios](http://www.inviteonly.studio)** | **[Videography Intern](https://jobright.ai/jobs/info/69e16ff66c20aa11495413ba?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Apr 16 |
 | **[SiriusXM](http://siriusxm.com)** | **[Summer Intern, Pandora Curation - Part-Time](https://jobright.ai/jobs/info/69e15e56ff71e82d604b688b?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Apr 16 |
 | **[Kestra Medical Technologies, Inc.](https://kestramedical.com/)** | **[Videographer & Motion Design Intern](https://jobright.ai/jobs/info/69e148396c20aa11495405d8?utm_campaign=1053&utm_source=git)** | Kirkland, WA | On Site | Apr 16 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[NewsNation Summer Intern - Creative Producer (New York)](https://jobright.ai/jobs/info/69e1469ed612782e61147d88?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Apr 16 |
@@ -83,6 +84,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Distressed Debt Reporter - 3-6 month Internship](https://jobright.ai/jobs/info/69e02a884920452a85dd1e2e?utm_campaign=1053&utm_source=git)** | New York, United States | Hybrid | Apr 15 |
 | **[PUG.ai](https://www.pug.ai)** | **[Content Creator Intern Assistant (OnCamera)](https://jobright.ai/jobs/info/69e02a72e34484770f1acda2?utm_campaign=1053&utm_source=git)** | LA Metro Area | On Site | Apr 15 |
 | **[The University of Georgia](http://www.ai.uga.edu)** | **[Staff Writer](https://jobright.ai/jobs/info/69e02a1514bf245fc7a701d4?utm_campaign=1053&utm_source=git)** | Athens, GA | On Site | Apr 15 |
+| **[CYVL](https://cyvl.com)** | **[Videography & Content Creation Intern](https://jobright.ai/jobs/info/69e16eb7fd1c0456f3fae4a6?utm_campaign=1053&utm_source=git)** | Somerville, Massachusetts | Hybrid | Apr 15 |
 | **[GRO](https://www.readysetgro.io/)** | **[Video Editing Internship](https://jobright.ai/jobs/info/69e0236de34484770f1acae0?utm_campaign=1053&utm_source=git)** | United States | Remote | Apr 15 |
 | **[Arukah Institute of Healing](http://www.arukahinstitute.org)** | **[Video Producer Intern (Seasonal)](https://jobright.ai/jobs/info/69e01eeee34484770f1aca30?utm_campaign=1053&utm_source=git)** | Princeton, IL | On Site | Apr 15 |
 | ↳ | **[Video Editor Intern (Seasonal)](https://jobright.ai/jobs/info/69e01eb84920452a85dd1adc?utm_campaign=1053&utm_source=git)** | Princeton, IL | On Site | Apr 15 |
@@ -91,8 +93,8 @@ For a complete list, click the following sortable link below:
 | **[Fox Corporation](https://www.foxcorporation.com/)** | **[Intern](https://jobright.ai/jobs/info/69e0105f14bf245fc7a6fb55?utm_campaign=1053&utm_source=git)** | Seattle, Washington, USA | On Site | Apr 15 |
 | **[AEG](http://www.aegworldwide.com)** | **[Summer Intern, Broadcast Graphics Editor - Dignity Health Sports Park](https://jobright.ai/jobs/info/69e036145913ad339814873e?utm_campaign=1053&utm_source=git)** | Carson, CA | On Site | Apr 15 |
 | **[Social View Agency](https://www.linkedin.com/company/81888485)** | **[Content Creator Intern](https://jobright.ai/jobs/info/69e0097a5913ad339814783e?utm_campaign=1053&utm_source=git)** | Naperville, IL | On Site | Apr 15 |
-| **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69dff76faba61f141731eb74?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Apr 15 |
-| ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69dff76faba61f141731eb71?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | Apr 15 |
+| **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69dff76faba61f141731eb71?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | Apr 15 |
+| ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69dff76faba61f141731eb74?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Apr 15 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Walt Disney Alternative Studio Production & Post Production Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69dff736aba61f141731eb4d?utm_campaign=1053&utm_source=git)** | Burbank, CA, USA | Hybrid | Apr 15 |
 | **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69dff7235913ad3398147044?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Apr 15 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69dff6fe4920452a85dd0bb2?utm_campaign=1053&utm_source=git)** | Wichita, KS | On Site | Apr 15 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Daktronics](http://www.daktronics.com/en-us)** | **[James Madison University Event Production Intern](https://jobright.ai/jobs/info/6959d946f1f8465b79f0377f?utm_campaign=1053&utm_source=git)** | Harrisonburg, VA | On Site | Apr 13 |
 | **[TGR](http://www.thegarnettereport.com)** | **[Spring/Summer Internship](https://jobright.ai/jobs/info/69dd1c76738f2f099e8b497b?utm_campaign=1053&utm_source=git)** | NYC Metro Area | On Site | Apr 13 |
 | **[Brilliant Agency](https://brilliantprandmarketing.com)** | **[Social Media Video Editing Internship / Fall 2026](https://jobright.ai/jobs/info/69ced97b891d7b11cfccd744?utm_campaign=1053&utm_source=git)** | Houston, TX | Remote | Apr 13 |
-| **[National Education Association](http://www.nea.org)** | **[NEA Editorial Intern, Center for Communications (Spring/Summer 2026)](https://jobright.ai/jobs/info/69d5e037366bb95ba5549935?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Apr 13 |
-| **[Children's Wisconsin](https://childrenswi.org/)** | **[Events Intern](https://jobright.ai/jobs/info/69d841fe9f97a42dc9c1b535?utm_campaign=1053&utm_source=git)** | Milwaukee, WI | On Site | Apr 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
