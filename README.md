@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Community Journals Media Group](http://communityjournals.com/)** | **[Internships at Community Journals](https://jobright.ai/jobs/info/69e1ff416c20aa11495466f5?utm_campaign=1053&utm_source=git)** | Greenville, SC | On Site | Apr 17 |
 | **[Sinclair Inc.](http://sbgi.net/)** | **[Intern - Studio Crew](https://jobright.ai/jobs/info/69e1d29dd612782e6114aa3a?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Apr 16 |
 | **[New York Post](http://nypost.com/)** | **[Editorial Page Intern](https://jobright.ai/jobs/info/69e1ac6facc736112f5c4c6f?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Apr 16 |
 | ↳ | **[Digital Production Intern](https://jobright.ai/jobs/info/69e1ac6facc736112f5c4c71?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Apr 16 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[News Intern](https://jobright.ai/jobs/info/69c29a9aec22f8310ab07b56?utm_campaign=1053&utm_source=git)** | Memphis, TN | On Site | Apr 14 |
 | **[University of Idaho](http://www.uidaho.edu/)** | **[Event Operations Coordinator](https://jobright.ai/jobs/info/69de3ac436823d1b425800d9?utm_campaign=1053&utm_source=git)** | Moscow, ID | On Site | Apr 14 |
 | **[Inspire](https://inspirebrands.com)** | **[Maverick Studios Production Support Intern - Summer 2026](https://jobright.ai/jobs/info/69ddfc5018cf504166e2b7a1?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Apr 14 |
-| **[Goddard Riverside](https://goddard.org)** | **[Archive Summer Intern](https://jobright.ai/jobs/info/69dddc1fe34484770f19fb6b?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Apr 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
