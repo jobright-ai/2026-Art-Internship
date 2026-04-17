@@ -57,11 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Oxford Instruments plc](https://www.oxinst.com/)** | **[Events & Exhibitions Specialist](https://jobright.ai/jobs/info/69e2aad52f28653593077799?utm_campaign=1053&utm_source=git)** | Concord, MA | On Site | Apr 17 |
 | **[Penguin Random House](https://www.penguinrandomhouse.com/)** | **[Assistant Editor, Inklore - (Open to remote)](https://jobright.ai/jobs/info/69e1c2676c20aa1149542d64?utm_campaign=1053&utm_source=git)** | New York, United States | Remote | Apr 17 |
 | **[Food Bank For NYC](http://www.foodbanknyc.org)** | **[Visual Storytelling Production Intern](https://jobright.ai/jobs/info/69e28de9fcfcbd43860a3673?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Apr 17 |
 | **[Twilio](https://www.twilio.com/)** | **[Video Producer Intern](https://jobright.ai/jobs/info/69c5aaeeaa9a29199e808a68?utm_campaign=1053&utm_source=git)** | United States | Remote | Apr 17 |
 | **[HIWIN Corporation](http://www.hiwin.com/)** | **[Video Production Intern (High School-level)- Summer 2026](https://jobright.ai/jobs/info/69e27911fcfcbd43860a3121?utm_campaign=1053&utm_source=git)** | Huntley, IL | On Site | Apr 17 |
-| **[Skin Anarchy The Podcast](https://linktr.ee/Skincareanarchy)** | **[Journalism & Editorial Intern](https://jobright.ai/jobs/info/69e2a2f82f28653593077612?utm_campaign=1053&utm_source=git)** | United States | Remote | Apr 17 |
 | **[Mythical](https://www.mythical.com/)** | **[2026 Post-Production Intern](https://jobright.ai/jobs/info/69e28e36be46fa3a4ef57b00?utm_campaign=1053&utm_source=git)** | Burbank, CA | On Site | Apr 17 |
 | ↳ | **[2026 Production Intern](https://jobright.ai/jobs/info/69e2891f5c44d4710fe259ab?utm_campaign=1053&utm_source=git)** | Burbank, CA | On Site | Apr 17 |
 | **[Capitol Broadcasting Company](http://www.capitolbroadcasting.com)** | **[Production & Game Entertainment Intern](https://jobright.ai/jobs/info/69e271e23ce36005badbe31c?utm_campaign=1053&utm_source=git)** | Triangle Area | On Site | Apr 17 |
@@ -76,8 +76,8 @@ For a complete list, click the following sortable link below:
 | **[Sinclair Inc.](http://sbgi.net/)** | **[News Intern](https://jobright.ai/jobs/info/69c8a064aa3c2c1995e1f795?utm_campaign=1053&utm_source=git)** | Oklahoma City, OK | On Site | Apr 17 |
 | ↳ | **[News Intern](https://jobright.ai/jobs/info/69c650ab83ea553769fd97d1?utm_campaign=1053&utm_source=git)** | Steubenville, OH | On Site | Apr 17 |
 | **[Sinclair Inc.](http://sbgi.net/)** | **[Intern - Studio Crew](https://jobright.ai/jobs/info/69e1d29dd612782e6114aa3a?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Apr 16 |
-| **[New York Post](http://nypost.com/)** | **[Digital Production Intern](https://jobright.ai/jobs/info/69e1ac6facc736112f5c4c71?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Apr 16 |
-| ↳ | **[Editorial Page Intern](https://jobright.ai/jobs/info/69e1ac6facc736112f5c4c6f?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Apr 16 |
+| **[New York Post](http://nypost.com/)** | **[Editorial Page Intern](https://jobright.ai/jobs/info/69e1ac6facc736112f5c4c6f?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Apr 16 |
+| ↳ | **[Digital Production Intern](https://jobright.ai/jobs/info/69e1ac6facc736112f5c4c71?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Apr 16 |
 | ↳ | **[News Reporting Intern](https://jobright.ai/jobs/info/69e1aafd6c20aa114954247f?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Apr 16 |
 | ↳ | **[Sports Video Production Intern](https://jobright.ai/jobs/info/69e1aaa6ff71e82d604b80da?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Apr 16 |
 | ↳ | **[DC News Reporting Intern](https://jobright.ai/jobs/info/69e1a9ce40a62c1fa93b983c?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Apr 16 |
@@ -88,6 +88,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Lifestyle Intern](https://jobright.ai/jobs/info/69e1a9b5fd1c0456f3faf618?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Apr 16 |
 | ↳ | **[Decider Features Intern](https://jobright.ai/jobs/info/69e1a9acfd1c0456f3faf60d?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Apr 16 |
 | **[Columbia Edgewater Country Club](http://www.cecc.com)** | **[Banquet Events Internship](https://jobright.ai/jobs/info/69e1a5affd1c0456f3faf2ed?utm_campaign=1053&utm_source=git)** | Portland, OR | On Site | Apr 16 |
+| **[Ever](https://evercars.com)** | **[Video Producer Internship](https://jobright.ai/jobs/info/69e2b6373770bd5361cd9b83?utm_campaign=1053&utm_source=git)** | San Francisco, CA, US | On Site | Apr 16 |
 | **[CYVL](https://cyvl.com)** | **[Videography & Content Creation Intern](https://jobright.ai/jobs/info/69e1b4e3ff71e82d604b84ce?utm_campaign=1053&utm_source=git)** | Somerville, MA | Hybrid | Apr 16 |
 | **[Upper Echelon Products](https://upperechelonproducts.com/)** | **[TikTok Content Creation Intern](https://jobright.ai/jobs/info/69e17cc1acc736112f5c3e64?utm_campaign=1053&utm_source=git)** | Austin, Texas Metropolitan Area | On Site | Apr 16 |
 | **[Invite Only Studios](http://www.inviteonly.studio)** | **[Videography Intern](https://jobright.ai/jobs/info/69e16ff66c20aa11495413ba?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Apr 16 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Ambony](http://www.manofthehourmag.com/)** | **[Beauty & Grooming Editorial Intern](https://jobright.ai/jobs/info/69decd945913ad3398140333?utm_campaign=1053&utm_source=git)** | New York, NY | Remote | Apr 14 |
 | **[Cooperstown All Star Village](https://cooperstown.com/)** | **[Event and Experiences Internship](https://jobright.ai/jobs/info/69deca935913ad33981401be?utm_campaign=1053&utm_source=git)** | Oneonta, NY | On Site | Apr 14 |
 | **[The Ambony](http://www.manofthehourmag.com/)** | **[Beauty & Grooming Editorial Intern](https://jobright.ai/jobs/info/69deca765913ad339814018b?utm_campaign=1053&utm_source=git)** | 2 Astor Pl, New York, NY 10003, USA | Remote | Apr 14 |
-| **[Buffalo Sabres](http://sabres.com)** | **[Video Intern](https://jobright.ai/jobs/info/69dec0fe18cf504166e2fb65?utm_campaign=1053&utm_source=git)** | Buffalo, NY | On Site | Apr 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
