@@ -62,6 +62,7 @@ For a complete list, click the following sortable link below:
 | **[Oxford Instruments GmbH](http://oxinst.com)** | **[Events & Exhibitions Specialist](https://jobright.ai/jobs/info/69e2cdf0fcfcbd43860a4ac0?utm_campaign=1053&utm_source=git)** | Concord, MA | On Site | Apr 17 |
 | **[The University of Georgia](http://www.ai.uga.edu)** | **[Creative Video Intern](https://jobright.ai/jobs/info/69e2cdccbe46fa3a4ef58da9?utm_campaign=1053&utm_source=git)** | Athens, GA | On Site | Apr 17 |
 | **[Alaka`ina Foundation Family of Companies](https://www.alakainafoundation.com/)** | **[Part Time Writer - Intern](https://jobright.ai/jobs/info/69b045980b2db6275c03e142?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | Apr 17 |
+| **[Sentry](https://link.sentry.com/Sentry-HomePage)** | **[Brand Journalist Intern](https://jobright.ai/jobs/info/69e34e822f28653593079faa?utm_campaign=1053&utm_source=git)** | Stevens Point, WI | On Site | Apr 17 |
 | **[Wild Reply](https://wildreply.com/)** | **[Summer Internship - Producing](https://jobright.ai/jobs/info/69e2d6a2fcfcbd43860a4c92?utm_campaign=1053&utm_source=git)** | Richardson, TX | On Site | Apr 17 |
 | **[Oxford Instruments plc](https://www.oxinst.com/)** | **[Events & Exhibitions Specialist](https://jobright.ai/jobs/info/69e2aad52f28653593077799?utm_campaign=1053&utm_source=git)** | Concord, MA | On Site | Apr 17 |
 | **[Men In Blazers Media Network](https://meninblazers.com)** | **[Intern](https://jobright.ai/jobs/info/69e2dd205c44d4710fe273cf?utm_campaign=1053&utm_source=git)** | United States | Remote | Apr 17 |
@@ -71,6 +72,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 Multimedia Internship](https://jobright.ai/jobs/info/69e2c43abe46fa3a4ef58ac4?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Apr 17 |
 | **[Food Bank For NYC](http://www.foodbanknyc.org)** | **[Visual Storytelling Production Intern](https://jobright.ai/jobs/info/69e28de9fcfcbd43860a3673?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Apr 17 |
 | **[Twilio](https://www.twilio.com/)** | **[Video Producer Intern](https://jobright.ai/jobs/info/69c5aaeeaa9a29199e808a68?utm_campaign=1053&utm_source=git)** | United States | Remote | Apr 17 |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Intern, Sports](https://jobright.ai/jobs/info/69e34e343ce36005badc1741?utm_campaign=1053&utm_source=git)** | NY, New York | On Site | Apr 17 |
 | **[Mythical](https://www.mythical.com/)** | **[2026 Post-Production Intern](https://jobright.ai/jobs/info/69e28e36be46fa3a4ef57b00?utm_campaign=1053&utm_source=git)** | Burbank, CA | On Site | Apr 17 |
 | ↳ | **[2026 Production Intern](https://jobright.ai/jobs/info/69e2891f5c44d4710fe259ab?utm_campaign=1053&utm_source=git)** | Burbank, CA | On Site | Apr 17 |
 | **[Capitol Broadcasting Company](http://www.capitolbroadcasting.com)** | **[Production & Game Entertainment Intern](https://jobright.ai/jobs/info/69e271e23ce36005badbe31c?utm_campaign=1053&utm_source=git)** | Triangle Area | On Site | Apr 17 |
@@ -84,8 +86,8 @@ For a complete list, click the following sortable link below:
 | **[Sinclair Inc.](http://sbgi.net/)** | **[News Intern](https://jobright.ai/jobs/info/69c8a064aa3c2c1995e1f795?utm_campaign=1053&utm_source=git)** | Oklahoma City, OK | On Site | Apr 17 |
 | ↳ | **[News Intern](https://jobright.ai/jobs/info/69c650ab83ea553769fd97d1?utm_campaign=1053&utm_source=git)** | Steubenville, OH | On Site | Apr 17 |
 | **[Sinclair Inc.](http://sbgi.net/)** | **[Intern - Studio Crew](https://jobright.ai/jobs/info/69e1d29dd612782e6114aa3a?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Apr 16 |
-| **[New York Post](http://nypost.com/)** | **[Editorial Page Intern](https://jobright.ai/jobs/info/69e1ac6facc736112f5c4c6f?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Apr 16 |
-| ↳ | **[Digital Production Intern](https://jobright.ai/jobs/info/69e1ac6facc736112f5c4c71?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Apr 16 |
+| **[New York Post](http://nypost.com/)** | **[Digital Production Intern](https://jobright.ai/jobs/info/69e1ac6facc736112f5c4c71?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Apr 16 |
+| ↳ | **[Editorial Page Intern](https://jobright.ai/jobs/info/69e1ac6facc736112f5c4c6f?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Apr 16 |
 | ↳ | **[News Reporting Intern](https://jobright.ai/jobs/info/69e1aafd6c20aa114954247f?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Apr 16 |
 | ↳ | **[Sports Video Production Intern](https://jobright.ai/jobs/info/69e1aaa6ff71e82d604b80da?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Apr 16 |
 | ↳ | **[DC News Reporting Intern](https://jobright.ai/jobs/info/69e1a9ce40a62c1fa93b983c?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Apr 16 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Unpaid Intern, Weather](https://jobright.ai/jobs/info/69c20a5e75f7ff1cd810a997?utm_campaign=1053&utm_source=git)** | Champaign, IL | On Site | Apr 15 |
 | **[Buffalo Sabres](http://sabres.com)** | **[Writing Intern](https://jobright.ai/jobs/info/69dec110aba61f1417317958?utm_campaign=1053&utm_source=git)** | Buffalo, NY | On Site | Apr 15 |
 | **[County of Riverside](https://rivco.org)** | **[Behavioral Health Friday Night Lights (Indio) - Paid Internship](https://jobright.ai/jobs/info/69e1f0256afe5d2fd108b4e9?utm_campaign=1053&utm_source=git)** | Riverside County, CA | On Site | Apr 15 |
-| **[Yamaha Corporation](https://www.yamaha.com)** | **[Drums and Percussion Intern](https://jobright.ai/jobs/info/69df24e718cf504166e32877?utm_campaign=1053&utm_source=git)** | Buena Park, CA | Hybrid | Apr 14 |
-| **[Surfline\Wavetrak, Inc.](http://www.surfline.com)** | **[Video Archive & Editing Intern](https://jobright.ai/jobs/info/69df01e318cf504166e31828?utm_campaign=1053&utm_source=git)** | San Diego, CA | Remote | Apr 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
