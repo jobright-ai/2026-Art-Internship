@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Wyanoke Group](http://www.wyanokegroup.com/)** | **[Healio News Editorial Intern - Summer 2026](https://jobright.ai/jobs/info/69c70af6aa3c2c1995e14a16?utm_campaign=1053&utm_source=git)** | Thorofare, NJ | Hybrid | Apr 18 |
 | **[The Shade Room](https://theshaderoom.com/)** | **[Summer 2026 Intern - Editorial](https://jobright.ai/jobs/info/69e2e158be46fa3a4ef59490?utm_campaign=1053&utm_source=git)** | LA Metro Area | Remote | Apr 17 |
 | **[Wild Reply](https://wildreply.com/)** | **[Summer Internship - Post-Production](https://jobright.ai/jobs/info/69e2d78abe46fa3a4ef59111?utm_campaign=1053&utm_source=git)** | Richardson, TX | On Site | Apr 17 |
 | **[Oxford Instruments GmbH](http://oxinst.com)** | **[Events & Exhibitions Specialist](https://jobright.ai/jobs/info/69e2cdf0fcfcbd43860a4ac0?utm_campaign=1053&utm_source=git)** | Concord, MA | On Site | Apr 17 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[WCIA 3](https://www.wcia.com/)** | **[Unpaid Intern, Sports](https://jobright.ai/jobs/info/69c28299a5b03d40c194e14d?utm_campaign=1053&utm_source=git)** | Champaign, IL | On Site | Apr 15 |
 | ↳ | **[Unpaid Intern, Weather](https://jobright.ai/jobs/info/69c20a5e75f7ff1cd810a997?utm_campaign=1053&utm_source=git)** | Champaign, IL | On Site | Apr 15 |
 | **[Buffalo Sabres](http://sabres.com)** | **[Writing Intern](https://jobright.ai/jobs/info/69dec110aba61f1417317958?utm_campaign=1053&utm_source=git)** | Buffalo, NY | On Site | Apr 15 |
-| **[County of Riverside](https://rivco.org)** | **[Behavioral Health Friday Night Lights (Indio) - Paid Internship](https://jobright.ai/jobs/info/69e1f0256afe5d2fd108b4e9?utm_campaign=1053&utm_source=git)** | Riverside County, CA | On Site | Apr 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
