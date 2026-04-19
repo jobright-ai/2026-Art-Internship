@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Kohler Hospitality](https://www.kohlerwisconsin.com/)** | **[Decor & Design Intern, Meeting and Events](https://jobright.ai/jobs/info/699fc5a5ce78e77b4fe5ac0f?utm_campaign=1053&utm_source=git)** | Kohler, WI | On Site | Apr 19 |
 | **[Their Story is Our Story](https://tsosrefugees.org/)** | **[Content Creator Internship Opportunity](https://jobright.ai/jobs/info/69e47ac2f8fa2f3ec329c31c?utm_campaign=1053&utm_source=git)** | United States | Remote | Apr 18 |
 | **[Toll Brothers](https://www.tollbrothers.com)** | **[2026 Internship Program: Assistant Framing Superintendent Intern](https://jobright.ai/jobs/info/69ab01e5142d5b4265fc427a?utm_campaign=1053&utm_source=git)** | Morrisville, PA | On Site | Apr 18 |
 | **[Social View Agency](https://www.linkedin.com/company/81888485)** | **[Content Creator Intern](https://jobright.ai/jobs/info/69e3c17c1ec29c5920b961d0?utm_campaign=1053&utm_source=git)** | Charleston, SC | On Site | Apr 18 |
@@ -92,12 +93,13 @@ For a complete list, click the following sortable link below:
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Intern - KOIN / KRCW - Portland, OR (Unpaid)](https://jobright.ai/jobs/info/69c67c251b5ad02887384c1a?utm_campaign=1053&utm_source=git)** | Portland, OR | On Site | Apr 17 |
 | ↳ | **[Media Production Intern (In- Person) Summer 2026.](https://jobright.ai/jobs/info/69a93b2a2615b60842abb55a?utm_campaign=1053&utm_source=git)** | Mobile, AL | On Site | Apr 17 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[WPVI-TV (6abc) Multiplatform Programming Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69e22860cda04a632939fc9b?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Apr 17 |
+| **[CBC Real Estate](https://www.cbcrealestate.com/)** | **[Production & Game Entertainment Intern](https://jobright.ai/jobs/info/69e4bc2a7820c036924cb39c?utm_campaign=1053&utm_source=git)** | Durham, NC, US | On Site | Apr 17 |
 | **[DDA](https://www.theddagroup.com)** | **[Internship - Domestic](https://jobright.ai/jobs/info/69e21d5d2ef4b138ddb25a3f?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Apr 17 |
 | **[Sinclair Inc.](http://sbgi.net/)** | **[News Intern](https://jobright.ai/jobs/info/69c8a064aa3c2c1995e1f795?utm_campaign=1053&utm_source=git)** | Oklahoma City, OK | On Site | Apr 17 |
 | ↳ | **[News Intern](https://jobright.ai/jobs/info/69c650ab83ea553769fd97d1?utm_campaign=1053&utm_source=git)** | Steubenville, OH | On Site | Apr 17 |
 | **[Sinclair Inc.](http://sbgi.net/)** | **[Intern - Studio Crew](https://jobright.ai/jobs/info/69e1d29dd612782e6114aa3a?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Apr 16 |
-| **[New York Post](http://nypost.com/)** | **[Editorial Page Intern](https://jobright.ai/jobs/info/69e1ac6facc736112f5c4c6f?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Apr 16 |
-| ↳ | **[Digital Production Intern](https://jobright.ai/jobs/info/69e1ac6facc736112f5c4c71?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Apr 16 |
+| **[New York Post](http://nypost.com/)** | **[Digital Production Intern](https://jobright.ai/jobs/info/69e1ac6facc736112f5c4c71?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Apr 16 |
+| ↳ | **[Editorial Page Intern](https://jobright.ai/jobs/info/69e1ac6facc736112f5c4c6f?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Apr 16 |
 | ↳ | **[News Reporting Intern](https://jobright.ai/jobs/info/69e1aafd6c20aa114954247f?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Apr 16 |
 | ↳ | **[Sports Video Production Intern](https://jobright.ai/jobs/info/69e1aaa6ff71e82d604b80da?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Apr 16 |
 | ↳ | **[DC News Reporting Intern](https://jobright.ai/jobs/info/69e1a9ce40a62c1fa93b983c?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Apr 16 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Upstate Sound Music Group 🏴‍☠️](http://theupstatesound.com)** | **[A&R Assistant Intern - Miami [Latin Ent. Division]](https://jobright.ai/jobs/info/69dfd8644920452a85dcfd63?utm_campaign=1053&utm_source=git)** | Nashville, TN | Remote | Apr 15 |
 | **[University of Notre Dame](http://mendoza.nd.edu)** | **[Content Specialist Intern](https://jobright.ai/jobs/info/69c3f2b133eecf3107940e19?utm_campaign=1053&utm_source=git)** | Notre Dame, IN | On Site | Apr 15 |
 | **[The Borgen Project](http://borgenproject.org)** | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/69dfc8d84920452a85dcf770?utm_campaign=1053&utm_source=git)** | Tacoma, WA | Remote | Apr 15 |
-| **[Tribuno del Pueblo](https://tribunodelpueblo.org/home/)** | **[Summer Intern](https://jobright.ai/jobs/info/69dfab32e34484770f1a9ab1?utm_campaign=1053&utm_source=git)** | United States | Remote | Apr 15 |
-| **[Atomic](https://atomic.vc)** | **[Summer AI Content & Video Intern](https://jobright.ai/jobs/info/69dfc31caba61f141731d4ca?utm_campaign=1053&utm_source=git)** | Miami-FTL Area | On Site | Apr 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
