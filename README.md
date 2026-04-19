@@ -67,6 +67,7 @@ For a complete list, click the following sortable link below:
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Paid Intern - News](https://jobright.ai/jobs/info/69aa34642ebd316bece1f7a9?utm_campaign=1053&utm_source=git)** | Joplin, MO | On Site | Apr 18 |
 | **[The Wyanoke Group](http://www.wyanokegroup.com/)** | **[Healio News Editorial Intern - Summer 2026](https://jobright.ai/jobs/info/69c70af6aa3c2c1995e14a16?utm_campaign=1053&utm_source=git)** | Thorofare, NJ | Hybrid | Apr 18 |
 | **[Mythical](https://www.mythical.com/)** | **[2026 Post Intern](https://jobright.ai/jobs/info/69e386231ec29c5920b95ac3?utm_campaign=1053&utm_source=git)** | Burbank, California, United States | On Site | Apr 17 |
+| **[GoodWork Environmental Jobs](http://www.GoodWork.ca)** | **[Summer job: FarmHub Production Assistant](https://jobright.ai/jobs/info/69e4fd463aa0c47964390914?utm_campaign=1053&utm_source=git)** | Esquimalt, British Columbia, Canada | On Site | Apr 17 |
 | **[The Shade Room](https://theshaderoom.com/)** | **[Summer 2026 Intern - Editorial](https://jobright.ai/jobs/info/69e2e158be46fa3a4ef59490?utm_campaign=1053&utm_source=git)** | LA Metro Area | Remote | Apr 17 |
 | **[Wild Reply](https://wildreply.com/)** | **[Summer Internship - Post-Production](https://jobright.ai/jobs/info/69e2d78abe46fa3a4ef59111?utm_campaign=1053&utm_source=git)** | Richardson, TX | On Site | Apr 17 |
 | **[Oxford Instruments GmbH](http://oxinst.com)** | **[Events & Exhibitions Specialist](https://jobright.ai/jobs/info/69e2cdf0fcfcbd43860a4ac0?utm_campaign=1053&utm_source=git)** | Concord, MA | On Site | Apr 17 |
@@ -99,8 +100,8 @@ For a complete list, click the following sortable link below:
 | **[Sinclair Inc.](http://sbgi.net/)** | **[News Intern](https://jobright.ai/jobs/info/69c8a064aa3c2c1995e1f795?utm_campaign=1053&utm_source=git)** | Oklahoma City, OK | On Site | Apr 17 |
 | ↳ | **[News Intern](https://jobright.ai/jobs/info/69c650ab83ea553769fd97d1?utm_campaign=1053&utm_source=git)** | Steubenville, OH | On Site | Apr 17 |
 | **[Sinclair Inc.](http://sbgi.net/)** | **[Intern - Studio Crew](https://jobright.ai/jobs/info/69e1d29dd612782e6114aa3a?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Apr 16 |
-| **[New York Post](http://nypost.com/)** | **[Editorial Page Intern](https://jobright.ai/jobs/info/69e1ac6facc736112f5c4c6f?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Apr 16 |
-| ↳ | **[Digital Production Intern](https://jobright.ai/jobs/info/69e1ac6facc736112f5c4c71?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Apr 16 |
+| **[New York Post](http://nypost.com/)** | **[Digital Production Intern](https://jobright.ai/jobs/info/69e1ac6facc736112f5c4c71?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Apr 16 |
+| ↳ | **[Editorial Page Intern](https://jobright.ai/jobs/info/69e1ac6facc736112f5c4c6f?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Apr 16 |
 | ↳ | **[News Reporting Intern](https://jobright.ai/jobs/info/69e1aafd6c20aa114954247f?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Apr 16 |
 | ↳ | **[Sports Video Production Intern](https://jobright.ai/jobs/info/69e1aaa6ff71e82d604b80da?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Apr 16 |
 | ↳ | **[DC News Reporting Intern](https://jobright.ai/jobs/info/69e1a9ce40a62c1fa93b983c?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Apr 16 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Woodwell Climate Research Center](https://www.woodwellclimate.org)** | **[Intern, Event Planning Coordinator](https://jobright.ai/jobs/info/69dff64114bf245fc7a6f01a?utm_campaign=1053&utm_source=git)** | Falmouth, MA | Hybrid | Apr 15 |
 | **[Complex NTWRK](https://www.complex.com)** | **[Studio Operations Intern- College Credit](https://jobright.ai/jobs/info/69dff633433ac8430e0e3735?utm_campaign=1053&utm_source=git)** | New York, United States | On Site | Apr 15 |
 | **[WCIA 3](https://www.wcia.com/)** | **[Unpaid News Intern](https://jobright.ai/jobs/info/69c2b65bec22f8310ab098bf?utm_campaign=1053&utm_source=git)** | Champaign, IL | On Site | Apr 15 |
-| **[The Upstate Sound Music Group 🏴‍☠️](http://theupstatesound.com)** | **[A&R Assistant Intern - Miami [Latin Ent. Division]](https://jobright.ai/jobs/info/69dfd8644920452a85dcfd63?utm_campaign=1053&utm_source=git)** | Nashville, TN | Remote | Apr 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
