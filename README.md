@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Stadium Insiders](www.thestadiuminsiders.com)** | **[Editorial/social media internship for sports/fan experience website](https://jobright.ai/jobs/info/69e53db77820c036924ccf86?utm_campaign=1053&utm_source=git)** | United States | Remote | Apr 19 |
 | **[Arcwize](https://www.arcwize.com)** | **[Editorial Writing Intern](https://jobright.ai/jobs/info/69e52b1b3aa0c47964390a86?utm_campaign=1053&utm_source=git)** | United States | Remote | Apr 19 |
 | **[ANFISA](https://anfisaskin.com/)** | **[Content Intern](https://jobright.ai/jobs/info/69e51aa29b6eb37e26f7cbca?utm_campaign=1053&utm_source=git)** | Spokane, WA | On Site | Apr 19 |
 | **[The Assembly DC](http://www.theassemblydc.com/)** | **[SUMMER INTERN: Event Planning & Experiential Production Intern](https://jobright.ai/jobs/info/69e51a827820c036924cce31?utm_campaign=1053&utm_source=git)** | DC-Baltimore Area | Hybrid | Apr 19 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Walt Disney Alternative Studio Production & Post Production Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69dff736aba61f141731eb4d?utm_campaign=1053&utm_source=git)** | Burbank, CA, USA | Hybrid | Apr 15 |
 | **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69dff7235913ad3398147044?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Apr 15 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69dff6fe4920452a85dd0bb2?utm_campaign=1053&utm_source=git)** | Wichita, KS | On Site | Apr 15 |
-| ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69dff6f74920452a85dd0bac?utm_campaign=1053&utm_source=git)** | Greenbrier River, WV | On Site | Apr 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
