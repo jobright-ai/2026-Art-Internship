@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Penguin Random House](https://www.penguinrandomhouse.com/)** | **[Assistant Editor, Inklore - (Open to remote)](https://jobright.ai/jobs/info/69e1c2676c20aa1149542d64?utm_campaign=1053&utm_source=git)** | New York, United States | Remote | Apr 20 |
+| **[Attain Sports](https://attainsports.com)** | **[Aberdeen IronBirds Summer Internship](https://jobright.ai/jobs/info/69e634349b6eb37e26f7e911?utm_campaign=1053&utm_source=git)** | Aberdeen, MD | On Site | Apr 20 |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Intern](https://jobright.ai/jobs/info/69ca87138fc6090c5d44e5e1?utm_campaign=1053&utm_source=git)** | Amarillo, TX | On Site | Apr 20 |
 | **[14.ai](https://14.ai)** | **[Chef Intern (Gummies Production) (now and Summer 2026, housing provided)](https://jobright.ai/jobs/info/69e55f539b6eb37e26f7d09c?utm_campaign=1053&utm_source=git)** | San Francisco, CA, US | On Site | Apr 19 |
 | **[The Stadium Insiders](www.thestadiuminsiders.com)** | **[Editorial/social media internship for sports/fan experience website](https://jobright.ai/jobs/info/69e53db77820c036924ccf86?utm_campaign=1053&utm_source=git)** | United States | Remote | Apr 19 |
 | **[ANFISA](https://anfisaskin.com/)** | **[Content Intern](https://jobright.ai/jobs/info/69e51aa29b6eb37e26f7cbca?utm_campaign=1053&utm_source=git)** | Spokane, WA | On Site | Apr 19 |
@@ -70,6 +71,7 @@ For a complete list, click the following sortable link below:
 | **[Colonial Williamsburg Foundation](https://www.colonialwilliamsburg.org/)** | **[Intern - Fife & Drum](https://jobright.ai/jobs/info/6789b384fade8859f716aab4?utm_campaign=1053&utm_source=git)** | Williamsburg, VA | On Site | Apr 18 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Paid Intern - News](https://jobright.ai/jobs/info/69aa34642ebd316bece1f7a9?utm_campaign=1053&utm_source=git)** | Joplin, MO | On Site | Apr 18 |
 | **[The Wyanoke Group](http://www.wyanokegroup.com/)** | **[Healio News Editorial Intern - Summer 2026](https://jobright.ai/jobs/info/69c70af6aa3c2c1995e14a16?utm_campaign=1053&utm_source=git)** | Thorofare, NJ | Hybrid | Apr 18 |
+| **[University of Southern California](http://www.usc.edu)** | **[Director of Game Day Presentation, USC Athletics](https://jobright.ai/jobs/info/69e6350b3cfd986aa6f84138?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Apr 18 |
 | **[Mythical](https://www.mythical.com/)** | **[2026 Post Intern](https://jobright.ai/jobs/info/69e386231ec29c5920b95ac3?utm_campaign=1053&utm_source=git)** | Burbank, California, United States | On Site | Apr 17 |
 | **[GoodWork Environmental Jobs](http://www.GoodWork.ca)** | **[Summer job: FarmHub Production Assistant](https://jobright.ai/jobs/info/69e4fd463aa0c47964390914?utm_campaign=1053&utm_source=git)** | Esquimalt, British Columbia, Canada | On Site | Apr 17 |
 | **[The Shade Room](https://theshaderoom.com/)** | **[Summer 2026 Intern - Editorial](https://jobright.ai/jobs/info/69e2e158be46fa3a4ef59490?utm_campaign=1053&utm_source=git)** | LA Metro Area | Remote | Apr 17 |
@@ -77,7 +79,6 @@ For a complete list, click the following sortable link below:
 | **[Oxford Instruments GmbH](http://oxinst.com)** | **[Events & Exhibitions Specialist](https://jobright.ai/jobs/info/69e2cdf0fcfcbd43860a4ac0?utm_campaign=1053&utm_source=git)** | Concord, MA | On Site | Apr 17 |
 | **[The University of Georgia](http://www.ai.uga.edu)** | **[Creative Video Intern](https://jobright.ai/jobs/info/69e2cdccbe46fa3a4ef58da9?utm_campaign=1053&utm_source=git)** | Athens, GA | On Site | Apr 17 |
 | **[Alaka`ina Foundation Family of Companies](https://www.alakainafoundation.com/)** | **[Part Time Writer - Intern](https://jobright.ai/jobs/info/69b045980b2db6275c03e142?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | Apr 17 |
-| **[Sentry](https://link.sentry.com/Sentry-HomePage)** | **[Brand Journalist Intern](https://jobright.ai/jobs/info/69e34e822f28653593079faa?utm_campaign=1053&utm_source=git)** | Stevens Point, WI | On Site | Apr 17 |
 | **[Wild Reply](https://wildreply.com/)** | **[Summer Internship - Producing](https://jobright.ai/jobs/info/69e2d6a2fcfcbd43860a4c92?utm_campaign=1053&utm_source=git)** | Richardson, TX | On Site | Apr 17 |
 | **[Oxford Instruments plc](https://www.oxinst.com/)** | **[Events & Exhibitions Specialist](https://jobright.ai/jobs/info/69e2aad52f28653593077799?utm_campaign=1053&utm_source=git)** | Concord, MA | On Site | Apr 17 |
 | **[Men In Blazers Media Network](https://meninblazers.com)** | **[Intern](https://jobright.ai/jobs/info/69e2dd205c44d4710fe273cf?utm_campaign=1053&utm_source=git)** | United States | Remote | Apr 17 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69dff6f74920452a85dd0bac?utm_campaign=1053&utm_source=git)** | Greenbrier River, WV | On Site | Apr 15 |
 | **[Complex NTWRK](https://www.complex.com)** | **[Editorial Creator Intern - College Credit](https://jobright.ai/jobs/info/69dff660e34484770f1abb45?utm_campaign=1053&utm_source=git)** | New York, United States | On Site | Apr 15 |
 | **[Woodwell Climate Research Center](https://www.woodwellclimate.org)** | **[Intern, Event Planning Coordinator](https://jobright.ai/jobs/info/69dff64114bf245fc7a6f01a?utm_campaign=1053&utm_source=git)** | Falmouth, MA | Hybrid | Apr 15 |
-| **[Complex NTWRK](https://www.complex.com)** | **[Studio Operations Intern- College Credit](https://jobright.ai/jobs/info/69dff633433ac8430e0e3735?utm_campaign=1053&utm_source=git)** | New York, United States | On Site | Apr 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
