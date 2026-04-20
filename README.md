@@ -57,8 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[NBCUniversal](https://www.nbcuniversal.com/)** | **[Telemundo 44 DC News, Digital, & Community Affairs Internships – Academic Year](https://jobright.ai/jobs/info/69e658059b6eb37e26f7fa97?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Apr 20 |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Disney Television Animation Creative Production Intern, Summer 2026](https://jobright.ai/jobs/info/69e664cce0cd471b2f1257e6?utm_campaign=1053&utm_source=git)** | Glendale, CA, USA | Hybrid | Apr 20 |
+| **[NBCUniversal](https://www.nbcuniversal.com/)** | **[NBC 4 New York Production & Editorial Internships – Academic Year](https://jobright.ai/jobs/info/69e65fa7f8fa2f3ec32a1671?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Apr 20 |
+| ↳ | **[NBC Sports Editorial Rotation Internship – Academic Year](https://jobright.ai/jobs/info/69e65f953cfd986aa6f854c3?utm_campaign=1053&utm_source=git)** | Stamford, CT | On Site | Apr 20 |
 | **[The Washington Post](http://www.washingtonpost.com/)** | **[Opinion Video Intern](https://jobright.ai/jobs/info/68caff29d905e25191d9e2c9?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Apr 20 |
+| **[NBCUniversal](https://www.nbcuniversal.com/)** | **[Telemundo 44 DC News, Digital, & Community Affairs Internships – Academic Year](https://jobright.ai/jobs/info/69e658059b6eb37e26f7fa97?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Apr 20 |
+| ↳ | **[Local Boston Production & Digital News Internships – Academic Year](https://jobright.ai/jobs/info/69e65f973cfd986aa6f854c8?utm_campaign=1053&utm_source=git)** | Needham, MA | On Site | Apr 20 |
 | **[Attain Sports](https://attainsports.com)** | **[Aberdeen IronBirds Summer Internship](https://jobright.ai/jobs/info/69e634349b6eb37e26f7e911?utm_campaign=1053&utm_source=git)** | Aberdeen, MD | On Site | Apr 20 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Intern](https://jobright.ai/jobs/info/69ca87138fc6090c5d44e5e1?utm_campaign=1053&utm_source=git)** | Amarillo, TX | On Site | Apr 20 |
 | **[14.ai](https://14.ai)** | **[Chef Intern (Gummies Production) (now and Summer 2026, housing provided)](https://jobright.ai/jobs/info/69e55f539b6eb37e26f7d09c?utm_campaign=1053&utm_source=git)** | San Francisco, CA, US | On Site | Apr 19 |
@@ -151,10 +155,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Video Editor Intern (Seasonal)](https://jobright.ai/jobs/info/69e01eb84920452a85dd1adc?utm_campaign=1053&utm_source=git)** | Princeton, IL | On Site | Apr 15 |
 | **[Reaction Tackle](https://www.reactiontackle.com/)** | **[TikTok Livestream Host](https://jobright.ai/jobs/info/69e014f44920452a85dd1895?utm_campaign=1053&utm_source=git)** | Big Bend, WI | On Site | Apr 15 |
 | **[Fox Corporation](https://www.foxcorporation.com/)** | **[Intern](https://jobright.ai/jobs/info/69e0105f14bf245fc7a6fb55?utm_campaign=1053&utm_source=git)** | Seattle, Washington, USA | On Site | Apr 15 |
-| **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69dff76faba61f141731eb71?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | Apr 15 |
-| ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69dff76faba61f141731eb74?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Apr 15 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Walt Disney Alternative Studio Production & Post Production Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69dff736aba61f141731eb4d?utm_campaign=1053&utm_source=git)** | Burbank, CA, USA | Hybrid | Apr 15 |
-| **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69dff7235913ad3398147044?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Apr 15 |
-| ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69dff6fe4920452a85dd0bb2?utm_campaign=1053&utm_source=git)** | Wichita, KS | On Site | Apr 15 |
-| ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69dff6f74920452a85dd0bac?utm_campaign=1053&utm_source=git)** | Greenbrier River, WV | On Site | Apr 15 |
+| **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69dff76faba61f141731eb74?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Apr 15 |
+| ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69dff76faba61f141731eb71?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | Apr 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
