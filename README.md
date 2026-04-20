@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Oshkosh Chamber](http://www.oshkoshchamber.com/)** | **[Concerts and Events Intern](https://jobright.ai/jobs/info/69e6ab653aa0c479643958b7?utm_campaign=1053&utm_source=git)** | Oshkosh, WI | On Site | Apr 20 |
+| **[World Vision Canada](https://www.worldvision.ca)** | **[Intern, Event Production](https://jobright.ai/jobs/info/69e6a478e0cd471b2f126e96?utm_campaign=1053&utm_source=git)** | Mississauga, Ontario, Canada | Hybrid | Apr 20 |
 | **[John Michael Kohler Arts Center](https://jmkac.org)** | **[Special Events Intern](https://jobright.ai/jobs/info/69e697cd7820c036924d1525?utm_campaign=1053&utm_source=git)** | Sheboygan, WI | On Site | Apr 20 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Disney Television Animation Development & Current Series Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69e68053f8fa2f3ec32a2400?utm_campaign=1053&utm_source=git)** | Glendale, CA, USA | On Site | Apr 20 |
 | **[Nomara USA](https://intermediumcorp.com)** | **[Internship-social media editor video EXPERIENCE](https://jobright.ai/jobs/info/69e673d73cfd986aa6f85cd5?utm_campaign=1053&utm_source=git)** | United States | Remote | Apr 20 |
@@ -64,6 +66,7 @@ For a complete list, click the following sortable link below:
 | **[NBCUniversal](https://www.nbcuniversal.com/)** | **[NBC 4 New York Production & Editorial Internships – Academic Year](https://jobright.ai/jobs/info/69e65fa7f8fa2f3ec32a1671?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Apr 20 |
 | ↳ | **[NBC Sports Editorial Rotation Internship – Academic Year](https://jobright.ai/jobs/info/69e65f953cfd986aa6f854c3?utm_campaign=1053&utm_source=git)** | Stamford, CT | On Site | Apr 20 |
 | **[The Washington Post](http://www.washingtonpost.com/)** | **[Opinion Video Intern](https://jobright.ai/jobs/info/68caff29d905e25191d9e2c9?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Apr 20 |
+| **[DreamWorks Animation](https://www.dreamworks.com)** | **[NBC Sports Editorial Rotation Internship – Academic Year](https://jobright.ai/jobs/info/69e6a1843cfd986aa6f86fab?utm_campaign=1053&utm_source=git)** | 1 Blachley Rd, Stamford, CT 06902, USA | On Site | Apr 20 |
 | **[NBCUniversal](https://www.nbcuniversal.com/)** | **[Telemundo 44 DC News, Digital, & Community Affairs Internships – Academic Year](https://jobright.ai/jobs/info/69e658059b6eb37e26f7fa97?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Apr 20 |
 | **[World Vision Canada](https://www.worldvision.ca)** | **[Intern, Event Production](https://jobright.ai/jobs/info/69e692a33cfd986aa6f869a8?utm_campaign=1053&utm_source=git)** | Mississauga, ON, Canada | Hybrid | Apr 20 |
 | **[NBCUniversal](https://www.nbcuniversal.com/)** | **[Local Boston Production & Digital News Internships – Academic Year](https://jobright.ai/jobs/info/69e65f973cfd986aa6f854c8?utm_campaign=1053&utm_source=git)** | Needham, MA | On Site | Apr 20 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69dff76faba61f141731eb74?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Apr 15 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Walt Disney Alternative Studio Production & Post Production Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69dff736aba61f141731eb4d?utm_campaign=1053&utm_source=git)** | Burbank, CA, USA | Hybrid | Apr 15 |
 | **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69dff7235913ad3398147044?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Apr 15 |
-| ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69dff6fe4920452a85dd0bb2?utm_campaign=1053&utm_source=git)** | Wichita, KS | On Site | Apr 15 |
-| ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69dff6f74920452a85dd0bac?utm_campaign=1053&utm_source=git)** | Greenbrier River, WV | On Site | Apr 15 |
-| **[Complex NTWRK](https://www.complex.com)** | **[Editorial Creator Intern - College Credit](https://jobright.ai/jobs/info/69dff660e34484770f1abb45?utm_campaign=1053&utm_source=git)** | New York, United States | On Site | Apr 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
