@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Intern - News Investigative Spring Internship](https://jobright.ai/jobs/info/6993ae47ce78e77b4fd78254?utm_campaign=1053&utm_source=git)** | MO-St. Louis;2250 Ball Drive (Tribune-KTVI/KPLR) | On Site | Apr 21 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Disney Television Animation Creative Production Intern, Summer 2026](https://jobright.ai/jobs/info/69e77a3ae0cd471b2f12bca2?utm_campaign=1053&utm_source=git)** | Glendale, CA | On Site | Apr 21 |
 | ↳ | **[Disney Television Animation Development & Current Series Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69e77a1f58811370cb11cd4b?utm_campaign=1053&utm_source=git)** | Glendale, CA | On Site | Apr 21 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Intern, News](https://jobright.ai/jobs/info/69c1c03879e36d3a847ecc2c?utm_campaign=1053&utm_source=git)** | IL, Champaign | On Site | Apr 21 |
@@ -110,7 +111,6 @@ For a complete list, click the following sortable link below:
 | **[Food Bank For NYC](http://www.foodbanknyc.org)** | **[Visual Storytelling Production Intern](https://jobright.ai/jobs/info/69e28de9fcfcbd43860a3673?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Apr 17 |
 | **[Twilio](https://www.twilio.com/)** | **[Video Producer Intern](https://jobright.ai/jobs/info/69c5aaeeaa9a29199e808a68?utm_campaign=1053&utm_source=git)** | United States | Remote | Apr 17 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Intern, Sports](https://jobright.ai/jobs/info/69e34e343ce36005badc1741?utm_campaign=1053&utm_source=git)** | NY, New York | On Site | Apr 17 |
-| **[Mythical](https://www.mythical.com/)** | **[2026 Production Intern](https://jobright.ai/jobs/info/69e3d8890ddab31db6f976cd?utm_campaign=1053&utm_source=git)** | Burbank, California, United States | On Site | Apr 17 |
 | **[Capitol Broadcasting Company](http://www.capitolbroadcasting.com)** | **[Production & Game Entertainment Intern](https://jobright.ai/jobs/info/69e271e23ce36005badbe31c?utm_campaign=1053&utm_source=git)** | Triangle Area | On Site | Apr 17 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Internship](https://jobright.ai/jobs/info/69c75068e565c26a70027c3c?utm_campaign=1053&utm_source=git)** | Savannah, GA | On Site | Apr 17 |
 | ↳ | **[Hello Iowa Intern (Unpaid)](https://jobright.ai/jobs/info/6938ede1b95c305f206e2e4b?utm_campaign=1053&utm_source=git)** | Des Moines, IA | On Site | Apr 17 |
