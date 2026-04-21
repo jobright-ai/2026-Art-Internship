@@ -76,7 +76,6 @@ For a complete list, click the following sortable link below:
 | **[NBCUniversal](https://www.nbcuniversal.com/)** | **[Local Boston Production & Digital News Internships – Academic Year](https://jobright.ai/jobs/info/69e65f973cfd986aa6f854c8?utm_campaign=1053&utm_source=git)** | Needham, MA | On Site | Apr 20 |
 | **[Attain Sports](https://attainsports.com)** | **[Aberdeen IronBirds Summer Internship](https://jobright.ai/jobs/info/69e634349b6eb37e26f7e911?utm_campaign=1053&utm_source=git)** | Aberdeen, MD | On Site | Apr 20 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Intern](https://jobright.ai/jobs/info/69ca87138fc6090c5d44e5e1?utm_campaign=1053&utm_source=git)** | Amarillo, TX | On Site | Apr 20 |
-| **[14.ai](https://14.ai)** | **[Chef Intern (Gummies Production) (now and Summer 2026, housing provided)](https://jobright.ai/jobs/info/69e55f539b6eb37e26f7d09c?utm_campaign=1053&utm_source=git)** | San Francisco, CA, US | On Site | Apr 19 |
 | **[The Stadium Insiders](www.thestadiuminsiders.com)** | **[Editorial/social media internship for sports/fan experience website](https://jobright.ai/jobs/info/69e53db77820c036924ccf86?utm_campaign=1053&utm_source=git)** | United States | Remote | Apr 19 |
 | **[ANFISA](https://anfisaskin.com/)** | **[Content Intern](https://jobright.ai/jobs/info/69e51aa29b6eb37e26f7cbca?utm_campaign=1053&utm_source=git)** | Spokane, WA | On Site | Apr 19 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid News Intern](https://jobright.ai/jobs/info/69b1c6a4548f140066e79343?utm_campaign=1053&utm_source=git)** | Wichita, KS | On Site | Apr 19 |
@@ -102,8 +101,7 @@ For a complete list, click the following sortable link below:
 | **[Food Bank For NYC](http://www.foodbanknyc.org)** | **[Visual Storytelling Production Intern](https://jobright.ai/jobs/info/69e28de9fcfcbd43860a3673?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Apr 17 |
 | **[Twilio](https://www.twilio.com/)** | **[Video Producer Intern](https://jobright.ai/jobs/info/69c5aaeeaa9a29199e808a68?utm_campaign=1053&utm_source=git)** | United States | Remote | Apr 17 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Intern, Sports](https://jobright.ai/jobs/info/69e34e343ce36005badc1741?utm_campaign=1053&utm_source=git)** | NY, New York | On Site | Apr 17 |
-| **[Mythical](https://www.mythical.com/)** | **[2026 Post-Production Intern](https://jobright.ai/jobs/info/69e28e36be46fa3a4ef57b00?utm_campaign=1053&utm_source=git)** | Burbank, CA | On Site | Apr 17 |
-| ↳ | **[2026 Production Intern](https://jobright.ai/jobs/info/69e2891f5c44d4710fe259ab?utm_campaign=1053&utm_source=git)** | Burbank, CA | On Site | Apr 17 |
+| **[Mythical](https://www.mythical.com/)** | **[2026 Production Intern](https://jobright.ai/jobs/info/69e2891f5c44d4710fe259ab?utm_campaign=1053&utm_source=git)** | Burbank, CA | On Site | Apr 17 |
 | ↳ | **[2026 Production Intern](https://jobright.ai/jobs/info/69e3d8890ddab31db6f976cd?utm_campaign=1053&utm_source=git)** | Burbank, California, United States | On Site | Apr 17 |
 | **[Capitol Broadcasting Company](http://www.capitolbroadcasting.com)** | **[Production & Game Entertainment Intern](https://jobright.ai/jobs/info/69e271e23ce36005badbe31c?utm_campaign=1053&utm_source=git)** | Triangle Area | On Site | Apr 17 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Internship](https://jobright.ai/jobs/info/69c75068e565c26a70027c3c?utm_campaign=1053&utm_source=git)** | Savannah, GA | On Site | Apr 17 |
@@ -157,4 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69dff76faba61f141731eb74?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Apr 15 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69dff76faba61f141731eb71?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | Apr 15 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Walt Disney Alternative Studio Production & Post Production Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69dff736aba61f141731eb4d?utm_campaign=1053&utm_source=git)** | Burbank, CA, USA | Hybrid | Apr 15 |
+| **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69dff7235913ad3398147044?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Apr 15 |
+| ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69dff6fe4920452a85dd0bb2?utm_campaign=1053&utm_source=git)** | Wichita, KS | On Site | Apr 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
