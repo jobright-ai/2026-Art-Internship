@@ -57,13 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Audacy, Inc.](https://audacyinc.com/)** | **[Programming/Production Intern](https://jobright.ai/jobs/info/69e7c3cc7820c036924d813b?utm_campaign=1053&utm_source=git)** | NY-New York, UNAVAILABLE, USA | On Site | Apr 21 |
+| ↳ | **[Programming/Production Intern](https://jobright.ai/jobs/info/69e7c39ff8fa2f3ec32a96a0?utm_campaign=1053&utm_source=git)** | USA-NY-New York | On Site | Apr 21 |
 | **[Complex NTWRK](https://www.complex.com)** | **[Content and Creative Operations Intern- College Credit](https://jobright.ai/jobs/info/69e7b2163aa0c4796439b654?utm_campaign=1053&utm_source=git)** | New York | On Site | Apr 21 |
 | ↳ | **[Editor Video Production Management- Intern- College Credit](https://jobright.ai/jobs/info/69e7b2143aa0c4796439b645?utm_campaign=1053&utm_source=git)** | New York | On Site | Apr 21 |
 | ↳ | **[Editorial Creator- Intern- College Credit](https://jobright.ai/jobs/info/69e7b0ce0a6e09555302bd04?utm_campaign=1053&utm_source=git)** | New York | On Site | Apr 21 |
 | **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69e7a828f8fa2f3ec32a8f1d?utm_campaign=1053&utm_source=git)** | Wichita, KS | On Site | Apr 21 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69e7a82758811370cb11dd41?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | Apr 21 |
-| ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69e7a82458811370cb11dd28?utm_campaign=1053&utm_source=git)** | Greenbrier River, WV | On Site | Apr 21 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69e7a8240a6e09555302b9de?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Apr 21 |
+| ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69e7a82458811370cb11dd28?utm_campaign=1053&utm_source=git)** | Greenbrier River, WV | On Site | Apr 21 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69e7a8230a6e09555302b9d9?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Apr 21 |
 | **[MY ENTERTAINMENT LLC](http://myentertainment.tv)** | **[Summer NonFiction Development Intern 2026](https://jobright.ai/jobs/info/69e7a7f7e0cd471b2f12cdcc?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Apr 21 |
 | **[Marketing Choices](https://marketingchoices.com)** | **[Editorial Internship](https://jobright.ai/jobs/info/69e79aebf8fa2f3ec32a8b0e?utm_campaign=1053&utm_source=git)** | Colorado, United States | Remote | Apr 21 |
@@ -81,6 +83,7 @@ For a complete list, click the following sortable link below:
 | **[Studs](https://studs.com/)** | **[Apprentice Piercer](https://jobright.ai/jobs/info/69cb548a466f1e133aaccc7b?utm_campaign=1053&utm_source=git)** | Boston, MA | On Site | Apr 20 |
 | **[Soccer Shots Los Angeles](http://www.soccershots.org/losangeles)** | **[Soccer Shots Internship Fall 2026](https://jobright.ai/jobs/info/69e6d58ee0cd471b2f12798e?utm_campaign=1053&utm_source=git)** | Lancaster, PA | On Site | Apr 20 |
 | **[Ferris State University College of Business](http://ferris.edu/business)** | **[Torch Editor-in-Chief (Student Position)](https://jobright.ai/jobs/info/69e6c7619b6eb37e26f820ea?utm_campaign=1053&utm_source=git)** | Big Rapids, MI | On Site | Apr 20 |
+| **[Chicago Blackhawks](http://hurricanes.nhl.com)** | **[Seasonal Associate, Hockey Technology](https://jobright.ai/jobs/info/69e7b8e23aa0c4796439b844?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Apr 20 |
 | **[Oshkosh Chamber](http://www.oshkoshchamber.com/)** | **[Concerts and Events Intern](https://jobright.ai/jobs/info/69e6ab653aa0c479643958b7?utm_campaign=1053&utm_source=git)** | Oshkosh, WI | On Site | Apr 20 |
 | **[World Vision Canada](https://www.worldvision.ca)** | **[Intern, Event Production](https://jobright.ai/jobs/info/69e6a478e0cd471b2f126e96?utm_campaign=1053&utm_source=git)** | Mississauga, Ontario, Canada | Hybrid | Apr 20 |
 | **[Leadership Triangle](https://leadershiptriangle.com)** | **[Production & Game Entertainment Intern](https://jobright.ai/jobs/info/69e6d5299b6eb37e26f82338?utm_campaign=1053&utm_source=git)** | Durham, NC | On Site | Apr 20 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Practising Law Institute (PLI)](https://pli.edu)** | **[Digital Archive Intern](https://jobright.ai/jobs/info/69e11b76acc736112f5c1ee1?utm_campaign=1053&utm_source=git)** | NYC Metro Area | On Site | Apr 16 |
 | **[Mobile Premier League (MPL)](https://www.mpl.live)** | **[Content Intern](https://jobright.ai/jobs/info/69e0e4b540a62c1fa93b5737?utm_campaign=1053&utm_source=git)** | United States | Remote | Apr 16 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Walt Disney Alternative Studio Production & Post Production Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69e0e063d612782e61145a0f?utm_campaign=1053&utm_source=git)** | Burbank, CA | On Site | Apr 16 |
-| **[Sports Illustrated Stadium](https://www.sportsillustratedstadium.com)** | **[2026 Internship, Summer - Event Operations](https://jobright.ai/jobs/info/69c4bc2b6f4f855eeda763c2?utm_campaign=1053&utm_source=git)** | Harrison, NJ | On Site | Apr 16 |
-| **[Tykoon Agency](http://www.tykoonmp.com)** | **[Content Producer Intern](https://jobright.ai/jobs/info/69e059facf5a9e0c33c85de2?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Apr 15 |
-| **[Fox Television Stations](https://www.foxcorporation.com/businesses/fox-television-stations/)** | **[Intern](https://jobright.ai/jobs/info/69e044fee34484770f1ad6f2?utm_campaign=1053&utm_source=git)** | Seattle, WA | On Site | Apr 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
