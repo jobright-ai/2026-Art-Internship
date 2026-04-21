@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Intern, News](https://jobright.ai/jobs/info/69c1c03879e36d3a847ecc2c?utm_campaign=1053&utm_source=git)** | IL, Champaign | On Site | Apr 21 |
 | **[The Parlor Magazine](https://www.linkedin.com/company/108591802)** | **[Podcast Production Intern](https://jobright.ai/jobs/info/69e7468b58811370cb11c3f4?utm_campaign=1053&utm_source=git)** | United States | Remote | Apr 21 |
+| **[National Audubon Society](http://www.audubon.org)** | **[Editorial Intern, Audubon Magazine](https://jobright.ai/jobs/info/69cacaef1b5ad028873a5162?utm_campaign=1053&utm_source=git)** | United States | On Site | Apr 21 |
 | **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[News & Politics Editorial Intern - Summer 2026](https://jobright.ai/jobs/info/69e72ad33cfd986aa6f8a79b?utm_campaign=1053&utm_source=git)** | United States | Remote | Apr 21 |
 | **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[News & Politics Editorial Intern - Summer 2026](https://jobright.ai/jobs/info/69bcdba1e6a0d9792585028a?utm_campaign=1053&utm_source=git)** | Anywhere, REMOTE, United States | Remote | Apr 20 |
 | **[Duke University](http://www.duke.edu)** | **[Nonduke Student/Intern](https://jobright.ai/jobs/info/69e6ff593aa0c479643969aa?utm_campaign=1053&utm_source=git)** | Durham, NC | On Site | Apr 20 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Video Editor Intern (Seasonal)](https://jobright.ai/jobs/info/69e01eb84920452a85dd1adc?utm_campaign=1053&utm_source=git)** | Princeton, IL | On Site | Apr 15 |
 | **[Reaction Tackle](https://www.reactiontackle.com/)** | **[TikTok Livestream Host](https://jobright.ai/jobs/info/69e014f44920452a85dd1895?utm_campaign=1053&utm_source=git)** | Big Bend, WI | On Site | Apr 15 |
 | **[Fox Corporation](https://www.foxcorporation.com/)** | **[Intern](https://jobright.ai/jobs/info/69e0105f14bf245fc7a6fb55?utm_campaign=1053&utm_source=git)** | Seattle, Washington, USA | On Site | Apr 15 |
-| **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69dff76faba61f141731eb71?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | Apr 15 |
-| ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69dff76faba61f141731eb74?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Apr 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
