@@ -57,9 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Soccer Shots Los Angeles](http://www.soccershots.org/losangeles)** | **[Soccer Shots Internship Fall 2026](https://jobright.ai/jobs/info/69e6d58ee0cd471b2f12798e?utm_campaign=1053&utm_source=git)** | Lancaster, PA | On Site | Apr 20 |
+| **[Pull Public Relations](http://pull-pr.com)** | **[EDITORIAL INTERN](https://jobright.ai/jobs/info/69e6ceddf8fa2f3ec32a3aa5?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Apr 20 |
 | **[Ferris State University College of Business](http://ferris.edu/business)** | **[Torch Editor-in-Chief (Student Position)](https://jobright.ai/jobs/info/69e6c7619b6eb37e26f820ea?utm_campaign=1053&utm_source=git)** | Big Rapids, MI | On Site | Apr 20 |
 | **[Oshkosh Chamber](http://www.oshkoshchamber.com/)** | **[Concerts and Events Intern](https://jobright.ai/jobs/info/69e6ab653aa0c479643958b7?utm_campaign=1053&utm_source=git)** | Oshkosh, WI | On Site | Apr 20 |
 | **[World Vision Canada](https://www.worldvision.ca)** | **[Intern, Event Production](https://jobright.ai/jobs/info/69e6a478e0cd471b2f126e96?utm_campaign=1053&utm_source=git)** | Mississauga, Ontario, Canada | Hybrid | Apr 20 |
+| **[Leadership Triangle](https://leadershiptriangle.com)** | **[Production & Game Entertainment Intern](https://jobright.ai/jobs/info/69e6d5299b6eb37e26f82338?utm_campaign=1053&utm_source=git)** | Durham, NC | On Site | Apr 20 |
 | **[John Michael Kohler Arts Center](https://jmkac.org)** | **[Special Events Intern](https://jobright.ai/jobs/info/69e697cd7820c036924d1525?utm_campaign=1053&utm_source=git)** | Sheboygan, WI | On Site | Apr 20 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Disney Television Animation Development & Current Series Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69e68053f8fa2f3ec32a2400?utm_campaign=1053&utm_source=git)** | Glendale, CA, USA | On Site | Apr 20 |
 | **[Nomara USA](https://intermediumcorp.com)** | **[Internship-social media editor video EXPERIENCE](https://jobright.ai/jobs/info/69e673d73cfd986aa6f85cd5?utm_campaign=1053&utm_source=git)** | United States | Remote | Apr 20 |
@@ -124,7 +127,6 @@ For a complete list, click the following sortable link below:
 | **[Upper Echelon Products](https://upperechelonproducts.com/)** | **[TikTok Content Creation Intern](https://jobright.ai/jobs/info/69e17cc1acc736112f5c3e64?utm_campaign=1053&utm_source=git)** | Austin, Texas Metropolitan Area | On Site | Apr 16 |
 | **[Invite Only Studios](http://www.inviteonly.studio)** | **[Videography Intern](https://jobright.ai/jobs/info/69e16ff66c20aa11495413ba?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Apr 16 |
 | **[KUTV 2News / KMYU](http://kutv.com/)** | **[Intern - Studio Crew](https://jobright.ai/jobs/info/69e1785b40a62c1fa93b89d0?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Apr 16 |
-| **[Kestra Medical Technologies, Inc.](https://kestramedical.com/)** | **[Videographer & Motion Design Intern](https://jobright.ai/jobs/info/69e148396c20aa11495405d8?utm_campaign=1053&utm_source=git)** | Kirkland, WA | On Site | Apr 16 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[NewsNation Summer Intern - Creative Producer (New York)](https://jobright.ai/jobs/info/69e1469ed612782e61147d88?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Apr 16 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[WPVI-TV (6abc) Multiplatform Programming Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69e12e6cd612782e61147431?utm_campaign=1053&utm_source=git)** | Philadelphia, PA, USA | On Site | Apr 16 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[NewsNation Summer Intern - Creative Producer (New York)](https://jobright.ai/jobs/info/69e12e69ff71e82d604b5838?utm_campaign=1053&utm_source=git)** | NY, New York | On Site | Apr 16 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Fox Corporation](https://www.foxcorporation.com/)** | **[Intern](https://jobright.ai/jobs/info/69e0105f14bf245fc7a6fb55?utm_campaign=1053&utm_source=git)** | Seattle, Washington, USA | On Site | Apr 15 |
 | **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69dff76faba61f141731eb71?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | Apr 15 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69dff76faba61f141731eb74?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Apr 15 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Walt Disney Alternative Studio Production & Post Production Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69dff736aba61f141731eb4d?utm_campaign=1053&utm_source=git)** | Burbank, CA, USA | Hybrid | Apr 15 |
-| **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69dff7235913ad3398147044?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Apr 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
