@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ferris State University College of Business](http://ferris.edu/business)** | **[Torch Editor-in-Chief (Student Position)](https://jobright.ai/jobs/info/69e6c7619b6eb37e26f820ea?utm_campaign=1053&utm_source=git)** | Big Rapids, MI | On Site | Apr 20 |
 | **[Oshkosh Chamber](http://www.oshkoshchamber.com/)** | **[Concerts and Events Intern](https://jobright.ai/jobs/info/69e6ab653aa0c479643958b7?utm_campaign=1053&utm_source=git)** | Oshkosh, WI | On Site | Apr 20 |
 | **[World Vision Canada](https://www.worldvision.ca)** | **[Intern, Event Production](https://jobright.ai/jobs/info/69e6a478e0cd471b2f126e96?utm_campaign=1053&utm_source=git)** | Mississauga, Ontario, Canada | Hybrid | Apr 20 |
 | **[John Michael Kohler Arts Center](https://jmkac.org)** | **[Special Events Intern](https://jobright.ai/jobs/info/69e697cd7820c036924d1525?utm_campaign=1053&utm_source=git)** | Sheboygan, WI | On Site | Apr 20 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69dff76faba61f141731eb74?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Apr 15 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Walt Disney Alternative Studio Production & Post Production Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69dff736aba61f141731eb4d?utm_campaign=1053&utm_source=git)** | Burbank, CA, USA | Hybrid | Apr 15 |
 | **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69dff7235913ad3398147044?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Apr 15 |
-| ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69dff6fe4920452a85dd0bb2?utm_campaign=1053&utm_source=git)** | Wichita, KS | On Site | Apr 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
