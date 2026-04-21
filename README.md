@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69e7a828f8fa2f3ec32a8f1d?utm_campaign=1053&utm_source=git)** | Wichita, KS | On Site | Apr 21 |
+| ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69e7a82758811370cb11dd41?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | Apr 21 |
+| ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69e7a8240a6e09555302b9de?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Apr 21 |
+| ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69e7a82458811370cb11dd28?utm_campaign=1053&utm_source=git)** | Greenbrier River, WV | On Site | Apr 21 |
+| ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69e7a8230a6e09555302b9d9?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Apr 21 |
+| **[MY ENTERTAINMENT LLC](http://myentertainment.tv)** | **[Summer NonFiction Development Intern 2026](https://jobright.ai/jobs/info/69e7a7f7e0cd471b2f12cdcc?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Apr 21 |
 | **[Marketing Choices](https://marketingchoices.com)** | **[Editorial Internship](https://jobright.ai/jobs/info/69e79aebf8fa2f3ec32a8b0e?utm_campaign=1053&utm_source=git)** | Colorado, United States | Remote | Apr 21 |
 | **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Intern, Post Production, SPTV - Summer 2026](https://jobright.ai/jobs/info/69e78fad58811370cb11d5b4?utm_campaign=1053&utm_source=git)** | Culver City, California | On Site | Apr 21 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Intern - News Investigative Spring Internship](https://jobright.ai/jobs/info/6993ae47ce78e77b4fd78254?utm_campaign=1053&utm_source=git)** | MO-St. Louis;2250 Ball Drive (Tribune-KTVI/KPLR) | On Site | Apr 21 |
@@ -94,7 +100,6 @@ For a complete list, click the following sortable link below:
 | **[Elite Podcast Studio](ElitePodcastStudio.com)** | **[Content Studio / Summer Internship](https://jobright.ai/jobs/info/69e4c6573aa0c4796439006b?utm_campaign=1053&utm_source=git)** | Odessa, FL | On Site | Apr 19 |
 | **[Their Story is Our Story](https://tsosrefugees.org/)** | **[Content Creator Internship Opportunity](https://jobright.ai/jobs/info/69e47ac2f8fa2f3ec329c31c?utm_campaign=1053&utm_source=git)** | United States | Remote | Apr 18 |
 | **[The Wyanoke Group](http://www.wyanokegroup.com/)** | **[Healio News Editorial Intern - Summer 2026](https://jobright.ai/jobs/info/69c70af6aa3c2c1995e14a16?utm_campaign=1053&utm_source=git)** | Thorofare, NJ | Hybrid | Apr 18 |
-| **[Toll Brothers](https://www.tollbrothers.com)** | **[2026 Internship Program: Assistant Framing Superintendent Intern](https://jobright.ai/jobs/info/69ab01e5142d5b4265fc427a?utm_campaign=1053&utm_source=git)** | Morrisville, PA | On Site | Apr 18 |
 | **[Colonial Williamsburg Foundation](https://www.colonialwilliamsburg.org/)** | **[Intern - Fife & Drum](https://jobright.ai/jobs/info/6789b384fade8859f716aab4?utm_campaign=1053&utm_source=git)** | Williamsburg, VA | On Site | Apr 18 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Paid Intern - News](https://jobright.ai/jobs/info/69aa34642ebd316bece1f7a9?utm_campaign=1053&utm_source=git)** | Joplin, MO | On Site | Apr 18 |
 | **[University of Southern California](http://www.usc.edu)** | **[Director of Game Day Presentation, USC Athletics](https://jobright.ai/jobs/info/69e6350b3cfd986aa6f84138?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Apr 18 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[City of Seguin](https://www.seguintexas.gov)** | **[Internship (Golf)](https://jobright.ai/jobs/info/69e185aeacc736112f5c4050?utm_campaign=1053&utm_source=git)** | Seguin, TX | On Site | Apr 15 |
 | **[9fin](https://9fin.com)** | **[Distressed Debt Reporter - 3-6 month Internship](https://jobright.ai/jobs/info/69e02dc8aba61f1417320047?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Apr 15 |
 | ↳ | **[Distressed Debt Reporter - 3-6 month Internship](https://jobright.ai/jobs/info/69e02a884920452a85dd1e2e?utm_campaign=1053&utm_source=git)** | New York, United States | Hybrid | Apr 15 |
-| **[The University of Georgia](http://www.ai.uga.edu)** | **[Staff Writer](https://jobright.ai/jobs/info/69e02a1514bf245fc7a701d4?utm_campaign=1053&utm_source=git)** | Athens, GA | On Site | Apr 15 |
-| **[CYVL](https://cyvl.com)** | **[Videography & Content Creation Intern](https://jobright.ai/jobs/info/69e16eb7fd1c0456f3fae4a6?utm_campaign=1053&utm_source=git)** | Somerville, Massachusetts | Hybrid | Apr 15 |
-| **[GRO](https://www.readysetgro.io/)** | **[Video Editing Internship](https://jobright.ai/jobs/info/69e0236de34484770f1acae0?utm_campaign=1053&utm_source=git)** | United States | Remote | Apr 15 |
-| **[Arukah Institute of Healing](http://www.arukahinstitute.org)** | **[Video Producer Intern (Seasonal)](https://jobright.ai/jobs/info/69e01eeee34484770f1aca30?utm_campaign=1053&utm_source=git)** | Princeton, IL | On Site | Apr 15 |
-| ↳ | **[Video Editor Intern (Seasonal)](https://jobright.ai/jobs/info/69e01eb84920452a85dd1adc?utm_campaign=1053&utm_source=git)** | Princeton, IL | On Site | Apr 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
