@@ -63,8 +63,8 @@ For a complete list, click the following sortable link below:
 | **[Mass FX Media](https://www.massfxmedia.com)** | **[2026 Summer Internship](https://jobright.ai/jobs/info/69e804f458811370cb11fd77?utm_campaign=1053&utm_source=git)** | Wheat Ridge, CO | On Site | Apr 21 |
 | **[doTERRA International LLC](https://www.doterra.com/US/en/about/careers)** | **[Recognition and Events Intern](https://jobright.ai/jobs/info/69e7fdda58811370cb11faf2?utm_campaign=1053&utm_source=git)** | Pleasant Grove, UT | On Site | Apr 21 |
 | **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69e7f92b58811370cb11f8c0?utm_campaign=1053&utm_source=git)** | Bloomington, IN | On Site | Apr 21 |
-| ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69e7f92a58811370cb11f8be?utm_campaign=1053&utm_source=git)** | Savannah, GA | On Site | Apr 21 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69e7f92a58811370cb11f8bf?utm_campaign=1053&utm_source=git)** | Naperville, IL | On Site | Apr 21 |
+| ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69e7f92a58811370cb11f8be?utm_campaign=1053&utm_source=git)** | Savannah, GA | On Site | Apr 21 |
 | **[Publicis Groupe ANZ](http://www.publicisgroupeanz.com)** | **[Intern - Website Content](https://jobright.ai/jobs/info/69e7f8753aa0c4796439cf16?utm_campaign=1053&utm_source=git)** | El Segundo, CA, US | Hybrid | Apr 21 |
 | ↳ | **[Intern - Website Content](https://jobright.ai/jobs/info/69e7f86e7820c036924d95b6?utm_campaign=1053&utm_source=git)** | US-CA-El Segundo | Hybrid | Apr 21 |
 | **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69e7f81458811370cb11f850?utm_campaign=1053&utm_source=git)** | Evanston, IL | On Site | Apr 21 |
@@ -72,8 +72,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69e7f793f8fa2f3ec32aa9d3?utm_campaign=1053&utm_source=git)** | St Louis, MO | On Site | Apr 21 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69e7f7900a6e09555302d4d1?utm_campaign=1053&utm_source=git)** | Oklahoma City, OK | On Site | Apr 21 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69e7f7887820c036924d945e?utm_campaign=1053&utm_source=git)** | Minneapolis, MN | On Site | Apr 21 |
-| ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69e7f7840a6e09555302d4b4?utm_campaign=1053&utm_source=git)** | Newark, NJ | On Site | Apr 21 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69e7f7840a6e09555302d4b5?utm_campaign=1053&utm_source=git)** | Albany, NY | On Site | Apr 21 |
+| ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69e7f7840a6e09555302d4b4?utm_campaign=1053&utm_source=git)** | Newark, NJ | On Site | Apr 21 |
 | **[Men In Blazers Media Network](https://meninblazers.com)** | **[Intern](https://jobright.ai/jobs/info/69e2dd205c44d4710fe273cf?utm_campaign=1053&utm_source=git)** | United States | Remote | Apr 21 |
 | **[LevelUp.soccer](https://levelup.soccer)** | **[SUMMER INTERNSHIP: AI SOCCER ANALYST / TRAINER](https://jobright.ai/jobs/info/69e7dfe658811370cb11ee04?utm_campaign=1053&utm_source=git)** | United States | Remote | Apr 21 |
 | **[Aura Groupe](https://auragroupe.com)** | **[Photoshoot Production Intern](https://jobright.ai/jobs/info/69e7d3967820c036924d872c?utm_campaign=1053&utm_source=git)** | Miami, FL | On Site | Apr 21 |
@@ -108,7 +108,6 @@ For a complete list, click the following sortable link below:
 | **[Chicago Blackhawks](http://hurricanes.nhl.com)** | **[Seasonal Associate, Hockey Technology](https://jobright.ai/jobs/info/69e7b8e23aa0c4796439b844?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Apr 20 |
 | **[Oshkosh Chamber](http://www.oshkoshchamber.com/)** | **[Concerts and Events Intern](https://jobright.ai/jobs/info/69e6ab653aa0c479643958b7?utm_campaign=1053&utm_source=git)** | Oshkosh, WI | On Site | Apr 20 |
 | **[World Vision Canada](https://www.worldvision.ca)** | **[Intern, Event Production](https://jobright.ai/jobs/info/69e6a478e0cd471b2f126e96?utm_campaign=1053&utm_source=git)** | Mississauga, Ontario, Canada | Hybrid | Apr 20 |
-| **[Leadership Triangle](https://leadershiptriangle.com)** | **[Production & Game Entertainment Intern](https://jobright.ai/jobs/info/69e6d5299b6eb37e26f82338?utm_campaign=1053&utm_source=git)** | Durham, NC | On Site | Apr 20 |
 | **[John Michael Kohler Arts Center](https://jmkac.org)** | **[Special Events Intern](https://jobright.ai/jobs/info/69e697cd7820c036924d1525?utm_campaign=1053&utm_source=git)** | Sheboygan, WI | On Site | Apr 20 |
 | **[PROJXON](www.projxon.com)** | **[Podcast Producer (Intern)](https://jobright.ai/jobs/info/69e7433a7820c036924d5671?utm_campaign=1053&utm_source=git)** | United States | Remote | Apr 20 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Disney Television Animation Development & Current Series Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69e68053f8fa2f3ec32a2400?utm_campaign=1053&utm_source=git)** | Glendale, CA, USA | On Site | Apr 20 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Sinclair Inc.](http://sbgi.net/)** | **[News Intern](https://jobright.ai/jobs/info/69c650ab83ea553769fd97d1?utm_campaign=1053&utm_source=git)** | Steubenville, OH | On Site | Apr 17 |
 | **[Sinclair Inc.](http://sbgi.net/)** | **[Intern - Studio Crew](https://jobright.ai/jobs/info/69e1d29dd612782e6114aa3a?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Apr 16 |
 | **[New York Post](http://nypost.com/)** | **[Editorial Page Intern](https://jobright.ai/jobs/info/69e1ac6facc736112f5c4c6f?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Apr 16 |
+| ↳ | **[Page Six Intern](https://jobright.ai/jobs/info/69e1a9b6d612782e61149c15?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Apr 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
