@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SEMAFOR](https://www.semafor.com)** | **[Editorial Event Producer](https://jobright.ai/jobs/info/6992fb99ce78e77b4fd6cd83?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Apr 22 |
+| **[Sinclair Inc.](http://sbgi.net/)** | **[News Intern](https://jobright.ai/jobs/info/69c650ab83ea553769fd97d1?utm_campaign=1053&utm_source=git)** | Steubenville, OH | On Site | Apr 22 |
 | **[Samantha Siu New York](http://www.SamanthaSiu.com)** | **[Social Media Video Editor internship](https://jobright.ai/jobs/info/69e899283aa0c479643a3fb5?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Apr 21 |
 | **[Complex NTWRK](https://www.complex.com)** | **[Studio Operations Intern - College Credit](https://jobright.ai/jobs/info/69e8688258811370cb12656b?utm_campaign=1053&utm_source=git)** | New York | On Site | Apr 21 |
 | **[Versa](www.learnversa.com)** | **[College Student Content Creator Internship](https://jobright.ai/jobs/info/69e84c1e4b0fa35a707622c5?utm_campaign=1053&utm_source=git)** | United States | Remote | Apr 21 |
@@ -64,8 +66,8 @@ For a complete list, click the following sortable link below:
 | **[Mass FX Media](https://www.massfxmedia.com)** | **[2026 Summer Internship](https://jobright.ai/jobs/info/69e804f458811370cb11fd77?utm_campaign=1053&utm_source=git)** | Wheat Ridge, CO | On Site | Apr 21 |
 | **[doTERRA International LLC](https://www.doterra.com/US/en/about/careers)** | **[Recognition and Events Intern](https://jobright.ai/jobs/info/69e7fdda58811370cb11faf2?utm_campaign=1053&utm_source=git)** | Pleasant Grove, UT | On Site | Apr 21 |
 | **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69e7f92b58811370cb11f8c0?utm_campaign=1053&utm_source=git)** | Bloomington, IN | On Site | Apr 21 |
-| ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69e7f92a58811370cb11f8bf?utm_campaign=1053&utm_source=git)** | Naperville, IL | On Site | Apr 21 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69e7f92a58811370cb11f8be?utm_campaign=1053&utm_source=git)** | Savannah, GA | On Site | Apr 21 |
+| ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69e7f92a58811370cb11f8bf?utm_campaign=1053&utm_source=git)** | Naperville, IL | On Site | Apr 21 |
 | **[Publicis Groupe ANZ](http://www.publicisgroupeanz.com)** | **[Intern - Website Content](https://jobright.ai/jobs/info/69e7f8753aa0c4796439cf16?utm_campaign=1053&utm_source=git)** | El Segundo, CA, US | Hybrid | Apr 21 |
 | ↳ | **[Intern - Website Content](https://jobright.ai/jobs/info/69e7f86e7820c036924d95b6?utm_campaign=1053&utm_source=git)** | US-CA-El Segundo | Hybrid | Apr 21 |
 | **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69e7f81458811370cb11f850?utm_campaign=1053&utm_source=git)** | Evanston, IL | On Site | Apr 21 |
@@ -154,7 +156,5 @@ For a complete list, click the following sortable link below:
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[WPVI-TV (6abc) Multiplatform Programming Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69e22860cda04a632939fc9b?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Apr 17 |
 | **[CBC Real Estate](https://www.cbcrealestate.com/)** | **[Production & Game Entertainment Intern](https://jobright.ai/jobs/info/69e4bc2a7820c036924cb39c?utm_campaign=1053&utm_source=git)** | Durham, NC, US | On Site | Apr 17 |
 | **[DDA](https://www.theddagroup.com)** | **[Internship - Domestic](https://jobright.ai/jobs/info/69e21d5d2ef4b138ddb25a3f?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Apr 17 |
-| **[Sinclair Inc.](http://sbgi.net/)** | **[News Intern](https://jobright.ai/jobs/info/69c650ab83ea553769fd97d1?utm_campaign=1053&utm_source=git)** | Steubenville, OH | On Site | Apr 17 |
 | **[Sinclair Inc.](http://sbgi.net/)** | **[Intern - Studio Crew](https://jobright.ai/jobs/info/69e1d29dd612782e6114aa3a?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Apr 16 |
-| **[New York Post](http://nypost.com/)** | **[Editorial Page Intern](https://jobright.ai/jobs/info/69e1ac6facc736112f5c4c6f?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Apr 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
