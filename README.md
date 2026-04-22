@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Art and Wellness Enterprises](https://awe.wd1.myworkdayjobs.com/Art_and_Wellness)** | **[2026 Performance and Artist-in-Residence Intern: Summer (Housing not provided)](https://jobright.ai/jobs/info/69e93bc97820c036924e6bfe?utm_campaign=1053&utm_source=git)** | Bentonville, AR, US | On Site | Apr 22 |
 | **[Wofford College](http://www.wofford.edu)** | **[Video Intern](https://jobright.ai/jobs/info/69e92e8f7820c036924e65c0?utm_campaign=1053&utm_source=git)** | Spartanburg, South Carolina, US | On Site | Apr 22 |
 | **[Olympusat](http://www.Olympusat.com)** | **[Content Operations Intern](https://jobright.ai/jobs/info/69e92bdd0a6e095553039e2c?utm_campaign=1053&utm_source=git)** | West Palm Beach, FL | On Site | Apr 22 |
 | **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Intern, Post Production, SPTV - Summer 2026](https://jobright.ai/jobs/info/69e78fad58811370cb11d5b4?utm_campaign=1053&utm_source=git)** | Culver City, California | On Site | Apr 22 |
@@ -90,8 +91,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69e7f793f8fa2f3ec32aa9d3?utm_campaign=1053&utm_source=git)** | St Louis, MO | On Site | Apr 21 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69e7f7900a6e09555302d4d1?utm_campaign=1053&utm_source=git)** | Oklahoma City, OK | On Site | Apr 21 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69e7f7887820c036924d945e?utm_campaign=1053&utm_source=git)** | Minneapolis, MN | On Site | Apr 21 |
-| ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69e7f7840a6e09555302d4b4?utm_campaign=1053&utm_source=git)** | Newark, NJ | On Site | Apr 21 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69e7f7840a6e09555302d4b5?utm_campaign=1053&utm_source=git)** | Albany, NY | On Site | Apr 21 |
+| ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69e7f7840a6e09555302d4b4?utm_campaign=1053&utm_source=git)** | Newark, NJ | On Site | Apr 21 |
 | **[LevelUp.soccer](https://levelup.soccer)** | **[SUMMER INTERNSHIP: AI SOCCER ANALYST / TRAINER](https://jobright.ai/jobs/info/69e7dfe658811370cb11ee04?utm_campaign=1053&utm_source=git)** | United States | Remote | Apr 21 |
 | **[Aura Groupe](https://auragroupe.com)** | **[Photoshoot Production Intern](https://jobright.ai/jobs/info/69e7d3967820c036924d872c?utm_campaign=1053&utm_source=git)** | Miami, FL | On Site | Apr 21 |
 | **[Audacy, Inc.](https://audacyinc.com/)** | **[Programming/Production Intern](https://jobright.ai/jobs/info/69e7c3cc7820c036924d813b?utm_campaign=1053&utm_source=git)** | NY-New York, UNAVAILABLE, USA | On Site | Apr 21 |
@@ -103,8 +104,8 @@ For a complete list, click the following sortable link below:
 | **[Complex NTWRK](https://www.complex.com)** | **[Editor Video Production Management- Intern- College Credit](https://jobright.ai/jobs/info/69e7d38c7820c036924d870b?utm_campaign=1053&utm_source=git)** | New York, United States | On Site | Apr 21 |
 | **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69e7a828f8fa2f3ec32a8f1d?utm_campaign=1053&utm_source=git)** | Wichita, KS | On Site | Apr 21 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69e7a82758811370cb11dd41?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | Apr 21 |
-| ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69e7a82458811370cb11dd28?utm_campaign=1053&utm_source=git)** | Greenbrier River, WV | On Site | Apr 21 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69e7a8240a6e09555302b9de?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Apr 21 |
+| ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69e7a82458811370cb11dd28?utm_campaign=1053&utm_source=git)** | Greenbrier River, WV | On Site | Apr 21 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69e7a8230a6e09555302b9d9?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Apr 21 |
 | **[Complex NTWRK](https://www.complex.com)** | **[Editorial Creator- Intern- College Credit](https://jobright.ai/jobs/info/69e7d35be0cd471b2f12da17?utm_campaign=1053&utm_source=git)** | New York, United States | On Site | Apr 21 |
 | ↳ | **[Content and Creative Operations Intern- College Credit](https://jobright.ai/jobs/info/69e7d3817820c036924d86d1?utm_campaign=1053&utm_source=git)** | New York, United States | On Site | Apr 21 |
@@ -112,8 +113,7 @@ For a complete list, click the following sortable link below:
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Intern](https://jobright.ai/jobs/info/69ca87138fc6090c5d44e5e1?utm_campaign=1053&utm_source=git)** | Amarillo, TX | On Site | Apr 21 |
 | **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Intern, Post Production, SPTV - Summer 2026](https://jobright.ai/jobs/info/69e78f783aa0c4796439aae0?utm_campaign=1053&utm_source=git)** | Culver City, California | On Site | Apr 21 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Intern - News Investigative Spring Internship](https://jobright.ai/jobs/info/6993ae47ce78e77b4fd78254?utm_campaign=1053&utm_source=git)** | MO-St. Louis;2250 Ball Drive (Tribune-KTVI/KPLR) | On Site | Apr 21 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Disney Television Animation Creative Production Intern, Summer 2026](https://jobright.ai/jobs/info/69e77a3ae0cd471b2f12bca2?utm_campaign=1053&utm_source=git)** | Glendale, CA | On Site | Apr 21 |
-| ↳ | **[Disney Television Animation Development & Current Series Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69e77a1f58811370cb11cd4b?utm_campaign=1053&utm_source=git)** | Glendale, CA | On Site | Apr 21 |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Disney Television Animation Development & Current Series Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69e77a1f58811370cb11cd4b?utm_campaign=1053&utm_source=git)** | Glendale, CA | On Site | Apr 21 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Intern, News](https://jobright.ai/jobs/info/69c1c03879e36d3a847ecc2c?utm_campaign=1053&utm_source=git)** | IL, Champaign | On Site | Apr 21 |
 | **[National Audubon Society](http://www.audubon.org)** | **[Editorial Intern, Audubon Magazine](https://jobright.ai/jobs/info/69cacaef1b5ad028873a5162?utm_campaign=1053&utm_source=git)** | United States | On Site | Apr 21 |
 | **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[News & Politics Editorial Intern - Summer 2026](https://jobright.ai/jobs/info/69bcdba1e6a0d9792585028a?utm_campaign=1053&utm_source=git)** | Anywhere, REMOTE, United States | Remote | Apr 20 |
@@ -128,7 +128,6 @@ For a complete list, click the following sortable link below:
 | **[PROJXON](www.projxon.com)** | **[Podcast Producer (Intern)](https://jobright.ai/jobs/info/69e7433a7820c036924d5671?utm_campaign=1053&utm_source=git)** | United States | Remote | Apr 20 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Disney Television Animation Development & Current Series Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69e68053f8fa2f3ec32a2400?utm_campaign=1053&utm_source=git)** | Glendale, CA, USA | On Site | Apr 20 |
 | **[Nomara USA](https://intermediumcorp.com)** | **[Internship-social media editor video EXPERIENCE](https://jobright.ai/jobs/info/69e673d73cfd986aa6f85cd5?utm_campaign=1053&utm_source=git)** | United States | Remote | Apr 20 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Disney Television Animation Creative Production Intern, Summer 2026](https://jobright.ai/jobs/info/69e664cce0cd471b2f1257e6?utm_campaign=1053&utm_source=git)** | Glendale, CA, USA | Hybrid | Apr 20 |
 | **[NBCUniversal](https://www.nbcuniversal.com/)** | **[NBC 4 New York Production & Editorial Internships – Academic Year](https://jobright.ai/jobs/info/69e65fa7f8fa2f3ec32a1671?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Apr 20 |
 | ↳ | **[NBC Sports Editorial Rotation Internship – Academic Year](https://jobright.ai/jobs/info/69e65f953cfd986aa6f854c3?utm_campaign=1053&utm_source=git)** | Stamford, CT | On Site | Apr 20 |
 | **[The Washington Post](http://www.washingtonpost.com/)** | **[Opinion Video Intern](https://jobright.ai/jobs/info/68caff29d905e25191d9e2c9?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Apr 20 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Unreasonable Studios](https://www.unreasonablestudios.com/)** | **[Intern](https://jobright.ai/jobs/info/69e2c86b3ce36005badbfbc3?utm_campaign=1053&utm_source=git)** | Detroit, MI | On Site | Apr 17 |
 | **[The Dispatch](https://thedispatch.com/)** | **[Summer 2026 Multimedia Internship](https://jobright.ai/jobs/info/69e2c4305c44d4710fe26acc?utm_campaign=1053&utm_source=git)** | United States | Remote | Apr 17 |
 | ↳ | **[Summer 2026 Multimedia Internship](https://jobright.ai/jobs/info/69e2c43abe46fa3a4ef58ac4?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Apr 17 |
+| **[Food Bank For NYC](http://www.foodbanknyc.org)** | **[Visual Storytelling Production Intern](https://jobright.ai/jobs/info/69e28de9fcfcbd43860a3673?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Apr 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
