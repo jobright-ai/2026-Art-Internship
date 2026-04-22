@@ -57,7 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[SEMAFOR](https://www.semafor.com)** | **[Editorial Event Producer](https://jobright.ai/jobs/info/6992fb99ce78e77b4fd6cd83?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Apr 22 |
+| **[Octagon](http://www.octagon.com)** | **[Intern (Global Soccer Fan Festivals) (Home Improvement Client)](https://jobright.ai/jobs/info/68f69d4676a51a4307bdc48d?utm_campaign=1053&utm_source=git)** | Houston, Texas, United States | On Site | Apr 22 |
 | **[Sinclair Inc.](http://sbgi.net/)** | **[News Intern](https://jobright.ai/jobs/info/69c650ab83ea553769fd97d1?utm_campaign=1053&utm_source=git)** | Steubenville, OH | On Site | Apr 22 |
 | **[Samantha Siu New York](http://www.SamanthaSiu.com)** | **[Social Media Video Editor internship](https://jobright.ai/jobs/info/69e899283aa0c479643a3fb5?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Apr 21 |
 | **[Complex NTWRK](https://www.complex.com)** | **[Studio Operations Intern - College Credit](https://jobright.ai/jobs/info/69e8688258811370cb12656b?utm_campaign=1053&utm_source=git)** | New York | On Site | Apr 21 |
@@ -90,8 +90,8 @@ For a complete list, click the following sortable link below:
 | **[Complex NTWRK](https://www.complex.com)** | **[Editor Video Production Management- Intern- College Credit](https://jobright.ai/jobs/info/69e7d38c7820c036924d870b?utm_campaign=1053&utm_source=git)** | New York, United States | On Site | Apr 21 |
 | **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69e7a828f8fa2f3ec32a8f1d?utm_campaign=1053&utm_source=git)** | Wichita, KS | On Site | Apr 21 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69e7a82758811370cb11dd41?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | Apr 21 |
-| ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69e7a8240a6e09555302b9de?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Apr 21 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69e7a82458811370cb11dd28?utm_campaign=1053&utm_source=git)** | Greenbrier River, WV | On Site | Apr 21 |
+| ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69e7a8240a6e09555302b9de?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Apr 21 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69e7a8230a6e09555302b9d9?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Apr 21 |
 | **[Complex NTWRK](https://www.complex.com)** | **[Editorial Creator- Intern- College Credit](https://jobright.ai/jobs/info/69e7d35be0cd471b2f12da17?utm_campaign=1053&utm_source=git)** | New York, United States | On Site | Apr 21 |
 | ↳ | **[Content and Creative Operations Intern- College Credit](https://jobright.ai/jobs/info/69e7d3817820c036924d86d1?utm_campaign=1053&utm_source=git)** | New York, United States | On Site | Apr 21 |
