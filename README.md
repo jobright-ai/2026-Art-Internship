@@ -57,8 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[COURIER](https://couriernewsroom.com)** | **[Summer 2026 Internship Program](https://jobright.ai/jobs/info/69ebfc4c4b0fa35a7077ff2b?utm_campaign=1053&utm_source=git)** | REMOTE-United States | Remote | Apr 24 |
+| **[COURIER](https://couriernewsroom.com)** | **[Summer 2026 Internship Program](https://jobright.ai/jobs/info/69ec17bd0a6e09555304c6b2?utm_campaign=1053&utm_source=git)** | New York, United States | Remote | Apr 24 |
+| ↳ | **[Summer 2026 Internship Program](https://jobright.ai/jobs/info/69ebfc4c4b0fa35a7077ff2b?utm_campaign=1053&utm_source=git)** | REMOTE-United States | Remote | Apr 24 |
 | **[Groove With Me, Inc](http://www.groovewithme.org)** | **[Summer Intern](https://jobright.ai/jobs/info/69ec0ac07820c036924f8e08?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Apr 24 |
+| **[KUTV 2News / KMYU](http://kutv.com/)** | **[Intern - Studio Crew](https://jobright.ai/jobs/info/69ec17cd4b0fa35a70780987?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Apr 24 |
 | **[eel](https://hq.watcheel.com/)** | **[Movie Streaming Service Content Strategy Intern](https://jobright.ai/jobs/info/69ec0a824b0fa35a707805e0?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Remote | Apr 24 |
 | **[Legends Global](http://legends.net)** | **[Video/Content Production Intern](https://jobright.ai/jobs/info/69ebfc000a6e09555304ba0b?utm_campaign=1053&utm_source=git)** | Miami, FL | On Site | Apr 24 |
 | **[Manheim Dallas-Fort Worth](http://www.manheim.com)** | **[AJC Reporting Intern - Summer 2026](https://jobright.ai/jobs/info/69ebdce6dc35f7132c4b3da2?utm_campaign=1053&utm_source=git)** | Atlanta GA, US | Hybrid | Apr 24 |
@@ -66,8 +68,8 @@ For a complete list, click the following sortable link below:
 | **[Stride, Inc.](https://www.stridelearning.com)** | **[Content Creator Intern](https://jobright.ai/jobs/info/69ebc43d58811370cb13c7c1?utm_campaign=1053&utm_source=git)** | US Nationwide - Remote, US | Remote | Apr 24 |
 | **[Ovo Talent](https://ovotalent.com/)** | **[Videography Intern (Film/Lifestyle) — Encinitas, CA](https://jobright.ai/jobs/info/69ebef0f58811370cb13d9e7?utm_campaign=1053&utm_source=git)** | Encinitas, CA | On Site | Apr 24 |
 | **[Omni Hotels & Resorts](http://www.omnihotels.com/)** | **[Omni Cares internship / Culinary](https://jobright.ai/jobs/info/69ebb9f37820c036924f6772?utm_campaign=1053&utm_source=git)** | The Omni Grove Park Inn, 290 Macon Ave, Asheville, North Carolina, United States of America | On Site | Apr 24 |
-| **[Villanova University](http://www.villanueva.edu)** | **[Athletics Broadcast / Game Presentation Intern](https://jobright.ai/jobs/info/69ebdd524b0fa35a7077f2f5?utm_campaign=1053&utm_source=git)** | Villanova, PA | On Site | Apr 24 |
-| ↳ | **[Athletics Creative Video Intern](https://jobright.ai/jobs/info/69ebddf016b2612c2a11f640?utm_campaign=1053&utm_source=git)** | Villanova, PA | On Site | Apr 24 |
+| **[Villanova University](http://www.villanueva.edu)** | **[Athletics Creative Video Intern](https://jobright.ai/jobs/info/69ebddf016b2612c2a11f640?utm_campaign=1053&utm_source=git)** | Villanova, PA | On Site | Apr 24 |
+| ↳ | **[Athletics Broadcast / Game Presentation Intern](https://jobright.ai/jobs/info/69ebdd524b0fa35a7077f2f5?utm_campaign=1053&utm_source=git)** | Villanova, PA | On Site | Apr 24 |
 | **[Daktronics](http://www.daktronics.com/en-us)** | **[James Madison University Event Production Intern](https://jobright.ai/jobs/info/6959d946f1f8465b79f0377f?utm_campaign=1053&utm_source=git)** | Harrisonburg, VA | On Site | Apr 24 |
 | **[IMAX](http://www.imax.com)** | **[Intern, Post-Production - DMR](https://jobright.ai/jobs/info/69ebc9cc7820c036924f7521?utm_campaign=1053&utm_source=git)** | Mississauga, Ontario, Canada | On Site | Apr 24 |
 | **[Solar Energy Industries Association](http://www.seia.org)** | **[Video Production Summer Intern 2026](https://jobright.ai/jobs/info/69ebc3397820c036924f6c4a?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Apr 24 |
@@ -75,7 +77,6 @@ For a complete list, click the following sortable link below:
 | **[Cooperstown All Star Village](https://cooperstown.com/)** | **[Event and Experiences Internship](https://jobright.ai/jobs/info/69eba1a8dc35f7132c4b2177?utm_campaign=1053&utm_source=git)** | Oneonta, NY | On Site | Apr 24 |
 | **[Ripken Baseball](https://www.ripkenbaseball.com)** | **[Summer 2026 - Baseball Operations Internship](https://jobright.ai/jobs/info/69eb901258811370cb139e96?utm_campaign=1053&utm_source=git)** | Aberdeen, MD | On Site | Apr 24 |
 | **[High Impact Promotion](https://highimpactpromo.com/)** | **[Digital Production Unpaid Internship](https://jobright.ai/jobs/info/69eb908d0a6e095553047abf?utm_campaign=1053&utm_source=git)** | Chicago, IL | Hybrid | Apr 24 |
-| **[Canyon Entertainment Group](https://canyonentertainmentgroup.com)** | **[Video Editing Internship](https://jobright.ai/jobs/info/69eb52404b0fa35a7077a793?utm_campaign=1053&utm_source=git)** | Canada | Remote | Apr 24 |
 | **[Bonneville International](http://bonneville.com/)** | **[KSL Sports Summer Internship](https://jobright.ai/jobs/info/69cee6ed398fb071abf8a873?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Apr 24 |
 | **[Ovo Talent](https://ovotalent.com/)** | **[Videography Intern (Film/Lifestyle) — Miami, FL](https://jobright.ai/jobs/info/69eaeec5dc35f7132c4ace9e?utm_campaign=1053&utm_source=git)** | Miami, FL | On Site | Apr 23 |
 | **[Waco Tribune-Herald](http://wacotrib.com)** | **[Technical Director](https://jobright.ai/jobs/info/69eb52da16b2612c2a11af34?utm_campaign=1053&utm_source=git)** | Brockport, NY | On Site | Apr 23 |
@@ -105,7 +106,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Newsroom Intern - WUNC Youth Reporting Internships](https://jobright.ai/jobs/info/69eb5e0d4b0fa35a7077afce?utm_campaign=1053&utm_source=git)** | North Carolina, United States | Hybrid | Apr 22 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Assistant Assembly Video Editor - BYU-Pathway Worldwide (Full-Time Intern)](https://jobright.ai/jobs/info/69e9be0b0a6e09555303d707?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | Remote | Apr 22 |
 | **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[Assistant Assembly Video Editor - BYU-Pathway Worldwide (Full-Time Intern)](https://jobright.ai/jobs/info/69e9b027e0cd471b2f13eae7?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | Remote | Apr 22 |
-| **[MV Digital](https://www.mvdigitalgroup.com/)** | **[Newsroom Intern](https://jobright.ai/jobs/info/69e977dd3aa0c479643aa1a6?utm_campaign=1053&utm_source=git)** | Portland, OR, 97201-5870, United States | On Site | Apr 22 |
 | **[Kendall Hunt Publishing Company](https://www.kendallhunt.com/)** | **[K-12 Editorial Internship](https://jobright.ai/jobs/info/69e98e2c7820c036924e8ff0?utm_campaign=1053&utm_source=git)** | Dubuque, IA | On Site | Apr 22 |
 | **[The University of Georgia](http://www.ai.uga.edu)** | **[Creative Video Intern](https://jobright.ai/jobs/info/69e99d4a4b0fa35a7076f703?utm_campaign=1053&utm_source=git)** | Athens, GA | On Site | Apr 22 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Assistant Assembly Video Editor - BYU-Pathway Worldwide (Full-Time Intern)](https://jobright.ai/jobs/info/69e95187e0cd471b2f13c9ed?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT, United States | Remote | Apr 22 |
@@ -151,8 +151,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69e7f793f8fa2f3ec32aa9d3?utm_campaign=1053&utm_source=git)** | St Louis, MO | On Site | Apr 21 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69e7f7900a6e09555302d4d1?utm_campaign=1053&utm_source=git)** | Oklahoma City, OK | On Site | Apr 21 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69e7f7887820c036924d945e?utm_campaign=1053&utm_source=git)** | Minneapolis, MN | On Site | Apr 21 |
-| ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69e7f7840a6e09555302d4b4?utm_campaign=1053&utm_source=git)** | Newark, NJ | On Site | Apr 21 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69e7f7840a6e09555302d4b5?utm_campaign=1053&utm_source=git)** | Albany, NY | On Site | Apr 21 |
+| ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69e7f7840a6e09555302d4b4?utm_campaign=1053&utm_source=git)** | Newark, NJ | On Site | Apr 21 |
 | **[Audacy, Inc.](https://audacyinc.com/)** | **[Programming/Production Intern](https://jobright.ai/jobs/info/69e7c3cc7820c036924d813b?utm_campaign=1053&utm_source=git)** | NY-New York, UNAVAILABLE, USA | On Site | Apr 21 |
 | ↳ | **[Programming/Production Intern](https://jobright.ai/jobs/info/69e7c39ff8fa2f3ec32a96a0?utm_campaign=1053&utm_source=git)** | USA-NY-New York | On Site | Apr 21 |
 | **[Complex NTWRK](https://www.complex.com)** | **[Content and Creative Operations Intern- College Credit](https://jobright.ai/jobs/info/69e7b2163aa0c4796439b654?utm_campaign=1053&utm_source=git)** | New York | On Site | Apr 21 |
