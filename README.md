@@ -90,11 +90,10 @@ For a complete list, click the following sortable link below:
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid News Intern](https://jobright.ai/jobs/info/69b1c6a4548f140066e79343?utm_campaign=1053&utm_source=git)** | Wichita, KS | On Site | Apr 24 |
 | **[High Impact Promotion](https://highimpactpromo.com/)** | **[Digital Production Unpaid Internship](https://jobright.ai/jobs/info/69eb908d0a6e095553047abf?utm_campaign=1053&utm_source=git)** | Chicago, IL | Hybrid | Apr 24 |
 | **[Bonneville International](http://bonneville.com/)** | **[KSL Sports Summer Internship](https://jobright.ai/jobs/info/69cee6ed398fb071abf8a873?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Apr 24 |
-| **[Ovo Talent](https://ovotalent.com/)** | **[Videography Intern (Film/Lifestyle) — Miami, FL](https://jobright.ai/jobs/info/69eaeec5dc35f7132c4ace9e?utm_campaign=1053&utm_source=git)** | Miami, FL | On Site | Apr 23 |
 | **[Waco Tribune-Herald](http://wacotrib.com)** | **[Technical Director](https://jobright.ai/jobs/info/69eb52da16b2612c2a11af34?utm_campaign=1053&utm_source=git)** | Brockport, NY | On Site | Apr 23 |
 | **[Crew Dog](https://crew-dog.com)** | **[Content Creator Summer Intern](https://jobright.ai/jobs/info/69eada58dc35f7132c4ac7a6?utm_campaign=1053&utm_source=git)** | NYC Metro Area | On Site | Apr 23 |
 | **[Penn State University](http://psu.edu)** | **[Open Publishing Program Bednar Intern](https://jobright.ai/jobs/info/69eb3c2516b2612c2a11a606?utm_campaign=1053&utm_source=git)** | University Park, PA | Hybrid | Apr 23 |
-| **[Mississippi Sports Hall of Fame & Museum](https://www.linkedin.com/company/60076804)** | **[Summer Events Intern](https://jobright.ai/jobs/info/69ea9d5b58811370cb13463f?utm_campaign=1053&utm_source=git)** | Jackson, MS | On Site | Apr 23 |
+| **[Mississippi Sports Hall of Fame & Museum](msfame.com)** | **[Summer Events Intern](https://jobright.ai/jobs/info/69ea9d5b58811370cb13463f?utm_campaign=1053&utm_source=git)** | Jackson, MS | On Site | Apr 23 |
 | **[Publicis Production](http://publicisproduction.com)** | **[Content Creator Intern](https://jobright.ai/jobs/info/69eb41387820c036924f2586?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Apr 23 |
 | **[University of Utah](http://utah.edu)** | **[Utah Innovation Storytelling Intern](https://jobright.ai/jobs/info/69eb0b987820c036924f0ae9?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Apr 23 |
 | **[WTAE Hearst Pittsburgh](https://www.hearstpittsburgh.com)** | **[Summer News Intern](https://jobright.ai/jobs/info/69b22553d04c69566c74d91b?utm_campaign=1053&utm_source=git)** | Pittsburgh, PA | On Site | Apr 23 |
@@ -134,10 +133,10 @@ For a complete list, click the following sortable link below:
 | **[Coastal Carolina University](http://www.coastal.edu/)** | **[Production Assistant (Student Assistant)](https://jobright.ai/jobs/info/69e95c890a6e09555303b5e2?utm_campaign=1053&utm_source=git)** | Conway, SC | On Site | Apr 22 |
 | **[The Tournament (TBT/TST)](http://thetournament.com/)** | **[Events Internship (TBT)](https://jobright.ai/jobs/info/69e956cc58811370cb12cb14?utm_campaign=1053&utm_source=git)** | Lexington, KY | Hybrid | Apr 22 |
 | ↳ | **[Events Internship (TBT)](https://jobright.ai/jobs/info/69e956cc58811370cb12cb15?utm_campaign=1053&utm_source=git)** | Manhattan, KS | Hybrid | Apr 22 |
-| ↳ | **[Events Internship (TBT)](https://jobright.ai/jobs/info/69e956bb58811370cb12caeb?utm_campaign=1053&utm_source=git)** | Louisville, KY | Hybrid | Apr 22 |
+| ↳ | **[Events Internship (TBT)](https://jobright.ai/jobs/info/69e956bd7820c036924e765b?utm_campaign=1053&utm_source=git)** | South Orange Village, NJ | Hybrid | Apr 22 |
 | ↳ | **[Events Internship (TBT)](https://jobright.ai/jobs/info/69e956520a6e09555303b29f?utm_campaign=1053&utm_source=git)** | Henderson, NV | Hybrid | Apr 22 |
 | ↳ | **[Events Internship (TBT)](https://jobright.ai/jobs/info/69e956cc58811370cb12cb17?utm_campaign=1053&utm_source=git)** | Syracuse, NY | Hybrid | Apr 22 |
-| ↳ | **[Events Internship (TBT)](https://jobright.ai/jobs/info/69e956bd7820c036924e765b?utm_campaign=1053&utm_source=git)** | South Orange Village, NJ | Hybrid | Apr 22 |
+| ↳ | **[Events Internship (TBT)](https://jobright.ai/jobs/info/69e956bb58811370cb12caeb?utm_campaign=1053&utm_source=git)** | Louisville, KY | Hybrid | Apr 22 |
 | ↳ | **[Events Internship (TBT)](https://jobright.ai/jobs/info/69e944723aa0c479643a8c09?utm_campaign=1053&utm_source=git)** | Wichita, KS | Hybrid | Apr 22 |
 | ↳ | **[Events Internship (TBT)](https://jobright.ai/jobs/info/69e944c558811370cb12c357?utm_campaign=1053&utm_source=git)** | Topeka, KS | Hybrid | Apr 22 |
 | **[United Nations Development Programme (UNDP)](https://www.undp.org/)** | **[Social Media Video Production Intern (REMOTE)](https://jobright.ai/jobs/info/69e91f7d0a6e095553038e99?utm_campaign=1053&utm_source=git)** | New York, United States | Remote | Apr 22 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Mass FX Media](https://www.massfxmedia.com)** | **[2026 Summer Internship](https://jobright.ai/jobs/info/69e804f458811370cb11fd77?utm_campaign=1053&utm_source=git)** | Wheat Ridge, CO | On Site | Apr 21 |
 | **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69e7f92b58811370cb11f8c0?utm_campaign=1053&utm_source=git)** | Bloomington, IN | On Site | Apr 21 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69e7f92a58811370cb11f8be?utm_campaign=1053&utm_source=git)** | Savannah, GA | On Site | Apr 21 |
+| ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69e7f92a58811370cb11f8bf?utm_campaign=1053&utm_source=git)** | Naperville, IL | On Site | Apr 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
