@@ -57,12 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[The Johns Hopkins University](https://www.jhu.edu)** | **[Writer I (KSAS Pre-professional Advising)](https://jobright.ai/jobs/info/69efb88116b2612c2a12b221?utm_campaign=1053&utm_source=git)** | Baltimore, MD | Remote | Apr 27 |
+| **[Coastal Carolina University](http://www.coastal.edu/)** | **[Production Assistant (Student Assistant)](https://jobright.ai/jobs/info/69e95c88e0cd471b2f13ce09?utm_campaign=1053&utm_source=git)** | Conway, SC | On Site | Apr 27 |
+| **[Butcher's by Roli Roti](https://www.butchers.co)** | **[Content Creator: Summer Internship](https://jobright.ai/jobs/info/69efc62958811370cb14881e?utm_campaign=1053&utm_source=git)** | San Francisco Bay Area | On Site | Apr 27 |
 | **[AARP](http://www.aarp.org)** | **[Copy Editing Intern (Fall)](https://jobright.ai/jobs/info/69bddd8148282272930090ec?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Apr 27 |
 | **[MATTE Projects](https://matteprojects.com/)** | **[Music & Programming Internship Summer 2026 (On-Site, New York)](https://jobright.ai/jobs/info/69dd1a10bc6f6622c99106ee?utm_campaign=1053&utm_source=git)** | New York, New York | On Site | Apr 27 |
 | **[Rocket](https://www.rocketcompanies.com/)** | **[Event Production Intern - Summer 2026](https://jobright.ai/jobs/info/69ef9e8f0a6e095553055efb?utm_campaign=1053&utm_source=git)** | Detroit, MI | On Site | Apr 27 |
 | **[FrederickFlips](https://frederickflips.com)** | **[Seasonal Videography Intern (Summer 2026)](https://jobright.ai/jobs/info/69ef7d11e624fe645d531713?utm_campaign=1053&utm_source=git)** | Ann Arbor, MI | On Site | Apr 27 |
-| **[Coastal Carolina University](http://www.coastal.edu/)** | **[Production Assistant (Student Assistant)](https://jobright.ai/jobs/info/69e95c890a6e09555303b5e2?utm_campaign=1053&utm_source=git)** | Conway, SC | On Site | Apr 27 |
 | **[Skild AI](https://www.skild.ai/)** | **[Cinematography Intern (Product Videography & Social Media)](https://jobright.ai/jobs/info/68d48fabffc1276de3fdbe8a?utm_campaign=1053&utm_source=git)** | San Mateo, CA | On Site | Apr 27 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Research Intern - Freeman Chair in China Studies](https://jobright.ai/jobs/info/69ef4f31e624fe645d530997?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Apr 27 |
 | **[InfiniteCool](https://www.linkedin.com/company/104851134)** | **[Social Media & Content Production Intern/Part-Time](https://jobright.ai/jobs/info/69eeaad816b2612c2a127408?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Apr 26 |
@@ -107,8 +107,8 @@ For a complete list, click the following sortable link below:
 | **[University of Utah](http://utah.edu)** | **[Utah Innovation Storytelling Intern](https://jobright.ai/jobs/info/69eb0b987820c036924f0ae9?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Apr 23 |
 | **[WTAE Hearst Pittsburgh](https://www.hearstpittsburgh.com)** | **[Summer News Intern](https://jobright.ai/jobs/info/69b22553d04c69566c74d91b?utm_campaign=1053&utm_source=git)** | Pittsburgh, PA | On Site | Apr 23 |
 | **[Kaseya Center](https://www.kaseyacenter.com)** | **[Broadcast Intern (Season-long)](https://jobright.ai/jobs/info/69eaf28fdc35f7132c4aced5?utm_campaign=1053&utm_source=git)** | Miami, FL | On Site | Apr 23 |
-| **[Carolina Public Humanities](http://humanities.unc.edu)** | **[Embodied Intern - WUNC Youth Reporting Internship](https://jobright.ai/jobs/info/69ed99424b0fa35a70784be8?utm_campaign=1053&utm_source=git)** | Chapel Hill, NC | Hybrid | Apr 23 |
-| ↳ | **[Digital News Intern - WUNC Youth Reporting Internship](https://jobright.ai/jobs/info/69ec86414b0fa35a7078263f?utm_campaign=1053&utm_source=git)** | North Carolina, US | Hybrid | Apr 23 |
+| **[Carolina Public Humanities](http://humanities.unc.edu)** | **[Digital News Intern - WUNC Youth Reporting Internship](https://jobright.ai/jobs/info/69ec86414b0fa35a7078263f?utm_campaign=1053&utm_source=git)** | North Carolina, US | Hybrid | Apr 23 |
+| ↳ | **[Embodied Intern - WUNC Youth Reporting Internship](https://jobright.ai/jobs/info/69ed99424b0fa35a70784be8?utm_campaign=1053&utm_source=git)** | Chapel Hill, NC | Hybrid | Apr 23 |
 | **[Dallas Zoo](http://dallaszoo.com)** | **[Dallas College Internship - Wings of Wonder Show Production Intern](https://jobright.ai/jobs/info/69ea73b03aa0c479643b0137?utm_campaign=1053&utm_source=git)** | Dallas, Texas | On Site | Apr 23 |
 | **[Publicis Groupe ANZ](http://www.publicisgroupeanz.com)** | **[Content Creator Intern](https://jobright.ai/jobs/info/69ea64033aa0c479643af6ab?utm_campaign=1053&utm_source=git)** | US-NY-New York | On Site | Apr 23 |
 | ↳ | **[Content Creator Intern](https://jobright.ai/jobs/info/69ea63ee58811370cb132d9e?utm_campaign=1053&utm_source=git)** | New York, NY, US | On Site | Apr 23 |
@@ -118,8 +118,8 @@ For a complete list, click the following sortable link below:
 | **[Marriott Vacations Worldwide](https://www.marriottvacationsworldwide.com/)** | **[Fall 2026 - College Intern - Hilton Head Island, SC (Recreation)](https://jobright.ai/jobs/info/69ea7faa58811370cb133b96?utm_campaign=1053&utm_source=git)** | Hilton Head Island, SC | On Site | Apr 23 |
 | **[Inspiration Ministries](https://inspiration.org/)** | **[Multimedia Intern](https://jobright.ai/jobs/info/69ea709b4b0fa35a70774077?utm_campaign=1053&utm_source=git)** | Charlotte Metro | On Site | Apr 23 |
 | **[Oak View Group](http://www.oakviewgroup.com)** | **[Event Intern / Part-Time / Rhode Island Convention Center](https://jobright.ai/jobs/info/69ee3c0c16b2612c2a126383?utm_campaign=1053&utm_source=git)** | US-RI-Providence | On Site | Apr 23 |
-| ↳ | **[Event Intern / Part-Time / Rhode Island Convention Center](https://jobright.ai/jobs/info/69ee3c6adc35f7132c4ba5a5?utm_campaign=1053&utm_source=git)** | One Sabin Street | On Site | Apr 23 |
 | ↳ | **[Event Intern / Part-Time / Rhode Island Convention Center](https://jobright.ai/jobs/info/69ee3c690a6e095553051a30?utm_campaign=1053&utm_source=git)** | 02903 | On Site | Apr 23 |
+| ↳ | **[Event Intern / Part-Time / Rhode Island Convention Center](https://jobright.ai/jobs/info/69ee3c6adc35f7132c4ba5a5?utm_campaign=1053&utm_source=git)** | One Sabin Street | On Site | Apr 23 |
 | **[Audacy, Inc.](https://audacyinc.com/)** | **[Programming Intern](https://jobright.ai/jobs/info/699652b3e0bddb6acac4c0f6?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Apr 23 |
 | **[Griffin Media](http://griffincommunications.net/)** | **[New On 6 Summer Sports Intern](https://jobright.ai/jobs/info/69e9e5394b0fa35a707704ef?utm_campaign=1053&utm_source=git)** | Tulsa, OK | On Site | Apr 23 |
 | ↳ | **[News 9 Summer Newsroom Intern](https://jobright.ai/jobs/info/69e9e5417820c036924e9f97?utm_campaign=1053&utm_source=git)** | Oklahoma City, OK | On Site | Apr 23 |
@@ -141,12 +141,11 @@ For a complete list, click the following sortable link below:
 | **[Goettl Air Conditioning & Plumbing](http://www.goettl.com)** | **[Part Time Video Production Internship IN OFFICE](https://jobright.ai/jobs/info/69e979b37820c036924e8c62?utm_campaign=1053&utm_source=git)** | Las Vegas, NV 89113, USA | On Site | Apr 22 |
 | **[Wofford College](http://www.wofford.edu)** | **[Video Intern](https://jobright.ai/jobs/info/69e92e8f7820c036924e65c0?utm_campaign=1053&utm_source=git)** | Spartanburg, South Carolina, US | On Site | Apr 22 |
 | **[Olympusat](http://www.Olympusat.com)** | **[Content Operations Intern](https://jobright.ai/jobs/info/69e92bdd0a6e095553039e2c?utm_campaign=1053&utm_source=git)** | West Palm Beach, FL | On Site | Apr 22 |
-| **[Coastal Carolina University](http://www.coastal.edu/)** | **[Production Assistant (Student Assistant)](https://jobright.ai/jobs/info/69e95c88e0cd471b2f13ce09?utm_campaign=1053&utm_source=git)** | Conway, SC | On Site | Apr 22 |
 | **[The Tournament (TBT/TST)](http://thetournament.com/)** | **[Events Internship (TBT)](https://jobright.ai/jobs/info/69e956cc58811370cb12cb14?utm_campaign=1053&utm_source=git)** | Lexington, KY | Hybrid | Apr 22 |
 | ↳ | **[Events Internship (TBT)](https://jobright.ai/jobs/info/69e956cc58811370cb12cb15?utm_campaign=1053&utm_source=git)** | Manhattan, KS | Hybrid | Apr 22 |
-| ↳ | **[Events Internship (TBT)](https://jobright.ai/jobs/info/69e956520a6e09555303b29f?utm_campaign=1053&utm_source=git)** | Henderson, NV | Hybrid | Apr 22 |
-| ↳ | **[Events Internship (TBT)](https://jobright.ai/jobs/info/69e956bb58811370cb12caeb?utm_campaign=1053&utm_source=git)** | Louisville, KY | Hybrid | Apr 22 |
 | ↳ | **[Events Internship (TBT)](https://jobright.ai/jobs/info/69e956cc58811370cb12cb17?utm_campaign=1053&utm_source=git)** | Syracuse, NY | Hybrid | Apr 22 |
+| ↳ | **[Events Internship (TBT)](https://jobright.ai/jobs/info/69e956bb58811370cb12caeb?utm_campaign=1053&utm_source=git)** | Louisville, KY | Hybrid | Apr 22 |
+| ↳ | **[Events Internship (TBT)](https://jobright.ai/jobs/info/69e956520a6e09555303b29f?utm_campaign=1053&utm_source=git)** | Henderson, NV | Hybrid | Apr 22 |
 | ↳ | **[Events Internship (TBT)](https://jobright.ai/jobs/info/69e956bd7820c036924e765b?utm_campaign=1053&utm_source=git)** | South Orange Village, NJ | Hybrid | Apr 22 |
 | ↳ | **[Events Internship (TBT)](https://jobright.ai/jobs/info/69e944723aa0c479643a8c09?utm_campaign=1053&utm_source=git)** | Wichita, KS | Hybrid | Apr 22 |
 | ↳ | **[Events Internship (TBT)](https://jobright.ai/jobs/info/69e944c558811370cb12c357?utm_campaign=1053&utm_source=git)** | Topeka, KS | Hybrid | Apr 22 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 Internship - Medical Writing Intern](https://jobright.ai/jobs/info/69e8eca97820c036924e3a36?utm_campaign=1053&utm_source=git)** | United States | Remote | Apr 22 |
 | **[AmeriLife](http://www.amerilife.com)** | **[Intern](https://jobright.ai/jobs/info/69e8ec890a6e09555303753f?utm_campaign=1053&utm_source=git)** | Remote, CT, US | Remote | Apr 22 |
 | **[FDB (First Databank, Inc.)](http://fdbhealth.com)** | **[WVTM News Summer Internship](https://jobright.ai/jobs/info/69e8d8817820c036924e33be?utm_campaign=1053&utm_source=git)** | Birmingham, AL, United States | On Site | Apr 22 |
+| **[Homecare Homebase](http://www.hchb.com)** | **[WVTM News Summer Internship](https://jobright.ai/jobs/info/69e8d8633aa0c479643a54cf?utm_campaign=1053&utm_source=git)** | Birmingham, AL, United States | On Site | Apr 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
