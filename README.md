@@ -71,7 +71,6 @@ For a complete list, click the following sortable link below:
 | **[United Wholesale Mortgage](http://uwm.com)** | **[2026 Videography Summer Internship Program](https://jobright.ai/jobs/info/697c0cfd0b88cc7d6422fa35?utm_campaign=1053&utm_source=git)** | Pontiac, MI | On Site | Apr 25 |
 | **[WAVY-TV 10](http://wavy.com)** | **[WAVY Unpaid Digital News Desk Intern, Summer 2026](https://jobright.ai/jobs/info/6943624650bbaf765055485d?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Apr 25 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[VAB Paid Intern](https://jobright.ai/jobs/info/69d03399366bb95ba551c97d?utm_campaign=1053&utm_source=git)** | Richmond, VA | On Site | Apr 25 |
-| **[WAVY-TV 10](http://wavy.com)** | **[WAVY Unpaid Newsroom Intern, Summer 2026](https://jobright.ai/jobs/info/69d1076fcdb525785fbb01aa?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Apr 25 |
 | **[Stride, Inc.](https://www.stridelearning.com)** | **[Content Creator Intern](https://jobright.ai/jobs/info/69ec1e237820c036924f96d4?utm_campaign=1053&utm_source=git)** | United States | Remote | Apr 24 |
 | **[COURIER](https://couriernewsroom.com)** | **[Summer 2026 Internship Program](https://jobright.ai/jobs/info/69ec17bd0a6e09555304c6b2?utm_campaign=1053&utm_source=git)** | New York, United States | Remote | Apr 24 |
 | **[The Music Center](https://www.musiccenter.org/)** | **[Program Intern](https://jobright.ai/jobs/info/69ec45910a6e09555304d94e?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Apr 24 |
@@ -142,9 +141,9 @@ For a complete list, click the following sortable link below:
 | **[The Tournament (TBT/TST)](http://thetournament.com/)** | **[Events Internship (TBT)](https://jobright.ai/jobs/info/69e956cc58811370cb12cb14?utm_campaign=1053&utm_source=git)** | Lexington, KY | Hybrid | Apr 22 |
 | ↳ | **[Events Internship (TBT)](https://jobright.ai/jobs/info/69e956cc58811370cb12cb15?utm_campaign=1053&utm_source=git)** | Manhattan, KS | Hybrid | Apr 22 |
 | ↳ | **[Events Internship (TBT)](https://jobright.ai/jobs/info/69e956bb58811370cb12caeb?utm_campaign=1053&utm_source=git)** | Louisville, KY | Hybrid | Apr 22 |
-| ↳ | **[Events Internship (TBT)](https://jobright.ai/jobs/info/69e956520a6e09555303b29f?utm_campaign=1053&utm_source=git)** | Henderson, NV | Hybrid | Apr 22 |
-| ↳ | **[Events Internship (TBT)](https://jobright.ai/jobs/info/69e956cc58811370cb12cb17?utm_campaign=1053&utm_source=git)** | Syracuse, NY | Hybrid | Apr 22 |
 | ↳ | **[Events Internship (TBT)](https://jobright.ai/jobs/info/69e956bd7820c036924e765b?utm_campaign=1053&utm_source=git)** | South Orange Village, NJ | Hybrid | Apr 22 |
+| ↳ | **[Events Internship (TBT)](https://jobright.ai/jobs/info/69e956cc58811370cb12cb17?utm_campaign=1053&utm_source=git)** | Syracuse, NY | Hybrid | Apr 22 |
+| ↳ | **[Events Internship (TBT)](https://jobright.ai/jobs/info/69e956520a6e09555303b29f?utm_campaign=1053&utm_source=git)** | Henderson, NV | Hybrid | Apr 22 |
 | ↳ | **[Events Internship (TBT)](https://jobright.ai/jobs/info/69e944723aa0c479643a8c09?utm_campaign=1053&utm_source=git)** | Wichita, KS | Hybrid | Apr 22 |
 | ↳ | **[Events Internship (TBT)](https://jobright.ai/jobs/info/69e944c558811370cb12c357?utm_campaign=1053&utm_source=git)** | Topeka, KS | Hybrid | Apr 22 |
 | **[United Nations Development Programme (UNDP)](https://www.undp.org/)** | **[Social Media Video Production Intern (REMOTE)](https://jobright.ai/jobs/info/69e91f7d0a6e095553038e99?utm_campaign=1053&utm_source=git)** | New York, United States | Remote | Apr 22 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Homecare Homebase](http://www.hchb.com)** | **[WVTM News Summer Internship](https://jobright.ai/jobs/info/69e8d8633aa0c479643a54cf?utm_campaign=1053&utm_source=git)** | Birmingham, AL, United States | On Site | Apr 22 |
 | **[Hearst Television](http://www.hearsttelevision.com)** | **[WVTM News Summer Internship](https://jobright.ai/jobs/info/69e8d8513aa0c479643a54be?utm_campaign=1053&utm_source=git)** | Birmingham, AL, United States | On Site | Apr 22 |
 | **[journai](https://thejournai.com)** | **[STUDENT ATHLETE CONTENT CREATOR JOB POSTING](https://jobright.ai/jobs/info/69e8f5af4b0fa35a7076a487?utm_campaign=1053&utm_source=git)** | Marquette, MI | Remote | Apr 22 |
+| **[Octagon](http://www.octagon.com)** | **[Intern (Global Soccer Fan Festivals) (Home Improvement Client)](https://jobright.ai/jobs/info/68f69d4676a51a4307bdc48d?utm_campaign=1053&utm_source=git)** | Houston, Texas, United States | On Site | Apr 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
