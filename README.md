@@ -130,9 +130,9 @@ For a complete list, click the following sortable link below:
 | **[American Public Media Group](https://fitzgeraldtheater.publicradio.org)** | **[Intern, Events - LAist](https://jobright.ai/jobs/info/69ea533c7820c036924ecf59?utm_campaign=1053&utm_source=git)** | Pasadena, California, United States | On Site | Apr 23 |
 | **[Marriott Vacations Worldwide](https://www.marriottvacationsworldwide.com/)** | **[Fall 2026 - College Intern - Hilton Head Island, SC (Recreation)](https://jobright.ai/jobs/info/69ea7faa58811370cb133b96?utm_campaign=1053&utm_source=git)** | Hilton Head Island, SC | On Site | Apr 23 |
 | **[Inspiration Ministries](https://inspiration.org/)** | **[Multimedia Intern](https://jobright.ai/jobs/info/69ea709b4b0fa35a70774077?utm_campaign=1053&utm_source=git)** | Charlotte Metro | On Site | Apr 23 |
-| **[Oak View Group](http://www.oakviewgroup.com)** | **[Event Intern / Part-Time / Rhode Island Convention Center](https://jobright.ai/jobs/info/69ee3c690a6e095553051a30?utm_campaign=1053&utm_source=git)** | 02903 | On Site | Apr 23 |
+| **[Oak View Group](http://www.oakviewgroup.com)** | **[Event Intern / Part-Time / Rhode Island Convention Center](https://jobright.ai/jobs/info/69ee3c0c16b2612c2a126383?utm_campaign=1053&utm_source=git)** | US-RI-Providence | On Site | Apr 23 |
 | ↳ | **[Event Intern / Part-Time / Rhode Island Convention Center](https://jobright.ai/jobs/info/69ee3c6adc35f7132c4ba5a5?utm_campaign=1053&utm_source=git)** | One Sabin Street | On Site | Apr 23 |
-| ↳ | **[Event Intern / Part-Time / Rhode Island Convention Center](https://jobright.ai/jobs/info/69ee3c0c16b2612c2a126383?utm_campaign=1053&utm_source=git)** | US-RI-Providence | On Site | Apr 23 |
+| ↳ | **[Event Intern / Part-Time / Rhode Island Convention Center](https://jobright.ai/jobs/info/69ee3c690a6e095553051a30?utm_campaign=1053&utm_source=git)** | 02903 | On Site | Apr 23 |
 | **[Audacy, Inc.](https://audacyinc.com/)** | **[Programming Intern](https://jobright.ai/jobs/info/699652b3e0bddb6acac4c0f6?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Apr 23 |
 | **[Griffin Media](http://griffincommunications.net/)** | **[New On 6 Summer Sports Intern](https://jobright.ai/jobs/info/69e9e5394b0fa35a707704ef?utm_campaign=1053&utm_source=git)** | Tulsa, OK | On Site | Apr 23 |
 | ↳ | **[News 9 Summer Newsroom Intern](https://jobright.ai/jobs/info/69e9e5417820c036924e9f97?utm_campaign=1053&utm_source=git)** | Oklahoma City, OK | On Site | Apr 23 |
@@ -156,5 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Olympusat](http://www.Olympusat.com)** | **[Content Operations Intern](https://jobright.ai/jobs/info/69e92bdd0a6e095553039e2c?utm_campaign=1053&utm_source=git)** | West Palm Beach, FL | On Site | Apr 22 |
 | **[The Tournament (TBT/TST)](http://thetournament.com/)** | **[Events Internship (TBT)](https://jobright.ai/jobs/info/69e956cc58811370cb12cb14?utm_campaign=1053&utm_source=git)** | Lexington, KY | Hybrid | Apr 22 |
 | ↳ | **[Events Internship (TBT)](https://jobright.ai/jobs/info/69e956cc58811370cb12cb15?utm_campaign=1053&utm_source=git)** | Manhattan, KS | Hybrid | Apr 22 |
-| ↳ | **[Events Internship (TBT)](https://jobright.ai/jobs/info/69e956bb58811370cb12caeb?utm_campaign=1053&utm_source=git)** | Louisville, KY | Hybrid | Apr 22 |
+| ↳ | **[Events Internship (TBT)](https://jobright.ai/jobs/info/69e956bd7820c036924e765b?utm_campaign=1053&utm_source=git)** | South Orange Village, NJ | Hybrid | Apr 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
