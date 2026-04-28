@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Comedy Development Intern, SPT – Summer 2026](https://jobright.ai/jobs/info/69f104528d8d624381a99ba8?utm_campaign=1053&utm_source=git)** | Culver City, California, US | On Site | Apr 28 |
+| **[HarperCollins Publishers](https://www.harpercollins.com/)** | **[2026 Summer Internship - Children's Books Editorial Internship (NYC)](https://jobright.ai/jobs/info/69f103b68feca91f1491df6d?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Apr 28 |
+| **[Toll Brothers](https://www.tollbrothers.com)** | **[2026 Internship Program: Assistant Framing Superintendent Intern](https://jobright.ai/jobs/info/69b834fa56973837413d5ebb?utm_campaign=1053&utm_source=git)** | Charlotte, NC | On Site | Apr 28 |
 | **[The KINN](www.thekinn.co)** | **[Events and Media Intern](https://jobright.ai/jobs/info/69f0fb948feca91f1491dba6?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Apr 28 |
 | **[IMAX](http://www.imax.com)** | **[Intern, Post-Production](https://jobright.ai/jobs/info/69f0f51ab27fee43e8cd663c?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Apr 28 |
 | **[Big Spaceship](http://www.bigspaceship.com)** | **[2026 Summer Internship](https://jobright.ai/jobs/info/69f0e39d8d8d624381a98ece?utm_campaign=1053&utm_source=git)** | New York, New York, United States | Hybrid | Apr 28 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The University of North Carolina at Chapel Hill](https://www.kenan-flagler.unc.edu)** | **[Digital News Intern - WUNC Youth Reporting Internship](https://jobright.ai/jobs/info/69eb5e7f7820c036924f36b6?utm_campaign=1053&utm_source=git)** | North Carolina, United States | Hybrid | Apr 22 |
 | ↳ | **[Embodied Intern - WUNC Youth Reporting Internship](https://jobright.ai/jobs/info/69eb5e0e4b0fa35a7077afd7?utm_campaign=1053&utm_source=git)** | Chapel Hill, NC | Hybrid | Apr 22 |
 | ↳ | **[Newsroom Intern - WUNC Youth Reporting Internships](https://jobright.ai/jobs/info/69eb5e0d4b0fa35a7077afce?utm_campaign=1053&utm_source=git)** | North Carolina, United States | Hybrid | Apr 22 |
-| **[Carolina Public Humanities](http://humanities.unc.edu)** | **[Embodied Intern - WUNC Youth Reporting Internship](https://jobright.ai/jobs/info/69ed98e116b2612c2a124ae3?utm_campaign=1053&utm_source=git)** | Triangle Area | Hybrid | Apr 22 |
-| **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Assistant Assembly Video Editor - BYU-Pathway Worldwide (Full-Time Intern)](https://jobright.ai/jobs/info/69e9be0b0a6e09555303d707?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | Remote | Apr 22 |
-| **[Publicis](http://publicisna.com)** | **[Content Creator Intern](https://jobright.ai/jobs/info/69ec365616b2612c2a1218bc?utm_campaign=1053&utm_source=git)** | New York,New York,United States | On Site | Apr 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
