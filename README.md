@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Big Spaceship](http://www.bigspaceship.com)** | **[2026 Summer Internship](https://jobright.ai/jobs/info/69f0e39d8d8d624381a98ece?utm_campaign=1053&utm_source=git)** | New York, New York, United States | Hybrid | Apr 28 |
+| **[MY ENTERTAINMENT LLC](http://myentertainment.tv)** | **[Summer NonFiction Development Intern 2026](https://jobright.ai/jobs/info/69f0d67e825a315d7ca3497d?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Apr 28 |
 | **[HarperCollins Christian Publishing](https://www.harpercollinschristian.com/)** | **[2026 Summer Internship - Children's Books Editorial Internship (NYC)](https://jobright.ai/jobs/info/69f0c605ecbc8c2f73201a3e?utm_campaign=1053&utm_source=git)** | New York, NY, US | On Site | Apr 28 |
 | ↳ | **[2026 Summer Internship - Children's Books Editorial Internship (NYC)](https://jobright.ai/jobs/info/69f0c5d0825a315d7ca34144?utm_campaign=1053&utm_source=git)** | US-NY-New York | On Site | Apr 28 |
 | **[Los Alamos National Laboratory](http://www.lanl.gov)** | **[Media Production Specialist “Undergraduate Student Intern”](https://jobright.ai/jobs/info/69f0b72fecbc8c2f73200b12?utm_campaign=1053&utm_source=git)** | Los Alamos, NM | Hybrid | Apr 28 |
@@ -110,7 +112,6 @@ For a complete list, click the following sortable link below:
 | **[Omni Hotels & Resorts](http://www.omnihotels.com/)** | **[Omni Cares internship / Culinary](https://jobright.ai/jobs/info/69ebb9f37820c036924f6772?utm_campaign=1053&utm_source=git)** | The Omni Grove Park Inn, 290 Macon Ave, Asheville, North Carolina, United States of America | On Site | Apr 24 |
 | **[Villanova University](http://www.villanueva.edu)** | **[Athletics Broadcast / Game Presentation Intern](https://jobright.ai/jobs/info/69ebdd524b0fa35a7077f2f5?utm_campaign=1053&utm_source=git)** | Villanova, PA | On Site | Apr 24 |
 | ↳ | **[Athletics Creative Video Intern](https://jobright.ai/jobs/info/69ebddf016b2612c2a11f640?utm_campaign=1053&utm_source=git)** | Villanova, PA | On Site | Apr 24 |
-| **[Daktronics](http://www.daktronics.com/en-us)** | **[James Madison University Event Production Intern](https://jobright.ai/jobs/info/6959d946f1f8465b79f0377f?utm_campaign=1053&utm_source=git)** | Harrisonburg, VA | On Site | Apr 24 |
 | **[IMAX](http://www.imax.com)** | **[Intern, Post-Production - DMR](https://jobright.ai/jobs/info/69ebc9cc7820c036924f7521?utm_campaign=1053&utm_source=git)** | Mississauga, Ontario, Canada | On Site | Apr 24 |
 | **[Solar Energy Industries Association](http://www.seia.org)** | **[Video Production Summer Intern 2026](https://jobright.ai/jobs/info/69ebc3397820c036924f6c4a?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Apr 24 |
 | **[WAVY-TV 10](http://wavy.com)** | **[WAVY Unpaid Hampton Roads Show/Production Intern, Summer Semester 2026](https://jobright.ai/jobs/info/6943685e94730b7398768007?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Apr 24 |
@@ -136,9 +137,9 @@ For a complete list, click the following sortable link below:
 | **[American Public Media Group](https://fitzgeraldtheater.publicradio.org)** | **[Intern, Events - LAist](https://jobright.ai/jobs/info/69ea533c7820c036924ecf59?utm_campaign=1053&utm_source=git)** | Pasadena, California, United States | On Site | Apr 23 |
 | **[Marriott Vacations Worldwide](https://www.marriottvacationsworldwide.com/)** | **[Fall 2026 - College Intern - Hilton Head Island, SC (Recreation)](https://jobright.ai/jobs/info/69ea7faa58811370cb133b96?utm_campaign=1053&utm_source=git)** | Hilton Head Island, SC | On Site | Apr 23 |
 | **[Inspiration Ministries](https://inspiration.org/)** | **[Multimedia Intern](https://jobright.ai/jobs/info/69ea709b4b0fa35a70774077?utm_campaign=1053&utm_source=git)** | Charlotte Metro | On Site | Apr 23 |
-| **[Oak View Group](http://www.oakviewgroup.com)** | **[Event Intern / Part-Time / Rhode Island Convention Center](https://jobright.ai/jobs/info/69ee3c6adc35f7132c4ba5a5?utm_campaign=1053&utm_source=git)** | One Sabin Street | On Site | Apr 23 |
+| **[Oak View Group](http://www.oakviewgroup.com)** | **[Event Intern / Part-Time / Rhode Island Convention Center](https://jobright.ai/jobs/info/69ee3c690a6e095553051a30?utm_campaign=1053&utm_source=git)** | 02903 | On Site | Apr 23 |
+| ↳ | **[Event Intern / Part-Time / Rhode Island Convention Center](https://jobright.ai/jobs/info/69ee3c6adc35f7132c4ba5a5?utm_campaign=1053&utm_source=git)** | One Sabin Street | On Site | Apr 23 |
 | ↳ | **[Event Intern / Part-Time / Rhode Island Convention Center](https://jobright.ai/jobs/info/69ee3c0c16b2612c2a126383?utm_campaign=1053&utm_source=git)** | US-RI-Providence | On Site | Apr 23 |
-| ↳ | **[Event Intern / Part-Time / Rhode Island Convention Center](https://jobright.ai/jobs/info/69ee3c690a6e095553051a30?utm_campaign=1053&utm_source=git)** | 02903 | On Site | Apr 23 |
 | **[Audacy, Inc.](https://audacyinc.com/)** | **[Programming Intern](https://jobright.ai/jobs/info/699652b3e0bddb6acac4c0f6?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Apr 23 |
 | **[Griffin Media](http://griffincommunications.net/)** | **[New On 6 Summer Sports Intern](https://jobright.ai/jobs/info/69e9e5394b0fa35a707704ef?utm_campaign=1053&utm_source=git)** | Tulsa, OK | On Site | Apr 23 |
 | ↳ | **[News 9 Summer Newsroom Intern](https://jobright.ai/jobs/info/69e9e5417820c036924e9f97?utm_campaign=1053&utm_source=git)** | Oklahoma City, OK | On Site | Apr 23 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Assistant Assembly Video Editor - BYU-Pathway Worldwide (Full-Time Intern)](https://jobright.ai/jobs/info/69e95187e0cd471b2f13c9ed?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT, United States | Remote | Apr 22 |
 | **[VX Media](https://www.vxmedia.co)** | **[Production Assistant Intern](https://jobright.ai/jobs/info/69e972667820c036924e8158?utm_campaign=1053&utm_source=git)** | NYC Metro Area | On Site | Apr 22 |
 | **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[Assistant Assembly Video Editor - BYU-Pathway Worldwide (Full-Time Intern)](https://jobright.ai/jobs/info/69e94a9a58811370cb12c66c?utm_campaign=1053&utm_source=git)** | 95 N 300 W, Salt Lake City, UT, 84101, US | Remote | Apr 22 |
-| **[Art and Wellness Enterprises](https://awe.wd1.myworkdayjobs.com/Art_and_Wellness)** | **[2026 Performance and Artist-in-Residence Intern: Summer (Housing not provided)](https://jobright.ai/jobs/info/69e93bc97820c036924e6bfe?utm_campaign=1053&utm_source=git)** | Bentonville, AR, US | On Site | Apr 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
