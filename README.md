@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[NBCUniversal](https://www.nbcuniversal.com/)** | **[NBC Local Boston Production & Digital News Internships – Academic Year](https://jobright.ai/jobs/info/69f135d68d8d624381a9af33?utm_campaign=1053&utm_source=git)** | Needham, MA | On Site | Apr 28 |
+| **[Entrepreneurs of Tomorrow](http://www.entrepreneursoftomorrow.org)** | **[Animation Intern (Volunteer)](https://jobright.ai/jobs/info/69f135c4825a315d7ca3697a?utm_campaign=1053&utm_source=git)** | New York, NY | Remote | Apr 28 |
 | **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Comedy Development Intern, SPT – Summer 2026](https://jobright.ai/jobs/info/69f104528d8d624381a99ba8?utm_campaign=1053&utm_source=git)** | Culver City, California, US | On Site | Apr 28 |
 | **[HarperCollins Publishers](https://www.harpercollins.com/)** | **[2026 Summer Internship - Children's Books Editorial Internship (NYC)](https://jobright.ai/jobs/info/69f103b68feca91f1491df6d?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Apr 28 |
 | **[Toll Brothers](https://www.tollbrothers.com)** | **[2026 Internship Program: Assistant Framing Superintendent Intern](https://jobright.ai/jobs/info/69b834fa56973837413d5ebb?utm_campaign=1053&utm_source=git)** | Charlotte, NC | On Site | Apr 28 |
@@ -119,8 +121,8 @@ For a complete list, click the following sortable link below:
 | **[Stride, Inc.](https://www.stridelearning.com)** | **[Content Creator Intern](https://jobright.ai/jobs/info/69ebc43d58811370cb13c7c1?utm_campaign=1053&utm_source=git)** | US Nationwide - Remote, US | Remote | Apr 24 |
 | **[Ovo Talent](https://ovotalent.com/)** | **[Videography Intern (Film/Lifestyle) — Encinitas, CA](https://jobright.ai/jobs/info/69ebef0f58811370cb13d9e7?utm_campaign=1053&utm_source=git)** | Encinitas, CA | On Site | Apr 24 |
 | **[Omni Hotels & Resorts](http://www.omnihotels.com/)** | **[Omni Cares internship / Culinary](https://jobright.ai/jobs/info/69ebb9f37820c036924f6772?utm_campaign=1053&utm_source=git)** | The Omni Grove Park Inn, 290 Macon Ave, Asheville, North Carolina, United States of America | On Site | Apr 24 |
-| **[Villanova University](http://www.villanueva.edu)** | **[Athletics Broadcast / Game Presentation Intern](https://jobright.ai/jobs/info/69ebdd524b0fa35a7077f2f5?utm_campaign=1053&utm_source=git)** | Villanova, PA | On Site | Apr 24 |
-| ↳ | **[Athletics Creative Video Intern](https://jobright.ai/jobs/info/69ebddf016b2612c2a11f640?utm_campaign=1053&utm_source=git)** | Villanova, PA | On Site | Apr 24 |
+| **[Villanova University](http://www.villanueva.edu)** | **[Athletics Creative Video Intern](https://jobright.ai/jobs/info/69ebddf016b2612c2a11f640?utm_campaign=1053&utm_source=git)** | Villanova, PA | On Site | Apr 24 |
+| ↳ | **[Athletics Broadcast / Game Presentation Intern](https://jobright.ai/jobs/info/69ebdd524b0fa35a7077f2f5?utm_campaign=1053&utm_source=git)** | Villanova, PA | On Site | Apr 24 |
 | **[IMAX](http://www.imax.com)** | **[Intern, Post-Production - DMR](https://jobright.ai/jobs/info/69ebc9cc7820c036924f7521?utm_campaign=1053&utm_source=git)** | Mississauga, Ontario, Canada | On Site | Apr 24 |
 | **[Solar Energy Industries Association](http://www.seia.org)** | **[Video Production Summer Intern 2026](https://jobright.ai/jobs/info/69ebc3397820c036924f6c4a?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Apr 24 |
 | **[WAVY-TV 10](http://wavy.com)** | **[WAVY Unpaid Hampton Roads Show/Production Intern, Summer Semester 2026](https://jobright.ai/jobs/info/6943685e94730b7398768007?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Apr 24 |
@@ -146,15 +148,13 @@ For a complete list, click the following sortable link below:
 | **[American Public Media Group](https://fitzgeraldtheater.publicradio.org)** | **[Intern, Events - LAist](https://jobright.ai/jobs/info/69ea533c7820c036924ecf59?utm_campaign=1053&utm_source=git)** | Pasadena, California, United States | On Site | Apr 23 |
 | **[Marriott Vacations Worldwide](https://www.marriottvacationsworldwide.com/)** | **[Fall 2026 - College Intern - Hilton Head Island, SC (Recreation)](https://jobright.ai/jobs/info/69ea7faa58811370cb133b96?utm_campaign=1053&utm_source=git)** | Hilton Head Island, SC | On Site | Apr 23 |
 | **[Inspiration Ministries](https://inspiration.org/)** | **[Multimedia Intern](https://jobright.ai/jobs/info/69ea709b4b0fa35a70774077?utm_campaign=1053&utm_source=git)** | Charlotte Metro | On Site | Apr 23 |
-| **[Oak View Group](http://www.oakviewgroup.com)** | **[Event Intern / Part-Time / Rhode Island Convention Center](https://jobright.ai/jobs/info/69ee3c690a6e095553051a30?utm_campaign=1053&utm_source=git)** | 02903 | On Site | Apr 23 |
+| **[Oak View Group](http://www.oakviewgroup.com)** | **[Event Intern / Part-Time / Rhode Island Convention Center](https://jobright.ai/jobs/info/69ee3c6adc35f7132c4ba5a5?utm_campaign=1053&utm_source=git)** | One Sabin Street | On Site | Apr 23 |
 | ↳ | **[Event Intern / Part-Time / Rhode Island Convention Center](https://jobright.ai/jobs/info/69ee3c0c16b2612c2a126383?utm_campaign=1053&utm_source=git)** | US-RI-Providence | On Site | Apr 23 |
-| ↳ | **[Event Intern / Part-Time / Rhode Island Convention Center](https://jobright.ai/jobs/info/69ee3c6adc35f7132c4ba5a5?utm_campaign=1053&utm_source=git)** | One Sabin Street | On Site | Apr 23 |
+| ↳ | **[Event Intern / Part-Time / Rhode Island Convention Center](https://jobright.ai/jobs/info/69ee3c690a6e095553051a30?utm_campaign=1053&utm_source=git)** | 02903 | On Site | Apr 23 |
 | **[Audacy, Inc.](https://audacyinc.com/)** | **[Programming Intern](https://jobright.ai/jobs/info/699652b3e0bddb6acac4c0f6?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Apr 23 |
 | **[Griffin Media](http://griffincommunications.net/)** | **[New On 6 Summer Sports Intern](https://jobright.ai/jobs/info/69e9e5394b0fa35a707704ef?utm_campaign=1053&utm_source=git)** | Tulsa, OK | On Site | Apr 23 |
 | ↳ | **[News 9 Summer Newsroom Intern](https://jobright.ai/jobs/info/69e9e5417820c036924e9f97?utm_campaign=1053&utm_source=git)** | Oklahoma City, OK | On Site | Apr 23 |
 | ↳ | **[News On 6 Summer Newsroom Intern](https://jobright.ai/jobs/info/69e9e5353aa0c479643abed5?utm_campaign=1053&utm_source=git)** | Tulsa, OK | On Site | Apr 23 |
 | **[Golden Hippo®](https://www.huntrealestate.com/)** | **[Video Editor Intern](https://jobright.ai/jobs/info/69eb942e4b0fa35a7077d05d?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, US | Hybrid | Apr 22 |
 | ↳ | **[Art Production Assistant Intern](https://jobright.ai/jobs/info/69eb971e0a6e095553048e05?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, US | Hybrid | Apr 22 |
-| **[The University of North Carolina at Chapel Hill](https://www.kenan-flagler.unc.edu)** | **[Digital News Intern - WUNC Youth Reporting Internship](https://jobright.ai/jobs/info/69eb5e7f7820c036924f36b6?utm_campaign=1053&utm_source=git)** | North Carolina, United States | Hybrid | Apr 22 |
-| ↳ | **[Embodied Intern - WUNC Youth Reporting Internship](https://jobright.ai/jobs/info/69eb5e0e4b0fa35a7077afd7?utm_campaign=1053&utm_source=git)** | Chapel Hill, NC | Hybrid | Apr 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
