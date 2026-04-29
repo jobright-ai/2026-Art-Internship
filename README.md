@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Capital Impact Partners](http://www.capitalimpact.org)** | **[Video and Photography Intern](https://jobright.ai/jobs/info/69d63f63366bb95ba554bec5?utm_campaign=1053&utm_source=git)** | Arlington, VA | Hybrid | Apr 29 |
 | **[AbelCine](http://abelcine.com)** | **[Rental Internship - New York - Summer 2026](https://jobright.ai/jobs/info/69f179fd8feca91f14920310?utm_campaign=1053&utm_source=git)** | Brooklyn, NY | On Site | Apr 28 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Paid Intern (Photojournalist/Multi-Media Journalist/Producer)](https://jobright.ai/jobs/info/69f179ef8feca91f149202ba?utm_campaign=1053&utm_source=git)** | Wichita, KS | On Site | Apr 28 |
 | **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Arborist Trainee Internship (2026) / Crystal Lake, IL](https://jobright.ai/jobs/info/69f1414b8d8d624381a9b676?utm_campaign=1053&utm_source=git)** | Crystal Lake, IL | On Site | Apr 28 |
@@ -141,8 +142,8 @@ For a complete list, click the following sortable link below:
 | **[University of Utah](http://utah.edu)** | **[Utah Innovation Storytelling Intern](https://jobright.ai/jobs/info/69eb0b987820c036924f0ae9?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Apr 23 |
 | **[WTAE Hearst Pittsburgh](https://www.hearstpittsburgh.com)** | **[Summer News Intern](https://jobright.ai/jobs/info/69b22553d04c69566c74d91b?utm_campaign=1053&utm_source=git)** | Pittsburgh, PA | On Site | Apr 23 |
 | **[Kaseya Center](https://www.kaseyacenter.com)** | **[Broadcast Intern (Season-long)](https://jobright.ai/jobs/info/69eaf28fdc35f7132c4aced5?utm_campaign=1053&utm_source=git)** | Miami, FL | On Site | Apr 23 |
-| **[Carolina Public Humanities](http://humanities.unc.edu)** | **[Embodied Intern - WUNC Youth Reporting Internship](https://jobright.ai/jobs/info/69ed99424b0fa35a70784be8?utm_campaign=1053&utm_source=git)** | Chapel Hill, NC | Hybrid | Apr 23 |
-| ↳ | **[Digital News Intern - WUNC Youth Reporting Internship](https://jobright.ai/jobs/info/69ec86414b0fa35a7078263f?utm_campaign=1053&utm_source=git)** | North Carolina, US | Hybrid | Apr 23 |
+| **[Carolina Public Humanities](http://humanities.unc.edu)** | **[Digital News Intern - WUNC Youth Reporting Internship](https://jobright.ai/jobs/info/69ec86414b0fa35a7078263f?utm_campaign=1053&utm_source=git)** | North Carolina, US | Hybrid | Apr 23 |
+| ↳ | **[Embodied Intern - WUNC Youth Reporting Internship](https://jobright.ai/jobs/info/69ed99424b0fa35a70784be8?utm_campaign=1053&utm_source=git)** | Chapel Hill, NC | Hybrid | Apr 23 |
 | **[Dallas Zoo](http://dallaszoo.com)** | **[Dallas College Internship - Wings of Wonder Show Production Intern](https://jobright.ai/jobs/info/69ea73b03aa0c479643b0137?utm_campaign=1053&utm_source=git)** | Dallas, Texas | On Site | Apr 23 |
 | **[Publicis Groupe ANZ](http://www.publicisgroupeanz.com)** | **[Content Creator Intern](https://jobright.ai/jobs/info/69ea64033aa0c479643af6ab?utm_campaign=1053&utm_source=git)** | US-NY-New York | On Site | Apr 23 |
 | ↳ | **[Content Creator Intern](https://jobright.ai/jobs/info/69ea63ee58811370cb132d9e?utm_campaign=1053&utm_source=git)** | New York, NY, US | On Site | Apr 23 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Event Intern / Part-Time / Rhode Island Convention Center](https://jobright.ai/jobs/info/69ee3c6adc35f7132c4ba5a5?utm_campaign=1053&utm_source=git)** | One Sabin Street | On Site | Apr 23 |
 | **[Audacy, Inc.](https://audacyinc.com/)** | **[Programming Intern](https://jobright.ai/jobs/info/699652b3e0bddb6acac4c0f6?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Apr 23 |
 | **[Griffin Media](http://griffincommunications.net/)** | **[New On 6 Summer Sports Intern](https://jobright.ai/jobs/info/69e9e5394b0fa35a707704ef?utm_campaign=1053&utm_source=git)** | Tulsa, OK | On Site | Apr 23 |
-| ↳ | **[News 9 Summer Newsroom Intern](https://jobright.ai/jobs/info/69e9e5417820c036924e9f97?utm_campaign=1053&utm_source=git)** | Oklahoma City, OK | On Site | Apr 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
