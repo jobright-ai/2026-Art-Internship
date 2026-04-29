@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Collaborative Efforts Animation](collaborativeeffortsanimation.com)** | **[2D Animators and Ink & Paint Artists (Summer Internship / Volunteer)](https://jobright.ai/jobs/info/69f153d0825a315d7ca375db?utm_campaign=1053&utm_source=git)** | United States | Remote | Apr 28 |
 | **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Arborist Trainee Internship (2026) / Crystal Lake, IL](https://jobright.ai/jobs/info/69f1414b8d8d624381a9b676?utm_campaign=1053&utm_source=git)** | Crystal Lake, IL | On Site | Apr 28 |
 | ↳ | **[Arborist Trainee Internship (2026) / Lake Bluff, IL](https://jobright.ai/jobs/info/69f1412e8d8d624381a9b5bd?utm_campaign=1053&utm_source=git)** | Lake Bluff, IL | On Site | Apr 28 |
 | **[NBCUniversal](https://www.nbcuniversal.com/)** | **[NBC Local Boston Production & Digital News Internships – Academic Year](https://jobright.ai/jobs/info/69f135d68d8d624381a9af33?utm_campaign=1053&utm_source=git)** | Needham, MA | On Site | Apr 28 |
@@ -73,7 +74,6 @@ For a complete list, click the following sortable link below:
 | **[The Borgen Project](http://borgenproject.org)** | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/69f0fc538d8d624381a998a9?utm_campaign=1053&utm_source=git)** | Charleston, IL | Remote | Apr 28 |
 | **[The Washington Post](http://www.washingtonpost.com/)** | **[Summer Intern, WP Creator (Social Video & Production)](https://jobright.ai/jobs/info/69d3f403891d7b11cfcf5dc5?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Apr 28 |
 | **[MY ENTERTAINMENT LLC](http://myentertainment.tv)** | **[Summer NonFiction Development Intern 2026](https://jobright.ai/jobs/info/69f0d67e825a315d7ca3497d?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Apr 28 |
-| **[Mount Auburn Cemetery](https://mountauburn.org)** | **[Preservation Craftsperson Intern](https://jobright.ai/jobs/info/699ce86de0bddb6acacbedc5?utm_campaign=1053&utm_source=git)** | Cambridge, MA | On Site | Apr 28 |
 | **[HarperCollins Christian Publishing](https://www.harpercollinschristian.com/)** | **[2026 Summer Internship - Children's Books Editorial Internship (NYC)](https://jobright.ai/jobs/info/69f0c605ecbc8c2f73201a3e?utm_campaign=1053&utm_source=git)** | New York, NY, US | On Site | Apr 28 |
 | ↳ | **[2026 Summer Internship - Children's Books Editorial Internship (NYC)](https://jobright.ai/jobs/info/69f0c5d0825a315d7ca34144?utm_campaign=1053&utm_source=git)** | US-NY-New York | On Site | Apr 28 |
 | **[Los Alamos National Laboratory](http://www.lanl.gov)** | **[Media Production Specialist “Undergraduate Student Intern”](https://jobright.ai/jobs/info/69f0b72fecbc8c2f73200b12?utm_campaign=1053&utm_source=git)** | Los Alamos, NM | Hybrid | Apr 28 |
@@ -150,9 +150,9 @@ For a complete list, click the following sortable link below:
 | **[American Public Media Group](https://fitzgeraldtheater.publicradio.org)** | **[Intern, Events - LAist](https://jobright.ai/jobs/info/69ea533c7820c036924ecf59?utm_campaign=1053&utm_source=git)** | Pasadena, California, United States | On Site | Apr 23 |
 | **[Marriott Vacations Worldwide](https://www.marriottvacationsworldwide.com/)** | **[Fall 2026 - College Intern - Hilton Head Island, SC (Recreation)](https://jobright.ai/jobs/info/69ea7faa58811370cb133b96?utm_campaign=1053&utm_source=git)** | Hilton Head Island, SC | On Site | Apr 23 |
 | **[Inspiration Ministries](https://inspiration.org/)** | **[Multimedia Intern](https://jobright.ai/jobs/info/69ea709b4b0fa35a70774077?utm_campaign=1053&utm_source=git)** | Charlotte Metro | On Site | Apr 23 |
-| **[Oak View Group](http://www.oakviewgroup.com)** | **[Event Intern / Part-Time / Rhode Island Convention Center](https://jobright.ai/jobs/info/69ee3c6adc35f7132c4ba5a5?utm_campaign=1053&utm_source=git)** | One Sabin Street | On Site | Apr 23 |
+| **[Oak View Group](http://www.oakviewgroup.com)** | **[Event Intern / Part-Time / Rhode Island Convention Center](https://jobright.ai/jobs/info/69ee3c0c16b2612c2a126383?utm_campaign=1053&utm_source=git)** | US-RI-Providence | On Site | Apr 23 |
+| ↳ | **[Event Intern / Part-Time / Rhode Island Convention Center](https://jobright.ai/jobs/info/69ee3c6adc35f7132c4ba5a5?utm_campaign=1053&utm_source=git)** | One Sabin Street | On Site | Apr 23 |
 | ↳ | **[Event Intern / Part-Time / Rhode Island Convention Center](https://jobright.ai/jobs/info/69ee3c690a6e095553051a30?utm_campaign=1053&utm_source=git)** | 02903 | On Site | Apr 23 |
-| ↳ | **[Event Intern / Part-Time / Rhode Island Convention Center](https://jobright.ai/jobs/info/69ee3c0c16b2612c2a126383?utm_campaign=1053&utm_source=git)** | US-RI-Providence | On Site | Apr 23 |
 | **[Audacy, Inc.](https://audacyinc.com/)** | **[Programming Intern](https://jobright.ai/jobs/info/699652b3e0bddb6acac4c0f6?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Apr 23 |
 | **[Griffin Media](http://griffincommunications.net/)** | **[New On 6 Summer Sports Intern](https://jobright.ai/jobs/info/69e9e5394b0fa35a707704ef?utm_campaign=1053&utm_source=git)** | Tulsa, OK | On Site | Apr 23 |
 | ↳ | **[News 9 Summer Newsroom Intern](https://jobright.ai/jobs/info/69e9e5417820c036924e9f97?utm_campaign=1053&utm_source=git)** | Oklahoma City, OK | On Site | Apr 23 |
