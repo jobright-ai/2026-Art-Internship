@@ -57,12 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hearst Television](http://www.hearsttelevision.com)** | **[Intern - Runner's World](https://jobright.ai/jobs/info/69f26ddfecbc8c2f7320a73c?utm_campaign=1053&utm_source=git)** | Easton, PA, United States | On Site | Apr 29 |
+| **[FDB (First Databank, Inc.)](http://fdbhealth.com)** | **[Intern - Runner's World](https://jobright.ai/jobs/info/69f26cf4ab4ec4779fff91f5?utm_campaign=1053&utm_source=git)** | Easton, PA, United States | On Site | Apr 29 |
+| **[Life Beyond Clinical Practice](www.lifebeyondclinicalpractice.com)** | **[Content Production and Repurposing Intern](https://jobright.ai/jobs/info/69f269ececbc8c2f7320a5db?utm_campaign=1053&utm_source=git)** | Vernon, British Columbia, Canada | Remote | Apr 29 |
 | **[Tumbling Dumpling Media](https://www.linkedin.com/company/109629621)** | **[Editorial Intern](https://jobright.ai/jobs/info/69f25c6f825a315d7ca3c0c8?utm_campaign=1053&utm_source=git)** | United States | Remote | Apr 29 |
 | **[Tannus America](http://tannusamerica.com)** | **[Paid Video Production Intern: Brand Trails](https://jobright.ai/jobs/info/69f2468d825a315d7ca3bb55?utm_campaign=1053&utm_source=git)** | Springville, UT | On Site | Apr 29 |
 | **[Tyson Foods](http://tysonfoods.com)** | **[Videography Summer Intern - Claryville, Ky](https://jobright.ai/jobs/info/69f24685825a315d7ca3bb28?utm_campaign=1053&utm_source=git)** | Alexandria, KY | On Site | Apr 29 |
 | **[Brown University](https://www.brown.edu)** | **[Athletics Multimedia and Production Intern](https://jobright.ai/jobs/info/69f243ccab4ec4779fff8331?utm_campaign=1053&utm_source=git)** | Providence, RI | On Site | Apr 29 |
 | **[IRONCLAD](https://thisisironclad.com)** | **[INTERNSHIP: Post Production](https://jobright.ai/jobs/info/69f23ce4f154d768fbaa60d3?utm_campaign=1053&utm_source=git)** | Virginia Beach, VA | On Site | Apr 29 |
 | ↳ | **[INTERNSHIP: Production](https://jobright.ai/jobs/info/69f23cc6825a315d7ca3b894?utm_campaign=1053&utm_source=git)** | Virginia Beach, VA | On Site | Apr 29 |
+| **[LearnFormula](https://learnformula.com/)** | **[Digital Content Intern/Co-op (Summer 2026)](https://jobright.ai/jobs/info/69f26a038feca91f14924b18?utm_campaign=1053&utm_source=git)** | Markham, Ontario, Canada | On Site | Apr 29 |
 | **[Local](https://www.localmedia.co/)** | **[Editorial Intern](https://jobright.ai/jobs/info/69f23ba4ab4ec4779fff7fbb?utm_campaign=1053&utm_source=git)** | Twin Cities Area | Hybrid | Apr 29 |
 | **[Tattoo Projects](https://tattooprojects.com/)** | **[Production Intern](https://jobright.ai/jobs/info/69f21c95ecbc8c2f73208e63?utm_campaign=1053&utm_source=git)** | Charlotte, NC | On Site | Apr 29 |
 | **[Brown University](https://www.brown.edu)** | **[Athletics Multimedia and Production Intern](https://jobright.ai/jobs/info/69f208d5825a315d7ca3a3e1?utm_campaign=1053&utm_source=git)** | Pizzitola, US | On Site | Apr 29 |
@@ -134,8 +138,8 @@ For a complete list, click the following sortable link below:
 | **[Stride, Inc.](https://www.stridelearning.com)** | **[Content Creator Intern](https://jobright.ai/jobs/info/69ebc43d58811370cb13c7c1?utm_campaign=1053&utm_source=git)** | US Nationwide - Remote, US | Remote | Apr 24 |
 | **[Ovo Talent](https://ovotalent.com/)** | **[Videography Intern (Film/Lifestyle) — Encinitas, CA](https://jobright.ai/jobs/info/69ebef0f58811370cb13d9e7?utm_campaign=1053&utm_source=git)** | Encinitas, CA | On Site | Apr 24 |
 | **[Omni Hotels & Resorts](http://www.omnihotels.com/)** | **[Omni Cares internship / Culinary](https://jobright.ai/jobs/info/69ebb9f37820c036924f6772?utm_campaign=1053&utm_source=git)** | The Omni Grove Park Inn, 290 Macon Ave, Asheville, North Carolina, United States of America | On Site | Apr 24 |
-| **[Villanova University](http://www.villanueva.edu)** | **[Athletics Creative Video Intern](https://jobright.ai/jobs/info/69ebddf016b2612c2a11f640?utm_campaign=1053&utm_source=git)** | Villanova, PA | On Site | Apr 24 |
-| ↳ | **[Athletics Broadcast / Game Presentation Intern](https://jobright.ai/jobs/info/69ebdd524b0fa35a7077f2f5?utm_campaign=1053&utm_source=git)** | Villanova, PA | On Site | Apr 24 |
+| **[Villanova University](http://www.villanueva.edu)** | **[Athletics Broadcast / Game Presentation Intern](https://jobright.ai/jobs/info/69ebdd524b0fa35a7077f2f5?utm_campaign=1053&utm_source=git)** | Villanova, PA | On Site | Apr 24 |
+| ↳ | **[Athletics Creative Video Intern](https://jobright.ai/jobs/info/69ebddf016b2612c2a11f640?utm_campaign=1053&utm_source=git)** | Villanova, PA | On Site | Apr 24 |
 | **[IMAX](http://www.imax.com)** | **[Intern, Post-Production - DMR](https://jobright.ai/jobs/info/69ebc9cc7820c036924f7521?utm_campaign=1053&utm_source=git)** | Mississauga, Ontario, Canada | On Site | Apr 24 |
 | **[Solar Energy Industries Association](http://www.seia.org)** | **[Video Production Summer Intern 2026](https://jobright.ai/jobs/info/69ebc3397820c036924f6c4a?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Apr 24 |
 | **[Ripken Baseball](https://www.ripkenbaseball.com)** | **[Summer 2026 - Baseball Operations Internship](https://jobright.ai/jobs/info/69eb901258811370cb139e96?utm_campaign=1053&utm_source=git)** | Aberdeen, MD | On Site | Apr 24 |
@@ -151,10 +155,6 @@ For a complete list, click the following sortable link below:
 | **[University of Utah](http://utah.edu)** | **[Utah Innovation Storytelling Intern](https://jobright.ai/jobs/info/69eb0b987820c036924f0ae9?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Apr 23 |
 | **[WTAE Hearst Pittsburgh](https://www.hearstpittsburgh.com)** | **[Summer News Intern](https://jobright.ai/jobs/info/69b22553d04c69566c74d91b?utm_campaign=1053&utm_source=git)** | Pittsburgh, PA | On Site | Apr 23 |
 | **[Kaseya Center](https://www.kaseyacenter.com)** | **[Broadcast Intern (Season-long)](https://jobright.ai/jobs/info/69eaf28fdc35f7132c4aced5?utm_campaign=1053&utm_source=git)** | Miami, FL | On Site | Apr 23 |
-| **[Carolina Public Humanities](http://humanities.unc.edu)** | **[Embodied Intern - WUNC Youth Reporting Internship](https://jobright.ai/jobs/info/69ed99424b0fa35a70784be8?utm_campaign=1053&utm_source=git)** | Chapel Hill, NC | Hybrid | Apr 23 |
-| ↳ | **[Digital News Intern - WUNC Youth Reporting Internship](https://jobright.ai/jobs/info/69ec86414b0fa35a7078263f?utm_campaign=1053&utm_source=git)** | North Carolina, US | Hybrid | Apr 23 |
-| **[Dallas Zoo](http://dallaszoo.com)** | **[Dallas College Internship - Wings of Wonder Show Production Intern](https://jobright.ai/jobs/info/69ea73b03aa0c479643b0137?utm_campaign=1053&utm_source=git)** | Dallas, Texas | On Site | Apr 23 |
-| **[Publicis Groupe ANZ](http://www.publicisgroupeanz.com)** | **[Content Creator Intern](https://jobright.ai/jobs/info/69ea64033aa0c479643af6ab?utm_campaign=1053&utm_source=git)** | US-NY-New York | On Site | Apr 23 |
-| ↳ | **[Content Creator Intern](https://jobright.ai/jobs/info/69ea63ee58811370cb132d9e?utm_campaign=1053&utm_source=git)** | New York, NY, US | On Site | Apr 23 |
-| **[Golden Hippo®](https://www.huntrealestate.com/)** | **[Video Editor Intern](https://jobright.ai/jobs/info/69b3218ea8ac8e70ff674f97?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 23 |
+| **[Carolina Public Humanities](http://humanities.unc.edu)** | **[Digital News Intern - WUNC Youth Reporting Internship](https://jobright.ai/jobs/info/69ec86414b0fa35a7078263f?utm_campaign=1053&utm_source=git)** | North Carolina, US | Hybrid | Apr 23 |
+| ↳ | **[Embodied Intern - WUNC Youth Reporting Internship](https://jobright.ai/jobs/info/69ed99424b0fa35a70784be8?utm_campaign=1053&utm_source=git)** | Chapel Hill, NC | Hybrid | Apr 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
