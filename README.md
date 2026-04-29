@@ -131,6 +131,7 @@ For a complete list, click the following sortable link below:
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid News Intern](https://jobright.ai/jobs/info/69b1c6a4548f140066e79343?utm_campaign=1053&utm_source=git)** | Wichita, KS | On Site | Apr 24 |
 | **[High Impact Promotion](https://highimpactpromo.com/)** | **[Digital Production Unpaid Internship](https://jobright.ai/jobs/info/69eb908d0a6e095553047abf?utm_campaign=1053&utm_source=git)** | Chicago, IL | Hybrid | Apr 24 |
 | **[Bonneville International](http://bonneville.com/)** | **[KSL Sports Summer Internship](https://jobright.ai/jobs/info/69cee6ed398fb071abf8a873?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Apr 24 |
+| **[Spicer Group](https://www.spicergroup.com/)** | **[Digital Marketing Video Creator Intern](https://jobright.ai/jobs/info/69f1b9a8b27fee43e8cdb030?utm_campaign=1053&utm_source=git)** | Saginaw, MI | On Site | Apr 23 |
 | **[Waco Tribune-Herald](http://wacotrib.com)** | **[Technical Director](https://jobright.ai/jobs/info/69eb52da16b2612c2a11af34?utm_campaign=1053&utm_source=git)** | Brockport, NY | On Site | Apr 23 |
 | **[Crew Dog](https://crew-dog.com)** | **[Content Creator Summer Intern](https://jobright.ai/jobs/info/69eada58dc35f7132c4ac7a6?utm_campaign=1053&utm_source=git)** | NYC Metro Area | On Site | Apr 23 |
 | **[Penn State University](http://psu.edu)** | **[Open Publishing Program Bednar Intern](https://jobright.ai/jobs/info/69eb3c2516b2612c2a11a606?utm_campaign=1053&utm_source=git)** | University Park, PA | Hybrid | Apr 23 |
@@ -149,12 +150,11 @@ For a complete list, click the following sortable link below:
 | **[American Public Media Group](https://fitzgeraldtheater.publicradio.org)** | **[Intern, Events - LAist](https://jobright.ai/jobs/info/69ea533c7820c036924ecf59?utm_campaign=1053&utm_source=git)** | Pasadena, California, United States | On Site | Apr 23 |
 | **[Marriott Vacations Worldwide](https://www.marriottvacationsworldwide.com/)** | **[Fall 2026 - College Intern - Hilton Head Island, SC (Recreation)](https://jobright.ai/jobs/info/69ea7faa58811370cb133b96?utm_campaign=1053&utm_source=git)** | Hilton Head Island, SC | On Site | Apr 23 |
 | **[Inspiration Ministries](https://inspiration.org/)** | **[Multimedia Intern](https://jobright.ai/jobs/info/69ea709b4b0fa35a70774077?utm_campaign=1053&utm_source=git)** | Charlotte Metro | On Site | Apr 23 |
-| **[Oak View Group](http://www.oakviewgroup.com)** | **[Event Intern / Part-Time / Rhode Island Convention Center](https://jobright.ai/jobs/info/69ee3c690a6e095553051a30?utm_campaign=1053&utm_source=git)** | 02903 | On Site | Apr 23 |
+| **[Oak View Group](http://www.oakviewgroup.com)** | **[Event Intern / Part-Time / Rhode Island Convention Center](https://jobright.ai/jobs/info/69ee3c6adc35f7132c4ba5a5?utm_campaign=1053&utm_source=git)** | One Sabin Street | On Site | Apr 23 |
+| ↳ | **[Event Intern / Part-Time / Rhode Island Convention Center](https://jobright.ai/jobs/info/69ee3c690a6e095553051a30?utm_campaign=1053&utm_source=git)** | 02903 | On Site | Apr 23 |
 | ↳ | **[Event Intern / Part-Time / Rhode Island Convention Center](https://jobright.ai/jobs/info/69ee3c0c16b2612c2a126383?utm_campaign=1053&utm_source=git)** | US-RI-Providence | On Site | Apr 23 |
-| ↳ | **[Event Intern / Part-Time / Rhode Island Convention Center](https://jobright.ai/jobs/info/69ee3c6adc35f7132c4ba5a5?utm_campaign=1053&utm_source=git)** | One Sabin Street | On Site | Apr 23 |
 | **[Audacy, Inc.](https://audacyinc.com/)** | **[Programming Intern](https://jobright.ai/jobs/info/699652b3e0bddb6acac4c0f6?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Apr 23 |
 | **[Griffin Media](http://griffincommunications.net/)** | **[New On 6 Summer Sports Intern](https://jobright.ai/jobs/info/69e9e5394b0fa35a707704ef?utm_campaign=1053&utm_source=git)** | Tulsa, OK | On Site | Apr 23 |
 | ↳ | **[News 9 Summer Newsroom Intern](https://jobright.ai/jobs/info/69e9e5417820c036924e9f97?utm_campaign=1053&utm_source=git)** | Oklahoma City, OK | On Site | Apr 23 |
 | ↳ | **[News On 6 Summer Newsroom Intern](https://jobright.ai/jobs/info/69e9e5353aa0c479643abed5?utm_campaign=1053&utm_source=git)** | Tulsa, OK | On Site | Apr 23 |
-| **[Golden Hippo®](https://www.huntrealestate.com/)** | **[Video Editor Intern](https://jobright.ai/jobs/info/69eb942e4b0fa35a7077d05d?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, US | Hybrid | Apr 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
