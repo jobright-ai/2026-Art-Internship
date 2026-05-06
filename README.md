@@ -72,6 +72,7 @@ For a complete list, click the following sortable link below:
 | **[University of South Florida](http://www.usf.edu)** | **[IAE Videography Internship - Summer 2026](https://jobright.ai/jobs/info/69fae37f87a4820e6da82be6?utm_campaign=1053&utm_source=git)** | Tampa, FL | On Site | May 05 |
 | **[WCIA 3](https://www.wcia.com/)** | **[Unpaid Intern, Weather](https://jobright.ai/jobs/info/69c20a5e75f7ff1cd810a997?utm_campaign=1053&utm_source=git)** | Champaign, IL | On Site | May 05 |
 | **[Jpixx LLC](https://jpixx.com/)** | **[Video Production Intern (Paid/Entry Level)](https://jobright.ai/jobs/info/69fb08c186d5cd46527d1f12?utm_campaign=1053&utm_source=git)** | Virginia Beach, VA | On Site | May 05 |
+| **[GOLFZON America](https://golfzongolf.com/)** | **[Competitions Intern](https://jobright.ai/jobs/info/69fb187de1560008411562ae?utm_campaign=1053&utm_source=git)** | Chantilly, VA | On Site | May 05 |
 | **[Vosyn](https://vosyn.ai)** | **[Podcast & Media Production Intern – Events & TEDx Programs (Startup Programs)](https://jobright.ai/jobs/info/69f95ebd0b36ff035475e04b?utm_campaign=1053&utm_source=git)** | Etobicoke, ON | Hybrid | May 04 |
 | ↳ | **[Video Production Intern – Events & Media Programs](https://jobright.ai/jobs/info/69f95eacdb88714bcdfbe921?utm_campaign=1053&utm_source=git)** | Etobicoke, ON | Hybrid | May 04 |
 | **[Geotab](http://www.geotab.com/)** | **[Video Production Intern(Fall/ September 2026, 12 Months)](https://jobright.ai/jobs/info/69f93a52a3d34b4f76f60cc0?utm_campaign=1053&utm_source=git)** | Oakville, Ontario - Canada | Hybrid | May 04 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[THE·TEAM](https://www.linkedin.com/redir/suspicious-page?url=http%3A%2F%2Fthe%2eteam)** | **[Revue Non Fiction Intern](https://jobright.ai/jobs/info/69f295b68d8d624381aa1acc?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 29 |
 | **[POOLHOUSE](https://www.poolhouse.co)** | **[Post-Production Intern](https://jobright.ai/jobs/info/69f2932bf154d768fbaa7d39?utm_campaign=1053&utm_source=git)** | Richmond, Virginia, United States | On Site | Apr 29 |
 | **[National Association of State Procurement Officials](https://www.naspo.org/)** | **[Video Editor Intern](https://jobright.ai/jobs/info/69f2932bf154d768fbaa7d42?utm_campaign=1053&utm_source=git)** | Lexington,KY,US | Hybrid | Apr 29 |
-| **[VIZ Media](http://www.viz.com)** | **[Editorial Intern (P/T, Paid)](https://jobright.ai/jobs/info/69f284c98d8d624381aa1497?utm_campaign=1053&utm_source=git)** | San Francisco, California, United States | On Site | Apr 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
