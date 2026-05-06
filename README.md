@@ -57,12 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Color Beyond](www.colorbeyond.com)** | **[Video  Production Intern](https://jobright.ai/jobs/info/69fa8ac4db88714bcdfc3643?utm_campaign=1053&utm_source=git)** | Cleveland, OH | On Site | May 05 |
 | **[FC Dallas](http://www.fcdallas.com)** | **[2026 Summer Internship / Soccer Celebration](https://jobright.ai/jobs/info/69fa7640a3d34b4f76f65cd4?utm_campaign=1053&utm_source=git)** | Frisco, Texas | On Site | May 05 |
 | **[Real Chemistry](https://www.realchemistry.com)** | **[2026 Summer Intern (Creative Production)](https://jobright.ai/jobs/info/69fa74fd582f810f9c8d6170?utm_campaign=1053&utm_source=git)** | Water Street - New York | Hybrid | May 05 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[WAVY Unpaid Digital NewsDesk Intern, Fall 2026](https://jobright.ai/jobs/info/69fa704ea3d34b4f76f65b5a?utm_campaign=1053&utm_source=git)** | VA, Portsmouth, US | On Site | May 05 |
 | **[Pauv](https://www.pauv.com/)** | **[Videographer - Summer Intern](https://jobright.ai/jobs/info/69fa3e1681706a5bd21749ca?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | May 05 |
-| **[Complex NTWRK](https://www.complex.com)** | **[Editor Video Production Management Intern - College Credit](https://jobright.ai/jobs/info/69e7b2143aa0c4796439b645?utm_campaign=1053&utm_source=git)** | New York | On Site | May 05 |
-| ↳ | **[Content and Creative Operations Intern - College Credit](https://jobright.ai/jobs/info/69e7b2163aa0c4796439b654?utm_campaign=1053&utm_source=git)** | New York | On Site | May 05 |
+| **[Complex NTWRK](https://www.complex.com)** | **[Content and Creative Operations Intern - College Credit](https://jobright.ai/jobs/info/69e7b2163aa0c4796439b654?utm_campaign=1053&utm_source=git)** | New York | On Site | May 05 |
+| ↳ | **[Editor Video Production Management Intern - College Credit](https://jobright.ai/jobs/info/69e7b2143aa0c4796439b645?utm_campaign=1053&utm_source=git)** | New York | On Site | May 05 |
 | **[Vydia](http://www.vydia.com)** | **[Content Operations Coordinator (Internship)](https://jobright.ai/jobs/info/69fa2a7e582f810f9c8d4758?utm_campaign=1053&utm_source=git)** | Hybrid Remote- FL, IL, NJ, NY, PA, TN, or TX | Hybrid | May 05 |
 | **[WCIA 3](https://www.wcia.com/)** | **[Unpaid Intern, Weather](https://jobright.ai/jobs/info/69c20a5e75f7ff1cd810a997?utm_campaign=1053&utm_source=git)** | Champaign, IL | On Site | May 05 |
 | **[Vosyn](https://vosyn.ai)** | **[Podcast & Media Production Intern – Events & TEDx Programs (Startup Programs)](https://jobright.ai/jobs/info/69f95ebd0b36ff035475e04b?utm_campaign=1053&utm_source=git)** | Etobicoke, ON | Hybrid | May 04 |
@@ -144,17 +145,16 @@ For a complete list, click the following sortable link below:
 | **[POOLHOUSE](https://www.poolhouse.co)** | **[Post-Production Intern](https://jobright.ai/jobs/info/69f2932bf154d768fbaa7d39?utm_campaign=1053&utm_source=git)** | Richmond, Virginia, United States | On Site | Apr 29 |
 | **[National Association of State Procurement Officials](https://www.naspo.org/)** | **[Video Editor Intern](https://jobright.ai/jobs/info/69f2932bf154d768fbaa7d42?utm_campaign=1053&utm_source=git)** | Lexington,KY,US | Hybrid | Apr 29 |
 | **[VIZ Media](http://www.viz.com)** | **[Editorial Intern (P/T, Paid)](https://jobright.ai/jobs/info/69f284c98d8d624381aa1497?utm_campaign=1053&utm_source=git)** | San Francisco, California, United States | On Site | Apr 29 |
-| **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69f279d4f154d768fbaa718f?utm_campaign=1053&utm_source=git)** | Greenbrier River, WV | On Site | Apr 29 |
-| ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69f279d4f154d768fbaa7190?utm_campaign=1053&utm_source=git)** | St Louis, MO | On Site | Apr 29 |
+| **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69f279d4f154d768fbaa7190?utm_campaign=1053&utm_source=git)** | St Louis, MO | On Site | Apr 29 |
+| ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69f279d4f154d768fbaa718f?utm_campaign=1053&utm_source=git)** | Greenbrier River, WV | On Site | Apr 29 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69f279d4f154d768fbaa7194?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | Apr 29 |
-| ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69f279d4f154d768fbaa7191?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Apr 29 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69f279d4f154d768fbaa7192?utm_campaign=1053&utm_source=git)** | Savannah, GA | On Site | Apr 29 |
-| ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69f279d38feca91f14924e8b?utm_campaign=1053&utm_source=git)** | Raleigh, NC | On Site | Apr 29 |
+| ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69f279d4f154d768fbaa7191?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Apr 29 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69f279d3825a315d7ca3cbec?utm_campaign=1053&utm_source=git)** | Evanston, IL | On Site | Apr 29 |
+| ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69f279d38feca91f14924e8b?utm_campaign=1053&utm_source=git)** | Raleigh, NC | On Site | Apr 29 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69f279d28feca91f14924e8a?utm_campaign=1053&utm_source=git)** | Minneapolis, MN | On Site | Apr 29 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69f279d28feca91f14924e89?utm_campaign=1053&utm_source=git)** | Bloomington, IN | On Site | Apr 29 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69f279598d8d624381aa1029?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Apr 29 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69f2794f8d8d624381aa0f98?utm_campaign=1053&utm_source=git)** | Albany, NY | On Site | Apr 29 |
-| ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69f2794f8d8d624381aa0fa1?utm_campaign=1053&utm_source=git)** | Wichita, KS | On Site | Apr 29 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69f2794f8d8d624381aa0f93?utm_campaign=1053&utm_source=git)** | Newark, NJ | On Site | Apr 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
