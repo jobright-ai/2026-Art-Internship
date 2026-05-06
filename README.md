@@ -59,11 +59,13 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Aeroseal](https://aeroseal.com/)** | **[Video Editor Intern](https://jobright.ai/jobs/info/69fb5293d21cf86d1e3d21a3?utm_campaign=1053&utm_source=git)** | Miamisburg, OH | On Site | May 06 |
 | **[WCIA 3](https://www.wcia.com/)** | **[Unpaid Intern, Sports](https://jobright.ai/jobs/info/69c28299a5b03d40c194e14d?utm_campaign=1053&utm_source=git)** | Champaign, IL | On Site | May 06 |
+| **[Double Wood Supplements](https://doublewoodsupplements.com/)** | **[TikTok Shop Intern](https://jobright.ai/jobs/info/69fb5f8787a4820e6da879ec?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | May 06 |
 | **[Northern Texas PGA](https://www.ntpga.com)** | **[Fall 2026 Communication & Digital Content Internship](https://jobright.ai/jobs/info/69fb510a18b94b2515be14d5?utm_campaign=1053&utm_source=git)** | Frisco, TX | On Site | May 06 |
 | **[Planting Good Seeds](www.plantinggoodseeds.org)** | **[Global Impact Fellowship](https://jobright.ai/jobs/info/69fadc3486d5cd46527d0595?utm_campaign=1053&utm_source=git)** | South Carolina, United States | On Site | May 05 |
 | **[Arcwize](https://www.arcwize.com)** | **[Journalism Intern](https://jobright.ai/jobs/info/69fadc5887a4820e6da8287a?utm_campaign=1053&utm_source=git)** | United States | Remote | May 05 |
 | **[Pearl West](https://www.pearlwestgroup.com)** | **[TikTok Shop Intern](https://jobright.ai/jobs/info/69fad4aa38179b6f1ae72618?utm_campaign=1053&utm_source=git)** | Vancouver, British Columbia, Canada | Hybrid | May 05 |
 | **[WAVY-TV 10](http://wavy.com)** | **[WAVY Unpaid Digital NewsDesk Intern, Fall 2026](https://jobright.ai/jobs/info/69fb5053ffa73664aeafe7d5?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | May 05 |
+| ↳ | **[WAVY Unpaid Sports Intern, Fall 2026](https://jobright.ai/jobs/info/69fb56bb18b94b2515be1822?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | May 05 |
 | **[HarperCollins Publishers](https://www.harpercollins.com/)** | **[2026 Summer Internship - Children's Books Editorial Internship (NYC)](https://jobright.ai/jobs/info/69f103b68feca91f1491df6d?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | May 05 |
 | **[Color Beyond](www.colorbeyond.com)** | **[Video  Production Intern](https://jobright.ai/jobs/info/69fa8ac4db88714bcdfc3643?utm_campaign=1053&utm_source=git)** | Cleveland, OH | On Site | May 05 |
 | **[FC Dallas](http://www.fcdallas.com)** | **[2026 Summer Internship / Soccer Celebration](https://jobright.ai/jobs/info/69fa7640a3d34b4f76f65cd4?utm_campaign=1053&utm_source=git)** | Frisco, Texas | On Site | May 05 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[KQED](http://www.kqed.org)** | **[Newscast Intern](https://jobright.ai/jobs/info/69f7745b0b36ff0354757fb5?utm_campaign=1053&utm_source=git)** | San Francisco, CA | Hybrid | Apr 30 |
 | **[Hearst Connecticut Media Group](https://hearstmediact.com)** | **[Reporter Intern](https://jobright.ai/jobs/info/69d40fca366bb95ba553a20a?utm_campaign=1053&utm_source=git)** | Meriden, CT | On Site | Apr 30 |
 | **[WMUR-TV](http://www.wmur.com/)** | **[Creative Services Intern](https://jobright.ai/jobs/info/69ba8f1506c1ba00c54ca4eb?utm_campaign=1053&utm_source=git)** | Manchester, NH | On Site | Apr 30 |
-| **[Gagosian](http://www.gagosian.com)** | **[Internship Program - Beverly Hills (Fall, 2026)](https://jobright.ai/jobs/info/69f30c2a34c4af7a79ab8bb5?utm_campaign=1053&utm_source=git)** | Beverly Hills, CA | On Site | Apr 29 |
-| **[National Association of State Procurement Officials](https://www.naspo.org/)** | **[Video Editor Intern](https://jobright.ai/jobs/info/69f2ca84825a315d7ca3fa32?utm_campaign=1053&utm_source=git)** | Lexington, KY | Hybrid | Apr 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
