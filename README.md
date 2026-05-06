@@ -59,10 +59,10 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Aeroseal](https://aeroseal.com/)** | **[Video Editor Intern](https://jobright.ai/jobs/info/69fb5293d21cf86d1e3d21a3?utm_campaign=1053&utm_source=git)** | Miamisburg, OH | On Site | May 06 |
 | **[WCIA 3](https://www.wcia.com/)** | **[Unpaid Intern, Sports](https://jobright.ai/jobs/info/69c28299a5b03d40c194e14d?utm_campaign=1053&utm_source=git)** | Champaign, IL | On Site | May 06 |
+| **[WVTM 13](https://www.wvtm13.com)** | **[Creative Services Intern](https://jobright.ai/jobs/info/69c2d80194007a2195dedb1a?utm_campaign=1053&utm_source=git)** | Birmingham, AL | On Site | May 06 |
 | **[Double Wood Supplements](https://doublewoodsupplements.com/)** | **[TikTok Shop Intern](https://jobright.ai/jobs/info/69fb5f8787a4820e6da879ec?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | May 06 |
 | **[Northern Texas PGA](https://www.ntpga.com)** | **[Fall 2026 Communication & Digital Content Internship](https://jobright.ai/jobs/info/69fb510a18b94b2515be14d5?utm_campaign=1053&utm_source=git)** | Frisco, TX | On Site | May 06 |
 | **[Planting Good Seeds](www.plantinggoodseeds.org)** | **[Global Impact Fellowship](https://jobright.ai/jobs/info/69fadc3486d5cd46527d0595?utm_campaign=1053&utm_source=git)** | South Carolina, United States | On Site | May 05 |
-| **[Arcwize](https://www.arcwize.com)** | **[Journalism Intern](https://jobright.ai/jobs/info/69fadc5887a4820e6da8287a?utm_campaign=1053&utm_source=git)** | United States | Remote | May 05 |
 | **[Pearl West](https://www.pearlwestgroup.com)** | **[TikTok Shop Intern](https://jobright.ai/jobs/info/69fad4aa38179b6f1ae72618?utm_campaign=1053&utm_source=git)** | Vancouver, British Columbia, Canada | Hybrid | May 05 |
 | **[WAVY-TV 10](http://wavy.com)** | **[WAVY Unpaid Digital NewsDesk Intern, Fall 2026](https://jobright.ai/jobs/info/69fb5053ffa73664aeafe7d5?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | May 05 |
 | ↳ | **[WAVY Unpaid Sports Intern, Fall 2026](https://jobright.ai/jobs/info/69fb56bb18b94b2515be1822?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | May 05 |
@@ -102,6 +102,7 @@ For a complete list, click the following sortable link below:
 | **[momentm](https://www.momentmlife.com/)** | **[TikTok Intern](https://jobright.ai/jobs/info/69f8db78582f810f9c8ce5d1?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | May 04 |
 | **[Bandon Dunes Golf Resort](https://www.bandondunesgolf.com/)** | **[Golf Operations Internship @ Bandon Dunes Golf Resort](https://jobright.ai/jobs/info/69f8cd48582f810f9c8ce41f?utm_campaign=1053&utm_source=git)** | Bandon, OR | On Site | May 04 |
 | **[National Education Association](http://www.nea.org)** | **[NEA Editorial Intern, Center for Communications (Spring/Summer 2026)](https://jobright.ai/jobs/info/69d5e037366bb95ba5549935?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | May 04 |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[News Internship](https://jobright.ai/jobs/info/67f965625c2cf2888f6ee1b7?utm_campaign=1053&utm_source=git)** | Dothan, AL | On Site | May 04 |
 | **[Inc. Magazine](https://www.inc.com)** | **[Editorial Intern](https://jobright.ai/jobs/info/69fadc5686d5cd46527d05ac?utm_campaign=1053&utm_source=git)** | NYC Metro Area | Hybrid | May 04 |
 | **[Waco Tribune-Herald](http://wacotrib.com)** | **[Video Producer](https://jobright.ai/jobs/info/69fa9fdd18b94b2515bdba82?utm_campaign=1053&utm_source=git)** | Wilmington, NC | On Site | May 03 |
 | ↳ | **[Collaborative Pianist](https://jobright.ai/jobs/info/69faf6bd38179b6f1ae742c2?utm_campaign=1053&utm_source=git)** | Hamilton, NY | On Site | May 03 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[SWCA Environmental Consultants](https://www.swca.com/)** | **[Cultural Resources Intern](https://jobright.ai/jobs/info/69b25401ae2a534885e943ad?utm_campaign=1053&utm_source=git)** | Amherst, MA | On Site | Apr 30 |
 | **[KQED](http://www.kqed.org)** | **[Newscast Intern](https://jobright.ai/jobs/info/69f7745b0b36ff0354757fb5?utm_campaign=1053&utm_source=git)** | San Francisco, CA | Hybrid | Apr 30 |
 | **[Hearst Connecticut Media Group](https://hearstmediact.com)** | **[Reporter Intern](https://jobright.ai/jobs/info/69d40fca366bb95ba553a20a?utm_campaign=1053&utm_source=git)** | Meriden, CT | On Site | Apr 30 |
-| **[WMUR-TV](http://www.wmur.com/)** | **[Creative Services Intern](https://jobright.ai/jobs/info/69ba8f1506c1ba00c54ca4eb?utm_campaign=1053&utm_source=git)** | Manchester, NH | On Site | Apr 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
