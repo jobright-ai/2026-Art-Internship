@@ -57,9 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Aeroseal](https://aeroseal.com/)** | **[Video Editor Intern](https://jobright.ai/jobs/info/69fb5293d21cf86d1e3d21a3?utm_campaign=1053&utm_source=git)** | Miamisburg, OH | On Site | May 06 |
+| **[WCIA 3](https://www.wcia.com/)** | **[Unpaid Intern, Sports](https://jobright.ai/jobs/info/69c28299a5b03d40c194e14d?utm_campaign=1053&utm_source=git)** | Champaign, IL | On Site | May 06 |
+| **[Northern Texas PGA](https://www.ntpga.com)** | **[Fall 2026 Communication & Digital Content Internship](https://jobright.ai/jobs/info/69fb510a18b94b2515be14d5?utm_campaign=1053&utm_source=git)** | Frisco, TX | On Site | May 06 |
 | **[Planting Good Seeds](www.plantinggoodseeds.org)** | **[Global Impact Fellowship](https://jobright.ai/jobs/info/69fadc3486d5cd46527d0595?utm_campaign=1053&utm_source=git)** | South Carolina, United States | On Site | May 05 |
 | **[Arcwize](https://www.arcwize.com)** | **[Journalism Intern](https://jobright.ai/jobs/info/69fadc5887a4820e6da8287a?utm_campaign=1053&utm_source=git)** | United States | Remote | May 05 |
 | **[Pearl West](https://www.pearlwestgroup.com)** | **[TikTok Shop Intern](https://jobright.ai/jobs/info/69fad4aa38179b6f1ae72618?utm_campaign=1053&utm_source=git)** | Vancouver, British Columbia, Canada | Hybrid | May 05 |
+| **[WAVY-TV 10](http://wavy.com)** | **[WAVY Unpaid Digital NewsDesk Intern, Fall 2026](https://jobright.ai/jobs/info/69fb5053ffa73664aeafe7d5?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | May 05 |
 | **[HarperCollins Publishers](https://www.harpercollins.com/)** | **[2026 Summer Internship - Children's Books Editorial Internship (NYC)](https://jobright.ai/jobs/info/69f103b68feca91f1491df6d?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | May 05 |
 | **[Color Beyond](www.colorbeyond.com)** | **[Video  Production Intern](https://jobright.ai/jobs/info/69fa8ac4db88714bcdfc3643?utm_campaign=1053&utm_source=git)** | Cleveland, OH | On Site | May 05 |
 | **[FC Dallas](http://www.fcdallas.com)** | **[2026 Summer Internship / Soccer Celebration](https://jobright.ai/jobs/info/69fa7640a3d34b4f76f65cd4?utm_campaign=1053&utm_source=git)** | Frisco, Texas | On Site | May 05 |
@@ -67,10 +71,9 @@ For a complete list, click the following sortable link below:
 | **[The Ambony](http://www.manofthehourmag.com/)** | **[Entertainment Journalist (Internship)](https://jobright.ai/jobs/info/69fb3d1d86d5cd46527d41f1?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Remote | May 05 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[WAVY Unpaid Digital NewsDesk Intern, Fall 2026](https://jobright.ai/jobs/info/69fa704ea3d34b4f76f65b5a?utm_campaign=1053&utm_source=git)** | VA, Portsmouth, US | On Site | May 05 |
 | **[Real Chemistry](https://www.realchemistry.com)** | **[2026 Summer Intern (Creative Production)](https://jobright.ai/jobs/info/69fb3d0686d5cd46527d41e0?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | May 05 |
-| **[Glendale Arts](http://glendalearts.org/)** | **[Film Festival Program Intern](https://jobright.ai/jobs/info/69fb26d5d21cf86d1e3d017d?utm_campaign=1053&utm_source=git)** | Glendale, CA | Hybrid | May 05 |
 | **[Pauv](https://www.pauv.com/)** | **[Videographer - Summer Intern](https://jobright.ai/jobs/info/69fa3e1681706a5bd21749ca?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | May 05 |
-| **[Complex NTWRK](https://www.complex.com)** | **[Content and Creative Operations Intern - College Credit](https://jobright.ai/jobs/info/69e7b2163aa0c4796439b654?utm_campaign=1053&utm_source=git)** | New York | On Site | May 05 |
-| ↳ | **[Editor Video Production Management Intern - College Credit](https://jobright.ai/jobs/info/69e7b2143aa0c4796439b645?utm_campaign=1053&utm_source=git)** | New York | On Site | May 05 |
+| **[Complex NTWRK](https://www.complex.com)** | **[Editor Video Production Management Intern - College Credit](https://jobright.ai/jobs/info/69e7b2143aa0c4796439b645?utm_campaign=1053&utm_source=git)** | New York | On Site | May 05 |
+| ↳ | **[Content and Creative Operations Intern - College Credit](https://jobright.ai/jobs/info/69e7b2163aa0c4796439b654?utm_campaign=1053&utm_source=git)** | New York | On Site | May 05 |
 | **[Vydia](http://www.vydia.com)** | **[Content Operations Coordinator (Internship)](https://jobright.ai/jobs/info/69fa2a7e582f810f9c8d4758?utm_campaign=1053&utm_source=git)** | Hybrid Remote- FL, IL, NJ, NY, PA, TN, or TX | Hybrid | May 05 |
 | **[University of South Florida](http://www.usf.edu)** | **[IAE Videography Internship - Summer 2026](https://jobright.ai/jobs/info/69fae37f87a4820e6da82be6?utm_campaign=1053&utm_source=git)** | Tampa, FL | On Site | May 05 |
 | **[WCIA 3](https://www.wcia.com/)** | **[Unpaid Intern, Weather](https://jobright.ai/jobs/info/69c20a5e75f7ff1cd810a997?utm_campaign=1053&utm_source=git)** | Champaign, IL | On Site | May 05 |
@@ -79,6 +82,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Video Production Intern – Events & Media Programs](https://jobright.ai/jobs/info/69f95eacdb88714bcdfbe921?utm_campaign=1053&utm_source=git)** | Etobicoke, ON | Hybrid | May 04 |
 | **[Geotab](http://www.geotab.com/)** | **[Video Production Intern(Fall/ September 2026, 12 Months)](https://jobright.ai/jobs/info/69f93a52a3d34b4f76f60cc0?utm_campaign=1053&utm_source=git)** | Oakville, Ontario - Canada | Hybrid | May 04 |
 | **[Inflection Point Entertainment](https://inflectionent.com/)** | **[Production Intern](https://jobright.ai/jobs/info/69f98310db88714bcdfbf05f?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | May 04 |
+| **[Canucks Sports & Entertainment (CSE)](https://jobs.canucks.com/)** | **[Live Entertainment Intern](https://jobright.ai/jobs/info/69fb494f87a4820e6da86ebc?utm_campaign=1053&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | May 04 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Research Intern - Freeman Chair in China Studies](https://jobright.ai/jobs/info/69fae67e86d5cd46527d0c64?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | May 04 |
 | **[Dôen](https://shopdoen.com)** | **[Production Intern](https://jobright.ai/jobs/info/69fae7b386d5cd46527d0f4c?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | May 04 |
 | **[Strange Ventures](https://www.strangevc.com )** | **[Cinematographer / Videographer Intern (Content & Socials)](https://jobright.ai/jobs/info/69fae7ac38179b6f1ae736b3?utm_campaign=1053&utm_source=git)** | United States | Remote | May 04 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[WMUR-TV](http://www.wmur.com/)** | **[Creative Services Intern](https://jobright.ai/jobs/info/69ba8f1506c1ba00c54ca4eb?utm_campaign=1053&utm_source=git)** | Manchester, NH | On Site | Apr 30 |
 | **[Gagosian](http://www.gagosian.com)** | **[Internship Program - Beverly Hills (Fall, 2026)](https://jobright.ai/jobs/info/69f30c2a34c4af7a79ab8bb5?utm_campaign=1053&utm_source=git)** | Beverly Hills, CA | On Site | Apr 29 |
 | **[National Association of State Procurement Officials](https://www.naspo.org/)** | **[Video Editor Intern](https://jobright.ai/jobs/info/69f2ca84825a315d7ca3fa32?utm_campaign=1053&utm_source=git)** | Lexington, KY | Hybrid | Apr 29 |
-| **[Bonneville International](http://bonneville.com/)** | **[Arizona Sports Digital Internship](https://jobright.ai/jobs/info/69f2c4b3ab4ec4779fffbfbe?utm_campaign=1053&utm_source=git)** | Phoenix, AZ | On Site | Apr 29 |
-| **[Starz](http://www.starz.com/)** | **[STARZ Intern, Content Operations - Video](https://jobright.ai/jobs/info/699edb7481476f6176b8502a?utm_campaign=1053&utm_source=git)** | Greenwood Village, CO | On Site | Apr 29 |
-| **[THE·TEAM](https://www.linkedin.com/redir/suspicious-page?url=http%3A%2F%2Fthe%2eteam)** | **[Revue Non Fiction Intern](https://jobright.ai/jobs/info/69f295b68d8d624381aa1acc?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 29 |
-| **[POOLHOUSE](https://www.poolhouse.co)** | **[Post-Production Intern](https://jobright.ai/jobs/info/69f2932bf154d768fbaa7d39?utm_campaign=1053&utm_source=git)** | Richmond, Virginia, United States | On Site | Apr 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
