@@ -58,6 +58,8 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Aeroseal](https://aeroseal.com/)** | **[Video Editor Intern](https://jobright.ai/jobs/info/69fb5293d21cf86d1e3d21a3?utm_campaign=1053&utm_source=git)** | Miamisburg, OH | On Site | May 06 |
+| **[GOLFZON America](https://golfzongolf.com/)** | **[Competitions Intern](https://jobright.ai/jobs/info/69fb6f41d21cf86d1e3d3100?utm_campaign=1053&utm_source=git)** | Chantilly, VA | On Site | May 06 |
+| **[AARP](http://www.aarp.org)** | **[Copy Editing Intern (Fall)](https://jobright.ai/jobs/info/69bddd8148282272930090ec?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | May 06 |
 | **[WCIA 3](https://www.wcia.com/)** | **[Unpaid Intern, Sports](https://jobright.ai/jobs/info/69c28299a5b03d40c194e14d?utm_campaign=1053&utm_source=git)** | Champaign, IL | On Site | May 06 |
 | **[WVTM 13](https://www.wvtm13.com)** | **[Creative Services Intern](https://jobright.ai/jobs/info/69c2d80194007a2195dedb1a?utm_campaign=1053&utm_source=git)** | Birmingham, AL | On Site | May 06 |
 | **[Double Wood Supplements](https://doublewoodsupplements.com/)** | **[TikTok Shop Intern](https://jobright.ai/jobs/info/69fb5f8787a4820e6da879ec?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | May 06 |
@@ -74,8 +76,8 @@ For a complete list, click the following sortable link below:
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[WAVY Unpaid Digital NewsDesk Intern, Fall 2026](https://jobright.ai/jobs/info/69fa704ea3d34b4f76f65b5a?utm_campaign=1053&utm_source=git)** | VA, Portsmouth, US | On Site | May 05 |
 | **[Real Chemistry](https://www.realchemistry.com)** | **[2026 Summer Intern (Creative Production)](https://jobright.ai/jobs/info/69fb3d0686d5cd46527d41e0?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | May 05 |
 | **[Pauv](https://www.pauv.com/)** | **[Videographer - Summer Intern](https://jobright.ai/jobs/info/69fa3e1681706a5bd21749ca?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | May 05 |
-| **[Complex NTWRK](https://www.complex.com)** | **[Editor Video Production Management Intern - College Credit](https://jobright.ai/jobs/info/69e7b2143aa0c4796439b645?utm_campaign=1053&utm_source=git)** | New York | On Site | May 05 |
-| ↳ | **[Content and Creative Operations Intern - College Credit](https://jobright.ai/jobs/info/69e7b2163aa0c4796439b654?utm_campaign=1053&utm_source=git)** | New York | On Site | May 05 |
+| **[Complex NTWRK](https://www.complex.com)** | **[Content and Creative Operations Intern - College Credit](https://jobright.ai/jobs/info/69e7b2163aa0c4796439b654?utm_campaign=1053&utm_source=git)** | New York | On Site | May 05 |
+| ↳ | **[Editor Video Production Management Intern - College Credit](https://jobright.ai/jobs/info/69e7b2143aa0c4796439b645?utm_campaign=1053&utm_source=git)** | New York | On Site | May 05 |
 | **[Vydia](http://www.vydia.com)** | **[Content Operations Coordinator (Internship)](https://jobright.ai/jobs/info/69fa2a7e582f810f9c8d4758?utm_campaign=1053&utm_source=git)** | Hybrid Remote- FL, IL, NJ, NY, PA, TN, or TX | Hybrid | May 05 |
 | **[University of South Florida](http://www.usf.edu)** | **[IAE Videography Internship - Summer 2026](https://jobright.ai/jobs/info/69fae37f87a4820e6da82be6?utm_campaign=1053&utm_source=git)** | Tampa, FL | On Site | May 05 |
 | **[WCIA 3](https://www.wcia.com/)** | **[Unpaid Intern, Weather](https://jobright.ai/jobs/info/69c20a5e75f7ff1cd810a997?utm_campaign=1053&utm_source=git)** | Champaign, IL | On Site | May 05 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Unpaid Internship](https://jobright.ai/jobs/info/69bcd0d8e6a0d9792584ec25?utm_campaign=1053&utm_source=git)** | Savannah, GA | On Site | Apr 30 |
 | **[Alkemy X](http://alkemy-x.com)** | **[Entertainment Production Database Intern](https://jobright.ai/jobs/info/69f38f656942c746fa692cfd?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | Hybrid | Apr 30 |
 | **[SWCA Environmental Consultants](https://www.swca.com/)** | **[Cultural Resources Intern](https://jobright.ai/jobs/info/69b25401ae2a534885e943ad?utm_campaign=1053&utm_source=git)** | Amherst, MA | On Site | Apr 30 |
-| **[KQED](http://www.kqed.org)** | **[Newscast Intern](https://jobright.ai/jobs/info/69f7745b0b36ff0354757fb5?utm_campaign=1053&utm_source=git)** | San Francisco, CA | Hybrid | Apr 30 |
-| **[Hearst Connecticut Media Group](https://hearstmediact.com)** | **[Reporter Intern](https://jobright.ai/jobs/info/69d40fca366bb95ba553a20a?utm_campaign=1053&utm_source=git)** | Meriden, CT | On Site | Apr 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
