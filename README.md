@@ -57,7 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Heirloom Diet](www.heirloomdiet.com)** | **[Research & Editorial Intern — Newsletters & Blog (Remote, Part-Time)](https://jobright.ai/jobs/info/69fba1a587a4820e6da8a097?utm_campaign=1053&utm_source=git)** | United States | Remote | May 06 |
 | **[Town of Erie](https://www.erieco.gov)** | **[Arts & Culture Intern (84968)](https://jobright.ai/jobs/info/69fb9dcbd21cf86d1e3d44a5?utm_campaign=1053&utm_source=git)** | Erie, CO | On Site | May 06 |
 | **[Arcpoint Studios](http://www.arcpointstudios.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/69fb9a9438179b6f1ae7a05f?utm_campaign=1053&utm_source=git)** | Fort Worth, TX | Hybrid | May 06 |
 | **[Kitme](www.trykitme.com)** | **[Summer UGC Intern](https://jobright.ai/jobs/info/69fb977b18b94b2515be3770?utm_campaign=1053&utm_source=git)** | United States | Remote | May 06 |
@@ -67,18 +66,18 @@ For a complete list, click the following sortable link below:
 | **[Scotiabank](https://www.scotiabank.com)** | **[Velocity - Enterprise Creative Studio Internship/Co-op - Fall 2026](https://jobright.ai/jobs/info/69fb811686d5cd46527d6051?utm_campaign=1053&utm_source=git)** | Toronto, Ontario, Canada | On Site | May 06 |
 | **[North Carolina State University](http://www.ncsu.edu)** | **[Video Production Specialist - Temporary](https://jobright.ai/jobs/info/69fb9e0587a4820e6da89f2e?utm_campaign=1053&utm_source=git)** | Raleigh, NC | On Site | May 06 |
 | **[Aeroseal](https://aeroseal.com/)** | **[Video Editor Intern](https://jobright.ai/jobs/info/69fb5293d21cf86d1e3d21a3?utm_campaign=1053&utm_source=git)** | Miamisburg, OH | On Site | May 06 |
-| **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69fb9d0986d5cd46527d7452?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | May 06 |
+| **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69fb9d38d21cf86d1e3d4427?utm_campaign=1053&utm_source=git)** | Albany, NY | On Site | May 06 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69fb9da087a4820e6da89eef?utm_campaign=1053&utm_source=git)** | Minneapolis, MN | On Site | May 06 |
-| ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69fb9d38d21cf86d1e3d4427?utm_campaign=1053&utm_source=git)** | Albany, NY | On Site | May 06 |
+| ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69fb9d0986d5cd46527d7452?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | May 06 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69fb9b6dffa73664aeb011c3?utm_campaign=1053&utm_source=git)** | Savannah, GA | On Site | May 06 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69fb9eaeffa73664aeb014db?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | May 06 |
+| ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69fb9da287a4820e6da89ef2?utm_campaign=1053&utm_source=git)** | Raleigh, NC | On Site | May 06 |
+| ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69fb9b6dffa73664aeb011c6?utm_campaign=1053&utm_source=git)** | Naperville, IL | On Site | May 06 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69fb9dbc38179b6f1ae7a2a5?utm_campaign=1053&utm_source=git)** | Wichita, KS | On Site | May 06 |
+| ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69fb9db018b94b2515be4115?utm_campaign=1053&utm_source=git)** | Evanston, IL | On Site | May 06 |
+| ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69fb9d38d21cf86d1e3d4425?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | May 06 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69fb9db018b94b2515be4118?utm_campaign=1053&utm_source=git)** | Bloomington, IN | On Site | May 06 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69fb9db638179b6f1ae7a28e?utm_campaign=1053&utm_source=git)** | Greenbrier River, WV | On Site | May 06 |
-| ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69fb9b6dffa73664aeb011c6?utm_campaign=1053&utm_source=git)** | Naperville, IL | On Site | May 06 |
-| ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69fb9d38d21cf86d1e3d4425?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | May 06 |
-| ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69fb9db018b94b2515be4115?utm_campaign=1053&utm_source=git)** | Evanston, IL | On Site | May 06 |
-| ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69fb9da287a4820e6da89ef2?utm_campaign=1053&utm_source=git)** | Raleigh, NC | On Site | May 06 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69fb9dad38179b6f1ae7a286?utm_campaign=1053&utm_source=git)** | St Louis, MO | On Site | May 06 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69fb90b286d5cd46527d65c0?utm_campaign=1053&utm_source=git)** | Newark, NJ | On Site | May 06 |
 | **[GOLFZON America](https://golfzongolf.com/)** | **[Competitions Intern](https://jobright.ai/jobs/info/69fb6f41d21cf86d1e3d3100?utm_campaign=1053&utm_source=git)** | Chantilly, VA | On Site | May 06 |
@@ -115,7 +114,6 @@ For a complete list, click the following sortable link below:
 | **[Canucks Sports & Entertainment (CSE)](https://jobs.canucks.com/)** | **[Live Entertainment Intern](https://jobright.ai/jobs/info/69fb494f87a4820e6da86ebc?utm_campaign=1053&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | May 04 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Research Intern - Freeman Chair in China Studies](https://jobright.ai/jobs/info/69fae67e86d5cd46527d0c64?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | May 04 |
 | **[Dôen](https://shopdoen.com)** | **[Production Intern](https://jobright.ai/jobs/info/69fae7b386d5cd46527d0f4c?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | May 04 |
-| **[Strange Ventures](https://www.strangevc.com )** | **[Cinematographer / Videographer Intern (Content & Socials)](https://jobright.ai/jobs/info/69fae7ac38179b6f1ae736b3?utm_campaign=1053&utm_source=git)** | United States | Remote | May 04 |
 | **[The Ambony](http://www.manofthehourmag.com/)** | **[Journalism Editor Internship (POC Society Platform)](https://jobright.ai/jobs/info/69faf0b538179b6f1ae73f38?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Remote | May 04 |
 | **[National Trust for Historic Preservation](https://savingplaces.org/historicrestaurants)** | **[Oral Traditions Digitization Intern (Shadows-on-the-Teche)](https://jobright.ai/jobs/info/69f90c74b1fc847fc1aea53f?utm_campaign=1053&utm_source=git)** | New Iberia, LA, US | On Site | May 04 |
 | ↳ | **[Oral Traditions Digitization Intern (Shadows-on-the-Teche)](https://jobright.ai/jobs/info/69f90c67582f810f9c8cfd8a?utm_campaign=1053&utm_source=git)** | New Iberia, LA, US | On Site | May 04 |
@@ -157,4 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Flighthouse Media](https://www.flighthousemedia.com)** | **[Syndication Intern](https://jobright.ai/jobs/info/69f52ff512f2811ab5a63b8c?utm_campaign=1053&utm_source=git)** | Remote (United States) | Remote | May 01 |
 | **[Penn State University](http://psu.edu)** | **[Summer Intern- Video Editing](https://jobright.ai/jobs/info/69f55157a3d34b4f76f54b4c?utm_campaign=1053&utm_source=git)** | University Park, PA | On Site | May 01 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Intern, News](https://jobright.ai/jobs/info/69f777a2582f810f9c8cc02d?utm_campaign=1053&utm_source=git)** | Lafayette, LA | On Site | May 01 |
+| **[HIWIN Corporation](http://www.hiwin.com/)** | **[Video Production Intern (College-level)- Summer 2026](https://jobright.ai/jobs/info/69efd786e624fe645d533a1c?utm_campaign=1053&utm_source=git)** | Huntley, IL | On Site | May 01 |
+| **[U.S. News & World Report](http://www.usnews.com)** | **[2026 News Summer Intern](https://jobright.ai/jobs/info/69d82b55869c7e25d859436a?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | May 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
