@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[American Psychological Association](http://apa.org/)** | **[Internships at APA - Film Editing Internship](https://jobright.ai/jobs/info/6a0355986c07461fe1702e64?utm_campaign=1053&utm_source=git)** | Washington, District of Columbia, United States | Remote | May 12 |
+| **[Meat Institute](https://www.meatinstitute.org)** | **[Member Experience Intern](https://jobright.ai/jobs/info/6a035566f3d6cc51d6375971?utm_campaign=1053&utm_source=git)** | Arlington, VA | Hybrid | May 12 |
 | **[Northside Hospital](http://www.northside.com)** | **[Department Intern](https://jobright.ai/jobs/info/6a033aebbc4184089f2303d3?utm_campaign=1053&utm_source=git)** | Canton, GA | On Site | May 12 |
 | **[Schoolconomy Inc.](https://schoolconomy.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/6a02ec777c753c287f6e1ef6?utm_campaign=1053&utm_source=git)** | Atlanta Metro | Hybrid | May 12 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[ESPN Production Intern, Charlotte, Fall 2026](https://jobright.ai/jobs/info/6a032b13f3d6cc51d6373dfd?utm_campaign=1053&utm_source=git)** | Charlotte, NC | On Site | May 11 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[News Intern](https://jobright.ai/jobs/info/69c29a9aec22f8310ab07b56?utm_campaign=1053&utm_source=git)** | Memphis, TN | On Site | May 06 |
 | **[Regal](https://www.regmovies.com)** | **[Film Booking Assistant Intern](https://jobright.ai/jobs/info/69fbdb63ffa73664aeb0263f?utm_campaign=1053&utm_source=git)** | Knoxville, TN | Hybrid | May 06 |
 | **[Scotiabank](https://www.scotiabank.com)** | **[Velocity - Enterprise Creative Studio Internship/Co-op - Fall 2026](https://jobright.ai/jobs/info/69fb811686d5cd46527d6051?utm_campaign=1053&utm_source=git)** | Toronto, Ontario, Canada | On Site | May 06 |
-| **[North Carolina State University](http://www.ncsu.edu)** | **[Video Production Specialist - Temporary](https://jobright.ai/jobs/info/69fb9e0587a4820e6da89f2e?utm_campaign=1053&utm_source=git)** | Raleigh, NC | On Site | May 06 |
-| **[Aeroseal](https://aeroseal.com/)** | **[Video Editor Intern](https://jobright.ai/jobs/info/69fb5293d21cf86d1e3d21a3?utm_campaign=1053&utm_source=git)** | Miamisburg, OH | On Site | May 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
