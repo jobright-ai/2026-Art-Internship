@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[OTTera, Inc.](http://www.ottera.tv/)** | **[Video Editor Intern](https://jobright.ai/jobs/info/6a036e4b22395b6dc6d9429a?utm_campaign=1053&utm_source=git)** | North Hollywood, CA | On Site | May 12 |
 | **[Revilo Technologies](www.reviloautocare.com)** | **[Video Editing Intern l U.S.-Based Aftermarket Automotive AI Startup](https://jobright.ai/jobs/info/6a036196ed6a637463f4f592?utm_campaign=1053&utm_source=git)** | United States | Remote | May 12 |
 | **[Anutio](https://anutio.com)** | **[Video Editor (Intern)](https://jobright.ai/jobs/info/6a0360c6f3d6cc51d637614b?utm_campaign=1053&utm_source=git)** | Milton, Ontario, Canada | On Site | May 12 |
 | **[Bluhouse Socials](https://www.bluhousesocials.com/)** | **[Videography Intern](https://jobright.ai/jobs/info/6a035c4d22395b6dc6d93d6c?utm_campaign=1053&utm_source=git)** | Tampa, FL | On Site | May 12 |
@@ -93,7 +94,6 @@ For a complete list, click the following sortable link below:
 | **[Redis](https://redis.io/)** | **[Web Production & Video Internship (Summer)](https://jobright.ai/jobs/info/6a0204a9df52f1450d846c64?utm_campaign=1053&utm_source=git)** | HQ (San Francisco) | On Site | May 10 |
 | **[Lakeland Hills Family YMCA](http://www.lakelandhillsymca.com)** | **[E-Sports Intern: Summer 2026](https://jobright.ai/jobs/info/6a007de7a0eddc08c239c53a?utm_campaign=1053&utm_source=git)** | 100 FANNY ROAD - MOUNTAIN LAKES, NJ 07046 | On Site | May 10 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Paid Intern - News](https://jobright.ai/jobs/info/69aa34642ebd316bece1f7a9?utm_campaign=1053&utm_source=git)** | Joplin, MO | On Site | May 10 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[ESPN Production Intern, Charlotte, Fall 2026](https://jobright.ai/jobs/info/6a02c1c422395b6dc6d8dda2?utm_campaign=1053&utm_source=git)** | Charlotte, NC | On Site | May 09 |
 | **[Schuber Mitchell Homes](https://www.schubermitchell.com)** | **[Production Intern](https://jobright.ai/jobs/info/69f128fcb27fee43e8cd75c8?utm_campaign=1053&utm_source=git)** | Joplin, MO | On Site | May 09 |
 | **[Comcast](https://corporate.comcast.com)** | **[Comcast Content & Partnerships Intern](https://jobright.ai/jobs/info/6a02bcca7c753c287f6e034f?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | May 09 |
 | **[Town of Erie](https://www.erieco.gov)** | **[Arts & Culture Intern (84968)](https://jobright.ai/jobs/info/6a02c730ed6a637463f4944b?utm_campaign=1053&utm_source=git)** | Erie, CO | On Site | May 09 |
