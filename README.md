@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[OTTera, Inc.](http://www.ottera.tv/)** | **[Content Creator Intern](https://jobright.ai/jobs/info/6a038f1222395b6dc6d95e98?utm_campaign=1053&utm_source=git)** | LA Metro Area | On Site | May 12 |
+| ↳ | **[Video Editor Intern](https://jobright.ai/jobs/info/6a038548bc4184089f233377?utm_campaign=1053&utm_source=git)** | LA Metro Area | On Site | May 12 |
 | **[Crew Dog](https://crew-dog.com)** | **[Comedy Content Creator Intern](https://jobright.ai/jobs/info/6a037895f3d6cc51d6376ef3?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | May 12 |
 | **[OTTera, Inc.](http://www.ottera.tv/)** | **[Video Editor Intern](https://jobright.ai/jobs/info/6a036e4b22395b6dc6d9429a?utm_campaign=1053&utm_source=git)** | North Hollywood, CA | On Site | May 12 |
 | **[Revilo Technologies](www.reviloautocare.com)** | **[Video Editing Intern l U.S.-Based Aftermarket Automotive AI Startup](https://jobright.ai/jobs/info/6a036196ed6a637463f4f592?utm_campaign=1053&utm_source=git)** | United States | Remote | May 12 |
@@ -136,7 +138,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[On-Air and Digital Fundraising Intern](https://jobright.ai/jobs/info/69fce1e55cff890b03f34403?utm_campaign=1053&utm_source=git)** | Burbank, CA, US | Hybrid | May 07 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Golf Operations Internship at Saint John's Resort](https://jobright.ai/jobs/info/69fcd8fb432a3c4da8dff7a5?utm_campaign=1053&utm_source=git)** | Plymouth, MI, US | On Site | May 07 |
 | **[Advisors Excel](http://advisorsexcel.com)** | **[Video Intern](https://jobright.ai/jobs/info/69fcccf5432a3c4da8dff25d?utm_campaign=1053&utm_source=git)** | 2950 SW McClure Rd, Topeka, KS | On Site | May 07 |
-| **[Graduate Hotels](https://www.graduatehotels.com )** | **[Golf Operations Internship at Saint John's Resort](https://jobright.ai/jobs/info/69fccca46b788e7e7a5c2a4a?utm_campaign=1053&utm_source=git)** | Plymouth, MI, 48170, United States | On Site | May 07 |
 | **[Cresset](https://cressetcapital.com/)** | **[Video Production Intern - Summer 2026](https://jobright.ai/jobs/info/69fcc971432a3c4da8dff02e?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | May 07 |
 | **[Public Veil](www.publicveil.com)** | **[Fashion Content Creation Intern (Summer 2026)](https://jobright.ai/jobs/info/69fcdc4cb113035a9f8ec48f?utm_campaign=1053&utm_source=git)** | New York, United States | Hybrid | May 07 |
 | **[Red Bull New York](http://www.newyorkredbulls.com)** | **[2026 Internship, Summer - Creative Video](https://jobright.ai/jobs/info/69c4bc206f4f855eeda763a8?utm_campaign=1053&utm_source=git)** | Harrison, NJ | On Site | May 07 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[MATTE Projects](https://matteprojects.com/)** | **[Experiential Production Internship Summer 2026 (On-Site, New York)](https://jobright.ai/jobs/info/69fbef702f9f6b7cf690fbf3?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | May 06 |
 | **[Arcpoint Studios](http://www.arcpointstudios.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/69fb9a9438179b6f1ae7a05f?utm_campaign=1053&utm_source=git)** | Fort Worth, TX | Hybrid | May 06 |
 | **[Vbrick](http://vbrick.com)** | **[Intern- Video Production and Digital Content](https://jobright.ai/jobs/info/69fbf7033802c7621fd8ea05?utm_campaign=1053&utm_source=git)** | Herndon, VA | On Site | May 06 |
-| **[Rescuing Leftover Cuisine](http://www.rescuingleftovercuisine.org)** | **[RLC Corporate Volunteer Intern](https://jobright.ai/jobs/info/69fb890018b94b2515be2fc0?utm_campaign=1053&utm_source=git)** | New York, United States | On Site | May 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
