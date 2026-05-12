@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Crew Dog](https://crew-dog.com)** | **[Comedy Content Creator Intern](https://jobright.ai/jobs/info/6a037895f3d6cc51d6376ef3?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | May 12 |
 | **[OTTera, Inc.](http://www.ottera.tv/)** | **[Video Editor Intern](https://jobright.ai/jobs/info/6a036e4b22395b6dc6d9429a?utm_campaign=1053&utm_source=git)** | North Hollywood, CA | On Site | May 12 |
 | **[Revilo Technologies](www.reviloautocare.com)** | **[Video Editing Intern l U.S.-Based Aftermarket Automotive AI Startup](https://jobright.ai/jobs/info/6a036196ed6a637463f4f592?utm_campaign=1053&utm_source=git)** | United States | Remote | May 12 |
 | **[Anutio](https://anutio.com)** | **[Video Editor (Intern)](https://jobright.ai/jobs/info/6a0360c6f3d6cc51d637614b?utm_campaign=1053&utm_source=git)** | Milton, Ontario, Canada | On Site | May 12 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Arcpoint Studios](http://www.arcpointstudios.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/69fb9a9438179b6f1ae7a05f?utm_campaign=1053&utm_source=git)** | Fort Worth, TX | Hybrid | May 06 |
 | **[Vbrick](http://vbrick.com)** | **[Intern- Video Production and Digital Content](https://jobright.ai/jobs/info/69fbf7033802c7621fd8ea05?utm_campaign=1053&utm_source=git)** | Herndon, VA | On Site | May 06 |
 | **[Rescuing Leftover Cuisine](http://www.rescuingleftovercuisine.org)** | **[RLC Corporate Volunteer Intern](https://jobright.ai/jobs/info/69fb890018b94b2515be2fc0?utm_campaign=1053&utm_source=git)** | New York, United States | On Site | May 06 |
-| **[Building Ventures](https://www.buildingventures.com)** | **[Video Editor Intern](https://jobright.ai/jobs/info/69fbf6bb3802c7621fd8e87f?utm_campaign=1053&utm_source=git)** | Miamisburg, OH | On Site | May 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
