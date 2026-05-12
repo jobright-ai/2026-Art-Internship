@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Revilo Technologies](www.reviloautocare.com)** | **[Video Editing Intern l U.S.-Based Aftermarket Automotive AI Startup](https://jobright.ai/jobs/info/6a036196ed6a637463f4f592?utm_campaign=1053&utm_source=git)** | United States | Remote | May 12 |
+| **[Anutio](https://anutio.com)** | **[Video Editor (Intern)](https://jobright.ai/jobs/info/6a0360c6f3d6cc51d637614b?utm_campaign=1053&utm_source=git)** | Milton, Ontario, Canada | On Site | May 12 |
+| **[Bluhouse Socials](https://www.bluhousesocials.com/)** | **[Videography Intern](https://jobright.ai/jobs/info/6a035c4d22395b6dc6d93d6c?utm_campaign=1053&utm_source=git)** | Tampa, FL | On Site | May 12 |
 | **[American Psychological Association](http://apa.org/)** | **[Internships at APA - Film Editing Internship](https://jobright.ai/jobs/info/6a0355986c07461fe1702e64?utm_campaign=1053&utm_source=git)** | Washington, District of Columbia, United States | Remote | May 12 |
 | **[Meat Institute](https://www.meatinstitute.org)** | **[Member Experience Intern](https://jobright.ai/jobs/info/6a035566f3d6cc51d6375971?utm_campaign=1053&utm_source=git)** | Arlington, VA | Hybrid | May 12 |
 | **[Northside Hospital](http://www.northside.com)** | **[Department Intern](https://jobright.ai/jobs/info/6a033aebbc4184089f2303d3?utm_campaign=1053&utm_source=git)** | Canton, GA | On Site | May 12 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Vbrick](http://vbrick.com)** | **[Intern- Video Production and Digital Content](https://jobright.ai/jobs/info/69fbf7033802c7621fd8ea05?utm_campaign=1053&utm_source=git)** | Herndon, VA | On Site | May 06 |
 | **[Rescuing Leftover Cuisine](http://www.rescuingleftovercuisine.org)** | **[RLC Corporate Volunteer Intern](https://jobright.ai/jobs/info/69fb890018b94b2515be2fc0?utm_campaign=1053&utm_source=git)** | New York, United States | On Site | May 06 |
 | **[Building Ventures](https://www.buildingventures.com)** | **[Video Editor Intern](https://jobright.ai/jobs/info/69fbf6bb3802c7621fd8e87f?utm_campaign=1053&utm_source=git)** | Miamisburg, OH | On Site | May 06 |
-| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[News Intern](https://jobright.ai/jobs/info/69c29a9aec22f8310ab07b56?utm_campaign=1053&utm_source=git)** | Memphis, TN | On Site | May 06 |
-| **[Regal](https://www.regmovies.com)** | **[Film Booking Assistant Intern](https://jobright.ai/jobs/info/69fbdb63ffa73664aeb0263f?utm_campaign=1053&utm_source=git)** | Knoxville, TN | Hybrid | May 06 |
-| **[Scotiabank](https://www.scotiabank.com)** | **[Velocity - Enterprise Creative Studio Internship/Co-op - Fall 2026](https://jobright.ai/jobs/info/69fb811686d5cd46527d6051?utm_campaign=1053&utm_source=git)** | Toronto, Ontario, Canada | On Site | May 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
