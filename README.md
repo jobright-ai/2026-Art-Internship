@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Russ & Daughters](http://www.russanddaughters.com)** | **[INTERNSHIP](https://jobright.ai/jobs/info/6a03ae317c753c287f6e985a?utm_campaign=1053&utm_source=git)** | Store (New York, NY) | On Site | May 12 |
+| **[Serrano Country Club](https://serranocountryclub.org/)** | **[Intern](https://jobright.ai/jobs/info/6a03acce7c753c287f6e9718?utm_campaign=1053&utm_source=git)** | El Dorado Hills, CA 95762 | On Site | May 12 |
 | **[OTTera, Inc.](http://www.ottera.tv/)** | **[Content Creator Intern](https://jobright.ai/jobs/info/6a038f1222395b6dc6d95e98?utm_campaign=1053&utm_source=git)** | LA Metro Area | On Site | May 12 |
 | ↳ | **[Video Editor Intern](https://jobright.ai/jobs/info/6a038548bc4184089f233377?utm_campaign=1053&utm_source=git)** | LA Metro Area | On Site | May 12 |
 | **[Crew Dog](https://crew-dog.com)** | **[Comedy Content Creator Intern](https://jobright.ai/jobs/info/6a037895f3d6cc51d6376ef3?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | May 12 |
@@ -97,6 +99,7 @@ For a complete list, click the following sortable link below:
 | **[Redis](https://redis.io/)** | **[Web Production & Video Internship (Summer)](https://jobright.ai/jobs/info/6a0204a9df52f1450d846c64?utm_campaign=1053&utm_source=git)** | HQ (San Francisco) | On Site | May 10 |
 | **[Lakeland Hills Family YMCA](http://www.lakelandhillsymca.com)** | **[E-Sports Intern: Summer 2026](https://jobright.ai/jobs/info/6a007de7a0eddc08c239c53a?utm_campaign=1053&utm_source=git)** | 100 FANNY ROAD - MOUNTAIN LAKES, NJ 07046 | On Site | May 10 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Paid Intern - News](https://jobright.ai/jobs/info/69aa34642ebd316bece1f7a9?utm_campaign=1053&utm_source=git)** | Joplin, MO | On Site | May 10 |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Intern - KOIN / KRCW - Portland, OR (Unpaid)](https://jobright.ai/jobs/info/69c67c251b5ad02887384c1a?utm_campaign=1053&utm_source=git)** | Portland, OR | On Site | May 09 |
 | **[Schuber Mitchell Homes](https://www.schubermitchell.com)** | **[Production Intern](https://jobright.ai/jobs/info/69f128fcb27fee43e8cd75c8?utm_campaign=1053&utm_source=git)** | Joplin, MO | On Site | May 09 |
 | **[Comcast](https://corporate.comcast.com)** | **[Comcast Content & Partnerships Intern](https://jobright.ai/jobs/info/6a02bcca7c753c287f6e034f?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | May 09 |
 | **[Town of Erie](https://www.erieco.gov)** | **[Arts & Culture Intern (84968)](https://jobright.ai/jobs/info/6a02c730ed6a637463f4944b?utm_campaign=1053&utm_source=git)** | Erie, CO | On Site | May 09 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Experiential Production Intern (Summer)](https://jobright.ai/jobs/info/69fc331c4ab6391714fd3e06?utm_campaign=1053&utm_source=git)** | NY, US | Hybrid | May 06 |
 | **[Hannah News Service](https://www.hannahnews.com/)** | **[Journalism/Communications Internship - Fall '26](https://jobright.ai/jobs/info/69fc05d7c39b9a66c0c55eb7?utm_campaign=1053&utm_source=git)** | Indianapolis, IN | On Site | May 06 |
 | **[The Global Leadership Network](https://www.globalleadership.org)** | **[MEDIA AND PRODUCER ASST. - SUMMER INTERNSHIP](https://jobright.ai/jobs/info/69fbfaa8a5949019c55b23fe?utm_campaign=1053&utm_source=git)** | Global Leadership Network - South Barrington, IL 60010 | Hybrid | May 06 |
-| **[MATTE Projects](https://matteprojects.com/)** | **[Experiential Production Internship Summer 2026 (On-Site, New York)](https://jobright.ai/jobs/info/69fbef702f9f6b7cf690fbf3?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | May 06 |
-| **[Arcpoint Studios](http://www.arcpointstudios.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/69fb9a9438179b6f1ae7a05f?utm_campaign=1053&utm_source=git)** | Fort Worth, TX | Hybrid | May 06 |
-| **[Vbrick](http://vbrick.com)** | **[Intern- Video Production and Digital Content](https://jobright.ai/jobs/info/69fbf7033802c7621fd8ea05?utm_campaign=1053&utm_source=git)** | Herndon, VA | On Site | May 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
