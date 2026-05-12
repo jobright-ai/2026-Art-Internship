@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Russ & Daughters](http://www.russanddaughters.com)** | **[INTERNSHIP](https://jobright.ai/jobs/info/6a02b0d97c753c287f6dfc4d?utm_campaign=1053&utm_source=git)** | Store (New York, NY) | On Site | May 11 |
 | **['Alohilani Resort Waikiki Beach](http://www.pacificbeachhotel.com/)** | **[Culinary Intern](https://jobright.ai/jobs/info/6a02807dc2ffb31f4536d83c?utm_campaign=1053&utm_source=git)** | Las Vegas, NV, US | On Site | May 11 |
 | ↳ | **[Culinary Intern](https://jobright.ai/jobs/info/6a028079fa1aa73213d9a7ad?utm_campaign=1053&utm_source=git)** | US-NV-Las Vegas | On Site | May 11 |
 | **[Highgate](https://www.highgate.com)** | **[Culinary Intern](https://jobright.ai/jobs/info/6a028078df52f1450d84b131?utm_campaign=1053&utm_source=git)** | US-NV-Las Vegas | On Site | May 11 |
@@ -69,10 +70,12 @@ For a complete list, click the following sortable link below:
 | **[Northside Hospital](http://www.northside.com)** | **[Department Intern](https://jobright.ai/jobs/info/6a023134238f143e8353183e?utm_campaign=1053&utm_source=git)** | Canton, GA, US | On Site | May 11 |
 | ↳ | **[Department Intern](https://jobright.ai/jobs/info/6a022fd4df52f1450d8484df?utm_campaign=1053&utm_source=git)** | US-GA-Canton | On Site | May 11 |
 | **[CLD PR & Experiential Productions](https://cldstylehouse.com)** | **[WHITE FOX Miami Swim Week Runway Show Intern](https://jobright.ai/jobs/info/6a02239f3053db70a1174aa3?utm_campaign=1053&utm_source=git)** | Miami, FL | On Site | May 11 |
+| **[The Washington Post](http://www.washingtonpost.com/)** | **[Opinion Video Intern](https://jobright.ai/jobs/info/68caff29d905e25191d9e2c9?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | May 11 |
 | **[Cooperstown All Star Village](https://cooperstown.com/)** | **[Sports Videographer Intern (Baseball)](https://jobright.ai/jobs/info/6a02078ec2ffb31f45369339?utm_campaign=1053&utm_source=git)** | Oneonta, NY | On Site | May 11 |
 | **[Wolf Trap Foundation for the Performing Arts](https://www.wolftrap.org/)** | **[Intern, Opera Artistic Administration (Fall 2026)](https://jobright.ai/jobs/info/6a01ec3ffa1aa73213d956d9?utm_campaign=1053&utm_source=git)** | Wolf Trap HeadQuarters - Vienna, VA 22182 | On Site | May 11 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Intern](https://jobright.ai/jobs/info/69ca87138fc6090c5d44e5e1?utm_campaign=1053&utm_source=git)** | Amarillo, TX | On Site | May 11 |
 | **[Coastal Carolina University](http://www.coastal.edu/)** | **[Production Assistant (Student Assistant)](https://jobright.ai/jobs/info/69e95c88e0cd471b2f13ce09?utm_campaign=1053&utm_source=git)** | Conway, SC | On Site | May 11 |
+| **[Giant Spoon](http://giantspoon.com/)** | **[Experiential Production Intern (Summer)](https://jobright.ai/jobs/info/69fc3151a5949019c55b3836?utm_campaign=1053&utm_source=git)** | New York, United States | Hybrid | May 10 |
 | **[Starz](http://www.starz.com/)** | **[STARZ Intern, Content Operations - Video](https://jobright.ai/jobs/info/699edb7481476f6176b8502a?utm_campaign=1053&utm_source=git)** | Greenwood Village, CO | On Site | May 10 |
 | ↳ | **[STARZ Intern, Original Programming](https://jobright.ai/jobs/info/699532c2ce78e77b4fd94d04?utm_campaign=1053&utm_source=git)** | Santa Monica, CA | Hybrid | May 10 |
 | **[Redis](https://redis.io/)** | **[Web Production & Video Internship (Summer)](https://jobright.ai/jobs/info/6a0204a9df52f1450d846c64?utm_campaign=1053&utm_source=git)** | HQ (San Francisco) | On Site | May 10 |
@@ -131,7 +134,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Arts & Culture Intern (84968)](https://jobright.ai/jobs/info/69fc5b1d48d4483e4b639154?utm_campaign=1053&utm_source=git)** | Erie, CO, US | On Site | May 06 |
 | ↳ | **[Science Communications Intern, College of Natural Sciences](https://jobright.ai/jobs/info/69fc58cfbb117f6b3f2b46ec?utm_campaign=1053&utm_source=git)** | US | On Site | May 06 |
 | ↳ | **[Experiential Production Intern (Summer)](https://jobright.ai/jobs/info/69fc331c4ab6391714fd3e06?utm_campaign=1053&utm_source=git)** | NY, US | Hybrid | May 06 |
-| **[Giant Spoon](http://giantspoon.com/)** | **[Experiential Production Intern (Summer)](https://jobright.ai/jobs/info/69fc3151a5949019c55b3836?utm_campaign=1053&utm_source=git)** | New York, United States | Hybrid | May 06 |
 | **[Hannah News Service](https://www.htsch.com/)** | **[Journalism/Communications Internship - Fall '26](https://jobright.ai/jobs/info/69fc05d7c39b9a66c0c55eb7?utm_campaign=1053&utm_source=git)** | Indianapolis, IN | On Site | May 06 |
 | **[The Global Leadership Network](https://www.globalleadership.org)** | **[MEDIA AND PRODUCER ASST. - SUMMER INTERNSHIP](https://jobright.ai/jobs/info/69fbfaa8a5949019c55b23fe?utm_campaign=1053&utm_source=git)** | Global Leadership Network - South Barrington, IL 60010 | Hybrid | May 06 |
 | **[MATTE Projects](https://matteprojects.com/)** | **[Experiential Production Internship Summer 2026 (On-Site, New York)](https://jobright.ai/jobs/info/69fbef702f9f6b7cf690fbf3?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | May 06 |
@@ -144,17 +146,15 @@ For a complete list, click the following sortable link below:
 | **[Scotiabank](https://www.scotiabank.com)** | **[Velocity - Enterprise Creative Studio Internship/Co-op - Fall 2026](https://jobright.ai/jobs/info/69fb811686d5cd46527d6051?utm_campaign=1053&utm_source=git)** | Toronto, Ontario, Canada | On Site | May 06 |
 | **[North Carolina State University](http://www.ncsu.edu)** | **[Video Production Specialist - Temporary](https://jobright.ai/jobs/info/69fb9e0587a4820e6da89f2e?utm_campaign=1053&utm_source=git)** | Raleigh, NC | On Site | May 06 |
 | **[Aeroseal](https://aeroseal.com/)** | **[Video Editor Intern](https://jobright.ai/jobs/info/69fb5293d21cf86d1e3d21a3?utm_campaign=1053&utm_source=git)** | Miamisburg, OH | On Site | May 06 |
-| **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69fb9da087a4820e6da89eef?utm_campaign=1053&utm_source=git)** | Minneapolis, MN | On Site | May 06 |
-| ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69fb9d38d21cf86d1e3d4427?utm_campaign=1053&utm_source=git)** | Albany, NY | On Site | May 06 |
+| **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69fb9d38d21cf86d1e3d4427?utm_campaign=1053&utm_source=git)** | Albany, NY | On Site | May 06 |
+| ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69fb9da087a4820e6da89eef?utm_campaign=1053&utm_source=git)** | Minneapolis, MN | On Site | May 06 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69fb9d0986d5cd46527d7452?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | May 06 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69fb9b6dffa73664aeb011c3?utm_campaign=1053&utm_source=git)** | Savannah, GA | On Site | May 06 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69fb9eaeffa73664aeb014db?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | May 06 |
-| ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69fb9b6dffa73664aeb011c6?utm_campaign=1053&utm_source=git)** | Naperville, IL | On Site | May 06 |
-| ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69fb9da287a4820e6da89ef2?utm_campaign=1053&utm_source=git)** | Raleigh, NC | On Site | May 06 |
-| ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69fb9db018b94b2515be4115?utm_campaign=1053&utm_source=git)** | Evanston, IL | On Site | May 06 |
-| ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69fb9dbc38179b6f1ae7a2a5?utm_campaign=1053&utm_source=git)** | Wichita, KS | On Site | May 06 |
-| ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69fb9db018b94b2515be4118?utm_campaign=1053&utm_source=git)** | Bloomington, IN | On Site | May 06 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69fb9db638179b6f1ae7a28e?utm_campaign=1053&utm_source=git)** | Greenbrier River, WV | On Site | May 06 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69fb9d38d21cf86d1e3d4425?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | May 06 |
-| ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69fb9dad38179b6f1ae7a286?utm_campaign=1053&utm_source=git)** | St Louis, MO | On Site | May 06 |
+| ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69fb9db018b94b2515be4115?utm_campaign=1053&utm_source=git)** | Evanston, IL | On Site | May 06 |
+| ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69fb9b6dffa73664aeb011c6?utm_campaign=1053&utm_source=git)** | Naperville, IL | On Site | May 06 |
+| ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69fb9da287a4820e6da89ef2?utm_campaign=1053&utm_source=git)** | Raleigh, NC | On Site | May 06 |
+| ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69fb9db018b94b2515be4118?utm_campaign=1053&utm_source=git)** | Bloomington, IN | On Site | May 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
