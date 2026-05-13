@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Mohonk Mountain House](https://www.mohonk.com/)** | **[Archives Project Intern - Part Time, Seasonal until 9/7/2026](https://jobright.ai/jobs/info/6a04c9e64373b07358a36d1d?utm_campaign=1053&utm_source=git)** | New Paltz, NY, US | On Site | May 13 |
+| **[City of Seguin](https://www.seguintexas.gov)** | **[Multi-Media/Video Production (Internship)](https://jobright.ai/jobs/info/6a04c5284373b07358a369ab?utm_campaign=1053&utm_source=git)** | City of Seguin | On Site | May 13 |
+| **[Cooperstown All Star Village](https://cooperstown.com/)** | **[Events and Experiences Intern](https://jobright.ai/jobs/info/6a04c4546c07461fe1710730?utm_campaign=1053&utm_source=git)** | Oneonta, NY | On Site | May 13 |
 | **[Complex NTWRK](https://www.complex.com)** | **[Editor Video Production Management Intern - College Credit](https://jobright.ai/jobs/info/69e7d38c7820c036924d870b?utm_campaign=1053&utm_source=git)** | New York, United States | On Site | May 13 |
 | **[Ryan Ace Music](https://www.ryanacemusic.com/)** | **[Production Intern](https://jobright.ai/jobs/info/6a04adbb22395b6dc6d9fb16?utm_campaign=1053&utm_source=git)** | Orlando, Florida | Hybrid | May 13 |
 | **[NoGood](https://nogood.io)** | **[Intern- Social Video Creator](https://jobright.ai/jobs/info/6a0498fc22395b6dc6d9ef88?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | May 13 |
@@ -151,10 +154,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[On-Air and Digital Fundraising Intern](https://jobright.ai/jobs/info/69fce1e55cff890b03f34403?utm_campaign=1053&utm_source=git)** | Burbank, CA, US | Hybrid | May 07 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Golf Operations Internship at Saint John's Resort](https://jobright.ai/jobs/info/69fcd8fb432a3c4da8dff7a5?utm_campaign=1053&utm_source=git)** | Plymouth, MI, US | On Site | May 07 |
 | **[Advisors Excel](http://advisorsexcel.com)** | **[Video Intern](https://jobright.ai/jobs/info/69fcccf5432a3c4da8dff25d?utm_campaign=1053&utm_source=git)** | 2950 SW McClure Rd, Topeka, KS | On Site | May 07 |
-| **[Cresset](https://cressetcapital.com/)** | **[Video Production Intern - Summer 2026](https://jobright.ai/jobs/info/69fcc971432a3c4da8dff02e?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | May 07 |
 | **[Public Veil](www.publicveil.com)** | **[Fashion Content Creation Intern (Summer 2026)](https://jobright.ai/jobs/info/69fcdc4cb113035a9f8ec48f?utm_campaign=1053&utm_source=git)** | New York, United States | Hybrid | May 07 |
 | **[Red Bull New York](http://www.newyorkredbulls.com)** | **[2026 Internship, Summer - Creative Video](https://jobright.ai/jobs/info/69c4bc206f4f855eeda763a8?utm_campaign=1053&utm_source=git)** | Harrison, NJ | On Site | May 07 |
 | **[Sports Illustrated Stadium](https://www.sportsillustratedstadium.com)** | **[2026 Internship, Summer - Event Operations](https://jobright.ai/jobs/info/69c4bc2b6f4f855eeda763c2?utm_campaign=1053&utm_source=git)** | Harrison, NJ | On Site | May 07 |
-| **[Fox Television Stations](https://www.foxcorporation.com/businesses/fox-television-stations/)** | **[Intern](https://jobright.ai/jobs/info/69e044fee34484770f1ad6f2?utm_campaign=1053&utm_source=git)** | Seattle, WA | On Site | May 07 |
-| **[Indiana Institute of Technology](http://www.indianatech.edu)** | **[Graduate Assistant - Esports](https://jobright.ai/jobs/info/69fb31c386d5cd46527d3c6e?utm_campaign=1053&utm_source=git)** | Fort Wayne, IN | On Site | May 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
