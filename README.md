@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Russ & Daughters](http://www.russanddaughters.com)** | **[INTERNSHIP](https://jobright.ai/jobs/info/6a03ae317c753c287f6e985a?utm_campaign=1053&utm_source=git)** | Store (New York, NY) | On Site | May 12 |
+| **[That One Media Studio](https://dot.cards/thatonemediastudio)** | **[Content Creator](https://jobright.ai/jobs/info/6a03b9e86c07461fe1706f93?utm_campaign=1053&utm_source=git)** | Savannah, GA | Hybrid | May 12 |
+| **[Surya Sound Temple](https://www.suryasoundtemple.org)** | **[Music Intern](https://jobright.ai/jobs/info/6a03b580bc4184089f235446?utm_campaign=1053&utm_source=git)** | Brooklyn, NY | Hybrid | May 12 |
 | **[Serrano Country Club](https://serranocountryclub.org/)** | **[Intern](https://jobright.ai/jobs/info/6a03acce7c753c287f6e9718?utm_campaign=1053&utm_source=git)** | El Dorado Hills, CA 95762 | On Site | May 12 |
 | **[OTTera, Inc.](http://www.ottera.tv/)** | **[Content Creator Intern](https://jobright.ai/jobs/info/6a038f1222395b6dc6d95e98?utm_campaign=1053&utm_source=git)** | LA Metro Area | On Site | May 12 |
 | ↳ | **[Video Editor Intern](https://jobright.ai/jobs/info/6a038548bc4184089f233377?utm_campaign=1053&utm_source=git)** | LA Metro Area | On Site | May 12 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Science Communications Intern, College of Natural Sciences](https://jobright.ai/jobs/info/69fc58cfbb117f6b3f2b46ec?utm_campaign=1053&utm_source=git)** | US | On Site | May 06 |
 | ↳ | **[Experiential Production Intern (Summer)](https://jobright.ai/jobs/info/69fc331c4ab6391714fd3e06?utm_campaign=1053&utm_source=git)** | NY, US | Hybrid | May 06 |
 | **[Hannah News Service](https://www.hannahnews.com/)** | **[Journalism/Communications Internship - Fall '26](https://jobright.ai/jobs/info/69fc05d7c39b9a66c0c55eb7?utm_campaign=1053&utm_source=git)** | Indianapolis, IN | On Site | May 06 |
-| **[The Global Leadership Network](https://www.globalleadership.org)** | **[MEDIA AND PRODUCER ASST. - SUMMER INTERNSHIP](https://jobright.ai/jobs/info/69fbfaa8a5949019c55b23fe?utm_campaign=1053&utm_source=git)** | Global Leadership Network - South Barrington, IL 60010 | Hybrid | May 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
