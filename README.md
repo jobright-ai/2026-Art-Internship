@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Imagination Mode](Imaginationmode.com)** | **[Virtual Assistant - Voluntary Internship: Remote](https://jobright.ai/jobs/info/6a03f11cbc4184089f236f5d?utm_campaign=1053&utm_source=git)** | Massachusetts, United States | Remote | May 12 |
+| **[Silk & Spice Tea](www.silkspicetea.com)** | **[Summer Content Intern](https://jobright.ai/jobs/info/6a03e8afbc4184089f236840?utm_campaign=1053&utm_source=git)** | United States | Remote | May 12 |
 | **[Gagosian](http://www.gagosian.com)** | **[Internship Program - New York (Fall, 2026)](https://jobright.ai/jobs/info/6a03d1017c753c287f6ea886?utm_campaign=1053&utm_source=git)** | 555 W 24th Street, New York | On Site | May 12 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[ABC News Live First Hour Production Intern, Fall 2026](https://jobright.ai/jobs/info/6a03caab22395b6dc6d98090?utm_campaign=1053&utm_source=git)** | New York, NY, USA, US | On Site | May 12 |
 | **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Historical Preservation, Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/6a03c30d6c07461fe170722b?utm_campaign=1053&utm_source=git)** | Jamaica, NY | On Site | May 12 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[MEDIA AND PRODUCER ASST. - SUMMER INTERNSHIP](https://jobright.ai/jobs/info/69fc66b7ab1b7e27b9fa3bf1?utm_campaign=1053&utm_source=git)** | IL, US | Hybrid | May 06 |
 | ↳ | **[Arts & Culture Intern (84968)](https://jobright.ai/jobs/info/69fc5b1d48d4483e4b639154?utm_campaign=1053&utm_source=git)** | Erie, CO, US | On Site | May 06 |
 | ↳ | **[Science Communications Intern, College of Natural Sciences](https://jobright.ai/jobs/info/69fc58cfbb117f6b3f2b46ec?utm_campaign=1053&utm_source=git)** | US | On Site | May 06 |
-| ↳ | **[Experiential Production Intern (Summer)](https://jobright.ai/jobs/info/69fc331c4ab6391714fd3e06?utm_campaign=1053&utm_source=git)** | NY, US | Hybrid | May 06 |
-| **[Hannah News Service](https://www.hannahnews.com/)** | **[Journalism/Communications Internship - Fall '26](https://jobright.ai/jobs/info/69fc05d7c39b9a66c0c55eb7?utm_campaign=1053&utm_source=git)** | Indianapolis, IN | On Site | May 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
