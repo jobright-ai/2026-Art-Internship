@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Historical Preservation, Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/6a03c30d6c07461fe170722b?utm_campaign=1053&utm_source=git)** | Jamaica, NY | On Site | May 12 |
+| **[EveryDayABA](www.everydayaba.net)** | **[Video Editor Intern](https://jobright.ai/jobs/info/6a03bde822395b6dc6d97846?utm_campaign=1053&utm_source=git)** | Vista, CA | Remote | May 12 |
 | **[That One Media Studio](https://dot.cards/thatonemediastudio)** | **[Content Creator](https://jobright.ai/jobs/info/6a03b9e86c07461fe1706f93?utm_campaign=1053&utm_source=git)** | Savannah, GA | Hybrid | May 12 |
 | **[Surya Sound Temple](https://www.suryasoundtemple.org)** | **[Music Intern](https://jobright.ai/jobs/info/6a03b580bc4184089f235446?utm_campaign=1053&utm_source=git)** | Brooklyn, NY | Hybrid | May 12 |
 | **[Serrano Country Club](https://serranocountryclub.org/)** | **[Intern](https://jobright.ai/jobs/info/6a03acce7c753c287f6e9718?utm_campaign=1053&utm_source=git)** | El Dorado Hills, CA 95762 | On Site | May 12 |
@@ -78,7 +80,6 @@ For a complete list, click the following sortable link below:
 | **[The Consultancy PR](https://theconsultancypr.com)** | **[Summer Intern](https://jobright.ai/jobs/info/6a025c51df52f1450d84a64e?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | May 11 |
 | **[Editor](http://www.editor.si)** | **[Editorial Assistant Intern (remote)](https://jobright.ai/jobs/info/6a023f0c238f143e83532366?utm_campaign=1053&utm_source=git)** | Los Angeles, California, United States | Remote | May 11 |
 | **[Redis](https://redis.io/)** | **[Video Production & Video Internship (Summer)](https://jobright.ai/jobs/info/6a030adff3d6cc51d6372ab8?utm_campaign=1053&utm_source=git)** | San Francisco, CA | On Site | May 11 |
-| **[TriCoast Worldwide](http://www.tricoastworldwide.com)** | **[Post Production Intern](https://jobright.ai/jobs/info/6a0239cf3053db70a1175b54?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | May 11 |
 | **[Northside Hospital](http://www.northside.com)** | **[Department Intern](https://jobright.ai/jobs/info/6a023134238f143e8353183e?utm_campaign=1053&utm_source=git)** | Canton, GA, US | On Site | May 11 |
 | ↳ | **[Department Intern](https://jobright.ai/jobs/info/6a022fd4df52f1450d8484df?utm_campaign=1053&utm_source=git)** | US-GA-Canton | On Site | May 11 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Events and Communication - Internship Experience (Fall 2026)](https://jobright.ai/jobs/info/6a030b13ed6a637463f4be4b?utm_campaign=1053&utm_source=git)** | Dorval, Quebec, Canada | Hybrid | May 11 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Arts & Culture Intern (84968)](https://jobright.ai/jobs/info/69fc5b1d48d4483e4b639154?utm_campaign=1053&utm_source=git)** | Erie, CO, US | On Site | May 06 |
 | ↳ | **[Science Communications Intern, College of Natural Sciences](https://jobright.ai/jobs/info/69fc58cfbb117f6b3f2b46ec?utm_campaign=1053&utm_source=git)** | US | On Site | May 06 |
 | ↳ | **[Experiential Production Intern (Summer)](https://jobright.ai/jobs/info/69fc331c4ab6391714fd3e06?utm_campaign=1053&utm_source=git)** | NY, US | Hybrid | May 06 |
-| **[Hannah News Service](https://www.hannahnews.com/)** | **[Journalism/Communications Internship - Fall '26](https://jobright.ai/jobs/info/69fc05d7c39b9a66c0c55eb7?utm_campaign=1053&utm_source=git)** | Indianapolis, IN | On Site | May 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
