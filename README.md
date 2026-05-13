@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Historical Preservation, Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/6a0419e8f811a043696080cd?utm_campaign=1053&utm_source=git)** | Jamaica, NY | On Site | May 12 |
 | **[Omni Hotels & Resorts](http://www.omnihotels.com/)** | **[Omni Cares internship / Culinary](https://jobright.ai/jobs/info/6a040091f811a043696070d5?utm_campaign=1053&utm_source=git)** | Asheville, NC | On Site | May 12 |
 | **[Imagination Mode](Imaginationmode.com)** | **[Virtual Assistant - Voluntary Internship: Remote](https://jobright.ai/jobs/info/6a03f11cbc4184089f236f5d?utm_campaign=1053&utm_source=git)** | Massachusetts, United States | Remote | May 12 |
 | **[Silk & Spice Tea](www.silkspicetea.com)** | **[Summer Content Intern](https://jobright.ai/jobs/info/6a03e8afbc4184089f236840?utm_campaign=1053&utm_source=git)** | United States | Remote | May 12 |
@@ -80,10 +81,13 @@ For a complete list, click the following sortable link below:
 | **[Northside Hospital](http://www.northside.com)** | **[Department Intern](https://jobright.ai/jobs/info/6a033aebbc4184089f2303d3?utm_campaign=1053&utm_source=git)** | Canton, GA | On Site | May 12 |
 | **[Schoolconomy Inc.](https://schoolconomy.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/6a02ec777c753c287f6e1ef6?utm_campaign=1053&utm_source=git)** | Atlanta Metro | Hybrid | May 12 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[ESPN Production Intern, Charlotte, Fall 2026](https://jobright.ai/jobs/info/6a032b13f3d6cc51d6373dfd?utm_campaign=1053&utm_source=git)** | Charlotte, NC | On Site | May 11 |
+| **[Highgate](https://www.highgate.com)** | **[Culinary Intern](https://jobright.ai/jobs/info/6a041ad47c753c287f6eced4?utm_campaign=1053&utm_source=git)** | Las Vegas, NV | On Site | May 11 |
+| **[Place Showroom](http://placeshowroom.com)** | **[LA Internship Summer 2026](https://jobright.ai/jobs/info/6a0414a322395b6dc6d9a2e0?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | May 11 |
 | **['Alohilani Resort Waikiki Beach](http://www.pacificbeachhotel.com/)** | **[Culinary Intern](https://jobright.ai/jobs/info/6a02807dc2ffb31f4536d83c?utm_campaign=1053&utm_source=git)** | Las Vegas, NV, US | On Site | May 11 |
 | ↳ | **[Culinary Intern](https://jobright.ai/jobs/info/6a028079fa1aa73213d9a7ad?utm_campaign=1053&utm_source=git)** | US-NV-Las Vegas | On Site | May 11 |
 | **[Kualoa Ranch Hawaii, Inc.](https://www.kualoa.com)** | **[Kupukupu Internship - Ho'okipa Intern](https://jobright.ai/jobs/info/6a02799dc2ffb31f4536d753?utm_campaign=1053&utm_source=git)** | 49-049 Kamehameha Hwy, Kaneohe, HI 96744, USA | On Site | May 11 |
 | **[The Consultancy PR](https://theconsultancypr.com)** | **[Summer Intern](https://jobright.ai/jobs/info/6a025c51df52f1450d84a64e?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | May 11 |
+| **[M Booth](http://www.mbooth.com)** | **[Summer Intern](https://jobright.ai/jobs/info/6a041387f811a04369607561?utm_campaign=1053&utm_source=git)** | NYC Metro Area | On Site | May 11 |
 | **[Editor](http://www.editor.si)** | **[Editorial Assistant Intern (remote)](https://jobright.ai/jobs/info/6a023f0c238f143e83532366?utm_campaign=1053&utm_source=git)** | Los Angeles, California, United States | Remote | May 11 |
 | **[Redis](https://redis.io/)** | **[Video Production & Video Internship (Summer)](https://jobright.ai/jobs/info/6a030adff3d6cc51d6372ab8?utm_campaign=1053&utm_source=git)** | San Francisco, CA | On Site | May 11 |
 | **[Northside Hospital](http://www.northside.com)** | **[Department Intern](https://jobright.ai/jobs/info/6a023134238f143e8353183e?utm_campaign=1053&utm_source=git)** | Canton, GA, US | On Site | May 11 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Indiana Institute of Technology](http://www.indianatech.edu)** | **[Graduate Assistant - Esports](https://jobright.ai/jobs/info/69fb31c386d5cd46527d3c6e?utm_campaign=1053&utm_source=git)** | Fort Wayne, IN | On Site | May 07 |
 | **[Elite Podcast Studio](ElitePodcastStudio.com)** | **[Summer Internship 2026 / Content Creator / Elite Podcast Studio / Tampa Bay](https://jobright.ai/jobs/info/69fc9fb1b113035a9f8ea902?utm_campaign=1053&utm_source=git)** | Odessa, FL | On Site | May 07 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Athletics Multimedia and Production Intern](https://jobright.ai/jobs/info/69fc6df9e17071257af1a8f3?utm_campaign=1053&utm_source=git)** | Providence, RI, US | On Site | May 07 |
-| **[RemoteHunter](https://remotehunter.com/)** | **[Videographer Intern (Summer)](https://jobright.ai/jobs/info/69fc6993e17071257af19b0c?utm_campaign=1053&utm_source=git)** | Wrightstown, WI, US | On Site | May 06 |
-| ↳ | **[Media Productions Intern](https://jobright.ai/jobs/info/69fc6938e17071257af19a1a?utm_campaign=1053&utm_source=git)** | HI, US | On Site | May 06 |
-| ↳ | **[MEDIA AND PRODUCER ASST. - SUMMER INTERNSHIP](https://jobright.ai/jobs/info/69fc66b7ab1b7e27b9fa3bf1?utm_campaign=1053&utm_source=git)** | IL, US | Hybrid | May 06 |
-| ↳ | **[Arts & Culture Intern (84968)](https://jobright.ai/jobs/info/69fc5b1d48d4483e4b639154?utm_campaign=1053&utm_source=git)** | Erie, CO, US | On Site | May 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
