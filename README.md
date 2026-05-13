@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Taylor Corporation](http://www.taylorcorp.com)** | **[Production & Social Media Intern (Temporary)](https://jobright.ai/jobs/info/6a048507bc4184089f23bd21?utm_campaign=1053&utm_source=git)** | New York, NY -Jon Michael Design, Inc., US | Hybrid | May 13 |
 | **[Oceanus The Label](https://oceanusthelabel.com)** | **[Intern / Volunteer (Fashion Events + Content Support)](https://jobright.ai/jobs/info/6a04635f22395b6dc6d9c4da?utm_campaign=1053&utm_source=git)** | Miami, FL | On Site | May 13 |
 | **[Base Power Company](https://www.basepowercompany.com)** | **[Video Editing Intern](https://jobright.ai/jobs/info/6a042874bc4184089f238ddb?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | May 13 |
 | **[A1Apps](https://www.a1apps.co)** | **[Video editor (Intern)](https://jobright.ai/jobs/info/6a041fdcbc4184089f238a5a?utm_campaign=1053&utm_source=git)** | United States | Remote | May 12 |
@@ -68,7 +69,6 @@ For a complete list, click the following sortable link below:
 | **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Historical Preservation, Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/6a03c30d6c07461fe170722b?utm_campaign=1053&utm_source=git)** | Jamaica, NY | On Site | May 12 |
 | **[EveryDayABA](www.everydayaba.net)** | **[Video Editor Intern](https://jobright.ai/jobs/info/6a03bde822395b6dc6d97846?utm_campaign=1053&utm_source=git)** | Vista, CA | Remote | May 12 |
 | **[That One Media Studio](https://dot.cards/thatonemediastudio)** | **[Content Creator](https://jobright.ai/jobs/info/6a03b9e86c07461fe1706f93?utm_campaign=1053&utm_source=git)** | Savannah, GA | Hybrid | May 12 |
-| **[Surya Sound Temple](https://www.suryasoundtemple.org)** | **[Music Intern](https://jobright.ai/jobs/info/6a03b580bc4184089f235446?utm_campaign=1053&utm_source=git)** | Brooklyn, NY | Hybrid | May 12 |
 | **[Serrano Country Club](https://serranocountryclub.org/)** | **[Intern](https://jobright.ai/jobs/info/6a03acce7c753c287f6e9718?utm_campaign=1053&utm_source=git)** | El Dorado Hills, CA 95762 | On Site | May 12 |
 | **[OTTera, Inc.](http://www.ottera.tv/)** | **[Content Creator Intern](https://jobright.ai/jobs/info/6a038f1222395b6dc6d95e98?utm_campaign=1053&utm_source=git)** | LA Metro Area | On Site | May 12 |
 | ↳ | **[Video Editor Intern](https://jobright.ai/jobs/info/6a038548bc4184089f233377?utm_campaign=1053&utm_source=git)** | LA Metro Area | On Site | May 12 |
