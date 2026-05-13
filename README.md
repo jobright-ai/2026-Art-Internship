@@ -136,6 +136,7 @@ For a complete list, click the following sortable link below:
 | **[RemoteHunter](https://remotehunter.com/)** | **[Intern, BOplex](https://jobright.ai/jobs/info/69fdf1e1f363bc4dc339aa0d?utm_campaign=1053&utm_source=git)** | Charlotte, NC, US | On Site | May 08 |
 | **[LV Collective](https://lvcollective.com)** | **[Video Production Intern Summer 2026](https://jobright.ai/jobs/info/69fdc858f363bc4dc339978d?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | May 08 |
 | **[City of Mississauga](http://www.mississauga.ca/portal/home)** | **[Production Coordinator](https://jobright.ai/jobs/info/69f50033db88714bcdfb1073?utm_campaign=1053&utm_source=git)** | Mississauga, Ontario, Canada | On Site | May 08 |
+| **[USA TODAY Co., Inc.](https://www.usatodayco.com/)** | **[Intern - Content](https://jobright.ai/jobs/info/6a0453dbf811a04369609433?utm_campaign=1053&utm_source=git)** | Asbury Park, NJ 07712, USA | On Site | May 08 |
 | **[WCIA 3](https://www.wcia.com/)** | **[Unpaid News Intern](https://jobright.ai/jobs/info/69c2b65bec22f8310ab098bf?utm_campaign=1053&utm_source=git)** | Champaign, IL | On Site | May 08 |
 | **[Agency EA](http://agencyea.com)** | **[Event Production Internship](https://jobright.ai/jobs/info/6a0249ed238f143e83532922?utm_campaign=1053&utm_source=git)** | Chicago, IL | Hybrid | May 07 |
 | **[9fin](https://9fin.com)** | **[Distressed Debt Reporter - 3-6 month Internship](https://jobright.ai/jobs/info/69e02a884920452a85dd1e2e?utm_campaign=1053&utm_source=git)** | New York, United States | Hybrid | May 07 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Fox Television Stations](https://www.foxcorporation.com/businesses/fox-television-stations/)** | **[Intern](https://jobright.ai/jobs/info/69e044fee34484770f1ad6f2?utm_campaign=1053&utm_source=git)** | Seattle, WA | On Site | May 07 |
 | **[Indiana Institute of Technology](http://www.indianatech.edu)** | **[Graduate Assistant - Esports](https://jobright.ai/jobs/info/69fb31c386d5cd46527d3c6e?utm_campaign=1053&utm_source=git)** | Fort Wayne, IN | On Site | May 07 |
 | **[Elite Podcast Studio](ElitePodcastStudio.com)** | **[Summer Internship 2026 / Content Creator / Elite Podcast Studio / Tampa Bay](https://jobright.ai/jobs/info/69fc9fb1b113035a9f8ea902?utm_campaign=1053&utm_source=git)** | Odessa, FL | On Site | May 07 |
-| **[RemoteHunter](https://remotehunter.com/)** | **[Athletics Multimedia and Production Intern](https://jobright.ai/jobs/info/69fc6df9e17071257af1a8f3?utm_campaign=1053&utm_source=git)** | Providence, RI, US | On Site | May 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
