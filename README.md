@@ -57,11 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Omni Hotels & Resorts](http://www.omnihotels.com/)** | **[Omni Cares internship / Culinary](https://jobright.ai/jobs/info/6a040091f811a043696070d5?utm_campaign=1053&utm_source=git)** | Asheville, NC | On Site | May 12 |
 | **[Imagination Mode](Imaginationmode.com)** | **[Virtual Assistant - Voluntary Internship: Remote](https://jobright.ai/jobs/info/6a03f11cbc4184089f236f5d?utm_campaign=1053&utm_source=git)** | Massachusetts, United States | Remote | May 12 |
 | **[Silk & Spice Tea](www.silkspicetea.com)** | **[Summer Content Intern](https://jobright.ai/jobs/info/6a03e8afbc4184089f236840?utm_campaign=1053&utm_source=git)** | United States | Remote | May 12 |
 | **[Gagosian](http://www.gagosian.com)** | **[Internship Program - New York (Fall, 2026)](https://jobright.ai/jobs/info/6a03d1017c753c287f6ea886?utm_campaign=1053&utm_source=git)** | 555 W 24th Street, New York | On Site | May 12 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[ABC News Live First Hour Production Intern, Fall 2026](https://jobright.ai/jobs/info/6a03caab22395b6dc6d98090?utm_campaign=1053&utm_source=git)** | New York, NY, USA, US | On Site | May 12 |
 | **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Historical Preservation, Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/6a03c30d6c07461fe170722b?utm_campaign=1053&utm_source=git)** | Jamaica, NY | On Site | May 12 |
+| **[Base Power Company](https://www.basepowercompany.com)** | **[Video Editing Intern](https://jobright.ai/jobs/info/6a040094f811a043696070e3?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | May 12 |
 | **[EveryDayABA](www.everydayaba.net)** | **[Video Editor Intern](https://jobright.ai/jobs/info/6a03bde822395b6dc6d97846?utm_campaign=1053&utm_source=git)** | Vista, CA | Remote | May 12 |
 | **[That One Media Studio](https://dot.cards/thatonemediastudio)** | **[Content Creator](https://jobright.ai/jobs/info/6a03b9e86c07461fe1706f93?utm_campaign=1053&utm_source=git)** | Savannah, GA | Hybrid | May 12 |
 | **[Surya Sound Temple](https://www.suryasoundtemple.org)** | **[Music Intern](https://jobright.ai/jobs/info/6a03b580bc4184089f235446?utm_campaign=1053&utm_source=git)** | Brooklyn, NY | Hybrid | May 12 |
@@ -121,7 +123,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Audio/Video Intern, Fall 2026 (HQ)](https://jobright.ai/jobs/info/69fe658e7714cd50b9100c15?utm_campaign=1053&utm_source=git)** | Arlington, VA, US | Hybrid | May 08 |
 | **[POLITICO](http://www.politico.com)** | **[Audio/Video Intern, Fall 2026 (HQ)](https://jobright.ai/jobs/info/69fe450e52e2b44f558b0070?utm_campaign=1053&utm_source=git)** | Arlington, VA, US | Hybrid | May 08 |
 | **[NAOMI NOMI](http://naominomi.com)** | **[Production Intern](https://jobright.ai/jobs/info/69fe445f6bcf315dc8f561ee?utm_campaign=1053&utm_source=git)** | Brooklyn, NY | On Site | May 08 |
-| **[Comcast](https://corporate.comcast.com)** | **[Comcast Content & Partnerships Intern](https://jobright.ai/jobs/info/69feb2a31161630dd3b01ab3?utm_campaign=1053&utm_source=git)** | PA - Philadelphia, 1701 John F Kennedy Blvd, US | On Site | May 08 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Sustainability Storytelling and News Intern](https://jobright.ai/jobs/info/69fe2aff52e2b44f558aed86?utm_campaign=1053&utm_source=git)** | University Park, IL, US | Hybrid | May 08 |
 | **[Carolina Population Center](https://www.cpc.unc.edu)** | **[Due South Internship - WUNC Youth Reporting Internship](https://jobright.ai/jobs/info/69fe11d44b9bbf21744ae343?utm_campaign=1053&utm_source=git)** | North Carolina, US | Hybrid | May 08 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[ESPN Production Intern, Charlotte, Fall 2026](https://jobright.ai/jobs/info/69fe06847714cd50b90fd8d5?utm_campaign=1053&utm_source=git)** | Charlotte, NC, USA, US | On Site | May 08 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Media Productions Intern](https://jobright.ai/jobs/info/69fc6938e17071257af19a1a?utm_campaign=1053&utm_source=git)** | HI, US | On Site | May 06 |
 | ↳ | **[MEDIA AND PRODUCER ASST. - SUMMER INTERNSHIP](https://jobright.ai/jobs/info/69fc66b7ab1b7e27b9fa3bf1?utm_campaign=1053&utm_source=git)** | IL, US | Hybrid | May 06 |
 | ↳ | **[Arts & Culture Intern (84968)](https://jobright.ai/jobs/info/69fc5b1d48d4483e4b639154?utm_campaign=1053&utm_source=git)** | Erie, CO, US | On Site | May 06 |
-| ↳ | **[Science Communications Intern, College of Natural Sciences](https://jobright.ai/jobs/info/69fc58cfbb117f6b3f2b46ec?utm_campaign=1053&utm_source=git)** | US | On Site | May 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
