@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[KGO-TV (ABC7) Community Engagement Intern, Fall 2026](https://jobright.ai/jobs/info/6a04ec25bc4184089f240ae2?utm_campaign=1053&utm_source=git)** | San Francisco, CA, USA, US | On Site | May 13 |
+| **[SKDK](http://skdknick.com)** | **[Production Intern, Summer 2026](https://jobright.ai/jobs/info/6a04e72022395b6dc6da1ce2?utm_campaign=1053&utm_source=git)** | US-DC-Washington | Hybrid | May 13 |
+| ↳ | **[Production Intern, Summer 2026](https://jobright.ai/jobs/info/6a04e71f22395b6dc6da1ce1?utm_campaign=1053&utm_source=git)** | Washington, DC, US | Hybrid | May 13 |
 | **[City of Irving](https://www.cityofirving.org/2623/Family-Advocacy-Center)** | **[Intern - Production (Part-Time)](https://jobright.ai/jobs/info/6a04ddd64373b07358a378d1?utm_campaign=1053&utm_source=git)** | Irving, TX | On Site | May 13 |
 | **[Mohonk Mountain House](https://www.mohonk.com/)** | **[Archives Project Intern - Part Time, Seasonal until 9/7/2026](https://jobright.ai/jobs/info/6a04c9e64373b07358a36d1d?utm_campaign=1053&utm_source=git)** | New Paltz, NY, US | On Site | May 13 |
 | **[City of Seguin](https://www.seguintexas.gov)** | **[Multi-Media/Video Production (Internship)](https://jobright.ai/jobs/info/6a04c5284373b07358a369ab?utm_campaign=1053&utm_source=git)** | City of Seguin | On Site | May 13 |
@@ -79,14 +82,12 @@ For a complete list, click the following sortable link below:
 | **[EveryDayABA](www.everydayaba.net)** | **[Video Editor Intern](https://jobright.ai/jobs/info/6a03bde822395b6dc6d97846?utm_campaign=1053&utm_source=git)** | Vista, CA | Remote | May 12 |
 | **[That One Media Studio](https://dot.cards/thatonemediastudio)** | **[Content Creator](https://jobright.ai/jobs/info/6a03b9e86c07461fe1706f93?utm_campaign=1053&utm_source=git)** | Savannah, GA | Hybrid | May 12 |
 | **[Serrano Country Club](https://serranocountryclub.org/)** | **[Intern](https://jobright.ai/jobs/info/6a03acce7c753c287f6e9718?utm_campaign=1053&utm_source=git)** | El Dorado Hills, CA 95762 | On Site | May 12 |
-| **[OTTera, Inc.](http://www.ottera.tv/)** | **[Content Creator Intern](https://jobright.ai/jobs/info/6a038f1222395b6dc6d95e98?utm_campaign=1053&utm_source=git)** | LA Metro Area | On Site | May 12 |
-| ↳ | **[Video Editor Intern](https://jobright.ai/jobs/info/6a038548bc4184089f233377?utm_campaign=1053&utm_source=git)** | LA Metro Area | On Site | May 12 |
+| **[OTTera, Inc.](http://www.ottera.tv/)** | **[Video Editor Intern](https://jobright.ai/jobs/info/6a038548bc4184089f233377?utm_campaign=1053&utm_source=git)** | LA Metro Area | On Site | May 12 |
 | **[Crew Dog](https://crew-dog.com)** | **[Comedy Content Creator Intern](https://jobright.ai/jobs/info/6a037895f3d6cc51d6376ef3?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | May 12 |
 | **[OTTera, Inc.](http://www.ottera.tv/)** | **[Video Editor Intern](https://jobright.ai/jobs/info/6a036e4b22395b6dc6d9429a?utm_campaign=1053&utm_source=git)** | North Hollywood, CA | On Site | May 12 |
 | **[Bluhouse Socials](https://www.bluhousesocials.com/)** | **[Videography Intern](https://jobright.ai/jobs/info/6a035c4d22395b6dc6d93d6c?utm_campaign=1053&utm_source=git)** | Tampa, FL | On Site | May 12 |
 | **[American Psychological Association](http://apa.org/)** | **[Internships at APA - Film Editing Internship](https://jobright.ai/jobs/info/6a0355986c07461fe1702e64?utm_campaign=1053&utm_source=git)** | Washington, District of Columbia, United States | Remote | May 12 |
 | **[Meat Institute](https://www.meatinstitute.org)** | **[Member Experience Intern](https://jobright.ai/jobs/info/6a035566f3d6cc51d6375971?utm_campaign=1053&utm_source=git)** | Arlington, VA | Hybrid | May 12 |
-| **[Northside Hospital](http://www.northside.com)** | **[Department Intern](https://jobright.ai/jobs/info/6a033aebbc4184089f2303d3?utm_campaign=1053&utm_source=git)** | Canton, GA | On Site | May 12 |
 | **[Schoolconomy Inc.](https://schoolconomy.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/6a02ec777c753c287f6e1ef6?utm_campaign=1053&utm_source=git)** | Atlanta Metro | Hybrid | May 12 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[ESPN Production Intern, Charlotte, Fall 2026](https://jobright.ai/jobs/info/6a032b13f3d6cc51d6373dfd?utm_campaign=1053&utm_source=git)** | Charlotte, NC | On Site | May 11 |
 | **[Highgate](https://www.highgate.com)** | **[Culinary Intern](https://jobright.ai/jobs/info/6a041ad47c753c287f6eced4?utm_campaign=1053&utm_source=git)** | Las Vegas, NV | On Site | May 11 |
@@ -110,7 +111,6 @@ For a complete list, click the following sortable link below:
 | **[AARP](http://www.aarp.org)** | **[Copy Editing Intern (Fall)](https://jobright.ai/jobs/info/69bddd8148282272930090ec?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | May 11 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[World News Tonight Production Intern, Fall 2026](https://jobright.ai/jobs/info/6a02d587bc4184089f22cc34?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | May 10 |
 | **[Giant Spoon](http://giantspoon.com/)** | **[Experiential Production Intern (Summer)](https://jobright.ai/jobs/info/69fc3151a5949019c55b3836?utm_campaign=1053&utm_source=git)** | New York, United States | Hybrid | May 10 |
-| **[Starz](http://www.starz.com/)** | **[STARZ Intern, Content Operations - Video](https://jobright.ai/jobs/info/699edb7481476f6176b8502a?utm_campaign=1053&utm_source=git)** | Greenwood Village, CO | On Site | May 10 |
 | **[Town of Erie](https://www.erieco.gov)** | **[Arts & Culture Intern (84968)](https://jobright.ai/jobs/info/6a02c6737c753c287f6e0eb8?utm_campaign=1053&utm_source=git)** | Erie, CO | On Site | May 10 |
 | **[Starz](http://www.starz.com/)** | **[STARZ Intern, Original Programming](https://jobright.ai/jobs/info/699532c2ce78e77b4fd94d04?utm_campaign=1053&utm_source=git)** | Santa Monica, CA | Hybrid | May 10 |
 | ↳ | **[STARZ Intern, Acquisitions](https://jobright.ai/jobs/info/69952c01ce78e77b4fd94442?utm_campaign=1053&utm_source=git)** | Santa Monica, CA | On Site | May 10 |
