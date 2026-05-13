@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[NoGood](https://nogood.io)** | **[Intern- Social Video Creator](https://jobright.ai/jobs/info/6a0498fc22395b6dc6d9ef88?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | May 13 |
+| **[Pearl West](https://www.pearlwestgroup.com)** | **[TikTok Shop Intern](https://jobright.ai/jobs/info/6a048ccff3d6cc51d638047f?utm_campaign=1053&utm_source=git)** | Vancouver, British Columbia, Canada | Hybrid | May 13 |
 | **[Taylor Corporation](http://www.taylorcorp.com)** | **[Production & Social Media Intern (Temporary)](https://jobright.ai/jobs/info/6a048507bc4184089f23bd21?utm_campaign=1053&utm_source=git)** | New York, NY -Jon Michael Design, Inc., US | Hybrid | May 13 |
 | **[Oceanus The Label](https://oceanusthelabel.com)** | **[Intern / Volunteer (Fashion Events + Content Support)](https://jobright.ai/jobs/info/6a04635f22395b6dc6d9c4da?utm_campaign=1053&utm_source=git)** | Miami, FL | On Site | May 13 |
 | **[Base Power Company](https://www.basepowercompany.com)** | **[Video Editing Intern](https://jobright.ai/jobs/info/6a042874bc4184089f238ddb?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | May 13 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Red Bull New York](http://www.newyorkredbulls.com)** | **[2026 Internship, Summer - Creative Video](https://jobright.ai/jobs/info/69c4bc206f4f855eeda763a8?utm_campaign=1053&utm_source=git)** | Harrison, NJ | On Site | May 07 |
 | **[Sports Illustrated Stadium](https://www.sportsillustratedstadium.com)** | **[2026 Internship, Summer - Event Operations](https://jobright.ai/jobs/info/69c4bc2b6f4f855eeda763c2?utm_campaign=1053&utm_source=git)** | Harrison, NJ | On Site | May 07 |
 | **[Fox Television Stations](https://www.foxcorporation.com/businesses/fox-television-stations/)** | **[Intern](https://jobright.ai/jobs/info/69e044fee34484770f1ad6f2?utm_campaign=1053&utm_source=git)** | Seattle, WA | On Site | May 07 |
-| **[Indiana Institute of Technology](http://www.indianatech.edu)** | **[Graduate Assistant - Esports](https://jobright.ai/jobs/info/69fb31c386d5cd46527d3c6e?utm_campaign=1053&utm_source=git)** | Fort Wayne, IN | On Site | May 07 |
-| **[Elite Podcast Studio](ElitePodcastStudio.com)** | **[Summer Internship 2026 / Content Creator / Elite Podcast Studio / Tampa Bay](https://jobright.ai/jobs/info/69fc9fb1b113035a9f8ea902?utm_campaign=1053&utm_source=git)** | Odessa, FL | On Site | May 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
