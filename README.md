@@ -57,14 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Base Power Company](https://www.basepowercompany.com)** | **[Video Editing Intern](https://jobright.ai/jobs/info/6a042874bc4184089f238ddb?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | May 13 |
+| **[A1Apps](https://www.a1apps.co)** | **[Video editor (Intern)](https://jobright.ai/jobs/info/6a041fdcbc4184089f238a5a?utm_campaign=1053&utm_source=git)** | United States | Remote | May 12 |
 | **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Historical Preservation, Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/6a0419e8f811a043696080cd?utm_campaign=1053&utm_source=git)** | Jamaica, NY | On Site | May 12 |
 | **[Omni Hotels & Resorts](http://www.omnihotels.com/)** | **[Omni Cares internship / Culinary](https://jobright.ai/jobs/info/6a040091f811a043696070d5?utm_campaign=1053&utm_source=git)** | Asheville, NC | On Site | May 12 |
-| **[Imagination Mode](Imaginationmode.com)** | **[Virtual Assistant - Voluntary Internship: Remote](https://jobright.ai/jobs/info/6a03f11cbc4184089f236f5d?utm_campaign=1053&utm_source=git)** | Massachusetts, United States | Remote | May 12 |
 | **[Silk & Spice Tea](www.silkspicetea.com)** | **[Summer Content Intern](https://jobright.ai/jobs/info/6a03e8afbc4184089f236840?utm_campaign=1053&utm_source=git)** | United States | Remote | May 12 |
 | **[Gagosian](http://www.gagosian.com)** | **[Internship Program - New York (Fall, 2026)](https://jobright.ai/jobs/info/6a03d1017c753c287f6ea886?utm_campaign=1053&utm_source=git)** | 555 W 24th Street, New York | On Site | May 12 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[ABC News Live First Hour Production Intern, Fall 2026](https://jobright.ai/jobs/info/6a03caab22395b6dc6d98090?utm_campaign=1053&utm_source=git)** | New York, NY, USA, US | On Site | May 12 |
 | **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Historical Preservation, Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/6a03c30d6c07461fe170722b?utm_campaign=1053&utm_source=git)** | Jamaica, NY | On Site | May 12 |
-| **[Base Power Company](https://www.basepowercompany.com)** | **[Video Editing Intern](https://jobright.ai/jobs/info/6a040094f811a043696070e3?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | May 12 |
 | **[EveryDayABA](www.everydayaba.net)** | **[Video Editor Intern](https://jobright.ai/jobs/info/6a03bde822395b6dc6d97846?utm_campaign=1053&utm_source=git)** | Vista, CA | Remote | May 12 |
 | **[That One Media Studio](https://dot.cards/thatonemediastudio)** | **[Content Creator](https://jobright.ai/jobs/info/6a03b9e86c07461fe1706f93?utm_campaign=1053&utm_source=git)** | Savannah, GA | Hybrid | May 12 |
 | **[Surya Sound Temple](https://www.suryasoundtemple.org)** | **[Music Intern](https://jobright.ai/jobs/info/6a03b580bc4184089f235446?utm_campaign=1053&utm_source=git)** | Brooklyn, NY | Hybrid | May 12 |
