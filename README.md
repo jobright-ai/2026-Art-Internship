@@ -57,11 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BCI](https://www.bci.ca/)** | **[Communication Production & Projects Co-op/ Internship (Fall 2026)](https://jobright.ai/jobs/info/6a0577b3a88ea73abf7f1740?utm_campaign=1053&utm_source=git)** | Victoria, BC, CA | Hybrid | May 14 |
 | **[Heirloom Diet](www.heirloomdiet.com)** | **[Social Media Editor Intern](https://jobright.ai/jobs/info/6a056bd57c753c287f6f9184?utm_campaign=1053&utm_source=git)** | United States | Remote | May 13 |
 | **[CoPatible](https://copatible.com)** | **[Content Creator Intern](https://jobright.ai/jobs/info/6a05601cbc4184089f244be9?utm_campaign=1053&utm_source=git)** | San Francisco, CA | Remote | May 13 |
 | **[American Enterprise Institute](http://www.aei.org)** | **[Fall Intern: Economic Innovation and Editing](https://jobright.ai/jobs/info/6a055519fbf3d169d3c5e068?utm_campaign=1053&utm_source=git)** | US-DC-Washington | On Site | May 13 |
 | ↳ | **[Fall Intern: Economic Innovation and Editing](https://jobright.ai/jobs/info/6a055518fbf3d169d3c5e067?utm_campaign=1053&utm_source=git)** | Washington, DC, US | On Site | May 13 |
-| **[TapBlaze](http://www.tapblaze.com)** | **[Narrative Design Intern](https://jobright.ai/jobs/info/6a053610d954223d386e9fe1?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | May 13 |
 | **[HydroGeoLogic, Inc.](https://www.hgl.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/6a0523de6c07461fe171434e?utm_campaign=1053&utm_source=git)** | Phoenix, AZ | Hybrid | May 13 |
 | **[Legends Global](http://legends.net)** | **[Floating Intern](https://jobright.ai/jobs/info/6a050dad7c753c287f6f63df?utm_campaign=1053&utm_source=git)** | Houston, TX | On Site | May 13 |
 | **[House of Good Deeds](http://www.HouseOfGoodDeeds.org)** | **[2026 Summer-Winter Internships - House of Good Deeds](https://jobright.ai/jobs/info/6a050a6df3d6cc51d6386144?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | May 13 |
@@ -102,6 +102,7 @@ For a complete list, click the following sortable link below:
 | **[Base Power Company](https://www.basepowercompany.com)** | **[Video Editing Intern](https://jobright.ai/jobs/info/6a042874bc4184089f238ddb?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | May 13 |
 | **[A1Apps](https://www.a1apps.co)** | **[Video editor (Intern)](https://jobright.ai/jobs/info/6a041fdcbc4184089f238a5a?utm_campaign=1053&utm_source=git)** | United States | Remote | May 12 |
 | **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Historical Preservation, Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/6a0419e8f811a043696080cd?utm_campaign=1053&utm_source=git)** | Jamaica, NY | On Site | May 12 |
+| **[City of Seguin](https://www.seguintexas.gov)** | **[Multi-Media/Video Production (Internship)](https://jobright.ai/jobs/info/6a0572857c753c287f6f954b?utm_campaign=1053&utm_source=git)** | Seguin, TX | On Site | May 12 |
 | **[Omni Hotels & Resorts](http://www.omnihotels.com/)** | **[Omni Cares internship / Culinary](https://jobright.ai/jobs/info/6a040091f811a043696070d5?utm_campaign=1053&utm_source=git)** | Asheville, NC | On Site | May 12 |
 | **[Silk & Spice Tea](www.silkspicetea.com)** | **[Summer Content Intern](https://jobright.ai/jobs/info/6a03e8afbc4184089f236840?utm_campaign=1053&utm_source=git)** | United States | Remote | May 12 |
 | **[Gagosian](http://www.gagosian.com)** | **[Internship Program - New York (Fall, 2026)](https://jobright.ai/jobs/info/6a03d1017c753c287f6ea886?utm_campaign=1053&utm_source=git)** | 555 W 24th Street, New York | On Site | May 12 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[RemoteHunter](https://remotehunter.com/)** | **[Intern - Content](https://jobright.ai/jobs/info/69fe80677714cd50b9101614?utm_campaign=1053&utm_source=git)** | Asbury Park, NJ, US | On Site | May 08 |
 | **[Braathe Enterprises](http://www.beyourstart.com)** | **[Virtual Journalism Internship](https://jobright.ai/jobs/info/69fe7d716bcf315dc8f57e73?utm_campaign=1053&utm_source=git)** | Saratoga Springs, New York, United States | Remote | May 08 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Comcast Content & Partnerships Intern](https://jobright.ai/jobs/info/69fe65f14b9bbf21744b14b3?utm_campaign=1053&utm_source=git)** | Philadelphia, PA, US | On Site | May 08 |
-| ↳ | **[Audio/Video Intern, Fall 2026 (HQ)](https://jobright.ai/jobs/info/69fe658e7714cd50b9100c15?utm_campaign=1053&utm_source=git)** | Arlington, VA, US | Hybrid | May 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
