@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[FC Dallas](http://www.fcdallas.com)** | **[2026 Summer Internship / Soccer Celebration](https://jobright.ai/jobs/info/6a062d29f3d6cc51d639038c?utm_campaign=1053&utm_source=git)** | Frisco, Texas | On Site | May 14 |
 | **[Austin Community College](http://austincc.edu)** | **[ACCTV Intern (Hourly)](https://jobright.ai/jobs/info/6a06204da88ea73abf7f7865?utm_campaign=1053&utm_source=git)** | Highland Campus, US | On Site | May 14 |
 | **[Advisors Excel](http://advisorsexcel.com)** | **[Books Program Intern](https://jobright.ai/jobs/info/6a0618146c07461fe171c477?utm_campaign=1053&utm_source=git)** | 2950 SW McClure Rd, Topeka, KS | On Site | May 14 |
 | **[Legends Global](http://legends.net)** | **[Floating Intern](https://jobright.ai/jobs/info/6a061679bc4184089f24ae8e?utm_campaign=1053&utm_source=git)** | Houston, TX | On Site | May 14 |
@@ -73,6 +74,7 @@ For a complete list, click the following sortable link below:
 | **[American Enterprise Institute](http://www.aei.org)** | **[Fall Intern: Economic Innovation and Editing](https://jobright.ai/jobs/info/6a055519fbf3d169d3c5e068?utm_campaign=1053&utm_source=git)** | US-DC-Washington | On Site | May 13 |
 | ↳ | **[Fall Intern: Economic Innovation and Editing](https://jobright.ai/jobs/info/6a055518fbf3d169d3c5e067?utm_campaign=1053&utm_source=git)** | Washington, DC, US | On Site | May 13 |
 | **[HydroGeoLogic, Inc.](https://www.hgl.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/6a0523de6c07461fe171434e?utm_campaign=1053&utm_source=git)** | Phoenix, AZ | Hybrid | May 13 |
+| **[HarperCollins Publishers](https://www.harpercollins.com/)** | **[Publishing Intern (3 month Contract) (Toronto Hybrid)](https://jobright.ai/jobs/info/69fb975618b94b2515be3713?utm_campaign=1053&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | May 13 |
 | **[Legends Global](http://legends.net)** | **[Floating Intern](https://jobright.ai/jobs/info/6a050dad7c753c287f6f63df?utm_campaign=1053&utm_source=git)** | Houston, TX | On Site | May 13 |
 | **[House of Good Deeds](http://www.HouseOfGoodDeeds.org)** | **[2026 Summer-Winter Internships - House of Good Deeds](https://jobright.ai/jobs/info/6a050a6df3d6cc51d6386144?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | May 13 |
 | **[USA TODAY Co., Inc.](https://www.usatodayco.com/)** | **[2026 Summer Video Intern](https://jobright.ai/jobs/info/6a04fca17c753c287f6f59f8?utm_campaign=1053&utm_source=git)** | Bremerton, WA, USA | On Site | May 13 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[News Intern](https://jobright.ai/jobs/info/69c650ab83ea553769fd97d1?utm_campaign=1053&utm_source=git)** | Steubenville, OH | On Site | May 09 |
 | **[ESPN](http://espncareers.com)** | **[ESPN Production Intern, Charlotte, Fall 2026](https://jobright.ai/jobs/info/6a02c6bfed6a637463f492a2?utm_campaign=1053&utm_source=git)** | Charlotte, NC | On Site | May 08 |
 | **[Racepoint Global](http://www.racepointglobal.com)** | **[RPG Intern](https://jobright.ai/jobs/info/69fe9a5ff363bc4dc339f6da?utm_campaign=1053&utm_source=git)** | Raleigh, North Carolina | On Site | May 08 |
-| ↳ | **[RPG Intern](https://jobright.ai/jobs/info/69fe9a597714cd50b9101bce?utm_campaign=1053&utm_source=git)** | Boston, Massachusetts | On Site | May 08 |
-| ↳ | **[RPG Intern](https://jobright.ai/jobs/info/69febc751161630dd3b04035?utm_campaign=1053&utm_source=git)** | San Francisco, California | On Site | May 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
