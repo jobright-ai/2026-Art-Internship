@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[FC Dallas](http://www.fcdallas.com)** | **[2026 Summer Internship / Soccer Celebration](https://jobright.ai/jobs/info/6a062d29f3d6cc51d639038c?utm_campaign=1053&utm_source=git)** | Frisco, Texas | On Site | May 14 |
+| **[Taylor Corporation](https://www.taylor.com/)** | **[Production & Social Media Intern (Temporary)](https://jobright.ai/jobs/info/6a06352b7c753c287f700a2f?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | May 14 |
+| **[Andrews McMeel Universal](http://www.amuniversal.com/)** | **[GoComics Content Archive Intern](https://jobright.ai/jobs/info/6a06336ca88ea73abf7f8fe5?utm_campaign=1053&utm_source=git)** | Kansas City, MO | Hybrid | May 14 |
+| **[Children's Wisconsin](https://childrenswi.org/)** | **[Events Intern](https://jobright.ai/jobs/info/6a0633317c753c287f700718?utm_campaign=1053&utm_source=git)** | Milwaukee, WI | On Site | May 14 |
 | **[Austin Community College](http://austincc.edu)** | **[ACCTV Intern (Hourly)](https://jobright.ai/jobs/info/6a06204da88ea73abf7f7865?utm_campaign=1053&utm_source=git)** | Highland Campus, US | On Site | May 14 |
 | **[Advisors Excel](http://advisorsexcel.com)** | **[Books Program Intern](https://jobright.ai/jobs/info/6a0618146c07461fe171c477?utm_campaign=1053&utm_source=git)** | 2950 SW McClure Rd, Topeka, KS | On Site | May 14 |
 | **[Legends Global](http://legends.net)** | **[Floating Intern](https://jobright.ai/jobs/info/6a061679bc4184089f24ae8e?utm_campaign=1053&utm_source=git)** | Houston, TX | On Site | May 14 |
@@ -88,8 +90,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a04f22c22395b6dc6da210b?utm_campaign=1053&utm_source=git)** | Raleigh, NC | On Site | May 13 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a04f22b22395b6dc6da2109?utm_campaign=1053&utm_source=git)** | Columbia, SC | On Site | May 13 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a04f228f3d6cc51d638481b?utm_campaign=1053&utm_source=git)** | Minneapolis, MN | On Site | May 13 |
-| ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a04f2004373b07358a38295?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | May 13 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a04f2004373b07358a38296?utm_campaign=1053&utm_source=git)** | Bloomington, IN | On Site | May 13 |
+| ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a04f2004373b07358a38295?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | May 13 |
 | **[Kane Realty Corporation](http://kanerealtycorp.com)** | **[Seasonal Events Intern (Pittsboro, May & June)](https://jobright.ai/jobs/info/6a04f1f16c07461fe1711f29?utm_campaign=1053&utm_source=git)** | Pittsboro, NC | On Site | May 13 |
 | **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a04f1ed4373b07358a38258?utm_campaign=1053&utm_source=git)** | St Louis, MO | On Site | May 13 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a04f1ec4373b07358a38257?utm_campaign=1053&utm_source=git)** | Newark, NJ | On Site | May 13 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Oxford Instruments plc](https://www.oxinst.com/)** | **[Events & Exhibitions Specialist](https://jobright.ai/jobs/info/69e2aad52f28653593077799?utm_campaign=1053&utm_source=git)** | Concord, MA | On Site | May 09 |
 | **[Sinclair Inc.](http://sbgi.net/)** | **[Intern - Studio Crew](https://jobright.ai/jobs/info/69e1d29dd612782e6114aa3a?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | May 09 |
 | ↳ | **[News Intern](https://jobright.ai/jobs/info/69c650ab83ea553769fd97d1?utm_campaign=1053&utm_source=git)** | Steubenville, OH | On Site | May 09 |
-| **[ESPN](http://espncareers.com)** | **[ESPN Production Intern, Charlotte, Fall 2026](https://jobright.ai/jobs/info/6a02c6bfed6a637463f492a2?utm_campaign=1053&utm_source=git)** | Charlotte, NC | On Site | May 08 |
-| **[Racepoint Global](http://www.racepointglobal.com)** | **[RPG Intern](https://jobright.ai/jobs/info/69fe9a5ff363bc4dc339f6da?utm_campaign=1053&utm_source=git)** | Raleigh, North Carolina | On Site | May 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
