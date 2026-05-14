@@ -60,7 +60,6 @@ For a complete list, click the following sortable link below:
 | **[TapBlaze](http://www.tapblaze.com)** | **[Narrative Design Intern](https://jobright.ai/jobs/info/6a058850fbf3d169d3c5fa33?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | May 14 |
 | **[BCI](https://www.bci.ca/)** | **[Communication Production & Projects Co-op/ Internship (Fall 2026)](https://jobright.ai/jobs/info/6a0577b3a88ea73abf7f1740?utm_campaign=1053&utm_source=git)** | Victoria, BC, CA | Hybrid | May 14 |
 | **[Heirloom Diet](www.heirloomdiet.com)** | **[Social Media Editor Intern](https://jobright.ai/jobs/info/6a056bd57c753c287f6f9184?utm_campaign=1053&utm_source=git)** | United States | Remote | May 13 |
-| **[CoPatible](https://copatible.com)** | **[Content Creator Intern](https://jobright.ai/jobs/info/6a05601cbc4184089f244be9?utm_campaign=1053&utm_source=git)** | San Francisco, CA | Remote | May 13 |
 | **[American Enterprise Institute](http://www.aei.org)** | **[Fall Intern: Economic Innovation and Editing](https://jobright.ai/jobs/info/6a055519fbf3d169d3c5e068?utm_campaign=1053&utm_source=git)** | US-DC-Washington | On Site | May 13 |
 | ↳ | **[Fall Intern: Economic Innovation and Editing](https://jobright.ai/jobs/info/6a055518fbf3d169d3c5e067?utm_campaign=1053&utm_source=git)** | Washington, DC, US | On Site | May 13 |
 | **[HydroGeoLogic, Inc.](https://www.hgl.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/6a0523de6c07461fe171434e?utm_campaign=1053&utm_source=git)** | Phoenix, AZ | Hybrid | May 13 |
@@ -98,7 +97,7 @@ For a complete list, click the following sortable link below:
 | **[Ryan Ace Music](https://www.ryanacemusic.com/)** | **[Production Intern](https://jobright.ai/jobs/info/6a04adbb22395b6dc6d9fb16?utm_campaign=1053&utm_source=git)** | Orlando, Florida | Hybrid | May 13 |
 | **[NoGood](https://nogood.io)** | **[Intern- Social Video Creator](https://jobright.ai/jobs/info/6a0498fc22395b6dc6d9ef88?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | May 13 |
 | **[Pearl West](https://www.pearlwestgroup.com)** | **[TikTok Shop Intern](https://jobright.ai/jobs/info/6a048ccff3d6cc51d638047f?utm_campaign=1053&utm_source=git)** | Vancouver, British Columbia, Canada | Hybrid | May 13 |
-| **[Taylor Corporation](http://www.taylorcorp.com)** | **[Production & Social Media Intern (Temporary)](https://jobright.ai/jobs/info/6a048507bc4184089f23bd21?utm_campaign=1053&utm_source=git)** | New York, NY -Jon Michael Design, Inc., US | Hybrid | May 13 |
+| **[Taylor Corporation](https://www.taylor.com/)** | **[Production & Social Media Intern (Temporary)](https://jobright.ai/jobs/info/6a048507bc4184089f23bd21?utm_campaign=1053&utm_source=git)** | New York, NY -Jon Michael Design, Inc., US | Hybrid | May 13 |
 | **[Oceanus The Label](https://oceanusthelabel.com)** | **[Intern / Volunteer (Fashion Events + Content Support)](https://jobright.ai/jobs/info/6a04635f22395b6dc6d9c4da?utm_campaign=1053&utm_source=git)** | Miami, FL | On Site | May 13 |
 | **[Base Power Company](https://www.basepowercompany.com)** | **[Video Editing Intern](https://jobright.ai/jobs/info/6a042874bc4184089f238ddb?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | May 13 |
 | **[A1Apps](https://www.a1apps.co)** | **[Video editor (Intern)](https://jobright.ai/jobs/info/6a041fdcbc4184089f238a5a?utm_campaign=1053&utm_source=git)** | United States | Remote | May 12 |
@@ -116,7 +115,6 @@ For a complete list, click the following sortable link below:
 | **[Crew Dog](https://crew-dog.com)** | **[Comedy Content Creator Intern](https://jobright.ai/jobs/info/6a037895f3d6cc51d6376ef3?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | May 12 |
 | **[OTTera, Inc.](http://www.ottera.tv/)** | **[Video Editor Intern](https://jobright.ai/jobs/info/6a036e4b22395b6dc6d9429a?utm_campaign=1053&utm_source=git)** | North Hollywood, CA | On Site | May 12 |
 | **[American Psychological Association](http://apa.org/)** | **[Internships at APA - Film Editing Internship](https://jobright.ai/jobs/info/6a0355986c07461fe1702e64?utm_campaign=1053&utm_source=git)** | Washington, District of Columbia, United States | Remote | May 12 |
-| **[Meat Institute](https://www.meatinstitute.org)** | **[Member Experience Intern](https://jobright.ai/jobs/info/6a035566f3d6cc51d6375971?utm_campaign=1053&utm_source=git)** | Arlington, VA | Hybrid | May 12 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[ESPN Production Intern, Charlotte, Fall 2026](https://jobright.ai/jobs/info/6a032b13f3d6cc51d6373dfd?utm_campaign=1053&utm_source=git)** | Charlotte, NC | On Site | May 11 |
 | **[Highgate](https://www.highgate.com)** | **[Culinary Intern](https://jobright.ai/jobs/info/6a041ad47c753c287f6eced4?utm_campaign=1053&utm_source=git)** | Las Vegas, NV | On Site | May 11 |
 | **[Place Showroom](http://placeshowroom.com)** | **[LA Internship Summer 2026](https://jobright.ai/jobs/info/6a0414a322395b6dc6d9a2e0?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | May 11 |
@@ -157,4 +155,6 @@ For a complete list, click the following sortable link below:
 | **[RemoteHunter](https://remotehunter.com/)** | **[Intern - Content](https://jobright.ai/jobs/info/69fe80677714cd50b9101614?utm_campaign=1053&utm_source=git)** | Asbury Park, NJ, US | On Site | May 08 |
 | **[Braathe Enterprises](http://www.beyourstart.com)** | **[Virtual Journalism Internship](https://jobright.ai/jobs/info/69fe7d716bcf315dc8f57e73?utm_campaign=1053&utm_source=git)** | Saratoga Springs, New York, United States | Remote | May 08 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Comcast Content & Partnerships Intern](https://jobright.ai/jobs/info/69fe65f14b9bbf21744b14b3?utm_campaign=1053&utm_source=git)** | Philadelphia, PA, US | On Site | May 08 |
+| ↳ | **[Audio/Video Intern, Fall 2026 (HQ)](https://jobright.ai/jobs/info/69fe658e7714cd50b9100c15?utm_campaign=1053&utm_source=git)** | Arlington, VA, US | Hybrid | May 08 |
+| **[POLITICO](http://www.politico.com)** | **[Audio/Video Intern, Fall 2026 (HQ)](https://jobright.ai/jobs/info/69fe450e52e2b44f558b0070?utm_campaign=1053&utm_source=git)** | Arlington, VA, US | Hybrid | May 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
