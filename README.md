@@ -57,11 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Austin Community College](http://austincc.edu)** | **[ACCTV Intern (Hourly)](https://jobright.ai/jobs/info/6a06204da88ea73abf7f7865?utm_campaign=1053&utm_source=git)** | Highland Campus, US | On Site | May 14 |
+| **[Advisors Excel](http://advisorsexcel.com)** | **[Books Program Intern](https://jobright.ai/jobs/info/6a0618146c07461fe171c477?utm_campaign=1053&utm_source=git)** | 2950 SW McClure Rd, Topeka, KS | On Site | May 14 |
 | **[Legends Global](http://legends.net)** | **[Floating Intern](https://jobright.ai/jobs/info/6a061679bc4184089f24ae8e?utm_campaign=1053&utm_source=git)** | Houston, TX | On Site | May 14 |
 | ↳ | **[Video/Content Production Intern](https://jobright.ai/jobs/info/6a06161cf3d6cc51d638ed96?utm_campaign=1053&utm_source=git)** | Miami, FL | On Site | May 14 |
 | **[New York Post](http://nypost.com/)** | **[Page Six Intern](https://jobright.ai/jobs/info/6a0611967c753c287f6fea35?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | May 14 |
 | **[Golden Hippo®](https://www.huntrealestate.com/)** | **[Video Editor Intern](https://jobright.ai/jobs/info/69b3218ea8ac8e70ff674f97?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | May 14 |
-| **[Associations International](http://associationsinternational.com)** | **[Copyediting & Editorial Intern](https://jobright.ai/jobs/info/6a05ff0ba88ea73abf7f606f?utm_campaign=1053&utm_source=git)** | Lexington,KY,US | On Site | May 14 |
+| **[Associations International](http://associationsinternational.com)** | **[Copyediting & Editorial Intern](https://jobright.ai/jobs/info/6a06215b6c07461fe171cb08?utm_campaign=1053&utm_source=git)** | Lexington, KY | On Site | May 14 |
+| ↳ | **[Copyediting & Editorial Intern](https://jobright.ai/jobs/info/6a05ff0ba88ea73abf7f606f?utm_campaign=1053&utm_source=git)** | Lexington,KY,US | On Site | May 14 |
 | **[Meat Institute](https://www.meatinstitute.org)** | **[Member Experience Intern](https://jobright.ai/jobs/info/6a05ed5cf3d6cc51d638cade?utm_campaign=1053&utm_source=git)** | Arlington, VA | Hybrid | May 14 |
 | **[Precision AQ](http://www.precisionaq.com)** | **[Summer 2026 Internship - Medical Writing Intern](https://jobright.ai/jobs/info/69e8eca97820c036924e3a36?utm_campaign=1053&utm_source=git)** | United States | Remote | May 14 |
 | ↳ | **[Summer 2026 Internship - Medical Writing Intern](https://jobright.ai/jobs/info/69e8ecfe0a6e0955530375ef?utm_campaign=1053&utm_source=git)** | New York, NY | Remote | May 14 |
@@ -83,8 +86,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a04f22c22395b6dc6da210b?utm_campaign=1053&utm_source=git)** | Raleigh, NC | On Site | May 13 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a04f22b22395b6dc6da2109?utm_campaign=1053&utm_source=git)** | Columbia, SC | On Site | May 13 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a04f228f3d6cc51d638481b?utm_campaign=1053&utm_source=git)** | Minneapolis, MN | On Site | May 13 |
-| ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a04f2004373b07358a38296?utm_campaign=1053&utm_source=git)** | Bloomington, IN | On Site | May 13 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a04f2004373b07358a38295?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | May 13 |
+| ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a04f2004373b07358a38296?utm_campaign=1053&utm_source=git)** | Bloomington, IN | On Site | May 13 |
 | **[Kane Realty Corporation](http://kanerealtycorp.com)** | **[Seasonal Events Intern (Pittsboro, May & June)](https://jobright.ai/jobs/info/6a04f1f16c07461fe1711f29?utm_campaign=1053&utm_source=git)** | Pittsboro, NC | On Site | May 13 |
 | **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a04f1ed4373b07358a38258?utm_campaign=1053&utm_source=git)** | St Louis, MO | On Site | May 13 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a04f1ec4373b07358a38257?utm_campaign=1053&utm_source=git)** | Newark, NJ | On Site | May 13 |
@@ -141,7 +144,6 @@ For a complete list, click the following sortable link below:
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[World News Tonight Production Intern, Fall 2026](https://jobright.ai/jobs/info/6a02d587bc4184089f22cc34?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | May 10 |
 | **[Giant Spoon](http://giantspoon.com/)** | **[Experiential Production Intern (Summer)](https://jobright.ai/jobs/info/69fc3151a5949019c55b3836?utm_campaign=1053&utm_source=git)** | New York, United States | Hybrid | May 10 |
 | **[Town of Erie](https://www.erieco.gov)** | **[Arts & Culture Intern (84968)](https://jobright.ai/jobs/info/6a02c6737c753c287f6e0eb8?utm_campaign=1053&utm_source=git)** | Erie, CO | On Site | May 10 |
-| **[Starz](http://www.starz.com/)** | **[STARZ Intern, Original Programming](https://jobright.ai/jobs/info/699532c2ce78e77b4fd94d04?utm_campaign=1053&utm_source=git)** | Santa Monica, CA | Hybrid | May 10 |
 | **[Redis](https://redis.io/)** | **[Video Production & Video Internship (Summer)](https://jobright.ai/jobs/info/6a0204a9df52f1450d846c64?utm_campaign=1053&utm_source=git)** | HQ (San Francisco) | On Site | May 10 |
 | **[Lakeland Hills Family YMCA](http://www.lakelandhillsymca.com)** | **[E-Sports Intern: Summer 2026](https://jobright.ai/jobs/info/6a007de7a0eddc08c239c53a?utm_campaign=1053&utm_source=git)** | 100 FANNY ROAD - MOUNTAIN LAKES, NJ 07046 | On Site | May 10 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Paid Intern - News](https://jobright.ai/jobs/info/69aa34642ebd316bece1f7a9?utm_campaign=1053&utm_source=git)** | Joplin, MO | On Site | May 10 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Racepoint Global](http://www.racepointglobal.com)** | **[RPG Intern](https://jobright.ai/jobs/info/69fe9a5ff363bc4dc339f6da?utm_campaign=1053&utm_source=git)** | Raleigh, North Carolina | On Site | May 08 |
 | ↳ | **[RPG Intern](https://jobright.ai/jobs/info/69fe9a597714cd50b9101bce?utm_campaign=1053&utm_source=git)** | Boston, Massachusetts | On Site | May 08 |
 | ↳ | **[RPG Intern](https://jobright.ai/jobs/info/69febc751161630dd3b04035?utm_campaign=1053&utm_source=git)** | San Francisco, California | On Site | May 08 |
-| **[RemoteHunter](https://remotehunter.com/)** | **[Intern - Content](https://jobright.ai/jobs/info/69fe80677714cd50b9101614?utm_campaign=1053&utm_source=git)** | Asbury Park, NJ, US | On Site | May 08 |
-| **[Braathe Enterprises](http://www.beyourstart.com)** | **[Virtual Journalism Internship](https://jobright.ai/jobs/info/69fe7d716bcf315dc8f57e73?utm_campaign=1053&utm_source=git)** | Saratoga Springs, New York, United States | Remote | May 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
