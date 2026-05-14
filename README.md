@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[House of Good Deeds](http://www.HouseOfGoodDeeds.org)** | **[2026 Summer-Winter Internships - House of Good Deeds](https://jobright.ai/jobs/info/6a050a6df3d6cc51d6386144?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | May 13 |
+| **[USA TODAY Co., Inc.](https://www.usatodayco.com/)** | **[2026 Summer Video Intern](https://jobright.ai/jobs/info/6a04fca17c753c287f6f59f8?utm_campaign=1053&utm_source=git)** | Bremerton, WA, USA | On Site | May 13 |
+| **[SKDK](http://skdknick.com)** | **[Production Intern, Summer 2026](https://jobright.ai/jobs/info/6a04fb4c22395b6dc6da2b51?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | May 13 |
 | **[PURPLE](https://purplepr.com)** | **[Fashion Intern - Summer](https://jobright.ai/jobs/info/6a04f25f6c07461fe17120eb?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | May 13 |
 | **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a04f249f3d6cc51d63848a2?utm_campaign=1053&utm_source=git)** | Wichita, KS | On Site | May 13 |
 | **[HydroGeoLogic, Inc.](https://www.hgl.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/6a04f24422395b6dc6da2181?utm_campaign=1053&utm_source=git)** | Phoenix, AZ, US | On Site | May 13 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Carolina Population Center](https://www.cpc.unc.edu)** | **[Due South Internship - WUNC Youth Reporting Internship](https://jobright.ai/jobs/info/69fe11d44b9bbf21744ae343?utm_campaign=1053&utm_source=git)** | North Carolina, US | Hybrid | May 08 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[ESPN Production Intern, Charlotte, Fall 2026](https://jobright.ai/jobs/info/69fe06847714cd50b90fd8d5?utm_campaign=1053&utm_source=git)** | Charlotte, NC, USA, US | On Site | May 08 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Internship](https://jobright.ai/jobs/info/69c75068e565c26a70027c3c?utm_campaign=1053&utm_source=git)** | Savannah, GA | On Site | May 08 |
-| **[Penn State University](http://psu.edu)** | **[Sustainability Storytelling and News Intern](https://jobright.ai/jobs/info/69fdf4454b9bbf21744ad796?utm_campaign=1053&utm_source=git)** | Penn State University Park, US | Hybrid | May 08 |
-| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[NewsNation Summer Intern - Creative Producer (New York)](https://jobright.ai/jobs/info/69e1469ed612782e61147d88?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | May 08 |
-| **[RemoteHunter](https://remotehunter.com/)** | **[Intern, BOplex](https://jobright.ai/jobs/info/69fdf1e1f363bc4dc339aa0d?utm_campaign=1053&utm_source=git)** | Charlotte, NC, US | On Site | May 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
