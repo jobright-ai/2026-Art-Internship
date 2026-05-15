@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Elite Podcast Studio](ElitePodcastStudio.com)** | **[Video Editing / Summer Internship 2026](https://jobright.ai/jobs/info/6a06f1da9f57175bd581ae7f?utm_campaign=1053&utm_source=git)** | Odessa, FL | On Site | May 15 |
+| **[VIZ Media](http://www.viz.com)** | **[Video Intern (P/T, Paid)](https://jobright.ai/jobs/info/6a06ec56f400923a0090b7e4?utm_campaign=1053&utm_source=git)** | San Francisco, California, United States | On Site | May 15 |
 | **[Girlboss](http://www.girlboss.com)** | **[Social & Editorial Intern](https://jobright.ai/jobs/info/6a068a71a88ea73abf7fc8cc?utm_campaign=1053&utm_source=git)** | Calgary, Alberta, Canada | Hybrid | May 14 |
 | **[XL Event Lab](https://xleventlab.com)** | **[Event Production Intern](https://jobright.ai/jobs/info/6a0666ac6c07461fe17201d3?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | May 14 |
 | **[ADELINA BAR À PÂTES](https://adelinapastabar.com/fr)** | **[Video Editor Intern (Marketing)](https://jobright.ai/jobs/info/6a065ba3320bff2205eabffe?utm_campaign=1053&utm_source=git)** | Montreal, Quebec, Canada | On Site | May 14 |
@@ -99,8 +101,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a04f22c22395b6dc6da210b?utm_campaign=1053&utm_source=git)** | Raleigh, NC | On Site | May 13 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a04f22b22395b6dc6da2109?utm_campaign=1053&utm_source=git)** | Columbia, SC | On Site | May 13 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a04f228f3d6cc51d638481b?utm_campaign=1053&utm_source=git)** | Minneapolis, MN | On Site | May 13 |
-| ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a04f2004373b07358a38295?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | May 13 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a04f2004373b07358a38296?utm_campaign=1053&utm_source=git)** | Bloomington, IN | On Site | May 13 |
+| ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a04f2004373b07358a38295?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | May 13 |
 | **[Kane Realty Corporation](http://kanerealtycorp.com)** | **[Seasonal Events Intern (Pittsboro, May & June)](https://jobright.ai/jobs/info/6a04f1f16c07461fe1711f29?utm_campaign=1053&utm_source=git)** | Pittsboro, NC | On Site | May 13 |
 | **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a04f1ed4373b07358a38258?utm_campaign=1053&utm_source=git)** | St Louis, MO | On Site | May 13 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a04f1ec4373b07358a38257?utm_campaign=1053&utm_source=git)** | Newark, NJ | On Site | May 13 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Operation Smile](http://www.operationsmile.org)** | **[Writing Internship - Operation Smile ILC](https://jobright.ai/jobs/info/696883c31703f05405aa42b9?utm_campaign=1053&utm_source=git)** | Virginia Beach, VA | On Site | May 11 |
 | **[AARP](http://www.aarp.org)** | **[Copy Editing Intern (Fall)](https://jobright.ai/jobs/info/69bddd8148282272930090ec?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | May 11 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[World News Tonight Production Intern, Fall 2026](https://jobright.ai/jobs/info/6a02d587bc4184089f22cc34?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | May 10 |
-| **[Town of Erie](https://www.erieco.gov)** | **[Arts & Culture Intern (84968)](https://jobright.ai/jobs/info/6a02c6737c753c287f6e0eb8?utm_campaign=1053&utm_source=git)** | Erie, CO | On Site | May 10 |
-| **[Redis](https://redis.io/)** | **[Video Production & Video Internship (Summer)](https://jobright.ai/jobs/info/6a0204a9df52f1450d846c64?utm_campaign=1053&utm_source=git)** | HQ (San Francisco) | On Site | May 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
