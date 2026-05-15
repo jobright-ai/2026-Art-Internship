@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[XL Event Lab](https://xleventlab.com)** | **[Event Production Intern](https://jobright.ai/jobs/info/6a0666ac6c07461fe17201d3?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | May 14 |
 | **[ADELINA BAR À PÂTES](https://adelinapastabar.com/fr)** | **[Video Editor Intern (Marketing)](https://jobright.ai/jobs/info/6a065ba3320bff2205eabffe?utm_campaign=1053&utm_source=git)** | Montreal, Quebec, Canada | On Site | May 14 |
 | **[Austin Community College](http://austincc.edu)** | **[ACCTV Intern (Hourly)](https://jobright.ai/jobs/info/6a065a6b6c07461fe171fbd4?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | May 14 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Research Intern - Freeman Chair in China Studies](https://jobright.ai/jobs/info/6a0656d9320bff2205eabc04?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | May 14 |
@@ -87,7 +88,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Fall Intern: Economic Innovation and Editing](https://jobright.ai/jobs/info/6a055518fbf3d169d3c5e067?utm_campaign=1053&utm_source=git)** | Washington, DC, US | On Site | May 13 |
 | **[HydroGeoLogic, Inc.](https://www.hgl.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/6a0523de6c07461fe171434e?utm_campaign=1053&utm_source=git)** | Phoenix, AZ | Hybrid | May 13 |
 | **[HarperCollins Publishers](https://www.harpercollins.com/)** | **[Publishing Intern (3 month Contract) (Toronto Hybrid)](https://jobright.ai/jobs/info/69fb975618b94b2515be3713?utm_campaign=1053&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | May 13 |
-| **[Legends Global](http://legends.net)** | **[Floating Intern](https://jobright.ai/jobs/info/6a050dad7c753c287f6f63df?utm_campaign=1053&utm_source=git)** | Houston, TX | On Site | May 13 |
 | **[House of Good Deeds](http://www.HouseOfGoodDeeds.org)** | **[2026 Summer-Winter Internships - House of Good Deeds](https://jobright.ai/jobs/info/6a050a6df3d6cc51d6386144?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | May 13 |
 | **[USA TODAY Co., Inc.](https://www.usatodayco.com/)** | **[2026 Summer Video Intern](https://jobright.ai/jobs/info/6a04fca17c753c287f6f59f8?utm_campaign=1053&utm_source=git)** | Bremerton, WA, USA | On Site | May 13 |
 | **[SKDK](http://skdknick.com)** | **[Production Intern, Summer 2026](https://jobright.ai/jobs/info/6a04fb4c22395b6dc6da2b51?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | May 13 |
@@ -100,8 +100,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a04f22c22395b6dc6da210b?utm_campaign=1053&utm_source=git)** | Raleigh, NC | On Site | May 13 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a04f22b22395b6dc6da2109?utm_campaign=1053&utm_source=git)** | Columbia, SC | On Site | May 13 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a04f228f3d6cc51d638481b?utm_campaign=1053&utm_source=git)** | Minneapolis, MN | On Site | May 13 |
-| ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a04f2004373b07358a38295?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | May 13 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a04f2004373b07358a38296?utm_campaign=1053&utm_source=git)** | Bloomington, IN | On Site | May 13 |
+| ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a04f2004373b07358a38295?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | May 13 |
 | **[Kane Realty Corporation](http://kanerealtycorp.com)** | **[Seasonal Events Intern (Pittsboro, May & June)](https://jobright.ai/jobs/info/6a04f1f16c07461fe1711f29?utm_campaign=1053&utm_source=git)** | Pittsboro, NC | On Site | May 13 |
 | **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a04f1ed4373b07358a38258?utm_campaign=1053&utm_source=git)** | St Louis, MO | On Site | May 13 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a04f1ec4373b07358a38257?utm_campaign=1053&utm_source=git)** | Newark, NJ | On Site | May 13 |
