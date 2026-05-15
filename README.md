@@ -57,19 +57,26 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Film Pittsburgh](http://www.FilmPittsburgh.org)** | **[Fall Festival Internship](https://jobright.ai/jobs/info/6a072e6d4a0a6a7e7d8262f0?utm_campaign=1053&utm_source=git)** | Pittsburgh, PA | Hybrid | May 15 |
+| **[Hendrick Motorsports](http://www.hendrickmotorsports.com)** | **[Video Media Intern](https://jobright.ai/jobs/info/6a0729a724dcb03739f232c3?utm_campaign=1053&utm_source=git)** | Hendrick Automotive Group - HIC, US | On Site | May 15 |
 | **[Precision AQ](http://www.precisionaq.com)** | **[Summer 2026 Internship - Medical Writing Intern](https://jobright.ai/jobs/info/6a07085b078fec52738a742c?utm_campaign=1053&utm_source=git)** | Remote (US) | Remote | May 15 |
 | ↳ | **[Summer 2026 Internship - Medical Writing Intern](https://jobright.ai/jobs/info/69a24857359fe034b1cd83e4?utm_campaign=1053&utm_source=git)** | Remote, United States | Remote | May 15 |
 | **[Precision Medicine Group](https://www.precisionmedicinegrp.com/pfm/)** | **[Summer 2026 Internship - Medical Writing Intern](https://jobright.ai/jobs/info/6a0706f54a0a6a7e7d821afc?utm_campaign=1053&utm_source=git)** | Remote (US) | Remote | May 15 |
 | ↳ | **[Summer 2026 Internship - Medical Writing Intern](https://jobright.ai/jobs/info/6a0706f04a0a6a7e7d821af7?utm_campaign=1053&utm_source=git)** | Remote, United States | Remote | May 15 |
-| **[Practising Law Institute (PLI)](https://pli.edu)** | **[Digital Archive Intern](https://jobright.ai/jobs/info/6a07062024dcb03739f1eb13?utm_campaign=1053&utm_source=git)** | New York, New York, United States | On Site | May 15 |
-| ↳ | **[Digital Archive Intern](https://jobright.ai/jobs/info/6a07062024dcb03739f1eb11?utm_campaign=1053&utm_source=git)** | New York | On Site | May 15 |
+| **[Practising Law Institute (PLI)](https://pli.edu)** | **[Digital Archive Intern](https://jobright.ai/jobs/info/6a07062024dcb03739f1eb11?utm_campaign=1053&utm_source=git)** | New York | On Site | May 15 |
+| ↳ | **[Digital Archive Intern](https://jobright.ai/jobs/info/6a07062024dcb03739f1eb13?utm_campaign=1053&utm_source=git)** | New York, New York, United States | On Site | May 15 |
 | **[GigFinesse](https://www.gigfinesse.com/)** | **[Artist Relations MAINLINE Intern (Summer 2026)](https://jobright.ai/jobs/info/69c1c26b79e36d3a847ed01f?utm_campaign=1053&utm_source=git)** | Austin, Texas | On Site | May 15 |
 | **[Kestra Medical Technologies, Inc.](https://kestramedical.com/)** | **[Videographer & Motion Design Intern](https://jobright.ai/jobs/info/6a07012924dcb03739f1d59e?utm_campaign=1053&utm_source=git)** | Kirkland, WA | Hybrid | May 15 |
 | **[MATTE Projects](https://matteprojects.com/)** | **[Experiential Production Internship Summer 2026 (On-Site, New York)](https://jobright.ai/jobs/info/69dd3855f748bc5d08a5ec73?utm_campaign=1053&utm_source=git)** | New York, New York | On Site | May 15 |
 | ↳ | **[Experiential Production Internship Summer 2026 (On-Site, New York)](https://jobright.ai/jobs/info/6a0700e34a0a6a7e7d81f7e6?utm_campaign=1053&utm_source=git)** | Matte Projects NY | On Site | May 15 |
+| **[617MediaGroup](https://617mediagroup.com)** | **[A/V Production Internship](https://jobright.ai/jobs/info/680f930acf0a5bbc43869102?utm_campaign=1053&utm_source=git)** | Greater Boston | On Site | May 15 |
+| **[Barbarian](https://wearebarbarian.com/)** | **[The Horde 2026 - Summer Internship](https://jobright.ai/jobs/info/6a072b234a0a6a7e7d825795?utm_campaign=1053&utm_source=git)** | New York | Hybrid | May 15 |
+| ↳ | **[The Horde 2026 - Summer Internship](https://jobright.ai/jobs/info/6a072b214a0a6a7e7d82578c?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | May 15 |
 | **[Giant Spoon](http://giantspoon.com/)** | **[Experiential Production Intern (Summer)](https://jobright.ai/jobs/info/6a07205c078fec52738aa1e2?utm_campaign=1053&utm_source=git)** | New York | Hybrid | May 15 |
-| **[Geotab](http://www.geotab.com/)** | **[Video Production Intern(Fall/ September 2026, 12 Months)](https://jobright.ai/jobs/info/6a071bad24dcb03739f21334?utm_campaign=1053&utm_source=git)** | Oakville | Hybrid | May 15 |
-| ↳ | **[Video Production Intern(Fall/ September 2026, 12 Months)](https://jobright.ai/jobs/info/69f93a52a3d34b4f76f60cc0?utm_campaign=1053&utm_source=git)** | Oakville, Ontario - Canada | Hybrid | May 15 |
+| **[Golden Hippo®](https://www.huntrealestate.com/)** | **[Video Editor Intern](https://jobright.ai/jobs/info/6a0722e624dcb03739f22451?utm_campaign=1053&utm_source=git)** | Hybrid (Woodland Hills, CA) | Hybrid | May 15 |
+| ↳ | **[Video Editor Intern](https://jobright.ai/jobs/info/6a07290624dcb03739f23212?utm_campaign=1053&utm_source=git)** | Woodland Hills, CA | Hybrid | May 15 |
+| **[Geotab](http://www.geotab.com/)** | **[Video Production Intern(Fall/ September 2026, 12 Months)](https://jobright.ai/jobs/info/69f93a52a3d34b4f76f60cc0?utm_campaign=1053&utm_source=git)** | Oakville, Ontario - Canada | Hybrid | May 15 |
+| ↳ | **[Video Production Intern(Fall/ September 2026, 12 Months)](https://jobright.ai/jobs/info/6a071bad24dcb03739f21334?utm_campaign=1053&utm_source=git)** | Oakville | Hybrid | May 15 |
 | **[Elite Podcast Studio](ElitePodcastStudio.com)** | **[Video Editing / Summer Internship 2026](https://jobright.ai/jobs/info/6a06f1da9f57175bd581ae7f?utm_campaign=1053&utm_source=git)** | Odessa, FL | On Site | May 15 |
 | **[Skild AI](https://www.skild.ai/)** | **[Cinematography Intern (Product Videography & Social Media)](https://jobright.ai/jobs/info/6a0713d2078fec52738a882b?utm_campaign=1053&utm_source=git)** | San Mateo | On Site | May 15 |
 | **[VIZ Media](http://www.viz.com)** | **[Video Intern (P/T, Paid)](https://jobright.ai/jobs/info/6a0711c01f7fa33581c9bd36?utm_campaign=1053&utm_source=git)** | San Francisco office (94103) | On Site | May 15 |
@@ -83,7 +90,6 @@ For a complete list, click the following sortable link below:
 | **[Advisors Excel](http://advisorsexcel.com)** | **[Books Program Intern](https://jobright.ai/jobs/info/6a065348f3d6cc51d63926de?utm_campaign=1053&utm_source=git)** | Topeka Metropolitan Area | On Site | May 14 |
 | **[Waukegan Park District](https://www.waukeganparks.org)** | **[Intern - Cultural Arts SEA](https://jobright.ai/jobs/info/6a06517f320bff2205eab707?utm_campaign=1053&utm_source=git)** | Jack Benny Center for the Arts - Waukegan, IL 60087 | On Site | May 14 |
 | **[Giant Spoon](http://giantspoon.com/)** | **[Experiential Production Intern (Summer)](https://jobright.ai/jobs/info/69fc3151a5949019c55b3836?utm_campaign=1053&utm_source=git)** | New York, United States | Hybrid | May 14 |
-| **[Taylor Corporation](http://www.taylorcorp.com)** | **[Production & Social Media Intern (Temporary)](https://jobright.ai/jobs/info/6a06352b7c753c287f700a2f?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | May 14 |
 | **[Gensler](http://www.gensler.com)** | **[Student Internship – Video Production - Summer/Fall 2026](https://jobright.ai/jobs/info/6a065a9abc4184089f24eecb?utm_campaign=1053&utm_source=git)** | Dallas, TX | On Site | May 14 |
 | **[Andrews McMeel Universal](http://www.amuniversal.com/)** | **[GoComics Content Archive Intern](https://jobright.ai/jobs/info/6a06336ca88ea73abf7f8fe5?utm_campaign=1053&utm_source=git)** | Kansas City, MO | Hybrid | May 14 |
 | **[Children's Wisconsin](https://childrenswi.org/)** | **[Events Intern](https://jobright.ai/jobs/info/6a0633317c753c287f700718?utm_campaign=1053&utm_source=git)** | Milwaukee, WI | On Site | May 14 |
@@ -137,7 +143,6 @@ For a complete list, click the following sortable link below:
 | **[Cougar Sports](cougarsports.one)** | **[Cougar Sports Staff Writer](https://jobright.ai/jobs/info/6a06b19cf3d6cc51d639532d?utm_campaign=1053&utm_source=git)** | Houston, TX | Hybrid | May 13 |
 | **[NoGood](https://nogood.io)** | **[Intern- Social Video Creator](https://jobright.ai/jobs/info/6a0498fc22395b6dc6d9ef88?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | May 13 |
 | **[Pearl West](https://www.pearlwestgroup.com)** | **[TikTok Shop Intern](https://jobright.ai/jobs/info/6a048ccff3d6cc51d638047f?utm_campaign=1053&utm_source=git)** | Vancouver, British Columbia, Canada | Hybrid | May 13 |
-| **[Taylor Corporation](http://www.taylorcorp.com)** | **[Production & Social Media Intern (Temporary)](https://jobright.ai/jobs/info/6a048507bc4184089f23bd21?utm_campaign=1053&utm_source=git)** | New York, NY -Jon Michael Design, Inc., US | Hybrid | May 13 |
 | **[Oceanus The Label](https://oceanusthelabel.com)** | **[Intern / Volunteer (Fashion Events + Content Support)](https://jobright.ai/jobs/info/6a04635f22395b6dc6d9c4da?utm_campaign=1053&utm_source=git)** | Miami, FL | On Site | May 13 |
 | **[Base Power Company](https://www.basepowercompany.com)** | **[Video Editing Intern](https://jobright.ai/jobs/info/6a042874bc4184089f238ddb?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | May 13 |
 | **[A1Apps](https://www.a1apps.co)** | **[Video editor (Intern)](https://jobright.ai/jobs/info/6a041fdcbc4184089f238a5a?utm_campaign=1053&utm_source=git)** | United States | Remote | May 12 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Crew Dog](https://crew-dog.com)** | **[Comedy Content Creator Intern](https://jobright.ai/jobs/info/6a037895f3d6cc51d6376ef3?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | May 12 |
 | **[OTTera, Inc.](http://www.ottera.tv/)** | **[Video Editor Intern](https://jobright.ai/jobs/info/6a036e4b22395b6dc6d9429a?utm_campaign=1053&utm_source=git)** | North Hollywood, CA | On Site | May 12 |
 | **[American Psychological Association](http://apa.org/)** | **[Internships at APA - Film Editing Internship](https://jobright.ai/jobs/info/6a0355986c07461fe1702e64?utm_campaign=1053&utm_source=git)** | Washington, District of Columbia, United States | Remote | May 12 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[ESPN Production Intern, Charlotte, Fall 2026](https://jobright.ai/jobs/info/6a032b13f3d6cc51d6373dfd?utm_campaign=1053&utm_source=git)** | Charlotte, NC | On Site | May 11 |
-| **[Highgate](https://www.highgate.com)** | **[Culinary Intern](https://jobright.ai/jobs/info/6a041ad47c753c287f6eced4?utm_campaign=1053&utm_source=git)** | Las Vegas, NV | On Site | May 11 |
-| **[Place Showroom](http://placeshowroom.com)** | **[LA Internship Summer 2026](https://jobright.ai/jobs/info/6a0414a322395b6dc6d9a2e0?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | May 11 |
-| **['Alohilani Resort Waikiki Beach](http://www.pacificbeachhotel.com/)** | **[Culinary Intern](https://jobright.ai/jobs/info/6a028079fa1aa73213d9a7ad?utm_campaign=1053&utm_source=git)** | US-NV-Las Vegas | On Site | May 11 |
-| **[Kualoa Ranch Hawaii, Inc.](https://www.kualoa.com)** | **[Kupukupu Internship - Ho'okipa Intern](https://jobright.ai/jobs/info/6a02799dc2ffb31f4536d753?utm_campaign=1053&utm_source=git)** | 49-049 Kamehameha Hwy, Kaneohe, HI 96744, USA | On Site | May 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
