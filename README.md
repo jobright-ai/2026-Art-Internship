@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[AmeriLife](http://www.amerilife.com)** | **[Intern](https://jobright.ai/jobs/info/6a079d403b54ed42d74d0728?utm_campaign=1053&utm_source=git)** | Noblesville, IN, US | On Site | May 15 |
 | **[Advisors Excel](http://advisorsexcel.com)** | **[Books Program Intern](https://jobright.ai/jobs/info/6a0785c23b54ed42d74cefbb?utm_campaign=1053&utm_source=git)** | 2950 SW McClure Rd, Topeka, KS | On Site | May 15 |
 | ↳ | **[Video Intern](https://jobright.ai/jobs/info/6a0785ba939a5f01db950f9a?utm_campaign=1053&utm_source=git)** | 2950 SW McClure Rd, Topeka, KS | On Site | May 15 |
 | **[Tumbling Dumpling Media](https://www.linkedin.com/company/109629621)** | **[Editorial Intern](https://jobright.ai/jobs/info/6a0783ea3b54ed42d74cedc0?utm_campaign=1053&utm_source=git)** | United States | Remote | May 15 |
@@ -74,11 +75,11 @@ For a complete list, click the following sortable link below:
 | **[MATTE Projects](https://matteprojects.com/)** | **[Experiential Production Internship Summer 2026 (On-Site, New York)](https://jobright.ai/jobs/info/69dd3855f748bc5d08a5ec73?utm_campaign=1053&utm_source=git)** | New York, New York | On Site | May 15 |
 | ↳ | **[Experiential Production Internship Summer 2026 (On-Site, New York)](https://jobright.ai/jobs/info/6a0700e34a0a6a7e7d81f7e6?utm_campaign=1053&utm_source=git)** | Matte Projects NY | On Site | May 15 |
 | **[617MediaGroup](https://617mediagroup.com)** | **[A/V Production Internship](https://jobright.ai/jobs/info/680f930acf0a5bbc43869102?utm_campaign=1053&utm_source=git)** | Greater Boston | On Site | May 15 |
-| **[Barbarian](https://wearebarbarian.com/)** | **[The Horde 2026 - Summer Internship](https://jobright.ai/jobs/info/6a072b214a0a6a7e7d82578c?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | May 15 |
-| ↳ | **[The Horde 2026 - Summer Internship](https://jobright.ai/jobs/info/6a072b234a0a6a7e7d825795?utm_campaign=1053&utm_source=git)** | New York | Hybrid | May 15 |
+| **[Barbarian](https://wearebarbarian.com/)** | **[The Horde 2026 - Summer Internship](https://jobright.ai/jobs/info/6a072b234a0a6a7e7d825795?utm_campaign=1053&utm_source=git)** | New York | Hybrid | May 15 |
+| ↳ | **[The Horde 2026 - Summer Internship](https://jobright.ai/jobs/info/6a072b214a0a6a7e7d82578c?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | May 15 |
 | **[Giant Spoon](http://giantspoon.com/)** | **[Experiential Production Intern (Summer)](https://jobright.ai/jobs/info/6a07205c078fec52738aa1e2?utm_campaign=1053&utm_source=git)** | New York | Hybrid | May 15 |
-| **[Golden Hippo®](https://www.huntrealestate.com/)** | **[Video Editor Intern](https://jobright.ai/jobs/info/6a07290624dcb03739f23212?utm_campaign=1053&utm_source=git)** | Woodland Hills, CA | Hybrid | May 15 |
-| ↳ | **[Video Editor Intern](https://jobright.ai/jobs/info/6a0722e624dcb03739f22451?utm_campaign=1053&utm_source=git)** | Hybrid (Woodland Hills, CA) | Hybrid | May 15 |
+| **[Golden Hippo®](https://www.huntrealestate.com/)** | **[Video Editor Intern](https://jobright.ai/jobs/info/6a0722e624dcb03739f22451?utm_campaign=1053&utm_source=git)** | Hybrid (Woodland Hills, CA) | Hybrid | May 15 |
+| ↳ | **[Video Editor Intern](https://jobright.ai/jobs/info/6a07290624dcb03739f23212?utm_campaign=1053&utm_source=git)** | Woodland Hills, CA | Hybrid | May 15 |
 | **[Geotab](http://www.geotab.com/)** | **[Video Production Intern(Fall/ September 2026, 12 Months)](https://jobright.ai/jobs/info/69f93a52a3d34b4f76f60cc0?utm_campaign=1053&utm_source=git)** | Oakville, Ontario - Canada | Hybrid | May 15 |
 | ↳ | **[Video Production Intern(Fall/ September 2026, 12 Months)](https://jobright.ai/jobs/info/6a071bad24dcb03739f21334?utm_campaign=1053&utm_source=git)** | Oakville | Hybrid | May 15 |
 | **[Elite Podcast Studio](ElitePodcastStudio.com)** | **[Video Editing / Summer Internship 2026](https://jobright.ai/jobs/info/6a06f1da9f57175bd581ae7f?utm_campaign=1053&utm_source=git)** | Odessa, FL | On Site | May 15 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Historical Preservation, Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/6a03c30d6c07461fe170722b?utm_campaign=1053&utm_source=git)** | Jamaica, NY | On Site | May 12 |
 | **[EveryDayABA](www.everydayaba.net)** | **[Video Editor Intern](https://jobright.ai/jobs/info/6a03bde822395b6dc6d97846?utm_campaign=1053&utm_source=git)** | Vista, CA | Remote | May 12 |
 | **[Serrano Country Club](https://serranocountryclub.org/)** | **[Intern](https://jobright.ai/jobs/info/6a03acce7c753c287f6e9718?utm_campaign=1053&utm_source=git)** | El Dorado Hills, CA 95762 | On Site | May 12 |
-| **[OTTera, Inc.](http://www.ottera.tv/)** | **[Video Editor Intern](https://jobright.ai/jobs/info/6a038548bc4184089f233377?utm_campaign=1053&utm_source=git)** | LA Metro Area | On Site | May 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
