@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Nomara USA](https://intermediumcorp.com)** | **[Video Editor Lead Intern (Unpaid)](https://jobright.ai/jobs/info/6a07c9ad939a5f01db953ba4?utm_campaign=1053&utm_source=git)** | United States | Remote | May 15 |
+| **[AmeriLife](http://www.amerilife.com)** | **[Intern](https://jobright.ai/jobs/info/6a07c97f3b54ed42d74d1dc5?utm_campaign=1053&utm_source=git)** | Noblesville, IN | On Site | May 15 |
 | **[Flighthouse Media](https://www.flighthousemedia.com)** | **[Syndication Intern](https://jobright.ai/jobs/info/6a07b933a203b1052e43e0a0?utm_campaign=1053&utm_source=git)** | United States | Remote | May 15 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Research Intern - Freeman Chair in China Studies](https://jobright.ai/jobs/info/6a07a4e9a203b1052e43d7e9?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | May 15 |
 | **[The Picklr](https://thepicklr.com)** | **[Internship - The Picklr](https://jobright.ai/jobs/info/6a07a1196186f468598819a7?utm_campaign=1053&utm_source=git)** | 17 Main St, Westbrook, ME, USA | On Site | May 15 |
@@ -65,7 +67,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Video Intern](https://jobright.ai/jobs/info/6a0785ba939a5f01db950f9a?utm_campaign=1053&utm_source=git)** | 2950 SW McClure Rd, Topeka, KS | On Site | May 15 |
 | **[MarkMedia LLC](https://www.marktny.com/)** | **[Video Editor Intern (Path to Full-Time)](https://jobright.ai/jobs/info/6a0778cf8f3e371eb61777cc?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | May 15 |
 | **[Publicis Production](http://publicisproduction.com)** | **[Content Creator Intern](https://jobright.ai/jobs/info/69eb41387820c036924f2586?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | May 15 |
-| **[Select Generation™️](https://selectgeneration.com)** | **[Video Editor Intern (Short-Form Content) — Remote / Select Generation](https://jobright.ai/jobs/info/6a0732c0939a5f01db94d3c6?utm_campaign=1053&utm_source=git)** | United States | Remote | May 15 |
 | **[Film Pittsburgh](http://www.FilmPittsburgh.org)** | **[Fall Festival Internship](https://jobright.ai/jobs/info/6a072e6d4a0a6a7e7d8262f0?utm_campaign=1053&utm_source=git)** | Pittsburgh, PA | Hybrid | May 15 |
 | **[Pittsburgh Penguins](https://www.nhl.com/penguins/)** | **[Video Production Internship (Fall 2026)](https://jobright.ai/jobs/info/6a0769f06186f4685987df43?utm_campaign=1053&utm_source=git)** | Pittsburgh, PA | On Site | May 15 |
 | **[Precision AQ](http://www.precisionaq.com)** | **[Summer 2026 Internship - Medical Writing Intern](https://jobright.ai/jobs/info/6a07085b078fec52738a742c?utm_campaign=1053&utm_source=git)** | Remote (US) | Remote | May 15 |
@@ -82,8 +83,8 @@ For a complete list, click the following sortable link below:
 | **[Giant Spoon](http://giantspoon.com/)** | **[Experiential Production Intern (Summer)](https://jobright.ai/jobs/info/6a07205c078fec52738aa1e2?utm_campaign=1053&utm_source=git)** | New York | Hybrid | May 15 |
 | **[Golden Hippo®](https://www.huntrealestate.com/)** | **[Video Editor Intern](https://jobright.ai/jobs/info/6a07290624dcb03739f23212?utm_campaign=1053&utm_source=git)** | Woodland Hills, CA | Hybrid | May 15 |
 | ↳ | **[Video Editor Intern](https://jobright.ai/jobs/info/6a0722e624dcb03739f22451?utm_campaign=1053&utm_source=git)** | Hybrid (Woodland Hills, CA) | Hybrid | May 15 |
-| **[Geotab](http://www.geotab.com/)** | **[Video Production Intern(Fall/ September 2026, 12 Months)](https://jobright.ai/jobs/info/69f93a52a3d34b4f76f60cc0?utm_campaign=1053&utm_source=git)** | Oakville, Ontario - Canada | Hybrid | May 15 |
-| ↳ | **[Video Production Intern(Fall/ September 2026, 12 Months)](https://jobright.ai/jobs/info/6a071bad24dcb03739f21334?utm_campaign=1053&utm_source=git)** | Oakville | Hybrid | May 15 |
+| **[Geotab](http://www.geotab.com/)** | **[Video Production Intern(Fall/ September 2026, 12 Months)](https://jobright.ai/jobs/info/6a071bad24dcb03739f21334?utm_campaign=1053&utm_source=git)** | Oakville | Hybrid | May 15 |
+| ↳ | **[Video Production Intern(Fall/ September 2026, 12 Months)](https://jobright.ai/jobs/info/69f93a52a3d34b4f76f60cc0?utm_campaign=1053&utm_source=git)** | Oakville, Ontario - Canada | Hybrid | May 15 |
 | **[Elite Podcast Studio](ElitePodcastStudio.com)** | **[Video Editing / Summer Internship 2026](https://jobright.ai/jobs/info/6a06f1da9f57175bd581ae7f?utm_campaign=1053&utm_source=git)** | Odessa, FL | On Site | May 15 |
 | **[Skild AI](https://www.skild.ai/)** | **[Cinematography Intern (Product Videography & Social Media)](https://jobright.ai/jobs/info/6a0713d2078fec52738a882b?utm_campaign=1053&utm_source=git)** | San Mateo | On Site | May 15 |
 | **[VIZ Media](http://www.viz.com)** | **[Video Intern (P/T, Paid)](https://jobright.ai/jobs/info/6a0711c01f7fa33581c9bd36?utm_campaign=1053&utm_source=git)** | San Francisco office (94103) | On Site | May 15 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[City of Seguin](https://www.seguintexas.gov)** | **[Multi-Media/Video Production (Internship)](https://jobright.ai/jobs/info/6a0572857c753c287f6f954b?utm_campaign=1053&utm_source=git)** | Seguin, TX | On Site | May 12 |
 | **[Omni Hotels & Resorts](http://www.omnihotels.com/)** | **[Omni Cares internship / Culinary](https://jobright.ai/jobs/info/6a040091f811a043696070d5?utm_campaign=1053&utm_source=git)** | Asheville, NC | On Site | May 12 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[ABC News Live First Hour Production Intern, Fall 2026](https://jobright.ai/jobs/info/6a03caab22395b6dc6d98090?utm_campaign=1053&utm_source=git)** | New York, NY, USA, US | On Site | May 12 |
-| **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Historical Preservation, Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/6a03c30d6c07461fe170722b?utm_campaign=1053&utm_source=git)** | Jamaica, NY | On Site | May 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
