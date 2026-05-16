@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Nashville Symphony](https://www.nashvillesymphony.org/)** | **[Artistic Operations Intern](https://jobright.ai/jobs/info/6a082f678f3e371eb617e10b?utm_campaign=1053&utm_source=git)** | NASHVILLE, TN 37201 | On Site | May 16 |
+| **[Russ & Daughters](http://www.russanddaughters.com)** | **[INTERNSHIP](https://jobright.ai/jobs/info/6a082f20403fc339507eb9fe?utm_campaign=1053&utm_source=git)** | Store (New York, NY) | On Site | May 16 |
 | **[The Picklr](https://thepicklr.com)** | **[Internship - The Picklr](https://jobright.ai/jobs/info/6a082cbd6186f4685988601c?utm_campaign=1053&utm_source=git)** | 17 Main St, Westbrook, ME, USA | On Site | May 16 |
 | **[Caesars Entertainment](https://www.caesars.com/paris-las-vegas)** | **[Catering and Conventions Intern - Caesars Palace Las Vegas](https://jobright.ai/jobs/info/6a080ab5403fc339507ea53c?utm_campaign=1053&utm_source=git)** | Las Vegas, NV | On Site | May 15 |
 | **[Nomara USA](https://intermediumcorp.com)** | **[Video Editor Lead Intern (Unpaid)](https://jobright.ai/jobs/info/6a07c9ad939a5f01db953ba4?utm_campaign=1053&utm_source=git)** | United States | Remote | May 15 |
@@ -81,8 +83,8 @@ For a complete list, click the following sortable link below:
 | **[MATTE Projects](https://matteprojects.com/)** | **[Experiential Production Internship Summer 2026 (On-Site, New York)](https://jobright.ai/jobs/info/69dd3855f748bc5d08a5ec73?utm_campaign=1053&utm_source=git)** | New York, New York | On Site | May 15 |
 | ↳ | **[Experiential Production Internship Summer 2026 (On-Site, New York)](https://jobright.ai/jobs/info/6a0700e34a0a6a7e7d81f7e6?utm_campaign=1053&utm_source=git)** | Matte Projects NY | On Site | May 15 |
 | **[617MediaGroup](https://617mediagroup.com)** | **[A/V Production Internship](https://jobright.ai/jobs/info/680f930acf0a5bbc43869102?utm_campaign=1053&utm_source=git)** | Greater Boston | On Site | May 15 |
-| **[Barbarian](https://wearebarbarian.com/)** | **[The Horde 2026 - Summer Internship](https://jobright.ai/jobs/info/6a072b234a0a6a7e7d825795?utm_campaign=1053&utm_source=git)** | New York | Hybrid | May 15 |
-| ↳ | **[The Horde 2026 - Summer Internship](https://jobright.ai/jobs/info/6a072b214a0a6a7e7d82578c?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | May 15 |
+| **[Barbarian](https://wearebarbarian.com/)** | **[The Horde 2026 - Summer Internship](https://jobright.ai/jobs/info/6a072b214a0a6a7e7d82578c?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | May 15 |
+| ↳ | **[The Horde 2026 - Summer Internship](https://jobright.ai/jobs/info/6a072b234a0a6a7e7d825795?utm_campaign=1053&utm_source=git)** | New York | Hybrid | May 15 |
 | **[Giant Spoon](http://giantspoon.com/)** | **[Experiential Production Intern (Summer)](https://jobright.ai/jobs/info/6a07205c078fec52738aa1e2?utm_campaign=1053&utm_source=git)** | New York | Hybrid | May 15 |
 | **[Golden Hippo®](https://www.huntrealestate.com/)** | **[Video Editor Intern](https://jobright.ai/jobs/info/6a07290624dcb03739f23212?utm_campaign=1053&utm_source=git)** | Woodland Hills, CA | Hybrid | May 15 |
 | ↳ | **[Video Editor Intern](https://jobright.ai/jobs/info/6a0722e624dcb03739f22451?utm_campaign=1053&utm_source=git)** | Hybrid (Woodland Hills, CA) | Hybrid | May 15 |
@@ -117,12 +119,10 @@ For a complete list, click the following sortable link below:
 | **[TapBlaze](http://www.tapblaze.com)** | **[Narrative Design Intern](https://jobright.ai/jobs/info/6a058850fbf3d169d3c5fa33?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | May 14 |
 | **[BCI](https://www.bci.ca/)** | **[Communication Production & Projects Co-op/ Internship (Fall 2026)](https://jobright.ai/jobs/info/6a0577b3a88ea73abf7f1740?utm_campaign=1053&utm_source=git)** | Victoria, BC, CA | Hybrid | May 14 |
 | **[American Enterprise Institute](http://www.aei.org)** | **[Fall Intern: Economic Innovation and Editing](https://jobright.ai/jobs/info/6a055519fbf3d169d3c5e068?utm_campaign=1053&utm_source=git)** | US-DC-Washington | On Site | May 13 |
-| ↳ | **[Fall Intern: Economic Innovation and Editing](https://jobright.ai/jobs/info/6a055518fbf3d169d3c5e067?utm_campaign=1053&utm_source=git)** | Washington, DC, US | On Site | May 13 |
 | **[HydroGeoLogic, Inc.](https://www.hgl.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/6a0523de6c07461fe171434e?utm_campaign=1053&utm_source=git)** | Phoenix, AZ | Hybrid | May 13 |
 | **[HarperCollins Publishers](https://www.harpercollins.com/)** | **[Publishing Intern (3 month Contract) (Toronto Hybrid)](https://jobright.ai/jobs/info/69fb975618b94b2515be3713?utm_campaign=1053&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | May 13 |
 | **[House of Good Deeds](http://www.HouseOfGoodDeeds.org)** | **[2026 Summer-Winter Internships - House of Good Deeds](https://jobright.ai/jobs/info/6a050a6df3d6cc51d6386144?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | May 13 |
 | **[USA TODAY Co., Inc.](https://www.usatodayco.com/)** | **[2026 Summer Video Intern](https://jobright.ai/jobs/info/6a04fca17c753c287f6f59f8?utm_campaign=1053&utm_source=git)** | Bremerton, WA, USA | On Site | May 13 |
-| **[SKDK](http://skdknick.com)** | **[Production Intern, Summer 2026](https://jobright.ai/jobs/info/6a04fb4c22395b6dc6da2b51?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | May 13 |
 | **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a04f249f3d6cc51d63848a2?utm_campaign=1053&utm_source=git)** | Wichita, KS | On Site | May 13 |
 | **[HydroGeoLogic, Inc.](https://www.hgl.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/6a04f24422395b6dc6da2181?utm_campaign=1053&utm_source=git)** | Phoenix, AZ, US | On Site | May 13 |
 | **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a04f243f3d6cc51d638487c?utm_campaign=1053&utm_source=git)** | Albany, NY | On Site | May 13 |
@@ -140,8 +140,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a04f1e06c07461fe1711ed6?utm_campaign=1053&utm_source=git)** | Evanston, IL | On Site | May 13 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a04f1de6c07461fe1711ecd?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | May 13 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[KGO-TV (ABC7) Community Engagement Intern, Fall 2026](https://jobright.ai/jobs/info/6a04ec25bc4184089f240ae2?utm_campaign=1053&utm_source=git)** | San Francisco, CA, USA, US | On Site | May 13 |
-| **[SKDK](http://skdknick.com)** | **[Production Intern, Summer 2026](https://jobright.ai/jobs/info/6a04e72022395b6dc6da1ce2?utm_campaign=1053&utm_source=git)** | US-DC-Washington | Hybrid | May 13 |
-| ↳ | **[Production Intern, Summer 2026](https://jobright.ai/jobs/info/6a04e71f22395b6dc6da1ce1?utm_campaign=1053&utm_source=git)** | Washington, DC, US | Hybrid | May 13 |
+| **[SKDK](http://skdknick.com)** | **[Production Intern, Summer 2026](https://jobright.ai/jobs/info/6a04e71f22395b6dc6da1ce1?utm_campaign=1053&utm_source=git)** | Washington, DC, US | Hybrid | May 13 |
 | **[City of Irving](https://www.cityofirving.org/2623/Family-Advocacy-Center)** | **[Intern - Production (Part-Time)](https://jobright.ai/jobs/info/6a04ddd64373b07358a378d1?utm_campaign=1053&utm_source=git)** | Irving, TX | On Site | May 13 |
 | **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a04f23c7c753c287f6f4d82?utm_campaign=1053&utm_source=git)** | Greenbrier River, WV | On Site | May 13 |
 | **[Mohonk Mountain House](https://www.mohonk.com/)** | **[Archives Project Intern - Part Time, Seasonal until 9/7/2026](https://jobright.ai/jobs/info/6a04c9e64373b07358a36d1d?utm_campaign=1053&utm_source=git)** | New Paltz, NY, US | On Site | May 13 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Base Power Company](https://www.basepowercompany.com)** | **[Video Editing Intern](https://jobright.ai/jobs/info/6a042874bc4184089f238ddb?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | May 13 |
 | **[A1Apps](https://www.a1apps.co)** | **[Video editor (Intern)](https://jobright.ai/jobs/info/6a041fdcbc4184089f238a5a?utm_campaign=1053&utm_source=git)** | United States | Remote | May 12 |
 | **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Historical Preservation, Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/6a0419e8f811a043696080cd?utm_campaign=1053&utm_source=git)** | Jamaica, NY | On Site | May 12 |
+| **[City of Seguin](https://www.seguintexas.gov)** | **[Multi-Media/Video Production (Internship)](https://jobright.ai/jobs/info/6a0572857c753c287f6f954b?utm_campaign=1053&utm_source=git)** | Seguin, TX | On Site | May 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
