@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Shop Online New York](https://www.topofny.com)** | **[Video Editor](https://jobright.ai/jobs/info/6a0b6a60a235d749afa85135?utm_campaign=1053&utm_source=git)** | United States | Remote | May 18 |
+| **[DreamWorks Animation](https://www.dreamworks.com)** | **[NBC Connecticut, CT LIVE! Lifestyle Program Intern - Academic Year 2026-2027](https://jobright.ai/jobs/info/6a0b60eb963f7a67d95cf28b?utm_campaign=1053&utm_source=git)** | 1422 New Britain Ave., Hartford, Connecticut | On Site | May 18 |
+| **[NBCUniversal](https://www.nbcuniversal.com/)** | **[NBC Connecticut, CT LIVE! Lifestyle Program Intern - Academic Year 2026-2027](https://jobright.ai/jobs/info/6a0b5e6d0411d7417a1b0269?utm_campaign=1053&utm_source=git)** | Hartford, CT | On Site | May 18 |
+| **[TONY, LLC](https://www.linkedin.com/company/107227751)** | **[Video Editor](https://jobright.ai/jobs/info/6a0b5b5e0411d7417a1affe2?utm_campaign=1053&utm_source=git)** | New York, United States | Remote | May 18 |
+| **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[FamilySearch Production and Events Intern](https://jobright.ai/jobs/info/6a0b5a840411d7417a1afef5?utm_campaign=1053&utm_source=git)** | 50 E North Temple St, Salt Lake City, UT, 84150, US | Hybrid | May 18 |
 | **[One Impression](https://www.oneimpression.io)** | **[Research Associate Intern (Reels & Content Rating)](https://jobright.ai/jobs/info/6a0b57694d9320363686fd34?utm_campaign=1053&utm_source=git)** | United States | Remote | May 18 |
 | **[Legends Global](http://legends.net)** | **[Intern Catering & Special Events Coordinator](https://jobright.ai/jobs/info/6a0b4b72a235d749afa83bd3?utm_campaign=1053&utm_source=git)** | Frisco, TX | On Site | May 18 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[FamilySearch Production and Events Intern](https://jobright.ai/jobs/info/6a0b46f24d9320363686f1df?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT, United States | Hybrid | May 18 |
@@ -113,8 +118,8 @@ For a complete list, click the following sortable link below:
 | **[Giant Spoon](http://giantspoon.com/)** | **[Experiential Production Intern (Summer)](https://jobright.ai/jobs/info/6a07205c078fec52738aa1e2?utm_campaign=1053&utm_source=git)** | New York | Hybrid | May 15 |
 | **[Golden Hippo®](https://www.huntrealestate.com/)** | **[Video Editor Intern](https://jobright.ai/jobs/info/6a0722e624dcb03739f22451?utm_campaign=1053&utm_source=git)** | Hybrid (Woodland Hills, CA) | Hybrid | May 15 |
 | ↳ | **[Video Editor Intern](https://jobright.ai/jobs/info/6a07290624dcb03739f23212?utm_campaign=1053&utm_source=git)** | Woodland Hills, CA | Hybrid | May 15 |
-| **[Geotab](http://www.geotab.com/)** | **[Video Production Intern(Fall/ September 2026, 12 Months)](https://jobright.ai/jobs/info/69f93a52a3d34b4f76f60cc0?utm_campaign=1053&utm_source=git)** | Oakville, Ontario - Canada | Hybrid | May 15 |
-| ↳ | **[Video Production Intern(Fall/ September 2026, 12 Months)](https://jobright.ai/jobs/info/6a071bad24dcb03739f21334?utm_campaign=1053&utm_source=git)** | Oakville | Hybrid | May 15 |
+| **[Geotab](http://www.geotab.com/)** | **[Video Production Intern(Fall/ September 2026, 12 Months)](https://jobright.ai/jobs/info/6a071bad24dcb03739f21334?utm_campaign=1053&utm_source=git)** | Oakville | Hybrid | May 15 |
+| ↳ | **[Video Production Intern(Fall/ September 2026, 12 Months)](https://jobright.ai/jobs/info/69f93a52a3d34b4f76f60cc0?utm_campaign=1053&utm_source=git)** | Oakville, Ontario - Canada | Hybrid | May 15 |
 | **[Elite Podcast Studio](ElitePodcastStudio.com)** | **[Video Editing / Summer Internship 2026](https://jobright.ai/jobs/info/6a06f1da9f57175bd581ae7f?utm_campaign=1053&utm_source=git)** | Odessa, FL | On Site | May 15 |
 | **[Skild AI](https://www.skild.ai/)** | **[Cinematography Intern (Product Videography & Social Media)](https://jobright.ai/jobs/info/6a0713d2078fec52738a882b?utm_campaign=1053&utm_source=git)** | San Mateo | On Site | May 15 |
 | **[VIZ Media](http://www.viz.com)** | **[Video Intern (P/T, Paid)](https://jobright.ai/jobs/info/6a0711c01f7fa33581c9bd36?utm_campaign=1053&utm_source=git)** | San Francisco office (94103) | On Site | May 15 |
@@ -142,7 +147,6 @@ For a complete list, click the following sortable link below:
 | **[TapBlaze](http://www.tapblaze.com)** | **[Narrative Design Intern](https://jobright.ai/jobs/info/6a058850fbf3d169d3c5fa33?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | May 14 |
 | **[BCI](https://www.bci.ca/)** | **[Communication Production & Projects Co-op/ Internship (Fall 2026)](https://jobright.ai/jobs/info/6a0577b3a88ea73abf7f1740?utm_campaign=1053&utm_source=git)** | Victoria, BC, CA | Hybrid | May 14 |
 | **[HydroGeoLogic, Inc.](https://www.hgl.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/6a0523de6c07461fe171434e?utm_campaign=1053&utm_source=git)** | Phoenix, AZ | Hybrid | May 13 |
-| **[House of Good Deeds](http://www.HouseOfGoodDeeds.org)** | **[2026 Summer-Winter Internships - House of Good Deeds](https://jobright.ai/jobs/info/6a050a6df3d6cc51d6386144?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | May 13 |
 | **[USA TODAY Co., Inc.](https://www.usatodayco.com/)** | **[2026 Summer Video Intern](https://jobright.ai/jobs/info/6a04fca17c753c287f6f59f8?utm_campaign=1053&utm_source=git)** | Bremerton, WA, USA | On Site | May 13 |
 | **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a04f249f3d6cc51d63848a2?utm_campaign=1053&utm_source=git)** | Wichita, KS | On Site | May 13 |
 | **[HydroGeoLogic, Inc.](https://www.hgl.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/6a04f24422395b6dc6da2181?utm_campaign=1053&utm_source=git)** | Phoenix, AZ, US | On Site | May 13 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a04f22c22395b6dc6da210b?utm_campaign=1053&utm_source=git)** | Raleigh, NC | On Site | May 13 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a04f22b22395b6dc6da2109?utm_campaign=1053&utm_source=git)** | Columbia, SC | On Site | May 13 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a04f228f3d6cc51d638481b?utm_campaign=1053&utm_source=git)** | Minneapolis, MN | On Site | May 13 |
-| ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a04f2004373b07358a38296?utm_campaign=1053&utm_source=git)** | Bloomington, IN | On Site | May 13 |
-| ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a04f2004373b07358a38295?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | May 13 |
-| **[Kane Realty Corporation](http://kanerealtycorp.com)** | **[Seasonal Events Intern (Pittsboro, May & June)](https://jobright.ai/jobs/info/6a04f1f16c07461fe1711f29?utm_campaign=1053&utm_source=git)** | Pittsboro, NC | On Site | May 13 |
-| **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a04f1ed4373b07358a38258?utm_campaign=1053&utm_source=git)** | St Louis, MO | On Site | May 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
