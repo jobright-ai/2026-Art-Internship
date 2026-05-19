@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Mark Seliger Studio](http://www.markseliger.com)** | **[Production Intern](https://jobright.ai/jobs/info/6a0c7feb963f7a67d95d867b?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | May 19 |
+| **[Achievers](http://www.achievers.com)** | **[Content Co-op](https://jobright.ai/jobs/info/6a025936df52f1450d84a423?utm_campaign=1053&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | May 19 |
 | **[Seattle Art Museum](http://seattleartmuseum.org)** | **[Betty Bowen Award Administration Internship](https://jobright.ai/jobs/info/6a0c6dac4d932036368780e9?utm_campaign=1053&utm_source=git)** | Seattle, WA | On Site | May 19 |
 | **[Double Wood Supplements](https://doublewoodsupplements.com/)** | **[TikTok Shop Intern - Supplements](https://jobright.ai/jobs/info/6a0c6b1e22d0d34036c940ee?utm_campaign=1053&utm_source=git)** | New York, United States | Hybrid | May 19 |
 | **[Skild AI](https://www.skild.ai/)** | **[Cinematography Intern (Product Videography & Social Media)](https://jobright.ai/jobs/info/68d48fabffc1276de3fdbe8a?utm_campaign=1053&utm_source=git)** | San Mateo, CA | On Site | May 19 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Video/Content Production Intern](https://jobright.ai/jobs/info/6a06161cf3d6cc51d638ed96?utm_campaign=1053&utm_source=git)** | Miami, FL | On Site | May 14 |
 | **[New York Post](http://nypost.com/)** | **[Page Six Intern](https://jobright.ai/jobs/info/6a0611967c753c287f6fea35?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | May 14 |
 | **[Golden Hippo®](https://www.huntrealestate.com/)** | **[Video Editor Intern](https://jobright.ai/jobs/info/69b3218ea8ac8e70ff674f97?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | May 14 |
-| **[Associations International](http://associationsinternational.com)** | **[Copyediting & Editorial Intern](https://jobright.ai/jobs/info/6a06215b6c07461fe171cb08?utm_campaign=1053&utm_source=git)** | Lexington, KY | On Site | May 14 |
-| ↳ | **[Copyediting & Editorial Intern](https://jobright.ai/jobs/info/6a05ff0ba88ea73abf7f606f?utm_campaign=1053&utm_source=git)** | Lexington,KY,US | On Site | May 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
