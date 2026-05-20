@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[The Lovett School](https://www.lovett.org/)** | **[Video Production Intern](https://jobright.ai/jobs/info/6a0dca53c152ac782447fdb9?utm_campaign=1053&utm_source=git)** | Atlanta, Georgia, United States | On Site | May 20 |
+| **[The Lovett School](https://www.lovett.org/)** | **[Video Production Intern](https://jobright.ai/jobs/info/6a0dd90480bf0430c762679e?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | May 20 |
+| ↳ | **[Video Production Intern](https://jobright.ai/jobs/info/6a0dca53c152ac782447fdb9?utm_campaign=1053&utm_source=git)** | Atlanta, Georgia, United States | On Site | May 20 |
 | **[O'Keefe Media Group](https://okeefemediagroup.com)** | **[O'Keefe Media Internship](https://jobright.ai/jobs/info/6a0dc84ac152ac782447fcc9?utm_campaign=1053&utm_source=git)** | West Palm Beach, FL | On Site | May 20 |
 | **[Canyon Entertainment Group](https://canyonentertainmentgroup.com)** | **[Video Editing, Post Production Internship](https://jobright.ai/jobs/info/6a0dbd4183d7144289811f79?utm_campaign=1053&utm_source=git)** | Toronto, Ontario, Canada | Remote | May 20 |
 | ↳ | **[Video Editing, Post Production Internship](https://jobright.ai/jobs/info/6a0d98ce80bf0430c76246bf?utm_campaign=1053&utm_source=git)** | Canada | Remote | May 20 |
@@ -69,7 +70,7 @@ For a complete list, click the following sortable link below:
 | **[University of Iowa Research](https://research.uiowa.edu)** | **[Creative Video Intern](https://jobright.ai/jobs/info/6a0ca90322d0d34036c96c5e?utm_campaign=1053&utm_source=git)** | Iowa City, Iowa, United States | On Site | May 19 |
 | ↳ | **[Athletics HawkVision Intern](https://jobright.ai/jobs/info/6a0ca8f80411d7417a1bade3?utm_campaign=1053&utm_source=git)** | Iowa City, Iowa, United States | On Site | May 19 |
 | **[Texas Tech University Health Sciences Center](https://www.ttuhsc.edu)** | **[Dept Intern - Pulse Magazine](https://jobright.ai/jobs/info/6a0c9ee6963f7a67d95d9c6a?utm_campaign=1053&utm_source=git)** | Lubbock, TX | On Site | May 19 |
-| **[DreamWorks Animation](https://www.dreamworks.com)** | **[NBCU Local Bay Area - Production Assistant Internship – Summer 2026](https://jobright.ai/jobs/info/6a0c96a3538d03366dc8ef63?utm_campaign=1053&utm_source=git)** | 360 Third Street Suite 200, San Francisco, CALIFORNIA | On Site | May 19 |
+| **[DreamWorks Animation](https://www.dreamworks.com)** | **[NBCU Local Bay Area - Production Assistant Internship – Summer 2026](https://jobright.ai/jobs/info/6a0c96a3538d03366dc8ef62?utm_campaign=1053&utm_source=git)** | 360 Third Street Suite 200, San Francisco, CALIFORNIA | On Site | May 19 |
 | **[Texas Tech University Health Sciences Center](https://www.ttuhsc.edu)** | **[Dept Intern - Pulse Magazine](https://jobright.ai/jobs/info/6a0c931e0411d7417a1ba12f?utm_campaign=1053&utm_source=git)** | Lubbock | On Site | May 19 |
 | **[Octagon](http://www.octagon.com)** | **[Intern (Global Soccer Fan Festivals) (Home Improvement Client)](https://jobright.ai/jobs/info/6a0c8b274d9320363687920c?utm_campaign=1053&utm_source=git)** | Kansas, United States | On Site | May 19 |
 | **[Achievers](http://www.achievers.com)** | **[Content Co-op](https://jobright.ai/jobs/info/6a025936df52f1450d84a423?utm_campaign=1053&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | May 19 |
@@ -118,8 +119,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Video Production Intern](https://jobright.ai/jobs/info/6a085013a203b1052e4434e6?utm_campaign=1053&utm_source=git)** | Franklin, TN, US | On Site | May 16 |
 | **[SKDK](http://skdknick.com)** | **[Production Intern, Summer 2026](https://jobright.ai/jobs/info/6a04e71f22395b6dc6da1ce1?utm_campaign=1053&utm_source=git)** | Washington, DC, US | Hybrid | May 16 |
 | ↳ | **[Production Intern, Summer 2026](https://jobright.ai/jobs/info/6a084f6e8f3e371eb617f2d4?utm_campaign=1053&utm_source=git)** | US-DC-Washington | Hybrid | May 16 |
-| **[American Enterprise Institute](http://www.aei.org)** | **[Fall Intern: Economic Innovation and Editing](https://jobright.ai/jobs/info/6a084cff939a5f01db957c97?utm_campaign=1053&utm_source=git)** | Washington, DC, US | On Site | May 16 |
-| ↳ | **[Fall Intern: Economic Innovation and Editing](https://jobright.ai/jobs/info/6a084cff939a5f01db957c98?utm_campaign=1053&utm_source=git)** | US-DC-Washington | On Site | May 16 |
+| **[American Enterprise Institute](http://www.aei.org)** | **[Fall Intern: Economic Innovation and Editing](https://jobright.ai/jobs/info/6a084cff939a5f01db957c98?utm_campaign=1053&utm_source=git)** | US-DC-Washington | On Site | May 16 |
+| ↳ | **[Fall Intern: Economic Innovation and Editing](https://jobright.ai/jobs/info/6a084cff939a5f01db957c97?utm_campaign=1053&utm_source=git)** | Washington, DC, US | On Site | May 16 |
 | **[Fanatics](http://www.fanaticsinc.com)** | **[Intern- M&N Production Coordinator](https://jobright.ai/jobs/info/69ebfd960a6e09555304bdd0?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | May 16 |
 | **[Nashville Symphony](https://www.nashvillesymphony.org/)** | **[Artistic Operations Intern](https://jobright.ai/jobs/info/6a082f678f3e371eb617e10b?utm_campaign=1053&utm_source=git)** | NASHVILLE, TN 37201 | On Site | May 16 |
 | **[The Picklr](https://thepicklr.com)** | **[Internship - The Picklr](https://jobright.ai/jobs/info/6a082cbd6186f4685988601c?utm_campaign=1053&utm_source=git)** | 17 Main St, Westbrook, ME, USA | On Site | May 16 |
@@ -147,8 +148,8 @@ For a complete list, click the following sortable link below:
 | **[MATTE Projects](https://matteprojects.com/)** | **[Experiential Production Internship Summer 2026 (On-Site, New York)](https://jobright.ai/jobs/info/69dd3855f748bc5d08a5ec73?utm_campaign=1053&utm_source=git)** | New York, New York | On Site | May 15 |
 | ↳ | **[Experiential Production Internship Summer 2026 (On-Site, New York)](https://jobright.ai/jobs/info/6a0700e34a0a6a7e7d81f7e6?utm_campaign=1053&utm_source=git)** | Matte Projects NY | On Site | May 15 |
 | **[617MediaGroup](https://617mediagroup.com)** | **[A/V Production Internship](https://jobright.ai/jobs/info/680f930acf0a5bbc43869102?utm_campaign=1053&utm_source=git)** | Greater Boston | On Site | May 15 |
-| **[Barbarian](https://wearebarbarian.com/)** | **[The Horde 2026 - Summer Internship](https://jobright.ai/jobs/info/6a072b214a0a6a7e7d82578c?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | May 15 |
-| ↳ | **[The Horde 2026 - Summer Internship](https://jobright.ai/jobs/info/6a072b234a0a6a7e7d825795?utm_campaign=1053&utm_source=git)** | New York | Hybrid | May 15 |
+| **[Barbarian](https://wearebarbarian.com/)** | **[The Horde 2026 - Summer Internship](https://jobright.ai/jobs/info/6a072b234a0a6a7e7d825795?utm_campaign=1053&utm_source=git)** | New York | Hybrid | May 15 |
+| ↳ | **[The Horde 2026 - Summer Internship](https://jobright.ai/jobs/info/6a072b214a0a6a7e7d82578c?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | May 15 |
 | **[Giant Spoon](http://giantspoon.com/)** | **[Experiential Production Intern (Summer)](https://jobright.ai/jobs/info/6a07205c078fec52738aa1e2?utm_campaign=1053&utm_source=git)** | New York | Hybrid | May 15 |
 | **[Golden Hippo®](https://www.huntrealestate.com/)** | **[Video Editor Intern](https://jobright.ai/jobs/info/6a0722e624dcb03739f22451?utm_campaign=1053&utm_source=git)** | Hybrid (Woodland Hills, CA) | Hybrid | May 15 |
 | ↳ | **[Video Editor Intern](https://jobright.ai/jobs/info/6a07290624dcb03739f23212?utm_campaign=1053&utm_source=git)** | Woodland Hills, CA | Hybrid | May 15 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Video Production Intern(Fall/ September 2026, 12 Months)](https://jobright.ai/jobs/info/6a071bad24dcb03739f21334?utm_campaign=1053&utm_source=git)** | Oakville | Hybrid | May 15 |
 | **[Skild AI](https://www.skild.ai/)** | **[Cinematography Intern (Product Videography & Social Media)](https://jobright.ai/jobs/info/6a0713d2078fec52738a882b?utm_campaign=1053&utm_source=git)** | San Mateo | On Site | May 15 |
 | **[VIZ Media](http://www.viz.com)** | **[Video Intern (P/T, Paid)](https://jobright.ai/jobs/info/6a0711c01f7fa33581c9bd36?utm_campaign=1053&utm_source=git)** | San Francisco office (94103) | On Site | May 15 |
-| ↳ | **[Video Intern (P/T, Paid)](https://jobright.ai/jobs/info/6a06ec56f400923a0090b7e4?utm_campaign=1053&utm_source=git)** | San Francisco, California, United States | On Site | May 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
