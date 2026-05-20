@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Lovett School](https://www.lovett.org/)** | **[Video Production Intern](https://jobright.ai/jobs/info/6a0dca53c152ac782447fdb9?utm_campaign=1053&utm_source=git)** | Atlanta, Georgia, United States | On Site | May 20 |
 | **[O'Keefe Media Group](https://okeefemediagroup.com)** | **[O'Keefe Media Internship](https://jobright.ai/jobs/info/6a0dc84ac152ac782447fcc9?utm_campaign=1053&utm_source=git)** | West Palm Beach, FL | On Site | May 20 |
 | **[Canyon Entertainment Group](https://canyonentertainmentgroup.com)** | **[Video Editing, Post Production Internship](https://jobright.ai/jobs/info/6a0dbd4183d7144289811f79?utm_campaign=1053&utm_source=git)** | Toronto, Ontario, Canada | Remote | May 20 |
 | ↳ | **[Video Editing, Post Production Internship](https://jobright.ai/jobs/info/6a0d98ce80bf0430c76246bf?utm_campaign=1053&utm_source=git)** | Canada | Remote | May 20 |
@@ -146,8 +147,8 @@ For a complete list, click the following sortable link below:
 | **[MATTE Projects](https://matteprojects.com/)** | **[Experiential Production Internship Summer 2026 (On-Site, New York)](https://jobright.ai/jobs/info/69dd3855f748bc5d08a5ec73?utm_campaign=1053&utm_source=git)** | New York, New York | On Site | May 15 |
 | ↳ | **[Experiential Production Internship Summer 2026 (On-Site, New York)](https://jobright.ai/jobs/info/6a0700e34a0a6a7e7d81f7e6?utm_campaign=1053&utm_source=git)** | Matte Projects NY | On Site | May 15 |
 | **[617MediaGroup](https://617mediagroup.com)** | **[A/V Production Internship](https://jobright.ai/jobs/info/680f930acf0a5bbc43869102?utm_campaign=1053&utm_source=git)** | Greater Boston | On Site | May 15 |
-| **[Barbarian](https://wearebarbarian.com/)** | **[The Horde 2026 - Summer Internship](https://jobright.ai/jobs/info/6a072b234a0a6a7e7d825795?utm_campaign=1053&utm_source=git)** | New York | Hybrid | May 15 |
-| ↳ | **[The Horde 2026 - Summer Internship](https://jobright.ai/jobs/info/6a072b214a0a6a7e7d82578c?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | May 15 |
+| **[Barbarian](https://wearebarbarian.com/)** | **[The Horde 2026 - Summer Internship](https://jobright.ai/jobs/info/6a072b214a0a6a7e7d82578c?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | May 15 |
+| ↳ | **[The Horde 2026 - Summer Internship](https://jobright.ai/jobs/info/6a072b234a0a6a7e7d825795?utm_campaign=1053&utm_source=git)** | New York | Hybrid | May 15 |
 | **[Giant Spoon](http://giantspoon.com/)** | **[Experiential Production Intern (Summer)](https://jobright.ai/jobs/info/6a07205c078fec52738aa1e2?utm_campaign=1053&utm_source=git)** | New York | Hybrid | May 15 |
 | **[Golden Hippo®](https://www.huntrealestate.com/)** | **[Video Editor Intern](https://jobright.ai/jobs/info/6a0722e624dcb03739f22451?utm_campaign=1053&utm_source=git)** | Hybrid (Woodland Hills, CA) | Hybrid | May 15 |
 | ↳ | **[Video Editor Intern](https://jobright.ai/jobs/info/6a07290624dcb03739f23212?utm_campaign=1053&utm_source=git)** | Woodland Hills, CA | Hybrid | May 15 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Skild AI](https://www.skild.ai/)** | **[Cinematography Intern (Product Videography & Social Media)](https://jobright.ai/jobs/info/6a0713d2078fec52738a882b?utm_campaign=1053&utm_source=git)** | San Mateo | On Site | May 15 |
 | **[VIZ Media](http://www.viz.com)** | **[Video Intern (P/T, Paid)](https://jobright.ai/jobs/info/6a0711c01f7fa33581c9bd36?utm_campaign=1053&utm_source=git)** | San Francisco office (94103) | On Site | May 15 |
 | ↳ | **[Video Intern (P/T, Paid)](https://jobright.ai/jobs/info/6a06ec56f400923a0090b7e4?utm_campaign=1053&utm_source=git)** | San Francisco, California, United States | On Site | May 15 |
-| **[Girlboss](http://www.girlboss.com)** | **[Social & Editorial Intern](https://jobright.ai/jobs/info/6a068a71a88ea73abf7fc8cc?utm_campaign=1053&utm_source=git)** | Calgary, Alberta, Canada | Hybrid | May 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
