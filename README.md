@@ -60,7 +60,6 @@ For a complete list, click the following sortable link below:
 | **[Our National Conversation (ONC)](https://www.ournationalconversation.org)** | **[Digital Editor Intern](https://jobright.ai/jobs/info/6a0cea200411d7417a1bde03?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, USA | Remote | May 19 |
 | **[Comcast](https://corporate.comcast.com)** | **[Comcast Content & Partnerships Intern](https://jobright.ai/jobs/info/6a0cd424a235d749afa90f2e?utm_campaign=1053&utm_source=git)** | PA - Philadelphia, 1701 John F Kennedy Blvd, US | On Site | May 19 |
 | **[Too Lost](https://www.toolost.com)** | **[A&R Research Intern (NYC)](https://jobright.ai/jobs/info/6a0ccfcb538d03366dc917b9?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | May 19 |
-| **[The MY HERO Project](https://myhero.com/)** | **[MY HERO International Film Festival Internship](https://jobright.ai/jobs/info/6a0cc609a235d749afa90476?utm_campaign=1053&utm_source=git)** | United States | Remote | May 19 |
 | **[Associations International](http://associationsinternational.com)** | **[Copyediting Internship](https://jobright.ai/jobs/info/6a0cb749963f7a67d95dad47?utm_campaign=1053&utm_source=git)** | Lexington, KY | On Site | May 19 |
 | **[University of Iowa Research](https://research.uiowa.edu)** | **[Creative Video Intern](https://jobright.ai/jobs/info/6a0ca90322d0d34036c96c5e?utm_campaign=1053&utm_source=git)** | Iowa City, Iowa, United States | On Site | May 19 |
 | ↳ | **[Athletics HawkVision Intern](https://jobright.ai/jobs/info/6a0ca8f80411d7417a1bade3?utm_campaign=1053&utm_source=git)** | Iowa City, Iowa, United States | On Site | May 19 |
@@ -143,8 +142,8 @@ For a complete list, click the following sortable link below:
 | **[MATTE Projects](https://matteprojects.com/)** | **[Experiential Production Internship Summer 2026 (On-Site, New York)](https://jobright.ai/jobs/info/69dd3855f748bc5d08a5ec73?utm_campaign=1053&utm_source=git)** | New York, New York | On Site | May 15 |
 | ↳ | **[Experiential Production Internship Summer 2026 (On-Site, New York)](https://jobright.ai/jobs/info/6a0700e34a0a6a7e7d81f7e6?utm_campaign=1053&utm_source=git)** | Matte Projects NY | On Site | May 15 |
 | **[617MediaGroup](https://617mediagroup.com)** | **[A/V Production Internship](https://jobright.ai/jobs/info/680f930acf0a5bbc43869102?utm_campaign=1053&utm_source=git)** | Greater Boston | On Site | May 15 |
-| **[Barbarian](https://wearebarbarian.com/)** | **[The Horde 2026 - Summer Internship](https://jobright.ai/jobs/info/6a072b214a0a6a7e7d82578c?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | May 15 |
-| ↳ | **[The Horde 2026 - Summer Internship](https://jobright.ai/jobs/info/6a072b234a0a6a7e7d825795?utm_campaign=1053&utm_source=git)** | New York | Hybrid | May 15 |
+| **[Barbarian](https://wearebarbarian.com/)** | **[The Horde 2026 - Summer Internship](https://jobright.ai/jobs/info/6a072b234a0a6a7e7d825795?utm_campaign=1053&utm_source=git)** | New York | Hybrid | May 15 |
+| ↳ | **[The Horde 2026 - Summer Internship](https://jobright.ai/jobs/info/6a072b214a0a6a7e7d82578c?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | May 15 |
 | **[Giant Spoon](http://giantspoon.com/)** | **[Experiential Production Intern (Summer)](https://jobright.ai/jobs/info/6a07205c078fec52738aa1e2?utm_campaign=1053&utm_source=git)** | New York | Hybrid | May 15 |
 | **[Golden Hippo®](https://www.huntrealestate.com/)** | **[Video Editor Intern](https://jobright.ai/jobs/info/6a07290624dcb03739f23212?utm_campaign=1053&utm_source=git)** | Woodland Hills, CA | Hybrid | May 15 |
 | ↳ | **[Video Editor Intern](https://jobright.ai/jobs/info/6a0722e624dcb03739f22451?utm_campaign=1053&utm_source=git)** | Hybrid (Woodland Hills, CA) | Hybrid | May 15 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[XL Event Lab](https://xleventlab.com)** | **[Event Production Intern](https://jobright.ai/jobs/info/6a0666ac6c07461fe17201d3?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | May 14 |
 | **[Austin Community College](http://austincc.edu)** | **[ACCTV Intern (Hourly)](https://jobright.ai/jobs/info/6a065a6b6c07461fe171fbd4?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | May 14 |
 | **[Advisors Excel](http://advisorsexcel.com)** | **[Books Program Intern](https://jobright.ai/jobs/info/6a065348f3d6cc51d63926de?utm_campaign=1053&utm_source=git)** | Topeka Metropolitan Area | On Site | May 14 |
+| **[Giant Spoon](http://giantspoon.com/)** | **[Experiential Production Intern (Summer)](https://jobright.ai/jobs/info/69fc3151a5949019c55b3836?utm_campaign=1053&utm_source=git)** | New York, United States | Hybrid | May 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
