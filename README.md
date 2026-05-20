@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hlavinka Equipment Company](https://www.hlavinka.com/)** | **[Content Creator Summer Internship](https://jobright.ai/jobs/info/6a0e1b8f80bf0430c7629852?utm_campaign=1053&utm_source=git)** | East Bernard, TX | On Site | May 20 |
 | **[DreamWorks Animation](https://www.dreamworks.com)** | **[NBCU Local Bay Area - Digital Internship - Academic Year 2026-2027](https://jobright.ai/jobs/info/6a0e0514c152ac7824482491?utm_campaign=1053&utm_source=git)** | 360 Third Street Suite 200, San Francisco, CALIFORNIA | On Site | May 20 |
 | ↳ | **[NBCU Local Bay Area - Video Editor Internship - Academic Year (2026-2027)](https://jobright.ai/jobs/info/6a0e050a83d7144289814cf9?utm_campaign=1053&utm_source=git)** | 360 Third Street Suite 200, San Francisco, CALIFORNIA | On Site | May 20 |
 | **[Hlavinka Equipment Company](https://www.hlavinka.com/)** | **[Content Creator Summer Internship](https://jobright.ai/jobs/info/6a0e021947fea1610bca6011?utm_campaign=1053&utm_source=git)** | East Bernard,TX,US | On Site | May 20 |
@@ -71,7 +72,6 @@ For a complete list, click the following sortable link below:
 | **[O'Keefe Media Group](https://okeefemediagroup.com)** | **[O'Keefe Media Internship](https://jobright.ai/jobs/info/6a0e0d16beb4d73cb622e6ac?utm_campaign=1053&utm_source=git)** | West Palm Beach, FL | On Site | May 20 |
 | **[The Lovett School](https://www.lovett.org/)** | **[Video Production Intern](https://jobright.ai/jobs/info/6a0dca53c152ac782447fdb9?utm_campaign=1053&utm_source=git)** | Atlanta, Georgia, United States | On Site | May 20 |
 | **[O'Keefe Media Group](https://okeefemediagroup.com)** | **[O'Keefe Media Internship](https://jobright.ai/jobs/info/6a0dc84ac152ac782447fcc9?utm_campaign=1053&utm_source=git)** | West Palm Beach, FL | On Site | May 20 |
-| **[Canyon Entertainment Group](https://canyonentertainmentgroup.com)** | **[Video Editing, Post Production Internship](https://jobright.ai/jobs/info/6a0dbd4183d7144289811f79?utm_campaign=1053&utm_source=git)** | Toronto, Ontario, Canada | Remote | May 20 |
 | **[Cheetah Mobile](http://ir.cmcm.com)** | **[Intern, Content Production](https://jobright.ai/jobs/info/6a0d875f47fea1610bca1834?utm_campaign=1053&utm_source=git)** | Los Angeles, United States | On Site | May 20 |
 | **[University of Iowa](http://tippie.uiowa.edu/)** | **[Creative Video Intern](https://jobright.ai/jobs/info/6a0d236122d0d34036c9bf00?utm_campaign=1053&utm_source=git)** | Iowa City, IA | On Site | May 19 |
 | **[Our National Conversation (ONC)](https://www.ournationalconversation.org)** | **[Digital Editor Intern](https://jobright.ai/jobs/info/6a0cea200411d7417a1bde03?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, USA | Remote | May 19 |
@@ -90,8 +90,8 @@ For a complete list, click the following sortable link below:
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[KGO-TV (ABC7) Community Engagement Intern, Fall 2026](https://jobright.ai/jobs/info/6a0c0c6aa235d749afa89f22?utm_campaign=1053&utm_source=git)** | San Francisco, CA | On Site | May 19 |
 | ↳ | **[ABC News Live First Hour Production Intern, Fall 2026](https://jobright.ai/jobs/info/6a0c0c45a235d749afa89ef1?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | May 19 |
 | **[Impact Networking, LLC](https://www.impactmybiz.com)** | **[Post-Production Intern](https://jobright.ai/jobs/info/6a0c09f0a235d749afa89e8e?utm_campaign=1053&utm_source=git)** | Vernon Hills, IL | On Site | May 18 |
-| **[American Enterprise Institute](http://www.aei.org)** | **[Fall Intern: Events](https://jobright.ai/jobs/info/6a0c097022d0d34036c911c1?utm_campaign=1053&utm_source=git)** | US-DC-Washington | On Site | May 18 |
-| ↳ | **[Fall Intern: Events](https://jobright.ai/jobs/info/6a084d068f3e371eb617ec79?utm_campaign=1053&utm_source=git)** | Washington, DC, US | On Site | May 18 |
+| **[American Enterprise Institute](http://www.aei.org)** | **[Fall Intern: Events](https://jobright.ai/jobs/info/6a084d068f3e371eb617ec79?utm_campaign=1053&utm_source=git)** | Washington, DC, US | On Site | May 18 |
+| ↳ | **[Fall Intern: Events](https://jobright.ai/jobs/info/6a0c097022d0d34036c911c1?utm_campaign=1053&utm_source=git)** | US-DC-Washington | On Site | May 18 |
 | **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[FamilySearch Production and Events Intern](https://jobright.ai/jobs/info/6a0bd6c8538d03366dc89149?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | Hybrid | May 18 |
 | **[Metropolitan Opera](http://metopera.org/)** | **[Laffont Competition Intern](https://jobright.ai/jobs/info/6a0bc7a04d93203636873f45?utm_campaign=1053&utm_source=git)** | Lincoln Center - New York, NY | On Site | May 18 |
 | **[Washington Commanders](http://www.commanders.com/)** | **[Intern, Features](https://jobright.ai/jobs/info/6a0cc9cf4d9320363687c0b6?utm_campaign=1053&utm_source=git)** | Ashburn, VA | On Site | May 18 |
@@ -126,7 +126,6 @@ For a complete list, click the following sortable link below:
 | **[Audacy, Inc.](https://audacyinc.com/)** | **[Programming Intern](https://jobright.ai/jobs/info/6a0851508f3e371eb617f8ad?utm_campaign=1053&utm_source=git)** | GA-Atlanta, USA | On Site | May 16 |
 | ↳ | **[Programming Intern](https://jobright.ai/jobs/info/6a08514f8f3e371eb617f8a6?utm_campaign=1053&utm_source=git)** | USA-GA-Atlanta | On Site | May 16 |
 | **[Educational Media Foundation K-LOVE & Air1 Media Networks](https://www.klove.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/6a085014a203b1052e4434ed?utm_campaign=1053&utm_source=git)** | US-TN-Franklin | On Site | May 16 |
-| ↳ | **[Video Production Intern](https://jobright.ai/jobs/info/6a085013a203b1052e4434e6?utm_campaign=1053&utm_source=git)** | Franklin, TN, US | On Site | May 16 |
 | **[SKDK](http://skdknick.com)** | **[Production Intern, Summer 2026](https://jobright.ai/jobs/info/6a04e71f22395b6dc6da1ce1?utm_campaign=1053&utm_source=git)** | Washington, DC, US | Hybrid | May 16 |
 | ↳ | **[Production Intern, Summer 2026](https://jobright.ai/jobs/info/6a084f6e8f3e371eb617f2d4?utm_campaign=1053&utm_source=git)** | US-DC-Washington | Hybrid | May 16 |
 | **[American Enterprise Institute](http://www.aei.org)** | **[Fall Intern: Economic Innovation and Editing](https://jobright.ai/jobs/info/6a084cff939a5f01db957c98?utm_campaign=1053&utm_source=git)** | US-DC-Washington | On Site | May 16 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Kestra Medical Technologies, Inc.](https://kestramedical.com/)** | **[Videographer & Motion Design Intern](https://jobright.ai/jobs/info/6a07012924dcb03739f1d59e?utm_campaign=1053&utm_source=git)** | Kirkland, WA | Hybrid | May 15 |
 | **[MATTE Projects](https://matteprojects.com/)** | **[Experiential Production Internship Summer 2026 (On-Site, New York)](https://jobright.ai/jobs/info/69dd3855f748bc5d08a5ec73?utm_campaign=1053&utm_source=git)** | New York, New York | On Site | May 15 |
 | ↳ | **[Experiential Production Internship Summer 2026 (On-Site, New York)](https://jobright.ai/jobs/info/6a0700e34a0a6a7e7d81f7e6?utm_campaign=1053&utm_source=git)** | Matte Projects NY | On Site | May 15 |
+| **[617MediaGroup](https://617mediagroup.com)** | **[A/V Production Internship](https://jobright.ai/jobs/info/680f930acf0a5bbc43869102?utm_campaign=1053&utm_source=git)** | Greater Boston | On Site | May 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
