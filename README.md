@@ -57,13 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Prophet](http://www.prophet.com)** | **[2026 Austin Internship](https://jobright.ai/jobs/info/6a0f65f09f654b3359ce5466?utm_campaign=1053&utm_source=git)** | Austin | On Site | May 21 |
+| ↳ | **[2026 Austin Internship](https://jobright.ai/jobs/info/6a0f65ef9f654b3359ce5465?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | May 21 |
+| **[Marketing Choices](https://marketingchoices.com)** | **[Editorial Internship](https://jobright.ai/jobs/info/6a0f632372b52f7225f3d663?utm_campaign=1053&utm_source=git)** | Colorado, United States | Remote | May 21 |
 | **[Genzest LLC](https://nailphoria.com/)** | **[Livestream Operation intern](https://jobright.ai/jobs/info/6a0f53a480bf0430c7632a3e?utm_campaign=1053&utm_source=git)** | West Hollywood, CA | On Site | May 21 |
 | **[National Association of State Procurement Officials](https://www.naspo.org/)** | **[Video Editor Intern](https://jobright.ai/jobs/info/69f2ca84825a315d7ca3fa32?utm_campaign=1053&utm_source=git)** | Lexington, KY | Hybrid | May 21 |
 | **[The Tease](http://www.TheTease.com)** | **[Editorial & Podcast Internship - Fall 2026](https://jobright.ai/jobs/info/6a0f379072b52f7225f3bcce?utm_campaign=1053&utm_source=git)** | Madison, Wisconsin, United States | On Site | May 21 |
 | **[Amaley](www.tryamaley.com)** | **[Documentary Filmmaker](https://jobright.ai/jobs/info/6a0f099372b52f7225f3a99f?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | May 21 |
 | **[WMUR-TV](http://www.wmur.com/)** | **[Creative Services Intern](https://jobright.ai/jobs/info/69ba8f1506c1ba00c54ca4eb?utm_campaign=1053&utm_source=git)** | Manchester, NH | On Site | May 21 |
-| **[The Dispatch](https://thedispatch.com/)** | **[Summer 2026 Multimedia Internship](https://jobright.ai/jobs/info/6a0ea29780bf0430c762df51?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | May 20 |
-| ↳ | **[Summer 2026 Multimedia Internship](https://jobright.ai/jobs/info/6a0ea29780bf0430c762df52?utm_campaign=1053&utm_source=git)** | United States | Remote | May 20 |
+| **[The Dispatch](https://thedispatch.com/)** | **[Summer 2026 Multimedia Internship](https://jobright.ai/jobs/info/6a0ea29780bf0430c762df52?utm_campaign=1053&utm_source=git)** | United States | Remote | May 20 |
+| ↳ | **[Summer 2026 Multimedia Internship](https://jobright.ai/jobs/info/6a0ea29780bf0430c762df51?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | May 20 |
 | **[Tepper Sports & Entertainment](https://teppersportsentertainment.com)** | **[Intern - Entertainment Mascot Programs- Panthers](https://jobright.ai/jobs/info/6a0e24f609ecfd704b3e6729?utm_campaign=1053&utm_source=git)** | 800 S Mint St, Charlotte, NC 28202, USA | On Site | May 20 |
 | **[Dayforce](https://www.dayforce.com)** | **[Digital Content Creator Intern 4 months – Fall 2026](https://jobright.ai/jobs/info/6a0e432dbeb4d73cb6230ca3?utm_campaign=1053&utm_source=git)** | Canada | Remote | May 20 |
 | **[Gallery B612](www.galleryb612.com)** | **[Summer Intern](https://jobright.ai/jobs/info/6a0e3cda80bf0430c762b237?utm_campaign=1053&utm_source=git)** | Seattle, WA | On Site | May 20 |
@@ -105,8 +108,8 @@ For a complete list, click the following sortable link below:
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[KGO-TV (ABC7) Community Engagement Intern, Fall 2026](https://jobright.ai/jobs/info/6a0c0c6aa235d749afa89f22?utm_campaign=1053&utm_source=git)** | San Francisco, CA | On Site | May 19 |
 | ↳ | **[ABC News Live First Hour Production Intern, Fall 2026](https://jobright.ai/jobs/info/6a0c0c45a235d749afa89ef1?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | May 19 |
 | **[Impact Networking, LLC](https://www.impactmybiz.com)** | **[Post-Production Intern](https://jobright.ai/jobs/info/6a0c09f0a235d749afa89e8e?utm_campaign=1053&utm_source=git)** | Vernon Hills, IL | On Site | May 18 |
-| **[American Enterprise Institute](http://www.aei.org)** | **[Fall Intern: Events](https://jobright.ai/jobs/info/6a0c097022d0d34036c911c1?utm_campaign=1053&utm_source=git)** | US-DC-Washington | On Site | May 18 |
-| ↳ | **[Fall Intern: Events](https://jobright.ai/jobs/info/6a084d068f3e371eb617ec79?utm_campaign=1053&utm_source=git)** | Washington, DC, US | On Site | May 18 |
+| **[American Enterprise Institute](http://www.aei.org)** | **[Fall Intern: Events](https://jobright.ai/jobs/info/6a084d068f3e371eb617ec79?utm_campaign=1053&utm_source=git)** | Washington, DC, US | On Site | May 18 |
+| ↳ | **[Fall Intern: Events](https://jobright.ai/jobs/info/6a0c097022d0d34036c911c1?utm_campaign=1053&utm_source=git)** | US-DC-Washington | On Site | May 18 |
 | **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[FamilySearch Production and Events Intern](https://jobright.ai/jobs/info/6a0bd6c8538d03366dc89149?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | Hybrid | May 18 |
 | **[Metropolitan Opera](http://metopera.org/)** | **[Laffont Competition Intern](https://jobright.ai/jobs/info/6a0bc7a04d93203636873f45?utm_campaign=1053&utm_source=git)** | Lincoln Center - New York, NY | On Site | May 18 |
 | **[Washington Commanders](http://www.commanders.com/)** | **[Intern, Features](https://jobright.ai/jobs/info/6a0cc9cf4d9320363687c0b6?utm_campaign=1053&utm_source=git)** | Ashburn, VA | On Site | May 18 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[AmeriLife](http://www.amerilife.com)** | **[Intern](https://jobright.ai/jobs/info/6a079d403b54ed42d74d0728?utm_campaign=1053&utm_source=git)** | Noblesville, IN, US | On Site | May 15 |
 | **[Advisors Excel](http://advisorsexcel.com)** | **[Books Program Intern](https://jobright.ai/jobs/info/6a0785c23b54ed42d74cefbb?utm_campaign=1053&utm_source=git)** | 2950 SW McClure Rd, Topeka, KS | On Site | May 15 |
 | ↳ | **[Video Intern](https://jobright.ai/jobs/info/6a0785ba939a5f01db950f9a?utm_campaign=1053&utm_source=git)** | 2950 SW McClure Rd, Topeka, KS | On Site | May 15 |
-| **[MarkMedia LLC](https://www.marktny.com/)** | **[Video Editor Intern (Path to Full-Time)](https://jobright.ai/jobs/info/6a0778cf8f3e371eb61777cc?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | May 15 |
-| **[Film Pittsburgh](http://www.FilmPittsburgh.org)** | **[Fall Festival Internship](https://jobright.ai/jobs/info/6a072e6d4a0a6a7e7d8262f0?utm_campaign=1053&utm_source=git)** | Pittsburgh, PA | Hybrid | May 15 |
-| **[Pittsburgh Penguins](https://www.nhl.com/penguins/)** | **[Video Production Internship (Fall 2026)](https://jobright.ai/jobs/info/6a0769f06186f4685987df43?utm_campaign=1053&utm_source=git)** | Pittsburgh, PA | On Site | May 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
