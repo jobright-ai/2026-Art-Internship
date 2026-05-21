@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[KGTX 7 News](https://kgtx7news.com)** | **[Assignment Editor](https://jobright.ai/jobs/info/6a0ed6c080bf0430c762f1a1?utm_campaign=1053&utm_source=git)** | League City, TX | Remote | May 21 |
 | **[The Dispatch](https://thedispatch.com/)** | **[Summer 2026 Multimedia Internship](https://jobright.ai/jobs/info/6a0ea29780bf0430c762df52?utm_campaign=1053&utm_source=git)** | United States | Remote | May 20 |
 | ↳ | **[Summer 2026 Multimedia Internship](https://jobright.ai/jobs/info/6a0ea29780bf0430c762df51?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | May 20 |
 | **[Tepper Sports & Entertainment](https://teppersportsentertainment.com)** | **[Intern - Entertainment Mascot Programs- Panthers](https://jobright.ai/jobs/info/6a0e24f609ecfd704b3e6729?utm_campaign=1053&utm_source=git)** | 800 S Mint St, Charlotte, NC 28202, USA | On Site | May 20 |
@@ -83,6 +84,7 @@ For a complete list, click the following sortable link below:
 | **[The Lovett School](https://www.lovett.org/)** | **[Video Production Intern](https://jobright.ai/jobs/info/6a0dca53c152ac782447fdb9?utm_campaign=1053&utm_source=git)** | Atlanta, Georgia, United States | On Site | May 20 |
 | **[O'Keefe Media Group](https://okeefemediagroup.com)** | **[O'Keefe Media Internship](https://jobright.ai/jobs/info/6a0dc84ac152ac782447fcc9?utm_campaign=1053&utm_source=git)** | West Palm Beach, FL | On Site | May 20 |
 | **[Cheetah Mobile](http://ir.cmcm.com)** | **[Intern, Content Production](https://jobright.ai/jobs/info/6a0d875f47fea1610bca1834?utm_campaign=1053&utm_source=git)** | Los Angeles, United States | On Site | May 20 |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Internship](https://jobright.ai/jobs/info/69d5f9a2706f771673ba8668?utm_campaign=1053&utm_source=git)** | Savannah, GA | On Site | May 20 |
 | **[University of Iowa](http://tippie.uiowa.edu/)** | **[Creative Video Intern](https://jobright.ai/jobs/info/6a0d236122d0d34036c9bf00?utm_campaign=1053&utm_source=git)** | Iowa City, IA | On Site | May 19 |
 | **[Our National Conversation (ONC)](https://www.ournationalconversation.org)** | **[Digital Editor Intern](https://jobright.ai/jobs/info/6a0cea200411d7417a1bde03?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, USA | Remote | May 19 |
 | **[IMAX](http://www.imax.com)** | **[Intern, Post-Production](https://jobright.ai/jobs/info/69f0f51ab27fee43e8cd663c?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | May 19 |
@@ -91,7 +93,7 @@ For a complete list, click the following sortable link below:
 | **[University of Iowa Research](https://research.uiowa.edu)** | **[Creative Video Intern](https://jobright.ai/jobs/info/6a0ca90322d0d34036c96c5e?utm_campaign=1053&utm_source=git)** | Iowa City, Iowa, United States | On Site | May 19 |
 | ↳ | **[Athletics HawkVision Intern](https://jobright.ai/jobs/info/6a0ca8f80411d7417a1bade3?utm_campaign=1053&utm_source=git)** | Iowa City, Iowa, United States | On Site | May 19 |
 | **[Texas Tech University Health Sciences Center](https://www.ttuhsc.edu)** | **[Dept Intern - Pulse Magazine](https://jobright.ai/jobs/info/6a0c9ee6963f7a67d95d9c6a?utm_campaign=1053&utm_source=git)** | Lubbock, TX | On Site | May 19 |
-| **[DreamWorks Animation](https://www.dreamworks.com)** | **[NBCU Local Bay Area - Production Assistant Internship – Summer 2026](https://jobright.ai/jobs/info/6a0c96a3538d03366dc8ef62?utm_campaign=1053&utm_source=git)** | 360 Third Street Suite 200, San Francisco, CALIFORNIA | On Site | May 19 |
+| **[DreamWorks Animation](https://www.dreamworks.com)** | **[NBCU Local Bay Area - Production Assistant Internship – Summer 2026](https://jobright.ai/jobs/info/6a0c96a3538d03366dc8ef63?utm_campaign=1053&utm_source=git)** | 360 Third Street Suite 200, San Francisco, CALIFORNIA | On Site | May 19 |
 | **[Texas Tech University Health Sciences Center](https://www.ttuhsc.edu)** | **[Dept Intern - Pulse Magazine](https://jobright.ai/jobs/info/6a0c931e0411d7417a1ba12f?utm_campaign=1053&utm_source=git)** | Lubbock | On Site | May 19 |
 | **[Octagon](http://www.octagon.com)** | **[Intern (Global Soccer Fan Festivals) (Home Improvement Client)](https://jobright.ai/jobs/info/6a0c8b274d9320363687920c?utm_campaign=1053&utm_source=git)** | Kansas, United States | On Site | May 19 |
 | **[Achievers](http://www.achievers.com)** | **[Content Co-op](https://jobright.ai/jobs/info/6a025936df52f1450d84a423?utm_campaign=1053&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | May 19 |
@@ -101,8 +103,8 @@ For a complete list, click the following sortable link below:
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[KGO-TV (ABC7) Community Engagement Intern, Fall 2026](https://jobright.ai/jobs/info/6a0c0c6aa235d749afa89f22?utm_campaign=1053&utm_source=git)** | San Francisco, CA | On Site | May 19 |
 | ↳ | **[ABC News Live First Hour Production Intern, Fall 2026](https://jobright.ai/jobs/info/6a0c0c45a235d749afa89ef1?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | May 19 |
 | **[Impact Networking, LLC](https://www.impactmybiz.com)** | **[Post-Production Intern](https://jobright.ai/jobs/info/6a0c09f0a235d749afa89e8e?utm_campaign=1053&utm_source=git)** | Vernon Hills, IL | On Site | May 18 |
-| **[American Enterprise Institute](http://www.aei.org)** | **[Fall Intern: Events](https://jobright.ai/jobs/info/6a084d068f3e371eb617ec79?utm_campaign=1053&utm_source=git)** | Washington, DC, US | On Site | May 18 |
-| ↳ | **[Fall Intern: Events](https://jobright.ai/jobs/info/6a0c097022d0d34036c911c1?utm_campaign=1053&utm_source=git)** | US-DC-Washington | On Site | May 18 |
+| **[American Enterprise Institute](http://www.aei.org)** | **[Fall Intern: Events](https://jobright.ai/jobs/info/6a0c097022d0d34036c911c1?utm_campaign=1053&utm_source=git)** | US-DC-Washington | On Site | May 18 |
+| ↳ | **[Fall Intern: Events](https://jobright.ai/jobs/info/6a084d068f3e371eb617ec79?utm_campaign=1053&utm_source=git)** | Washington, DC, US | On Site | May 18 |
 | **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[FamilySearch Production and Events Intern](https://jobright.ai/jobs/info/6a0bd6c8538d03366dc89149?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | Hybrid | May 18 |
 | **[Metropolitan Opera](http://metopera.org/)** | **[Laffont Competition Intern](https://jobright.ai/jobs/info/6a0bc7a04d93203636873f45?utm_campaign=1053&utm_source=git)** | Lincoln Center - New York, NY | On Site | May 18 |
 | **[Washington Commanders](http://www.commanders.com/)** | **[Intern, Features](https://jobright.ai/jobs/info/6a0cc9cf4d9320363687c0b6?utm_campaign=1053&utm_source=git)** | Ashburn, VA | On Site | May 18 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Film Pittsburgh](http://www.FilmPittsburgh.org)** | **[Fall Festival Internship](https://jobright.ai/jobs/info/6a072e6d4a0a6a7e7d8262f0?utm_campaign=1053&utm_source=git)** | Pittsburgh, PA | Hybrid | May 15 |
 | **[Pittsburgh Penguins](https://www.nhl.com/penguins/)** | **[Video Production Internship (Fall 2026)](https://jobright.ai/jobs/info/6a0769f06186f4685987df43?utm_campaign=1053&utm_source=git)** | Pittsburgh, PA | On Site | May 15 |
 | **[WTAE Hearst Pittsburgh](https://www.hearstpittsburgh.com)** | **[Summer News Intern](https://jobright.ai/jobs/info/69b22553d04c69566c74d91b?utm_campaign=1053&utm_source=git)** | Pittsburgh, PA | On Site | May 15 |
-| **[Precision AQ](http://www.precisionaq.com)** | **[Summer 2026 Internship - Medical Writing Intern](https://jobright.ai/jobs/info/6a07085b078fec52738a742c?utm_campaign=1053&utm_source=git)** | Remote (US) | Remote | May 15 |
-| ↳ | **[Summer 2026 Internship - Medical Writing Intern](https://jobright.ai/jobs/info/69a24857359fe034b1cd83e4?utm_campaign=1053&utm_source=git)** | Remote, United States | Remote | May 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
