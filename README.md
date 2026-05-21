@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Amaley](www.tryamaley.com)** | **[Documentary Filmmaker](https://jobright.ai/jobs/info/6a0f099372b52f7225f3a99f?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | May 21 |
 | **[WMUR-TV](http://www.wmur.com/)** | **[Creative Services Intern](https://jobright.ai/jobs/info/69ba8f1506c1ba00c54ca4eb?utm_campaign=1053&utm_source=git)** | Manchester, NH | On Site | May 21 |
 | **[KGTX 7 News](https://kgtx7news.com)** | **[Assignment Editor](https://jobright.ai/jobs/info/6a0ed6c080bf0430c762f1a1?utm_campaign=1053&utm_source=git)** | League City, TX | Remote | May 21 |
 | **[The Dispatch](https://thedispatch.com/)** | **[Summer 2026 Multimedia Internship](https://jobright.ai/jobs/info/6a0ea29780bf0430c762df51?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | May 20 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[MarkMedia LLC](https://www.marktny.com/)** | **[Video Editor Intern (Path to Full-Time)](https://jobright.ai/jobs/info/6a0778cf8f3e371eb61777cc?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | May 15 |
 | **[Publicis Production](http://publicisproduction.com)** | **[Content Creator Intern](https://jobright.ai/jobs/info/69eb41387820c036924f2586?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | May 15 |
 | **[Film Pittsburgh](http://www.FilmPittsburgh.org)** | **[Fall Festival Internship](https://jobright.ai/jobs/info/6a072e6d4a0a6a7e7d8262f0?utm_campaign=1053&utm_source=git)** | Pittsburgh, PA | Hybrid | May 15 |
-| **[Pittsburgh Penguins](https://www.nhl.com/penguins/)** | **[Video Production Internship (Fall 2026)](https://jobright.ai/jobs/info/6a0769f06186f4685987df43?utm_campaign=1053&utm_source=git)** | Pittsburgh, PA | On Site | May 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
