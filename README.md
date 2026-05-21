@@ -57,7 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Pixel Pirate Studio Llc](http://www.pixelpiratestudio.com/)** | **[2D Animation Intern](https://jobright.ai/jobs/info/6a0e574180bf0430c762c23b?utm_campaign=1053&utm_source=git)** | LA Metro Area | Remote | May 20 |
+| **[Tepper Sports & Entertainment](https://teppersportsentertainment.com)** | **[Intern - Entertainment Mascot Programs- Panthers](https://jobright.ai/jobs/info/6a0e24f609ecfd704b3e6729?utm_campaign=1053&utm_source=git)** | 800 S Mint St, Charlotte, NC 28202, USA | On Site | May 20 |
 | **[Dayforce](https://www.dayforce.com)** | **[Digital Content Creator Intern 4 months – Fall 2026](https://jobright.ai/jobs/info/6a0e432dbeb4d73cb6230ca3?utm_campaign=1053&utm_source=git)** | Canada | Remote | May 20 |
 | **[Gallery B612](www.galleryb612.com)** | **[Summer Intern](https://jobright.ai/jobs/info/6a0e3cda80bf0430c762b237?utm_campaign=1053&utm_source=git)** | Seattle, WA | On Site | May 20 |
 | **[Giant Spoon](http://giantspoon.com/)** | **[Experiential Production Intern (Summer)](https://jobright.ai/jobs/info/69fc3151a5949019c55b3836?utm_campaign=1053&utm_source=git)** | New York, United States | Hybrid | May 20 |
@@ -65,7 +65,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern - Social Video](https://jobright.ai/jobs/info/6a0e250009ecfd704b3e672b?utm_campaign=1053&utm_source=git)** | 800 S Mint St, Charlotte, NC 28202, USA | On Site | May 20 |
 | ↳ | **[Intern - Entertainment - Panthers](https://jobright.ai/jobs/info/6a0e24f983d71442898164af?utm_campaign=1053&utm_source=git)** | 800 S Mint St, Charlotte, NC 28202, USA | On Site | May 20 |
 | ↳ | **[Intern - PantherVision](https://jobright.ai/jobs/info/6a0e24f680bf0430c7629f23?utm_campaign=1053&utm_source=git)** | 800 S Mint St, Charlotte, NC 28202, USA | On Site | May 20 |
-| ↳ | **[Intern - Entertainment Mascot - Panthers](https://jobright.ai/jobs/info/6a0e24f609ecfd704b3e6729?utm_campaign=1053&utm_source=git)** | 800 S Mint St, Charlotte, NC 28202, USA | On Site | May 20 |
 | **[PowerV™](www.powervskin.com)** | **[Content Creator Intern (Performance Based) - PowerV](https://jobright.ai/jobs/info/6a0e229f47fea1610bca7737?utm_campaign=1053&utm_source=git)** | United States | Remote | May 20 |
 | **[Hlavinka Equipment Company](https://www.hlavinka.com/)** | **[Content Creator Summer Internship](https://jobright.ai/jobs/info/6a0e1b8f80bf0430c7629852?utm_campaign=1053&utm_source=git)** | East Bernard, TX | On Site | May 20 |
 | **[DreamWorks Animation](https://www.dreamworks.com)** | **[NBCU Local Bay Area - Digital Internship - Academic Year 2026-2027](https://jobright.ai/jobs/info/6a0e0514c152ac7824482491?utm_campaign=1053&utm_source=git)** | 360 Third Street Suite 200, San Francisco, CALIFORNIA | On Site | May 20 |
@@ -91,7 +90,7 @@ For a complete list, click the following sortable link below:
 | **[University of Iowa Research](https://research.uiowa.edu)** | **[Creative Video Intern](https://jobright.ai/jobs/info/6a0ca90322d0d34036c96c5e?utm_campaign=1053&utm_source=git)** | Iowa City, Iowa, United States | On Site | May 19 |
 | ↳ | **[Athletics HawkVision Intern](https://jobright.ai/jobs/info/6a0ca8f80411d7417a1bade3?utm_campaign=1053&utm_source=git)** | Iowa City, Iowa, United States | On Site | May 19 |
 | **[Texas Tech University Health Sciences Center](https://www.ttuhsc.edu)** | **[Dept Intern - Pulse Magazine](https://jobright.ai/jobs/info/6a0c9ee6963f7a67d95d9c6a?utm_campaign=1053&utm_source=git)** | Lubbock, TX | On Site | May 19 |
-| **[DreamWorks Animation](https://www.dreamworks.com)** | **[NBCU Local Bay Area - Production Assistant Internship – Summer 2026](https://jobright.ai/jobs/info/6a0c96a3538d03366dc8ef62?utm_campaign=1053&utm_source=git)** | 360 Third Street Suite 200, San Francisco, CALIFORNIA | On Site | May 19 |
+| **[DreamWorks Animation](https://www.dreamworks.com)** | **[NBCU Local Bay Area - Production Assistant Internship – Summer 2026](https://jobright.ai/jobs/info/6a0c96a3538d03366dc8ef63?utm_campaign=1053&utm_source=git)** | 360 Third Street Suite 200, San Francisco, CALIFORNIA | On Site | May 19 |
 | **[Texas Tech University Health Sciences Center](https://www.ttuhsc.edu)** | **[Dept Intern - Pulse Magazine](https://jobright.ai/jobs/info/6a0c931e0411d7417a1ba12f?utm_campaign=1053&utm_source=git)** | Lubbock | On Site | May 19 |
 | **[Octagon](http://www.octagon.com)** | **[Intern (Global Soccer Fan Festivals) (Home Improvement Client)](https://jobright.ai/jobs/info/6a0c8b274d9320363687920c?utm_campaign=1053&utm_source=git)** | Kansas, United States | On Site | May 19 |
 | **[Achievers](http://www.achievers.com)** | **[Content Co-op](https://jobright.ai/jobs/info/6a025936df52f1450d84a423?utm_campaign=1053&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | May 19 |
@@ -126,8 +125,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Seasonal Entertainment Intern](https://jobright.ai/jobs/info/6a0b27d122d0d34036c890b5?utm_campaign=1053&utm_source=git)** | Shakopee, Minnesota, United States | On Site | May 18 |
 | **[Fox News Media](https://www.foxnews.com/)** | **[Fall 2026 FOX News Media Internship Program - FOX Noticias - New York](https://jobright.ai/jobs/info/6a0accd8a203b1052e44eee9?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | May 18 |
 | **[Fox Corporation](https://www.foxcorporation.com/)** | **[Fall 2026 FOX News Media Internship Program - FOX Noticias - New York](https://jobright.ai/jobs/info/6a0a92d13b54ed42d74e0974?utm_campaign=1053&utm_source=git)** | New York, New York, USA, US | On Site | May 17 |
-| **[IB Flash](https://www.ibflash.com/)** | **[Video Editor & Social Media Summer Analyst – Investment Banking AI Finance Startup](https://jobright.ai/jobs/info/6a0a64d7a203b1052e44d1e3?utm_campaign=1053&utm_source=git)** | United States | Remote | May 17 |
-| ↳ | **[UGC Content Creator Summer Analyst – Investment Banking AI Finance Startup](https://jobright.ai/jobs/info/6a0a5f93403fc339507f682f?utm_campaign=1053&utm_source=git)** | United States | Remote | May 17 |
+| **[IB Flash](https://www.ibflash.com/)** | **[UGC Content Creator Summer Analyst – Investment Banking AI Finance Startup](https://jobright.ai/jobs/info/6a0a5f93403fc339507f682f?utm_campaign=1053&utm_source=git)** | United States | Remote | May 17 |
 | **[Daniel Stark, LLP](https://www.danielstarklaw.com/austin)** | **[Video Editing Intern](https://jobright.ai/jobs/info/6a0b6de60411d7417a1b0ac4?utm_campaign=1053&utm_source=git)** | Killeen, TX | On Site | May 17 |
 | ↳ | **[Video Editing Intern](https://jobright.ai/jobs/info/6a0b6dd94d93203636870cdf?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | May 17 |
 | **[Bonneville International](http://bonneville.com/)** | **[KSL Sports Summer Internship](https://jobright.ai/jobs/info/6a09c6496186f4685988e3c1?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | May 17 |
@@ -137,8 +135,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Programming Intern](https://jobright.ai/jobs/info/6a08514f8f3e371eb617f8a6?utm_campaign=1053&utm_source=git)** | USA-GA-Atlanta | On Site | May 16 |
 | **[SKDK](http://skdknick.com)** | **[Production Intern, Summer 2026](https://jobright.ai/jobs/info/6a04e71f22395b6dc6da1ce1?utm_campaign=1053&utm_source=git)** | Washington, DC, US | Hybrid | May 16 |
 | ↳ | **[Production Intern, Summer 2026](https://jobright.ai/jobs/info/6a084f6e8f3e371eb617f2d4?utm_campaign=1053&utm_source=git)** | US-DC-Washington | Hybrid | May 16 |
-| **[American Enterprise Institute](http://www.aei.org)** | **[Fall Intern: Economic Innovation and Editing](https://jobright.ai/jobs/info/6a084cff939a5f01db957c97?utm_campaign=1053&utm_source=git)** | Washington, DC, US | On Site | May 16 |
-| ↳ | **[Fall Intern: Economic Innovation and Editing](https://jobright.ai/jobs/info/6a084cff939a5f01db957c98?utm_campaign=1053&utm_source=git)** | US-DC-Washington | On Site | May 16 |
+| **[American Enterprise Institute](http://www.aei.org)** | **[Fall Intern: Economic Innovation and Editing](https://jobright.ai/jobs/info/6a084cff939a5f01db957c98?utm_campaign=1053&utm_source=git)** | US-DC-Washington | On Site | May 16 |
+| ↳ | **[Fall Intern: Economic Innovation and Editing](https://jobright.ai/jobs/info/6a084cff939a5f01db957c97?utm_campaign=1053&utm_source=git)** | Washington, DC, US | On Site | May 16 |
 | **[Fanatics](http://www.fanaticsinc.com)** | **[Intern- M&N Production Coordinator](https://jobright.ai/jobs/info/69ebfd960a6e09555304bdd0?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | May 16 |
 | **[Nashville Symphony](https://www.nashvillesymphony.org/)** | **[Artistic Operations Intern](https://jobright.ai/jobs/info/6a082f678f3e371eb617e10b?utm_campaign=1053&utm_source=git)** | NASHVILLE, TN 37201 | On Site | May 16 |
 | **[The Picklr](https://thepicklr.com)** | **[Internship - The Picklr](https://jobright.ai/jobs/info/6a082cbd6186f4685988601c?utm_campaign=1053&utm_source=git)** | 17 Main St, Westbrook, ME, USA | On Site | May 16 |
@@ -157,4 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Film Pittsburgh](http://www.FilmPittsburgh.org)** | **[Fall Festival Internship](https://jobright.ai/jobs/info/6a072e6d4a0a6a7e7d8262f0?utm_campaign=1053&utm_source=git)** | Pittsburgh, PA | Hybrid | May 15 |
 | **[Pittsburgh Penguins](https://www.nhl.com/penguins/)** | **[Video Production Internship (Fall 2026)](https://jobright.ai/jobs/info/6a0769f06186f4685987df43?utm_campaign=1053&utm_source=git)** | Pittsburgh, PA | On Site | May 15 |
 | **[WTAE Hearst Pittsburgh](https://www.hearstpittsburgh.com)** | **[Summer News Intern](https://jobright.ai/jobs/info/69b22553d04c69566c74d91b?utm_campaign=1053&utm_source=git)** | Pittsburgh, PA | On Site | May 15 |
+| **[Precision AQ](http://www.precisionaq.com)** | **[Summer 2026 Internship - Medical Writing Intern](https://jobright.ai/jobs/info/6a07085b078fec52738a742c?utm_campaign=1053&utm_source=git)** | Remote (US) | Remote | May 15 |
+| ↳ | **[Summer 2026 Internship - Medical Writing Intern](https://jobright.ai/jobs/info/69a24857359fe034b1cd83e4?utm_campaign=1053&utm_source=git)** | Remote, United States | Remote | May 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
