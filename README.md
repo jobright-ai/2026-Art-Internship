@@ -57,9 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[WMUR-TV](http://www.wmur.com/)** | **[Creative Services Intern](https://jobright.ai/jobs/info/69ba8f1506c1ba00c54ca4eb?utm_campaign=1053&utm_source=git)** | Manchester, NH | On Site | May 21 |
 | **[KGTX 7 News](https://kgtx7news.com)** | **[Assignment Editor](https://jobright.ai/jobs/info/6a0ed6c080bf0430c762f1a1?utm_campaign=1053&utm_source=git)** | League City, TX | Remote | May 21 |
-| **[The Dispatch](https://thedispatch.com/)** | **[Summer 2026 Multimedia Internship](https://jobright.ai/jobs/info/6a0ea29780bf0430c762df52?utm_campaign=1053&utm_source=git)** | United States | Remote | May 20 |
-| ↳ | **[Summer 2026 Multimedia Internship](https://jobright.ai/jobs/info/6a0ea29780bf0430c762df51?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | May 20 |
+| **[The Dispatch](https://thedispatch.com/)** | **[Summer 2026 Multimedia Internship](https://jobright.ai/jobs/info/6a0ea29780bf0430c762df51?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | May 20 |
+| ↳ | **[Summer 2026 Multimedia Internship](https://jobright.ai/jobs/info/6a0ea29780bf0430c762df52?utm_campaign=1053&utm_source=git)** | United States | Remote | May 20 |
 | **[Tepper Sports & Entertainment](https://teppersportsentertainment.com)** | **[Intern - Entertainment Mascot Programs- Panthers](https://jobright.ai/jobs/info/6a0e24f609ecfd704b3e6729?utm_campaign=1053&utm_source=git)** | 800 S Mint St, Charlotte, NC 28202, USA | On Site | May 20 |
 | **[Dayforce](https://www.dayforce.com)** | **[Digital Content Creator Intern 4 months – Fall 2026](https://jobright.ai/jobs/info/6a0e432dbeb4d73cb6230ca3?utm_campaign=1053&utm_source=git)** | Canada | Remote | May 20 |
 | **[Gallery B612](www.galleryb612.com)** | **[Summer Intern](https://jobright.ai/jobs/info/6a0e3cda80bf0430c762b237?utm_campaign=1053&utm_source=git)** | Seattle, WA | On Site | May 20 |
@@ -85,7 +86,7 @@ For a complete list, click the following sortable link below:
 | **[O'Keefe Media Group](https://okeefemediagroup.com)** | **[O'Keefe Media Internship](https://jobright.ai/jobs/info/6a0dc84ac152ac782447fcc9?utm_campaign=1053&utm_source=git)** | West Palm Beach, FL | On Site | May 20 |
 | **[Cheetah Mobile](http://ir.cmcm.com)** | **[Intern, Content Production](https://jobright.ai/jobs/info/6a0d875f47fea1610bca1834?utm_campaign=1053&utm_source=git)** | Los Angeles, United States | On Site | May 20 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Internship](https://jobright.ai/jobs/info/69d5f9a2706f771673ba8668?utm_campaign=1053&utm_source=git)** | Savannah, GA | On Site | May 20 |
-| **[University of Iowa](http://tippie.uiowa.edu/)** | **[Creative Video Intern](https://jobright.ai/jobs/info/6a0d236122d0d34036c9bf00?utm_campaign=1053&utm_source=git)** | Iowa City, IA | On Site | May 19 |
+| **[University of Iowa](https://uicb.uiowa.edu)** | **[Creative Video Intern](https://jobright.ai/jobs/info/6a0d236122d0d34036c9bf00?utm_campaign=1053&utm_source=git)** | Iowa City, IA | On Site | May 19 |
 | **[Our National Conversation (ONC)](https://www.ournationalconversation.org)** | **[Digital Editor Intern](https://jobright.ai/jobs/info/6a0cea200411d7417a1bde03?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, USA | Remote | May 19 |
 | **[IMAX](http://www.imax.com)** | **[Intern, Post-Production](https://jobright.ai/jobs/info/69f0f51ab27fee43e8cd663c?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | May 19 |
 | **[Too Lost](https://www.toolost.com)** | **[A&R Research Intern (NYC)](https://jobright.ai/jobs/info/6a0ccfcb538d03366dc917b9?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | May 19 |
@@ -137,8 +138,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Programming Intern](https://jobright.ai/jobs/info/6a08514f8f3e371eb617f8a6?utm_campaign=1053&utm_source=git)** | USA-GA-Atlanta | On Site | May 16 |
 | **[SKDK](http://skdknick.com)** | **[Production Intern, Summer 2026](https://jobright.ai/jobs/info/6a04e71f22395b6dc6da1ce1?utm_campaign=1053&utm_source=git)** | Washington, DC, US | Hybrid | May 16 |
 | ↳ | **[Production Intern, Summer 2026](https://jobright.ai/jobs/info/6a084f6e8f3e371eb617f2d4?utm_campaign=1053&utm_source=git)** | US-DC-Washington | Hybrid | May 16 |
-| **[American Enterprise Institute](http://www.aei.org)** | **[Fall Intern: Economic Innovation and Editing](https://jobright.ai/jobs/info/6a084cff939a5f01db957c97?utm_campaign=1053&utm_source=git)** | Washington, DC, US | On Site | May 16 |
-| ↳ | **[Fall Intern: Economic Innovation and Editing](https://jobright.ai/jobs/info/6a084cff939a5f01db957c98?utm_campaign=1053&utm_source=git)** | US-DC-Washington | On Site | May 16 |
+| **[American Enterprise Institute](http://www.aei.org)** | **[Fall Intern: Economic Innovation and Editing](https://jobright.ai/jobs/info/6a084cff939a5f01db957c98?utm_campaign=1053&utm_source=git)** | US-DC-Washington | On Site | May 16 |
+| ↳ | **[Fall Intern: Economic Innovation and Editing](https://jobright.ai/jobs/info/6a084cff939a5f01db957c97?utm_campaign=1053&utm_source=git)** | Washington, DC, US | On Site | May 16 |
 | **[Fanatics](http://www.fanaticsinc.com)** | **[Intern- M&N Production Coordinator](https://jobright.ai/jobs/info/69ebfd960a6e09555304bdd0?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | May 16 |
 | **[Nashville Symphony](https://www.nashvillesymphony.org/)** | **[Artistic Operations Intern](https://jobright.ai/jobs/info/6a082f678f3e371eb617e10b?utm_campaign=1053&utm_source=git)** | NASHVILLE, TN 37201 | On Site | May 16 |
 | **[The Picklr](https://thepicklr.com)** | **[Internship - The Picklr](https://jobright.ai/jobs/info/6a082cbd6186f4685988601c?utm_campaign=1053&utm_source=git)** | 17 Main St, Westbrook, ME, USA | On Site | May 16 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Publicis Production](http://publicisproduction.com)** | **[Content Creator Intern](https://jobright.ai/jobs/info/69eb41387820c036924f2586?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | May 15 |
 | **[Film Pittsburgh](http://www.FilmPittsburgh.org)** | **[Fall Festival Internship](https://jobright.ai/jobs/info/6a072e6d4a0a6a7e7d8262f0?utm_campaign=1053&utm_source=git)** | Pittsburgh, PA | Hybrid | May 15 |
 | **[Pittsburgh Penguins](https://www.nhl.com/penguins/)** | **[Video Production Internship (Fall 2026)](https://jobright.ai/jobs/info/6a0769f06186f4685987df43?utm_campaign=1053&utm_source=git)** | Pittsburgh, PA | On Site | May 15 |
-| **[WTAE Hearst Pittsburgh](https://www.hearstpittsburgh.com)** | **[Summer News Intern](https://jobright.ai/jobs/info/69b22553d04c69566c74d91b?utm_campaign=1053&utm_source=git)** | Pittsburgh, PA | On Site | May 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
