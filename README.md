@@ -63,8 +63,8 @@ For a complete list, click the following sortable link below:
 | **[Tepper Sports & Entertainment](https://teppersportsentertainment.com)** | **[Intern - Football Communications](https://jobright.ai/jobs/info/6a0e251083d71442898164b3?utm_campaign=1053&utm_source=git)** | 800 S Mint St, Charlotte, NC 28202, USA | On Site | May 20 |
 | ↳ | **[Intern - Social Video](https://jobright.ai/jobs/info/6a0e250009ecfd704b3e672b?utm_campaign=1053&utm_source=git)** | 800 S Mint St, Charlotte, NC 28202, USA | On Site | May 20 |
 | ↳ | **[Intern - Entertainment - Panthers](https://jobright.ai/jobs/info/6a0e24f983d71442898164af?utm_campaign=1053&utm_source=git)** | 800 S Mint St, Charlotte, NC 28202, USA | On Site | May 20 |
-| ↳ | **[Intern - PantherVision](https://jobright.ai/jobs/info/6a0e24f680bf0430c7629f23?utm_campaign=1053&utm_source=git)** | 800 S Mint St, Charlotte, NC 28202, USA | On Site | May 20 |
 | ↳ | **[Intern - Entertainment Mascot - Panthers](https://jobright.ai/jobs/info/6a0e24f609ecfd704b3e6729?utm_campaign=1053&utm_source=git)** | 800 S Mint St, Charlotte, NC 28202, USA | On Site | May 20 |
+| ↳ | **[Intern - PantherVision](https://jobright.ai/jobs/info/6a0e24f680bf0430c7629f23?utm_campaign=1053&utm_source=git)** | 800 S Mint St, Charlotte, NC 28202, USA | On Site | May 20 |
 | **[PowerV™](www.powervskin.com)** | **[Content Creator Intern (Performance Based) - PowerV](https://jobright.ai/jobs/info/6a0e229f47fea1610bca7737?utm_campaign=1053&utm_source=git)** | United States | Remote | May 20 |
 | **[Hlavinka Equipment Company](https://www.hlavinka.com/)** | **[Content Creator Summer Internship](https://jobright.ai/jobs/info/6a0e1b8f80bf0430c7629852?utm_campaign=1053&utm_source=git)** | East Bernard, TX | On Site | May 20 |
 | **[DreamWorks Animation](https://www.dreamworks.com)** | **[NBCU Local Bay Area - Digital Internship - Academic Year 2026-2027](https://jobright.ai/jobs/info/6a0e0514c152ac7824482491?utm_campaign=1053&utm_source=git)** | 360 Third Street Suite 200, San Francisco, CALIFORNIA | On Site | May 20 |
@@ -84,6 +84,7 @@ For a complete list, click the following sortable link below:
 | **[Cheetah Mobile](http://ir.cmcm.com)** | **[Intern, Content Production](https://jobright.ai/jobs/info/6a0d875f47fea1610bca1834?utm_campaign=1053&utm_source=git)** | Los Angeles, United States | On Site | May 20 |
 | **[University of Iowa](http://tippie.uiowa.edu/)** | **[Creative Video Intern](https://jobright.ai/jobs/info/6a0d236122d0d34036c9bf00?utm_campaign=1053&utm_source=git)** | Iowa City, IA | On Site | May 19 |
 | **[Our National Conversation (ONC)](https://www.ournationalconversation.org)** | **[Digital Editor Intern](https://jobright.ai/jobs/info/6a0cea200411d7417a1bde03?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, USA | Remote | May 19 |
+| **[IMAX](http://www.imax.com)** | **[Intern, Post-Production](https://jobright.ai/jobs/info/69f0f51ab27fee43e8cd663c?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | May 19 |
 | **[Too Lost](https://www.toolost.com)** | **[A&R Research Intern (NYC)](https://jobright.ai/jobs/info/6a0ccfcb538d03366dc917b9?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | May 19 |
 | **[Associations International](http://associationsinternational.com)** | **[Copyediting Internship](https://jobright.ai/jobs/info/6a0cb749963f7a67d95dad47?utm_campaign=1053&utm_source=git)** | Lexington, KY | On Site | May 19 |
 | **[University of Iowa Research](https://research.uiowa.edu)** | **[Creative Video Intern](https://jobright.ai/jobs/info/6a0ca90322d0d34036c96c5e?utm_campaign=1053&utm_source=git)** | Iowa City, Iowa, United States | On Site | May 19 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Pittsburgh Penguins](https://www.nhl.com/penguins/)** | **[Video Production Internship (Fall 2026)](https://jobright.ai/jobs/info/6a0769f06186f4685987df43?utm_campaign=1053&utm_source=git)** | Pittsburgh, PA | On Site | May 15 |
 | **[WTAE Hearst Pittsburgh](https://www.hearstpittsburgh.com)** | **[Summer News Intern](https://jobright.ai/jobs/info/69b22553d04c69566c74d91b?utm_campaign=1053&utm_source=git)** | Pittsburgh, PA | On Site | May 15 |
 | **[Precision AQ](http://www.precisionaq.com)** | **[Summer 2026 Internship - Medical Writing Intern](https://jobright.ai/jobs/info/6a07085b078fec52738a742c?utm_campaign=1053&utm_source=git)** | Remote (US) | Remote | May 15 |
-| ↳ | **[Summer 2026 Internship - Medical Writing Intern](https://jobright.ai/jobs/info/69a24857359fe034b1cd83e4?utm_campaign=1053&utm_source=git)** | Remote, United States | Remote | May 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
