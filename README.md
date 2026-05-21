@@ -100,8 +100,8 @@ For a complete list, click the following sortable link below:
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[KGO-TV (ABC7) Community Engagement Intern, Fall 2026](https://jobright.ai/jobs/info/6a0c0c6aa235d749afa89f22?utm_campaign=1053&utm_source=git)** | San Francisco, CA | On Site | May 19 |
 | ↳ | **[ABC News Live First Hour Production Intern, Fall 2026](https://jobright.ai/jobs/info/6a0c0c45a235d749afa89ef1?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | May 19 |
 | **[Impact Networking, LLC](https://www.impactmybiz.com)** | **[Post-Production Intern](https://jobright.ai/jobs/info/6a0c09f0a235d749afa89e8e?utm_campaign=1053&utm_source=git)** | Vernon Hills, IL | On Site | May 18 |
-| **[American Enterprise Institute](http://www.aei.org)** | **[Fall Intern: Events](https://jobright.ai/jobs/info/6a084d068f3e371eb617ec79?utm_campaign=1053&utm_source=git)** | Washington, DC, US | On Site | May 18 |
-| ↳ | **[Fall Intern: Events](https://jobright.ai/jobs/info/6a0c097022d0d34036c911c1?utm_campaign=1053&utm_source=git)** | US-DC-Washington | On Site | May 18 |
+| **[American Enterprise Institute](http://www.aei.org)** | **[Fall Intern: Events](https://jobright.ai/jobs/info/6a0c097022d0d34036c911c1?utm_campaign=1053&utm_source=git)** | US-DC-Washington | On Site | May 18 |
+| ↳ | **[Fall Intern: Events](https://jobright.ai/jobs/info/6a084d068f3e371eb617ec79?utm_campaign=1053&utm_source=git)** | Washington, DC, US | On Site | May 18 |
 | **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[FamilySearch Production and Events Intern](https://jobright.ai/jobs/info/6a0bd6c8538d03366dc89149?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | Hybrid | May 18 |
 | **[Metropolitan Opera](http://metopera.org/)** | **[Laffont Competition Intern](https://jobright.ai/jobs/info/6a0bc7a04d93203636873f45?utm_campaign=1053&utm_source=git)** | Lincoln Center - New York, NY | On Site | May 18 |
 | **[Washington Commanders](http://www.commanders.com/)** | **[Intern, Features](https://jobright.ai/jobs/info/6a0cc9cf4d9320363687c0b6?utm_campaign=1053&utm_source=git)** | Ashburn, VA | On Site | May 18 |
@@ -125,7 +125,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Seasonal Entertainment Intern](https://jobright.ai/jobs/info/6a0b27d122d0d34036c890b5?utm_campaign=1053&utm_source=git)** | Shakopee, Minnesota, United States | On Site | May 18 |
 | **[Fox News Media](https://www.foxnews.com/)** | **[Fall 2026 FOX News Media Internship Program - FOX Noticias - New York](https://jobright.ai/jobs/info/6a0accd8a203b1052e44eee9?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | May 18 |
 | **[Fox Corporation](https://www.foxcorporation.com/)** | **[Fall 2026 FOX News Media Internship Program - FOX Noticias - New York](https://jobright.ai/jobs/info/6a0a92d13b54ed42d74e0974?utm_campaign=1053&utm_source=git)** | New York, New York, USA, US | On Site | May 17 |
-| **[IB Flash](https://www.ibflash.com/)** | **[UGC Content Creator Summer Analyst – Investment Banking AI Finance Startup](https://jobright.ai/jobs/info/6a0a5f93403fc339507f682f?utm_campaign=1053&utm_source=git)** | United States | Remote | May 17 |
 | **[Daniel Stark, LLP](https://www.danielstarklaw.com/austin)** | **[Video Editing Intern](https://jobright.ai/jobs/info/6a0b6de60411d7417a1b0ac4?utm_campaign=1053&utm_source=git)** | Killeen, TX | On Site | May 17 |
 | ↳ | **[Video Editing Intern](https://jobright.ai/jobs/info/6a0b6dd94d93203636870cdf?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | May 17 |
 | **[Bonneville International](http://bonneville.com/)** | **[KSL Sports Summer Internship](https://jobright.ai/jobs/info/6a09c6496186f4685988e3c1?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | May 17 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[WTAE Hearst Pittsburgh](https://www.hearstpittsburgh.com)** | **[Summer News Intern](https://jobright.ai/jobs/info/69b22553d04c69566c74d91b?utm_campaign=1053&utm_source=git)** | Pittsburgh, PA | On Site | May 15 |
 | **[Precision AQ](http://www.precisionaq.com)** | **[Summer 2026 Internship - Medical Writing Intern](https://jobright.ai/jobs/info/6a07085b078fec52738a742c?utm_campaign=1053&utm_source=git)** | Remote (US) | Remote | May 15 |
 | ↳ | **[Summer 2026 Internship - Medical Writing Intern](https://jobright.ai/jobs/info/69a24857359fe034b1cd83e4?utm_campaign=1053&utm_source=git)** | Remote, United States | Remote | May 15 |
+| **[Precision Medicine Group](https://www.precisionmedicinegrp.com/pfm/)** | **[Summer 2026 Internship - Medical Writing Intern](https://jobright.ai/jobs/info/6a0706f54a0a6a7e7d821afc?utm_campaign=1053&utm_source=git)** | Remote (US) | Remote | May 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
