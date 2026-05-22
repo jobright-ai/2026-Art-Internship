@@ -57,20 +57,22 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Digital Content Intern - Parks, Recreation & Natural Resources](https://jobright.ai/jobs/info/6a0fe17383d71442898232e6?utm_campaign=1053&utm_source=git)** | Land O' Lakes, FL | On Site | May 21 |
 | **[IMAX Enhanced | Streaming & Consumer Technology](http://ssimwave.com)** | **[Intern, Alternative Content](https://jobright.ai/jobs/info/6a0fb6e512f8b43cf39813f3?utm_campaign=1053&utm_source=git)** | Los Angeles, California, United States | On Site | May 21 |
 | ↳ | **[Intern, Alternative Content](https://jobright.ai/jobs/info/6a0fb6e012f8b43cf39813f0?utm_campaign=1053&utm_source=git)** | Los Angeles, California, United States of America | On Site | May 21 |
 | **[IMAX](http://www.imax.com)** | **[Intern, Alternative Content](https://jobright.ai/jobs/info/6a0f929c83d714428982189b?utm_campaign=1053&utm_source=git)** | Playa Vista, California, US | On Site | May 21 |
 | **[Formula KFX](https://formulakfx.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/6a0f874f619335383fb2d99e?utm_campaign=1053&utm_source=git)** | Marina, CA | Hybrid | May 21 |
 | **[Prophet](http://www.prophet.com)** | **[2026 Austin Internship](https://jobright.ai/jobs/info/6a0f65f09f654b3359ce5466?utm_campaign=1053&utm_source=git)** | Austin | On Site | May 21 |
 | **[Marketing Choices](https://marketingchoices.com)** | **[Editorial Internship](https://jobright.ai/jobs/info/6a0f632372b52f7225f3d663?utm_campaign=1053&utm_source=git)** | Colorado, United States | Remote | May 21 |
-| **[U.S. News & World Report](http://www.usnews.com)** | **[2026 Fall News Intern (DC & NY)](https://jobright.ai/jobs/info/69d6899ee63cea7a8b669623?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | May 21 |
+| **[U.S. News & World Report](http://www.usnews.com)** | **[2026 Fall Editorial Intern (NY & DC)](https://jobright.ai/jobs/info/69d687c4706f771673bab2cb?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | May 21 |
+| ↳ | **[2026 Fall News Intern (DC & NY)](https://jobright.ai/jobs/info/69d6899ee63cea7a8b669623?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | May 21 |
 | **[National Association of State Procurement Officials](https://www.naspo.org/)** | **[Video Editor Intern](https://jobright.ai/jobs/info/69f2ca84825a315d7ca3fa32?utm_campaign=1053&utm_source=git)** | Lexington, KY | Hybrid | May 21 |
 | **[The Tease](http://www.TheTease.com)** | **[Editorial & Podcast Internship - Fall 2026](https://jobright.ai/jobs/info/6a0f379072b52f7225f3bcce?utm_campaign=1053&utm_source=git)** | Madison, Wisconsin, United States | On Site | May 21 |
 | **[Golden Hippo®](https://www.huntrealestate.com/)** | **[Video Editor Intern](https://jobright.ai/jobs/info/69b3218ea8ac8e70ff674f97?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | May 21 |
 | **[Amaley](www.tryamaley.com)** | **[Documentary Filmmaker](https://jobright.ai/jobs/info/6a0f099372b52f7225f3a99f?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | May 21 |
 | **[WMUR-TV](http://www.wmur.com/)** | **[Creative Services Intern](https://jobright.ai/jobs/info/69ba8f1506c1ba00c54ca4eb?utm_campaign=1053&utm_source=git)** | Manchester, NH | On Site | May 21 |
-| **[The Dispatch](https://thedispatch.com/)** | **[Summer 2026 Multimedia Internship](https://jobright.ai/jobs/info/6a0ea29780bf0430c762df51?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | May 20 |
-| ↳ | **[Summer 2026 Multimedia Internship](https://jobright.ai/jobs/info/6a0ea29780bf0430c762df52?utm_campaign=1053&utm_source=git)** | United States | Remote | May 20 |
+| **[The Dispatch](https://thedispatch.com/)** | **[Summer 2026 Multimedia Internship](https://jobright.ai/jobs/info/6a0ea29780bf0430c762df52?utm_campaign=1053&utm_source=git)** | United States | Remote | May 20 |
+| ↳ | **[Summer 2026 Multimedia Internship](https://jobright.ai/jobs/info/6a0ea29780bf0430c762df51?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | May 20 |
 | **[Tepper Sports & Entertainment](https://teppersportsentertainment.com)** | **[Intern - Entertainment Mascot Programs- Panthers](https://jobright.ai/jobs/info/6a0e24f609ecfd704b3e6729?utm_campaign=1053&utm_source=git)** | 800 S Mint St, Charlotte, NC 28202, USA | On Site | May 20 |
 | **[NBCUniversal](https://www.nbcuniversal.com/)** | **[NBCU Local Bay Area - Video Editor Internship - Academic Year (2026-2027)](https://jobright.ai/jobs/info/6a0fba6772b52f7225f400a7?utm_campaign=1053&utm_source=git)** | San Francisco, CA | On Site | May 20 |
 | **[Dayforce](https://www.dayforce.com)** | **[Digital Content Creator Intern 4 months – Fall 2026](https://jobright.ai/jobs/info/6a0e432dbeb4d73cb6230ca3?utm_campaign=1053&utm_source=git)** | Canada | Remote | May 20 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Caesars Entertainment](https://www.caesars.com/paris-las-vegas)** | **[Catering and Conventions Intern - Caesars Palace Las Vegas](https://jobright.ai/jobs/info/6a080ab5403fc339507ea53c?utm_campaign=1053&utm_source=git)** | Las Vegas, NV | On Site | May 15 |
 | **[Miller Sports + Entertainment](https://millerse.com/)** | **[Video (Media Content) Intern](https://jobright.ai/jobs/info/6a0aa986403fc339507f7d10?utm_campaign=1053&utm_source=git)** | South Jordan, UT | On Site | May 15 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid News Intern](https://jobright.ai/jobs/info/69b1c6a4548f140066e79343?utm_campaign=1053&utm_source=git)** | Wichita, KS | On Site | May 15 |
-| **[Nomara USA](https://intermediumcorp.com)** | **[Video Editor Lead Intern (Unpaid)](https://jobright.ai/jobs/info/6a07c9ad939a5f01db953ba4?utm_campaign=1053&utm_source=git)** | United States | Remote | May 15 |
-| **[AmeriLife](http://www.amerilife.com)** | **[Intern](https://jobright.ai/jobs/info/6a07c97f3b54ed42d74d1dc5?utm_campaign=1053&utm_source=git)** | Noblesville, IN | On Site | May 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
