@@ -57,7 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Russ & Daughters](http://www.russanddaughters.com)** | **[INTERNSHIP](https://jobright.ai/jobs/info/6a10a4de9f654b3359ced336?utm_campaign=1053&utm_source=git)** | Store (New York, NY) | On Site | May 22 |
+| **[Medical College of Wisconsin](http://www.mcw.edu/)** | **[Intern - Institutional Advancement](https://jobright.ai/jobs/info/6a10b8fb83d7144289828029?utm_campaign=1053&utm_source=git)** | Wauwatosa, WI, US | Hybrid | May 22 |
 | **[Mentally United](https://www.mentallyunited.com/)** | **[Video Editing Intern - Summer 2026](https://jobright.ai/jobs/info/6a10a1ca619335383fb33e48?utm_campaign=1053&utm_source=git)** | United States | Remote | May 22 |
 | **[K9 Wear](https://www.k9wear.com)** | **[Content Creator & Influencer Outreach- Pet & Lifestyle](https://jobright.ai/jobs/info/6a109e4e83d7144289827867?utm_campaign=1053&utm_source=git)** | United States | Remote | May 22 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Digital Content Intern](https://jobright.ai/jobs/info/69d85dcdf4ea471a51fe545b?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | May 22 |
@@ -94,6 +94,7 @@ For a complete list, click the following sortable link below:
 | **[Hlavinka Equipment Company](https://www.hlavinka.com/)** | **[Content Creator Summer Internship](https://jobright.ai/jobs/info/6a0e021947fea1610bca6011?utm_campaign=1053&utm_source=git)** | East Bernard,TX,US | On Site | May 20 |
 | **[NBCUniversal](https://www.nbcuniversal.com/)** | **[NBCU Local Bay Area - Digital Internship - Academic Year 2026-2027](https://jobright.ai/jobs/info/6a0e000b80bf0430c7628518?utm_campaign=1053&utm_source=git)** | San Francisco, CA | On Site | May 20 |
 | **[Dayforce](https://www.dayforce.com)** | **[Digital Content Creator Intern 4 months – Fall 2026](https://jobright.ai/jobs/info/6a0dff7780bf0430c7628476?utm_campaign=1053&utm_source=git)** | Canada | Remote | May 20 |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Internship](https://jobright.ai/jobs/info/69d3c276891d7b11cfcf30e7?utm_campaign=1053&utm_source=git)** | Savannah, GA | On Site | May 20 |
 | **[Lowell Spinners](http://www.lowellspinners.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/6a0df3eb80bf0430c7627c6b?utm_campaign=1053&utm_source=git)** | Lowell, MA | On Site | May 20 |
 | **[Subbio Plastic Surgery & Medical Spa](https://www.drsubbio.com/)** | **[Events & Special Projects Intern](https://jobright.ai/jobs/info/6a0de98780bf0430c7627783?utm_campaign=1053&utm_source=git)** | Newtown Square, PA | On Site | May 20 |
 | **[The Lovett School](https://www.lovett.org/)** | **[Video Production Intern](https://jobright.ai/jobs/info/6a0dd90480bf0430c762679e?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | May 20 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Production Intern, Summer 2026](https://jobright.ai/jobs/info/6a084f6e8f3e371eb617f2d4?utm_campaign=1053&utm_source=git)** | US-DC-Washington | Hybrid | May 16 |
 | **[American Enterprise Institute](http://www.aei.org)** | **[Fall Intern: Economic Innovation and Editing](https://jobright.ai/jobs/info/6a084cff939a5f01db957c97?utm_campaign=1053&utm_source=git)** | Washington, DC, US | On Site | May 16 |
 | ↳ | **[Fall Intern: Economic Innovation and Editing](https://jobright.ai/jobs/info/6a084cff939a5f01db957c98?utm_campaign=1053&utm_source=git)** | US-DC-Washington | On Site | May 16 |
-| **[Fanatics](http://www.fanaticsinc.com)** | **[Intern- M&N Production Coordinator](https://jobright.ai/jobs/info/69ebfd960a6e09555304bdd0?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | May 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
