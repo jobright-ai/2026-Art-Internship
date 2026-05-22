@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Mentally United](https://www.mentallyunited.com/)** | **[Video Editing & Content Production Intern - Summer 2026](https://jobright.ai/jobs/info/6a0ff5309f654b3359ce8fe4?utm_campaign=1053&utm_source=git)** | Denver, CO | Remote | May 21 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Digital Content Intern - Parks, Recreation & Natural Resources](https://jobright.ai/jobs/info/6a0fe17383d71442898232e6?utm_campaign=1053&utm_source=git)** | Land O' Lakes, FL | On Site | May 21 |
 | **[IMAX Enhanced | Streaming & Consumer Technology](http://ssimwave.com)** | **[Intern, Alternative Content](https://jobright.ai/jobs/info/6a0fb6e512f8b43cf39813f3?utm_campaign=1053&utm_source=git)** | Los Angeles, California, United States | On Site | May 21 |
 | ↳ | **[Intern, Alternative Content](https://jobright.ai/jobs/info/6a0fb6e012f8b43cf39813f0?utm_campaign=1053&utm_source=git)** | Los Angeles, California, United States of America | On Site | May 21 |
@@ -78,7 +79,6 @@ For a complete list, click the following sortable link below:
 | **[Dayforce](https://www.dayforce.com)** | **[Digital Content Creator Intern 4 months – Fall 2026](https://jobright.ai/jobs/info/6a0e432dbeb4d73cb6230ca3?utm_campaign=1053&utm_source=git)** | Canada | Remote | May 20 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Internship](https://jobright.ai/jobs/info/69d5c2eacdb525785fbd3c9c?utm_campaign=1053&utm_source=git)** | Savannah, GA | On Site | May 20 |
 | **[Gallery B612](www.galleryb612.com)** | **[Summer Intern](https://jobright.ai/jobs/info/6a0e3cda80bf0430c762b237?utm_campaign=1053&utm_source=git)** | Seattle, WA | On Site | May 20 |
-| **[Logik](https://www.logik.tv)** | **[Podcast Internship — VFX / Film / Television Industry](https://jobright.ai/jobs/info/6a0fed8d619335383fb2fd11?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Remote | May 20 |
 | **[Giant Spoon](http://giantspoon.com/)** | **[Experiential Production Intern (Summer)](https://jobright.ai/jobs/info/69fc3151a5949019c55b3836?utm_campaign=1053&utm_source=git)** | New York, United States | Hybrid | May 20 |
 | **[Tepper Sports & Entertainment](https://teppersportsentertainment.com)** | **[Intern - Football Communications](https://jobright.ai/jobs/info/6a0e251083d71442898164b3?utm_campaign=1053&utm_source=git)** | 800 S Mint St, Charlotte, NC 28202, USA | On Site | May 20 |
 | ↳ | **[Intern - Social Video](https://jobright.ai/jobs/info/6a0e250009ecfd704b3e672b?utm_campaign=1053&utm_source=git)** | 800 S Mint St, Charlotte, NC 28202, USA | On Site | May 20 |
@@ -105,7 +105,7 @@ For a complete list, click the following sortable link below:
 | **[University of Iowa Research](https://research.uiowa.edu)** | **[Creative Video Intern](https://jobright.ai/jobs/info/6a0ca90322d0d34036c96c5e?utm_campaign=1053&utm_source=git)** | Iowa City, Iowa, United States | On Site | May 19 |
 | ↳ | **[Athletics HawkVision Intern](https://jobright.ai/jobs/info/6a0ca8f80411d7417a1bade3?utm_campaign=1053&utm_source=git)** | Iowa City, Iowa, United States | On Site | May 19 |
 | **[Texas Tech University Health Sciences Center](https://www.ttuhsc.edu)** | **[Dept Intern - Pulse Magazine](https://jobright.ai/jobs/info/6a0c9ee6963f7a67d95d9c6a?utm_campaign=1053&utm_source=git)** | Lubbock, TX | On Site | May 19 |
-| **[DreamWorks Animation](https://www.dreamworks.com)** | **[NBCU Local Bay Area - Production Assistant Internship – Summer 2026](https://jobright.ai/jobs/info/6a0c96a3538d03366dc8ef62?utm_campaign=1053&utm_source=git)** | 360 Third Street Suite 200, San Francisco, CALIFORNIA | On Site | May 19 |
+| **[DreamWorks Animation](https://www.dreamworks.com)** | **[NBCU Local Bay Area - Production Assistant Internship – Summer 2026](https://jobright.ai/jobs/info/6a0c96a3538d03366dc8ef63?utm_campaign=1053&utm_source=git)** | 360 Third Street Suite 200, San Francisco, CALIFORNIA | On Site | May 19 |
 | **[Texas Tech University Health Sciences Center](https://www.ttuhsc.edu)** | **[Dept Intern - Pulse Magazine](https://jobright.ai/jobs/info/6a0c931e0411d7417a1ba12f?utm_campaign=1053&utm_source=git)** | Lubbock | On Site | May 19 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Internship](https://jobright.ai/jobs/info/69d5f2b0706f771673ba7f52?utm_campaign=1053&utm_source=git)** | Savannah, GA | On Site | May 19 |
 | **[Octagon](http://www.octagon.com)** | **[Intern (Global Soccer Fan Festivals) (Home Improvement Client)](https://jobright.ai/jobs/info/6a0c8b274d9320363687920c?utm_campaign=1053&utm_source=git)** | Kansas, United States | On Site | May 19 |
