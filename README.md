@@ -57,8 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Russ & Daughters](http://www.russanddaughters.com)** | **[INTERNSHIP](https://jobright.ai/jobs/info/6a1088c49f654b3359cec7b4?utm_campaign=1053&utm_source=git)** | Store (New York, NY) | On Site | May 22 |
+| **[K9 Wear](https://www.k9wear.com)** | **[Content Creator & Influencer Outreach- Pet & Lifestyle](https://jobright.ai/jobs/info/6a109e4e83d7144289827867?utm_campaign=1053&utm_source=git)** | United States | Remote | May 22 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Digital Content Intern](https://jobright.ai/jobs/info/69d85dcdf4ea471a51fe545b?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | May 22 |
+| ↳ | **[Digital Content Intern, Unpaid](https://jobright.ai/jobs/info/69bb08ca569738374140e490?utm_campaign=1053&utm_source=git)** | Shreveport, LA | On Site | May 22 |
 | **[Revilo Technologies](www.reviloautocare.com)** | **[Video Editing Intern l U.S.-Based Aftermarket Automotive AI Startup](https://jobright.ai/jobs/info/6a105c569fdbf21f36cadf90?utm_campaign=1053&utm_source=git)** | United States | Remote | May 22 |
 | **[Mentally United](https://www.mentallyunited.com/)** | **[Video Editing & Content Production Intern - Summer 2026](https://jobright.ai/jobs/info/6a0ff5309f654b3359ce8fe4?utm_campaign=1053&utm_source=git)** | Denver, CO | Remote | May 21 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Digital Content Intern - Parks, Recreation & Natural Resources](https://jobright.ai/jobs/info/6a0fe17383d71442898232e6?utm_campaign=1053&utm_source=git)** | Land O' Lakes, FL | On Site | May 21 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Fanatics](http://www.fanaticsinc.com)** | **[Intern- M&N Production Coordinator](https://jobright.ai/jobs/info/69ebfd960a6e09555304bdd0?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | May 16 |
 | **[Nashville Symphony](https://www.nashvillesymphony.org/)** | **[Artistic Operations Intern](https://jobright.ai/jobs/info/6a082f678f3e371eb617e10b?utm_campaign=1053&utm_source=git)** | NASHVILLE, TN 37201 | On Site | May 16 |
 | **[The Picklr](https://thepicklr.com)** | **[Internship - The Picklr](https://jobright.ai/jobs/info/6a082cbd6186f4685988601c?utm_campaign=1053&utm_source=git)** | 17 Main St, Westbrook, ME, USA | On Site | May 16 |
-| **[Caesars Entertainment](https://www.caesars.com/paris-las-vegas)** | **[Catering and Conventions Intern - Caesars Palace Las Vegas](https://jobright.ai/jobs/info/6a080ab5403fc339507ea53c?utm_campaign=1053&utm_source=git)** | Las Vegas, NV | On Site | May 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
