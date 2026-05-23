@@ -57,6 +57,19 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a111beb9fdbf21f36cb2dd3?utm_campaign=1053&utm_source=git)** | Minneapolis, MN | On Site | May 22 |
+| ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a111bea9fdbf21f36cb2dd1?utm_campaign=1053&utm_source=git)** | Newark, NJ | On Site | May 22 |
+| ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a111bdf12f8b43cf398956f?utm_campaign=1053&utm_source=git)** | St Louis, MO | On Site | May 22 |
+| ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a111bdf69bd827926af27f5?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | May 22 |
+| ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a111bdb12f8b43cf3989560?utm_campaign=1053&utm_source=git)** | Evanston, IL | On Site | May 22 |
+| ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a111bd912f8b43cf398955c?utm_campaign=1053&utm_source=git)** | Bloomington, IN | On Site | May 22 |
+| ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a111bd712f8b43cf398955b?utm_campaign=1053&utm_source=git)** | Columbia, SC | On Site | May 22 |
+| ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a111bd169bd827926af27ca?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | May 22 |
+| ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a111bd169bd827926af27c8?utm_campaign=1053&utm_source=git)** | Albany, NY | On Site | May 22 |
+| ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a111b849f654b3359ceff7e?utm_campaign=1053&utm_source=git)** | Wichita, KS | On Site | May 22 |
+| ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a111b8083d714428982a817?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | May 22 |
+| ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a111b7f83d714428982a80d?utm_campaign=1053&utm_source=git)** | Greenbrier River, WV | On Site | May 22 |
+| **[The Broadmoor](http://www.broadmoor.com)** | **[PGM Intern/Assistant Golf Pro](https://jobright.ai/jobs/info/6a11128869bd827926af2452?utm_campaign=1053&utm_source=git)** | Colorado Springs, CO | On Site | May 22 |
 | **[Medical College of Wisconsin](http://www.mcw.edu/)** | **[Intern - Institutional Advancement](https://jobright.ai/jobs/info/6a10b8fb83d7144289828029?utm_campaign=1053&utm_source=git)** | Wauwatosa, WI, US | Hybrid | May 22 |
 | ↳ | **[Intern - Institutional Advancement](https://jobright.ai/jobs/info/6a10e99f9fdbf21f36cb166e?utm_campaign=1053&utm_source=git)** | Wauwatosa, WI | On Site | May 22 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Digital Content Intern](https://jobright.ai/jobs/info/69d85dcdf4ea471a51fe545b?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | May 22 |
@@ -108,7 +121,7 @@ For a complete list, click the following sortable link below:
 | **[University of Iowa Research](https://research.uiowa.edu)** | **[Creative Video Intern](https://jobright.ai/jobs/info/6a0ca90322d0d34036c96c5e?utm_campaign=1053&utm_source=git)** | Iowa City, Iowa, United States | On Site | May 19 |
 | ↳ | **[Athletics HawkVision Intern](https://jobright.ai/jobs/info/6a0ca8f80411d7417a1bade3?utm_campaign=1053&utm_source=git)** | Iowa City, Iowa, United States | On Site | May 19 |
 | **[Texas Tech University Health Sciences Center](https://www.ttuhsc.edu)** | **[Dept Intern - Pulse Magazine](https://jobright.ai/jobs/info/6a0c9ee6963f7a67d95d9c6a?utm_campaign=1053&utm_source=git)** | Lubbock, TX | On Site | May 19 |
-| **[DreamWorks Animation](https://www.dreamworks.com)** | **[NBCU Local Bay Area - Production Assistant Internship – Summer 2026](https://jobright.ai/jobs/info/6a0c96a3538d03366dc8ef62?utm_campaign=1053&utm_source=git)** | 360 Third Street Suite 200, San Francisco, CALIFORNIA | On Site | May 19 |
+| **[DreamWorks Animation](https://www.dreamworks.com)** | **[NBCU Local Bay Area - Production Assistant Internship – Summer 2026](https://jobright.ai/jobs/info/6a0c96a3538d03366dc8ef63?utm_campaign=1053&utm_source=git)** | 360 Third Street Suite 200, San Francisco, CALIFORNIA | On Site | May 19 |
 | **[Texas Tech University Health Sciences Center](https://www.ttuhsc.edu)** | **[Dept Intern - Pulse Magazine](https://jobright.ai/jobs/info/6a0c931e0411d7417a1ba12f?utm_campaign=1053&utm_source=git)** | Lubbock | On Site | May 19 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Internship](https://jobright.ai/jobs/info/69d5f2b0706f771673ba7f52?utm_campaign=1053&utm_source=git)** | Savannah, GA | On Site | May 19 |
 | **[Octagon](http://www.octagon.com)** | **[Intern (Global Soccer Fan Festivals) (Home Improvement Client)](https://jobright.ai/jobs/info/6a0c8b274d9320363687920c?utm_campaign=1053&utm_source=git)** | Kansas, United States | On Site | May 19 |
@@ -144,15 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Seasonal Entertainment Intern](https://jobright.ai/jobs/info/6a0b27d122d0d34036c890b5?utm_campaign=1053&utm_source=git)** | Shakopee, Minnesota, United States | On Site | May 18 |
 | **[Fox News Media](https://www.foxnews.com/)** | **[Fall 2026 FOX News Media Internship Program - FOX Noticias - New York](https://jobright.ai/jobs/info/6a0accd8a203b1052e44eee9?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | May 18 |
 | **[Fox Corporation](https://www.foxcorporation.com/)** | **[Fall 2026 FOX News Media Internship Program - FOX Noticias - New York](https://jobright.ai/jobs/info/6a0a92d13b54ed42d74e0974?utm_campaign=1053&utm_source=git)** | New York, New York, USA, US | On Site | May 17 |
-| **[Daniel Stark, LLP](https://www.danielstarklaw.com/austin)** | **[Video Editing Intern](https://jobright.ai/jobs/info/6a0b6de60411d7417a1b0ac4?utm_campaign=1053&utm_source=git)** | Killeen, TX | On Site | May 17 |
-| ↳ | **[Video Editing Intern](https://jobright.ai/jobs/info/6a0b6dd94d93203636870cdf?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | May 17 |
-| **[Bonneville International](http://bonneville.com/)** | **[KSL Sports Summer Internship](https://jobright.ai/jobs/info/6a09c6496186f4685988e3c1?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | May 17 |
-| **[IMAX](http://www.imax.com)** | **[Intern, Post-Production - DMR](https://jobright.ai/jobs/info/69ebc9cc7820c036924f7521?utm_campaign=1053&utm_source=git)** | Mississauga, Ontario, Canada | On Site | May 16 |
-| **[American Enterprise Institute](http://www.aei.org)** | **[Fall Intern: Book Operations](https://jobright.ai/jobs/info/6a08a15e3b54ed42d74d8938?utm_campaign=1053&utm_source=git)** | US-DC-Washington | On Site | May 16 |
-| **[Audacy, Inc.](https://audacyinc.com/)** | **[Programming Intern](https://jobright.ai/jobs/info/6a0851508f3e371eb617f8ad?utm_campaign=1053&utm_source=git)** | GA-Atlanta, USA | On Site | May 16 |
-| ↳ | **[Programming Intern](https://jobright.ai/jobs/info/6a08514f8f3e371eb617f8a6?utm_campaign=1053&utm_source=git)** | USA-GA-Atlanta | On Site | May 16 |
-| **[SKDK](http://skdknick.com)** | **[Production Intern, Summer 2026](https://jobright.ai/jobs/info/6a04e71f22395b6dc6da1ce1?utm_campaign=1053&utm_source=git)** | Washington, DC, US | Hybrid | May 16 |
-| ↳ | **[Production Intern, Summer 2026](https://jobright.ai/jobs/info/6a084f6e8f3e371eb617f2d4?utm_campaign=1053&utm_source=git)** | US-DC-Washington | Hybrid | May 16 |
-| **[American Enterprise Institute](http://www.aei.org)** | **[Fall Intern: Economic Innovation and Editing](https://jobright.ai/jobs/info/6a084cff939a5f01db957c98?utm_campaign=1053&utm_source=git)** | US-DC-Washington | On Site | May 16 |
-| ↳ | **[Fall Intern: Economic Innovation and Editing](https://jobright.ai/jobs/info/6a084cff939a5f01db957c97?utm_campaign=1053&utm_source=git)** | Washington, DC, US | On Site | May 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
