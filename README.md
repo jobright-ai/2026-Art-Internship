@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[dataing](https://www.dataing.io/)** | **[Markteting Intern  UGC](https://jobright.ai/jobs/info/6a130b8e12f8b43cf398e382?utm_campaign=1053&utm_source=git)** | LA Metro Area | Remote | May 24 |
 | **[Precision Medicine Group](https://www.precisionmedicinegrp.com/pfm/)** | **[Summer 2026 Internship - Medical Writing Intern](https://jobright.ai/jobs/info/69a21e81b600907a96286ac7?utm_campaign=1053&utm_source=git)** | United States | Remote | May 24 |
 | **[617MediaGroup](https://617mediagroup.com)** | **[A/V Production Internship](https://jobright.ai/jobs/info/6a12cf1e619335383fb3b64a?utm_campaign=1053&utm_source=git)** | Greater Boston | On Site | May 24 |
 | **[MATTE Projects](https://matteprojects.com/)** | **[Experiential Production Internship Summer 2026 (On-Site, New York)](https://jobright.ai/jobs/info/6a12b1c99f654b3359cf4554?utm_campaign=1053&utm_source=git)** | Matte Projects NY | On Site | May 24 |
@@ -68,8 +69,8 @@ For a complete list, click the following sortable link below:
 | **[Monterey Bay Aquarium](http://www.montereybayaquarium.org)** | **[Video Production Internship](https://jobright.ai/jobs/info/69f53c290b36ff0354751507?utm_campaign=1053&utm_source=git)** | Monterey, CA | On Site | May 23 |
 | **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a111beb9fdbf21f36cb2dd3?utm_campaign=1053&utm_source=git)** | Minneapolis, MN | On Site | May 22 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a111bea9fdbf21f36cb2dd1?utm_campaign=1053&utm_source=git)** | Newark, NJ | On Site | May 22 |
-| ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a111bdf12f8b43cf398956f?utm_campaign=1053&utm_source=git)** | St Louis, MO | On Site | May 22 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a111bdf69bd827926af27f5?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | May 22 |
+| ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a111bdf12f8b43cf398956f?utm_campaign=1053&utm_source=git)** | St Louis, MO | On Site | May 22 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a111bdb12f8b43cf3989560?utm_campaign=1053&utm_source=git)** | Evanston, IL | On Site | May 22 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a111bd912f8b43cf398955c?utm_campaign=1053&utm_source=git)** | Bloomington, IN | On Site | May 22 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a111bd712f8b43cf398955b?utm_campaign=1053&utm_source=git)** | Columbia, SC | On Site | May 22 |
@@ -99,8 +100,8 @@ For a complete list, click the following sortable link below:
 | **[Amaley](www.tryamaley.com)** | **[Documentary Filmmaker](https://jobright.ai/jobs/info/6a0f099372b52f7225f3a99f?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | May 21 |
 | **[WMUR-TV](http://www.wmur.com/)** | **[Creative Services Intern](https://jobright.ai/jobs/info/69ba8f1506c1ba00c54ca4eb?utm_campaign=1053&utm_source=git)** | Manchester, NH | On Site | May 21 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Paid Intern (Photojournalist/Multi-Media Journalist/Producer)](https://jobright.ai/jobs/info/69f179ef8feca91f149202ba?utm_campaign=1053&utm_source=git)** | Wichita, KS | On Site | May 21 |
-| **[The Dispatch](https://thedispatch.com/)** | **[Summer 2026 Multimedia Internship](https://jobright.ai/jobs/info/6a0ea29780bf0430c762df52?utm_campaign=1053&utm_source=git)** | United States | Remote | May 20 |
-| ↳ | **[Summer 2026 Multimedia Internship](https://jobright.ai/jobs/info/6a0ea29780bf0430c762df51?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | May 20 |
+| **[The Dispatch](https://thedispatch.com/)** | **[Summer 2026 Multimedia Internship](https://jobright.ai/jobs/info/6a0ea29780bf0430c762df51?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | May 20 |
+| ↳ | **[Summer 2026 Multimedia Internship](https://jobright.ai/jobs/info/6a0ea29780bf0430c762df52?utm_campaign=1053&utm_source=git)** | United States | Remote | May 20 |
 | **[Tepper Sports & Entertainment](https://teppersportsentertainment.com)** | **[Intern - Entertainment Mascot Programs- Panthers](https://jobright.ai/jobs/info/6a0e24f609ecfd704b3e6729?utm_campaign=1053&utm_source=git)** | 800 S Mint St, Charlotte, NC 28202, USA | On Site | May 20 |
 | **[NBCUniversal](https://www.nbcuniversal.com/)** | **[NBCU Local Bay Area - Video Editor Internship - Academic Year (2026-2027)](https://jobright.ai/jobs/info/6a0fba6772b52f7225f400a7?utm_campaign=1053&utm_source=git)** | San Francisco, CA | On Site | May 20 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Internship](https://jobright.ai/jobs/info/69d5ce85706f771673ba6dbc?utm_campaign=1053&utm_source=git)** | Savannah, GA | On Site | May 20 |
@@ -131,7 +132,7 @@ For a complete list, click the following sortable link below:
 | **[University of Iowa Research](https://research.uiowa.edu)** | **[Creative Video Intern](https://jobright.ai/jobs/info/6a0ca90322d0d34036c96c5e?utm_campaign=1053&utm_source=git)** | Iowa City, Iowa, United States | On Site | May 19 |
 | ↳ | **[Athletics HawkVision Intern](https://jobright.ai/jobs/info/6a0ca8f80411d7417a1bade3?utm_campaign=1053&utm_source=git)** | Iowa City, Iowa, United States | On Site | May 19 |
 | **[Texas Tech University Health Sciences Center](https://www.ttuhsc.edu)** | **[Dept Intern - Pulse Magazine](https://jobright.ai/jobs/info/6a0c9ee6963f7a67d95d9c6a?utm_campaign=1053&utm_source=git)** | Lubbock, TX | On Site | May 19 |
-| **[DreamWorks Animation](https://www.dreamworks.com)** | **[NBCU Local Bay Area - Production Assistant Internship – Summer 2026](https://jobright.ai/jobs/info/6a0c96a3538d03366dc8ef62?utm_campaign=1053&utm_source=git)** | 360 Third Street Suite 200, San Francisco, CALIFORNIA | On Site | May 19 |
+| **[DreamWorks Animation](https://www.dreamworks.com)** | **[NBCU Local Bay Area - Production Assistant Internship – Summer 2026](https://jobright.ai/jobs/info/6a0c96a3538d03366dc8ef63?utm_campaign=1053&utm_source=git)** | 360 Third Street Suite 200, San Francisco, CALIFORNIA | On Site | May 19 |
 | **[Texas Tech University Health Sciences Center](https://www.ttuhsc.edu)** | **[Dept Intern - Pulse Magazine](https://jobright.ai/jobs/info/6a0c931e0411d7417a1ba12f?utm_campaign=1053&utm_source=git)** | Lubbock | On Site | May 19 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Internship](https://jobright.ai/jobs/info/69d5f2b0706f771673ba7f52?utm_campaign=1053&utm_source=git)** | Savannah, GA | On Site | May 19 |
 | **[Octagon](http://www.octagon.com)** | **[Intern (Global Soccer Fan Festivals) (Home Improvement Client)](https://jobright.ai/jobs/info/6a0c8b274d9320363687920c?utm_campaign=1053&utm_source=git)** | Kansas, United States | On Site | May 19 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Octagon](http://www.octagon.com)** | **[Intern (Global Soccer Fan Festivals) (Home Improvement Client)](https://jobright.ai/jobs/info/6a0badcb4d932036368735be?utm_campaign=1053&utm_source=git)** | Kansas City, MO | On Site | May 18 |
 | **[Worcester Railers HC](https://www.railershc.com)** | **[Community & Fan Engagement Intern Fall 2026](https://jobright.ai/jobs/info/6a0b73f60411d7417a1b1003?utm_campaign=1053&utm_source=git)** | Worcester, MA | On Site | May 18 |
 | **[Dartmouth College](http://dartmouth.edu)** | **[Studio Art Intern.](https://jobright.ai/jobs/info/6a0b71c04d93203636870ea7?utm_campaign=1053&utm_source=git)** | Hanover, NH | On Site | May 18 |
-| **[Kahf](https://islamicpsychologists.com/)** | **[Content Creator for Ummah](https://jobright.ai/jobs/info/6a0d44ef22d0d34036c9cbf0?utm_campaign=1053&utm_source=git)** | United States | Remote | May 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
