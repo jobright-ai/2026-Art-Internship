@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Revilo Technologies](www.reviloautocare.com)** | **[Remote Video Editing Intern for  U.S.-Based Aftermarket Automotive AI Startup](https://jobright.ai/jobs/info/6a16104f1935fa61b3c6e570?utm_campaign=1053&utm_source=git)** | United States | Remote | May 26 |
 | **[Dallas Mavericks](http://www.mavs.com)** | **[Game Entertainment Intern](https://jobright.ai/jobs/info/6a160b801935fa61b3c6e283?utm_campaign=1053&utm_source=git)** | Dallas, TX | On Site | May 26 |
 | ↳ | **[Game Presentation Video Intern](https://jobright.ai/jobs/info/6a160b6e554b0e12c0588b52?utm_campaign=1053&utm_source=git)** | Dallas, TX | On Site | May 26 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[KGO-TV (ABC7) Community Engagement Intern, Fall 2026](https://jobright.ai/jobs/info/6a15d70da429fd279da92921?utm_campaign=1053&utm_source=git)** | San Francisco, CA, USA, US | On Site | May 26 |
@@ -109,7 +110,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern, Alternative Content](https://jobright.ai/jobs/info/6a0fb6e012f8b43cf39813f0?utm_campaign=1053&utm_source=git)** | Los Angeles, California, United States of America | On Site | May 21 |
 | **[IMAX](http://www.imax.com)** | **[Intern, Alternative Content](https://jobright.ai/jobs/info/6a0f929c83d714428982189b?utm_campaign=1053&utm_source=git)** | Playa Vista, California, US | On Site | May 21 |
 | **[Formula KFX](https://formulakfx.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/6a0f874f619335383fb2d99e?utm_campaign=1053&utm_source=git)** | Marina, CA | Hybrid | May 21 |
-| **[Prophet](http://www.prophet.com)** | **[2026 Austin Internship](https://jobright.ai/jobs/info/6a0f65f09f654b3359ce5466?utm_campaign=1053&utm_source=git)** | Austin | On Site | May 21 |
 | **[U.S. News & World Report](http://www.usnews.com)** | **[2026 Fall Editorial Intern (NY & DC)](https://jobright.ai/jobs/info/69d687c4706f771673bab2cb?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | May 21 |
 | ↳ | **[2026 Fall News Intern (DC & NY)](https://jobright.ai/jobs/info/69d6899ee63cea7a8b669623?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | May 21 |
 | **[National Association of State Procurement Officials](https://www.naspo.org/)** | **[Video Editor Intern](https://jobright.ai/jobs/info/69f2ca84825a315d7ca3fa32?utm_campaign=1053&utm_source=git)** | Lexington, KY | Hybrid | May 21 |
