@@ -86,8 +86,8 @@ For a complete list, click the following sortable link below:
 | **[Monterey Bay Aquarium](http://www.montereybayaquarium.org)** | **[Video Production Internship](https://jobright.ai/jobs/info/69f53c290b36ff0354751507?utm_campaign=1053&utm_source=git)** | Monterey, CA | On Site | May 23 |
 | **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a111beb9fdbf21f36cb2dd3?utm_campaign=1053&utm_source=git)** | Minneapolis, MN | On Site | May 22 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a111bea9fdbf21f36cb2dd1?utm_campaign=1053&utm_source=git)** | Newark, NJ | On Site | May 22 |
-| ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a111bdf12f8b43cf398956f?utm_campaign=1053&utm_source=git)** | St Louis, MO | On Site | May 22 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a111bdf69bd827926af27f5?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | May 22 |
+| ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a111bdf12f8b43cf398956f?utm_campaign=1053&utm_source=git)** | St Louis, MO | On Site | May 22 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a111bdb12f8b43cf3989560?utm_campaign=1053&utm_source=git)** | Evanston, IL | On Site | May 22 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a111bd912f8b43cf398955c?utm_campaign=1053&utm_source=git)** | Bloomington, IN | On Site | May 22 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a111bd712f8b43cf398955b?utm_campaign=1053&utm_source=git)** | Columbia, SC | On Site | May 22 |
@@ -102,8 +102,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern - Institutional Advancement](https://jobright.ai/jobs/info/6a10e99f9fdbf21f36cb166e?utm_campaign=1053&utm_source=git)** | Wauwatosa, WI | On Site | May 22 |
 | **[U.S. News & World Report](http://www.usnews.com)** | **[2026 News Summer Intern](https://jobright.ai/jobs/info/69d82b55869c7e25d859436a?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | May 22 |
 | **[PC Construction Company](https://pcconstruction.com)** | **[Craft Intern](https://jobright.ai/jobs/info/69bb24265697383741412272?utm_campaign=1053&utm_source=git)** | South Burlington, VT | On Site | May 22 |
-| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Digital Content Intern](https://jobright.ai/jobs/info/69d85dcdf4ea471a51fe545b?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | May 22 |
-| ↳ | **[Digital Content Intern, Unpaid](https://jobright.ai/jobs/info/69bb08ca569738374140e490?utm_campaign=1053&utm_source=git)** | Shreveport, LA | On Site | May 22 |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Digital Content Intern, Unpaid](https://jobright.ai/jobs/info/69bb08ca569738374140e490?utm_campaign=1053&utm_source=git)** | Shreveport, LA | On Site | May 22 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Digital Content Intern - Parks, Recreation & Natural Resources](https://jobright.ai/jobs/info/6a0fe17383d71442898232e6?utm_campaign=1053&utm_source=git)** | Land O' Lakes, FL | On Site | May 21 |
 | **[IMAX Enhanced | Streaming & Consumer Technology](http://ssimwave.com)** | **[Intern, Alternative Content](https://jobright.ai/jobs/info/6a0fb6e512f8b43cf39813f3?utm_campaign=1053&utm_source=git)** | Los Angeles, California, United States | On Site | May 21 |
 | ↳ | **[Intern, Alternative Content](https://jobright.ai/jobs/info/6a0fb6e012f8b43cf39813f0?utm_campaign=1053&utm_source=git)** | Los Angeles, California, United States of America | On Site | May 21 |
@@ -141,5 +140,4 @@ For a complete list, click the following sortable link below:
 | **[The Lovett School](https://www.lovett.org/)** | **[Video Production Intern](https://jobright.ai/jobs/info/6a0dca53c152ac782447fdb9?utm_campaign=1053&utm_source=git)** | Atlanta, Georgia, United States | On Site | May 20 |
 | **[O'Keefe Media Group](https://okeefemediagroup.com)** | **[O'Keefe Media Internship](https://jobright.ai/jobs/info/6a0dc84ac152ac782447fcc9?utm_campaign=1053&utm_source=git)** | West Palm Beach, FL | On Site | May 20 |
 | **[Cheetah Mobile](http://ir.cmcm.com)** | **[Intern, Content Production](https://jobright.ai/jobs/info/6a0d875f47fea1610bca1834?utm_campaign=1053&utm_source=git)** | Los Angeles, United States | On Site | May 20 |
-| **[University of Iowa](https://uicb.uiowa.edu)** | **[Creative Video Intern](https://jobright.ai/jobs/info/6a0d236122d0d34036c9bf00?utm_campaign=1053&utm_source=git)** | Iowa City, IA | On Site | May 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
