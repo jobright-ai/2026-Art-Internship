@@ -57,7 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Canyon Entertainment Group](https://canyonentertainmentgroup.com)** | **[Video Editing, Post-Production Intern](https://jobright.ai/jobs/info/6a14b3d2c48b503aeffbfabf?utm_campaign=1053&utm_source=git)** | Canada | Remote | May 25 |
 | **[Slate Magazine](http://www.slate.com)** | **[Audience Engagement Intern](https://jobright.ai/jobs/info/6a13798412f8b43cf398f1be?utm_campaign=1053&utm_source=git)** | Brooklyn, New York | On Site | May 24 |
 | ↳ | **[Audience Engagement Intern](https://jobright.ai/jobs/info/6a13798312f8b43cf398f1bd?utm_campaign=1053&utm_source=git)** | Washington, District of Columbia | On Site | May 24 |
 | **[University of La Verne](http://laverne.edu)** | **[Library Collections Assistant - FWS (2026/2027)](https://jobright.ai/jobs/info/6a13a3c269bd827926af8979?utm_campaign=1053&utm_source=git)** | La Verne, CA | On Site | May 24 |
@@ -68,7 +67,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Experiential Production Internship Summer 2026 (On-Site, New York)](https://jobright.ai/jobs/info/6a12b1c89f654b3359cf4553?utm_campaign=1053&utm_source=git)** | New York, New York | On Site | May 24 |
 | **[MSP Communications](https://mspcommunications.com/)** | **[Editorial Intern, MSP](https://jobright.ai/jobs/info/6a129e02619335383fb3af3d?utm_campaign=1053&utm_source=git)** | MSP Communications - St Paul, MN 55114 | Hybrid | May 23 |
 | **[Editorialist](http://editorialist.com)** | **[Editorial Intern](https://jobright.ai/jobs/info/6a12416b12f8b43cf398c411?utm_campaign=1053&utm_source=git)** | New York City | On Site | May 23 |
-| **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Research Intern - Freeman Chair in China Studies](https://jobright.ai/jobs/info/6a13ca9358ee291d8052d585?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | May 23 |
 | **[KCRA 3 & My58 Television](http://www.kcra.com)** | **[Intern](https://jobright.ai/jobs/info/69a0c5340836fe79d861c5c9?utm_campaign=1053&utm_source=git)** | Sacramento, CA | On Site | May 23 |
 | **[National Education Association](http://www.nea.org)** | **[NEA Media Intern - Center for Communications](https://jobright.ai/jobs/info/69f57c8e43a25828a8d18f77?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | May 23 |
 | **[TikTok](https://www.tiktok.com)** | **[TikTok Short Drama Project Intern (TikTok-Short-Drama) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69684e2af25a38006696b2a4?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | May 23 |
@@ -147,7 +145,4 @@ For a complete list, click the following sortable link below:
 | **[Seattle Art Museum](http://seattleartmuseum.org)** | **[Betty Bowen Award Administration Internship](https://jobright.ai/jobs/info/6a0c6dac4d932036368780e9?utm_campaign=1053&utm_source=git)** | Seattle, WA | On Site | May 19 |
 | **[Double Wood Supplements](https://doublewoodsupplements.com/)** | **[TikTok Shop Intern - Supplements](https://jobright.ai/jobs/info/6a0c6b1e22d0d34036c940ee?utm_campaign=1053&utm_source=git)** | New York, United States | Hybrid | May 19 |
 | **[Skild AI](https://www.skild.ai/)** | **[Cinematography Intern (Product Videography & Social Media)](https://jobright.ai/jobs/info/68d48fabffc1276de3fdbe8a?utm_campaign=1053&utm_source=git)** | San Mateo, CA | On Site | May 19 |
-| **[Impact Networking, LLC](https://www.impactmybiz.com)** | **[Post-Production Intern](https://jobright.ai/jobs/info/6a0c09f0a235d749afa89e8e?utm_campaign=1053&utm_source=git)** | Vernon Hills, IL | On Site | May 18 |
-| **[American Enterprise Institute](http://www.aei.org)** | **[Fall Intern: Events](https://jobright.ai/jobs/info/6a084d068f3e371eb617ec79?utm_campaign=1053&utm_source=git)** | Washington, DC, US | On Site | May 18 |
-| ↳ | **[Fall Intern: Events](https://jobright.ai/jobs/info/6a0c097022d0d34036c911c1?utm_campaign=1053&utm_source=git)** | US-DC-Washington | On Site | May 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
