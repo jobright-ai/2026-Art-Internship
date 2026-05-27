@@ -137,5 +137,4 @@ For a complete list, click the following sortable link below:
 | **[NBCUniversal](https://www.nbcuniversal.com/)** | **[NBCU Local Bay Area - Digital Internship - Academic Year 2026-2027](https://jobright.ai/jobs/info/6a0e000b80bf0430c7628518?utm_campaign=1053&utm_source=git)** | San Francisco, CA | On Site | May 20 |
 | **[Dayforce](https://www.dayforce.com)** | **[Digital Content Creator Intern 4 months – Fall 2026](https://jobright.ai/jobs/info/6a0dff7780bf0430c7628476?utm_campaign=1053&utm_source=git)** | Canada | Remote | May 20 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Internship](https://jobright.ai/jobs/info/69d3c276891d7b11cfcf30e7?utm_campaign=1053&utm_source=git)** | Savannah, GA | On Site | May 20 |
-| **[Subbio Plastic Surgery & Medical Spa](https://www.drsubbio.com/)** | **[Events & Special Projects Intern](https://jobright.ai/jobs/info/6a0de98780bf0430c7627783?utm_campaign=1053&utm_source=git)** | Newtown Square, PA | On Site | May 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
