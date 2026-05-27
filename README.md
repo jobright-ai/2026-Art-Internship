@@ -100,8 +100,8 @@ For a complete list, click the following sortable link below:
 | **[Monterey Bay Aquarium](http://www.montereybayaquarium.org)** | **[Video Production Internship](https://jobright.ai/jobs/info/69f53c290b36ff0354751507?utm_campaign=1053&utm_source=git)** | Monterey, CA | On Site | May 23 |
 | **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a111beb9fdbf21f36cb2dd3?utm_campaign=1053&utm_source=git)** | Minneapolis, MN | On Site | May 22 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a111bea9fdbf21f36cb2dd1?utm_campaign=1053&utm_source=git)** | Newark, NJ | On Site | May 22 |
-| ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a111bdf12f8b43cf398956f?utm_campaign=1053&utm_source=git)** | St Louis, MO | On Site | May 22 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a111bdf69bd827926af27f5?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | May 22 |
+| ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a111bdf12f8b43cf398956f?utm_campaign=1053&utm_source=git)** | St Louis, MO | On Site | May 22 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a111bdb12f8b43cf3989560?utm_campaign=1053&utm_source=git)** | Evanston, IL | On Site | May 22 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a111bd912f8b43cf398955c?utm_campaign=1053&utm_source=git)** | Bloomington, IN | On Site | May 22 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a111bd712f8b43cf398955b?utm_campaign=1053&utm_source=git)** | Columbia, SC | On Site | May 22 |
@@ -129,7 +129,6 @@ For a complete list, click the following sortable link below:
 | **[Amaley](www.tryamaley.com)** | **[Documentary Filmmaker](https://jobright.ai/jobs/info/6a0f099372b52f7225f3a99f?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | May 21 |
 | **[WMUR-TV](http://www.wmur.com/)** | **[Creative Services Intern](https://jobright.ai/jobs/info/69ba8f1506c1ba00c54ca4eb?utm_campaign=1053&utm_source=git)** | Manchester, NH | On Site | May 21 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Paid Intern (Photojournalist/Multi-Media Journalist/Producer)](https://jobright.ai/jobs/info/69f179ef8feca91f149202ba?utm_campaign=1053&utm_source=git)** | Wichita, KS | On Site | May 21 |
-| **[The Dispatch](https://thedispatch.com/)** | **[Summer 2026 Multimedia Internship](https://jobright.ai/jobs/info/6a0ea29780bf0430c762df51?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | May 20 |
-| ↳ | **[Summer 2026 Multimedia Internship](https://jobright.ai/jobs/info/6a0ea29780bf0430c762df52?utm_campaign=1053&utm_source=git)** | United States | Remote | May 20 |
-| **[Tepper Sports & Entertainment](https://teppersportsentertainment.com)** | **[Intern - Entertainment Mascot Programs- Panthers](https://jobright.ai/jobs/info/6a0e24f609ecfd704b3e6729?utm_campaign=1053&utm_source=git)** | 800 S Mint St, Charlotte, NC 28202, USA | On Site | May 20 |
+| **[The Dispatch](https://thedispatch.com/)** | **[Summer 2026 Multimedia Internship](https://jobright.ai/jobs/info/6a0ea29780bf0430c762df52?utm_campaign=1053&utm_source=git)** | United States | Remote | May 20 |
+| ↳ | **[Summer 2026 Multimedia Internship](https://jobright.ai/jobs/info/6a0ea29780bf0430c762df51?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | May 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
