@@ -58,7 +58,6 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Russ & Daughters](http://www.russanddaughters.com)** | **[INTERNSHIP](https://jobright.ai/jobs/info/6a167766202ae849ed8d3874?utm_campaign=1053&utm_source=git)** | Store (New York, NY) | On Site | May 26 |
-| **[Minor Football League](http://www.mflishere.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/6a167026a429fd279da98811?utm_campaign=1053&utm_source=git)** | United States | Remote | May 26 |
 | **[Revilo Technologies](www.reviloautocare.com)** | **[Remote Video Editing Intern for  U.S.-Based Aftermarket Automotive AI Startup](https://jobright.ai/jobs/info/6a16104f1935fa61b3c6e570?utm_campaign=1053&utm_source=git)** | United States | Remote | May 26 |
 | **[Dallas Mavericks](http://www.mavs.com)** | **[Game Entertainment Intern](https://jobright.ai/jobs/info/6a160b801935fa61b3c6e283?utm_campaign=1053&utm_source=git)** | Dallas, TX | On Site | May 26 |
 | ↳ | **[Game Presentation Video Intern](https://jobright.ai/jobs/info/6a160b6e554b0e12c0588b52?utm_campaign=1053&utm_source=git)** | Dallas, TX | On Site | May 26 |
@@ -90,13 +89,13 @@ For a complete list, click the following sortable link below:
 | **[Monterey Bay Aquarium](http://www.montereybayaquarium.org)** | **[Video Production Internship](https://jobright.ai/jobs/info/69f53c290b36ff0354751507?utm_campaign=1053&utm_source=git)** | Monterey, CA | On Site | May 23 |
 | **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a111beb9fdbf21f36cb2dd3?utm_campaign=1053&utm_source=git)** | Minneapolis, MN | On Site | May 22 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a111bea9fdbf21f36cb2dd1?utm_campaign=1053&utm_source=git)** | Newark, NJ | On Site | May 22 |
-| ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a111bdf12f8b43cf398956f?utm_campaign=1053&utm_source=git)** | St Louis, MO | On Site | May 22 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a111bdf69bd827926af27f5?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | May 22 |
+| ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a111bdf12f8b43cf398956f?utm_campaign=1053&utm_source=git)** | St Louis, MO | On Site | May 22 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a111bdb12f8b43cf3989560?utm_campaign=1053&utm_source=git)** | Evanston, IL | On Site | May 22 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a111bd912f8b43cf398955c?utm_campaign=1053&utm_source=git)** | Bloomington, IN | On Site | May 22 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a111bd712f8b43cf398955b?utm_campaign=1053&utm_source=git)** | Columbia, SC | On Site | May 22 |
-| ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a111bd169bd827926af27c8?utm_campaign=1053&utm_source=git)** | Albany, NY | On Site | May 22 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a111bd169bd827926af27ca?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | May 22 |
+| ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a111bd169bd827926af27c8?utm_campaign=1053&utm_source=git)** | Albany, NY | On Site | May 22 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a111b849f654b3359ceff7e?utm_campaign=1053&utm_source=git)** | Wichita, KS | On Site | May 22 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a111b8083d714428982a817?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | May 22 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a111b7f83d714428982a80d?utm_campaign=1053&utm_source=git)** | Greenbrier River, WV | On Site | May 22 |
@@ -130,5 +129,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern - Social Video](https://jobright.ai/jobs/info/6a0e250009ecfd704b3e672b?utm_campaign=1053&utm_source=git)** | 800 S Mint St, Charlotte, NC 28202, USA | On Site | May 20 |
 | ↳ | **[Intern - Entertainment - Panthers](https://jobright.ai/jobs/info/6a0e24f983d71442898164af?utm_campaign=1053&utm_source=git)** | 800 S Mint St, Charlotte, NC 28202, USA | On Site | May 20 |
 | ↳ | **[Intern - PantherVision](https://jobright.ai/jobs/info/6a0e24f680bf0430c7629f23?utm_campaign=1053&utm_source=git)** | 800 S Mint St, Charlotte, NC 28202, USA | On Site | May 20 |
-| **[Hlavinka Equipment Company](https://www.hlavinka.com/)** | **[Content Creator Summer Internship](https://jobright.ai/jobs/info/6a0e1b8f80bf0430c7629852?utm_campaign=1053&utm_source=git)** | East Bernard, TX | On Site | May 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
