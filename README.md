@@ -57,11 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Texas Tech University Health Sciences Center](https://www.ttuhsc.edu)** | **[Dept Intern - Pulse Magazine](https://jobright.ai/jobs/info/6a0c9ee6963f7a67d95d9c6a?utm_campaign=1053&utm_source=git)** | Lubbock, TX | On Site | May 28 |
 | **[Impact Networking, LLC](https://www.impactmybiz.com)** | **[Post-Production Intern](https://jobright.ai/jobs/info/6a0c09f0a235d749afa89e8e?utm_campaign=1053&utm_source=git)** | Vernon Hills, IL | On Site | May 28 |
 | **[American Enterprise Institute](http://www.aei.org)** | **[Fall Intern: Economic Innovation and Editing](https://jobright.ai/jobs/info/6a18744c6243320e8d164949?utm_campaign=1053&utm_source=git)** | US-DC-Washington | On Site | May 28 |
 | ↳ | **[Fall Intern: Economic Innovation and Editing](https://jobright.ai/jobs/info/6a18744c6243320e8d16494a?utm_campaign=1053&utm_source=git)** | Washington, DC, US | On Site | May 28 |
-| ↳ | **[Fall Intern: Events](https://jobright.ai/jobs/info/6a187445c2a87d6cd3df14dc?utm_campaign=1053&utm_source=git)** | US-DC-Washington | On Site | May 28 |
 | ↳ | **[Fall Intern: Events](https://jobright.ai/jobs/info/6a187445c2a87d6cd3df14db?utm_campaign=1053&utm_source=git)** | Washington, DC, US | On Site | May 28 |
+| ↳ | **[Fall Intern: Events](https://jobright.ai/jobs/info/6a187445c2a87d6cd3df14dc?utm_campaign=1053&utm_source=git)** | US-DC-Washington | On Site | May 28 |
 | **[Barbarian](https://wearebarbarian.com/)** | **[The Horde 2026 - Summer Internship](https://jobright.ai/jobs/info/6a185006abc8f63abac76a78?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | May 28 |
 | **[Red Bull New York](http://www.newyorkredbulls.com)** | **[2026 Internship, Summer - Creative Video](https://jobright.ai/jobs/info/69c4bc206f4f855eeda763a8?utm_campaign=1053&utm_source=git)** | Harrison, NJ | On Site | May 28 |
 | **[Golden Hippo®](https://www.huntrealestate.com/)** | **[YouTube Video Editor Intern - Summer 2026](https://jobright.ai/jobs/info/6a183104dbc80963f9340da3?utm_campaign=1053&utm_source=git)** | Golden Hippo | Remote | May 28 |
