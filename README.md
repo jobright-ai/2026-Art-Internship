@@ -57,10 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Barbarian](https://wearebarbarian.com/)** | **[The Horde 2026 - Summer Internship](https://jobright.ai/jobs/info/6a185006abc8f63abac76a78?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | May 28 |
+| **[Red Bull New York](http://www.newyorkredbulls.com)** | **[2026 Internship, Summer - Creative Video](https://jobright.ai/jobs/info/69c4bc206f4f855eeda763a8?utm_campaign=1053&utm_source=git)** | Harrison, NJ | On Site | May 28 |
 | **[Golden Hippo®](https://www.huntrealestate.com/)** | **[YouTube Video Editor Intern - Summer 2026](https://jobright.ai/jobs/info/6a183104dbc80963f9340da3?utm_campaign=1053&utm_source=git)** | Golden Hippo | Remote | May 28 |
 | **[MATTE Projects](https://matteprojects.com/)** | **[Experiential Production Internship Summer 2026 (On-Site, New York)](https://jobright.ai/jobs/info/69fbef702f9f6b7cf690fbf3?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | May 28 |
-| **[American Enterprise Institute](http://www.aei.org)** | **[Fall Intern: Economic Innovation and Editing](https://jobright.ai/jobs/info/6a17cb9481fe455c705abe09?utm_campaign=1053&utm_source=git)** | US-DC-Washington | On Site | May 27 |
-| ↳ | **[Fall Intern: Economic Innovation and Editing](https://jobright.ai/jobs/info/6a17cb9481fe455c705abe06?utm_campaign=1053&utm_source=git)** | Washington, DC, US | On Site | May 27 |
 | **[Complex NTWRK](https://www.complex.com)** | **[Editorial Creator Intern - College Credit](https://jobright.ai/jobs/info/6a17a5165b0a497d5210e155?utm_campaign=1053&utm_source=git)** | New York | On Site | May 27 |
 | **[Respect My Region](https://www.respectmyregion.com)** | **[Cannabis Journalist Internship](https://jobright.ai/jobs/info/6a1791a31430333075cd274c?utm_campaign=1053&utm_source=git)** | New York, United States | Remote | May 27 |
 | **[A.P. Moller - Maersk](https://www.maersk.com/)** | **[Video Production Assistant Editor Intern](https://jobright.ai/jobs/info/6a176d02b091c7417c4fe879?utm_campaign=1053&utm_source=git)** | USA, Utah, Salt Lake City, 84116, US | On Site | May 27 |
