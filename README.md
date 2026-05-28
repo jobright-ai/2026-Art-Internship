@@ -57,8 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[American Enterprise Institute](http://www.aei.org)** | **[Fall Intern: Economic Innovation and Editing](https://jobright.ai/jobs/info/6a17cb9481fe455c705abe09?utm_campaign=1053&utm_source=git)** | US-DC-Washington | On Site | May 27 |
-| ↳ | **[Fall Intern: Economic Innovation and Editing](https://jobright.ai/jobs/info/6a17cb9481fe455c705abe06?utm_campaign=1053&utm_source=git)** | Washington, DC, US | On Site | May 27 |
+| **[American Enterprise Institute](http://www.aei.org)** | **[Fall Intern: Economic Innovation and Editing](https://jobright.ai/jobs/info/6a17cb9481fe455c705abe06?utm_campaign=1053&utm_source=git)** | Washington, DC, US | On Site | May 27 |
+| ↳ | **[Fall Intern: Economic Innovation and Editing](https://jobright.ai/jobs/info/6a17cb9481fe455c705abe09?utm_campaign=1053&utm_source=git)** | US-DC-Washington | On Site | May 27 |
 | **[Complex NTWRK](https://www.complex.com)** | **[Editorial Creator Intern - College Credit](https://jobright.ai/jobs/info/6a17a5165b0a497d5210e155?utm_campaign=1053&utm_source=git)** | New York | On Site | May 27 |
 | **[Respect My Region](https://www.respectmyregion.com)** | **[Cannabis Journalist Internship](https://jobright.ai/jobs/info/6a1791a31430333075cd274c?utm_campaign=1053&utm_source=git)** | New York, United States | Remote | May 27 |
 | **[A.P. Moller - Maersk](https://www.maersk.com/)** | **[Video Production Assistant Editor Intern](https://jobright.ai/jobs/info/6a176d02b091c7417c4fe879?utm_campaign=1053&utm_source=git)** | USA, Utah, Salt Lake City, 84116, US | On Site | May 27 |
@@ -131,6 +131,4 @@ For a complete list, click the following sortable link below:
 | **[IMAX](http://www.imax.com)** | **[Intern, Alternative Content](https://jobright.ai/jobs/info/6a0f929c83d714428982189b?utm_campaign=1053&utm_source=git)** | Playa Vista, California, US | On Site | May 21 |
 | **[Formula KFX](https://formulakfx.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/6a0f874f619335383fb2d99e?utm_campaign=1053&utm_source=git)** | Marina, CA | Hybrid | May 21 |
 | **[U.S. News & World Report](http://www.usnews.com)** | **[2026 Fall Editorial Intern (NY & DC)](https://jobright.ai/jobs/info/69d687c4706f771673bab2cb?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | May 21 |
-| ↳ | **[2026 Fall News Intern (DC & NY)](https://jobright.ai/jobs/info/69d6899ee63cea7a8b669623?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | May 21 |
-| **[National Association of State Procurement Officials](https://www.naspo.org/)** | **[Video Editor Intern](https://jobright.ai/jobs/info/69f2ca84825a315d7ca3fa32?utm_campaign=1053&utm_source=git)** | Lexington, KY | Hybrid | May 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
