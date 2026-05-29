@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Metropolitan Opera](http://metopera.org/)** | **[Laffont Competition Intern](https://jobright.ai/jobs/info/6a19a0a0e24ef3652582600e?utm_campaign=1053&utm_source=git)** | Lincoln Center - New York, NY | On Site | May 29 |
 | **[Complex NTWRK](https://www.complex.com)** | **[Content and Creative Operations Intern - College Credit](https://jobright.ai/jobs/info/6a1983c89111f771d1a06304?utm_campaign=1053&utm_source=git)** | New York | On Site | May 29 |
 | **[Advisors Excel](http://advisorsexcel.com)** | **[Video Intern](https://jobright.ai/jobs/info/6a0785ba939a5f01db950f9a?utm_campaign=1053&utm_source=git)** | 2950 SW McClure Rd, Topeka, KS | On Site | May 29 |
 | **[East Side Union High School District](https://adulteducation.esuhsd.org)** | **[CUSD Student Internship - Film/Media Project **IN-DISTRICT Ceres Unified High School Students ONLY**](https://jobright.ai/jobs/info/6a1940b5c2a87d6cd3df821a?utm_campaign=1053&utm_source=git)** | 2503 Lawrence Street, CERES, California, 95307-0307, US | On Site | May 29 |
