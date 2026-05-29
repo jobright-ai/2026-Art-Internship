@@ -57,10 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a18f194dbc80963f93489c4?utm_campaign=1053&utm_source=git)** | Wichita, KS | On Site | May 28 |
+| ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a18f16aabc8f63abac7d5fd?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | May 28 |
 | **[Memphis Grizzlies](http://grizzlies.com)** | **[Social & Digital Content Coordinating Production Intern](https://jobright.ai/jobs/info/6a18e0ffabc8f63abac7d025?utm_campaign=1053&utm_source=git)** | Memphis, TN | On Site | May 28 |
 | **[Invite Only Studios](http://www.inviteonly.studio)** | **[Videography Intern](https://jobright.ai/jobs/info/6a18db7917492d3a389ba56b?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | May 28 |
 | **[County of Riverside](https://rivco.org)** | **[Behavioral Health Friday Night Lights (Indio) - Paid Internship](https://jobright.ai/jobs/info/6a18d87a17492d3a389ba0ef?utm_campaign=1053&utm_source=git)** | Riverside County, CA | On Site | May 28 |
 | **[Memphis Grizzlies](http://grizzlies.com)** | **[Social & Digital Content Coordinating Production Intern](https://jobright.ai/jobs/info/6a18cc99c2a87d6cd3df4de0?utm_campaign=1053&utm_source=git)** | Memphis, TN, US | On Site | May 28 |
+| **[Nolan Wells Studios](https://www.nolan-wells.com/)** | **[Digital Media Intern - Content Creation](https://jobright.ai/jobs/info/6a18e96edbc80963f9348716?utm_campaign=1053&utm_source=git)** | Springfield, Massachusetts Metropolitan Area | Hybrid | May 28 |
 | **[Oriana House, Inc.](https://www.orianahouse.org/)** | **[Digital Media Production Intern](https://jobright.ai/jobs/info/6a18aec9dbc80963f9346946?utm_campaign=1053&utm_source=git)** | Akron, Ohio, United States | On Site | May 28 |
 | **[The Recap Group Inc.](https://therecap.group)** | **[Video Editor Internship / In-Person / Stipend Provided](https://jobright.ai/jobs/info/6a18aebec2a87d6cd3df3d5b?utm_campaign=1053&utm_source=git)** | Brooklyn Heights, New York, United States | On Site | May 28 |
 | **[Miami SCORES, Powered by Concacaf](www.miamiscores.org)** | **[Miami SCORES 2026 World Cup Storytelling & Videography Intern,  Summer 2026](https://jobright.ai/jobs/info/6a18ac4654a441713ae871cd?utm_campaign=1053&utm_source=git)** | Miami, FL | On Site | May 28 |
@@ -71,8 +74,8 @@ For a complete list, click the following sortable link below:
 | **[Impact Networking, LLC](https://www.impactmybiz.com)** | **[Post-Production Intern](https://jobright.ai/jobs/info/6a0c09f0a235d749afa89e8e?utm_campaign=1053&utm_source=git)** | Vernon Hills, IL | On Site | May 28 |
 | **[American Enterprise Institute](http://www.aei.org)** | **[Fall Intern: Economic Innovation and Editing](https://jobright.ai/jobs/info/6a18744c6243320e8d164949?utm_campaign=1053&utm_source=git)** | US-DC-Washington | On Site | May 28 |
 | ↳ | **[Fall Intern: Economic Innovation and Editing](https://jobright.ai/jobs/info/6a18744c6243320e8d16494a?utm_campaign=1053&utm_source=git)** | Washington, DC, US | On Site | May 28 |
-| ↳ | **[Fall Intern: Events](https://jobright.ai/jobs/info/6a187445c2a87d6cd3df14dc?utm_campaign=1053&utm_source=git)** | US-DC-Washington | On Site | May 28 |
 | ↳ | **[Fall Intern: Events](https://jobright.ai/jobs/info/6a187445c2a87d6cd3df14db?utm_campaign=1053&utm_source=git)** | Washington, DC, US | On Site | May 28 |
+| ↳ | **[Fall Intern: Events](https://jobright.ai/jobs/info/6a187445c2a87d6cd3df14dc?utm_campaign=1053&utm_source=git)** | US-DC-Washington | On Site | May 28 |
 | **[Barbarian](https://wearebarbarian.com/)** | **[The Horde 2026 - Summer Internship](https://jobright.ai/jobs/info/6a185006abc8f63abac76a78?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | May 28 |
 | **[Red Bull New York](http://www.newyorkredbulls.com)** | **[2026 Internship, Summer - Creative Video](https://jobright.ai/jobs/info/69c4bc206f4f855eeda763a8?utm_campaign=1053&utm_source=git)** | Harrison, NJ | On Site | May 28 |
 | **[Golden Hippo®](https://www.huntrealestate.com/)** | **[YouTube Video Editor Intern - Summer 2026](https://jobright.ai/jobs/info/6a183104dbc80963f9340da3?utm_campaign=1053&utm_source=git)** | Golden Hippo | Remote | May 28 |
@@ -128,7 +131,6 @@ For a complete list, click the following sortable link below:
 | **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a111beb9fdbf21f36cb2dd3?utm_campaign=1053&utm_source=git)** | Minneapolis, MN | On Site | May 22 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a111bea9fdbf21f36cb2dd1?utm_campaign=1053&utm_source=git)** | Newark, NJ | On Site | May 22 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a111bdf69bd827926af27f5?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | May 22 |
-| ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a111bdf12f8b43cf398956f?utm_campaign=1053&utm_source=git)** | St Louis, MO | On Site | May 22 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a111bdb12f8b43cf3989560?utm_campaign=1053&utm_source=git)** | Evanston, IL | On Site | May 22 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a111bd912f8b43cf398955c?utm_campaign=1053&utm_source=git)** | Bloomington, IN | On Site | May 22 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a111bd712f8b43cf398955b?utm_campaign=1053&utm_source=git)** | Columbia, SC | On Site | May 22 |
