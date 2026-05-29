@@ -57,10 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Complex NTWRK](https://www.complex.com)** | **[Content and Creative Operations Intern - College Credit](https://jobright.ai/jobs/info/6a1983c89111f771d1a06304?utm_campaign=1053&utm_source=git)** | New York | On Site | May 29 |
 | **[Advisors Excel](http://advisorsexcel.com)** | **[Video Intern](https://jobright.ai/jobs/info/6a0785ba939a5f01db950f9a?utm_campaign=1053&utm_source=git)** | 2950 SW McClure Rd, Topeka, KS | On Site | May 29 |
 | **[East Side Union High School District](https://adulteducation.esuhsd.org)** | **[CUSD Student Internship - Film/Media Project **IN-DISTRICT Ceres Unified High School Students ONLY**](https://jobright.ai/jobs/info/6a1940b5c2a87d6cd3df821a?utm_campaign=1053&utm_source=git)** | 2503 Lawrence Street, CERES, California, 95307-0307, US | On Site | May 29 |
 | **[Oriana House, Inc.](https://www.orianahouse.org/)** | **[Digital Media Production Intern](https://jobright.ai/jobs/info/6a1940849111f771d1a05152?utm_campaign=1053&utm_source=git)** | Akron, OH | On Site | May 29 |
-| **[Qovai](https://qovai.com/)** | **[content creator intern](https://jobright.ai/jobs/info/6a193a6217492d3a389bd10f?utm_campaign=1053&utm_source=git)** | San Francisco, CA | Remote | May 29 |
 | **[Clara (AI SDR)](https://clarasdr.ai)** | **[AI Content Creator (Paid Internship)](https://jobright.ai/jobs/info/6a19128aabc8f63abac7e590?utm_campaign=1053&utm_source=git)** | United States | Remote | May 28 |
 | **[TruGen AI](https://trugen.ai)** | **[AI Startup Content Creator (Internship)](https://jobright.ai/jobs/info/6a1910c2dbc80963f934985d?utm_campaign=1053&utm_source=git)** | United States | Remote | May 28 |
 | **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a18f194dbc80963f93489c4?utm_campaign=1053&utm_source=git)** | Wichita, KS | On Site | May 28 |
@@ -79,8 +79,8 @@ For a complete list, click the following sortable link below:
 | **[Texas Tech University Health Sciences Center](https://www.ttuhsc.edu)** | **[Dept Intern - Pulse Magazine](https://jobright.ai/jobs/info/6a0c9ee6963f7a67d95d9c6a?utm_campaign=1053&utm_source=git)** | Lubbock, TX | On Site | May 28 |
 | **[Ripken Baseball](https://www.ripkenbaseball.com)** | **[Fall Tournament Operations Intern](https://jobright.ai/jobs/info/6a18e80cabc8f63abac7d2c9?utm_campaign=1053&utm_source=git)** | Pigeon Forge, TN | On Site | May 28 |
 | **[Impact Networking, LLC](https://www.impactmybiz.com)** | **[Post-Production Intern](https://jobright.ai/jobs/info/6a0c09f0a235d749afa89e8e?utm_campaign=1053&utm_source=git)** | Vernon Hills, IL | On Site | May 28 |
-| **[American Enterprise Institute](http://www.aei.org)** | **[Fall Intern: Economic Innovation and Editing](https://jobright.ai/jobs/info/6a18744c6243320e8d16494a?utm_campaign=1053&utm_source=git)** | Washington, DC, US | On Site | May 28 |
-| ↳ | **[Fall Intern: Economic Innovation and Editing](https://jobright.ai/jobs/info/6a18744c6243320e8d164949?utm_campaign=1053&utm_source=git)** | US-DC-Washington | On Site | May 28 |
+| **[American Enterprise Institute](http://www.aei.org)** | **[Fall Intern: Economic Innovation and Editing](https://jobright.ai/jobs/info/6a18744c6243320e8d164949?utm_campaign=1053&utm_source=git)** | US-DC-Washington | On Site | May 28 |
+| ↳ | **[Fall Intern: Economic Innovation and Editing](https://jobright.ai/jobs/info/6a18744c6243320e8d16494a?utm_campaign=1053&utm_source=git)** | Washington, DC, US | On Site | May 28 |
 | ↳ | **[Fall Intern: Events](https://jobright.ai/jobs/info/6a187445c2a87d6cd3df14dc?utm_campaign=1053&utm_source=git)** | US-DC-Washington | On Site | May 28 |
 | ↳ | **[Fall Intern: Events](https://jobright.ai/jobs/info/6a187445c2a87d6cd3df14db?utm_campaign=1053&utm_source=git)** | Washington, DC, US | On Site | May 28 |
 | **[Fox Television Stations](https://www.foxcorporation.com/businesses/fox-television-stations/)** | **[Intern](https://jobright.ai/jobs/info/69e044fee34484770f1ad6f2?utm_campaign=1053&utm_source=git)** | Seattle, WA | On Site | May 28 |
@@ -144,5 +144,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a111b7f83d714428982a80d?utm_campaign=1053&utm_source=git)** | Greenbrier River, WV | On Site | May 22 |
 | **[Pasco Police Department](https://www.pasco-wa.gov/163/Police-Department?msclkid=2369a396b68911ec8273de4b1cd0ac8f)** | **[Digital Content Intern - Parks, Recreation & Natural Resources](https://jobright.ai/jobs/info/6a1502aa738a270c8bfa937f?utm_campaign=1053&utm_source=git)** | Land O' Lakes, FL | On Site | May 22 |
 | **[Medical College of Wisconsin](http://www.mcw.edu/)** | **[Intern - Institutional Advancement](https://jobright.ai/jobs/info/6a10b8fb83d7144289828029?utm_campaign=1053&utm_source=git)** | Wauwatosa, WI, US | Hybrid | May 22 |
-| ↳ | **[Intern - Institutional Advancement](https://jobright.ai/jobs/info/6a10e99f9fdbf21f36cb166e?utm_campaign=1053&utm_source=git)** | Wauwatosa, WI | On Site | May 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
