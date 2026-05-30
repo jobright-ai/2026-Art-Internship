@@ -93,8 +93,8 @@ For a complete list, click the following sortable link below:
 | **[Impact Networking, LLC](https://www.impactmybiz.com)** | **[Post-Production Intern](https://jobright.ai/jobs/info/6a0c09f0a235d749afa89e8e?utm_campaign=1053&utm_source=git)** | Vernon Hills, IL | On Site | May 28 |
 | **[American Enterprise Institute](http://www.aei.org)** | **[Fall Intern: Economic Innovation and Editing](https://jobright.ai/jobs/info/6a18744c6243320e8d16494a?utm_campaign=1053&utm_source=git)** | Washington, DC, US | On Site | May 28 |
 | ↳ | **[Fall Intern: Economic Innovation and Editing](https://jobright.ai/jobs/info/6a18744c6243320e8d164949?utm_campaign=1053&utm_source=git)** | US-DC-Washington | On Site | May 28 |
-| ↳ | **[Fall Intern: Events](https://jobright.ai/jobs/info/6a187445c2a87d6cd3df14db?utm_campaign=1053&utm_source=git)** | Washington, DC, US | On Site | May 28 |
 | ↳ | **[Fall Intern: Events](https://jobright.ai/jobs/info/6a187445c2a87d6cd3df14dc?utm_campaign=1053&utm_source=git)** | US-DC-Washington | On Site | May 28 |
+| ↳ | **[Fall Intern: Events](https://jobright.ai/jobs/info/6a187445c2a87d6cd3df14db?utm_campaign=1053&utm_source=git)** | Washington, DC, US | On Site | May 28 |
 | **[Fox Television Stations](https://www.foxcorporation.com/businesses/fox-television-stations/)** | **[Intern](https://jobright.ai/jobs/info/69e044fee34484770f1ad6f2?utm_campaign=1053&utm_source=git)** | Seattle, WA | On Site | May 28 |
 | **[Barbarian](https://wearebarbarian.com/)** | **[The Horde 2026 - Summer Internship](https://jobright.ai/jobs/info/6a185006abc8f63abac76a78?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | May 28 |
 | **[Red Bull New York](http://www.newyorkredbulls.com)** | **[2026 Internship, Summer - Creative Video](https://jobright.ai/jobs/info/69c4bc206f4f855eeda763a8?utm_campaign=1053&utm_source=git)** | Harrison, NJ | On Site | May 28 |
@@ -126,7 +126,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[ABC News Live First Hour Production Intern, Fall 2026](https://jobright.ai/jobs/info/6a15d70b0073182bd92ad42a?utm_campaign=1053&utm_source=git)** | New York, NY, USA, US | On Site | May 26 |
 | **[Swish Breaks](https://www.swishbreaks.com)** | **[Content Creator (Intern)](https://jobright.ai/jobs/info/6a15d3a4dc845f4be5bd943c?utm_campaign=1053&utm_source=git)** | New York, United States | On Site | May 26 |
 | ↳ | **[Content Creator (Intern)](https://jobright.ai/jobs/info/6a15c61b128680351d964094?utm_campaign=1053&utm_source=git)** | New York | On Site | May 26 |
-| **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Research Intern - Freeman Chair in China Studies](https://jobright.ai/jobs/info/6a15801b1935fa61b3c689e8?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | May 26 |
 | **[Speed Art Museum](https://www.speedmuseum.org)** | **[Private Events Intern](https://jobright.ai/jobs/info/6a157e49554b0e12c058337b?utm_campaign=1053&utm_source=git)** | Louisville, KY | On Site | May 26 |
 | **[The Nelson-Atkins Museum of Art](http://www.nelson-atkins.org)** | **[Artist Archives Intern (UMKC Mellon Humanities Internship Program)](https://jobright.ai/jobs/info/6a1579b7554b0e12c0582f9f?utm_campaign=1053&utm_source=git)** | Kansas City, MO | On Site | May 26 |
 | **[Pasilobus](https://pasilobus.com/)** | **[Content Creator Intern (Part-Time)](https://jobright.ai/jobs/info/6a1575cd554b0e12c0582b6e?utm_campaign=1053&utm_source=git)** | United States | Remote | May 26 |
