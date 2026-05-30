@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Complex NTWRK](https://www.complex.com)** | **[Editorial Creator Intern - College Credit](https://jobright.ai/jobs/info/6a1b0d359111f771d1a0fadf?utm_campaign=1053&utm_source=git)** | New York | On Site | May 30 |
 | **[dataing](https://www.dataing.io/)** | **[]Markteting Intern [UGC}](https://jobright.ai/jobs/info/6a1af782547e292ae139b901?utm_campaign=1053&utm_source=git)** | LA Metro Area | Remote | May 30 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid News Intern](https://jobright.ai/jobs/info/6972b01a9b83b424830eb8a4?utm_campaign=1053&utm_source=git)** | IN-Indianapolis;6910 Network Place (Tribune-WXIN/WTTV) | On Site | May 30 |
 | ↳ | **[Unpaid Intern, Weather](https://jobright.ai/jobs/info/69c19fa779e36d3a847e9c77?utm_campaign=1053&utm_source=git)** | IL, Champaign | On Site | May 30 |
@@ -79,6 +80,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Distressed Debt Reporter - 3-6 month Internship](https://jobright.ai/jobs/info/69dff2e15913ad3398146ced?utm_campaign=1053&utm_source=git)** | New York | Hybrid | May 29 |
 | **[Geotab](http://www.geotab.com/)** | **[Video Production Intern(Fall/ September 2026, 12 Months)](https://jobright.ai/jobs/info/6a19bc849111f771d1a07ec3?utm_campaign=1053&utm_source=git)** | Oakville | Hybrid | May 29 |
 | ↳ | **[Video Production Intern(Fall/ September 2026, 12 Months)](https://jobright.ai/jobs/info/6a19bc7e9111f771d1a07eaf?utm_campaign=1053&utm_source=git)** | Oakville, Ontario - Canada | Hybrid | May 29 |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Internship](https://jobright.ai/jobs/info/69c75068e565c26a70027c3c?utm_campaign=1053&utm_source=git)** | Savannah, GA | On Site | May 29 |
 | **[Metropolitan Opera](http://metopera.org/)** | **[Laffont Competition Intern](https://jobright.ai/jobs/info/6a19a0a0e24ef3652582600e?utm_campaign=1053&utm_source=git)** | Lincoln Center - New York, NY | On Site | May 29 |
 | **[Complex NTWRK](https://www.complex.com)** | **[Content and Creative Operations Intern - College Credit](https://jobright.ai/jobs/info/6a1983c89111f771d1a06304?utm_campaign=1053&utm_source=git)** | New York | On Site | May 29 |
 | **[Advisors Excel](http://advisorsexcel.com)** | **[Video Intern](https://jobright.ai/jobs/info/6a0785ba939a5f01db950f9a?utm_campaign=1053&utm_source=git)** | 2950 SW McClure Rd, Topeka, KS | On Site | May 29 |
@@ -100,10 +102,10 @@ For a complete list, click the following sortable link below:
 | **[The Recap Group Inc.](https://therecap.group)** | **[Video Editor Internship / In-Person / Stipend Provided](https://jobright.ai/jobs/info/6a190335abc8f63abac7e159?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | May 28 |
 | **[Ripken Baseball](https://www.ripkenbaseball.com)** | **[Fall Tournament Operations Intern](https://jobright.ai/jobs/info/6a18e80cabc8f63abac7d2c9?utm_campaign=1053&utm_source=git)** | Pigeon Forge, TN | On Site | May 28 |
 | **[Impact Networking, LLC](https://www.impactmybiz.com)** | **[Post-Production Intern](https://jobright.ai/jobs/info/6a0c09f0a235d749afa89e8e?utm_campaign=1053&utm_source=git)** | Vernon Hills, IL | On Site | May 28 |
-| **[American Enterprise Institute](http://www.aei.org)** | **[Fall Intern: Economic Innovation and Editing](https://jobright.ai/jobs/info/6a18744c6243320e8d164949?utm_campaign=1053&utm_source=git)** | US-DC-Washington | On Site | May 28 |
-| ↳ | **[Fall Intern: Economic Innovation and Editing](https://jobright.ai/jobs/info/6a18744c6243320e8d16494a?utm_campaign=1053&utm_source=git)** | Washington, DC, US | On Site | May 28 |
-| ↳ | **[Fall Intern: Events](https://jobright.ai/jobs/info/6a187445c2a87d6cd3df14dc?utm_campaign=1053&utm_source=git)** | US-DC-Washington | On Site | May 28 |
+| **[American Enterprise Institute](http://www.aei.org)** | **[Fall Intern: Economic Innovation and Editing](https://jobright.ai/jobs/info/6a18744c6243320e8d16494a?utm_campaign=1053&utm_source=git)** | Washington, DC, US | On Site | May 28 |
+| ↳ | **[Fall Intern: Economic Innovation and Editing](https://jobright.ai/jobs/info/6a18744c6243320e8d164949?utm_campaign=1053&utm_source=git)** | US-DC-Washington | On Site | May 28 |
 | ↳ | **[Fall Intern: Events](https://jobright.ai/jobs/info/6a187445c2a87d6cd3df14db?utm_campaign=1053&utm_source=git)** | Washington, DC, US | On Site | May 28 |
+| ↳ | **[Fall Intern: Events](https://jobright.ai/jobs/info/6a187445c2a87d6cd3df14dc?utm_campaign=1053&utm_source=git)** | US-DC-Washington | On Site | May 28 |
 | **[Fox Television Stations](https://www.foxcorporation.com/businesses/fox-television-stations/)** | **[Intern](https://jobright.ai/jobs/info/69e044fee34484770f1ad6f2?utm_campaign=1053&utm_source=git)** | Seattle, WA | On Site | May 28 |
 | **[Barbarian](https://wearebarbarian.com/)** | **[The Horde 2026 - Summer Internship](https://jobright.ai/jobs/info/6a185006abc8f63abac76a78?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | May 28 |
 | **[Red Bull New York](http://www.newyorkredbulls.com)** | **[2026 Internship, Summer - Creative Video](https://jobright.ai/jobs/info/69c4bc206f4f855eeda763a8?utm_campaign=1053&utm_source=git)** | Harrison, NJ | On Site | May 28 |
@@ -150,5 +152,4 @@ For a complete list, click the following sortable link below:
 | **[MATTE Projects](https://matteprojects.com/)** | **[Experiential Production Internship Summer 2026 (On-Site, New York)](https://jobright.ai/jobs/info/6a12b1c99f654b3359cf4554?utm_campaign=1053&utm_source=git)** | Matte Projects NY | On Site | May 24 |
 | ↳ | **[Experiential Production Internship Summer 2026 (On-Site, New York)](https://jobright.ai/jobs/info/6a12b1c89f654b3359cf4553?utm_campaign=1053&utm_source=git)** | New York, New York | On Site | May 24 |
 | **[MSP Communications](https://mspcommunications.com/)** | **[Editorial Intern, MSP](https://jobright.ai/jobs/info/6a129e02619335383fb3af3d?utm_campaign=1053&utm_source=git)** | MSP Communications - St Paul, MN 55114 | Hybrid | May 23 |
-| **[Editorialist](http://editorialist.com)** | **[Editorial Intern](https://jobright.ai/jobs/info/6a12416b12f8b43cf398c411?utm_campaign=1053&utm_source=git)** | New York City | On Site | May 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
