@@ -57,13 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Intern, Weather](https://jobright.ai/jobs/info/69c19fa779e36d3a847e9c77?utm_campaign=1053&utm_source=git)** | IL, Champaign | On Site | May 30 |
 | **[Sinclair Inc.](http://sbgi.net/)** | **[Intern](https://jobright.ai/jobs/info/6a1a7f12e24ef3652582bc6b?utm_campaign=1053&utm_source=git)** | Las Vegas, NV | On Site | May 29 |
 | **[HUSH](http://heyhush.com/)** | **[Intern: Production](https://jobright.ai/jobs/info/6a1a663d547e292ae1398bd7?utm_campaign=1053&utm_source=git)** | Brooklyn, NY | On Site | May 29 |
 | **[NKSFB](http://www.nksfb.com/)** | **[Music Royalty - Intern](https://jobright.ai/jobs/info/6a1a3308547e292ae139796d?utm_campaign=1053&utm_source=git)** | Encino,CA,US | On Site | May 29 |
 | **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[Full Time Paid Intern – Liahona Writer/Editor (Church Magazines)](https://jobright.ai/jobs/info/6a1a733f6b135014dbc8a573?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | Hybrid | May 29 |
 | **[Cloudflare Area 1 Security](https://www.area1security.com/)** | **[Video and Media Production Intern (Summer 2026)](https://jobright.ai/jobs/info/6a1a4ea8547e292ae1398403?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | May 29 |
-| **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[Full-Time Paid Intern – Friend Writer/Editor (Church Magazines)](https://jobright.ai/jobs/info/6a1a4a7b547e292ae139832b?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | Hybrid | May 29 |
-| ↳ | **[Paid Intern - YA Weekly Writer/Editor (Church Magazines)](https://jobright.ai/jobs/info/6a1a4a7b547e292ae139832c?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | Hybrid | May 29 |
+| **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[Paid Intern - YA Weekly Writer/Editor (Church Magazines)](https://jobright.ai/jobs/info/6a1a4a7b547e292ae139832c?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | Hybrid | May 29 |
+| ↳ | **[Full-Time Paid Intern – Friend Writer/Editor (Church Magazines)](https://jobright.ai/jobs/info/6a1a4a7b547e292ae139832b?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | Hybrid | May 29 |
 | **[Cloudflare](http://www.cloudflare.com)** | **[Video and Media Production Intern (Summer 2026)](https://jobright.ai/jobs/info/6a1a343a9111f771d1a0b4be?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | May 29 |
 | ↳ | **[Video and Media Production Intern (Summer 2026)](https://jobright.ai/jobs/info/6a1a1199c2a87d6cd3dfd6a1?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | May 29 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Paid Intern - YA Weekly Writer/Editor (Church Magazines)](https://jobright.ai/jobs/info/6a19fdb76b135014dbc876d0?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | May 29 |
@@ -92,7 +93,6 @@ For a complete list, click the following sortable link below:
 | **[Nolan Wells Studios](https://www.nolan-wells.com/)** | **[Digital Media Intern - Content Creation](https://jobright.ai/jobs/info/6a18e96edbc80963f9348716?utm_campaign=1053&utm_source=git)** | Springfield, Massachusetts Metropolitan Area | Hybrid | May 28 |
 | **[Oriana House, Inc.](https://www.orianahouse.org/)** | **[Digital Media Production Intern](https://jobright.ai/jobs/info/6a18aec9dbc80963f9346946?utm_campaign=1053&utm_source=git)** | Akron, Ohio, United States | On Site | May 28 |
 | **[The Recap Group Inc.](https://therecap.group)** | **[Video Editor Internship / In-Person / Stipend Provided](https://jobright.ai/jobs/info/6a18aebec2a87d6cd3df3d5b?utm_campaign=1053&utm_source=git)** | Brooklyn Heights, New York, United States | On Site | May 28 |
-| **[Miami SCORES, Powered by Concacaf](www.miamiscores.org)** | **[Miami SCORES 2026 World Cup Storytelling & Videography Intern,  Summer 2026](https://jobright.ai/jobs/info/6a18ac4654a441713ae871cd?utm_campaign=1053&utm_source=git)** | Miami, FL | On Site | May 28 |
 | **[Keep Going Athletics](keepgoingathletics.com)** | **[Video Editor Internship (Unpaid)](https://jobright.ai/jobs/info/6a18a88edbc80963f9346655?utm_campaign=1053&utm_source=git)** | Miami, FL | Remote | May 28 |
 | **[ALPFA Inc - Association of Latino Professionals For America](http://alpfa.org)** | **[Convention & Events Intern - Remote (TX, FL, SC, PA)](https://jobright.ai/jobs/info/6a18a37317492d3a389b85eb?utm_campaign=1053&utm_source=git)** | Austin, TX | Remote | May 28 |
 | **[The Recap Group Inc.](https://therecap.group)** | **[Video Editor Internship / In-Person / Stipend Provided](https://jobright.ai/jobs/info/6a190335abc8f63abac7e159?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | May 28 |
@@ -100,8 +100,8 @@ For a complete list, click the following sortable link below:
 | **[Impact Networking, LLC](https://www.impactmybiz.com)** | **[Post-Production Intern](https://jobright.ai/jobs/info/6a0c09f0a235d749afa89e8e?utm_campaign=1053&utm_source=git)** | Vernon Hills, IL | On Site | May 28 |
 | **[American Enterprise Institute](http://www.aei.org)** | **[Fall Intern: Economic Innovation and Editing](https://jobright.ai/jobs/info/6a18744c6243320e8d164949?utm_campaign=1053&utm_source=git)** | US-DC-Washington | On Site | May 28 |
 | ↳ | **[Fall Intern: Economic Innovation and Editing](https://jobright.ai/jobs/info/6a18744c6243320e8d16494a?utm_campaign=1053&utm_source=git)** | Washington, DC, US | On Site | May 28 |
-| ↳ | **[Fall Intern: Events](https://jobright.ai/jobs/info/6a187445c2a87d6cd3df14db?utm_campaign=1053&utm_source=git)** | Washington, DC, US | On Site | May 28 |
 | ↳ | **[Fall Intern: Events](https://jobright.ai/jobs/info/6a187445c2a87d6cd3df14dc?utm_campaign=1053&utm_source=git)** | US-DC-Washington | On Site | May 28 |
+| ↳ | **[Fall Intern: Events](https://jobright.ai/jobs/info/6a187445c2a87d6cd3df14db?utm_campaign=1053&utm_source=git)** | Washington, DC, US | On Site | May 28 |
 | **[Fox Television Stations](https://www.foxcorporation.com/businesses/fox-television-stations/)** | **[Intern](https://jobright.ai/jobs/info/69e044fee34484770f1ad6f2?utm_campaign=1053&utm_source=git)** | Seattle, WA | On Site | May 28 |
 | **[Barbarian](https://wearebarbarian.com/)** | **[The Horde 2026 - Summer Internship](https://jobright.ai/jobs/info/6a185006abc8f63abac76a78?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | May 28 |
 | **[Red Bull New York](http://www.newyorkredbulls.com)** | **[2026 Internship, Summer - Creative Video](https://jobright.ai/jobs/info/69c4bc206f4f855eeda763a8?utm_campaign=1053&utm_source=git)** | Harrison, NJ | On Site | May 28 |
@@ -149,5 +149,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Experiential Production Internship Summer 2026 (On-Site, New York)](https://jobright.ai/jobs/info/6a12b1c89f654b3359cf4553?utm_campaign=1053&utm_source=git)** | New York, New York | On Site | May 24 |
 | **[MSP Communications](https://mspcommunications.com/)** | **[Editorial Intern, MSP](https://jobright.ai/jobs/info/6a129e02619335383fb3af3d?utm_campaign=1053&utm_source=git)** | MSP Communications - St Paul, MN 55114 | Hybrid | May 23 |
 | **[Editorialist](http://editorialist.com)** | **[Editorial Intern](https://jobright.ai/jobs/info/6a12416b12f8b43cf398c411?utm_campaign=1053&utm_source=git)** | New York City | On Site | May 23 |
-| **[KCRA 3 & My58 Television](http://www.kcra.com)** | **[Intern](https://jobright.ai/jobs/info/69a0c5340836fe79d861c5c9?utm_campaign=1053&utm_source=git)** | Sacramento, CA | On Site | May 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
