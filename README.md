@@ -61,7 +61,6 @@ For a complete list, click the following sortable link below:
 | **[Texas Tech University Health Sciences Center](https://www.ttuhsc.edu)** | **[Dept Intern - Pulse Magazine](https://jobright.ai/jobs/info/6a1b303f2b206f3955eb8651?utm_campaign=1053&utm_source=git)** | Lubbock | On Site | May 30 |
 | **[POLITICO](http://www.politico.com)** | **[Audio/Video Intern, Fall 2026 (HQ)](https://jobright.ai/jobs/info/6a1b2eecc2a87d6cd3e03558?utm_campaign=1053&utm_source=git)** | Arlington, VA | Hybrid | May 30 |
 | **[Complex NTWRK](https://www.complex.com)** | **[Editorial Creator Intern - College Credit](https://jobright.ai/jobs/info/6a1b0d359111f771d1a0fadf?utm_campaign=1053&utm_source=git)** | New York | On Site | May 30 |
-| **[dataing](https://www.dataing.io/)** | **[]Markteting Intern [UGC}](https://jobright.ai/jobs/info/6a1af782547e292ae139b901?utm_campaign=1053&utm_source=git)** | LA Metro Area | Remote | May 30 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid News Intern](https://jobright.ai/jobs/info/6972b01a9b83b424830eb8a4?utm_campaign=1053&utm_source=git)** | IN-Indianapolis;6910 Network Place (Tribune-WXIN/WTTV) | On Site | May 30 |
 | ↳ | **[Unpaid Intern, Weather](https://jobright.ai/jobs/info/69c19fa779e36d3a847e9c77?utm_campaign=1053&utm_source=git)** | IL, Champaign | On Site | May 30 |
 | **[Sinclair Inc.](http://sbgi.net/)** | **[Intern](https://jobright.ai/jobs/info/6a1a7f12e24ef3652582bc6b?utm_campaign=1053&utm_source=git)** | Las Vegas, NV | On Site | May 29 |
