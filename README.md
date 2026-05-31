@@ -106,8 +106,8 @@ For a complete list, click the following sortable link below:
 | **[The Recap Group Inc.](https://therecap.group)** | **[Video Editor Internship / In-Person / Stipend Provided](https://jobright.ai/jobs/info/6a190335abc8f63abac7e159?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | May 28 |
 | **[Ripken Baseball](https://www.ripkenbaseball.com)** | **[Fall Tournament Operations Intern](https://jobright.ai/jobs/info/6a18e80cabc8f63abac7d2c9?utm_campaign=1053&utm_source=git)** | Pigeon Forge, TN | On Site | May 28 |
 | **[Impact Networking, LLC](https://www.impactmybiz.com)** | **[Post-Production Intern](https://jobright.ai/jobs/info/6a0c09f0a235d749afa89e8e?utm_campaign=1053&utm_source=git)** | Vernon Hills, IL | On Site | May 28 |
-| **[American Enterprise Institute](http://www.aei.org)** | **[Fall Intern: Economic Innovation and Editing](https://jobright.ai/jobs/info/6a18744c6243320e8d164949?utm_campaign=1053&utm_source=git)** | US-DC-Washington | On Site | May 28 |
-| ↳ | **[Fall Intern: Economic Innovation and Editing](https://jobright.ai/jobs/info/6a18744c6243320e8d16494a?utm_campaign=1053&utm_source=git)** | Washington, DC, US | On Site | May 28 |
+| **[American Enterprise Institute](http://www.aei.org)** | **[Fall Intern: Economic Innovation and Editing](https://jobright.ai/jobs/info/6a18744c6243320e8d16494a?utm_campaign=1053&utm_source=git)** | Washington, DC, US | On Site | May 28 |
+| ↳ | **[Fall Intern: Economic Innovation and Editing](https://jobright.ai/jobs/info/6a18744c6243320e8d164949?utm_campaign=1053&utm_source=git)** | US-DC-Washington | On Site | May 28 |
 | ↳ | **[Fall Intern: Events](https://jobright.ai/jobs/info/6a187445c2a87d6cd3df14db?utm_campaign=1053&utm_source=git)** | Washington, DC, US | On Site | May 28 |
 | ↳ | **[Fall Intern: Events](https://jobright.ai/jobs/info/6a187445c2a87d6cd3df14dc?utm_campaign=1053&utm_source=git)** | US-DC-Washington | On Site | May 28 |
 | **[Fox Television Stations](https://www.foxcorporation.com/businesses/fox-television-stations/)** | **[Intern](https://jobright.ai/jobs/info/69e044fee34484770f1ad6f2?utm_campaign=1053&utm_source=git)** | Seattle, WA | On Site | May 28 |
