@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Complex NTWRK](https://www.complex.com)** | **[Editorial Creator Intern - College Credit](https://jobright.ai/jobs/info/6a1b0d359111f771d1a0fadf?utm_campaign=1053&utm_source=git)** | New York | On Site | Jun 01 |
+| **[The University of Texas at Austin](http://www.mccombs.utexas.edu)** | **[Student Intern, Knight Center for Journalism in the Americas, Moody College of Communication](https://jobright.ai/jobs/info/6a1de5e86b135014dbc9936b?utm_campaign=1053&utm_source=git)** | UT MAIN CAMPUS | Hybrid | Jun 01 |
 | **[City of College Park, MD](http://www.collegeparkmd.gov)** | **[Video Editing and Production Intern](https://jobright.ai/jobs/info/6a1dda6de24ef3652583a681?utm_campaign=1053&utm_source=git)** | College Park, MD, USA | On Site | Jun 01 |
 | **[Pinehurst Resort](https://www.pinehurst.com/)** | **[Golf Operations Intern-Pinehurst Country Club-Seasonal](https://jobright.ai/jobs/info/6a1dd9829111f771d1a1b766?utm_campaign=1053&utm_source=git)** | Pinehurst, NC, USA | On Site | Jun 01 |
 | **[CROING l Creative Agency](https://croing.com/)** | **[Content Creator - Internship](https://jobright.ai/jobs/info/6a1dd880b524ae49285a8f4b?utm_campaign=1053&utm_source=git)** | United States | Remote | Jun 01 |
@@ -81,7 +83,6 @@ For a complete list, click the following sortable link below:
 | **[Sinclair Inc.](http://sbgi.net/)** | **[Intern - Studio Crew](https://jobright.ai/jobs/info/69e1d29dd612782e6114aa3a?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | May 30 |
 | **[Texas Tech University Health Sciences Center](https://www.ttuhsc.edu)** | **[Dept Intern - Pulse Magazine](https://jobright.ai/jobs/info/6a1b303f2b206f3955eb8651?utm_campaign=1053&utm_source=git)** | Lubbock | On Site | May 30 |
 | **[POLITICO](http://www.politico.com)** | **[Audio/Video Intern, Fall 2026 (HQ)](https://jobright.ai/jobs/info/6a1b2eecc2a87d6cd3e03558?utm_campaign=1053&utm_source=git)** | Arlington, VA | Hybrid | May 30 |
-| **[Complex NTWRK](https://www.complex.com)** | **[Editorial Creator Intern - College Credit](https://jobright.ai/jobs/info/6a1b0d359111f771d1a0fadf?utm_campaign=1053&utm_source=git)** | New York | On Site | May 30 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Intern, Weather](https://jobright.ai/jobs/info/69c19fa779e36d3a847e9c77?utm_campaign=1053&utm_source=git)** | IL, Champaign | On Site | May 30 |
 | **[Sinclair Inc.](http://sbgi.net/)** | **[Intern](https://jobright.ai/jobs/info/6a1a7f12e24ef3652582bc6b?utm_campaign=1053&utm_source=git)** | Las Vegas, NV | On Site | May 29 |
 | **[Indiana Institute of Technology](http://www.indianatech.edu)** | **[Graduate Assistant - Esports](https://jobright.ai/jobs/info/69fb31c386d5cd46527d3c6e?utm_campaign=1053&utm_source=git)** | Fort Wayne, IN | On Site | May 29 |
@@ -120,10 +121,10 @@ For a complete list, click the following sortable link below:
 | **[The Recap Group Inc.](https://therecap.group)** | **[Video Editor Internship / In-Person / Stipend Provided](https://jobright.ai/jobs/info/6a190335abc8f63abac7e159?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | May 28 |
 | **[Ripken Baseball](https://www.ripkenbaseball.com)** | **[Fall Tournament Operations Intern](https://jobright.ai/jobs/info/6a18e80cabc8f63abac7d2c9?utm_campaign=1053&utm_source=git)** | Pigeon Forge, TN | On Site | May 28 |
 | **[Impact Networking, LLC](https://www.impactmybiz.com)** | **[Post-Production Intern](https://jobright.ai/jobs/info/6a0c09f0a235d749afa89e8e?utm_campaign=1053&utm_source=git)** | Vernon Hills, IL | On Site | May 28 |
-| **[American Enterprise Institute](http://www.aei.org)** | **[Fall Intern: Economic Innovation and Editing](https://jobright.ai/jobs/info/6a18744c6243320e8d164949?utm_campaign=1053&utm_source=git)** | US-DC-Washington | On Site | May 28 |
-| ↳ | **[Fall Intern: Economic Innovation and Editing](https://jobright.ai/jobs/info/6a18744c6243320e8d16494a?utm_campaign=1053&utm_source=git)** | Washington, DC, US | On Site | May 28 |
-| ↳ | **[Fall Intern: Events](https://jobright.ai/jobs/info/6a187445c2a87d6cd3df14db?utm_campaign=1053&utm_source=git)** | Washington, DC, US | On Site | May 28 |
+| **[American Enterprise Institute](http://www.aei.org)** | **[Fall Intern: Economic Innovation and Editing](https://jobright.ai/jobs/info/6a18744c6243320e8d16494a?utm_campaign=1053&utm_source=git)** | Washington, DC, US | On Site | May 28 |
+| ↳ | **[Fall Intern: Economic Innovation and Editing](https://jobright.ai/jobs/info/6a18744c6243320e8d164949?utm_campaign=1053&utm_source=git)** | US-DC-Washington | On Site | May 28 |
 | ↳ | **[Fall Intern: Events](https://jobright.ai/jobs/info/6a187445c2a87d6cd3df14dc?utm_campaign=1053&utm_source=git)** | US-DC-Washington | On Site | May 28 |
+| ↳ | **[Fall Intern: Events](https://jobright.ai/jobs/info/6a187445c2a87d6cd3df14db?utm_campaign=1053&utm_source=git)** | Washington, DC, US | On Site | May 28 |
 | **[Fox Television Stations](https://www.foxcorporation.com/businesses/fox-television-stations/)** | **[Intern](https://jobright.ai/jobs/info/69e044fee34484770f1ad6f2?utm_campaign=1053&utm_source=git)** | Seattle, WA | On Site | May 28 |
 | **[Barbarian](https://wearebarbarian.com/)** | **[The Horde 2026 - Summer Internship](https://jobright.ai/jobs/info/6a185006abc8f63abac76a78?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | May 28 |
 | **[Red Bull New York](http://www.newyorkredbulls.com)** | **[2026 Internship, Summer - Creative Video](https://jobright.ai/jobs/info/69c4bc206f4f855eeda763a8?utm_campaign=1053&utm_source=git)** | Harrison, NJ | On Site | May 28 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Speed Art Museum](https://www.speedmuseum.org)** | **[Private Events Intern](https://jobright.ai/jobs/info/6a157e49554b0e12c058337b?utm_campaign=1053&utm_source=git)** | Louisville, KY | On Site | May 26 |
 | **[The Nelson-Atkins Museum of Art](http://www.nelson-atkins.org)** | **[Artist Archives Intern (UMKC Mellon Humanities Internship Program)](https://jobright.ai/jobs/info/6a1579b7554b0e12c0582f9f?utm_campaign=1053&utm_source=git)** | Kansas City, MO | On Site | May 26 |
 | **[Pasilobus](https://pasilobus.com/)** | **[Content Creator Intern (Part-Time)](https://jobright.ai/jobs/info/6a1575cd554b0e12c0582b6e?utm_campaign=1053&utm_source=git)** | United States | Remote | May 26 |
-| **[New World Inc.](http://newworldinc.io)** | **[Production Intern (Part Time)](https://jobright.ai/jobs/info/6a153c66438198796a26ad96?utm_campaign=1053&utm_source=git)** | New York, NY | Remote | May 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
