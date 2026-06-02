@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Penn State University](http://psu.edu)** | **[Summer Intern- Video Editing](https://jobright.ai/jobs/info/6a1e136f6b135014dbc9a85f?utm_campaign=1053&utm_source=git)** | University Park, PA | On Site | Jun 01 |
+| **[National Community Renaissance](https://nationalcore.org/)** | **[Production Studio Management Internship](https://jobright.ai/jobs/info/6a1e0ad96b135014dbc9a51e?utm_campaign=1053&utm_source=git)** | Corporate Rancho Cucamonga - Rancho Cucamonga, CA 91730 | On Site | Jun 01 |
 | **[International Child Art Foundation](https://icaf.org)** | **[Summer 2026 Internship – World Children’s Festival (Washington, DC - Full-time)](https://jobright.ai/jobs/info/6a1decf79111f771d1a1c11f?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Jun 01 |
 | **[Complex NTWRK](https://www.complex.com)** | **[Editorial Creator Intern - College Credit](https://jobright.ai/jobs/info/6a1b0d359111f771d1a0fadf?utm_campaign=1053&utm_source=git)** | New York | On Site | Jun 01 |
 | **[The University of Texas at Austin](http://www.mccombs.utexas.edu)** | **[Student Intern, Knight Center for Journalism in the Americas, Moody College of Communication](https://jobright.ai/jobs/info/6a1de5e86b135014dbc9936b?utm_campaign=1053&utm_source=git)** | UT MAIN CAMPUS | Hybrid | Jun 01 |
@@ -90,8 +92,8 @@ For a complete list, click the following sortable link below:
 | **[HUSH](http://heyhush.com/)** | **[Intern: Production](https://jobright.ai/jobs/info/6a1a663d547e292ae1398bd7?utm_campaign=1053&utm_source=git)** | Brooklyn, NY | On Site | May 29 |
 | **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[Full Time Paid Intern – Liahona Writer/Editor (Church Magazines)](https://jobright.ai/jobs/info/6a1a733f6b135014dbc8a573?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | Hybrid | May 29 |
 | **[Cloudflare Area 1 Security](https://www.area1security.com/)** | **[Video and Media Production Intern (Summer 2026)](https://jobright.ai/jobs/info/6a1a4ea8547e292ae1398403?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | May 29 |
-| **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[Paid Intern - YA Weekly Writer/Editor (Church Magazines)](https://jobright.ai/jobs/info/6a1a4a7b547e292ae139832c?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | Hybrid | May 29 |
-| ↳ | **[Full-Time Paid Intern – Friend Writer/Editor (Church Magazines)](https://jobright.ai/jobs/info/6a1a4a7b547e292ae139832b?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | Hybrid | May 29 |
+| **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[Full-Time Paid Intern – Friend Writer/Editor (Church Magazines)](https://jobright.ai/jobs/info/6a1a4a7b547e292ae139832b?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | Hybrid | May 29 |
+| ↳ | **[Paid Intern - YA Weekly Writer/Editor (Church Magazines)](https://jobright.ai/jobs/info/6a1a4a7b547e292ae139832c?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | Hybrid | May 29 |
 | **[Cloudflare](http://www.cloudflare.com)** | **[Video and Media Production Intern (Summer 2026)](https://jobright.ai/jobs/info/6a1a343a9111f771d1a0b4be?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | May 29 |
 | ↳ | **[Video and Media Production Intern (Summer 2026)](https://jobright.ai/jobs/info/6a1a1199c2a87d6cd3dfd6a1?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | May 29 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Paid Intern - YA Weekly Writer/Editor (Church Magazines)](https://jobright.ai/jobs/info/6a19fdb76b135014dbc876d0?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | May 29 |
@@ -122,8 +124,8 @@ For a complete list, click the following sortable link below:
 | **[The Recap Group Inc.](https://therecap.group)** | **[Video Editor Internship / In-Person / Stipend Provided](https://jobright.ai/jobs/info/6a190335abc8f63abac7e159?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | May 28 |
 | **[Ripken Baseball](https://www.ripkenbaseball.com)** | **[Fall Tournament Operations Intern](https://jobright.ai/jobs/info/6a18e80cabc8f63abac7d2c9?utm_campaign=1053&utm_source=git)** | Pigeon Forge, TN | On Site | May 28 |
 | **[Impact Networking, LLC](https://www.impactmybiz.com)** | **[Post-Production Intern](https://jobright.ai/jobs/info/6a0c09f0a235d749afa89e8e?utm_campaign=1053&utm_source=git)** | Vernon Hills, IL | On Site | May 28 |
-| **[American Enterprise Institute](http://www.aei.org)** | **[Fall Intern: Economic Innovation and Editing](https://jobright.ai/jobs/info/6a18744c6243320e8d16494a?utm_campaign=1053&utm_source=git)** | Washington, DC, US | On Site | May 28 |
-| ↳ | **[Fall Intern: Economic Innovation and Editing](https://jobright.ai/jobs/info/6a18744c6243320e8d164949?utm_campaign=1053&utm_source=git)** | US-DC-Washington | On Site | May 28 |
+| **[American Enterprise Institute](http://www.aei.org)** | **[Fall Intern: Economic Innovation and Editing](https://jobright.ai/jobs/info/6a18744c6243320e8d164949?utm_campaign=1053&utm_source=git)** | US-DC-Washington | On Site | May 28 |
+| ↳ | **[Fall Intern: Economic Innovation and Editing](https://jobright.ai/jobs/info/6a18744c6243320e8d16494a?utm_campaign=1053&utm_source=git)** | Washington, DC, US | On Site | May 28 |
 | ↳ | **[Fall Intern: Events](https://jobright.ai/jobs/info/6a187445c2a87d6cd3df14dc?utm_campaign=1053&utm_source=git)** | US-DC-Washington | On Site | May 28 |
 | ↳ | **[Fall Intern: Events](https://jobright.ai/jobs/info/6a187445c2a87d6cd3df14db?utm_campaign=1053&utm_source=git)** | Washington, DC, US | On Site | May 28 |
 | **[Fox Television Stations](https://www.foxcorporation.com/businesses/fox-television-stations/)** | **[Intern](https://jobright.ai/jobs/info/69e044fee34484770f1ad6f2?utm_campaign=1053&utm_source=git)** | Seattle, WA | On Site | May 28 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[ABC News Live First Hour Production Intern, Fall 2026](https://jobright.ai/jobs/info/6a15d70b0073182bd92ad42a?utm_campaign=1053&utm_source=git)** | New York, NY, USA, US | On Site | May 26 |
 | **[Swish Breaks](https://www.swishbreaks.com)** | **[Content Creator (Intern)](https://jobright.ai/jobs/info/6a15d3a4dc845f4be5bd943c?utm_campaign=1053&utm_source=git)** | New York, United States | On Site | May 26 |
 | ↳ | **[Content Creator (Intern)](https://jobright.ai/jobs/info/6a15c61b128680351d964094?utm_campaign=1053&utm_source=git)** | New York | On Site | May 26 |
-| **[Speed Art Museum](https://www.speedmuseum.org)** | **[Private Events Intern](https://jobright.ai/jobs/info/6a157e49554b0e12c058337b?utm_campaign=1053&utm_source=git)** | Louisville, KY | On Site | May 26 |
-| **[Pasilobus](https://pasilobus.com/)** | **[Content Creator Intern (Part-Time)](https://jobright.ai/jobs/info/6a1575cd554b0e12c0582b6e?utm_campaign=1053&utm_source=git)** | United States | Remote | May 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
