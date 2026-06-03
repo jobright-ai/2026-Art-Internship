@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[PBS39](https://www.wlvt.org/)** | **[Production Intern](https://jobright.ai/jobs/info/6a209557c00e701fe836a65d?utm_campaign=1053&utm_source=git)** | BETHLEHEM,PA,US | On Site | Jun 03 |
+| **[SchoolSpring](http://www.schoolspring.com)** | **[EHS Student Worker: Multimedia Production Intern](https://jobright.ai/jobs/info/6a2090c0c00e701fe836a49c?utm_campaign=1053&utm_source=git)** | DISTRICT-WIDE - Estacada, Oregon | On Site | Jun 03 |
 | **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a208663338c012305119a65?utm_campaign=1053&utm_source=git)** | Bloomington, IN | On Site | Jun 03 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a2086604bdf8a5a96bd1366?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | Jun 03 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a208659338c012305119a62?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Jun 03 |
@@ -128,6 +130,7 @@ For a complete list, click the following sortable link below:
 | **[M Booth](http://www.mbooth.com)** | **[Summer 2026 Intern](https://jobright.ai/jobs/info/6a1bd14a9111f771d1a12ac5?utm_campaign=1053&utm_source=git)** | New York office only | On Site | May 30 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Intern - KOIN / KRCW - Portland, OR (Unpaid)](https://jobright.ai/jobs/info/69c67c251b5ad02887384c1a?utm_campaign=1053&utm_source=git)** | Portland, OR | On Site | May 30 |
 | **[Sinclair Inc.](http://sbgi.net/)** | **[Intern - Studio Crew](https://jobright.ai/jobs/info/69e1d29dd612782e6114aa3a?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | May 30 |
+| **[PGA TOUR](http://www.pgatour.com)** | **[Intern Event Services](https://jobright.ai/jobs/info/6a1753775b0a497d5210b493?utm_campaign=1053&utm_source=git)** | Asheville, NC | On Site | May 30 |
 | **[Texas Tech University Health Sciences Center](https://www.ttuhsc.edu)** | **[Dept Intern - Pulse Magazine](https://jobright.ai/jobs/info/6a1b303f2b206f3955eb8651?utm_campaign=1053&utm_source=git)** | Lubbock | On Site | May 30 |
 | **[POLITICO](http://www.politico.com)** | **[Audio/Video Intern, Fall 2026 (HQ)](https://jobright.ai/jobs/info/6a1b2eecc2a87d6cd3e03558?utm_campaign=1053&utm_source=git)** | Arlington, VA | Hybrid | May 30 |
 | **[Sinclair Inc.](http://sbgi.net/)** | **[News Intern](https://jobright.ai/jobs/info/69c650ab83ea553769fd97d1?utm_campaign=1053&utm_source=git)** | Steubenville, OH | On Site | May 30 |
@@ -138,8 +141,8 @@ For a complete list, click the following sortable link below:
 | **[City of Mississauga](http://www.mississauga.ca/portal/home)** | **[Production Coordinator](https://jobright.ai/jobs/info/69f50033db88714bcdfb1073?utm_campaign=1053&utm_source=git)** | Mississauga, Ontario, Canada | On Site | May 29 |
 | **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[Full Time Paid Intern – Liahona Writer/Editor (Church Magazines)](https://jobright.ai/jobs/info/6a1a733f6b135014dbc8a573?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | Hybrid | May 29 |
 | **[Cloudflare Area 1 Security](https://www.area1security.com/)** | **[Video and Media Production Intern (Summer 2026)](https://jobright.ai/jobs/info/6a1a4ea8547e292ae1398403?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | May 29 |
-| **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[Paid Intern - YA Weekly Writer/Editor (Church Magazines)](https://jobright.ai/jobs/info/6a1a4a7b547e292ae139832c?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | Hybrid | May 29 |
-| ↳ | **[Full-Time Paid Intern – Friend Writer/Editor (Church Magazines)](https://jobright.ai/jobs/info/6a1a4a7b547e292ae139832b?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | Hybrid | May 29 |
+| **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[Full-Time Paid Intern – Friend Writer/Editor (Church Magazines)](https://jobright.ai/jobs/info/6a1a4a7b547e292ae139832b?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | Hybrid | May 29 |
+| ↳ | **[Paid Intern - YA Weekly Writer/Editor (Church Magazines)](https://jobright.ai/jobs/info/6a1a4a7b547e292ae139832c?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | Hybrid | May 29 |
 | **[Cloudflare](http://www.cloudflare.com)** | **[Video and Media Production Intern (Summer 2026)](https://jobright.ai/jobs/info/6a1a343a9111f771d1a0b4be?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | May 29 |
 | ↳ | **[Video and Media Production Intern (Summer 2026)](https://jobright.ai/jobs/info/6a1a1199c2a87d6cd3dfd6a1?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | May 29 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Full-Time Paid Intern – Friend Writer/Editor (Church Magazines)](https://jobright.ai/jobs/info/6a19fb2f9111f771d1a099b5?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | Hybrid | May 29 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Metropolitan Opera](http://metopera.org/)** | **[Laffont Competition Intern](https://jobright.ai/jobs/info/6a19a0a0e24ef3652582600e?utm_campaign=1053&utm_source=git)** | Lincoln Center - New York, NY | On Site | May 29 |
 | **[Advisors Excel](http://advisorsexcel.com)** | **[Video Intern](https://jobright.ai/jobs/info/6a0785ba939a5f01db950f9a?utm_campaign=1053&utm_source=git)** | 2950 SW McClure Rd, Topeka, KS | On Site | May 29 |
 | **[East Side Union High School District](https://adulteducation.esuhsd.org)** | **[CUSD Student Internship - Film/Media Project **IN-DISTRICT Ceres Unified High School Students ONLY**](https://jobright.ai/jobs/info/6a1940b5c2a87d6cd3df821a?utm_campaign=1053&utm_source=git)** | 2503 Lawrence Street, CERES, California, 95307-0307, US | On Site | May 29 |
-| **[Texas Tech University Health Sciences Center](https://www.ttuhsc.edu)** | **[Dept Intern - Pulse Magazine](https://jobright.ai/jobs/info/6a0c931e0411d7417a1ba12f?utm_campaign=1053&utm_source=git)** | Lubbock | On Site | May 28 |
-| ↳ | **[Dept Intern - Pulse Magazine](https://jobright.ai/jobs/info/6a1bb0982b206f3955eba2fa?utm_campaign=1053&utm_source=git)** | Lubbock, TX | On Site | May 28 |
-| **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a18f194dbc80963f93489c4?utm_campaign=1053&utm_source=git)** | Wichita, KS | On Site | May 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
