@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **['Alohilani Resort Waikiki Beach](http://www.pacificbeachhotel.com/)** | **[Culinary Intern](https://jobright.ai/jobs/info/6a1fd2b1b61b2c65b37b479e?utm_campaign=1053&utm_source=git)** | US-NV-Las Vegas | On Site | Jun 03 |
 | **[Complex NTWRK](https://www.complex.com)** | **[Content and Creative Operations Intern - College Credit](https://jobright.ai/jobs/info/6a1983c89111f771d1a06304?utm_campaign=1053&utm_source=git)** | New York | On Site | Jun 02 |
 | **[United States Hockey League (USHL)](https://www.ushl.com/)** | **[Game Presentation Internship](https://jobright.ai/jobs/info/6a1f7d84804915678116a89d?utm_campaign=1053&utm_source=git)** | Muskegon, MI | On Site | Jun 02 |
 | **[IMAX](http://www.imax.com)** | **[Intern, Post-Production - DMR](https://jobright.ai/jobs/info/6a1f8655a507373dff6c1ab2?utm_campaign=1053&utm_source=git)** | Mississauga, Ontario, Canada | On Site | Jun 02 |
@@ -120,8 +121,8 @@ For a complete list, click the following sortable link below:
 | **[City of Mississauga](http://www.mississauga.ca/portal/home)** | **[Production Coordinator](https://jobright.ai/jobs/info/69f50033db88714bcdfb1073?utm_campaign=1053&utm_source=git)** | Mississauga, Ontario, Canada | On Site | May 29 |
 | **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[Full Time Paid Intern – Liahona Writer/Editor (Church Magazines)](https://jobright.ai/jobs/info/6a1a733f6b135014dbc8a573?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | Hybrid | May 29 |
 | **[Cloudflare Area 1 Security](https://www.area1security.com/)** | **[Video and Media Production Intern (Summer 2026)](https://jobright.ai/jobs/info/6a1a4ea8547e292ae1398403?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | May 29 |
-| **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[Full-Time Paid Intern – Friend Writer/Editor (Church Magazines)](https://jobright.ai/jobs/info/6a1a4a7b547e292ae139832b?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | Hybrid | May 29 |
-| ↳ | **[Paid Intern - YA Weekly Writer/Editor (Church Magazines)](https://jobright.ai/jobs/info/6a1a4a7b547e292ae139832c?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | Hybrid | May 29 |
+| **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[Paid Intern - YA Weekly Writer/Editor (Church Magazines)](https://jobright.ai/jobs/info/6a1a4a7b547e292ae139832c?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | Hybrid | May 29 |
+| ↳ | **[Full-Time Paid Intern – Friend Writer/Editor (Church Magazines)](https://jobright.ai/jobs/info/6a1a4a7b547e292ae139832b?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | Hybrid | May 29 |
 | **[Cloudflare](http://www.cloudflare.com)** | **[Video and Media Production Intern (Summer 2026)](https://jobright.ai/jobs/info/6a1a343a9111f771d1a0b4be?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | May 29 |
 | ↳ | **[Video and Media Production Intern (Summer 2026)](https://jobright.ai/jobs/info/6a1a1199c2a87d6cd3dfd6a1?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | May 29 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Full-Time Paid Intern – Friend Writer/Editor (Church Magazines)](https://jobright.ai/jobs/info/6a19fb2f9111f771d1a099b5?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | Hybrid | May 29 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Fox Television Stations](https://www.foxcorporation.com/businesses/fox-television-stations/)** | **[Intern](https://jobright.ai/jobs/info/69e044fee34484770f1ad6f2?utm_campaign=1053&utm_source=git)** | Seattle, WA | On Site | May 28 |
 | **[Barbarian](https://wearebarbarian.com/)** | **[The Horde 2026 - Summer Internship](https://jobright.ai/jobs/info/6a185006abc8f63abac76a78?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | May 28 |
 | **[Red Bull New York](http://www.newyorkredbulls.com)** | **[2026 Internship, Summer - Creative Video](https://jobright.ai/jobs/info/69c4bc206f4f855eeda763a8?utm_campaign=1053&utm_source=git)** | Harrison, NJ | On Site | May 28 |
-| **[A.P. Moller - Maersk](https://www.maersk.com/)** | **[Video Production Assistant Editor Intern](https://jobright.ai/jobs/info/6a1d77929111f771d1a18c8e?utm_campaign=1053&utm_source=git)** | USA, Utah, Salt Lake City, 84116, US | On Site | May 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
