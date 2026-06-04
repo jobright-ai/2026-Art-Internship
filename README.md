@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Bridge Teen Center](http://www.thebridgeteencenter.org)** | **[Art Internship](https://jobright.ai/jobs/info/6a20c4404bdf8a5a96bd2efa?utm_campaign=1053&utm_source=git)** | Orland Park, IL | On Site | Jun 03 |
+| **[The Florida Holocaust Museum](https://www.flholocaustmuseum.org/)** | **[Elie Wiesel Collection Intern/Extern (Unpaid)](https://jobright.ai/jobs/info/6a20c419ca8f0b365d7a3441?utm_campaign=1053&utm_source=git)** | St. Petersburg, FL | On Site | Jun 03 |
+| **[The Bridge Teen Center](http://www.thebridgeteencenter.org)** | **[Video Production and Media Internship](https://jobright.ai/jobs/info/6a20c419338c01230511b5ae?utm_campaign=1053&utm_source=git)** | Orland Park, IL | On Site | Jun 03 |
 | **[PBS39](https://www.wlvt.org/)** | **[Production Intern](https://jobright.ai/jobs/info/6a209557c00e701fe836a65d?utm_campaign=1053&utm_source=git)** | BETHLEHEM,PA,US | On Site | Jun 03 |
 | **[SchoolSpring](http://www.schoolspring.com)** | **[EHS Student Worker: Multimedia Production Intern](https://jobright.ai/jobs/info/6a2090c0c00e701fe836a49c?utm_campaign=1053&utm_source=git)** | DISTRICT-WIDE - Estacada, Oregon | On Site | Jun 03 |
 | **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a208663338c012305119a65?utm_campaign=1053&utm_source=git)** | Bloomington, IN | On Site | Jun 03 |
@@ -72,8 +75,8 @@ For a complete list, click the following sortable link below:
 | **[Texas Crew Productions](https://www.texascrew.com)** | **[Fall Semester Production Intern](https://jobright.ai/jobs/info/6a2070c44bdf8a5a96bd0c02?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | Jun 03 |
 | **[MADE BY GATHER](https://madebygather.com)** | **[TikTok Content Creator Summer Intern](https://jobright.ai/jobs/info/6a206cb5338c012305118f63?utm_campaign=1053&utm_source=git)** | Bentonville, AR | On Site | Jun 03 |
 | **[Complex NTWRK](https://www.complex.com)** | **[Editor Video Production Management Intern - College Credit](https://jobright.ai/jobs/info/69e7d38c7820c036924d870b?utm_campaign=1053&utm_source=git)** | New York, United States | On Site | Jun 03 |
-| **[The Dispatch](https://thedispatch.com/)** | **[Summer 2026 Multimedia Internship](https://jobright.ai/jobs/info/6a2054804bdf8a5a96bcff46?utm_campaign=1053&utm_source=git)** | Washington, DC | Remote | Jun 03 |
-| ↳ | **[Summer 2026 Multimedia Internship](https://jobright.ai/jobs/info/6a2054804bdf8a5a96bcff45?utm_campaign=1053&utm_source=git)** | United States | Remote | Jun 03 |
+| **[The Dispatch](https://thedispatch.com/)** | **[Summer 2026 Multimedia Internship](https://jobright.ai/jobs/info/6a2054804bdf8a5a96bcff45?utm_campaign=1053&utm_source=git)** | United States | Remote | Jun 03 |
+| ↳ | **[Summer 2026 Multimedia Internship](https://jobright.ai/jobs/info/6a2054804bdf8a5a96bcff46?utm_campaign=1053&utm_source=git)** | Washington, DC | Remote | Jun 03 |
 | **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Historical Preservation, Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/6a0419e8f811a043696080cd?utm_campaign=1053&utm_source=git)** | Jamaica, NY | On Site | Jun 03 |
 | **[Children's Hospital of Philadelphia](http://chop.edu)** | **[Patient Media and Broadcasting Intern](https://jobright.ai/jobs/info/6a202ce8ca8f0b365d79f583?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Jun 03 |
 | **['Alohilani Resort Waikiki Beach](http://www.pacificbeachhotel.com/)** | **[Culinary Intern](https://jobright.ai/jobs/info/6a1fd2b1b61b2c65b37b479e?utm_campaign=1053&utm_source=git)** | US-NV-Las Vegas | On Site | Jun 03 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Geotab](http://www.geotab.com/)** | **[Video Production Intern(Fall/ September 2026, 12 Months)](https://jobright.ai/jobs/info/6a19bc849111f771d1a07ec3?utm_campaign=1053&utm_source=git)** | Oakville | Hybrid | May 29 |
 | ↳ | **[Video Production Intern(Fall/ September 2026, 12 Months)](https://jobright.ai/jobs/info/6a19bc7e9111f771d1a07eaf?utm_campaign=1053&utm_source=git)** | Oakville, Ontario - Canada | Hybrid | May 29 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Internship](https://jobright.ai/jobs/info/69c75068e565c26a70027c3c?utm_campaign=1053&utm_source=git)** | Savannah, GA | On Site | May 29 |
-| **[Metropolitan Opera](http://metopera.org/)** | **[Laffont Competition Intern](https://jobright.ai/jobs/info/6a19a0a0e24ef3652582600e?utm_campaign=1053&utm_source=git)** | Lincoln Center - New York, NY | On Site | May 29 |
-| **[Advisors Excel](http://advisorsexcel.com)** | **[Video Intern](https://jobright.ai/jobs/info/6a0785ba939a5f01db950f9a?utm_campaign=1053&utm_source=git)** | 2950 SW McClure Rd, Topeka, KS | On Site | May 29 |
-| **[East Side Union High School District](https://adulteducation.esuhsd.org)** | **[CUSD Student Internship - Film/Media Project **IN-DISTRICT Ceres Unified High School Students ONLY**](https://jobright.ai/jobs/info/6a1940b5c2a87d6cd3df821a?utm_campaign=1053&utm_source=git)** | 2503 Lawrence Street, CERES, California, 95307-0307, US | On Site | May 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
