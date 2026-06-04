@@ -57,14 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Russ & Daughters](http://www.russanddaughters.com)** | **[INTERNSHIP](https://jobright.ai/jobs/info/6a2157d27c30cc2cc5168a89?utm_campaign=1053&utm_source=git)** | Store (New York, NY) | On Site | Jun 04 |
 | **[PBS39](https://www.wlvt.org/)** | **[Production Intern](https://jobright.ai/jobs/info/6a212387c00e701fe836d537?utm_campaign=1053&utm_source=git)** | BETHLEHEM,PA,US | On Site | Jun 04 |
 | **[The Bridge Teen Center](http://www.thebridgeteencenter.org)** | **[Art Internship](https://jobright.ai/jobs/info/6a20c4404bdf8a5a96bd2efa?utm_campaign=1053&utm_source=git)** | Orland Park, IL | On Site | Jun 03 |
 | **[The Florida Holocaust Museum](https://www.flholocaustmuseum.org/)** | **[Elie Wiesel Collection Intern/Extern (Unpaid)](https://jobright.ai/jobs/info/6a20c419ca8f0b365d7a3441?utm_campaign=1053&utm_source=git)** | St. Petersburg, FL | On Site | Jun 03 |
 | **[The Bridge Teen Center](http://www.thebridgeteencenter.org)** | **[Video Production and Media Internship](https://jobright.ai/jobs/info/6a20c419338c01230511b5ae?utm_campaign=1053&utm_source=git)** | Orland Park, IL | On Site | Jun 03 |
 | **[SchoolSpring](http://www.schoolspring.com)** | **[EHS Student Worker: Multimedia Production Intern](https://jobright.ai/jobs/info/6a2090c0c00e701fe836a49c?utm_campaign=1053&utm_source=git)** | DISTRICT-WIDE - Estacada, Oregon | On Site | Jun 03 |
 | **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a20dce14bdf8a5a96bd36af?utm_campaign=1053&utm_source=git)** | Newark, NJ | On Site | Jun 03 |
-| ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a20dcd24bdf8a5a96bd36a9?utm_campaign=1053&utm_source=git)** | Minneapolis, MN | On Site | Jun 03 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a20dcd2c00e701fe836c0a1?utm_campaign=1053&utm_source=git)** | Albany, NY | On Site | Jun 03 |
+| ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a20dcd24bdf8a5a96bd36a9?utm_campaign=1053&utm_source=git)** | Minneapolis, MN | On Site | Jun 03 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a20dcd23a5f0145f4c1748a?utm_campaign=1053&utm_source=git)** | Evanston, IL | On Site | Jun 03 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a208663338c012305119a65?utm_campaign=1053&utm_source=git)** | Bloomington, IN | On Site | Jun 03 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a2086604bdf8a5a96bd1366?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | Jun 03 |
@@ -76,7 +77,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a20860fca8f0b365d7a1a21?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Jun 03 |
 | **[RPNZL Beauty](www.rpnzlbeauty.com)** | **[Tiktok / Social Creator Intern](https://jobright.ai/jobs/info/6a20841bca8f0b365d7a199d?utm_campaign=1053&utm_source=git)** | Miami, FL | Hybrid | Jun 03 |
 | **[Fan Feed Network](https://www.linkedin.com/company/106799493)** | **[Christian NFL Podcast & Short-Form Content Intern – Remote](https://jobright.ai/jobs/info/6a207fb44bdf8a5a96bd11d8?utm_campaign=1053&utm_source=git)** | DC-Baltimore Area | Remote | Jun 03 |
-| **[Texas Crew Productions](https://www.texascrew.com)** | **[Fall Semester Production Intern](https://jobright.ai/jobs/info/6a2070c44bdf8a5a96bd0c02?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | Jun 03 |
 | **[MADE BY GATHER](https://madebygather.com)** | **[TikTok Content Creator Summer Intern](https://jobright.ai/jobs/info/6a206cb5338c012305118f63?utm_campaign=1053&utm_source=git)** | Bentonville, AR | On Site | Jun 03 |
 | **[Complex NTWRK](https://www.complex.com)** | **[Editor Video Production Management Intern - College Credit](https://jobright.ai/jobs/info/69e7d38c7820c036924d870b?utm_campaign=1053&utm_source=git)** | New York, United States | On Site | Jun 03 |
 | **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Historical Preservation, Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/6a0419e8f811a043696080cd?utm_campaign=1053&utm_source=git)** | Jamaica, NY | On Site | Jun 03 |
