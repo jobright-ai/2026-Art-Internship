@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[UnderCurrent Talent](http://undercurrent.net)** | **[Content Assistant (Summer Intern/Part-Time)](https://jobright.ai/jobs/info/6a2204c6338c0123051226ea?utm_campaign=1053&utm_source=git)** | Miami, FL | On Site | Jun 04 |
+| **[Dreamscape Learn](https://www.dreamscapelearn.com)** | **[Production Intern (Unpaid for Course Credit Only)](https://jobright.ai/jobs/info/6a2204b17c30cc2cc516d0fb?utm_campaign=1053&utm_source=git)** | Culver City, CA | On Site | Jun 04 |
 | **[Maison de Carine](www.maisondecarine.com)** | **[Spring/Summer Special Events Intern](https://jobright.ai/jobs/info/6a21e9974bdf8a5a96bd9263?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jun 04 |
 | **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[Church History Archival Processing Intern](https://jobright.ai/jobs/info/6a21e2e54bdf8a5a96bd8f38?utm_campaign=1053&utm_source=git)** | 15 E North Temple, Salt Lake City, UT, 84150, US | On Site | Jun 04 |
 | **[Jupitrr AI](https://jupitrr.com/?ref=betalist)** | **[Video & Content Intern](https://jobright.ai/jobs/info/6a21d159ca8f0b365d7a90c4?utm_campaign=1053&utm_source=git)** | Vancouver, British Columbia, Canada | Hybrid | Jun 04 |
@@ -69,6 +71,7 @@ For a complete list, click the following sortable link below:
 | **[Penske Motor Group](http://penskemotorgroup.com)** | **[Lexus Stevens Creek Summer Internship](https://jobright.ai/jobs/info/6a2178c74bdf8a5a96bd5e5d?utm_campaign=1053&utm_source=git)** | US-CA-San Jose | On Site | Jun 04 |
 | **[PBS39](https://www.wlvt.org/)** | **[Production Intern](https://jobright.ai/jobs/info/6a212387c00e701fe836d537?utm_campaign=1053&utm_source=git)** | BETHLEHEM,PA,US | On Site | Jun 04 |
 | **[Complete Creative](http://www.completecreative.agency)** | **[Content Creator Summer Intern](https://jobright.ai/jobs/info/6a2180487c30cc2cc51692a1?utm_campaign=1053&utm_source=git)** | United States | Remote | Jun 04 |
+| **[ZooTampa at Lowry Park](https://zootampa.org/)** | **[Event Productions Internship Fall 2026](https://jobright.ai/jobs/info/6a2201adca8f0b365d7aa753?utm_campaign=1053&utm_source=git)** | Tampa, FL | On Site | Jun 03 |
 | **[The Bridge Teen Center](http://www.thebridgeteencenter.org)** | **[Art Internship](https://jobright.ai/jobs/info/6a20c4404bdf8a5a96bd2efa?utm_campaign=1053&utm_source=git)** | Orland Park, IL | On Site | Jun 03 |
 | **[The Florida Holocaust Museum](https://www.flholocaustmuseum.org/)** | **[Elie Wiesel Collection Intern/Extern (Unpaid)](https://jobright.ai/jobs/info/6a20c419ca8f0b365d7a3441?utm_campaign=1053&utm_source=git)** | St. Petersburg, FL | On Site | Jun 03 |
 | **[The Bridge Teen Center](http://www.thebridgeteencenter.org)** | **[Video Production and Media Internship](https://jobright.ai/jobs/info/6a20c419338c01230511b5ae?utm_campaign=1053&utm_source=git)** | Orland Park, IL | On Site | Jun 03 |
@@ -77,8 +80,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a2195d7338c01230511eda2?utm_campaign=1053&utm_source=git)** | Savannah, GA | On Site | Jun 03 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a2195d3ca8f0b365d7a7165?utm_campaign=1053&utm_source=git)** | Naperville, IL | On Site | Jun 03 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a20dce14bdf8a5a96bd36af?utm_campaign=1053&utm_source=git)** | Newark, NJ | On Site | Jun 03 |
-| ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a20dcd24bdf8a5a96bd36a9?utm_campaign=1053&utm_source=git)** | Minneapolis, MN | On Site | Jun 03 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a20dcd2c00e701fe836c0a1?utm_campaign=1053&utm_source=git)** | Albany, NY | On Site | Jun 03 |
+| ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a20dcd24bdf8a5a96bd36a9?utm_campaign=1053&utm_source=git)** | Minneapolis, MN | On Site | Jun 03 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a20dcd23a5f0145f4c1748a?utm_campaign=1053&utm_source=git)** | Evanston, IL | On Site | Jun 03 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a208663338c012305119a65?utm_campaign=1053&utm_source=git)** | Bloomington, IN | On Site | Jun 03 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a2086604bdf8a5a96bd1366?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | Jun 03 |
@@ -153,8 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Indiana Institute of Technology](http://www.indianatech.edu)** | **[Graduate Assistant - Esports](https://jobright.ai/jobs/info/69fb31c386d5cd46527d3c6e?utm_campaign=1053&utm_source=git)** | Fort Wayne, IN | On Site | May 29 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Full Time Paid Intern - YA Weekly Writer/Editor (Church Magazines)](https://jobright.ai/jobs/info/6a19fdb76b135014dbc876d0?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | May 29 |
 | **[City of Mississauga](http://www.mississauga.ca/portal/home)** | **[Production Coordinator](https://jobright.ai/jobs/info/69f50033db88714bcdfb1073?utm_campaign=1053&utm_source=git)** | Mississauga, Ontario, Canada | On Site | May 29 |
-| **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[Full-Time Paid Intern – Friend Writer/Editor (Church Magazines)](https://jobright.ai/jobs/info/6a1a4a7b547e292ae139832b?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | Hybrid | May 29 |
-| ↳ | **[Paid Intern - YA Weekly Writer/Editor (Church Magazines)](https://jobright.ai/jobs/info/6a1a4a7b547e292ae139832c?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | Hybrid | May 29 |
-| **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Full-Time Paid Intern – Friend Writer/Editor (Church Magazines)](https://jobright.ai/jobs/info/6a19fb2f9111f771d1a099b5?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | Hybrid | May 29 |
-| **[New York Football Giants](https://www.giants.com/)** | **[Content Production Intern - 2026 Season](https://jobright.ai/jobs/info/6a19f8d36b135014dbc87585?utm_campaign=1053&utm_source=git)** | East Rutherford, New Jersey, United States | On Site | May 29 |
+| **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[Paid Intern - YA Weekly Writer/Editor (Church Magazines)](https://jobright.ai/jobs/info/6a1a4a7b547e292ae139832c?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | Hybrid | May 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
