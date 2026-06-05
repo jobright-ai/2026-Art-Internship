@@ -57,11 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[County of Riverside](https://rivco.org)** | **[Behavioral Health Friday Night Lights (Indio) - Paid Internship](https://jobright.ai/jobs/info/6a18d87a17492d3a389ba0ef?utm_campaign=1053&utm_source=git)** | Riverside County, CA | On Site | Jun 04 |
 | **[The Broadmoor](http://www.broadmoor.com)** | **[PGM Intern/Assistant Golf Pro](https://jobright.ai/jobs/info/6a220f6cc00e701fe8372a16?utm_campaign=1053&utm_source=git)** | Colorado Springs, CO | On Site | Jun 04 |
 | **[CLD PR & Experiential Productions](https://cldstylehouse.com)** | **[Summer Party 2026 VIP Event Intern (Celebrity & Macro Influencer Experiential Event)](https://jobright.ai/jobs/info/6a220cc37c30cc2cc516d25c?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Jun 04 |
 | **[UnderCurrent Talent](http://undercurrent.net)** | **[Content Assistant (Summer Intern/Part-Time)](https://jobright.ai/jobs/info/6a2204c6338c0123051226ea?utm_campaign=1053&utm_source=git)** | Miami, FL | On Site | Jun 04 |
 | **[Dreamscape Learn](https://www.dreamscapelearn.com)** | **[Production Intern (Unpaid for Course Credit Only)](https://jobright.ai/jobs/info/6a2204b17c30cc2cc516d0fb?utm_campaign=1053&utm_source=git)** | Culver City, CA | On Site | Jun 04 |
-| **[Maison de Carine](www.maisondecarine.com)** | **[Spring/Summer Special Events Intern](https://jobright.ai/jobs/info/6a21e9974bdf8a5a96bd9263?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jun 04 |
 | **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[Church History Archival Processing Intern](https://jobright.ai/jobs/info/6a21e2e54bdf8a5a96bd8f38?utm_campaign=1053&utm_source=git)** | 15 E North Temple, Salt Lake City, UT, 84150, US | On Site | Jun 04 |
 | **[Jupitrr AI](https://jupitrr.com/?ref=betalist)** | **[Video & Content Intern](https://jobright.ai/jobs/info/6a21d159ca8f0b365d7a90c4?utm_campaign=1053&utm_source=git)** | Vancouver, British Columbia, Canada | Hybrid | Jun 04 |
 | **[Bethel University](https://www.betheluniversity.edu/)** | **[Student Worker - PR/Com Student Writer Intern](https://jobright.ai/jobs/info/6a21cac37c30cc2cc516b590?utm_campaign=1053&utm_source=git)** | Mishawaka, IN 46545, USA | On Site | Jun 04 |
@@ -81,8 +81,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a2195d7338c01230511eda2?utm_campaign=1053&utm_source=git)** | Savannah, GA | On Site | Jun 03 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a2195d3ca8f0b365d7a7165?utm_campaign=1053&utm_source=git)** | Naperville, IL | On Site | Jun 03 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a20dce14bdf8a5a96bd36af?utm_campaign=1053&utm_source=git)** | Newark, NJ | On Site | Jun 03 |
-| ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a20dcd2c00e701fe836c0a1?utm_campaign=1053&utm_source=git)** | Albany, NY | On Site | Jun 03 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a20dcd24bdf8a5a96bd36a9?utm_campaign=1053&utm_source=git)** | Minneapolis, MN | On Site | Jun 03 |
+| ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a20dcd2c00e701fe836c0a1?utm_campaign=1053&utm_source=git)** | Albany, NY | On Site | Jun 03 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a20dcd23a5f0145f4c1748a?utm_campaign=1053&utm_source=git)** | Evanston, IL | On Site | Jun 03 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a208663338c012305119a65?utm_campaign=1053&utm_source=git)** | Bloomington, IN | On Site | Jun 03 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a2086604bdf8a5a96bd1366?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | Jun 03 |
