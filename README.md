@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Bethel University](https://www.betheluniversity.edu/)** | **[Student Worker - PR/Com Student Writer Intern](https://jobright.ai/jobs/info/6a225712d1ab07243c7f7c42?utm_campaign=1053&utm_source=git)** | Mishawaka, IN 46545, USA | On Site | Jun 04 |
 | **[Skild AI](https://www.skild.ai/)** | **[Cinematography Intern (Product Videography & Social Media)](https://jobright.ai/jobs/info/6a223681902d19201c7bc86b?utm_campaign=1053&utm_source=git)** | San Mateo, CA | On Site | Jun 04 |
 | **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[Church History Archival Processing Intern](https://jobright.ai/jobs/info/6a21e2e54bdf8a5a96bd8f38?utm_campaign=1053&utm_source=git)** | 15 E North Temple, Salt Lake City, UT, 84150, US | On Site | Jun 04 |
 | **[Duke University](http://www.duke.edu)** | **[Administrative Intern, Library Exhibition Assistant](https://jobright.ai/jobs/info/6a21bf43338c01230512035d?utm_campaign=1053&utm_source=git)** | Durham, NC, US, 27710 | On Site | Jun 04 |
@@ -67,11 +68,9 @@ For a complete list, click the following sortable link below:
 | **[UnderCurrent Talent](http://undercurrent.net)** | **[Content Assistant (Summer Intern/Part-Time)](https://jobright.ai/jobs/info/6a2204c6338c0123051226ea?utm_campaign=1053&utm_source=git)** | Miami, FL | On Site | Jun 04 |
 | **[Dreamscape Learn](https://www.dreamscapelearn.com)** | **[Production Intern (Unpaid for Course Credit Only)](https://jobright.ai/jobs/info/6a2204b17c30cc2cc516d0fb?utm_campaign=1053&utm_source=git)** | Culver City, CA | On Site | Jun 04 |
 | **[Jupitrr AI](https://jupitrr.com/?ref=betalist)** | **[Video & Content Intern](https://jobright.ai/jobs/info/6a21d159ca8f0b365d7a90c4?utm_campaign=1053&utm_source=git)** | Vancouver, British Columbia, Canada | Hybrid | Jun 04 |
-| **[Bethel University](https://www.betheluniversity.edu/)** | **[Student Worker - PR/Com Student Writer Intern](https://jobright.ai/jobs/info/6a21cac37c30cc2cc516b590?utm_campaign=1053&utm_source=git)** | Mishawaka, IN 46545, USA | On Site | Jun 04 |
 | **[Mesa Chamber of Commerce](http://www.mesachamber.org)** | **[Videographer Intern](https://jobright.ai/jobs/info/6a21beadc00e701fe8370663?utm_campaign=1053&utm_source=git)** | Mesa, AZ | On Site | Jun 04 |
 | **[SKDK](http://skdknick.com)** | **[Production Intern, Summer 2026](https://jobright.ai/jobs/info/6a15cbe8128680351d9647dd?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Jun 04 |
 | **[Complex NTWRK](https://www.complex.com)** | **[Editorial Creator Intern - College Credit](https://jobright.ai/jobs/info/69e7d35be0cd471b2f12da17?utm_campaign=1053&utm_source=git)** | New York, United States | On Site | Jun 04 |
-| **[HydroGeoLogic, Inc.](https://www.hgl.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/6a04f24422395b6dc6da2181?utm_campaign=1053&utm_source=git)** | Phoenix, AZ, US | On Site | Jun 04 |
 | **[Penske Motor Group](http://penskemotorgroup.com)** | **[Lexus Stevens Creek Summer Internship](https://jobright.ai/jobs/info/6a2178c74bdf8a5a96bd5e5d?utm_campaign=1053&utm_source=git)** | US-CA-San Jose | On Site | Jun 04 |
 | **[PBS39](https://www.wlvt.org/)** | **[Production Intern](https://jobright.ai/jobs/info/6a212387c00e701fe836d537?utm_campaign=1053&utm_source=git)** | BETHLEHEM,PA,US | On Site | Jun 04 |
 | **[Complete Creative](http://www.completecreative.agency)** | **[Content Creator Summer Intern](https://jobright.ai/jobs/info/6a2180487c30cc2cc51692a1?utm_campaign=1053&utm_source=git)** | United States | Remote | Jun 04 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[Full Time Paid Intern For the Strength of Youth Writer/Editor (Church Magazines)](https://jobright.ai/jobs/info/6a1a4ab72b206f3955eb4098?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | Hybrid | May 29 |
 | **[Indiana Institute of Technology](http://www.indianatech.edu)** | **[Graduate Assistant - Esports](https://jobright.ai/jobs/info/69fb31c386d5cd46527d3c6e?utm_campaign=1053&utm_source=git)** | Fort Wayne, IN | On Site | May 29 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Full Time Paid Intern - YA Weekly Writer/Editor (Church Magazines)](https://jobright.ai/jobs/info/6a19fdb76b135014dbc876d0?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | May 29 |
+| ↳ | **[Full Time Paid Intern For the Strength of Youth Writer/Editor (Church Magazines)](https://jobright.ai/jobs/info/6a19fdd2547e292ae13960c7?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | Hybrid | May 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
