@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sinclair Inc.](http://sbgi.net/)** | **[News Intern (Unpaid)](https://jobright.ai/jobs/info/6a229f09757ade085b6ac723?utm_campaign=1053&utm_source=git)** | Green Bay, WI | On Site | Jun 05 |
+| **[Advisors Excel](http://advisorsexcel.com)** | **[Books Program Intern](https://jobright.ai/jobs/info/6a0785c23b54ed42d74cefbb?utm_campaign=1053&utm_source=git)** | 2950 SW McClure Rd, Topeka, KS | On Site | Jun 05 |
 | **[Bethel University](https://www.betheluniversity.edu/)** | **[Student Worker - PR/Com Student Writer Intern](https://jobright.ai/jobs/info/6a225712d1ab07243c7f7c42?utm_campaign=1053&utm_source=git)** | Mishawaka, IN 46545, USA | On Site | Jun 04 |
 | **[Skild AI](https://www.skild.ai/)** | **[Cinematography Intern (Product Videography & Social Media)](https://jobright.ai/jobs/info/6a223681902d19201c7bc86b?utm_campaign=1053&utm_source=git)** | San Mateo, CA | On Site | Jun 04 |
 | **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[Church History Archival Processing Intern](https://jobright.ai/jobs/info/6a21e2e54bdf8a5a96bd8f38?utm_campaign=1053&utm_source=git)** | 15 E North Temple, Salt Lake City, UT, 84150, US | On Site | Jun 04 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Intern, Weather](https://jobright.ai/jobs/info/69c19fa779e36d3a847e9c77?utm_campaign=1053&utm_source=git)** | IL, Champaign | On Site | May 30 |
 | **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[Full Time Paid Intern For the Strength of Youth Writer/Editor (Church Magazines)](https://jobright.ai/jobs/info/6a1a4ab72b206f3955eb4098?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | Hybrid | May 29 |
 | **[Indiana Institute of Technology](http://www.indianatech.edu)** | **[Graduate Assistant - Esports](https://jobright.ai/jobs/info/69fb31c386d5cd46527d3c6e?utm_campaign=1053&utm_source=git)** | Fort Wayne, IN | On Site | May 29 |
-| **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Full Time Paid Intern - YA Weekly Writer/Editor (Church Magazines)](https://jobright.ai/jobs/info/6a19fdb76b135014dbc876d0?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | May 29 |
-| ↳ | **[Full Time Paid Intern For the Strength of Youth Writer/Editor (Church Magazines)](https://jobright.ai/jobs/info/6a19fdd2547e292ae13960c7?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | Hybrid | May 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
