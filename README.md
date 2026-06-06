@@ -59,6 +59,7 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[KCRA 3 & My58 Television](http://www.kcra.com)** | **[Intern (Fall)](https://jobright.ai/jobs/info/6a2417ae757ade085b6afba3?utm_campaign=1053&utm_source=git)** | Sacramento, CA | On Site | Jun 06 |
 | **[Andrews McMeel Universal](http://www.amuniversal.com/)** | **[GoComics Content Archive Intern](https://jobright.ai/jobs/info/6a06336ca88ea73abf7f8fe5?utm_campaign=1053&utm_source=git)** | Kansas City, MO | Hybrid | Jun 05 |
+| **[HydroGeoLogic, Inc.](https://www.hgl.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/6a0523de6c07461fe171434e?utm_campaign=1053&utm_source=git)** | Phoenix, AZ | Hybrid | Jun 05 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Intern](https://jobright.ai/jobs/info/6a22c29c14de9460dc843079?utm_campaign=1053&utm_source=git)** | Chicopee, MA | On Site | Jun 05 |
 | **[Legends Global](http://legends.net)** | **[Video/Content Production Intern](https://jobright.ai/jobs/info/6a18c6be54a441713ae880d4?utm_campaign=1053&utm_source=git)** | Miami, FL | On Site | Jun 05 |
 | **[Austin Community College](http://austincc.edu)** | **[ACCTV Intern (Hourly)](https://jobright.ai/jobs/info/6a06204da88ea73abf7f7865?utm_campaign=1053&utm_source=git)** | Highland Campus, US | On Site | Jun 05 |
