@@ -156,5 +156,4 @@ For a complete list, click the following sortable link below:
 | **[Texas Tech University Health Sciences Center](https://www.ttuhsc.edu)** | **[Dept Intern - Pulse Magazine](https://jobright.ai/jobs/info/6a1b303f2b206f3955eb8651?utm_campaign=1053&utm_source=git)** | Lubbock | On Site | May 30 |
 | **[POLITICO](http://www.politico.com)** | **[Audio/Video Intern, Fall 2026 (HQ)](https://jobright.ai/jobs/info/6a1b2eecc2a87d6cd3e03558?utm_campaign=1053&utm_source=git)** | Arlington, VA | Hybrid | May 30 |
 | **[Sinclair Inc.](http://sbgi.net/)** | **[News Intern](https://jobright.ai/jobs/info/69c650ab83ea553769fd97d1?utm_campaign=1053&utm_source=git)** | Steubenville, OH | On Site | May 30 |
-| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Intern, Weather](https://jobright.ai/jobs/info/69c19fa779e36d3a847e9c77?utm_campaign=1053&utm_source=git)** | IL, Champaign | On Site | May 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
