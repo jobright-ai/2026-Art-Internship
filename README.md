@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid News Intern](https://jobright.ai/jobs/info/6972b01a9b83b424830eb8a4?utm_campaign=1053&utm_source=git)** | IN-Indianapolis;6910 Network Place (Tribune-WXIN/WTTV) | On Site | Jun 06 |
+| **[Hachette Book Group](http://www.hachettebookgroup.com)** | **[Publishing Internship, James Patterson](https://jobright.ai/jobs/info/6a2429f014de9460dc8462ba?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Jun 06 |
 | **[KCRA 3 & My58 Television](http://www.kcra.com)** | **[Intern (Fall)](https://jobright.ai/jobs/info/6a2417ae757ade085b6afba3?utm_campaign=1053&utm_source=git)** | Sacramento, CA | On Site | Jun 06 |
 | **[Andrews McMeel Universal](http://www.amuniversal.com/)** | **[GoComics Content Archive Intern](https://jobright.ai/jobs/info/6a06336ca88ea73abf7f8fe5?utm_campaign=1053&utm_source=git)** | Kansas City, MO | Hybrid | Jun 05 |
 | **[HydroGeoLogic, Inc.](https://www.hgl.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/6a0523de6c07461fe171434e?utm_campaign=1053&utm_source=git)** | Phoenix, AZ | Hybrid | Jun 05 |
@@ -144,7 +146,6 @@ For a complete list, click the following sortable link below:
 | **[One Impression](https://www.oneimpression.io)** | **[Research Associate Intern (Reels & Content Rating)](https://jobright.ai/jobs/info/6a1dcdf0c2a87d6cd3e0de2d?utm_campaign=1053&utm_source=git)** | United States | Remote | Jun 01 |
 | **[NFL Media](http://www.nfl.com)** | **[2026 NFL Films Fall Internship Program](https://jobright.ai/jobs/info/6a1dcc04b524ae49285a882f?utm_campaign=1053&utm_source=git)** | Mount Laurel, New Jersey, United States | On Site | Jun 01 |
 | ↳ | **[2026 NFL Films Fall Internship Program](https://jobright.ai/jobs/info/6a1dcbf2b524ae49285a87ec?utm_campaign=1053&utm_source=git)** | Mount Laurel, NJ | On Site | Jun 01 |
-| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid News Intern](https://jobright.ai/jobs/info/6972b01a9b83b424830eb8a4?utm_campaign=1053&utm_source=git)** | IN-Indianapolis;6910 Network Place (Tribune-WXIN/WTTV) | On Site | Jun 01 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Paid Fall Music Group Publishing Intern](https://jobright.ai/jobs/info/6a1d313d7c457b279080e614?utm_campaign=1053&utm_source=git)** | Calabasas, CA, USA, US | On Site | Jun 01 |
 | **[Insomniac Events](http://insomniac.com)** | **[Paid Fall Music Group Publishing Intern](https://jobright.ai/jobs/info/6a1d666fe24ef365258379a5?utm_campaign=1053&utm_source=git)** | Calabasas, CA | On Site | Jun 01 |
 | **[Florida Panthers](http://floridapanthers.com)** | **[Game Presentation Entertainment Intern](https://jobright.ai/jobs/info/6a1d0522e24ef36525835f8b?utm_campaign=1053&utm_source=git)** | Amerant Bank Arena, Sunrise, FL | On Site | May 31 |
