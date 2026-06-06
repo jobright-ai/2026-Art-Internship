@@ -154,5 +154,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern, Sports](https://jobright.ai/jobs/info/69e34e343ce36005badc1741?utm_campaign=1053&utm_source=git)** | NY, New York | On Site | May 31 |
 | **[M Booth](http://www.mbooth.com)** | **[Summer 2026 Intern](https://jobright.ai/jobs/info/6a1bd14a9111f771d1a12ac5?utm_campaign=1053&utm_source=git)** | New York office only | On Site | May 30 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Intern - KOIN / KRCW - Portland, OR (Unpaid)](https://jobright.ai/jobs/info/69c67c251b5ad02887384c1a?utm_campaign=1053&utm_source=git)** | Portland, OR | On Site | May 30 |
-| **[Sinclair Inc.](http://sbgi.net/)** | **[Intern - Studio Crew](https://jobright.ai/jobs/info/69e1d29dd612782e6114aa3a?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | May 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
