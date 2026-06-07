@@ -152,5 +152,4 @@ For a complete list, click the following sortable link below:
 | **[Melara Enterprises](http://www.melaraenterprises.com)** | **[225 Magazine Editorial or Photography Intern](https://jobright.ai/jobs/info/6a1c6901547e292ae13a115e?utm_campaign=1053&utm_source=git)** | Baton Rouge, LA | On Site | May 31 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Paid Intern - News](https://jobright.ai/jobs/info/69aa34642ebd316bece1f7a9?utm_campaign=1053&utm_source=git)** | Joplin, MO | On Site | May 31 |
 | ↳ | **[Intern, Sports](https://jobright.ai/jobs/info/69e34e343ce36005badc1741?utm_campaign=1053&utm_source=git)** | NY, New York | On Site | May 31 |
-| **[M Booth](http://www.mbooth.com)** | **[Summer 2026 Intern](https://jobright.ai/jobs/info/6a1bd14a9111f771d1a12ac5?utm_campaign=1053&utm_source=git)** | New York office only | On Site | May 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
