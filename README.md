@@ -57,10 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CITIZENS OF THE INTERNET](https://thecitizensoftheinternet.com)** | **[TikTok Video Editor Intern](https://jobright.ai/jobs/info/6a25ef63757ade085b6b2666?utm_campaign=1053&utm_source=git)** | Houston, TX | Hybrid | Jun 07 |
+| **[Respect My Region](https://www.respectmyregion.com)** | **[Rap and Hip-Hop Music Journalist Internship](https://jobright.ai/jobs/info/6a25e8d84239a43538882b20?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Remote | Jun 07 |
 | **[Collective Minds Inc.](https://collectivemindsincorporated.com)** | **[Basketball Video Coordinator Internship](https://jobright.ai/jobs/info/6a25d61c757ade085b6b2367?utm_campaign=1053&utm_source=git)** | Atlanta, GA | Remote | Jun 07 |
 | **[Revilo Technologies](www.reviloautocare.com)** | **[Video Editing Intern l U.S.-Based Aftermarket Automotive AI Startup](https://jobright.ai/jobs/info/6a25cc4a757ade085b6b2275?utm_campaign=1053&utm_source=git)** | United States | Remote | Jun 07 |
+| **[Elite Podcast Studio](ElitePodcastStudio.com)** | **[Fall 2026 Internship / Content Creator / Elite Podcast Studio / Tampa Bay](https://jobright.ai/jobs/info/6a25e709d46c0f7996089079?utm_campaign=1053&utm_source=git)** | Odessa, FL | On Site | Jun 07 |
 | **[Ripken Baseball](https://www.ripkenbaseball.com)** | **[Fall Tournament Operations Intern](https://jobright.ai/jobs/info/6a24eecc757ade085b6b10c6?utm_campaign=1053&utm_source=git)** | Pigeon Forge, TN | On Site | Jun 06 |
-| **[CITIZENS OF THE INTERNET](https://thecitizensoftheinternet.com)** | **[Creative Video Editor Intern](https://jobright.ai/jobs/info/6a24e4f1757ade085b6b1011?utm_campaign=1053&utm_source=git)** | Houston, TX | Hybrid | Jun 06 |
+| **[County of Riverside](https://rivco.org)** | **[Behavioral Health Friday Night Lights (Indio) - Paid Internship](https://jobright.ai/jobs/info/6a25e6eededf78312c7b0cf4?utm_campaign=1053&utm_source=git)** | Riverside County, CA | On Site | Jun 06 |
 | **[Complex NTWRK](https://www.complex.com)** | **[Editorial Creator Intern - College Credit](https://jobright.ai/jobs/info/69e7d35be0cd471b2f12da17?utm_campaign=1053&utm_source=git)** | New York, United States | On Site | Jun 06 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid News Intern](https://jobright.ai/jobs/info/6972b01a9b83b424830eb8a4?utm_campaign=1053&utm_source=git)** | IN-Indianapolis;6910 Network Place (Tribune-WXIN/WTTV) | On Site | Jun 06 |
 | **[Hachette Book Group](http://www.hachettebookgroup.com)** | **[Publishing Internship, James Patterson](https://jobright.ai/jobs/info/6a2429f014de9460dc8462ba?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Jun 06 |
