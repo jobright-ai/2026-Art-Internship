@@ -57,10 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Elite Podcast Studio](ElitePodcastStudio.com)** | **[Fall 2026 Internship / Content Creator / Elite Podcast Studio / Tampa Bay](https://jobright.ai/jobs/info/6a255827d46c0f7996088401?utm_campaign=1053&utm_source=git)** | Odessa, FL | On Site | Jun 07 |
+| **[Revilo Technologies](www.reviloautocare.com)** | **[Video Editing Intern l U.S.-Based Aftermarket Automotive AI Startup](https://jobright.ai/jobs/info/6a25cc4a757ade085b6b2275?utm_campaign=1053&utm_source=git)** | United States | Remote | Jun 07 |
 | **[Ripken Baseball](https://www.ripkenbaseball.com)** | **[Fall Tournament Operations Intern](https://jobright.ai/jobs/info/6a24eecc757ade085b6b10c6?utm_campaign=1053&utm_source=git)** | Pigeon Forge, TN | On Site | Jun 06 |
 | **[CITIZENS OF THE INTERNET](https://thecitizensoftheinternet.com)** | **[Creative Video Editor Intern](https://jobright.ai/jobs/info/6a24e4f1757ade085b6b1011?utm_campaign=1053&utm_source=git)** | Houston, TX | Hybrid | Jun 06 |
-| **[County of Riverside](https://rivco.org)** | **[Behavioral Health Friday Night Lights (Indio) - Paid Internship](https://jobright.ai/jobs/info/6a18d87a17492d3a389ba0ef?utm_campaign=1053&utm_source=git)** | Riverside County, CA | On Site | Jun 06 |
+| **[Complex NTWRK](https://www.complex.com)** | **[Editorial Creator Intern - College Credit](https://jobright.ai/jobs/info/69e7d35be0cd471b2f12da17?utm_campaign=1053&utm_source=git)** | New York, United States | On Site | Jun 06 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid News Intern](https://jobright.ai/jobs/info/6972b01a9b83b424830eb8a4?utm_campaign=1053&utm_source=git)** | IN-Indianapolis;6910 Network Place (Tribune-WXIN/WTTV) | On Site | Jun 06 |
 | **[Hachette Book Group](http://www.hachettebookgroup.com)** | **[Publishing Internship, James Patterson](https://jobright.ai/jobs/info/6a2429f014de9460dc8462ba?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Jun 06 |
 | **[KCRA 3 & My58 Television](http://www.kcra.com)** | **[Intern (Fall)](https://jobright.ai/jobs/info/6a25615c757ade085b6b19d2?utm_campaign=1053&utm_source=git)** | Sacramento, CA | On Site | Jun 06 |
@@ -77,11 +77,9 @@ For a complete list, click the following sortable link below:
 | **[Duke University](http://www.duke.edu)** | **[Administrative Intern, Library Exhibition Assistant](https://jobright.ai/jobs/info/6a21bf43338c01230512035d?utm_campaign=1053&utm_source=git)** | Durham, NC, US, 27710 | On Site | Jun 04 |
 | **[Ganna Walska Lotusland](http://www.lotusland.org)** | **[Cultural Collections & Archival Summer Internship](https://jobright.ai/jobs/info/6a222b167c30cc2cc516da5c?utm_campaign=1053&utm_source=git)** | Santa Barbara, CA | On Site | Jun 04 |
 | **[CLD PR & Experiential Productions](https://cldstylehouse.com)** | **[Summer Party 2026 VIP Event Intern (Celebrity & Macro Influencer Experiential Event)](https://jobright.ai/jobs/info/6a220cc37c30cc2cc516d25c?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Jun 04 |
-| **[UnderCurrent](http://undercurrent.net)** | **[Content Assistant (Summer Intern/Part-Time)](https://jobright.ai/jobs/info/6a2204c6338c0123051226ea?utm_campaign=1053&utm_source=git)** | Miami, FL | On Site | Jun 04 |
 | **[Dreamscape Learn](https://www.dreamscapelearn.com)** | **[Production Intern (Unpaid for Course Credit Only)](https://jobright.ai/jobs/info/6a2204b17c30cc2cc516d0fb?utm_campaign=1053&utm_source=git)** | Culver City, CA | On Site | Jun 04 |
 | **[Jupitrr AI](https://jupitrr.com/?ref=betalist)** | **[Video & Content Intern](https://jobright.ai/jobs/info/6a21d159ca8f0b365d7a90c4?utm_campaign=1053&utm_source=git)** | Vancouver, British Columbia, Canada | Hybrid | Jun 04 |
 | **[Mesa Chamber of Commerce](http://www.mesachamber.org)** | **[Videographer Intern](https://jobright.ai/jobs/info/6a21beadc00e701fe8370663?utm_campaign=1053&utm_source=git)** | Mesa, AZ | On Site | Jun 04 |
-| **[Complex NTWRK](https://www.complex.com)** | **[Editorial Creator Intern - College Credit](https://jobright.ai/jobs/info/69e7d35be0cd471b2f12da17?utm_campaign=1053&utm_source=git)** | New York, United States | On Site | Jun 04 |
 | **[Penske Motor Group](http://penskemotorgroup.com)** | **[Lexus Stevens Creek Summer Internship](https://jobright.ai/jobs/info/6a2178c74bdf8a5a96bd5e5d?utm_campaign=1053&utm_source=git)** | US-CA-San Jose | On Site | Jun 04 |
 | **[PBS39](https://www.wlvt.org/)** | **[Production Intern](https://jobright.ai/jobs/info/6a212387c00e701fe836d537?utm_campaign=1053&utm_source=git)** | BETHLEHEM,PA,US | On Site | Jun 04 |
 | **[The Bridge Teen Center](http://www.thebridgeteencenter.org)** | **[Art Internship](https://jobright.ai/jobs/info/6a20c4404bdf8a5a96bd2efa?utm_campaign=1053&utm_source=git)** | Orland Park, IL | On Site | Jun 03 |
