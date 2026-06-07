@@ -49,6 +49,11 @@ For a complete list, click the following sortable link below:
 </a>
 </div>
 
+
+### Canada-specific companion resource
+
+- [Hanzilla Jobs — Arts & Humanities internships in Canada](https://jobs.hanzilla.co/arts/) — free, daily-updated Canadian student and recent-grad job board covering arts, communications, policy/government, research, nonprofit/community, education/student affairs, museums/archives/culture, writing/editorial/publishing, and adjacent internship/co-op roles.
+
 ---
 ## Daily Job List  🌐 🧭 🏆
 
