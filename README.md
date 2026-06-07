@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Collective Minds Inc.](https://collectivemindsincorporated.com)** | **[Basketball Video Coordinator Internship](https://jobright.ai/jobs/info/6a25d61c757ade085b6b2367?utm_campaign=1053&utm_source=git)** | Atlanta, GA | Remote | Jun 07 |
 | **[Revilo Technologies](www.reviloautocare.com)** | **[Video Editing Intern l U.S.-Based Aftermarket Automotive AI Startup](https://jobright.ai/jobs/info/6a25cc4a757ade085b6b2275?utm_campaign=1053&utm_source=git)** | United States | Remote | Jun 07 |
 | **[Ripken Baseball](https://www.ripkenbaseball.com)** | **[Fall Tournament Operations Intern](https://jobright.ai/jobs/info/6a24eecc757ade085b6b10c6?utm_campaign=1053&utm_source=git)** | Pigeon Forge, TN | On Site | Jun 06 |
 | **[CITIZENS OF THE INTERNET](https://thecitizensoftheinternet.com)** | **[Creative Video Editor Intern](https://jobright.ai/jobs/info/6a24e4f1757ade085b6b1011?utm_campaign=1053&utm_source=git)** | Houston, TX | Hybrid | Jun 06 |
@@ -149,5 +150,4 @@ For a complete list, click the following sortable link below:
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Paid Fall Music Group Publishing Intern](https://jobright.ai/jobs/info/6a1d313d7c457b279080e614?utm_campaign=1053&utm_source=git)** | Calabasas, CA, USA, US | On Site | Jun 01 |
 | **[City of College Park, MD](http://www.collegeparkmd.gov)** | **[Video Editing and Production Intern](https://jobright.ai/jobs/info/6a25568ddedf78312c7afff0?utm_campaign=1053&utm_source=git)** | College Park, MD, USA | On Site | Jun 01 |
 | **[Insomniac Events](http://insomniac.com)** | **[Paid Fall Music Group Publishing Intern](https://jobright.ai/jobs/info/6a1d666fe24ef365258379a5?utm_campaign=1053&utm_source=git)** | Calabasas, CA | On Site | Jun 01 |
-| **[Florida Panthers](http://floridapanthers.com)** | **[Game Presentation Entertainment Intern](https://jobright.ai/jobs/info/6a1d0522e24ef36525835f8b?utm_campaign=1053&utm_source=git)** | Amerant Bank Arena, Sunrise, FL | On Site | May 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
