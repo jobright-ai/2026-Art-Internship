@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ripken Baseball](https://www.ripkenbaseball.com)** | **[Fall Tournament Operations Intern](https://jobright.ai/jobs/info/6a24eecc757ade085b6b10c6?utm_campaign=1053&utm_source=git)** | Pigeon Forge, TN | On Site | Jun 06 |
 | **[CITIZENS OF THE INTERNET](https://thecitizensoftheinternet.com)** | **[Creative Video Editor Intern](https://jobright.ai/jobs/info/6a24e4f1757ade085b6b1011?utm_campaign=1053&utm_source=git)** | Houston, TX | Hybrid | Jun 06 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid News Intern](https://jobright.ai/jobs/info/6972b01a9b83b424830eb8a4?utm_campaign=1053&utm_source=git)** | IN-Indianapolis;6910 Network Place (Tribune-WXIN/WTTV) | On Site | Jun 06 |
 | **[Hachette Book Group](http://www.hachettebookgroup.com)** | **[Publishing Internship, James Patterson](https://jobright.ai/jobs/info/6a2429f014de9460dc8462ba?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Jun 06 |
@@ -91,8 +92,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a2195d7338c01230511eda2?utm_campaign=1053&utm_source=git)** | Savannah, GA | On Site | Jun 03 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a2195d3ca8f0b365d7a7165?utm_campaign=1053&utm_source=git)** | Naperville, IL | On Site | Jun 03 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a20dce14bdf8a5a96bd36af?utm_campaign=1053&utm_source=git)** | Newark, NJ | On Site | Jun 03 |
-| ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a20dcd24bdf8a5a96bd36a9?utm_campaign=1053&utm_source=git)** | Minneapolis, MN | On Site | Jun 03 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a20dcd2c00e701fe836c0a1?utm_campaign=1053&utm_source=git)** | Albany, NY | On Site | Jun 03 |
+| ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a20dcd24bdf8a5a96bd36a9?utm_campaign=1053&utm_source=git)** | Minneapolis, MN | On Site | Jun 03 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a20dcd23a5f0145f4c1748a?utm_campaign=1053&utm_source=git)** | Evanston, IL | On Site | Jun 03 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a208663338c012305119a65?utm_campaign=1053&utm_source=git)** | Bloomington, IN | On Site | Jun 03 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a2086604bdf8a5a96bd1366?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | Jun 03 |
@@ -152,5 +153,4 @@ For a complete list, click the following sortable link below:
 | **[Florida Panthers](http://floridapanthers.com)** | **[Game Presentation Entertainment Intern](https://jobright.ai/jobs/info/6a1d0522e24ef36525835f8b?utm_campaign=1053&utm_source=git)** | Amerant Bank Arena, Sunrise, FL | On Site | May 31 |
 | **[Melara Enterprises](http://www.melaraenterprises.com)** | **[225 Magazine Editorial or Photography Intern](https://jobright.ai/jobs/info/6a1c6901547e292ae13a115e?utm_campaign=1053&utm_source=git)** | Baton Rouge, LA | On Site | May 31 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Paid Intern - News](https://jobright.ai/jobs/info/69aa34642ebd316bece1f7a9?utm_campaign=1053&utm_source=git)** | Joplin, MO | On Site | May 31 |
-| ↳ | **[Intern, Sports](https://jobright.ai/jobs/info/69e34e343ce36005badc1741?utm_campaign=1053&utm_source=git)** | NY, New York | On Site | May 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
