@@ -153,5 +153,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 NFL Films Fall Internship Program](https://jobright.ai/jobs/info/6a1dcbf2b524ae49285a87ec?utm_campaign=1053&utm_source=git)** | Mount Laurel, NJ | On Site | Jun 01 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Paid Fall Music Group Publishing Intern](https://jobright.ai/jobs/info/6a1d313d7c457b279080e614?utm_campaign=1053&utm_source=git)** | Calabasas, CA, USA, US | On Site | Jun 01 |
 | **[City of College Park, MD](http://www.collegeparkmd.gov)** | **[Video Editing and Production Intern](https://jobright.ai/jobs/info/6a25568ddedf78312c7afff0?utm_campaign=1053&utm_source=git)** | College Park, MD, USA | On Site | Jun 01 |
-| **[Insomniac Events](http://insomniac.com)** | **[Paid Fall Music Group Publishing Intern](https://jobright.ai/jobs/info/6a1d666fe24ef365258379a5?utm_campaign=1053&utm_source=git)** | Calabasas, CA | On Site | Jun 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
