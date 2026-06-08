@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Oriana House, Inc.](https://www.orianahouse.org/)** | **[Digital Media Production Intern](https://jobright.ai/jobs/info/6a26f2264ec8d737d6dfcd10?utm_campaign=1053&utm_source=git)** | Akron, Ohio, United States | On Site | Jun 08 |
 | **[100% Productions](https://www.linkedin.com/company/107111575)** | **[Summer Intern - Celebrity & VIP Event](https://jobright.ai/jobs/info/6a27131a7d827633afff8748?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Jun 08 |
 | **[Omni Hotels & Resorts](http://www.omnihotels.com/)** | **[Omni Care Internship Pastry/Baking / Fall 2026](https://jobright.ai/jobs/info/6a26f2ac7d827633afff79a9?utm_campaign=1053&utm_source=git)** | Omni Mount Washington Resort, 310 Mount Washington Hotel Rd, Bretton Woods, New Hampshire, United States of America | On Site | Jun 08 |
 | **[Fox News Media](https://www.foxnews.com/)** | **[Fall 2026 FOX News Media Internship Program - FOX Noticias - New York](https://jobright.ai/jobs/info/6a0accd8a203b1052e44eee9?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jun 08 |
