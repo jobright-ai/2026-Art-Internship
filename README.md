@@ -142,5 +142,4 @@ For a complete list, click the following sortable link below:
 | **[HUSH](http://heyhush.com/)** | **[Intern: Production](https://jobright.ai/jobs/info/6a1a663d547e292ae1398bd7?utm_campaign=1053&utm_source=git)** | Brooklyn, NY | On Site | Jun 01 |
 | **[Country Music Hall Of Fame and Museum](http://www.countrymusichalloffame.org/)** | **[Fall 2026 Editorial (Paid) Intern](https://jobright.ai/jobs/info/6a1e311ab524ae49285ab290?utm_campaign=1053&utm_source=git)** | Nashville, TN | On Site | Jun 01 |
 | **[Penn State University](http://psu.edu)** | **[Summer Intern- Video Editing](https://jobright.ai/jobs/info/6a1e136f6b135014dbc9a85f?utm_campaign=1053&utm_source=git)** | University Park, PA | On Site | Jun 01 |
-| **[National Community Renaissance](https://nationalcore.org/)** | **[Production Studio Management Internship](https://jobright.ai/jobs/info/6a1e0ad96b135014dbc9a51e?utm_campaign=1053&utm_source=git)** | Corporate Rancho Cucamonga - Rancho Cucamonga, CA 91730 | On Site | Jun 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
