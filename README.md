@@ -143,5 +143,4 @@ For a complete list, click the following sortable link below:
 | **[Country Music Hall Of Fame and Museum](http://www.countrymusichalloffame.org/)** | **[Fall 2026 Editorial (Paid) Intern](https://jobright.ai/jobs/info/6a1e311ab524ae49285ab290?utm_campaign=1053&utm_source=git)** | Nashville, TN | On Site | Jun 01 |
 | **[Penn State University](http://psu.edu)** | **[Summer Intern- Video Editing](https://jobright.ai/jobs/info/6a1e136f6b135014dbc9a85f?utm_campaign=1053&utm_source=git)** | University Park, PA | On Site | Jun 01 |
 | **[National Community Renaissance](https://nationalcore.org/)** | **[Production Studio Management Internship](https://jobright.ai/jobs/info/6a1e0ad96b135014dbc9a51e?utm_campaign=1053&utm_source=git)** | Corporate Rancho Cucamonga - Rancho Cucamonga, CA 91730 | On Site | Jun 01 |
-| **[Complex NTWRK](https://www.complex.com)** | **[Editorial Creator Intern - College Credit](https://jobright.ai/jobs/info/6a1b0d359111f771d1a0fadf?utm_campaign=1053&utm_source=git)** | New York | On Site | Jun 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
