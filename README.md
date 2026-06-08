@@ -122,7 +122,6 @@ For a complete list, click the following sortable link below:
 | **[Ever](https://evercars.com)** | **[Video Producer Internship](https://jobright.ai/jobs/info/6a1f39e909442629a685890b?utm_campaign=1053&utm_source=git)** | San Francisco | On Site | Jun 02 |
 | **[Cincinnati Magazine](https://www.cincinnatimagazine.com)** | **[Editorial internship](https://jobright.ai/jobs/info/6a1f324809442629a68581c8?utm_campaign=1053&utm_source=git)** | Cincinnati, OH | Hybrid | Jun 02 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Events and Communication - Internship Experience (Fall 2026)](https://jobright.ai/jobs/info/6a1a6be2e24ef3652582b9ad?utm_campaign=1053&utm_source=git)** | Dorval, Quebec, Canada | Hybrid | Jun 02 |
-| **[Utah Jazz](http://www.nba.com/jazz)** | **[Game Presentation Intern](https://jobright.ai/jobs/info/6a1dbceb9111f771d1a1a8f2?utm_campaign=1053&utm_source=git)** | Salt Lake City,UT,US | On Site | Jun 02 |
 | **[Octagon](http://www.octagon.com)** | **[Intern (Global Soccer Fan Festivals) (Home Improvement Client)](https://jobright.ai/jobs/info/6a1f1d378049156781166cc2?utm_campaign=1053&utm_source=git)** | Washington, United States | On Site | Jun 02 |
 | ↳ | **[Intern (Global Soccer Fan Festivals) (Home Improvement Client)](https://jobright.ai/jobs/info/6a1f1d2e8049156781166cb2?utm_campaign=1053&utm_source=git)** | Atlanta, Georgia, United States | On Site | Jun 02 |
 | ↳ | **[Intern (Global Soccer Fan Festivals) (Home Improvement Client)](https://jobright.ai/jobs/info/6a1f1d2d8049156781166caa?utm_campaign=1053&utm_source=git)** | Miami, Florida, United States | On Site | Jun 02 |
@@ -140,6 +139,4 @@ For a complete list, click the following sortable link below:
 | **[OC Fair & Event Center](https://ocfair.com/)** | **[Entertainment Intern](https://jobright.ai/jobs/info/6a1e2c01b524ae49285ab13c?utm_campaign=1053&utm_source=git)** | Costa Mesa, CA | On Site | Jun 01 |
 | **[Pearl West](https://www.pearlwestgroup.com)** | **[TikTok Shop Intern](https://jobright.ai/jobs/info/6a1e235c9111f771d1a1d7c6?utm_campaign=1053&utm_source=git)** | Vancouver, BC, Canada | Hybrid | Jun 01 |
 | **[HUSH](http://heyhush.com/)** | **[Intern: Production](https://jobright.ai/jobs/info/6a1a663d547e292ae1398bd7?utm_campaign=1053&utm_source=git)** | Brooklyn, NY | On Site | Jun 01 |
-| **[Country Music Hall Of Fame and Museum](http://www.countrymusichalloffame.org/)** | **[Fall 2026 Editorial (Paid) Intern](https://jobright.ai/jobs/info/6a1e311ab524ae49285ab290?utm_campaign=1053&utm_source=git)** | Nashville, TN | On Site | Jun 01 |
-| **[Penn State University](http://psu.edu)** | **[Summer Intern- Video Editing](https://jobright.ai/jobs/info/6a1e136f6b135014dbc9a85f?utm_campaign=1053&utm_source=git)** | University Park, PA | On Site | Jun 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
