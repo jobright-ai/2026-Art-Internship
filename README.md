@@ -151,5 +151,4 @@ For a complete list, click the following sortable link below:
 | **[One Impression](https://www.oneimpression.io)** | **[Research Associate Intern (Reels & Content Rating)](https://jobright.ai/jobs/info/6a1dcdf0c2a87d6cd3e0de2d?utm_campaign=1053&utm_source=git)** | United States | Remote | Jun 01 |
 | **[NFL Media](http://www.nfl.com)** | **[2026 NFL Films Fall Internship Program](https://jobright.ai/jobs/info/6a1dcc04b524ae49285a882f?utm_campaign=1053&utm_source=git)** | Mount Laurel, New Jersey, United States | On Site | Jun 01 |
 | ↳ | **[2026 NFL Films Fall Internship Program](https://jobright.ai/jobs/info/6a1dcbf2b524ae49285a87ec?utm_campaign=1053&utm_source=git)** | Mount Laurel, NJ | On Site | Jun 01 |
-| **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Paid Fall Music Group Publishing Intern](https://jobright.ai/jobs/info/6a1d313d7c457b279080e614?utm_campaign=1053&utm_source=git)** | Calabasas, CA, USA, US | On Site | Jun 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
