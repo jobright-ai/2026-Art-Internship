@@ -136,6 +136,4 @@ For a complete list, click the following sortable link below:
 | **[Penn State University](http://psu.edu)** | **[Summer Intern- Video Editing](https://jobright.ai/jobs/info/6a1ec60180491567811647ef?utm_campaign=1053&utm_source=git)** | Penn State University Park, US | On Site | Jun 02 |
 | **[Pebble Beach Resorts](https://www.pebblebeach.com)** | **[Golf Junior Intern (Temporary)](https://jobright.ai/jobs/info/6a1ebf89b61b2c65b37acae4?utm_campaign=1053&utm_source=git)** | Pebble Beach, CA 93953, USA | On Site | Jun 02 |
 | **[Redis](https://redis.io/)** | **[Video Production & Video Internship (Summer)](https://jobright.ai/jobs/info/6a030adff3d6cc51d6372ab8?utm_campaign=1053&utm_source=git)** | San Francisco, CA | On Site | Jun 02 |
-| **[KnowBe4](http://www.KnowBe4.com)** | **[Social Media Production Intern (Hybrid)](https://jobright.ai/jobs/info/6a1734eb1430333075cce752?utm_campaign=1053&utm_source=git)** | Clearwater, Florida | Hybrid | Jun 02 |
-| ↳ | **[Social Media Production Intern (Hybrid)](https://jobright.ai/jobs/info/6a1734e41430333075cce74a?utm_campaign=1053&utm_source=git)** | Clearwater, Florida, United States | Hybrid | Jun 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
