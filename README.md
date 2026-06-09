@@ -58,7 +58,6 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Our National Conversation (ONC)](https://www.ournationalconversation.org)** | **[Video Production Intern](https://jobright.ai/jobs/info/6a27efdc1dbd8437bebc81c1?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, USA | Remote | Jun 09 |
-| **[888 Creative](https://888creative.co/)** | **[Content Creator - Detroit (Summer 2026 Internship)](https://jobright.ai/jobs/info/6a27b4221dbd8437bebc7908?utm_campaign=1053&utm_source=git)** | United States | Remote | Jun 08 |
 | **[Memphis Grizzlies](http://grizzlies.com)** | **[Social & Digital Content Coordinating Production Intern](https://jobright.ai/jobs/info/6a18cc99c2a87d6cd3df4de0?utm_campaign=1053&utm_source=git)** | Memphis, TN, US | On Site | Jun 08 |
 | **[Our National Conversation (ONC)](https://www.ournationalconversation.org)** | **[Podcast Production Intern](https://jobright.ai/jobs/info/6a27472512f0202342263d34?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, USA | Remote | Jun 08 |
 | ↳ | **[Podcast Production Intern](https://jobright.ai/jobs/info/6a2743062056260dd6e86497?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Remote | Jun 08 |
@@ -97,8 +96,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a2195d7338c01230511eda2?utm_campaign=1053&utm_source=git)** | Savannah, GA | On Site | Jun 03 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a2195d3ca8f0b365d7a7165?utm_campaign=1053&utm_source=git)** | Naperville, IL | On Site | Jun 03 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a20dce14bdf8a5a96bd36af?utm_campaign=1053&utm_source=git)** | Newark, NJ | On Site | Jun 03 |
-| ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a20dcd24bdf8a5a96bd36a9?utm_campaign=1053&utm_source=git)** | Minneapolis, MN | On Site | Jun 03 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a20dcd2c00e701fe836c0a1?utm_campaign=1053&utm_source=git)** | Albany, NY | On Site | Jun 03 |
+| ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a20dcd24bdf8a5a96bd36a9?utm_campaign=1053&utm_source=git)** | Minneapolis, MN | On Site | Jun 03 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a20dcd23a5f0145f4c1748a?utm_campaign=1053&utm_source=git)** | Evanston, IL | On Site | Jun 03 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a208663338c012305119a65?utm_campaign=1053&utm_source=git)** | Bloomington, IN | On Site | Jun 03 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a2086604bdf8a5a96bd1366?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | Jun 03 |
@@ -110,10 +109,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a20860fca8f0b365d7a1a21?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Jun 03 |
 | **[RPNZL Beauty](www.rpnzlbeauty.com)** | **[Tiktok / Social Creator Intern](https://jobright.ai/jobs/info/6a20841bca8f0b365d7a199d?utm_campaign=1053&utm_source=git)** | Miami, FL | Hybrid | Jun 03 |
 | **[MADE BY GATHER](https://madebygather.com)** | **[TikTok Content Creator Summer Intern](https://jobright.ai/jobs/info/6a206cb5338c012305118f63?utm_campaign=1053&utm_source=git)** | Bentonville, AR | On Site | Jun 03 |
-| **[Complex NTWRK](https://www.complex.com)** | **[Editor Video Production Management Intern - College Credit](https://jobright.ai/jobs/info/69e7d38c7820c036924d870b?utm_campaign=1053&utm_source=git)** | New York, United States | On Site | Jun 03 |
 | **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Historical Preservation, Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/6a0419e8f811a043696080cd?utm_campaign=1053&utm_source=git)** | Jamaica, NY | On Site | Jun 03 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Intern](https://jobright.ai/jobs/info/69ca87138fc6090c5d44e5e1?utm_campaign=1053&utm_source=git)** | Amarillo, TX | On Site | Jun 03 |
 | **['Alohilani Resort Waikiki Beach](http://www.pacificbeachhotel.com/)** | **[Culinary Intern](https://jobright.ai/jobs/info/6a1fd2b1b61b2c65b37b479e?utm_campaign=1053&utm_source=git)** | US-NV-Las Vegas | On Site | Jun 03 |
-| **[Complex NTWRK](https://www.complex.com)** | **[Content and Creative Operations Intern - College Credit](https://jobright.ai/jobs/info/6a1983c89111f771d1a06304?utm_campaign=1053&utm_source=git)** | New York | On Site | Jun 02 |
 | **[United States Hockey League (USHL)](https://www.ushl.com/)** | **[Game Presentation Internship](https://jobright.ai/jobs/info/6a1f7d84804915678116a89d?utm_campaign=1053&utm_source=git)** | Muskegon, MI | On Site | Jun 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
