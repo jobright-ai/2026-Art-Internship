@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Our National Conversation (ONC)](https://www.ournationalconversation.org)** | **[Podcast Production Intern](https://jobright.ai/jobs/info/6a27472512f0202342263d34?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, USA | Remote | Jun 08 |
+| ↳ | **[Podcast Production Intern](https://jobright.ai/jobs/info/6a2743062056260dd6e86497?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Remote | Jun 08 |
 | **[Oriana House, Inc.](https://www.orianahouse.org/)** | **[Digital Media Production Intern](https://jobright.ai/jobs/info/6a26f2264ec8d737d6dfcd10?utm_campaign=1053&utm_source=git)** | Akron, Ohio, United States | On Site | Jun 08 |
 | **[100% Productions](https://www.linkedin.com/company/107111575)** | **[Summer Intern - Celebrity & VIP Event](https://jobright.ai/jobs/info/6a27131a7d827633afff8748?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Jun 08 |
 | **[Omni Hotels & Resorts](http://www.omnihotels.com/)** | **[Omni Care Internship Pastry/Baking / Fall 2026](https://jobright.ai/jobs/info/6a26f2ac7d827633afff79a9?utm_campaign=1053&utm_source=git)** | Omni Mount Washington Resort, 310 Mount Washington Hotel Rd, Bretton Woods, New Hampshire, United States of America | On Site | Jun 08 |
@@ -136,5 +138,4 @@ For a complete list, click the following sortable link below:
 | **[Redis](https://redis.io/)** | **[Video Production & Video Internship (Summer)](https://jobright.ai/jobs/info/6a030adff3d6cc51d6372ab8?utm_campaign=1053&utm_source=git)** | San Francisco, CA | On Site | Jun 02 |
 | **[KnowBe4](http://www.KnowBe4.com)** | **[Social Media Production Intern (Hybrid)](https://jobright.ai/jobs/info/6a1734eb1430333075cce752?utm_campaign=1053&utm_source=git)** | Clearwater, Florida | Hybrid | Jun 02 |
 | ↳ | **[Social Media Production Intern (Hybrid)](https://jobright.ai/jobs/info/6a1734e41430333075cce74a?utm_campaign=1053&utm_source=git)** | Clearwater, Florida, United States | Hybrid | Jun 02 |
-| **[The Publisher Desk](http://www.publisherdesk.com/)** | **[Editorial Summer Internship, Forever Blueshirts](https://jobright.ai/jobs/info/6a1e78c0a507373dff6ba5f4?utm_campaign=1053&utm_source=git)** | Remote (United States) | Remote | Jun 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
