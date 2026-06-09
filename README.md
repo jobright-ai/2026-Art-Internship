@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[888 Creative](https://888creative.co/)** | **[Content Creator - Detroit (Summer 2026 Internship)](https://jobright.ai/jobs/info/6a27b4221dbd8437bebc7908?utm_campaign=1053&utm_source=git)** | United States | Remote | Jun 08 |
 | **[Memphis Grizzlies](http://grizzlies.com)** | **[Social & Digital Content Coordinating Production Intern](https://jobright.ai/jobs/info/6a18cc99c2a87d6cd3df4de0?utm_campaign=1053&utm_source=git)** | Memphis, TN, US | On Site | Jun 08 |
 | **[Our National Conversation (ONC)](https://www.ournationalconversation.org)** | **[Podcast Production Intern](https://jobright.ai/jobs/info/6a27472512f0202342263d34?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, USA | Remote | Jun 08 |
 | ↳ | **[Podcast Production Intern](https://jobright.ai/jobs/info/6a2743062056260dd6e86497?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Remote | Jun 08 |
@@ -89,6 +90,7 @@ For a complete list, click the following sortable link below:
 | **[Mesa Chamber of Commerce](http://www.mesachamber.org)** | **[Videographer Intern](https://jobright.ai/jobs/info/6a21beadc00e701fe8370663?utm_campaign=1053&utm_source=git)** | Mesa, AZ | On Site | Jun 04 |
 | **[Penske Motor Group](http://penskemotorgroup.com)** | **[Lexus Stevens Creek Summer Internship](https://jobright.ai/jobs/info/6a2178c74bdf8a5a96bd5e5d?utm_campaign=1053&utm_source=git)** | US-CA-San Jose | On Site | Jun 04 |
 | **[PBS39](https://www.wlvt.org/)** | **[Production Intern](https://jobright.ai/jobs/info/6a212387c00e701fe836d537?utm_campaign=1053&utm_source=git)** | BETHLEHEM,PA,US | On Site | Jun 04 |
+| **[Complete Creative](http://www.completecreative.agency)** | **[Content Creator Summer Intern](https://jobright.ai/jobs/info/6a27b8491dbd8437bebc79e6?utm_campaign=1053&utm_source=git)** | Remote job | Remote | Jun 03 |
 | **[The Bridge Teen Center](http://www.thebridgeteencenter.org)** | **[Art Internship](https://jobright.ai/jobs/info/6a20c4404bdf8a5a96bd2efa?utm_campaign=1053&utm_source=git)** | Orland Park, IL | On Site | Jun 03 |
 | **[The Florida Holocaust Museum](https://www.flholocaustmuseum.org/)** | **[Elie Wiesel Collection Intern/Extern (Unpaid)](https://jobright.ai/jobs/info/6a20c419ca8f0b365d7a3441?utm_campaign=1053&utm_source=git)** | St. Petersburg, FL | On Site | Jun 03 |
 | **[The Bridge Teen Center](http://www.thebridgeteencenter.org)** | **[Video Production and Media Internship](https://jobright.ai/jobs/info/6a20c419338c01230511b5ae?utm_campaign=1053&utm_source=git)** | Orland Park, IL | On Site | Jun 03 |
@@ -130,5 +132,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern (Global Soccer Fan Festivals) (Home Improvement Client)](https://jobright.ai/jobs/info/6a1f1d2c8049156781166ca4?utm_campaign=1053&utm_source=git)** | Kansas, United States | On Site | Jun 02 |
 | **[NBCUniversal](https://www.nbcuniversal.com/)** | **[NBCU Local Bay Area - Video Editor Internship - Academic Year (2026-2027)](https://jobright.ai/jobs/info/6a1f60b2c5277c00c6485a39?utm_campaign=1053&utm_source=git)** | San Francisco, CA | On Site | Jun 02 |
 | **[DreamWorks Animation](https://www.dreamworks.com)** | **[NBCU Local Bay Area - Video Editor Internship - Academic Year (2026-2027)](https://jobright.ai/jobs/info/6a1f0e258049156781166387?utm_campaign=1053&utm_source=git)** | 360 Third Street Suite 200, San Francisco, CALIFORNIA | On Site | Jun 02 |
-| **[Double Wood Supplements](https://doublewoodsupplements.com/)** | **[TikTok Shop Intern - Supplements](https://jobright.ai/jobs/info/6a1eef4180491567811655dd?utm_campaign=1053&utm_source=git)** | New York, United States | Hybrid | Jun 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
