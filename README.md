@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[MediaSource](https://mediasourcetv.com)** | **[Broadcast Journalist/Videography Content Fall Internship](https://jobright.ai/jobs/info/6a29779ad3ec8317fe13e251?utm_campaign=1053&utm_source=git)** | Columbus,OH,US | On Site | Jun 10 |
 | **[Russ & Daughters](http://www.russanddaughters.com)** | **[INTERNSHIP](https://jobright.ai/jobs/info/6a295cec2cde2824469bba5a?utm_campaign=1053&utm_source=git)** | Store (New York, NY) | On Site | Jun 10 |
 | **[Mitratech Trakstar](http://www.trakstar.com)** | **[Videography Intern](https://jobright.ai/jobs/info/6a291dd51dbd8437bebcf06f?utm_campaign=1053&utm_source=git)** | Suwanee, Georgia, United States | On Site | Jun 10 |
 | **[Sales Gravy | Sell More](http://www.salesgravy.com/)** | **[Video Production & Editing Intern - Fall 2026](https://jobright.ai/jobs/info/6a2912b2883c0d3be6545a7e?utm_campaign=1053&utm_source=git)** | Thomson, GA | On Site | Jun 10 |
@@ -67,6 +68,8 @@ For a complete list, click the following sortable link below:
 | **[Genzest LLC](https://nailphoria.com/)** | **[Livestream Operation intern](https://jobright.ai/jobs/info/6a286e2d7061b51a3a5f5c1b?utm_campaign=1053&utm_source=git)** | West Hollywood, CA | On Site | Jun 09 |
 | **[Richmond Flying Mummies](Mummiesbaseball.com)** | **[PC Director Internship](https://jobright.ai/jobs/info/6a289395fd37e62bb47aa08f?utm_campaign=1053&utm_source=git)** | Richmond, IN | On Site | Jun 09 |
 | **[Neon Postgres](https://neon.tech)** | **[NEON General Internship Program - Fall 2026](https://jobright.ai/jobs/info/6a284cc5fd37e62bb47a8343?utm_campaign=1053&utm_source=git)** | Los Angeles, California, United States | On Site | Jun 09 |
+| **[NEON](https://neonrated.com)** | **[NEON General Internship Program - Fall 2026](https://jobright.ai/jobs/info/6a296acf1de59e0682a7ef9e?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jun 09 |
+| ↳ | **[NEON General Internship Program - Fall 2026](https://jobright.ai/jobs/info/6a296ac62cde2824469bbf1a?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Jun 09 |
 | **[Our National Conversation (ONC)](https://www.ournationalconversation.org)** | **[Video Production Intern](https://jobright.ai/jobs/info/6a27efdc1dbd8437bebc81c1?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, USA | Remote | Jun 09 |
 | **[Memphis Grizzlies](http://grizzlies.com)** | **[Social & Digital Content Coordinating Production Intern](https://jobright.ai/jobs/info/6a18cc99c2a87d6cd3df4de0?utm_campaign=1053&utm_source=git)** | Memphis, TN, US | On Site | Jun 08 |
 | **[Our National Conversation (ONC)](https://www.ournationalconversation.org)** | **[Podcast Production Intern](https://jobright.ai/jobs/info/6a27472512f0202342263d34?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, USA | Remote | Jun 08 |
