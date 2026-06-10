@@ -57,7 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[OPTYO](https://optyo.net)** | **[UGC Content Intern - Golf](https://jobright.ai/jobs/info/6a29a1e1c07d4b6ae1c41d41?utm_campaign=1053&utm_source=git)** | San Diego, CA | Hybrid | Jun 10 |
+| **[Mully](https://www.mullybox.com/)** | **[Summer Content Internship](https://jobright.ai/jobs/info/6a29b4c30c4972328e7e5411?utm_campaign=1053&utm_source=git)** | United States | Remote | Jun 10 |
+| **[OPTYO](https://optyo.net)** | **[UGC Content Intern - Sports & Fitness](https://jobright.ai/jobs/info/6a29a6be1de59e0682a80a59?utm_campaign=1053&utm_source=git)** | San Diego, CA | Hybrid | Jun 10 |
+| ↳ | **[UGC Content Intern - Health & Wellness](https://jobright.ai/jobs/info/6a29a353c07d4b6ae1c41da6?utm_campaign=1053&utm_source=git)** | San Diego, CA | Hybrid | Jun 10 |
+| ↳ | **[UGC Content Intern - Golf](https://jobright.ai/jobs/info/6a29a1e1c07d4b6ae1c41d41?utm_campaign=1053&utm_source=git)** | San Diego, CA | Hybrid | Jun 10 |
 | **[Miami SCORES, Powered by Concacaf](www.miamiscores.org)** | **[Miami SCORES 2026 World Cup Storytelling & Videography Intern, Summer 2026](https://jobright.ai/jobs/info/6a298a56d3ec8317fe13e907?utm_campaign=1053&utm_source=git)** | Miami, FL | On Site | Jun 10 |
 | **[MediaSource](https://mediasourcetv.com)** | **[Broadcast Journalist/Videography Content Fall Internship](https://jobright.ai/jobs/info/6a29779ad3ec8317fe13e251?utm_campaign=1053&utm_source=git)** | Columbus,OH,US | On Site | Jun 10 |
 | **[Russ & Daughters](http://www.russanddaughters.com)** | **[INTERNSHIP](https://jobright.ai/jobs/info/6a295cec2cde2824469bba5a?utm_campaign=1053&utm_source=git)** | Store (New York, NY) | On Site | Jun 10 |
