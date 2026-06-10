@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Trakstar, part of Mitratech](http://www.trakstar.com)** | **[Videography Intern](https://jobright.ai/jobs/info/6a291dd51dbd8437bebcf06f?utm_campaign=1053&utm_source=git)** | Suwanee, Georgia, United States | On Site | Jun 10 |
+| **[Sales Gravy | Sell More](http://www.salesgravy.com/)** | **[Video Production & Editing Intern - Fall 2026](https://jobright.ai/jobs/info/6a2912b2883c0d3be6545a7e?utm_campaign=1053&utm_source=git)** | Thomson, GA | On Site | Jun 10 |
 | **[HYPEBEAST](http://hypebeast.com)** | **[Editorial Intern](https://jobright.ai/jobs/info/6a2901a32d6c332ee52e9499?utm_campaign=1053&utm_source=git)** | New York | On Site | Jun 09 |
 | ↳ | **[Editorial Intern](https://jobright.ai/jobs/info/6a28fb64fd37e62bb47ac3db?utm_campaign=1053&utm_source=git)** | New York, United States | On Site | Jun 09 |
 | **[Leigh & Co. Events](http://leighandcoevents.com)** | **[Unpaid Wedding Assistant Intern](https://jobright.ai/jobs/info/6a28c31a7061b51a3a5f7bb0?utm_campaign=1053&utm_source=git)** | United States | Remote | Jun 09 |
@@ -98,6 +100,7 @@ For a complete list, click the following sortable link below:
 | **[SKDK](http://skdknick.com)** | **[Production Intern, Summer 2026](https://jobright.ai/jobs/info/6a2882bdfd37e62bb47a9a95?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Jun 04 |
 | **[Mesa Chamber of Commerce](http://www.mesachamber.org)** | **[Videographer Intern](https://jobright.ai/jobs/info/6a21beadc00e701fe8370663?utm_campaign=1053&utm_source=git)** | Mesa, AZ | On Site | Jun 04 |
 | **[PBS39](https://www.wlvt.org/)** | **[Production Intern](https://jobright.ai/jobs/info/6a212387c00e701fe836d537?utm_campaign=1053&utm_source=git)** | BETHLEHEM,PA,US | On Site | Jun 04 |
+| **[Fan Feed Network](https://www.linkedin.com/company/106799493)** | **[Christian NFL Podcast & Short-Form Content Intern – Remote](https://jobright.ai/jobs/info/6a29173b40ac8e32932a537d?utm_campaign=1053&utm_source=git)** | DC-Baltimore Area | Remote | Jun 04 |
 | **[Complete Creative](http://www.completecreative.agency)** | **[Content Creator Summer Intern](https://jobright.ai/jobs/info/6a27b8491dbd8437bebc79e6?utm_campaign=1053&utm_source=git)** | Remote job | Remote | Jun 03 |
 | **[The Bridge Teen Center](http://www.thebridgeteencenter.org)** | **[Art Internship](https://jobright.ai/jobs/info/6a20c4404bdf8a5a96bd2efa?utm_campaign=1053&utm_source=git)** | Orland Park, IL | On Site | Jun 03 |
 | **[The Florida Holocaust Museum](https://www.flholocaustmuseum.org/)** | **[Elie Wiesel Collection Intern/Extern (Unpaid)](https://jobright.ai/jobs/info/6a20c419ca8f0b365d7a3441?utm_campaign=1053&utm_source=git)** | St. Petersburg, FL | On Site | Jun 03 |
