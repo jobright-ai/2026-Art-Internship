@@ -103,6 +103,4 @@ For a complete list, click the following sortable link below:
 | **[PBS39](https://www.wlvt.org/)** | **[Production Intern](https://jobright.ai/jobs/info/6a212387c00e701fe836d537?utm_campaign=1053&utm_source=git)** | BETHLEHEM,PA,US | On Site | Jun 04 |
 | **[Fan Feed Network](https://www.linkedin.com/company/106799493)** | **[Christian NFL Podcast & Short-Form Content Intern – Remote](https://jobright.ai/jobs/info/6a29173b40ac8e32932a537d?utm_campaign=1053&utm_source=git)** | DC-Baltimore Area | Remote | Jun 04 |
 | **[Complete Creative](http://www.completecreative.agency)** | **[Content Creator Summer Intern](https://jobright.ai/jobs/info/6a27b8491dbd8437bebc79e6?utm_campaign=1053&utm_source=git)** | Remote job | Remote | Jun 03 |
-| **[The Florida Holocaust Museum](https://www.flholocaustmuseum.org/)** | **[Elie Wiesel Collection Intern/Extern (Unpaid)](https://jobright.ai/jobs/info/6a20c419ca8f0b365d7a3441?utm_campaign=1053&utm_source=git)** | St. Petersburg, FL | On Site | Jun 03 |
-| **[The Bridge Teen Center](http://www.thebridgeteencenter.org)** | **[Video Production and Media Internship](https://jobright.ai/jobs/info/6a20c419338c01230511b5ae?utm_campaign=1053&utm_source=git)** | Orland Park, IL | On Site | Jun 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
