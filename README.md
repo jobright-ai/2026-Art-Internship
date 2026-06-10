@@ -57,8 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Miami SCORES, Powered by Concacaf](www.miamiscores.org)** | **[Miami SCORES 2026 World Cup Storytelling & Videography Intern, Summer 2026](https://jobright.ai/jobs/info/6a298a56d3ec8317fe13e907?utm_campaign=1053&utm_source=git)** | Miami, FL | On Site | Jun 10 |
 | **[MediaSource](https://mediasourcetv.com)** | **[Broadcast Journalist/Videography Content Fall Internship](https://jobright.ai/jobs/info/6a29779ad3ec8317fe13e251?utm_campaign=1053&utm_source=git)** | Columbus,OH,US | On Site | Jun 10 |
 | **[Russ & Daughters](http://www.russanddaughters.com)** | **[INTERNSHIP](https://jobright.ai/jobs/info/6a295cec2cde2824469bba5a?utm_campaign=1053&utm_source=git)** | Store (New York, NY) | On Site | Jun 10 |
+| **[University of Utah Health Research](https://uofuhealth.utah.edu/research)** | **[Publishing and Research Communication Intern](https://jobright.ai/jobs/info/6a298bf2495d985b994240c6?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Jun 10 |
 | **[Mitratech Trakstar](http://www.trakstar.com)** | **[Videography Intern](https://jobright.ai/jobs/info/6a291dd51dbd8437bebcf06f?utm_campaign=1053&utm_source=git)** | Suwanee, Georgia, United States | On Site | Jun 10 |
 | **[Sales Gravy | Sell More](http://www.salesgravy.com/)** | **[Video Production & Editing Intern - Fall 2026](https://jobright.ai/jobs/info/6a2912b2883c0d3be6545a7e?utm_campaign=1053&utm_source=git)** | Thomson, GA | On Site | Jun 10 |
 | **[HYPEBEAST](http://hypebeast.com)** | **[Editorial Intern](https://jobright.ai/jobs/info/6a2901a32d6c332ee52e9499?utm_campaign=1053&utm_source=git)** | New York | On Site | Jun 09 |
