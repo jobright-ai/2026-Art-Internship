@@ -111,8 +111,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a2195d7338c01230511eda2?utm_campaign=1053&utm_source=git)** | Savannah, GA | On Site | Jun 03 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a2195d3ca8f0b365d7a7165?utm_campaign=1053&utm_source=git)** | Naperville, IL | On Site | Jun 03 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a20dce14bdf8a5a96bd36af?utm_campaign=1053&utm_source=git)** | Newark, NJ | On Site | Jun 03 |
-| ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a20dcd2c00e701fe836c0a1?utm_campaign=1053&utm_source=git)** | Albany, NY | On Site | Jun 03 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a20dcd24bdf8a5a96bd36a9?utm_campaign=1053&utm_source=git)** | Minneapolis, MN | On Site | Jun 03 |
+| ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a20dcd2c00e701fe836c0a1?utm_campaign=1053&utm_source=git)** | Albany, NY | On Site | Jun 03 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a20dcd23a5f0145f4c1748a?utm_campaign=1053&utm_source=git)** | Evanston, IL | On Site | Jun 03 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a208663338c012305119a65?utm_campaign=1053&utm_source=git)** | Bloomington, IN | On Site | Jun 03 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a2086604bdf8a5a96bd1366?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | Jun 03 |
@@ -123,5 +123,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a208612902d19201c7b2c55?utm_campaign=1053&utm_source=git)** | Greenbrier River, WV | On Site | Jun 03 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a20860fca8f0b365d7a1a21?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Jun 03 |
 | **[RPNZL Beauty](www.rpnzlbeauty.com)** | **[Tiktok / Social Creator Intern](https://jobright.ai/jobs/info/6a20841bca8f0b365d7a199d?utm_campaign=1053&utm_source=git)** | Miami, FL | Hybrid | Jun 03 |
-| **[MADE BY GATHER](https://madebygather.com)** | **[TikTok Content Creator Summer Intern](https://jobright.ai/jobs/info/6a206cb5338c012305118f63?utm_campaign=1053&utm_source=git)** | Bentonville, AR | On Site | Jun 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
