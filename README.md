@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[HYPEBEAST](http://hypebeast.com)** | **[Editorial Intern](https://jobright.ai/jobs/info/6a28fb64fd37e62bb47ac3db?utm_campaign=1053&utm_source=git)** | New York, United States | On Site | Jun 09 |
+| **[HYPEBEAST](http://hypebeast.com)** | **[Editorial Intern](https://jobright.ai/jobs/info/6a2901a32d6c332ee52e9499?utm_campaign=1053&utm_source=git)** | New York | On Site | Jun 09 |
+| ↳ | **[Editorial Intern](https://jobright.ai/jobs/info/6a28fb64fd37e62bb47ac3db?utm_campaign=1053&utm_source=git)** | New York, United States | On Site | Jun 09 |
 | **[Leigh & Co. Events](http://leighandcoevents.com)** | **[Unpaid Wedding Assistant Intern](https://jobright.ai/jobs/info/6a28c31a7061b51a3a5f7bb0?utm_campaign=1053&utm_source=git)** | United States | Remote | Jun 09 |
 | **[TCP Film & Entertainment](www.thalescorrea.com)** | **[Social Media Video Editor Intern](https://jobright.ai/jobs/info/6a289f5340ac8e32932a2c74?utm_campaign=1053&utm_source=git)** | California, United States | Remote | Jun 09 |
 | **[Sales Gravy | Sell More](http://www.salesgravy.com/)** | **[Video Production & Editing Intern - Fall 2026](https://jobright.ai/jobs/info/6a288dd81dbd8437bebcbe82?utm_campaign=1053&utm_source=git)** | 115 E Hall St, Thomson, 30824, US | On Site | Jun 09 |
@@ -65,8 +66,8 @@ For a complete list, click the following sortable link below:
 | **[Genzest LLC](https://nailphoria.com/)** | **[Livestream Operation intern](https://jobright.ai/jobs/info/6a286e2d7061b51a3a5f5c1b?utm_campaign=1053&utm_source=git)** | West Hollywood, CA | On Site | Jun 09 |
 | **[Richmond NWL Baseball](Northwoodsleague.com)** | **[PC Director Internship](https://jobright.ai/jobs/info/6a289395fd37e62bb47aa08f?utm_campaign=1053&utm_source=git)** | Richmond, IN | On Site | Jun 09 |
 | **[Neon Postgres](https://neon.tech)** | **[NEON General Internship Program - Fall 2026](https://jobright.ai/jobs/info/6a284cc5fd37e62bb47a8343?utm_campaign=1053&utm_source=git)** | Los Angeles, California, United States | On Site | Jun 09 |
-| **[NEON](https://neonrated.com)** | **[NEON General Internship Program - Fall 2026](https://jobright.ai/jobs/info/6a287f452d6c332ee52e6779?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jun 09 |
-| ↳ | **[NEON General Internship Program - Fall 2026](https://jobright.ai/jobs/info/6a287f4b883c0d3be6542797?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Jun 09 |
+| **[NEON](https://neonrated.com)** | **[NEON General Internship Program - Fall 2026](https://jobright.ai/jobs/info/6a287f4b883c0d3be6542797?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Jun 09 |
+| ↳ | **[NEON General Internship Program - Fall 2026](https://jobright.ai/jobs/info/6a287f452d6c332ee52e6779?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jun 09 |
 | **[Our National Conversation (ONC)](https://www.ournationalconversation.org)** | **[Video Production Intern](https://jobright.ai/jobs/info/6a27efdc1dbd8437bebc81c1?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, USA | Remote | Jun 09 |
 | **[Memphis Grizzlies](http://grizzlies.com)** | **[Social & Digital Content Coordinating Production Intern](https://jobright.ai/jobs/info/6a18cc99c2a87d6cd3df4de0?utm_campaign=1053&utm_source=git)** | Memphis, TN, US | On Site | Jun 08 |
 | **[Our National Conversation (ONC)](https://www.ournationalconversation.org)** | **[Podcast Production Intern](https://jobright.ai/jobs/info/6a27472512f0202342263d34?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, USA | Remote | Jun 08 |
@@ -96,7 +97,6 @@ For a complete list, click the following sortable link below:
 | **[Dreamscape Learn](https://www.dreamscapelearn.com)** | **[Production Intern (Unpaid for Course Credit Only)](https://jobright.ai/jobs/info/6a2204b17c30cc2cc516d0fb?utm_campaign=1053&utm_source=git)** | Culver City, CA | On Site | Jun 04 |
 | **[SKDK](http://skdknick.com)** | **[Production Intern, Summer 2026](https://jobright.ai/jobs/info/6a2882bdfd37e62bb47a9a95?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Jun 04 |
 | **[Mesa Chamber of Commerce](http://www.mesachamber.org)** | **[Videographer Intern](https://jobright.ai/jobs/info/6a21beadc00e701fe8370663?utm_campaign=1053&utm_source=git)** | Mesa, AZ | On Site | Jun 04 |
-| **[Penske Motor Group](http://penskemotorgroup.com)** | **[Lexus Stevens Creek Summer Internship](https://jobright.ai/jobs/info/6a2178c74bdf8a5a96bd5e5d?utm_campaign=1053&utm_source=git)** | US-CA-San Jose | On Site | Jun 04 |
 | **[PBS39](https://www.wlvt.org/)** | **[Production Intern](https://jobright.ai/jobs/info/6a212387c00e701fe836d537?utm_campaign=1053&utm_source=git)** | BETHLEHEM,PA,US | On Site | Jun 04 |
 | **[Complete Creative](http://www.completecreative.agency)** | **[Content Creator Summer Intern](https://jobright.ai/jobs/info/6a27b8491dbd8437bebc79e6?utm_campaign=1053&utm_source=git)** | Remote job | Remote | Jun 03 |
 | **[The Bridge Teen Center](http://www.thebridgeteencenter.org)** | **[Art Internship](https://jobright.ai/jobs/info/6a20c4404bdf8a5a96bd2efa?utm_campaign=1053&utm_source=git)** | Orland Park, IL | On Site | Jun 03 |
@@ -120,5 +120,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a20860fca8f0b365d7a1a21?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Jun 03 |
 | **[RPNZL Beauty](www.rpnzlbeauty.com)** | **[Tiktok / Social Creator Intern](https://jobright.ai/jobs/info/6a20841bca8f0b365d7a199d?utm_campaign=1053&utm_source=git)** | Miami, FL | Hybrid | Jun 03 |
 | **[MADE BY GATHER](https://madebygather.com)** | **[TikTok Content Creator Summer Intern](https://jobright.ai/jobs/info/6a206cb5338c012305118f63?utm_campaign=1053&utm_source=git)** | Bentonville, AR | On Site | Jun 03 |
-| **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Historical Preservation, Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/6a0419e8f811a043696080cd?utm_campaign=1053&utm_source=git)** | Jamaica, NY | On Site | Jun 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
