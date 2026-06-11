@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[WMUR-TV](http://www.wmur.com/)** | **[Creative Services Intern](https://jobright.ai/jobs/info/69ba8f1506c1ba00c54ca4eb?utm_campaign=1053&utm_source=git)** | Manchester, NH | On Site | Jun 11 |
 | **[University of Utah](http://utah.edu)** | **[Publishing and Research Communication Intern](https://jobright.ai/jobs/info/6a2a7d9b1de59e0682a84c94?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Jun 10 |
 | **[NPR](http://www.npr.org)** | **[It's Been a Minute & Life Kit Internship- Fall 2026](https://jobright.ai/jobs/info/6a2a2cbc0c4972328e7e749c?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Jun 10 |
 | **[CareerViewXR](https://careerviewxr.bemorecolorful.com/)** | **[Media Production Intern](https://jobright.ai/jobs/info/6a29d9081de59e0682a81ff3?utm_campaign=1053&utm_source=git)** | Fargo, ND | On Site | Jun 10 |
@@ -123,5 +124,4 @@ For a complete list, click the following sortable link below:
 | **[Duke University](http://ceint.duke.edu)** | **[Administrative Intern, Library Exhibition Assistant](https://jobright.ai/jobs/info/6a21bf43338c01230512035d?utm_campaign=1053&utm_source=git)** | Durham, NC, US, 27710 | On Site | Jun 04 |
 | **[Ganna Walska Lotusland](http://www.lotusland.org)** | **[Cultural Collections & Archival Summer Internship](https://jobright.ai/jobs/info/6a222b167c30cc2cc516da5c?utm_campaign=1053&utm_source=git)** | Santa Barbara, CA | On Site | Jun 04 |
 | **[Dreamscape Learn](https://www.dreamscapelearn.com)** | **[Production Intern (Unpaid for Course Credit Only)](https://jobright.ai/jobs/info/6a2204b17c30cc2cc516d0fb?utm_campaign=1053&utm_source=git)** | Culver City, CA | On Site | Jun 04 |
-| **[SKDK](http://skdknick.com)** | **[Production Intern, Summer 2026](https://jobright.ai/jobs/info/6a2882bdfd37e62bb47a9a95?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Jun 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
