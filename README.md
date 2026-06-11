@@ -119,6 +119,4 @@ For a complete list, click the following sortable link below:
 | **[Dreamscape Learn](https://www.dreamscapelearn.com)** | **[Production Intern (Unpaid for Course Credit Only)](https://jobright.ai/jobs/info/6a2204b17c30cc2cc516d0fb?utm_campaign=1053&utm_source=git)** | Culver City, CA | On Site | Jun 04 |
 | **[SKDK](http://skdknick.com)** | **[Production Intern, Summer 2026](https://jobright.ai/jobs/info/6a2882bdfd37e62bb47a9a95?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Jun 04 |
 | **[Mesa Chamber of Commerce](http://www.mesachamber.org)** | **[Videographer Intern](https://jobright.ai/jobs/info/6a21beadc00e701fe8370663?utm_campaign=1053&utm_source=git)** | Mesa, AZ | On Site | Jun 04 |
-| **[PBS39](https://www.wlvt.org/)** | **[Production Intern](https://jobright.ai/jobs/info/6a212387c00e701fe836d537?utm_campaign=1053&utm_source=git)** | BETHLEHEM,PA,US | On Site | Jun 04 |
-| **[Fan Feed Network](https://www.linkedin.com/company/106799493)** | **[Christian NFL Podcast & Short-Form Content Intern – Remote](https://jobright.ai/jobs/info/6a29173b40ac8e32932a537d?utm_campaign=1053&utm_source=git)** | DC-Baltimore Area | Remote | Jun 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
