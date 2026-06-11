@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Pampas Picnics + Rentals | Event Design and Decor](https://www.pampaspicnics.com)** | **[NY/ NJ Summer Special Events Intern](https://jobright.ai/jobs/info/6a29dece2cde2824469bf255?utm_campaign=1053&utm_source=git)** | NYC Metro Area | Hybrid | Jun 10 |
 | **[CareerViewXR](https://careerviewxr.bemorecolorful.com/)** | **[Media Production Intern](https://jobright.ai/jobs/info/6a29d9081de59e0682a81ff3?utm_campaign=1053&utm_source=git)** | Fargo, ND | On Site | Jun 10 |
 | **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a29d37f1de59e0682a81d94?utm_campaign=1053&utm_source=git)** | Naperville, IL | On Site | Jun 10 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a29d37c1de59e0682a81d91?utm_campaign=1053&utm_source=git)** | Beckley, WV | On Site | Jun 10 |
@@ -98,6 +99,7 @@ For a complete list, click the following sortable link below:
 | **[Omni Hotels & Resorts](http://www.omnihotels.com/)** | **[Omni Care Internship Pastry/Baking / Fall 2026](https://jobright.ai/jobs/info/6a26f2ac7d827633afff79a9?utm_campaign=1053&utm_source=git)** | Omni Mount Washington Resort, 310 Mount Washington Hotel Rd, Bretton Woods, New Hampshire, United States of America | On Site | Jun 08 |
 | **[Fox News Media](https://www.foxnews.com/)** | **[Fall 2026 FOX News Media Internship Program - FOX Noticias - New York](https://jobright.ai/jobs/info/6a0accd8a203b1052e44eee9?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jun 08 |
 | **[Caltech](http://www.caltech.edu)** | **[KISS Summer Intern](https://jobright.ai/jobs/info/6a25f41bdedf78312c7b0e98?utm_campaign=1053&utm_source=git)** | Pasadena, CA | On Site | Jun 07 |
+| **[Elite Podcast Studio](ElitePodcastStudio.com)** | **[Fall 2026 Internship / Content Creator / Elite Podcast Studio / Tampa Bay](https://jobright.ai/jobs/info/6a29e064c07d4b6ae1c43730?utm_campaign=1053&utm_source=git)** | Odessa, FL | On Site | Jun 07 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid News Intern](https://jobright.ai/jobs/info/69b1c6a4548f140066e79343?utm_campaign=1053&utm_source=git)** | Wichita, KS | On Site | Jun 06 |
 | **[Ripken Baseball](https://www.ripkenbaseball.com)** | **[Fall Tournament Operations Intern](https://jobright.ai/jobs/info/6a24eecc757ade085b6b10c6?utm_campaign=1053&utm_source=git)** | Pigeon Forge, TN | On Site | Jun 06 |
 | **[County of Riverside](https://rivco.org)** | **[Behavioral Health Friday Night Lights (Indio) - Paid Internship](https://jobright.ai/jobs/info/6a25e6eededf78312c7b0cf4?utm_campaign=1053&utm_source=git)** | Riverside County, CA | On Site | Jun 06 |
@@ -119,5 +121,4 @@ For a complete list, click the following sortable link below:
 | **[Mesa Chamber of Commerce](http://www.mesachamber.org)** | **[Videographer Intern](https://jobright.ai/jobs/info/6a21beadc00e701fe8370663?utm_campaign=1053&utm_source=git)** | Mesa, AZ | On Site | Jun 04 |
 | **[PBS39](https://www.wlvt.org/)** | **[Production Intern](https://jobright.ai/jobs/info/6a212387c00e701fe836d537?utm_campaign=1053&utm_source=git)** | BETHLEHEM,PA,US | On Site | Jun 04 |
 | **[Fan Feed Network](https://www.linkedin.com/company/106799493)** | **[Christian NFL Podcast & Short-Form Content Intern – Remote](https://jobright.ai/jobs/info/6a29173b40ac8e32932a537d?utm_campaign=1053&utm_source=git)** | DC-Baltimore Area | Remote | Jun 04 |
-| **[Complete Creative](http://www.completecreative.agency)** | **[Content Creator Summer Intern](https://jobright.ai/jobs/info/6a27b8491dbd8437bebc79e6?utm_campaign=1053&utm_source=git)** | Remote job | Remote | Jun 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
