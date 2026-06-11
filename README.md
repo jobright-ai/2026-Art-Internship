@@ -120,5 +120,4 @@ For a complete list, click the following sortable link below:
 | **[Advisors Excel](http://advisorsexcel.com)** | **[Books Program Intern](https://jobright.ai/jobs/info/6a065348f3d6cc51d63926de?utm_campaign=1053&utm_source=git)** | Topeka Metropolitan Area | On Site | Jun 05 |
 | ↳ | **[Books Program Intern](https://jobright.ai/jobs/info/6a0785c23b54ed42d74cefbb?utm_campaign=1053&utm_source=git)** | 2950 SW McClure Rd, Topeka, KS | On Site | Jun 05 |
 | **[Boston Celtics](http://www.nba.com/celtics)** | **[Intern, Digital Production - Fall Semester 2026](https://jobright.ai/jobs/info/6a29259f883c0d3be6546157?utm_campaign=1053&utm_source=git)** | Boston - MA, Boston, MA, US | On Site | Jun 05 |
-| **[Bethel University](https://www.betheluniversity.edu/)** | **[Student Worker - PR/Com Student Writer Intern](https://jobright.ai/jobs/info/6a225712d1ab07243c7f7c42?utm_campaign=1053&utm_source=git)** | Mishawaka, IN 46545, USA | On Site | Jun 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
