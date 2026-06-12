@@ -57,11 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Omni Hotels & Resorts](http://www.omnihotels.com/)** | **[Summer Omni Cares Internship- Recreation](https://jobright.ai/jobs/info/6a2b3ae31de59e0682a88b5e?utm_campaign=1053&utm_source=git)** | Omni Las Colinas Hotel, 221 East Las Colinas Blvd, Irving, Texas, United States of America | On Site | Jun 11 |
 | **[The State University of New York](https://www.suny.edu)** | **[Arts Program Graduate Student Internship](https://jobright.ai/jobs/info/6a2b5e09d3ec8317fe148746?utm_campaign=1053&utm_source=git)** | Albany, NY | On Site | Jun 11 |
 | **[Utah Jazz](http://www.nba.com/jazz)** | **[Video Editor Intern](https://jobright.ai/jobs/info/6a2b0858d3ec8317fe146b00?utm_campaign=1053&utm_source=git)** | Sandy,UT,US | On Site | Jun 11 |
 | **[Wall Street Quants](https://www.thewallstreetquants.com)** | **[Content Creator Intern (Business & Finance)](https://jobright.ai/jobs/info/6a2b42d32cde2824469c601b?utm_campaign=1053&utm_source=git)** | United States | Remote | Jun 11 |
 | **[JED Lab](https://www.jedlab.com)** | **[Junior video editor (internship)](https://jobright.ai/jobs/info/6a2b43841de59e0682a88e9c?utm_campaign=1053&utm_source=git)** | Candiac, Quebec, Canada | Hybrid | Jun 11 |
-| **[Omni Hotels & Resorts](http://www.omnihotels.com/)** | **[Summer Omni Cares Internship- Recreation](https://jobright.ai/jobs/info/6a2b3ae31de59e0682a88b5e?utm_campaign=1053&utm_source=git)** | Omni Las Colinas Hotel, 221 East Las Colinas Blvd, Irving, Texas, United States of America | On Site | Jun 11 |
 | **[Le Coucou](https://lecoucou.com/)** | **[Content Creator Intern](https://jobright.ai/jobs/info/6a2b3a63d3ec8317fe147db7?utm_campaign=1053&utm_source=git)** | NYC Metro Area | On Site | Jun 11 |
 | **[Park County Government](https://www.parkcountyco.gov/)** | **[CSU Extension Intern – Park County Fair Assistant](https://jobright.ai/jobs/info/6a2b137c9bf7365df089c2f0?utm_campaign=1053&utm_source=git)** | Fairplay, CO | On Site | Jun 11 |
 | **[Dayforce](http://www.dayforce.com)** | **[Digital Content Creator Intern 4 months – Fall 2026](https://jobright.ai/jobs/info/6a0e432dbeb4d73cb6230ca3?utm_campaign=1053&utm_source=git)** | Canada | Remote | Jun 11 |
@@ -75,8 +75,8 @@ For a complete list, click the following sortable link below:
 | **[CareerViewXR](https://careerviewxr.bemorecolorful.com/)** | **[Media Production Intern](https://jobright.ai/jobs/info/6a29d9081de59e0682a81ff3?utm_campaign=1053&utm_source=git)** | Fargo, ND | On Site | Jun 10 |
 | **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a29d37f1de59e0682a81d94?utm_campaign=1053&utm_source=git)** | Naperville, IL | On Site | Jun 10 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a29d37c1de59e0682a81d91?utm_campaign=1053&utm_source=git)** | Beckley, WV | On Site | Jun 10 |
-| ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a29d37ac07d4b6ae1c43276?utm_campaign=1053&utm_source=git)** | Savannah, GA | On Site | Jun 10 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a29d37ac07d4b6ae1c43277?utm_campaign=1053&utm_source=git)** | Columbia, MO | On Site | Jun 10 |
+| ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a29d37ac07d4b6ae1c43276?utm_campaign=1053&utm_source=git)** | Savannah, GA | On Site | Jun 10 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a29d3791de59e0682a81d8f?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Jun 10 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a29d376495d985b994261f7?utm_campaign=1053&utm_source=git)** | Newark, NJ | On Site | Jun 10 |
 | **[McPherson College](http://www.mcpherson.edu)** | **[Sports Information Intern](https://jobright.ai/jobs/info/6a29d1efd3ec8317fe140bb9?utm_campaign=1053&utm_source=git)** | McPherson, KS | On Site | Jun 10 |
@@ -102,7 +102,6 @@ For a complete list, click the following sortable link below:
 | **[Sales Gravy | Sell More](http://www.salesgravy.com/)** | **[Video Production & Editing Intern - Fall 2026](https://jobright.ai/jobs/info/6a2912b2883c0d3be6545a7e?utm_campaign=1053&utm_source=git)** | Thomson, GA | On Site | Jun 10 |
 | **[HYPEBEAST](http://hypebeast.com)** | **[Editorial Intern](https://jobright.ai/jobs/info/6a2901a32d6c332ee52e9499?utm_campaign=1053&utm_source=git)** | New York | On Site | Jun 09 |
 | **[Leigh & Co. Events](http://leighandcoevents.com)** | **[Unpaid Wedding Assistant Intern](https://jobright.ai/jobs/info/6a28c31a7061b51a3a5f7bb0?utm_campaign=1053&utm_source=git)** | United States | Remote | Jun 09 |
-| **[Sales Gravy | Sell More](http://www.salesgravy.com/)** | **[Video Production & Editing Intern - Fall 2026](https://jobright.ai/jobs/info/6a288dd81dbd8437bebcbe82?utm_campaign=1053&utm_source=git)** | 115 E Hall St, Thomson, 30824, US | On Site | Jun 09 |
 | **[Complex NTWRK](https://www.complex.com)** | **[Editorial Creator Intern - College Credit](https://jobright.ai/jobs/info/6a28c0872d6c332ee52e7ea3?utm_campaign=1053&utm_source=git)** | New York, United States | On Site | Jun 09 |
 | **[Neon Postgres](https://neon.tech)** | **[NEON General Internship Program - Fall 2026](https://jobright.ai/jobs/info/6a284cc5fd37e62bb47a8343?utm_campaign=1053&utm_source=git)** | Los Angeles, California, United States | On Site | Jun 09 |
 | **[NEON](https://neonrated.com)** | **[NEON General Internship Program - Fall 2026](https://jobright.ai/jobs/info/6a296acf1de59e0682a7ef9e?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jun 09 |
@@ -123,5 +122,4 @@ For a complete list, click the following sortable link below:
 | **[KCRA 3 & My58 Television](http://www.kcra.com)** | **[Intern (Fall)](https://jobright.ai/jobs/info/6a25615c757ade085b6b19d2?utm_campaign=1053&utm_source=git)** | Sacramento, CA | On Site | Jun 06 |
 | **[Boston Celtics](http://www.nba.com/celtics)** | **[Intern, Live Production & Entertainment - Fall Semester 2026](https://jobright.ai/jobs/info/6a2a270dd3ec8317fe142112?utm_campaign=1053&utm_source=git)** | Boston - MA, Boston, MA, US | On Site | Jun 05 |
 | **[Andrews McMeel Universal](http://www.amuniversal.com/)** | **[GoComics Content Archive Intern](https://jobright.ai/jobs/info/6a06336ca88ea73abf7f8fe5?utm_campaign=1053&utm_source=git)** | Kansas City, MO | Hybrid | Jun 05 |
-| **[Legends Global](http://legends.net)** | **[Video/Content Production Intern](https://jobright.ai/jobs/info/6a18c6be54a441713ae880d4?utm_campaign=1053&utm_source=git)** | Miami, FL | On Site | Jun 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
