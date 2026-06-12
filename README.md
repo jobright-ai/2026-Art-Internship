@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Rochester Americans](http://amerks.com)** | **[Game Presentation Intern](https://jobright.ai/jobs/info/6a2c44357cd40a338fae594e?utm_campaign=1053&utm_source=git)** | Rochester, NY | On Site | Jun 12 |
+| **[Medical College of Wisconsin](http://www.mcw.edu/)** | **[Intern - Institutional Advancement](https://jobright.ai/jobs/info/6a2c3e0cfc06447490548e48?utm_campaign=1053&utm_source=git)** | Wauwatosa, WI, US | Hybrid | Jun 12 |
 | **[Apartment Therapy Media](http://www.apartmenttherapy.com/)** | **[Dorm Therapy Editorial Intern](https://jobright.ai/jobs/info/6a2c14f87cd40a338fae48ce?utm_campaign=1053&utm_source=git)** | United States | Remote | Jun 12 |
 | ↳ | **[Dorm Therapy Editorial Intern](https://jobright.ai/jobs/info/6a2c14f77cd40a338fae48cd?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Jun 12 |
 | ↳ | **[Dorm Therapy Editorial Intern](https://jobright.ai/jobs/info/6a2c06e47cd40a338fae44e4?utm_campaign=1053&utm_source=git)** | NYC Metro Area | Hybrid | Jun 12 |
@@ -83,8 +85,8 @@ For a complete list, click the following sortable link below:
 | **[CareerViewXR](https://careerviewxr.bemorecolorful.com/)** | **[Media Production Intern](https://jobright.ai/jobs/info/6a29d9081de59e0682a81ff3?utm_campaign=1053&utm_source=git)** | Fargo, ND | On Site | Jun 10 |
 | **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a29d37f1de59e0682a81d94?utm_campaign=1053&utm_source=git)** | Naperville, IL | On Site | Jun 10 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a29d37c1de59e0682a81d91?utm_campaign=1053&utm_source=git)** | Beckley, WV | On Site | Jun 10 |
-| ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a29d37ac07d4b6ae1c43277?utm_campaign=1053&utm_source=git)** | Columbia, MO | On Site | Jun 10 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a29d37ac07d4b6ae1c43276?utm_campaign=1053&utm_source=git)** | Savannah, GA | On Site | Jun 10 |
+| ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a29d37ac07d4b6ae1c43277?utm_campaign=1053&utm_source=git)** | Columbia, MO | On Site | Jun 10 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a29d3791de59e0682a81d8f?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Jun 10 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a29d376495d985b994261f7?utm_campaign=1053&utm_source=git)** | Newark, NJ | On Site | Jun 10 |
 | **[McPherson College](http://www.mcpherson.edu)** | **[Sports Information Intern](https://jobright.ai/jobs/info/6a29d1efd3ec8317fe140bb9?utm_campaign=1053&utm_source=git)** | McPherson, KS | On Site | Jun 10 |
