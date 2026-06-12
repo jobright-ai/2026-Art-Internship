@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Apartment Therapy Media](http://www.apartmenttherapy.com/)** | **[Dorm Therapy Editorial Intern](https://jobright.ai/jobs/info/6a2c06e47cd40a338fae44e4?utm_campaign=1053&utm_source=git)** | NYC Metro Area | Hybrid | Jun 12 |
 | **[Universal Creative](https://linktr.ee/universalcreative)** | **[Internship, Universal Creative – Narrative Design (Spring 2027)](https://jobright.ai/jobs/info/6a2bc976fc06447490547501?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | Jun 12 |
 | **[Bethel University](https://www.betheluniversity.edu/)** | **[Student Worker - PR/Com Student Writer Intern](https://jobright.ai/jobs/info/6a2bb8c31de59e0682a8a059?utm_campaign=1053&utm_source=git)** | Mishawaka, IN 46545, USA | On Site | Jun 12 |
 | **[Universal Orlando Resort](https://UniversalOrlandoJobs.com)** | **[Internship – Discover Universal Video Content Strategy (Spring 2027)](https://jobright.ai/jobs/info/6a2bb82e3f691a293d0b8f88?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | Jun 12 |
@@ -84,8 +85,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a29d3791de59e0682a81d8f?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Jun 10 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a29d376495d985b994261f7?utm_campaign=1053&utm_source=git)** | Newark, NJ | On Site | Jun 10 |
 | **[McPherson College](http://www.mcpherson.edu)** | **[Sports Information Intern](https://jobright.ai/jobs/info/6a29d1efd3ec8317fe140bb9?utm_campaign=1053&utm_source=git)** | McPherson, KS | On Site | Jun 10 |
-| **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a2a0325c07d4b6ae1c43b74?utm_campaign=1053&utm_source=git)** | Wichita, KS | On Site | Jun 10 |
-| ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a2a03250c4972328e7e69e5?utm_campaign=1053&utm_source=git)** | Bloomington, IN | On Site | Jun 10 |
+| **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a2a03250c4972328e7e69e5?utm_campaign=1053&utm_source=git)** | Bloomington, IN | On Site | Jun 10 |
+| ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a2a0325c07d4b6ae1c43b74?utm_campaign=1053&utm_source=git)** | Wichita, KS | On Site | Jun 10 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a2a032cd3ec8317fe14166c?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Jun 10 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a29c0ef0c4972328e7e57c5?utm_campaign=1053&utm_source=git)** | Minneapolis, MN | On Site | Jun 10 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a29c0ed0c4972328e7e57c3?utm_campaign=1053&utm_source=git)** | Columbia, SC | On Site | Jun 10 |
