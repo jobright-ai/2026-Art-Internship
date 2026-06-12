@@ -58,6 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Oklahoma City Thunder](http://okcthunder.com)** | **[Intern, Broadcasting](https://jobright.ai/jobs/info/6a2c5465a1d15e3c552fb3ce?utm_campaign=1053&utm_source=git)** | Business Office - Oklahoma City, OK 73102 | On Site | Jun 12 |
+| **[888 Creative](https://888creative.co/)** | **[Content Creator - Detroit (Summer 2026 Internship)](https://jobright.ai/jobs/info/6a2c5705fc064474905496e8?utm_campaign=1053&utm_source=git)** | Detroit Metro | On Site | Jun 12 |
 | **[Rochester Americans](http://amerks.com)** | **[Game Presentation Intern](https://jobright.ai/jobs/info/6a2c44357cd40a338fae594e?utm_campaign=1053&utm_source=git)** | Rochester, NY | On Site | Jun 12 |
 | **[Medical College of Wisconsin](http://www.mcw.edu/)** | **[Intern - Institutional Advancement](https://jobright.ai/jobs/info/6a2c3e0cfc06447490548e48?utm_campaign=1053&utm_source=git)** | Wauwatosa, WI, US | Hybrid | Jun 12 |
 | **[Apartment Therapy Media](http://www.apartmenttherapy.com/)** | **[Dorm Therapy Editorial Intern](https://jobright.ai/jobs/info/6a2c14f87cd40a338fae48ce?utm_campaign=1053&utm_source=git)** | United States | Remote | Jun 12 |
