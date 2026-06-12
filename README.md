@@ -57,10 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Oklahoma City Thunder](http://okcthunder.com)** | **[Intern, Broadcasting](https://jobright.ai/jobs/info/6a2c5465a1d15e3c552fb3ce?utm_campaign=1053&utm_source=git)** | Business Office - Oklahoma City, OK 73102 | On Site | Jun 12 |
+| **[The Broadmoor](http://www.broadmoor.com)** | **[PGM Intern/Assistant Golf Pro](https://jobright.ai/jobs/info/6a2c7455a1d15e3c552fbf02?utm_campaign=1053&utm_source=git)** | Broadmoor, Colorado Springs, CO 80906, USA | On Site | Jun 12 |
+| **[Oklahoma City Thunder](http://okcthunder.com)** | **[Intern, Video Production & ThunderVision](https://jobright.ai/jobs/info/6a2c709c7cd40a338fae66b1?utm_campaign=1053&utm_source=git)** | Business Office - Oklahoma City, OK 73102 | On Site | Jun 12 |
+| ↳ | **[Intern, Broadcasting](https://jobright.ai/jobs/info/6a2c5465a1d15e3c552fb3ce?utm_campaign=1053&utm_source=git)** | Business Office - Oklahoma City, OK 73102 | On Site | Jun 12 |
 | **[888 Creative](https://888creative.co/)** | **[Content Creator - Detroit (Summer 2026 Internship)](https://jobright.ai/jobs/info/6a2c5705fc064474905496e8?utm_campaign=1053&utm_source=git)** | Detroit Metro | On Site | Jun 12 |
 | **[Rochester Americans](http://amerks.com)** | **[Game Presentation Intern](https://jobright.ai/jobs/info/6a2c44357cd40a338fae594e?utm_campaign=1053&utm_source=git)** | Rochester, NY | On Site | Jun 12 |
 | **[Medical College of Wisconsin](http://www.mcw.edu/)** | **[Intern - Institutional Advancement](https://jobright.ai/jobs/info/6a2c3e0cfc06447490548e48?utm_campaign=1053&utm_source=git)** | Wauwatosa, WI, US | Hybrid | Jun 12 |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Digital Content Intern, Unpaid](https://jobright.ai/jobs/info/69bb08ca569738374140e490?utm_campaign=1053&utm_source=git)** | Shreveport, LA | On Site | Jun 12 |
 | **[Apartment Therapy Media](http://www.apartmenttherapy.com/)** | **[Dorm Therapy Editorial Intern](https://jobright.ai/jobs/info/6a2c14f87cd40a338fae48ce?utm_campaign=1053&utm_source=git)** | United States | Remote | Jun 12 |
 | ↳ | **[Dorm Therapy Editorial Intern](https://jobright.ai/jobs/info/6a2c14f77cd40a338fae48cd?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Jun 12 |
 | ↳ | **[Dorm Therapy Editorial Intern](https://jobright.ai/jobs/info/6a2c06e47cd40a338fae44e4?utm_campaign=1053&utm_source=git)** | NYC Metro Area | Hybrid | Jun 12 |
@@ -126,7 +129,6 @@ For a complete list, click the following sortable link below:
 | **[Oriana House, Inc.](https://www.orianahouse.org/)** | **[Digital Media Production Intern](https://jobright.ai/jobs/info/6a26f2264ec8d737d6dfcd10?utm_campaign=1053&utm_source=git)** | Akron, Ohio, United States | On Site | Jun 08 |
 | **[Omni Hotels & Resorts](http://www.omnihotels.com/)** | **[Omni Care Internship Pastry/Baking / Fall 2026](https://jobright.ai/jobs/info/6a26f2ac7d827633afff79a9?utm_campaign=1053&utm_source=git)** | Omni Mount Washington Resort, 310 Mount Washington Hotel Rd, Bretton Woods, New Hampshire, United States of America | On Site | Jun 08 |
 | **[Fox News Media](https://www.foxnews.com/)** | **[Fall 2026 FOX News Media Internship Program - FOX Noticias - New York](https://jobright.ai/jobs/info/6a0accd8a203b1052e44eee9?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jun 08 |
-| **[Caltech](http://www.caltech.edu)** | **[KISS Summer Intern](https://jobright.ai/jobs/info/6a25f41bdedf78312c7b0e98?utm_campaign=1053&utm_source=git)** | Pasadena, CA | On Site | Jun 07 |
 | **[Elite Podcast Studio](ElitePodcastStudio.com)** | **[Fall 2026 Internship / Content Creator / Elite Podcast Studio / Tampa Bay](https://jobright.ai/jobs/info/6a29e064c07d4b6ae1c43730?utm_campaign=1053&utm_source=git)** | Odessa, FL | On Site | Jun 07 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid News Intern](https://jobright.ai/jobs/info/69b1c6a4548f140066e79343?utm_campaign=1053&utm_source=git)** | Wichita, KS | On Site | Jun 06 |
 | **[Ripken Baseball](https://www.ripkenbaseball.com)** | **[Fall Tournament Operations Intern](https://jobright.ai/jobs/info/6a24eecc757ade085b6b10c6?utm_campaign=1053&utm_source=git)** | Pigeon Forge, TN | On Site | Jun 06 |
