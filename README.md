@@ -57,8 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Park County Government](https://www.parkcountyco.gov/)** | **[CSU Extension Intern – Park County Fair Assistant](https://jobright.ai/jobs/info/6a2b137c9bf7365df089c2f0?utm_campaign=1053&utm_source=git)** | Fairplay, CO | On Site | Jun 11 |
 | **[Utah Jazz](http://www.nba.com/jazz)** | **[Video Editor Intern](https://jobright.ai/jobs/info/6a2b0858d3ec8317fe146b00?utm_campaign=1053&utm_source=git)** | Sandy,UT,US | On Site | Jun 11 |
+| **[JED Lab](https://www.jedlab.com)** | **[Junior video editor (internship)](https://jobright.ai/jobs/info/6a2b43841de59e0682a88e9c?utm_campaign=1053&utm_source=git)** | Candiac, Quebec, Canada | Hybrid | Jun 11 |
+| **[Wall Street Quants](https://www.thewallstreetquants.com)** | **[Content Creator Intern (Business & Finance)](https://jobright.ai/jobs/info/6a2b42d32cde2824469c601b?utm_campaign=1053&utm_source=git)** | United States | Remote | Jun 11 |
+| **[Omni Hotels & Resorts](http://www.omnihotels.com/)** | **[Summer Omni Cares Internship- Recreation](https://jobright.ai/jobs/info/6a2b3ae31de59e0682a88b5e?utm_campaign=1053&utm_source=git)** | Omni Las Colinas Hotel, 221 East Las Colinas Blvd, Irving, Texas, United States of America | On Site | Jun 11 |
+| **[Le Coucou](https://lecoucou.com/)** | **[Content Creator Intern](https://jobright.ai/jobs/info/6a2b3a63d3ec8317fe147db7?utm_campaign=1053&utm_source=git)** | NYC Metro Area | On Site | Jun 11 |
+| **[Park County Government](https://www.parkcountyco.gov/)** | **[CSU Extension Intern – Park County Fair Assistant](https://jobright.ai/jobs/info/6a2b137c9bf7365df089c2f0?utm_campaign=1053&utm_source=git)** | Fairplay, CO | On Site | Jun 11 |
 | **[Dayforce](http://www.dayforce.com)** | **[Digital Content Creator Intern 4 months – Fall 2026](https://jobright.ai/jobs/info/6a0e432dbeb4d73cb6230ca3?utm_campaign=1053&utm_source=git)** | Canada | Remote | Jun 11 |
 | **[National Association of State Procurement Officials](https://www.naspo.org/)** | **[Video Editor Intern](https://jobright.ai/jobs/info/69f2ca84825a315d7ca3fa32?utm_campaign=1053&utm_source=git)** | Lexington, KY | Hybrid | Jun 11 |
 | ↳ | **[Video Editor Intern](https://jobright.ai/jobs/info/69f2932bf154d768fbaa7d42?utm_campaign=1053&utm_source=git)** | Lexington,KY,US | Hybrid | Jun 11 |
@@ -75,8 +79,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a29d3791de59e0682a81d8f?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Jun 10 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a29d376495d985b994261f7?utm_campaign=1053&utm_source=git)** | Newark, NJ | On Site | Jun 10 |
 | **[McPherson College](http://www.mcpherson.edu)** | **[Sports Information Intern](https://jobright.ai/jobs/info/6a29d1efd3ec8317fe140bb9?utm_campaign=1053&utm_source=git)** | McPherson, KS | On Site | Jun 10 |
-| **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a2a03250c4972328e7e69e5?utm_campaign=1053&utm_source=git)** | Bloomington, IN | On Site | Jun 10 |
-| ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a2a0325c07d4b6ae1c43b74?utm_campaign=1053&utm_source=git)** | Wichita, KS | On Site | Jun 10 |
+| **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a2a0325c07d4b6ae1c43b74?utm_campaign=1053&utm_source=git)** | Wichita, KS | On Site | Jun 10 |
+| ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a2a03250c4972328e7e69e5?utm_campaign=1053&utm_source=git)** | Bloomington, IN | On Site | Jun 10 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a2a032cd3ec8317fe14166c?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Jun 10 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a29c0ef0c4972328e7e57c5?utm_campaign=1053&utm_source=git)** | Minneapolis, MN | On Site | Jun 10 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a29c0ed0c4972328e7e57c3?utm_campaign=1053&utm_source=git)** | Columbia, SC | On Site | Jun 10 |
@@ -122,5 +126,4 @@ For a complete list, click the following sortable link below:
 | **[Sinclair Inc.](http://sbgi.net/)** | **[News Intern (Unpaid)](https://jobright.ai/jobs/info/6a229f09757ade085b6ac723?utm_campaign=1053&utm_source=git)** | Green Bay, WI | On Site | Jun 05 |
 | **[Advisors Excel](http://advisorsexcel.com)** | **[Books Program Intern](https://jobright.ai/jobs/info/6a065348f3d6cc51d63926de?utm_campaign=1053&utm_source=git)** | Topeka Metropolitan Area | On Site | Jun 05 |
 | ↳ | **[Books Program Intern](https://jobright.ai/jobs/info/6a0785c23b54ed42d74cefbb?utm_campaign=1053&utm_source=git)** | 2950 SW McClure Rd, Topeka, KS | On Site | Jun 05 |
-| **[Boston Celtics](http://www.nba.com/celtics)** | **[Intern, Digital Production - Fall Semester 2026](https://jobright.ai/jobs/info/6a29259f883c0d3be6546157?utm_campaign=1053&utm_source=git)** | Boston - MA, Boston, MA, US | On Site | Jun 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
