@@ -57,12 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BizDepot Brokers](biz-depot.co)** | **[On-Camera Content Creator Intern](https://jobright.ai/jobs/info/6a2dc047f1751b183c81b621?utm_campaign=1053&utm_source=git)** | San Francisco Bay Area | Remote | Jun 13 |
+| **[The Burnette Agency](https://theburnetteagency.com)** | **[Intern — The Burnette Agency](https://jobright.ai/jobs/info/6a2dc00ffc0644749054cc1c?utm_campaign=1053&utm_source=git)** | Agency, MO | On Site | Jun 13 |
 | **[Medical College of Wisconsin](http://www.mcw.edu/)** | **[Intern - Institutional Advancement](https://jobright.ai/jobs/info/6a2c3e0cfc06447490548e48?utm_campaign=1053&utm_source=git)** | Wauwatosa, WI, US | Hybrid | Jun 13 |
-| **[Tumbling Dumpling Media](https://www.linkedin.com/company/109629621)** | **[Editorial Intern](https://jobright.ai/jobs/info/6a2d9e5ac260bb1b8ae19130?utm_campaign=1053&utm_source=git)** | United States | Remote | Jun 13 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid News Intern](https://jobright.ai/jobs/info/6972b01a9b83b424830eb8a4?utm_campaign=1053&utm_source=git)** | IN-Indianapolis;6910 Network Place (Tribune-WXIN/WTTV) | On Site | Jun 13 |
 | **[TikTok](https://www.tiktok.com)** | **[TikTok Short Drama Project Intern (TikTok-Short-Drama) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69684e2af25a38006696b2a4?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Jun 13 |
 | **[Bethel University](https://www.betheluniversity.edu/)** | **[Student Worker - PR/Com Student Writer Intern](https://jobright.ai/jobs/info/6a2ce2f4fc0644749054b73b?utm_campaign=1053&utm_source=git)** | Mishawaka, IN 46545, USA | On Site | Jun 12 |
-| **[The Broadmoor](http://www.broadmoor.com)** | **[PGM Intern/Assistant Golf Pro](https://jobright.ai/jobs/info/6a2c7455a1d15e3c552fbf02?utm_campaign=1053&utm_source=git)** | Broadmoor, Colorado Springs, CO 80906, USA | On Site | Jun 12 |
 | **[International Foundation of Employee Benefit Plans (IFEBP)](http://www.ifebp.org/)** | **[Onsite Internship: A/V (Fall)](https://jobright.ai/jobs/info/6a2c8f3bf1751b183c8191d8?utm_campaign=1053&utm_source=git)** | Brookfield,WI,US | On Site | Jun 12 |
 | ↳ | **[Onsite Internship: A/V (Fall)](https://jobright.ai/jobs/info/6a2c8033d3ec94183f4bd592?utm_campaign=1053&utm_source=git)** | Brookfield, WI | On Site | Jun 12 |
 | **[Oklahoma City Thunder](http://okcthunder.com)** | **[Intern, Video Production & ThunderVision](https://jobright.ai/jobs/info/6a2c709c7cd40a338fae66b1?utm_campaign=1053&utm_source=git)** | Business Office - Oklahoma City, OK 73102 | On Site | Jun 12 |
@@ -130,10 +130,10 @@ For a complete list, click the following sortable link below:
 | **[Memphis Grizzlies](http://grizzlies.com)** | **[Social & Digital Content Coordinating Production Intern](https://jobright.ai/jobs/info/6a18cc99c2a87d6cd3df4de0?utm_campaign=1053&utm_source=git)** | Memphis, TN, US | On Site | Jun 08 |
 | **[Our National Conversation (ONC)](https://www.ournationalconversation.org)** | **[Podcast Production Intern](https://jobright.ai/jobs/info/6a27472512f0202342263d34?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, USA | Remote | Jun 08 |
 | ↳ | **[Podcast Production Intern](https://jobright.ai/jobs/info/6a2743062056260dd6e86497?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Remote | Jun 08 |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Intern - KOIN / KRCW - Portland, OR (Unpaid)](https://jobright.ai/jobs/info/6a2dc762c260bb1b8ae19604?utm_campaign=1053&utm_source=git)** | OR, Portland, US | On Site | Jun 08 |
 | **[Oriana House, Inc.](https://www.orianahouse.org/)** | **[Digital Media Production Intern](https://jobright.ai/jobs/info/6a26f2264ec8d737d6dfcd10?utm_campaign=1053&utm_source=git)** | Akron, Ohio, United States | On Site | Jun 08 |
 | **[Omni Hotels & Resorts](http://www.omnihotels.com/)** | **[Omni Care Internship Pastry/Baking / Fall 2026](https://jobright.ai/jobs/info/6a26f2ac7d827633afff79a9?utm_campaign=1053&utm_source=git)** | Omni Mount Washington Resort, 310 Mount Washington Hotel Rd, Bretton Woods, New Hampshire, United States of America | On Site | Jun 08 |
 | **[Fox News Media](https://www.foxnews.com/)** | **[Fall 2026 FOX News Media Internship Program - FOX Noticias - New York](https://jobright.ai/jobs/info/6a0accd8a203b1052e44eee9?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jun 08 |
 | **[Elite Podcast Studio](ElitePodcastStudio.com)** | **[Fall 2026 Internship / Content Creator / Elite Podcast Studio / Tampa Bay](https://jobright.ai/jobs/info/6a29e064c07d4b6ae1c43730?utm_campaign=1053&utm_source=git)** | Odessa, FL | On Site | Jun 07 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid News Intern](https://jobright.ai/jobs/info/69b1c6a4548f140066e79343?utm_campaign=1053&utm_source=git)** | Wichita, KS | On Site | Jun 06 |
-| **[Ripken Baseball](https://www.ripkenbaseball.com)** | **[Fall Tournament Operations Intern](https://jobright.ai/jobs/info/6a24eecc757ade085b6b10c6?utm_campaign=1053&utm_source=git)** | Pigeon Forge, TN | On Site | Jun 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
