@@ -81,7 +81,6 @@ For a complete list, click the following sortable link below:
 | **[Le Coucou](https://lecoucou.com/)** | **[Content Creator Intern](https://jobright.ai/jobs/info/6a2b3a63d3ec8317fe147db7?utm_campaign=1053&utm_source=git)** | NYC Metro Area | On Site | Jun 11 |
 | **[Complex NTWRK](https://www.complex.com)** | **[Editorial Creator Intern - College Credit](https://jobright.ai/jobs/info/6a28c0872d6c332ee52e7ea3?utm_campaign=1053&utm_source=git)** | New York, United States | On Site | Jun 11 |
 | **[Park County Government](https://www.parkcountyco.gov/)** | **[CSU Extension Intern – Park County Fair Assistant](https://jobright.ai/jobs/info/6a2b137c9bf7365df089c2f0?utm_campaign=1053&utm_source=git)** | Fairplay, CO | On Site | Jun 11 |
-| **[Dayforce](http://www.dayforce.com)** | **[Digital Content Creator Intern 4 months – Fall 2026](https://jobright.ai/jobs/info/6a0e432dbeb4d73cb6230ca3?utm_campaign=1053&utm_source=git)** | Canada | Remote | Jun 11 |
 | **[National Association of State Procurement Officials](https://www.naspo.org/)** | **[Video Editor Intern](https://jobright.ai/jobs/info/69f2ca84825a315d7ca3fa32?utm_campaign=1053&utm_source=git)** | Lexington, KY | Hybrid | Jun 11 |
 | ↳ | **[Video Editor Intern](https://jobright.ai/jobs/info/69f2932bf154d768fbaa7d42?utm_campaign=1053&utm_source=git)** | Lexington,KY,US | Hybrid | Jun 11 |
 | **[Tepper Sports & Entertainment](https://teppersportsentertainment.com)** | **[Intern - Video Production](https://jobright.ai/jobs/info/6a2ace9d2cde2824469c3270?utm_campaign=1053&utm_source=git)** | 800 S Mint St, Charlotte, NC 28202, USA | On Site | Jun 11 |
@@ -92,8 +91,8 @@ For a complete list, click the following sortable link below:
 | **[CareerViewXR](https://careerviewxr.bemorecolorful.com/)** | **[Media Production Intern](https://jobright.ai/jobs/info/6a29d9081de59e0682a81ff3?utm_campaign=1053&utm_source=git)** | Fargo, ND | On Site | Jun 10 |
 | **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a29d37f1de59e0682a81d94?utm_campaign=1053&utm_source=git)** | Naperville, IL | On Site | Jun 10 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a29d37c1de59e0682a81d91?utm_campaign=1053&utm_source=git)** | Beckley, WV | On Site | Jun 10 |
-| ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a29d37ac07d4b6ae1c43276?utm_campaign=1053&utm_source=git)** | Savannah, GA | On Site | Jun 10 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a29d37ac07d4b6ae1c43277?utm_campaign=1053&utm_source=git)** | Columbia, MO | On Site | Jun 10 |
+| ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a29d37ac07d4b6ae1c43276?utm_campaign=1053&utm_source=git)** | Savannah, GA | On Site | Jun 10 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a29d3791de59e0682a81d8f?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Jun 10 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a29d376495d985b994261f7?utm_campaign=1053&utm_source=git)** | Newark, NJ | On Site | Jun 10 |
 | **[McPherson College](http://www.mcpherson.edu)** | **[Sports Information Intern](https://jobright.ai/jobs/info/6a29d1efd3ec8317fe140bb9?utm_campaign=1053&utm_source=git)** | McPherson, KS | On Site | Jun 10 |
@@ -135,5 +134,4 @@ For a complete list, click the following sortable link below:
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid News Intern](https://jobright.ai/jobs/info/69b1c6a4548f140066e79343?utm_campaign=1053&utm_source=git)** | Wichita, KS | On Site | Jun 06 |
 | **[Ripken Baseball](https://www.ripkenbaseball.com)** | **[Fall Tournament Operations Intern](https://jobright.ai/jobs/info/6a24eecc757ade085b6b10c6?utm_campaign=1053&utm_source=git)** | Pigeon Forge, TN | On Site | Jun 06 |
 | **[Hachette Book Group](http://www.hachettebookgroup.com)** | **[Publishing Internship, James Patterson](https://jobright.ai/jobs/info/6a2429f014de9460dc8462ba?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Jun 06 |
-| **[KCRA 3 & My58 Television](http://www.kcra.com)** | **[Intern (Fall)](https://jobright.ai/jobs/info/6a25615c757ade085b6b19d2?utm_campaign=1053&utm_source=git)** | Sacramento, CA | On Site | Jun 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
