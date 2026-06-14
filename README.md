@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Operater](https://operater.io)** | **[Content Intern](https://jobright.ai/jobs/info/6a2e611ac260bb1b8ae1a2d1?utm_campaign=1053&utm_source=git)** | United States | Remote | Jun 14 |
 | **[The Laziena Experience](www.laziena.com)** | **[Student Podcast Editing & Content Creation Internship (Unpaid / Portfolio Experience)](https://jobright.ai/jobs/info/6a2dced8a1d15e3c552fec83?utm_campaign=1053&utm_source=git)** | St. Petersburg, FL | Remote | Jun 13 |
 | **[BizDepot Brokers](biz-depot.co)** | **[On-Camera Content Creator Intern](https://jobright.ai/jobs/info/6a2dc047f1751b183c81b621?utm_campaign=1053&utm_source=git)** | San Francisco Bay Area | Remote | Jun 13 |
 | **[The Burnette Agency](https://theburnetteagency.com)** | **[Intern — The Burnette Agency](https://jobright.ai/jobs/info/6a2dc00ffc0644749054cc1c?utm_campaign=1053&utm_source=git)** | Agency, MO | On Site | Jun 13 |
