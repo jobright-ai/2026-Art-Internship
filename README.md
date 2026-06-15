@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[DreamWorks Animation](https://www.dreamworks.com)** | **[Artist Management Intern, DreamWorks Animation, Fall 2026](https://jobright.ai/jobs/info/6a303171eace377055eb4fa3?utm_campaign=1053&utm_source=git)** | 1000 Flower St, Glendale, CALIFORNIA | Hybrid | Jun 15 |
+| ↳ | **[Technical Direction Intern, DreamWorks Animation, Fall 2026](https://jobright.ai/jobs/info/6a303151afabbe533fb89a9b?utm_campaign=1053&utm_source=git)** | 1000 Flower St, Glendale, CALIFORNIA | Hybrid | Jun 15 |
+| **[USA TODAY Co., Inc.](https://www.usatodayco.com)** | **[Multimedia Content Creator, Sports Internship, Cincinnati, Ohio](https://jobright.ai/jobs/info/6a302d3eafabbe533fb8982a?utm_campaign=1053&utm_source=git)** | Cincinnati, OH, USA | On Site | Jun 15 |
+| ↳ | **[Multimedia Content Creator, Sports Internship, Louisville, Kentucky](https://jobright.ai/jobs/info/6a302d3043732c05812e0ee4?utm_campaign=1053&utm_source=git)** | Louisville, KY, USA | On Site | Jun 15 |
+| ↳ | **[Multimedia Content Creator, Sports Internship, Des Moines, Iowa](https://jobright.ai/jobs/info/6a302d22093df201d07afe29?utm_campaign=1053&utm_source=git)** | Des Moines, IA, USA | On Site | Jun 15 |
+| ↳ | **[Multimedia Content Creator, Sports Internship, Indianapolis, Indiana](https://jobright.ai/jobs/info/6a302d1b093df201d07afe25?utm_campaign=1053&utm_source=git)** | Indianapolis, IN, USA | On Site | Jun 15 |
+| ↳ | **[Multimedia Content Creator, Sports Internship, Nashville, TN](https://jobright.ai/jobs/info/6a302d15afabbe533fb89819?utm_campaign=1053&utm_source=git)** | Nashville, TN, USA | On Site | Jun 15 |
+| **[The Borgen Project](http://borgenproject.org)** | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/6a301e16afabbe533fb89129?utm_campaign=1053&utm_source=git)** | Charleston, IL | Remote | Jun 15 |
 | **[DreamWorks Animation](https://www.dreamworks.com)** | **[Artist Management Intern, DreamWorks Animation, Fall 2026](https://jobright.ai/jobs/info/6a3019b2afabbe533fb88ffb?utm_campaign=1053&utm_source=git)** | Glendale, CA | Hybrid | Jun 15 |
 | ↳ | **[Technical Direction Intern, DreamWorks Animation, Fall 2026](https://jobright.ai/jobs/info/6a3017a1093df201d07af688?utm_campaign=1053&utm_source=git)** | Glendale, CA | Hybrid | Jun 15 |
 | **[The Washington Post](http://www.washingtonpost.com/)** | **[Opinion Editing Intern](https://jobright.ai/jobs/info/6958f629f1f8465b79ef94b9?utm_campaign=1053&utm_source=git)** | DC-Washington-TWP Headquarters | On Site | Jun 14 |
@@ -99,13 +107,13 @@ For a complete list, click the following sortable link below:
 | **[CareerViewXR](https://careerviewxr.bemorecolorful.com/)** | **[Media Production Intern](https://jobright.ai/jobs/info/6a29d9081de59e0682a81ff3?utm_campaign=1053&utm_source=git)** | Fargo, ND | On Site | Jun 10 |
 | **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a29d37f1de59e0682a81d94?utm_campaign=1053&utm_source=git)** | Naperville, IL | On Site | Jun 10 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a29d37c1de59e0682a81d91?utm_campaign=1053&utm_source=git)** | Beckley, WV | On Site | Jun 10 |
-| ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a29d37ac07d4b6ae1c43276?utm_campaign=1053&utm_source=git)** | Savannah, GA | On Site | Jun 10 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a29d37ac07d4b6ae1c43277?utm_campaign=1053&utm_source=git)** | Columbia, MO | On Site | Jun 10 |
+| ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a29d37ac07d4b6ae1c43276?utm_campaign=1053&utm_source=git)** | Savannah, GA | On Site | Jun 10 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a29d3791de59e0682a81d8f?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Jun 10 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a29d376495d985b994261f7?utm_campaign=1053&utm_source=git)** | Newark, NJ | On Site | Jun 10 |
 | **[McPherson College](http://www.mcpherson.edu)** | **[Sports Information Intern](https://jobright.ai/jobs/info/6a29d1efd3ec8317fe140bb9?utm_campaign=1053&utm_source=git)** | McPherson, KS | On Site | Jun 10 |
-| **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a2a03250c4972328e7e69e5?utm_campaign=1053&utm_source=git)** | Bloomington, IN | On Site | Jun 10 |
-| ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a2a0325c07d4b6ae1c43b74?utm_campaign=1053&utm_source=git)** | Wichita, KS | On Site | Jun 10 |
+| **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a2a0325c07d4b6ae1c43b74?utm_campaign=1053&utm_source=git)** | Wichita, KS | On Site | Jun 10 |
+| ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a2a03250c4972328e7e69e5?utm_campaign=1053&utm_source=git)** | Bloomington, IN | On Site | Jun 10 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a2a032cd3ec8317fe14166c?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Jun 10 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a29c0ef0c4972328e7e57c5?utm_campaign=1053&utm_source=git)** | Minneapolis, MN | On Site | Jun 10 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a29c0ed0c4972328e7e57c3?utm_campaign=1053&utm_source=git)** | Columbia, SC | On Site | Jun 10 |
