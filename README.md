@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Project ANA](https://www.project-ana.org/about)** | **[Video Content Intern - Highschool + College](https://jobright.ai/jobs/info/6a304d3d093df201d07b0a97?utm_campaign=1053&utm_source=git)** | United States | Remote | Jun 15 |
+| **[USA TODAY Co., Inc.](https://www.usatodayco.com)** | **[Multimedia Content Creator, Sports Internship, Columbus, Ohio](https://jobright.ai/jobs/info/6a30489bafabbe533fb8a38a?utm_campaign=1053&utm_source=git)** | Columbus, OH, USA | On Site | Jun 15 |
+| ↳ | **[Multimedia Content Creator, Sports Internship, Phoenix, Arizona](https://jobright.ai/jobs/info/6a304888afabbe533fb8a382?utm_campaign=1053&utm_source=git)** | Phoenix, AZ, USA | On Site | Jun 15 |
+| ↳ | **[Multimedia Content Creator, Sports Internship, Milwaukee, Wisconsin](https://jobright.ai/jobs/info/6a304880afabbe533fb8a380?utm_campaign=1053&utm_source=git)** | Milwaukee, WI, USA | On Site | Jun 15 |
+| ↳ | **[Multimedia Content Creator, Sports Internship, Oklahoma City, Oklahoma](https://jobright.ai/jobs/info/6a30487eeace377055eb580f?utm_campaign=1053&utm_source=git)** | Oklahoma City, OK, USA | On Site | Jun 15 |
+| ↳ | **[Multimedia Content Creator, Sports Internship, Detroit, Michigan](https://jobright.ai/jobs/info/6a30487c43732c05812e1936?utm_campaign=1053&utm_source=git)** | Detroit, MI, USA | On Site | Jun 15 |
+| **[(HTS) Holy Trinity School](http://www.hts.on.ca)** | **[Fashion Intern-Co-op](https://jobright.ai/jobs/info/6a303c74093df201d07b0496?utm_campaign=1053&utm_source=git)** | Richmond Hill, ON, CA | On Site | Jun 15 |
 | **[DreamWorks Animation](https://www.dreamworks.com)** | **[Artist Management Intern, DreamWorks Animation, Fall 2026](https://jobright.ai/jobs/info/6a303171eace377055eb4fa3?utm_campaign=1053&utm_source=git)** | 1000 Flower St, Glendale, CALIFORNIA | Hybrid | Jun 15 |
 | ↳ | **[Technical Direction Intern, DreamWorks Animation, Fall 2026](https://jobright.ai/jobs/info/6a303151afabbe533fb89a9b?utm_campaign=1053&utm_source=git)** | 1000 Flower St, Glendale, CALIFORNIA | Hybrid | Jun 15 |
 | **[USA TODAY Co., Inc.](https://www.usatodayco.com)** | **[Multimedia Content Creator, Sports Internship, Cincinnati, Ohio](https://jobright.ai/jobs/info/6a302d3eafabbe533fb8982a?utm_campaign=1053&utm_source=git)** | Cincinnati, OH, USA | On Site | Jun 15 |
