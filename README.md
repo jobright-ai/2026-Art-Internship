@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Chil & Co.](https://www.chilatl.com)** | **[Video Intern](https://jobright.ai/jobs/info/6a30671cafabbe533fb8af3e?utm_campaign=1053&utm_source=git)** | Atlanta, GA | Hybrid | Jun 15 |
+| **[North Carolina State University](http://www.ncsu.edu)** | **[Graduate Student Science Outreach Intern](https://jobright.ai/jobs/info/6a3064d8524fd5657fe10ac2?utm_campaign=1053&utm_source=git)** | Raleigh, NC | Hybrid | Jun 15 |
+| **[St. Louis Blues](http://www.stlouisblues.com)** | **[Intern, Editorial Content](https://jobright.ai/jobs/info/6a305a5a524fd5657fe105ba?utm_campaign=1053&utm_source=git)** | St Louis, MO | On Site | Jun 15 |
 | **[Project ANA](https://www.project-ana.org/about)** | **[Video Content Intern - Highschool + College](https://jobright.ai/jobs/info/6a304d3d093df201d07b0a97?utm_campaign=1053&utm_source=git)** | United States | Remote | Jun 15 |
 | **[USA TODAY Co., Inc.](https://www.usatodayco.com)** | **[Multimedia Content Creator, Sports Internship, Columbus, Ohio](https://jobright.ai/jobs/info/6a30489bafabbe533fb8a38a?utm_campaign=1053&utm_source=git)** | Columbus, OH, USA | On Site | Jun 15 |
 | ↳ | **[Multimedia Content Creator, Sports Internship, Phoenix, Arizona](https://jobright.ai/jobs/info/6a304888afabbe533fb8a382?utm_campaign=1053&utm_source=git)** | Phoenix, AZ, USA | On Site | Jun 15 |
@@ -114,8 +117,8 @@ For a complete list, click the following sortable link below:
 | **[CareerViewXR](https://careerviewxr.bemorecolorful.com/)** | **[Media Production Intern](https://jobright.ai/jobs/info/6a29d9081de59e0682a81ff3?utm_campaign=1053&utm_source=git)** | Fargo, ND | On Site | Jun 10 |
 | **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a29d37f1de59e0682a81d94?utm_campaign=1053&utm_source=git)** | Naperville, IL | On Site | Jun 10 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a29d37c1de59e0682a81d91?utm_campaign=1053&utm_source=git)** | Beckley, WV | On Site | Jun 10 |
-| ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a29d37ac07d4b6ae1c43277?utm_campaign=1053&utm_source=git)** | Columbia, MO | On Site | Jun 10 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a29d37ac07d4b6ae1c43276?utm_campaign=1053&utm_source=git)** | Savannah, GA | On Site | Jun 10 |
+| ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a29d37ac07d4b6ae1c43277?utm_campaign=1053&utm_source=git)** | Columbia, MO | On Site | Jun 10 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a29d3791de59e0682a81d8f?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Jun 10 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a29d376495d985b994261f7?utm_campaign=1053&utm_source=git)** | Newark, NJ | On Site | Jun 10 |
 | **[McPherson College](http://www.mcpherson.edu)** | **[Sports Information Intern](https://jobright.ai/jobs/info/6a29d1efd3ec8317fe140bb9?utm_campaign=1053&utm_source=git)** | McPherson, KS | On Site | Jun 10 |
@@ -147,5 +150,4 @@ For a complete list, click the following sortable link below:
 | **[Memphis Grizzlies](http://grizzlies.com)** | **[Social & Digital Content Coordinating Production Intern](https://jobright.ai/jobs/info/6a18e0ffabc8f63abac7d025?utm_campaign=1053&utm_source=git)** | Memphis, TN | On Site | Jun 09 |
 | **[Our National Conversation (ONC)](https://www.ournationalconversation.org)** | **[Video Production Intern](https://jobright.ai/jobs/info/6a27efdc1dbd8437bebc81c1?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, USA | Remote | Jun 09 |
 | **[Sales Gravy | Sell More](http://www.salesgravy.com/)** | **[Video Production & Editing Intern - Fall 2026](https://jobright.ai/jobs/info/6a2fcf8eafabbe533fb8804a?utm_campaign=1053&utm_source=git)** | 115 E Hall St, Thomson, 30824, US | On Site | Jun 09 |
-| **[New York Yankees](http://newyork.yankees.mlb.com/index.jsp?c_id=nyy)** | **[Intern, Bad Boy Mowers Pinstripe Bowl](https://jobright.ai/jobs/info/6a2bb8d31de59e0682a8a153?utm_campaign=1053&utm_source=git)** | The Bronx, NY, US | On Site | Jun 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
