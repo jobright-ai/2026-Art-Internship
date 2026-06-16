@@ -149,6 +149,4 @@ For a complete list, click the following sortable link below:
 | **[NEON](https://neonrated.com)** | **[NEON General Internship Program - Fall 2026](https://jobright.ai/jobs/info/6a296acf1de59e0682a7ef9e?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jun 09 |
 | ↳ | **[NEON General Internship Program - Fall 2026](https://jobright.ai/jobs/info/6a296ac62cde2824469bbf1a?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Jun 09 |
 | **[Memphis Grizzlies](http://grizzlies.com)** | **[Social & Digital Content Coordinating Production Intern](https://jobright.ai/jobs/info/6a18e0ffabc8f63abac7d025?utm_campaign=1053&utm_source=git)** | Memphis, TN | On Site | Jun 09 |
-| **[Our National Conversation (ONC)](https://www.ournationalconversation.org)** | **[Video Production Intern](https://jobright.ai/jobs/info/6a27efdc1dbd8437bebc81c1?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, USA | Remote | Jun 09 |
-| **[Sales Gravy | Sell More](http://www.salesgravy.com/)** | **[Video Production & Editing Intern - Fall 2026](https://jobright.ai/jobs/info/6a2fcf8eafabbe533fb8804a?utm_campaign=1053&utm_source=git)** | 115 E Hall St, Thomson, 30824, US | On Site | Jun 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
