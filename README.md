@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Duke University](http://ceint.duke.edu)** | **[Library Internship, Exhibitions Services Department, Duke Library Job Details / Duke Careers](https://jobright.ai/jobs/info/6a31b9fbe7b7d514a3bd54ec?utm_campaign=1053&utm_source=git)** | Durham, NC, US, 27710 | On Site | Jun 16 |
 | **[OES Global, Inc.](https://oesglobalinc.com)** | **[Video Editing Intern](https://jobright.ai/jobs/info/6a31a03ec477a5075f48e28e?utm_campaign=1053&utm_source=git)** | Pompano Beach, FL | On Site | Jun 16 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Library Intern](https://jobright.ai/jobs/info/6a31968459588169700158ea?utm_campaign=1053&utm_source=git)** | Southfield, MI | On Site | Jun 16 |
 | **[The Voice of College Football Network](https://www.linkedin.com/company/105024297)** | **[College Football Podcast Content & Social Media Editor Intern (Unpaid)](https://jobright.ai/jobs/info/6a318bd42ee3ac1b4beef79b?utm_campaign=1053&utm_source=git)** | United States | Remote | Jun 16 |
@@ -126,8 +127,8 @@ For a complete list, click the following sortable link below:
 | **[CareerViewXR](https://careerviewxr.bemorecolorful.com/)** | **[Media Production Intern](https://jobright.ai/jobs/info/6a29d9081de59e0682a81ff3?utm_campaign=1053&utm_source=git)** | Fargo, ND | On Site | Jun 10 |
 | **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a29d37f1de59e0682a81d94?utm_campaign=1053&utm_source=git)** | Naperville, IL | On Site | Jun 10 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a29d37c1de59e0682a81d91?utm_campaign=1053&utm_source=git)** | Beckley, WV | On Site | Jun 10 |
-| ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a29d37ac07d4b6ae1c43276?utm_campaign=1053&utm_source=git)** | Savannah, GA | On Site | Jun 10 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a29d37ac07d4b6ae1c43277?utm_campaign=1053&utm_source=git)** | Columbia, MO | On Site | Jun 10 |
+| ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a29d37ac07d4b6ae1c43276?utm_campaign=1053&utm_source=git)** | Savannah, GA | On Site | Jun 10 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a29d3791de59e0682a81d8f?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Jun 10 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a29d376495d985b994261f7?utm_campaign=1053&utm_source=git)** | Newark, NJ | On Site | Jun 10 |
 | **[McPherson College](http://www.mcpherson.edu)** | **[Sports Information Intern](https://jobright.ai/jobs/info/6a29d1efd3ec8317fe140bb9?utm_campaign=1053&utm_source=git)** | McPherson, KS | On Site | Jun 10 |
