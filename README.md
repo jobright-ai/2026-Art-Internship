@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Voice of College Football Network](https://www.linkedin.com/company/105024297)** | **[College Football Podcast Content & Social Media Editor Intern (Unpaid)](https://jobright.ai/jobs/info/6a318bd42ee3ac1b4beef79b?utm_campaign=1053&utm_source=git)** | United States | Remote | Jun 16 |
 | **[Piece of Cake: A Teen-Led Food Magazine](https://bluepencilwriting.wixsite.com/pieceofcake)** | **[Intern Food Writer](https://jobright.ai/jobs/info/6a31787b0ff23769fdb1e237?utm_campaign=1053&utm_source=git)** | United States | Remote | Jun 16 |
 | **[Magnet Media, Inc.](http://www.magnetmediafilms.com)** | **[Production Intern Fall 2026](https://jobright.ai/jobs/info/6a3175d035e80310003a711c?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jun 16 |
 | **[CATALYST PLANET](https://www.catalystplanet.com)** | **[Copyeditor Intern](https://jobright.ai/jobs/info/6a316c620ff23769fdb1de40?utm_campaign=1053&utm_source=git)** | United States | Remote | Jun 16 |
@@ -125,8 +126,8 @@ For a complete list, click the following sortable link below:
 | **[CareerViewXR](https://careerviewxr.bemorecolorful.com/)** | **[Media Production Intern](https://jobright.ai/jobs/info/6a29d9081de59e0682a81ff3?utm_campaign=1053&utm_source=git)** | Fargo, ND | On Site | Jun 10 |
 | **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a29d37f1de59e0682a81d94?utm_campaign=1053&utm_source=git)** | Naperville, IL | On Site | Jun 10 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a29d37c1de59e0682a81d91?utm_campaign=1053&utm_source=git)** | Beckley, WV | On Site | Jun 10 |
-| ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a29d37ac07d4b6ae1c43277?utm_campaign=1053&utm_source=git)** | Columbia, MO | On Site | Jun 10 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a29d37ac07d4b6ae1c43276?utm_campaign=1053&utm_source=git)** | Savannah, GA | On Site | Jun 10 |
+| ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a29d37ac07d4b6ae1c43277?utm_campaign=1053&utm_source=git)** | Columbia, MO | On Site | Jun 10 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a29d3791de59e0682a81d8f?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Jun 10 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a29d376495d985b994261f7?utm_campaign=1053&utm_source=git)** | Newark, NJ | On Site | Jun 10 |
 | **[McPherson College](http://www.mcpherson.edu)** | **[Sports Information Intern](https://jobright.ai/jobs/info/6a29d1efd3ec8317fe140bb9?utm_campaign=1053&utm_source=git)** | McPherson, KS | On Site | Jun 10 |
@@ -150,5 +151,4 @@ For a complete list, click the following sortable link below:
 | **[Mitratech Trakstar](http://www.trakstar.com)** | **[Videography Intern](https://jobright.ai/jobs/info/6a291dd51dbd8437bebcf06f?utm_campaign=1053&utm_source=git)** | Suwanee, Georgia, United States | On Site | Jun 10 |
 | **[Sales Gravy | Sell More](http://www.salesgravy.com/)** | **[Video Production & Editing Intern - Fall 2026](https://jobright.ai/jobs/info/6a2912b2883c0d3be6545a7e?utm_campaign=1053&utm_source=git)** | Thomson, GA | On Site | Jun 10 |
 | **[HYPEBEAST](http://hypebeast.com)** | **[Editorial Intern](https://jobright.ai/jobs/info/6a2901a32d6c332ee52e9499?utm_campaign=1053&utm_source=git)** | New York | On Site | Jun 09 |
-| **[Leigh & Co. Events](http://leighandcoevents.com)** | **[Unpaid Wedding Assistant Intern](https://jobright.ai/jobs/info/6a28c31a7061b51a3a5f7bb0?utm_campaign=1053&utm_source=git)** | United States | Remote | Jun 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
