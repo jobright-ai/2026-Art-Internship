@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[THE·TEAM](http://the.team)** | **[Intern, Experience](https://jobright.ai/jobs/info/6a307d30eace377055eb6b23?utm_campaign=1053&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jun 15 |
+| **[OPTYO](https://optyo.net)** | **[UGC Content Intern - Health & Wellness](https://jobright.ai/jobs/info/6a29a353c07d4b6ae1c41da6?utm_campaign=1053&utm_source=git)** | San Diego, CA | Hybrid | Jun 15 |
+| **[Wasserman](https://the.team/)** | **[Intern, Experience](https://jobright.ai/jobs/info/6a30785243732c05812e29de?utm_campaign=1053&utm_source=git)** | CAN - Toronto Office (Hanna Avenue), CA | Hybrid | Jun 15 |
 | **[Chil & Co.](https://www.chilatl.com)** | **[Video Intern](https://jobright.ai/jobs/info/6a30671cafabbe533fb8af3e?utm_campaign=1053&utm_source=git)** | Atlanta, GA | Hybrid | Jun 15 |
 | **[North Carolina State University](http://www.ncsu.edu)** | **[Graduate Student Science Outreach Intern](https://jobright.ai/jobs/info/6a3064d8524fd5657fe10ac2?utm_campaign=1053&utm_source=git)** | Raleigh, NC | Hybrid | Jun 15 |
 | **[St. Louis Blues](http://www.stlouisblues.com)** | **[Intern, Editorial Content](https://jobright.ai/jobs/info/6a305a5a524fd5657fe105ba?utm_campaign=1053&utm_source=git)** | St Louis, MO | On Site | Jun 15 |
@@ -106,11 +109,11 @@ For a complete list, click the following sortable link below:
 | **[Wall Street Quants](https://www.thewallstreetquants.com)** | **[Content Creator Intern (Business & Finance)](https://jobright.ai/jobs/info/6a2b42d32cde2824469c601b?utm_campaign=1053&utm_source=git)** | United States | Remote | Jun 11 |
 | **[JED Lab](https://www.jedlab.com)** | **[Junior video editor (internship)](https://jobright.ai/jobs/info/6a2b43841de59e0682a88e9c?utm_campaign=1053&utm_source=git)** | Candiac, Quebec, Canada | Hybrid | Jun 11 |
 | **[Le Coucou](https://lecoucou.com/)** | **[Content Creator Intern](https://jobright.ai/jobs/info/6a2b3a63d3ec8317fe147db7?utm_campaign=1053&utm_source=git)** | NYC Metro Area | On Site | Jun 11 |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Internship](https://jobright.ai/jobs/info/69d5c2eacdb525785fbd3c9c?utm_campaign=1053&utm_source=git)** | Savannah, GA | On Site | Jun 11 |
 | **[Complex NTWRK](https://www.complex.com)** | **[Editorial Creator Intern - College Credit](https://jobright.ai/jobs/info/6a28c0872d6c332ee52e7ea3?utm_campaign=1053&utm_source=git)** | New York, United States | On Site | Jun 11 |
 | **[Park County Government](https://www.parkcountyco.gov/)** | **[CSU Extension Intern – Park County Fair Assistant](https://jobright.ai/jobs/info/6a2b137c9bf7365df089c2f0?utm_campaign=1053&utm_source=git)** | Fairplay, CO | On Site | Jun 11 |
 | **[National Association of State Procurement Officials](https://www.naspo.org/)** | **[Video Editor Intern](https://jobright.ai/jobs/info/69f2ca84825a315d7ca3fa32?utm_campaign=1053&utm_source=git)** | Lexington, KY | Hybrid | Jun 11 |
 | ↳ | **[Video Editor Intern](https://jobright.ai/jobs/info/69f2932bf154d768fbaa7d42?utm_campaign=1053&utm_source=git)** | Lexington,KY,US | Hybrid | Jun 11 |
-| **[Tepper Sports & Entertainment](https://teppersportsentertainment.com)** | **[Intern - Video Production](https://jobright.ai/jobs/info/6a2ace9d2cde2824469c3270?utm_campaign=1053&utm_source=git)** | 800 S Mint St, Charlotte, NC 28202, USA | On Site | Jun 11 |
 | **[WMUR-TV](http://www.wmur.com/)** | **[Creative Services Intern](https://jobright.ai/jobs/info/69ba8f1506c1ba00c54ca4eb?utm_campaign=1053&utm_source=git)** | Manchester, NH | On Site | Jun 11 |
 | **[University of Utah](http://utah.edu)** | **[Publishing and Research Communication Intern](https://jobright.ai/jobs/info/6a2a7d9b1de59e0682a84c94?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Jun 10 |
 | **[NPR](http://www.npr.org)** | **[It's Been a Minute & Life Kit Internship- Fall 2026](https://jobright.ai/jobs/info/6a2a2cbc0c4972328e7e749c?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Jun 10 |
@@ -133,7 +136,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a29c0c90c4972328e7e57b3?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | Jun 10 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a29c05f1de59e0682a814a1?utm_campaign=1053&utm_source=git)** | Raleigh, NC | On Site | Jun 10 |
 | **[OPTYO](https://optyo.net)** | **[UGC Content Intern - Sports & Fitness](https://jobright.ai/jobs/info/6a29a6be1de59e0682a80a59?utm_campaign=1053&utm_source=git)** | San Diego, CA | Hybrid | Jun 10 |
-| ↳ | **[UGC Content Intern - Health & Wellness](https://jobright.ai/jobs/info/6a29a353c07d4b6ae1c41da6?utm_campaign=1053&utm_source=git)** | San Diego, CA | Hybrid | Jun 10 |
 | ↳ | **[UGC Content Intern - Golf](https://jobright.ai/jobs/info/6a29a1e1c07d4b6ae1c41d41?utm_campaign=1053&utm_source=git)** | San Diego, CA | Hybrid | Jun 10 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Paid Intern (Photojournalist/Multi-Media Journalist/Producer)](https://jobright.ai/jobs/info/69f179ef8feca91f149202ba?utm_campaign=1053&utm_source=git)** | Wichita, KS | On Site | Jun 10 |
 | **[MediaSource](https://mediasourcetv.com)** | **[Broadcast Journalist/Videography Content Fall Internship](https://jobright.ai/jobs/info/6a29779ad3ec8317fe13e251?utm_campaign=1053&utm_source=git)** | Columbus,OH,US | On Site | Jun 10 |
