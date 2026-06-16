@@ -94,7 +94,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Onsite Internship: A/V (Fall)](https://jobright.ai/jobs/info/6a2c8033d3ec94183f4bd592?utm_campaign=1053&utm_source=git)** | Brookfield, WI | On Site | Jun 12 |
 | **[Oklahoma City Thunder](http://okcthunder.com)** | **[Intern, Video Production & ThunderVision](https://jobright.ai/jobs/info/6a2c709c7cd40a338fae66b1?utm_campaign=1053&utm_source=git)** | Business Office - Oklahoma City, OK 73102 | On Site | Jun 12 |
 | ↳ | **[Intern, Broadcasting](https://jobright.ai/jobs/info/6a2c5465a1d15e3c552fb3ce?utm_campaign=1053&utm_source=git)** | Business Office - Oklahoma City, OK 73102 | On Site | Jun 12 |
-| **[888 Creative](https://888creative.co/)** | **[Content Creator - Detroit (Summer 2026 Internship)](https://jobright.ai/jobs/info/6a2c5705fc064474905496e8?utm_campaign=1053&utm_source=git)** | Detroit Metro | On Site | Jun 12 |
 | **[Rochester Americans](http://amerks.com)** | **[Game Presentation Intern](https://jobright.ai/jobs/info/6a2c44357cd40a338fae594e?utm_campaign=1053&utm_source=git)** | Rochester, NY | On Site | Jun 12 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Digital Content Intern, Unpaid](https://jobright.ai/jobs/info/69bb08ca569738374140e490?utm_campaign=1053&utm_source=git)** | Shreveport, LA | On Site | Jun 12 |
 | **[Apartment Therapy Media](http://www.apartmenttherapy.com/)** | **[Dorm Therapy Editorial Intern](https://jobright.ai/jobs/info/6a2c14f87cd40a338fae48ce?utm_campaign=1053&utm_source=git)** | United States | Remote | Jun 12 |
@@ -149,5 +148,4 @@ For a complete list, click the following sortable link below:
 | **[Neon Postgres](https://neon.tech)** | **[NEON General Internship Program - Fall 2026](https://jobright.ai/jobs/info/6a284cc5fd37e62bb47a8343?utm_campaign=1053&utm_source=git)** | Los Angeles, California, United States | On Site | Jun 09 |
 | **[NEON](https://neonrated.com)** | **[NEON General Internship Program - Fall 2026](https://jobright.ai/jobs/info/6a296acf1de59e0682a7ef9e?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jun 09 |
 | ↳ | **[NEON General Internship Program - Fall 2026](https://jobright.ai/jobs/info/6a296ac62cde2824469bbf1a?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Jun 09 |
-| **[Memphis Grizzlies](http://grizzlies.com)** | **[Social & Digital Content Coordinating Production Intern](https://jobright.ai/jobs/info/6a18e0ffabc8f63abac7d025?utm_campaign=1053&utm_source=git)** | Memphis, TN | On Site | Jun 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
