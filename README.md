@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Intern, Artist Manager Assistant](https://jobright.ai/jobs/info/6a32e02329c90c607e4d87d1?utm_campaign=1053&utm_source=git)** | Etobicoke, ON, CA | On Site | Jun 17 |
 | **[WCIA 3](https://www.wcia.com/)** | **[Unpaid Intern, Sports](https://jobright.ai/jobs/info/69c28299a5b03d40c194e14d?utm_campaign=1053&utm_source=git)** | Champaign, IL | On Site | Jun 17 |
 | **[All-Star Sports Academy](https://allstarsportsacademy.com/)** | **[Videography & Photography Intern - Fall 2026](https://jobright.ai/jobs/info/6a32ad43ce501060b5ce9b00?utm_campaign=1053&utm_source=git)** | West Chester, PA | On Site | Jun 17 |
 | **[OES Global, Inc.](https://oesglobalinc.com)** | **[Video Editing Intern](https://jobright.ai/jobs/info/6a32a3d3ce501060b5ce98af?utm_campaign=1053&utm_source=git)** | Pompano Beach, FL | On Site | Jun 17 |
@@ -98,7 +99,6 @@ For a complete list, click the following sortable link below:
 | **[National Education Association](http://www.nea.org)** | **[NEA Media Intern - Center for Communications](https://jobright.ai/jobs/info/69f57c8e43a25828a8d18f77?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Jun 14 |
 | **[TikTok](https://www.tiktok.com)** | **[TikTok Short Drama Project Intern (TikTok-Short-Drama) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a30d116093df201d07b2c04?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Jun 13 |
 | **[The Laziena Experience](www.laziena.com)** | **[Student Podcast Editing & Content Creation Internship (Unpaid / Portfolio Experience)](https://jobright.ai/jobs/info/6a2dced8a1d15e3c552fec83?utm_campaign=1053&utm_source=git)** | St. Petersburg, FL | Remote | Jun 13 |
-| **[BizDepot Brokers](biz-depot.co)** | **[On-Camera Content Creator Intern](https://jobright.ai/jobs/info/6a2dc047f1751b183c81b621?utm_campaign=1053&utm_source=git)** | San Francisco Bay Area | Remote | Jun 13 |
 | **[The Burnette Agency](https://theburnetteagency.com)** | **[Intern — The Burnette Agency](https://jobright.ai/jobs/info/6a2dc00ffc0644749054cc1c?utm_campaign=1053&utm_source=git)** | Agency, MO | On Site | Jun 13 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid News Intern](https://jobright.ai/jobs/info/6972b01a9b83b424830eb8a4?utm_campaign=1053&utm_source=git)** | IN-Indianapolis;6910 Network Place (Tribune-WXIN/WTTV) | On Site | Jun 13 |
 | **[Bethel University](https://www.betheluniversity.edu/)** | **[Student Worker - PR/Com Student Writer Intern](https://jobright.ai/jobs/info/6a2ce2f4fc0644749054b73b?utm_campaign=1053&utm_source=git)** | Mishawaka, IN 46545, USA | On Site | Jun 12 |
