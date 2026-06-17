@@ -64,7 +64,6 @@ For a complete list, click the following sortable link below:
 | **[OES Global, Inc.](https://oesglobalinc.com)** | **[Video Editing Intern](https://jobright.ai/jobs/info/6a32a3d3ce501060b5ce98af?utm_campaign=1053&utm_source=git)** | Pompano Beach, FL | On Site | Jun 17 |
 | **[UBS](https://www.ubs.com)** | **[Intern](https://jobright.ai/jobs/info/6a31b8b62ee3ac1b4bef0cb7?utm_campaign=1053&utm_source=git)** | Salt Lake City, United States - Utah | On Site | Jun 17 |
 | **[Canyon Entertainment Group](https://canyonentertainmentgroup.com)** | **[AI Video & Animation Creator Internship](https://jobright.ai/jobs/info/6a323adc2ee3ac1b4bef2c65?utm_campaign=1053&utm_source=git)** | Canada | Remote | Jun 16 |
-| ↳ | **[AI Video & Animation Creator Internship](https://jobright.ai/jobs/info/6a323abfc477a5075f490e69?utm_campaign=1053&utm_source=git)** | Greater Toronto Area, Canada | Remote | Jun 16 |
 | **[Cox Media Group](http://www.coxmediagroup.com)** | **[Intern (Part-Time) - WSB TV](https://jobright.ai/jobs/info/6a31f0372ee3ac1b4bef1db7?utm_campaign=1053&utm_source=git)** | Atlanta, GA, US, 30309 | On Site | Jun 16 |
 | **[Red Aspen](https://www.redaspenlove.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/6a31eabee7b7d514a3bd63da?utm_campaign=1053&utm_source=git)** | Meridian, ID | On Site | Jun 16 |
 | **[International Foundation of Employee Benefit Plans (IFEBP)](http://www.ifebp.org/)** | **[Onsite Internship: A/V (Fall)](https://jobright.ai/jobs/info/6a2c8033d3ec94183f4bd592?utm_campaign=1053&utm_source=git)** | Brookfield, WI | On Site | Jun 16 |
@@ -74,7 +73,6 @@ For a complete list, click the following sortable link below:
 | **[Resources for the Future](http://www.rff.org/)** | **[Editorial Intern (Fall Semester)](https://jobright.ai/jobs/info/6a316644e7b7d514a3bd33d2?utm_campaign=1053&utm_source=git)** | Washington, DC 20036-1434, USA | On Site | Jun 16 |
 | **[WCIA 3](https://www.wcia.com/)** | **[Unpaid Intern, Weather](https://jobright.ai/jobs/info/69c20a5e75f7ff1cd810a997?utm_campaign=1053&utm_source=git)** | Champaign, IL | On Site | Jun 16 |
 | **[Resources for the Future](http://www.rff.org/)** | **[Editorial Internship (Fall Semester)](https://jobright.ai/jobs/info/6a3159b335e80310003a6803?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Jun 16 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Disney Entertainment Television Communication Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/6a3140c92ee3ac1b4beed958?utm_campaign=1053&utm_source=git)** | Burbank, CA | On Site | Jun 16 |
 | **[THE·TEAM](http://the.team)** | **[Intern, Experience](https://jobright.ai/jobs/info/6a307d30eace377055eb6b23?utm_campaign=1053&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jun 15 |
 | **[OPTYO](https://optyo.net)** | **[UGC Content Intern - Health & Wellness](https://jobright.ai/jobs/info/6a29a353c07d4b6ae1c41da6?utm_campaign=1053&utm_source=git)** | San Diego, CA | Hybrid | Jun 15 |
 | **[Wasserman](https://the.team/)** | **[Intern, Experience](https://jobright.ai/jobs/info/6a30785243732c05812e29de?utm_campaign=1053&utm_source=git)** | CAN - Toronto Office (Hanna Avenue), CA | Hybrid | Jun 15 |
@@ -126,5 +124,4 @@ For a complete list, click the following sortable link below:
 | **[National Association of State Procurement Officials](https://www.naspo.org/)** | **[Video Editor Intern](https://jobright.ai/jobs/info/69f2ca84825a315d7ca3fa32?utm_campaign=1053&utm_source=git)** | Lexington, KY | Hybrid | Jun 11 |
 | ↳ | **[Video Editor Intern](https://jobright.ai/jobs/info/69f2932bf154d768fbaa7d42?utm_campaign=1053&utm_source=git)** | Lexington,KY,US | Hybrid | Jun 11 |
 | **[WMUR-TV](http://www.wmur.com/)** | **[Creative Services Intern](https://jobright.ai/jobs/info/69ba8f1506c1ba00c54ca4eb?utm_campaign=1053&utm_source=git)** | Manchester, NH | On Site | Jun 11 |
-| **[University of Utah](http://utah.edu)** | **[Publishing and Research Communication Intern](https://jobright.ai/jobs/info/6a2a7d9b1de59e0682a84c94?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Jun 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
