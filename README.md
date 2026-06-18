@@ -57,7 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Andrews McMeel Universal](http://www.amuniversal.com/)** | **[GoComics Content Archive Intern](https://jobright.ai/jobs/info/6a06336ca88ea73abf7f8fe5?utm_campaign=1053&utm_source=git)** | Kansas City, MO | Hybrid | Jun 17 |
+| **[United States Hockey League (USHL)](https://www.ushl.com/)** | **[Game Day Digital Media Intern](https://jobright.ai/jobs/info/6a3342a9649fdf16292f16a0?utm_campaign=1053&utm_source=git)** | West Des Moines, IA | On Site | Jun 17 |
 | **[More Views Media](https://moreviewsmedia.com/)** | **[Red Sox Podcast Clipping Intern](https://jobright.ai/jobs/info/6a3324dd7f3fdd180d4c5c5e?utm_campaign=1053&utm_source=git)** | United States | Remote | Jun 17 |
+| **[Safe Passage Project](https://www.safepassageproject.org)** | **[Animation & Storytelling Intern](https://jobright.ai/jobs/info/6a2c34dd7cd40a338fae52d0?utm_campaign=1053&utm_source=git)** | NYC, NY | Hybrid | Jun 17 |
 | **[Keen Social](https://www.keensocial.com)** | **[Film, Videographer & Content Creator Internship (Prefer Cal State LB Students - MUST HAVE VIDEO PORTFOLIO)](https://jobright.ai/jobs/info/6a330b2c29c90c607e4d9e9d?utm_campaign=1053&utm_source=git)** | Long Beach, CA | Hybrid | Jun 17 |
 | **[MATTE Projects](https://matteprojects.com/)** | **[Experiential Production Internship: Fall 2026 (On-site, New York)](https://jobright.ai/jobs/info/6a330808ce501060b5cebefd?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jun 17 |
 | ↳ | **[Experiential Production Internship: Fall 2026 (On-site, New York)](https://jobright.ai/jobs/info/6a32fe397f3fdd180d4c4d6d?utm_campaign=1053&utm_source=git)** | New York, New York | On Site | Jun 17 |
