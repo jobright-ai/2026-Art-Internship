@@ -59,7 +59,8 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Circuit of The Americas](http://circuitoftheamericas.com/)** | **[Events + Hospitality Dept Fall Internship / September - December 2023 (Part-Time)](https://jobright.ai/jobs/info/6a3409ab7f3fdd180d4c85be?utm_campaign=1053&utm_source=git)** | Del Valle,TX,US | On Site | Jun 18 |
 | **[American Heart Association](https://www.empoweredtoserve.org/en/business-accelerator-program/maryland-black-farmers)** | **[Intern, Exhibit & Sponsorship-Remote](https://jobright.ai/jobs/info/6a33ffb71232144fb155da12?utm_campaign=1053&utm_source=git)** | Dallas, TX, US | Remote | Jun 18 |
-| **[Andreessen Horowitz](https://speedrun.a16z.com)** | **[Editorial Intern, Crypto](https://jobright.ai/jobs/info/6a1736dc9005d858e94f77c3?utm_campaign=1053&utm_source=git)** | United States (Remote) | Remote | Jun 18 |
+| **[Andreessen Horowitz](https://speedrun.a16z.com)** | **[Editorial Intern, Crypto](https://jobright.ai/jobs/info/6a1732959005d858e94f6ddd?utm_campaign=1053&utm_source=git)** | New York, NY | Remote | Jun 18 |
+| ↳ | **[Editorial Intern, Crypto](https://jobright.ai/jobs/info/6a1736dc9005d858e94f77c3?utm_campaign=1053&utm_source=git)** | United States (Remote) | Remote | Jun 18 |
 | **[UBS](https://www.ubs.com)** | **[Intern](https://jobright.ai/jobs/info/6a31b8b62ee3ac1b4bef0cb7?utm_campaign=1053&utm_source=git)** | Salt Lake City, United States - Utah | On Site | Jun 18 |
 | **[City of Seattle](http://www.seattle.gov/)** | **[Yesler: Video Production Intern](https://jobright.ai/jobs/info/6a3352af29c90c607e4db19d?utm_campaign=1053&utm_source=git)** | Seattle, WA | On Site | Jun 17 |
 | **[Andrews McMeel Universal](http://www.amuniversal.com/)** | **[GoComics Content Archive Intern](https://jobright.ai/jobs/info/6a06336ca88ea73abf7f8fe5?utm_campaign=1053&utm_source=git)** | Kansas City, MO | Hybrid | Jun 17 |
@@ -126,5 +127,4 @@ For a complete list, click the following sortable link below:
 | **[Omni Hotels & Resorts](http://www.omnihotels.com/)** | **[Summer Omni Cares Internship- Recreation](https://jobright.ai/jobs/info/6a2b3ae31de59e0682a88b5e?utm_campaign=1053&utm_source=git)** | Omni Las Colinas Hotel, 221 East Las Colinas Blvd, Irving, Texas, United States of America | On Site | Jun 11 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Internship](https://jobright.ai/jobs/info/69d3c276891d7b11cfcf30e7?utm_campaign=1053&utm_source=git)** | Savannah, GA | On Site | Jun 11 |
 | **[The State University of New York](https://www.suny.edu)** | **[Arts Program Graduate Student Internship](https://jobright.ai/jobs/info/6a2b5e09d3ec8317fe148746?utm_campaign=1053&utm_source=git)** | Albany, NY | On Site | Jun 11 |
-| **[Utah Jazz](http://www.nba.com/jazz)** | **[Video Editor Intern](https://jobright.ai/jobs/info/6a2b0858d3ec8317fe146b00?utm_campaign=1053&utm_source=git)** | Sandy,UT,US | On Site | Jun 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
