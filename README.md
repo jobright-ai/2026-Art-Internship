@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Andreessen Horowitz](https://speedrun.a16z.com)** | **[Editorial Intern, Crypto](https://jobright.ai/jobs/info/6a1736dc9005d858e94f77c3?utm_campaign=1053&utm_source=git)** | United States (Remote) | Remote | Jun 18 |
+| **[UBS](https://www.ubs.com)** | **[Intern](https://jobright.ai/jobs/info/6a31b8b62ee3ac1b4bef0cb7?utm_campaign=1053&utm_source=git)** | Salt Lake City, United States - Utah | On Site | Jun 18 |
 | **[City of Seattle](http://www.seattle.gov/)** | **[Yesler: Video Production Intern](https://jobright.ai/jobs/info/6a3352af29c90c607e4db19d?utm_campaign=1053&utm_source=git)** | Seattle, WA | On Site | Jun 17 |
 | **[Andrews McMeel Universal](http://www.amuniversal.com/)** | **[GoComics Content Archive Intern](https://jobright.ai/jobs/info/6a06336ca88ea73abf7f8fe5?utm_campaign=1053&utm_source=git)** | Kansas City, MO | Hybrid | Jun 17 |
 | **[United States Hockey League (USHL)](https://www.ushl.com/)** | **[Game Day Digital Media Intern](https://jobright.ai/jobs/info/6a3342a9649fdf16292f16a0?utm_campaign=1053&utm_source=git)** | West Des Moines, IA | On Site | Jun 17 |
@@ -71,7 +73,6 @@ For a complete list, click the following sortable link below:
 | **[WCIA 3](https://www.wcia.com/)** | **[Unpaid Intern, Sports](https://jobright.ai/jobs/info/69c28299a5b03d40c194e14d?utm_campaign=1053&utm_source=git)** | Champaign, IL | On Site | Jun 17 |
 | **[All-Star Sports Academy](https://allstarsportsacademy.com/)** | **[Videography & Photography Intern - Fall 2026](https://jobright.ai/jobs/info/6a32ad43ce501060b5ce9b00?utm_campaign=1053&utm_source=git)** | West Chester, PA | On Site | Jun 17 |
 | **[OES Global, Inc.](https://oesglobalinc.com)** | **[Video Editing Intern](https://jobright.ai/jobs/info/6a32a3d3ce501060b5ce98af?utm_campaign=1053&utm_source=git)** | Pompano Beach, FL | On Site | Jun 17 |
-| **[UBS](https://www.ubs.com)** | **[Intern](https://jobright.ai/jobs/info/6a31b8b62ee3ac1b4bef0cb7?utm_campaign=1053&utm_source=git)** | Salt Lake City, United States - Utah | On Site | Jun 17 |
 | **[Cox Media Group](http://www.coxmediagroup.com)** | **[Intern (Part-Time) - WSB TV](https://jobright.ai/jobs/info/6a31f0372ee3ac1b4bef1db7?utm_campaign=1053&utm_source=git)** | Atlanta, GA, US, 30309 | On Site | Jun 16 |
 | **[Red Aspen](https://www.redaspenlove.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/6a31eabee7b7d514a3bd63da?utm_campaign=1053&utm_source=git)** | Meridian, ID | On Site | Jun 16 |
 | **[International Foundation of Employee Benefit Plans (IFEBP)](http://www.ifebp.org/)** | **[Onsite Internship: A/V (Fall)](https://jobright.ai/jobs/info/6a2c8033d3ec94183f4bd592?utm_campaign=1053&utm_source=git)** | Brookfield, WI | On Site | Jun 16 |
@@ -127,5 +128,4 @@ For a complete list, click the following sortable link below:
 | **[Wall Street Quants](https://www.thewallstreetquants.com)** | **[Content Creator Intern (Business & Finance)](https://jobright.ai/jobs/info/6a2b42d32cde2824469c601b?utm_campaign=1053&utm_source=git)** | United States | Remote | Jun 11 |
 | **[Le Coucou](https://lecoucou.com/)** | **[Content Creator Intern](https://jobright.ai/jobs/info/6a2b3a63d3ec8317fe147db7?utm_campaign=1053&utm_source=git)** | NYC Metro Area | On Site | Jun 11 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Internship](https://jobright.ai/jobs/info/69d5c2eacdb525785fbd3c9c?utm_campaign=1053&utm_source=git)** | Savannah, GA | On Site | Jun 11 |
-| **[Complex NTWRK](https://www.complex.com)** | **[Editorial Creator Intern - College Credit](https://jobright.ai/jobs/info/6a28c0872d6c332ee52e7ea3?utm_campaign=1053&utm_source=git)** | New York, United States | On Site | Jun 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
