@@ -57,8 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Texas Standard](https://www.texas-standard.com)** | **[Content Creator Intern](https://jobright.ai/jobs/info/6a34318029c90c607e4dddb7?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | Jun 18 |
 | **[Circuit of The Americas](http://circuitoftheamericas.com/)** | **[Events + Hospitality Dept Fall Internship / September - December 2023 (Part-Time)](https://jobright.ai/jobs/info/6a3409ab7f3fdd180d4c85be?utm_campaign=1053&utm_source=git)** | Del Valle,TX,US | On Site | Jun 18 |
+| **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a342e441232144fb155e9b5?utm_campaign=1053&utm_source=git)** | Columbia, MO | On Site | Jun 18 |
+| ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a342dcb29c90c607e4ddcdf?utm_campaign=1053&utm_source=git)** | Savannah, GA | On Site | Jun 18 |
+| ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a342ba329c90c607e4ddc5f?utm_campaign=1053&utm_source=git)** | Syracuse, NY | On Site | Jun 18 |
 | **[American Heart Association](https://www.empoweredtoserve.org/en/business-accelerator-program/maryland-black-farmers)** | **[Intern, Exhibit & Sponsorship-Remote](https://jobright.ai/jobs/info/6a33ffb71232144fb155da12?utm_campaign=1053&utm_source=git)** | Dallas, TX, US | Remote | Jun 18 |
+| **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a3428ecce501060b5cefbec?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Jun 18 |
+| ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a34285fce501060b5cefbca?utm_campaign=1053&utm_source=git)** | Evanston, IL | On Site | Jun 18 |
+| ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a3427acf6b55d12c791b4d2?utm_campaign=1053&utm_source=git)** | Raleigh, NC | On Site | Jun 18 |
+| ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a342696ce501060b5cefb41?utm_campaign=1053&utm_source=git)** | Columbia, SC | On Site | Jun 18 |
+| ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a342658649fdf16292f4538?utm_campaign=1053&utm_source=git)** | Bloomington, IN | On Site | Jun 18 |
+| ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a3425457f3fdd180d4c8ff1?utm_campaign=1053&utm_source=git)** | Naperville, IL | On Site | Jun 18 |
 | **[Andreessen Horowitz](https://speedrun.a16z.com)** | **[Editorial Intern, Crypto](https://jobright.ai/jobs/info/6a1732959005d858e94f6ddd?utm_campaign=1053&utm_source=git)** | New York, NY | Remote | Jun 18 |
 | ↳ | **[Editorial Intern, Crypto](https://jobright.ai/jobs/info/6a1736dc9005d858e94f77c3?utm_campaign=1053&utm_source=git)** | United States (Remote) | Remote | Jun 18 |
 | **[UBS](https://www.ubs.com)** | **[Intern](https://jobright.ai/jobs/info/6a31b8b62ee3ac1b4bef0cb7?utm_campaign=1053&utm_source=git)** | Salt Lake City, United States - Utah | On Site | Jun 18 |
@@ -125,6 +135,4 @@ For a complete list, click the following sortable link below:
 | **[Universal Orlando Resort](https://UniversalOrlandoJobs.com)** | **[Internship – Discover Universal Video Content Strategy (Spring 2027)](https://jobright.ai/jobs/info/6a2bb82e3f691a293d0b8f88?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | Jun 12 |
 | ↳ | **[Internship – Editorial Writing, Discover Universal (Spring 2027)*](https://jobright.ai/jobs/info/6a2bb8290ad4053b108ccbcc?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | Jun 12 |
 | **[Omni Hotels & Resorts](http://www.omnihotels.com/)** | **[Summer Omni Cares Internship- Recreation](https://jobright.ai/jobs/info/6a2b3ae31de59e0682a88b5e?utm_campaign=1053&utm_source=git)** | Omni Las Colinas Hotel, 221 East Las Colinas Blvd, Irving, Texas, United States of America | On Site | Jun 11 |
-| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Internship](https://jobright.ai/jobs/info/69d3c276891d7b11cfcf30e7?utm_campaign=1053&utm_source=git)** | Savannah, GA | On Site | Jun 11 |
-| **[The State University of New York](https://www.suny.edu)** | **[Arts Program Graduate Student Internship](https://jobright.ai/jobs/info/6a2b5e09d3ec8317fe148746?utm_campaign=1053&utm_source=git)** | Albany, NY | On Site | Jun 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
