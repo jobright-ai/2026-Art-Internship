@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[American Heart Association](https://www.empoweredtoserve.org/en/business-accelerator-program/maryland-black-farmers)** | **[Intern, Exhibit & Sponsorship-Remote](https://jobright.ai/jobs/info/6a33ffb71232144fb155da12?utm_campaign=1053&utm_source=git)** | Dallas, TX, US | Remote | Jun 18 |
 | **[Andreessen Horowitz](https://speedrun.a16z.com)** | **[Editorial Intern, Crypto](https://jobright.ai/jobs/info/6a1736dc9005d858e94f77c3?utm_campaign=1053&utm_source=git)** | United States (Remote) | Remote | Jun 18 |
 | **[UBS](https://www.ubs.com)** | **[Intern](https://jobright.ai/jobs/info/6a31b8b62ee3ac1b4bef0cb7?utm_campaign=1053&utm_source=git)** | Salt Lake City, United States - Utah | On Site | Jun 18 |
 | **[City of Seattle](http://www.seattle.gov/)** | **[Yesler: Video Production Intern](https://jobright.ai/jobs/info/6a3352af29c90c607e4db19d?utm_campaign=1053&utm_source=git)** | Seattle, WA | On Site | Jun 17 |
@@ -127,5 +128,4 @@ For a complete list, click the following sortable link below:
 | **[Utah Jazz](http://www.nba.com/jazz)** | **[Video Editor Intern](https://jobright.ai/jobs/info/6a2b0858d3ec8317fe146b00?utm_campaign=1053&utm_source=git)** | Sandy,UT,US | On Site | Jun 11 |
 | **[Wall Street Quants](https://www.thewallstreetquants.com)** | **[Content Creator Intern (Business & Finance)](https://jobright.ai/jobs/info/6a2b42d32cde2824469c601b?utm_campaign=1053&utm_source=git)** | United States | Remote | Jun 11 |
 | **[Le Coucou](https://lecoucou.com/)** | **[Content Creator Intern](https://jobright.ai/jobs/info/6a2b3a63d3ec8317fe147db7?utm_campaign=1053&utm_source=git)** | NYC Metro Area | On Site | Jun 11 |
-| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Internship](https://jobright.ai/jobs/info/69d5c2eacdb525785fbd3c9c?utm_campaign=1053&utm_source=git)** | Savannah, GA | On Site | Jun 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
