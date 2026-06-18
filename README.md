@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[City of Seattle](http://www.seattle.gov/)** | **[Yesler: Video Production Intern](https://jobright.ai/jobs/info/6a3352af29c90c607e4db19d?utm_campaign=1053&utm_source=git)** | Seattle, WA | On Site | Jun 17 |
 | **[Andrews McMeel Universal](http://www.amuniversal.com/)** | **[GoComics Content Archive Intern](https://jobright.ai/jobs/info/6a06336ca88ea73abf7f8fe5?utm_campaign=1053&utm_source=git)** | Kansas City, MO | Hybrid | Jun 17 |
 | **[United States Hockey League (USHL)](https://www.ushl.com/)** | **[Game Day Digital Media Intern](https://jobright.ai/jobs/info/6a3342a9649fdf16292f16a0?utm_campaign=1053&utm_source=git)** | West Des Moines, IA | On Site | Jun 17 |
 | **[More Views Media](https://moreviewsmedia.com/)** | **[Red Sox Podcast Clipping Intern](https://jobright.ai/jobs/info/6a3324dd7f3fdd180d4c5c5e?utm_campaign=1053&utm_source=git)** | United States | Remote | Jun 17 |
@@ -71,7 +72,6 @@ For a complete list, click the following sortable link below:
 | **[All-Star Sports Academy](https://allstarsportsacademy.com/)** | **[Videography & Photography Intern - Fall 2026](https://jobright.ai/jobs/info/6a32ad43ce501060b5ce9b00?utm_campaign=1053&utm_source=git)** | West Chester, PA | On Site | Jun 17 |
 | **[OES Global, Inc.](https://oesglobalinc.com)** | **[Video Editing Intern](https://jobright.ai/jobs/info/6a32a3d3ce501060b5ce98af?utm_campaign=1053&utm_source=git)** | Pompano Beach, FL | On Site | Jun 17 |
 | **[UBS](https://www.ubs.com)** | **[Intern](https://jobright.ai/jobs/info/6a31b8b62ee3ac1b4bef0cb7?utm_campaign=1053&utm_source=git)** | Salt Lake City, United States - Utah | On Site | Jun 17 |
-| **[Canyon Entertainment Group](https://canyonentertainmentgroup.com)** | **[AI Video & Animation Creator Internship](https://jobright.ai/jobs/info/6a323adc2ee3ac1b4bef2c65?utm_campaign=1053&utm_source=git)** | Canada | Remote | Jun 16 |
 | **[Cox Media Group](http://www.coxmediagroup.com)** | **[Intern (Part-Time) - WSB TV](https://jobright.ai/jobs/info/6a31f0372ee3ac1b4bef1db7?utm_campaign=1053&utm_source=git)** | Atlanta, GA, US, 30309 | On Site | Jun 16 |
 | **[Red Aspen](https://www.redaspenlove.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/6a31eabee7b7d514a3bd63da?utm_campaign=1053&utm_source=git)** | Meridian, ID | On Site | Jun 16 |
 | **[International Foundation of Employee Benefit Plans (IFEBP)](http://www.ifebp.org/)** | **[Onsite Internship: A/V (Fall)](https://jobright.ai/jobs/info/6a2c8033d3ec94183f4bd592?utm_campaign=1053&utm_source=git)** | Brookfield, WI | On Site | Jun 16 |
