@@ -129,5 +129,4 @@ For a complete list, click the following sortable link below:
 | **[Le Coucou](https://lecoucou.com/)** | **[Content Creator Intern](https://jobright.ai/jobs/info/6a2b3a63d3ec8317fe147db7?utm_campaign=1053&utm_source=git)** | NYC Metro Area | On Site | Jun 11 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Internship](https://jobright.ai/jobs/info/69d5c2eacdb525785fbd3c9c?utm_campaign=1053&utm_source=git)** | Savannah, GA | On Site | Jun 11 |
 | **[Complex NTWRK](https://www.complex.com)** | **[Editorial Creator Intern - College Credit](https://jobright.ai/jobs/info/6a28c0872d6c332ee52e7ea3?utm_campaign=1053&utm_source=git)** | New York, United States | On Site | Jun 11 |
-| **[National Association of State Procurement Officials](https://www.naspo.org/)** | **[Video Editor Intern](https://jobright.ai/jobs/info/69f2ca84825a315d7ca3fa32?utm_campaign=1053&utm_source=git)** | Lexington, KY | Hybrid | Jun 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
