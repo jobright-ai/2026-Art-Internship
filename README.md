@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[More Views Media](https://moreviewsmedia.com/)** | **[Red Sox Podcast Clipping Intern](https://jobright.ai/jobs/info/6a3324dd7f3fdd180d4c5c5e?utm_campaign=1053&utm_source=git)** | United States | Remote | Jun 17 |
 | **[Keen Social](https://www.keensocial.com)** | **[Film, Videographer & Content Creator Internship (Prefer Cal State LB Students - MUST HAVE VIDEO PORTFOLIO)](https://jobright.ai/jobs/info/6a330b2c29c90c607e4d9e9d?utm_campaign=1053&utm_source=git)** | Long Beach, CA | Hybrid | Jun 17 |
 | **[MATTE Projects](https://matteprojects.com/)** | **[Experiential Production Internship: Fall 2026 (On-site, New York)](https://jobright.ai/jobs/info/6a330808ce501060b5cebefd?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jun 17 |
 | ↳ | **[Experiential Production Internship: Fall 2026 (On-site, New York)](https://jobright.ai/jobs/info/6a32fe397f3fdd180d4c4d6d?utm_campaign=1053&utm_source=git)** | New York, New York | On Site | Jun 17 |
