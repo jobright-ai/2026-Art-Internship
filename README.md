@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Eagle Activator Media](https://www.eagleactivator.com)** | **[Paid Content Creator Internship (Remote, US)](https://jobright.ai/jobs/info/6a34f815ce501060b5cf2e47?utm_campaign=1053&utm_source=git)** | United States | Remote | Jun 19 |
 | **[ElectraCast Media](http://www.electracast.com)** | **[Internship: A.I./VFX Creator for Podcast & Record Company Video Shorts](https://jobright.ai/jobs/info/6a34d7d47f3fdd180d4cbea5?utm_campaign=1053&utm_source=git)** | United States | Remote | Jun 18 |
 | **[Satechi](http://www.satechi.net/)** | **[Content Editor Intern (Video)](https://jobright.ai/jobs/info/6a34c23e1232144fb15612e9?utm_campaign=1053&utm_source=git)** | Scripps Summit Ct, CA | On Site | Jun 18 |
 | **[Art Institute of Chicago](http://www.artic.edu/)** | **[McMullan Arts Leadership Intern, Collections and Loans](https://jobright.ai/jobs/info/6a34e602ce501060b5cf2c82?utm_campaign=1053&utm_source=git)** | Chicago, IL | Hybrid | Jun 18 |
