@@ -140,6 +140,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Dorm Therapy Editorial Intern](https://jobright.ai/jobs/info/6a2c14f77cd40a338fae48cd?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Jun 12 |
 | ↳ | **[Dorm Therapy Editorial Intern](https://jobright.ai/jobs/info/6a2c06e47cd40a338fae44e4?utm_campaign=1053&utm_source=git)** | NYC Metro Area | Hybrid | Jun 12 |
 | **[Universal Creative](https://linktr.ee/universalcreative)** | **[Internship, Universal Creative – Narrative Design (Spring 2027)](https://jobright.ai/jobs/info/6a2bc976fc06447490547501?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | Jun 12 |
-| **[Universal Orlando Resort](https://UniversalOrlandoJobs.com)** | **[Internship – Discover Universal Video Content Strategy (Spring 2027)](https://jobright.ai/jobs/info/6a2bb82e3f691a293d0b8f88?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | Jun 12 |
-| ↳ | **[Internship – Editorial Writing, Discover Universal (Spring 2027)*](https://jobright.ai/jobs/info/6a2bb8290ad4053b108ccbcc?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | Jun 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
