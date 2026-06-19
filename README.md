@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Satechi](http://www.satechi.net/)** | **[Content Editor Intern (Video)](https://jobright.ai/jobs/info/6a34c23e1232144fb15612e9?utm_campaign=1053&utm_source=git)** | Scripps Summit Ct, CA | On Site | Jun 18 |
 | **[Kara Solutions LLC](www.kara-solutions.com)** | **[Intern](https://jobright.ai/jobs/info/6a3496d27f3fdd180d4cb2a9?utm_campaign=1053&utm_source=git)** | United States | Remote | Jun 18 |
 | **[Operater](https://operater.io)** | **[Content creation Intern](https://jobright.ai/jobs/info/6a34616f649fdf16292f5b03?utm_campaign=1053&utm_source=git)** | United States | Remote | Jun 18 |
 | **[Social View Agency](https://www.socialviewagency.com/)** | **[Content Creator Intern](https://jobright.ai/jobs/info/6a343394649fdf16292f4988?utm_campaign=1053&utm_source=git)** | Cherry Hill, NJ | Hybrid | Jun 18 |
