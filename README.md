@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Wingman Planning](https://www.wingmanplanning.com/)** | **[Video Content Intern](https://jobright.ai/jobs/info/6a35610429c90c607e4e1fba?utm_campaign=1053&utm_source=git)** | Manasquan, NJ | On Site | Jun 19 |
 | **[UBS](https://www.ubs.com)** | **[Intern](https://jobright.ai/jobs/info/6a31b8b62ee3ac1b4bef0cb7?utm_campaign=1053&utm_source=git)** | Salt Lake City, United States - Utah | On Site | Jun 19 |
 | **[Red Bull New York](http://www.newyorkredbulls.com)** | **[2026 Internship, Summer - Creative Video](https://jobright.ai/jobs/info/69c4bc206f4f855eeda763a8?utm_campaign=1053&utm_source=git)** | Harrison, NJ | On Site | Jun 19 |
 | **[Eagle Activator Media](https://www.eagleactivator.com)** | **[Paid Content Creator Internship (Remote, US)](https://jobright.ai/jobs/info/6a34f815ce501060b5cf2e47?utm_campaign=1053&utm_source=git)** | United States | Remote | Jun 19 |
@@ -100,7 +101,7 @@ For a complete list, click the following sortable link below:
 | **[Cox Media Group](http://www.coxmediagroup.com)** | **[Intern (Part-Time) - WSB TV](https://jobright.ai/jobs/info/6a31f0372ee3ac1b4bef1db7?utm_campaign=1053&utm_source=git)** | Atlanta, GA, US, 30309 | On Site | Jun 16 |
 | **[Red Aspen](https://www.redaspenlove.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/6a31eabee7b7d514a3bd63da?utm_campaign=1053&utm_source=git)** | Meridian, ID | On Site | Jun 16 |
 | **[International Foundation of Employee Benefit Plans (IFEBP)](http://www.ifebp.org/)** | **[Onsite Internship: A/V (Fall)](https://jobright.ai/jobs/info/6a2c8033d3ec94183f4bd592?utm_campaign=1053&utm_source=git)** | Brookfield, WI | On Site | Jun 16 |
-| **[Duke University](http://ceint.duke.edu)** | **[Library Internship, Exhibitions Services Department, Duke Library Job Details / Duke Careers](https://jobright.ai/jobs/info/6a31b9fbe7b7d514a3bd54ec?utm_campaign=1053&utm_source=git)** | Durham, NC, US, 27710 | On Site | Jun 16 |
+| **[Duke University](https://dumac.duke.edu/)** | **[Library Internship, Exhibitions Services Department, Duke Library Job Details / Duke Careers](https://jobright.ai/jobs/info/6a31b9fbe7b7d514a3bd54ec?utm_campaign=1053&utm_source=git)** | Durham, NC, US, 27710 | On Site | Jun 16 |
 | **[Picture Shop](http://pictureshop.com)** | **[Intern](https://jobright.ai/jobs/info/6a343afece501060b5cf019d?utm_campaign=1053&utm_source=git)** | 3900 W. Alameda Avenue
 10th Floor, Burbank, CA91505 | On Site | Jun 16 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Library Intern](https://jobright.ai/jobs/info/6a31968459588169700158ea?utm_campaign=1053&utm_source=git)** | Southfield, MI | On Site | Jun 16 |
@@ -136,5 +137,4 @@ For a complete list, click the following sortable link below:
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid News Intern](https://jobright.ai/jobs/info/6972b01a9b83b424830eb8a4?utm_campaign=1053&utm_source=git)** | IN-Indianapolis;6910 Network Place (Tribune-WXIN/WTTV) | On Site | Jun 13 |
 | **[Rochester Americans](http://amerks.com)** | **[Game Presentation Intern](https://jobright.ai/jobs/info/6a34d4017f3fdd180d4cbe36?utm_campaign=1053&utm_source=git)** | Rochester, NY | On Site | Jun 12 |
 | **[Bethel University](https://www.betheluniversity.edu/)** | **[Student Worker - PR/Com Student Writer Intern](https://jobright.ai/jobs/info/6a2ce2f4fc0644749054b73b?utm_campaign=1053&utm_source=git)** | Mishawaka, IN 46545, USA | On Site | Jun 12 |
-| **[PC Construction Company](https://pcconstruction.com)** | **[Craft Intern](https://jobright.ai/jobs/info/69bb24265697383741412272?utm_campaign=1053&utm_source=git)** | South Burlington, VT | On Site | Jun 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
