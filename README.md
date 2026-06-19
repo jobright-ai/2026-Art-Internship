@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ElectraCast Media](http://www.electracast.com)** | **[Internship: A.I./VFX Creator for Podcast & Record Company Video Shorts](https://jobright.ai/jobs/info/6a34d7d47f3fdd180d4cbea5?utm_campaign=1053&utm_source=git)** | United States | Remote | Jun 18 |
 | **[Satechi](http://www.satechi.net/)** | **[Content Editor Intern (Video)](https://jobright.ai/jobs/info/6a34c23e1232144fb15612e9?utm_campaign=1053&utm_source=git)** | Scripps Summit Ct, CA | On Site | Jun 18 |
 | **[Kara Solutions LLC](www.kara-solutions.com)** | **[Intern](https://jobright.ai/jobs/info/6a3496d27f3fdd180d4cb2a9?utm_campaign=1053&utm_source=git)** | United States | Remote | Jun 18 |
 | **[Operater](https://operater.io)** | **[Content creation Intern](https://jobright.ai/jobs/info/6a34616f649fdf16292f5b03?utm_campaign=1053&utm_source=git)** | United States | Remote | Jun 18 |
@@ -132,6 +133,7 @@ For a complete list, click the following sortable link below:
 | **[The Laziena Experience](www.laziena.com)** | **[Student Podcast Editing & Content Creation Internship (Unpaid / Portfolio Experience)](https://jobright.ai/jobs/info/6a2dced8a1d15e3c552fec83?utm_campaign=1053&utm_source=git)** | St. Petersburg, FL | Remote | Jun 13 |
 | **[The Burnette Agency](https://theburnetteagency.com)** | **[Intern — The Burnette Agency](https://jobright.ai/jobs/info/6a2dc00ffc0644749054cc1c?utm_campaign=1053&utm_source=git)** | Agency, MO | On Site | Jun 13 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid News Intern](https://jobright.ai/jobs/info/6972b01a9b83b424830eb8a4?utm_campaign=1053&utm_source=git)** | IN-Indianapolis;6910 Network Place (Tribune-WXIN/WTTV) | On Site | Jun 13 |
+| **[Rochester Americans](http://amerks.com)** | **[Game Presentation Intern](https://jobright.ai/jobs/info/6a34d4017f3fdd180d4cbe36?utm_campaign=1053&utm_source=git)** | Rochester, NY | On Site | Jun 12 |
 | **[Bethel University](https://www.betheluniversity.edu/)** | **[Student Worker - PR/Com Student Writer Intern](https://jobright.ai/jobs/info/6a2ce2f4fc0644749054b73b?utm_campaign=1053&utm_source=git)** | Mishawaka, IN 46545, USA | On Site | Jun 12 |
 | **[PC Construction Company](https://pcconstruction.com)** | **[Craft Intern](https://jobright.ai/jobs/info/69bb24265697383741412272?utm_campaign=1053&utm_source=git)** | South Burlington, VT | On Site | Jun 12 |
 | **[International Foundation of Employee Benefit Plans (IFEBP)](http://www.ifebp.org/)** | **[Onsite Internship: A/V (Fall)](https://jobright.ai/jobs/info/6a2c8f3bf1751b183c8191d8?utm_campaign=1053&utm_source=git)** | Brookfield,WI,US | On Site | Jun 12 |
@@ -140,5 +142,4 @@ For a complete list, click the following sortable link below:
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Digital Content Intern, Unpaid](https://jobright.ai/jobs/info/69bb08ca569738374140e490?utm_campaign=1053&utm_source=git)** | Shreveport, LA | On Site | Jun 12 |
 | **[Apartment Therapy Media](http://www.apartmenttherapy.com/)** | **[Dorm Therapy Editorial Intern](https://jobright.ai/jobs/info/6a2c14f87cd40a338fae48ce?utm_campaign=1053&utm_source=git)** | United States | Remote | Jun 12 |
 | ↳ | **[Dorm Therapy Editorial Intern](https://jobright.ai/jobs/info/6a2c14f77cd40a338fae48cd?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Jun 12 |
-| ↳ | **[Dorm Therapy Editorial Intern](https://jobright.ai/jobs/info/6a2c06e47cd40a338fae44e4?utm_campaign=1053&utm_source=git)** | NYC Metro Area | Hybrid | Jun 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
