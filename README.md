@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Satechi](http://www.satechi.net/)** | **[Social Media/Content Intern](https://jobright.ai/jobs/info/6a35ac60ce501060b5cf5453?utm_campaign=1053&utm_source=git)** | Scripps Summit Ct, CA | On Site | Jun 19 |
+| **[Red Aspen](https://www.redaspenlove.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/6a31eabee7b7d514a3bd63da?utm_campaign=1053&utm_source=git)** | Meridian, ID | On Site | Jun 19 |
+| **[NOX METALS](noxmetals.co)** | **[Content Creation Intern](https://jobright.ai/jobs/info/6a35a0e2649fdf16292f9cd5?utm_campaign=1053&utm_source=git)** | Detroit | On Site | Jun 19 |
 | **[Cox Media Group](http://www.coxmediagroup.com)** | **[Intern (Part-Time) - Long Island Radio Job Details / Cox Media Group](https://jobright.ai/jobs/info/6a3574d07f3fdd180d4cd959?utm_campaign=1053&utm_source=git)** | West Babylon, NY, US, 11704 | On Site | Jun 19 |
 | **[Wingman Planning](https://www.wingmanplanning.com/)** | **[Video Content Intern](https://jobright.ai/jobs/info/6a35610429c90c607e4e1fba?utm_campaign=1053&utm_source=git)** | Manasquan, NJ | On Site | Jun 19 |
 | **[UBS](https://www.ubs.com)** | **[Intern](https://jobright.ai/jobs/info/6a31b8b62ee3ac1b4bef0cb7?utm_campaign=1053&utm_source=git)** | Salt Lake City, United States - Utah | On Site | Jun 19 |
@@ -100,7 +103,6 @@ For a complete list, click the following sortable link below:
 | **[All-Star Sports Academy](https://allstarsportsacademy.com/)** | **[Videography & Photography Intern - Fall 2026](https://jobright.ai/jobs/info/6a32ad43ce501060b5ce9b00?utm_campaign=1053&utm_source=git)** | West Chester, PA | On Site | Jun 17 |
 | **[OES Global, Inc.](https://oesglobalinc.com)** | **[Video Editing Intern](https://jobright.ai/jobs/info/6a32a3d3ce501060b5ce98af?utm_campaign=1053&utm_source=git)** | Pompano Beach, FL | On Site | Jun 17 |
 | **[Cox Media Group](http://www.coxmediagroup.com)** | **[Intern (Part-Time) - WSB TV](https://jobright.ai/jobs/info/6a31f0372ee3ac1b4bef1db7?utm_campaign=1053&utm_source=git)** | Atlanta, GA, US, 30309 | On Site | Jun 16 |
-| **[Red Aspen](https://www.redaspenlove.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/6a31eabee7b7d514a3bd63da?utm_campaign=1053&utm_source=git)** | Meridian, ID | On Site | Jun 16 |
 | **[International Foundation of Employee Benefit Plans (IFEBP)](http://www.ifebp.org/)** | **[Onsite Internship: A/V (Fall)](https://jobright.ai/jobs/info/6a2c8033d3ec94183f4bd592?utm_campaign=1053&utm_source=git)** | Brookfield, WI | On Site | Jun 16 |
 | **[Duke University](https://dumac.duke.edu/)** | **[Library Internship, Exhibitions Services Department, Duke Library Job Details / Duke Careers](https://jobright.ai/jobs/info/6a31b9fbe7b7d514a3bd54ec?utm_campaign=1053&utm_source=git)** | Durham, NC, US, 27710 | On Site | Jun 16 |
 | **[Picture Shop](http://pictureshop.com)** | **[Intern](https://jobright.ai/jobs/info/6a343afece501060b5cf019d?utm_campaign=1053&utm_source=git)** | 3900 W. Alameda Avenue
@@ -137,5 +139,4 @@ For a complete list, click the following sortable link below:
 | **[The Burnette Agency](https://theburnetteagency.com)** | **[Intern — The Burnette Agency](https://jobright.ai/jobs/info/6a2dc00ffc0644749054cc1c?utm_campaign=1053&utm_source=git)** | Agency, MO | On Site | Jun 13 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid News Intern](https://jobright.ai/jobs/info/6972b01a9b83b424830eb8a4?utm_campaign=1053&utm_source=git)** | IN-Indianapolis;6910 Network Place (Tribune-WXIN/WTTV) | On Site | Jun 13 |
 | **[Rochester Americans](http://amerks.com)** | **[Game Presentation Intern](https://jobright.ai/jobs/info/6a34d4017f3fdd180d4cbe36?utm_campaign=1053&utm_source=git)** | Rochester, NY | On Site | Jun 12 |
-| **[Bethel University](https://www.betheluniversity.edu/)** | **[Student Worker - PR/Com Student Writer Intern](https://jobright.ai/jobs/info/6a2ce2f4fc0644749054b73b?utm_campaign=1053&utm_source=git)** | Mishawaka, IN 46545, USA | On Site | Jun 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
