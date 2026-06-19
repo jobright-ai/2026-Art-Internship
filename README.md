@@ -138,5 +138,4 @@ For a complete list, click the following sortable link below:
 | **[The Laziena Experience](www.laziena.com)** | **[Student Podcast Editing & Content Creation Internship (Unpaid / Portfolio Experience)](https://jobright.ai/jobs/info/6a2dced8a1d15e3c552fec83?utm_campaign=1053&utm_source=git)** | St. Petersburg, FL | Remote | Jun 13 |
 | **[The Burnette Agency](https://theburnetteagency.com)** | **[Intern — The Burnette Agency](https://jobright.ai/jobs/info/6a2dc00ffc0644749054cc1c?utm_campaign=1053&utm_source=git)** | Agency, MO | On Site | Jun 13 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid News Intern](https://jobright.ai/jobs/info/6972b01a9b83b424830eb8a4?utm_campaign=1053&utm_source=git)** | IN-Indianapolis;6910 Network Place (Tribune-WXIN/WTTV) | On Site | Jun 13 |
-| **[Rochester Americans](http://amerks.com)** | **[Game Presentation Intern](https://jobright.ai/jobs/info/6a34d4017f3fdd180d4cbe36?utm_campaign=1053&utm_source=git)** | Rochester, NY | On Site | Jun 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
