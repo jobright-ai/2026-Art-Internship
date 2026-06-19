@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cox Media Group](http://www.coxmediagroup.com)** | **[Intern (Part-Time) - Long Island Radio Job Details / Cox Media Group](https://jobright.ai/jobs/info/6a3574d07f3fdd180d4cd959?utm_campaign=1053&utm_source=git)** | West Babylon, NY, US, 11704 | On Site | Jun 19 |
 | **[Wingman Planning](https://www.wingmanplanning.com/)** | **[Video Content Intern](https://jobright.ai/jobs/info/6a35610429c90c607e4e1fba?utm_campaign=1053&utm_source=git)** | Manasquan, NJ | On Site | Jun 19 |
 | **[UBS](https://www.ubs.com)** | **[Intern](https://jobright.ai/jobs/info/6a31b8b62ee3ac1b4bef0cb7?utm_campaign=1053&utm_source=git)** | Salt Lake City, United States - Utah | On Site | Jun 19 |
 | **[Red Bull New York](http://www.newyorkredbulls.com)** | **[2026 Internship, Summer - Creative Video](https://jobright.ai/jobs/info/69c4bc206f4f855eeda763a8?utm_campaign=1053&utm_source=git)** | Harrison, NJ | On Site | Jun 19 |
