@@ -57,12 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[UBS](https://www.ubs.com)** | **[Intern](https://jobright.ai/jobs/info/6a31b8b62ee3ac1b4bef0cb7?utm_campaign=1053&utm_source=git)** | Salt Lake City, United States - Utah | On Site | Jun 19 |
 | **[Red Bull New York](http://www.newyorkredbulls.com)** | **[2026 Internship, Summer - Creative Video](https://jobright.ai/jobs/info/69c4bc206f4f855eeda763a8?utm_campaign=1053&utm_source=git)** | Harrison, NJ | On Site | Jun 19 |
 | **[Eagle Activator Media](https://www.eagleactivator.com)** | **[Paid Content Creator Internship (Remote, US)](https://jobright.ai/jobs/info/6a34f815ce501060b5cf2e47?utm_campaign=1053&utm_source=git)** | United States | Remote | Jun 19 |
 | **[ElectraCast Media](http://www.electracast.com)** | **[Internship: A.I./VFX Creator for Podcast & Record Company Video Shorts](https://jobright.ai/jobs/info/6a34d7d47f3fdd180d4cbea5?utm_campaign=1053&utm_source=git)** | United States | Remote | Jun 18 |
 | **[Satechi](http://www.satechi.net/)** | **[Content Editor Intern (Video)](https://jobright.ai/jobs/info/6a34c23e1232144fb15612e9?utm_campaign=1053&utm_source=git)** | Scripps Summit Ct, CA | On Site | Jun 18 |
 | **[Art Institute of Chicago](http://www.artic.edu/)** | **[McMullan Arts Leadership Intern, Collections and Loans](https://jobright.ai/jobs/info/6a34e602ce501060b5cf2c82?utm_campaign=1053&utm_source=git)** | Chicago, IL | Hybrid | Jun 18 |
-| **[Kara Solutions LLC](www.kara-solutions.com)** | **[Intern](https://jobright.ai/jobs/info/6a3496d27f3fdd180d4cb2a9?utm_campaign=1053&utm_source=git)** | United States | Remote | Jun 18 |
 | **[Social View Agency](https://www.socialviewagency.com/)** | **[Content Creator Intern](https://jobright.ai/jobs/info/6a343394649fdf16292f4988?utm_campaign=1053&utm_source=git)** | Cherry Hill, NJ | Hybrid | Jun 18 |
 | **[Texas Standard](https://www.texas-standard.com)** | **[Content Creator Intern](https://jobright.ai/jobs/info/6a34318029c90c607e4dddb7?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | Jun 18 |
 | **[Circuit of The Americas](http://circuitoftheamericas.com/)** | **[Events + Hospitality Dept Fall Internship / September - December 2023 (Part-Time)](https://jobright.ai/jobs/info/6a3409ab7f3fdd180d4c85be?utm_campaign=1053&utm_source=git)** | Del Valle,TX,US | On Site | Jun 18 |
@@ -84,7 +84,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a3425457f3fdd180d4c8ff1?utm_campaign=1053&utm_source=git)** | Naperville, IL | On Site | Jun 18 |
 | **[Andreessen Horowitz](https://speedrun.a16z.com)** | **[Editorial Intern, Crypto](https://jobright.ai/jobs/info/6a1732909005d858e94f6ddb?utm_campaign=1053&utm_source=git)** | San Francisco, CA | Remote | Jun 18 |
 | ↳ | **[Editorial Intern, Crypto](https://jobright.ai/jobs/info/6a1732959005d858e94f6ddd?utm_campaign=1053&utm_source=git)** | New York, NY | Remote | Jun 18 |
-| **[UBS](https://www.ubs.com)** | **[Intern](https://jobright.ai/jobs/info/6a31b8b62ee3ac1b4bef0cb7?utm_campaign=1053&utm_source=git)** | Salt Lake City, United States - Utah | On Site | Jun 18 |
 | **[City of Seattle](http://www.seattle.gov/)** | **[Yesler: Video Production Intern](https://jobright.ai/jobs/info/6a3352af29c90c607e4db19d?utm_campaign=1053&utm_source=git)** | Seattle, WA | On Site | Jun 17 |
 | **[Andrews McMeel Universal](http://www.amuniversal.com/)** | **[GoComics Content Archive Intern](https://jobright.ai/jobs/info/6a06336ca88ea73abf7f8fe5?utm_campaign=1053&utm_source=git)** | Kansas City, MO | Hybrid | Jun 17 |
 | **[United States Hockey League (USHL)](https://www.ushl.com/)** | **[Game Day Digital Media Intern](https://jobright.ai/jobs/info/6a3342a9649fdf16292f16a0?utm_campaign=1053&utm_source=git)** | West Des Moines, IA | On Site | Jun 17 |
@@ -138,5 +137,4 @@ For a complete list, click the following sortable link below:
 | **[Rochester Americans](http://amerks.com)** | **[Game Presentation Intern](https://jobright.ai/jobs/info/6a34d4017f3fdd180d4cbe36?utm_campaign=1053&utm_source=git)** | Rochester, NY | On Site | Jun 12 |
 | **[Bethel University](https://www.betheluniversity.edu/)** | **[Student Worker - PR/Com Student Writer Intern](https://jobright.ai/jobs/info/6a2ce2f4fc0644749054b73b?utm_campaign=1053&utm_source=git)** | Mishawaka, IN 46545, USA | On Site | Jun 12 |
 | **[PC Construction Company](https://pcconstruction.com)** | **[Craft Intern](https://jobright.ai/jobs/info/69bb24265697383741412272?utm_campaign=1053&utm_source=git)** | South Burlington, VT | On Site | Jun 12 |
-| **[International Foundation of Employee Benefit Plans (IFEBP)](http://www.ifebp.org/)** | **[Onsite Internship: A/V (Fall)](https://jobright.ai/jobs/info/6a2c8f3bf1751b183c8191d8?utm_campaign=1053&utm_source=git)** | Brookfield,WI,US | On Site | Jun 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
