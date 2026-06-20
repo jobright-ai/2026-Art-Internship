@@ -57,12 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Vive Social + PR](http://www.vivesocialpr.com)** | **[Content Creator - Paid Internship](https://jobright.ai/jobs/info/6a35e9d27f3fdd180d4cf431?utm_campaign=1053&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jun 19 |
 | **[Satechi](http://www.satechi.net/)** | **[Social Media/Content Intern](https://jobright.ai/jobs/info/6a35ac60ce501060b5cf5453?utm_campaign=1053&utm_source=git)** | Scripps Summit Ct, CA | On Site | Jun 19 |
+| **[Nolan Wells Studios](https://www.nolan-wells.com/)** | **[Content Creation Intern](https://jobright.ai/jobs/info/6a35ddf7f6b55d12c7921551?utm_campaign=1053&utm_source=git)** | Springfield, Massachusetts Metropolitan Area | Hybrid | Jun 19 |
 | **[Red Aspen](https://www.redaspenlove.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/6a31eabee7b7d514a3bd63da?utm_campaign=1053&utm_source=git)** | Meridian, ID | On Site | Jun 19 |
 | **[NOX METALS](noxmetals.co)** | **[Content Creation Intern](https://jobright.ai/jobs/info/6a35a0e2649fdf16292f9cd5?utm_campaign=1053&utm_source=git)** | Detroit | On Site | Jun 19 |
 | **[Cox Media Group](http://www.coxmediagroup.com)** | **[Intern (Part-Time) - Long Island Radio Job Details / Cox Media Group](https://jobright.ai/jobs/info/6a3574d07f3fdd180d4cd959?utm_campaign=1053&utm_source=git)** | West Babylon, NY, US, 11704 | On Site | Jun 19 |
 | **[Wingman Planning](https://www.wingmanplanning.com/)** | **[Video Content Intern](https://jobright.ai/jobs/info/6a35610429c90c607e4e1fba?utm_campaign=1053&utm_source=git)** | Manasquan, NJ | On Site | Jun 19 |
-| **[UBS](https://www.ubs.com)** | **[Intern](https://jobright.ai/jobs/info/6a31b8b62ee3ac1b4bef0cb7?utm_campaign=1053&utm_source=git)** | Salt Lake City, United States - Utah | On Site | Jun 19 |
 | **[Red Bull New York](http://www.newyorkredbulls.com)** | **[2026 Internship, Summer - Creative Video](https://jobright.ai/jobs/info/69c4bc206f4f855eeda763a8?utm_campaign=1053&utm_source=git)** | Harrison, NJ | On Site | Jun 19 |
 | **[Eagle Activator Media](https://www.eagleactivator.com)** | **[Paid Content Creator Internship (Remote, US)](https://jobright.ai/jobs/info/6a34f815ce501060b5cf2e47?utm_campaign=1053&utm_source=git)** | United States | Remote | Jun 19 |
 | **[ElectraCast Media](http://www.electracast.com)** | **[Internship: A.I./VFX Creator for Podcast & Record Company Video Shorts](https://jobright.ai/jobs/info/6a34d7d47f3fdd180d4cbea5?utm_campaign=1053&utm_source=git)** | United States | Remote | Jun 18 |
