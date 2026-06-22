@@ -57,13 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[DreamWorks Animation](https://www.dreamworks.com)** | **[Animation Production Intern, DreamWorks Animation, Fall 2026](https://jobright.ai/jobs/info/6a39872c649fdf16293016c9?utm_campaign=1053&utm_source=git)** | 1000 Flower St, Glendale, CA 91201, USA | Hybrid | Jun 22 |
+| **[Expressway Cinema Rentals](https://expresswaycine.com/)** | **[The Expressway Cinema Rentals Internship (FALL TERM) - ROCHESTER](https://jobright.ai/jobs/info/6a397da71232144fb156b991?utm_campaign=1053&utm_source=git)** | Rochester, NY | On Site | Jun 22 |
+| **[Brennan Center for Justice](http://www.brennancenter.org/)** | **[Fall 2026 Multimedia Producer Undergraduate Internship](https://jobright.ai/jobs/info/6a397d3c6484fb75f2b31f86?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jun 22 |
+| ↳ | **[Fall 2026 Editorial Undergraduate Internship](https://jobright.ai/jobs/info/6a394b6a649fdf16293000ab?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jun 22 |
+| **[Qualifacts](http://www.qualifacts.com)** | **[Social Media Video Content Creator Intern](https://jobright.ai/jobs/info/6a395dd9649fdf16293006c3?utm_campaign=1053&utm_source=git)** | Nashville, US | Hybrid | Jun 22 |
 | **[Solar Energy Industries Association](http://www.seia.org)** | **[Video Production 2026 Summer Intern](https://jobright.ai/jobs/info/6a396fc306a4fd4b1faba117?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Jun 22 |
 | **[adyn](https://www.adyn.com/)** | **[DIGITAL STORYTELLING INTERN](https://jobright.ai/jobs/info/6a396c1906a4fd4b1fab9ff0?utm_campaign=1053&utm_source=git)** | United States | Remote | Jun 22 |
 | **[Safe Passage Project](https://www.safepassageproject.org)** | **[Animation Intern](https://jobright.ai/jobs/info/6a396b2f1232144fb156b2a8?utm_campaign=1053&utm_source=git)** | NYC Metro Area | Hybrid | Jun 22 |
 | **[Brennan Center for Justice](http://www.brennancenter.org/)** | **[Fall 2026 Multimedia Producer Undergraduate Internship](https://jobright.ai/jobs/info/6a396777649fdf1629300b30?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jun 22 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Museum Intern (Part-Time)](https://jobright.ai/jobs/info/6a396349649fdf1629300922?utm_campaign=1053&utm_source=git)** | Fallon, NV | On Site | Jun 22 |
-| **[Qualifacts](http://www.qualifacts.com)** | **[Social Media Video Content Creator Intern](https://jobright.ai/jobs/info/6a395dd9649fdf16293006c3?utm_campaign=1053&utm_source=git)** | Nashville, US | Hybrid | Jun 22 |
-| **[Brennan Center for Justice](http://www.brennancenter.org/)** | **[Fall 2026 Editorial Undergraduate Internship](https://jobright.ai/jobs/info/6a394b6a649fdf16293000ab?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jun 22 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid News Intern](https://jobright.ai/jobs/info/6972b01a9b83b424830eb8a4?utm_campaign=1053&utm_source=git)** | IN-Indianapolis;6910 Network Place (Tribune-WXIN/WTTV) | On Site | Jun 22 |
 | **[Insomniac Events](http://insomniac.com)** | **[Paid Fall Music Group Publishing Intern](https://jobright.ai/jobs/info/6a1d666fe24ef365258379a5?utm_campaign=1053&utm_source=git)** | Calabasas, CA | On Site | Jun 22 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Paid Fall Music Group Publishing Intern](https://jobright.ai/jobs/info/6a1d313d7c457b279080e614?utm_campaign=1053&utm_source=git)** | Calabasas, CA, USA, US | On Site | Jun 22 |
@@ -78,29 +81,29 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Unpaid Assistant Wedding Coordinator Intern](https://jobright.ai/jobs/info/6a36e85f649fdf16292fc695?utm_campaign=1053&utm_source=git)** | Honolulu, HI | On Site | Jun 20 |
 | ↳ | **[Unpaid Assistant Wedding Coordinator Intern](https://jobright.ai/jobs/info/6a36e85ef6b55d12c792374e?utm_campaign=1053&utm_source=git)** | Annapolis, MD | On Site | Jun 20 |
 | ↳ | **[Unpaid Assistant Wedding Coordinator Intern](https://jobright.ai/jobs/info/6a36e85ece501060b5cf7be5?utm_campaign=1053&utm_source=git)** | Big Sky, MT | On Site | Jun 20 |
-| ↳ | **[Unpaid Assistant Wedding Coordinator Intern](https://jobright.ai/jobs/info/6a36e85e649fdf16292fc694?utm_campaign=1053&utm_source=git)** | Tacoma, WA | On Site | Jun 20 |
 | ↳ | **[Unpaid Assistant Wedding Coordinator Intern](https://jobright.ai/jobs/info/6a36e85df6b55d12c792374d?utm_campaign=1053&utm_source=git)** | Seattle, WA | On Site | Jun 20 |
+| ↳ | **[Unpaid Assistant Wedding Coordinator Intern](https://jobright.ai/jobs/info/6a36e85e649fdf16292fc694?utm_campaign=1053&utm_source=git)** | Tacoma, WA | On Site | Jun 20 |
 | ↳ | **[Unpaid Assistant Wedding Coordinator Intern](https://jobright.ai/jobs/info/6a36918129c90c607e4e53e8?utm_campaign=1053&utm_source=git)** | Columbia, MO | On Site | Jun 20 |
-| ↳ | **[Unpaid Assistant Wedding Coordinator Intern](https://jobright.ai/jobs/info/6a369180a0f3e56e86d6b8b6?utm_campaign=1053&utm_source=git)** | Providence, RI | On Site | Jun 20 |
+| ↳ | **[Unpaid Assistant Wedding Coordinator Intern](https://jobright.ai/jobs/info/6a369180a0f3e56e86d6b8b7?utm_campaign=1053&utm_source=git)** | Missoula, MT | On Site | Jun 20 |
+| ↳ | **[Unpaid Assistant Wedding Coordinator Intern](https://jobright.ai/jobs/info/6a369180649fdf16292fbe9b?utm_campaign=1053&utm_source=git)** | Boulder, CO | On Site | Jun 20 |
 | ↳ | **[Unpaid Assistant Wedding Coordinator Intern](https://jobright.ai/jobs/info/6a369180f6b55d12c7922f29?utm_campaign=1053&utm_source=git)** | Kansas City, MO | On Site | Jun 20 |
 | ↳ | **[Unpaid Assistant Wedding Coordinator Intern](https://jobright.ai/jobs/info/6a3691801232144fb1566368?utm_campaign=1053&utm_source=git)** | Whitefish, MT | On Site | Jun 20 |
-| ↳ | **[Unpaid Assistant Wedding Coordinator Intern](https://jobright.ai/jobs/info/6a369180649fdf16292fbe9b?utm_campaign=1053&utm_source=git)** | Boulder, CO | On Site | Jun 20 |
-| ↳ | **[Unpaid Assistant Wedding Coordinator Intern](https://jobright.ai/jobs/info/6a369180a0f3e56e86d6b8b7?utm_campaign=1053&utm_source=git)** | Missoula, MT | On Site | Jun 20 |
+| ↳ | **[Unpaid Assistant Wedding Coordinator Intern](https://jobright.ai/jobs/info/6a369180a0f3e56e86d6b8b6?utm_campaign=1053&utm_source=git)** | Providence, RI | On Site | Jun 20 |
 | ↳ | **[Unpaid Assistant Wedding Coordinator Intern](https://jobright.ai/jobs/info/6a36917da0f3e56e86d6b8b4?utm_campaign=1053&utm_source=git)** | Conway, NH | On Site | Jun 20 |
-| ↳ | **[Unpaid Assistant Wedding Coordinator Intern](https://jobright.ai/jobs/info/6a369177ce501060b5cf73f3?utm_campaign=1053&utm_source=git)** | Minneapolis, MN | On Site | Jun 20 |
 | ↳ | **[Unpaid Assistant Wedding Coordinator Intern](https://jobright.ai/jobs/info/6a369177ce501060b5cf73f2?utm_campaign=1053&utm_source=git)** | Colorado Springs, CO | On Site | Jun 20 |
 | ↳ | **[Unpaid Assistant Wedding Coordinator Intern](https://jobright.ai/jobs/info/6a369177ce501060b5cf73f4?utm_campaign=1053&utm_source=git)** | Buffalo, NY | On Site | Jun 20 |
+| ↳ | **[Unpaid Assistant Wedding Coordinator Intern](https://jobright.ai/jobs/info/6a369177ce501060b5cf73f3?utm_campaign=1053&utm_source=git)** | Minneapolis, MN | On Site | Jun 20 |
 | ↳ | **[Unpaid Assistant Wedding Coordinator Intern](https://jobright.ai/jobs/info/6a369176ce501060b5cf73f1?utm_campaign=1053&utm_source=git)** | Concord, NH | On Site | Jun 20 |
-| ↳ | **[Unpaid Assistant Wedding Coordinator Intern](https://jobright.ai/jobs/info/6a36917429c90c607e4e53e4?utm_campaign=1053&utm_source=git)** | Cleveland, OH | On Site | Jun 20 |
-| ↳ | **[Unpaid Assistant Wedding Coordinator Intern](https://jobright.ai/jobs/info/6a36917429c90c607e4e53e3?utm_campaign=1053&utm_source=git)** | Bend, OR | On Site | Jun 20 |
 | ↳ | **[Unpaid Assistant Wedding Coordinator Intern](https://jobright.ai/jobs/info/6a36917429c90c607e4e53e2?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Jun 20 |
-| ↳ | **[Unpaid Assistant Wedding Coordinator Intern](https://jobright.ai/jobs/info/6a369174f6b55d12c7922f25?utm_campaign=1053&utm_source=git)** | Hartford, CT | On Site | Jun 20 |
-| ↳ | **[Unpaid Assistant Wedding Coordinator Intern](https://jobright.ai/jobs/info/6a3691741232144fb1566365?utm_campaign=1053&utm_source=git)** | Stamford, CT | On Site | Jun 20 |
-| ↳ | **[Unpaid Assistant Wedding Coordinator Intern](https://jobright.ai/jobs/info/6a3691741232144fb1566364?utm_campaign=1053&utm_source=git)** | Omaha, NE | On Site | Jun 20 |
 | ↳ | **[Unpaid Assistant Wedding Coordinator Intern](https://jobright.ai/jobs/info/6a3691741232144fb1566363?utm_campaign=1053&utm_source=git)** | Portland, OR | On Site | Jun 20 |
-| ↳ | **[Unpaid Assistant Wedding Coordinator Intern](https://jobright.ai/jobs/info/6a369173f6b55d12c7922f24?utm_campaign=1053&utm_source=git)** | Albany, NY | On Site | Jun 20 |
+| ↳ | **[Unpaid Assistant Wedding Coordinator Intern](https://jobright.ai/jobs/info/6a36917429c90c607e4e53e3?utm_campaign=1053&utm_source=git)** | Bend, OR | On Site | Jun 20 |
+| ↳ | **[Unpaid Assistant Wedding Coordinator Intern](https://jobright.ai/jobs/info/6a3691741232144fb1566365?utm_campaign=1053&utm_source=git)** | Stamford, CT | On Site | Jun 20 |
+| ↳ | **[Unpaid Assistant Wedding Coordinator Intern](https://jobright.ai/jobs/info/6a36917429c90c607e4e53e4?utm_campaign=1053&utm_source=git)** | Cleveland, OH | On Site | Jun 20 |
+| ↳ | **[Unpaid Assistant Wedding Coordinator Intern](https://jobright.ai/jobs/info/6a3691741232144fb1566364?utm_campaign=1053&utm_source=git)** | Omaha, NE | On Site | Jun 20 |
+| ↳ | **[Unpaid Assistant Wedding Coordinator Intern](https://jobright.ai/jobs/info/6a369174f6b55d12c7922f25?utm_campaign=1053&utm_source=git)** | Hartford, CT | On Site | Jun 20 |
 | ↳ | **[Unpaid Assistant Wedding Coordinator Intern](https://jobright.ai/jobs/info/6a369173649fdf16292fbe96?utm_campaign=1053&utm_source=git)** | Des Moines, IA | On Site | Jun 20 |
 | ↳ | **[Unpaid Assistant Wedding Coordinator Intern](https://jobright.ai/jobs/info/6a36917329c90c607e4e53e1?utm_campaign=1053&utm_source=git)** | Cincinnati, OH | On Site | Jun 20 |
+| ↳ | **[Unpaid Assistant Wedding Coordinator Intern](https://jobright.ai/jobs/info/6a369173f6b55d12c7922f24?utm_campaign=1053&utm_source=git)** | Albany, NY | On Site | Jun 20 |
 | ↳ | **[Unpaid Assistant Wedding Coordinator Intern](https://jobright.ai/jobs/info/6a369162a0f3e56e86d6b8b2?utm_campaign=1053&utm_source=git)** | Reno, NV | On Site | Jun 20 |
 | ↳ | **[Unpaid Assistant Wedding Coordinator Intern](https://jobright.ai/jobs/info/6a3691621232144fb156635d?utm_campaign=1053&utm_source=git)** | Las Vegas, NV | On Site | Jun 20 |
 | ↳ | **[Unpaid Assistant Wedding Coordinator Intern](https://jobright.ai/jobs/info/6a3691591232144fb156635c?utm_campaign=1053&utm_source=git)** | South Lake Tahoe, CA | On Site | Jun 20 |
@@ -110,17 +113,17 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Unpaid Assistant Wedding Coordinator Intern](https://jobright.ai/jobs/info/6a368fe7a0f3e56e86d6b8a7?utm_campaign=1053&utm_source=git)** | Springdale, UT | On Site | Jun 20 |
 | ↳ | **[Unpaid Assistant Wedding Coordinator Intern](https://jobright.ai/jobs/info/6a368fe7a0f3e56e86d6b8a6?utm_campaign=1053&utm_source=git)** | Houston, TX | On Site | Jun 20 |
 | ↳ | **[Unpaid Assistant Wedding Coordinator Intern](https://jobright.ai/jobs/info/6a368fe729c90c607e4e53cf?utm_campaign=1053&utm_source=git)** | Wilmington, NC | On Site | Jun 20 |
+| ↳ | **[Unpaid Assistant Wedding Coordinator Intern](https://jobright.ai/jobs/info/6a368fe6a0f3e56e86d6b8a5?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | Jun 20 |
 | ↳ | **[Unpaid Assistant Wedding Coordinator Intern](https://jobright.ai/jobs/info/6a368fe6649fdf16292fbe7a?utm_campaign=1053&utm_source=git)** | Raleigh, NC | On Site | Jun 20 |
 | ↳ | **[Unpaid Assistant Wedding Coordinator Intern](https://jobright.ai/jobs/info/6a368fe61232144fb156634f?utm_campaign=1053&utm_source=git)** | Burlington, VT | On Site | Jun 20 |
-| ↳ | **[Unpaid Assistant Wedding Coordinator Intern](https://jobright.ai/jobs/info/6a368fe6a0f3e56e86d6b8a5?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | Jun 20 |
 | ↳ | **[Unpaid Assistant Wedding Coordinator Intern](https://jobright.ai/jobs/info/6a368faa1232144fb1566349?utm_campaign=1053&utm_source=git)** | Provo, UT | On Site | Jun 20 |
 | ↳ | **[Unpaid Assistant Wedding Coordinator Intern](https://jobright.ai/jobs/info/6a368f33ce501060b5cf73b6?utm_campaign=1053&utm_source=git)** | Madison, WI | On Site | Jun 20 |
-| ↳ | **[Unpaid Assistant Wedding Coordinator Intern](https://jobright.ai/jobs/info/6a368f2b649fdf16292fbe69?utm_campaign=1053&utm_source=git)** | Jackson, WY | On Site | Jun 20 |
 | ↳ | **[Unpaid Assistant Wedding Coordinator Intern](https://jobright.ai/jobs/info/6a368f2bf6b55d12c7922ef7?utm_campaign=1053&utm_source=git)** | Charlotte, NC | On Site | Jun 20 |
-| ↳ | **[Unpaid Assistant Wedding Coordinator Intern](https://jobright.ai/jobs/info/6a368f2a649fdf16292fbe68?utm_campaign=1053&utm_source=git)** | Newark, NJ | On Site | Jun 20 |
-| ↳ | **[Unpaid Assistant Wedding Coordinator Intern](https://jobright.ai/jobs/info/6a368f2af6b55d12c7922ef6?utm_campaign=1053&utm_source=git)** | Cheyenne, WY | On Site | Jun 20 |
+| ↳ | **[Unpaid Assistant Wedding Coordinator Intern](https://jobright.ai/jobs/info/6a368f2b649fdf16292fbe69?utm_campaign=1053&utm_source=git)** | Jackson, WY | On Site | Jun 20 |
 | ↳ | **[Unpaid Assistant Wedding Coordinator Intern](https://jobright.ai/jobs/info/6a368f2ace501060b5cf73b4?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Jun 20 |
 | ↳ | **[Unpaid Assistant Wedding Coordinator Intern](https://jobright.ai/jobs/info/6a368f2ace501060b5cf73b3?utm_campaign=1053&utm_source=git)** | Lake Geneva, WI | On Site | Jun 20 |
+| ↳ | **[Unpaid Assistant Wedding Coordinator Intern](https://jobright.ai/jobs/info/6a368f2a649fdf16292fbe68?utm_campaign=1053&utm_source=git)** | Newark, NJ | On Site | Jun 20 |
+| ↳ | **[Unpaid Assistant Wedding Coordinator Intern](https://jobright.ai/jobs/info/6a368f2af6b55d12c7922ef6?utm_campaign=1053&utm_source=git)** | Cheyenne, WY | On Site | Jun 20 |
 | ↳ | **[Unpaid Assistant Wedding Coordinator Intern](https://jobright.ai/jobs/info/6a368f2929c90c607e4e53b4?utm_campaign=1053&utm_source=git)** | North Bend, WA | On Site | Jun 20 |
 | ↳ | **[Unpaid Assistant Wedding Coordinator Intern](https://jobright.ai/jobs/info/6a368f1d1232144fb1566339?utm_campaign=1053&utm_source=git)** | Princeton, NJ | On Site | Jun 20 |
 | ↳ | **[Unpaid Assistant Wedding Coordinator Intern](https://jobright.ai/jobs/info/6a368f1cce501060b5cf73b0?utm_campaign=1053&utm_source=git)** | Milwaukee, WI | On Site | Jun 20 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a34e0a6f6b55d12c791e4d8?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Jun 18 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a3428ecce501060b5cefbec?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Jun 18 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a34285fce501060b5cefbca?utm_campaign=1053&utm_source=git)** | Evanston, IL | On Site | Jun 18 |
-| ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a3427acf6b55d12c791b4d2?utm_campaign=1053&utm_source=git)** | Raleigh, NC | On Site | Jun 18 |
-| ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a3434f4ce501060b5ceff8c?utm_campaign=1053&utm_source=git)** | Minneapolis, MN | On Site | Jun 18 |
-| ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a342696ce501060b5cefb41?utm_campaign=1053&utm_source=git)** | Columbia, SC | On Site | Jun 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
