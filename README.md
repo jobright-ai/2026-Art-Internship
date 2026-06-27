@@ -117,5 +117,4 @@ For a complete list, click the following sortable link below:
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Paid Fall Music Group Publishing Intern](https://jobright.ai/jobs/info/6a1d313d7c457b279080e614?utm_campaign=1053&utm_source=git)** | Calabasas, CA, USA, US | On Site | Jun 22 |
 | **[Pearl West](https://www.pearlwestgroup.com)** | **[TikTok Shop Intern](https://jobright.ai/jobs/info/6a3ca39c982bb239f813030d?utm_campaign=1053&utm_source=git)** | Vancouver, British Columbia, Canada | Hybrid | Jun 21 |
 | **[Sinclair Inc.](http://sbgi.net/)** | **[Intern - Studio Crew](https://jobright.ai/jobs/info/69e1d29dd612782e6114aa3a?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Jun 21 |
-| **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Full-Time Paid Intern – Friend Writer/Editor (Church Magazines)](https://jobright.ai/jobs/info/6a19fb2f9111f771d1a099b5?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | Hybrid | Jun 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
