@@ -80,8 +80,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[MN Queer History StoryMap Intern](https://jobright.ai/jobs/info/6a3e0021882f121f56a394ce?utm_campaign=1053&utm_source=git)** | St Paul, MN, US | On Site | Jun 25 |
 | **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a3ddb70882f121f56a39079?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Jun 25 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a3ddb6c78237a036d5e2e94?utm_campaign=1053&utm_source=git)** | Naperville, IL | On Site | Jun 25 |
-| ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a3ddb69d261407de980212c?utm_campaign=1053&utm_source=git)** | Columbia, SC | On Site | Jun 25 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a3ddb69d261407de980212b?utm_campaign=1053&utm_source=git)** | Savannah, GA | On Site | Jun 25 |
+| ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a3ddb69d261407de980212c?utm_campaign=1053&utm_source=git)** | Columbia, SC | On Site | Jun 25 |
 | **[Behaviour Interactive](http://www.bhvr.com/)** | **[VFX Artist – Internship Fall 2026](https://jobright.ai/jobs/info/6a3dd77a882f121f56a39011?utm_campaign=1053&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Jun 25 |
 | ↳ | **[Technical Animator – Internship Fall 2026](https://jobright.ai/jobs/info/6a3dd779882f121f56a39010?utm_campaign=1053&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Jun 25 |
 | **[Utah Jazz](http://www.nba.com/jazz)** | **[Video Editor Intern](https://jobright.ai/jobs/info/6a2b0858d3ec8317fe146b00?utm_campaign=1053&utm_source=git)** | Sandy,UT,US | On Site | Jun 25 |
@@ -125,5 +125,4 @@ For a complete list, click the following sortable link below:
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Museum Intern (Part-Time)](https://jobright.ai/jobs/info/6a396349649fdf1629300922?utm_campaign=1053&utm_source=git)** | Fallon, NV | On Site | Jun 22 |
 | **[Insomniac Events](http://insomniac.com)** | **[Paid Fall Music Group Publishing Intern](https://jobright.ai/jobs/info/6a1d666fe24ef365258379a5?utm_campaign=1053&utm_source=git)** | Calabasas, CA | On Site | Jun 22 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Paid Fall Music Group Publishing Intern](https://jobright.ai/jobs/info/6a1d313d7c457b279080e614?utm_campaign=1053&utm_source=git)** | Calabasas, CA, USA, US | On Site | Jun 22 |
-| **[Pearl West](https://www.pearlwestgroup.com)** | **[TikTok Shop Intern](https://jobright.ai/jobs/info/6a3ca39c982bb239f813030d?utm_campaign=1053&utm_source=git)** | Vancouver, British Columbia, Canada | Hybrid | Jun 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
