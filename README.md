@@ -57,7 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Retreat Magazine](http://www.retreatmag.com)** | **[Online Editorial Intern – Retreat Magazine](https://jobright.ai/jobs/info/6a4202be3bfa967791ec1d93?utm_campaign=1053&utm_source=git)** | United States | Remote | Jun 28 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[ESPN Social Intern, Remote, Fall 2026](https://jobright.ai/jobs/info/6a41230b9dd7f954cafe899a?utm_campaign=1053&utm_source=git)** | Bristol, CT | Remote | Jun 28 |
 | ↳ | **[ESPN Creative Studio Production Assistant, New York City, Fall 2026](https://jobright.ai/jobs/info/6a4123059dd7f954cafe8997?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jun 28 |
 | **[KCRA 3 & My58 Television](http://www.kcra.com)** | **[Intern (Fall)](https://jobright.ai/jobs/info/6a25615c757ade085b6b19d2?utm_campaign=1053&utm_source=git)** | Sacramento, CA | On Site | Jun 28 |
@@ -123,6 +122,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Fall 2026 Editorial Undergraduate Internship](https://jobright.ai/jobs/info/6a394b6a649fdf16293000ab?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jun 22 |
 | **[Qualifacts](http://www.qualifacts.com)** | **[Social Media Video Content Creator Intern](https://jobright.ai/jobs/info/6a395dd9649fdf16293006c3?utm_campaign=1053&utm_source=git)** | Nashville, US | Hybrid | Jun 22 |
 | **[Solar Energy Industries Association](http://www.seia.org)** | **[Video Production 2026 Summer Intern](https://jobright.ai/jobs/info/6a396fc306a4fd4b1faba117?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Jun 22 |
-| **[Brennan Center for Justice](http://www.brennancenter.org/)** | **[Fall 2026 Multimedia Producer Undergraduate Internship](https://jobright.ai/jobs/info/6a396777649fdf1629300b30?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jun 22 |
-| **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Museum Intern (Part-Time)](https://jobright.ai/jobs/info/6a396349649fdf1629300922?utm_campaign=1053&utm_source=git)** | Fallon, NV | On Site | Jun 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
