@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Codexa Labs Private Limited](https://codexalabs.io/)** | **[Video Editing Intern](https://jobright.ai/jobs/info/6a423ed9557b3862f15e0960?utm_campaign=1053&utm_source=git)** | United States | Remote | Jun 28 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[ESPN Social Intern, Remote, Fall 2026](https://jobright.ai/jobs/info/6a41230b9dd7f954cafe899a?utm_campaign=1053&utm_source=git)** | Bristol, CT | Remote | Jun 28 |
 | ↳ | **[ESPN Creative Studio Production Assistant, New York City, Fall 2026](https://jobright.ai/jobs/info/6a4123059dd7f954cafe8997?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jun 28 |
 | **[KCRA 3 & My58 Television](http://www.kcra.com)** | **[Intern (Fall)](https://jobright.ai/jobs/info/6a25615c757ade085b6b19d2?utm_campaign=1053&utm_source=git)** | Sacramento, CA | On Site | Jun 28 |
@@ -96,8 +97,8 @@ For a complete list, click the following sortable link below:
 | **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[Assistant Assembly Video Editor - BYU-Pathway Worldwide (Full-Time Intern)](https://jobright.ai/jobs/info/6a3f925554db074376c68627?utm_campaign=1053&utm_source=git)** | 95 N 300 W, Salt Lake City, UT, 84101, US | Hybrid | Jun 25 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Video Production, People Content (Fall 2026)](https://jobright.ai/jobs/info/6a3d7d52122f340d29cf0d1b?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | Jun 24 |
 | **[Whitney Museum of American Art](http://whitney.org)** | **[[Fall 2026] Curatorial - Prewar Art Internship](https://jobright.ai/jobs/info/6a3ca66a8bfad862bc99af54?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Jun 24 |
-| **[MLSE (Maple Leaf Sports & Entertainment Partnership)](http://mlse.com)** | **[Creative Studio and Accounts Production Intern](https://jobright.ai/jobs/info/6a3d8556122f340d29cf0fa6?utm_campaign=1053&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jun 24 |
-| ↳ | **[Content Intern](https://jobright.ai/jobs/info/6a3d855e78237a036d5e1bef?utm_campaign=1053&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jun 24 |
+| **[MLSE (Maple Leaf Sports & Entertainment Partnership)](http://mlse.com)** | **[Content Intern](https://jobright.ai/jobs/info/6a3d855e78237a036d5e1bef?utm_campaign=1053&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jun 24 |
+| ↳ | **[Creative Studio and Accounts Production Intern](https://jobright.ai/jobs/info/6a3d8556122f340d29cf0fa6?utm_campaign=1053&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jun 24 |
 | **[Honolulu Museum of Art](https://honolulumuseum.org)** | **[Collections Intern](https://jobright.ai/jobs/info/6a3c7855d261407de97fdc6d?utm_campaign=1053&utm_source=git)** | Honolulu Museum of Art, Honolulu, HI, US | On Site | Jun 24 |
 | **[Whitney Museum of American Art](http://whitney.org)** | **[[Fall 2026] Digital Content Internship](https://jobright.ai/jobs/info/6a3c55468bfad862bc99a18a?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Jun 24 |
 | **[Utah Mammoth](www.utahhockeyclub.com)** | **[Utah Mammoth Content Producer and Editor Intern](https://jobright.ai/jobs/info/6a3d64784d047136e09334a4?utm_campaign=1053&utm_source=git)** | Sandy, UT | On Site | Jun 24 |
@@ -120,6 +121,4 @@ For a complete list, click the following sortable link below:
 | **[Expressway Cinema Rentals](https://expresswaycine.com/)** | **[The Expressway Cinema Rentals Internship (FALL TERM) - ROCHESTER](https://jobright.ai/jobs/info/6a397da71232144fb156b991?utm_campaign=1053&utm_source=git)** | Rochester, NY | On Site | Jun 22 |
 | **[Brennan Center for Justice](http://www.brennancenter.org/)** | **[Fall 2026 Multimedia Producer Undergraduate Internship](https://jobright.ai/jobs/info/6a397d3c6484fb75f2b31f86?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jun 22 |
 | ↳ | **[Fall 2026 Editorial Undergraduate Internship](https://jobright.ai/jobs/info/6a394b6a649fdf16293000ab?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jun 22 |
-| **[Qualifacts](http://www.qualifacts.com)** | **[Social Media Video Content Creator Intern](https://jobright.ai/jobs/info/6a395dd9649fdf16293006c3?utm_campaign=1053&utm_source=git)** | Nashville, US | Hybrid | Jun 22 |
-| **[Solar Energy Industries Association](http://www.seia.org)** | **[Video Production 2026 Summer Intern](https://jobright.ai/jobs/info/6a396fc306a4fd4b1faba117?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Jun 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
