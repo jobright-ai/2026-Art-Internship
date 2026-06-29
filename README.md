@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Jpixx LLC](https://jpixx.com/)** | **[Video Production Intern (Paid/Entry Level)](https://jobright.ai/jobs/info/6a424d5e1cc9cc2b12feb613?utm_campaign=1053&utm_source=git)** | 372 S Independence Blvd, Virginia Beach, VA 23452, USA | On Site | Jun 29 |
 | **[Codexa Labs Private Limited](https://codexalabs.io/)** | **[Video Editing Intern](https://jobright.ai/jobs/info/6a423ed9557b3862f15e0960?utm_campaign=1053&utm_source=git)** | United States | Remote | Jun 28 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[ESPN Social Intern, Remote, Fall 2026](https://jobright.ai/jobs/info/6a41230b9dd7f954cafe899a?utm_campaign=1053&utm_source=git)** | Bristol, CT | Remote | Jun 28 |
 | ↳ | **[ESPN Creative Studio Production Assistant, New York City, Fall 2026](https://jobright.ai/jobs/info/6a4123059dd7f954cafe8997?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jun 28 |
@@ -78,7 +79,8 @@ For a complete list, click the following sortable link below:
 | **[Axis Communications](http://www.axis.com/)** | **[Video Production Intern](https://jobright.ai/jobs/info/6a3e88e64d047136e0936834?utm_campaign=1053&utm_source=git)** | Chelmsford, MA, USA | On Site | Jun 26 |
 | **[Safe Passage Project](https://www.safepassageproject.org)** | **[Animation & Storytelling Intern](https://jobright.ai/jobs/info/6a2c34dd7cd40a338fae52d0?utm_campaign=1053&utm_source=git)** | NYC, NY | Hybrid | Jun 26 |
 | **[Advisors Excel](http://advisorsexcel.com)** | **[Books Program Intern](https://jobright.ai/jobs/info/6a065348f3d6cc51d63926de?utm_campaign=1053&utm_source=git)** | Topeka Metropolitan Area | On Site | Jun 26 |
-| ↳ | **[Books Program Intern](https://jobright.ai/jobs/info/6a0785c23b54ed42d74cefbb?utm_campaign=1053&utm_source=git)** | 2950 SW McClure Rd, Topeka, KS | On Site | Jun 26 |
+| **[Utah Royals](www.utahroyals.com)** | **[Videography Internship](https://jobright.ai/jobs/info/6a424766557b3862f15e0b3d?utm_campaign=1053&utm_source=git)** | Herriman, Utah, United States | On Site | Jun 26 |
+| **[Advisors Excel](http://advisorsexcel.com)** | **[Books Program Intern](https://jobright.ai/jobs/info/6a0785c23b54ed42d74cefbb?utm_campaign=1053&utm_source=git)** | 2950 SW McClure Rd, Topeka, KS | On Site | Jun 26 |
 | **[Minnesota Historical Society](http://www.mnhs.org/)** | **[Intern - MN Queer History StoryMap](https://jobright.ai/jobs/info/6a3e01aa882f121f56a3958a?utm_campaign=1053&utm_source=git)** | St Paul, MN, US | On Site | Jun 25 |
 | ↳ | **[MN Queer History StoryMap Intern](https://jobright.ai/jobs/info/6a3e0021882f121f56a394ce?utm_campaign=1053&utm_source=git)** | St Paul, MN, US | On Site | Jun 25 |
 | **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a3ddb70882f121f56a39079?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Jun 25 |
@@ -97,12 +99,12 @@ For a complete list, click the following sortable link below:
 | **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[Assistant Assembly Video Editor - BYU-Pathway Worldwide (Full-Time Intern)](https://jobright.ai/jobs/info/6a3f925554db074376c68627?utm_campaign=1053&utm_source=git)** | 95 N 300 W, Salt Lake City, UT, 84101, US | Hybrid | Jun 25 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Video Production, People Content (Fall 2026)](https://jobright.ai/jobs/info/6a3d7d52122f340d29cf0d1b?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | Jun 24 |
 | **[Whitney Museum of American Art](http://whitney.org)** | **[[Fall 2026] Curatorial - Prewar Art Internship](https://jobright.ai/jobs/info/6a3ca66a8bfad862bc99af54?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Jun 24 |
-| **[MLSE (Maple Leaf Sports & Entertainment Partnership)](http://mlse.com)** | **[Content Intern](https://jobright.ai/jobs/info/6a3d855e78237a036d5e1bef?utm_campaign=1053&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jun 24 |
-| ↳ | **[Creative Studio and Accounts Production Intern](https://jobright.ai/jobs/info/6a3d8556122f340d29cf0fa6?utm_campaign=1053&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jun 24 |
+| **[MLSE (Maple Leaf Sports & Entertainment Partnership)](http://mlse.com)** | **[Creative Studio and Accounts Production Intern](https://jobright.ai/jobs/info/6a3d8556122f340d29cf0fa6?utm_campaign=1053&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jun 24 |
+| ↳ | **[Content Intern](https://jobright.ai/jobs/info/6a3d855e78237a036d5e1bef?utm_campaign=1053&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jun 24 |
 | **[Honolulu Museum of Art](https://honolulumuseum.org)** | **[Collections Intern](https://jobright.ai/jobs/info/6a3c7855d261407de97fdc6d?utm_campaign=1053&utm_source=git)** | Honolulu Museum of Art, Honolulu, HI, US | On Site | Jun 24 |
 | **[Whitney Museum of American Art](http://whitney.org)** | **[[Fall 2026] Digital Content Internship](https://jobright.ai/jobs/info/6a3c55468bfad862bc99a18a?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Jun 24 |
 | **[Utah Mammoth](www.utahhockeyclub.com)** | **[Utah Mammoth Content Producer and Editor Intern](https://jobright.ai/jobs/info/6a3d64784d047136e09334a4?utm_campaign=1053&utm_source=git)** | Sandy, UT | On Site | Jun 24 |
-| **[State of South Dakota](https://doh.sd.gov/)** | **[Intern - SDPB Media Production (Fall)](https://jobright.ai/jobs/info/6a3c3063882f121f56a33be8?utm_campaign=1053&utm_source=git)** | Vermillion, SD | On Site | Jun 24 |
+| **[State of South Dakota](https://dss.sd.gov)** | **[Intern - SDPB Media Production (Fall)](https://jobright.ai/jobs/info/6a3c3063882f121f56a33be8?utm_campaign=1053&utm_source=git)** | Vermillion, SD | On Site | Jun 24 |
 | **[Heyday Athletic](https://www.heydayathletic.com)** | **[Heyday Athletic Internship - Fall](https://jobright.ai/jobs/info/6a3c1cfed261407de97fc692?utm_campaign=1053&utm_source=git)** | Greater Philadelphia | On Site | Jun 24 |
 | **[Redis](https://redis.io/)** | **[Video Production & Video Internship (Summer)](https://jobright.ai/jobs/info/6a030adff3d6cc51d6372ab8?utm_campaign=1053&utm_source=git)** | San Francisco, CA | On Site | Jun 24 |
 | **[InstaService](https://www.instaservice.com/)** | **[Content Creator Intern - Short Form Video](https://jobright.ai/jobs/info/6a3b73fcdd879c60912b2e10?utm_campaign=1053&utm_source=git)** | California, United States | Remote | Jun 23 |
@@ -118,7 +120,4 @@ For a complete list, click the following sortable link below:
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Media Production Intern (In- Person) Fall 2026.](https://jobright.ai/jobs/info/6a39929f214ae004c7a1f5bc?utm_campaign=1053&utm_source=git)** | Mobile, AL | On Site | Jun 22 |
 | ↳ | **[Media Production Intern (In- Person) Fall 2026.](https://jobright.ai/jobs/info/6a398ce3f6b55d12c7928b8e?utm_campaign=1053&utm_source=git)** | AL, Mobile, US | On Site | Jun 22 |
 | **[DreamWorks Animation](https://www.dreamworks.com)** | **[Technical Direction Intern, DreamWorks Animation, Fall 2026](https://jobright.ai/jobs/info/6a398bd9214ae004c7a1f3b0?utm_campaign=1053&utm_source=git)** | Glendale, CA | Hybrid | Jun 22 |
-| **[Expressway Cinema Rentals](https://expresswaycine.com/)** | **[The Expressway Cinema Rentals Internship (FALL TERM) - ROCHESTER](https://jobright.ai/jobs/info/6a397da71232144fb156b991?utm_campaign=1053&utm_source=git)** | Rochester, NY | On Site | Jun 22 |
-| **[Brennan Center for Justice](http://www.brennancenter.org/)** | **[Fall 2026 Multimedia Producer Undergraduate Internship](https://jobright.ai/jobs/info/6a397d3c6484fb75f2b31f86?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jun 22 |
-| ↳ | **[Fall 2026 Editorial Undergraduate Internship](https://jobright.ai/jobs/info/6a394b6a649fdf16293000ab?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jun 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
