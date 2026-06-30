@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sony Music Entertainment](http://www.sonymusic.com)** | **[Intern, Radio & Artist Engagement](https://jobright.ai/jobs/info/6a43b0a28208843cea1f253a?utm_campaign=1053&utm_source=git)** | Canada, Ontario, Toronto | On Site | Jun 30 |
 | **[IRONCLAD](https://thisisironclad.com)** | **[INTERNSHIP: Pre Production](https://jobright.ai/jobs/info/6a43490f501d340b4a82f08a?utm_campaign=1053&utm_source=git)** | Virginia Beach, VA | On Site | Jun 29 |
 | **[Tuff City Records](http://www.tuffcity.com)** | **[Journalism Intern](https://jobright.ai/jobs/info/6a4347f2b0f2553559ecf9b6?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jun 29 |
 | **[University of Utah](http://utah.edu)** | **[Content Creator - Storyteller Intern](https://jobright.ai/jobs/info/6a433ee2cbf92c7bcd36f4bf?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Jun 29 |
@@ -101,8 +102,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[MN Queer History StoryMap Intern](https://jobright.ai/jobs/info/6a3e0021882f121f56a394ce?utm_campaign=1053&utm_source=git)** | St Paul, MN, US | On Site | Jun 25 |
 | **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a3ddb70882f121f56a39079?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Jun 25 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a3ddb6c78237a036d5e2e94?utm_campaign=1053&utm_source=git)** | Naperville, IL | On Site | Jun 25 |
-| ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a3ddb69d261407de980212c?utm_campaign=1053&utm_source=git)** | Columbia, SC | On Site | Jun 25 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a3ddb69d261407de980212b?utm_campaign=1053&utm_source=git)** | Savannah, GA | On Site | Jun 25 |
+| ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a3ddb69d261407de980212c?utm_campaign=1053&utm_source=git)** | Columbia, SC | On Site | Jun 25 |
 | **[Behaviour Interactive](http://www.bhvr.com/)** | **[VFX Artist – Internship Fall 2026](https://jobright.ai/jobs/info/6a3dd77a882f121f56a39011?utm_campaign=1053&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Jun 25 |
 | ↳ | **[Technical Animator – Internship Fall 2026](https://jobright.ai/jobs/info/6a3dd779882f121f56a39010?utm_campaign=1053&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Jun 25 |
 | **[Utah Jazz](http://www.nba.com/jazz)** | **[Video Editor Intern](https://jobright.ai/jobs/info/6a2b0858d3ec8317fe146b00?utm_campaign=1053&utm_source=git)** | Sandy,UT,US | On Site | Jun 25 |
@@ -114,12 +115,12 @@ For a complete list, click the following sortable link below:
 | **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[Assistant Assembly Video Editor - BYU-Pathway Worldwide (Full-Time Intern)](https://jobright.ai/jobs/info/6a3f925554db074376c68627?utm_campaign=1053&utm_source=git)** | 95 N 300 W, Salt Lake City, UT, 84101, US | Hybrid | Jun 25 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Video Production, People Content (Fall 2026)](https://jobright.ai/jobs/info/6a3d7d52122f340d29cf0d1b?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | Jun 24 |
 | **[Whitney Museum of American Art](http://whitney.org)** | **[[Fall 2026] Curatorial - Prewar Art Internship](https://jobright.ai/jobs/info/6a3ca66a8bfad862bc99af54?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Jun 24 |
-| **[MLSE (Maple Leaf Sports & Entertainment Partnership)](http://mlse.com)** | **[Content Intern](https://jobright.ai/jobs/info/6a3d855e78237a036d5e1bef?utm_campaign=1053&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jun 24 |
-| ↳ | **[Creative Studio and Accounts Production Intern](https://jobright.ai/jobs/info/6a3d8556122f340d29cf0fa6?utm_campaign=1053&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jun 24 |
+| **[MLSE (Maple Leaf Sports & Entertainment Partnership)](http://mlse.com)** | **[Creative Studio and Accounts Production Intern](https://jobright.ai/jobs/info/6a3d8556122f340d29cf0fa6?utm_campaign=1053&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jun 24 |
+| ↳ | **[Content Intern](https://jobright.ai/jobs/info/6a3d855e78237a036d5e1bef?utm_campaign=1053&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jun 24 |
 | **[Honolulu Museum of Art](https://honolulumuseum.org)** | **[Collections Intern](https://jobright.ai/jobs/info/6a3c7855d261407de97fdc6d?utm_campaign=1053&utm_source=git)** | Honolulu Museum of Art, Honolulu, HI, US | On Site | Jun 24 |
 | **[Whitney Museum of American Art](http://whitney.org)** | **[[Fall 2026] Digital Content Internship](https://jobright.ai/jobs/info/6a3c55468bfad862bc99a18a?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Jun 24 |
 | **[Utah Mammoth](www.utahhockeyclub.com)** | **[Utah Mammoth Content Producer and Editor Intern](https://jobright.ai/jobs/info/6a3d64784d047136e09334a4?utm_campaign=1053&utm_source=git)** | Sandy, UT | On Site | Jun 24 |
-| **[State of South Dakota](https://dss.sd.gov)** | **[Intern - SDPB Media Production (Fall)](https://jobright.ai/jobs/info/6a3c3063882f121f56a33be8?utm_campaign=1053&utm_source=git)** | Vermillion, SD | On Site | Jun 24 |
+| **[State of South Dakota](https://doh.sd.gov/)** | **[Intern - SDPB Media Production (Fall)](https://jobright.ai/jobs/info/6a3c3063882f121f56a33be8?utm_campaign=1053&utm_source=git)** | Vermillion, SD | On Site | Jun 24 |
 | **[Heyday Athletic](https://www.heydayathletic.com)** | **[Heyday Athletic Internship - Fall](https://jobright.ai/jobs/info/6a3c1cfed261407de97fc692?utm_campaign=1053&utm_source=git)** | Greater Philadelphia | On Site | Jun 24 |
 | **[Redis](https://redis.io/)** | **[Video Production & Video Internship (Summer)](https://jobright.ai/jobs/info/6a030adff3d6cc51d6372ab8?utm_campaign=1053&utm_source=git)** | San Francisco, CA | On Site | Jun 24 |
 | **[InstaService](https://www.instaservice.com/)** | **[Content Creator Intern - Short Form Video](https://jobright.ai/jobs/info/6a3b73fcdd879c60912b2e10?utm_campaign=1053&utm_source=git)** | California, United States | Remote | Jun 23 |
