@@ -58,6 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Sony Music Entertainment](http://www.sonymusic.com)** | **[Intern, Radio & Artist Engagement](https://jobright.ai/jobs/info/6a43b0a28208843cea1f253a?utm_campaign=1053&utm_source=git)** | Canada, Ontario, Toronto | On Site | Jun 30 |
+| **[Our National Conversation (ONC)](https://www.ournationalconversation.org)** | **[Moderate Writer Intern](https://jobright.ai/jobs/info/6a43c03bef17a815538a0386?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Remote | Jun 30 |
 | **[IRONCLAD](https://thisisironclad.com)** | **[INTERNSHIP: Pre Production](https://jobright.ai/jobs/info/6a43490f501d340b4a82f08a?utm_campaign=1053&utm_source=git)** | Virginia Beach, VA | On Site | Jun 29 |
 | **[Tuff City Records](http://www.tuffcity.com)** | **[Journalism Intern](https://jobright.ai/jobs/info/6a4347f2b0f2553559ecf9b6?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jun 29 |
 | **[University of Utah](http://utah.edu)** | **[Content Creator - Storyteller Intern](https://jobright.ai/jobs/info/6a433ee2cbf92c7bcd36f4bf?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Jun 29 |
@@ -115,8 +116,8 @@ For a complete list, click the following sortable link below:
 | **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[Assistant Assembly Video Editor - BYU-Pathway Worldwide (Full-Time Intern)](https://jobright.ai/jobs/info/6a3f925554db074376c68627?utm_campaign=1053&utm_source=git)** | 95 N 300 W, Salt Lake City, UT, 84101, US | Hybrid | Jun 25 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Video Production, People Content (Fall 2026)](https://jobright.ai/jobs/info/6a3d7d52122f340d29cf0d1b?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | Jun 24 |
 | **[Whitney Museum of American Art](http://whitney.org)** | **[[Fall 2026] Curatorial - Prewar Art Internship](https://jobright.ai/jobs/info/6a3ca66a8bfad862bc99af54?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Jun 24 |
-| **[MLSE (Maple Leaf Sports & Entertainment Partnership)](http://mlse.com)** | **[Creative Studio and Accounts Production Intern](https://jobright.ai/jobs/info/6a3d8556122f340d29cf0fa6?utm_campaign=1053&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jun 24 |
-| ↳ | **[Content Intern](https://jobright.ai/jobs/info/6a3d855e78237a036d5e1bef?utm_campaign=1053&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jun 24 |
+| **[MLSE (Maple Leaf Sports & Entertainment Partnership)](http://mlse.com)** | **[Content Intern](https://jobright.ai/jobs/info/6a3d855e78237a036d5e1bef?utm_campaign=1053&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jun 24 |
+| ↳ | **[Creative Studio and Accounts Production Intern](https://jobright.ai/jobs/info/6a3d8556122f340d29cf0fa6?utm_campaign=1053&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jun 24 |
 | **[Honolulu Museum of Art](https://honolulumuseum.org)** | **[Collections Intern](https://jobright.ai/jobs/info/6a3c7855d261407de97fdc6d?utm_campaign=1053&utm_source=git)** | Honolulu Museum of Art, Honolulu, HI, US | On Site | Jun 24 |
 | **[Whitney Museum of American Art](http://whitney.org)** | **[[Fall 2026] Digital Content Internship](https://jobright.ai/jobs/info/6a3c55468bfad862bc99a18a?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Jun 24 |
 | **[Utah Mammoth](www.utahhockeyclub.com)** | **[Utah Mammoth Content Producer and Editor Intern](https://jobright.ai/jobs/info/6a3d64784d047136e09334a4?utm_campaign=1053&utm_source=git)** | Sandy, UT | On Site | Jun 24 |
