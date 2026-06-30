@@ -90,7 +90,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern, Events and Entertainment](https://jobright.ai/jobs/info/6a3f51a8882f121f56a3cf02?utm_campaign=1053&utm_source=git)** | Ottawa, ON, CA | On Site | Jun 26 |
 | **[D.C. United](http://dcunited.com)** | **[Intern- D.C. United Videographer Internship (Fall 2026)](https://jobright.ai/jobs/info/6a3f2cf04d047136e0938e9b?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Jun 26 |
 | **[Aangan: South Asian Center for Art & Thought](http://www.aangannyc.org)** | **[Editorial Internship](https://jobright.ai/jobs/info/6a3f2711d261407de9805c00?utm_campaign=1053&utm_source=git)** | New Bern-MC Area | On Site | Jun 26 |
-| **[Jingo](https://www.jingo.app)** | **[Film Production & Content Intern](https://jobright.ai/jobs/info/6a3ed9c54d047136e0937de3?utm_campaign=1053&utm_source=git)** | San Francisco, CA | On Site | Jun 26 |
 | **[Worcester Railers HC](https://www.railershc.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/6a3ed8af122f340d29cf4db6?utm_campaign=1053&utm_source=git)** | Worcester, MA | On Site | Jun 26 |
 | **[Kroenke Sports & Entertainment](https://www.ballarena.com)** | **[Video Production Intern- Colorado Avalanche](https://jobright.ai/jobs/info/6a3ec89e122f340d29cf4a04?utm_campaign=1053&utm_source=git)** | Denver, CO | On Site | Jun 26 |
 | **[Axis Communications](http://www.axis.com/)** | **[Video Production Intern](https://jobright.ai/jobs/info/6a3e88e64d047136e0936834?utm_campaign=1053&utm_source=git)** | Chelmsford, MA, USA | On Site | Jun 26 |
@@ -102,8 +101,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[MN Queer History StoryMap Intern](https://jobright.ai/jobs/info/6a3e0021882f121f56a394ce?utm_campaign=1053&utm_source=git)** | St Paul, MN, US | On Site | Jun 25 |
 | **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a3ddb70882f121f56a39079?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Jun 25 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a3ddb6c78237a036d5e2e94?utm_campaign=1053&utm_source=git)** | Naperville, IL | On Site | Jun 25 |
-| ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a3ddb69d261407de980212c?utm_campaign=1053&utm_source=git)** | Columbia, SC | On Site | Jun 25 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a3ddb69d261407de980212b?utm_campaign=1053&utm_source=git)** | Savannah, GA | On Site | Jun 25 |
+| ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a3ddb69d261407de980212c?utm_campaign=1053&utm_source=git)** | Columbia, SC | On Site | Jun 25 |
 | **[Behaviour Interactive](http://www.bhvr.com/)** | **[VFX Artist – Internship Fall 2026](https://jobright.ai/jobs/info/6a3dd77a882f121f56a39011?utm_campaign=1053&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Jun 25 |
 | ↳ | **[Technical Animator – Internship Fall 2026](https://jobright.ai/jobs/info/6a3dd779882f121f56a39010?utm_campaign=1053&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Jun 25 |
 | **[Utah Jazz](http://www.nba.com/jazz)** | **[Video Editor Intern](https://jobright.ai/jobs/info/6a2b0858d3ec8317fe146b00?utm_campaign=1053&utm_source=git)** | Sandy,UT,US | On Site | Jun 25 |
