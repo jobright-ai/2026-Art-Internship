@@ -129,5 +129,4 @@ For a complete list, click the following sortable link below:
 | **[InstaService](https://www.instaservice.com/)** | **[Content Creator Intern - Short Form Video](https://jobright.ai/jobs/info/6a3b73fcdd879c60912b2e10?utm_campaign=1053&utm_source=git)** | California, United States | Remote | Jun 23 |
 | **[TikTok](https://www.tiktok.com)** | **[TikTok Short Drama Project Intern (TikTok-Short-Drama) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a3b45781232144fb15721e8?utm_campaign=1053&utm_source=git)** | Los Angeles | On Site | Jun 23 |
 | **[Penumbra, Inc.](http://penumbrainc.com)** | **[Videographer Intern T](https://jobright.ai/jobs/info/6a3b3dabdbedbf5680c7328d?utm_campaign=1053&utm_source=git)** | Alameda, CA | Hybrid | Jun 23 |
-| **[The Washington Post](http://www.washingtonpost.com/)** | **[Opinion Video Intern](https://jobright.ai/jobs/info/68caff29d905e25191d9e2c9?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Jun 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
