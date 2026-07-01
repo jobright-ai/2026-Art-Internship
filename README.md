@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Utah Jazz](http://www.nba.com/jazz)** | **[Creative Production Intern](https://jobright.ai/jobs/info/6a44460c105260150b721882?utm_campaign=1053&utm_source=git)** | Sandy, UT | On Site | Jun 30 |
 | **[Genesis Global Group](https://www.genesisglobalgrp.com/)** | **[For-Credit Events Intern (Fall 2026)](https://jobright.ai/jobs/info/6a4330b0cbf92c7bcd36e999?utm_campaign=1053&utm_source=git)** | Hamilton Township, NJ, USA | On Site | Jun 30 |
 | **[Film Pittsburgh](http://www.FilmPittsburgh.org)** | **[Spring Festival Internship](https://jobright.ai/jobs/info/6a43ed470153061b8b3de9c6?utm_campaign=1053&utm_source=git)** | Pittsburgh, PA | Hybrid | Jun 30 |
 | **[University of South Florida](http://www.research.usf.edu/rf/sii/)** | **[Institute of Applied Engineering Internship – Fall 2026](https://jobright.ai/jobs/info/6a43d88665e80d3c99f29a2b?utm_campaign=1053&utm_source=git)** | Tampa, FL | On Site | Jun 30 |
@@ -125,5 +126,4 @@ For a complete list, click the following sortable link below:
 | **[State of South Dakota](https://doh.sd.gov/)** | **[Intern - SDPB Media Production (Fall)](https://jobright.ai/jobs/info/6a3c3063882f121f56a33be8?utm_campaign=1053&utm_source=git)** | Vermillion, SD | On Site | Jun 24 |
 | **[Heyday Athletic](https://www.heydayathletic.com)** | **[Heyday Athletic Internship - Fall](https://jobright.ai/jobs/info/6a3c1cfed261407de97fc692?utm_campaign=1053&utm_source=git)** | Greater Philadelphia | On Site | Jun 24 |
 | **[Redis](https://redis.io/)** | **[Video Production & Video Internship (Summer)](https://jobright.ai/jobs/info/6a030adff3d6cc51d6372ab8?utm_campaign=1053&utm_source=git)** | San Francisco, CA | On Site | Jun 24 |
-| **[InstaService](https://www.instaservice.com/)** | **[Content Creator Intern - Short Form Video](https://jobright.ai/jobs/info/6a3b73fcdd879c60912b2e10?utm_campaign=1053&utm_source=git)** | California, United States | Remote | Jun 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
