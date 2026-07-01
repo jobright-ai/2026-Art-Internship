@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Swish Cultures](https://www.instagram.com/swishcultures/)** | **[Social Video Editor & Producer Intern](https://jobright.ai/jobs/info/6a453d4248d2f00f2a86cdbc?utm_campaign=1053&utm_source=git)** | United States | Remote | Jul 01 |
+| **[MATTE Projects](https://matteprojects.com/)** | **[Experiential Production Internship: Fall 2026 (On-site, NYC)](https://jobright.ai/jobs/info/6a32fe397f3fdd180d4c4d6d?utm_campaign=1053&utm_source=git)** | New York, New York | On Site | Jul 01 |
 | **[Willkie Farr & Gallagher LLP](http://www.willkie.com)** | **[Video Production Intern - New York](https://jobright.ai/jobs/info/6a44dc00497c084dcfb59deb?utm_campaign=1053&utm_source=git)** | New York, NY, US | On Site | Jul 01 |
 | **[Willkie Farr & Gallagher LLP](http://www.willkie.com)** | **[Video Production Intern - New York](https://jobright.ai/jobs/info/6a447527b156014e414bc844?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jun 30 |
 | **[The Peacock Inn](http://www.peacockinn.com)** | **[For-Credit Events Intern (Fall 2026)](https://jobright.ai/jobs/info/6a44974b105260150b72238c?utm_campaign=1053&utm_source=git)** | Hamilton Township, NJ | On Site | Jun 30 |
@@ -70,7 +72,6 @@ For a complete list, click the following sortable link below:
 | **[USF College of Nursing](http://health.usf.edu/nursing)** | **[Institute of Applied Engineering Internship – Fall 2026](https://jobright.ai/jobs/info/6a43ca79ef17a815538a04c1?utm_campaign=1053&utm_source=git)** | Tampa, FL, United States | On Site | Jun 30 |
 | **[Sony Music Entertainment](http://www.sonymusic.com)** | **[Intern, Radio & Artist Engagement](https://jobright.ai/jobs/info/6a43b0a28208843cea1f253a?utm_campaign=1053&utm_source=git)** | Canada, Ontario, Toronto | On Site | Jun 30 |
 | **[Our National Conversation (ONC)](https://www.ournationalconversation.org)** | **[Moderate Writer Intern](https://jobright.ai/jobs/info/6a43c03bef17a815538a0386?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Remote | Jun 30 |
-| **[IRONCLAD](https://thisisironclad.com)** | **[INTERNSHIP: Pre Production](https://jobright.ai/jobs/info/6a43490f501d340b4a82f08a?utm_campaign=1053&utm_source=git)** | Virginia Beach, VA | On Site | Jun 29 |
 | **[Tuff City Records](http://www.tuffcity.com)** | **[Journalism Intern](https://jobright.ai/jobs/info/6a4347f2b0f2553559ecf9b6?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jun 29 |
 | **[University of Utah](http://utah.edu)** | **[Content Creator - Storyteller Intern](https://jobright.ai/jobs/info/6a433ee2cbf92c7bcd36f4bf?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Jun 29 |
 | **[goodr](https://goodr.com)** | **[Production Intern](https://jobright.ai/jobs/info/6a433ced501d340b4a82eccb?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Jun 29 |
@@ -118,11 +119,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Technical Animator – Internship Fall 2026](https://jobright.ai/jobs/info/6a3dd779882f121f56a39010?utm_campaign=1053&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Jun 25 |
 | **[Utah Jazz](http://www.nba.com/jazz)** | **[Video Editor Intern](https://jobright.ai/jobs/info/6a2b0858d3ec8317fe146b00?utm_campaign=1053&utm_source=git)** | Sandy,UT,US | On Site | Jun 25 |
 | **[PiñataFarms AI](https://pinatafarms.ai/)** | **[Content Creator Intern – Piñata Farms](https://jobright.ai/jobs/info/6a3d8fc1d261407de98010db?utm_campaign=1053&utm_source=git)** | Santa Monica, CA | On Site | Jun 25 |
-| **[NOX METALS](noxmetals.co)** | **[Production Intern](https://jobright.ai/jobs/info/6a3d6dcf8bfad862bc99d059?utm_campaign=1053&utm_source=git)** | Detroit | On Site | Jun 25 |
 | **[Medical College of Wisconsin](http://www.mcw.edu/)** | **[Intern - Earned Media](https://jobright.ai/jobs/info/6a3d82514d047136e0933ed3?utm_campaign=1053&utm_source=git)** | Wauwatosa, WI | On Site | Jun 25 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Assistant Assembly Video Editor - BYU-Pathway Worldwide (Full-Time Intern)](https://jobright.ai/jobs/info/6a3d81ff882f121f56a37ce8?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT, United States | Hybrid | Jun 25 |
 | **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Historical Preservation, Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/6a0419e8f811a043696080cd?utm_campaign=1053&utm_source=git)** | Jamaica, NY | On Site | Jun 25 |
 | **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[Assistant Assembly Video Editor - BYU-Pathway Worldwide (Full-Time Intern)](https://jobright.ai/jobs/info/6a3f925554db074376c68627?utm_campaign=1053&utm_source=git)** | 95 N 300 W, Salt Lake City, UT, 84101, US | Hybrid | Jun 25 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Video Production, People Content (Fall 2026)](https://jobright.ai/jobs/info/6a3d7d52122f340d29cf0d1b?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | Jun 24 |
-| **[Whitney Museum of American Art](http://whitney.org)** | **[[Fall 2026] Curatorial - Prewar Art Internship](https://jobright.ai/jobs/info/6a3ca66a8bfad862bc99af54?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Jun 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
