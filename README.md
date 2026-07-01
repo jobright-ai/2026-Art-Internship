@@ -57,10 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Satechi](http://www.satechi.net/)** | **[Social Media/Content Intern](https://jobright.ai/jobs/info/6a35ac60ce501060b5cf5453?utm_campaign=1053&utm_source=git)** | Scripps Summit Ct, CA | On Site | Jun 30 |
 | **[Utah Jazz](http://www.nba.com/jazz)** | **[Creative Production Intern](https://jobright.ai/jobs/info/6a44460c105260150b721882?utm_campaign=1053&utm_source=git)** | Sandy, UT | On Site | Jun 30 |
+| **[University of South Florida](http://www.research.usf.edu/rf/sii/)** | **[IAE Videography Internship – Fall 2026](https://jobright.ai/jobs/info/6a43d88665e80d3c99f29a2b?utm_campaign=1053&utm_source=git)** | Tampa, FL | On Site | Jun 30 |
 | **[Genesis Global Group](https://www.genesisglobalgrp.com/)** | **[For-Credit Events Intern (Fall 2026)](https://jobright.ai/jobs/info/6a4330b0cbf92c7bcd36e999?utm_campaign=1053&utm_source=git)** | Hamilton Township, NJ, USA | On Site | Jun 30 |
 | **[Film Pittsburgh](http://www.FilmPittsburgh.org)** | **[Spring Festival Internship](https://jobright.ai/jobs/info/6a43ed470153061b8b3de9c6?utm_campaign=1053&utm_source=git)** | Pittsburgh, PA | Hybrid | Jun 30 |
-| **[University of South Florida](http://www.research.usf.edu/rf/sii/)** | **[Institute of Applied Engineering Internship – Fall 2026](https://jobright.ai/jobs/info/6a43d88665e80d3c99f29a2b?utm_campaign=1053&utm_source=git)** | Tampa, FL | On Site | Jun 30 |
 | **[USF College of Nursing](http://health.usf.edu/nursing)** | **[Institute of Applied Engineering Internship – Fall 2026](https://jobright.ai/jobs/info/6a43ca79ef17a815538a04c1?utm_campaign=1053&utm_source=git)** | Tampa, FL, United States | On Site | Jun 30 |
 | **[Sony Music Entertainment](http://www.sonymusic.com)** | **[Intern, Radio & Artist Engagement](https://jobright.ai/jobs/info/6a43b0a28208843cea1f253a?utm_campaign=1053&utm_source=git)** | Canada, Ontario, Toronto | On Site | Jun 30 |
 | **[Our National Conversation (ONC)](https://www.ournationalconversation.org)** | **[Moderate Writer Intern](https://jobright.ai/jobs/info/6a43c03bef17a815538a0386?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Remote | Jun 30 |
@@ -118,8 +119,8 @@ For a complete list, click the following sortable link below:
 | **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[Assistant Assembly Video Editor - BYU-Pathway Worldwide (Full-Time Intern)](https://jobright.ai/jobs/info/6a3f925554db074376c68627?utm_campaign=1053&utm_source=git)** | 95 N 300 W, Salt Lake City, UT, 84101, US | Hybrid | Jun 25 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Video Production, People Content (Fall 2026)](https://jobright.ai/jobs/info/6a3d7d52122f340d29cf0d1b?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | Jun 24 |
 | **[Whitney Museum of American Art](http://whitney.org)** | **[[Fall 2026] Curatorial - Prewar Art Internship](https://jobright.ai/jobs/info/6a3ca66a8bfad862bc99af54?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Jun 24 |
-| **[MLSE (Maple Leaf Sports & Entertainment Partnership)](http://mlse.com)** | **[Creative Studio and Accounts Production Intern](https://jobright.ai/jobs/info/6a3d8556122f340d29cf0fa6?utm_campaign=1053&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jun 24 |
-| ↳ | **[Content Intern](https://jobright.ai/jobs/info/6a3d855e78237a036d5e1bef?utm_campaign=1053&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jun 24 |
+| **[MLSE (Maple Leaf Sports & Entertainment Partnership)](http://mlse.com)** | **[Content Intern](https://jobright.ai/jobs/info/6a3d855e78237a036d5e1bef?utm_campaign=1053&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jun 24 |
+| ↳ | **[Creative Studio and Accounts Production Intern](https://jobright.ai/jobs/info/6a3d8556122f340d29cf0fa6?utm_campaign=1053&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jun 24 |
 | **[Honolulu Museum of Art](https://honolulumuseum.org)** | **[Collections Intern](https://jobright.ai/jobs/info/6a3c7855d261407de97fdc6d?utm_campaign=1053&utm_source=git)** | Honolulu Museum of Art, Honolulu, HI, US | On Site | Jun 24 |
 | **[Whitney Museum of American Art](http://whitney.org)** | **[[Fall 2026] Digital Content Internship](https://jobright.ai/jobs/info/6a3c55468bfad862bc99a18a?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Jun 24 |
 | **[Utah Mammoth](www.utahhockeyclub.com)** | **[Utah Mammoth Content Producer and Editor Intern](https://jobright.ai/jobs/info/6a3d64784d047136e09334a4?utm_campaign=1053&utm_source=git)** | Sandy, UT | On Site | Jun 24 |
