@@ -97,8 +97,8 @@ For a complete list, click the following sortable link below:
 | **[ESPN](http://espncareers.com)** | **[ESPN Digital Video Newsroom Intern, Remote, Fall 2026](https://jobright.ai/jobs/info/6a3fd277d528ac2915f95c49?utm_campaign=1053&utm_source=git)** | Bristol, CT | Remote | Jun 27 |
 | **[Legends Global](http://legends.net)** | **[Video/Content Production Intern](https://jobright.ai/jobs/info/6a18c6be54a441713ae880d4?utm_campaign=1053&utm_source=git)** | Miami, FL | On Site | Jun 27 |
 | **[Miller Sports + Entertainment](https://millerse.com/)** | **[Videography Internship](https://jobright.ai/jobs/info/6a3f61ba4d047136e093947e?utm_campaign=1053&utm_source=git)** | Sandy, UT | On Site | Jun 26 |
-| **[Ottawa Sports and Entertainment Group (OSEG)](http://www.tdplace.ca)** | **[Intern, Events and Entertainment](https://jobright.ai/jobs/info/6a3f51a8882f121f56a3cf02?utm_campaign=1053&utm_source=git)** | Ottawa, ON, CA | On Site | Jun 26 |
-| ↳ | **[Intern, Digital Media and Content](https://jobright.ai/jobs/info/6a3f51a8d261407de98060b2?utm_campaign=1053&utm_source=git)** | Ottawa, ON, CA | On Site | Jun 26 |
+| **[Ottawa Sports and Entertainment Group (OSEG)](http://www.tdplace.ca)** | **[Intern, Digital Media and Content](https://jobright.ai/jobs/info/6a3f51a8d261407de98060b2?utm_campaign=1053&utm_source=git)** | Ottawa, ON, CA | On Site | Jun 26 |
+| ↳ | **[Intern, Events and Entertainment](https://jobright.ai/jobs/info/6a3f51a8882f121f56a3cf02?utm_campaign=1053&utm_source=git)** | Ottawa, ON, CA | On Site | Jun 26 |
 | **[D.C. United](http://dcunited.com)** | **[Intern- D.C. United Videographer Internship (Fall 2026)](https://jobright.ai/jobs/info/6a3f2cf04d047136e0938e9b?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Jun 26 |
 | **[Worcester Railers HC](https://www.railershc.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/6a3ed8af122f340d29cf4db6?utm_campaign=1053&utm_source=git)** | Worcester, MA | On Site | Jun 26 |
 | **[Kroenke Sports & Entertainment](https://www.ballarena.com)** | **[Video Production Intern- Colorado Avalanche](https://jobright.ai/jobs/info/6a3ec89e122f340d29cf4a04?utm_campaign=1053&utm_source=git)** | Denver, CO | On Site | Jun 26 |
@@ -130,5 +130,4 @@ For a complete list, click the following sortable link below:
 | **[Whitney Museum of American Art](http://whitney.org)** | **[[Fall 2026] Digital Content Internship](https://jobright.ai/jobs/info/6a3c55468bfad862bc99a18a?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Jun 24 |
 | **[Utah Mammoth](www.utahhockeyclub.com)** | **[Utah Mammoth Content Producer and Editor Intern](https://jobright.ai/jobs/info/6a3d64784d047136e09334a4?utm_campaign=1053&utm_source=git)** | Sandy, UT | On Site | Jun 24 |
 | **[State of South Dakota](https://doh.sd.gov/)** | **[Intern - SDPB Media Production (Fall)](https://jobright.ai/jobs/info/6a3c3063882f121f56a33be8?utm_campaign=1053&utm_source=git)** | Vermillion, SD | On Site | Jun 24 |
-| **[Heyday Athletic](https://www.heydayathletic.com)** | **[Heyday Athletic Internship - Fall](https://jobright.ai/jobs/info/6a3c1cfed261407de97fc692?utm_campaign=1053&utm_source=git)** | Greater Philadelphia | On Site | Jun 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
