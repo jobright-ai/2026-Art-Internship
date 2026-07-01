@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Willkie Farr & Gallagher LLP](http://www.willkie.com)** | **[Video Production Intern - New York](https://jobright.ai/jobs/info/6a447527b156014e414bc844?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jun 30 |
 | **[Satechi](http://www.satechi.net/)** | **[Social Media/Content Intern](https://jobright.ai/jobs/info/6a35ac60ce501060b5cf5453?utm_campaign=1053&utm_source=git)** | Scripps Summit Ct, CA | On Site | Jun 30 |
 | **[Utah Jazz](http://www.nba.com/jazz)** | **[Creative Production Intern](https://jobright.ai/jobs/info/6a44460c105260150b721882?utm_campaign=1053&utm_source=git)** | Sandy, UT | On Site | Jun 30 |
 | **[University of South Florida](http://www.research.usf.edu/rf/sii/)** | **[IAE Videography Internship – Fall 2026](https://jobright.ai/jobs/info/6a43d88665e80d3c99f29a2b?utm_campaign=1053&utm_source=git)** | Tampa, FL | On Site | Jun 30 |
@@ -76,8 +77,8 @@ For a complete list, click the following sortable link below:
 | **[Aptara](http://www.aptaracorp.com)** | **[Editorial Intern](https://jobright.ai/jobs/info/6a42d53d6c326942b4e84541?utm_campaign=1053&utm_source=git)** | US | Remote | Jun 29 |
 | **[Magnet Media, Inc.](http://www.magnetmediafilms.com)** | **[Production Intern Fall 2027](https://jobright.ai/jobs/info/6a42cfd01cc9cc2b12fece84?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jun 29 |
 | **[The State University of New York](https://www.suny.edu)** | **[SUNY Art Exhibitions Internship](https://jobright.ai/jobs/info/6a42c8126faf756060967f34?utm_campaign=1053&utm_source=git)** | Albany, NY | On Site | Jun 29 |
-| **[DreamWorks Animation](https://www.dreamworks.com)** | **[San Diego Station (NBC 7/T20) Digital Internship - Fall 2026](https://jobright.ai/jobs/info/6a42c1fa6faf756060967e1b?utm_campaign=1053&utm_source=git)** | 9680 Granite Ridge Drive, San Diego, CALIFORNIA | On Site | Jun 29 |
-| **[NBCUniversal](https://www.nbcuniversal.com/)** | **[San Diego Station (NBC 7/T20) Digital Internship - Fall 2026](https://jobright.ai/jobs/info/6a42d8126faf7560609683b8?utm_campaign=1053&utm_source=git)** | San Diego, CA | On Site | Jun 29 |
+| **[NBCUniversal](https://www.nbcuniversal.com/)** | **[San Diego Station (NBC 7/T20) Digital Internship - Fall 2026](https://jobright.ai/jobs/info/6a42c1fa6faf756060967e1b?utm_campaign=1053&utm_source=git)** | 9680 Granite Ridge Drive, San Diego, CALIFORNIA | On Site | Jun 29 |
+| ↳ | **[San Diego Station (NBC 7/T20) Digital Internship - Fall 2026](https://jobright.ai/jobs/info/6a42d8126faf7560609683b8?utm_campaign=1053&utm_source=git)** | San Diego, CA | On Site | Jun 29 |
 | **[Red Aspen](https://www.redaspenlove.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/6a31eabee7b7d514a3bd63da?utm_campaign=1053&utm_source=git)** | Meridian, ID | On Site | Jun 29 |
 | **[ACLU](https://www.aclu.org/)** | **[Fall 2026 Undergraduate Intern, Communications- Brand Studio, Multimedia](https://jobright.ai/jobs/info/6a42b4f96faf756060967a61?utm_campaign=1053&utm_source=git)** | Remote/Hybrid- NY | Hybrid | Jun 29 |
 | **[Augierai.com](https://www.augierai.com)** | **[Video Editing Intern — NYC](https://jobright.ai/jobs/info/6a42aafdff87fd527f9851a8?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jun 29 |
@@ -108,8 +109,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[MN Queer History StoryMap Intern](https://jobright.ai/jobs/info/6a3e0021882f121f56a394ce?utm_campaign=1053&utm_source=git)** | St Paul, MN, US | On Site | Jun 25 |
 | **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a3ddb70882f121f56a39079?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Jun 25 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a3ddb6c78237a036d5e2e94?utm_campaign=1053&utm_source=git)** | Naperville, IL | On Site | Jun 25 |
-| ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a3ddb69d261407de980212c?utm_campaign=1053&utm_source=git)** | Columbia, SC | On Site | Jun 25 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a3ddb69d261407de980212b?utm_campaign=1053&utm_source=git)** | Savannah, GA | On Site | Jun 25 |
+| ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a3ddb69d261407de980212c?utm_campaign=1053&utm_source=git)** | Columbia, SC | On Site | Jun 25 |
 | **[Behaviour Interactive](http://www.bhvr.com/)** | **[VFX Artist – Internship Fall 2026](https://jobright.ai/jobs/info/6a3dd77a882f121f56a39011?utm_campaign=1053&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Jun 25 |
 | ↳ | **[Technical Animator – Internship Fall 2026](https://jobright.ai/jobs/info/6a3dd779882f121f56a39010?utm_campaign=1053&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Jun 25 |
 | **[Utah Jazz](http://www.nba.com/jazz)** | **[Video Editor Intern](https://jobright.ai/jobs/info/6a2b0858d3ec8317fe146b00?utm_campaign=1053&utm_source=git)** | Sandy,UT,US | On Site | Jun 25 |
