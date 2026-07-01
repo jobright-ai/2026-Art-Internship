@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Operater](https://operater.io)** | **[Content Creator Internship(English)](https://jobright.ai/jobs/info/6a45627c971cd25b06f88b20?utm_campaign=1053&utm_source=git)** | United States | Remote | Jul 01 |
 | **[Swish Cultures](https://www.instagram.com/swishcultures/)** | **[Social Video Editor & Producer Intern](https://jobright.ai/jobs/info/6a453d4248d2f00f2a86cdbc?utm_campaign=1053&utm_source=git)** | United States | Remote | Jul 01 |
 | **[MATTE Projects](https://matteprojects.com/)** | **[Experiential Production Internship: Fall 2026 (On-site, NYC)](https://jobright.ai/jobs/info/6a32fe397f3fdd180d4c4d6d?utm_campaign=1053&utm_source=git)** | New York, New York | On Site | Jul 01 |
 | **[Willkie Farr & Gallagher LLP](http://www.willkie.com)** | **[Video Production Intern - New York](https://jobright.ai/jobs/info/6a44dc00497c084dcfb59deb?utm_campaign=1053&utm_source=git)** | New York, NY, US | On Site | Jul 01 |
@@ -92,7 +93,6 @@ For a complete list, click the following sortable link below:
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[ESPN Creative Studio Production Assistant Intern, New York City, Fall 2026](https://jobright.ai/jobs/info/6a4123059dd7f954cafe8997?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jun 28 |
 | ↳ | **[ESPN Social Intern, Remote, Fall 2026](https://jobright.ai/jobs/info/6a41230b9dd7f954cafe899a?utm_campaign=1053&utm_source=git)** | Bristol, CT | Remote | Jun 28 |
 | **[KCRA 3 & My58 Television](http://www.kcra.com)** | **[Intern (Fall)](https://jobright.ai/jobs/info/6a25615c757ade085b6b19d2?utm_campaign=1053&utm_source=git)** | Sacramento, CA | On Site | Jun 28 |
-| **[adyn](https://www.adyn.com/)** | **[DIGITAL STORYTELLING INTERN](https://jobright.ai/jobs/info/6a44982fef17a815538a4557?utm_campaign=1053&utm_source=git)** | United States | Remote | Jun 27 |
 | **[American Enterprise Institute](http://www.aei.org)** | **[Fall Intern: Editing Services](https://jobright.ai/jobs/info/6a4052229dd7f954cafe7f3a?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Jun 27 |
 | **[The Laziena Experience](www.laziena.com)** | **[Unpaid Creative Internship: Podcast Editing + Social Clip Storytelling](https://jobright.ai/jobs/info/6a4022173bfa967791ebff16?utm_campaign=1053&utm_source=git)** | St. Petersburg, FL | Remote | Jun 27 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid News Intern](https://jobright.ai/jobs/info/6972b01a9b83b424830eb8a4?utm_campaign=1053&utm_source=git)** | IN-Indianapolis;6910 Network Place (Tribune-WXIN/WTTV) | On Site | Jun 27 |
@@ -113,8 +113,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[MN Queer History StoryMap Intern](https://jobright.ai/jobs/info/6a3e0021882f121f56a394ce?utm_campaign=1053&utm_source=git)** | St Paul, MN, US | On Site | Jun 25 |
 | **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a3ddb70882f121f56a39079?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Jun 25 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a3ddb6c78237a036d5e2e94?utm_campaign=1053&utm_source=git)** | Naperville, IL | On Site | Jun 25 |
-| ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a3ddb69d261407de980212b?utm_campaign=1053&utm_source=git)** | Savannah, GA | On Site | Jun 25 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a3ddb69d261407de980212c?utm_campaign=1053&utm_source=git)** | Columbia, SC | On Site | Jun 25 |
+| ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a3ddb69d261407de980212b?utm_campaign=1053&utm_source=git)** | Savannah, GA | On Site | Jun 25 |
 | **[Behaviour Interactive](http://www.bhvr.com/)** | **[VFX Artist – Internship Fall 2026](https://jobright.ai/jobs/info/6a3dd77a882f121f56a39011?utm_campaign=1053&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Jun 25 |
 | ↳ | **[Technical Animator – Internship Fall 2026](https://jobright.ai/jobs/info/6a3dd779882f121f56a39010?utm_campaign=1053&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Jun 25 |
 | **[Utah Jazz](http://www.nba.com/jazz)** | **[Video Editor Intern](https://jobright.ai/jobs/info/6a2b0858d3ec8317fe146b00?utm_campaign=1053&utm_source=git)** | Sandy,UT,US | On Site | Jun 25 |
