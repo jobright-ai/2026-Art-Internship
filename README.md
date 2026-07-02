@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Detroit Institute of Arts](http://www.dia.org/)** | **[Digital Archivist Intern](https://jobright.ai/jobs/info/6a46ce394f64ba41dcb54efa?utm_campaign=1053&utm_source=git)** | Detroit, MI, US | On Site | Jul 02 |
+| **[Red Aspen](https://www.redaspenlove.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/6a31eabee7b7d514a3bd63da?utm_campaign=1053&utm_source=git)** | Meridian, ID | On Site | Jul 02 |
 | **[University of Pennsylvania](https://www.dentalcareburke.com/)** | **[Summer Intern](https://jobright.ai/jobs/info/6a46ba33971cd25b06f8ff1a?utm_campaign=1053&utm_source=git)** | Ralston House, US | On Site | Jul 02 |
 | **[Clutch Content Partners](http://www.likesuperclutch.com)** | **[Production Intern](https://jobright.ai/jobs/info/6a46b47b971cd25b06f8fdce?utm_campaign=1053&utm_source=git)** | Miami, FL | On Site | Jul 02 |
 | **[Behaviour Interactive](http://www.bhvr.com/)** | **[Narrative Designer - Internship Fall 2026 / Concepteur·rice de narratif - Stage Automne 2026](https://jobright.ai/jobs/info/6a468c458204a812e98c8d2c?utm_campaign=1053&utm_source=git)** | Toronto, ON | Hybrid | Jul 02 |
@@ -64,9 +66,7 @@ For a complete list, click the following sortable link below:
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Paid Intern (Photojournalist/Multi-Media Journalist/Producer)](https://jobright.ai/jobs/info/69f179ef8feca91f149202ba?utm_campaign=1053&utm_source=git)** | Wichita, KS | On Site | Jul 02 |
 | **[Sony Music Entertainment](http://www.sonymusic.com)** | **[Intern, Radio & Artist Engagement](https://jobright.ai/jobs/info/6a43b0a28208843cea1f253a?utm_campaign=1053&utm_source=git)** | Canada, Ontario, Toronto | On Site | Jul 02 |
 | **[Evolve Studios®](https://evolve.studio)** | **[Assistant Editor Internship](https://jobright.ai/jobs/info/6a42d4796a9c2774b3fa77aa?utm_campaign=1053&utm_source=git)** | Franklin, TN | On Site | Jul 01 |
-| **[Red Aspen](https://www.redaspenlove.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/6a31eabee7b7d514a3bd63da?utm_campaign=1053&utm_source=git)** | Meridian, ID | On Site | Jul 01 |
 | **[University of Pennsylvania](https://www.dentalcareburke.com/)** | **[Summer Intern](https://jobright.ai/jobs/info/6a45c48b076271587529df90?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Jul 01 |
-| **[LKCM Media Group](www.lkcmmedia.com)** | **[Internship: Sports Media Intern](https://jobright.ai/jobs/info/6a4592d7971cd25b06f893fe?utm_campaign=1053&utm_source=git)** | Fort Worth, TX | On Site | Jul 01 |
 | **[New York City Ballet](http://nycballet.com)** | **[Fall Intern - Theater Operations](https://jobright.ai/jobs/info/6a457f32971cd25b06f890a9?utm_campaign=1053&utm_source=git)** | New York, New York, United States | On Site | Jul 01 |
 | **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a4576bf3dbab558e29a158b?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | Jul 01 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a45bc4d0dd56c76cc2f430b?utm_campaign=1053&utm_source=git)** | Columbia, SC | On Site | Jul 01 |
@@ -117,7 +117,4 @@ For a complete list, click the following sortable link below:
 | **[Advisors Excel](http://advisorsexcel.com)** | **[Books Program Intern](https://jobright.ai/jobs/info/6a065348f3d6cc51d63926de?utm_campaign=1053&utm_source=git)** | Topeka Metropolitan Area | On Site | Jun 26 |
 | **[Utah Royals](www.utahroyals.com)** | **[Videography Internship](https://jobright.ai/jobs/info/6a424766557b3862f15e0b3d?utm_campaign=1053&utm_source=git)** | Herriman, Utah, United States | On Site | Jun 26 |
 | **[Advisors Excel](http://advisorsexcel.com)** | **[Books Program Intern](https://jobright.ai/jobs/info/6a0785c23b54ed42d74cefbb?utm_campaign=1053&utm_source=git)** | 2950 SW McClure Rd, Topeka, KS | On Site | Jun 26 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[ESPN Digital Video Newsroom Intern, Remote, Fall 2026](https://jobright.ai/jobs/info/6a45ec45971cd25b06f8a7f8?utm_campaign=1053&utm_source=git)** | Bristol, Connecticut, United States of America | Remote | Jun 25 |
-| **[Minnesota Historical Society](http://www.mnhs.org/)** | **[Intern - MN Queer History StoryMap](https://jobright.ai/jobs/info/6a3e01aa882f121f56a3958a?utm_campaign=1053&utm_source=git)** | St Paul, MN, US | On Site | Jun 25 |
-| ↳ | **[MN Queer History StoryMap Intern](https://jobright.ai/jobs/info/6a3e0021882f121f56a394ce?utm_campaign=1053&utm_source=git)** | St Paul, MN, US | On Site | Jun 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
