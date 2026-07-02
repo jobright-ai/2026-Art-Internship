@@ -57,8 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[International Foundation of Employee Benefit Plans (IFEBP)](http://www.ifebp.org/)** | **[Onsite Internship: A/V (Fall)](https://jobright.ai/jobs/info/6a2c8033d3ec94183f4bd592?utm_campaign=1053&utm_source=git)** | Brookfield, WI | On Site | Jul 02 |
 | **[Behaviour Interactive](http://www.bhvr.com/)** | **[Narrative Designer - Internship Fall 2026 / Concepteur·rice de narratif - Stage Automne 2026](https://jobright.ai/jobs/info/6a468c458204a812e98c8d2c?utm_campaign=1053&utm_source=git)** | Toronto, ON | Hybrid | Jul 02 |
+| **[International Foundation of Employee Benefit Plans (IFEBP)](http://www.ifebp.org/)** | **[Onsite Internship: A/V (Fall)](https://jobright.ai/jobs/info/6a2c8033d3ec94183f4bd592?utm_campaign=1053&utm_source=git)** | Brookfield, WI | On Site | Jul 02 |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Paid Intern (Photojournalist/Multi-Media Journalist/Producer)](https://jobright.ai/jobs/info/69f179ef8feca91f149202ba?utm_campaign=1053&utm_source=git)** | Wichita, KS | On Site | Jul 02 |
 | **[Sony Music Entertainment](http://www.sonymusic.com)** | **[Intern, Radio & Artist Engagement](https://jobright.ai/jobs/info/6a43b0a28208843cea1f253a?utm_campaign=1053&utm_source=git)** | Canada, Ontario, Toronto | On Site | Jul 02 |
 | **[Virginia Farm Bureau Federation](https://www.vafb.com/)** | **[PT Intern: Summer Expo](https://jobright.ai/jobs/info/6a4694408204a812e98c8fcd?utm_campaign=1053&utm_source=git)** | Richmond, VA | On Site | Jul 01 |
 | **[Evolve Studios®](https://evolve.studio)** | **[Assistant Editor Internship](https://jobright.ai/jobs/info/6a42d4796a9c2774b3fa77aa?utm_campaign=1053&utm_source=git)** | Franklin, TN | On Site | Jul 01 |
@@ -105,7 +106,6 @@ For a complete list, click the following sortable link below:
 | **[The Laziena Experience](www.laziena.com)** | **[Unpaid Creative Internship: Podcast Editing + Social Clip Storytelling](https://jobright.ai/jobs/info/6a4022173bfa967791ebff16?utm_campaign=1053&utm_source=git)** | St. Petersburg, FL | Remote | Jun 27 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid News Intern](https://jobright.ai/jobs/info/6972b01a9b83b424830eb8a4?utm_campaign=1053&utm_source=git)** | IN-Indianapolis;6910 Network Place (Tribune-WXIN/WTTV) | On Site | Jun 27 |
 | **[ESPN](http://espncareers.com)** | **[ESPN Digital Video Newsroom Intern, Remote, Fall 2026](https://jobright.ai/jobs/info/6a3fd277d528ac2915f95c49?utm_campaign=1053&utm_source=git)** | Bristol, CT | Remote | Jun 27 |
-| **[Legends Global](http://legends.net)** | **[Video/Content Production Intern](https://jobright.ai/jobs/info/6a18c6be54a441713ae880d4?utm_campaign=1053&utm_source=git)** | Miami, FL | On Site | Jun 27 |
 | **[Miller Sports + Entertainment](https://millerse.com/)** | **[Videography Internship](https://jobright.ai/jobs/info/6a3f61ba4d047136e093947e?utm_campaign=1053&utm_source=git)** | Sandy, UT | On Site | Jun 26 |
 | **[Ottawa Sports and Entertainment Group (OSEG)](http://www.tdplace.ca)** | **[Intern, Events and Entertainment](https://jobright.ai/jobs/info/6a3f51a8882f121f56a3cf02?utm_campaign=1053&utm_source=git)** | Ottawa, ON, CA | On Site | Jun 26 |
 | ↳ | **[Intern, Digital Media and Content](https://jobright.ai/jobs/info/6a3f51a8d261407de98060b2?utm_campaign=1053&utm_source=git)** | Ottawa, ON, CA | On Site | Jun 26 |
@@ -120,6 +120,4 @@ For a complete list, click the following sortable link below:
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[ESPN Digital Video Newsroom Intern, Remote, Fall 2026](https://jobright.ai/jobs/info/6a45ec45971cd25b06f8a7f8?utm_campaign=1053&utm_source=git)** | Bristol, Connecticut, United States of America | Remote | Jun 25 |
 | **[Minnesota Historical Society](http://www.mnhs.org/)** | **[Intern - MN Queer History StoryMap](https://jobright.ai/jobs/info/6a3e01aa882f121f56a3958a?utm_campaign=1053&utm_source=git)** | St Paul, MN, US | On Site | Jun 25 |
 | ↳ | **[MN Queer History StoryMap Intern](https://jobright.ai/jobs/info/6a3e0021882f121f56a394ce?utm_campaign=1053&utm_source=git)** | St Paul, MN, US | On Site | Jun 25 |
-| **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a3ddb70882f121f56a39079?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Jun 25 |
-| ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a3ddb69d261407de980212b?utm_campaign=1053&utm_source=git)** | Savannah, GA | On Site | Jun 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
