@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Red Aspen](https://www.redaspenlove.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/6a31eabee7b7d514a3bd63da?utm_campaign=1053&utm_source=git)** | Meridian, ID | On Site | Jul 01 |
 | **[University of Pennsylvania](https://www.dentalcareburke.com/)** | **[Summer Intern](https://jobright.ai/jobs/info/6a45c48b076271587529df90?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Jul 01 |
 | **[Utah Jazz](http://www.nba.com/jazz)** | **[Broadcast Intern](https://jobright.ai/jobs/info/6a4597a43dbab558e29a1bf7?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Jul 01 |
 | **[LKCM Media Group](www.lkcmmedia.com)** | **[Internship: Sports Media Intern](https://jobright.ai/jobs/info/6a4592d7971cd25b06f893fe?utm_campaign=1053&utm_source=git)** | Fort Worth, TX | On Site | Jul 01 |
@@ -88,7 +89,6 @@ For a complete list, click the following sortable link below:
 | **[The State University of New York](https://www.suny.edu)** | **[SUNY Art Exhibitions Internship](https://jobright.ai/jobs/info/6a42c8126faf756060967f34?utm_campaign=1053&utm_source=git)** | Albany, NY | On Site | Jun 29 |
 | **[NBCUniversal](https://www.nbcuniversal.com/)** | **[San Diego Station (NBC 7/T20) Digital Internship - Fall 2026](https://jobright.ai/jobs/info/6a42c1fa6faf756060967e1b?utm_campaign=1053&utm_source=git)** | 9680 Granite Ridge Drive, San Diego, CALIFORNIA | On Site | Jun 29 |
 | ↳ | **[San Diego Station (NBC 7/T20) Digital Internship - Fall 2026](https://jobright.ai/jobs/info/6a42d8126faf7560609683b8?utm_campaign=1053&utm_source=git)** | San Diego, CA | On Site | Jun 29 |
-| **[Red Aspen](https://www.redaspenlove.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/6a31eabee7b7d514a3bd63da?utm_campaign=1053&utm_source=git)** | Meridian, ID | On Site | Jun 29 |
 | **[ACLU](https://www.aclu.org/)** | **[Fall 2026 Undergraduate Intern, Communications- Brand Studio, Multimedia](https://jobright.ai/jobs/info/6a42b4f96faf756060967a61?utm_campaign=1053&utm_source=git)** | Remote/Hybrid- NY | Hybrid | Jun 29 |
 | **[Augierai.com](https://www.augierai.com)** | **[Video Editing Intern — NYC](https://jobright.ai/jobs/info/6a42aafdff87fd527f9851a8?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jun 29 |
 | **[Fox News Media](https://www.foxnews.com/)** | **[Fall 2026 FOX News Media Internship Program - FOX Noticias - New York](https://jobright.ai/jobs/info/6a0accd8a203b1052e44eee9?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jun 29 |
