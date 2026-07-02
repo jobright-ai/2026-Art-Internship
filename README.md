@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Evolve Studios®](https://evolve.studio)** | **[Assistant Editor Internship](https://jobright.ai/jobs/info/6a42d4796a9c2774b3fa77aa?utm_campaign=1053&utm_source=git)** | Franklin, TN | On Site | Jul 01 |
 | **[Red Aspen](https://www.redaspenlove.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/6a31eabee7b7d514a3bd63da?utm_campaign=1053&utm_source=git)** | Meridian, ID | On Site | Jul 01 |
 | **[University of Pennsylvania](https://www.dentalcareburke.com/)** | **[Summer Intern](https://jobright.ai/jobs/info/6a45c48b076271587529df90?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Jul 01 |
 | **[Utah Jazz](http://www.nba.com/jazz)** | **[Broadcast Intern](https://jobright.ai/jobs/info/6a4597a43dbab558e29a1bf7?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Jul 01 |
@@ -66,12 +67,10 @@ For a complete list, click the following sortable link below:
 | **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a4576bf3dbab558e29a158b?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | Jul 01 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a45bc4d0dd56c76cc2f430b?utm_campaign=1053&utm_source=git)** | Columbia, SC | On Site | Jul 01 |
 | **[Operater](https://operater.io)** | **[Content Creator Internship(English)](https://jobright.ai/jobs/info/6a45627c971cd25b06f88b20?utm_campaign=1053&utm_source=git)** | United States | Remote | Jul 01 |
-| **[Swish Cultures](https://www.instagram.com/swishcultures/)** | **[Social Video Editor & Producer Intern](https://jobright.ai/jobs/info/6a453d4248d2f00f2a86cdbc?utm_campaign=1053&utm_source=git)** | United States | Remote | Jul 01 |
 | **[MATTE Projects](https://matteprojects.com/)** | **[Experiential Production Internship: Fall 2026 (On-site, NYC)](https://jobright.ai/jobs/info/6a32fe397f3fdd180d4c4d6d?utm_campaign=1053&utm_source=git)** | New York, New York | On Site | Jul 01 |
 | **[Willkie Farr & Gallagher LLP](http://www.willkie.com)** | **[Video Production Intern - New York](https://jobright.ai/jobs/info/6a44dc00497c084dcfb59deb?utm_campaign=1053&utm_source=git)** | New York, NY, US | On Site | Jul 01 |
 | **[Willkie Farr & Gallagher LLP](http://www.willkie.com)** | **[Video Production Intern - New York](https://jobright.ai/jobs/info/6a447527b156014e414bc844?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jun 30 |
 | **[Satechi](http://www.satechi.net/)** | **[Social Media/Content Intern](https://jobright.ai/jobs/info/6a35ac60ce501060b5cf5453?utm_campaign=1053&utm_source=git)** | Scripps Summit Ct, CA | On Site | Jun 30 |
-| **[Utah Jazz](http://www.nba.com/jazz)** | **[Creative Production Intern](https://jobright.ai/jobs/info/6a44460c105260150b721882?utm_campaign=1053&utm_source=git)** | Sandy, UT | On Site | Jun 30 |
 | **[University of South Florida](http://health.usf.edu/medicine/)** | **[IAE Videography Internship – Fall 2026](https://jobright.ai/jobs/info/6a43d88665e80d3c99f29a2b?utm_campaign=1053&utm_source=git)** | Tampa, FL | On Site | Jun 30 |
 | **[D.C. United](http://dcunited.com)** | **[Intern- Match Presentation Intern (Fall 2026)](https://jobright.ai/jobs/info/6a445f62ef17a815538a3ddd?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Jun 30 |
 | **[The Recap Group Inc.](https://therecap.group)** | **[Video Editor Internship / In-Person / Stipend Provided](https://jobright.ai/jobs/info/6a4463990153061b8b3e0450?utm_campaign=1053&utm_source=git)** | Brooklyn, NY | On Site | Jun 30 |
@@ -83,7 +82,6 @@ For a complete list, click the following sortable link below:
 | **[goodr](https://goodr.com)** | **[Production Intern](https://jobright.ai/jobs/info/6a433ced501d340b4a82eccb?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Jun 29 |
 | **[University of South Florida](http://health.usf.edu/medicine/)** | **[IAE Videography Internship – Fall 2026](https://jobright.ai/jobs/info/6a43ca79ef17a815538a04c1?utm_campaign=1053&utm_source=git)** | 4202 E Fowler Ave, Tampa, FL, 33620, US | On Site | Jun 29 |
 | **[Hasana, Inc.](http://shophasana.com)** | **[Writers & Journalists Intern/Volunteer](https://jobright.ai/jobs/info/6a432e91cbf92c7bcd36e2b9?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Jun 29 |
-| **[Evolve Studios®](https://evolve.studio)** | **[Assistant Editor Internship](https://jobright.ai/jobs/info/6a42d4796a9c2774b3fa77aa?utm_campaign=1053&utm_source=git)** | Franklin, TN | On Site | Jun 29 |
 | **[Aptara](http://www.aptaracorp.com)** | **[Editorial Intern](https://jobright.ai/jobs/info/6a42d53d6c326942b4e84541?utm_campaign=1053&utm_source=git)** | US | Remote | Jun 29 |
 | **[Magnet Media, Inc.](http://www.magnetmediafilms.com)** | **[Production Intern Fall 2027](https://jobright.ai/jobs/info/6a42cfd01cc9cc2b12fece84?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jun 29 |
 | **[The State University of New York](https://www.suny.edu)** | **[SUNY Art Exhibitions Internship](https://jobright.ai/jobs/info/6a42c8126faf756060967f34?utm_campaign=1053&utm_source=git)** | Albany, NY | On Site | Jun 29 |
@@ -95,7 +93,8 @@ For a complete list, click the following sortable link below:
 | **[Phillips](http://phillips.com/)** | **[Fall Modern & Contemporary Editions Internship](https://jobright.ai/jobs/info/6a4283906a9c2774b3fa642d?utm_campaign=1053&utm_source=git)** | New York, New York, United States | On Site | Jun 29 |
 | **[Jpixx LLC](https://jpixx.com/)** | **[Video Production Intern (Paid/Entry Level)](https://jobright.ai/jobs/info/6a424d5e1cc9cc2b12feb613?utm_campaign=1053&utm_source=git)** | 372 S Independence Blvd, Virginia Beach, VA 23452, USA | On Site | Jun 29 |
 | **[Codexa Labs Private Limited](https://codexalabs.io/)** | **[Video Editing Intern](https://jobright.ai/jobs/info/6a423ed9557b3862f15e0960?utm_campaign=1053&utm_source=git)** | United States | Remote | Jun 28 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[ESPN Creative Studio Production Assistant Intern, New York City, Fall 2026](https://jobright.ai/jobs/info/6a4123059dd7f954cafe8997?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jun 28 |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[ESPN Creative Studio Production Assistant Intern, New York City, Fall 2026](https://jobright.ai/jobs/info/6a45ebe40dd56c76cc2f50d6?utm_campaign=1053&utm_source=git)** | New York, New York, United States of America | On Site | Jun 28 |
+| ↳ | **[ESPN Creative Studio Production Assistant Intern, New York City, Fall 2026](https://jobright.ai/jobs/info/6a4123059dd7f954cafe8997?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jun 28 |
 | ↳ | **[ESPN Social Intern, Remote, Fall 2026](https://jobright.ai/jobs/info/6a41230b9dd7f954cafe899a?utm_campaign=1053&utm_source=git)** | Bristol, CT | Remote | Jun 28 |
 | **[KCRA 3 & My58 Television](http://www.kcra.com)** | **[Intern (Fall)](https://jobright.ai/jobs/info/6a25615c757ade085b6b19d2?utm_campaign=1053&utm_source=git)** | Sacramento, CA | On Site | Jun 28 |
 | **[American Enterprise Institute](http://www.aei.org)** | **[Fall Intern: Editing Services](https://jobright.ai/jobs/info/6a4052229dd7f954cafe7f3a?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Jun 27 |
@@ -114,6 +113,7 @@ For a complete list, click the following sortable link below:
 | **[Advisors Excel](http://advisorsexcel.com)** | **[Books Program Intern](https://jobright.ai/jobs/info/6a065348f3d6cc51d63926de?utm_campaign=1053&utm_source=git)** | Topeka Metropolitan Area | On Site | Jun 26 |
 | **[Utah Royals](www.utahroyals.com)** | **[Videography Internship](https://jobright.ai/jobs/info/6a424766557b3862f15e0b3d?utm_campaign=1053&utm_source=git)** | Herriman, Utah, United States | On Site | Jun 26 |
 | **[Advisors Excel](http://advisorsexcel.com)** | **[Books Program Intern](https://jobright.ai/jobs/info/6a0785c23b54ed42d74cefbb?utm_campaign=1053&utm_source=git)** | 2950 SW McClure Rd, Topeka, KS | On Site | Jun 26 |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[ESPN Digital Video Newsroom Intern, Remote, Fall 2026](https://jobright.ai/jobs/info/6a45ec45971cd25b06f8a7f8?utm_campaign=1053&utm_source=git)** | Bristol, Connecticut, United States of America | Remote | Jun 25 |
 | **[Minnesota Historical Society](http://www.mnhs.org/)** | **[Intern - MN Queer History StoryMap](https://jobright.ai/jobs/info/6a3e01aa882f121f56a3958a?utm_campaign=1053&utm_source=git)** | St Paul, MN, US | On Site | Jun 25 |
 | ↳ | **[MN Queer History StoryMap Intern](https://jobright.ai/jobs/info/6a3e0021882f121f56a394ce?utm_campaign=1053&utm_source=git)** | St Paul, MN, US | On Site | Jun 25 |
 | **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a3ddb70882f121f56a39079?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Jun 25 |
