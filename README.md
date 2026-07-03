@@ -59,6 +59,7 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Detroit Institute of Arts](http://www.dia.org/)** | **[Digital Archivist Intern](https://jobright.ai/jobs/info/6a46ce394f64ba41dcb54efa?utm_campaign=1053&utm_source=git)** | Detroit, MI, US | On Site | Jul 02 |
 | **[Red Aspen](https://www.redaspenlove.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/6a31eabee7b7d514a3bd63da?utm_campaign=1053&utm_source=git)** | Meridian, ID | On Site | Jul 02 |
+| **[World Elite Realty](http://www.werlty.com)** | **[Student Intern Video Editing and Media](https://jobright.ai/jobs/info/6a4724758204a812e98cb116?utm_campaign=1053&utm_source=git)** | Houston, TX | On Site | Jul 02 |
 | **[North Carolina Sea Grant](https://ncseagrant.ncsu.edu/)** | **[Graduate Student Science Outreach Intern](https://jobright.ai/jobs/info/6a4714534f64ba41dcb55ddf?utm_campaign=1053&utm_source=git)** | Raleigh, NC | Remote | Jul 02 |
 | **[University of Pennsylvania](https://www.dentalcareburke.com/)** | **[Summer Intern](https://jobright.ai/jobs/info/6a46ba33971cd25b06f8ff1a?utm_campaign=1053&utm_source=git)** | Ralston House, US | On Site | Jul 02 |
 | **[Clutch Content Partners](http://www.likesuperclutch.com)** | **[Production Intern](https://jobright.ai/jobs/info/6a46b47b971cd25b06f8fdce?utm_campaign=1053&utm_source=git)** | Miami, FL | On Site | Jul 02 |
@@ -116,6 +117,4 @@ For a complete list, click the following sortable link below:
 | **[Kroenke Sports & Entertainment](https://www.ballarena.com)** | **[Video Production Intern- Colorado Avalanche](https://jobright.ai/jobs/info/6a3ec89e122f340d29cf4a04?utm_campaign=1053&utm_source=git)** | Denver, CO | On Site | Jun 26 |
 | **[Axis Communications](http://www.axis.com/)** | **[Video Production Intern](https://jobright.ai/jobs/info/6a3e88e64d047136e0936834?utm_campaign=1053&utm_source=git)** | Chelmsford, MA, USA | On Site | Jun 26 |
 | **[Safe Passage Project](https://www.safepassageproject.org)** | **[Animation & Storytelling Intern](https://jobright.ai/jobs/info/6a2c34dd7cd40a338fae52d0?utm_campaign=1053&utm_source=git)** | NYC, NY | Hybrid | Jun 26 |
-| **[Advisors Excel](http://advisorsexcel.com)** | **[Books Program Intern](https://jobright.ai/jobs/info/6a065348f3d6cc51d63926de?utm_campaign=1053&utm_source=git)** | Topeka Metropolitan Area | On Site | Jun 26 |
-| **[Utah Royals](www.utahroyals.com)** | **[Videography Internship](https://jobright.ai/jobs/info/6a424766557b3862f15e0b3d?utm_campaign=1053&utm_source=git)** | Herriman, Utah, United States | On Site | Jun 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
