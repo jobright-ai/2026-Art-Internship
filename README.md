@@ -59,6 +59,7 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Detroit Institute of Arts](http://www.dia.org/)** | **[Digital Archivist Intern](https://jobright.ai/jobs/info/6a46ce394f64ba41dcb54efa?utm_campaign=1053&utm_source=git)** | Detroit, MI, US | On Site | Jul 02 |
 | **[Red Aspen](https://www.redaspenlove.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/6a31eabee7b7d514a3bd63da?utm_campaign=1053&utm_source=git)** | Meridian, ID | On Site | Jul 02 |
+| **[North Carolina Sea Grant](https://ncseagrant.ncsu.edu/)** | **[Graduate Student Science Outreach Intern](https://jobright.ai/jobs/info/6a4714534f64ba41dcb55ddf?utm_campaign=1053&utm_source=git)** | Raleigh, NC | Remote | Jul 02 |
 | **[University of Pennsylvania](https://www.dentalcareburke.com/)** | **[Summer Intern](https://jobright.ai/jobs/info/6a46ba33971cd25b06f8ff1a?utm_campaign=1053&utm_source=git)** | Ralston House, US | On Site | Jul 02 |
 | **[Clutch Content Partners](http://www.likesuperclutch.com)** | **[Production Intern](https://jobright.ai/jobs/info/6a46b47b971cd25b06f8fdce?utm_campaign=1053&utm_source=git)** | Miami, FL | On Site | Jul 02 |
 | **[Behaviour Interactive](http://www.bhvr.com/)** | **[Narrative Designer - Internship Fall 2026 / Concepteur·rice de narratif - Stage Automne 2026](https://jobright.ai/jobs/info/6a468c458204a812e98c8d2c?utm_campaign=1053&utm_source=git)** | Toronto, ON | Hybrid | Jul 02 |
@@ -108,8 +109,8 @@ For a complete list, click the following sortable link below:
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid News Intern](https://jobright.ai/jobs/info/6972b01a9b83b424830eb8a4?utm_campaign=1053&utm_source=git)** | IN-Indianapolis;6910 Network Place (Tribune-WXIN/WTTV) | On Site | Jun 27 |
 | **[ESPN](http://espncareers.com)** | **[ESPN Digital Video Newsroom Intern, Remote, Fall 2026](https://jobright.ai/jobs/info/6a3fd277d528ac2915f95c49?utm_campaign=1053&utm_source=git)** | Bristol, CT | Remote | Jun 27 |
 | **[Miller Sports + Entertainment](https://millerse.com/)** | **[Videography Internship](https://jobright.ai/jobs/info/6a3f61ba4d047136e093947e?utm_campaign=1053&utm_source=git)** | Sandy, UT | On Site | Jun 26 |
-| **[Ottawa Sports and Entertainment Group (OSEG)](http://www.tdplace.ca)** | **[Intern, Events and Entertainment](https://jobright.ai/jobs/info/6a3f51a8882f121f56a3cf02?utm_campaign=1053&utm_source=git)** | Ottawa, ON, CA | On Site | Jun 26 |
-| ↳ | **[Intern, Digital Media and Content](https://jobright.ai/jobs/info/6a3f51a8d261407de98060b2?utm_campaign=1053&utm_source=git)** | Ottawa, ON, CA | On Site | Jun 26 |
+| **[Ottawa Sports and Entertainment Group (OSEG)](http://www.tdplace.ca)** | **[Intern, Digital Media and Content](https://jobright.ai/jobs/info/6a3f51a8d261407de98060b2?utm_campaign=1053&utm_source=git)** | Ottawa, ON, CA | On Site | Jun 26 |
+| ↳ | **[Intern, Events and Entertainment](https://jobright.ai/jobs/info/6a3f51a8882f121f56a3cf02?utm_campaign=1053&utm_source=git)** | Ottawa, ON, CA | On Site | Jun 26 |
 | **[D.C. United](http://dcunited.com)** | **[Intern- D.C. United Videographer Internship (Fall 2026)](https://jobright.ai/jobs/info/6a3f2cf04d047136e0938e9b?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Jun 26 |
 | **[Worcester Railers HC](https://www.railershc.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/6a3ed8af122f340d29cf4db6?utm_campaign=1053&utm_source=git)** | Worcester, MA | On Site | Jun 26 |
 | **[Kroenke Sports & Entertainment](https://www.ballarena.com)** | **[Video Production Intern- Colorado Avalanche](https://jobright.ai/jobs/info/6a3ec89e122f340d29cf4a04?utm_campaign=1053&utm_source=git)** | Denver, CO | On Site | Jun 26 |
@@ -117,5 +118,4 @@ For a complete list, click the following sortable link below:
 | **[Safe Passage Project](https://www.safepassageproject.org)** | **[Animation & Storytelling Intern](https://jobright.ai/jobs/info/6a2c34dd7cd40a338fae52d0?utm_campaign=1053&utm_source=git)** | NYC, NY | Hybrid | Jun 26 |
 | **[Advisors Excel](http://advisorsexcel.com)** | **[Books Program Intern](https://jobright.ai/jobs/info/6a065348f3d6cc51d63926de?utm_campaign=1053&utm_source=git)** | Topeka Metropolitan Area | On Site | Jun 26 |
 | **[Utah Royals](www.utahroyals.com)** | **[Videography Internship](https://jobright.ai/jobs/info/6a424766557b3862f15e0b3d?utm_campaign=1053&utm_source=git)** | Herriman, Utah, United States | On Site | Jun 26 |
-| **[Advisors Excel](http://advisorsexcel.com)** | **[Books Program Intern](https://jobright.ai/jobs/info/6a0785c23b54ed42d74cefbb?utm_campaign=1053&utm_source=git)** | 2950 SW McClure Rd, Topeka, KS | On Site | Jun 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
