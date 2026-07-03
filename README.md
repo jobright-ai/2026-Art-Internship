@@ -112,5 +112,4 @@ For a complete list, click the following sortable link below:
 | **[Ottawa Sports and Entertainment Group (OSEG)](http://www.tdplace.ca)** | **[Intern, Events and Entertainment](https://jobright.ai/jobs/info/6a3f51a8882f121f56a3cf02?utm_campaign=1053&utm_source=git)** | Ottawa, ON, CA | On Site | Jun 26 |
 | ↳ | **[Intern, Digital Media and Content](https://jobright.ai/jobs/info/6a3f51a8d261407de98060b2?utm_campaign=1053&utm_source=git)** | Ottawa, ON, CA | On Site | Jun 26 |
 | **[D.C. United](http://dcunited.com)** | **[Intern- D.C. United Videographer Internship (Fall 2026)](https://jobright.ai/jobs/info/6a3f2cf04d047136e0938e9b?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Jun 26 |
-| **[Worcester Railers HC](https://www.railershc.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/6a3ed8af122f340d29cf4db6?utm_campaign=1053&utm_source=git)** | Worcester, MA | On Site | Jun 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
