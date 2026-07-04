@@ -106,5 +106,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[ESPN Creative Studio Production Assistant Intern, New York City, Fall 2026](https://jobright.ai/jobs/info/6a4123059dd7f954cafe8997?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jun 28 |
 | **[KCRA 3 & My58 Television](http://www.kcra.com)** | **[Intern (Fall)](https://jobright.ai/jobs/info/6a25615c757ade085b6b19d2?utm_campaign=1053&utm_source=git)** | Sacramento, CA | On Site | Jun 28 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid News Intern](https://jobright.ai/jobs/info/69b1c6a4548f140066e79343?utm_campaign=1053&utm_source=git)** | Wichita, KS | On Site | Jun 28 |
-| **[American Enterprise Institute](http://www.aei.org)** | **[Fall Intern: Editing Services](https://jobright.ai/jobs/info/6a4052229dd7f954cafe7f3a?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Jun 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
