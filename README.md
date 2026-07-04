@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Inspova](www.inspova.ai)** | **[Creator Operations Intern](https://jobright.ai/jobs/info/6a4859fa4f64ba41dcb58dd4?utm_campaign=1053&utm_source=git)** | San Jose, CA | On Site | Jul 03 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid News Intern](https://jobright.ai/jobs/info/6972b01a9b83b424830eb8a4?utm_campaign=1053&utm_source=git)** | IN-Indianapolis;6910 Network Place (Tribune-WXIN/WTTV) | On Site | Jul 03 |
 | **[Brennan Center for Justice](http://www.brennancenter.org/)** | **[Fall 2026 Editorial Undergraduate Internship](https://jobright.ai/jobs/info/6a394b6a649fdf16293000ab?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jul 03 |
 | **[Detroit Institute of Arts](http://www.dia.org/)** | **[Digital Archivist Intern](https://jobright.ai/jobs/info/6a46ce394f64ba41dcb54efa?utm_campaign=1053&utm_source=git)** | Detroit, MI, US | On Site | Jul 02 |
