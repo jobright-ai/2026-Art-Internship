@@ -108,5 +108,4 @@ For a complete list, click the following sortable link below:
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid News Intern](https://jobright.ai/jobs/info/69b1c6a4548f140066e79343?utm_campaign=1053&utm_source=git)** | Wichita, KS | On Site | Jun 28 |
 | **[American Enterprise Institute](http://www.aei.org)** | **[Fall Intern: Editing Services](https://jobright.ai/jobs/info/6a4052229dd7f954cafe7f3a?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Jun 27 |
 | **[The Laziena Experience](www.laziena.com)** | **[Unpaid Creative Internship: Podcast Editing + Social Clip Storytelling](https://jobright.ai/jobs/info/6a4022173bfa967791ebff16?utm_campaign=1053&utm_source=git)** | St. Petersburg, FL | Remote | Jun 27 |
-| **[ESPN](http://espncareers.com)** | **[ESPN Digital Video Newsroom Intern, Remote, Fall 2026](https://jobright.ai/jobs/info/6a3fd277d528ac2915f95c49?utm_campaign=1053&utm_source=git)** | Bristol, CT | Remote | Jun 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
