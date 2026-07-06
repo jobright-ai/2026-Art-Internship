@@ -102,5 +102,4 @@ For a complete list, click the following sortable link below:
 | **[ACLU](https://www.aclu.org/)** | **[Fall 2026 Undergraduate Intern, Communications- Brand Studio, Multimedia](https://jobright.ai/jobs/info/6a42b4f96faf756060967a61?utm_campaign=1053&utm_source=git)** | Remote/Hybrid- NY | Remote | Jun 29 |
 | **[Fox News Media](https://www.foxnews.com/)** | **[Fall 2026 FOX News Media Internship Program - FOX Noticias - New York](https://jobright.ai/jobs/info/6a0accd8a203b1052e44eee9?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jun 29 |
 | **[Phillips](http://phillips.com/)** | **[Fall Modern & Contemporary Editions Internship](https://jobright.ai/jobs/info/6a4283906a9c2774b3fa642d?utm_campaign=1053&utm_source=git)** | New York, New York, United States | On Site | Jun 29 |
-| **[Codexa Labs Private Limited](https://codexalabs.io/)** | **[Video Editing Intern](https://jobright.ai/jobs/info/6a423ed9557b3862f15e0960?utm_campaign=1053&utm_source=git)** | United States | Remote | Jun 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
