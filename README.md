@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Olympic Club](http://www.olyclub.com)** | **[PGA Intern](https://jobright.ai/jobs/info/6a4bfe81c2d11a6a46679906?utm_campaign=1053&utm_source=git)** | San Francisco, CA, US | On Site | Jul 06 |
 | **[Tigerlily Foundation](https://www.tigerlilyfoundation.org)** | **[Editorial & Publication Management Intern](https://jobright.ai/jobs/info/6a4bfb535d7b097d2df3efd2?utm_campaign=1053&utm_source=git)** | United States | Remote | Jul 06 |
 | **[Fox Corporation](https://www.foxcorporation.com)** | **[Fall 2026 Big Ten Network Internship Program - Chicago](https://jobright.ai/jobs/info/6a4bfa114f64ba41dcb5dfd0?utm_campaign=1053&utm_source=git)** | Chicago, Illinois, USA | On Site | Jul 06 |
 | **[The Washington Post](http://www.washingtonpost.com/)** | **[Opinion Editing Intern](https://jobright.ai/jobs/info/6958f629f1f8465b79ef94b9?utm_campaign=1053&utm_source=git)** | DC-Washington-TWP Headquarters | On Site | Jul 06 |
@@ -91,6 +92,4 @@ For a complete list, click the following sortable link below:
 | **[Our National Conversation (ONC)](https://www.ournationalconversation.org)** | **[Moderate Writer Intern](https://jobright.ai/jobs/info/6a43c03bef17a815538a0386?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Remote | Jun 30 |
 | **[Iacofano's Catering & Events](www.iacofanos.com)** | **[Catering Expo / QA Coordinator – Steady Hours](https://jobright.ai/jobs/info/6a4640823dbab558e29a586d?utm_campaign=1053&utm_source=git)** | Brook Park,OH,US | On Site | Jun 30 |
 | **[Tuff City Records](http://www.tuffcity.com)** | **[Journalism Intern](https://jobright.ai/jobs/info/6a4347f2b0f2553559ecf9b6?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jun 29 |
-| **[University of Utah](http://utah.edu)** | **[Content Creator - Storyteller Intern](https://jobright.ai/jobs/info/6a433ee2cbf92c7bcd36f4bf?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Jun 29 |
-| **[goodr](https://goodr.com)** | **[Production Intern](https://jobright.ai/jobs/info/6a433ced501d340b4a82eccb?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Jun 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
