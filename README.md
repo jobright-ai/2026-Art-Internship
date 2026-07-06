@@ -90,5 +90,4 @@ For a complete list, click the following sortable link below:
 | **[University of Utah](http://utah.edu)** | **[Content Creator - Storyteller Intern](https://jobright.ai/jobs/info/6a433ee2cbf92c7bcd36f4bf?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Jun 29 |
 | **[goodr](https://goodr.com)** | **[Production Intern](https://jobright.ai/jobs/info/6a433ced501d340b4a82eccb?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Jun 29 |
 | **[Hasana, Inc.](http://shophasana.com)** | **[Writers & Journalists Intern/Volunteer](https://jobright.ai/jobs/info/6a432e91cbf92c7bcd36e2b9?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Jun 29 |
-| **[International Rescue Committee](http://www.rescue.org)** | **[Development Intern (Unpaid)](https://jobright.ai/jobs/info/6a461c780dd56c76cc2f6033?utm_campaign=1053&utm_source=git)** | New York, NY, US | Hybrid | Jun 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
