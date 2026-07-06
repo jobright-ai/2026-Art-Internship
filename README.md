@@ -57,10 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[FOX Sports](http://foxsports.com)** | **[Fall 2026 Big Ten Network Internship Program - Chicago](https://jobright.ai/jobs/info/6a4c0654c2d11a6a46679a43?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Jul 06 |
 | **[The Olympic Club](http://www.olyclub.com)** | **[PGA Intern](https://jobright.ai/jobs/info/6a4bfe81c2d11a6a46679906?utm_campaign=1053&utm_source=git)** | San Francisco, CA, US | On Site | Jul 06 |
 | **[Tigerlily Foundation](https://www.tigerlilyfoundation.org)** | **[Editorial & Publication Management Intern](https://jobright.ai/jobs/info/6a4bfb535d7b097d2df3efd2?utm_campaign=1053&utm_source=git)** | United States | Remote | Jul 06 |
 | **[Fox Corporation](https://www.foxcorporation.com)** | **[Fall 2026 Big Ten Network Internship Program - Chicago](https://jobright.ai/jobs/info/6a4bfa114f64ba41dcb5dfd0?utm_campaign=1053&utm_source=git)** | Chicago, Illinois, USA | On Site | Jul 06 |
 | **[The Washington Post](http://www.washingtonpost.com/)** | **[Opinion Editing Intern](https://jobright.ai/jobs/info/6958f629f1f8465b79ef94b9?utm_campaign=1053&utm_source=git)** | DC-Washington-TWP Headquarters | On Site | Jul 06 |
+| **[Mesa Chamber of Commerce](http://www.mesachamber.org)** | **[Videographer Intern](https://jobright.ai/jobs/info/6a4c067e4eb370649b27bea5?utm_campaign=1053&utm_source=git)** | Mesa, AZ | On Site | Jul 06 |
 | **[Hockey Helps the Homeless](https://www.hockeyhelpsthehomeless.com)** | **[Event Operations Intern (4 months)](https://jobright.ai/jobs/info/6a4bd2314f64ba41dcb5d49f?utm_campaign=1053&utm_source=git)** | Richmond Hill, Ontario, Canada | Hybrid | Jul 06 |
 | **[LYNA](https://www.lynacycle.app/)** | **[Creative Storytelling Intern (Womens Health & AI)](https://jobright.ai/jobs/info/6a4be2b24f64ba41dcb5d9d0?utm_campaign=1053&utm_source=git)** | New York, NY | Remote | Jul 06 |
 | **[Elite Podcast Studio](ElitePodcastStudio.com)** | **[Content Creator Intern (AI & Media Production Training)](https://jobright.ai/jobs/info/6a4ac72f3dbab558e29af4bc?utm_campaign=1053&utm_source=git)** | Odessa, FL | On Site | Jul 05 |
@@ -72,7 +74,6 @@ For a complete list, click the following sortable link below:
 | **[North Carolina Sea Grant](https://ncseagrant.ncsu.edu/)** | **[Graduate Student Science Outreach Intern](https://jobright.ai/jobs/info/6a4714534f64ba41dcb55ddf?utm_campaign=1053&utm_source=git)** | Raleigh, NC | Remote | Jul 02 |
 | **[University of Pennsylvania](https://www.dentalcareburke.com/)** | **[Summer Intern](https://jobright.ai/jobs/info/6a46ba33971cd25b06f8ff1a?utm_campaign=1053&utm_source=git)** | Ralston House, US | On Site | Jul 02 |
 | **[Clutch Content Partners](http://www.likesuperclutch.com)** | **[Production Intern](https://jobright.ai/jobs/info/6a46b47b971cd25b06f8fdce?utm_campaign=1053&utm_source=git)** | Miami, FL | On Site | Jul 02 |
-| **[Behaviour Interactive](http://www.bhvr.com/)** | **[Narrative Designer - Internship Fall 2026 / Concepteur·rice de narratif - Stage Automne 2026](https://jobright.ai/jobs/info/6a468c458204a812e98c8d2c?utm_campaign=1053&utm_source=git)** | Toronto, ON | Hybrid | Jul 02 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Paid Intern (Photojournalist/Multi-Media Journalist/Producer)](https://jobright.ai/jobs/info/69f179ef8feca91f149202ba?utm_campaign=1053&utm_source=git)** | Wichita, KS | On Site | Jul 02 |
 | **[WMUR-TV](http://www.wmur.com/)** | **[Creative Services Intern](https://jobright.ai/jobs/info/69ba8f1506c1ba00c54ca4eb?utm_campaign=1053&utm_source=git)** | Manchester, NH | On Site | Jul 02 |
 | **[Sony Music Entertainment](http://www.sonymusic.com)** | **[Intern, Radio & Artist Engagement](https://jobright.ai/jobs/info/6a43b0a28208843cea1f253a?utm_campaign=1053&utm_source=git)** | Canada, Ontario, Toronto | On Site | Jul 02 |
@@ -91,5 +92,4 @@ For a complete list, click the following sortable link below:
 | **[Namify](http://namify.com)** | **[Videographer Intern](https://jobright.ai/jobs/info/6a4650b14f64ba41dcb51f1e?utm_campaign=1053&utm_source=git)** | Springville,UT,US | On Site | Jun 30 |
 | **[Our National Conversation (ONC)](https://www.ournationalconversation.org)** | **[Moderate Writer Intern](https://jobright.ai/jobs/info/6a43c03bef17a815538a0386?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Remote | Jun 30 |
 | **[Iacofano's Catering & Events](www.iacofanos.com)** | **[Catering Expo / QA Coordinator – Steady Hours](https://jobright.ai/jobs/info/6a4640823dbab558e29a586d?utm_campaign=1053&utm_source=git)** | Brook Park,OH,US | On Site | Jun 30 |
-| **[Tuff City Records](http://www.tuffcity.com)** | **[Journalism Intern](https://jobright.ai/jobs/info/6a4347f2b0f2553559ecf9b6?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jun 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
