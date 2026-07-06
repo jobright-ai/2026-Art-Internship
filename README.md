@@ -58,7 +58,6 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[FOX Sports](http://foxsports.com)** | **[Fall 2026 Big Ten Network Internship Program - Chicago](https://jobright.ai/jobs/info/6a4c0654c2d11a6a46679a43?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Jul 06 |
-| **[The Olympic Club](http://www.olyclub.com)** | **[PGA Intern](https://jobright.ai/jobs/info/6a4bfe81c2d11a6a46679906?utm_campaign=1053&utm_source=git)** | San Francisco, CA, US | On Site | Jul 06 |
 | **[Tigerlily Foundation](https://www.tigerlilyfoundation.org)** | **[Editorial & Publication Management Intern](https://jobright.ai/jobs/info/6a4bfb535d7b097d2df3efd2?utm_campaign=1053&utm_source=git)** | United States | Remote | Jul 06 |
 | **[Fox Corporation](https://www.foxcorporation.com)** | **[Fall 2026 Big Ten Network Internship Program - Chicago](https://jobright.ai/jobs/info/6a4bfa114f64ba41dcb5dfd0?utm_campaign=1053&utm_source=git)** | Chicago, Illinois, USA | On Site | Jul 06 |
 | **[The Washington Post](http://www.washingtonpost.com/)** | **[Opinion Editing Intern](https://jobright.ai/jobs/info/6958f629f1f8465b79ef94b9?utm_campaign=1053&utm_source=git)** | DC-Washington-TWP Headquarters | On Site | Jul 06 |
