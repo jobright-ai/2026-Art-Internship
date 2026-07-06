@@ -93,6 +93,4 @@ For a complete list, click the following sortable link below:
 | **[International Rescue Committee](http://www.rescue.org)** | **[Development Intern (Unpaid)](https://jobright.ai/jobs/info/6a461c780dd56c76cc2f6033?utm_campaign=1053&utm_source=git)** | New York, NY, US | Hybrid | Jun 29 |
 | **[Aptara](http://www.aptaracorp.com)** | **[Editorial Intern](https://jobright.ai/jobs/info/6a42d53d6c326942b4e84541?utm_campaign=1053&utm_source=git)** | US | Remote | Jun 29 |
 | **[Magnet Media, Inc.](http://www.magnetmediafilms.com)** | **[Production Intern Fall 2027](https://jobright.ai/jobs/info/6a42cfd01cc9cc2b12fece84?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jun 29 |
-| **[The State University of New York](https://www.suny.edu)** | **[SUNY Art Exhibitions Internship](https://jobright.ai/jobs/info/6a42c8126faf756060967f34?utm_campaign=1053&utm_source=git)** | Albany, NY | On Site | Jun 29 |
-| **[NBCUniversal](https://www.nbcuniversal.com/)** | **[San Diego Station (NBC 7/T20) Digital Internship - Fall 2026](https://jobright.ai/jobs/info/6a42c1fa6faf756060967e1b?utm_campaign=1053&utm_source=git)** | 9680 Granite Ridge Drive, San Diego, CALIFORNIA | On Site | Jun 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
