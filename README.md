@@ -95,6 +95,4 @@ For a complete list, click the following sortable link below:
 | **[Magnet Media, Inc.](http://www.magnetmediafilms.com)** | **[Production Intern Fall 2027](https://jobright.ai/jobs/info/6a42cfd01cc9cc2b12fece84?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jun 29 |
 | **[The State University of New York](https://www.suny.edu)** | **[SUNY Art Exhibitions Internship](https://jobright.ai/jobs/info/6a42c8126faf756060967f34?utm_campaign=1053&utm_source=git)** | Albany, NY | On Site | Jun 29 |
 | **[NBCUniversal](https://www.nbcuniversal.com/)** | **[San Diego Station (NBC 7/T20) Digital Internship - Fall 2026](https://jobright.ai/jobs/info/6a42c1fa6faf756060967e1b?utm_campaign=1053&utm_source=git)** | 9680 Granite Ridge Drive, San Diego, CALIFORNIA | On Site | Jun 29 |
-| ↳ | **[San Diego Station (NBC 7/T20) Digital Internship - Fall 2026](https://jobright.ai/jobs/info/6a42d8126faf7560609683b8?utm_campaign=1053&utm_source=git)** | San Diego, CA | On Site | Jun 29 |
-| **[ACLU](https://www.aclu.org/)** | **[Fall 2026 Undergraduate Intern, Communications- Brand Studio, Multimedia](https://jobright.ai/jobs/info/6a42b4f96faf756060967a61?utm_campaign=1053&utm_source=git)** | Remote/Hybrid- NY | Remote | Jun 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
