@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Tigerlily Foundation](https://www.tigerlilyfoundation.org)** | **[Editorial & Publication Management Intern](https://jobright.ai/jobs/info/6a4bfb535d7b097d2df3efd2?utm_campaign=1053&utm_source=git)** | United States | Remote | Jul 06 |
+| **[Fox Corporation](https://www.foxcorporation.com)** | **[Fall 2026 Big Ten Network Internship Program - Chicago](https://jobright.ai/jobs/info/6a4bfa114f64ba41dcb5dfd0?utm_campaign=1053&utm_source=git)** | Chicago, Illinois, USA | On Site | Jul 06 |
+| **[The Washington Post](http://www.washingtonpost.com/)** | **[Opinion Editing Intern](https://jobright.ai/jobs/info/6958f629f1f8465b79ef94b9?utm_campaign=1053&utm_source=git)** | DC-Washington-TWP Headquarters | On Site | Jul 06 |
 | **[Hockey Helps the Homeless](https://www.hockeyhelpsthehomeless.com)** | **[Event Operations Intern (4 months)](https://jobright.ai/jobs/info/6a4bd2314f64ba41dcb5d49f?utm_campaign=1053&utm_source=git)** | Richmond Hill, Ontario, Canada | Hybrid | Jul 06 |
 | **[LYNA](https://www.lynacycle.app/)** | **[Creative Storytelling Intern (Womens Health & AI)](https://jobright.ai/jobs/info/6a4be2b24f64ba41dcb5d9d0?utm_campaign=1053&utm_source=git)** | New York, NY | Remote | Jul 06 |
 | **[Elite Podcast Studio](ElitePodcastStudio.com)** | **[Content Creator Intern (AI & Media Production Training)](https://jobright.ai/jobs/info/6a4ac72f3dbab558e29af4bc?utm_campaign=1053&utm_source=git)** | Odessa, FL | On Site | Jul 05 |
@@ -90,5 +93,4 @@ For a complete list, click the following sortable link below:
 | **[Tuff City Records](http://www.tuffcity.com)** | **[Journalism Intern](https://jobright.ai/jobs/info/6a4347f2b0f2553559ecf9b6?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jun 29 |
 | **[University of Utah](http://utah.edu)** | **[Content Creator - Storyteller Intern](https://jobright.ai/jobs/info/6a433ee2cbf92c7bcd36f4bf?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Jun 29 |
 | **[goodr](https://goodr.com)** | **[Production Intern](https://jobright.ai/jobs/info/6a433ced501d340b4a82eccb?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Jun 29 |
-| **[Hasana, Inc.](http://shophasana.com)** | **[Writers & Journalists Intern/Volunteer](https://jobright.ai/jobs/info/6a432e91cbf92c7bcd36e2b9?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Jun 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
