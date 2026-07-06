@@ -91,6 +91,4 @@ For a complete list, click the following sortable link below:
 | **[goodr](https://goodr.com)** | **[Production Intern](https://jobright.ai/jobs/info/6a433ced501d340b4a82eccb?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Jun 29 |
 | **[Hasana, Inc.](http://shophasana.com)** | **[Writers & Journalists Intern/Volunteer](https://jobright.ai/jobs/info/6a432e91cbf92c7bcd36e2b9?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Jun 29 |
 | **[International Rescue Committee](http://www.rescue.org)** | **[Development Intern (Unpaid)](https://jobright.ai/jobs/info/6a461c780dd56c76cc2f6033?utm_campaign=1053&utm_source=git)** | New York, NY, US | Hybrid | Jun 29 |
-| **[Aptara](http://www.aptaracorp.com)** | **[Editorial Intern](https://jobright.ai/jobs/info/6a42d53d6c326942b4e84541?utm_campaign=1053&utm_source=git)** | US | Remote | Jun 29 |
-| **[Magnet Media, Inc.](http://www.magnetmediafilms.com)** | **[Production Intern Fall 2027](https://jobright.ai/jobs/info/6a42cfd01cc9cc2b12fece84?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jun 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
