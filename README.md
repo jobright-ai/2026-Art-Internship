@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[FC Dallas](http://www.fcdallas.com)** | **[2026 Fall Internship / Frisco Bowl / Events](https://jobright.ai/jobs/info/6a4cec673122a76a8fd53998?utm_campaign=1053&utm_source=git)** | Frisco, Texas, United States | On Site | Jul 07 |
 | **[Legendary Entertainment](http://www.legendary.com)** | **[Intern, Nerdist Post Production - Fall 2026](https://jobright.ai/jobs/info/6a4c6da099523700cbff30c5?utm_campaign=1053&utm_source=git)** | Burbank, CA, United States | On Site | Jul 06 |
 | ↳ | **[Intern, Nerdist Editorial - Fall 2026](https://jobright.ai/jobs/info/6a4c6d0dc643fd23fed3a58a?utm_campaign=1053&utm_source=git)** | Burbank,CA,US | On Site | Jul 06 |
 | **[WFYI Public Media](https://www.wfyi.org/)** | **[Digital Content, Radio Intern Fall 2026](https://jobright.ai/jobs/info/6a39a10a06a4fd4b1fabb48a?utm_campaign=1053&utm_source=git)** | Indianapolis, IN | On Site | Jul 06 |
@@ -92,5 +93,4 @@ For a complete list, click the following sortable link below:
 | **[MATTE Projects](https://matteprojects.com/)** | **[Experiential Production Internship: Fall 2026 (On-site, NYC)](https://jobright.ai/jobs/info/6a32fe397f3fdd180d4c4d6d?utm_campaign=1053&utm_source=git)** | New York, New York | On Site | Jul 01 |
 | **[Satechi](http://www.satechi.net/)** | **[Social Media/Content Intern](https://jobright.ai/jobs/info/6a35ac60ce501060b5cf5453?utm_campaign=1053&utm_source=git)** | Scripps Summit Ct, CA | On Site | Jun 30 |
 | **[University of South Florida](http://www.research.usf.edu/rf/sii/)** | **[IAE Videography Internship – Fall 2026](https://jobright.ai/jobs/info/6a43d88665e80d3c99f29a2b?utm_campaign=1053&utm_source=git)** | Tampa, FL | On Site | Jun 30 |
-| **[D.C. United](http://dcunited.com)** | **[Intern- Match Presentation Intern (Fall 2026)](https://jobright.ai/jobs/info/6a445f62ef17a815538a3ddd?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Jun 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
