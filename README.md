@@ -97,5 +97,4 @@ For a complete list, click the following sortable link below:
 | **[University of South Florida](http://www.research.usf.edu/rf/sii/)** | **[IAE Videography Internship – Fall 2026](https://jobright.ai/jobs/info/6a43ca79ef17a815538a04c1?utm_campaign=1053&utm_source=git)** | 4202 E Fowler Ave, Tampa, FL, 33620, US | On Site | Jun 30 |
 | **[Namify](http://namify.com)** | **[Videographer Intern](https://jobright.ai/jobs/info/6a4650b14f64ba41dcb51f1e?utm_campaign=1053&utm_source=git)** | Springville,UT,US | On Site | Jun 30 |
 | **[Our National Conversation (ONC)](https://www.ournationalconversation.org)** | **[Moderate Writer Intern](https://jobright.ai/jobs/info/6a43c03bef17a815538a0386?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Remote | Jun 30 |
-| **[Iacofano's Catering & Events](www.iacofanos.com)** | **[Catering Expo / QA Coordinator – Steady Hours](https://jobright.ai/jobs/info/6a4640823dbab558e29a586d?utm_campaign=1053&utm_source=git)** | Brook Park,OH,US | On Site | Jun 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
