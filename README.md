@@ -96,5 +96,4 @@ For a complete list, click the following sortable link below:
 | **[D.C. United](http://dcunited.com)** | **[Intern- Match Presentation Intern (Fall 2026)](https://jobright.ai/jobs/info/6a445f62ef17a815538a3ddd?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Jun 30 |
 | **[The Recap Group Inc.](https://therecap.group)** | **[Video Editor Internship / In-Person / Stipend Provided](https://jobright.ai/jobs/info/6a4463990153061b8b3e0450?utm_campaign=1053&utm_source=git)** | Brooklyn, NY | On Site | Jun 30 |
 | **[Film Pittsburgh](http://www.FilmPittsburgh.org)** | **[Spring Festival Internship](https://jobright.ai/jobs/info/6a43ed470153061b8b3de9c6?utm_campaign=1053&utm_source=git)** | Pittsburgh, PA | Hybrid | Jun 30 |
-| **[University of South Florida](http://www.research.usf.edu/rf/sii/)** | **[IAE Videography Internship – Fall 2026](https://jobright.ai/jobs/info/6a43ca79ef17a815538a04c1?utm_campaign=1053&utm_source=git)** | 4202 E Fowler Ave, Tampa, FL, 33620, US | On Site | Jun 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
