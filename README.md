@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Eightball AI](https://www.eightball.ai)** | **[Content Creator Intern](https://jobright.ai/jobs/info/6a4d7b273122a76a8fd55bdf?utm_campaign=1053&utm_source=git)** | United States | Remote | Jul 07 |
 | **[Augsburg Fortress Publishers](http://1517.media)** | **[Publishing Operations Intern](https://jobright.ai/jobs/info/6a4d6436d27b2c4dda9b76e3?utm_campaign=1053&utm_source=git)** | Minneapolis, MN, United States | On Site | Jul 07 |
 | **[Open Road Integrated Media Inc.](http://www.openroadmedia.com)** | **[Content Writing Intern (FT/Paid)](https://jobright.ai/jobs/info/6a4d60d1c643fd23fed3cbf6?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Hybrid | Jul 07 |
 | ↳ | **[Content Writing Intern (PT/For-Credit)](https://jobright.ai/jobs/info/6a4d60d035e45603c4bb39c9?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Hybrid | Jul 07 |
@@ -84,7 +85,6 @@ For a complete list, click the following sortable link below:
 | **[Red Aspen](https://www.redaspenlove.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/6a31eabee7b7d514a3bd63da?utm_campaign=1053&utm_source=git)** | Meridian, ID | On Site | Jul 02 |
 | **[North Carolina Sea Grant](https://ncseagrant.ncsu.edu/)** | **[Graduate Student Science Outreach Intern](https://jobright.ai/jobs/info/6a4714534f64ba41dcb55ddf?utm_campaign=1053&utm_source=git)** | Raleigh, NC | Remote | Jul 02 |
 | **[University of Pennsylvania](https://www.dentalcareburke.com/)** | **[Summer Intern](https://jobright.ai/jobs/info/6a46ba33971cd25b06f8ff1a?utm_campaign=1053&utm_source=git)** | Ralston House, US | On Site | Jul 02 |
-| **[Clutch Content Partners](http://www.likesuperclutch.com)** | **[Production Intern](https://jobright.ai/jobs/info/6a46b47b971cd25b06f8fdce?utm_campaign=1053&utm_source=git)** | Miami, FL | On Site | Jul 02 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Paid Intern (Photojournalist/Multi-Media Journalist/Producer)](https://jobright.ai/jobs/info/69f179ef8feca91f149202ba?utm_campaign=1053&utm_source=git)** | Wichita, KS | On Site | Jul 02 |
 | **[WMUR-TV](http://www.wmur.com/)** | **[Creative Services Intern](https://jobright.ai/jobs/info/69ba8f1506c1ba00c54ca4eb?utm_campaign=1053&utm_source=git)** | Manchester, NH | On Site | Jul 02 |
 | **[Sony Music Entertainment](http://www.sonymusic.com)** | **[Intern, Radio & Artist Engagement](https://jobright.ai/jobs/info/6a43b0a28208843cea1f253a?utm_campaign=1053&utm_source=git)** | Canada, Ontario, Toronto | On Site | Jul 02 |
