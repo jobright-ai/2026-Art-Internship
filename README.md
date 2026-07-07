@@ -57,7 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Passport & Co.™](https://linktr.ee/passportandco)** | **[Jetsetter Editorial & Brand Storytelling Intern](https://jobright.ai/jobs/info/6a4d06dc0209ea6fd68507e5?utm_campaign=1053&utm_source=git)** | United States | Remote | Jul 07 |
+| **[Entrepreneurs First](http://www.joinef.com)** | **[Content Creator Intern](https://jobright.ai/jobs/info/6a4d2673d27b2c4dda9b6626?utm_campaign=1053&utm_source=git)** | San Francisco, CA | On Site | Jul 07 |
 | **[FC Dallas](http://www.fcdallas.com)** | **[2026 Fall Internship / Frisco Bowl / Events](https://jobright.ai/jobs/info/6a4cec673122a76a8fd53998?utm_campaign=1053&utm_source=git)** | Frisco, Texas, United States | On Site | Jul 07 |
 | **[Oasis Resource Management Pvt Ltd](http://www.oasis-india.com)** | **[Intern - Video Editor (5)](https://jobright.ai/jobs/info/6a4d0e220209ea6fd6850a1a?utm_campaign=1053&utm_source=git)** | Delhi, NY, United States | On Site | Jul 07 |
 | **[Canyon Entertainment Group](https://canyonentertainmentgroup.com)** | **[Live Event Management Internship](https://jobright.ai/jobs/info/6a4d1fd5d27b2c4dda9b63c0?utm_campaign=1053&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jul 07 |
@@ -94,5 +94,4 @@ For a complete list, click the following sortable link below:
 | **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a4576bf3dbab558e29a158b?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | Jul 01 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a45bc4d0dd56c76cc2f430b?utm_campaign=1053&utm_source=git)** | Columbia, SC | On Site | Jul 01 |
 | **[MATTE Projects](https://matteprojects.com/)** | **[Experiential Production Internship: Fall 2026 (On-site, NYC)](https://jobright.ai/jobs/info/6a32fe397f3fdd180d4c4d6d?utm_campaign=1053&utm_source=git)** | New York, New York | On Site | Jul 01 |
-| **[Satechi](http://www.satechi.net/)** | **[Social Media/Content Intern](https://jobright.ai/jobs/info/6a35ac60ce501060b5cf5453?utm_campaign=1053&utm_source=git)** | Scripps Summit Ct, CA | On Site | Jun 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
