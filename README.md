@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Augsburg Fortress Publishers](http://1517.media)** | **[Publishing Operations Intern](https://jobright.ai/jobs/info/6a4d6436d27b2c4dda9b76e3?utm_campaign=1053&utm_source=git)** | Minneapolis, MN, United States | On Site | Jul 07 |
 | **[Open Road Integrated Media Inc.](http://www.openroadmedia.com)** | **[Content Writing Intern (FT/Paid)](https://jobright.ai/jobs/info/6a4d60d1c643fd23fed3cbf6?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Hybrid | Jul 07 |
 | ↳ | **[Content Writing Intern (PT/For-Credit)](https://jobright.ai/jobs/info/6a4d60d035e45603c4bb39c9?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Hybrid | Jul 07 |
 | **[Entrepreneurs First](http://www.joinef.com)** | **[Content Creator Intern](https://jobright.ai/jobs/info/6a4d2673d27b2c4dda9b6626?utm_campaign=1053&utm_source=git)** | San Francisco, CA | On Site | Jul 07 |
@@ -70,7 +71,6 @@ For a complete list, click the following sortable link below:
 | **[Expressway Cinema Rentals](https://expresswaycine.com/)** | **[The Expressway Cinema Rentals Internship (FALL TERM) - ROCHESTER](https://jobright.ai/jobs/info/6a397da71232144fb156b991?utm_campaign=1053&utm_source=git)** | Rochester, NY | On Site | Jul 06 |
 | **[Pearl West](https://www.pearlwestgroup.com)** | **[TikTok Shop Intern](https://jobright.ai/jobs/info/6a4c2ba7971cd25b06f99de1?utm_campaign=1053&utm_source=git)** | Vancouver, BC, Canada | Hybrid | Jul 06 |
 | **[FOX Sports](http://foxsports.com)** | **[Fall 2026 Big Ten Network Internship Program - Chicago](https://jobright.ai/jobs/info/6a4c0654c2d11a6a46679a43?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Jul 06 |
-| **[100% Productions](https://www.linkedin.com/company/107111575)** | **[Summer Intern - Celebrity & VIP Summer Event](https://jobright.ai/jobs/info/6a4c433f4f64ba41dcb5f0e3?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Jul 06 |
 | **[Fox Corporation](https://www.foxcorporation.com)** | **[Fall 2026 Big Ten Network Internship Program - Chicago](https://jobright.ai/jobs/info/6a4bfa114f64ba41dcb5dfd0?utm_campaign=1053&utm_source=git)** | Chicago, Illinois, USA | On Site | Jul 06 |
 | **[University of Pennsylvania](https://www.dentalcareburke.com/)** | **[Summer Intern](https://jobright.ai/jobs/info/6a45c48b076271587529df90?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Jul 06 |
 | **[The Washington Post](http://www.washingtonpost.com/)** | **[Opinion Editing Intern](https://jobright.ai/jobs/info/6958f629f1f8465b79ef94b9?utm_campaign=1053&utm_source=git)** | DC-Washington-TWP Headquarters | On Site | Jul 06 |
