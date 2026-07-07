@@ -57,15 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Open Road Integrated Media Inc.](http://www.openroadmedia.com)** | **[Content Writing Intern (FT/Paid)](https://jobright.ai/jobs/info/6a4d60d1c643fd23fed3cbf6?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Hybrid | Jul 07 |
+| ↳ | **[Content Writing Intern (PT/For-Credit)](https://jobright.ai/jobs/info/6a4d60d035e45603c4bb39c9?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Hybrid | Jul 07 |
 | **[Entrepreneurs First](http://www.joinef.com)** | **[Content Creator Intern](https://jobright.ai/jobs/info/6a4d2673d27b2c4dda9b6626?utm_campaign=1053&utm_source=git)** | San Francisco, CA | On Site | Jul 07 |
+| **[Legendary Entertainment](http://www.legendary.com)** | **[Intern, Nerdist Post Production - Fall 2026](https://jobright.ai/jobs/info/6a4c6da099523700cbff30c5?utm_campaign=1053&utm_source=git)** | Burbank, CA, United States | On Site | Jul 07 |
 | **[FC Dallas](http://www.fcdallas.com)** | **[2026 Fall Internship / Frisco Bowl / Events](https://jobright.ai/jobs/info/6a4cec673122a76a8fd53998?utm_campaign=1053&utm_source=git)** | Frisco, Texas, United States | On Site | Jul 07 |
 | **[Oasis Resource Management Pvt Ltd](http://www.oasis-india.com)** | **[Intern - Video Editor (5)](https://jobright.ai/jobs/info/6a4d0e220209ea6fd6850a1a?utm_campaign=1053&utm_source=git)** | Delhi, NY, United States | On Site | Jul 07 |
 | **[Canyon Entertainment Group](https://canyonentertainmentgroup.com)** | **[Live Event Management Internship](https://jobright.ai/jobs/info/6a4d1fd5d27b2c4dda9b63c0?utm_campaign=1053&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jul 07 |
-| **[Legendary Entertainment](http://www.legendary.com)** | **[Intern, Nerdist Post Production - Fall 2026](https://jobright.ai/jobs/info/6a4c6da099523700cbff30c5?utm_campaign=1053&utm_source=git)** | Burbank, CA, United States | On Site | Jul 06 |
-| ↳ | **[Intern, Nerdist Editorial - Fall 2026](https://jobright.ai/jobs/info/6a4c6d0dc643fd23fed3a58a?utm_campaign=1053&utm_source=git)** | Burbank,CA,US | On Site | Jul 06 |
+| **[Legendary Entertainment](http://www.legendary.com)** | **[Intern, Nerdist Editorial - Fall 2026](https://jobright.ai/jobs/info/6a4c6d0dc643fd23fed3a58a?utm_campaign=1053&utm_source=git)** | Burbank,CA,US | On Site | Jul 06 |
 | **[WFYI Public Media](https://www.wfyi.org/)** | **[Digital Content, Radio Intern Fall 2026](https://jobright.ai/jobs/info/6a39a10a06a4fd4b1fabb48a?utm_campaign=1053&utm_source=git)** | Indianapolis, IN | On Site | Jul 06 |
 | **[Peabody Essex Museum](http://www.pem.org/)** | **[TikTok Intern](https://jobright.ai/jobs/info/6a39a1ca6484fb75f2b32df9?utm_campaign=1053&utm_source=git)** | Salem, MA 01970, USA | On Site | Jul 06 |
-| **[Gift](https://www.shine.gift)** | **[Anime / Manga Intern](https://jobright.ai/jobs/info/6a4c309f5d7b097d2df3fd56?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Remote | Jul 06 |
 | **[Expressway Cinema Rentals](https://expresswaycine.com/)** | **[The Expressway Cinema Rentals Internship (FALL TERM) - ROCHESTER](https://jobright.ai/jobs/info/6a397da71232144fb156b991?utm_campaign=1053&utm_source=git)** | Rochester, NY | On Site | Jul 06 |
 | **[Pearl West](https://www.pearlwestgroup.com)** | **[TikTok Shop Intern](https://jobright.ai/jobs/info/6a4c2ba7971cd25b06f99de1?utm_campaign=1053&utm_source=git)** | Vancouver, BC, Canada | Hybrid | Jul 06 |
 | **[FOX Sports](http://foxsports.com)** | **[Fall 2026 Big Ten Network Internship Program - Chicago](https://jobright.ai/jobs/info/6a4c0654c2d11a6a46679a43?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Jul 06 |
