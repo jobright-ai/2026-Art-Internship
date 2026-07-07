@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Legendary Entertainment](http://www.legendary.com)** | **[Intern, Nerdist Post Production - Fall 2026](https://jobright.ai/jobs/info/6a4c6da099523700cbff30c5?utm_campaign=1053&utm_source=git)** | Burbank, CA, United States | On Site | Jul 06 |
+| ↳ | **[Intern, Nerdist Editorial - Fall 2026](https://jobright.ai/jobs/info/6a4c6d0dc643fd23fed3a58a?utm_campaign=1053&utm_source=git)** | Burbank,CA,US | On Site | Jul 06 |
 | **[WFYI Public Media](https://www.wfyi.org/)** | **[Digital Content, Radio Intern Fall 2026](https://jobright.ai/jobs/info/6a39a10a06a4fd4b1fabb48a?utm_campaign=1053&utm_source=git)** | Indianapolis, IN | On Site | Jul 06 |
 | **[Peabody Essex Museum](http://www.pem.org/)** | **[TikTok Intern](https://jobright.ai/jobs/info/6a39a1ca6484fb75f2b32df9?utm_campaign=1053&utm_source=git)** | Salem, MA 01970, USA | On Site | Jul 06 |
 | **[Gift](https://www.shine.gift)** | **[Anime / Manga Intern](https://jobright.ai/jobs/info/6a4c309f5d7b097d2df3fd56?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Remote | Jul 06 |
@@ -66,6 +68,7 @@ For a complete list, click the following sortable link below:
 | **[100% Productions](https://www.linkedin.com/company/107111575)** | **[Summer Intern - Celebrity & VIP Summer Event](https://jobright.ai/jobs/info/6a4c433f4f64ba41dcb5f0e3?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Jul 06 |
 | **[Tigerlily Foundation](https://www.tigerlilyfoundation.org)** | **[Editorial & Publication Management Intern](https://jobright.ai/jobs/info/6a4bfb535d7b097d2df3efd2?utm_campaign=1053&utm_source=git)** | United States | Remote | Jul 06 |
 | **[Fox Corporation](https://www.foxcorporation.com)** | **[Fall 2026 Big Ten Network Internship Program - Chicago](https://jobright.ai/jobs/info/6a4bfa114f64ba41dcb5dfd0?utm_campaign=1053&utm_source=git)** | Chicago, Illinois, USA | On Site | Jul 06 |
+| **[University of Pennsylvania](https://www.dentalcareburke.com/)** | **[Summer Intern](https://jobright.ai/jobs/info/6a45c48b076271587529df90?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Jul 06 |
 | **[The Washington Post](http://www.washingtonpost.com/)** | **[Opinion Editing Intern](https://jobright.ai/jobs/info/6958f629f1f8465b79ef94b9?utm_campaign=1053&utm_source=git)** | DC-Washington-TWP Headquarters | On Site | Jul 06 |
 | **[Mesa Chamber of Commerce](http://www.mesachamber.org)** | **[Videographer Intern](https://jobright.ai/jobs/info/6a4c067e4eb370649b27bea5?utm_campaign=1053&utm_source=git)** | Mesa, AZ | On Site | Jul 06 |
 | **[Hockey Helps the Homeless](https://www.hockeyhelpsthehomeless.com)** | **[Event Operations Intern (4 months)](https://jobright.ai/jobs/info/6a4bd2314f64ba41dcb5d49f?utm_campaign=1053&utm_source=git)** | Richmond Hill, Ontario, Canada | Hybrid | Jul 06 |
@@ -83,7 +86,6 @@ For a complete list, click the following sortable link below:
 | **[WMUR-TV](http://www.wmur.com/)** | **[Creative Services Intern](https://jobright.ai/jobs/info/69ba8f1506c1ba00c54ca4eb?utm_campaign=1053&utm_source=git)** | Manchester, NH | On Site | Jul 02 |
 | **[Sony Music Entertainment](http://www.sonymusic.com)** | **[Intern, Radio & Artist Engagement](https://jobright.ai/jobs/info/6a43b0a28208843cea1f253a?utm_campaign=1053&utm_source=git)** | Canada, Ontario, Toronto | On Site | Jul 02 |
 | **[Evolve Studios®](https://evolve.studio)** | **[Assistant Editor Internship](https://jobright.ai/jobs/info/6a42d4796a9c2774b3fa77aa?utm_campaign=1053&utm_source=git)** | Franklin, TN | On Site | Jul 01 |
-| **[University of Pennsylvania](https://www.dentalcareburke.com/)** | **[Summer Intern](https://jobright.ai/jobs/info/6a45c48b076271587529df90?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Jul 01 |
 | **[Utah Jazz](http://www.nba.com/jazz)** | **[Broadcast Intern](https://jobright.ai/jobs/info/6a4c3701971cd25b06f9a092?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Jul 01 |
 | **[New York City Ballet](http://nycballet.com)** | **[Fall Intern - Theater Operations](https://jobright.ai/jobs/info/6a457f32971cd25b06f890a9?utm_campaign=1053&utm_source=git)** | New York, New York, United States | On Site | Jul 01 |
 | **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a4576bf3dbab558e29a158b?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | Jul 01 |
@@ -95,6 +97,4 @@ For a complete list, click the following sortable link below:
 | **[The Recap Group Inc.](https://therecap.group)** | **[Video Editor Internship / In-Person / Stipend Provided](https://jobright.ai/jobs/info/6a4463990153061b8b3e0450?utm_campaign=1053&utm_source=git)** | Brooklyn, NY | On Site | Jun 30 |
 | **[Film Pittsburgh](http://www.FilmPittsburgh.org)** | **[Spring Festival Internship](https://jobright.ai/jobs/info/6a43ed470153061b8b3de9c6?utm_campaign=1053&utm_source=git)** | Pittsburgh, PA | Hybrid | Jun 30 |
 | **[University of South Florida](http://www.research.usf.edu/rf/sii/)** | **[IAE Videography Internship – Fall 2026](https://jobright.ai/jobs/info/6a43ca79ef17a815538a04c1?utm_campaign=1053&utm_source=git)** | 4202 E Fowler Ave, Tampa, FL, 33620, US | On Site | Jun 30 |
-| **[Namify](http://namify.com)** | **[Videographer Intern](https://jobright.ai/jobs/info/6a4650b14f64ba41dcb51f1e?utm_campaign=1053&utm_source=git)** | Springville,UT,US | On Site | Jun 30 |
-| **[Our National Conversation (ONC)](https://www.ournationalconversation.org)** | **[Moderate Writer Intern](https://jobright.ai/jobs/info/6a43c03bef17a815538a0386?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Remote | Jun 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
