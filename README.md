@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[American Heart Association](https://www.empoweredtoserve.org/en/business-accelerator-program/maryland-black-farmers)** | **[Intern, Exhibit & Sponsorship-Remote](https://jobright.ai/jobs/info/6a33ffb71232144fb155da12?utm_campaign=1053&utm_source=git)** | United States | Remote | Jul 07 |
 | **[Eightball AI](https://www.eightball.ai)** | **[Content Creator Intern](https://jobright.ai/jobs/info/6a4d7b273122a76a8fd55bdf?utm_campaign=1053&utm_source=git)** | United States | Remote | Jul 07 |
 | **[Augsburg Fortress Publishers](http://1517.media)** | **[Publishing Operations Intern](https://jobright.ai/jobs/info/6a4d6436d27b2c4dda9b76e3?utm_campaign=1053&utm_source=git)** | Minneapolis, MN, United States | On Site | Jul 07 |
 | **[Open Road Integrated Media Inc.](http://www.openroadmedia.com)** | **[Content Writing Intern (FT/Paid)](https://jobright.ai/jobs/info/6a4d60d1c643fd23fed3cbf6?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Hybrid | Jul 07 |
