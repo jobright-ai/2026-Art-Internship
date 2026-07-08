@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[NoGood](https://nogood.io)** | **[Intern- Social Video Creator](https://jobright.ai/jobs/info/69d9a15b738f2f099e8a368e?utm_campaign=1053&utm_source=git)** | New York, New York, United States | Hybrid | Jul 08 |
+| **[Weigel Broadcasting Co.](https://www.weigelbroadcasting.com/)** | **[Post-Production Intern](https://jobright.ai/jobs/info/6a4e7dde15b4965afd5837e0?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | On Site | Jul 08 |
+| **[Sony Music Publishing](https://www.sonymusicpub.com/)** | **[Clearance Intern, Film & TV](https://jobright.ai/jobs/info/6a4e74e89469c0662034b4ad?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 08 |
 | **[Kentucky Farm Bureau Insurance](http://kyfb.com)** | **[Video Production intern](https://jobright.ai/jobs/info/6a4e5869397d8d353c288736?utm_campaign=1053&utm_source=git)** | Louisville, KY, United States | On Site | Jul 08 |
 | **[The Real Autograph (TRA)](http://therealautograph.com)** | **[Sports Collectibles Stream Clipper Intern](https://jobright.ai/jobs/info/6a4da46035e45603c4bb479b?utm_campaign=1053&utm_source=git)** | Fort Lauderdale, FL, United States | On Site | Jul 07 |
 | ↳ | **[Sports Media Content Creator Intern (NFL, NBA, MLB) For HS & College Students](https://jobright.ai/jobs/info/6a4d8ee2d27b2c4dda9b80a9?utm_campaign=1053&utm_source=git)** | Fort Lauderdale, FL, United States | Hybrid | Jul 07 |
