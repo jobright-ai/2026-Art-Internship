@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Kentucky Farm Bureau Insurance](http://kyfb.com)** | **[Video Production intern](https://jobright.ai/jobs/info/6a4e5869397d8d353c288736?utm_campaign=1053&utm_source=git)** | Louisville, KY, United States | On Site | Jul 08 |
 | **[The Real Autograph (TRA)](http://therealautograph.com)** | **[Sports Collectibles Stream Clipper Intern](https://jobright.ai/jobs/info/6a4da46035e45603c4bb479b?utm_campaign=1053&utm_source=git)** | Fort Lauderdale, FL, United States | On Site | Jul 07 |
 | ↳ | **[Sports Media Content Creator Intern (NFL, NBA, MLB) For HS & College Students](https://jobright.ai/jobs/info/6a4d8ee2d27b2c4dda9b80a9?utm_campaign=1053&utm_source=git)** | Fort Lauderdale, FL, United States | Hybrid | Jul 07 |
 | **[American Heart Association](https://www.goredforwomen.org)** | **[Intern, Exhibit & Sponsorship-Remote](https://jobright.ai/jobs/info/6a33ffb71232144fb155da12?utm_campaign=1053&utm_source=git)** | United States | Remote | Jul 07 |
@@ -94,5 +95,4 @@ For a complete list, click the following sortable link below:
 | **[WMUR-TV](http://www.wmur.com/)** | **[Creative Services Intern](https://jobright.ai/jobs/info/69ba8f1506c1ba00c54ca4eb?utm_campaign=1053&utm_source=git)** | Manchester, NH | On Site | Jul 02 |
 | **[Sony Music Entertainment](http://www.sonymusic.com)** | **[Intern, Radio & Artist Engagement](https://jobright.ai/jobs/info/6a43b0a28208843cea1f253a?utm_campaign=1053&utm_source=git)** | Canada, Ontario, Toronto | On Site | Jul 02 |
 | **[Evolve Studios®](https://evolve.studio)** | **[Assistant Editor Internship](https://jobright.ai/jobs/info/6a42d4796a9c2774b3fa77aa?utm_campaign=1053&utm_source=git)** | Franklin, TN | On Site | Jul 01 |
-| **[Utah Jazz](http://www.nba.com/jazz)** | **[Broadcast Intern](https://jobright.ai/jobs/info/6a4c3701971cd25b06f9a092?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Jul 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
