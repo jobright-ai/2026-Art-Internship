@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Northside Hospital](http://www.northside.com)** | **[DEPARTMENT INTERN](https://jobright.ai/jobs/info/6a4ea72a1544d7246c0d3b03?utm_campaign=1053&utm_source=git)** | Atlanta, GA, United States | On Site | Jul 08 |
 | **[NoGood](https://nogood.io)** | **[Intern- Social Video Creator](https://jobright.ai/jobs/info/69d9a15b738f2f099e8a368e?utm_campaign=1053&utm_source=git)** | New York, New York, United States | Hybrid | Jul 08 |
 | **[Weigel Broadcasting Co.](https://www.weigelbroadcasting.com/)** | **[Post-Production Intern](https://jobright.ai/jobs/info/6a4e7dde15b4965afd5837e0?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | On Site | Jul 08 |
 | **[Sony Music Publishing](https://www.sonymusicpub.com/)** | **[Clearance Intern, Film & TV](https://jobright.ai/jobs/info/6a4e74e89469c0662034b4ad?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 08 |
