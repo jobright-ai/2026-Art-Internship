@@ -57,7 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[The Real Autograph](https://www.therealautograph.com)** | **[Sports Collectibles Stream Clipper Intern](https://jobright.ai/jobs/info/6a4da46035e45603c4bb479b?utm_campaign=1053&utm_source=git)** | Fort Lauderdale, FL, United States | On Site | Jul 07 |
+| **[The Real Autograph (TRA)](http://therealautograph.com)** | **[Sports Collectibles Stream Clipper Intern](https://jobright.ai/jobs/info/6a4da46035e45603c4bb479b?utm_campaign=1053&utm_source=git)** | Fort Lauderdale, FL, United States | On Site | Jul 07 |
 | ↳ | **[Sports Media Content Creator Intern (NFL, NBA, MLB) For HS & College Students](https://jobright.ai/jobs/info/6a4d8ee2d27b2c4dda9b80a9?utm_campaign=1053&utm_source=git)** | Fort Lauderdale, FL, United States | Hybrid | Jul 07 |
 | **[American Heart Association](https://www.goredforwomen.org)** | **[Intern, Exhibit & Sponsorship-Remote](https://jobright.ai/jobs/info/6a33ffb71232144fb155da12?utm_campaign=1053&utm_source=git)** | United States | Remote | Jul 07 |
 | **[Eightball AI](https://www.eightball.ai)** | **[Content Creator Intern](https://jobright.ai/jobs/info/6a4d7b273122a76a8fd55bdf?utm_campaign=1053&utm_source=git)** | United States | Remote | Jul 07 |
