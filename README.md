@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Northside Hospital](http://www.northside.com)** | **[DEPARTMENT INTERN](https://jobright.ai/jobs/info/6a4ea72a1544d7246c0d3b03?utm_campaign=1053&utm_source=git)** | Atlanta, GA, United States | On Site | Jul 08 |
+| **[CLD PR & Experiential Productions](https://cldstylehouse.com)** | **[Summer Party 2026 VIP Event Intern (Celebrity & Macro Influencer Experiential Event)](https://jobright.ai/jobs/info/6a4ebfcb9469c0662034c94f?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 08 |
+| **[BPCM](http://www.bpcm.com)** | **[Fall Internship, Fashion](https://jobright.ai/jobs/info/6a4ebd8efc327f422fef4087?utm_campaign=1053&utm_source=git)** | Brooklyn, NY, United States | On Site | Jul 08 |
 | **[NoGood](https://nogood.io)** | **[Intern- Social Video Creator](https://jobright.ai/jobs/info/69d9a15b738f2f099e8a368e?utm_campaign=1053&utm_source=git)** | New York, New York, United States | Hybrid | Jul 08 |
 | **[Weigel Broadcasting Co.](https://www.weigelbroadcasting.com/)** | **[Post-Production Intern](https://jobright.ai/jobs/info/6a4e7dde15b4965afd5837e0?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | On Site | Jul 08 |
 | **[Sony Music Publishing](https://www.sonymusicpub.com/)** | **[Clearance Intern, Film & TV](https://jobright.ai/jobs/info/6a4e74e89469c0662034b4ad?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 08 |
@@ -91,7 +92,6 @@ For a complete list, click the following sortable link below:
 | **[Whitney Museum of American Art](http://whitney.org)** | **[[Fall 2026] Digital Content Internship](https://jobright.ai/jobs/info/6a3c55468bfad862bc99a18a?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Jul 04 |
 | **[TikTok](https://www.tiktok.com)** | **[TikTok Short Drama Project Intern (TikTok-Short-Drama) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a30d116093df201d07b2c04?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Jul 04 |
 | **[Brennan Center for Justice](http://www.brennancenter.org/)** | **[Fall 2026 Editorial Undergraduate Internship](https://jobright.ai/jobs/info/6a394b6a649fdf16293000ab?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jul 03 |
-| **[Red Aspen](https://www.redaspenlove.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/6a31eabee7b7d514a3bd63da?utm_campaign=1053&utm_source=git)** | Meridian, ID | On Site | Jul 02 |
 | **[North Carolina Sea Grant](https://ncseagrant.ncsu.edu/)** | **[Graduate Student Science Outreach Intern](https://jobright.ai/jobs/info/6a4714534f64ba41dcb55ddf?utm_campaign=1053&utm_source=git)** | Raleigh, NC | Remote | Jul 02 |
 | **[University of Pennsylvania](https://www.dentalcareburke.com/)** | **[Summer Intern](https://jobright.ai/jobs/info/6a46ba33971cd25b06f8ff1a?utm_campaign=1053&utm_source=git)** | Ralston House, US | On Site | Jul 02 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Paid Intern (Photojournalist/Multi-Media Journalist/Producer)](https://jobright.ai/jobs/info/69f179ef8feca91f149202ba?utm_campaign=1053&utm_source=git)** | Wichita, KS | On Site | Jul 02 |
