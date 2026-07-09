@@ -97,6 +97,4 @@ For a complete list, click the following sortable link below:
 | **[Whitney Museum of American Art](http://whitney.org)** | **[[Fall 2026] Digital Content Internship](https://jobright.ai/jobs/info/6a3c55468bfad862bc99a18a?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Jul 04 |
 | **[TikTok](https://www.tiktok.com)** | **[TikTok Short Drama Project Intern (TikTok-Short-Drama) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a30d116093df201d07b2c04?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Jul 04 |
 | **[Brennan Center for Justice](http://www.brennancenter.org/)** | **[Fall 2026 Editorial Undergraduate Internship](https://jobright.ai/jobs/info/6a394b6a649fdf16293000ab?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jul 03 |
-| **[North Carolina Sea Grant](https://ncseagrant.ncsu.edu/)** | **[Graduate Student Science Outreach Intern](https://jobright.ai/jobs/info/6a4714534f64ba41dcb55ddf?utm_campaign=1053&utm_source=git)** | Raleigh, NC | Remote | Jul 02 |
-| **[University of Pennsylvania](https://www.dentalcareburke.com/)** | **[Summer Intern](https://jobright.ai/jobs/info/6a46ba33971cd25b06f8ff1a?utm_campaign=1053&utm_source=git)** | Ralston House, US | On Site | Jul 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
