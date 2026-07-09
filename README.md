@@ -57,15 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[CLD PR & Experiential Productions](https://cldstylehouse.com)** | **[Summer Party 2026 VIP Event Intern (Celebrity & Macro Influencer Experiential Event)](https://jobright.ai/jobs/info/6a4ebfcb9469c0662034c94f?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 08 |
+| **[PiñataFarms AI](https://pinatafarms.ai/)** | **[Content Creator Intern - (App install focused)](https://jobright.ai/jobs/info/6a4f01b89469c0662034d2b0?utm_campaign=1053&utm_source=git)** | Santa Monica, CA, United States | On Site | Jul 08 |
+| **[American Heart Association](https://www.goredforwomen.org)** | **[Intern, Exhibit & Sponsorship-Remote](https://jobright.ai/jobs/info/6a33ffb71232144fb155da12?utm_campaign=1053&utm_source=git)** | Dallas, TX, United States | Remote | Jul 08 |
 | **[BPCM](http://www.bpcm.com)** | **[Fall Internship, Fashion](https://jobright.ai/jobs/info/6a4ebd8efc327f422fef4087?utm_campaign=1053&utm_source=git)** | Brooklyn, NY, United States | On Site | Jul 08 |
+| **[CLD PR & Experiential Productions](https://cldstylehouse.com)** | **[Summer Party 2026 VIP Event Intern (Celebrity & Macro Influencer Experiential Event)](https://jobright.ai/jobs/info/6a4ebfcb9469c0662034c94f?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 08 |
 | **[NoGood](https://nogood.io)** | **[Intern- Social Video Creator](https://jobright.ai/jobs/info/69d9a15b738f2f099e8a368e?utm_campaign=1053&utm_source=git)** | New York, New York, United States | Hybrid | Jul 08 |
 | **[Weigel Broadcasting Co.](https://www.weigelbroadcasting.com/)** | **[Post-Production Intern](https://jobright.ai/jobs/info/6a4e7dde15b4965afd5837e0?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | On Site | Jul 08 |
 | **[Sony Music Publishing](https://www.sonymusicpub.com/)** | **[Clearance Intern, Film & TV](https://jobright.ai/jobs/info/6a4e74e89469c0662034b4ad?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 08 |
+| **[WCIA 3](https://www.wcia.com/)** | **[Unpaid Intern, Weather](https://jobright.ai/jobs/info/69c20a5e75f7ff1cd810a997?utm_campaign=1053&utm_source=git)** | Champaign, IL | On Site | Jul 08 |
 | **[Kentucky Farm Bureau Insurance](http://kyfb.com)** | **[Video Production intern](https://jobright.ai/jobs/info/6a4e5869397d8d353c288736?utm_campaign=1053&utm_source=git)** | Louisville, KY, United States | On Site | Jul 08 |
 | **[The Real Autograph (TRA)](http://therealautograph.com)** | **[Sports Collectibles Stream Clipper Intern](https://jobright.ai/jobs/info/6a4da46035e45603c4bb479b?utm_campaign=1053&utm_source=git)** | Fort Lauderdale, FL, United States | On Site | Jul 07 |
 | ↳ | **[Sports Media Content Creator Intern (NFL, NBA, MLB) For HS & College Students](https://jobright.ai/jobs/info/6a4d8ee2d27b2c4dda9b80a9?utm_campaign=1053&utm_source=git)** | Fort Lauderdale, FL, United States | Hybrid | Jul 07 |
-| **[American Heart Association](https://www.goredforwomen.org)** | **[Intern, Exhibit & Sponsorship-Remote](https://jobright.ai/jobs/info/6a33ffb71232144fb155da12?utm_campaign=1053&utm_source=git)** | United States | Remote | Jul 07 |
 | **[Eightball AI](https://www.eightball.ai)** | **[Content Creator Intern](https://jobright.ai/jobs/info/6a4d7b273122a76a8fd55bdf?utm_campaign=1053&utm_source=git)** | United States | Remote | Jul 07 |
 | **[Augsburg Fortress Publishers](http://1517.media)** | **[Publishing Operations Intern](https://jobright.ai/jobs/info/6a4d6436d27b2c4dda9b76e3?utm_campaign=1053&utm_source=git)** | Minneapolis, MN, United States | On Site | Jul 07 |
 | **[Open Road Integrated Media Inc.](http://www.openroadmedia.com)** | **[Content Writing Intern (FT/Paid)](https://jobright.ai/jobs/info/6a4d60d1c643fd23fed3cbf6?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Hybrid | Jul 07 |
@@ -95,6 +97,4 @@ For a complete list, click the following sortable link below:
 | **[North Carolina Sea Grant](https://ncseagrant.ncsu.edu/)** | **[Graduate Student Science Outreach Intern](https://jobright.ai/jobs/info/6a4714534f64ba41dcb55ddf?utm_campaign=1053&utm_source=git)** | Raleigh, NC | Remote | Jul 02 |
 | **[University of Pennsylvania](https://www.dentalcareburke.com/)** | **[Summer Intern](https://jobright.ai/jobs/info/6a46ba33971cd25b06f8ff1a?utm_campaign=1053&utm_source=git)** | Ralston House, US | On Site | Jul 02 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Paid Intern (Photojournalist/Multi-Media Journalist/Producer)](https://jobright.ai/jobs/info/69f179ef8feca91f149202ba?utm_campaign=1053&utm_source=git)** | Wichita, KS | On Site | Jul 02 |
-| **[WMUR-TV](http://www.wmur.com/)** | **[Creative Services Intern](https://jobright.ai/jobs/info/69ba8f1506c1ba00c54ca4eb?utm_campaign=1053&utm_source=git)** | Manchester, NH | On Site | Jul 02 |
-| **[Sony Music Entertainment](http://www.sonymusic.com)** | **[Intern, Radio & Artist Engagement](https://jobright.ai/jobs/info/6a43b0a28208843cea1f253a?utm_campaign=1053&utm_source=git)** | Canada, Ontario, Toronto | On Site | Jul 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
