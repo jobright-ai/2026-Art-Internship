@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ATIA Ltd](https://atia.ba/en_US/)** | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a510671ae4052672fe96351?utm_campaign=1053&utm_source=git)** | Lubbock, TX, United States | Remote | Jul 10 |
+| **[Sony Music Entertainment](http://www.sonymusic.com)** | **[Intern, Radio & Artist Engagement](https://jobright.ai/jobs/info/6a43b0a28208843cea1f253a?utm_campaign=1053&utm_source=git)** | Canada, Ontario, Toronto | Hybrid | Jul 10 |
+| **[617MediaGroup](https://617mediagroup.com)** | **[A/V Production Internship](https://jobright.ai/jobs/info/6a50ff9a78e364789ca57d3b?utm_campaign=1053&utm_source=git)** | Greater Boston, United States | On Site | Jul 10 |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[WAVY Unpaid Sports Intern, Fall 2026](https://jobright.ai/jobs/info/69fc4646633e68586cd30319?utm_campaign=1053&utm_source=git)** | VA, Portsmouth, US | On Site | Jul 10 |
 | **[MBJ Network](www.mbj-network.com)** | **[Staff Writer-Intern](https://jobright.ai/jobs/info/6a50f49e78e364789ca577e1?utm_campaign=1053&utm_source=git)** | 330 E Roosevelt Rd, Lombard, IL 60148, United States | Remote | Jul 10 |
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a50ea5f78e364789ca573ec?utm_campaign=1053&utm_source=git)** | Phoenix, AZ, United States | Remote | Jul 10 |
 | ↳ | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a50ea5d8d7d3e6cf1cbd616?utm_campaign=1053&utm_source=git)** | Richmond, IN, United States | Remote | Jul 10 |
