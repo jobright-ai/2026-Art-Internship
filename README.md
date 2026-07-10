@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ATIA Ltd](https://atia.ba/en_US/)** | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a50ea5f78e364789ca573ec?utm_campaign=1053&utm_source=git)** | Phoenix, AZ, United States | Remote | Jul 10 |
+| ↳ | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a50ea5d8d7d3e6cf1cbd616?utm_campaign=1053&utm_source=git)** | Richmond, IN, United States | Remote | Jul 10 |
+| ↳ | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a50ea4978e364789ca573cd?utm_campaign=1053&utm_source=git)** | Fargo, ND, United States | Remote | Jul 10 |
+| ↳ | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a50ea2702522b5b722e5db2?utm_campaign=1053&utm_source=git)** | Gainesville, FL, United States | Remote | Jul 10 |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Disney Entertainment Television Production Innovation Intern, Fall 2026](https://jobright.ai/jobs/info/6a4f4a061544d7246c0d5543?utm_campaign=1053&utm_source=git)** | Burbank, CA, United States | Hybrid | Jul 10 |
 | **[TikTok](https://www.tiktok.com)** | **[Agency Ops Project Intern (TikTok Local Services) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a5076339469c06620351013?utm_campaign=1053&utm_source=git)** | Los Angeles, United States | On Site | Jul 10 |
 | **[Story Co](https://www.story.inc)** | **[BTS Shooter/ Editing Intern](https://jobright.ai/jobs/info/6a50d156f08ee8320766c511?utm_campaign=1053&utm_source=git)** | San Francisco, CA, United States | On Site | Jul 09 |
 | **[LSESU Global Brigades Society](https://www.globalbrigades.org/)** | **[Content Creator Intern](https://jobright.ai/jobs/info/6a50a637ddd293054ccaadb6?utm_campaign=1053&utm_source=git)** | United States | Remote | Jul 09 |
@@ -102,7 +107,6 @@ For a complete list, click the following sortable link below:
 | **[Fox Corporation](https://www.foxcorporation.com)** | **[Fall 2026 Big Ten Network Internship Program - Chicago](https://jobright.ai/jobs/info/6a4bfa114f64ba41dcb5dfd0?utm_campaign=1053&utm_source=git)** | Chicago, Illinois, USA | On Site | Jul 06 |
 | **[University of Pennsylvania](https://www.dentalcareburke.com/)** | **[Summer Intern](https://jobright.ai/jobs/info/6a45c48b076271587529df90?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Jul 06 |
 | **[The Washington Post](http://www.washingtonpost.com/)** | **[Opinion Editing Intern](https://jobright.ai/jobs/info/6958f629f1f8465b79ef94b9?utm_campaign=1053&utm_source=git)** | DC-Washington-TWP Headquarters | On Site | Jul 06 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Disney Entertainment Television Production Innovation Intern, Fall 2026](https://jobright.ai/jobs/info/6a4f4a061544d7246c0d5543?utm_campaign=1053&utm_source=git)** | Burbank, CA, United States | Hybrid | Jul 06 |
 | **[Elite Podcast Studio](ElitePodcastStudio.com)** | **[Content Creator Intern (AI & Media Production Training)](https://jobright.ai/jobs/info/6a4ac72f3dbab558e29af4bc?utm_campaign=1053&utm_source=git)** | Odessa, FL | On Site | Jul 05 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid News Intern](https://jobright.ai/jobs/info/6972b01a9b83b424830eb8a4?utm_campaign=1053&utm_source=git)** | IN-Indianapolis;6910 Network Place (Tribune-WXIN/WTTV) | On Site | Jul 05 |
 | **[Whitney Museum of American Art](http://whitney.org)** | **[[Fall 2026] Digital Content Internship](https://jobright.ai/jobs/info/6a3c55468bfad862bc99a18a?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Jul 04 |
