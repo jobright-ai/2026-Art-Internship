@@ -58,6 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[TikTok](https://www.tiktok.com)** | **[Agency Ops Project Intern (TikTok Local Services) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a5076339469c06620351013?utm_campaign=1053&utm_source=git)** | Los Angeles, United States | On Site | Jul 10 |
+| **[Story Co](https://www.story.inc)** | **[BTS Shooter/ Editing Intern](https://jobright.ai/jobs/info/6a50d156f08ee8320766c511?utm_campaign=1053&utm_source=git)** | San Francisco, CA, United States | On Site | Jul 09 |
 | **[LSESU Global Brigades Society](https://www.globalbrigades.org/)** | **[Content Creator Intern](https://jobright.ai/jobs/info/6a50a637ddd293054ccaadb6?utm_campaign=1053&utm_source=git)** | United States | Remote | Jul 09 |
 | **[Studio Museum in Harlem](https://www.studiomuseum.org/)** | **[Fall 2026 Director's Office Intern](https://jobright.ai/jobs/info/6a507635397d8d353c28eb5f?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Hybrid | Jul 09 |
 | **[VOX ATL](https://voxatl.org)** | **[Atlanta Teen Voices Journalism Fellowship Near-Peer Intern](https://jobright.ai/jobs/info/6a503bc24649561ec08b0bde?utm_campaign=1053&utm_source=git)** | Atlanta, GA, United States | On Site | Jul 09 |
