@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Full Jam Music INC.](http://fulljam.com)** | **[Musicians creators (volunteer or internship)](https://jobright.ai/jobs/info/6a512bbdae4052672fe978b3?utm_campaign=1053&utm_source=git)** | Canada | Remote | Jul 10 |
+| **[Seattle Kraken](https://www.nhl.com/kraken)** | **[Production Intern (September-April)](https://jobright.ai/jobs/info/6a4fe6e2f57ed168c3417390?utm_campaign=1053&utm_source=git)** | Seattle, Washington, United States | On Site | Jul 10 |
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a51231fae4052672fe97481?utm_campaign=1053&utm_source=git)** | South Bend, IN, United States | Remote | Jul 10 |
 | **[Apartment Therapy Media](http://www.apartmenttherapy.com/)** | **[Dorm Therapy Editorial Intern](https://jobright.ai/jobs/info/6a511de28d7d3e6cf1cbf17d?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Jul 10 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[WAVY Unpaid Digital NewsDesk Intern, Fall 2026](https://jobright.ai/jobs/info/69fa704ea3d34b4f76f65b5a?utm_campaign=1053&utm_source=git)** | VA, Portsmouth, US | On Site | Jul 10 |
@@ -78,7 +80,6 @@ For a complete list, click the following sortable link below:
 | **[VOX ATL](https://voxatl.org)** | **[Atlanta Teen Voices Journalism Fellowship Near-Peer Intern](https://jobright.ai/jobs/info/6a503bc24649561ec08b0bde?utm_campaign=1053&utm_source=git)** | Atlanta, GA, United States | On Site | Jul 09 |
 | **[Sony Music Publishing](https://www.sonymusicpub.com/)** | **[Fall Intern, A&R (West Coast)](https://jobright.ai/jobs/info/6a50382ffc327f422fef839b?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 09 |
 | **[United Way of Central Massachusetts](https://unitedwaycm.org)** | **[Half Marathon Operations Intern](https://jobright.ai/jobs/info/6a509f2742c6dc326e8ea5df?utm_campaign=1053&utm_source=git)** | Worcester, MA, United States | Hybrid | Jul 09 |
-| **[Seattle Kraken](https://www.nhl.com/kraken)** | **[Production Intern (September-April)](https://jobright.ai/jobs/info/6a4fe6e2f57ed168c3417390?utm_campaign=1053&utm_source=git)** | Seattle, Washington, United States | On Site | Jul 09 |
 | **[State of Iowa - Executive Branch](https://icrc.iowa.gov)** | **[Fall 2026 Production Intern](https://jobright.ai/jobs/info/6a509f08ddd293054ccaa9bc?utm_campaign=1053&utm_source=git)** | Johnston, IA, United States | On Site | Jul 09 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Fall 2026 Production Intern](https://jobright.ai/jobs/info/6a509ed942c6dc326e8ea4c2?utm_campaign=1053&utm_source=git)** | Johnston, IA, United States | On Site | Jul 09 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Intern, Artist Manager Assistant](https://jobright.ai/jobs/info/6a32e02329c90c607e4d87d1?utm_campaign=1053&utm_source=git)** | Etobicoke, ON, CA | On Site | Jul 09 |
