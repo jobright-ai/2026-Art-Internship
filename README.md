@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[MBJ Network](www.mbj-network.com)** | **[Staff Writer-Intern](https://jobright.ai/jobs/info/6a50f49e78e364789ca577e1?utm_campaign=1053&utm_source=git)** | 330 E Roosevelt Rd, Lombard, IL 60148, United States | Remote | Jul 10 |
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a50ea5f78e364789ca573ec?utm_campaign=1053&utm_source=git)** | Phoenix, AZ, United States | Remote | Jul 10 |
 | ↳ | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a50ea5d8d7d3e6cf1cbd616?utm_campaign=1053&utm_source=git)** | Richmond, IN, United States | Remote | Jul 10 |
 | ↳ | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a50ea4978e364789ca573cd?utm_campaign=1053&utm_source=git)** | Fargo, ND, United States | Remote | Jul 10 |
