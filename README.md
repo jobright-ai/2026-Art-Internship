@@ -57,11 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Historical Preservation, Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/6a51d0b002522b5b722ebf68?utm_campaign=1053&utm_source=git)** | Jamaica, NY, United States | On Site | Jul 10 |
 | **[The Corelink Solution](http://www.thecorelinksolution.com)** | **[Artist Community Manager (Volunteer / Intern)](https://jobright.ai/jobs/info/6a51cbed78e364789ca5cf3b?utm_campaign=1053&utm_source=git)** | 1010 Concord Ave, Wilmington, DE 19802, USA | Hybrid | Jul 10 |
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a51cbb7ae4052672fe9af6a?utm_campaign=1053&utm_source=git)** | Detroit, MI, United States | Remote | Jul 10 |
 | ↳ | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a51bf8b02522b5b722eaccc?utm_campaign=1053&utm_source=git)** | Tulsa, OK, United States | Remote | Jul 10 |
 | **[The Broadmoor](http://www.broadmoor.com)** | **[PGM Intern/Assistant Golf Pro](https://jobright.ai/jobs/info/6a51a816bf63b66c7997ab77?utm_campaign=1053&utm_source=git)** | Broadmoor, Colorado Springs, CO 80906, USA | On Site | Jul 10 |
 | **[Magnet Media, Inc.](http://www.magnetmediafilms.com)** | **[Production Intern Fall 2027](https://jobright.ai/jobs/info/6a42cfd01cc9cc2b12fece84?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Jul 10 |
+| **[ATIA Ltd](https://atia.ba/en_US/)** | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a51d998ae4052672fe9be3a?utm_campaign=1053&utm_source=git)** | Fort Worth, TX, United States | Remote | Jul 10 |
 | **[FUTURA SOUND](www.FuturaSound.com)** | **[Cinematography & Video Editing Internship Opportunity in Production House, Music & Arts Company](https://jobright.ai/jobs/info/6a51ada78d7d3e6cf1cc0f0a?utm_campaign=1053&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jul 10 |
 | **[Our National Conversation (ONC)](https://www.ournationalconversation.org)** | **[Progressive Writer Intern](https://jobright.ai/jobs/info/6a51a45fae4052672fe989dd?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, USA | Remote | Jul 10 |
 | **[ProSidian Consulting](https://prosidian.com/)** | **[Art Collection Management Intern](https://jobright.ai/jobs/info/6a519c4fbf63b66c7997a820?utm_campaign=1053&utm_source=git)** | 300 Camp Rd, Charlotte, NC 28206, USA | Remote | Jul 10 |
@@ -118,6 +120,7 @@ For a complete list, click the following sortable link below:
 | **[Legendary Entertainment](http://www.legendary.com)** | **[Intern, Film Physical Production - Fall 2026](https://jobright.ai/jobs/info/6a4dd948c643fd23fed3e10d?utm_campaign=1053&utm_source=git)** | Burbank, CA, United States | On Site | Jul 08 |
 | **[Kentucky Farm Bureau Insurance](http://kyfb.com)** | **[Video Production intern](https://jobright.ai/jobs/info/6a4e5869397d8d353c288736?utm_campaign=1053&utm_source=git)** | Louisville, KY, United States | On Site | Jul 08 |
 | **[Willkie Farr & Gallagher LLP](http://www.willkie.com)** | **[Video Production Intern - New York](https://jobright.ai/jobs/info/6a509f6d42c6dc326e8ea6a1?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Jul 08 |
+| **[Namify](http://namify.com)** | **[Videographer Intern](https://jobright.ai/jobs/info/6a51d20a78e364789ca5d6ac?utm_campaign=1053&utm_source=git)** | Springville, UT, United States | On Site | Jul 07 |
 | **[Eightball AI](https://www.eightball.ai)** | **[Content Creator Intern](https://jobright.ai/jobs/info/6a4d7b273122a76a8fd55bdf?utm_campaign=1053&utm_source=git)** | United States | Remote | Jul 07 |
 | **[Augsburg Fortress Publishers](http://1517.media)** | **[Publishing Operations Intern](https://jobright.ai/jobs/info/6a4d6436d27b2c4dda9b76e3?utm_campaign=1053&utm_source=git)** | Minneapolis, MN, United States | On Site | Jul 07 |
 | **[Open Road Integrated Media Inc.](http://www.openroadmedia.com)** | **[Content Writing Intern (FT/Paid)](https://jobright.ai/jobs/info/6a4d60d1c643fd23fed3cbf6?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Hybrid | Jul 07 |
