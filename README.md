@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Broadmoor](http://www.broadmoor.com)** | **[PGM Intern/Assistant Golf Pro](https://jobright.ai/jobs/info/6a51a816bf63b66c7997ab77?utm_campaign=1053&utm_source=git)** | Broadmoor, Colorado Springs, CO 80906, USA | On Site | Jul 10 |
+| **[FUTURA SOUND](www.FuturaSound.com)** | **[Cinematography & Video Editing Internship Opportunity in Production House, Music & Arts Company](https://jobright.ai/jobs/info/6a51ada78d7d3e6cf1cc0f0a?utm_campaign=1053&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jul 10 |
 | **[Our National Conversation (ONC)](https://www.ournationalconversation.org)** | **[Progressive Writer Intern](https://jobright.ai/jobs/info/6a51a45fae4052672fe989dd?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, USA | Remote | Jul 10 |
 | **[ProSidian Consulting](https://prosidian.com/)** | **[Art Collection Management Intern](https://jobright.ai/jobs/info/6a519c4fbf63b66c7997a820?utm_campaign=1053&utm_source=git)** | 300 Camp Rd, Charlotte, NC 28206, USA | Remote | Jul 10 |
 | **[Kroenke Sports & Entertainment](https://www.ballarena.com)** | **[Video Production Intern- Colorado Avalanche](https://jobright.ai/jobs/info/6a3ec89e122f340d29cf4a04?utm_campaign=1053&utm_source=git)** | Denver, CO | On Site | Jul 10 |
