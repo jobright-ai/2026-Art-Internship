@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ATIA Ltd](https://atia.ba/en_US/)** | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a52ac3e8576ec69c014cf30?utm_campaign=1053&utm_source=git)** | Findlay, OH, United States | Remote | Jul 11 |
 | **[XL Event Lab](https://xleventlab.com)** | **[Event Production Intern](https://jobright.ai/jobs/info/6a52a64a8ef95364ead8f3a4?utm_campaign=1053&utm_source=git)** | Orlando, FL, United States | On Site | Jul 11 |
 | **[Brennan Center for Justice](http://www.brennancenter.org/)** | **[Fall 2026 Multimedia Producer Undergraduate Internship](https://jobright.ai/jobs/info/6a396777649fdf1629300b30?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Jul 11 |
 | **[ACLU](https://www.aclu.org/)** | **[Fall 2026 Undergraduate Intern, Communications- Artist & Influencer Engagement](https://jobright.ai/jobs/info/6a50ad7042c6dc326e8eb45f?utm_campaign=1053&utm_source=git)** | New York City, NY, United States | Remote | Jul 11 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Legendary Entertainment](http://www.legendary.com)** | **[Intern, Nerdist Editorial - Fall 2026](https://jobright.ai/jobs/info/6a4c6d0dc643fd23fed3a58a?utm_campaign=1053&utm_source=git)** | Burbank,CA,US | On Site | Jul 06 |
 | ↳ | **[Grad Intern, Production Assets & Archives - Fall 2026](https://jobright.ai/jobs/info/6a509d212e2ceb72963b374b?utm_campaign=1053&utm_source=git)** | Burbank, CA, United States | On Site | Jul 06 |
 | **[WFYI Public Media](https://www.wfyi.org/)** | **[Digital Content, Radio Intern Fall 2026](https://jobright.ai/jobs/info/6a39a10a06a4fd4b1fabb48a?utm_campaign=1053&utm_source=git)** | Indianapolis, IN | On Site | Jul 06 |
-| **[Expressway Cinema Rentals](https://expresswaycine.com/)** | **[The Expressway Cinema Rentals Internship (FALL TERM) - ROCHESTER](https://jobright.ai/jobs/info/6a397da71232144fb156b991?utm_campaign=1053&utm_source=git)** | Rochester, NY | On Site | Jul 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
