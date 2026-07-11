@@ -57,12 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ATIA Ltd](https://atia.ba/en_US/)** | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a51bf8b02522b5b722eaccc?utm_campaign=1053&utm_source=git)** | Tulsa, OK, United States | Remote | Jul 10 |
 | **[The Broadmoor](http://www.broadmoor.com)** | **[PGM Intern/Assistant Golf Pro](https://jobright.ai/jobs/info/6a51a816bf63b66c7997ab77?utm_campaign=1053&utm_source=git)** | Broadmoor, Colorado Springs, CO 80906, USA | On Site | Jul 10 |
+| **[Magnet Media, Inc.](http://www.magnetmediafilms.com)** | **[Production Intern Fall 2027](https://jobright.ai/jobs/info/6a42cfd01cc9cc2b12fece84?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Jul 10 |
 | **[FUTURA SOUND](www.FuturaSound.com)** | **[Cinematography & Video Editing Internship Opportunity in Production House, Music & Arts Company](https://jobright.ai/jobs/info/6a51ada78d7d3e6cf1cc0f0a?utm_campaign=1053&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jul 10 |
 | **[Our National Conversation (ONC)](https://www.ournationalconversation.org)** | **[Progressive Writer Intern](https://jobright.ai/jobs/info/6a51a45fae4052672fe989dd?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, USA | Remote | Jul 10 |
 | **[ProSidian Consulting](https://prosidian.com/)** | **[Art Collection Management Intern](https://jobright.ai/jobs/info/6a519c4fbf63b66c7997a820?utm_campaign=1053&utm_source=git)** | 300 Camp Rd, Charlotte, NC 28206, USA | Remote | Jul 10 |
 | **[Kroenke Sports & Entertainment](https://www.ballarena.com)** | **[Video Production Intern- Colorado Avalanche](https://jobright.ai/jobs/info/6a3ec89e122f340d29cf4a04?utm_campaign=1053&utm_source=git)** | Denver, CO | On Site | Jul 10 |
 | **[LexisNexis Risk Solutions](https://risk.lexisnexis.com)** | **[Editorial Data Reporting Intern](https://jobright.ai/jobs/info/6a5139378d7d3e6cf1cbffd6?utm_campaign=1053&utm_source=git)** | Washington, DC, United States | Remote | Jul 10 |
+| **[Art Institute of Chicago](http://www.artic.edu/)** | **[McMullan Arts Leadership Internship, Interpretation](https://jobright.ai/jobs/info/6a4d6b51c643fd23fed3d03d?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | On Site | Jul 10 |
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a513ebcbf63b66c7997a2f1?utm_campaign=1053&utm_source=git)** | Stockton, CA, United States | Remote | Jul 10 |
 | ↳ | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a513eb1ae4052672fe9834a?utm_campaign=1053&utm_source=git)** | Johnstown, PA, United States | Remote | Jul 10 |
 | ↳ | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a513ea957513b72e0c65379?utm_campaign=1053&utm_source=git)** | Houston, TX, United States | Remote | Jul 10 |
@@ -72,6 +75,7 @@ For a complete list, click the following sortable link below:
 | **[Seattle Kraken](https://www.nhl.com/kraken)** | **[Production Intern (September-April)](https://jobright.ai/jobs/info/6a4fe6e2f57ed168c3417390?utm_campaign=1053&utm_source=git)** | Seattle, Washington, United States | On Site | Jul 10 |
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a51231fae4052672fe97481?utm_campaign=1053&utm_source=git)** | South Bend, IN, United States | Remote | Jul 10 |
 | **[Apartment Therapy Media](http://www.apartmenttherapy.com/)** | **[Dorm Therapy Editorial Intern](https://jobright.ai/jobs/info/6a511de28d7d3e6cf1cbf17d?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Jul 10 |
+| **[WAVY-TV 10](http://wavy.com)** | **[WAVY Unpaid Digital NewsDesk Intern, Fall 2026](https://jobright.ai/jobs/info/69fb5053ffa73664aeafe7d5?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Jul 10 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[WAVY Unpaid Digital NewsDesk Intern, Fall 2026](https://jobright.ai/jobs/info/69fa704ea3d34b4f76f65b5a?utm_campaign=1053&utm_source=git)** | VA, Portsmouth, US | On Site | Jul 10 |
 | **[WAVY-TV 10](http://wavy.com)** | **[WAVY Unpaid Sports Intern, Fall 2026](https://jobright.ai/jobs/info/69fb56bb18b94b2515be1822?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Jul 10 |
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a510671ae4052672fe96351?utm_campaign=1053&utm_source=git)** | Lubbock, TX, United States | Remote | Jul 10 |
