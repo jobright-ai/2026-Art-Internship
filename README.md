@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ATIA Ltd](https://atia.ba/en_US/)** | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a521f63e726ec56126a1b28?utm_campaign=1053&utm_source=git)** | Tampa, FL, United States | Remote | Jul 11 |
+| ↳ | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a521f528ef95364ead8cf6c?utm_campaign=1053&utm_source=git)** | Raleigh, NC, United States | Remote | Jul 11 |
 | **[Monumental Sports & Entertainment](http://www.monumentalsports.com/)** | **[Internship: Arena Administrative Events (Part-Time/Seasonal)](https://jobright.ai/jobs/info/6a5211ac8a74e077472f2ef0?utm_campaign=1053&utm_source=git)** | Fairfax, VA 22030 | On Site | Jul 11 |
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a52035678e364789ca5f1ec?utm_campaign=1053&utm_source=git)** | Lawrence, KS, United States | Remote | Jul 11 |
 | ↳ | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a52033857513b72e0c6a2a2?utm_campaign=1053&utm_source=git)** | San Jose, CA, United States | Remote | Jul 11 |
@@ -111,7 +113,7 @@ For a complete list, click the following sortable link below:
 | **[Studio Museum in Harlem](https://www.studiomuseum.org/)** | **[Fall 2026 Director's Office Intern](https://jobright.ai/jobs/info/6a507635397d8d353c28eb5f?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Hybrid | Jul 09 |
 | **[VOX ATL](https://voxatl.org)** | **[Atlanta Teen Voices Journalism Fellowship Near-Peer Intern](https://jobright.ai/jobs/info/6a503bc24649561ec08b0bde?utm_campaign=1053&utm_source=git)** | Atlanta, GA, United States | On Site | Jul 09 |
 | **[Sony Music Publishing](https://www.sonymusicpub.com/)** | **[Fall Intern, A&R (West Coast)](https://jobright.ai/jobs/info/6a50382ffc327f422fef839b?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 09 |
-| **[State of Iowa - Executive Branch](https://icrc.iowa.gov)** | **[Fall 2026 Production Intern](https://jobright.ai/jobs/info/6a509f08ddd293054ccaa9bc?utm_campaign=1053&utm_source=git)** | Johnston, IA, United States | On Site | Jul 09 |
+| **[State of Iowa - Executive Branch](https://www.floydco.iowa.gov)** | **[Fall 2026 Production Intern](https://jobright.ai/jobs/info/6a509f08ddd293054ccaa9bc?utm_campaign=1053&utm_source=git)** | Johnston, IA, United States | On Site | Jul 09 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Fall 2026 Production Intern](https://jobright.ai/jobs/info/6a509ed942c6dc326e8ea4c2?utm_campaign=1053&utm_source=git)** | Johnston, IA, United States | On Site | Jul 09 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Intern, Artist Manager Assistant](https://jobright.ai/jobs/info/6a32e02329c90c607e4d87d1?utm_campaign=1053&utm_source=git)** | Etobicoke, ON, CA | On Site | Jul 09 |
 | **[MATTE Projects](https://matteprojects.com/)** | **[Experiential Production Internship: Fall 2026 (On-site, NYC)](https://jobright.ai/jobs/info/6a330808ce501060b5cebefd?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jul 09 |
