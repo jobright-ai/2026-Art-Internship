@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Kroenke Sports & Entertainment](https://www.ballarena.com)** | **[Video Production Intern- Colorado Avalanche](https://jobright.ai/jobs/info/6a3ec89e122f340d29cf4a04?utm_campaign=1053&utm_source=git)** | Denver, CO | On Site | Jul 10 |
 | **[LexisNexis Risk Solutions](https://risk.lexisnexis.com)** | **[Editorial Data Reporting Intern](https://jobright.ai/jobs/info/6a5139378d7d3e6cf1cbffd6?utm_campaign=1053&utm_source=git)** | Washington, DC, United States | Remote | Jul 10 |
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a513ebcbf63b66c7997a2f1?utm_campaign=1053&utm_source=git)** | Stockton, CA, United States | Remote | Jul 10 |
 | ↳ | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a513eb1ae4052672fe9834a?utm_campaign=1053&utm_source=git)** | Johnstown, PA, United States | Remote | Jul 10 |
@@ -87,7 +88,6 @@ For a complete list, click the following sortable link below:
 | **[Studio Museum in Harlem](https://www.studiomuseum.org/)** | **[Fall 2026 Director's Office Intern](https://jobright.ai/jobs/info/6a507635397d8d353c28eb5f?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Hybrid | Jul 09 |
 | **[VOX ATL](https://voxatl.org)** | **[Atlanta Teen Voices Journalism Fellowship Near-Peer Intern](https://jobright.ai/jobs/info/6a503bc24649561ec08b0bde?utm_campaign=1053&utm_source=git)** | Atlanta, GA, United States | On Site | Jul 09 |
 | **[Sony Music Publishing](https://www.sonymusicpub.com/)** | **[Fall Intern, A&R (West Coast)](https://jobright.ai/jobs/info/6a50382ffc327f422fef839b?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 09 |
-| **[United Way of Central Massachusetts](https://unitedwaycm.org)** | **[Half Marathon Operations Intern](https://jobright.ai/jobs/info/6a509f2742c6dc326e8ea5df?utm_campaign=1053&utm_source=git)** | Worcester, MA, United States | Hybrid | Jul 09 |
 | **[State of Iowa - Executive Branch](https://icrc.iowa.gov)** | **[Fall 2026 Production Intern](https://jobright.ai/jobs/info/6a509f08ddd293054ccaa9bc?utm_campaign=1053&utm_source=git)** | Johnston, IA, United States | On Site | Jul 09 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Fall 2026 Production Intern](https://jobright.ai/jobs/info/6a509ed942c6dc326e8ea4c2?utm_campaign=1053&utm_source=git)** | Johnston, IA, United States | On Site | Jul 09 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Intern, Artist Manager Assistant](https://jobright.ai/jobs/info/6a32e02329c90c607e4d87d1?utm_campaign=1053&utm_source=git)** | Etobicoke, ON, CA | On Site | Jul 09 |
