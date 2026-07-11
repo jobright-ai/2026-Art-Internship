@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[XL Event Lab](https://xleventlab.com)** | **[Event Production Intern](https://jobright.ai/jobs/info/6a52a64a8ef95364ead8f3a4?utm_campaign=1053&utm_source=git)** | Orlando, FL, United States | On Site | Jul 11 |
+| **[Brennan Center for Justice](http://www.brennancenter.org/)** | **[Fall 2026 Multimedia Producer Undergraduate Internship](https://jobright.ai/jobs/info/6a396777649fdf1629300b30?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Jul 11 |
 | **[ACLU](https://www.aclu.org/)** | **[Fall 2026 Undergraduate Intern, Communications- Artist & Influencer Engagement](https://jobright.ai/jobs/info/6a50ad7042c6dc326e8eb45f?utm_campaign=1053&utm_source=git)** | New York City, NY, United States | Remote | Jul 11 |
 | **[MBJ Network](www.mbj-network.com)** | **[Lead Video Editor - Intern](https://jobright.ai/jobs/info/6a528fbd8576ec69c014c83a?utm_campaign=1053&utm_source=git)** | Lombard, IL, United States | On Site | Jul 11 |
 | **[Red Bull](https://www.redbull.com/au-en/)** | **[2026 Internship, Summer - Creative Video](https://jobright.ai/jobs/info/6a52756c8576ec69c014c0ff?utm_campaign=1053&utm_source=git)** | Harrison, NJ, United States | On Site | Jul 11 |
@@ -82,8 +84,8 @@ For a complete list, click the following sortable link below:
 | **[iHeartMedia](http://iheartmedia.com)** | **[Elvis Duran Morning Show Intern](https://jobright.ai/jobs/info/6a51ef36bf63b66c7997ed26?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Jul 10 |
 | **[The Corelink Solution](http://www.thecorelinksolution.com)** | **[Artist Community Manager (Volunteer / Intern)](https://jobright.ai/jobs/info/6a51cbed78e364789ca5cf3b?utm_campaign=1053&utm_source=git)** | 1010 Concord Ave, Wilmington, DE 19802, USA | Hybrid | Jul 10 |
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a51cbb7ae4052672fe9af6a?utm_campaign=1053&utm_source=git)** | Detroit, MI, United States | Remote | Jul 10 |
-| ↳ | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a51dea58d7d3e6cf1cc4186?utm_campaign=1053&utm_source=git)** | Cedar City, UT, United States | Remote | Jul 10 |
 | ↳ | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a51bf8b02522b5b722eaccc?utm_campaign=1053&utm_source=git)** | Tulsa, OK, United States | Remote | Jul 10 |
+| ↳ | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a51dea58d7d3e6cf1cc4186?utm_campaign=1053&utm_source=git)** | Cedar City, UT, United States | Remote | Jul 10 |
 | **[The Broadmoor](http://www.broadmoor.com)** | **[PGM Intern/Assistant Golf Pro](https://jobright.ai/jobs/info/6a51a816bf63b66c7997ab77?utm_campaign=1053&utm_source=git)** | Broadmoor, Colorado Springs, CO 80906, USA | On Site | Jul 10 |
 | **[Magnet Media, Inc.](http://www.magnetmediafilms.com)** | **[Production Intern Fall 2027](https://jobright.ai/jobs/info/6a42cfd01cc9cc2b12fece84?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Jul 10 |
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a51d998ae4052672fe9be3a?utm_campaign=1053&utm_source=git)** | Fort Worth, TX, United States | Remote | Jul 10 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Grad Intern, Production Assets & Archives - Fall 2026](https://jobright.ai/jobs/info/6a509d212e2ceb72963b374b?utm_campaign=1053&utm_source=git)** | Burbank, CA, United States | On Site | Jul 06 |
 | **[WFYI Public Media](https://www.wfyi.org/)** | **[Digital Content, Radio Intern Fall 2026](https://jobright.ai/jobs/info/6a39a10a06a4fd4b1fabb48a?utm_campaign=1053&utm_source=git)** | Indianapolis, IN | On Site | Jul 06 |
 | **[Expressway Cinema Rentals](https://expresswaycine.com/)** | **[The Expressway Cinema Rentals Internship (FALL TERM) - ROCHESTER](https://jobright.ai/jobs/info/6a397da71232144fb156b991?utm_campaign=1053&utm_source=git)** | Rochester, NY | On Site | Jul 06 |
-| **[Pearl West](https://www.pearlwestgroup.com)** | **[TikTok Shop Intern](https://jobright.ai/jobs/info/6a4c2ba7971cd25b06f99de1?utm_campaign=1053&utm_source=git)** | Vancouver, BC, Canada | Hybrid | Jul 06 |
-| **[FOX Sports](http://foxsports.com)** | **[Fall 2026 Big Ten Network Internship Program - Chicago](https://jobright.ai/jobs/info/6a4c0654c2d11a6a46679a43?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Jul 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
