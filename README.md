@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[NBCUniversal](https://www.nbcuniversal.com/)** | **[NBC Connecticut, CT LIVE! Lifestyle Program Intern - Academic Year 2026-2027](https://jobright.ai/jobs/info/6a53c971c8eb0843027adbec?utm_campaign=1053&utm_source=git)** | Hartford, CT, United States | On Site | Jul 12 |
+| **[adyn](https://www.adyn.com/)** | **[DIGITAL STORYTELLING INTERN](https://jobright.ai/jobs/info/6a53c8298ef95364ead9354b?utm_campaign=1053&utm_source=git)** | Seattle, WA, United States | Remote | Jul 12 |
+| **[Hasana, Inc.](http://shophasana.com)** | **[Street/Event Team Intern/Volunteer](https://jobright.ai/jobs/info/6a53c454e726ec56126a7eb5?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | On Site | Jul 12 |
+| **[The Aparecio Foundation](http://www.apareciofoundation.org)** | **[Advisory Board Member Intern/Volunteer](https://jobright.ai/jobs/info/6a53c39c8576ec69c0150d71?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | On Site | Jul 12 |
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a53a9428a74e077472f9300?utm_campaign=1053&utm_source=git)** | Portland, OR, United States | Remote | Jul 12 |
 | ↳ | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a53a9388a74e077472f92fe?utm_campaign=1053&utm_source=git)** | Columbus, OH, United States | Remote | Jul 12 |
 | ↳ | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a53a9278a74e077472f92f9?utm_campaign=1053&utm_source=git)** | Denver, CO, United States | Remote | Jul 12 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[PiñataFarms AI](https://pinatafarms.ai/)** | **[Content Creator Intern - (App install focused)](https://jobright.ai/jobs/info/6a4f01b89469c0662034d2b0?utm_campaign=1053&utm_source=git)** | Santa Monica, CA, United States | On Site | Jul 08 |
 | **[American Heart Association](https://www.goredforwomen.org)** | **[Intern, Exhibit & Sponsorship-Remote](https://jobright.ai/jobs/info/6a33ffb71232144fb155da12?utm_campaign=1053&utm_source=git)** | Dallas, TX, United States | Remote | Jul 08 |
 | **[BPCM](http://www.bpcm.com)** | **[Fall Internship, Fashion](https://jobright.ai/jobs/info/6a4ebd8efc327f422fef4087?utm_campaign=1053&utm_source=git)** | Brooklyn, NY, United States | On Site | Jul 08 |
-| **[CLD PR & Experiential Productions](https://cldstylehouse.com)** | **[Summer Party 2026 VIP Event Intern (Celebrity & Macro Influencer Experiential Event)](https://jobright.ai/jobs/info/6a4ebfcb9469c0662034c94f?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 08 |
-| **[NoGood](https://nogood.io)** | **[Intern- Social Video Creator](https://jobright.ai/jobs/info/69d9a15b738f2f099e8a368e?utm_campaign=1053&utm_source=git)** | New York, New York, United States | Hybrid | Jul 08 |
-| **[Sony Electronics](http://www.sonyjobs.com)** | **[Intern, Film & TV Sync](https://jobright.ai/jobs/info/6a509e3cd5d2a327b664c2b8?utm_campaign=1053&utm_source=git)** | NA / Hollywood N Orange Dr 37.5, United States of America | On Site | Jul 08 |
-| **[PURPLE](https://purplepr.com)** | **[Fashion Intern - Fall](https://jobright.ai/jobs/info/6a4f79e94649561ec08ae14e?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
