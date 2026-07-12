@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Blinter Magazine](www.blintermagazine.com)** | **[2026-2027 Blinter Magazine Editorial Cohort](https://jobright.ai/jobs/info/6a52ea9ee726ec56126a5060?utm_campaign=1053&utm_source=git)** | United States | Remote | Jul 11 |
+| **[Real Art Daily (RAD) Productions](https://radprod.com)** | **[Unreal Engine Intern](https://jobright.ai/jobs/info/6a52e3a38a74e077472f67d9?utm_campaign=1053&utm_source=git)** | California, United States | Remote | Jul 11 |
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a52c848e726ec56126a48a5?utm_campaign=1053&utm_source=git)** | Las Vegas, NV, United States | Remote | Jul 11 |
 | ↳ | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a52c836e726ec56126a489b?utm_campaign=1053&utm_source=git)** | Kansas City, MO, United States | Remote | Jul 11 |
 | ↳ | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a52c8288a74e077472f6165?utm_campaign=1053&utm_source=git)** | Anchorage, AK, United States | Remote | Jul 11 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Augsburg Fortress Publishers](http://1517.media)** | **[Publishing Operations Intern](https://jobright.ai/jobs/info/6a4d6436d27b2c4dda9b76e3?utm_campaign=1053&utm_source=git)** | Minneapolis, MN, United States | On Site | Jul 07 |
 | **[Open Road Integrated Media Inc.](http://www.openroadmedia.com)** | **[Content Writing Intern (FT/Paid)](https://jobright.ai/jobs/info/6a4d60d1c643fd23fed3cbf6?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Hybrid | Jul 07 |
 | ↳ | **[Content Writing Intern (PT/For-Credit)](https://jobright.ai/jobs/info/6a4d60d035e45603c4bb39c9?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Hybrid | Jul 07 |
-| **[Legendary Entertainment](http://www.legendary.com)** | **[Intern, Nerdist Post Production - Fall 2026](https://jobright.ai/jobs/info/6a4c6da099523700cbff30c5?utm_campaign=1053&utm_source=git)** | Burbank, CA, United States | On Site | Jul 07 |
-| ↳ | **[Grad Intern, Production Assets & Archives - Fall 2026](https://jobright.ai/jobs/info/6a4dc32d0209ea6fd685318c?utm_campaign=1053&utm_source=git)** | Burbank, CA, United States | On Site | Jul 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
