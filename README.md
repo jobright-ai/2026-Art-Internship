@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ATIA Ltd](https://atia.ba/en_US/)** | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a53e186c8eb0843027ae150?utm_campaign=1053&utm_source=git)** | Winston-Salem, NC, United States | Remote | Jul 12 |
+| ↳ | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a53e160e726ec56126a85f9?utm_campaign=1053&utm_source=git)** | Edmond, OK, United States | Remote | Jul 12 |
+| **[42West-Fandoms & Franchises](http://bhimpact.com)** | **[Entertainment Content Internship](https://jobright.ai/jobs/info/6a53df588a74e077472f9e6b?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 12 |
 | **[Listen In With KNN](http://www.listeninwithknn.com)** | **[Editorial Intern](https://jobright.ai/jobs/info/6a53d4eec8eb0843027addf0?utm_campaign=1053&utm_source=git)** | United States | Remote | Jul 12 |
 | **[NBCUniversal](https://www.nbcuniversal.com/)** | **[NBC Connecticut, CT LIVE! Lifestyle Program Intern - Academic Year 2026-2027](https://jobright.ai/jobs/info/6a53c971c8eb0843027adbec?utm_campaign=1053&utm_source=git)** | Hartford, CT, United States | On Site | Jul 12 |
 | **[adyn](https://www.adyn.com/)** | **[DIGITAL STORYTELLING INTERN](https://jobright.ai/jobs/info/6a53c8298ef95364ead9354b?utm_campaign=1053&utm_source=git)** | Seattle, WA, United States | Remote | Jul 12 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Soccer Shots Franchising](http://www.soccershotsfranchising.com)** | **[Soccer Shots Internship Fall 26/Winter 27](https://jobright.ai/jobs/info/6a3fa5343bfa967791ebf478?utm_campaign=1053&utm_source=git)** | Carmel, IN, US | On Site | Jul 09 |
 | **[Weigel Broadcasting Co.](https://www.weigelbroadcasting.com/)** | **[Post-Production Intern](https://jobright.ai/jobs/info/6a4e7dde15b4965afd5837e0?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | On Site | Jul 09 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Fall 2026 Production Intern](https://jobright.ai/jobs/info/6a509ed942c6dc326e8ea4c2?utm_campaign=1053&utm_source=git)** | Johnston, IA, United States | On Site | Jul 08 |
-| **[Nomara USA](https://intermediumcorp.com)** | **[Internship - Social Media Video Editor Intern](https://jobright.ai/jobs/info/6a4f76e0f57ed168c3415abc?utm_campaign=1053&utm_source=git)** | United States | Remote | Jul 08 |
-| **[PiñataFarms AI](https://pinatafarms.ai/)** | **[Content Creator Intern - (App install focused)](https://jobright.ai/jobs/info/6a4f01b89469c0662034d2b0?utm_campaign=1053&utm_source=git)** | Santa Monica, CA, United States | On Site | Jul 08 |
-| **[American Heart Association](https://www.goredforwomen.org)** | **[Intern, Exhibit & Sponsorship-Remote](https://jobright.ai/jobs/info/6a33ffb71232144fb155da12?utm_campaign=1053&utm_source=git)** | Dallas, TX, United States | Remote | Jul 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
