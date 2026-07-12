@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ATIA Ltd](https://atia.ba/en_US/)** | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a53a9428a74e077472f9300?utm_campaign=1053&utm_source=git)** | Portland, OR, United States | Remote | Jul 12 |
+| ↳ | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a53a9388a74e077472f92fe?utm_campaign=1053&utm_source=git)** | Columbus, OH, United States | Remote | Jul 12 |
+| ↳ | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a53a9278a74e077472f92f9?utm_campaign=1053&utm_source=git)** | Denver, CO, United States | Remote | Jul 12 |
+| **[Vizzy Labs](https://www.vizzylabs.ai/)** | **[Narrative Design Intern](https://jobright.ai/jobs/info/6a53a8e3d007ee02d95fc1f0?utm_campaign=1053&utm_source=git)** | San Francisco Bay Area, United States | Remote | Jul 12 |
 | **[Ever](https://evercars.com)** | **[Video Producer Internship](https://jobright.ai/jobs/info/6a5394bf8ef95364ead92a11?utm_campaign=1053&utm_source=git)** | San Francisco, CA, United States | On Site | Jul 12 |
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a538cf6d007ee02d95fbc1a?utm_campaign=1053&utm_source=git)** | Nacogdoches, TX, United States | Remote | Jul 12 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Intern, Weather](https://jobright.ai/jobs/info/69c19fa779e36d3a847e9c77?utm_campaign=1053&utm_source=git)** | IL, Champaign | On Site | Jul 12 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[NoGood](https://nogood.io)** | **[Intern- Social Video Creator](https://jobright.ai/jobs/info/69d9a15b738f2f099e8a368e?utm_campaign=1053&utm_source=git)** | New York, New York, United States | Hybrid | Jul 08 |
 | **[Sony Electronics](http://www.sonyjobs.com)** | **[Intern, Film & TV Sync](https://jobright.ai/jobs/info/6a509e3cd5d2a327b664c2b8?utm_campaign=1053&utm_source=git)** | NA / Hollywood N Orange Dr 37.5, United States of America | On Site | Jul 08 |
 | **[PURPLE](https://purplepr.com)** | **[Fashion Intern - Fall](https://jobright.ai/jobs/info/6a4f79e94649561ec08ae14e?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 08 |
-| **[Sony Music Publishing](https://www.sonymusicpub.com/)** | **[Clearance Intern, Film & TV](https://jobright.ai/jobs/info/6a4e74e89469c0662034b4ad?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 08 |
-| **[WCIA 3](https://www.wcia.com/)** | **[Unpaid Intern, Weather](https://jobright.ai/jobs/info/69c20a5e75f7ff1cd810a997?utm_campaign=1053&utm_source=git)** | Champaign, IL | On Site | Jul 08 |
-| **[Legendary Entertainment](http://www.legendary.com)** | **[Intern, Film Physical Production - Fall 2026](https://jobright.ai/jobs/info/6a4dd948c643fd23fed3e10d?utm_campaign=1053&utm_source=git)** | Burbank, CA, United States | On Site | Jul 08 |
-| **[Kentucky Farm Bureau Insurance](http://kyfb.com)** | **[Video Production intern](https://jobright.ai/jobs/info/6a4e5869397d8d353c288736?utm_campaign=1053&utm_source=git)** | Louisville, KY, United States | On Site | Jul 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
