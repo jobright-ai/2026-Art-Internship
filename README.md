@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Piece of Cake: A Teen-Led Food Magazine](https://bluepencilwriting.wixsite.com/pieceofcake)** | **[Intern Food Writer](https://jobright.ai/jobs/info/6a5423fc8576ec69c01522c7?utm_campaign=1053&utm_source=git)** | United States | Remote | Jul 12 |
+| **[National Cherry Blossom Festival](https://nationalcherryblossomfestival.org)** | **[Events and Operations Intern - 2027 Festival](https://jobright.ai/jobs/info/6a54233fc8eb0843027aee88?utm_campaign=1053&utm_source=git)** | Washington, DC, United States | On Site | Jul 12 |
 | **[Resources for the Future](http://www.rff.org/)** | **[Editorial Intern (Fall Semester)](https://jobright.ai/jobs/info/6a541b378a74e077472fab95?utm_campaign=1053&utm_source=git)** | Washington, DC, United States | On Site | Jul 12 |
 | **[Editor](http://www.editor.si)** | **[Editorial Assistant Intern (remote)](https://jobright.ai/jobs/info/6a541328e726ec56126a8ffc?utm_campaign=1053&utm_source=git)** | Los Angeles, California, United States | Remote | Jul 12 |
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a53fd828a74e077472fa473?utm_campaign=1053&utm_source=git)** | Edmonton, Canada | Remote | Jul 12 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[VOX ATL](https://voxatl.org)** | **[Atlanta Teen Voices Journalism Fellowship Near-Peer Intern](https://jobright.ai/jobs/info/6a503bc24649561ec08b0bde?utm_campaign=1053&utm_source=git)** | Atlanta, GA, United States | On Site | Jul 09 |
 | **[Sony Music Publishing](https://www.sonymusicpub.com/)** | **[Fall Intern, A&R (West Coast)](https://jobright.ai/jobs/info/6a50382ffc327f422fef839b?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 09 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Disney Entertainment Television Production Innovation Intern, Fall 2026](https://jobright.ai/jobs/info/6a4f4a061544d7246c0d5543?utm_campaign=1053&utm_source=git)** | Burbank, CA, USA | Hybrid | Jul 09 |
-| **[State of Iowa - Executive Branch](https://icrc.iowa.gov)** | **[Fall 2026 Production Intern](https://jobright.ai/jobs/info/6a509f08ddd293054ccaa9bc?utm_campaign=1053&utm_source=git)** | Johnston, IA, United States | On Site | Jul 09 |
-| **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Intern, Artist Manager Assistant](https://jobright.ai/jobs/info/6a32e02329c90c607e4d87d1?utm_campaign=1053&utm_source=git)** | Etobicoke, ON, CA | On Site | Jul 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
