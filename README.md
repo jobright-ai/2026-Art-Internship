@@ -74,7 +74,6 @@ For a complete list, click the following sortable link below:
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a53fd828a74e077472fa473?utm_campaign=1053&utm_source=git)** | Edmonton, Canada | Remote | Jul 12 |
 | **[Ripken Baseball](https://www.ripkenbaseball.com)** | **[Fall Tournament Operations Intern](https://jobright.ai/jobs/info/6a53f4a38a74e077472fa203?utm_campaign=1053&utm_source=git)** | Pigeon Forge, TN, United States | On Site | Jul 12 |
 | **[FUTURA SOUND](www.FuturaSound.com)** | **[Cinematography & Video Editing Internship Opportunity in Production House, Music & Arts Company](https://jobright.ai/jobs/info/6a53f3c48576ec69c01517c6?utm_campaign=1053&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jul 12 |
-| **[Operater](https://operater.io)** | **[Content Creator Internship(English)](https://jobright.ai/jobs/info/6a53ecab8576ec69c01516c9?utm_campaign=1053&utm_source=git)** | United States | Remote | Jul 12 |
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a53e186c8eb0843027ae150?utm_campaign=1053&utm_source=git)** | Winston-Salem, NC, United States | Remote | Jul 12 |
 | ↳ | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a53e160e726ec56126a85f9?utm_campaign=1053&utm_source=git)** | Edmond, OK, United States | Remote | Jul 12 |
 | **[42West-Fandoms & Franchises](http://bhimpact.com)** | **[Entertainment Content Internship](https://jobright.ai/jobs/info/6a53df588a74e077472f9e6b?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 12 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[LexisNexis](http://www.lexisnexis.com)** | **[Editorial Data Reporting Intern](https://jobright.ai/jobs/info/6a52295c8a74e077472f35b0?utm_campaign=1053&utm_source=git)** | Washington, DC, United States | Remote | Jul 10 |
 | **[MBJ Network](www.mbj-network.com)** | **[Staff Writer-Intern](https://jobright.ai/jobs/info/6a50f49e78e364789ca577e1?utm_campaign=1053&utm_source=git)** | 330 E Roosevelt Rd, Lombard, IL 60148, United States | Remote | Jul 10 |
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a50ea5f78e364789ca573ec?utm_campaign=1053&utm_source=git)** | Phoenix, AZ, United States | Remote | Jul 10 |
+| ↳ | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a50ea5d8d7d3e6cf1cbd616?utm_campaign=1053&utm_source=git)** | Richmond, IN, United States | Remote | Jul 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
