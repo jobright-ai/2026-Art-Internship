@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ATIA Ltd](https://atia.ba/en_US/)** | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a545437e726ec56126a9e8d?utm_campaign=1053&utm_source=git)** | Lexington, VA, United States | Remote | Jul 12 |
+| **[Patrick Painter Inc.](http://www.patrickpainter.com)** | **[Intern](https://jobright.ai/jobs/info/6a545098e726ec56126a9d86?utm_campaign=1053&utm_source=git)** | Santa Monica, CA, United States | On Site | Jul 12 |
+| **[Evolve Studios®](https://evolve.studio)** | **[Assistant Editor Internship](https://jobright.ai/jobs/info/6a42d4796a9c2774b3fa77aa?utm_campaign=1053&utm_source=git)** | Franklin, TN, United States | On Site | Jul 12 |
 | **[National Cherry Blossom Festival](https://nationalcherryblossomfestival.org)** | **[Events and Operations Intern - 2027 Festival](https://jobright.ai/jobs/info/6a54372bc8eb0843027af2b5?utm_campaign=1053&utm_source=git)** | Washington, DC, United States | Hybrid | Jul 12 |
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a5435dad007ee02d95fe0e7?utm_campaign=1053&utm_source=git)** | Indiana, PA, United States | Remote | Jul 12 |
 | ↳ | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a5435c1c8eb0843027af266?utm_campaign=1053&utm_source=git)** | Bakersfield, CA, United States | Remote | Jul 12 |
@@ -121,8 +124,8 @@ For a complete list, click the following sortable link below:
 | **[iHeartMedia](http://iheartmedia.com)** | **[Elvis Duran Morning Show Intern](https://jobright.ai/jobs/info/6a51ef36bf63b66c7997ed26?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Jul 10 |
 | **[The Corelink Solution](http://www.thecorelinksolution.com)** | **[Artist Community Manager (Volunteer / Intern)](https://jobright.ai/jobs/info/6a51cbed78e364789ca5cf3b?utm_campaign=1053&utm_source=git)** | 1010 Concord Ave, Wilmington, DE 19802, USA | Hybrid | Jul 10 |
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a51cbb7ae4052672fe9af6a?utm_campaign=1053&utm_source=git)** | Detroit, MI, United States | Remote | Jul 10 |
-| ↳ | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a51bf8b02522b5b722eaccc?utm_campaign=1053&utm_source=git)** | Tulsa, OK, United States | Remote | Jul 10 |
 | ↳ | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a51dea58d7d3e6cf1cc4186?utm_campaign=1053&utm_source=git)** | Cedar City, UT, United States | Remote | Jul 10 |
+| ↳ | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a51bf8b02522b5b722eaccc?utm_campaign=1053&utm_source=git)** | Tulsa, OK, United States | Remote | Jul 10 |
 | **[The Broadmoor](http://www.broadmoor.com)** | **[PGM Intern/Assistant Golf Pro](https://jobright.ai/jobs/info/6a51a816bf63b66c7997ab77?utm_campaign=1053&utm_source=git)** | Broadmoor, Colorado Springs, CO 80906, USA | On Site | Jul 10 |
 | **[Magnet Media, Inc.](http://www.magnetmediafilms.com)** | **[Production Intern Fall 2027](https://jobright.ai/jobs/info/6a42cfd01cc9cc2b12fece84?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Jul 10 |
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a51d998ae4052672fe9be3a?utm_campaign=1053&utm_source=git)** | Fort Worth, TX, United States | Remote | Jul 10 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a50ea5d8d7d3e6cf1cbd616?utm_campaign=1053&utm_source=git)** | Richmond, IN, United States | Remote | Jul 10 |
 | ↳ | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a50ea4978e364789ca573cd?utm_campaign=1053&utm_source=git)** | Fargo, ND, United States | Remote | Jul 10 |
 | ↳ | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a50ea2702522b5b722e5db2?utm_campaign=1053&utm_source=git)** | Gainesville, FL, United States | Remote | Jul 10 |
-| **[ICRAVE](https://www.icrave.com)** | **[Producer Intern](https://jobright.ai/jobs/info/6a511242ae4052672fe968f6?utm_campaign=1053&utm_source=git)** | New York, United States | On Site | Jul 10 |
-| **[TikTok](https://www.tiktok.com)** | **[Agency Ops Project Intern (TikTok Local Services) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a5076339469c06620351013?utm_campaign=1053&utm_source=git)** | Los Angeles, United States | On Site | Jul 10 |
-| **[LSESU Global Brigades Society](https://www.globalbrigades.org/)** | **[Content Creator Intern](https://jobright.ai/jobs/info/6a50a637ddd293054ccaadb6?utm_campaign=1053&utm_source=git)** | United States | Remote | Jul 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
