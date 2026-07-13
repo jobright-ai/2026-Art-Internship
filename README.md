@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Highgate](https://www.highgate.com)** | **[Culinary Intern](https://jobright.ai/jobs/info/6a546481d007ee02d95fe9c7?utm_campaign=1053&utm_source=git)** | Las Vegas, NV, United States | On Site | Jul 12 |
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a545437e726ec56126a9e8d?utm_campaign=1053&utm_source=git)** | Lexington, VA, United States | Remote | Jul 12 |
 | **[Patrick Painter Inc.](http://www.patrickpainter.com)** | **[Intern](https://jobright.ai/jobs/info/6a545098e726ec56126a9d86?utm_campaign=1053&utm_source=git)** | Santa Monica, CA, United States | On Site | Jul 12 |
 | **[Evolve Studios®](https://evolve.studio)** | **[Assistant Editor Internship](https://jobright.ai/jobs/info/6a42d4796a9c2774b3fa77aa?utm_campaign=1053&utm_source=git)** | Franklin, TN, United States | On Site | Jul 12 |
@@ -124,8 +125,8 @@ For a complete list, click the following sortable link below:
 | **[iHeartMedia](http://iheartmedia.com)** | **[Elvis Duran Morning Show Intern](https://jobright.ai/jobs/info/6a51ef36bf63b66c7997ed26?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Jul 10 |
 | **[The Corelink Solution](http://www.thecorelinksolution.com)** | **[Artist Community Manager (Volunteer / Intern)](https://jobright.ai/jobs/info/6a51cbed78e364789ca5cf3b?utm_campaign=1053&utm_source=git)** | 1010 Concord Ave, Wilmington, DE 19802, USA | Hybrid | Jul 10 |
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a51cbb7ae4052672fe9af6a?utm_campaign=1053&utm_source=git)** | Detroit, MI, United States | Remote | Jul 10 |
-| ↳ | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a51dea58d7d3e6cf1cc4186?utm_campaign=1053&utm_source=git)** | Cedar City, UT, United States | Remote | Jul 10 |
 | ↳ | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a51bf8b02522b5b722eaccc?utm_campaign=1053&utm_source=git)** | Tulsa, OK, United States | Remote | Jul 10 |
+| ↳ | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a51dea58d7d3e6cf1cc4186?utm_campaign=1053&utm_source=git)** | Cedar City, UT, United States | Remote | Jul 10 |
 | **[The Broadmoor](http://www.broadmoor.com)** | **[PGM Intern/Assistant Golf Pro](https://jobright.ai/jobs/info/6a51a816bf63b66c7997ab77?utm_campaign=1053&utm_source=git)** | Broadmoor, Colorado Springs, CO 80906, USA | On Site | Jul 10 |
 | **[Magnet Media, Inc.](http://www.magnetmediafilms.com)** | **[Production Intern Fall 2027](https://jobright.ai/jobs/info/6a42cfd01cc9cc2b12fece84?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Jul 10 |
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a51d998ae4052672fe9be3a?utm_campaign=1053&utm_source=git)** | Fort Worth, TX, United States | Remote | Jul 10 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a50ea5f78e364789ca573ec?utm_campaign=1053&utm_source=git)** | Phoenix, AZ, United States | Remote | Jul 10 |
 | ↳ | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a50ea5d8d7d3e6cf1cbd616?utm_campaign=1053&utm_source=git)** | Richmond, IN, United States | Remote | Jul 10 |
 | ↳ | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a50ea4978e364789ca573cd?utm_campaign=1053&utm_source=git)** | Fargo, ND, United States | Remote | Jul 10 |
-| ↳ | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a50ea2702522b5b722e5db2?utm_campaign=1053&utm_source=git)** | Gainesville, FL, United States | Remote | Jul 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
