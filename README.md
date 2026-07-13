@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[National Cherry Blossom Festival](https://nationalcherryblossomfestival.org)** | **[Events and Operations Intern - 2027 Festival](https://jobright.ai/jobs/info/6a54372bc8eb0843027af2b5?utm_campaign=1053&utm_source=git)** | Washington, DC, United States | Hybrid | Jul 12 |
+| **[ATIA Ltd](https://atia.ba/en_US/)** | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a5435dad007ee02d95fe0e7?utm_campaign=1053&utm_source=git)** | Indiana, PA, United States | Remote | Jul 12 |
+| ↳ | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a5435c1c8eb0843027af266?utm_campaign=1053&utm_source=git)** | Bakersfield, CA, United States | Remote | Jul 12 |
+| **[The Burnette Agency](https://theburnetteagency.com)** | **[Winter/Spring Semester Internship](https://jobright.ai/jobs/info/6a5434d3e726ec56126a97ae?utm_campaign=1053&utm_source=git)** | Atlanta, GA, United States | On Site | Jul 12 |
 | **[Piece of Cake: A Teen-Led Food Magazine](https://bluepencilwriting.wixsite.com/pieceofcake)** | **[Intern Food Writer](https://jobright.ai/jobs/info/6a5423fc8576ec69c01522c7?utm_campaign=1053&utm_source=git)** | United States | Remote | Jul 12 |
 | **[National Cherry Blossom Festival](https://nationalcherryblossomfestival.org)** | **[Events and Operations Intern - 2027 Festival](https://jobright.ai/jobs/info/6a54233fc8eb0843027aee88?utm_campaign=1053&utm_source=git)** | Washington, DC, United States | On Site | Jul 12 |
 | **[Resources for the Future](http://www.rff.org/)** | **[Editorial Intern (Fall Semester)](https://jobright.ai/jobs/info/6a541b378a74e077472fab95?utm_campaign=1053&utm_source=git)** | Washington, DC, United States | On Site | Jul 12 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[ICRAVE](https://www.icrave.com)** | **[Producer Intern](https://jobright.ai/jobs/info/6a511242ae4052672fe968f6?utm_campaign=1053&utm_source=git)** | New York, United States | On Site | Jul 10 |
 | **[TikTok](https://www.tiktok.com)** | **[Agency Ops Project Intern (TikTok Local Services) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a5076339469c06620351013?utm_campaign=1053&utm_source=git)** | Los Angeles, United States | On Site | Jul 10 |
 | **[LSESU Global Brigades Society](https://www.globalbrigades.org/)** | **[Content Creator Intern](https://jobright.ai/jobs/info/6a50a637ddd293054ccaadb6?utm_campaign=1053&utm_source=git)** | United States | Remote | Jul 09 |
-| **[Studio Museum in Harlem](https://www.studiomuseum.org/)** | **[Fall 2026 Director's Office Intern](https://jobright.ai/jobs/info/6a507635397d8d353c28eb5f?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Hybrid | Jul 09 |
-| **[VOX ATL](https://voxatl.org)** | **[Atlanta Teen Voices Journalism Fellowship Near-Peer Intern](https://jobright.ai/jobs/info/6a503bc24649561ec08b0bde?utm_campaign=1053&utm_source=git)** | Atlanta, GA, United States | On Site | Jul 09 |
-| **[Sony Music Publishing](https://www.sonymusicpub.com/)** | **[Fall Intern, A&R (West Coast)](https://jobright.ai/jobs/info/6a50382ffc327f422fef839b?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 09 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Disney Entertainment Television Production Innovation Intern, Fall 2026](https://jobright.ai/jobs/info/6a4f4a061544d7246c0d5543?utm_campaign=1053&utm_source=git)** | Burbank, CA, USA | Hybrid | Jul 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
