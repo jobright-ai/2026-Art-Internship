@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Alliance for American Leadership](https://www.linkedin.com/company/106629819)** | **[Journalism and Press Intern (Volunteer)](https://jobright.ai/jobs/info/6a56726c21f64463ad3549cd?utm_campaign=1053&utm_source=git)** | United States | Remote | Jul 14 |
+| **[Ethos Group](https://ethosgroup.io/)** | **[Intern](https://jobright.ai/jobs/info/6a566a0f10c4d945d86497f1?utm_campaign=1053&utm_source=git)** | New York City Metropolitan Area, United States | On Site | Jul 14 |
 | **[Beltran Cleaning Service](https://www.beltrancleaningservice.com)** | **[Video/Vlog Editor Internship (Unpaid)](https://jobright.ai/jobs/info/6a551a15268af95237be9444?utm_campaign=1053&utm_source=git)** | 1251 N Plum Grove Rd, Schaumburg, IL 60173, USA | On Site | Jul 14 |
 | **[Golden Hippo®](https://www.huntrealestate.com/)** | **[Video Editing Intern](https://jobright.ai/jobs/info/6a565bfbe9b77f668bd62c38?utm_campaign=1053&utm_source=git)** | Woodland Hills, CA, United States | Hybrid | Jul 14 |
 | **[4Roots](https://4rootsfarm.org/)** | **[Events Intern - 4Roots Farm Campus (Fall & Spring)](https://jobright.ai/jobs/info/6a564ddf53b3962b910af58d?utm_campaign=1053&utm_source=git)** | Orlando, FL, United States | On Site | Jul 14 |
@@ -89,8 +91,7 @@ For a complete list, click the following sortable link below:
 | **[Melara Enterprises](http://www.melaraenterprises.com)** | **[225 Magazine Editorial or Photography Intern](https://jobright.ai/jobs/info/6a55cffc05c65f7c8f4c8097?utm_campaign=1053&utm_source=git)** | Baton Rouge, LA, United States | On Site | Jul 13 |
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a55cfbffdf4fa71202b591b?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Remote | Jul 13 |
 | ↳ | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a55cf95ef22935f2e3f764a?utm_campaign=1053&utm_source=git)** | Jacksonville, FL, United States | Remote | Jul 13 |
-| **[adyn](https://www.adyn.com/)** | **[DIGITAL STORYTELLING INTERN](https://jobright.ai/jobs/info/6a55cf4aef22935f2e3f7620?utm_campaign=1053&utm_source=git)** | Seattle, WA, United States | Remote | Jul 13 |
-| **[ATIA Ltd](https://atia.ba/en_US/)** | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a55cee7ef22935f2e3f75fe?utm_campaign=1053&utm_source=git)** | Omaha, NE, United States | Remote | Jul 13 |
+| ↳ | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a55cee7ef22935f2e3f75fe?utm_campaign=1053&utm_source=git)** | Omaha, NE, United States | Remote | Jul 13 |
 | ↳ | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a55cdfffdf4fa71202b56a8?utm_campaign=1053&utm_source=git)** | Cleveland, OH, United States | Remote | Jul 13 |
 | ↳ | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a55cde505c65f7c8f4c7cd5?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | Remote | Jul 13 |
 | ↳ | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a55cdc914f1040fa611c18b?utm_campaign=1053&utm_source=git)** | Virginia Beach, VA, United States | Remote | Jul 13 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Patrick Painter Inc.](http://www.patrickpainter.com)** | **[Intern](https://jobright.ai/jobs/info/6a545098e726ec56126a9d86?utm_campaign=1053&utm_source=git)** | Santa Monica, CA, United States | On Site | Jul 12 |
 | **[Evolve Studios®](https://evolve.studio)** | **[Assistant Editor Internship](https://jobright.ai/jobs/info/6a42d4796a9c2774b3fa77aa?utm_campaign=1053&utm_source=git)** | Franklin, TN, United States | On Site | Jul 12 |
 | **[National Cherry Blossom Festival](https://nationalcherryblossomfestival.org)** | **[Events and Operations Intern - 2027 Festival](https://jobright.ai/jobs/info/6a54372bc8eb0843027af2b5?utm_campaign=1053&utm_source=git)** | Washington, DC, United States | Hybrid | Jul 12 |
-| **[ATIA Ltd](https://atia.ba/en_US/)** | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a5435dad007ee02d95fe0e7?utm_campaign=1053&utm_source=git)** | Indiana, PA, United States | Remote | Jul 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
