@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ATIA Ltd](https://atia.ba/en_US/)** | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a5588d42084cd792b479158?utm_campaign=1053&utm_source=git)** | Halifax, Canada | Remote | Jul 13 |
+| **[Hasana, Inc.](http://shophasana.com)** | **[Volunteer/Intern: Videographer](https://jobright.ai/jobs/info/6a558556268af95237bec2dc?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | On Site | Jul 13 |
 | **[GBH](http://www.wgbh.org/)** | **[NOVA Digital Video Internship - Fall 2026](https://jobright.ai/jobs/info/6a557fc1f2c46727285f28b9?utm_campaign=1053&utm_source=git)** | Boston, United States | Hybrid | Jul 13 |
 | **[Wasserman](https://the.team/)** | **[Fall 2026 MUSIC·TEAM Internship](https://jobright.ai/jobs/info/6a551282377f983ce8a979a8?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 13 |
 | **[Silicon Oasis](https://siliconoasisaz.org/)** | **[Silicon Oasis Magazine Intern](https://jobright.ai/jobs/info/6a555942ae07d60a8d010bda?utm_campaign=1053&utm_source=git)** | Greater Phoenix Area | Hybrid | Jul 13 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a52033857513b72e0c6a2a2?utm_campaign=1053&utm_source=git)** | San Jose, CA, United States | Remote | Jul 11 |
 | **[The Aparecio Foundation](http://www.apareciofoundation.org)** | **[Bookings Associate Intern/Volunteer](https://jobright.ai/jobs/info/6a5201a4bf63b66c7997f2f9?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Jul 11 |
 | **[Journey](https://journey.world/)** | **[Producer Intern](https://jobright.ai/jobs/info/6a51fef58d7d3e6cf1cc4fbd?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Jul 11 |
-| **[Hasana, Inc.](http://shophasana.com)** | **[Volunteer/Intern: Film/Video Editor](https://jobright.ai/jobs/info/6a51e53ebf63b66c7997e975?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Jul 10 |
-| **[MATTE Projects](https://matteprojects.com/)** | **[Experiential Production Internship: Fall 2026 (On-site, NYC)](https://jobright.ai/jobs/info/6a32fe397f3fdd180d4c4d6d?utm_campaign=1053&utm_source=git)** | New York, New York | On Site | Jul 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
