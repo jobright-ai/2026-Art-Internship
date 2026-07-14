@@ -57,7 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[GBH](http://www.wgbh.org/)** | **[NOVA Digital Video Internship - Fall 2026](https://jobright.ai/jobs/info/6a557fc1f2c46727285f28b9?utm_campaign=1053&utm_source=git)** | Boston, United States | Hybrid | Jul 13 |
+| **[Braathe Enterprises](http://www.beyourstart.com)** | **[Virtual Journalism Internship](https://jobright.ai/jobs/info/6a55bd2405c65f7c8f4c6f4d?utm_campaign=1053&utm_source=git)** | Saratoga Springs, NY, United States | Remote | Jul 13 |
+| **[Brennan Center for Justice](http://www.brennancenter.org/)** | **[Fall 2026 Multimedia Producer Undergraduate Internship](https://jobright.ai/jobs/info/6a396777649fdf1629300b30?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Jul 13 |
+| **[Mitratech Trakstar](http://www.trakstar.com)** | **[Videography Intern](https://jobright.ai/jobs/info/6a55bacbfdf4fa71202b447d?utm_campaign=1053&utm_source=git)** | Suwanee, GA, United States | On Site | Jul 13 |
+| **[GBH](http://www.wgbh.org/)** | **[NOVA Digital Video Internship - Fall 2026](https://jobright.ai/jobs/info/6a557ec2377f983ce8a9a805?utm_campaign=1053&utm_source=git)** | Boston, United States | Hybrid | Jul 13 |
 | **[Winnie Lou](http://www.winnielou.com)** | **[Social & Content Intern](https://jobright.ai/jobs/info/6a559d5fc8c68410daa52aa7?utm_campaign=1053&utm_source=git)** | Boulder, CO, United States | On Site | Jul 13 |
 | **[St. Jude Children's Research Hospital - ALSAC](https://www.stjude.org)** | **[Intern- Digital Content (Memphis TN)](https://jobright.ai/jobs/info/6a554a474119652ff3864a5f?utm_campaign=1053&utm_source=git)** | Memphis, TN, United States | On Site | Jul 13 |
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a5588d42084cd792b479158?utm_campaign=1053&utm_source=git)** | Halifax, Canada | Remote | Jul 13 |
@@ -137,7 +140,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a52c81f9fbdab22fe13d0e9?utm_campaign=1053&utm_source=git)** | Vancouver, Canada | Remote | Jul 11 |
 | ↳ | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a52ac3e8576ec69c014cf30?utm_campaign=1053&utm_source=git)** | Findlay, OH, United States | Remote | Jul 11 |
 | **[XL Event Lab](https://xleventlab.com)** | **[Event Production Intern](https://jobright.ai/jobs/info/6a52a64a8ef95364ead8f3a4?utm_campaign=1053&utm_source=git)** | Orlando, FL, United States | On Site | Jul 11 |
-| **[Brennan Center for Justice](http://www.brennancenter.org/)** | **[Fall 2026 Multimedia Producer Undergraduate Internship](https://jobright.ai/jobs/info/6a396777649fdf1629300b30?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Jul 11 |
 | **[ACLU](https://www.aclu.org/)** | **[Fall 2026 Undergraduate Intern, Communications- Artist & Influencer Engagement](https://jobright.ai/jobs/info/6a50ad7042c6dc326e8eb45f?utm_campaign=1053&utm_source=git)** | New York City, NY, United States | Remote | Jul 11 |
 | **[MBJ Network](www.mbj-network.com)** | **[Lead Video Editor - Intern](https://jobright.ai/jobs/info/6a528fbd8576ec69c014c83a?utm_campaign=1053&utm_source=git)** | Lombard, IL, United States | On Site | Jul 11 |
 | **[Red Bull](https://www.redbull.com/in-en/)** | **[2026 Internship, Summer - Creative Video](https://jobright.ai/jobs/info/6a52756c8576ec69c014c0ff?utm_campaign=1053&utm_source=git)** | Harrison, NJ, United States | On Site | Jul 11 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a52033857513b72e0c6a2a2?utm_campaign=1053&utm_source=git)** | San Jose, CA, United States | Remote | Jul 11 |
 | **[The Aparecio Foundation](http://www.apareciofoundation.org)** | **[Bookings Associate Intern/Volunteer](https://jobright.ai/jobs/info/6a5201a4bf63b66c7997f2f9?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Jul 11 |
 | **[Journey](https://journey.world/)** | **[Producer Intern](https://jobright.ai/jobs/info/6a51fef58d7d3e6cf1cc4fbd?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Jul 11 |
-| **[Hasana, Inc.](http://shophasana.com)** | **[Volunteer/Intern: Film/Video Editor](https://jobright.ai/jobs/info/6a51e53ebf63b66c7997e975?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Jul 10 |
-| **[MATTE Projects](https://matteprojects.com/)** | **[Experiential Production Internship: Fall 2026 (On-site, NYC)](https://jobright.ai/jobs/info/6a32fe397f3fdd180d4c4d6d?utm_campaign=1053&utm_source=git)** | New York, New York | On Site | Jul 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
