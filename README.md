@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Memphis Grizzlies](http://grizzlies.com)** | **[Social & Digital Content Coordinating Production Intern](https://jobright.ai/jobs/info/6a55d4d8ef22935f2e3f805b?utm_campaign=1053&utm_source=git)** | Memphis, TN, US | On Site | Jul 13 |
 | **[boldSOCKS](https://www.boldsocks.com/)** | **[Video Production Intern](https://jobright.ai/jobs/info/6a55d37414f1040fa611cb3d?utm_campaign=1053&utm_source=git)** | Grand Rapids, MI, United States | On Site | Jul 13 |
 | **[Wolf Trap Foundation for the Performing Arts](https://www.wolftrap.org/)** | **[Intern, Opera Artistic Administration (Fall 2026)](https://jobright.ai/jobs/info/6a55d2c614f1040fa611ca3b?utm_campaign=1053&utm_source=git)** | Vienna, VA, United States | On Site | Jul 13 |
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a55d2be14f1040fa611ca07?utm_campaign=1053&utm_source=git)** | Charlotte, NC, United States | Remote | Jul 13 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Our National Conversation (ONC)](https://www.ournationalconversation.org)** | **[Moderate Writer Intern](https://jobright.ai/jobs/info/6a5339ac9fbdab22fe13eb81?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | Remote | Jul 11 |
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a531cb7d007ee02d95fa55e?utm_campaign=1053&utm_source=git)** | Savannah, GA, United States | Remote | Jul 11 |
 | ↳ | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a531c9ae726ec56126a5bc8?utm_campaign=1053&utm_source=git)** | Corpus Christi, TX, United States | Remote | Jul 11 |
-| **[Soaring Sky, LLC](https://soaringsky.net)** | **[Production Internship](https://jobright.ai/jobs/info/6a531bb49fbdab22fe13e4f1?utm_campaign=1053&utm_source=git)** | Fort Myers, FL, United States | On Site | Jul 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
