@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Stila Cosmetics](http://www.stilacosmetics.com)** | **[Content Creator & Social Media Intern (Fall 2026)](https://jobright.ai/jobs/info/6a5689d353b3962b910b0ec2?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Hybrid | Jul 14 |
+| **[Namify](http://namify.com)** | **[Videographer Intern](https://jobright.ai/jobs/info/6a5686d2e9b77f668bd63ff5?utm_campaign=1053&utm_source=git)** | Springville, UT, United States | On Site | Jul 14 |
+| **[ATIA Ltd](https://atia.ba/en_US/)** | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a56849953b3962b910b0c8d?utm_campaign=1053&utm_source=git)** | Washington, DC, United States | Remote | Jul 14 |
+| ↳ | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a56849310c4d945d864a2c5?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | Remote | Jul 14 |
+| **[Club Thrive](https://yogahealer.com/)** | **[Yogahealer Podcast Remote Intern](https://jobright.ai/jobs/info/6a56824ce9b77f668bd63d32?utm_campaign=1053&utm_source=git)** | Targhee Towne Rd, Alta, WY 83414, USA | Remote | Jul 14 |
 | **[Rho](https://rho.co)** | **[Video Intern](https://jobright.ai/jobs/info/6a5677c6f7517b519ad55da1?utm_campaign=1053&utm_source=git)** | NYC | On Site | Jul 14 |
 | **[Alliance for American Leadership](https://www.linkedin.com/company/106629819)** | **[Journalism and Press Intern (Volunteer)](https://jobright.ai/jobs/info/6a56726c21f64463ad3549cd?utm_campaign=1053&utm_source=git)** | United States | Remote | Jul 14 |
 | **[Ethos Group](https://ethosgroup.io/)** | **[Intern](https://jobright.ai/jobs/info/6a566a0f10c4d945d86497f1?utm_campaign=1053&utm_source=git)** | New York City Metropolitan Area, United States | On Site | Jul 14 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a54a70b8ef95364ead96415?utm_campaign=1053&utm_source=git)** | Mankato, MN, United States | Remote | Jul 13 |
 | ↳ | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a54a660c8eb0843027b09a7?utm_campaign=1053&utm_source=git)** | Albuquerque, NM, United States | Remote | Jul 13 |
 | ↳ | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a54a657c8eb0843027b09a6?utm_campaign=1053&utm_source=git)** | Austin, TX | Remote | Jul 13 |
-| **[The Intellectual Property Corporation](http://www.theipcorp.com)** | **[Editorial Intern](https://jobright.ai/jobs/info/6a54a5e2e726ec56126aaf2d?utm_campaign=1053&utm_source=git)** | Van Nuys, CA, United States | On Site | Jul 13 |
-| **[ATIA Ltd](https://atia.ba/en_US/)** | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a548a4f8a74e077472fc265?utm_campaign=1053&utm_source=git)** | San Marcos, TX, United States | Remote | Jul 12 |
-| ↳ | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a545437e726ec56126a9e8d?utm_campaign=1053&utm_source=git)** | Lexington, VA, United States | Remote | Jul 12 |
-| **[Patrick Painter Inc.](http://www.patrickpainter.com)** | **[Intern](https://jobright.ai/jobs/info/6a545098e726ec56126a9d86?utm_campaign=1053&utm_source=git)** | Santa Monica, CA, United States | On Site | Jul 12 |
-| **[Evolve Studios®](https://evolve.studio)** | **[Assistant Editor Internship](https://jobright.ai/jobs/info/6a42d4796a9c2774b3fa77aa?utm_campaign=1053&utm_source=git)** | Franklin, TN, United States | On Site | Jul 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
