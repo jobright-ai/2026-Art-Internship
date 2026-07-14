@@ -57,9 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Monumental Sports & Entertainment](http://www.monumentalsports.com/)** | **[Internship: Game Presentation (Part-Time/Seasonal)](https://jobright.ai/jobs/info/6a56a943e9b77f668bd64f9a?utm_campaign=1053&utm_source=git)** | Washington, DC 20004, United States | On Site | Jul 14 |
+| **[CadCamNYC](https://cadcamnyc.com)** | **[Videographer/Editor Intern](https://jobright.ai/jobs/info/6a56a82621f64463ad356236?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Jul 14 |
+| **[Social View Agency](https://www.socialviewagency.com/)** | **[Content Creator Intern](https://jobright.ai/jobs/info/6a56a79353b3962b910b1cd6?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | Remote | Jul 14 |
+| **[Rho](https://rho.co)** | **[Video Intern](https://jobright.ai/jobs/info/6a5677c6f7517b519ad55da1?utm_campaign=1053&utm_source=git)** | NYC | On Site | Jul 14 |
+| **[Indy Fuel Hockey Club](https://www.indyfuelhockey.com)** | **[Game Operations Intern](https://jobright.ai/jobs/info/6a56a359f7517b519ad572ee?utm_campaign=1053&utm_source=git)** | Fishers, IN, United States | On Site | Jul 14 |
+| **[MBJ Network](www.mbj-network.com)** | **[Production Assistant Intern](https://jobright.ai/jobs/info/6a56a01d21f64463ad355e67?utm_campaign=1053&utm_source=git)** | 330 E Roosevelt Rd, Lombard, IL 60148, USA | Remote | Jul 14 |
 | **[Film Pittsburgh](http://www.FilmPittsburgh.org)** | **[Spring Festival Internship](https://jobright.ai/jobs/info/6a43ed470153061b8b3de9c6?utm_campaign=1053&utm_source=git)** | Pittsburgh, PA, United States | Hybrid | Jul 14 |
 | **[Blue Highway Records](http://www.bigmachinelabelgroup.com/)** | **[Intern](https://jobright.ai/jobs/info/6a56949353b3962b910b11a4?utm_campaign=1053&utm_source=git)** | Nashville, TN, United States | On Site | Jul 14 |
-| **[Rho](https://rho.co)** | **[Video Intern](https://jobright.ai/jobs/info/6a5677c6f7517b519ad55da1?utm_campaign=1053&utm_source=git)** | NYC | On Site | Jul 14 |
 | **[Golden Hippo®](https://www.huntrealestate.com/)** | **[Video Editing Intern](https://jobright.ai/jobs/info/6a565bfbe9b77f668bd62c38?utm_campaign=1053&utm_source=git)** | Woodland Hills, CA, United States | Hybrid | Jul 14 |
 | **[Stila Cosmetics](http://www.stilacosmetics.com)** | **[Content Creator & Social Media Intern (Fall 2026)](https://jobright.ai/jobs/info/6a5689d353b3962b910b0ec2?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Hybrid | Jul 14 |
 | **[Namify](http://namify.com)** | **[Videographer Intern](https://jobright.ai/jobs/info/6a5686d2e9b77f668bd63ff5?utm_campaign=1053&utm_source=git)** | Springville, UT, United States | On Site | Jul 14 |
@@ -127,6 +132,7 @@ For a complete list, click the following sortable link below:
 | **[St. Jude Children's Research Hospital - ALSAC](https://www.stjude.org)** | **[Intern- Digital Content (Memphis TN)](https://jobright.ai/jobs/info/6a554a474119652ff3864a5f?utm_campaign=1053&utm_source=git)** | Memphis, TN, United States | On Site | Jul 13 |
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a5588d42084cd792b479158?utm_campaign=1053&utm_source=git)** | Halifax, Canada | Remote | Jul 13 |
 | **[Hasana, Inc.](http://shophasana.com)** | **[Volunteer/Intern: Videographer](https://jobright.ai/jobs/info/6a558556268af95237bec2dc?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | On Site | Jul 13 |
+| **[Kroenke Sports & Entertainment](https://www.ballarena.com)** | **[Paramount Theatre Intern](https://jobright.ai/jobs/info/6a56b4efe9b77f668bd65325?utm_campaign=1053&utm_source=git)** | Denver, CO, United States | On Site | Jul 13 |
 | **[Wasserman](https://the.team/)** | **[Fall 2026 MUSIC·TEAM Internship](https://jobright.ai/jobs/info/6a551282377f983ce8a979a8?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 13 |
 | **[Silicon Oasis](https://siliconoasisaz.org/)** | **[Silicon Oasis Magazine Intern](https://jobright.ai/jobs/info/6a555942ae07d60a8d010bda?utm_campaign=1053&utm_source=git)** | Greater Phoenix Area | Hybrid | Jul 13 |
 | **[NBCUniversal](https://www.nbcuniversal.com/)** | **[San Diego Station (NBC 7/T20) Digital Internship - Fall 2026](https://jobright.ai/jobs/info/6a42c1fa6faf756060967e1b?utm_campaign=1053&utm_source=git)** | San Diego, CA, United States | On Site | Jul 13 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Paid Fall Music Group Publishing Intern](https://jobright.ai/jobs/info/6a1d313d7c457b279080e614?utm_campaign=1053&utm_source=git)** | Calabasas, CA, USA, US | On Site | Jul 13 |
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a54e07371848b0020433b80?utm_campaign=1053&utm_source=git)** | Columbia, MO, United States | Remote | Jul 13 |
 | **[The Aparecio Foundation](http://www.apareciofoundation.org)** | **[Bookings Associate Intern/Volunteer](https://jobright.ai/jobs/info/6a54dfdb31f2d15a8d813c00?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | On Site | Jul 13 |
-| ↳ | **[Writers & Journalists Intern/Volunteer](https://jobright.ai/jobs/info/6a54dfd3b361d54aceab7921?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | On Site | Jul 13 |
-| ↳ | **[Editorial Assistant volunteer/intern](https://jobright.ai/jobs/info/6a54dde9b361d54aceab7862?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | On Site | Jul 13 |
-| ↳ | **[Volunteer/Intern:Pro-bono Editor of "Fashion" Content in Felix](https://jobright.ai/jobs/info/6a5542c22084cd792b477398?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | On Site | Jul 13 |
-| **[Hasana, Inc.](http://shophasana.com)** | **[Associate Booker Intern/Volunteer](https://jobright.ai/jobs/info/6a54dd1671848b00204339f2?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | On Site | Jul 13 |
-| **[The Ambony](http://www.manofthehourmag.com/)** | **[Entertainment Journalist (Internship)](https://jobright.ai/jobs/info/6a55407f2084cd792b4772e9?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | Remote | Jul 13 |
-| **[Magnet Media, Inc.](http://www.magnetmediafilms.com)** | **[Production Intern Fall 2026](https://jobright.ai/jobs/info/6a54a9288215bf1b856b68e1?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Jul 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
