@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Golden Hippo®](https://www.huntrealestate.com/)** | **[Video Editing Intern](https://jobright.ai/jobs/info/6a565bfbe9b77f668bd62c38?utm_campaign=1053&utm_source=git)** | Woodland Hills, CA, United States | Hybrid | Jul 14 |
 | **[4Roots](https://4rootsfarm.org/)** | **[Events Intern - 4Roots Farm Campus (Fall & Spring)](https://jobright.ai/jobs/info/6a564ddf53b3962b910af58d?utm_campaign=1053&utm_source=git)** | Orlando, FL, United States | On Site | Jul 14 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid News Intern](https://jobright.ai/jobs/info/6972b01a9b83b424830eb8a4?utm_campaign=1053&utm_source=git)** | IN-Indianapolis;6910 Network Place (Tribune-WXIN/WTTV) | On Site | Jul 14 |
 | ↳ | **[Media Archivist Intern (In- Person) Fall 2026.](https://jobright.ai/jobs/info/6a4de3f13122a76a8fd56aef?utm_campaign=1053&utm_source=git)** | AL, Mobile, United States of America | On Site | Jul 14 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Evolve Studios®](https://evolve.studio)** | **[Assistant Editor Internship](https://jobright.ai/jobs/info/6a42d4796a9c2774b3fa77aa?utm_campaign=1053&utm_source=git)** | Franklin, TN, United States | On Site | Jul 12 |
 | **[National Cherry Blossom Festival](https://nationalcherryblossomfestival.org)** | **[Events and Operations Intern - 2027 Festival](https://jobright.ai/jobs/info/6a54372bc8eb0843027af2b5?utm_campaign=1053&utm_source=git)** | Washington, DC, United States | Hybrid | Jul 12 |
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a5435dad007ee02d95fe0e7?utm_campaign=1053&utm_source=git)** | Indiana, PA, United States | Remote | Jul 12 |
-| ↳ | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a5435c1c8eb0843027af266?utm_campaign=1053&utm_source=git)** | Bakersfield, CA, United States | Remote | Jul 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
