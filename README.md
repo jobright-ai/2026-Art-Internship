@@ -57,9 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[4Roots](https://4rootsfarm.org/)** | **[Events Intern - 4Roots Farm Campus (Fall & Spring)](https://jobright.ai/jobs/info/6a564ddf53b3962b910af58d?utm_campaign=1053&utm_source=git)** | Orlando, FL, United States | On Site | Jul 14 |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid News Intern](https://jobright.ai/jobs/info/6972b01a9b83b424830eb8a4?utm_campaign=1053&utm_source=git)** | IN-Indianapolis;6910 Network Place (Tribune-WXIN/WTTV) | On Site | Jul 14 |
+| ↳ | **[Media Archivist Intern (In- Person) Fall 2026.](https://jobright.ai/jobs/info/6a4de3f13122a76a8fd56aef?utm_campaign=1053&utm_source=git)** | AL, Mobile, United States of America | On Site | Jul 14 |
+| ↳ | **[Media Production Intern (In- Person) Fall 2026.](https://jobright.ai/jobs/info/6a398ce3f6b55d12c7928b8e?utm_campaign=1053&utm_source=git)** | AL, Mobile, United States of America | On Site | Jul 14 |
 | **[Octagon](http://www.octagon.com)** | **[Intern (Global Soccer Fan Festivals)-22](https://jobright.ai/jobs/info/6a563904e9b77f668bd61eee?utm_campaign=1053&utm_source=git)** | Stamford, CT, United States | Hybrid | Jul 14 |
 | ↳ | **[Intern (Global Soccer Fan Festivals)-105](https://jobright.ai/jobs/info/6a5634be21f64463ad353048?utm_campaign=1053&utm_source=git)** | Stamford, CT, United States | On Site | Jul 14 |
-| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid News Intern](https://jobright.ai/jobs/info/6972b01a9b83b424830eb8a4?utm_campaign=1053&utm_source=git)** | IN-Indianapolis;6910 Network Place (Tribune-WXIN/WTTV) | On Site | Jul 14 |
 | **[Insomniac Events](http://insomniac.com)** | **[Paid Fall Music Group Publishing Intern](https://jobright.ai/jobs/info/6a480a84c2d11a6a46673a56?utm_campaign=1053&utm_source=git)** | Calabasas, CA, USA | On Site | Jul 14 |
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a561426e9b77f668bd6158d?utm_campaign=1053&utm_source=git)** | Saint Paul, MN, United States | Remote | Jul 14 |
 | ↳ | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a56140befb06a45240d3c62?utm_campaign=1053&utm_source=git)** | Conway, AR, United States | Remote | Jul 14 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[National Cherry Blossom Festival](https://nationalcherryblossomfestival.org)** | **[Events and Operations Intern - 2027 Festival](https://jobright.ai/jobs/info/6a54372bc8eb0843027af2b5?utm_campaign=1053&utm_source=git)** | Washington, DC, United States | Hybrid | Jul 12 |
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a5435dad007ee02d95fe0e7?utm_campaign=1053&utm_source=git)** | Indiana, PA, United States | Remote | Jul 12 |
 | ↳ | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a5435c1c8eb0843027af266?utm_campaign=1053&utm_source=git)** | Bakersfield, CA, United States | Remote | Jul 12 |
-| **[The Burnette Agency](https://theburnetteagency.com)** | **[Winter/Spring Semester Internship](https://jobright.ai/jobs/info/6a5434d3e726ec56126a97ae?utm_campaign=1053&utm_source=git)** | Atlanta, GA, United States | On Site | Jul 12 |
-| **[National Cherry Blossom Festival](https://nationalcherryblossomfestival.org)** | **[Events and Operations Intern - 2027 Festival](https://jobright.ai/jobs/info/6a54233fc8eb0843027aee88?utm_campaign=1053&utm_source=git)** | Washington, DC, United States | On Site | Jul 12 |
-| **[Resources for the Future](http://www.rff.org/)** | **[Editorial Intern (Fall Semester)](https://jobright.ai/jobs/info/6a541b378a74e077472fab95?utm_campaign=1053&utm_source=git)** | Washington, DC, United States | On Site | Jul 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
