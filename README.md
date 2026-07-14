@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Rho](https://rho.co)** | **[Video Intern](https://jobright.ai/jobs/info/6a5677c6f7517b519ad55da1?utm_campaign=1053&utm_source=git)** | NYC | On Site | Jul 14 |
 | **[Alliance for American Leadership](https://www.linkedin.com/company/106629819)** | **[Journalism and Press Intern (Volunteer)](https://jobright.ai/jobs/info/6a56726c21f64463ad3549cd?utm_campaign=1053&utm_source=git)** | United States | Remote | Jul 14 |
 | **[Ethos Group](https://ethosgroup.io/)** | **[Intern](https://jobright.ai/jobs/info/6a566a0f10c4d945d86497f1?utm_campaign=1053&utm_source=git)** | New York City Metropolitan Area, United States | On Site | Jul 14 |
 | **[Beltran Cleaning Service](https://www.beltrancleaningservice.com)** | **[Video/Vlog Editor Internship (Unpaid)](https://jobright.ai/jobs/info/6a551a15268af95237be9444?utm_campaign=1053&utm_source=git)** | 1251 N Plum Grove Rd, Schaumburg, IL 60173, USA | On Site | Jul 14 |
@@ -138,8 +139,8 @@ For a complete list, click the following sortable link below:
 | **[National Community Renaissance](https://nationalcore.org/)** | **[Production Studio Management Internship](https://jobright.ai/jobs/info/6a54f9fb4119652ff38627c9?utm_campaign=1053&utm_source=git)** | Corporate Rancho Cucamonga - Rancho Cucamonga, CA 91730, United States | On Site | Jul 13 |
 | **[The Aparecio Foundation](http://www.apareciofoundation.org)** | **[Volunteer/Intern:Editor of "FelixTV"](https://jobright.ai/jobs/info/6a5553844119652ff3864fc8?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | Hybrid | Jul 13 |
 | **[Aangan: South Asian Center for Art & Thought](http://www.aangannyc.org)** | **[Editorial Internship](https://jobright.ai/jobs/info/6a55202ff2c46727285eff13?utm_campaign=1053&utm_source=git)** | New Bern-Morehead City Area, United States | On Site | Jul 13 |
-| **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Paid Fall Music Group Publishing Intern](https://jobright.ai/jobs/info/6a51e35202522b5b722ed11d?utm_campaign=1053&utm_source=git)** | Calabasas, CA, United States | On Site | Jul 13 |
-| ↳ | **[Paid Fall Music Group Publishing Intern](https://jobright.ai/jobs/info/6a1d313d7c457b279080e614?utm_campaign=1053&utm_source=git)** | Calabasas, CA, USA, US | On Site | Jul 13 |
+| **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Paid Fall Music Group Publishing Intern](https://jobright.ai/jobs/info/6a1d313d7c457b279080e614?utm_campaign=1053&utm_source=git)** | Calabasas, CA, USA, US | On Site | Jul 13 |
+| ↳ | **[Paid Fall Music Group Publishing Intern](https://jobright.ai/jobs/info/6a51e35202522b5b722ed11d?utm_campaign=1053&utm_source=git)** | Calabasas, CA, United States | On Site | Jul 13 |
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a54e07371848b0020433b80?utm_campaign=1053&utm_source=git)** | Columbia, MO, United States | Remote | Jul 13 |
 | **[The Aparecio Foundation](http://www.apareciofoundation.org)** | **[Bookings Associate Intern/Volunteer](https://jobright.ai/jobs/info/6a54dfdb31f2d15a8d813c00?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | On Site | Jul 13 |
 | ↳ | **[Writers & Journalists Intern/Volunteer](https://jobright.ai/jobs/info/6a54dfd3b361d54aceab7921?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | On Site | Jul 13 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a545437e726ec56126a9e8d?utm_campaign=1053&utm_source=git)** | Lexington, VA, United States | Remote | Jul 12 |
 | **[Patrick Painter Inc.](http://www.patrickpainter.com)** | **[Intern](https://jobright.ai/jobs/info/6a545098e726ec56126a9d86?utm_campaign=1053&utm_source=git)** | Santa Monica, CA, United States | On Site | Jul 12 |
 | **[Evolve Studios®](https://evolve.studio)** | **[Assistant Editor Internship](https://jobright.ai/jobs/info/6a42d4796a9c2774b3fa77aa?utm_campaign=1053&utm_source=git)** | Franklin, TN, United States | On Site | Jul 12 |
-| **[National Cherry Blossom Festival](https://nationalcherryblossomfestival.org)** | **[Events and Operations Intern - 2027 Festival](https://jobright.ai/jobs/info/6a54372bc8eb0843027af2b5?utm_campaign=1053&utm_source=git)** | Washington, DC, United States | Hybrid | Jul 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
