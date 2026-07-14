@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Insomniac Events](http://insomniac.com)** | **[Paid Fall Music Group Publishing Intern](https://jobright.ai/jobs/info/6a480a84c2d11a6a46673a56?utm_campaign=1053&utm_source=git)** | Calabasas, CA, USA | On Site | Jul 14 |
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a561426e9b77f668bd6158d?utm_campaign=1053&utm_source=git)** | Saint Paul, MN, United States | Remote | Jul 14 |
 | ↳ | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a56140befb06a45240d3c62?utm_campaign=1053&utm_source=git)** | Conway, AR, United States | Remote | Jul 14 |
 | **[GBH](http://www.wgbh.org/)** | **[NOVA Digital Video Internship - Fall 2026](https://jobright.ai/jobs/info/6a557fc1f2c46727285f28b9?utm_campaign=1053&utm_source=git)** | Boston, MA, United States | Hybrid | Jul 14 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Resources for the Future](http://www.rff.org/)** | **[Editorial Intern (Fall Semester)](https://jobright.ai/jobs/info/6a541b378a74e077472fab95?utm_campaign=1053&utm_source=git)** | Washington, DC, United States | On Site | Jul 12 |
 | **[Editor](http://www.editor.si)** | **[Editorial Assistant Intern (remote)](https://jobright.ai/jobs/info/6a541328e726ec56126a8ffc?utm_campaign=1053&utm_source=git)** | Los Angeles, California, United States | Remote | Jul 12 |
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a53fd828a74e077472fa473?utm_campaign=1053&utm_source=git)** | Edmonton, Canada | Remote | Jul 12 |
-| **[Ripken Baseball](https://www.ripkenbaseball.com)** | **[Fall Tournament Operations Intern](https://jobright.ai/jobs/info/6a53f4a38a74e077472fa203?utm_campaign=1053&utm_source=git)** | Pigeon Forge, TN, United States | On Site | Jul 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
