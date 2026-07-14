@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[GBH](http://www.wgbh.org/)** | **[NOVA Digital Video Internship - Fall 2026](https://jobright.ai/jobs/info/6a557fc1f2c46727285f28b9?utm_campaign=1053&utm_source=git)** | Boston, United States | Hybrid | Jul 13 |
 | **[Wasserman](https://the.team/)** | **[Fall 2026 MUSIC·TEAM Internship](https://jobright.ai/jobs/info/6a551282377f983ce8a979a8?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 13 |
 | **[Silicon Oasis](https://siliconoasisaz.org/)** | **[Silicon Oasis Magazine Intern](https://jobright.ai/jobs/info/6a555942ae07d60a8d010bda?utm_campaign=1053&utm_source=git)** | Greater Phoenix Area | Hybrid | Jul 13 |
 | **[NBCUniversal](https://www.nbcuniversal.com/)** | **[San Diego Station (NBC 7/T20) Digital Internship - Fall 2026](https://jobright.ai/jobs/info/6a42c1fa6faf756060967e1b?utm_campaign=1053&utm_source=git)** | San Diego, CA, United States | On Site | Jul 13 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Journey](https://journey.world/)** | **[Producer Intern](https://jobright.ai/jobs/info/6a51fef58d7d3e6cf1cc4fbd?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Jul 11 |
 | **[Hasana, Inc.](http://shophasana.com)** | **[Volunteer/Intern: Film/Video Editor](https://jobright.ai/jobs/info/6a51e53ebf63b66c7997e975?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Jul 10 |
 | **[MATTE Projects](https://matteprojects.com/)** | **[Experiential Production Internship: Fall 2026 (On-site, NYC)](https://jobright.ai/jobs/info/6a32fe397f3fdd180d4c4d6d?utm_campaign=1053&utm_source=git)** | New York, New York | On Site | Jul 10 |
-| **[ATIA Ltd](https://atia.ba/en_US/)** | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a51e09978e364789ca5e4bc?utm_campaign=1053&utm_source=git)** | Cookeville, TN, United States | Remote | Jul 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
