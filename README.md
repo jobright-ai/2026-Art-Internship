@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Society19](https://www.society19.com/)** | **[U.S. Lifestyle Magazine Writing Intern](https://jobright.ai/jobs/info/6a56bb0defb06a45240d7e71?utm_campaign=1053&utm_source=git)** | United States | Remote | Jul 14 |
+| **[Stewart Talent](https://www.stewarttalent.com)** | **[Stewart Talent NY Internship Fall 2026](https://jobright.ai/jobs/info/6a56ba8d53b3962b910b2467?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Hybrid | Jul 14 |
 | **[Monumental Sports & Entertainment](http://www.monumentalsports.com/)** | **[Internship: Game Presentation (Part-Time/Seasonal)](https://jobright.ai/jobs/info/6a56a943e9b77f668bd64f9a?utm_campaign=1053&utm_source=git)** | Washington, DC 20004, United States | On Site | Jul 14 |
 | **[CadCamNYC](https://cadcamnyc.com)** | **[Videographer/Editor Intern](https://jobright.ai/jobs/info/6a56a82621f64463ad356236?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Jul 14 |
 | **[Social View Agency](https://www.socialviewagency.com/)** | **[Content Creator Intern](https://jobright.ai/jobs/info/6a56a79353b3962b910b1cd6?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | Remote | Jul 14 |
@@ -153,8 +155,6 @@ For a complete list, click the following sortable link below:
 | **[National Community Renaissance](https://nationalcore.org/)** | **[Production Studio Management Internship](https://jobright.ai/jobs/info/6a54f9fb4119652ff38627c9?utm_campaign=1053&utm_source=git)** | Corporate Rancho Cucamonga - Rancho Cucamonga, CA 91730, United States | On Site | Jul 13 |
 | **[The Aparecio Foundation](http://www.apareciofoundation.org)** | **[Volunteer/Intern:Editor of "FelixTV"](https://jobright.ai/jobs/info/6a5553844119652ff3864fc8?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | Hybrid | Jul 13 |
 | **[Aangan: South Asian Center for Art & Thought](http://www.aangannyc.org)** | **[Editorial Internship](https://jobright.ai/jobs/info/6a55202ff2c46727285eff13?utm_campaign=1053&utm_source=git)** | New Bern-Morehead City Area, United States | On Site | Jul 13 |
-| **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Paid Fall Music Group Publishing Intern](https://jobright.ai/jobs/info/6a51e35202522b5b722ed11d?utm_campaign=1053&utm_source=git)** | Calabasas, CA, United States | On Site | Jul 13 |
-| ↳ | **[Paid Fall Music Group Publishing Intern](https://jobright.ai/jobs/info/6a1d313d7c457b279080e614?utm_campaign=1053&utm_source=git)** | Calabasas, CA, USA, US | On Site | Jul 13 |
-| **[ATIA Ltd](https://atia.ba/en_US/)** | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a54e07371848b0020433b80?utm_campaign=1053&utm_source=git)** | Columbia, MO, United States | Remote | Jul 13 |
-| **[The Aparecio Foundation](http://www.apareciofoundation.org)** | **[Bookings Associate Intern/Volunteer](https://jobright.ai/jobs/info/6a54dfdb31f2d15a8d813c00?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | On Site | Jul 13 |
+| **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Paid Fall Music Group Publishing Intern](https://jobright.ai/jobs/info/6a1d313d7c457b279080e614?utm_campaign=1053&utm_source=git)** | Calabasas, CA, USA, US | On Site | Jul 13 |
+| ↳ | **[Paid Fall Music Group Publishing Intern](https://jobright.ai/jobs/info/6a51e35202522b5b722ed11d?utm_campaign=1053&utm_source=git)** | Calabasas, CA, United States | On Site | Jul 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
