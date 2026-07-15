@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[adyn](https://www.adyn.com/)** | **[DIGITAL STORYTELLING INTERN](https://jobright.ai/jobs/info/6a5715e353b3962b910b38ff?utm_campaign=1053&utm_source=git)** | Seattle, WA, United States | Remote | Jul 14 |
+| **[Tilson](https://www.tilsonhr.com/)** | **[Music For All - Fall Events Team Internship (Paid Position)](https://jobright.ai/jobs/info/6a57137fe9b77f668bd66a2a?utm_campaign=1053&utm_source=git)** | Indianapolis, IN, United States | On Site | Jul 14 |
+| **[ATIA Ltd](https://atia.ba/en_US/)** | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a571260f7517b519ad58fae?utm_campaign=1053&utm_source=git)** | Cookeville, TN, United States | Remote | Jul 14 |
+| **[The Corelink Solution](http://www.thecorelinksolution.com)** | **[Artist Community Manager (Volunteer / Intern)](https://jobright.ai/jobs/info/6a5711d4f7517b519ad58faa?utm_campaign=1053&utm_source=git)** | Wilmington, DE, United States | Hybrid | Jul 14 |
+| **[TikTok](https://www.tiktok.com)** | **[Agency Ops Project Intern (TikTok Local Services) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a5076339469c06620351013?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 14 |
 | **[Melodically Productions](https://www.linkedin.com/company/100126616)** | **[Creative Operations & Community Intern](https://jobright.ai/jobs/info/6a56f7c8efb06a45240d8d97?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Hybrid | Jul 14 |
 | **[Kentucky Farm Bureau Insurance](http://kyfb.com)** | **[Video Production intern](https://jobright.ai/jobs/info/6a509e415165966a11619e5c?utm_campaign=1053&utm_source=git)** | Louisville, KY, United States | On Site | Jul 14 |
 | **[Satechi](http://www.satechi.net/)** | **[Social Media/Content Intern](https://jobright.ai/jobs/info/6a35ac60ce501060b5cf5453?utm_campaign=1053&utm_source=git)** | Scripps Summit Ct, CA, United States | On Site | Jul 14 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Historical Preservation, Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/6a552a56ae07d60a8d00f5a9?utm_campaign=1053&utm_source=git)** | Jamaica, NY, United States | On Site | Jul 13 |
 | **[Operater](https://operater.io)** | **[English Content Creator Internship](https://jobright.ai/jobs/info/6a552a1df2c46727285f0331?utm_campaign=1053&utm_source=git)** | United States | Remote | Jul 13 |
 | **[Cheetah Mobile](http://ir.cmcm.com)** | **[Intern, Content Production](https://jobright.ai/jobs/info/6a555efe2084cd792b4781d5?utm_campaign=1053&utm_source=git)** | Los Angeles, United States | On Site | Jul 13 |
-| **[The State University of New York](https://www.suny.edu)** | **[SUNY Art Exhibitions Internship](https://jobright.ai/jobs/info/6a42c8126faf756060967f34?utm_campaign=1053&utm_source=git)** | Albany, NY, United States | On Site | Jul 13 |
-| **[Golden Hippo®](https://www.huntrealestate.com/)** | **[Video Editor-User Group Intern](https://jobright.ai/jobs/info/6a555f6a268af95237beb476?utm_campaign=1053&utm_source=git)** | Woodland Hills, CA, United States | On Site | Jul 13 |
-| **[TikTok](https://www.tiktok.com)** | **[Agency Ops Project Intern (TikTok Local Services) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a5076339469c06620351013?utm_campaign=1053&utm_source=git)** | Los Angeles, United States | On Site | Jul 13 |
-| **[National Community Renaissance](https://nationalcore.org/)** | **[Production Studio Management Internship](https://jobright.ai/jobs/info/6a54f9fb4119652ff38627c9?utm_campaign=1053&utm_source=git)** | Corporate Rancho Cucamonga - Rancho Cucamonga, CA 91730, United States | On Site | Jul 13 |
-| **[The Aparecio Foundation](http://www.apareciofoundation.org)** | **[Volunteer/Intern:Editor of "FelixTV"](https://jobright.ai/jobs/info/6a5553844119652ff3864fc8?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | Hybrid | Jul 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
