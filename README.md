@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[World of Dance](http://www.worldofdance.com)** | **[Video Content Curator Intern](https://jobright.ai/jobs/info/6a57d521e9b77f668bd6b278?utm_campaign=1053&utm_source=git)** | Cerritos, CA, United States | On Site | Jul 15 |
+| **[National Western Stock Show](https://nationalwestern.com)** | **[Coors Western Art Intern](https://jobright.ai/jobs/info/6a57d4ac10c4d945d86515b5?utm_campaign=1053&utm_source=git)** | Denver, CO, United States | On Site | Jul 15 |
 | **[vineyard vines](http://www.vineyardvines.com)** | **[Fall 2026 Internship - Production](https://jobright.ai/jobs/info/6a579c0eefb06a45240db615?utm_campaign=1053&utm_source=git)** | Stamford, Connecticut, United States | Hybrid | Jul 15 |
 | **[ElectraCast Media](http://www.electracast.com)** | **[Intern Social Video Editor for Podcast Company](https://jobright.ai/jobs/info/6a57c25610c4d945d8650dcc?utm_campaign=1053&utm_source=git)** | United States | Remote | Jul 15 |
 | **[NORTH SIX](http://northsix.net)** | **[Experiential Intern](https://jobright.ai/jobs/info/6a57baf6efb06a45240dce08?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Jul 15 |
@@ -67,6 +69,7 @@ For a complete list, click the following sortable link below:
 | **[Waterfall](https://waterfall.market)** | **[Intern](https://jobright.ai/jobs/info/6a57b116efb06a45240dc71e?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Remote | Jul 15 |
 | **[Heyday Athletic](https://www.heydayathletic.com)** | **[Heyday Athletic Internship - Fall](https://jobright.ai/jobs/info/6a57aeb1e9b77f668bd69d12?utm_campaign=1053&utm_source=git)** | Greater Philadelphia | On Site | Jul 15 |
 | **[St. Jude Children's Research Hospital - ALSAC](https://www.stjude.org)** | **[Intern- Digital Content (Memphis TN)](https://jobright.ai/jobs/info/6a554a474119652ff3864a5f?utm_campaign=1053&utm_source=git)** | Memphis, TN, United States | On Site | Jul 15 |
+| **[Blue Highway Records](http://www.bigmachinelabelgroup.com/)** | **[Publishing Intern (CA)](https://jobright.ai/jobs/info/6a57cd5f10c4d945d86511bc?utm_campaign=1053&utm_source=git)** | Santa Monica, CA, United States | On Site | Jul 15 |
 | **[Comcast](https://corporate.comcast.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/6a579d87f7517b519ad5b4a4?utm_campaign=1053&utm_source=git)** | PA - Philadelphia, 3601 S Broad St, United States of America | On Site | Jul 15 |
 | **[LexisNexis](http://www.lexisnexis.com)** | **[Editorial Data Reporting Intern](https://jobright.ai/jobs/info/6a52295c8a74e077472f35b0?utm_campaign=1053&utm_source=git)** | Washington, DC, United States | Remote | Jul 15 |
 | **[Gift](https://www.shine.gift)** | **[Anime / Manga Intern](https://jobright.ai/jobs/info/6a57844f21f64463ad3598e7?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | Remote | Jul 15 |
@@ -81,7 +84,6 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Agency Ops Project Intern (TikTok Local Services) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a5076339469c06620351013?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 14 |
 | **[Melodically Productions](https://www.linkedin.com/company/100126616)** | **[Creative Operations & Community Intern](https://jobright.ai/jobs/info/6a56f7c8efb06a45240d8d97?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Hybrid | Jul 14 |
 | **[Kentucky Farm Bureau Insurance](http://kyfb.com)** | **[Video Production intern](https://jobright.ai/jobs/info/6a509e415165966a11619e5c?utm_campaign=1053&utm_source=git)** | Louisville, KY, United States | On Site | Jul 14 |
-| **[Satechi](http://www.satechi.net/)** | **[Social Media/Content Intern](https://jobright.ai/jobs/info/6a35ac60ce501060b5cf5453?utm_campaign=1053&utm_source=git)** | Scripps Summit Ct, CA, United States | On Site | Jul 14 |
 | **[Hasana, Inc.](http://shophasana.com)** | **[Associate Booker Intern/Volunteer](https://jobright.ai/jobs/info/6a56d70f10c4d945d864c3a6?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | On Site | Jul 14 |
 | **[Society19](https://www.society19.com/)** | **[U.S. Lifestyle Magazine Writing Intern](https://jobright.ai/jobs/info/6a56bb0defb06a45240d7e71?utm_campaign=1053&utm_source=git)** | United States | Remote | Jul 14 |
 | **[Stewart Talent](https://www.stewarttalent.com)** | **[Stewart Talent NY Internship Fall 2026](https://jobright.ai/jobs/info/6a56ba8d53b3962b910b2467?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Hybrid | Jul 14 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Racepoint Global](http://www.racepointglobal.com)** | **[RPG Intern](https://jobright.ai/jobs/info/6a55f08aefb06a45240d2130?utm_campaign=1053&utm_source=git)** | Boston, MA, United States | On Site | Jul 13 |
 | **[GBH](http://www.wgbh.org/)** | **[NOVA Digital Video Internship - Fall 2026](https://jobright.ai/jobs/info/6a557ec2377f983ce8a9a805?utm_campaign=1053&utm_source=git)** | Boston, United States | Hybrid | Jul 13 |
 | **[Winnie Lou](http://www.winnielou.com)** | **[Social & Content Intern](https://jobright.ai/jobs/info/6a559d5fc8c68410daa52aa7?utm_campaign=1053&utm_source=git)** | Boulder, CO, United States | On Site | Jul 13 |
-| **[American Enterprise Institute](http://www.aei.org)** | **[Fall Intern: Economic Innovation and Editing](https://jobright.ai/jobs/info/6a5602a4e9b77f668bd6072c?utm_campaign=1053&utm_source=git)** | Washington, DC, United States | On Site | Jul 13 |
-| **[ATIA Ltd](https://atia.ba/en_US/)** | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a5588d42084cd792b479158?utm_campaign=1053&utm_source=git)** | Halifax, Canada | Remote | Jul 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
