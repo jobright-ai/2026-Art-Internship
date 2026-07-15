@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[WAVY Unpaid Sports Intern, Fall 2026](https://jobright.ai/jobs/info/69fc4646633e68586cd30319?utm_campaign=1053&utm_source=git)** | VA, Portsmouth, US | On Site | Jul 15 |
 | **[adyn](https://www.adyn.com/)** | **[DIGITAL STORYTELLING INTERN](https://jobright.ai/jobs/info/6a5715e353b3962b910b38ff?utm_campaign=1053&utm_source=git)** | Seattle, WA, United States | Remote | Jul 14 |
 | **[Tilson](https://www.tilsonhr.com/)** | **[Music For All - Fall Events Team Internship (Paid Position)](https://jobright.ai/jobs/info/6a57137fe9b77f668bd66a2a?utm_campaign=1053&utm_source=git)** | Indianapolis, IN, United States | On Site | Jul 14 |
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a571260f7517b519ad58fae?utm_campaign=1053&utm_source=git)** | Cookeville, TN, United States | Remote | Jul 14 |
@@ -107,7 +108,8 @@ For a complete list, click the following sortable link below:
 | **[Wolf Trap Foundation for the Performing Arts](https://www.wolftrap.org/)** | **[Intern, Opera Artistic Administration (Fall 2026)](https://jobright.ai/jobs/info/6a55d2c614f1040fa611ca3b?utm_campaign=1053&utm_source=git)** | Vienna, VA, United States | On Site | Jul 13 |
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a55d2be14f1040fa611ca07?utm_campaign=1053&utm_source=git)** | Charlotte, NC, United States | Remote | Jul 13 |
 | ↳ | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a55d2902ce8bf79a13a1969?utm_campaign=1053&utm_source=git)** | Philadelphia, PA, United States | Remote | Jul 13 |
-| ↳ | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a55d05e05c65f7c8f4c823d?utm_campaign=1053&utm_source=git)** | Sacramento, CA, United States | Remote | Jul 13 |
+| **[Sinclair Inc.](http://sbgi.net/)** | **[Intern - Studio Crew](https://jobright.ai/jobs/info/69e1d29dd612782e6114aa3a?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Jul 13 |
+| **[ATIA Ltd](https://atia.ba/en_US/)** | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a55d05e05c65f7c8f4c823d?utm_campaign=1053&utm_source=git)** | Sacramento, CA, United States | Remote | Jul 13 |
 | ↳ | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a55d04f2ce8bf79a13a15ce?utm_campaign=1053&utm_source=git)** | Kalamazoo, MI, United States | Remote | Jul 13 |
 | ↳ | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a55d021ec54dd532d813ed8?utm_campaign=1053&utm_source=git)** | Colorado Springs, CO, United States | Remote | Jul 13 |
 | ↳ | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a55d01e05c65f7c8f4c813f?utm_campaign=1053&utm_source=git)** | Ashland, OH, United States | Remote | Jul 13 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Story Co](https://www.story.inc)** | **[BTS Shooter/ Editing Intern](https://jobright.ai/jobs/info/6a5537fe2084cd792b47703f?utm_campaign=1053&utm_source=git)** | San Francisco, CA, United States | On Site | Jul 13 |
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a553338377f983ce8a988bd?utm_campaign=1053&utm_source=git)** | Murfreesboro, TN, United States | Remote | Jul 13 |
 | **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Historical Preservation, Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/6a552a56ae07d60a8d00f5a9?utm_campaign=1053&utm_source=git)** | Jamaica, NY, United States | On Site | Jul 13 |
-| **[Operater](https://operater.io)** | **[English Content Creator Internship](https://jobright.ai/jobs/info/6a552a1df2c46727285f0331?utm_campaign=1053&utm_source=git)** | United States | Remote | Jul 13 |
-| **[Cheetah Mobile](http://ir.cmcm.com)** | **[Intern, Content Production](https://jobright.ai/jobs/info/6a555efe2084cd792b4781d5?utm_campaign=1053&utm_source=git)** | Los Angeles, United States | On Site | Jul 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
