@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ATIA Ltd](https://atia.ba/en_US/)** | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a576835efb06a45240da5c5?utm_campaign=1053&utm_source=git)** | Honolulu, HI, United States | Remote | Jul 15 |
+| **[Redis](https://redis.io/)** | **[Video Production & Video Internship (Summer)](https://jobright.ai/jobs/info/6a52bdfbe726ec56126a4402?utm_campaign=1053&utm_source=git)** | HQ (San Francisco) | On Site | Jul 15 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[WAVY Unpaid Sports Intern, Fall 2026](https://jobright.ai/jobs/info/69fc4646633e68586cd30319?utm_campaign=1053&utm_source=git)** | VA, Portsmouth, US | On Site | Jul 15 |
 | **[adyn](https://www.adyn.com/)** | **[DIGITAL STORYTELLING INTERN](https://jobright.ai/jobs/info/6a5715e353b3962b910b38ff?utm_campaign=1053&utm_source=git)** | Seattle, WA, United States | Remote | Jul 14 |
 | **[Tilson](https://www.tilsonhr.com/)** | **[Music For All - Fall Events Team Internship (Paid Position)](https://jobright.ai/jobs/info/6a57137fe9b77f668bd66a2a?utm_campaign=1053&utm_source=git)** | Indianapolis, IN, United States | On Site | Jul 14 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The HALO Foundation](https://haloworldwide.org)** | **[INTERN: Kansas City Event Planning](https://jobright.ai/jobs/info/6a554edd268af95237beaca6?utm_campaign=1053&utm_source=git)** | Kansas City - Kansas City, MO 64129 | On Site | Jul 13 |
 | **[Golden Hippo®](https://www.huntrealestate.com/)** | **[Video Editor-User Group Intern](https://jobright.ai/jobs/info/6a5542ab4119652ff386468e?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 13 |
 | **[Story Co](https://www.story.inc)** | **[BTS Shooter/ Editing Intern](https://jobright.ai/jobs/info/6a5537fe2084cd792b47703f?utm_campaign=1053&utm_source=git)** | San Francisco, CA, United States | On Site | Jul 13 |
-| **[ATIA Ltd](https://atia.ba/en_US/)** | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a553338377f983ce8a988bd?utm_campaign=1053&utm_source=git)** | Murfreesboro, TN, United States | Remote | Jul 13 |
-| **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Historical Preservation, Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/6a552a56ae07d60a8d00f5a9?utm_campaign=1053&utm_source=git)** | Jamaica, NY, United States | On Site | Jul 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
