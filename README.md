@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Comcast](https://corporate.comcast.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/6a579d87f7517b519ad5b4a4?utm_campaign=1053&utm_source=git)** | PA - Philadelphia, 3601 S Broad St, United States of America | On Site | Jul 15 |
+| **[vineyard vines](http://www.vineyardvines.com)** | **[Fall 2026 Internship - Production](https://jobright.ai/jobs/info/6a579c0eefb06a45240db615?utm_campaign=1053&utm_source=git)** | Stamford, Connecticut, United States | Hybrid | Jul 15 |
 | **[LexisNexis](http://www.lexisnexis.com)** | **[Editorial Data Reporting Intern](https://jobright.ai/jobs/info/6a52295c8a74e077472f35b0?utm_campaign=1053&utm_source=git)** | Washington, DC, United States | Remote | Jul 15 |
 | **[Gift](https://www.shine.gift)** | **[Anime / Manga Intern](https://jobright.ai/jobs/info/6a57844f21f64463ad3598e7?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | Remote | Jul 15 |
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a578287e9b77f668bd68496?utm_campaign=1053&utm_source=git)** | Manhattan, KS, United States | Remote | Jul 15 |
@@ -73,7 +75,6 @@ For a complete list, click the following sortable link below:
 | **[Kentucky Farm Bureau Insurance](http://kyfb.com)** | **[Video Production intern](https://jobright.ai/jobs/info/6a509e415165966a11619e5c?utm_campaign=1053&utm_source=git)** | Louisville, KY, United States | On Site | Jul 14 |
 | **[Satechi](http://www.satechi.net/)** | **[Social Media/Content Intern](https://jobright.ai/jobs/info/6a35ac60ce501060b5cf5453?utm_campaign=1053&utm_source=git)** | Scripps Summit Ct, CA, United States | On Site | Jul 14 |
 | **[Hasana, Inc.](http://shophasana.com)** | **[Associate Booker Intern/Volunteer](https://jobright.ai/jobs/info/6a56d70f10c4d945d864c3a6?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | On Site | Jul 14 |
-| **[Monumental Sports & Entertainment](http://www.monumentalsports.com/)** | **[Internship: Game Presentation (Part-Time/Seasonal)](https://jobright.ai/jobs/info/6a56a943e9b77f668bd64f9a?utm_campaign=1053&utm_source=git)** | Washington, DC 20004, United States | On Site | Jul 14 |
 | **[Society19](https://www.society19.com/)** | **[U.S. Lifestyle Magazine Writing Intern](https://jobright.ai/jobs/info/6a56bb0defb06a45240d7e71?utm_campaign=1053&utm_source=git)** | United States | Remote | Jul 14 |
 | **[Stewart Talent](https://www.stewarttalent.com)** | **[Stewart Talent NY Internship Fall 2026](https://jobright.ai/jobs/info/6a56ba8d53b3962b910b2467?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Hybrid | Jul 14 |
 | **[CadCamNYC](https://cadcamnyc.com)** | **[Videographer/Editor Intern](https://jobright.ai/jobs/info/6a56a82621f64463ad356236?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Jul 14 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[NBCUniversal](https://www.nbcuniversal.com/)** | **[San Diego Station (NBC 7/T20) Digital Internship - Fall 2026](https://jobright.ai/jobs/info/6a42c1fa6faf756060967e1b?utm_campaign=1053&utm_source=git)** | San Diego, CA, United States | On Site | Jul 13 |
 | **[Albuquerque Business First](bizjournals.com/albuquerque)** | **[Newsroom Intern](https://jobright.ai/jobs/info/6a5551824119652ff3864edd?utm_campaign=1053&utm_source=git)** | 2390 E Camelback Rd Ste 302, Phoenix, AZ,85016 | On Site | Jul 13 |
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a554fe94119652ff3864e1b?utm_campaign=1053&utm_source=git)** | Mesa, AZ, United States | Remote | Jul 13 |
-| ↳ | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a554fe74119652ff3864e17?utm_campaign=1053&utm_source=git)** | Nashville, TN, United States | Remote | Jul 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
