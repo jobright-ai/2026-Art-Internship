@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Damar Services, Inc.](https://www.damar.org)** | **[Fall Special Event and Volunteer Intern](https://jobright.ai/jobs/info/6a57dfea3330ca6f993c1b95?utm_campaign=1053&utm_source=git)** | Indianapolis, IN, United States | On Site | Jul 15 |
+| **[USA TODAY Co., Inc.](https://www.usatodayco.com)** | **[2026 Fall College Sports Intern](https://jobright.ai/jobs/info/6a57d87a3330ca6f993c17d6?utm_campaign=1053&utm_source=git)** | Columbus, OH, United States | On Site | Jul 15 |
 | **[World of Dance](http://www.worldofdance.com)** | **[Video Content Curator Intern](https://jobright.ai/jobs/info/6a57d521e9b77f668bd6b278?utm_campaign=1053&utm_source=git)** | Cerritos, CA, United States | On Site | Jul 15 |
 | **[National Western Stock Show](https://nationalwestern.com)** | **[Coors Western Art Intern](https://jobright.ai/jobs/info/6a57d4ac10c4d945d86515b5?utm_campaign=1053&utm_source=git)** | Denver, CO, United States | On Site | Jul 15 |
 | **[vineyard vines](http://www.vineyardvines.com)** | **[Fall 2026 Internship - Production](https://jobright.ai/jobs/info/6a579c0eefb06a45240db615?utm_campaign=1053&utm_source=git)** | Stamford, Connecticut, United States | Hybrid | Jul 15 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Mitratech Trakstar](http://www.trakstar.com)** | **[Videography Intern](https://jobright.ai/jobs/info/6a55bacbfdf4fa71202b447d?utm_campaign=1053&utm_source=git)** | Suwanee, GA, United States | On Site | Jul 13 |
 | **[PRIME Education](https://primece.com)** | **[Editorial Intern (PCMag)](https://jobright.ai/jobs/info/6a569957efb06a45240d6d7f?utm_campaign=1053&utm_source=git)** | New York, New York, United States | Remote | Jul 13 |
 | **[Racepoint Global](http://www.racepointglobal.com)** | **[RPG Intern](https://jobright.ai/jobs/info/6a55f08aefb06a45240d2130?utm_campaign=1053&utm_source=git)** | Boston, MA, United States | On Site | Jul 13 |
-| **[GBH](http://www.wgbh.org/)** | **[NOVA Digital Video Internship - Fall 2026](https://jobright.ai/jobs/info/6a557ec2377f983ce8a9a805?utm_campaign=1053&utm_source=git)** | Boston, United States | Hybrid | Jul 13 |
-| **[Winnie Lou](http://www.winnielou.com)** | **[Social & Content Intern](https://jobright.ai/jobs/info/6a559d5fc8c68410daa52aa7?utm_campaign=1053&utm_source=git)** | Boulder, CO, United States | On Site | Jul 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
