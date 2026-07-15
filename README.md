@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Qualifacts](http://www.qualifacts.com)** | **[Social Media Video Content Creator Intern](https://jobright.ai/jobs/info/6a57c0c2a791c6211bf00d88?utm_campaign=1053&utm_source=git)** | Tampa, FL, United States | Hybrid | Jul 15 |
+| **[vineyard vines](http://www.vineyardvines.com)** | **[Fall 2026 Internship - Production](https://jobright.ai/jobs/info/6a579c0eefb06a45240db615?utm_campaign=1053&utm_source=git)** | Stamford, Connecticut, United States | Hybrid | Jul 15 |
+| **[ElectraCast Media](http://www.electracast.com)** | **[Intern Social Video Editor for Podcast Company](https://jobright.ai/jobs/info/6a57c25610c4d945d8650dcc?utm_campaign=1053&utm_source=git)** | United States | Remote | Jul 15 |
 | **[NORTH SIX](http://northsix.net)** | **[Experiential Intern](https://jobright.ai/jobs/info/6a57baf6efb06a45240dce08?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Jul 15 |
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a57badcf7517b519ad5cbc1?utm_campaign=1053&utm_source=git)** | Boston, MA, United States | Remote | Jul 15 |
 | **[Advisors Excel](http://advisorsexcel.com)** | **[Video & Audio Production Intern](https://jobright.ai/jobs/info/6a57bad2e9b77f668bd6a67e?utm_campaign=1053&utm_source=git)** | Topeka, KS, United States | On Site | Jul 15 |
@@ -67,7 +68,6 @@ For a complete list, click the following sortable link below:
 | **[Heyday Athletic](https://www.heydayathletic.com)** | **[Heyday Athletic Internship - Fall](https://jobright.ai/jobs/info/6a57aeb1e9b77f668bd69d12?utm_campaign=1053&utm_source=git)** | Greater Philadelphia | On Site | Jul 15 |
 | **[St. Jude Children's Research Hospital - ALSAC](https://www.stjude.org)** | **[Intern- Digital Content (Memphis TN)](https://jobright.ai/jobs/info/6a554a474119652ff3864a5f?utm_campaign=1053&utm_source=git)** | Memphis, TN, United States | On Site | Jul 15 |
 | **[Comcast](https://corporate.comcast.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/6a579d87f7517b519ad5b4a4?utm_campaign=1053&utm_source=git)** | PA - Philadelphia, 3601 S Broad St, United States of America | On Site | Jul 15 |
-| **[vineyard vines](http://www.vineyardvines.com)** | **[Fall 2026 Internship - Production](https://jobright.ai/jobs/info/6a579c0eefb06a45240db615?utm_campaign=1053&utm_source=git)** | Stamford, Connecticut, United States | Hybrid | Jul 15 |
 | **[LexisNexis](http://www.lexisnexis.com)** | **[Editorial Data Reporting Intern](https://jobright.ai/jobs/info/6a52295c8a74e077472f35b0?utm_campaign=1053&utm_source=git)** | Washington, DC, United States | Remote | Jul 15 |
 | **[Gift](https://www.shine.gift)** | **[Anime / Manga Intern](https://jobright.ai/jobs/info/6a57844f21f64463ad3598e7?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | Remote | Jul 15 |
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a578287e9b77f668bd68496?utm_campaign=1053&utm_source=git)** | Manhattan, KS, United States | Remote | Jul 15 |
@@ -75,7 +75,6 @@ For a complete list, click the following sortable link below:
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a576835efb06a45240da5c5?utm_campaign=1053&utm_source=git)** | Honolulu, HI, United States | Remote | Jul 15 |
 | **[Redis](https://redis.io/)** | **[Video Production & Video Internship (Summer)](https://jobright.ai/jobs/info/6a52bdfbe726ec56126a4402?utm_campaign=1053&utm_source=git)** | HQ (San Francisco) | On Site | Jul 15 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[WAVY Unpaid Sports Intern, Fall 2026](https://jobright.ai/jobs/info/69fc4646633e68586cd30319?utm_campaign=1053&utm_source=git)** | VA, Portsmouth, US | On Site | Jul 15 |
-| **[adyn](https://www.adyn.com/)** | **[DIGITAL STORYTELLING INTERN](https://jobright.ai/jobs/info/6a5715e353b3962b910b38ff?utm_campaign=1053&utm_source=git)** | Seattle, WA, United States | Remote | Jul 14 |
 | **[Tilson](https://www.tilsonhr.com/)** | **[Music For All - Fall Events Team Internship (Paid Position)](https://jobright.ai/jobs/info/6a57137fe9b77f668bd66a2a?utm_campaign=1053&utm_source=git)** | Indianapolis, IN, United States | On Site | Jul 14 |
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a571260f7517b519ad58fae?utm_campaign=1053&utm_source=git)** | Cookeville, TN, United States | Remote | Jul 14 |
 | **[The Corelink Solution](http://www.thecorelinksolution.com)** | **[Artist Community Manager (Volunteer / Intern)](https://jobright.ai/jobs/info/6a5711d4f7517b519ad58faa?utm_campaign=1053&utm_source=git)** | Wilmington, DE, United States | Hybrid | Jul 14 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[GBH](http://www.wgbh.org/)** | **[NOVA Digital Video Internship - Fall 2026](https://jobright.ai/jobs/info/6a557ec2377f983ce8a9a805?utm_campaign=1053&utm_source=git)** | Boston, United States | Hybrid | Jul 13 |
 | **[Winnie Lou](http://www.winnielou.com)** | **[Social & Content Intern](https://jobright.ai/jobs/info/6a559d5fc8c68410daa52aa7?utm_campaign=1053&utm_source=git)** | Boulder, CO, United States | On Site | Jul 13 |
 | **[American Enterprise Institute](http://www.aei.org)** | **[Fall Intern: Economic Innovation and Editing](https://jobright.ai/jobs/info/6a5602a4e9b77f668bd6072c?utm_campaign=1053&utm_source=git)** | Washington, DC, United States | On Site | Jul 13 |
+| **[ATIA Ltd](https://atia.ba/en_US/)** | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a5588d42084cd792b479158?utm_campaign=1053&utm_source=git)** | Halifax, Canada | Remote | Jul 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
