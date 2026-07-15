@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TikTok](https://www.tiktok.com)** | **[Agency Ops Project Intern (TikTok Local Services) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a5076339469c06620351013?utm_campaign=1053&utm_source=git)** | Los Angeles, United States | On Site | Jul 15 |
 | **[Damar Services, Inc.](https://www.damar.org)** | **[Fall Special Event and Volunteer Intern](https://jobright.ai/jobs/info/6a57dfea3330ca6f993c1b95?utm_campaign=1053&utm_source=git)** | Indianapolis, IN, United States | On Site | Jul 15 |
 | **[USA TODAY Co., Inc.](https://www.usatodayco.com)** | **[2026 Fall College Sports Intern](https://jobright.ai/jobs/info/6a57d87a3330ca6f993c17d6?utm_campaign=1053&utm_source=git)** | Columbus, OH, United States | On Site | Jul 15 |
 | **[World of Dance](http://www.worldofdance.com)** | **[Video Content Curator Intern](https://jobright.ai/jobs/info/6a57d521e9b77f668bd6b278?utm_campaign=1053&utm_source=git)** | Cerritos, CA, United States | On Site | Jul 15 |
@@ -83,7 +84,6 @@ For a complete list, click the following sortable link below:
 | **[Tilson](https://www.tilsonhr.com/)** | **[Music For All - Fall Events Team Internship (Paid Position)](https://jobright.ai/jobs/info/6a57137fe9b77f668bd66a2a?utm_campaign=1053&utm_source=git)** | Indianapolis, IN, United States | On Site | Jul 14 |
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a571260f7517b519ad58fae?utm_campaign=1053&utm_source=git)** | Cookeville, TN, United States | Remote | Jul 14 |
 | **[The Corelink Solution](http://www.thecorelinksolution.com)** | **[Artist Community Manager (Volunteer / Intern)](https://jobright.ai/jobs/info/6a5711d4f7517b519ad58faa?utm_campaign=1053&utm_source=git)** | Wilmington, DE, United States | Hybrid | Jul 14 |
-| **[TikTok](https://www.tiktok.com)** | **[Agency Ops Project Intern (TikTok Local Services) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a5076339469c06620351013?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 14 |
 | **[Melodically Productions](https://www.linkedin.com/company/100126616)** | **[Creative Operations & Community Intern](https://jobright.ai/jobs/info/6a56f7c8efb06a45240d8d97?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Hybrid | Jul 14 |
 | **[Kentucky Farm Bureau Insurance](http://kyfb.com)** | **[Video Production intern](https://jobright.ai/jobs/info/6a509e415165966a11619e5c?utm_campaign=1053&utm_source=git)** | Louisville, KY, United States | On Site | Jul 14 |
 | **[Hasana, Inc.](http://shophasana.com)** | **[Associate Booker Intern/Volunteer](https://jobright.ai/jobs/info/6a56d70f10c4d945d864c3a6?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | On Site | Jul 14 |
