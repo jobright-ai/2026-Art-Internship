@@ -57,11 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Devotion](https://www.devotion.club/)** | **[Creator Community Intern](https://jobright.ai/jobs/info/6a5955cd3ac7627fe9ffebff?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Remote | Jul 16 |
+| **[GBH](http://www.wgbh.org/)** | **[NOVA Digital Video Internship - Fall 2026](https://jobright.ai/jobs/info/6a557ec2377f983ce8a9a805?utm_campaign=1053&utm_source=git)** | Boston, MA, United States | Hybrid | Jul 16 |
+| **[ATIA Ltd](https://atia.ba/en_US/)** | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a5943e363a8f619507c1603?utm_campaign=1053&utm_source=git)** | Valdosta, GA, United States | Remote | Jul 16 |
+| ↳ | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a5943cd4da96a42cfd9036e?utm_campaign=1053&utm_source=git)** | Wichita, KS, United States | Remote | Jul 16 |
+| ↳ | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a5943cb4da96a42cfd9036d?utm_campaign=1053&utm_source=git)** | Long Beach, CA, United States | Remote | Jul 16 |
 | **[David Zwirner](http://www.davidzwirner.com/)** | **[Gallery Intern](https://jobright.ai/jobs/info/6a5939bd856af468ab002882?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 16 |
 | ↳ | **[Digital Editorial Intern](https://jobright.ai/jobs/info/6a5939a7856af468ab002878?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Jul 16 |
 | ↳ | **[Museum & Institutional Partnerships Intern](https://jobright.ai/jobs/info/6a5939a3856af468ab002873?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Jul 16 |
 | **[InsideHockey.com](https://www.insidehockey.com)** | **[Hockey Writing & Media Internship](https://jobright.ai/jobs/info/6a59350c63a8f619507c0e4a?utm_campaign=1053&utm_source=git)** | Greater Boston, United States | Remote | Jul 16 |
-| **[Tarte Cosmetics](https://tartecosmetics.com/)** | **[Fall 2026 Events Internship](https://jobright.ai/jobs/info/6a592d0b63a8f619507c0c60?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Jul 16 |
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a5927c54da96a42cfd8f7b9?utm_campaign=1053&utm_source=git)** | Mississauga, Canada | Remote | Jul 16 |
 | ↳ | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a5927c04da96a42cfd8f7b4?utm_campaign=1053&utm_source=git)** | Riverside, CA, United States | Remote | Jul 16 |
 | **[The Aparecio Foundation](http://www.apareciofoundation.org)** | **[Volunteer/Intern:Pro bono: Editor of "Party" Content in Felix](https://jobright.ai/jobs/info/6a59260563a8f619507c0913?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Jul 16 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a55d2902ce8bf79a13a1969?utm_campaign=1053&utm_source=git)** | Philadelphia, PA, United States | Remote | Jul 13 |
 | **[Sinclair Inc.](http://sbgi.net/)** | **[Intern - Studio Crew](https://jobright.ai/jobs/info/69e1d29dd612782e6114aa3a?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Jul 13 |
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a55d05e05c65f7c8f4c823d?utm_campaign=1053&utm_source=git)** | Sacramento, CA, United States | Remote | Jul 13 |
-| ↳ | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a55d04f2ce8bf79a13a15ce?utm_campaign=1053&utm_source=git)** | Kalamazoo, MI, United States | Remote | Jul 13 |
-| ↳ | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a55d021ec54dd532d813ed8?utm_campaign=1053&utm_source=git)** | Colorado Springs, CO, United States | Remote | Jul 13 |
-| ↳ | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a55d01e05c65f7c8f4c813f?utm_campaign=1053&utm_source=git)** | Ashland, OH, United States | Remote | Jul 13 |
-| **[Melara Enterprises](http://www.melaraenterprises.com)** | **[225 Magazine Editorial or Photography Intern](https://jobright.ai/jobs/info/6a55cffc05c65f7c8f4c8097?utm_campaign=1053&utm_source=git)** | Baton Rouge, LA, United States | On Site | Jul 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
