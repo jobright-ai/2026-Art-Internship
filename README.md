@@ -57,9 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ATIA Ltd](https://atia.ba/en_US/)** | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a5927c54da96a42cfd8f7b9?utm_campaign=1053&utm_source=git)** | Mississauga, Canada | Remote | Jul 16 |
+| ↳ | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a5927c04da96a42cfd8f7b4?utm_campaign=1053&utm_source=git)** | Riverside, CA, United States | Remote | Jul 16 |
+| **[The Aparecio Foundation](http://www.apareciofoundation.org)** | **[Volunteer/Intern:Pro bono: Editor of "Party" Content in Felix](https://jobright.ai/jobs/info/6a59260563a8f619507c0913?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Jul 16 |
+| **[The Brand Leader](https://thebrandleader.com/)** | **[Fall 2026 Content Creator Intern](https://jobright.ai/jobs/info/6a592301856af468ab001f8f?utm_campaign=1053&utm_source=git)** | Greenville, SC, United States | On Site | Jul 16 |
+| **[The Dispatch](https://thedispatch.com/)** | **[Fall 2026 Multimedia Internship](https://jobright.ai/jobs/info/6a591d8d4da96a42cfd8f224?utm_campaign=1053&utm_source=git)** | United States | Remote | Jul 16 |
 | **[617MediaGroup](https://617mediagroup.com)** | **[A/V Production Internship](https://jobright.ai/jobs/info/6a50ff9a78e364789ca57d3b?utm_campaign=1053&utm_source=git)** | Greater Boston | On Site | Jul 16 |
 | **[Hasana, Inc.](http://shophasana.com)** | **[Volunteer/Intern Film & Video Internship](https://jobright.ai/jobs/info/6a59098963a8f619507bfddf?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | On Site | Jul 16 |
-| **[Golden Hippo®](https://www.huntrealestate.com/)** | **[Video Editor-User Group Intern](https://jobright.ai/jobs/info/6a555f6a268af95237beb476?utm_campaign=1053&utm_source=git)** | Woodland Hills, CA, United States | On Site | Jul 16 |
+| **[Golden Hippo®](https://www.huntrealestate.com/)** | **[Video Editing Intern](https://jobright.ai/jobs/info/6a565bfbe9b77f668bd62c38?utm_campaign=1053&utm_source=git)** | Woodland Hills, CA, United States | Hybrid | Jul 16 |
+| ↳ | **[Video Editor-User Group Intern](https://jobright.ai/jobs/info/6a555f6a268af95237beb476?utm_campaign=1053&utm_source=git)** | Woodland Hills, CA, United States | On Site | Jul 16 |
 | **[The WNET Group](http://www.wnet.org)** | **[Digital Content Creator Intern](https://jobright.ai/jobs/info/6a58d67d63a8f619507be93c?utm_campaign=1053&utm_source=git)** | Worldwide Plaza  New York, NY, United States of America | Hybrid | Jul 16 |
 | **[Oak View Group](http://www.oakviewgroup.com)** | **[Programming/Booking Intern / Part-Time / Moody Center](https://jobright.ai/jobs/info/6a58d67b4da96a42cfd8d5d8?utm_campaign=1053&utm_source=git)** | Moody Center (Austin, TX) | On Site | Jul 16 |
 | **[Barbarian](https://wearebarbarian.com/)** | **[The Horde 2026 - Summer Internship](https://jobright.ai/jobs/info/6a58b88f63a8f619507bdad2?utm_campaign=1053&utm_source=git)** | New York, United States | Hybrid | Jul 16 |
@@ -69,7 +75,6 @@ For a complete list, click the following sortable link below:
 | **[National Western Stock Show](https://nationalwestern.com)** | **[Coors Western Art Intern](https://jobright.ai/jobs/info/6a57d4ac10c4d945d86515b5?utm_campaign=1053&utm_source=git)** | Denver, CO, United States | On Site | Jul 16 |
 | **[Magnet Media, Inc.](http://www.magnetmediafilms.com)** | **[Production Intern Fall 2027](https://jobright.ai/jobs/info/6a42cfd01cc9cc2b12fece84?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jul 16 |
 | **[RefReps](http://www.refreps.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/6a586a4268d16a30e24130d9?utm_campaign=1053&utm_source=git)** | Zionsville, IN, United States | On Site | Jul 15 |
-| **[adyn](https://www.adyn.com/)** | **[DIGITAL STORYTELLING INTERN](https://jobright.ai/jobs/info/6a58626268d16a30e2412e41?utm_campaign=1053&utm_source=git)** | Seattle, WA, United States | Remote | Jul 15 |
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a585f9972fe7a7b98dcdff1?utm_campaign=1053&utm_source=git)** | Brampton, Canada | On Site | Jul 15 |
 | **[Hasana, Inc.](http://shophasana.com)** | **[Volunteer/Intern: Film/Video Editor](https://jobright.ai/jobs/info/6a584c973330ca6f993c3e99?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 15 |
 | **[Girl Scouts of Citrus Council](https://www.citrus-gs.org/)** | **[Intern for the Girl Scout Experience Team](https://jobright.ai/jobs/info/6a582b6468d16a30e24120f3?utm_campaign=1053&utm_source=git)** | Orlando, FL, United States | On Site | Jul 15 |
@@ -113,7 +118,6 @@ For a complete list, click the following sortable link below:
 | **[Indy Fuel Hockey Club](https://www.indyfuelhockey.com)** | **[Game Operations Intern](https://jobright.ai/jobs/info/6a56a359f7517b519ad572ee?utm_campaign=1053&utm_source=git)** | Fishers, IN, United States | On Site | Jul 14 |
 | **[MBJ Network](www.mbj-network.com)** | **[Production Assistant Intern](https://jobright.ai/jobs/info/6a56a01d21f64463ad355e67?utm_campaign=1053&utm_source=git)** | 330 E Roosevelt Rd, Lombard, IL 60148, USA | Remote | Jul 14 |
 | **[Film Pittsburgh](http://www.FilmPittsburgh.org)** | **[Spring Festival Internship](https://jobright.ai/jobs/info/6a43ed470153061b8b3de9c6?utm_campaign=1053&utm_source=git)** | Pittsburgh, PA, United States | Hybrid | Jul 14 |
-| **[Golden Hippo®](https://www.huntrealestate.com/)** | **[Video Editing Intern](https://jobright.ai/jobs/info/6a565bfbe9b77f668bd62c38?utm_campaign=1053&utm_source=git)** | Woodland Hills, CA, United States | Hybrid | Jul 14 |
 | **[Namify](http://namify.com)** | **[Videographer Intern](https://jobright.ai/jobs/info/6a5686d2e9b77f668bd63ff5?utm_campaign=1053&utm_source=git)** | Springville, UT, United States | On Site | Jul 14 |
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a56849953b3962b910b0c8d?utm_campaign=1053&utm_source=git)** | Washington, DC, United States | Remote | Jul 14 |
 | ↳ | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a56849310c4d945d864a2c5?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | Remote | Jul 14 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a55cee7ef22935f2e3f75fe?utm_campaign=1053&utm_source=git)** | Omaha, NE, United States | Remote | Jul 13 |
 | ↳ | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a55cdfffdf4fa71202b56a8?utm_campaign=1053&utm_source=git)** | Cleveland, OH, United States | Remote | Jul 13 |
 | ↳ | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a55cde505c65f7c8f4c7cd5?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | Remote | Jul 13 |
-| ↳ | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a55cdc914f1040fa611c18b?utm_campaign=1053&utm_source=git)** | Virginia Beach, VA, United States | Remote | Jul 13 |
-| **[Speed Art Museum](https://www.speedmuseum.org)** | **[Private Events Intern](https://jobright.ai/jobs/info/6a55cda1fdf4fa71202b5590?utm_campaign=1053&utm_source=git)** | Louisville, KY, United States | On Site | Jul 13 |
-| **[Advisors Excel](http://advisorsexcel.com)** | **[Books Program Intern](https://jobright.ai/jobs/info/6a55cc7cfdf4fa71202b5492?utm_campaign=1053&utm_source=git)** | Topeka, KS, United States | On Site | Jul 13 |
-| **[Apropo Studio](https://www.apropostudiony.com)** | **[Wholesale Fashion Internship](https://jobright.ai/jobs/info/6a55cb7def22935f2e3f7273?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Jul 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
