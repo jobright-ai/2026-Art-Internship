@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[National Western Stock Show](https://nationalwestern.com)** | **[Coors Western Art Intern](https://jobright.ai/jobs/info/6a57d4ac10c4d945d86515b5?utm_campaign=1053&utm_source=git)** | Denver, CO, United States | On Site | Jul 16 |
+| **[Magnet Media, Inc.](http://www.magnetmediafilms.com)** | **[Production Intern Fall 2027](https://jobright.ai/jobs/info/6a42cfd01cc9cc2b12fece84?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jul 16 |
 | **[Highgate](https://www.highgate.com)** | **[Culinary Intern](https://jobright.ai/jobs/info/6a5882593330ca6f993c54bd?utm_campaign=1053&utm_source=git)** | Las Vegas, NV, United States | On Site | Jul 16 |
 | **[RefReps](http://www.refreps.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/6a586a4268d16a30e24130d9?utm_campaign=1053&utm_source=git)** | Zionsville, IN, United States | On Site | Jul 15 |
 | **[adyn](https://www.adyn.com/)** | **[DIGITAL STORYTELLING INTERN](https://jobright.ai/jobs/info/6a58626268d16a30e2412e41?utm_campaign=1053&utm_source=git)** | Seattle, WA, United States | Remote | Jul 15 |
@@ -73,7 +75,6 @@ For a complete list, click the following sortable link below:
 | **[Comcast](https://corporate.comcast.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/6a579d87f7517b519ad5b4a4?utm_campaign=1053&utm_source=git)** | PA - Philadelphia, 3601 S Broad St, United States of America | On Site | Jul 15 |
 | **[USA TODAY Co., Inc.](https://www.usatodayco.com)** | **[2026 Fall College Sports Intern](https://jobright.ai/jobs/info/6a57d87a3330ca6f993c17d6?utm_campaign=1053&utm_source=git)** | Columbus, OH, United States | On Site | Jul 15 |
 | **[World of Dance](http://www.worldofdance.com)** | **[Video Content Curator Intern](https://jobright.ai/jobs/info/6a57d521e9b77f668bd6b278?utm_campaign=1053&utm_source=git)** | Cerritos, CA, United States | On Site | Jul 15 |
-| **[National Western Stock Show](https://nationalwestern.com)** | **[Coors Western Art Intern](https://jobright.ai/jobs/info/6a57d4ac10c4d945d86515b5?utm_campaign=1053&utm_source=git)** | Denver, CO, United States | On Site | Jul 15 |
 | **[vineyard vines](http://www.vineyardvines.com)** | **[Fall 2026 Internship - Production](https://jobright.ai/jobs/info/6a579c0eefb06a45240db615?utm_campaign=1053&utm_source=git)** | Stamford, Connecticut, United States | Hybrid | Jul 15 |
 | **[NORTH SIX](http://northsix.net)** | **[Experiential Intern](https://jobright.ai/jobs/info/6a57baf6efb06a45240dce08?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Jul 15 |
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a57badcf7517b519ad5cbc1?utm_campaign=1053&utm_source=git)** | Boston, MA, United States | Remote | Jul 15 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Hasana, Inc.](http://shophasana.com)** | **[Writers & Journalists Intern/Volunteer](https://jobright.ai/jobs/info/6a432e91cbf92c7bcd36e2b9?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | On Site | Jul 13 |
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a56081753b3962b910ad915?utm_campaign=1053&utm_source=git)** | Jonesboro, AR, United States | Remote | Jul 13 |
 | ↳ | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a56045110c4d945d8646cde?utm_campaign=1053&utm_source=git)** | Ottawa, Canada | Remote | Jul 13 |
-| **[Client Engagement Academy - We Produce Better Lives™](https://www.clientengagementacademy.com/)** | **[Office Intern](https://jobright.ai/jobs/info/6a55f5e1e9b77f668bd5ff27?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Jul 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
