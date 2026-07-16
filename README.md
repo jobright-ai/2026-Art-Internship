@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[617MediaGroup](https://617mediagroup.com)** | **[A/V Production Internship](https://jobright.ai/jobs/info/6a50ff9a78e364789ca57d3b?utm_campaign=1053&utm_source=git)** | Greater Boston | On Site | Jul 16 |
+| **[Hasana, Inc.](http://shophasana.com)** | **[Volunteer/Intern Film & Video Internship](https://jobright.ai/jobs/info/6a59098963a8f619507bfddf?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | On Site | Jul 16 |
+| **[Golden Hippo®](https://www.huntrealestate.com/)** | **[Video Editor-User Group Intern](https://jobright.ai/jobs/info/6a555f6a268af95237beb476?utm_campaign=1053&utm_source=git)** | Woodland Hills, CA, United States | On Site | Jul 16 |
 | **[The WNET Group](http://www.wnet.org)** | **[Digital Content Creator Intern](https://jobright.ai/jobs/info/6a58d67d63a8f619507be93c?utm_campaign=1053&utm_source=git)** | Worldwide Plaza  New York, NY, United States of America | Hybrid | Jul 16 |
 | **[Oak View Group](http://www.oakviewgroup.com)** | **[Programming/Booking Intern / Part-Time / Moody Center](https://jobright.ai/jobs/info/6a58d67b4da96a42cfd8d5d8?utm_campaign=1053&utm_source=git)** | Moody Center (Austin, TX) | On Site | Jul 16 |
 | **[Barbarian](https://wearebarbarian.com/)** | **[The Horde 2026 - Summer Internship](https://jobright.ai/jobs/info/6a58b88f63a8f619507bdad2?utm_campaign=1053&utm_source=git)** | New York, United States | Hybrid | Jul 16 |
@@ -88,6 +91,7 @@ For a complete list, click the following sortable link below:
 | **[Waterfall](https://waterfall.market)** | **[Intern](https://jobright.ai/jobs/info/6a57b116efb06a45240dc71e?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Remote | Jul 15 |
 | **[Heyday Athletic](https://www.heydayathletic.com)** | **[Heyday Athletic Internship - Fall](https://jobright.ai/jobs/info/6a57aeb1e9b77f668bd69d12?utm_campaign=1053&utm_source=git)** | Greater Philadelphia | On Site | Jul 15 |
 | **[St. Jude Children's Research Hospital - ALSAC](https://www.stjude.org)** | **[Intern- Digital Content (Memphis TN)](https://jobright.ai/jobs/info/6a554a474119652ff3864a5f?utm_campaign=1053&utm_source=git)** | Memphis, TN, United States | On Site | Jul 15 |
+| **[Redis](https://redis.io/)** | **[Video Production & Video Internship (Summer)](https://jobright.ai/jobs/info/6a030adff3d6cc51d6372ab8?utm_campaign=1053&utm_source=git)** | San Francisco, CA | On Site | Jul 15 |
 | **[LexisNexis](http://www.lexisnexis.com)** | **[Editorial Data Reporting Intern](https://jobright.ai/jobs/info/6a52295c8a74e077472f35b0?utm_campaign=1053&utm_source=git)** | Washington, DC, United States | Remote | Jul 15 |
 | **[Kentucky Farm Bureau Insurance](http://kyfb.com)** | **[Video Production intern](https://jobright.ai/jobs/info/6a4e5869397d8d353c288736?utm_campaign=1053&utm_source=git)** | Louisville, KY, United States | On Site | Jul 15 |
 | **[Gift](https://www.shine.gift)** | **[Anime / Manga Intern](https://jobright.ai/jobs/info/6a57844f21f64463ad3598e7?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | Remote | Jul 15 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Speed Art Museum](https://www.speedmuseum.org)** | **[Private Events Intern](https://jobright.ai/jobs/info/6a55cda1fdf4fa71202b5590?utm_campaign=1053&utm_source=git)** | Louisville, KY, United States | On Site | Jul 13 |
 | **[Advisors Excel](http://advisorsexcel.com)** | **[Books Program Intern](https://jobright.ai/jobs/info/6a55cc7cfdf4fa71202b5492?utm_campaign=1053&utm_source=git)** | Topeka, KS, United States | On Site | Jul 13 |
 | **[Apropo Studio](https://www.apropostudiony.com)** | **[Wholesale Fashion Internship](https://jobright.ai/jobs/info/6a55cb7def22935f2e3f7273?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Jul 13 |
-| **[Bethel University](https://www.betheluniversity.edu/)** | **[Student Worker - PR/Com Student Writer Intern](https://jobright.ai/jobs/info/6a55c9f905c65f7c8f4c78c5?utm_campaign=1053&utm_source=git)** | Mishawaka, IN 46545, USA | On Site | Jul 13 |
-| **[Codeage](http://www.codeage.com)** | **[Writer/Editor Intern](https://jobright.ai/jobs/info/6a55c94dfdf4fa71202b50a3?utm_campaign=1053&utm_source=git)** | Beverly Hills, CA, United States | On Site | Jul 13 |
-| **[ATIA Ltd](https://atia.ba/en_US/)** | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a55c7fe14f1040fa611bc15?utm_campaign=1053&utm_source=git)** | Montreal, Canada | Remote | Jul 13 |
-| **[Hasana, Inc.](http://shophasana.com)** | **[Writers & Journalists Intern/Volunteer](https://jobright.ai/jobs/info/6a432e91cbf92c7bcd36e2b9?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | On Site | Jul 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
