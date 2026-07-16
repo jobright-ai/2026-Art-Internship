@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[ATIA Ltd](https://atia.ba/en_US/)** | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a580e593330ca6f993c314d?utm_campaign=1053&utm_source=git)** | Anaheim, CA, United States | Remote | Jul 15 |
+| **[Girl Scouts of Citrus Council](https://www.citrus-gs.org/)** | **[Intern for the Girl Scout Experience Team](https://jobright.ai/jobs/info/6a582b6468d16a30e24120f3?utm_campaign=1053&utm_source=git)** | Orlando, FL, United States | On Site | Jul 15 |
+| **[ATIA Ltd](https://atia.ba/en_US/)** | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a582afd3330ca6f993c391a?utm_campaign=1053&utm_source=git)** | Baltimore, MD, United States | Remote | Jul 15 |
+| ↳ | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a580e593330ca6f993c314d?utm_campaign=1053&utm_source=git)** | Anaheim, CA, United States | Remote | Jul 15 |
 | **[GBH](http://www.wgbh.org/)** | **[NOVA Digital Video Internship - Fall 2026](https://jobright.ai/jobs/info/6a557fc1f2c46727285f28b9?utm_campaign=1053&utm_source=git)** | Boston, MA, United States | Hybrid | Jul 15 |
 | **[Advisors Excel](http://advisorsexcel.com)** | **[Video & Audio Production Intern](https://jobright.ai/jobs/info/6a57bad2e9b77f668bd6a67e?utm_campaign=1053&utm_source=git)** | Topeka, KS, United States | On Site | Jul 15 |
 | **[Damar Services, Inc.](https://www.damar.org)** | **[Fall Special Event and Volunteer Intern](https://jobright.ai/jobs/info/6a57dfea3330ca6f993c1b95?utm_campaign=1053&utm_source=git)** | Indianapolis, IN, United States | On Site | Jul 15 |
@@ -67,7 +69,6 @@ For a complete list, click the following sortable link below:
 | **[World of Dance](http://www.worldofdance.com)** | **[Video Content Curator Intern](https://jobright.ai/jobs/info/6a57d521e9b77f668bd6b278?utm_campaign=1053&utm_source=git)** | Cerritos, CA, United States | On Site | Jul 15 |
 | **[National Western Stock Show](https://nationalwestern.com)** | **[Coors Western Art Intern](https://jobright.ai/jobs/info/6a57d4ac10c4d945d86515b5?utm_campaign=1053&utm_source=git)** | Denver, CO, United States | On Site | Jul 15 |
 | **[vineyard vines](http://www.vineyardvines.com)** | **[Fall 2026 Internship - Production](https://jobright.ai/jobs/info/6a579c0eefb06a45240db615?utm_campaign=1053&utm_source=git)** | Stamford, Connecticut, United States | Hybrid | Jul 15 |
-| **[ElectraCast Media](http://www.electracast.com)** | **[Intern Social Video Editor for Podcast Company](https://jobright.ai/jobs/info/6a57c25610c4d945d8650dcc?utm_campaign=1053&utm_source=git)** | United States | Remote | Jul 15 |
 | **[NORTH SIX](http://northsix.net)** | **[Experiential Intern](https://jobright.ai/jobs/info/6a57baf6efb06a45240dce08?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Jul 15 |
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a57badcf7517b519ad5cbc1?utm_campaign=1053&utm_source=git)** | Boston, MA, United States | Remote | Jul 15 |
 | ↳ | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a57bac621f64463ad35b9e3?utm_campaign=1053&utm_source=git)** | Stillwater, OK, United States | Remote | Jul 15 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Braathe Enterprises](http://www.beyourstart.com)** | **[Virtual Journalism Internship](https://jobright.ai/jobs/info/6a55bd2405c65f7c8f4c6f4d?utm_campaign=1053&utm_source=git)** | Saratoga Springs, NY, United States | Remote | Jul 13 |
 | **[Brennan Center for Justice](http://www.brennancenter.org/)** | **[Fall 2026 Multimedia Producer Undergraduate Internship](https://jobright.ai/jobs/info/6a396777649fdf1629300b30?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Jul 13 |
 | **[Mitratech Trakstar](http://www.trakstar.com)** | **[Videography Intern](https://jobright.ai/jobs/info/6a55bacbfdf4fa71202b447d?utm_campaign=1053&utm_source=git)** | Suwanee, GA, United States | On Site | Jul 13 |
-| **[PRIME Education](https://primece.com)** | **[Editorial Intern (PCMag)](https://jobright.ai/jobs/info/6a569957efb06a45240d6d7f?utm_campaign=1053&utm_source=git)** | New York, New York, United States | Remote | Jul 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
