@@ -57,9 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[RefReps](http://www.refreps.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/6a586a4268d16a30e24130d9?utm_campaign=1053&utm_source=git)** | Zionsville, IN, United States | On Site | Jul 15 |
 | **[adyn](https://www.adyn.com/)** | **[DIGITAL STORYTELLING INTERN](https://jobright.ai/jobs/info/6a58626268d16a30e2412e41?utm_campaign=1053&utm_source=git)** | Seattle, WA, United States | Remote | Jul 15 |
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a585f9972fe7a7b98dcdff1?utm_campaign=1053&utm_source=git)** | Brampton, Canada | On Site | Jul 15 |
-| **[Corvane](Corvane.com)** | **[TikTok & Instagram Reels Content Intern](https://jobright.ai/jobs/info/6a585d799f1f56462cf6949c?utm_campaign=1053&utm_source=git)** | United States | Remote | Jul 15 |
 | **[Hasana, Inc.](http://shophasana.com)** | **[Volunteer/Intern: Film/Video Editor](https://jobright.ai/jobs/info/6a584c973330ca6f993c3e99?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 15 |
 | **[Girl Scouts of Citrus Council](https://www.citrus-gs.org/)** | **[Intern for the Girl Scout Experience Team](https://jobright.ai/jobs/info/6a582b6468d16a30e24120f3?utm_campaign=1053&utm_source=git)** | Orlando, FL, United States | On Site | Jul 15 |
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a582afd3330ca6f993c391a?utm_campaign=1053&utm_source=git)** | Baltimore, MD, United States | Remote | Jul 15 |
