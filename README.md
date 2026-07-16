@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[adyn](https://www.adyn.com/)** | **[DIGITAL STORYTELLING INTERN](https://jobright.ai/jobs/info/6a58626268d16a30e2412e41?utm_campaign=1053&utm_source=git)** | Seattle, WA, United States | Remote | Jul 15 |
+| **[ATIA Ltd](https://atia.ba/en_US/)** | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a585f9972fe7a7b98dcdff1?utm_campaign=1053&utm_source=git)** | Brampton, Canada | On Site | Jul 15 |
+| **[Corvane](Corvane.com)** | **[TikTok & Instagram Reels Content Intern](https://jobright.ai/jobs/info/6a585d799f1f56462cf6949c?utm_campaign=1053&utm_source=git)** | United States | Remote | Jul 15 |
 | **[Hasana, Inc.](http://shophasana.com)** | **[Volunteer/Intern: Film/Video Editor](https://jobright.ai/jobs/info/6a584c973330ca6f993c3e99?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 15 |
 | **[Girl Scouts of Citrus Council](https://www.citrus-gs.org/)** | **[Intern for the Girl Scout Experience Team](https://jobright.ai/jobs/info/6a582b6468d16a30e24120f3?utm_campaign=1053&utm_source=git)** | Orlando, FL, United States | On Site | Jul 15 |
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a582afd3330ca6f993c391a?utm_campaign=1053&utm_source=git)** | Baltimore, MD, United States | Remote | Jul 15 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a56045110c4d945d8646cde?utm_campaign=1053&utm_source=git)** | Ottawa, Canada | Remote | Jul 13 |
 | **[Client Engagement Academy - We Produce Better Lives™](https://www.clientengagementacademy.com/)** | **[Office Intern](https://jobright.ai/jobs/info/6a55f5e1e9b77f668bd5ff27?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Jul 13 |
 | **[The Aparecio Foundation](http://www.apareciofoundation.org)** | **[Bookings Associate Intern/Volunteer](https://jobright.ai/jobs/info/6a560491efb06a45240d30eb?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | On Site | Jul 13 |
-| **[Hasana, Inc.](http://shophasana.com)** | **[Volunteer/Intern:Pro Bono :Editor of "Men's" Content in Felix](https://jobright.ai/jobs/info/6a5604ac10c4d945d8646d92?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | On Site | Jul 13 |
-| **[TASTE Productions](http://www.tastewithkevin.com/)** | **[BUSINESS OF FILM, MEDIA & JOURNALISM INTERN](https://jobright.ai/jobs/info/6a55f478f7517b519ad522e7?utm_campaign=1053&utm_source=git)** | 1 7th Ave, New York, NY 10011, USA | Remote | Jul 13 |
-| **[Braathe Enterprises](http://www.beyourstart.com)** | **[Virtual Journalism Internship](https://jobright.ai/jobs/info/6a55bd2405c65f7c8f4c6f4d?utm_campaign=1053&utm_source=git)** | Saratoga Springs, NY, United States | Remote | Jul 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
