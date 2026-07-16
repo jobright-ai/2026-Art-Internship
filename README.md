@@ -110,7 +110,6 @@ For a complete list, click the following sortable link below:
 | **[MBJ Network](www.mbj-network.com)** | **[Production Assistant Intern](https://jobright.ai/jobs/info/6a56a01d21f64463ad355e67?utm_campaign=1053&utm_source=git)** | 330 E Roosevelt Rd, Lombard, IL 60148, USA | Remote | Jul 14 |
 | **[Film Pittsburgh](http://www.FilmPittsburgh.org)** | **[Spring Festival Internship](https://jobright.ai/jobs/info/6a43ed470153061b8b3de9c6?utm_campaign=1053&utm_source=git)** | Pittsburgh, PA, United States | Hybrid | Jul 14 |
 | **[Golden Hippo®](https://www.huntrealestate.com/)** | **[Video Editing Intern](https://jobright.ai/jobs/info/6a565bfbe9b77f668bd62c38?utm_campaign=1053&utm_source=git)** | Woodland Hills, CA, United States | Hybrid | Jul 14 |
-| **[Stila Cosmetics](http://www.stilacosmetics.com)** | **[Content Creator & Social Media Intern (Fall 2026)](https://jobright.ai/jobs/info/6a5689d353b3962b910b0ec2?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Hybrid | Jul 14 |
 | **[Namify](http://namify.com)** | **[Videographer Intern](https://jobright.ai/jobs/info/6a5686d2e9b77f668bd63ff5?utm_campaign=1053&utm_source=git)** | Springville, UT, United States | On Site | Jul 14 |
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a56849953b3962b910b0c8d?utm_campaign=1053&utm_source=git)** | Washington, DC, United States | Remote | Jul 14 |
 | ↳ | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a56849310c4d945d864a2c5?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | Remote | Jul 14 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Bethel University](https://www.betheluniversity.edu/)** | **[Student Worker - PR/Com Student Writer Intern](https://jobright.ai/jobs/info/6a55c9f905c65f7c8f4c78c5?utm_campaign=1053&utm_source=git)** | Mishawaka, IN 46545, USA | On Site | Jul 13 |
 | **[Codeage](http://www.codeage.com)** | **[Writer/Editor Intern](https://jobright.ai/jobs/info/6a55c94dfdf4fa71202b50a3?utm_campaign=1053&utm_source=git)** | Beverly Hills, CA, United States | On Site | Jul 13 |
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a55c7fe14f1040fa611bc15?utm_campaign=1053&utm_source=git)** | Montreal, Canada | Remote | Jul 13 |
+| **[Hasana, Inc.](http://shophasana.com)** | **[Writers & Journalists Intern/Volunteer](https://jobright.ai/jobs/info/6a432e91cbf92c7bcd36e2b9?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | On Site | Jul 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
