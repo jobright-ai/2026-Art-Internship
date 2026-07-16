@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[David Zwirner](http://www.davidzwirner.com/)** | **[Gallery Intern](https://jobright.ai/jobs/info/6a5939bd856af468ab002882?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 16 |
+| ↳ | **[Digital Editorial Intern](https://jobright.ai/jobs/info/6a5939a7856af468ab002878?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Jul 16 |
+| ↳ | **[Museum & Institutional Partnerships Intern](https://jobright.ai/jobs/info/6a5939a3856af468ab002873?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Jul 16 |
 | **[InsideHockey.com](https://www.insidehockey.com)** | **[Hockey Writing & Media Internship](https://jobright.ai/jobs/info/6a59350c63a8f619507c0e4a?utm_campaign=1053&utm_source=git)** | Greater Boston, United States | Remote | Jul 16 |
 | **[Tarte Cosmetics](https://tartecosmetics.com/)** | **[Fall 2026 Events Internship](https://jobright.ai/jobs/info/6a592d0b63a8f619507c0c60?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Jul 16 |
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a5927c54da96a42cfd8f7b9?utm_campaign=1053&utm_source=git)** | Mississauga, Canada | Remote | Jul 16 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a55d021ec54dd532d813ed8?utm_campaign=1053&utm_source=git)** | Colorado Springs, CO, United States | Remote | Jul 13 |
 | ↳ | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a55d01e05c65f7c8f4c813f?utm_campaign=1053&utm_source=git)** | Ashland, OH, United States | Remote | Jul 13 |
 | **[Melara Enterprises](http://www.melaraenterprises.com)** | **[225 Magazine Editorial or Photography Intern](https://jobright.ai/jobs/info/6a55cffc05c65f7c8f4c8097?utm_campaign=1053&utm_source=git)** | Baton Rouge, LA, United States | On Site | Jul 13 |
-| **[ATIA Ltd](https://atia.ba/en_US/)** | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a55cfbffdf4fa71202b591b?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Remote | Jul 13 |
-| ↳ | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a55cf95ef22935f2e3f764a?utm_campaign=1053&utm_source=git)** | Jacksonville, FL, United States | Remote | Jul 13 |
-| ↳ | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a55cee7ef22935f2e3f75fe?utm_campaign=1053&utm_source=git)** | Omaha, NE, United States | Remote | Jul 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
