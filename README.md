@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The WNET Group](http://www.wnet.org)** | **[Digital Content Creator Intern](https://jobright.ai/jobs/info/6a58d67d63a8f619507be93c?utm_campaign=1053&utm_source=git)** | Worldwide Plaza  New York, NY, United States of America | Hybrid | Jul 16 |
+| **[Oak View Group](http://www.oakviewgroup.com)** | **[Programming/Booking Intern / Part-Time / Moody Center](https://jobright.ai/jobs/info/6a58d67b4da96a42cfd8d5d8?utm_campaign=1053&utm_source=git)** | Moody Center (Austin, TX) | On Site | Jul 16 |
 | **[Barbarian](https://wearebarbarian.com/)** | **[The Horde 2026 - Summer Internship](https://jobright.ai/jobs/info/6a58b88f63a8f619507bdad2?utm_campaign=1053&utm_source=git)** | New York, United States | Hybrid | Jul 16 |
 | **[Ripples Edge Media](http://RipplesEdgeMedia.com)** | **[Film/ Video Production (Videographer, Editor) Intern for Startup Video Production Company in the SF Bay Area](https://jobright.ai/jobs/info/6a58b7ae3ac7627fe9ffaaab?utm_campaign=1053&utm_source=git)** | San Francisco, CA, United States | On Site | Jul 16 |
 | **[Highgate](https://www.highgate.com)** | **[Culinary Intern](https://jobright.ai/jobs/info/6a5882593330ca6f993c54bd?utm_campaign=1053&utm_source=git)** | Las Vegas, NV, United States | On Site | Jul 16 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Apropo Studio](https://www.apropostudiony.com)** | **[Wholesale Fashion Internship](https://jobright.ai/jobs/info/6a55cb7def22935f2e3f7273?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Jul 13 |
 | **[Bethel University](https://www.betheluniversity.edu/)** | **[Student Worker - PR/Com Student Writer Intern](https://jobright.ai/jobs/info/6a55c9f905c65f7c8f4c78c5?utm_campaign=1053&utm_source=git)** | Mishawaka, IN 46545, USA | On Site | Jul 13 |
 | **[Codeage](http://www.codeage.com)** | **[Writer/Editor Intern](https://jobright.ai/jobs/info/6a55c94dfdf4fa71202b50a3?utm_campaign=1053&utm_source=git)** | Beverly Hills, CA, United States | On Site | Jul 13 |
-| **[ATIA Ltd](https://atia.ba/en_US/)** | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a55c7fe14f1040fa611bc15?utm_campaign=1053&utm_source=git)** | Montreal, Canada | Remote | Jul 13 |
-| **[Hasana, Inc.](http://shophasana.com)** | **[Writers & Journalists Intern/Volunteer](https://jobright.ai/jobs/info/6a432e91cbf92c7bcd36e2b9?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | On Site | Jul 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
