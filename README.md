@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Dispatch](https://thedispatch.com/)** | **[Fall 2026 Multimedia Internship](https://jobright.ai/jobs/info/6a591d8d4da96a42cfd8f224?utm_campaign=1053&utm_source=git)** | United States | Remote | Jul 16 |
 | **[Journey](https://journey.world/)** | **[Producing Intern](https://jobright.ai/jobs/info/6a51fef58d7d3e6cf1cc4fbd?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Jul 16 |
 | **[Paradigm Communications Group](http://www.alaskaairlinesmagazine.com)** | **[Editorial Intern at Alaska Airlines Magazine](https://jobright.ai/jobs/info/6a50a9082e2ceb72963b46c6?utm_campaign=1053&utm_source=git)** | Seattle, WA, United States | On Site | Jul 16 |
 | **[Hasana, Inc.](http://shophasana.com)** | **[Film & Video Internship](https://jobright.ai/jobs/info/6a595e75c8e3a473cb8a6b57?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Jul 16 |
@@ -73,7 +74,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a5927c04da96a42cfd8f7b4?utm_campaign=1053&utm_source=git)** | Riverside, CA, United States | Remote | Jul 16 |
 | **[The Aparecio Foundation](http://www.apareciofoundation.org)** | **[Volunteer/Intern:Pro bono: Editor of "Party" Content in Felix](https://jobright.ai/jobs/info/6a59260563a8f619507c0913?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Jul 16 |
 | **[The Brand Leader](https://thebrandleader.com/)** | **[Fall 2026 Content Creator Intern](https://jobright.ai/jobs/info/6a592301856af468ab001f8f?utm_campaign=1053&utm_source=git)** | Greenville, SC, United States | On Site | Jul 16 |
-| **[The Dispatch](https://thedispatch.com/)** | **[Fall 2026 Multimedia Internship](https://jobright.ai/jobs/info/6a591d8d4da96a42cfd8f224?utm_campaign=1053&utm_source=git)** | United States | Remote | Jul 16 |
 | **[617MediaGroup](https://617mediagroup.com)** | **[A/V Production Internship](https://jobright.ai/jobs/info/6a50ff9a78e364789ca57d3b?utm_campaign=1053&utm_source=git)** | Greater Boston | On Site | Jul 16 |
 | **[Hasana, Inc.](http://shophasana.com)** | **[Volunteer/Intern Film & Video Internship](https://jobright.ai/jobs/info/6a59098963a8f619507bfddf?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | On Site | Jul 16 |
 | **[Golden Hippo®](https://www.huntrealestate.com/)** | **[Video Editing Intern](https://jobright.ai/jobs/info/6a565bfbe9b77f668bd62c38?utm_campaign=1053&utm_source=git)** | Woodland Hills, CA, United States | Hybrid | Jul 16 |
