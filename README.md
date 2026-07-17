@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hasana, Inc.](http://shophasana.com)** | **[Film & Video Internship](https://jobright.ai/jobs/info/6a5997544da96a42cfd91dd0?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 16 |
 | **[The Escape Room USA](https://escaperoomindy.com/)** | **[Videography Internship](https://jobright.ai/jobs/info/6a5984ef63a8f619507c2bab?utm_campaign=1053&utm_source=git)** | New Palestine, IN, United States | On Site | Jul 16 |
 | **[David Zwirner](http://www.davidzwirner.com/)** | **[Art Fair Intern](https://jobright.ai/jobs/info/6a597f8a856af468ab00428a?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Jul 16 |
 | **[The Dispatch](https://thedispatch.com/)** | **[Fall 2026 Multimedia Internship](https://jobright.ai/jobs/info/6a591d8d4da96a42cfd8f224?utm_campaign=1053&utm_source=git)** | United States | Remote | Jul 16 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Arcpoint Studios](http://www.arcpointstudios.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/6a55f33510c4d945d864607b?utm_campaign=1053&utm_source=git)** | Fort Worth, TX, United States | Hybrid | Jul 14 |
 | **[American Enterprise Institute](http://www.aei.org)** | **[Fall Intern: Editing Services](https://jobright.ai/jobs/info/6a55efc5f7517b519ad51f58?utm_campaign=1053&utm_source=git)** | Washington, DC, United States | On Site | Jul 14 |
 | **[Memphis Grizzlies](http://grizzlies.com)** | **[Social & Digital Content Coordinating Production Intern](https://jobright.ai/jobs/info/6a55d4d8ef22935f2e3f805b?utm_campaign=1053&utm_source=git)** | Memphis, TN, US | On Site | Jul 13 |
-| **[boldSOCKS](https://www.boldsocks.com/)** | **[Video Production Intern](https://jobright.ai/jobs/info/6a55d37414f1040fa611cb3d?utm_campaign=1053&utm_source=git)** | Grand Rapids, MI, United States | On Site | Jul 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
