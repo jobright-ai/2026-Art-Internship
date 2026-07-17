@@ -57,9 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[NBCUniversal](https://www.nbcuniversal.com/)** | **[NBC Telemundo CT Multiplatform Creative Intern Position - Academic Year 2026-2027](https://jobright.ai/jobs/info/6a59b840c8e3a473cb8a831d?utm_campaign=1053&utm_source=git)** | 1422 New Britain Ave., Hartford, Connecticut | On Site | Jul 16 |
 | **[Barry Katz Entertainment](http://www.barrykatz.com)** | **[Barry Katz Entertainment - Editing Internship](https://jobright.ai/jobs/info/6a59b3443ac7627fe9000755?utm_campaign=1053&utm_source=git)** | 30765 Pacific Coast Hwy, Malibu, CA 90265, USA | Remote | Jul 16 |
 | **[The Post and Courier](http://www.postandcourier.com/)** | **[The Post and Courier Community Engagement Producer Intern - Furman University](https://jobright.ai/jobs/info/6a59a77d856af468ab004c26?utm_campaign=1053&utm_source=git)** | Columbia, SC, United States | On Site | Jul 16 |
 | **[Hasana, Inc.](http://shophasana.com)** | **[Film & Video Internship](https://jobright.ai/jobs/info/6a5997544da96a42cfd91dd0?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 16 |
+| **[Pivot Point Academy](https://www.pivotpoint.edu/)** | **[SALON ASSISTANT/INTERNSHIP](https://jobright.ai/jobs/info/6a59bcf2686b4755d1e11b86?utm_campaign=1053&utm_source=git)** | Woodridge, IL, United States | On Site | Jul 16 |
 | **[The Escape Room USA](https://escaperoomindy.com/)** | **[Videography Internship](https://jobright.ai/jobs/info/6a5984ef63a8f619507c2bab?utm_campaign=1053&utm_source=git)** | New Palestine, IN, United States | On Site | Jul 16 |
 | **[David Zwirner](http://www.davidzwirner.com/)** | **[Art Fair Intern](https://jobright.ai/jobs/info/6a597f8a856af468ab00428a?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Jul 16 |
 | **[The Dispatch](https://thedispatch.com/)** | **[Fall 2026 Multimedia Internship](https://jobright.ai/jobs/info/6a591d8d4da96a42cfd8f224?utm_campaign=1053&utm_source=git)** | United States | Remote | Jul 16 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[rednote](https://www.rednote.com)** | **[Global Community Intern](https://jobright.ai/jobs/info/6a55f9c0efb06a45240d27c9?utm_campaign=1053&utm_source=git)** | New York, United States | On Site | Jul 14 |
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a55f854f7517b519ad52603?utm_campaign=1053&utm_source=git)** | Bowling Green, KY, United States | Remote | Jul 14 |
 | **[Hasana, Inc.](http://shophasana.com)** | **[Editorial Assistant volunteer/intern](https://jobright.ai/jobs/info/6a55f60710c4d945d8646288?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | On Site | Jul 14 |
-| **[Tuff City Records](http://www.tuffcity.com)** | **[Journalism Intern](https://jobright.ai/jobs/info/6a4347f2b0f2553559ecf9b6?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Jul 14 |
-| **[Arcpoint Studios](http://www.arcpointstudios.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/6a55f33510c4d945d864607b?utm_campaign=1053&utm_source=git)** | Fort Worth, TX, United States | Hybrid | Jul 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
