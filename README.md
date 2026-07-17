@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Aparecio Foundation](http://www.apareciofoundation.org)** | **[Editorial Assistant volunteer/intern](https://jobright.ai/jobs/info/6a59e9f9686b4755d1e12449?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | On Site | Jul 17 |
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a59d04863a8f619507c3be9?utm_campaign=1053&utm_source=git)** | San Antonio, TX, United States | Remote | Jul 16 |
 | **[NBCUniversal](https://www.nbcuniversal.com/)** | **[NBC Telemundo CT Multiplatform Creative Intern Position - Academic Year 2026-2027](https://jobright.ai/jobs/info/6a59b840c8e3a473cb8a831d?utm_campaign=1053&utm_source=git)** | 1422 New Britain Ave., Hartford, Connecticut | On Site | Jul 16 |
 | **[Barry Katz Entertainment](http://www.barrykatz.com)** | **[Barry Katz Entertainment - Editing Internship](https://jobright.ai/jobs/info/6a59b3443ac7627fe9000755?utm_campaign=1053&utm_source=git)** | 30765 Pacific Coast Hwy, Malibu, CA 90265, USA | Remote | Jul 16 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a56140befb06a45240d3c62?utm_campaign=1053&utm_source=git)** | Conway, AR, United States | Remote | Jul 14 |
 | **[American Enterprise Institute](http://www.aei.org)** | **[Fall Intern: Events](https://jobright.ai/jobs/info/6a560dd4f7517b519ad5378c?utm_campaign=1053&utm_source=git)** | Washington, DC, United States | On Site | Jul 14 |
 | **[rednote](https://www.rednote.com)** | **[Global Community Intern](https://jobright.ai/jobs/info/6a55f9c0efb06a45240d27c9?utm_campaign=1053&utm_source=git)** | New York, United States | On Site | Jul 14 |
-| **[ATIA Ltd](https://atia.ba/en_US/)** | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a55f854f7517b519ad52603?utm_campaign=1053&utm_source=git)** | Bowling Green, KY, United States | Remote | Jul 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
