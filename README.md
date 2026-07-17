@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Paradigm Communications Group](http://www.alaskaairlinesmagazine.com)** | **[Editorial Intern at Alaska Airlines Magazine](https://jobright.ai/jobs/info/6a50a9082e2ceb72963b46c6?utm_campaign=1053&utm_source=git)** | Seattle, WA, United States | On Site | Jul 16 |
+| **[Hasana, Inc.](http://shophasana.com)** | **[Film & Video Internship](https://jobright.ai/jobs/info/6a595e75c8e3a473cb8a6b57?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Jul 16 |
 | **[Devotion](https://www.devotion.club/)** | **[Creator Community Intern](https://jobright.ai/jobs/info/6a5955cd3ac7627fe9ffebff?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Remote | Jul 16 |
 | **[GBH](http://www.wgbh.org/)** | **[NOVA Digital Video Internship - Fall 2026](https://jobright.ai/jobs/info/6a557ec2377f983ce8a9a805?utm_campaign=1053&utm_source=git)** | Boston, MA, United States | Hybrid | Jul 16 |
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a5943e363a8f619507c1603?utm_campaign=1053&utm_source=git)** | Valdosta, GA, United States | Remote | Jul 16 |
@@ -108,7 +110,6 @@ For a complete list, click the following sortable link below:
 | **[Redis](https://redis.io/)** | **[Video Production & Video Internship (Summer)](https://jobright.ai/jobs/info/6a030adff3d6cc51d6372ab8?utm_campaign=1053&utm_source=git)** | San Francisco, CA | On Site | Jul 15 |
 | **[LexisNexis](http://www.lexisnexis.com)** | **[Editorial Data Reporting Intern](https://jobright.ai/jobs/info/6a52295c8a74e077472f35b0?utm_campaign=1053&utm_source=git)** | Washington, DC, United States | Remote | Jul 15 |
 | **[Kentucky Farm Bureau Insurance](http://kyfb.com)** | **[Video Production intern](https://jobright.ai/jobs/info/6a4e5869397d8d353c288736?utm_campaign=1053&utm_source=git)** | Louisville, KY, United States | On Site | Jul 15 |
-| **[Gift](https://www.shine.gift)** | **[Anime / Manga Intern](https://jobright.ai/jobs/info/6a57844f21f64463ad3598e7?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | Remote | Jul 15 |
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a578287e9b77f668bd68496?utm_campaign=1053&utm_source=git)** | Manhattan, KS, United States | Remote | Jul 15 |
 | **[Beltran Cleaning Service](https://www.beltrancleaningservice.com)** | **[Video/Vlog Editor Internship (Unpaid)](https://jobright.ai/jobs/info/6a5780ab21f64463ad3596f4?utm_campaign=1053&utm_source=git)** | Schaumburg, IL, United States | On Site | Jul 15 |
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a576835efb06a45240da5c5?utm_campaign=1053&utm_source=git)** | Honolulu, HI, United States | Remote | Jul 15 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a55d2be14f1040fa611ca07?utm_campaign=1053&utm_source=git)** | Charlotte, NC, United States | Remote | Jul 13 |
 | ↳ | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a55d2902ce8bf79a13a1969?utm_campaign=1053&utm_source=git)** | Philadelphia, PA, United States | Remote | Jul 13 |
 | **[Sinclair Inc.](http://sbgi.net/)** | **[Intern - Studio Crew](https://jobright.ai/jobs/info/69e1d29dd612782e6114aa3a?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Jul 13 |
-| **[ATIA Ltd](https://atia.ba/en_US/)** | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a55d05e05c65f7c8f4c823d?utm_campaign=1053&utm_source=git)** | Sacramento, CA, United States | Remote | Jul 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
