@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Journey](https://journey.world/)** | **[Producing Intern](https://jobright.ai/jobs/info/6a51fef58d7d3e6cf1cc4fbd?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Jul 16 |
 | **[Paradigm Communications Group](http://www.alaskaairlinesmagazine.com)** | **[Editorial Intern at Alaska Airlines Magazine](https://jobright.ai/jobs/info/6a50a9082e2ceb72963b46c6?utm_campaign=1053&utm_source=git)** | Seattle, WA, United States | On Site | Jul 16 |
 | **[Hasana, Inc.](http://shophasana.com)** | **[Film & Video Internship](https://jobright.ai/jobs/info/6a595e75c8e3a473cb8a6b57?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Jul 16 |
 | **[Devotion](https://www.devotion.club/)** | **[Creator Community Intern](https://jobright.ai/jobs/info/6a5955cd3ac7627fe9ffebff?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Remote | Jul 16 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Wolf Trap Foundation for the Performing Arts](https://www.wolftrap.org/)** | **[Intern, Opera Artistic Administration (Fall 2026)](https://jobright.ai/jobs/info/6a55d2c614f1040fa611ca3b?utm_campaign=1053&utm_source=git)** | Vienna, VA, United States | On Site | Jul 13 |
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a55d2be14f1040fa611ca07?utm_campaign=1053&utm_source=git)** | Charlotte, NC, United States | Remote | Jul 13 |
 | ↳ | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a55d2902ce8bf79a13a1969?utm_campaign=1053&utm_source=git)** | Philadelphia, PA, United States | Remote | Jul 13 |
-| **[Sinclair Inc.](http://sbgi.net/)** | **[Intern - Studio Crew](https://jobright.ai/jobs/info/69e1d29dd612782e6114aa3a?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Jul 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
