@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Barry Katz Entertainment](http://www.barrykatz.com)** | **[Barry Katz Entertainment - Editing Internship](https://jobright.ai/jobs/info/6a59b3443ac7627fe9000755?utm_campaign=1053&utm_source=git)** | 30765 Pacific Coast Hwy, Malibu, CA 90265, USA | Remote | Jul 16 |
+| **[The Post and Courier](http://www.postandcourier.com/)** | **[The Post and Courier Community Engagement Producer Intern - Furman University](https://jobright.ai/jobs/info/6a59a77d856af468ab004c26?utm_campaign=1053&utm_source=git)** | Columbia, SC, United States | On Site | Jul 16 |
 | **[Hasana, Inc.](http://shophasana.com)** | **[Film & Video Internship](https://jobright.ai/jobs/info/6a5997544da96a42cfd91dd0?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 16 |
 | **[The Escape Room USA](https://escaperoomindy.com/)** | **[Videography Internship](https://jobright.ai/jobs/info/6a5984ef63a8f619507c2bab?utm_campaign=1053&utm_source=git)** | New Palestine, IN, United States | On Site | Jul 16 |
 | **[David Zwirner](http://www.davidzwirner.com/)** | **[Art Fair Intern](https://jobright.ai/jobs/info/6a597f8a856af468ab00428a?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Jul 16 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Hasana, Inc.](http://shophasana.com)** | **[Editorial Assistant volunteer/intern](https://jobright.ai/jobs/info/6a55f60710c4d945d8646288?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | On Site | Jul 14 |
 | **[Tuff City Records](http://www.tuffcity.com)** | **[Journalism Intern](https://jobright.ai/jobs/info/6a4347f2b0f2553559ecf9b6?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Jul 14 |
 | **[Arcpoint Studios](http://www.arcpointstudios.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/6a55f33510c4d945d864607b?utm_campaign=1053&utm_source=git)** | Fort Worth, TX, United States | Hybrid | Jul 14 |
-| **[American Enterprise Institute](http://www.aei.org)** | **[Fall Intern: Editing Services](https://jobright.ai/jobs/info/6a55efc5f7517b519ad51f58?utm_campaign=1053&utm_source=git)** | Washington, DC, United States | On Site | Jul 14 |
-| **[Memphis Grizzlies](http://grizzlies.com)** | **[Social & Digital Content Coordinating Production Intern](https://jobright.ai/jobs/info/6a55d4d8ef22935f2e3f805b?utm_campaign=1053&utm_source=git)** | Memphis, TN, US | On Site | Jul 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
