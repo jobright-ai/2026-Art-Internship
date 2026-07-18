@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Resources for the Future](http://www.rff.org/)** | **[Editorial Intern (Fall Semester)](https://jobright.ai/jobs/info/6a5a0c05856af468ab0068ce?utm_campaign=1053&utm_source=git)** | Washington, DC, United States | On Site | Jul 17 |
+| **[Bethel University](https://www.betheluniversity.edu/)** | **[Student Worker - PR/Com Student Writer Intern](https://jobright.ai/jobs/info/6a5a0bd8686b4755d1e1323a?utm_campaign=1053&utm_source=git)** | Mishawaka, IN 46545, USA | On Site | Jul 17 |
+| **[ATIA Ltd](https://atia.ba/en_US/)** | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a5a08d6c8e3a473cb8a999d?utm_campaign=1053&utm_source=git)** | Oakland, CA, United States | Remote | Jul 17 |
+| ↳ | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a5a08b44da96a42cfd93c48?utm_campaign=1053&utm_source=git)** | Austin, TX, United States | Remote | Jul 17 |
+| **[Advisors Excel](http://advisorsexcel.com)** | **[Books Program Intern](https://jobright.ai/jobs/info/6a0785c23b54ed42d74cefbb?utm_campaign=1053&utm_source=git)** | 2950 SW McClure Rd, Topeka, KS | On Site | Jul 17 |
+| ↳ | **[Books Program Intern](https://jobright.ai/jobs/info/6a55cc7cfdf4fa71202b5492?utm_campaign=1053&utm_source=git)** | Topeka, KS, United States | On Site | Jul 17 |
+| **[National Cherry Blossom Festival](https://nationalcherryblossomfestival.org)** | **[Events and Operations Intern - 2027 Festival](https://jobright.ai/jobs/info/6a54372bc8eb0843027af2b5?utm_campaign=1053&utm_source=git)** | Washington , DC | Hybrid | Jul 17 |
 | **[The Aparecio Foundation](http://www.apareciofoundation.org)** | **[Editorial Assistant volunteer/intern](https://jobright.ai/jobs/info/6a59e9f9686b4755d1e12449?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | On Site | Jul 17 |
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a59d04863a8f619507c3be9?utm_campaign=1053&utm_source=git)** | San Antonio, TX, United States | Remote | Jul 16 |
 | **[NBCUniversal](https://www.nbcuniversal.com/)** | **[NBC Telemundo CT Multiplatform Creative Intern Position - Academic Year 2026-2027](https://jobright.ai/jobs/info/6a59b840c8e3a473cb8a831d?utm_campaign=1053&utm_source=git)** | 1422 New Britain Ave., Hartford, Connecticut | On Site | Jul 16 |
@@ -96,7 +103,6 @@ For a complete list, click the following sortable link below:
 | **[Elite Podcast Studio](ElitePodcastStudio.com)** | **[Content Creator Internship (AI & Media Training)](https://jobright.ai/jobs/info/6a58a7ee9f1f56462cf6b3ad?utm_campaign=1053&utm_source=git)** | Odessa, FL, United States | On Site | Jul 16 |
 | **[National Western Stock Show](https://nationalwestern.com)** | **[Coors Western Art Intern](https://jobright.ai/jobs/info/6a57d4ac10c4d945d86515b5?utm_campaign=1053&utm_source=git)** | Denver, CO, United States | On Site | Jul 16 |
 | **[Magnet Media, Inc.](http://www.magnetmediafilms.com)** | **[Production Intern Fall 2027](https://jobright.ai/jobs/info/6a42cfd01cc9cc2b12fece84?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jul 16 |
-| **[RefReps](http://www.refreps.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/6a586a4268d16a30e24130d9?utm_campaign=1053&utm_source=git)** | Zionsville, IN, United States | On Site | Jul 15 |
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a585f9972fe7a7b98dcdff1?utm_campaign=1053&utm_source=git)** | Brampton, Canada | On Site | Jul 15 |
 | **[Hasana, Inc.](http://shophasana.com)** | **[Volunteer/Intern: Film/Video Editor](https://jobright.ai/jobs/info/6a584c973330ca6f993c3e99?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 15 |
 | **[Girl Scouts of Citrus Council](https://www.citrus-gs.org/)** | **[Intern for the Girl Scout Experience Team](https://jobright.ai/jobs/info/6a582b6468d16a30e24120f3?utm_campaign=1053&utm_source=git)** | Orlando, FL, United States | On Site | Jul 15 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Unpaid News Intern](https://jobright.ai/jobs/info/6972b01a9b83b424830eb8a4?utm_campaign=1053&utm_source=git)** | IN-Indianapolis;6910 Network Place (Tribune-WXIN/WTTV) | On Site | Jul 14 |
 | ↳ | **[Media Archivist Intern (In- Person) Fall 2026.](https://jobright.ai/jobs/info/6a4de3f13122a76a8fd56aef?utm_campaign=1053&utm_source=git)** | AL, Mobile, United States of America | On Site | Jul 14 |
 | ↳ | **[Media Production Intern (In- Person) Fall 2026.](https://jobright.ai/jobs/info/6a398ce3f6b55d12c7928b8e?utm_campaign=1053&utm_source=git)** | AL, Mobile, United States of America | On Site | Jul 14 |
-| **[Octagon](http://www.octagon.com)** | **[Intern (Global Soccer Fan Festivals)-22](https://jobright.ai/jobs/info/6a563904e9b77f668bd61eee?utm_campaign=1053&utm_source=git)** | Stamford, CT, United States | Hybrid | Jul 14 |
-| **[Insomniac Events](http://insomniac.com)** | **[Paid Fall Music Group Publishing Intern](https://jobright.ai/jobs/info/6a480a84c2d11a6a46673a56?utm_campaign=1053&utm_source=git)** | Calabasas, CA, USA | On Site | Jul 14 |
-| **[ATIA Ltd](https://atia.ba/en_US/)** | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a561426e9b77f668bd6158d?utm_campaign=1053&utm_source=git)** | Saint Paul, MN, United States | Remote | Jul 14 |
-| ↳ | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a56140befb06a45240d3c62?utm_campaign=1053&utm_source=git)** | Conway, AR, United States | Remote | Jul 14 |
-| **[American Enterprise Institute](http://www.aei.org)** | **[Fall Intern: Events](https://jobright.ai/jobs/info/6a560dd4f7517b519ad5378c?utm_campaign=1053&utm_source=git)** | Washington, DC, United States | On Site | Jul 14 |
-| **[rednote](https://www.rednote.com)** | **[Global Community Intern](https://jobright.ai/jobs/info/6a55f9c0efb06a45240d27c9?utm_campaign=1053&utm_source=git)** | New York, United States | On Site | Jul 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
