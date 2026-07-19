@@ -57,13 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Flighthouse Media](https://www.flighthousemedia.com)** | **[Syndication Intern](https://jobright.ai/jobs/info/6a5ca78b4da96a42cfd9cf98?utm_campaign=1053&utm_source=git)** | United States | Remote | Jul 19 |
 | **[The Ambony](http://www.manofthehourmag.com/)** | **[International Editor (Internship)](https://jobright.ai/jobs/info/6a5c5ced63a8f619507cd4c9?utm_campaign=1053&utm_source=git)** | 2 Astor Pl, New York, NY 10003, USA | Remote | Jul 18 |
 | **[Kroenke Sports & Entertainment](https://www.ballarena.com)** | **[Paramount Theatre Intern](https://jobright.ai/jobs/info/6a5c567a4da96a42cfd9c53b?utm_campaign=1053&utm_source=git)** | Denver, CO, United States | On Site | Jul 18 |
 | **[MBJ Network](www.mbj-network.com)** | **[Lead Video Editor - Intern](https://jobright.ai/jobs/info/6a528fbd8576ec69c014c83a?utm_campaign=1053&utm_source=git)** | 330 E Roosevelt Rd, Lombard, IL 60148, USA | On Site | Jul 18 |
 | **[Hasana, Inc.](http://shophasana.com)** | **[Volunteer/Intern: Film/Video Editor](https://jobright.ai/jobs/info/6a51e53ebf63b66c7997e975?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Jul 18 |
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a5be6a84da96a42cfd9b60c?utm_campaign=1053&utm_source=git)** | Miami, FL, United States | Remote | Jul 18 |
 | **[Russ & Daughters](http://www.russanddaughters.com)** | **[INTERNSHIP](https://jobright.ai/jobs/info/6a5bca514da96a42cfd9b256?utm_campaign=1053&utm_source=git)** | Store (New York, NY), United States | On Site | Jul 18 |
-| **[The University of Texas at Austin](https://education.utexas.edu/departments/curriculum-instruction/graduate-programs/stem-education)** | **[Science Communications Intern, College of Natural Sciences](https://jobright.ai/jobs/info/6a5a480f3ac7627fe90032db?utm_campaign=1053&utm_source=git)** | UT MAIN CAMPUS, United States | On Site | Jul 18 |
+| **[The University of Texas at Austin](http://www.texasenterprise.utexas.edu/)** | **[Science Communications Intern, College of Natural Sciences](https://jobright.ai/jobs/info/6a5a480f3ac7627fe90032db?utm_campaign=1053&utm_source=git)** | UT MAIN CAMPUS, United States | On Site | Jul 18 |
 | **[Axis Communications](http://www.axis.com/)** | **[Video Production Intern](https://jobright.ai/jobs/info/6a56127ff7517b519ad53a47?utm_campaign=1053&utm_source=git)** | USA - MA - Chelmsford, United States of America | On Site | Jul 18 |
 | ↳ | **[Video Production Intern](https://jobright.ai/jobs/info/6a3e88e64d047136e0936834?utm_campaign=1053&utm_source=git)** | Chelmsford, MA, USA | On Site | Jul 18 |
 | **[The Aparecio Foundation](https://www.apareciofoundation.org)** | **[Production Associate Intern/Volunteer](https://jobright.ai/jobs/info/6a5b731b4da96a42cfd9a5bf?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | On Site | Jul 18 |
@@ -82,7 +83,7 @@ For a complete list, click the following sortable link below:
 | **[Monumental Sports & Entertainment](http://www.monumentalsports.com/)** | **[Internship: Game Entertainment (Part-Time/Seasonal)](https://jobright.ai/jobs/info/6a5acfda856af468ab0099b2?utm_campaign=1053&utm_source=git)** | Washington, DC, United States | On Site | Jul 17 |
 | ↳ | **[Internship: Arena Experience (Part-Time/Seasonal)](https://jobright.ai/jobs/info/6a5a79604da96a42cfd962a2?utm_campaign=1053&utm_source=git)** | Washington, District of Columbia, United States | On Site | Jul 17 |
 | ↳ | **[Internship: Arena Administrative Events (Part-Time/Seasonal)](https://jobright.ai/jobs/info/6a5211ac8a74e077472f2ef0?utm_campaign=1053&utm_source=git)** | Fairfax, VA 22030 | On Site | Jul 17 |
-| **[GBH](http://www.wgbh.org/)** | **[GBH News Rooted Internship - Fall 2026](https://jobright.ai/jobs/info/6a5a6d073ac7627fe9003eb8?utm_campaign=1053&utm_source=git)** | Boston, MA, United States | Hybrid | Jul 17 |
+| **[GBH](http://www.wgbh.org/)** | **[GBH News Rooted Internship - Fall 2026](https://jobright.ai/jobs/info/6a5a6d1e3ac7627fe9003ec1?utm_campaign=1053&utm_source=git)** | Boston, MA, United States | Hybrid | Jul 17 |
 | **[Georgia Production Partnership (GPP)](https://www.georgiaproduction.org)** | **[Walt Disney Studios: Studio Workforce Planning Graduate Intern, Fall 2026 - Spring 2027](https://jobright.ai/jobs/info/6a5ad17c3ac7627fe9005352?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | Hybrid | Jul 17 |
 | **[Lower](https://www.lower.com)** | **[Videographer & Content Editor Intern](https://jobright.ai/jobs/info/6a5a84223ac7627fe900480e?utm_campaign=1053&utm_source=git)** | Columbus, OH, United States | On Site | Jul 17 |
 | **[Monumental Sports & Entertainment](http://www.monumentalsports.com/)** | **[Internship: Game Entertainment (Part-Time/Seasonal)](https://jobright.ai/jobs/info/6a5a7eafc8e3a473cb8ac12a?utm_campaign=1053&utm_source=git)** | Washington, DC 20004 | On Site | Jul 17 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a57badcf7517b519ad5cbc1?utm_campaign=1053&utm_source=git)** | Boston, MA, United States | Remote | Jul 15 |
 | ↳ | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a57bac621f64463ad35b9e3?utm_campaign=1053&utm_source=git)** | Stillwater, OK, United States | Remote | Jul 15 |
 | **[All Care Home Health, LLC](https://www.allcarega.com/)** | **[Video Production Intern](https://jobright.ai/jobs/info/6a57b9c1e9b77f668bd6a5b3?utm_campaign=1053&utm_source=git)** | Macon, GA, United States | On Site | Jul 15 |
-| **[Waterfall](https://waterfall.market)** | **[Intern](https://jobright.ai/jobs/info/6a57b116efb06a45240dc71e?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Remote | Jul 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
