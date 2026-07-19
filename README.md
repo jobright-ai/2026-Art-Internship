@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hearst Television](http://www.hearsttelevision.com)** | **[Intern (Fall)](https://jobright.ai/jobs/info/6a1d794e3e538a28c2049c97?utm_campaign=1053&utm_source=git)** | 3 Television Circle, Sacramento, CA, 95814, US | On Site | Jul 19 |
 | **[Brennan Center for Justice](http://www.brennancenter.org/)** | **[Fall 2026 Editorial Undergraduate Internship](https://jobright.ai/jobs/info/6a394b6a649fdf16293000ab?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Jul 19 |
 | **[Flighthouse Media](https://www.flighthousemedia.com)** | **[Syndication Intern](https://jobright.ai/jobs/info/6a5ca78b4da96a42cfd9cf98?utm_campaign=1053&utm_source=git)** | United States | Remote | Jul 19 |
 | **[The Ambony](http://www.manofthehourmag.com/)** | **[International Editor (Internship)](https://jobright.ai/jobs/info/6a5c5ced63a8f619507cd4c9?utm_campaign=1053&utm_source=git)** | 2 Astor Pl, New York, NY 10003, USA | Remote | Jul 18 |
@@ -150,7 +151,6 @@ For a complete list, click the following sortable link below:
 | **[Damar Services, Inc.](https://www.damar.org)** | **[Fall Special Event and Volunteer Intern](https://jobright.ai/jobs/info/6a57dfea3330ca6f993c1b95?utm_campaign=1053&utm_source=git)** | Indianapolis, IN, United States | On Site | Jul 15 |
 | **[TikTok](https://www.tiktok.com)** | **[Agency Ops Project Intern (TikTok Local Services) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a5076339469c06620351013?utm_campaign=1053&utm_source=git)** | Los Angeles, United States | On Site | Jul 15 |
 | **[Comcast](https://corporate.comcast.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/6a579d87f7517b519ad5b4a4?utm_campaign=1053&utm_source=git)** | PA - Philadelphia, 3601 S Broad St, United States of America | On Site | Jul 15 |
-| **[USA TODAY Co., Inc.](https://www.usatodayco.com)** | **[2026 Fall College Sports Intern](https://jobright.ai/jobs/info/6a57d87a3330ca6f993c17d6?utm_campaign=1053&utm_source=git)** | Columbus, OH, United States | On Site | Jul 15 |
 | **[World of Dance](http://www.worldofdance.com)** | **[Video Content Curator Intern](https://jobright.ai/jobs/info/6a57d521e9b77f668bd6b278?utm_campaign=1053&utm_source=git)** | Cerritos, CA, United States | On Site | Jul 15 |
 | **[vineyard vines](http://www.vineyardvines.com)** | **[Fall 2026 Internship - Production](https://jobright.ai/jobs/info/6a579c0eefb06a45240db615?utm_campaign=1053&utm_source=git)** | Stamford, Connecticut, United States | Hybrid | Jul 15 |
 | **[NORTH SIX](http://northsix.net)** | **[Experiential Intern](https://jobright.ai/jobs/info/6a57baf6efb06a45240dce08?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Jul 15 |
