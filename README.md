@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ATIA Ltd](https://atia.ba/en_US/)** | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a5e193f27bf767ea68f4c9a?utm_campaign=1053&utm_source=git)** | Memphis, TN, United States | Remote | Jul 20 |
 | **[Prophet](http://www.prophet.com)** | **[2026 Chicago Internship](https://jobright.ai/jobs/info/6a5df575f29acc1a11744db5?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | On Site | Jul 20 |
 | ↳ | **[UNC - 2026 Internship](https://jobright.ai/jobs/info/6a5df56027bf767ea68f4237?utm_campaign=1053&utm_source=git)** | Atlanta, Georgia, United States | On Site | Jul 20 |
 | ↳ | **[2026 San Francisco Internship](https://jobright.ai/jobs/info/6a5df55c27bf767ea68f4236?utm_campaign=1053&utm_source=git)** | San Francisco, California, United States | On Site | Jul 20 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Girl Scouts of Citrus Council](https://www.citrus-gs.org/)** | **[Intern for the Girl Scout Experience Team](https://jobright.ai/jobs/info/6a582b6468d16a30e24120f3?utm_campaign=1053&utm_source=git)** | Orlando, FL, United States | On Site | Jul 15 |
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a582afd3330ca6f993c391a?utm_campaign=1053&utm_source=git)** | Baltimore, MD, United States | Remote | Jul 15 |
 | **[The University of Georgia](http://www.ai.uga.edu)** | **[State Botanical Garden of Georgia Major Events Intern](https://jobright.ai/jobs/info/6a5848fe72fe7a7b98dcd9e5?utm_campaign=1053&utm_source=git)** | Athens, GA, United States | On Site | Jul 15 |
-| **[ATIA Ltd](https://atia.ba/en_US/)** | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a580e593330ca6f993c314d?utm_campaign=1053&utm_source=git)** | Anaheim, CA, United States | Remote | Jul 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
