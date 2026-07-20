@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Miami HEAT](https://www.nba.com/heat/)** | **[Broadcast Intern (Season-long)](https://jobright.ai/jobs/info/6a5e5089f3674a0545d28370?utm_campaign=1053&utm_source=git)** | Miami, Florida, United States | On Site | Jul 20 |
+| **[Artist House](https://www.artisthouse.world)** | **[Studio Intern](https://jobright.ai/jobs/info/6a5e76f327bf767ea68f6e88?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Jul 20 |
 | **[Tarte Cosmetics](https://tartecosmetics.com/)** | **[Fall 2026 Events Internship](https://jobright.ai/jobs/info/6a5e737427bf767ea68f6da4?utm_campaign=1053&utm_source=git)** | New York, New York, United States | On Site | Jul 20 |
 | **[The Publisher Desk](http://www.publisherdesk.com/)** | **[Editorial Summer Internship, Forever Blueshirts](https://jobright.ai/jobs/info/6a5e6951050c423c792ef057?utm_campaign=1053&utm_source=git)** | United States | Remote | Jul 20 |
 | **[dataing](https://www.dataing.io/)** | **[Video Content Clip Intern](https://jobright.ai/jobs/info/6a5e65adf29acc1a11747385?utm_campaign=1053&utm_source=git)** | United States | Remote | Jul 20 |
@@ -75,7 +77,6 @@ For a complete list, click the following sortable link below:
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Hourly City Worker - Public Arts Intern](https://jobright.ai/jobs/info/6a5dceac3ac7627fe900dc54?utm_campaign=1053&utm_source=git)** | Glendale, CA, United States | On Site | Jul 20 |
 | **[Friends University](http://www.friends.edu/)** | **[FY25 Graduate Assistant Intern - (Remote) Content Creation - Short-Form Video Coordinator (381)](https://jobright.ai/jobs/info/6a5dc404686b4755d1e1f0d2?utm_campaign=1053&utm_source=git)** | Wichita, KS, United States | On Site | Jul 19 |
 | **[MOSH Audio](https://moshaudio.com/)** | **[Digital Video Production Intern](https://jobright.ai/jobs/info/6a5d7612856af468ab0110b5?utm_campaign=1053&utm_source=git)** | Seattle, WA, United States | Remote | Jul 19 |
-| **[City of Glendale, CA](https://www.glendaleca.gov/government/departments/glendale-water-and-power)** | **[Hourly City Worker - Public Arts Intern](https://jobright.ai/jobs/info/6a5dfb39f29acc1a11745179?utm_campaign=1053&utm_source=git)** | Glendale, CA, United States | On Site | Jul 19 |
 | **[Gift](https://www.shine.gift)** | **[LMU Music Community Intern](https://jobright.ai/jobs/info/6a5ce8b063a8f619507ce560?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | Remote | Jul 19 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid News Intern](https://jobright.ai/jobs/info/6972b01a9b83b424830eb8a4?utm_campaign=1053&utm_source=git)** | IN-Indianapolis;6910 Network Place (Tribune-WXIN/WTTV) | On Site | Jul 19 |
 | **[KCRA 3 & My58 Television](http://www.kcra.com)** | **[Intern (Fall)](https://jobright.ai/jobs/info/6a25615c757ade085b6b19d2?utm_campaign=1053&utm_source=git)** | Sacramento, CA | On Site | Jul 19 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Video Editor-User Group Intern](https://jobright.ai/jobs/info/6a555f6a268af95237beb476?utm_campaign=1053&utm_source=git)** | Woodland Hills, CA, United States | On Site | Jul 16 |
 | **[The WNET Group](http://www.wnet.org)** | **[Digital Content Creator Intern](https://jobright.ai/jobs/info/6a58d67d63a8f619507be93c?utm_campaign=1053&utm_source=git)** | Worldwide Plaza  New York, NY, United States of America | Hybrid | Jul 16 |
 | **[Oak View Group](http://www.oakviewgroup.com)** | **[Programming/Booking Intern / Part-Time / Moody Center](https://jobright.ai/jobs/info/6a58d67b4da96a42cfd8d5d8?utm_campaign=1053&utm_source=git)** | Moody Center (Austin, TX) | On Site | Jul 16 |
-| **[Ripples Edge Media](http://RipplesEdgeMedia.com)** | **[Film/ Video Production (Videographer, Editor) Intern for Startup Video Production Company in the SF Bay Area](https://jobright.ai/jobs/info/6a58b7ae3ac7627fe9ffaaab?utm_campaign=1053&utm_source=git)** | San Francisco, CA, United States | On Site | Jul 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
