@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Monumental Sports & Entertainment](http://www.monumentalsports.com/)** | **[Internship: Game Entertainment (Part-Time/Seasonal)](https://jobright.ai/jobs/info/6a5a7eafc8e3a473cb8ac12a?utm_campaign=1053&utm_source=git)** | Washington, DC 20004 | On Site | Jul 20 |
+| **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Hourly City Worker - Public Arts Intern](https://jobright.ai/jobs/info/6a5dceac3ac7627fe900dc54?utm_campaign=1053&utm_source=git)** | Glendale, CA, United States | On Site | Jul 20 |
+| **[Friends University](http://www.friends.edu/)** | **[FY25 Graduate Assistant Intern - (Remote) Content Creation - Short-Form Video Coordinator (381)](https://jobright.ai/jobs/info/6a5dc404686b4755d1e1f0d2?utm_campaign=1053&utm_source=git)** | Wichita, KS, United States | On Site | Jul 19 |
 | **[MOSH Audio](https://moshaudio.com/)** | **[Digital Video Production Intern](https://jobright.ai/jobs/info/6a5d7612856af468ab0110b5?utm_campaign=1053&utm_source=git)** | Seattle, WA, United States | Remote | Jul 19 |
 | **[Operater](https://operater.io)** | **[Content Creator Intern(English)](https://jobright.ai/jobs/info/6a5d213b856af468ab0104fc?utm_campaign=1053&utm_source=git)** | United States | Remote | Jul 19 |
 | **[Gift](https://www.shine.gift)** | **[LMU Music Community Intern](https://jobright.ai/jobs/info/6a5ce8b063a8f619507ce560?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | Remote | Jul 19 |
@@ -89,10 +92,9 @@ For a complete list, click the following sortable link below:
 | **[Monumental Sports & Entertainment](http://www.monumentalsports.com/)** | **[Internship: Game Entertainment (Part-Time/Seasonal)](https://jobright.ai/jobs/info/6a5acfda856af468ab0099b2?utm_campaign=1053&utm_source=git)** | Washington, DC, United States | On Site | Jul 17 |
 | ↳ | **[Internship: Arena Experience (Part-Time/Seasonal)](https://jobright.ai/jobs/info/6a5a79604da96a42cfd962a2?utm_campaign=1053&utm_source=git)** | Washington, District of Columbia, United States | On Site | Jul 17 |
 | ↳ | **[Internship: Arena Administrative Events (Part-Time/Seasonal)](https://jobright.ai/jobs/info/6a5211ac8a74e077472f2ef0?utm_campaign=1053&utm_source=git)** | Fairfax, VA 22030 | On Site | Jul 17 |
-| **[GBH](http://www.wgbh.org/)** | **[GBH News Rooted Internship - Fall 2026](https://jobright.ai/jobs/info/6a5a6d073ac7627fe9003eb8?utm_campaign=1053&utm_source=git)** | Boston, MA, United States | Hybrid | Jul 17 |
+| **[GBH](http://www.wgbh.org/)** | **[GBH News Rooted Internship - Fall 2026](https://jobright.ai/jobs/info/6a5a6d1e3ac7627fe9003ec1?utm_campaign=1053&utm_source=git)** | Boston, MA, United States | Hybrid | Jul 17 |
 | **[Georgia Production Partnership (GPP)](https://www.georgiaproduction.org)** | **[Walt Disney Studios: Studio Workforce Planning Graduate Intern, Fall 2026 - Spring 2027](https://jobright.ai/jobs/info/6a5ad17c3ac7627fe9005352?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | Hybrid | Jul 17 |
 | **[Lower](https://www.lower.com)** | **[Videographer & Content Editor Intern](https://jobright.ai/jobs/info/6a5a84223ac7627fe900480e?utm_campaign=1053&utm_source=git)** | Columbus, OH, United States | On Site | Jul 17 |
-| **[Monumental Sports & Entertainment](http://www.monumentalsports.com/)** | **[Internship: Game Entertainment (Part-Time/Seasonal)](https://jobright.ai/jobs/info/6a5a7eafc8e3a473cb8ac12a?utm_campaign=1053&utm_source=git)** | Washington, DC 20004 | On Site | Jul 17 |
 | **[Advisors Excel](http://advisorsexcel.com)** | **[Books Program Intern](https://jobright.ai/jobs/info/6a065348f3d6cc51d63926de?utm_campaign=1053&utm_source=git)** | Topeka Metropolitan Area | On Site | Jul 17 |
 | **[TGR](https://thegarnettereport.com)** | **[Fall Internship](https://jobright.ai/jobs/info/6a5a7cc3856af468ab008dc9?utm_campaign=1053&utm_source=git)** | New York City Metropolitan Area, United States | On Site | Jul 17 |
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a5a796e63a8f619507c734e?utm_campaign=1053&utm_source=git)** | Cincinnati, OH, United States | Remote | Jul 17 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[GBH](http://www.wgbh.org/)** | **[NOVA Digital Video Internship - Fall 2026](https://jobright.ai/jobs/info/6a557fc1f2c46727285f28b9?utm_campaign=1053&utm_source=git)** | Boston, MA, United States | Hybrid | Jul 15 |
 | **[Advisors Excel](http://advisorsexcel.com)** | **[Video & Audio Production Intern](https://jobright.ai/jobs/info/6a57bad2e9b77f668bd6a67e?utm_campaign=1053&utm_source=git)** | Topeka, KS, United States | On Site | Jul 15 |
 | **[Damar Services, Inc.](https://www.damar.org)** | **[Fall Special Event and Volunteer Intern](https://jobright.ai/jobs/info/6a57dfea3330ca6f993c1b95?utm_campaign=1053&utm_source=git)** | Indianapolis, IN, United States | On Site | Jul 15 |
-| **[TikTok](https://www.tiktok.com)** | **[Agency Ops Project Intern (TikTok Local Services) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a5076339469c06620351013?utm_campaign=1053&utm_source=git)** | Los Angeles, United States | On Site | Jul 15 |
-| **[Comcast](https://corporate.comcast.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/6a579d87f7517b519ad5b4a4?utm_campaign=1053&utm_source=git)** | PA - Philadelphia, 3601 S Broad St, United States of America | On Site | Jul 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
