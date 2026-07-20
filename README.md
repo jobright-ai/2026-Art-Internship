@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ATIA Ltd](https://atia.ba/en_US/)** | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a5e516327bf767ea68f5fa7?utm_campaign=1053&utm_source=git)** | Hattiesburg, MS | Remote | Jul 20 |
+| **[Middle East Institute](http://www.mei.edu)** | **[Arts & Culture Internship (Fall 2026 - Unpaid)](https://jobright.ai/jobs/info/6a5e4e08f3674a0545d281df?utm_campaign=1053&utm_source=git)** | Washington, DC, United States | On Site | Jul 20 |
+| **[Bethel University](http://bethel.edu)** | **[Football Videographer Intern](https://jobright.ai/jobs/info/6a5e4c3c050c423c792ee475?utm_campaign=1053&utm_source=git)** | Saint Paul, MN, United States | On Site | Jul 20 |
 | **[A Place Called Home](https://www.apch.org)** | **[Visual Arts Program Intern](https://jobright.ai/jobs/info/6a5e34be270e3033b045c660?utm_campaign=1053&utm_source=git)** | APCH Main Building - Los Angeles, CA 90011 | On Site | Jul 20 |
 | **[West End Strategy Team](https://westendstrategy.com)** | **[Paid Intern - Fall 2026](https://jobright.ai/jobs/info/6a5e32ad67b2850e77defa30?utm_campaign=1053&utm_source=git)** | Washington, District of Columbia, United States | Hybrid | Jul 20 |
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a5e193f27bf767ea68f4c9a?utm_campaign=1053&utm_source=git)** | Memphis, TN, United States | Remote | Jul 20 |
@@ -98,7 +101,7 @@ For a complete list, click the following sortable link below:
 | **[Monumental Sports & Entertainment](http://www.monumentalsports.com/)** | **[Internship: Game Entertainment (Part-Time/Seasonal)](https://jobright.ai/jobs/info/6a5acfda856af468ab0099b2?utm_campaign=1053&utm_source=git)** | Washington, DC, United States | On Site | Jul 17 |
 | ↳ | **[Internship: Arena Experience (Part-Time/Seasonal)](https://jobright.ai/jobs/info/6a5a79604da96a42cfd962a2?utm_campaign=1053&utm_source=git)** | Washington, District of Columbia, United States | On Site | Jul 17 |
 | ↳ | **[Internship: Arena Administrative Events (Part-Time/Seasonal)](https://jobright.ai/jobs/info/6a5211ac8a74e077472f2ef0?utm_campaign=1053&utm_source=git)** | Fairfax, VA 22030 | On Site | Jul 17 |
-| **[GBH](http://www.wgbh.org/)** | **[GBH News Rooted Internship - Fall 2026](https://jobright.ai/jobs/info/6a5a6d1e3ac7627fe9003ec1?utm_campaign=1053&utm_source=git)** | Boston, MA, United States | Hybrid | Jul 17 |
+| **[GBH](http://www.wgbh.org/)** | **[GBH News Rooted Internship - Fall 2026](https://jobright.ai/jobs/info/6a5a6d073ac7627fe9003eb8?utm_campaign=1053&utm_source=git)** | Boston, MA, United States | Hybrid | Jul 17 |
 | **[Georgia Production Partnership (GPP)](https://www.georgiaproduction.org)** | **[Walt Disney Studios: Studio Workforce Planning Graduate Intern, Fall 2026 - Spring 2027](https://jobright.ai/jobs/info/6a5ad17c3ac7627fe9005352?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | Hybrid | Jul 17 |
 | **[Lower](https://www.lower.com)** | **[Videographer & Content Editor Intern](https://jobright.ai/jobs/info/6a5a84223ac7627fe900480e?utm_campaign=1053&utm_source=git)** | Columbus, OH, United States | On Site | Jul 17 |
 | **[Advisors Excel](http://advisorsexcel.com)** | **[Books Program Intern](https://jobright.ai/jobs/info/6a065348f3d6cc51d63926de?utm_campaign=1053&utm_source=git)** | Topeka Metropolitan Area | On Site | Jul 17 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Elite Podcast Studio](ElitePodcastStudio.com)** | **[Content Creator Internship (AI & Media Training)](https://jobright.ai/jobs/info/6a58a7ee9f1f56462cf6b3ad?utm_campaign=1053&utm_source=git)** | Odessa, FL, United States | On Site | Jul 16 |
 | **[National Western Stock Show](https://nationalwestern.com)** | **[Coors Western Art Intern](https://jobright.ai/jobs/info/6a57d4ac10c4d945d86515b5?utm_campaign=1053&utm_source=git)** | Denver, CO, United States | On Site | Jul 16 |
 | **[Magnet Media, Inc.](http://www.magnetmediafilms.com)** | **[Production Intern Fall 2027](https://jobright.ai/jobs/info/6a42cfd01cc9cc2b12fece84?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jul 16 |
-| **[ATIA Ltd](https://atia.ba/en_US/)** | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a585f9972fe7a7b98dcdff1?utm_campaign=1053&utm_source=git)** | Brampton, Canada | On Site | Jul 15 |
-| **[Hasana, Inc.](http://shophasana.com)** | **[Volunteer/Intern: Film/Video Editor](https://jobright.ai/jobs/info/6a584c973330ca6f993c3e99?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 15 |
-| **[Girl Scouts of Citrus Council](https://www.citrus-gs.org/)** | **[Intern for the Girl Scout Experience Team](https://jobright.ai/jobs/info/6a582b6468d16a30e24120f3?utm_campaign=1053&utm_source=git)** | Orlando, FL, United States | On Site | Jul 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
