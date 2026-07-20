@@ -57,11 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Prophet](http://www.prophet.com)** | **[2026 Chicago Internship](https://jobright.ai/jobs/info/6a5df575f29acc1a11744db5?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | On Site | Jul 20 |
+| ↳ | **[UNC - 2026 Internship](https://jobright.ai/jobs/info/6a5df56027bf767ea68f4237?utm_campaign=1053&utm_source=git)** | Atlanta, Georgia, United States | On Site | Jul 20 |
+| ↳ | **[2026 San Francisco Internship](https://jobright.ai/jobs/info/6a5df55c27bf767ea68f4236?utm_campaign=1053&utm_source=git)** | San Francisco, California, United States | On Site | Jul 20 |
 | **[Monumental Sports & Entertainment](http://www.monumentalsports.com/)** | **[Internship: Game Entertainment (Part-Time/Seasonal)](https://jobright.ai/jobs/info/6a5a7eafc8e3a473cb8ac12a?utm_campaign=1053&utm_source=git)** | Washington, DC 20004 | On Site | Jul 20 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Hourly City Worker - Public Arts Intern](https://jobright.ai/jobs/info/6a5dceac3ac7627fe900dc54?utm_campaign=1053&utm_source=git)** | Glendale, CA, United States | On Site | Jul 20 |
 | **[Friends University](http://www.friends.edu/)** | **[FY25 Graduate Assistant Intern - (Remote) Content Creation - Short-Form Video Coordinator (381)](https://jobright.ai/jobs/info/6a5dc404686b4755d1e1f0d2?utm_campaign=1053&utm_source=git)** | Wichita, KS, United States | On Site | Jul 19 |
 | **[MOSH Audio](https://moshaudio.com/)** | **[Digital Video Production Intern](https://jobright.ai/jobs/info/6a5d7612856af468ab0110b5?utm_campaign=1053&utm_source=git)** | Seattle, WA, United States | Remote | Jul 19 |
-| **[Operater](https://operater.io)** | **[Content Creator Intern(English)](https://jobright.ai/jobs/info/6a5d213b856af468ab0104fc?utm_campaign=1053&utm_source=git)** | United States | Remote | Jul 19 |
 | **[Gift](https://www.shine.gift)** | **[LMU Music Community Intern](https://jobright.ai/jobs/info/6a5ce8b063a8f619507ce560?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | Remote | Jul 19 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid News Intern](https://jobright.ai/jobs/info/6972b01a9b83b424830eb8a4?utm_campaign=1053&utm_source=git)** | IN-Indianapolis;6910 Network Place (Tribune-WXIN/WTTV) | On Site | Jul 19 |
 | **[KCRA 3 & My58 Television](http://www.kcra.com)** | **[Intern (Fall)](https://jobright.ai/jobs/info/6a25615c757ade085b6b19d2?utm_campaign=1053&utm_source=git)** | Sacramento, CA | On Site | Jul 19 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The University of Georgia](http://www.ai.uga.edu)** | **[State Botanical Garden of Georgia Major Events Intern](https://jobright.ai/jobs/info/6a5848fe72fe7a7b98dcd9e5?utm_campaign=1053&utm_source=git)** | Athens, GA, United States | On Site | Jul 15 |
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a580e593330ca6f993c314d?utm_campaign=1053&utm_source=git)** | Anaheim, CA, United States | Remote | Jul 15 |
 | **[GBH](http://www.wgbh.org/)** | **[NOVA Digital Video Internship - Fall 2026](https://jobright.ai/jobs/info/6a557fc1f2c46727285f28b9?utm_campaign=1053&utm_source=git)** | Boston, MA, United States | Hybrid | Jul 15 |
-| **[Advisors Excel](http://advisorsexcel.com)** | **[Video & Audio Production Intern](https://jobright.ai/jobs/info/6a57bad2e9b77f668bd6a67e?utm_campaign=1053&utm_source=git)** | Topeka, KS, United States | On Site | Jul 15 |
-| **[Damar Services, Inc.](https://www.damar.org)** | **[Fall Special Event and Volunteer Intern](https://jobright.ai/jobs/info/6a57dfea3330ca6f993c1b95?utm_campaign=1053&utm_source=git)** | Indianapolis, IN, United States | On Site | Jul 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
