@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[David Zwirner](http://www.davidzwirner.com/)** | **[Digital Editorial Intern](https://jobright.ai/jobs/info/6a5939a7856af468ab002878?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Jul 21 |
+| **[ATIA Ltd](https://atia.ba/en_US/)** | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a5f8f0df68dd368023e73a5?utm_campaign=1053&utm_source=git)** | Toronto, ON, Canada | Remote | Jul 21 |
 | **[42West-Fandoms & Franchises](http://bhimpact.com)** | **[Entertainment Content Internship](https://jobright.ai/jobs/info/6a53df588a74e077472f9e6b?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 21 |
 | **[Homecare Homebase](http://www.hchb.com)** | **[2026 WLWT Sports Intern](https://jobright.ai/jobs/info/6a5f8c088c7fd835513b994d?utm_campaign=1053&utm_source=git)** | Cincinnati, OH, United States | On Site | Jul 21 |
 | **[Hearst Television](http://www.hearsttelevision.com)** | **[2026 WLWT Sports Intern](https://jobright.ai/jobs/info/6a5f8c04b0f20036bc63189a?utm_campaign=1053&utm_source=git)** | Cincinnati, OH, United States | On Site | Jul 21 |
@@ -146,7 +148,7 @@ For a complete list, click the following sortable link below:
 | **[Monumental Sports & Entertainment](http://www.monumentalsports.com/)** | **[Internship: Game Entertainment (Part-Time/Seasonal)](https://jobright.ai/jobs/info/6a5acfda856af468ab0099b2?utm_campaign=1053&utm_source=git)** | Washington, DC, United States | On Site | Jul 17 |
 | ↳ | **[Internship: Arena Experience (Part-Time/Seasonal)](https://jobright.ai/jobs/info/6a5a79604da96a42cfd962a2?utm_campaign=1053&utm_source=git)** | Washington, District of Columbia, United States | On Site | Jul 17 |
 | ↳ | **[Internship: Arena Administrative Events (Part-Time/Seasonal)](https://jobright.ai/jobs/info/6a5211ac8a74e077472f2ef0?utm_campaign=1053&utm_source=git)** | Fairfax, VA 22030 | On Site | Jul 17 |
-| **[GBH](http://www.wgbh.org/)** | **[GBH News Rooted Internship - Fall 2026](https://jobright.ai/jobs/info/6a5a6d1e3ac7627fe9003ec1?utm_campaign=1053&utm_source=git)** | Boston, MA, United States | Hybrid | Jul 17 |
+| **[GBH](http://www.wgbh.org/)** | **[GBH News Rooted Internship - Fall 2026](https://jobright.ai/jobs/info/6a5a6d073ac7627fe9003eb8?utm_campaign=1053&utm_source=git)** | Boston, MA, United States | Hybrid | Jul 17 |
 | **[Georgia Production Partnership (GPP)](https://www.georgiaproduction.org)** | **[Walt Disney Studios: Studio Workforce Planning Graduate Intern, Fall 2026 - Spring 2027](https://jobright.ai/jobs/info/6a5ad17c3ac7627fe9005352?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | Hybrid | Jul 17 |
 | **[Lower](https://www.lower.com)** | **[Videographer & Content Editor Intern](https://jobright.ai/jobs/info/6a5a84223ac7627fe900480e?utm_campaign=1053&utm_source=git)** | Columbus, OH, United States | On Site | Jul 17 |
 | **[Advisors Excel](http://advisorsexcel.com)** | **[Books Program Intern](https://jobright.ai/jobs/info/6a065348f3d6cc51d63926de?utm_campaign=1053&utm_source=git)** | Topeka Metropolitan Area | On Site | Jul 17 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern - Earned Media](https://jobright.ai/jobs/info/6a45ed440dd56c76cc2f530a?utm_campaign=1053&utm_source=git)** | Wauwatosa, WI, United States of America | Hybrid | Jul 17 |
 | **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Historical Preservation, Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/6a0419e8f811a043696080cd?utm_campaign=1053&utm_source=git)** | Jamaica, NY, United States | On Site | Jul 17 |
 | **[Resources for the Future](http://www.rff.org/)** | **[Editorial Intern (Fall Semester)](https://jobright.ai/jobs/info/6a5a0c05856af468ab0068ce?utm_campaign=1053&utm_source=git)** | Washington, DC, United States | On Site | Jul 17 |
-| **[Octagon](https://www.octagon.com/)** | **[Intern (Global Soccer Fan Festivals)-22](https://jobright.ai/jobs/info/6a563904e9b77f668bd61eee?utm_campaign=1053&utm_source=git)** | Stamford, CT, United States | Hybrid | Jul 17 |
-| **[ATIA Ltd](https://atia.ba/en_US/)** | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a5a08d6c8e3a473cb8a999d?utm_campaign=1053&utm_source=git)** | Oakland, CA, United States | Remote | Jul 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
