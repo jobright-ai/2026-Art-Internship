@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[New York Post](http://nypost.com/)** | **[YouTube Intern](https://jobright.ai/jobs/info/6a5fc7daf68dd368023e8a48?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Jul 21 |
+| **[Hasana, Inc.](http://shophasana.com)** | **[Volunteer/Intern: Scriptwriter](https://jobright.ai/jobs/info/6a5fc7a7b0f20036bc6330d8?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | On Site | Jul 21 |
+| ↳ | **[Editorial Assistant volunteer/intern](https://jobright.ai/jobs/info/6a55f60710c4d945d8646288?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | On Site | Jul 21 |
+| **[ATIA Ltd](https://atia.ba/en_US/)** | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a5fbdf68c7fd835513bad6f?utm_campaign=1053&utm_source=git)** | Boston, MA, United States | Remote | Jul 21 |
+| **[New York Post](http://nypost.com/)** | **[Page Six Video Intern](https://jobright.ai/jobs/info/6a5fbc4b33ef5c58b4fffc1e?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Jul 21 |
 | **[Cleveland Browns](http://www.clevelandbrowns.com)** | **[Video Editing and Motion Graphic Animation – Game Production Intern](https://jobright.ai/jobs/info/6a5fbbff8c7fd835513bac29?utm_campaign=1053&utm_source=git)** | Cleveland, OH, United States | On Site | Jul 21 |
 | **[TASTE Productions](http://www.tastewithkevin.com/)** | **[ASSISTANT EDITOR INTERN](https://jobright.ai/jobs/info/6a5fb02133ef5c58b4fff72c?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Remote | Jul 21 |
 | **[Agilent Technologies](http://www.agilent.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/6a5facf98c7fd835513ba6a9?utm_campaign=1053&utm_source=git)** | Wilmington, DE, United States | Hybrid | Jul 21 |
@@ -80,7 +85,6 @@ For a complete list, click the following sortable link below:
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a5f169b27bf767ea68f98d5?utm_campaign=1053&utm_source=git)** | Santa Ana, CA, United States | Remote | Jul 21 |
 | **[Thizzler On The Roof](https://www.thizzler.com)** | **[General Internship Application](https://jobright.ai/jobs/info/6a5f64cd193b5113096784e4?utm_campaign=1053&utm_source=git)** | Oakland, CA, United States | Hybrid | Jul 21 |
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a55cdfffdf4fa71202b56a8?utm_campaign=1053&utm_source=git)** | Cleveland, OH, United States | Remote | Jul 21 |
-| **[Canyon Entertainment Group](https://canyonentertainmentgroup.com)** | **[Video Editing, Post Production Internship](https://jobright.ai/jobs/info/6a5f5c766e0c3c7c7d3d691c?utm_campaign=1053&utm_source=git)** | Toronto, ON, Canada | Remote | Jul 21 |
 | **[MBJ Network](www.mbj-network.com)** | **[Assistant Editor- Intern](https://jobright.ai/jobs/info/6a5f566df68dd368023e62c0?utm_campaign=1053&utm_source=git)** | Lombard, IL, United States | Remote | Jul 21 |
 | **[World of Dance](http://www.worldofdance.com)** | **[Video Content Curator Intern](https://jobright.ai/jobs/info/6a57d521e9b77f668bd6b278?utm_campaign=1053&utm_source=git)** | Cerritos, CA, United States | On Site | Jul 21 |
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a5370df9fbdab22fe13f640?utm_campaign=1053&utm_source=git)** | Blacksburg, VA, United States | Remote | Jul 21 |
@@ -136,8 +140,8 @@ For a complete list, click the following sortable link below:
 | **[Hasana, Inc.](http://shophasana.com)** | **[Volunteer/Intern: Film/Video Editor](https://jobright.ai/jobs/info/6a51e53ebf63b66c7997e975?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Jul 18 |
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a5be6a84da96a42cfd9b60c?utm_campaign=1053&utm_source=git)** | Miami, FL, United States | Remote | Jul 18 |
 | **[Russ & Daughters](http://www.russanddaughters.com)** | **[INTERNSHIP](https://jobright.ai/jobs/info/6a5bca514da96a42cfd9b256?utm_campaign=1053&utm_source=git)** | Store (New York, NY), United States | On Site | Jul 18 |
-| **[Axis Communications](http://www.axis.com/)** | **[Video Production Intern](https://jobright.ai/jobs/info/6a56127ff7517b519ad53a47?utm_campaign=1053&utm_source=git)** | USA - MA - Chelmsford, United States of America | On Site | Jul 18 |
-| ↳ | **[Video Production Intern](https://jobright.ai/jobs/info/6a3e88e64d047136e0936834?utm_campaign=1053&utm_source=git)** | Chelmsford, MA, USA | On Site | Jul 18 |
+| **[Axis Communications](http://www.axis.com/)** | **[Video Production Intern](https://jobright.ai/jobs/info/6a3e88e64d047136e0936834?utm_campaign=1053&utm_source=git)** | Chelmsford, MA, USA | On Site | Jul 18 |
+| ↳ | **[Video Production Intern](https://jobright.ai/jobs/info/6a56127ff7517b519ad53a47?utm_campaign=1053&utm_source=git)** | USA - MA - Chelmsford, United States of America | On Site | Jul 18 |
 | **[The Aparecio Foundation](https://www.apareciofoundation.org)** | **[Production Associate Intern/Volunteer](https://jobright.ai/jobs/info/6a5b731b4da96a42cfd9a5bf?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | On Site | Jul 18 |
 | **[Monumental Sports & Entertainment](http://www.monumentalsports.com/)** | **[Internship: Game Presentation (Part-Time/Seasonal)](https://jobright.ai/jobs/info/6a5b64a43ac7627fe90083cc?utm_campaign=1053&utm_source=git)** | Washington, DC 20004, United States | On Site | Jul 18 |
 | **[ASM Global](http://www.asmglobal.com)** | **[Hospitality Intern - The Meadows Music Theater](https://jobright.ai/jobs/info/6a510fcabf63b66c79978842?utm_campaign=1053&utm_source=git)** | Hartford, CT, United States | On Site | Jul 18 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[United States Hockey League (USHL)](https://www.ushl.com/)** | **[Communications and Broadcasting Internship](https://jobright.ai/jobs/info/6a5b445063a8f619507cac29?utm_campaign=1053&utm_source=git)** | Muskegon, MI, United States | On Site | Jul 17 |
 | **[Monumental Sports & Entertainment](http://www.monumentalsports.com/)** | **[Internship: Game Entertainment (Part-Time/Seasonal)](https://jobright.ai/jobs/info/6a5acfda856af468ab0099b2?utm_campaign=1053&utm_source=git)** | Washington, DC, United States | On Site | Jul 17 |
 | ↳ | **[Internship: Arena Experience (Part-Time/Seasonal)](https://jobright.ai/jobs/info/6a5a79604da96a42cfd962a2?utm_campaign=1053&utm_source=git)** | Washington, District of Columbia, United States | On Site | Jul 17 |
-| ↳ | **[Internship: Arena Administrative Events (Part-Time/Seasonal)](https://jobright.ai/jobs/info/6a5211ac8a74e077472f2ef0?utm_campaign=1053&utm_source=git)** | Fairfax, VA 22030 | On Site | Jul 17 |
-| **[GBH](http://www.wgbh.org/)** | **[GBH News Rooted Internship - Fall 2026](https://jobright.ai/jobs/info/6a5a6d1e3ac7627fe9003ec1?utm_campaign=1053&utm_source=git)** | Boston, MA, United States | Hybrid | Jul 17 |
-| **[Georgia Production Partnership (GPP)](https://www.georgiaproduction.org)** | **[Walt Disney Studios: Studio Workforce Planning Graduate Intern, Fall 2026 - Spring 2027](https://jobright.ai/jobs/info/6a5ad17c3ac7627fe9005352?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | Hybrid | Jul 17 |
-| **[Lower](https://www.lower.com)** | **[Videographer & Content Editor Intern](https://jobright.ai/jobs/info/6a5a84223ac7627fe900480e?utm_campaign=1053&utm_source=git)** | Columbus, OH, United States | On Site | Jul 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
