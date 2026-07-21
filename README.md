@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ATIA Ltd](https://atia.ba/en_US/)** | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a5f169b27bf767ea68f98d5?utm_campaign=1053&utm_source=git)** | Santa Ana, CA, United States | Remote | Jul 21 |
+| **[Mohr Partners, Inc.](http://mohrpartners.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/6a5f6b988c7fd835513b8de4?utm_campaign=1053&utm_source=git)** | Dallas, TX, United States | Hybrid | Jul 21 |
+| **[Thizzler On The Roof](https://www.thizzler.com)** | **[General Internship Application](https://jobright.ai/jobs/info/6a5f64cd193b5113096784e4?utm_campaign=1053&utm_source=git)** | Oakland, CA, United States | Hybrid | Jul 21 |
+| **[ATIA Ltd](https://atia.ba/en_US/)** | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a55cdfffdf4fa71202b56a8?utm_campaign=1053&utm_source=git)** | Cleveland, OH, United States | Remote | Jul 21 |
+| **[Canyon Entertainment Group](https://canyonentertainmentgroup.com)** | **[Video Editing, Post Production Internship](https://jobright.ai/jobs/info/6a5f5c766e0c3c7c7d3d691c?utm_campaign=1053&utm_source=git)** | Toronto, ON, Canada | Remote | Jul 21 |
 | **[MBJ Network](www.mbj-network.com)** | **[Assistant Editor- Intern](https://jobright.ai/jobs/info/6a5f566df68dd368023e62c0?utm_campaign=1053&utm_source=git)** | Lombard, IL, United States | Remote | Jul 21 |
 | **[World of Dance](http://www.worldofdance.com)** | **[Video Content Curator Intern](https://jobright.ai/jobs/info/6a57d521e9b77f668bd6b278?utm_campaign=1053&utm_source=git)** | Cerritos, CA, United States | On Site | Jul 21 |
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a5370df9fbdab22fe13f640?utm_campaign=1053&utm_source=git)** | Blacksburg, VA, United States | Remote | Jul 21 |
@@ -75,7 +80,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a5f16a7f3674a0545d2bc89?utm_campaign=1053&utm_source=git)** | El Paso, TX, United States | Remote | Jul 20 |
 | ↳ | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a5f16a5f29acc1a1174a5a9?utm_campaign=1053&utm_source=git)** | Monroe, LA, United States | Remote | Jul 20 |
 | ↳ | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a5f169ef3674a0545d2bc86?utm_campaign=1053&utm_source=git)** | Appleton, WI, United States | Remote | Jul 20 |
-| ↳ | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a5f169b27bf767ea68f98d5?utm_campaign=1053&utm_source=git)** | Santa Ana, CA, United States | Remote | Jul 20 |
 | **[Terros Health](https://www.terroshealth.org/)** | **[Development Intern - Phoenix  (8144)](https://jobright.ai/jobs/info/6a5efa03d32b0656b39f6786?utm_campaign=1053&utm_source=git)** | Phoenix, AZ, United States | On Site | Jul 20 |
 | **[Hasana, Inc.](http://shophasana.com)** | **[Volunteer/Intern: Film/Video Editor](https://jobright.ai/jobs/info/6a5ef849f29acc1a11749feb?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | On Site | Jul 20 |
 | **[Magnet Media, Inc.](http://www.magnetmediafilms.com)** | **[Production Intern Spring 2027](https://jobright.ai/jobs/info/6a42cfd01cc9cc2b12fece84?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Jul 20 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[NBCUniversal](https://www.nbcuniversal.com/)** | **[NBC Telemundo CT Multiplatform Creative Intern Position - Academic Year 2026-2027](https://jobright.ai/jobs/info/6a59b840c8e3a473cb8a831d?utm_campaign=1053&utm_source=git)** | 1422 New Britain Ave., Hartford, Connecticut | On Site | Jul 16 |
 | **[Barry Katz Entertainment](http://www.barrykatz.com)** | **[Barry Katz Entertainment - Editing Internship](https://jobright.ai/jobs/info/6a59b3443ac7627fe9000755?utm_campaign=1053&utm_source=git)** | 30765 Pacific Coast Hwy, Malibu, CA 90265, USA | Remote | Jul 16 |
 | **[The University of Texas at Austin](https://education.utexas.edu/departments/curriculum-instruction/graduate-programs/stem-education)** | **[Science Communications Intern, College of Natural Sciences](https://jobright.ai/jobs/info/6a5a480f3ac7627fe90032db?utm_campaign=1053&utm_source=git)** | UT MAIN CAMPUS, United States of America | On Site | Jul 16 |
-| **[The Post and Courier](http://www.postandcourier.com/)** | **[The Post and Courier Community Engagement Producer Intern - Furman University](https://jobright.ai/jobs/info/6a59a77d856af468ab004c26?utm_campaign=1053&utm_source=git)** | Columbia, SC, United States | On Site | Jul 16 |
-| **[Hasana, Inc.](http://shophasana.com)** | **[Film & Video Internship](https://jobright.ai/jobs/info/6a5997544da96a42cfd91dd0?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 16 |
-| **[Pivot Point Academy](https://www.pivotpoint.edu/)** | **[SALON ASSISTANT/INTERNSHIP](https://jobright.ai/jobs/info/6a59bcf2686b4755d1e11b86?utm_campaign=1053&utm_source=git)** | Woodridge, IL, United States | On Site | Jul 16 |
-| **[The Escape Room USA](https://escaperoomindy.com/)** | **[Videography Internship](https://jobright.ai/jobs/info/6a5984ef63a8f619507c2bab?utm_campaign=1053&utm_source=git)** | New Palestine, IN, United States | On Site | Jul 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
