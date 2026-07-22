@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ATIA Ltd](https://atia.ba/en_US/)** | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a54a660c8eb0843027b09a7?utm_campaign=1053&utm_source=git)** | Albuquerque, NM, United States | Remote | Jul 22 |
 | **[David Zwirner](http://www.davidzwirner.com/)** | **[Gallery Intern](https://jobright.ai/jobs/info/6a5939bd856af468ab002882?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 22 |
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a5273e2e726ec56126a3267?utm_campaign=1053&utm_source=git)** | Toledo, OH, United States | Remote | Jul 22 |
 | **[LexisNexis Risk Solutions](https://risk.lexisnexis.com)** | **[Editorial Data Reporting Intern](https://jobright.ai/jobs/info/6a5139378d7d3e6cf1cbffd6?utm_campaign=1053&utm_source=git)** | Home based-Washington DC, United States of America | Remote | Jul 22 |
@@ -88,9 +89,9 @@ For a complete list, click the following sortable link below:
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a5ff9df193b51130967bf09?utm_campaign=1053&utm_source=git)** | Eau Claire, WI, United States | Remote | Jul 21 |
 | ↳ | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a5ff9d88c7fd835513bc51c?utm_campaign=1053&utm_source=git)** | Minneapolis, MN, United States | Remote | Jul 21 |
 | **[Fox Corporation](https://www.foxcorporation.com)** | **[TMZ Podcast Intern - Fall 2026](https://jobright.ai/jobs/info/6a5ff8f4f68dd368023e9ea8?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 21 |
-| **[New York Post](http://nypost.com/)** | **[Commerce Editorial Intern](https://jobright.ai/jobs/info/6a5fd96a33ef5c58b400079f?utm_campaign=1053&utm_source=git)** | New York, NY, United States of America | On Site | Jul 21 |
+| **[New York Post](http://nypost.com/)** | **[Decider Features Intern](https://jobright.ai/jobs/info/6a5fd3adf68dd368023e8de4?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Jul 21 |
+| ↳ | **[Commerce Editorial Intern](https://jobright.ai/jobs/info/6a5fd96a33ef5c58b400079f?utm_campaign=1053&utm_source=git)** | New York, NY, United States of America | On Site | Jul 21 |
 | ↳ | **[Assistant Digital Production Intern](https://jobright.ai/jobs/info/6a5fcdb86e0c3c7c7d3d917a?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Jul 21 |
-| ↳ | **[Decider Features Intern](https://jobright.ai/jobs/info/6a5fd3adf68dd368023e8de4?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Jul 21 |
 | ↳ | **[Page Six Video Intern](https://jobright.ai/jobs/info/6a5fbc4b33ef5c58b4fffc1e?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Jul 21 |
 | ↳ | **[YouTube Intern](https://jobright.ai/jobs/info/6a5fc7daf68dd368023e8a48?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Jul 21 |
 | **[Open Road Integrated Media Inc.](http://www.openroadmedia.com)** | **[Content Writing Intern (PT/For-Credit)](https://jobright.ai/jobs/info/6a4d60d035e45603c4bb39c9?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Hybrid | Jul 21 |
@@ -118,7 +119,6 @@ For a complete list, click the following sortable link below:
 | **[The Dispatch](https://thedispatch.com/)** | **[Fall 2026 Multimedia Internship](https://jobright.ai/jobs/info/6a591d8d4da96a42cfd8f224?utm_campaign=1053&utm_source=git)** | United States | Remote | Jul 21 |
 | **[SeatSwap, Inc.](https://seatswaptickets.com/)** | **[SeatSwap Fall Internship](https://jobright.ai/jobs/info/6a5f81596e0c3c7c7d3d733c?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Jul 21 |
 | **[Austin PBS](http://www.austinpbs.org)** | **[Internship / Production Intern](https://jobright.ai/jobs/info/6a5f7a3cf68dd368023e6bda?utm_campaign=1053&utm_source=git)** | Austin, TX, United States | On Site | Jul 21 |
-| ↳ | **[Internship / Video Production](https://jobright.ai/jobs/info/6a5ee14a27bf767ea68f8fb3?utm_campaign=1053&utm_source=git)** | Austin, TX, United States | Hybrid | Jul 21 |
 | **[The Aparecio Foundation](https://www.apareciofoundation.org)** | **[Bookings Associate Intern/Volunteer](https://jobright.ai/jobs/info/6a5201a4bf63b66c7997f2f9?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Jul 21 |
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a5f169b27bf767ea68f98d5?utm_campaign=1053&utm_source=git)** | Santa Ana, CA, United States | Remote | Jul 21 |
 | **[Thizzler On The Roof](https://www.thizzler.com)** | **[General Internship Application](https://jobright.ai/jobs/info/6a5f64cd193b5113096784e4?utm_campaign=1053&utm_source=git)** | Oakland, CA, United States | Hybrid | Jul 21 |
