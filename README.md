@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cleveland Browns](http://www.clevelandbrowns.com)** | **[Video Editing and Motion Graphic Animation – Game Production Intern](https://jobright.ai/jobs/info/6a60101f8c7fd835513bc9af?utm_campaign=1053&utm_source=git)** | Cleveland, OH, United States | On Site | Jul 21 |
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a53a9428a74e077472f9300?utm_campaign=1053&utm_source=git)** | Portland, OR, United States | Remote | Jul 21 |
 | **[Gift](https://www.shine.gift)** | **[USC Music Community Intern](https://jobright.ai/jobs/info/6a6006828c7fd835513bc73d?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | Remote | Jul 21 |
 | **[Ripples Edge Media](http://RipplesEdgeMedia.com)** | **[Film/ Video Production (Videographer, Editor) Intern for Startup Video Production Company in the SF Bay Area](https://jobright.ai/jobs/info/6a58b7ae3ac7627fe9ffaaab?utm_campaign=1053&utm_source=git)** | San Francisco, CA, United States | On Site | Jul 21 |
@@ -66,8 +67,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a5ff9d88c7fd835513bc51c?utm_campaign=1053&utm_source=git)** | Minneapolis, MN, United States | Remote | Jul 21 |
 | **[Fox Corporation](https://www.foxcorporation.com)** | **[TMZ Podcast Intern - Fall 2026](https://jobright.ai/jobs/info/6a5ff8f4f68dd368023e9ea8?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 21 |
 | **[New York Post](http://nypost.com/)** | **[Decider Features Intern](https://jobright.ai/jobs/info/6a5fd3adf68dd368023e8de4?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Jul 21 |
-| ↳ | **[Commerce Editorial Intern](https://jobright.ai/jobs/info/6a5fd96a33ef5c58b400079f?utm_campaign=1053&utm_source=git)** | New York, NY, United States of America | On Site | Jul 21 |
 | ↳ | **[Assistant Digital Production Intern](https://jobright.ai/jobs/info/6a5fcdb86e0c3c7c7d3d917a?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Jul 21 |
+| ↳ | **[Commerce Editorial Intern](https://jobright.ai/jobs/info/6a5fd96a33ef5c58b400079f?utm_campaign=1053&utm_source=git)** | New York, NY, United States of America | On Site | Jul 21 |
 | ↳ | **[Page Six Video Intern](https://jobright.ai/jobs/info/6a5fbc4b33ef5c58b4fffc1e?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Jul 21 |
 | ↳ | **[YouTube Intern](https://jobright.ai/jobs/info/6a5fc7daf68dd368023e8a48?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Jul 21 |
 | **[Open Road Integrated Media Inc.](http://www.openroadmedia.com)** | **[Content Writing Intern (PT/For-Credit)](https://jobright.ai/jobs/info/6a4d60d035e45603c4bb39c9?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Hybrid | Jul 21 |
@@ -143,7 +144,6 @@ For a complete list, click the following sortable link below:
 | **[Monumental Sports & Entertainment](http://www.monumentalsports.com/)** | **[Internship: Game Entertainment (Part-Time/Seasonal)](https://jobright.ai/jobs/info/6a5a7eafc8e3a473cb8ac12a?utm_campaign=1053&utm_source=git)** | Washington, DC 20004 | On Site | Jul 20 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Hourly City Worker - Public Arts Intern](https://jobright.ai/jobs/info/6a5dceac3ac7627fe900dc54?utm_campaign=1053&utm_source=git)** | Glendale, CA, United States | On Site | Jul 20 |
 | **[Friends University](http://www.friends.edu/)** | **[FY25 Graduate Assistant Intern - (Remote) Content Creation - Short-Form Video Coordinator (381)](https://jobright.ai/jobs/info/6a5dc404686b4755d1e1f0d2?utm_campaign=1053&utm_source=git)** | Wichita, KS, United States | On Site | Jul 19 |
-| **[Gift](https://www.shine.gift)** | **[LMU Music Community Intern](https://jobright.ai/jobs/info/6a5ce8b063a8f619507ce560?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | Remote | Jul 19 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid News Intern](https://jobright.ai/jobs/info/6972b01a9b83b424830eb8a4?utm_campaign=1053&utm_source=git)** | IN-Indianapolis;6910 Network Place (Tribune-WXIN/WTTV) | On Site | Jul 19 |
 | **[KCRA 3 & My58 Television](http://www.kcra.com)** | **[Intern (Fall)](https://jobright.ai/jobs/info/6a25615c757ade085b6b19d2?utm_campaign=1053&utm_source=git)** | Sacramento, CA | On Site | Jul 19 |
 | **[Hearst Television](http://www.hearsttelevision.com)** | **[Intern (Fall)](https://jobright.ai/jobs/info/6a1d794e3e538a28c2049c97?utm_campaign=1053&utm_source=git)** | 3 Television Circle, Sacramento, CA, 95814, US | On Site | Jul 19 |
