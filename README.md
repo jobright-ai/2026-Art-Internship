@@ -57,7 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Screen Actors Guild Awards](http://www.sagawards.org)** | **[Fall & Spring Awards Intern](https://jobright.ai/jobs/info/6a60f51011edf44d7915ee57?utm_campaign=1053&utm_source=git)** | Los Angeles metropolitan area, United States | Hybrid | Jul 22 |
+| **[ATIA Ltd](https://atia.ba/en_US/)** | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a60fdd911edf44d7915ef95?utm_campaign=1053&utm_source=git)** | Louisville, KY, United States | Remote | Jul 22 |
 | **[Mercatus Center at George Mason University](http://mercatus.org)** | **[Production Intern](https://jobright.ai/jobs/info/6a5e897127bf767ea68f7795?utm_campaign=1053&utm_source=git)** | Arlington, VA, United States | Hybrid | Jul 22 |
 | **[AAMBC Inc.](https://aambc.org)** | **[Video Editor Intern](https://jobright.ai/jobs/info/6a60f14cab14335fc0f161fb?utm_campaign=1053&utm_source=git)** | Atlanta metropolitan area, United States | Hybrid | Jul 22 |
 | **[Cleveland Browns](http://www.clevelandbrowns.com)** | **[Video Editing and Motion Graphic Animation – Game Production Intern](https://jobright.ai/jobs/info/6a60f13ceaa37f43e75867fb?utm_campaign=1053&utm_source=git)** | Cleveland, OH, United States | On Site | Jul 22 |
