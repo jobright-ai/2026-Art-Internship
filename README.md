@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[David Zwirner](http://www.davidzwirner.com/)** | **[Museum & Institutional Partnerships Intern](https://jobright.ai/jobs/info/6a5939a3856af468ab002873?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Jul 22 |
+| **[Atlanta Gladiators](http://atlantagladiators.com)** | **[Social Media Videography Intern: In Season](https://jobright.ai/jobs/info/6a60cb3ec752926c22682282?utm_campaign=1053&utm_source=git)** | Duluth, GA, United States | On Site | Jul 22 |
+| **[ATIA Ltd](https://atia.ba/en_US/)** | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a60c37697c51d628eb3a3a9?utm_campaign=1053&utm_source=git)** | Norman, OK, United States | Remote | Jul 22 |
 | **[The Aparecio Foundation](https://www.apareciofoundation.org)** | **[Editorial Assistant volunteer/intern](https://jobright.ai/jobs/info/6a54dde9b361d54aceab7862?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | On Site | Jul 22 |
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a54a70b8ef95364ead96415?utm_campaign=1053&utm_source=git)** | Mankato, MN, United States | Remote | Jul 22 |
 | ↳ | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a60a02a129b652e9cd29835?utm_campaign=1053&utm_source=git)** | Dallas, TX, United States | Remote | Jul 22 |
@@ -95,8 +98,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a5ff9d88c7fd835513bc51c?utm_campaign=1053&utm_source=git)** | Minneapolis, MN, United States | Remote | Jul 21 |
 | **[Fox Corporation](https://www.foxcorporation.com)** | **[TMZ Podcast Intern - Fall 2026](https://jobright.ai/jobs/info/6a5ff8f4f68dd368023e9ea8?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 21 |
 | **[New York Post](http://nypost.com/)** | **[Assistant Digital Production Intern](https://jobright.ai/jobs/info/6a5fcdb86e0c3c7c7d3d917a?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Jul 21 |
-| ↳ | **[Commerce Editorial Intern](https://jobright.ai/jobs/info/6a5fd96a33ef5c58b400079f?utm_campaign=1053&utm_source=git)** | New York, NY, United States of America | On Site | Jul 21 |
 | ↳ | **[Decider Features Intern](https://jobright.ai/jobs/info/6a5fd3adf68dd368023e8de4?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Jul 21 |
+| ↳ | **[Commerce Editorial Intern](https://jobright.ai/jobs/info/6a5fd96a33ef5c58b400079f?utm_campaign=1053&utm_source=git)** | New York, NY, United States of America | On Site | Jul 21 |
 | ↳ | **[Page Six Video Intern](https://jobright.ai/jobs/info/6a5fbc4b33ef5c58b4fffc1e?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Jul 21 |
 | ↳ | **[YouTube Intern](https://jobright.ai/jobs/info/6a5fc7daf68dd368023e8a48?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Jul 21 |
 | **[Open Road Integrated Media Inc.](http://www.openroadmedia.com)** | **[Content Writing Intern (PT/For-Credit)](https://jobright.ai/jobs/info/6a4d60d035e45603c4bb39c9?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Hybrid | Jul 21 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Art Institute of Chicago](http://www.artic.edu/)** | **[McMullan Arts Leadership Internship, Interpretation](https://jobright.ai/jobs/info/6a4d6b51c643fd23fed3d03d?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | On Site | Jul 20 |
 | **[Miami HEAT](https://www.nba.com/heat/)** | **[Broadcast Intern (Season-long)](https://jobright.ai/jobs/info/6a5e5089f3674a0545d28370?utm_campaign=1053&utm_source=git)** | Miami, Florida, United States | On Site | Jul 20 |
 | **[Mercatus Center at George Mason University](http://mercatus.org)** | **[Production Intern](https://jobright.ai/jobs/info/6a5e897127bf767ea68f7795?utm_campaign=1053&utm_source=git)** | ARLINGTON, VA 22201 | Hybrid | Jul 20 |
-| ↳ | **[Production Intern](https://jobright.ai/jobs/info/6a5e86fa270e3033b045e6f1?utm_campaign=1053&utm_source=git)** | Arlington, VA, United States | Hybrid | Jul 20 |
-| **[Helium SEO](https://www.helium-seo.com/)** | **[Video Editor Intern](https://jobright.ai/jobs/info/6a5e8154050c423c792ef974?utm_campaign=1053&utm_source=git)** | Cincinnati, OH, United States | On Site | Jul 20 |
-| **[Tarte Cosmetics](https://tartecosmetics.com/)** | **[Fall 2026 Events Internship](https://jobright.ai/jobs/info/6a5e737427bf767ea68f6da4?utm_campaign=1053&utm_source=git)** | New York, New York, United States | On Site | Jul 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
