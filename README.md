@@ -57,13 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ATIA Ltd](https://atia.ba/en_US/)** | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a53a9428a74e077472f9300?utm_campaign=1053&utm_source=git)** | Portland, OR, United States | Remote | Jul 21 |
+| **[Gift](https://www.shine.gift)** | **[USC Music Community Intern](https://jobright.ai/jobs/info/6a6006828c7fd835513bc73d?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | Remote | Jul 21 |
+| **[Ripples Edge Media](http://RipplesEdgeMedia.com)** | **[Film/ Video Production (Videographer, Editor) Intern for Startup Video Production Company in the SF Bay Area](https://jobright.ai/jobs/info/6a58b7ae3ac7627fe9ffaaab?utm_campaign=1053&utm_source=git)** | San Francisco, CA, United States | On Site | Jul 21 |
+| **[Style On The Spot](http://www.StyleOnTheSpot.com)** | **[New York Fashion Week Intern](https://jobright.ai/jobs/info/6a600383f68dd368023ea0fa?utm_campaign=1053&utm_source=git)** | New York City metropolitan area, United States | Hybrid | Jul 21 |
 | **[Axis Communications](http://www.axis.com/)** | **[Events Production Intern (Fall/Winter)](https://jobright.ai/jobs/info/6a5facf0f68dd368023e7fc1?utm_campaign=1053&utm_source=git)** | Chelmsford, MA, United States of America | On Site | Jul 21 |
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a5ff9df193b51130967bf09?utm_campaign=1053&utm_source=git)** | Eau Claire, WI, United States | Remote | Jul 21 |
 | ↳ | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a5ff9d88c7fd835513bc51c?utm_campaign=1053&utm_source=git)** | Minneapolis, MN, United States | Remote | Jul 21 |
 | **[Fox Corporation](https://www.foxcorporation.com)** | **[TMZ Podcast Intern - Fall 2026](https://jobright.ai/jobs/info/6a5ff8f4f68dd368023e9ea8?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 21 |
 | **[New York Post](http://nypost.com/)** | **[Decider Features Intern](https://jobright.ai/jobs/info/6a5fd3adf68dd368023e8de4?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Jul 21 |
-| ↳ | **[Assistant Digital Production Intern](https://jobright.ai/jobs/info/6a5fcdb86e0c3c7c7d3d917a?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Jul 21 |
 | ↳ | **[Commerce Editorial Intern](https://jobright.ai/jobs/info/6a5fd96a33ef5c58b400079f?utm_campaign=1053&utm_source=git)** | New York, NY, United States of America | On Site | Jul 21 |
+| ↳ | **[Assistant Digital Production Intern](https://jobright.ai/jobs/info/6a5fcdb86e0c3c7c7d3d917a?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Jul 21 |
 | ↳ | **[Page Six Video Intern](https://jobright.ai/jobs/info/6a5fbc4b33ef5c58b4fffc1e?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Jul 21 |
 | ↳ | **[YouTube Intern](https://jobright.ai/jobs/info/6a5fc7daf68dd368023e8a48?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Jul 21 |
 | **[Open Road Integrated Media Inc.](http://www.openroadmedia.com)** | **[Content Writing Intern (PT/For-Credit)](https://jobright.ai/jobs/info/6a4d60d035e45603c4bb39c9?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Hybrid | Jul 21 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Russ & Daughters](http://www.russanddaughters.com)** | **[INTERNSHIP](https://jobright.ai/jobs/info/6a5bca514da96a42cfd9b256?utm_campaign=1053&utm_source=git)** | Store (New York, NY), United States | On Site | Jul 18 |
 | **[Axis Communications](http://www.axis.com/)** | **[Video Production Intern](https://jobright.ai/jobs/info/6a3e88e64d047136e0936834?utm_campaign=1053&utm_source=git)** | Chelmsford, MA, USA | On Site | Jul 18 |
 | ↳ | **[Video Production Intern](https://jobright.ai/jobs/info/6a56127ff7517b519ad53a47?utm_campaign=1053&utm_source=git)** | USA - MA - Chelmsford, United States of America | On Site | Jul 18 |
-| **[The Aparecio Foundation](https://www.apareciofoundation.org)** | **[Production Associate Intern/Volunteer](https://jobright.ai/jobs/info/6a5b731b4da96a42cfd9a5bf?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | On Site | Jul 18 |
-| **[Monumental Sports & Entertainment](http://www.monumentalsports.com/)** | **[Internship: Game Presentation (Part-Time/Seasonal)](https://jobright.ai/jobs/info/6a5b64a43ac7627fe90083cc?utm_campaign=1053&utm_source=git)** | Washington, DC 20004, United States | On Site | Jul 18 |
-| **[ASM Global](http://www.asmglobal.com)** | **[Hospitality Intern - The Meadows Music Theater](https://jobright.ai/jobs/info/6a510fcabf63b66c79978842?utm_campaign=1053&utm_source=git)** | Hartford, CT, United States | On Site | Jul 18 |
-| **[ATIA Ltd](https://atia.ba/en_US/)** | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a5b21d93ac7627fe9007849?utm_campaign=1053&utm_source=git)** | New Orleans, LA, United States | Remote | Jul 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
