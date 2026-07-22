@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ATIA Ltd](https://atia.ba/en_US/)** | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a56140befb06a45240d3c62?utm_campaign=1053&utm_source=git)** | Conway, AR, United States | Remote | Jul 21 |
+| ↳ | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a5943cb4da96a42cfd9036d?utm_campaign=1053&utm_source=git)** | Long Beach, CA, United States | Remote | Jul 21 |
 | **[MBJ Network](www.mbj-network.com)** | **[Video Editor - Intern](https://jobright.ai/jobs/info/6a60593a193c4d692385de49?utm_campaign=1053&utm_source=git)** | Lombard, IL, United States | Remote | Jul 21 |
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a604d4a71c79e639619ae26?utm_campaign=1053&utm_source=git)** | San Diego, CA, United States | Remote | Jul 21 |
 | ↳ | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a561426e9b77f668bd6158d?utm_campaign=1053&utm_source=git)** | Saint Paul, MN, United States | Remote | Jul 21 |
@@ -83,8 +85,8 @@ For a complete list, click the following sortable link below:
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a5ff9df193b51130967bf09?utm_campaign=1053&utm_source=git)** | Eau Claire, WI, United States | Remote | Jul 21 |
 | ↳ | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a5ff9d88c7fd835513bc51c?utm_campaign=1053&utm_source=git)** | Minneapolis, MN, United States | Remote | Jul 21 |
 | **[Fox Corporation](https://www.foxcorporation.com)** | **[TMZ Podcast Intern - Fall 2026](https://jobright.ai/jobs/info/6a5ff8f4f68dd368023e9ea8?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 21 |
-| **[New York Post](http://nypost.com/)** | **[Assistant Digital Production Intern](https://jobright.ai/jobs/info/6a5fcdb86e0c3c7c7d3d917a?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Jul 21 |
-| ↳ | **[Commerce Editorial Intern](https://jobright.ai/jobs/info/6a5fd96a33ef5c58b400079f?utm_campaign=1053&utm_source=git)** | New York, NY, United States of America | On Site | Jul 21 |
+| **[New York Post](http://nypost.com/)** | **[Commerce Editorial Intern](https://jobright.ai/jobs/info/6a5fd96a33ef5c58b400079f?utm_campaign=1053&utm_source=git)** | New York, NY, United States of America | On Site | Jul 21 |
+| ↳ | **[Assistant Digital Production Intern](https://jobright.ai/jobs/info/6a5fcdb86e0c3c7c7d3d917a?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Jul 21 |
 | ↳ | **[Decider Features Intern](https://jobright.ai/jobs/info/6a5fd3adf68dd368023e8de4?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Jul 21 |
 | ↳ | **[Page Six Video Intern](https://jobright.ai/jobs/info/6a5fbc4b33ef5c58b4fffc1e?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Jul 21 |
 | ↳ | **[YouTube Intern](https://jobright.ai/jobs/info/6a5fc7daf68dd368023e8a48?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Jul 21 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[West End Strategy Team](https://westendstrategy.com)** | **[Paid Intern - Fall 2026](https://jobright.ai/jobs/info/6a5e32ad67b2850e77defa30?utm_campaign=1053&utm_source=git)** | Washington, District of Columbia, United States | Hybrid | Jul 20 |
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a5e193f27bf767ea68f4c9a?utm_campaign=1053&utm_source=git)** | Memphis, TN, United States | Remote | Jul 20 |
 | **[Prophet](http://www.prophet.com)** | **[2026 Chicago Internship](https://jobright.ai/jobs/info/6a5df575f29acc1a11744db5?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | On Site | Jul 20 |
-| ↳ | **[UNC - 2026 Internship](https://jobright.ai/jobs/info/6a5df56027bf767ea68f4237?utm_campaign=1053&utm_source=git)** | Atlanta, Georgia, United States | On Site | Jul 20 |
-| ↳ | **[2026 San Francisco Internship](https://jobright.ai/jobs/info/6a5df55c27bf767ea68f4236?utm_campaign=1053&utm_source=git)** | San Francisco, California, United States | On Site | Jul 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
