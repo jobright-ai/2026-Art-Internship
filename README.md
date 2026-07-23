@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hearst Television](http://www.hearsttelevision.com)** | **[2026 WLWT Sports Intern](https://jobright.ai/jobs/info/6a6152e6eaa37f43e75881be?utm_campaign=1053&utm_source=git)** | Cincinnati, OH, United States | On Site | Jul 22 |
+| **[ATIA Ltd](https://atia.ba/en_US/)** | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a510671ae4052672fe96351?utm_campaign=1053&utm_source=git)** | Lubbock, TX, United States | Remote | Jul 22 |
+| **[GRAMMY Museum](https://grammymuseum.org/)** | **[Intern, Songwriters & Composers Wing](https://jobright.ai/jobs/info/6a601b838c7fd835513bcce7?utm_campaign=1053&utm_source=git)** | Nashville, TN, United States | On Site | Jul 22 |
 | **[Barry Katz Entertainment](http://www.barrykatz.com)** | **[Barry Katz Entertainment Internship](https://jobright.ai/jobs/info/6a6144447196365a6f009e9d?utm_campaign=1053&utm_source=git)** | Malibu, CA, United States | Hybrid | Jul 22 |
 | **[Karis Consulting Group](https://www.karisconsultinggroup.com)** | **[Fall Programming Intern](https://jobright.ai/jobs/info/6a613b69d51f6101c8fba6d4?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Remote | Jul 22 |
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a61387b7196365a6f009890?utm_campaign=1053&utm_source=git)** | Atlanta, GA, United States | Remote | Jul 22 |
@@ -68,6 +71,7 @@ For a complete list, click the following sortable link below:
 | **[Golden Hippo®](https://www.huntrealestate.com/)** | **[Testimonial Video Editor Intern](https://jobright.ai/jobs/info/6a5542ab4119652ff386468e?utm_campaign=1053&utm_source=git)** | Woodland Hills, CA, United States | On Site | Jul 22 |
 | **[Hasana, Inc.](http://shophasana.com)** | **[Film & Video Internship](https://jobright.ai/jobs/info/6a5997544da96a42cfd91dd0?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 22 |
 | **[Golden Hippo®](https://www.huntrealestate.com/)** | **[Video Editing Intern](https://jobright.ai/jobs/info/6a565bfbe9b77f668bd62c38?utm_campaign=1053&utm_source=git)** | Woodland Hills, CA, United States | Hybrid | Jul 22 |
+| **[adyn](https://www.adyn.com/)** | **[DIGITAL STORYTELLING INTERN](https://jobright.ai/jobs/info/6a61555c7196365a6f00a625?utm_campaign=1053&utm_source=git)** | United States | Remote | Jul 22 |
 | **[American Tower](https://www.americantower.com/)** | **[Media Room Assistant Internship](https://jobright.ai/jobs/info/6a6142e511edf44d7915fd17?utm_campaign=1053&utm_source=git)** | Boston, MA, United States | On Site | Jul 22 |
 | **[Arul Health](https://www.arulhealth.com/)** | **[Content Intern](https://jobright.ai/jobs/info/6a613e7411edf44d7915fb0c?utm_campaign=1053&utm_source=git)** | Boston, MA, United States | On Site | Jul 22 |
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a60fdd911edf44d7915ef95?utm_campaign=1053&utm_source=git)** | Louisville, KY, United States | Remote | Jul 22 |
@@ -108,7 +112,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a601df96e0c3c7c7d3dacad?utm_campaign=1053&utm_source=git)** | Fresno, CA, United States | Remote | Jul 21 |
 | ↳ | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a601df1f68dd368023ea743?utm_campaign=1053&utm_source=git)** | Lexington, KY, United States | Remote | Jul 21 |
 | ↳ | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a601dee193b51130967c72b?utm_campaign=1053&utm_source=git)** | Aurora, CO, United States | Remote | Jul 21 |
-| **[GRAMMY Museum](https://grammymuseum.org/)** | **[Intern, Songwriters & Composers Wing](https://jobright.ai/jobs/info/6a601b838c7fd835513bcce7?utm_campaign=1053&utm_source=git)** | Nashville, TN, United States of America | On Site | Jul 21 |
 | **[The Aparecio Foundation](https://www.apareciofoundation.org)** | **[Writers & Journalists Intern/Volunteer](https://jobright.ai/jobs/info/6a601af5b0f20036bc634d48?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | On Site | Jul 21 |
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a53a9428a74e077472f9300?utm_campaign=1053&utm_source=git)** | Portland, OR, United States | Remote | Jul 21 |
 | **[Gift](https://www.shine.gift)** | **[USC Music Community Intern](https://jobright.ai/jobs/info/6a6006828c7fd835513bc73d?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | Remote | Jul 21 |
@@ -118,8 +121,8 @@ For a complete list, click the following sortable link below:
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a5ff9df193b51130967bf09?utm_campaign=1053&utm_source=git)** | Eau Claire, WI, United States | Remote | Jul 21 |
 | ↳ | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a5ff9d88c7fd835513bc51c?utm_campaign=1053&utm_source=git)** | Minneapolis, MN, United States | Remote | Jul 21 |
 | **[Fox Corporation](https://www.foxcorporation.com)** | **[TMZ Podcast Intern - Fall 2026](https://jobright.ai/jobs/info/6a5ff8f4f68dd368023e9ea8?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 21 |
-| **[New York Post](http://nypost.com/)** | **[Decider Features Intern](https://jobright.ai/jobs/info/6a5fd3adf68dd368023e8de4?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Jul 21 |
-| ↳ | **[Commerce Editorial Intern](https://jobright.ai/jobs/info/6a5fd96a33ef5c58b400079f?utm_campaign=1053&utm_source=git)** | New York, NY, United States of America | On Site | Jul 21 |
+| **[New York Post](http://nypost.com/)** | **[Commerce Editorial Intern](https://jobright.ai/jobs/info/6a5fd96a33ef5c58b400079f?utm_campaign=1053&utm_source=git)** | New York, NY, United States of America | On Site | Jul 21 |
+| ↳ | **[Decider Features Intern](https://jobright.ai/jobs/info/6a5fd3adf68dd368023e8de4?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Jul 21 |
 | ↳ | **[Assistant Digital Production Intern](https://jobright.ai/jobs/info/6a5fcdb86e0c3c7c7d3d917a?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Jul 21 |
 | ↳ | **[Page Six Video Intern](https://jobright.ai/jobs/info/6a5fbc4b33ef5c58b4fffc1e?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Jul 21 |
 | ↳ | **[YouTube Intern](https://jobright.ai/jobs/info/6a5fc7daf68dd368023e8a48?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Jul 21 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[MBJ Network](www.mbj-network.com)** | **[Assistant Editor- Intern](https://jobright.ai/jobs/info/6a5f566df68dd368023e62c0?utm_campaign=1053&utm_source=git)** | Lombard, IL, United States | Remote | Jul 21 |
 | **[World of Dance](http://www.worldofdance.com)** | **[Video Content Curator Intern](https://jobright.ai/jobs/info/6a57d521e9b77f668bd6b278?utm_campaign=1053&utm_source=git)** | Cerritos, CA, United States | On Site | Jul 21 |
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a5370df9fbdab22fe13f640?utm_campaign=1053&utm_source=git)** | Blacksburg, VA, United States | Remote | Jul 21 |
-| ↳ | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a5273ee8ef95364ead8e7ab?utm_campaign=1053&utm_source=git)** | Waco, TX, United States | Remote | Jul 21 |
-| ↳ | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a50ea5d8d7d3e6cf1cbd616?utm_campaign=1053&utm_source=git)** | Richmond, IN, United States | Remote | Jul 21 |
-| ↳ | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a5f3d24b4125b2822e3f69a?utm_campaign=1053&utm_source=git)** | Tucson, AZ, United States | Remote | Jul 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
