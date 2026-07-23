@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Center for Strategic and International Studies (CSIS)](https://www.csis.org)** | **[Multimedia Production Intern](https://jobright.ai/jobs/info/6a62368e846162391c9346c1?utm_campaign=1053&utm_source=git)** | Washington, D.C., United States | On Site | Jul 23 |
 | **[Arroyo Seco Saints](https://arroyosecosaints.com)** | **[Team Videographer/Video Editor Intern (California Collegiate League)](https://jobright.ai/jobs/info/6a62213ef805ef6ff4230f98?utm_campaign=1053&utm_source=git)** | Pasadena, CA, United States | Hybrid | Jul 23 |
 | **[Sourcebooks](http://www.sourcebooks.com/)** | **[Fall Internship - Managing Editorial (Remote)](https://jobright.ai/jobs/info/6a5e807a050c423c792ef8e8?utm_campaign=1053&utm_source=git)** | Naperville, IL, United States | Remote | Jul 23 |
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a56081753b3962b910ad915?utm_campaign=1053&utm_source=git)** | Jonesboro, AR, United States | Remote | Jul 23 |
@@ -107,7 +108,6 @@ For a complete list, click the following sortable link below:
 | **[The Intellectual Property Corporation](http://www.theipcorp.com)** | **[Editorial Intern](https://jobright.ai/jobs/info/6a54a5e2e726ec56126aaf2d?utm_campaign=1053&utm_source=git)** | Van Nuys, CA, United States | On Site | Jul 22 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Intern - KOIN / KRCW - Portland, OR (Unpaid)](https://jobright.ai/jobs/info/6a526c03d007ee02d95f77ac?utm_campaign=1053&utm_source=git)** | OR, Portland, United States of America | On Site | Jul 22 |
 | **[Evolve Studios®](https://evolve.studio)** | **[Assistant Editor Internship](https://jobright.ai/jobs/info/6a42d4796a9c2774b3fa77aa?utm_campaign=1053&utm_source=git)** | Franklin, TN, United States | On Site | Jul 22 |
-| **[MachinePulse](https://www.machinepulse.ai/)** | **[AI Startup 丨Content Writer Intern](https://jobright.ai/jobs/info/6a60d272c752926c226824a2?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Jul 22 |
 | **[rag & bone](http://www.rag-bone.com)** | **[Fall 2026 Intern - Footwear/Accessories Production](https://jobright.ai/jobs/info/6a60cf0ee3f5ff347d7c5a7a?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Jul 22 |
 | **[David Zwirner](http://www.davidzwirner.com/)** | **[Museum & Institutional Partnerships Intern](https://jobright.ai/jobs/info/6a5939a3856af468ab002873?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Jul 22 |
 | **[Atlanta Gladiators](http://atlantagladiators.com)** | **[Social Media Videography Intern: In Season](https://jobright.ai/jobs/info/6a60cb3ec752926c22682282?utm_campaign=1053&utm_source=git)** | Duluth, GA, United States | On Site | Jul 22 |
@@ -146,8 +146,8 @@ For a complete list, click the following sortable link below:
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a5ff9df193b51130967bf09?utm_campaign=1053&utm_source=git)** | Eau Claire, WI, United States | Remote | Jul 21 |
 | ↳ | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a5ff9d88c7fd835513bc51c?utm_campaign=1053&utm_source=git)** | Minneapolis, MN, United States | Remote | Jul 21 |
 | **[Fox Corporation](https://www.foxcorporation.com)** | **[TMZ Podcast Intern - Fall 2026](https://jobright.ai/jobs/info/6a5ff8f4f68dd368023e9ea8?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 21 |
-| **[New York Post](http://nypost.com/)** | **[Commerce Editorial Intern](https://jobright.ai/jobs/info/6a5fd96a33ef5c58b400079f?utm_campaign=1053&utm_source=git)** | New York, NY, United States of America | On Site | Jul 21 |
-| ↳ | **[Decider Features Intern](https://jobright.ai/jobs/info/6a5fd3adf68dd368023e8de4?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Jul 21 |
+| **[New York Post](http://nypost.com/)** | **[Decider Features Intern](https://jobright.ai/jobs/info/6a5fd3adf68dd368023e8de4?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Jul 21 |
+| ↳ | **[Commerce Editorial Intern](https://jobright.ai/jobs/info/6a5fd96a33ef5c58b400079f?utm_campaign=1053&utm_source=git)** | New York, NY, United States of America | On Site | Jul 21 |
 | ↳ | **[Assistant Digital Production Intern](https://jobright.ai/jobs/info/6a5fcdb86e0c3c7c7d3d917a?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Jul 21 |
 | ↳ | **[Page Six Video Intern](https://jobright.ai/jobs/info/6a5fbc4b33ef5c58b4fffc1e?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Jul 21 |
 | ↳ | **[YouTube Intern](https://jobright.ai/jobs/info/6a5fc7daf68dd368023e8a48?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Jul 21 |
