@@ -57,13 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Warner Bros. Discovery](https://wbd.com)** | **[CNN Image+Sound Field Production Intern: DC - Fall 2026](https://jobright.ai/jobs/info/6a6194e8ab14335fc0f18b63?utm_campaign=1053&utm_source=git)** | Washington, DC, United States | Hybrid | Jul 22 |
+| ↳ | **[CNN & TNT Sports Inclusion Intern: ATL - Fall 2026](https://jobright.ai/jobs/info/6a6166887196365a6f00ab0d?utm_campaign=1053&utm_source=git)** | Atlanta, GA, United States | Hybrid | Jul 22 |
+| **[ATIA Ltd](https://atia.ba/en_US/)** | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a5927c04da96a42cfd8f7b4?utm_campaign=1053&utm_source=git)** | Riverside, CA, United States | Remote | Jul 22 |
+| **[Mitratech Trakstar](http://www.trakstar.com)** | **[Videography Intern](https://jobright.ai/jobs/info/6a55bacbfdf4fa71202b447d?utm_campaign=1053&utm_source=git)** | Suwanee, GA, United States | On Site | Jul 22 |
 | **[Monumental Sports & Entertainment](http://www.monumentalsports.com/)** | **[Internship: Event Production (Part-Time/Seasonal)](https://jobright.ai/jobs/info/6a618a7feaa37f43e75890c3?utm_campaign=1053&utm_source=git)** | Washington, DC, United States | On Site | Jul 22 |
 | **[Red Bull New York](http://www.newyorkredbulls.com)** | **[2026 Internship, Fall - Creative Video](https://jobright.ai/jobs/info/6a61783111edf44d79160f81?utm_campaign=1053&utm_source=git)** | Harrison, NJ, United States | On Site | Jul 22 |
 | **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a6173edd51f6101c8fbbc35?utm_campaign=1053&utm_source=git)** | Newark, NJ, United States | On Site | Jul 22 |
 | **[Red Bull](https://www.redbull.com/br-pt/amz-tipiti)** | **[2026 Internship, Fall - Creative Video](https://jobright.ai/jobs/info/6a6168a8eaa37f43e75887cb?utm_campaign=1053&utm_source=git)** | Harrison, NJ, United States | On Site | Jul 22 |
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a51bf8b02522b5b722eaccc?utm_campaign=1053&utm_source=git)** | Tulsa, OK, United States | Remote | Jul 22 |
 | ↳ | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a616742eaa37f43e7588721?utm_campaign=1053&utm_source=git)** | Knoxville, TN, United States | Remote | Jul 22 |
-| **[Warner Bros. Discovery](https://wbd.com)** | **[CNN & TNT Sports Inclusion Intern: ATL - Fall 2026](https://jobright.ai/jobs/info/6a6166887196365a6f00ab0d?utm_campaign=1053&utm_source=git)** | Atlanta, GA, United States | Hybrid | Jul 22 |
 | **[Red Bull](https://www.redbull.com/br-pt/amz-tipiti)** | **[2026 Internship, Summer - Creative Video](https://jobright.ai/jobs/info/6a615cff11edf44d7916072e?utm_campaign=1053&utm_source=git)** | Harrison, NJ, United States | On Site | Jul 22 |
 | **[American Tower](https://www.americantower.com/)** | **[Media Room Assistant Internship](https://jobright.ai/jobs/info/6a6142e511edf44d7915fd17?utm_campaign=1053&utm_source=git)** | Boston, MA, United States | On Site | Jul 22 |
 | **[Hearst Television](http://www.hearsttelevision.com)** | **[2026 WLWT Sports Intern](https://jobright.ai/jobs/info/6a6152e6eaa37f43e75881be?utm_campaign=1053&utm_source=git)** | Cincinnati, OH, United States | On Site | Jul 22 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Times News Media Group](https://www.tnonline.com)** | **[Fall Technical News Internship](https://jobright.ai/jobs/info/6a5f84cf33ef5c58b4ffe5cd?utm_campaign=1053&utm_source=git)** | Lehighton, PA, United States | On Site | Jul 21 |
 | **[Hearst Newspapers](https://eevd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_15)** | **[2026 WLWT Sports Intern](https://jobright.ai/jobs/info/6a5f847f8c7fd835513b95b3?utm_campaign=1053&utm_source=git)** | Cincinnati, OH, United States | On Site | Jul 21 |
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a5f16bbf29acc1a1174a5ae?utm_campaign=1053&utm_source=git)** | St. Louis, MO, United States | Remote | Jul 21 |
-| **[The Dispatch](https://thedispatch.com/)** | **[Fall 2026 Multimedia Internship](https://jobright.ai/jobs/info/6a591d8d4da96a42cfd8f224?utm_campaign=1053&utm_source=git)** | United States | Remote | Jul 21 |
-| **[SeatSwap, Inc.](https://seatswaptickets.com/)** | **[SeatSwap Fall Internship](https://jobright.ai/jobs/info/6a5f81596e0c3c7c7d3d733c?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Jul 21 |
-| **[Austin PBS](http://www.austinpbs.org)** | **[Internship / Production Intern](https://jobright.ai/jobs/info/6a5f7a3cf68dd368023e6bda?utm_campaign=1053&utm_source=git)** | Austin, TX, United States | On Site | Jul 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
