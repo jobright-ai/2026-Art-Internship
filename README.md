@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ATIA Ltd](https://atia.ba/en_US/)** | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a5a08b44da96a42cfd93c48?utm_campaign=1053&utm_source=git)** | Austin, TX, United States | Remote | Jul 23 |
 | **[Client Engagement Academy - We Produce Better Lives™](https://www.clientengagementacademy.com/)** | **[Office Intern](https://jobright.ai/jobs/info/6a55f5e1e9b77f668bd5ff27?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Jul 22 |
 | **[Friends University](http://www.friends.edu/)** | **[FY25 Graduate Assistant Intern - (Remote) Content Creation - Short-Form Video Coordinator (381)](https://jobright.ai/jobs/info/6a5dc404686b4755d1e1f0d2?utm_campaign=1053&utm_source=git)** | Wichita, KS, United States | On Site | Jul 22 |
 | **[Prophet](http://www.prophet.com)** | **[2026 Chicago Internship](https://jobright.ai/jobs/info/6a5df575f29acc1a11744db5?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | On Site | Jul 22 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a5fbdf68c7fd835513bad6f?utm_campaign=1053&utm_source=git)** | Boston, MA, United States | Remote | Jul 21 |
 | **[TASTE Productions](http://www.tastewithkevin.com/)** | **[ASSISTANT EDITOR INTERN](https://jobright.ai/jobs/info/6a5fb02133ef5c58b4fff72c?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Remote | Jul 21 |
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a576835efb06a45240da5c5?utm_campaign=1053&utm_source=git)** | Honolulu, HI, United States | Remote | Jul 21 |
-| ↳ | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a54e07371848b0020433b80?utm_campaign=1053&utm_source=git)** | Columbia, MO, United States | Remote | Jul 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
