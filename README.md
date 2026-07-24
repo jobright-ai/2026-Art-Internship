@@ -57,8 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[WETA](https://weta.org/)** | **[Digital Media: Local History Intern](https://jobright.ai/jobs/info/6a500aa0f57ed168c3417d5c?utm_campaign=1053&utm_source=git)** | Arlington, VA, United States | On Site | Jul 23 |
 | **[Stewart Talent](https://www.stewarttalent.com)** | **[Stewart Talent LA - Fall 2026 Internship](https://jobright.ai/jobs/info/6a627bc41e089c0cc884cc80?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | Remote | Jul 23 |
 | **[Arroyo Seco Saints](https://arroyosecosaints.com)** | **[Sports Journalism Intern (California Collegiate League)](https://jobright.ai/jobs/info/6a627682c28982326de96ce1?utm_campaign=1053&utm_source=git)** | Pasadena, CA, United States | On Site | Jul 23 |
+| **[HYPEBEAST](http://hypebeast.com)** | **[Editorial Intern](https://jobright.ai/jobs/info/6a5adf5e856af468ab00a4c6?utm_campaign=1053&utm_source=git)** | New York | On Site | Jul 23 |
 | **[adyn](https://www.adyn.com/)** | **[DIGITAL STORYTELLING INTERN](https://jobright.ai/jobs/info/6a625c87846162391c935555?utm_campaign=1053&utm_source=git)** | United States | Remote | Jul 23 |
 | **[The University of Texas at Austin](http://www.texasenterprise.utexas.edu/)** | **[UEE Event Logistics Student Intern](https://jobright.ai/jobs/info/6a625439f805ef6ff4232291?utm_campaign=1053&utm_source=git)** | Austin, TX, United States | On Site | Jul 23 |
 | **[Operation Smile](http://www.operationsmile.org)** | **[Writing Internship - Operation Smile ILC](https://jobright.ai/jobs/info/696883c31703f05405aa42b9?utm_campaign=1053&utm_source=git)** | Virginia Beach, VA, United States | On Site | Jul 23 |
@@ -84,7 +86,6 @@ For a complete list, click the following sortable link below:
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a5927c04da96a42cfd8f7b4?utm_campaign=1053&utm_source=git)** | Riverside, CA, United States | Remote | Jul 22 |
 | **[Mitratech Trakstar](http://www.trakstar.com)** | **[Videography Intern](https://jobright.ai/jobs/info/6a55bacbfdf4fa71202b447d?utm_campaign=1053&utm_source=git)** | Suwanee, GA, United States | On Site | Jul 22 |
 | **[Monumental Sports & Entertainment](http://www.monumentalsports.com/)** | **[Internship: Event Production (Part-Time/Seasonal)](https://jobright.ai/jobs/info/6a618a7feaa37f43e75890c3?utm_campaign=1053&utm_source=git)** | Washington, DC, United States | On Site | Jul 22 |
-| **[ONEBIT](https://onebitapp.com/)** | **[Video Production Intern](https://jobright.ai/jobs/info/6a61b97d11edf44d79161e73?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | Hybrid | Jul 22 |
 | **[Red Bull New York](http://www.newyorkredbulls.com)** | **[2026 Internship, Fall - Creative Video](https://jobright.ai/jobs/info/6a61783111edf44d79160f81?utm_campaign=1053&utm_source=git)** | Harrison, NJ, United States | On Site | Jul 22 |
 | **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a6173edd51f6101c8fbbc35?utm_campaign=1053&utm_source=git)** | Newark, NJ, United States | On Site | Jul 22 |
 | **[Red Bull](https://www.redbull.com/ph-en/)** | **[2026 Internship, Fall - Creative Video](https://jobright.ai/jobs/info/6a6168a8eaa37f43e75887cb?utm_campaign=1053&utm_source=git)** | Harrison, NJ, United States | On Site | Jul 22 |
@@ -136,7 +137,6 @@ For a complete list, click the following sortable link below:
 | **[AntiFragile Music](https://www.antifragilemusic.com/)** | **[Music Catalog Research Intern](https://jobright.ai/jobs/info/6a605427193c4d692385dd4f?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Remote | Jul 21 |
 | **[HUSH](http://heyhush.com/)** | **[Intern: Production](https://jobright.ai/jobs/info/6a60291033ef5c58b4001f27?utm_campaign=1053&utm_source=git)** | Brooklyn, NY, United States | On Site | Jul 21 |
 | **[TMZ](http://www.tmz.com/)** | **[TMZ Podcast Intern - Fall 2026](https://jobright.ai/jobs/info/6a603b8171c79e639619aadf?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 21 |
-| **[Oakridge](https://oakridge.ltd)** | **[Social Media intern for Film Development and Film Production](https://jobright.ai/jobs/info/6a601f3b8c7fd835513bcd5d?utm_campaign=1053&utm_source=git)** | Los Angeles metropolitan area, United States | Remote | Jul 21 |
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a601dfd6e0c3c7c7d3dacae?utm_campaign=1053&utm_source=git)** | Fayetteville, AR, United States | Remote | Jul 21 |
 | ↳ | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a601df96e0c3c7c7d3dacad?utm_campaign=1053&utm_source=git)** | Fresno, CA, United States | Remote | Jul 21 |
 | ↳ | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a601df1f68dd368023ea743?utm_campaign=1053&utm_source=git)** | Lexington, KY, United States | Remote | Jul 21 |
@@ -148,9 +148,9 @@ For a complete list, click the following sortable link below:
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a5ff9df193b51130967bf09?utm_campaign=1053&utm_source=git)** | Eau Claire, WI, United States | Remote | Jul 21 |
 | ↳ | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a5ff9d88c7fd835513bc51c?utm_campaign=1053&utm_source=git)** | Minneapolis, MN, United States | Remote | Jul 21 |
 | **[Fox Corporation](https://www.foxcorporation.com)** | **[TMZ Podcast Intern - Fall 2026](https://jobright.ai/jobs/info/6a5ff8f4f68dd368023e9ea8?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 21 |
-| **[New York Post](http://nypost.com/)** | **[Decider Features Intern](https://jobright.ai/jobs/info/6a5fd3adf68dd368023e8de4?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Jul 21 |
+| **[New York Post](http://nypost.com/)** | **[Commerce Editorial Intern](https://jobright.ai/jobs/info/6a5fd96a33ef5c58b400079f?utm_campaign=1053&utm_source=git)** | New York, NY, United States of America | On Site | Jul 21 |
+| ↳ | **[Decider Features Intern](https://jobright.ai/jobs/info/6a5fd3adf68dd368023e8de4?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Jul 21 |
 | ↳ | **[Assistant Digital Production Intern](https://jobright.ai/jobs/info/6a5fcdb86e0c3c7c7d3d917a?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Jul 21 |
-| ↳ | **[Commerce Editorial Intern](https://jobright.ai/jobs/info/6a5fd96a33ef5c58b400079f?utm_campaign=1053&utm_source=git)** | New York, NY, United States of America | On Site | Jul 21 |
 | ↳ | **[Page Six Video Intern](https://jobright.ai/jobs/info/6a5fbc4b33ef5c58b4fffc1e?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Jul 21 |
 | ↳ | **[YouTube Intern](https://jobright.ai/jobs/info/6a5fc7daf68dd368023e8a48?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Jul 21 |
 | **[Open Road Integrated Media Inc.](http://www.openroadintegratedmedia.com)** | **[Content Writing Intern (PT/For-Credit)](https://jobright.ai/jobs/info/6a4d60d035e45603c4bb39c9?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Hybrid | Jul 21 |
