@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The University of Texas at Austin](http://www.texasenterprise.utexas.edu/)** | **[Editorial Student Intern, Marketing and Communication, Moody College of Communication](https://jobright.ai/jobs/info/6a6367d70c8e2b4f36dcdc59?utm_campaign=1053&utm_source=git)** | UT Main Campus, United States | Hybrid | Jul 24 |
+| **[Melara Enterprises](http://www.melaraenterprises.com)** | **[225 Magazine Editorial or Photography Intern](https://jobright.ai/jobs/info/6a55cffc05c65f7c8f4c8097?utm_campaign=1053&utm_source=git)** | Baton Rouge, LA, United States | On Site | Jul 24 |
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a538cf6d007ee02d95fbc1a?utm_campaign=1053&utm_source=git)** | Nacogdoches, TX, United States | Remote | Jul 24 |
 | ↳ | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a635178e8d8d22e329283ff?utm_campaign=1053&utm_source=git)** | Cedar Falls, IA, United States | Remote | Jul 24 |
 | **[The Aparecio Foundation](https://www.apareciofoundation.org)** | **[Bookings Associate Intern/Volunteer](https://jobright.ai/jobs/info/6a634fafe8d8d22e329283e0?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Jul 24 |
@@ -76,8 +78,8 @@ For a complete list, click the following sortable link below:
 | **[The Aparecio Foundation](https://www.apareciofoundation.org)** | **[Production Associate Intern/Volunteer](https://jobright.ai/jobs/info/6a5b731b4da96a42cfd9a5bf?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | On Site | Jul 23 |
 | **[Monumental Sports & Entertainment](http://www.monumentalsports.com/)** | **[Internship: Game Presentation (Part-Time/Seasonal)](https://jobright.ai/jobs/info/6a5b64a43ac7627fe90083cc?utm_campaign=1053&utm_source=git)** | Washington, DC, United States | On Site | Jul 23 |
 | **[boldSOCKS](https://www.boldsocks.com/)** | **[Video Production Intern](https://jobright.ai/jobs/info/6a55d37414f1040fa611cb3d?utm_campaign=1053&utm_source=git)** | Grand Rapids, MI, United States | On Site | Jul 23 |
-| **[ATIA Ltd](https://atia.ba/en_US/)** | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a5a08d6c8e3a473cb8a999d?utm_campaign=1053&utm_source=git)** | Oakland, CA, United States | Remote | Jul 23 |
-| ↳ | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a55d04f2ce8bf79a13a15ce?utm_campaign=1053&utm_source=git)** | Kalamazoo, MI, United States | Remote | Jul 23 |
+| **[ATIA Ltd](https://atia.ba/en_US/)** | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a55d04f2ce8bf79a13a15ce?utm_campaign=1053&utm_source=git)** | Kalamazoo, MI, United States | Remote | Jul 23 |
+| ↳ | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a5a08d6c8e3a473cb8a999d?utm_campaign=1053&utm_source=git)** | Oakland, CA, United States | Remote | Jul 23 |
 | ↳ | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a55d01e05c65f7c8f4c813f?utm_campaign=1053&utm_source=git)** | Ashland, OH, United States | Remote | Jul 23 |
 | **[Pearl West](https://www.pearlwestgroup.com)** | **[TikTok Shop Intern](https://jobright.ai/jobs/info/6a62ad201e089c0cc884dc5b?utm_campaign=1053&utm_source=git)** | Vancouver, BC, Canada | Hybrid | Jul 23 |
 | **[The Aparecio Foundation](https://www.apareciofoundation.org)** | **[Copy Editor Intern/Volunteer](https://jobright.ai/jobs/info/6a56b40cefb06a45240d7a43?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Jul 23 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a56140befb06a45240d3c62?utm_campaign=1053&utm_source=git)** | Conway, AR, United States | Remote | Jul 21 |
 | **[New York Post](http://nypost.com/)** | **[Commerce Editorial Intern, Fall 2026 (10 weeks, 24 hours a week)](https://jobright.ai/jobs/info/6a5fd96a33ef5c58b400079f?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Jul 21 |
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a5943cb4da96a42cfd9036d?utm_campaign=1053&utm_source=git)** | Long Beach, CA, United States | Remote | Jul 21 |
-| **[MBJ Network](www.mbj-network.com)** | **[Video Editor - Intern](https://jobright.ai/jobs/info/6a60593a193c4d692385de49?utm_campaign=1053&utm_source=git)** | Lombard, IL, United States | Remote | Jul 21 |
-| **[ATIA Ltd](https://atia.ba/en_US/)** | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a604d4a71c79e639619ae26?utm_campaign=1053&utm_source=git)** | San Diego, CA, United States | Remote | Jul 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
