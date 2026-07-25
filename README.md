@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ATIA Ltd](https://atia.ba/en_US/)** | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a51d998ae4052672fe9be3a?utm_campaign=1053&utm_source=git)** | Fort Worth, TX, United States | Remote | Jul 24 |
+| **[Magnet Media, Inc.](http://www.magnetmediafilms.com)** | **[Production Intern Fall 2026](https://jobright.ai/jobs/info/6a54a9288215bf1b856b68e1?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Jul 24 |
+| **[Conner Prairie](http://www.connerprairie.org)** | **[Collections Intern - Fall 2026 - $14/hour up to 180 hours](https://jobright.ai/jobs/info/6a63eb375c7e2d715ebaeb61?utm_campaign=1053&utm_source=git)** | Fishers, IN, United States | On Site | Jul 24 |
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a521f528ef95364ead8cf6c?utm_campaign=1053&utm_source=git)** | Raleigh, NC, United States | Remote | Jul 24 |
 | ↳ | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a51e09978e364789ca5e4bc?utm_campaign=1053&utm_source=git)** | Cookeville, TN, United States | Remote | Jul 24 |
 | **[The Aparecio Foundation](https://www.apareciofoundation.org)** | **[Bookings Associate Intern/Volunteer](https://jobright.ai/jobs/info/6a560491efb06a45240d30eb?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | On Site | Jul 24 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Arul Health](https://www.arulhealth.com/)** | **[Content Intern](https://jobright.ai/jobs/info/6a613e7411edf44d7915fb0c?utm_campaign=1053&utm_source=git)** | Boston, MA, United States | On Site | Jul 22 |
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a60fdd911edf44d7915ef95?utm_campaign=1053&utm_source=git)** | Louisville, KY, United States | Remote | Jul 22 |
 | **[Mercatus Center at George Mason University](http://mercatus.org)** | **[Production Intern](https://jobright.ai/jobs/info/6a5e897127bf767ea68f7795?utm_campaign=1053&utm_source=git)** | Arlington, VA, United States | Hybrid | Jul 22 |
-| **[ATIA Ltd](https://atia.ba/en_US/)** | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a55cfbffdf4fa71202b591b?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Remote | Jul 22 |
-| **[The Intellectual Property Corporation](http://www.theipcorp.com)** | **[Editorial Intern](https://jobright.ai/jobs/info/6a54a5e2e726ec56126aaf2d?utm_campaign=1053&utm_source=git)** | Van Nuys, CA, United States | On Site | Jul 22 |
-| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Intern - KOIN / KRCW - Portland, OR (Unpaid)](https://jobright.ai/jobs/info/6a526c03d007ee02d95f77ac?utm_campaign=1053&utm_source=git)** | OR, Portland, United States of America | On Site | Jul 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
