@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ATIA Ltd](https://atia.ba/en_US/)** | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a51231fae4052672fe97481?utm_campaign=1053&utm_source=git)** | South Bend, IN, United States | Remote | Jul 25 |
+| **[American Enterprise Institute](http://www.aei.org)** | **[Fall Intern: Economic Innovation and Editing](https://jobright.ai/jobs/info/6a5602a4e9b77f668bd6072c?utm_campaign=1053&utm_source=git)** | Washington, DC, United States | On Site | Jul 25 |
 | **[RefReps](https://refreps.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/6a6506400c8e2b4f36dd2f8c?utm_campaign=1053&utm_source=git)** | Zionsville, IN, United States | On Site | Jul 25 |
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a55d2902ce8bf79a13a1969?utm_campaign=1053&utm_source=git)** | Philadelphia, PA, United States | Remote | Jul 25 |
 | ↳ | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a53a9278a74e077472f92f9?utm_campaign=1053&utm_source=git)** | Denver, CO, United States | Remote | Jul 25 |
@@ -80,7 +82,6 @@ For a complete list, click the following sortable link below:
 | **[FC Cincinnati](http://www.fccincinnati.com)** | **[Event Operations Intern](https://jobright.ai/jobs/info/6a645c9d979290281c7060f2?utm_campaign=1053&utm_source=git)** | Cincinnati, OH, United States | On Site | Jul 24 |
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a5be6a84da96a42cfd9b60c?utm_campaign=1053&utm_source=git)** | Miami, FL, United States | Remote | Jul 24 |
 | **[MBJ Network](www.mbj-network.com)** | **[Staff Writer-Intern](https://jobright.ai/jobs/info/6a50f49e78e364789ca577e1?utm_campaign=1053&utm_source=git)** | Lombard, IL, United States | Remote | Jul 24 |
-| **[adyn](https://www.adyn.com/)** | **[DIGITAL STORYTELLING INTERN](https://jobright.ai/jobs/info/6a645ec55c7e2d715ebaffa6?utm_campaign=1053&utm_source=git)** | United States | Remote | Jul 24 |
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a50ea5f78e364789ca573ec?utm_campaign=1053&utm_source=git)** | Phoenix, AZ, United States | Remote | Jul 24 |
 | ↳ | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a51d998ae4052672fe9be3a?utm_campaign=1053&utm_source=git)** | Fort Worth, TX, United States | Remote | Jul 24 |
 | **[Magnet Media, Inc.](http://www.magnetmediafilms.com)** | **[Production Intern Fall 2026](https://jobright.ai/jobs/info/6a54a9288215bf1b856b68e1?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Jul 24 |
@@ -135,7 +136,7 @@ For a complete list, click the following sortable link below:
 | **[WETA](https://weta.org/)** | **[Digital Media: Local History Intern](https://jobright.ai/jobs/info/6a500aa0f57ed168c3417d5c?utm_campaign=1053&utm_source=git)** | Arlington, VA, United States | On Site | Jul 23 |
 | **[Stewart Talent](https://www.stewarttalent.com)** | **[Stewart Talent LA - Fall 2026 Internship](https://jobright.ai/jobs/info/6a627bc41e089c0cc884cc80?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | Remote | Jul 23 |
 | **[Arroyo Seco Saints](https://arroyosecosaints.com)** | **[Sports Journalism Intern (California Collegiate League)](https://jobright.ai/jobs/info/6a627682c28982326de96ce1?utm_campaign=1053&utm_source=git)** | Pasadena, CA, United States | On Site | Jul 23 |
-| **[HYPEBEAST](http://hypebeast.com)** | **[Editorial Intern](https://jobright.ai/jobs/info/6a5adf5e856af468ab00a4c6?utm_campaign=1053&utm_source=git)** | New York | On Site | Jul 23 |
+| **[HYPEBEAST](http://hypebeast.com)** | **[Editorial Intern](https://jobright.ai/jobs/info/6a2901a32d6c332ee52e9499?utm_campaign=1053&utm_source=git)** | New York | On Site | Jul 23 |
 | **[The University of Texas at Austin](https://www.jsg.utexas.edu/)** | **[UEE Event Logistics Student Intern](https://jobright.ai/jobs/info/6a625439f805ef6ff4232291?utm_campaign=1053&utm_source=git)** | Austin, TX, United States | On Site | Jul 23 |
 | **[Operation Smile](http://www.operationsmile.org)** | **[Writing Internship - Operation Smile ILC](https://jobright.ai/jobs/info/696883c31703f05405aa42b9?utm_campaign=1053&utm_source=git)** | Virginia Beach, VA, United States | On Site | Jul 23 |
 | **[American Psychological Association](http://apa.org/)** | **[Internships at APA - Film Editing Internship](https://jobright.ai/jobs/info/6a623ed6d5caab4af8bacae3?utm_campaign=1053&utm_source=git)** | Washington, DC, United States | Remote | Jul 23 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Aparecio Foundation](https://www.apareciofoundation.org)** | **[Advisory Board Member Intern/Volunteer](https://jobright.ai/jobs/info/6a53c39c8576ec69c0150d71?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | On Site | Jul 22 |
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a61ade7d51f6101c8fbc952?utm_campaign=1053&utm_source=git)** | Pittsburgh, PA, United States | Remote | Jul 22 |
 | ↳ | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a61a2007196365a6f00ba5c?utm_campaign=1053&utm_source=git)** | Memphis, TN, United States | Remote | Jul 22 |
-| **[Warner Bros. Discovery](https://wbd.com)** | **[CNN Image+Sound Field Production Intern: DC - Fall 2026](https://jobright.ai/jobs/info/6a6194e8ab14335fc0f18b63?utm_campaign=1053&utm_source=git)** | Washington, DC, United States | Hybrid | Jul 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
