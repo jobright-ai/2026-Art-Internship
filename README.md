@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ATIA Ltd](https://atia.ba/en_US/)** | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a57bac621f64463ad35b9e3?utm_campaign=1053&utm_source=git)** | Stillwater, OK, United States | Remote | Jul 26 |
+| ↳ | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a571260f7517b519ad58fae?utm_campaign=1053&utm_source=git)** | Cookeville, TN, United States | Remote | Jul 26 |
 | **[Good People Only](https://www.goodpeopleonly.com/)** | **[The Revels Group - 2026 Fall Internship](https://jobright.ai/jobs/info/6a667a0d979290281c70996e?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 26 |
 | **[Resources for the Future](http://www.rff.org/)** | **[Editorial Intern (Fall Semester)](https://jobright.ai/jobs/info/6a5a0c05856af468ab0068ce?utm_campaign=1053&utm_source=git)** | Washington, DC, United States | On Site | Jul 26 |
 | **[Wolf Trap Foundation for the Performing Arts](https://www.wolftrap.org/)** | **[Intern, Opera Artistic Administration (Fall 2026)](https://jobright.ai/jobs/info/6a55d2c614f1040fa611ca3b?utm_campaign=1053&utm_source=git)** | Vienna, VA, United States | Hybrid | Jul 26 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[boldSOCKS](https://www.boldsocks.com/)** | **[Video Production Intern](https://jobright.ai/jobs/info/6a55d37414f1040fa611cb3d?utm_campaign=1053&utm_source=git)** | Grand Rapids, MI, United States | On Site | Jul 23 |
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a5a08d6c8e3a473cb8a999d?utm_campaign=1053&utm_source=git)** | Oakland, CA, United States | Remote | Jul 23 |
 | ↳ | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a55d04f2ce8bf79a13a15ce?utm_campaign=1053&utm_source=git)** | Kalamazoo, MI, United States | Remote | Jul 23 |
-| ↳ | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a55d01e05c65f7c8f4c813f?utm_campaign=1053&utm_source=git)** | Ashland, OH, United States | Remote | Jul 23 |
-| **[Pearl West](https://www.pearlwestgroup.com)** | **[TikTok Shop Intern](https://jobright.ai/jobs/info/6a62ad201e089c0cc884dc5b?utm_campaign=1053&utm_source=git)** | Vancouver, BC, Canada | Hybrid | Jul 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
