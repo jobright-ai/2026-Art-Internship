@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Pasilobus](https://pasilobus.com/)** | **[Content Creator Intern (Part-Time)](https://jobright.ai/jobs/info/6a5385068576ec69c0150004?utm_campaign=1053&utm_source=git)** | United States | Remote | Jul 26 |
 | **[Golden Hippo®](http://goldenhippomedia.com)** | **[Testimonial Video Editor Intern](https://jobright.ai/jobs/info/6a555f6a268af95237beb476?utm_campaign=1053&utm_source=git)** | Woodland Hills, CA, United States | On Site | Jul 26 |
 | **[Highgate](https://www.highgate.com)** | **[Culinary Intern](https://jobright.ai/jobs/info/6a5882593330ca6f993c54bd?utm_campaign=1053&utm_source=git)** | Las Vegas, NV, United States | On Site | Jul 26 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Intern/News](https://jobright.ai/jobs/info/6a52fd288ef95364ead909bd?utm_campaign=1053&utm_source=git)** | Panama City, FL, United States | On Site | Jul 26 |
@@ -134,8 +135,8 @@ For a complete list, click the following sortable link below:
 | **[The Aparecio Foundation](https://www.apareciofoundation.org)** | **[Bookings Associate Intern/Volunteer](https://jobright.ai/jobs/info/6a634fafe8d8d22e329283e0?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Jul 24 |
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a513eb1ae4052672fe9834a?utm_campaign=1053&utm_source=git)** | Johnstown, Pennsylvania, United States | Remote | Jul 24 |
 | ↳ | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a52035678e364789ca5f1ec?utm_campaign=1053&utm_source=git)** | Lawrence, KS, United States | Remote | Jul 24 |
-| ↳ | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a531c9ae726ec56126a5bc8?utm_campaign=1053&utm_source=git)** | Corpus Christi, TX, United States | Remote | Jul 24 |
 | ↳ | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a55d2be14f1040fa611ca07?utm_campaign=1053&utm_source=git)** | Charlotte, NC, United States | Remote | Jul 24 |
+| ↳ | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a531c9ae726ec56126a5bc8?utm_campaign=1053&utm_source=git)** | Corpus Christi, TX, United States | Remote | Jul 24 |
 | **[Hasana, Inc.](http://shophasana.com)** | **[Writers & Journalists Intern/Volunteer](https://jobright.ai/jobs/info/6a432e91cbf92c7bcd36e2b9?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | On Site | Jul 24 |
 | **[Launch That](http://launchthat.com)** | **[Editorial Intern](https://jobright.ai/jobs/info/6a6314b432abf9182432cd5e?utm_campaign=1053&utm_source=git)** | Orlando, FL, United States | Hybrid | Jul 24 |
 | **[Hasana, Inc.](http://shophasana.com)** | **[Volunteer/Intern: Film/Video Editor](https://jobright.ai/jobs/info/6a5ef849f29acc1a11749feb?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | On Site | Jul 23 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Hasana, Inc.](http://shophasana.com)** | **[Volunteer/Intern:Pro bono: Editor of "Party" Content in Felix](https://jobright.ai/jobs/info/6a62a8cdd5caab4af8baf2f4?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | On Site | Jul 23 |
 | **[NBCUniversal](https://www.nbcuniversal.com/)** | **[San Diego Station (NBC 7/T20) Digital Internship - Fall 2026](https://jobright.ai/jobs/info/6a42c1fa6faf756060967e1b?utm_campaign=1053&utm_source=git)** | San Diego, CA, United States | On Site | Jul 23 |
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a629f121e089c0cc884da6a?utm_campaign=1053&utm_source=git)** | Tuscaloosa, AL, United States | Remote | Jul 23 |
-| **[WETA](https://weta.org/)** | **[Digital Media: Local History Intern](https://jobright.ai/jobs/info/6a500aa0f57ed168c3417d5c?utm_campaign=1053&utm_source=git)** | Arlington, VA, United States | On Site | Jul 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
