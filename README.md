@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hasana, Inc.](http://shophasana.com)** | **[Street/Event Team Intern/Volunteer](https://jobright.ai/jobs/info/6a53c454e726ec56126a7eb5?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | On Site | Jul 25 |
 | **[Magnet Media, Inc.](http://www.magnetmediafilms.com)** | **[Production Intern Spring 2027](https://jobright.ai/jobs/info/6a42cfd01cc9cc2b12fece84?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Jul 25 |
 | **[Ever](https://evercars.com)** | **[Video Producer Internship](https://jobright.ai/jobs/info/6a5394bf8ef95364ead92a11?utm_campaign=1053&utm_source=git)** | San Francisco, CA, United States | On Site | Jul 25 |
 | **[Tumbling Dumpling Media](https://www.linkedin.com/company/109629621)** | **[Editorial Intern](https://jobright.ai/jobs/info/6a656fe58d536034496082e8?utm_campaign=1053&utm_source=git)** | United States | Remote | Jul 25 |
@@ -122,8 +123,8 @@ For a complete list, click the following sortable link below:
 | **[The Aparecio Foundation](https://www.apareciofoundation.org)** | **[Bookings Associate Intern/Volunteer](https://jobright.ai/jobs/info/6a634fafe8d8d22e329283e0?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Jul 24 |
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a513eb1ae4052672fe9834a?utm_campaign=1053&utm_source=git)** | Johnstown, Pennsylvania, United States | Remote | Jul 24 |
 | ↳ | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a52035678e364789ca5f1ec?utm_campaign=1053&utm_source=git)** | Lawrence, KS, United States | Remote | Jul 24 |
-| ↳ | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a531c9ae726ec56126a5bc8?utm_campaign=1053&utm_source=git)** | Corpus Christi, TX, United States | Remote | Jul 24 |
 | ↳ | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a55d2be14f1040fa611ca07?utm_campaign=1053&utm_source=git)** | Charlotte, NC, United States | Remote | Jul 24 |
+| ↳ | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a531c9ae726ec56126a5bc8?utm_campaign=1053&utm_source=git)** | Corpus Christi, TX, United States | Remote | Jul 24 |
 | **[Hasana, Inc.](http://shophasana.com)** | **[Writers & Journalists Intern/Volunteer](https://jobright.ai/jobs/info/6a432e91cbf92c7bcd36e2b9?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | On Site | Jul 24 |
 | **[Launch That](http://launchthat.com)** | **[Editorial Intern](https://jobright.ai/jobs/info/6a6314b432abf9182432cd5e?utm_campaign=1053&utm_source=git)** | Orlando, FL, United States | Hybrid | Jul 24 |
 | **[Hasana, Inc.](http://shophasana.com)** | **[Volunteer/Intern: Film/Video Editor](https://jobright.ai/jobs/info/6a5ef849f29acc1a11749feb?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | On Site | Jul 23 |
@@ -136,8 +137,8 @@ For a complete list, click the following sortable link below:
 | **[The Aparecio Foundation](https://www.apareciofoundation.org)** | **[Production Associate Intern/Volunteer](https://jobright.ai/jobs/info/6a5b731b4da96a42cfd9a5bf?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | On Site | Jul 23 |
 | **[Monumental Sports & Entertainment](http://www.monumentalsports.com/)** | **[Internship: Game Presentation (Part-Time/Seasonal)](https://jobright.ai/jobs/info/6a5b64a43ac7627fe90083cc?utm_campaign=1053&utm_source=git)** | Washington, DC, United States | On Site | Jul 23 |
 | **[boldSOCKS](https://www.boldsocks.com/)** | **[Video Production Intern](https://jobright.ai/jobs/info/6a55d37414f1040fa611cb3d?utm_campaign=1053&utm_source=git)** | Grand Rapids, MI, United States | On Site | Jul 23 |
-| **[ATIA Ltd](https://atia.ba/en_US/)** | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a55d04f2ce8bf79a13a15ce?utm_campaign=1053&utm_source=git)** | Kalamazoo, MI, United States | Remote | Jul 23 |
-| ↳ | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a5a08d6c8e3a473cb8a999d?utm_campaign=1053&utm_source=git)** | Oakland, CA, United States | Remote | Jul 23 |
+| **[ATIA Ltd](https://atia.ba/en_US/)** | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a5a08d6c8e3a473cb8a999d?utm_campaign=1053&utm_source=git)** | Oakland, CA, United States | Remote | Jul 23 |
+| ↳ | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a55d04f2ce8bf79a13a15ce?utm_campaign=1053&utm_source=git)** | Kalamazoo, MI, United States | Remote | Jul 23 |
 | ↳ | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a55d01e05c65f7c8f4c813f?utm_campaign=1053&utm_source=git)** | Ashland, OH, United States | Remote | Jul 23 |
 | **[Pearl West](https://www.pearlwestgroup.com)** | **[TikTok Shop Intern](https://jobright.ai/jobs/info/6a62ad201e089c0cc884dc5b?utm_campaign=1053&utm_source=git)** | Vancouver, BC, Canada | Hybrid | Jul 23 |
 | **[The Aparecio Foundation](https://www.apareciofoundation.org)** | **[Copy Editor Intern/Volunteer](https://jobright.ai/jobs/info/6a56b40cefb06a45240d7a43?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Jul 23 |
@@ -147,7 +148,7 @@ For a complete list, click the following sortable link below:
 | **[WETA](https://weta.org/)** | **[Digital Media: Local History Intern](https://jobright.ai/jobs/info/6a500aa0f57ed168c3417d5c?utm_campaign=1053&utm_source=git)** | Arlington, VA, United States | On Site | Jul 23 |
 | **[Stewart Talent](https://www.stewarttalent.com)** | **[Stewart Talent LA - Fall 2026 Internship](https://jobright.ai/jobs/info/6a627bc41e089c0cc884cc80?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | Remote | Jul 23 |
 | **[Arroyo Seco Saints](https://arroyosecosaints.com)** | **[Sports Journalism Intern (California Collegiate League)](https://jobright.ai/jobs/info/6a627682c28982326de96ce1?utm_campaign=1053&utm_source=git)** | Pasadena, CA, United States | On Site | Jul 23 |
-| **[HYPEBEAST](http://hypebeast.com)** | **[Editorial Intern](https://jobright.ai/jobs/info/6a2901a32d6c332ee52e9499?utm_campaign=1053&utm_source=git)** | New York | On Site | Jul 23 |
+| **[HYPEBEAST](http://hypebeast.com)** | **[Editorial Intern](https://jobright.ai/jobs/info/6a5adf5e856af468ab00a4c6?utm_campaign=1053&utm_source=git)** | New York | On Site | Jul 23 |
 | **[The University of Texas at Austin](https://www.jsg.utexas.edu/)** | **[UEE Event Logistics Student Intern](https://jobright.ai/jobs/info/6a625439f805ef6ff4232291?utm_campaign=1053&utm_source=git)** | Austin, TX, United States | On Site | Jul 23 |
 | **[Operation Smile](http://www.operationsmile.org)** | **[Writing Internship - Operation Smile ILC](https://jobright.ai/jobs/info/696883c31703f05405aa42b9?utm_campaign=1053&utm_source=git)** | Virginia Beach, VA, United States | On Site | Jul 23 |
 | **[American Psychological Association](http://apa.org/)** | **[Internships at APA - Film Editing Internship](https://jobright.ai/jobs/info/6a623ed6d5caab4af8bacae3?utm_campaign=1053&utm_source=git)** | Washington, DC, United States | Remote | Jul 23 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Arroyo Seco Saints](https://arroyosecosaints.com)** | **[Team Videographer/Video Editor Intern (California Collegiate League)](https://jobright.ai/jobs/info/6a62213ef805ef6ff4230f98?utm_campaign=1053&utm_source=git)** | Pasadena, CA, United States | Hybrid | Jul 23 |
 | **[Sourcebooks](http://www.sourcebooks.com/)** | **[Fall Internship - Managing Editorial (Remote)](https://jobright.ai/jobs/info/6a5e807a050c423c792ef8e8?utm_campaign=1053&utm_source=git)** | Naperville, IL, United States | Remote | Jul 23 |
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a56081753b3962b910ad915?utm_campaign=1053&utm_source=git)** | Jonesboro, AR, United States | Remote | Jul 23 |
-| ↳ | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a52033857513b72e0c6a2a2?utm_campaign=1053&utm_source=git)** | San Jose, CA, United States | Remote | Jul 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
