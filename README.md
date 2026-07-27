@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Codeage](https://www.codeage.com)** | **[Writer/Editor Intern](https://jobright.ai/jobs/info/6a55c94dfdf4fa71202b50a3?utm_campaign=1053&utm_source=git)** | Beverly Hills, CA, United States | On Site | Jul 26 |
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a57badcf7517b519ad5cbc1?utm_campaign=1053&utm_source=git)** | Boston, MA, United States | Remote | Jul 26 |
 | ↳ | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a5435dad007ee02d95fe0e7?utm_campaign=1053&utm_source=git)** | Indiana, Pennsylvania, United States | Remote | Jul 26 |
 | **[Hasana, Inc.](http://shophasana.com)** | **[Volunteer/Intern: Film/Video Editor](https://jobright.ai/jobs/info/6a584c973330ca6f993c3e99?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 26 |
@@ -147,8 +148,8 @@ For a complete list, click the following sortable link below:
 | **[The Aparecio Foundation](https://www.apareciofoundation.org)** | **[Bookings Associate Intern/Volunteer](https://jobright.ai/jobs/info/6a634fafe8d8d22e329283e0?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Jul 24 |
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a513eb1ae4052672fe9834a?utm_campaign=1053&utm_source=git)** | Johnstown, Pennsylvania, United States | Remote | Jul 24 |
 | ↳ | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a52035678e364789ca5f1ec?utm_campaign=1053&utm_source=git)** | Lawrence, KS, United States | Remote | Jul 24 |
-| ↳ | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a531c9ae726ec56126a5bc8?utm_campaign=1053&utm_source=git)** | Corpus Christi, TX, United States | Remote | Jul 24 |
 | ↳ | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a55d2be14f1040fa611ca07?utm_campaign=1053&utm_source=git)** | Charlotte, NC, United States | Remote | Jul 24 |
+| ↳ | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a531c9ae726ec56126a5bc8?utm_campaign=1053&utm_source=git)** | Corpus Christi, TX, United States | Remote | Jul 24 |
 | **[Hasana, Inc.](http://shophasana.com)** | **[Writers & Journalists Intern/Volunteer](https://jobright.ai/jobs/info/6a432e91cbf92c7bcd36e2b9?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | On Site | Jul 24 |
 | **[Launch That](http://launchthat.com)** | **[Editorial Intern](https://jobright.ai/jobs/info/6a6314b432abf9182432cd5e?utm_campaign=1053&utm_source=git)** | Orlando, FL, United States | Hybrid | Jul 24 |
 | **[Hasana, Inc.](http://shophasana.com)** | **[Volunteer/Intern: Film/Video Editor](https://jobright.ai/jobs/info/6a5ef849f29acc1a11749feb?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | On Site | Jul 23 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Privy Circle](http://privycircle.com)** | **[Editorial Intern for Social Network Luxury Magazine](https://jobright.ai/jobs/info/6a62f10032abf9182432c4ae?utm_campaign=1053&utm_source=git)** | El Segundo, CA, United States | On Site | Jul 23 |
 | **[VOX ATL](https://voxatl.org)** | **[Atlanta Teen Voices Journalism Fellowship Near-Peer Intern](https://jobright.ai/jobs/info/6a503bc24649561ec08b0bde?utm_campaign=1053&utm_source=git)** | Atlanta, GA, United States | On Site | Jul 23 |
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a51cbb7ae4052672fe9af6a?utm_campaign=1053&utm_source=git)** | Detroit, MI, United States | Remote | Jul 23 |
-| ↳ | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a580e593330ca6f993c314d?utm_campaign=1053&utm_source=git)** | Anaheim, CA, United States | Remote | Jul 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
