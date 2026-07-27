@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Mercatus Center at George Mason University](http://mercatus.org)** | **[Production Intern](https://jobright.ai/jobs/info/6a5e8872f29acc1a1174832c?utm_campaign=1053&utm_source=git)** | Arlington, VA, United States | Hybrid | Jul 27 |
 | **[adyn](https://www.adyn.com/)** | **[DIGITAL STORYTELLING INTERN](https://jobright.ai/jobs/info/6a66fbd0e8d8d22e32930f8e?utm_campaign=1053&utm_source=git)** | United States | Remote | Jul 26 |
 | **[Codeage](https://www.codeage.com)** | **[Writer/Editor Intern](https://jobright.ai/jobs/info/6a55c94dfdf4fa71202b50a3?utm_campaign=1053&utm_source=git)** | Beverly Hills, CA, United States | On Site | Jul 26 |
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a57badcf7517b519ad5cbc1?utm_campaign=1053&utm_source=git)** | Boston, MA, United States | Remote | Jul 26 |
@@ -114,7 +115,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Commerce Editorial Intern, Fall 2026 (10 weeks, 24 hours a week)](https://jobright.ai/jobs/info/6a5fd96a33ef5c58b400079f?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Jul 25 |
 | ↳ | **[Digital News Production Intern, Fall 2026 (10 weeks, 24 hours a week)](https://jobright.ai/jobs/info/6a5fcdb86e0c3c7c7d3d917a?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Jul 25 |
 | **[Agilent Technologies](http://www.agilent.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/6a5facf98c7fd835513ba6a9?utm_campaign=1053&utm_source=git)** | Wilmington, DE, United States | On Site | Jul 25 |
-| **[New York Post](http://nypost.com/)** | **[Decider Features Intern](https://jobright.ai/jobs/info/6a5fd3adf68dd368023e8de4?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Jul 25 |
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a5a796e63a8f619507c734e?utm_campaign=1053&utm_source=git)** | Cincinnati, OH, United States | Remote | Jul 25 |
 | ↳ | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a5e193f27bf767ea68f4c9a?utm_campaign=1053&utm_source=git)** | Memphis, TN, United States | Remote | Jul 25 |
 | ↳ | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a59d04863a8f619507c3be9?utm_campaign=1053&utm_source=git)** | San Antonio, TX, United States | Remote | Jul 25 |
@@ -149,8 +149,8 @@ For a complete list, click the following sortable link below:
 | **[The Aparecio Foundation](https://www.apareciofoundation.org)** | **[Bookings Associate Intern/Volunteer](https://jobright.ai/jobs/info/6a634fafe8d8d22e329283e0?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Jul 24 |
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a513eb1ae4052672fe9834a?utm_campaign=1053&utm_source=git)** | Johnstown, Pennsylvania, United States | Remote | Jul 24 |
 | ↳ | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a52035678e364789ca5f1ec?utm_campaign=1053&utm_source=git)** | Lawrence, KS, United States | Remote | Jul 24 |
-| ↳ | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a531c9ae726ec56126a5bc8?utm_campaign=1053&utm_source=git)** | Corpus Christi, TX, United States | Remote | Jul 24 |
 | ↳ | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a55d2be14f1040fa611ca07?utm_campaign=1053&utm_source=git)** | Charlotte, NC, United States | Remote | Jul 24 |
+| ↳ | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a531c9ae726ec56126a5bc8?utm_campaign=1053&utm_source=git)** | Corpus Christi, TX, United States | Remote | Jul 24 |
 | **[Hasana, Inc.](http://shophasana.com)** | **[Writers & Journalists Intern/Volunteer](https://jobright.ai/jobs/info/6a432e91cbf92c7bcd36e2b9?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | On Site | Jul 24 |
 | **[Launch That](http://launchthat.com)** | **[Editorial Intern](https://jobright.ai/jobs/info/6a6314b432abf9182432cd5e?utm_campaign=1053&utm_source=git)** | Orlando, FL, United States | Hybrid | Jul 24 |
 | **[Hasana, Inc.](http://shophasana.com)** | **[Volunteer/Intern: Film/Video Editor](https://jobright.ai/jobs/info/6a5ef849f29acc1a11749feb?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | On Site | Jul 23 |
