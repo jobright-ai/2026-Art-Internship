@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[adyn](https://www.adyn.com/)** | **[DIGITAL STORYTELLING INTERN](https://jobright.ai/jobs/info/6a66fbd0e8d8d22e32930f8e?utm_campaign=1053&utm_source=git)** | United States | Remote | Jul 26 |
 | **[Codeage](https://www.codeage.com)** | **[Writer/Editor Intern](https://jobright.ai/jobs/info/6a55c94dfdf4fa71202b50a3?utm_campaign=1053&utm_source=git)** | Beverly Hills, CA, United States | On Site | Jul 26 |
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a57badcf7517b519ad5cbc1?utm_campaign=1053&utm_source=git)** | Boston, MA, United States | Remote | Jul 26 |
 | ↳ | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a5435dad007ee02d95fe0e7?utm_campaign=1053&utm_source=git)** | Indiana, Pennsylvania, United States | Remote | Jul 26 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Insomniac Events](http://insomniac.com)** | **[Paid Fall Music Group Publishing Intern](https://jobright.ai/jobs/info/6a480a84c2d11a6a46673a56?utm_campaign=1053&utm_source=git)** | Calabasas, CA, USA | On Site | Jul 23 |
 | **[Privy Circle](http://privycircle.com)** | **[Editorial Intern for Social Network Luxury Magazine](https://jobright.ai/jobs/info/6a62f10032abf9182432c4ae?utm_campaign=1053&utm_source=git)** | El Segundo, CA, United States | On Site | Jul 23 |
 | **[VOX ATL](https://voxatl.org)** | **[Atlanta Teen Voices Journalism Fellowship Near-Peer Intern](https://jobright.ai/jobs/info/6a503bc24649561ec08b0bde?utm_campaign=1053&utm_source=git)** | Atlanta, GA, United States | On Site | Jul 23 |
-| **[ATIA Ltd](https://atia.ba/en_US/)** | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a51cbb7ae4052672fe9af6a?utm_campaign=1053&utm_source=git)** | Detroit, MI, United States | Remote | Jul 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
