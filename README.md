@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ATIA Ltd](https://atia.ba/en_US/)** | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a5435dad007ee02d95fe0e7?utm_campaign=1053&utm_source=git)** | Indiana, Pennsylvania, United States | Remote | Jul 26 |
+| **[Hasana, Inc.](http://shophasana.com)** | **[Volunteer/Intern: Film/Video Editor](https://jobright.ai/jobs/info/6a584c973330ca6f993c3e99?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 26 |
+| **[Open Road Integrated Media Inc.](http://www.openroadintegratedmedia.com)** | **[Content Writing Intern (FT/Paid)](https://jobright.ai/jobs/info/6a4d60d1c643fd23fed3cbf6?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Hybrid | Jul 26 |
 | **[Soaring Sky, LLC](https://soaringsky.net)** | **[Production Internship](https://jobright.ai/jobs/info/6a531bb49fbdab22fe13e4f1?utm_campaign=1053&utm_source=git)** | Fort Myers, FL, United States | On Site | Jul 26 |
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a5f169ef3674a0545d2bc86?utm_campaign=1053&utm_source=git)** | Appleton, WI, United States | Remote | Jul 26 |
 | ↳ | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a57bac621f64463ad35b9e3?utm_campaign=1053&utm_source=git)** | Stillwater, OK, United States | Remote | Jul 26 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a51cbb7ae4052672fe9af6a?utm_campaign=1053&utm_source=git)** | Detroit, MI, United States | Remote | Jul 23 |
 | ↳ | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a580e593330ca6f993c314d?utm_campaign=1053&utm_source=git)** | Anaheim, CA, United States | Remote | Jul 23 |
 | **[NBCUniversal](https://www.nbcuniversal.com/)** | **[NBC Connecticut, CT LIVE! Lifestyle Program Intern - Academic Year 2026-2027](https://jobright.ai/jobs/info/6a53c971c8eb0843027adbec?utm_campaign=1053&utm_source=git)** | Hartford, CT, United States | On Site | Jul 23 |
-| **[The Aparecio Foundation](https://www.apareciofoundation.org)** | **[Production Associate Intern/Volunteer](https://jobright.ai/jobs/info/6a5b731b4da96a42cfd9a5bf?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | On Site | Jul 23 |
-| **[Monumental Sports & Entertainment](http://www.monumentalsports.com/)** | **[Internship: Game Presentation (Part-Time/Seasonal)](https://jobright.ai/jobs/info/6a5b64a43ac7627fe90083cc?utm_campaign=1053&utm_source=git)** | Washington, DC, United States | On Site | Jul 23 |
-| **[boldSOCKS](https://www.boldsocks.com/)** | **[Video Production Intern](https://jobright.ai/jobs/info/6a55d37414f1040fa611cb3d?utm_campaign=1053&utm_source=git)** | Grand Rapids, MI, United States | On Site | Jul 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
