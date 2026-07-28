@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Jewish Federation of Detroit](https://jewishdetroit.org/)** | **[Archives Digital Media Intern](https://jobright.ai/jobs/info/6a68d50bb22f1b56a6028e0e?utm_campaign=1053&utm_source=git)** | Bloomfield Hills, MI, United States | On Site | Jul 28 |
+| **[The Ambony](http://www.manofthehourmag.com/)** | **[Writer-at-Large Journalist Intern](https://jobright.ai/jobs/info/6a68d1025d01972698ee471e?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Remote | Jul 28 |
+| **[Octagon](http://www.octagon.com)** | **[Intern (Global Soccer Fan Festivals)-22](https://jobright.ai/jobs/info/6a563904e9b77f668bd61eee?utm_campaign=1053&utm_source=git)** | Stamford, CT, United States | Hybrid | Jul 28 |
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a545437e726ec56126a9e8d?utm_campaign=1053&utm_source=git)** | Lexington, VA, United States | Remote | Jul 28 |
 | **[Paradigm Communications Group](http://www.alaskaairlinesmagazine.com)** | **[Editorial Intern at Alaska Airlines Magazine](https://jobright.ai/jobs/info/6a50a9082e2ceb72963b46c6?utm_campaign=1053&utm_source=git)** | Seattle, WA, United States | On Site | Jul 28 |
 | **[NCAA](https://www.ncaa.org)** | **[Media Coordination and Statistics Intern - NCAA Seasonal internship](https://jobright.ai/jobs/info/6a68c8145d01972698ee4401?utm_campaign=1053&utm_source=git)** | Indianapolis, IN, United States | Hybrid | Jul 28 |
@@ -69,12 +72,11 @@ For a complete list, click the following sortable link below:
 | **[Agilent Technologies](http://www.agilent.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/6a5facf98c7fd835513ba6a9?utm_campaign=1053&utm_source=git)** | Wilmington, DE, United States | On Site | Jul 28 |
 | **[American Enterprise Institute](http://www.aei.org)** | **[Fall Intern: Editing Services](https://jobright.ai/jobs/info/6a55efc5f7517b519ad51f58?utm_campaign=1053&utm_source=git)** | Washington, DC, United States | On Site | Jul 28 |
 | **[Arroyo Seco Saints](https://arroyosecosaints.com)** | **[Live Stream Production Intern](https://jobright.ai/jobs/info/6a6849856eaf5519573a5fdc?utm_campaign=1053&utm_source=git)** | Pasadena, CA, United States | On Site | Jul 27 |
-| **[ATIA Ltd](https://atia.ba/en_US/)** | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a55cee7ef22935f2e3f75fe?utm_campaign=1053&utm_source=git)** | Omaha, NE, United States | Remote | Jul 27 |
-| ↳ | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a55d05e05c65f7c8f4c823d?utm_campaign=1053&utm_source=git)** | Sacramento, CA, United States | Remote | Jul 27 |
+| **[ATIA Ltd](https://atia.ba/en_US/)** | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a55d05e05c65f7c8f4c823d?utm_campaign=1053&utm_source=git)** | Sacramento, CA, United States | Remote | Jul 27 |
+| ↳ | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a55cee7ef22935f2e3f75fe?utm_campaign=1053&utm_source=git)** | Omaha, NE, United States | Remote | Jul 27 |
 | **[FloSports](http://www.flosports.tv/)** | **[Fall Internship - MileSplit/FloTrack](https://jobright.ai/jobs/info/6a683ce357cfac3b21913d77?utm_campaign=1053&utm_source=git)** | Austin, TX, United States | On Site | Jul 27 |
 | **[The Aparecio Foundation](https://www.apareciofoundation.org)** | **[Volunteer/Intern:Editor of "Affairs" Content in Felix](https://jobright.ai/jobs/info/6a683b8c6eaf5519573a5e23?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | On Site | Jul 27 |
-| **[The Ambony](http://www.manofthehourmag.com/)** | **[Writer-at-Large Journalist Intern](https://jobright.ai/jobs/info/6a681cde5d2a117fb9ceec15?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Remote | Jul 27 |
-| ↳ | **[Democratic Political Commentator Intern](https://jobright.ai/jobs/info/6a681df0ca8eb3452eadaf17?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Remote | Jul 27 |
+| **[The Ambony](http://www.manofthehourmag.com/)** | **[Democratic Political Commentator Intern](https://jobright.ai/jobs/info/6a681df0ca8eb3452eadaf17?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Remote | Jul 27 |
 | **[Community Media Center](https://www.carrollmediacenter.org)** | **[MultiMedia Production Internship](https://jobright.ai/jobs/info/6a682f1650dec41e3527e744?utm_campaign=1053&utm_source=git)** | Carroll County, MD, United States | On Site | Jul 27 |
 | ↳ | **[CMSportsNet Assistant Producer Internship](https://jobright.ai/jobs/info/6a682d3eb9adcd752800e05f?utm_campaign=1053&utm_source=git)** | Indiana, United States | On Site | Jul 27 |
 | **[Hasana, Inc.](http://shophasana.com)** | **[Volunteer/Intern: Videographer](https://jobright.ai/jobs/info/6a558556268af95237bec2dc?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | On Site | Jul 27 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[FC Cincinnati](http://www.fccincinnati.com)** | **[Event Operations Intern](https://jobright.ai/jobs/info/6a645c9d979290281c7060f2?utm_campaign=1053&utm_source=git)** | Cincinnati, OH, United States | On Site | Jul 24 |
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a5be6a84da96a42cfd9b60c?utm_campaign=1053&utm_source=git)** | Miami, FL, United States | Remote | Jul 24 |
 | **[MBJ Network](www.mbj-network.com)** | **[Staff Writer-Intern](https://jobright.ai/jobs/info/6a50f49e78e364789ca577e1?utm_campaign=1053&utm_source=git)** | Lombard, IL, United States | Remote | Jul 24 |
-| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Paid Intern (Photojournalist/Multi-Media Journalist/Producer)](https://jobright.ai/jobs/info/69f179ef8feca91f149202ba?utm_campaign=1053&utm_source=git)** | Wichita, KS | On Site | Jul 24 |
-| **[ATIA Ltd](https://atia.ba/en_US/)** | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a50ea5f78e364789ca573ec?utm_campaign=1053&utm_source=git)** | Phoenix, AZ, United States | Remote | Jul 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
