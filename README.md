@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Aparecio Foundation](https://www.apareciofoundation.org)** | **[Production Associate Intern/Volunteer](https://jobright.ai/jobs/info/6a68afbb7926035e09586631?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | On Site | Jul 28 |
 | **[Tuff City Records](http://www.tuffcity.com)** | **[Journalism Intern](https://jobright.ai/jobs/info/6a4347f2b0f2553559ecf9b6?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Jul 28 |
 | **[Arcpoint Studios](http://www.arcpointstudios.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/6a55f33510c4d945d864607b?utm_campaign=1053&utm_source=git)** | Fort Worth, TX, United States | Hybrid | Jul 28 |
 | **[The Ambony](http://www.manofthehourmag.com/)** | **[Entertainment Journalist (Internship)](https://jobright.ai/jobs/info/6a55407f2084cd792b4772e9?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | Remote | Jul 28 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Magnet Media, Inc.](http://www.magnetmediafilms.com)** | **[Production Intern Fall 2026](https://jobright.ai/jobs/info/6a54a9288215bf1b856b68e1?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Jul 24 |
 | **[Conner Prairie](http://www.connerprairie.org)** | **[Collections Intern - Fall 2026 - $14/hour up to 180 hours](https://jobright.ai/jobs/info/6a63eb375c7e2d715ebaeb61?utm_campaign=1053&utm_source=git)** | Fishers, IN, United States | On Site | Jul 24 |
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a521f528ef95364ead8cf6c?utm_campaign=1053&utm_source=git)** | Raleigh, NC, United States | Remote | Jul 24 |
-| ↳ | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a51e09978e364789ca5e4bc?utm_campaign=1053&utm_source=git)** | Cookeville, TN, United States | Remote | Jul 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
