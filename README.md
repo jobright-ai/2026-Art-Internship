@@ -57,12 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Heirloom Diet](www.heirloomdiet.com)** | **[Video Editor Intern](https://jobright.ai/jobs/info/6a68052a2bf1fb2b719281bc?utm_campaign=1053&utm_source=git)** | United States | Remote | Jul 27 |
+| **[Gift](https://www.shine.gift)** | **[UCLA Music Community Intern](https://jobright.ai/jobs/info/6a6801513b5e6b116a551990?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | Remote | Jul 27 |
 | **[The Aparecio Foundation](https://www.apareciofoundation.org)** | **[Copy Editor Intern/Volunteer](https://jobright.ai/jobs/info/6a67f1965d2a117fb9cee05c?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 27 |
 | **[INIT Innovations in Transportation, Inc.](http://initusa.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/6a6798a22bda4d2842854abc?utm_campaign=1053&utm_source=git)** | Chesapeake, VA, United States | On Site | Jul 27 |
 | **[Fusion100](http://Fusion100co.com)** | **[Tiktok Intern](https://jobright.ai/jobs/info/6a67e2672bda4d2842856561?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Remote | Jul 27 |
 | **[Minnesota Wild](http://wild.com)** | **[Intern, Mascot Operations (Full-Time, Seasonal)](https://jobright.ai/jobs/info/6a67e132872eb74f9eadb9d5?utm_campaign=1053&utm_source=git)** | Saint Paul, MN, United States | On Site | Jul 27 |
 | **[Our National Conversation (ONC)](https://www.ournationalconversation.org)** | **[Editorial Intern](https://jobright.ai/jobs/info/6a67dd3dd0fb4c3df393f113?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | Remote | Jul 27 |
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a554fe22084cd792b477b0e?utm_campaign=1053&utm_source=git)** | Erie, PA, United States | Remote | Jul 27 |
+| **[Damar Services, Inc.](https://www.damar.org)** | **[Fall Special Event and Volunteer Intern](https://jobright.ai/jobs/info/6a57dfea3330ca6f993c1b95?utm_campaign=1053&utm_source=git)** | Indianapolis, IN, United States | On Site | Jul 27 |
 | **[TESstylist](https://tesstylist.com)** | **[Fashion Intern](https://jobright.ai/jobs/info/6a67b0755d2a117fb9ceccbe?utm_campaign=1053&utm_source=git)** | Boston, MA, United States | On Site | Jul 27 |
 | **[Northside Hospital](http://www.northside.com)** | **[Department Intern](https://jobright.ai/jobs/info/6a679fe92bf1fb2b719260c2?utm_campaign=1053&utm_source=git)** | Canton, GA, United States | On Site | Jul 27 |
 | **[Terros Health](https://www.terroshealth.org/)** | **[Development Intern - Phoenix  (8144)](https://jobright.ai/jobs/info/6a5efa03d32b0656b39f6786?utm_campaign=1053&utm_source=git)** | Phoenix, AZ, United States | On Site | Jul 27 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The University of Texas at Austin](http://www.texasenterprise.utexas.edu/)** | **[Editorial Student Intern, Marketing and Communication, Moody College of Communication](https://jobright.ai/jobs/info/6a6367d70c8e2b4f36dcdc59?utm_campaign=1053&utm_source=git)** | UT Main Campus, United States | Hybrid | Jul 24 |
 | **[Melara Enterprises](http://www.melaraenterprises.com)** | **[225 Magazine Editorial or Photography Intern](https://jobright.ai/jobs/info/6a55cffc05c65f7c8f4c8097?utm_campaign=1053&utm_source=git)** | Baton Rouge, LA, United States | On Site | Jul 24 |
 | **[WMUR-TV](http://www.wmur.com/)** | **[Creative Services Intern](https://jobright.ai/jobs/info/69ba8f1506c1ba00c54ca4eb?utm_campaign=1053&utm_source=git)** | Manchester, NH | On Site | Jul 24 |
-| **[ATIA Ltd](https://atia.ba/en_US/)** | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a538cf6d007ee02d95fbc1a?utm_campaign=1053&utm_source=git)** | Nacogdoches, TX, United States | Remote | Jul 24 |
-| ↳ | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a635178e8d8d22e329283ff?utm_campaign=1053&utm_source=git)** | Cedar Falls, IA, United States | Remote | Jul 24 |
-| **[The Aparecio Foundation](https://www.apareciofoundation.org)** | **[Bookings Associate Intern/Volunteer](https://jobright.ai/jobs/info/6a634fafe8d8d22e329283e0?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Jul 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
