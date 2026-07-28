@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Aparecio Foundation](https://www.apareciofoundation.org)** | **[Copy Editor Intern/Volunteer](https://jobright.ai/jobs/info/6a67f1965d2a117fb9cee05c?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 27 |
 | **[INIT Innovations in Transportation, Inc.](http://initusa.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/6a6798a22bda4d2842854abc?utm_campaign=1053&utm_source=git)** | Chesapeake, VA, United States | On Site | Jul 27 |
 | **[Fusion100](http://Fusion100co.com)** | **[Tiktok Intern](https://jobright.ai/jobs/info/6a67e2672bda4d2842856561?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Remote | Jul 27 |
 | **[Minnesota Wild](http://wild.com)** | **[Intern, Mascot Operations (Full-Time, Seasonal)](https://jobright.ai/jobs/info/6a67e132872eb74f9eadb9d5?utm_campaign=1053&utm_source=git)** | Saint Paul, MN, United States | On Site | Jul 27 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a538cf6d007ee02d95fbc1a?utm_campaign=1053&utm_source=git)** | Nacogdoches, TX, United States | Remote | Jul 24 |
 | ↳ | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a635178e8d8d22e329283ff?utm_campaign=1053&utm_source=git)** | Cedar Falls, IA, United States | Remote | Jul 24 |
 | **[The Aparecio Foundation](https://www.apareciofoundation.org)** | **[Bookings Associate Intern/Volunteer](https://jobright.ai/jobs/info/6a634fafe8d8d22e329283e0?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Jul 24 |
-| **[ATIA Ltd](https://atia.ba/en_US/)** | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a513eb1ae4052672fe9834a?utm_campaign=1053&utm_source=git)** | Johnstown, Pennsylvania, United States | Remote | Jul 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
