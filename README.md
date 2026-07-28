@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Paul Smith](https://www.paulsmith.co.uk)** | **[Press & VIP, Intern - NYC](https://jobright.ai/jobs/info/6a691762ceb2691dfb20753f?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Jul 28 |
+| **[Good People Only](https://www.goodpeopleonly.com/)** | **[The Revels Group - 2026 Fall Internship](https://jobright.ai/jobs/info/6a69171b3b549b0b531d3dac?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 28 |
+| **[Tilson](https://www.tilsonhr.com/)** | **[Music For All - Fall Events Team Internship (Paid Position)](https://jobright.ai/jobs/info/6a57137fe9b77f668bd66a2a?utm_campaign=1053&utm_source=git)** | Indianapolis, IN, United States | On Site | Jul 28 |
 | **[Red Bull](https://redbull.com)** | **[2026 Internship, Fall - Event Operations](https://jobright.ai/jobs/info/6a68fc975d01972698ee5c29?utm_campaign=1053&utm_source=git)** | Harrison, NJ, United States | On Site | Jul 28 |
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a56849310c4d945d864a2c5?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | Remote | Jul 28 |
 | **[Teressa Foglia](https://teressafoglia.com/)** | **[Studio & Production Intern (Paid)](https://jobright.ai/jobs/info/6a68face05bae84301b59c5f?utm_campaign=1053&utm_source=git)** | Laguna Beach, CA, United States | On Site | Jul 28 |
@@ -85,7 +88,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a55cee7ef22935f2e3f75fe?utm_campaign=1053&utm_source=git)** | Omaha, NE, United States | Remote | Jul 27 |
 | **[FloSports](http://www.flosports.tv/)** | **[Fall Internship - MileSplit/FloTrack](https://jobright.ai/jobs/info/6a683ce357cfac3b21913d77?utm_campaign=1053&utm_source=git)** | Austin, TX, United States | On Site | Jul 27 |
 | **[The Aparecio Foundation](https://www.apareciofoundation.org)** | **[Volunteer/Intern:Editor of "Affairs" Content in Felix](https://jobright.ai/jobs/info/6a683b8c6eaf5519573a5e23?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | On Site | Jul 27 |
-| **[The Ambony](http://www.manofthehourmag.com/)** | **[Democratic Political Commentator Intern](https://jobright.ai/jobs/info/6a681e61fef68f206c370841?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Remote | Jul 27 |
+| **[The Ambony](http://www.manofthehourmag.com/)** | **[Democratic Political Commentator Intern](https://jobright.ai/jobs/info/6a681df0ca8eb3452eadaf17?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Remote | Jul 27 |
 | **[Community Media Center](https://www.carrollmediacenter.org)** | **[MultiMedia Production Internship](https://jobright.ai/jobs/info/6a682f1650dec41e3527e744?utm_campaign=1053&utm_source=git)** | Carroll County, MD, United States | On Site | Jul 27 |
 | ↳ | **[CMSportsNet Assistant Producer Internship](https://jobright.ai/jobs/info/6a682d3eb9adcd752800e05f?utm_campaign=1053&utm_source=git)** | Indiana, United States | On Site | Jul 27 |
 | **[Hasana, Inc.](http://shophasana.com)** | **[Volunteer/Intern: Videographer](https://jobright.ai/jobs/info/6a558556268af95237bec2dc?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | On Site | Jul 27 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a521f63e726ec56126a1b28?utm_campaign=1053&utm_source=git)** | Tampa, FL, United States | Remote | Jul 25 |
 | **[New York Post](http://nypost.com/)** | **[Page Six Video Intern, Fall 2026 (10 weeks, 24 hours a week)](https://jobright.ai/jobs/info/6a5fbc4b33ef5c58b4fffc1e?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Jul 25 |
 | **[Hasana, Inc.](http://shophasana.com)** | **[Volunteer/Intern: Pro bono: Editor of "People" Content in Felix](https://jobright.ai/jobs/info/6a649c3f5c7e2d715ebb0641?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | On Site | Jul 25 |
-| **[New York Post](http://nypost.com/)** | **[YouTube Intern](https://jobright.ai/jobs/info/6a5fc7daf68dd368023e8a48?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Jul 25 |
-| ↳ | **[Video Control Room Intern, Fall 2026 (10 weeks, 24 hours per week)](https://jobright.ai/jobs/info/6a5b5d7dc8e3a473cb8afea1?utm_campaign=1053&utm_source=git)** | NYC - 1211 Ave of the Americas, United States of America | On Site | Jul 25 |
-| ↳ | **[Commerce Editorial Intern, Fall 2026 (10 weeks, 24 hours a week)](https://jobright.ai/jobs/info/6a5fd96a33ef5c58b400079f?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Jul 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
