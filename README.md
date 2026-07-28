@@ -57,13 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[INIT Innovations in Transportation, Inc.](http://initusa.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/6a6798a22bda4d2842854abc?utm_campaign=1053&utm_source=git)** | Chesapeake, VA, United States | On Site | Jul 27 |
 | **[Fusion100](http://Fusion100co.com)** | **[Tiktok Intern](https://jobright.ai/jobs/info/6a67e2672bda4d2842856561?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Remote | Jul 27 |
 | **[Minnesota Wild](http://wild.com)** | **[Intern, Mascot Operations (Full-Time, Seasonal)](https://jobright.ai/jobs/info/6a67e132872eb74f9eadb9d5?utm_campaign=1053&utm_source=git)** | Saint Paul, MN, United States | On Site | Jul 27 |
 | **[Our National Conversation (ONC)](https://www.ournationalconversation.org)** | **[Editorial Intern](https://jobright.ai/jobs/info/6a67dd3dd0fb4c3df393f113?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | Remote | Jul 27 |
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a554fe22084cd792b477b0e?utm_campaign=1053&utm_source=git)** | Erie, PA, United States | Remote | Jul 27 |
 | **[TESstylist](https://tesstylist.com)** | **[Fashion Intern](https://jobright.ai/jobs/info/6a67b0755d2a117fb9ceccbe?utm_campaign=1053&utm_source=git)** | Boston, MA, United States | On Site | Jul 27 |
 | **[Northside Hospital](http://www.northside.com)** | **[Department Intern](https://jobright.ai/jobs/info/6a679fe92bf1fb2b719260c2?utm_campaign=1053&utm_source=git)** | Canton, GA, United States | On Site | Jul 27 |
-| **[INIT Innovations in Transportation, Inc.](http://initusa.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/6a6798a22bda4d2842854abc?utm_campaign=1053&utm_source=git)** | Chesapeake, VA, United States | On Site | Jul 27 |
 | **[Terros Health](https://www.terroshealth.org/)** | **[Development Intern - Phoenix  (8144)](https://jobright.ai/jobs/info/6a5efa03d32b0656b39f6786?utm_campaign=1053&utm_source=git)** | Phoenix, AZ, United States | On Site | Jul 27 |
 | **[GRO](https://www.readysetgro.io/)** | **[Video Editing Internship](https://jobright.ai/jobs/info/6a676ff22bf1fb2b71925156?utm_campaign=1053&utm_source=git)** | United States | Remote | Jul 27 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid News Intern](https://jobright.ai/jobs/info/6972b01a9b83b424830eb8a4?utm_campaign=1053&utm_source=git)** | IN-Indianapolis;6910 Network Place (Tribune-WXIN/WTTV) | On Site | Jul 27 |
