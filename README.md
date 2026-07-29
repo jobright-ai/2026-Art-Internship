@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Kentucky Farm Bureau Insurance](http://kyfb.com)** | **[Video Production intern](https://jobright.ai/jobs/info/6a509e415165966a11619e5c?utm_campaign=1053&utm_source=git)** | Louisville, KY, United States | On Site | Jul 29 |
 | **[The Corelink Solution](http://www.thecorelinksolution.com)** | **[Artist Community Manager (Volunteer / Intern)](https://jobright.ai/jobs/info/6a5711d4f7517b519ad58faa?utm_campaign=1053&utm_source=git)** | Wilmington, DE, United States | Hybrid | Jul 28 |
 | **[Hasana, Inc.](http://shophasana.com)** | **[Film & Video Internship](https://jobright.ai/jobs/info/6a595e75c8e3a473cb8a6b57?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | On Site | Jul 28 |
 | **[California Appellate Project (San Francisco)](http://www.capsf.org)** | **[Summer Intern - 2027](https://jobright.ai/jobs/info/6a69688d2a5c103624db4911?utm_campaign=1053&utm_source=git)** | San Francisco, CA, United States | Hybrid | Jul 28 |
@@ -65,7 +66,6 @@ For a complete list, click the following sortable link below:
 | **[The Corelink Solution](http://www.thecorelinksolution.com)** | **[Assistant Radio Producer (Intern)](https://jobright.ai/jobs/info/6a6958aa3b549b0b531d51ad?utm_campaign=1053&utm_source=git)** | Wilmington, DE, United States | Remote | Jul 28 |
 | **[eel](https://hq.watcheel.com/)** | **[Movie Streaming Service Content Strategy Intern](https://jobright.ai/jobs/info/6a69587136d36c1ff2999618?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | Remote | Jul 28 |
 | **[Platte River Power Authority](https://www.prpa.org/)** | **[Event Planning Intern](https://jobright.ai/jobs/info/6a6932cbceb2691dfb207f29?utm_campaign=1053&utm_source=git)** | Fort Collins, CO, United States | On Site | Jul 28 |
-| **[Kentucky Farm Bureau Insurance](http://kyfb.com)** | **[Video Production intern](https://jobright.ai/jobs/info/6a509e415165966a11619e5c?utm_campaign=1053&utm_source=git)** | Louisville, KY, United States | On Site | Jul 28 |
 | **[Gift](https://www.shine.gift)** | **[LMU Music Community Intern](https://jobright.ai/jobs/info/6a69481336d36c1ff299909a?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | Remote | Jul 28 |
 | **[Jomboy Media](https://jomboymedia.com)** | **[Research and Stats Intern- Fall 2026](https://jobright.ai/jobs/info/6a69421936d36c1ff2998eb2?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Jul 28 |
 | **[FloSports](http://www.flosports.tv/)** | **[Fall Internship - Content Video Production](https://jobright.ai/jobs/info/6a68e05c05bae84301b5915e?utm_campaign=1053&utm_source=git)** | Austin, TX, United States | On Site | Jul 28 |
@@ -96,8 +96,8 @@ For a complete list, click the following sortable link below:
 | **[NBCUniversal](https://www.nbcuniversal.com/)** | **[NBC Telemundo CT Multiplatform Creative Intern Position - Academic Year 2026-2027](https://jobright.ai/jobs/info/6a59b840c8e3a473cb8a831d?utm_campaign=1053&utm_source=git)** | Hartford, CT, United States | On Site | Jul 28 |
 | **[American Enterprise Institute](http://www.aei.org)** | **[Fall Intern: Editing Services](https://jobright.ai/jobs/info/6a55efc5f7517b519ad51f58?utm_campaign=1053&utm_source=git)** | Washington, DC, United States | On Site | Jul 28 |
 | **[Arroyo Seco Saints](https://arroyosecosaints.com)** | **[Live Stream Production Intern](https://jobright.ai/jobs/info/6a6849856eaf5519573a5fdc?utm_campaign=1053&utm_source=git)** | Pasadena, CA, United States | On Site | Jul 27 |
-| **[ATIA Ltd](https://atia.ba/en_US/)** | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a55cee7ef22935f2e3f75fe?utm_campaign=1053&utm_source=git)** | Omaha, NE, United States | Remote | Jul 27 |
-| ↳ | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a55d05e05c65f7c8f4c823d?utm_campaign=1053&utm_source=git)** | Sacramento, CA, United States | Remote | Jul 27 |
+| **[ATIA Ltd](https://atia.ba/en_US/)** | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a55d05e05c65f7c8f4c823d?utm_campaign=1053&utm_source=git)** | Sacramento, CA, United States | Remote | Jul 27 |
+| ↳ | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a55cee7ef22935f2e3f75fe?utm_campaign=1053&utm_source=git)** | Omaha, NE, United States | Remote | Jul 27 |
 | **[FloSports](http://www.flosports.tv/)** | **[Fall Internship - MileSplit/FloTrack](https://jobright.ai/jobs/info/6a683ce357cfac3b21913d77?utm_campaign=1053&utm_source=git)** | Austin, TX, United States | On Site | Jul 27 |
 | **[The Aparecio Foundation](https://www.apareciofoundation.org)** | **[Volunteer/Intern:Editor of "Affairs" Content in Felix](https://jobright.ai/jobs/info/6a683b8c6eaf5519573a5e23?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | On Site | Jul 27 |
 | **[The Ambony](http://www.manofthehourmag.com/)** | **[Democratic Political Commentator Intern](https://jobright.ai/jobs/info/6a681df0ca8eb3452eadaf17?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Remote | Jul 27 |
