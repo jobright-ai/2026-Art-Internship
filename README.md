@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Office Magazine](http://officemagazine.net)** | **[Writing Intern](https://jobright.ai/jobs/info/6a6a1aba16c69119640fc5fb?utm_campaign=1053&utm_source=git)** | New York City metropolitan area, United States | On Site | Jul 29 |
 | **[The Aparecio Foundation](https://www.apareciofoundation.org)** | **[Food & Prop Stylist Intern/Volunteer](https://jobright.ai/jobs/info/6a6a0bff8693c23e7fb7863f?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | On Site | Jul 29 |
 | ↳ | **[Volunteer/Intern:Pro-bono Editor of "Fashion" Content in Felix](https://jobright.ai/jobs/info/6a69ff1416c69119640fbc4a?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | On Site | Jul 29 |
 | **[American Enterprise Institute](http://www.aei.org)** | **[Fall Intern: Events](https://jobright.ai/jobs/info/6a560dd4f7517b519ad5378c?utm_campaign=1053&utm_source=git)** | Washington, DC, United States | On Site | Jul 29 |
@@ -94,7 +95,7 @@ For a complete list, click the following sortable link below:
 | **[Monumental Sports & Entertainment](http://www.monumentalsports.com/)** | **[Internship: Productions (Part-Time/Seasonal)](https://jobright.ai/jobs/info/6a68e68d05bae84301b59400?utm_campaign=1053&utm_source=git)** | Washington, DC, United States | On Site | Jul 28 |
 | **[Hasana, Inc.](http://shophasana.com)** | **[Volunteer/Intern: Film/Video Editor](https://jobright.ai/jobs/info/6a51e53ebf63b66c7997e975?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Jul 28 |
 | **[American Tower](https://www.americantower.com/)** | **[Media Room Assistant Internship](https://jobright.ai/jobs/info/6a68ec7e36d36c1ff2997023?utm_campaign=1053&utm_source=git)** | Boston, MA, United States | On Site | Jul 28 |
-| **[The Ambony](https://www.anpublishing.com/)** | **[Writer-at-Large Journalist Intern](https://jobright.ai/jobs/info/6a68d1025d01972698ee471e?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Remote | Jul 28 |
+| **[The Ambony](https://www.anpublishing.com/)** | **[Writer-at-Large Journalist Intern](https://jobright.ai/jobs/info/6a681cde5d2a117fb9ceec15?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Remote | Jul 28 |
 | **[Sony Music Publishing](https://www.sonymusicpub.com/)** | **[Fall Intern, A&R (West Coast)](https://jobright.ai/jobs/info/6a50382ffc327f422fef839b?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 28 |
 | **[Jewish Federation of Detroit](https://jfmd.org)** | **[Archives Digital Media Intern](https://jobright.ai/jobs/info/6a68d50bb22f1b56a6028e0e?utm_campaign=1053&utm_source=git)** | Bloomfield Hills, MI, United States | On Site | Jul 28 |
 | **[Octagon](http://www.octagon.com)** | **[Intern (Global Soccer Fan Festivals)-22](https://jobright.ai/jobs/info/6a563904e9b77f668bd61eee?utm_campaign=1053&utm_source=git)** | Stamford, CT, United States | Hybrid | Jul 28 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Post and Courier](http://www.postandcourier.com/)** | **[The Post and Courier Community Engagement Producer Intern - Furman University](https://jobright.ai/jobs/info/6a59a77d856af468ab004c26?utm_campaign=1053&utm_source=git)** | Columbia, SC, United States | On Site | Jul 26 |
 | **[Apropo Studio](https://www.apropostudiony.com)** | **[Wholesale Fashion Internship](https://jobright.ai/jobs/info/6a55cb7def22935f2e3f7273?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Jul 26 |
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a5943cd4da96a42cfd9036e?utm_campaign=1053&utm_source=git)** | Wichita, KS, United States | Remote | Jul 26 |
-| **[ATIA Ltd](https://atia.ba/en_US/)** | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a5f16a7f3674a0545d2bc89?utm_campaign=1053&utm_source=git)** | El Paso, TX, United States | Remote | Jul 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
