@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Aparecio Foundation](https://www.apareciofoundation.org)** | **[Food & Prop Stylist Intern/Volunteer](https://jobright.ai/jobs/info/6a6a0bff8693c23e7fb7863f?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | On Site | Jul 29 |
+| ↳ | **[Volunteer/Intern:Pro-bono Editor of "Fashion" Content in Felix](https://jobright.ai/jobs/info/6a69ff1416c69119640fbc4a?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | On Site | Jul 29 |
 | **[American Enterprise Institute](http://www.aei.org)** | **[Fall Intern: Events](https://jobright.ai/jobs/info/6a560dd4f7517b519ad5378c?utm_campaign=1053&utm_source=git)** | Washington, DC, United States | On Site | Jul 29 |
 | **[PURPLE](https://purplepr.com)** | **[Experiential Production Intern](https://jobright.ai/jobs/info/6a69dd7009998f68b5a6dea3?utm_campaign=1053&utm_source=git)** | New York, United States | Hybrid | Jul 29 |
 | **[Quad](https://www.quad.com)** | **[Milwaukee Magazine Editorial Internship, Fall 2026](https://jobright.ai/jobs/info/6a58373a68d16a30e241235e?utm_campaign=1053&utm_source=git)** | 555 South 108th Street, West Allis, WI, 53214, US | Hybrid | Jul 29 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Apropo Studio](https://www.apropostudiony.com)** | **[Wholesale Fashion Internship](https://jobright.ai/jobs/info/6a55cb7def22935f2e3f7273?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Jul 26 |
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a5943cd4da96a42cfd9036e?utm_campaign=1053&utm_source=git)** | Wichita, KS, United States | Remote | Jul 26 |
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a5f16a7f3674a0545d2bc89?utm_campaign=1053&utm_source=git)** | El Paso, TX, United States | Remote | Jul 25 |
-| ↳ | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a52ac3e8576ec69c014cf30?utm_campaign=1053&utm_source=git)** | Findlay, OH, United States | Remote | Jul 25 |
-| **[Hasana, Inc.](http://shophasana.com)** | **[Street/Event Team Intern/Volunteer](https://jobright.ai/jobs/info/6a53c454e726ec56126a7eb5?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | On Site | Jul 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
