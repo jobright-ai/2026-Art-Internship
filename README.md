@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BRIDGE SHOWROOM](http://www.bridgeshowroom.com)** | **[Fashion Intern at Coterie NY](https://jobright.ai/jobs/info/6a6bc5e1c00ae03109f85e4c?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Jul 30 |
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a5943e363a8f619507c1603?utm_campaign=1053&utm_source=git)** | Valdosta, GA, United States | Remote | Jul 30 |
 | **[WG Business Enterprises, LLC](https://wgbusinessenterprises.com/about-whitney-business-consultant/)** | **[Video Content Creation & Editing Intern](https://jobright.ai/jobs/info/6a6bb9d4acb0a61f9dbc2936?utm_campaign=1053&utm_source=git)** | United States | Remote | Jul 30 |
 | **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a6bb0325c54bc4752cea68f?utm_campaign=1053&utm_source=git)** | Philadelphia, PA, United States | On Site | Jul 30 |
@@ -88,7 +89,6 @@ For a complete list, click the following sortable link below:
 | **[4Roots](https://4rootsfarm.org/)** | **[Events Intern - 4Roots Farm Campus (Fall & Spring)](https://jobright.ai/jobs/info/6a6ad9f932f9300c3a3db149?utm_campaign=1053&utm_source=git)** | Orlando, FL, United States | On Site | Jul 29 |
 | **[TikTok](https://www.tiktok.com)** | **[TikTok Short Drama Project Intern (TikTok-Short-Drama) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a3b45781232144fb15721e8?utm_campaign=1053&utm_source=git)** | Los Angeles, United States | On Site | Jul 29 |
 | **[Northside Hospital](http://www.northside.com)** | **[Department Intern](https://jobright.ai/jobs/info/6a679fe92bf1fb2b719260c2?utm_campaign=1053&utm_source=git)** | Canton, GA, United States | On Site | Jul 29 |
-| **[Cox Media Group](http://www.coxmediagroup.com)** | **[Intern (Part-Time) - Long Island Radio Job Details / Cox Media Group](https://jobright.ai/jobs/info/6a6aa16716c69119640ff404?utm_campaign=1053&utm_source=git)** | West Babylon, NY, United States | On Site | Jul 29 |
 | **[Barry Katz Entertainment](http://www.barrykatz.com)** | **[Barry Katz Entertainment Internship](https://jobright.ai/jobs/info/6a6144447196365a6f009e9d?utm_campaign=1053&utm_source=git)** | Malibu, California, United States | Hybrid | Jul 29 |
 | **[New York Post](http://nypost.com/)** | **[YouTube Intern, Fall 2026 (10 weeks, 24 hours a week)](https://jobright.ai/jobs/info/6a6a6aaf48355b3f12bf0eb2?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Jul 29 |
 | ↳ | **[Decider Features Intern, Fall 2026 (10 weeks, 24 hours a week)](https://jobright.ai/jobs/info/6a5fd3adf68dd368023e8de4?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Jul 29 |
@@ -135,7 +135,7 @@ For a complete list, click the following sortable link below:
 | **[Monumental Sports & Entertainment](http://www.monumentalsports.com/)** | **[Internship: Productions (Part-Time/Seasonal)](https://jobright.ai/jobs/info/6a68e68d05bae84301b59400?utm_campaign=1053&utm_source=git)** | Washington, DC, United States | On Site | Jul 28 |
 | **[American Tower](https://www.americantower.com/)** | **[Media Room Assistant Internship](https://jobright.ai/jobs/info/6a68ec7e36d36c1ff2997023?utm_campaign=1053&utm_source=git)** | Boston, MA, United States | On Site | Jul 28 |
 | **[Sony Music Publishing](https://www.sonymusicpub.com/)** | **[Clearance Intern, Film & TV](https://jobright.ai/jobs/info/6a4e74e89469c0662034b4ad?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 28 |
-| **[The Ambony](https://www.anpublishing.com/)** | **[Writer-at-Large Journalist Intern](https://jobright.ai/jobs/info/6a68d1025d01972698ee471e?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Remote | Jul 28 |
+| **[The Ambony](https://www.anpublishing.com/)** | **[Writer-at-Large Journalist Intern](https://jobright.ai/jobs/info/6a681cde5d2a117fb9ceec15?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Remote | Jul 28 |
 | **[Sony Music Publishing](https://www.sonymusicpub.com/)** | **[Fall Intern, A&R (West Coast)](https://jobright.ai/jobs/info/6a50382ffc327f422fef839b?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 28 |
 | **[Jewish Federation of Detroit](https://jfmd.org)** | **[Archives Digital Media Intern](https://jobright.ai/jobs/info/6a68d50bb22f1b56a6028e0e?utm_campaign=1053&utm_source=git)** | Bloomfield Hills, MI, United States | On Site | Jul 28 |
 | **[Octagon](http://www.octagon.com)** | **[Intern (Global Soccer Fan Festivals)-22](https://jobright.ai/jobs/info/6a563904e9b77f668bd61eee?utm_campaign=1053&utm_source=git)** | Stamford, CT, United States | Hybrid | Jul 28 |
@@ -154,7 +154,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a55cee7ef22935f2e3f75fe?utm_campaign=1053&utm_source=git)** | Omaha, NE, United States | Remote | Jul 27 |
 | **[FloSports](http://www.flosports.tv/)** | **[Fall Internship - MileSplit/FloTrack](https://jobright.ai/jobs/info/6a683ce357cfac3b21913d77?utm_campaign=1053&utm_source=git)** | Austin, TX, United States | On Site | Jul 27 |
 | **[The Aparecio Foundation](https://www.apareciofoundation.org)** | **[Volunteer/Intern:Editor of "Affairs" Content in Felix](https://jobright.ai/jobs/info/6a683b8c6eaf5519573a5e23?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | On Site | Jul 27 |
-| **[The Ambony](https://www.anpublishing.com/)** | **[Democratic Political Commentator Intern](https://jobright.ai/jobs/info/6a681df0ca8eb3452eadaf17?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Remote | Jul 27 |
+| **[The Ambony](https://www.anpublishing.com/)** | **[Democratic Political Commentator Intern](https://jobright.ai/jobs/info/6a681e61fef68f206c370841?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Remote | Jul 27 |
 | **[Hasana, Inc.](http://shophasana.com)** | **[Volunteer/Intern: Videographer](https://jobright.ai/jobs/info/6a558556268af95237bec2dc?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | On Site | Jul 27 |
 | ↳ | **[Writers & Journalists Intern/Volunteer](https://jobright.ai/jobs/info/6a6808ae2bf1fb2b7192828a?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | On Site | Jul 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
