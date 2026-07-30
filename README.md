@@ -57,12 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TikTok](https://www.tiktok.com)** | **[TikTok Short Drama Project Intern (TikTok-Short-Drama) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a3b45781232144fb15721e8?utm_campaign=1053&utm_source=git)** | Los Angeles, United States | On Site | Jul 29 |
+| **[Northside Hospital](http://www.northside.com)** | **[Department Intern](https://jobright.ai/jobs/info/6a679fe92bf1fb2b719260c2?utm_campaign=1053&utm_source=git)** | Canton, GA, United States | On Site | Jul 29 |
 | **[Cox Media Group](http://www.coxmediagroup.com)** | **[Intern (Part-Time) - Long Island Radio Job Details / Cox Media Group](https://jobright.ai/jobs/info/6a6aa16716c69119640ff404?utm_campaign=1053&utm_source=git)** | West Babylon, NY, United States | On Site | Jul 29 |
 | **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Current Programming Intern, Sony Pictures Television – Fall 2026](https://jobright.ai/jobs/info/6a6a8e6216c69119640ff02a?utm_campaign=1053&utm_source=git)** | Culver City, CA, United States | On Site | Jul 29 |
 | **[Barry Katz Entertainment](http://www.barrykatz.com)** | **[Barry Katz Entertainment Internship](https://jobright.ai/jobs/info/6a6144447196365a6f009e9d?utm_campaign=1053&utm_source=git)** | Malibu, California, United States | Hybrid | Jul 29 |
 | **[New York Post](http://nypost.com/)** | **[YouTube Intern, Fall 2026 (10 weeks, 24 hours a week)](https://jobright.ai/jobs/info/6a6a6aaf48355b3f12bf0eb2?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Jul 29 |
-| **[Northside Hospital](http://www.northside.com)** | **[Department Intern](https://jobright.ai/jobs/info/6a679fe92bf1fb2b719260c2?utm_campaign=1053&utm_source=git)** | Canton, GA, United States | On Site | Jul 29 |
-| **[New York Post](http://nypost.com/)** | **[Decider Features Intern, Fall 2026 (10 weeks, 24 hours a week)](https://jobright.ai/jobs/info/6a5fd3adf68dd368023e8de4?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Jul 29 |
+| ↳ | **[Decider Features Intern, Fall 2026 (10 weeks, 24 hours a week)](https://jobright.ai/jobs/info/6a5fd3adf68dd368023e8de4?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Jul 29 |
 | ↳ | **[Commerce Editorial Intern, Fall 2026 (10 weeks, 24 hours a week)](https://jobright.ai/jobs/info/6a5fd96a33ef5c58b400079f?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Jul 29 |
 | ↳ | **[Digital News Production Intern, Fall 2026 (10 weeks, 24 hours a week)](https://jobright.ai/jobs/info/6a5fcdb86e0c3c7c7d3d917a?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Jul 29 |
 | ↳ | **[Video Control Room Intern, Fall 2026 (10 weeks, 24 hours per week)](https://jobright.ai/jobs/info/6a5b5d7dc8e3a473cb8afea1?utm_campaign=1053&utm_source=git)** | NYC - 1211 Ave of the Americas, United States of America | On Site | Jul 29 |
@@ -131,7 +132,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a55cee7ef22935f2e3f75fe?utm_campaign=1053&utm_source=git)** | Omaha, NE, United States | Remote | Jul 27 |
 | **[FloSports](http://www.flosports.tv/)** | **[Fall Internship - MileSplit/FloTrack](https://jobright.ai/jobs/info/6a683ce357cfac3b21913d77?utm_campaign=1053&utm_source=git)** | Austin, TX, United States | On Site | Jul 27 |
 | **[The Aparecio Foundation](https://www.apareciofoundation.org)** | **[Volunteer/Intern:Editor of "Affairs" Content in Felix](https://jobright.ai/jobs/info/6a683b8c6eaf5519573a5e23?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | On Site | Jul 27 |
-| **[The Ambony](https://www.anpublishing.com/)** | **[Democratic Political Commentator Intern](https://jobright.ai/jobs/info/6a681e61fef68f206c370841?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Remote | Jul 27 |
+| **[The Ambony](https://www.anpublishing.com/)** | **[Democratic Political Commentator Intern](https://jobright.ai/jobs/info/6a681df0ca8eb3452eadaf17?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Remote | Jul 27 |
 | **[Community Media Center](https://www.carrollmediacenter.org)** | **[CMSportsNet Assistant Producer Internship](https://jobright.ai/jobs/info/6a682d3eb9adcd752800e05f?utm_campaign=1053&utm_source=git)** | Indiana, United States | On Site | Jul 27 |
 | **[Hasana, Inc.](http://shophasana.com)** | **[Volunteer/Intern: Videographer](https://jobright.ai/jobs/info/6a558556268af95237bec2dc?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | On Site | Jul 27 |
 | ↳ | **[Writers & Journalists Intern/Volunteer](https://jobright.ai/jobs/info/6a6808ae2bf1fb2b7192828a?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | On Site | Jul 27 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a57bac621f64463ad35b9e3?utm_campaign=1053&utm_source=git)** | Stillwater, OK, United States | Remote | Jul 26 |
 | ↳ | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a571260f7517b519ad58fae?utm_campaign=1053&utm_source=git)** | Cookeville, TN, United States | Remote | Jul 26 |
 | **[Resources for the Future](http://www.rff.org/)** | **[Editorial Intern (Fall Semester)](https://jobright.ai/jobs/info/6a5a0c05856af468ab0068ce?utm_campaign=1053&utm_source=git)** | Washington, DC, United States | On Site | Jul 26 |
-| **[Wolf Trap Foundation for the Performing Arts](https://www.wolftrap.org/)** | **[Intern, Opera Artistic Administration (Fall 2026)](https://jobright.ai/jobs/info/6a55d2c614f1040fa611ca3b?utm_campaign=1053&utm_source=git)** | Vienna, VA, United States | Hybrid | Jul 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
