@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Current Programming Intern, Sony Pictures Television – Fall 2026](https://jobright.ai/jobs/info/6a6a8e6216c69119640ff02a?utm_campaign=1053&utm_source=git)** | Culver City, CA, United States | On Site | Jul 29 |
 | **[Barry Katz Entertainment](http://www.barrykatz.com)** | **[Barry Katz Entertainment Internship](https://jobright.ai/jobs/info/6a6144447196365a6f009e9d?utm_campaign=1053&utm_source=git)** | Malibu, California, United States | Hybrid | Jul 29 |
 | **[New York Post](http://nypost.com/)** | **[YouTube Intern, Fall 2026 (10 weeks, 24 hours a week)](https://jobright.ai/jobs/info/6a6a6aaf48355b3f12bf0eb2?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Jul 29 |
 | **[Northside Hospital](http://www.northside.com)** | **[Department Intern](https://jobright.ai/jobs/info/6a679fe92bf1fb2b719260c2?utm_campaign=1053&utm_source=git)** | Canton, GA, United States | On Site | Jul 29 |
@@ -125,8 +126,8 @@ For a complete list, click the following sortable link below:
 | **[NBCUniversal](https://www.nbcuniversal.com/)** | **[NBC Telemundo CT Multiplatform Creative Intern Position - Academic Year 2026-2027](https://jobright.ai/jobs/info/6a59b840c8e3a473cb8a831d?utm_campaign=1053&utm_source=git)** | Hartford, CT, United States | On Site | Jul 28 |
 | **[American Enterprise Institute](http://www.aei.org)** | **[Fall Intern: Editing Services](https://jobright.ai/jobs/info/6a55efc5f7517b519ad51f58?utm_campaign=1053&utm_source=git)** | Washington, DC, United States | On Site | Jul 28 |
 | **[Arroyo Seco Saints](https://arroyosecosaints.com)** | **[Live Stream Production Intern](https://jobright.ai/jobs/info/6a6849856eaf5519573a5fdc?utm_campaign=1053&utm_source=git)** | Pasadena, CA, United States | On Site | Jul 27 |
-| **[ATIA Ltd](https://atia.ba/en_US/)** | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a55d05e05c65f7c8f4c823d?utm_campaign=1053&utm_source=git)** | Sacramento, CA, United States | Remote | Jul 27 |
-| ↳ | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a55cee7ef22935f2e3f75fe?utm_campaign=1053&utm_source=git)** | Omaha, NE, United States | Remote | Jul 27 |
+| **[ATIA Ltd](https://atia.ba/en_US/)** | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a55cee7ef22935f2e3f75fe?utm_campaign=1053&utm_source=git)** | Omaha, NE, United States | Remote | Jul 27 |
+| ↳ | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a55d05e05c65f7c8f4c823d?utm_campaign=1053&utm_source=git)** | Sacramento, CA, United States | Remote | Jul 27 |
 | **[FloSports](http://www.flosports.tv/)** | **[Fall Internship - MileSplit/FloTrack](https://jobright.ai/jobs/info/6a683ce357cfac3b21913d77?utm_campaign=1053&utm_source=git)** | Austin, TX, United States | On Site | Jul 27 |
 | **[The Aparecio Foundation](https://www.apareciofoundation.org)** | **[Volunteer/Intern:Editor of "Affairs" Content in Felix](https://jobright.ai/jobs/info/6a683b8c6eaf5519573a5e23?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | On Site | Jul 27 |
 | **[The Ambony](https://www.anpublishing.com/)** | **[Democratic Political Commentator Intern](https://jobright.ai/jobs/info/6a681df0ca8eb3452eadaf17?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Remote | Jul 27 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Resources for the Future](http://www.rff.org/)** | **[Editorial Intern (Fall Semester)](https://jobright.ai/jobs/info/6a5a0c05856af468ab0068ce?utm_campaign=1053&utm_source=git)** | Washington, DC, United States | On Site | Jul 26 |
 | **[Wolf Trap Foundation for the Performing Arts](https://www.wolftrap.org/)** | **[Intern, Opera Artistic Administration (Fall 2026)](https://jobright.ai/jobs/info/6a55d2c614f1040fa611ca3b?utm_campaign=1053&utm_source=git)** | Vienna, VA, United States | Hybrid | Jul 26 |
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a50ea2702522b5b722e5db2?utm_campaign=1053&utm_source=git)** | Gainesville, FL, United States | Remote | Jul 26 |
-| **[The Burnette Agency](https://theburnetteagency.com)** | **[Winter/Spring Semester Internship](https://jobright.ai/jobs/info/6a5434d3e726ec56126a97ae?utm_campaign=1053&utm_source=git)** | Atlanta, GA, United States | On Site | Jul 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
