@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Our National Conversation (ONC)](https://www.ournationalconversation.org)** | **[Moderate Writer Intern](https://jobright.ai/jobs/info/6a5339ac9fbdab22fe13eb81?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | Remote | Jul 30 |
 | **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Intern, Post Production - Sony Pictures Classics - Fall 2026](https://jobright.ai/jobs/info/6a6b709c32f9300c3a3ded9a?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Jul 30 |
+| **[Golden Hippo®](http://goldenhippomedia.com)** | **[Video Editing Intern](https://jobright.ai/jobs/info/6a565bfbe9b77f668bd62c38?utm_campaign=1053&utm_source=git)** | Woodland Hills, CA, United States | Hybrid | Jul 30 |
 | **[The University of Texas at Austin](http://www.texasenterprise.utexas.edu/)** | **[Video and Analytics Intern, Baseball](https://jobright.ai/jobs/info/6a6b6a4c5c54bc4752ce8d48?utm_campaign=1053&utm_source=git)** | UT Main Campus, United States | On Site | Jul 30 |
 | **[Golden Hippo®](http://goldenhippomedia.com)** | **[Testimonial Video Editor Intern](https://jobright.ai/jobs/info/6a555f6a268af95237beb476?utm_campaign=1053&utm_source=git)** | Woodland Hills, CA, United States | On Site | Jul 30 |
 | ↳ | **[Testimonial Video Editor Intern](https://jobright.ai/jobs/info/6a63260b426d415f66361dd4?utm_campaign=1053&utm_source=git)** | Woodland Hills, CA, United States | On Site | Jul 30 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a554fe22084cd792b477b0e?utm_campaign=1053&utm_source=git)** | Erie, PA, United States | Remote | Jul 27 |
 | **[BRIDGE SHOWROOM](http://www.bridgeshowroom.com)** | **[Fashion Intern at Chicago Collective](https://jobright.ai/jobs/info/6a68246251eb742d727563be?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | On Site | Jul 27 |
 | **[Damar Services, Inc.](https://www.damar.org)** | **[Fall Special Event and Volunteer Intern](https://jobright.ai/jobs/info/6a57dfea3330ca6f993c1b95?utm_campaign=1053&utm_source=git)** | Indianapolis, IN, United States | On Site | Jul 27 |
-| **[Terros Health](https://www.terroshealth.org/)** | **[Development Intern - Phoenix  (8144)](https://jobright.ai/jobs/info/6a5efa03d32b0656b39f6786?utm_campaign=1053&utm_source=git)** | Phoenix, AZ, United States | On Site | Jul 27 |
-| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid News Intern](https://jobright.ai/jobs/info/6972b01a9b83b424830eb8a4?utm_campaign=1053&utm_source=git)** | IN-Indianapolis;6910 Network Place (Tribune-WXIN/WTTV) | On Site | Jul 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
