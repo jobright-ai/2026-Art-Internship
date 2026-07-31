@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[adyn](https://www.adyn.com/)** | **[DIGITAL STORYTELLING INTERN](https://jobright.ai/jobs/info/6a6c41c2ca1f9338465fe5d6?utm_campaign=1053&utm_source=git)** | United States | Remote | Jul 30 |
+| **[Ever](https://evercars.com)** | **[Video Producer Internship](https://jobright.ai/jobs/info/6a5394bf8ef95364ead92a11?utm_campaign=1053&utm_source=git)** | San Francisco | On Site | Jul 30 |
 | **[American Public Health Association](https://www.apha.org)** | **[Multimedia Communications Internship: 2026 fall term](https://jobright.ai/jobs/info/6a6a458ac63ba56308f523d5?utm_campaign=1053&utm_source=git)** | Washington, DC, United States | Remote | Jul 30 |
 | **[Oakridge](https://oakridge.ltd)** | **[Social Media intern for Film Development and Film Production](https://jobright.ai/jobs/info/6a6bf12532f9300c3a3e1a20?utm_campaign=1053&utm_source=git)** | Los Angeles metropolitan area, United States | Remote | Jul 30 |
 | **[Dakota College at Bottineau](https://www.dakotacollege.edu/)** | **[Sports Information Intern (Part-Time, Temporary)](https://jobright.ai/jobs/info/6a6be74857120971bf3a9798?utm_campaign=1053&utm_source=git)** | Bismarck, ND, United States | On Site | Jul 30 |
@@ -67,7 +69,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a6bb02157120971bf3a84b2?utm_campaign=1053&utm_source=git)** | Newark, NJ, United States | On Site | Jul 30 |
 | **[WPHL-TV](https://www.phl17.com)** | **[Lifestyle Show Fall Intern](https://jobright.ai/jobs/info/6a6bad00acb0a61f9dbc22f0?utm_campaign=1053&utm_source=git)** | Philadelphia, PA, United States | On Site | Jul 30 |
 | **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a6baba4c00ae03109f8544b?utm_campaign=1053&utm_source=git)** | Atlanta, GA, United States | On Site | Jul 30 |
-| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Current Programming Intern, Sony Pictures Television – Fall 2026](https://jobright.ai/jobs/info/6a6a8e6216c69119640ff02a?utm_campaign=1053&utm_source=git)** | Culver City, CA, United States | On Site | Jul 30 |
+| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Current Programming Intern, Sony Pictures Television – Fall 2026](https://jobright.ai/jobs/info/6a6a8e3016c69119640ff021?utm_campaign=1053&utm_source=git)** | Culver City, CA, United States | On Site | Jul 30 |
 | **[Olaya Events & Company](https://www.olayaevents.com)** | **[Wedding & Events Intern](https://jobright.ai/jobs/info/6a6ba5b557120971bf3a8154?utm_campaign=1053&utm_source=git)** | Phoenix, AZ, United States | On Site | Jul 30 |
 | **[Pennsylvania Horticultural Society (PHS)](https://phsonline.org)** | **[Competitive Classes Intern](https://jobright.ai/jobs/info/6a6b90a75c54bc4752ce9b88?utm_campaign=1053&utm_source=git)** | Philadelphia, PA, United States | On Site | Jul 30 |
 | ↳ | **[Experience and Engagement Intern](https://jobright.ai/jobs/info/6a6b9096ca1f9338465fb1d3?utm_campaign=1053&utm_source=git)** | Philadelphia, PA, United States | On Site | Jul 30 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Arroyo Seco Saints](https://arroyosecosaints.com)** | **[Live Stream Production Intern](https://jobright.ai/jobs/info/6a6849856eaf5519573a5fdc?utm_campaign=1053&utm_source=git)** | Pasadena, CA, United States | On Site | Jul 27 |
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a55d05e05c65f7c8f4c823d?utm_campaign=1053&utm_source=git)** | Sacramento, CA, United States | Remote | Jul 27 |
 | ↳ | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a55cee7ef22935f2e3f75fe?utm_campaign=1053&utm_source=git)** | Omaha, NE, United States | Remote | Jul 27 |
-| **[FloSports](http://www.flosports.tv/)** | **[Fall Internship - MileSplit/FloTrack](https://jobright.ai/jobs/info/6a683ce357cfac3b21913d77?utm_campaign=1053&utm_source=git)** | Austin, TX, United States | On Site | Jul 27 |
-| **[The Aparecio Foundation](https://www.apareciofoundation.org)** | **[Volunteer/Intern:Editor of "Affairs" Content in Felix](https://jobright.ai/jobs/info/6a683b8c6eaf5519573a5e23?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | On Site | Jul 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
