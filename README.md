@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[NBCUniversal](https://www.nbcuniversal.com/)** | **[NBC Bay Area - Digital Internship  – Fall 2026](https://jobright.ai/jobs/info/6a6cce1cca1f933846600b0a?utm_campaign=1053&utm_source=git)** | San Jose, CA, United States | On Site | Jul 31 |
+| **[Acushnet Company](http://employment.acushnetgolf.com/)** | **[Winter 2027 Titleist Golf Ball Fitting Internship](https://jobright.ai/jobs/info/6a6cd3cc32f9300c3a3e573e?utm_campaign=1053&utm_source=git)** | Fairhaven, MA, United States | On Site | Jul 31 |
+| **[NBCUniversal](https://www.nbcuniversal.com/)** | **[NBC Bay Area - Digital Internship  – Fall 2026](https://jobright.ai/jobs/info/6a6cd378ba7efe79c2f66d3b?utm_campaign=1053&utm_source=git)** | San Jose, California, United States | On Site | Jul 31 |
+| ↳ | **[NBC Bay Area - Digital Internship  – Fall 2026](https://jobright.ai/jobs/info/6a6cce1cca1f933846600b0a?utm_campaign=1053&utm_source=git)** | San Jose, CA, United States | On Site | Jul 31 |
 | **[Fox Corporation](https://www.foxcorporation.com)** | **[Fall 2026 Big Ten Network Internship Program - Media Management](https://jobright.ai/jobs/info/6a6ccc7cca1f933846600a6d?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | On Site | Jul 31 |
 | **[OpenFortune 🥠](https://www.openfortune.com)** | **[Content Creation Intern](https://jobright.ai/jobs/info/6a6ccb18ca1f9338466009da?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Jul 31 |
 | **[Techyries](https://www.linktr.ee/techyries)** | **[Video Editing Intern](https://jobright.ai/jobs/info/6a6cc9bfca1f933846600946?utm_campaign=1053&utm_source=git)** | United States | Remote | Jul 31 |
@@ -81,7 +83,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a6bb02157120971bf3a84b2?utm_campaign=1053&utm_source=git)** | Newark, NJ, United States | On Site | Jul 30 |
 | **[WPHL-TV](https://www.phl17.com)** | **[Lifestyle Show Fall Intern](https://jobright.ai/jobs/info/6a6bad00acb0a61f9dbc22f0?utm_campaign=1053&utm_source=git)** | Philadelphia, PA, United States | On Site | Jul 30 |
 | **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a6baba4c00ae03109f8544b?utm_campaign=1053&utm_source=git)** | Atlanta, GA, United States | On Site | Jul 30 |
-| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Current Programming Intern, Sony Pictures Television – Fall 2026](https://jobright.ai/jobs/info/6a6a8e6216c69119640ff02a?utm_campaign=1053&utm_source=git)** | Culver City, CA, United States | On Site | Jul 30 |
+| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Current Programming Intern, Sony Pictures Television – Fall 2026](https://jobright.ai/jobs/info/6a6a8e3016c69119640ff021?utm_campaign=1053&utm_source=git)** | Culver City, CA, United States | On Site | Jul 30 |
 | **[Olaya Events & Company](https://www.olayaevents.com)** | **[Wedding & Events Intern](https://jobright.ai/jobs/info/6a6ba5b557120971bf3a8154?utm_campaign=1053&utm_source=git)** | Phoenix, AZ, United States | On Site | Jul 30 |
 | **[Pennsylvania Horticultural Society (PHS)](https://phsonline.org)** | **[Competitive Classes Intern](https://jobright.ai/jobs/info/6a6b90a75c54bc4752ce9b88?utm_campaign=1053&utm_source=git)** | Philadelphia, PA, United States | On Site | Jul 30 |
 | ↳ | **[Experience and Engagement Intern](https://jobright.ai/jobs/info/6a6b9096ca1f9338465fb1d3?utm_campaign=1053&utm_source=git)** | Philadelphia, PA, United States | On Site | Jul 30 |
@@ -116,7 +118,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Video Control Room Intern, Fall 2026 (10 weeks, 24 hours per week)](https://jobright.ai/jobs/info/6a5b5d7dc8e3a473cb8afea1?utm_campaign=1053&utm_source=git)** | NYC - 1211 Ave of the Americas, United States of America | On Site | Jul 29 |
 | ↳ | **[Page Six Video Intern, Fall 2026 (10 weeks, 24 hours a week)](https://jobright.ai/jobs/info/6a5fbc4b33ef5c58b4fffc1e?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Jul 29 |
 | **[Nikon Inc.](https://www.nikonusa.com/)** | **[Video Editor & Production Intern](https://jobright.ai/jobs/info/6a6a61bc0b42f866b61985de?utm_campaign=1053&utm_source=git)** | Melville, NY, United States | On Site | Jul 29 |
-| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Production/Promotions Internship](https://jobright.ai/jobs/info/6a6a5b91c63ba56308f52bca?utm_campaign=1053&utm_source=git)** | Rockford, IL, United States | On Site | Jul 29 |
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a55cdc914f1040fa611c18b?utm_campaign=1053&utm_source=git)** | Virginia Beach, VA, United States | Remote | Jul 29 |
 | **[Advisors Excel](http://advisorsexcel.com)** | **[Video & Audio Production Intern](https://jobright.ai/jobs/info/6a57bad2e9b77f668bd6a67e?utm_campaign=1053&utm_source=git)** | Topeka, KS, United States | On Site | Jul 29 |
 | **[Highgate](https://www.highgate.com)** | **[Culinary Intern](https://jobright.ai/jobs/info/6a6a41a516c69119640fd46d?utm_campaign=1053&utm_source=git)** | Las Vegas, NV, United States | On Site | Jul 29 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a545437e726ec56126a9e8d?utm_campaign=1053&utm_source=git)** | Lexington, VA, United States | Remote | Jul 28 |
 | **[Paradigm Communications Group](http://www.alaskaairlinesmagazine.com)** | **[Editorial Intern at Alaska Airlines Magazine](https://jobright.ai/jobs/info/6a50a9082e2ceb72963b46c6?utm_campaign=1053&utm_source=git)** | Seattle, WA, United States | On Site | Jul 28 |
 | **[NCAA](https://www.ncaa.org)** | **[Media Coordination and Statistics Intern - NCAA Seasonal internship](https://jobright.ai/jobs/info/6a68c8145d01972698ee4401?utm_campaign=1053&utm_source=git)** | Indianapolis, IN, United States | Hybrid | Jul 28 |
-| **[Norfolk Admirals](https://www.norfolkadmirals.com/)** | **[Entertainment/Production Internship](https://jobright.ai/jobs/info/6a68ba3153f0806be6cff60e?utm_campaign=1053&utm_source=git)** | Norfolk, VA, United States | On Site | Jul 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
