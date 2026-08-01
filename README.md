@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ATIA Ltd](https://atia.ba/en_US/)** | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a5435c1c8eb0843027af266?utm_campaign=1053&utm_source=git)** | Bakersfield, CA, United States | Remote | Aug 01 |
+| ↳ | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a51dea58d7d3e6cf1cc4186?utm_campaign=1053&utm_source=git)** | Cedar City, UT, United States | Remote | Aug 01 |
 | **[TikTok](https://www.tiktok.com)** | **[Creator LIVE Project Intern (TikTok Shop - US Operation) - 2026 Start](https://jobright.ai/jobs/info/6a6d59e966158d7ef887d420?utm_campaign=1053&utm_source=git)** | Los Angeles, United States | On Site | Jul 31 |
 | **[Braathe Enterprises](http://www.beyourstart.com)** | **[Virtual Journalism Internship](https://jobright.ai/jobs/info/6a55bd2405c65f7c8f4c6f4d?utm_campaign=1053&utm_source=git)** | Saratoga Springs, NY, United States | Remote | Jul 31 |
 | **[Place Showroom](http://placeshowroom.com)** | **[LA Internship Fall 2026](https://jobright.ai/jobs/info/6a6d3e06ba7efe79c2f6914e?utm_campaign=1053&utm_source=git)** | Los Angeles, United States | On Site | Jul 31 |
@@ -98,7 +100,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a6bb02157120971bf3a84b2?utm_campaign=1053&utm_source=git)** | Newark, NJ, United States | On Site | Jul 30 |
 | **[WPHL-TV](https://www.phl17.com)** | **[Lifestyle Show Fall Intern](https://jobright.ai/jobs/info/6a6bad00acb0a61f9dbc22f0?utm_campaign=1053&utm_source=git)** | Philadelphia, PA, United States | On Site | Jul 30 |
 | **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a6baba4c00ae03109f8544b?utm_campaign=1053&utm_source=git)** | Atlanta, GA, United States | On Site | Jul 30 |
-| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Current Programming Intern, Sony Pictures Television – Fall 2026](https://jobright.ai/jobs/info/6a6a8e6216c69119640ff02a?utm_campaign=1053&utm_source=git)** | Culver City, CA, United States | On Site | Jul 30 |
+| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Current Programming Intern, Sony Pictures Television – Fall 2026](https://jobright.ai/jobs/info/6a6a8e3016c69119640ff021?utm_campaign=1053&utm_source=git)** | Culver City, CA, United States | On Site | Jul 30 |
 | **[Olaya Events & Company](https://www.olayaevents.com)** | **[Wedding & Events Intern](https://jobright.ai/jobs/info/6a6ba5b557120971bf3a8154?utm_campaign=1053&utm_source=git)** | Phoenix, AZ, United States | On Site | Jul 30 |
 | **[Pawford](https://pawford.com)** | **[Dog Content Creator Intern (Pet Content)](https://jobright.ai/jobs/info/6a6b9a9632f9300c3a3dfd6d?utm_campaign=1053&utm_source=git)** | Dallas, TX, United States | Hybrid | Jul 30 |
 | **[Pennsylvania Horticultural Society (PHS)](https://phsonline.org)** | **[Competitive Classes Intern](https://jobright.ai/jobs/info/6a6b90a75c54bc4752ce9b88?utm_campaign=1053&utm_source=git)** | Philadelphia, PA, United States | On Site | Jul 30 |
@@ -110,8 +112,8 @@ For a complete list, click the following sortable link below:
 | **[Golden Hippo®](http://goldenhippomedia.com)** | **[Video Editing Intern](https://jobright.ai/jobs/info/6a565bfbe9b77f668bd62c38?utm_campaign=1053&utm_source=git)** | Woodland Hills, CA, United States | Hybrid | Jul 30 |
 | ↳ | **[Testimonial Video Editor Intern](https://jobright.ai/jobs/info/6a5542ab4119652ff386468e?utm_campaign=1053&utm_source=git)** | Woodland Hills, CA, United States | On Site | Jul 30 |
 | **[The University of Texas at Austin](http://www.texasenterprise.utexas.edu/)** | **[Video and Analytics Intern, Baseball](https://jobright.ai/jobs/info/6a6b6a4c5c54bc4752ce8d48?utm_campaign=1053&utm_source=git)** | UT Main Campus, United States | On Site | Jul 30 |
-| **[Golden Hippo®](http://goldenhippomedia.com)** | **[Testimonial Video Editor Intern](https://jobright.ai/jobs/info/6a63260b426d415f66361dd4?utm_campaign=1053&utm_source=git)** | Woodland Hills, CA, United States | On Site | Jul 30 |
-| ↳ | **[Testimonial Video Editor Intern](https://jobright.ai/jobs/info/6a555f6a268af95237beb476?utm_campaign=1053&utm_source=git)** | Woodland Hills, CA, United States | On Site | Jul 30 |
+| **[Golden Hippo®](http://goldenhippomedia.com)** | **[Testimonial Video Editor Intern](https://jobright.ai/jobs/info/6a555f6a268af95237beb476?utm_campaign=1053&utm_source=git)** | Woodland Hills, CA, United States | On Site | Jul 30 |
+| ↳ | **[Testimonial Video Editor Intern](https://jobright.ai/jobs/info/6a63260b426d415f66361dd4?utm_campaign=1053&utm_source=git)** | Woodland Hills, CA, United States | On Site | Jul 30 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Lifestyle Show Fall Intern](https://jobright.ai/jobs/info/6a6b5ff157120971bf3a6640?utm_campaign=1053&utm_source=git)** | Philadelphia, PA, United States | On Site | Jul 30 |
 | **[Music Label Co.](https://musiclabel.co/)** | **[Sync Coordinator Internship](https://jobright.ai/jobs/info/6a6b42dcca1f9338465f957d?utm_campaign=1053&utm_source=git)** | Clifton, NJ, United States | Hybrid | Jul 30 |
 | **[The Aparecio Foundation](https://www.apareciofoundation.org)** | **[Production Associate Intern/Volunteer](https://jobright.ai/jobs/info/6a6b27d757120971bf3a55df?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | On Site | Jul 30 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[California Appellate Project (San Francisco)](http://www.capsf.org)** | **[Summer Intern - 2027](https://jobright.ai/jobs/info/6a69688d2a5c103624db4911?utm_campaign=1053&utm_source=git)** | San Francisco, CA, United States | Hybrid | Jul 28 |
 | **[MBJ Network](www.mbj-network.com)** | **[Assistant Editor- Intern](https://jobright.ai/jobs/info/6a5f566df68dd368023e62c0?utm_campaign=1053&utm_source=git)** | Lombard, IL, United States | Remote | Jul 28 |
 | **[Watertown Shamrocks](https://watertownshamrocks.com/)** | **[Broadcast Production Assistant Internship](https://jobright.ai/jobs/info/6a695cf75d01972698ee7b5f?utm_campaign=1053&utm_source=git)** | Watertown, SD, United States | On Site | Jul 28 |
-| **[The Corelink Solution](http://www.thecorelinksolution.com)** | **[Assistant Radio Producer (Intern)](https://jobright.ai/jobs/info/6a6958aa3b549b0b531d51ad?utm_campaign=1053&utm_source=git)** | Wilmington, DE, United States | Remote | Jul 28 |
-| **[Platte River Power Authority](https://www.prpa.org/)** | **[Event Planning Intern](https://jobright.ai/jobs/info/6a6932cbceb2691dfb207f29?utm_campaign=1053&utm_source=git)** | Fort Collins, CO, United States | On Site | Jul 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
