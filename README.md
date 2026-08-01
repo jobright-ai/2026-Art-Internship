@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[ATIA Ltd](https://atia.ba/en_US/)** | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a52c848e726ec56126a48a5?utm_campaign=1053&utm_source=git)** | Las Vegas, NV, United States | Remote | Aug 01 |
+| **[ATIA Ltd](https://atia.ba/en_US/)** | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a554fe94119652ff3864e1b?utm_campaign=1053&utm_source=git)** | Mesa, AZ, United States | Remote | Aug 01 |
+| ↳ | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a52c848e726ec56126a48a5?utm_campaign=1053&utm_source=git)** | Las Vegas, NV, United States | Remote | Aug 01 |
 | **[TAKSHILA Inc](https://takshila.co)** | **[Content Creator — Internship Program](https://jobright.ai/jobs/info/6a6dd21dad0fe2053db9cd14?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 01 |
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a5435c1c8eb0843027af266?utm_campaign=1053&utm_source=git)** | Bakersfield, CA, United States | Remote | Aug 01 |
 | ↳ | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a51dea58d7d3e6cf1cc4186?utm_campaign=1053&utm_source=git)** | Cedar City, UT, United States | Remote | Aug 01 |
@@ -66,8 +67,8 @@ For a complete list, click the following sortable link below:
 | **[Place Showroom](http://placeshowroom.com)** | **[LA Internship Fall 2026](https://jobright.ai/jobs/info/6a6d3e06ba7efe79c2f6914e?utm_campaign=1053&utm_source=git)** | Los Angeles, United States | On Site | Jul 31 |
 | **[Tampa Bay Rays](https://www.mlb.com/rays)** | **[Intern, Fan Experience](https://jobright.ai/jobs/info/6a6d5173ca1f9338466034a7?utm_campaign=1053&utm_source=git)** | St. Petersburg, FL, United States | On Site | Jul 31 |
 | **[ArtsQuest](http://www.artsquest.org/)** | **[ARTS ADMIN & EDUCATION INTERN](https://jobright.ai/jobs/info/6a6cf05eacb0a61f9dbc807b?utm_campaign=1053&utm_source=git)** | Bethlehem, PA, United States | On Site | Jul 31 |
-| **[New York Post](http://nypost.com/)** | **[Sports Video Production Intern, Fall 2026 (10 weeks, 24 hours a week)](https://jobright.ai/jobs/info/6a6cf6cf5c54bc4752cf05f2?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Jul 31 |
-| ↳ | **[Video Field Production Intern, Fall 2026 (10 weeks, 24 hours a week)](https://jobright.ai/jobs/info/6a6cf1dfba7efe79c2f67923?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Jul 31 |
+| **[New York Post](http://nypost.com/)** | **[Video Field Production Intern, Fall 2026 (10 weeks, 24 hours a week)](https://jobright.ai/jobs/info/6a6cf1dfba7efe79c2f67923?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Jul 31 |
+| ↳ | **[Sports Video Production Intern, Fall 2026 (10 weeks, 24 hours a week)](https://jobright.ai/jobs/info/6a6cf6cf5c54bc4752cf05f2?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Jul 31 |
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a513ea957513b72e0c65379?utm_campaign=1053&utm_source=git)** | Houston, TX, United States | Remote | Jul 31 |
 | **[Acushnet Company](http://employment.acushnetgolf.com/)** | **[Winter 2027 Titleist Golf Ball Fitting Internship](https://jobright.ai/jobs/info/6a6cd3cc32f9300c3a3e573e?utm_campaign=1053&utm_source=git)** | Fairhaven, MA, United States | On Site | Jul 31 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Arts and Culture Data & Planning Intern](https://jobright.ai/jobs/info/6a6cf8045c54bc4752cf0629?utm_campaign=1053&utm_source=git)** | Massachusetts, United States | Remote | Jul 31 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[MBJ Network](www.mbj-network.com)** | **[Assistant Editor- Intern](https://jobright.ai/jobs/info/6a5f566df68dd368023e62c0?utm_campaign=1053&utm_source=git)** | Lombard, IL, United States | Remote | Jul 28 |
 | **[Watertown Shamrocks](https://watertownshamrocks.com/)** | **[Broadcast Production Assistant Internship](https://jobright.ai/jobs/info/6a695cf75d01972698ee7b5f?utm_campaign=1053&utm_source=git)** | Watertown, SD, United States | On Site | Jul 28 |
 | **[The Corelink Solution](http://www.thecorelinksolution.com)** | **[Assistant Radio Producer (Intern)](https://jobright.ai/jobs/info/6a6958aa3b549b0b531d51ad?utm_campaign=1053&utm_source=git)** | Wilmington, DE, United States | Remote | Jul 28 |
-| **[Platte River Power Authority](https://www.prpa.org/)** | **[Event Planning Intern](https://jobright.ai/jobs/info/6a6932cbceb2691dfb207f29?utm_campaign=1053&utm_source=git)** | Fort Collins, CO, United States | On Site | Jul 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
