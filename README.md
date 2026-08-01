@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Whitney Museum of American Art](http://whitney.org)** | **[[Fall 2026] Digital Content Internship](https://jobright.ai/jobs/info/6a3c55468bfad862bc99a18a?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Hybrid | Aug 01 |
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a55cde505c65f7c8f4c7cd5?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | Remote | Aug 01 |
 | ↳ | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a554fe94119652ff3864e1b?utm_campaign=1053&utm_source=git)** | Mesa, AZ, United States | Remote | Aug 01 |
 | ↳ | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a52c848e726ec56126a48a5?utm_campaign=1053&utm_source=git)** | Las Vegas, NV, United States | Remote | Aug 01 |
@@ -135,6 +136,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Page Six Video Intern, Fall 2026 (10 weeks, 24 hours a week)](https://jobright.ai/jobs/info/6a5fbc4b33ef5c58b4fffc1e?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Jul 29 |
 | **[Nikon Inc.](https://www.nikonusa.com/)** | **[Video Editor & Production Intern](https://jobright.ai/jobs/info/6a6a61bc0b42f866b61985de?utm_campaign=1053&utm_source=git)** | Melville, NY, United States | On Site | Jul 29 |
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a55cdc914f1040fa611c18b?utm_campaign=1053&utm_source=git)** | Virginia Beach, VA, United States | Remote | Jul 29 |
+| **[Kentucky Farm Bureau Insurance](http://kyfb.com)** | **[Video Production intern](https://jobright.ai/jobs/info/6a4e5869397d8d353c288736?utm_campaign=1053&utm_source=git)** | Louisville, KY, United States | On Site | Jul 29 |
 | **[Advisors Excel](http://advisorsexcel.com)** | **[Video & Audio Production Intern](https://jobright.ai/jobs/info/6a57bad2e9b77f668bd6a67e?utm_campaign=1053&utm_source=git)** | Topeka, KS, United States | On Site | Jul 29 |
 | **[Highgate](https://www.highgate.com)** | **[Culinary Intern](https://jobright.ai/jobs/info/6a6a41a516c69119640fd46d?utm_campaign=1053&utm_source=git)** | Las Vegas, NV, United States | On Site | Jul 29 |
 | **[Monumental Sports & Entertainment](http://www.monumentalsports.com/)** | **[Internship: Video Editor (Part-Time/Seasonal)](https://jobright.ai/jobs/info/6a6a303d0b42f866b61974a7?utm_campaign=1053&utm_source=git)** | Washington, DC, United States | On Site | Jul 29 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Corelink Solution](http://www.thecorelinksolution.com)** | **[Artist Community Manager (Volunteer / Intern)](https://jobright.ai/jobs/info/6a5711d4f7517b519ad58faa?utm_campaign=1053&utm_source=git)** | Wilmington, DE, United States | Hybrid | Jul 28 |
 | **[California Appellate Project (San Francisco)](http://www.capsf.org)** | **[Summer Intern - 2027](https://jobright.ai/jobs/info/6a69688d2a5c103624db4911?utm_campaign=1053&utm_source=git)** | San Francisco, CA, United States | Hybrid | Jul 28 |
 | **[MBJ Network](www.mbj-network.com)** | **[Assistant Editor- Intern](https://jobright.ai/jobs/info/6a5f566df68dd368023e62c0?utm_campaign=1053&utm_source=git)** | Lombard, IL, United States | Remote | Jul 28 |
-| **[Watertown Shamrocks](https://watertownshamrocks.com/)** | **[Broadcast Production Assistant Internship](https://jobright.ai/jobs/info/6a695cf75d01972698ee7b5f?utm_campaign=1053&utm_source=git)** | Watertown, SD, United States | On Site | Jul 28 |
-| **[The Corelink Solution](http://www.thecorelinksolution.com)** | **[Assistant Radio Producer (Intern)](https://jobright.ai/jobs/info/6a6958aa3b549b0b531d51ad?utm_campaign=1053&utm_source=git)** | Wilmington, DE, United States | Remote | Jul 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
