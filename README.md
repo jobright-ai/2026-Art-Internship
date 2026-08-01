@@ -57,10 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[ATIA Ltd](https://atia.ba/en_US/)** | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a554fe94119652ff3864e1b?utm_campaign=1053&utm_source=git)** | Mesa, AZ, United States | Remote | Aug 01 |
+| **[ATIA Ltd](https://atia.ba/en_US/)** | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a55cde505c65f7c8f4c7cd5?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | Remote | Aug 01 |
+| ↳ | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a554fe94119652ff3864e1b?utm_campaign=1053&utm_source=git)** | Mesa, AZ, United States | Remote | Aug 01 |
 | ↳ | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a52c848e726ec56126a48a5?utm_campaign=1053&utm_source=git)** | Las Vegas, NV, United States | Remote | Aug 01 |
-| **[TAKSHILA Inc](https://takshila.co)** | **[Content Creator — Internship Program](https://jobright.ai/jobs/info/6a6dd21dad0fe2053db9cd14?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 01 |
-| **[ATIA Ltd](https://atia.ba/en_US/)** | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a5435c1c8eb0843027af266?utm_campaign=1053&utm_source=git)** | Bakersfield, CA, United States | Remote | Aug 01 |
+| ↳ | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a5435c1c8eb0843027af266?utm_campaign=1053&utm_source=git)** | Bakersfield, CA, United States | Remote | Aug 01 |
 | ↳ | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a51dea58d7d3e6cf1cc4186?utm_campaign=1053&utm_source=git)** | Cedar City, UT, United States | Remote | Aug 01 |
 | **[TikTok](https://www.tiktok.com)** | **[Creator LIVE Project Intern (TikTok Shop - US Operation) - 2026 Start](https://jobright.ai/jobs/info/6a6d59e966158d7ef887d420?utm_campaign=1053&utm_source=git)** | Los Angeles, United States | On Site | Jul 31 |
 | **[Braathe Enterprises](http://www.beyourstart.com)** | **[Virtual Journalism Internship](https://jobright.ai/jobs/info/6a55bd2405c65f7c8f4c6f4d?utm_campaign=1053&utm_source=git)** | Saratoga Springs, NY, United States | Remote | Jul 31 |
