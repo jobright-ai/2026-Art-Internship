@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ATIA Ltd](https://atia.ba/en_US/)** | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a52c848e726ec56126a48a5?utm_campaign=1053&utm_source=git)** | Las Vegas, NV, United States | Remote | Aug 01 |
 | **[TAKSHILA Inc](https://takshila.co)** | **[Content Creator — Internship Program](https://jobright.ai/jobs/info/6a6dd21dad0fe2053db9cd14?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 01 |
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a5435c1c8eb0843027af266?utm_campaign=1053&utm_source=git)** | Bakersfield, CA, United States | Remote | Aug 01 |
 | ↳ | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a51dea58d7d3e6cf1cc4186?utm_campaign=1053&utm_source=git)** | Cedar City, UT, United States | Remote | Aug 01 |
@@ -98,7 +99,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a6bb02157120971bf3a84b2?utm_campaign=1053&utm_source=git)** | Newark, NJ, United States | On Site | Jul 30 |
 | **[WPHL-TV](https://www.phl17.com)** | **[Lifestyle Show Fall Intern](https://jobright.ai/jobs/info/6a6bad00acb0a61f9dbc22f0?utm_campaign=1053&utm_source=git)** | Philadelphia, PA, United States | On Site | Jul 30 |
 | **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a6baba4c00ae03109f8544b?utm_campaign=1053&utm_source=git)** | Atlanta, GA, United States | On Site | Jul 30 |
-| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Current Programming Intern, Sony Pictures Television – Fall 2026](https://jobright.ai/jobs/info/6a6a8e3016c69119640ff021?utm_campaign=1053&utm_source=git)** | Culver City, CA, United States | On Site | Jul 30 |
+| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Current Programming Intern, Sony Pictures Television – Fall 2026](https://jobright.ai/jobs/info/6a6a8e6216c69119640ff02a?utm_campaign=1053&utm_source=git)** | Culver City, CA, United States | On Site | Jul 30 |
 | **[Olaya Events & Company](https://www.olayaevents.com)** | **[Wedding & Events Intern](https://jobright.ai/jobs/info/6a6ba5b557120971bf3a8154?utm_campaign=1053&utm_source=git)** | Phoenix, AZ, United States | On Site | Jul 30 |
 | **[Pawford](https://pawford.com)** | **[Dog Content Creator Intern (Pet Content)](https://jobright.ai/jobs/info/6a6b9a9632f9300c3a3dfd6d?utm_campaign=1053&utm_source=git)** | Dallas, TX, United States | Hybrid | Jul 30 |
 | **[Pennsylvania Horticultural Society (PHS)](https://phsonline.org)** | **[Competitive Classes Intern](https://jobright.ai/jobs/info/6a6b90a75c54bc4752ce9b88?utm_campaign=1053&utm_source=git)** | Philadelphia, PA, United States | On Site | Jul 30 |
@@ -136,6 +137,7 @@ For a complete list, click the following sortable link below:
 | **[Advisors Excel](http://advisorsexcel.com)** | **[Video & Audio Production Intern](https://jobright.ai/jobs/info/6a57bad2e9b77f668bd6a67e?utm_campaign=1053&utm_source=git)** | Topeka, KS, United States | On Site | Jul 29 |
 | **[Highgate](https://www.highgate.com)** | **[Culinary Intern](https://jobright.ai/jobs/info/6a6a41a516c69119640fd46d?utm_campaign=1053&utm_source=git)** | Las Vegas, NV, United States | On Site | Jul 29 |
 | **[Monumental Sports & Entertainment](http://www.monumentalsports.com/)** | **[Internship: Video Editor (Part-Time/Seasonal)](https://jobright.ai/jobs/info/6a6a303d0b42f866b61974a7?utm_campaign=1053&utm_source=git)** | Washington, DC, United States | On Site | Jul 29 |
+| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Drama Development Intern - Fall 2026](https://jobright.ai/jobs/info/6a6e1f28c56c0956e8adabaa?utm_campaign=1053&utm_source=git)** | Culver City, CA, United States | On Site | Jul 29 |
 | **[The Aparecio Foundation](https://www.apareciofoundation.org)** | **[Food & Prop Stylist Intern/Volunteer](https://jobright.ai/jobs/info/6a6a0bff8693c23e7fb7863f?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | On Site | Jul 29 |
 | ↳ | **[Volunteer/Intern:Pro-bono Editor of "Fashion" Content in Felix](https://jobright.ai/jobs/info/6a69ff1416c69119640fbc4a?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | On Site | Jul 29 |
 | **[American Enterprise Institute](http://www.aei.org)** | **[Fall Intern: Events](https://jobright.ai/jobs/info/6a560dd4f7517b519ad5378c?utm_campaign=1053&utm_source=git)** | Washington, DC, United States | On Site | Jul 29 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Watertown Shamrocks](https://watertownshamrocks.com/)** | **[Broadcast Production Assistant Internship](https://jobright.ai/jobs/info/6a695cf75d01972698ee7b5f?utm_campaign=1053&utm_source=git)** | Watertown, SD, United States | On Site | Jul 28 |
 | **[The Corelink Solution](http://www.thecorelinksolution.com)** | **[Assistant Radio Producer (Intern)](https://jobright.ai/jobs/info/6a6958aa3b549b0b531d51ad?utm_campaign=1053&utm_source=git)** | Wilmington, DE, United States | Remote | Jul 28 |
 | **[Platte River Power Authority](https://www.prpa.org/)** | **[Event Planning Intern](https://jobright.ai/jobs/info/6a6932cbceb2691dfb207f29?utm_campaign=1053&utm_source=git)** | Fort Collins, CO, United States | On Site | Jul 28 |
-| **[Jomboy Media](https://jomboymedia.com)** | **[Research and Stats Intern- Fall 2026](https://jobright.ai/jobs/info/6a69421936d36c1ff2998eb2?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Jul 28 |
-| **[FloSports](http://www.flosports.tv/)** | **[Fall Internship - Content Video Production](https://jobright.ai/jobs/info/6a68e05c05bae84301b5915e?utm_campaign=1053&utm_source=git)** | Austin, TX, United States | On Site | Jul 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
