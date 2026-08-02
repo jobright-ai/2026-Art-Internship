@@ -59,7 +59,6 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Flighthouse Media](https://www.flighthousemedia.com)** | **[Syndication Intern](https://jobright.ai/jobs/info/6a5ca78b4da96a42cfd9cf98?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 02 |
 | **[Hasana, Inc.](http://shophasana.com)** | **[Film & Video Internship](https://jobright.ai/jobs/info/6a5997544da96a42cfd91dd0?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | On Site | Aug 01 |
-| **[adyn](https://www.adyn.com/)** | **[DIGITAL STORYTELLING INTERN](https://jobright.ai/jobs/info/6a6ecb7241b41d325296c04a?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 01 |
 | **[Russ & Daughters](http://www.russanddaughters.com)** | **[INTERNSHIP](https://jobright.ai/jobs/info/6a5bca514da96a42cfd9b256?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Aug 01 |
 | **[Whitney Museum of American Art](http://whitney.org)** | **[[Fall 2026] Digital Content Internship](https://jobright.ai/jobs/info/6a3c55468bfad862bc99a18a?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Hybrid | Aug 01 |
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a55cde505c65f7c8f4c7cd5?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | Remote | Aug 01 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Development Intern, Sony Nonfiction - Fall 2026](https://jobright.ai/jobs/info/6a6d8346020ee9240900a684?utm_campaign=1053&utm_source=git)** | Van Nuys, CA, United States | On Site | Jul 28 |
 | **[The Corelink Solution](http://www.thecorelinksolution.com)** | **[Artist Community Manager (Volunteer / Intern)](https://jobright.ai/jobs/info/6a5711d4f7517b519ad58faa?utm_campaign=1053&utm_source=git)** | Wilmington, DE, United States | Hybrid | Jul 28 |
 | **[California Appellate Project (San Francisco)](http://www.capsf.org)** | **[Summer Intern - 2027](https://jobright.ai/jobs/info/6a69688d2a5c103624db4911?utm_campaign=1053&utm_source=git)** | San Francisco, CA, United States | Hybrid | Jul 28 |
+| **[MBJ Network](www.mbj-network.com)** | **[Assistant Editor- Intern](https://jobright.ai/jobs/info/6a5f566df68dd368023e62c0?utm_campaign=1053&utm_source=git)** | Lombard, IL, United States | Remote | Jul 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
