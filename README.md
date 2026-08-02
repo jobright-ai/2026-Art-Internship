@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hasana, Inc.](http://shophasana.com)** | **[Film & Video Internship](https://jobright.ai/jobs/info/6a5997544da96a42cfd91dd0?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | On Site | Aug 01 |
 | **[adyn](https://www.adyn.com/)** | **[DIGITAL STORYTELLING INTERN](https://jobright.ai/jobs/info/6a6ecb7241b41d325296c04a?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 01 |
 | **[Russ & Daughters](http://www.russanddaughters.com)** | **[INTERNSHIP](https://jobright.ai/jobs/info/6a5bca514da96a42cfd9b256?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Aug 01 |
 | **[Whitney Museum of American Art](http://whitney.org)** | **[[Fall 2026] Digital Content Internship](https://jobright.ai/jobs/info/6a3c55468bfad862bc99a18a?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Hybrid | Aug 01 |
@@ -94,7 +95,6 @@ For a complete list, click the following sortable link below:
 | **[Ever](https://evercars.com)** | **[Video Producer Internship](https://jobright.ai/jobs/info/6a5394bf8ef95364ead92a11?utm_campaign=1053&utm_source=git)** | San Francisco | On Site | Jul 30 |
 | **[American Public Health Association](https://www.apha.org)** | **[Multimedia Communications Internship: 2026 fall term](https://jobright.ai/jobs/info/6a6a458ac63ba56308f523d5?utm_campaign=1053&utm_source=git)** | Washington, DC, United States | Remote | Jul 30 |
 | **[Maine Mariners](https://www.marinersofmaine.com)** | **[Digital Intern](https://jobright.ai/jobs/info/6a6d9165ca1f933846603f17?utm_campaign=1053&utm_source=git)** | Portland, ME, United States | On Site | Jul 30 |
-| **[Oakridge](https://oakridge.ltd)** | **[Social Media intern for Film Development and Film Production](https://jobright.ai/jobs/info/6a6bf12532f9300c3a3e1a20?utm_campaign=1053&utm_source=git)** | Los Angeles metropolitan area, United States | Remote | Jul 30 |
 | **[Dakota College at Bottineau](https://www.dakotacollege.edu/)** | **[Sports Information Intern (Part-Time, Temporary)](https://jobright.ai/jobs/info/6a6be74857120971bf3a9798?utm_campaign=1053&utm_source=git)** | Bismarck, ND, United States | On Site | Jul 30 |
 | **[Metropolitan Area Planning Council (MAPC)](https://mapc.org)** | **[Arts and Culture Data & Planning Intern](https://jobright.ai/jobs/info/6a6cff6a32f9300c3a3e6714?utm_campaign=1053&utm_source=git)** | Boston, MA, United States | Remote | Jul 30 |
 | **[BRIDGE SHOWROOM](http://www.bridgeshowroom.com)** | **[Fashion Intern at Coterie NY](https://jobright.ai/jobs/info/6a6bc5e1c00ae03109f85e4c?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Jul 30 |
