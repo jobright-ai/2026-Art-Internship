@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Monumental Sports & Entertainment](http://www.monumentalsports.com/)** | **[Internship: Fan Development (Part-Time/Seasonal)](https://jobright.ai/jobs/info/6a70b3f6cb96192a36844faa?utm_campaign=1053&utm_source=git)** | Washington, DC, United States | On Site | Aug 03 |
+| **[The Ambony](https://www.anpublishing.com/)** | **[Journalism Editor Internship (POC Society Platform)](https://jobright.ai/jobs/info/6a70ab2ee2b7476e7b20a21d?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Remote | Aug 03 |
+| **[SharkNinja](http://www.sharkninja.com)** | **[Fall 2026: Social Sharks, Social Content Creator & On-Camera Talent Intern (August to December)](https://jobright.ai/jobs/info/6a70a97c02d93145bf88b672?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Aug 03 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid News Intern](https://jobright.ai/jobs/info/6972b01a9b83b424830eb8a4?utm_campaign=1053&utm_source=git)** | IN-Indianapolis;6910 Network Place (Tribune-WXIN/WTTV) | On Site | Aug 03 |
 | **[The AR Agency](www.thearagencyny.com)** | **[Fashion Week Internship](https://jobright.ai/jobs/info/6a709a8ee2b7476e7b209aa5?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Aug 03 |
 | **[The Aparecio Foundation](https://www.apareciofoundation.org)** | **[Bookings Associate Intern/Volunteer](https://jobright.ai/jobs/info/6a54dfdb31f2d15a8d813c00?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | On Site | Aug 03 |
@@ -112,7 +115,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a6bb02157120971bf3a84b2?utm_campaign=1053&utm_source=git)** | Newark, NJ, United States | On Site | Jul 30 |
 | **[WPHL-TV](https://www.phl17.com)** | **[Lifestyle Show Fall Intern](https://jobright.ai/jobs/info/6a6bad00acb0a61f9dbc22f0?utm_campaign=1053&utm_source=git)** | Philadelphia, PA, United States | On Site | Jul 30 |
 | **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a6baba4c00ae03109f8544b?utm_campaign=1053&utm_source=git)** | Atlanta, GA, United States | On Site | Jul 30 |
-| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Current Programming Intern, Sony Pictures Television – Fall 2026](https://jobright.ai/jobs/info/6a6a8e6216c69119640ff02a?utm_campaign=1053&utm_source=git)** | Culver City, CA, United States | On Site | Jul 30 |
+| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Current Programming Intern, Sony Pictures Television – Fall 2026](https://jobright.ai/jobs/info/6a6a8e3016c69119640ff021?utm_campaign=1053&utm_source=git)** | Culver City, CA, United States | On Site | Jul 30 |
 | **[Pennsylvania Horticultural Society (PHS)](https://phsonline.org)** | **[Competitive Classes Intern](https://jobright.ai/jobs/info/6a6b90a75c54bc4752ce9b88?utm_campaign=1053&utm_source=git)** | Philadelphia, PA, United States | On Site | Jul 30 |
 | ↳ | **[Experience and Engagement Intern](https://jobright.ai/jobs/info/6a6b9096ca1f9338465fb1d3?utm_campaign=1053&utm_source=git)** | Philadelphia, PA, United States | On Site | Jul 30 |
 | ↳ | **[Operations Intern, Shows](https://jobright.ai/jobs/info/6a6b909232f9300c3a3df9d1?utm_campaign=1053&utm_source=git)** | Philadelphia, PA, United States | On Site | Jul 30 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[American Enterprise Institute](http://www.aei.org)** | **[Fall Intern: Events](https://jobright.ai/jobs/info/6a560dd4f7517b519ad5378c?utm_campaign=1053&utm_source=git)** | Washington, DC, United States | On Site | Jul 29 |
 | **[PURPLE](https://purplepr.com)** | **[Experiential Production Intern](https://jobright.ai/jobs/info/6a69dd7009998f68b5a6dea3?utm_campaign=1053&utm_source=git)** | New York, United States | Hybrid | Jul 29 |
 | **[Damar Services, Inc.](https://www.damar.org)** | **[Special Events and Volunteer Intern](https://jobright.ai/jobs/info/6a69cbd58693c23e7fb7777e?utm_campaign=1053&utm_source=git)** | Indianapolis, IN, United States | On Site | Jul 29 |
-| **[PR Consulting](http://prconsulting.net)** | **[PRC Internship, Fashion](https://jobright.ai/jobs/info/6a69c45bc63ba56308f4fd87?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Jul 29 |
-| ↳ | **[PRC Internship, Digital](https://jobright.ai/jobs/info/6a69c45219d76667a2abc2bf?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Hybrid | Jul 29 |
-| ↳ | **[PRC Internship, Lifestyle](https://jobright.ai/jobs/info/6a69c44d09998f68b5a6d8bb?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Hybrid | Jul 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
