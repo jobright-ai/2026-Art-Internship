@@ -57,14 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[American Institute of Physics](http://aip.org/)** | **[Science Writer Intern](https://jobright.ai/jobs/info/6a70bc92357dfc6ff2b3aa36?utm_campaign=1053&utm_source=git)** | College Park, MD, United States | Hybrid | Aug 03 |
+| **[99 Yards](https://99yards.app)** | **[New York Fashion Week Internship Program – September 2026](https://jobright.ai/jobs/info/6a70baf671acd469eed9f35c?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Aug 03 |
 | **[Monumental Sports & Entertainment](http://www.monumentalsports.com/)** | **[Internship: Fan Development (Part-Time/Seasonal)](https://jobright.ai/jobs/info/6a70b3f6cb96192a36844faa?utm_campaign=1053&utm_source=git)** | Washington, DC, United States | On Site | Aug 03 |
 | **[The Ambony](https://www.anpublishing.com/)** | **[Journalism Editor Internship (POC Society Platform)](https://jobright.ai/jobs/info/6a70ab2ee2b7476e7b20a21d?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Remote | Aug 03 |
 | **[SharkNinja](http://www.sharkninja.com)** | **[Fall 2026: Social Sharks, Social Content Creator & On-Camera Talent Intern (August to December)](https://jobright.ai/jobs/info/6a70a97c02d93145bf88b672?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Aug 03 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid News Intern](https://jobright.ai/jobs/info/6972b01a9b83b424830eb8a4?utm_campaign=1053&utm_source=git)** | IN-Indianapolis;6910 Network Place (Tribune-WXIN/WTTV) | On Site | Aug 03 |
 | **[The AR Agency](www.thearagencyny.com)** | **[Fashion Week Internship](https://jobright.ai/jobs/info/6a709a8ee2b7476e7b209aa5?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Aug 03 |
 | **[The Aparecio Foundation](https://www.apareciofoundation.org)** | **[Bookings Associate Intern/Volunteer](https://jobright.ai/jobs/info/6a54dfdb31f2d15a8d813c00?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | On Site | Aug 03 |
-| **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Paid Fall Music Group Publishing Intern](https://jobright.ai/jobs/info/6a51e35202522b5b722ed11d?utm_campaign=1053&utm_source=git)** | Calabasas, CA, United States | On Site | Aug 03 |
-| ↳ | **[Paid Fall Music Group Publishing Intern](https://jobright.ai/jobs/info/6a1d313d7c457b279080e614?utm_campaign=1053&utm_source=git)** | Calabasas, CA, USA, US | On Site | Aug 03 |
+| **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Paid Fall Music Group Publishing Intern](https://jobright.ai/jobs/info/6a1d313d7c457b279080e614?utm_campaign=1053&utm_source=git)** | Calabasas, CA, USA, US | On Site | Aug 03 |
+| ↳ | **[Paid Fall Music Group Publishing Intern](https://jobright.ai/jobs/info/6a51e35202522b5b722ed11d?utm_campaign=1053&utm_source=git)** | Calabasas, CA, United States | On Site | Aug 03 |
 | **[The Brand Leader](https://thebrandleader.com/)** | **[Fall 2026 Content Creator Intern](https://jobright.ai/jobs/info/6a592301856af468ab001f8f?utm_campaign=1053&utm_source=git)** | Greenville, SC, United States | On Site | Aug 03 |
 | **[Film Pittsburgh](http://www.FilmPittsburgh.org)** | **[Spring Festival Internship](https://jobright.ai/jobs/info/6a43ed470153061b8b3de9c6?utm_campaign=1053&utm_source=git)** | Pittsburgh, PA, United States | Hybrid | Aug 02 |
 | **[OTTera, Inc.](http://www.ottera.tv/)** | **[Content Creator Intern](https://jobright.ai/jobs/info/6a5ae1cc63a8f619507c8d0c?utm_campaign=1053&utm_source=git)** | North Hollywood, CA, United States | On Site | Aug 02 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Aparecio Foundation](https://www.apareciofoundation.org)** | **[Food & Prop Stylist Intern/Volunteer](https://jobright.ai/jobs/info/6a6a0bff8693c23e7fb7863f?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | On Site | Jul 29 |
 | ↳ | **[Volunteer/Intern:Pro-bono Editor of "Fashion" Content in Felix](https://jobright.ai/jobs/info/6a69ff1416c69119640fbc4a?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | On Site | Jul 29 |
 | **[American Enterprise Institute](http://www.aei.org)** | **[Fall Intern: Events](https://jobright.ai/jobs/info/6a560dd4f7517b519ad5378c?utm_campaign=1053&utm_source=git)** | Washington, DC, United States | On Site | Jul 29 |
-| **[PURPLE](https://purplepr.com)** | **[Experiential Production Intern](https://jobright.ai/jobs/info/6a69dd7009998f68b5a6dea3?utm_campaign=1053&utm_source=git)** | New York, United States | Hybrid | Jul 29 |
-| **[Damar Services, Inc.](https://www.damar.org)** | **[Special Events and Volunteer Intern](https://jobright.ai/jobs/info/6a69cbd58693c23e7fb7777e?utm_campaign=1053&utm_source=git)** | Indianapolis, IN, United States | On Site | Jul 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
