@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid News Intern](https://jobright.ai/jobs/info/6972b01a9b83b424830eb8a4?utm_campaign=1053&utm_source=git)** | IN-Indianapolis;6910 Network Place (Tribune-WXIN/WTTV) | On Site | Aug 03 |
+| **[The AR Agency](www.thearagencyny.com)** | **[Fashion Week Internship](https://jobright.ai/jobs/info/6a709a8ee2b7476e7b209aa5?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Aug 03 |
 | **[The Aparecio Foundation](https://www.apareciofoundation.org)** | **[Bookings Associate Intern/Volunteer](https://jobright.ai/jobs/info/6a54dfdb31f2d15a8d813c00?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | On Site | Aug 03 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Paid Fall Music Group Publishing Intern](https://jobright.ai/jobs/info/6a51e35202522b5b722ed11d?utm_campaign=1053&utm_source=git)** | Calabasas, CA, United States | On Site | Aug 03 |
 | ↳ | **[Paid Fall Music Group Publishing Intern](https://jobright.ai/jobs/info/6a1d313d7c457b279080e614?utm_campaign=1053&utm_source=git)** | Calabasas, CA, USA, US | On Site | Aug 03 |
@@ -104,14 +106,13 @@ For a complete list, click the following sortable link below:
 | **[American Public Health Association](https://www.apha.org)** | **[Multimedia Communications Internship: 2026 fall term](https://jobright.ai/jobs/info/6a6a458ac63ba56308f523d5?utm_campaign=1053&utm_source=git)** | Washington, DC, United States | Remote | Jul 30 |
 | **[Maine Mariners](https://www.marinersofmaine.com)** | **[Digital Intern](https://jobright.ai/jobs/info/6a6d9165ca1f933846603f17?utm_campaign=1053&utm_source=git)** | Portland, ME, United States | On Site | Jul 30 |
 | **[Dakota College at Bottineau](https://www.dakotacollege.edu/)** | **[Sports Information Intern (Part-Time, Temporary)](https://jobright.ai/jobs/info/6a6be74857120971bf3a9798?utm_campaign=1053&utm_source=git)** | Bismarck, ND, United States | On Site | Jul 30 |
-| **[Metropolitan Area Planning Council (MAPC)](https://mapc.org)** | **[Arts and Culture Data & Planning Intern](https://jobright.ai/jobs/info/6a6cff6a32f9300c3a3e6714?utm_campaign=1053&utm_source=git)** | Boston, MA, United States | Remote | Jul 30 |
 | **[BRIDGE SHOWROOM](http://www.bridgeshowroom.com)** | **[Fashion Intern at Coterie NY](https://jobright.ai/jobs/info/6a6bc5e1c00ae03109f85e4c?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Jul 30 |
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a5943e363a8f619507c1603?utm_campaign=1053&utm_source=git)** | Valdosta, GA, United States | Remote | Jul 30 |
 | **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a6bb0325c54bc4752cea68f?utm_campaign=1053&utm_source=git)** | Philadelphia, PA, United States | On Site | Jul 30 |
 | ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a6bb02157120971bf3a84b2?utm_campaign=1053&utm_source=git)** | Newark, NJ, United States | On Site | Jul 30 |
 | **[WPHL-TV](https://www.phl17.com)** | **[Lifestyle Show Fall Intern](https://jobright.ai/jobs/info/6a6bad00acb0a61f9dbc22f0?utm_campaign=1053&utm_source=git)** | Philadelphia, PA, United States | On Site | Jul 30 |
 | **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a6baba4c00ae03109f8544b?utm_campaign=1053&utm_source=git)** | Atlanta, GA, United States | On Site | Jul 30 |
-| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Current Programming Intern, Sony Pictures Television – Fall 2026](https://jobright.ai/jobs/info/6a6a8e3016c69119640ff021?utm_campaign=1053&utm_source=git)** | Culver City, CA, United States | On Site | Jul 30 |
+| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Current Programming Intern, Sony Pictures Television – Fall 2026](https://jobright.ai/jobs/info/6a6a8e6216c69119640ff02a?utm_campaign=1053&utm_source=git)** | Culver City, CA, United States | On Site | Jul 30 |
 | **[Pennsylvania Horticultural Society (PHS)](https://phsonline.org)** | **[Competitive Classes Intern](https://jobright.ai/jobs/info/6a6b90a75c54bc4752ce9b88?utm_campaign=1053&utm_source=git)** | Philadelphia, PA, United States | On Site | Jul 30 |
 | ↳ | **[Experience and Engagement Intern](https://jobright.ai/jobs/info/6a6b9096ca1f9338465fb1d3?utm_campaign=1053&utm_source=git)** | Philadelphia, PA, United States | On Site | Jul 30 |
 | ↳ | **[Operations Intern, Shows](https://jobright.ai/jobs/info/6a6b909232f9300c3a3df9d1?utm_campaign=1053&utm_source=git)** | Philadelphia, PA, United States | On Site | Jul 30 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[PR Consulting](http://prconsulting.net)** | **[PRC Internship, Fashion](https://jobright.ai/jobs/info/6a69c45bc63ba56308f4fd87?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Jul 29 |
 | ↳ | **[PRC Internship, Digital](https://jobright.ai/jobs/info/6a69c45219d76667a2abc2bf?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Hybrid | Jul 29 |
 | ↳ | **[PRC Internship, Lifestyle](https://jobright.ai/jobs/info/6a69c44d09998f68b5a6d8bb?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Hybrid | Jul 29 |
-| ↳ | **[PRC Internship, Beauty](https://jobright.ai/jobs/info/6a69c4428693c23e7fb77505?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Jul 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
