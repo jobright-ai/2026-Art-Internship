@@ -57,11 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TikTok](https://www.tiktok.com)** | **[Agency Ops Project Intern (TikTok Local Services) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a5076339469c06620351013?utm_campaign=1053&utm_source=git)** | Los Angeles, United States | On Site | Aug 04 |
+| **[Diocese of Austin](http://www.austindiocese.org)** | **[AV Intern](https://jobright.ai/jobs/info/6a710275ee751e0c793420eb?utm_campaign=1053&utm_source=git)** | Austin, TX, United States | On Site | Aug 04 |
 | **[Society19](https://www.society19.com/)** | **[U.K. Lifestyle Magazine Writing Intern](https://jobright.ai/jobs/info/6a569ed9efb06a45240d7188?utm_campaign=1053&utm_source=git)** | Boston, MA, United States | Remote | Aug 04 |
 | **[Noble Media Marketing](https://www.noblemediamarketing.com/)** | **[Photography & Videography Intern](https://jobright.ai/jobs/info/6a7173a5e2b7476e7b20e24d?utm_campaign=1053&utm_source=git)** | Canada | Remote | Aug 03 |
 | **[hello82](https://hello82.com/pages/about)** | **[Content Group Intern](https://jobright.ai/jobs/info/6a5ebdfd67b2850e77df2dd9?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | On Site | Aug 03 |
 | **[University of Portland](http://www.up.edu)** | **[CSWS Digital Archival Intern-Portland Parks & Recreation](https://jobright.ai/jobs/info/6a7134c971acd469eeda215a?utm_campaign=1053&utm_source=git)** | Portland, OR, United States | On Site | Aug 03 |
-| **[Diocese of Austin](http://www.austindiocese.org)** | **[AV Intern](https://jobright.ai/jobs/info/6a710275ee751e0c793420eb?utm_campaign=1053&utm_source=git)** | Austin, TX, United States | On Site | Aug 03 |
 | **[LOVB Nebraska](https://lovb.com/teams/lovb-nebraska-volleyball)** | **[Fan Experience & Engagement Intern](https://jobright.ai/jobs/info/6a70f79ce2b7476e7b20c159?utm_campaign=1053&utm_source=git)** | Omaha, NE, United States | On Site | Aug 03 |
 | **[Portal Innovations](https://www.portalinnovations.com/)** | **[Member Experience Intern - FALL 2026](https://jobright.ai/jobs/info/6a70ebc0e2b7476e7b20bc8b?utm_campaign=1053&utm_source=git)** | Providence, RI, United States | On Site | Aug 03 |
 | **[Salt River Fields at Talking Stick](http://www.saltriverfields.com)** | **[Fall Events Intern](https://jobright.ai/jobs/info/6a70e7ddcb96192a36846624?utm_campaign=1053&utm_source=git)** | Scottsdale, AZ, United States | On Site | Aug 03 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Barry Katz Entertainment](http://www.barrykatz.com)** | **[Barry Katz Entertainment Internship](https://jobright.ai/jobs/info/6a6144447196365a6f009e9d?utm_campaign=1053&utm_source=git)** | Malibu, California, United States | Hybrid | Jul 29 |
 | **[New York Post](http://nypost.com/)** | **[YouTube Intern, Fall 2026 (10 weeks, 24 hours a week)](https://jobright.ai/jobs/info/6a6a6aaf48355b3f12bf0eb2?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Jul 29 |
 | ↳ | **[Decider Features Intern, Fall 2026 (10 weeks, 24 hours a week)](https://jobright.ai/jobs/info/6a5fd3adf68dd368023e8de4?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Jul 29 |
-| ↳ | **[Commerce Editorial Intern, Fall 2026 (10 weeks, 24 hours a week)](https://jobright.ai/jobs/info/6a5fd96a33ef5c58b400079f?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Jul 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
