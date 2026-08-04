@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Elite Podcast Studio](ElitePodcastStudio.com)** | **[The Next Viral Content Creator (Internship)](https://jobright.ai/jobs/info/6a72298671acd469eeda64b1?utm_campaign=1053&utm_source=git)** | Odessa, FL, United States | On Site | Aug 04 |
+| **[BRIDGE SHOWROOM](http://www.bridgeshowroom.com)** | **[Fashion Intern at Chicago Collective](https://jobright.ai/jobs/info/6a72281771acd469eeda6414?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | On Site | Aug 04 |
+| **[Tumbling Dumpling Media](https://www.linkedin.com/company/109629621)** | **[Editorial Intern](https://jobright.ai/jobs/info/6a722815ee751e0c79347243?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 04 |
+| **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Production Assistant Intern - Student Employment](https://jobright.ai/jobs/info/6a7221d6e2b7476e7b211774?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | On Site | Aug 04 |
 | **[ElectraCast Media](http://www.electracast.com)** | **[Intern Podcast & Marketing Clips Editor](https://jobright.ai/jobs/info/6a721bcfee751e0c79346ed0?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 04 |
 | **[The Untitled Space](https://untitled-space.com)** | **[Art Gallery Internship](https://jobright.ai/jobs/info/6a721a6bee751e0c79346e02?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Aug 04 |
 | **[MARKHAM](https://www.markham.co/)** | **[Event Internship- New York](https://jobright.ai/jobs/info/6a720133cb96192a3684b64d?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Aug 04 |
@@ -111,8 +115,8 @@ For a complete list, click the following sortable link below:
 | **[Place Showroom](http://placeshowroom.com)** | **[LA Internship Fall 2026](https://jobright.ai/jobs/info/6a6d3e06ba7efe79c2f6914e?utm_campaign=1053&utm_source=git)** | Los Angeles, United States | On Site | Jul 31 |
 | **[Tampa Bay Rays](https://www.mlb.com/rays)** | **[Intern, Fan Experience](https://jobright.ai/jobs/info/6a6d5173ca1f9338466034a7?utm_campaign=1053&utm_source=git)** | St. Petersburg, FL, United States | On Site | Jul 31 |
 | **[ArtsQuest](http://www.artsquest.org/)** | **[ARTS ADMIN & EDUCATION INTERN](https://jobright.ai/jobs/info/6a6cf05eacb0a61f9dbc807b?utm_campaign=1053&utm_source=git)** | Bethlehem, PA, United States | On Site | Jul 31 |
-| **[New York Post](http://nypost.com/)** | **[Video Field Production Intern, Fall 2026 (10 weeks, 24 hours a week)](https://jobright.ai/jobs/info/6a6cf1dfba7efe79c2f67923?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Jul 31 |
-| ↳ | **[Sports Video Production Intern, Fall 2026 (10 weeks, 24 hours a week)](https://jobright.ai/jobs/info/6a6cf6cf5c54bc4752cf05f2?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Jul 31 |
+| **[New York Post](http://nypost.com/)** | **[Sports Video Production Intern, Fall 2026 (10 weeks, 24 hours a week)](https://jobright.ai/jobs/info/6a6cf6cf5c54bc4752cf05f2?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Jul 31 |
+| ↳ | **[Video Field Production Intern, Fall 2026 (10 weeks, 24 hours a week)](https://jobright.ai/jobs/info/6a6cf1dfba7efe79c2f67923?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Jul 31 |
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a513ea957513b72e0c65379?utm_campaign=1053&utm_source=git)** | Houston, TX, United States | Remote | Jul 31 |
 | **[Acushnet Company](http://employment.acushnetgolf.com/)** | **[Winter 2027 Titleist Golf Ball Fitting Internship](https://jobright.ai/jobs/info/6a6cd3cc32f9300c3a3e573e?utm_campaign=1053&utm_source=git)** | Fairhaven, MA, United States | On Site | Jul 31 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Arts and Culture Data & Planning Intern](https://jobright.ai/jobs/info/6a6cf8045c54bc4752cf0629?utm_campaign=1053&utm_source=git)** | Massachusetts, United States | Remote | Jul 31 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Testimonial Video Editor Intern](https://jobright.ai/jobs/info/6a5542ab4119652ff386468e?utm_campaign=1053&utm_source=git)** | Woodland Hills, CA, United States | On Site | Jul 30 |
 | **[The University of Texas at Austin](http://www.texasenterprise.utexas.edu/)** | **[Video and Analytics Intern, Baseball](https://jobright.ai/jobs/info/6a6b6a4c5c54bc4752ce8d48?utm_campaign=1053&utm_source=git)** | UT Main Campus, United States | On Site | Jul 30 |
 | **[Golden Hippo®](http://goldenhippomedia.com)** | **[Testimonial Video Editor Intern](https://jobright.ai/jobs/info/6a555f6a268af95237beb476?utm_campaign=1053&utm_source=git)** | Woodland Hills, CA, United States | On Site | Jul 30 |
-| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Lifestyle Show Fall Intern](https://jobright.ai/jobs/info/6a6b5ff157120971bf3a6640?utm_campaign=1053&utm_source=git)** | Philadelphia, PA, United States | On Site | Jul 30 |
-| **[The Aparecio Foundation](https://www.apareciofoundation.org)** | **[Production Associate Intern/Volunteer](https://jobright.ai/jobs/info/6a6b27d757120971bf3a55df?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | On Site | Jul 30 |
-| **[Pearl West](https://www.pearlwestgroup.com)** | **[TikTok Shop Intern](https://jobright.ai/jobs/info/6a6b244032f9300c3a3dd1db?utm_campaign=1053&utm_source=git)** | Vancouver, BC, Canada | Hybrid | Jul 30 |
-| **[Summer Friday](https://heysummerfriday.com/)** | **[Video Producer Intern (Post-Production & Project Management)](https://jobright.ai/jobs/info/6a6b2237c00ae03109f81fac?utm_campaign=1053&utm_source=git)** | United States | Remote | Jul 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
