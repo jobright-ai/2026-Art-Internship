@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Peoria Park District](https://peoriaparks.org)** | **[Event Planning Intern Zoo](https://jobright.ai/jobs/info/6a73699ae55c73319eb17197?utm_campaign=1053&utm_source=git)** | Peoria, IL, United States | On Site | Aug 05 |
 | **[MARKARIAN](https://markarian-nyc.com)** | **[Fall Development & Production Intern](https://jobright.ai/jobs/info/6a735e73e55c73319eb16c45?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Aug 05 |
 | **[Mercatus Center at George Mason University](http://mercatus.org)** | **[Production Intern](https://jobright.ai/jobs/info/6a734e701ce9647cdbca7454?utm_campaign=1053&utm_source=git)** | Arlington, VA, United States | Hybrid | Aug 05 |
 | ↳ | **[Production Intern](https://jobright.ai/jobs/info/6a734c228cd88e7ccbf57801?utm_campaign=1053&utm_source=git)** | Arlington, VA, United States | Hybrid | Aug 05 |
@@ -129,8 +130,8 @@ For a complete list, click the following sortable link below:
 | **[Place Showroom](http://placeshowroom.com)** | **[LA Internship Fall 2026](https://jobright.ai/jobs/info/6a6d3e06ba7efe79c2f6914e?utm_campaign=1053&utm_source=git)** | Los Angeles, United States | On Site | Jul 31 |
 | **[Tampa Bay Rays](https://www.mlb.com/rays)** | **[Intern, Fan Experience](https://jobright.ai/jobs/info/6a6d5173ca1f9338466034a7?utm_campaign=1053&utm_source=git)** | St. Petersburg, FL, United States | On Site | Jul 31 |
 | **[ArtsQuest](http://www.artsquest.org/)** | **[ARTS ADMIN & EDUCATION INTERN](https://jobright.ai/jobs/info/6a6cf05eacb0a61f9dbc807b?utm_campaign=1053&utm_source=git)** | Bethlehem, PA, United States | On Site | Jul 31 |
-| **[New York Post](http://nypost.com/)** | **[Sports Video Production Intern, Fall 2026 (10 weeks, 24 hours a week)](https://jobright.ai/jobs/info/6a6cf6cf5c54bc4752cf05f2?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Jul 31 |
-| ↳ | **[Video Field Production Intern, Fall 2026 (10 weeks, 24 hours a week)](https://jobright.ai/jobs/info/6a6cf1dfba7efe79c2f67923?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Jul 31 |
+| **[New York Post](http://nypost.com/)** | **[Video Field Production Intern, Fall 2026 (10 weeks, 24 hours a week)](https://jobright.ai/jobs/info/6a6cf1dfba7efe79c2f67923?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Jul 31 |
+| ↳ | **[Sports Video Production Intern, Fall 2026 (10 weeks, 24 hours a week)](https://jobright.ai/jobs/info/6a6cf6cf5c54bc4752cf05f2?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Jul 31 |
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a513ea957513b72e0c65379?utm_campaign=1053&utm_source=git)** | Houston, TX, United States | Remote | Jul 31 |
 | **[Acushnet Company](http://employment.acushnetgolf.com/)** | **[Winter 2027 Titleist Golf Ball Fitting Internship](https://jobright.ai/jobs/info/6a6cd3cc32f9300c3a3e573e?utm_campaign=1053&utm_source=git)** | Fairhaven, MA, United States | On Site | Jul 31 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Arts and Culture Data & Planning Intern](https://jobright.ai/jobs/info/6a6cf8045c54bc4752cf0629?utm_campaign=1053&utm_source=git)** | Massachusetts, United States | Remote | Jul 31 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Dakota College at Bottineau](https://www.dakotacollege.edu/)** | **[Sports Information Intern (Part-Time, Temporary)](https://jobright.ai/jobs/info/6a6be74857120971bf3a9798?utm_campaign=1053&utm_source=git)** | Bismarck, ND, United States | On Site | Jul 30 |
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a5943e363a8f619507c1603?utm_campaign=1053&utm_source=git)** | Valdosta, GA, United States | Remote | Jul 30 |
 | **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a6bb0325c54bc4752cea68f?utm_campaign=1053&utm_source=git)** | Philadelphia, PA, United States | On Site | Jul 30 |
-| ↳ | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a6bb02157120971bf3a84b2?utm_campaign=1053&utm_source=git)** | Newark, NJ, United States | On Site | Jul 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
