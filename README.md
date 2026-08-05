@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Travel Radar](https://travelradar.aero)** | **[News Editor Internship (REMOTE)](https://jobright.ai/jobs/info/6a738f6a6a034212ea0284fa?utm_campaign=1053&utm_source=git)** | Florida, United States | Remote | Aug 05 |
+| **[Mueller Sports Medicine, Inc.](http://muellersportsmed.com)** | **[Digital Content Producer Intern](https://jobright.ai/jobs/info/6a7386d38cd88e7ccbf58fae?utm_campaign=1053&utm_source=git)** | Prairie du Sac, WI, United States | On Site | Aug 05 |
 | **[Daniel Stark Injury Lawyers](https://www.danielstarklaw.com/austin)** | **[Video Editing Intern](https://jobright.ai/jobs/info/6a73819a1ce9647cdbca88e1?utm_campaign=1053&utm_source=git)** | Austin, TX, United States | On Site | Aug 05 |
 | ↳ | **[Video Editing Intern](https://jobright.ai/jobs/info/6a7381991ce9647cdbca88df?utm_campaign=1053&utm_source=git)** | Bryan, TX, United States | On Site | Aug 05 |
 | ↳ | **[Video Editing Intern](https://jobright.ai/jobs/info/6a73819332ebbc14ffb4f611?utm_campaign=1053&utm_source=git)** | Killeen, TX, United States | On Site | Aug 05 |
@@ -68,11 +70,10 @@ For a complete list, click the following sortable link below:
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid News Intern](https://jobright.ai/jobs/info/6972b01a9b83b424830eb8a4?utm_campaign=1053&utm_source=git)** | IN-Indianapolis;6910 Network Place (Tribune-WXIN/WTTV) | On Site | Aug 05 |
 | ↳ | **[WAVY Unpaid Sports Intern, Fall 2026](https://jobright.ai/jobs/info/69fc4646633e68586cd30319?utm_campaign=1053&utm_source=git)** | VA, Portsmouth, US | On Site | Aug 05 |
 | **[The Aparecio Foundation](https://www.apareciofoundation.org)** | **[Volunteer/Intern: Pro bono: Editor of "People" Content in Felix](https://jobright.ai/jobs/info/6a7328136a034212ea025ec8?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | On Site | Aug 05 |
-| **[Kelly Tutors](www.kellytutors.com)** | **[Children's Book Publishing Intern (2-4hrs/week, remote)](https://jobright.ai/jobs/info/6a729af5e2b7476e7b21406b?utm_campaign=1053&utm_source=git)** | Seattle, WA, United States | Remote | Aug 04 |
 | **[Arcpoint Studios](http://www.arcpointstudios.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/6a728e50e2b7476e7b213de9?utm_campaign=1053&utm_source=git)** | Fort Worth, TX, United States | Hybrid | Aug 04 |
 | **[Daniel Stark Injury Lawyers](https://www.danielstarklaw.com/austin)** | **[Video Editing Intern](https://jobright.ai/jobs/info/6a737f7532ebbc14ffb4f557?utm_campaign=1053&utm_source=git)** | Killeen, TX, United States | On Site | Aug 04 |
-| ↳ | **[Video Editing Intern](https://jobright.ai/jobs/info/6a737f6d8cd88e7ccbf58cc8?utm_campaign=1053&utm_source=git)** | Bryan, TX, United States | On Site | Aug 04 |
 | ↳ | **[Video Editing Intern](https://jobright.ai/jobs/info/6a737f6a8cd88e7ccbf58cc6?utm_campaign=1053&utm_source=git)** | Irving, TX, United States | On Site | Aug 04 |
+| ↳ | **[Video Editing Intern](https://jobright.ai/jobs/info/6a737f6d8cd88e7ccbf58cc8?utm_campaign=1053&utm_source=git)** | Bryan, TX, United States | On Site | Aug 04 |
 | ↳ | **[Video Editing Intern](https://jobright.ai/jobs/info/6a737f73e55c73319eb17a9b?utm_campaign=1053&utm_source=git)** | Austin, TX, United States | On Site | Aug 04 |
 | **[Grayson Sky](https://www.graysonsky.com/)** | **[Video Editor Intern](https://jobright.ai/jobs/info/6a725c4e02d93145bf894587?utm_campaign=1053&utm_source=git)** | Philadelphia, PA, United States | On Site | Aug 04 |
 | **[Evolve Studios®](https://evolve.studio)** | **[Assistant Editor Internship](https://jobright.ai/jobs/info/6a42d4796a9c2774b3fa77aa?utm_campaign=1053&utm_source=git)** | Franklin, TN, United States | On Site | Aug 04 |
@@ -136,8 +137,8 @@ For a complete list, click the following sortable link below:
 | **[Place Showroom](http://placeshowroom.com)** | **[LA Internship Fall 2026](https://jobright.ai/jobs/info/6a6d3e06ba7efe79c2f6914e?utm_campaign=1053&utm_source=git)** | Los Angeles, United States | On Site | Jul 31 |
 | **[Tampa Bay Rays](https://www.mlb.com/rays)** | **[Intern, Fan Experience](https://jobright.ai/jobs/info/6a6d5173ca1f9338466034a7?utm_campaign=1053&utm_source=git)** | St. Petersburg, FL, United States | On Site | Jul 31 |
 | **[ArtsQuest](http://www.artsquest.org/)** | **[ARTS ADMIN & EDUCATION INTERN](https://jobright.ai/jobs/info/6a6cf05eacb0a61f9dbc807b?utm_campaign=1053&utm_source=git)** | Bethlehem, PA, United States | On Site | Jul 31 |
-| **[New York Post](http://nypost.com/)** | **[Sports Video Production Intern, Fall 2026 (10 weeks, 24 hours a week)](https://jobright.ai/jobs/info/6a6cf6cf5c54bc4752cf05f2?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Jul 31 |
-| ↳ | **[Video Field Production Intern, Fall 2026 (10 weeks, 24 hours a week)](https://jobright.ai/jobs/info/6a6cf1dfba7efe79c2f67923?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Jul 31 |
+| **[New York Post](http://nypost.com/)** | **[Video Field Production Intern, Fall 2026 (10 weeks, 24 hours a week)](https://jobright.ai/jobs/info/6a6cf1dfba7efe79c2f67923?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Jul 31 |
+| ↳ | **[Sports Video Production Intern, Fall 2026 (10 weeks, 24 hours a week)](https://jobright.ai/jobs/info/6a6cf6cf5c54bc4752cf05f2?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Jul 31 |
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a513ea957513b72e0c65379?utm_campaign=1053&utm_source=git)** | Houston, TX, United States | Remote | Jul 31 |
 | **[Acushnet Company](http://employment.acushnetgolf.com/)** | **[Winter 2027 Titleist Golf Ball Fitting Internship](https://jobright.ai/jobs/info/6a6cd3cc32f9300c3a3e573e?utm_campaign=1053&utm_source=git)** | Fairhaven, MA, United States | On Site | Jul 31 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Arts and Culture Data & Planning Intern](https://jobright.ai/jobs/info/6a6cf8045c54bc4752cf0629?utm_campaign=1053&utm_source=git)** | Massachusetts, United States | Remote | Jul 31 |
@@ -147,7 +148,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[NBC Bay Area - Digital Internship  – Fall 2026](https://jobright.ai/jobs/info/6a6cce1cca1f933846600b0a?utm_campaign=1053&utm_source=git)** | San Jose, CA, United States | On Site | Jul 31 |
 | **[Fox Corporation](https://www.foxcorporation.com)** | **[Fall 2026 Big Ten Network Internship Program - Media Management](https://jobright.ai/jobs/info/6a6ccc7cca1f933846600a6d?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | On Site | Jul 31 |
 | **[OpenFortune 🥠](https://www.openfortune.com)** | **[Content Creation Intern](https://jobright.ai/jobs/info/6a6ccb18ca1f9338466009da?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Jul 31 |
-| **[BCI Brands](https://www.bcibrands.com)** | **[Intern - Color/Production](https://jobright.ai/jobs/info/6a6cbe245c54bc4752cef010?utm_campaign=1053&utm_source=git)** | New York City metropolitan area, United States | On Site | Jul 31 |
 | **[Damar Services, Inc.](https://www.damar.org)** | **[Fall Special Event and Volunteer Intern](https://jobright.ai/jobs/info/6a57dfea3330ca6f993c1b95?utm_campaign=1053&utm_source=git)** | Indianapolis, IN, United States | On Site | Jul 31 |
 | **[The Sporting News](https://www.sportingnews.com)** | **[Editorial Intern, Sports Partnerships](https://jobright.ai/jobs/info/6a6cb3d332f9300c3a3e49df?utm_campaign=1053&utm_source=git)** | Charlotte, NC, United States | Remote | Jul 31 |
 | **[Red Bull New York](http://www.newyorkredbulls.com)** | **[2026 Internship, Summer - Creative Video](https://jobright.ai/jobs/info/69c4bc206f4f855eeda763a8?utm_campaign=1053&utm_source=git)** | Harrison, NJ, United States | On Site | Jul 31 |
