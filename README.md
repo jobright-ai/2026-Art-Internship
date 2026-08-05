@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Mercatus Center at George Mason University](http://mercatus.org)** | **[Production Intern](https://jobright.ai/jobs/info/6a734e701ce9647cdbca7454?utm_campaign=1053&utm_source=git)** | Arlington, VA, United States | Hybrid | Aug 05 |
+| ↳ | **[Production Intern](https://jobright.ai/jobs/info/6a734c228cd88e7ccbf57801?utm_campaign=1053&utm_source=git)** | Arlington, VA, United States | Hybrid | Aug 05 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid News Intern](https://jobright.ai/jobs/info/6972b01a9b83b424830eb8a4?utm_campaign=1053&utm_source=git)** | IN-Indianapolis;6910 Network Place (Tribune-WXIN/WTTV) | On Site | Aug 05 |
 | ↳ | **[WAVY Unpaid Sports Intern, Fall 2026](https://jobright.ai/jobs/info/69fc4646633e68586cd30319?utm_campaign=1053&utm_source=git)** | VA, Portsmouth, US | On Site | Aug 05 |
 | **[The Aparecio Foundation](https://www.apareciofoundation.org)** | **[Volunteer/Intern: Pro bono: Editor of "People" Content in Felix](https://jobright.ai/jobs/info/6a7328136a034212ea025ec8?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | On Site | Aug 05 |
@@ -124,8 +126,8 @@ For a complete list, click the following sortable link below:
 | **[Place Showroom](http://placeshowroom.com)** | **[LA Internship Fall 2026](https://jobright.ai/jobs/info/6a6d3e06ba7efe79c2f6914e?utm_campaign=1053&utm_source=git)** | Los Angeles, United States | On Site | Jul 31 |
 | **[Tampa Bay Rays](https://www.mlb.com/rays)** | **[Intern, Fan Experience](https://jobright.ai/jobs/info/6a6d5173ca1f9338466034a7?utm_campaign=1053&utm_source=git)** | St. Petersburg, FL, United States | On Site | Jul 31 |
 | **[ArtsQuest](http://www.artsquest.org/)** | **[ARTS ADMIN & EDUCATION INTERN](https://jobright.ai/jobs/info/6a6cf05eacb0a61f9dbc807b?utm_campaign=1053&utm_source=git)** | Bethlehem, PA, United States | On Site | Jul 31 |
-| **[New York Post](http://nypost.com/)** | **[Video Field Production Intern, Fall 2026 (10 weeks, 24 hours a week)](https://jobright.ai/jobs/info/6a6cf1dfba7efe79c2f67923?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Jul 31 |
-| ↳ | **[Sports Video Production Intern, Fall 2026 (10 weeks, 24 hours a week)](https://jobright.ai/jobs/info/6a6cf6cf5c54bc4752cf05f2?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Jul 31 |
+| **[New York Post](http://nypost.com/)** | **[Sports Video Production Intern, Fall 2026 (10 weeks, 24 hours a week)](https://jobright.ai/jobs/info/6a6cf6cf5c54bc4752cf05f2?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Jul 31 |
+| ↳ | **[Video Field Production Intern, Fall 2026 (10 weeks, 24 hours a week)](https://jobright.ai/jobs/info/6a6cf1dfba7efe79c2f67923?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Jul 31 |
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a513ea957513b72e0c65379?utm_campaign=1053&utm_source=git)** | Houston, TX, United States | Remote | Jul 31 |
 | **[Acushnet Company](http://employment.acushnetgolf.com/)** | **[Winter 2027 Titleist Golf Ball Fitting Internship](https://jobright.ai/jobs/info/6a6cd3cc32f9300c3a3e573e?utm_campaign=1053&utm_source=git)** | Fairhaven, MA, United States | On Site | Jul 31 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Arts and Culture Data & Planning Intern](https://jobright.ai/jobs/info/6a6cf8045c54bc4752cf0629?utm_campaign=1053&utm_source=git)** | Massachusetts, United States | Remote | Jul 31 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[WPHL-TV](https://www.phl17.com)** | **[Lifestyle Show Fall Intern](https://jobright.ai/jobs/info/6a6bad00acb0a61f9dbc22f0?utm_campaign=1053&utm_source=git)** | Philadelphia, PA, United States | On Site | Jul 30 |
 | **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Fall 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a6baba4c00ae03109f8544b?utm_campaign=1053&utm_source=git)** | Atlanta, GA, United States | On Site | Jul 30 |
 | **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Current Programming Intern, Sony Pictures Television – Fall 2026](https://jobright.ai/jobs/info/6a6a8e3016c69119640ff021?utm_campaign=1053&utm_source=git)** | Culver City, CA, United States | On Site | Jul 30 |
-| **[Pennsylvania Horticultural Society (PHS)](https://phsonline.org)** | **[Competitive Classes Intern](https://jobright.ai/jobs/info/6a6b90a75c54bc4752ce9b88?utm_campaign=1053&utm_source=git)** | Philadelphia, PA, United States | On Site | Jul 30 |
-| ↳ | **[Experience and Engagement Intern](https://jobright.ai/jobs/info/6a6b9096ca1f9338465fb1d3?utm_campaign=1053&utm_source=git)** | Philadelphia, PA, United States | On Site | Jul 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
