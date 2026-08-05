@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[PURPLE](https://purplepr.com)** | **[Fashion Intern - Fall](https://jobright.ai/jobs/info/6a73a4a91ce9647cdbca97de?utm_campaign=1053&utm_source=git)** | New York, United States | On Site | Aug 05 |
+| **[Attersee](https://shopattersee.com)** | **[FW26 Intern](https://jobright.ai/jobs/info/6a73a0d18dc3d52d8eda0a76?utm_campaign=1053&utm_source=git)** | New York City metropolitan area, United States | On Site | Aug 05 |
 | **[LiveShop Studio™](www.liveshopstudio.com)** | **[Social Media Content Creator/Editor Intern](https://jobright.ai/jobs/info/6a739ade6a034212ea0288f9?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Aug 05 |
 | **[Arcpoint Studios](http://www.arcpointstudios.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/6a728e50e2b7476e7b213de9?utm_campaign=1053&utm_source=git)** | Fort Worth, TX, United States | Hybrid | Aug 05 |
 | **[Travel Radar](https://travelradar.aero)** | **[News Editor Internship (REMOTE)](https://jobright.ai/jobs/info/6a738f6a6a034212ea0284fa?utm_campaign=1053&utm_source=git)** | Florida, United States | Remote | Aug 05 |
@@ -73,8 +75,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[WAVY Unpaid Sports Intern, Fall 2026](https://jobright.ai/jobs/info/69fc4646633e68586cd30319?utm_campaign=1053&utm_source=git)** | VA, Portsmouth, US | On Site | Aug 05 |
 | **[The Aparecio Foundation](https://www.apareciofoundation.org)** | **[Volunteer/Intern: Pro bono: Editor of "People" Content in Felix](https://jobright.ai/jobs/info/6a7328136a034212ea025ec8?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | On Site | Aug 05 |
 | **[Daniel Stark Injury Lawyers](https://www.danielstarklaw.com/austin)** | **[Video Editing Intern](https://jobright.ai/jobs/info/6a737f7532ebbc14ffb4f557?utm_campaign=1053&utm_source=git)** | Killeen, TX, United States | On Site | Aug 04 |
-| ↳ | **[Video Editing Intern](https://jobright.ai/jobs/info/6a737f6a8cd88e7ccbf58cc6?utm_campaign=1053&utm_source=git)** | Irving, TX, United States | On Site | Aug 04 |
 | ↳ | **[Video Editing Intern](https://jobright.ai/jobs/info/6a737f6d8cd88e7ccbf58cc8?utm_campaign=1053&utm_source=git)** | Bryan, TX, United States | On Site | Aug 04 |
+| ↳ | **[Video Editing Intern](https://jobright.ai/jobs/info/6a737f6a8cd88e7ccbf58cc6?utm_campaign=1053&utm_source=git)** | Irving, TX, United States | On Site | Aug 04 |
 | ↳ | **[Video Editing Intern](https://jobright.ai/jobs/info/6a737f73e55c73319eb17a9b?utm_campaign=1053&utm_source=git)** | Austin, TX, United States | On Site | Aug 04 |
 | **[Grayson Sky](https://www.graysonsky.com/)** | **[Video Editor Intern](https://jobright.ai/jobs/info/6a725c4e02d93145bf894587?utm_campaign=1053&utm_source=git)** | Philadelphia, PA, United States | On Site | Aug 04 |
 | **[Evolve Studios®](https://evolve.studio)** | **[Assistant Editor Internship](https://jobright.ai/jobs/info/6a42d4796a9c2774b3fa77aa?utm_campaign=1053&utm_source=git)** | Franklin, TN, United States | On Site | Aug 04 |
@@ -109,7 +111,6 @@ For a complete list, click the following sortable link below:
 | **[Salt River Fields at Talking Stick](http://www.saltriverfields.com)** | **[Fall Events Intern](https://jobright.ai/jobs/info/6a70e7ddcb96192a36846624?utm_campaign=1053&utm_source=git)** | Scottsdale, AZ, United States | On Site | Aug 03 |
 | **[American Institute of Physics](http://aip.org/)** | **[Science Writer Intern](https://jobright.ai/jobs/info/6a70bc92357dfc6ff2b3aa36?utm_campaign=1053&utm_source=git)** | College Park, MD, United States | Hybrid | Aug 03 |
 | **[Middle East Institute](http://www.mei.edu)** | **[Arts & Culture Internship (Fall 2026 - Unpaid)](https://jobright.ai/jobs/info/6a5e4e08f3674a0545d281df?utm_campaign=1053&utm_source=git)** | Washington, DC, United States | On Site | Aug 03 |
-| **[C-SPAN](http://www.c-span.org)** | **[Internship - Fall 2026 (September - December)](https://jobright.ai/jobs/info/6a71763acb96192a36848f01?utm_campaign=1053&utm_source=git)** | Washington, DC, United States | On Site | Aug 03 |
 | **[Monumental Sports & Entertainment](http://www.monumentalsports.com/)** | **[Internship: Fan Development (Part-Time/Seasonal)](https://jobright.ai/jobs/info/6a70b3f6cb96192a36844faa?utm_campaign=1053&utm_source=git)** | Washington, DC, United States | On Site | Aug 03 |
 | **[The Ambony](https://www.anpublishing.com/)** | **[Journalism Editor Internship (POC Society Platform)](https://jobright.ai/jobs/info/6a70d0ce357dfc6ff2b3b3b0?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Remote | Aug 03 |
 | **[Portal Innovations](https://www.portalinnovations.com/)** | **[Fall 2026 Intern - Member Experience (Operations)](https://jobright.ai/jobs/info/6a70c9b81003bd7b70d6ca3c?utm_campaign=1053&utm_source=git)** | Providence, RI, United States | On Site | Aug 03 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[MATTE Projects](https://matteprojects.com/)** | **[Experiential Production Internship: Fall 2026 (On-site, NYC)](https://jobright.ai/jobs/info/6a330808ce501060b5cebefd?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jul 31 |
 | ↳ | **[Experiential Production Internship: Fall 2026 (On-site, NYC)](https://jobright.ai/jobs/info/6a32fe397f3fdd180d4c4d6d?utm_campaign=1053&utm_source=git)** | New York, New York | On Site | Jul 31 |
 | **[Hasana, Inc.](http://shophasana.com)** | **[Film & Video Internship](https://jobright.ai/jobs/info/6a595e75c8e3a473cb8a6b57?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Jul 31 |
-| **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Intern, Artist Manager Assistant](https://jobright.ai/jobs/info/6a32e02329c90c607e4d87d1?utm_campaign=1053&utm_source=git)** | Etobicoke, ON, CA | On Site | Jul 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
