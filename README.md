@@ -57,12 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Mueller Sports Medicine, Inc.](http://muellersportsmed.com)** | **[Digital Content Producer Intern](https://jobright.ai/jobs/info/6a7386d38cd88e7ccbf58fae?utm_campaign=1053&utm_source=git)** | Prairie du Sac, WI, United States | On Site | Aug 05 |
 | **[PURPLE](https://purplepr.com)** | **[Fashion Intern - Fall](https://jobright.ai/jobs/info/6a73a4a91ce9647cdbca97de?utm_campaign=1053&utm_source=git)** | New York, United States | On Site | Aug 05 |
-| **[Attersee](https://shopattersee.com)** | **[FW26 Intern](https://jobright.ai/jobs/info/6a73a0d18dc3d52d8eda0a76?utm_campaign=1053&utm_source=git)** | New York City metropolitan area, United States | On Site | Aug 05 |
 | **[LiveShop Studio™](www.liveshopstudio.com)** | **[Social Media Content Creator/Editor Intern](https://jobright.ai/jobs/info/6a739ade6a034212ea0288f9?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Aug 05 |
 | **[Arcpoint Studios](http://www.arcpointstudios.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/6a728e50e2b7476e7b213de9?utm_campaign=1053&utm_source=git)** | Fort Worth, TX, United States | Hybrid | Aug 05 |
 | **[Travel Radar](https://travelradar.aero)** | **[News Editor Internship (REMOTE)](https://jobright.ai/jobs/info/6a738f6a6a034212ea0284fa?utm_campaign=1053&utm_source=git)** | Florida, United States | Remote | Aug 05 |
-| **[Mueller Sports Medicine, Inc.](http://muellersportsmed.com)** | **[Digital Content Producer Intern](https://jobright.ai/jobs/info/6a7386d38cd88e7ccbf58fae?utm_campaign=1053&utm_source=git)** | Prairie du Sac, WI, United States | On Site | Aug 05 |
 | **[Daniel Stark Injury Lawyers](https://www.danielstarklaw.com/austin)** | **[Video Editing Intern](https://jobright.ai/jobs/info/6a73819a1ce9647cdbca88e1?utm_campaign=1053&utm_source=git)** | Austin, TX, United States | On Site | Aug 05 |
 | ↳ | **[Video Editing Intern](https://jobright.ai/jobs/info/6a7381991ce9647cdbca88df?utm_campaign=1053&utm_source=git)** | Bryan, TX, United States | On Site | Aug 05 |
 | ↳ | **[Video Editing Intern](https://jobright.ai/jobs/info/6a73819332ebbc14ffb4f611?utm_campaign=1053&utm_source=git)** | Killeen, TX, United States | On Site | Aug 05 |
@@ -105,6 +104,7 @@ For a complete list, click the following sortable link below:
 | **[Saint Xavier University](http://www.sxu.edu/)** | **[Production Assistant Intern - Student Employment](https://jobright.ai/jobs/info/6a72c650ee751e0c79349fe0?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | On Site | Aug 03 |
 | **[hello82](https://hello82.com/pages/about)** | **[Content Group Intern](https://jobright.ai/jobs/info/6a5ebdfd67b2850e77df2dd9?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | On Site | Aug 03 |
 | **[University of Portland](http://www.up.edu)** | **[CSWS Digital Archival Intern-Portland Parks & Recreation](https://jobright.ai/jobs/info/6a7134c971acd469eeda215a?utm_campaign=1053&utm_source=git)** | Portland, OR, United States | On Site | Aug 03 |
+| **[C-SPAN](http://www.c-span.org)** | **[Internship - Fall 2026 (September - December)](https://jobright.ai/jobs/info/6a73acb132ebbc14ffb50813?utm_campaign=1053&utm_source=git)** | Washington, DC, United States | On Site | Aug 03 |
 | **[LOVB Nebraska](https://lovb.com/teams/lovb-nebraska-volleyball)** | **[Fan Experience & Engagement Intern](https://jobright.ai/jobs/info/6a70f79ce2b7476e7b20c159?utm_campaign=1053&utm_source=git)** | Omaha, NE, United States | On Site | Aug 03 |
 | **[East Side Union High School District](https://adulteducation.esuhsd.org)** | **[After School Musical Theater Student Director Intern](https://jobright.ai/jobs/info/6a7176419a0ca4480c7d44e8?utm_campaign=1053&utm_source=git)** | San Jacinto, California, United States | On Site | Aug 03 |
 | **[Portal Innovations](https://www.portalinnovations.com/)** | **[Member Experience Intern - FALL 2026](https://jobright.ai/jobs/info/6a70ebc0e2b7476e7b20bc8b?utm_campaign=1053&utm_source=git)** | Providence, RI, United States | On Site | Aug 03 |
