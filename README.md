@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Gift](https://www.shine.gift)** | **[Anime / Manga Intern](https://jobright.ai/jobs/info/6a73d93de55c73319eb1986c?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | Remote | Aug 05 |
+| **[Underground Games](www.undgames.com)** | **[Video Content Creator Intern](https://jobright.ai/jobs/info/6a73d7578dc3d52d8eda1992?utm_campaign=1053&utm_source=git)** | Boston, MA, United States | Hybrid | Aug 05 |
 | **[Mueller Sports Medicine, Inc.](http://muellersportsmed.com)** | **[Digital Content Producer Intern](https://jobright.ai/jobs/info/6a7386d38cd88e7ccbf58fae?utm_campaign=1053&utm_source=git)** | Prairie du Sac, WI, United States | On Site | Aug 05 |
 | **[PURPLE](https://purplepr.com)** | **[Fashion Intern - Fall](https://jobright.ai/jobs/info/6a73a4a91ce9647cdbca97de?utm_campaign=1053&utm_source=git)** | New York, United States | On Site | Aug 05 |
 | **[Edite Showroom](https://edite.us)** | **[Fashion Intern at Coterie-  September 9-11](https://jobright.ai/jobs/info/6a73bd958cd88e7ccbf5a51b?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Aug 05 |
@@ -75,8 +77,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[WAVY Unpaid Sports Intern, Fall 2026](https://jobright.ai/jobs/info/69fc4646633e68586cd30319?utm_campaign=1053&utm_source=git)** | VA, Portsmouth, US | On Site | Aug 05 |
 | **[The Aparecio Foundation](https://www.apareciofoundation.org)** | **[Volunteer/Intern: Pro bono: Editor of "People" Content in Felix](https://jobright.ai/jobs/info/6a7328136a034212ea025ec8?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | On Site | Aug 05 |
 | **[Daniel Stark Injury Lawyers](https://www.danielstarklaw.com/austin)** | **[Video Editing Intern](https://jobright.ai/jobs/info/6a737f7532ebbc14ffb4f557?utm_campaign=1053&utm_source=git)** | Killeen, TX, United States | On Site | Aug 04 |
-| ↳ | **[Video Editing Intern](https://jobright.ai/jobs/info/6a737f6a8cd88e7ccbf58cc6?utm_campaign=1053&utm_source=git)** | Irving, TX, United States | On Site | Aug 04 |
 | ↳ | **[Video Editing Intern](https://jobright.ai/jobs/info/6a737f6d8cd88e7ccbf58cc8?utm_campaign=1053&utm_source=git)** | Bryan, TX, United States | On Site | Aug 04 |
+| ↳ | **[Video Editing Intern](https://jobright.ai/jobs/info/6a737f6a8cd88e7ccbf58cc6?utm_campaign=1053&utm_source=git)** | Irving, TX, United States | On Site | Aug 04 |
 | ↳ | **[Video Editing Intern](https://jobright.ai/jobs/info/6a737f73e55c73319eb17a9b?utm_campaign=1053&utm_source=git)** | Austin, TX, United States | On Site | Aug 04 |
 | **[Grayson Sky](https://www.graysonsky.com/)** | **[Video Editor Intern](https://jobright.ai/jobs/info/6a725c4e02d93145bf894587?utm_campaign=1053&utm_source=git)** | Philadelphia, PA, United States | On Site | Aug 04 |
 | **[Evolve Studios®](https://evolve.studio)** | **[Assistant Editor Internship](https://jobright.ai/jobs/info/6a42d4796a9c2774b3fa77aa?utm_campaign=1053&utm_source=git)** | Franklin, TN, United States | On Site | Aug 04 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Sporting News](https://www.sportingnews.com)** | **[Editorial Intern, Sports Partnerships](https://jobright.ai/jobs/info/6a6cb3d332f9300c3a3e49df?utm_campaign=1053&utm_source=git)** | Charlotte, NC, United States | Remote | Jul 31 |
 | **[Red Bull New York](http://www.newyorkredbulls.com)** | **[2026 Internship, Summer - Creative Video](https://jobright.ai/jobs/info/69c4bc206f4f855eeda763a8?utm_campaign=1053&utm_source=git)** | Harrison, NJ, United States | On Site | Jul 31 |
 | **[WETA](https://weta.org/)** | **[Digital Media: Local History Intern](https://jobright.ai/jobs/info/6a5a09bc686b4755d1e131c5?utm_campaign=1053&utm_source=git)** | Arlington, VA, United States | On Site | Jul 31 |
-| **[MATTE Projects](https://matteprojects.com/)** | **[Experiential Production Internship: Fall 2026 (On-site, NYC)](https://jobright.ai/jobs/info/6a330808ce501060b5cebefd?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jul 31 |
-| ↳ | **[Experiential Production Internship: Fall 2026 (On-site, NYC)](https://jobright.ai/jobs/info/6a32fe397f3fdd180d4c4d6d?utm_campaign=1053&utm_source=git)** | New York, New York | On Site | Jul 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
