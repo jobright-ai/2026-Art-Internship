@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Advisors Excel](http://advisorsexcel.com)** | **[Video & Audio Production Intern](https://jobright.ai/jobs/info/6a57bad2e9b77f668bd6a67e?utm_campaign=1053&utm_source=git)** | Topeka, KS, United States | On Site | Aug 06 |
+| **[The Aparecio Foundation](https://www.apareciofoundation.org)** | **[Food & Prop Stylist Intern/Volunteer](https://jobright.ai/jobs/info/6a7452e1bb6ca93ae5609f08?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | On Site | Aug 06 |
 | **[Southwest Technical College](https://stech.edu)** | **[Film/Videography Student Intern](https://jobright.ai/jobs/info/6a743933bb6ca93ae5609b4c?utm_campaign=1053&utm_source=git)** | Cedar City, UT, United States | On Site | Aug 05 |
 | **[University of Utah](http://utah.edu)** | **[Content Creator - Storyteller Intern](https://jobright.ai/jobs/info/6a74002f8cd88e7ccbf5b07b?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT, United States | On Site | Aug 05 |
 | **[Gift](https://www.shine.gift)** | **[Anime / Manga Intern](https://jobright.ai/jobs/info/6a73d93de55c73319eb1986c?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | Remote | Aug 05 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[NBCUniversal](https://www.nbcuniversal.com/)** | **[NBC Bay Area - Digital Internship  – Fall 2026](https://jobright.ai/jobs/info/6a6cd378ba7efe79c2f66d3b?utm_campaign=1053&utm_source=git)** | San Jose, California, United States | On Site | Jul 31 |
 | ↳ | **[NBC Bay Area - Digital Internship  – Fall 2026](https://jobright.ai/jobs/info/6a6cce1cca1f933846600b0a?utm_campaign=1053&utm_source=git)** | San Jose, CA, United States | On Site | Jul 31 |
 | **[Fox Corporation](https://www.foxcorporation.com)** | **[Fall 2026 Big Ten Network Internship Program - Media Management](https://jobright.ai/jobs/info/6a6ccc7cca1f933846600a6d?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | On Site | Jul 31 |
-| **[OpenFortune 🥠](https://www.openfortune.com)** | **[Content Creation Intern](https://jobright.ai/jobs/info/6a6ccb18ca1f9338466009da?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Jul 31 |
-| **[Damar Services, Inc.](https://www.damar.org)** | **[Fall Special Event and Volunteer Intern](https://jobright.ai/jobs/info/6a57dfea3330ca6f993c1b95?utm_campaign=1053&utm_source=git)** | Indianapolis, IN, United States | On Site | Jul 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
