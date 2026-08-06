@@ -57,8 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[St. Louis Blues](http://www.stlouisblues.com)** | **[Intern, Video Production](https://jobright.ai/jobs/info/6a74f0f67b3417772ade27fa?utm_campaign=1053&utm_source=git)** | St. Louis, MO, United States | On Site | Aug 06 |
+| ↳ | **[Intern, Game Presentation](https://jobright.ai/jobs/info/6a74f0f47b3417772ade27f8?utm_campaign=1053&utm_source=git)** | St. Louis, MO, United States | On Site | Aug 06 |
+| **[City of Philadelphia](http://www.phila.gov/)** | **[Comp Plan Intern](https://jobright.ai/jobs/info/6a74ec6dbb6ca93ae560cb8a?utm_campaign=1053&utm_source=git)** | Philadelphia, Pennsylvania, United States | On Site | Aug 06 |
+| ↳ | **[Comp Plan Intern](https://jobright.ai/jobs/info/6a74ec1737da8525e8cdb615?utm_campaign=1053&utm_source=git)** | Philadelphia, PA, United States | On Site | Aug 06 |
+| **[Nfocus Magazine](https://www.nfocusmagazine.com)** | **[Nfocus Multimedia Intern](https://jobright.ai/jobs/info/6a74e46b20b26a6e93f49845?utm_campaign=1053&utm_source=git)** | Nashville, TN, United States | On Site | Aug 06 |
 | **[Mass General Brigham](https://www.massgeneralbrigham.org)** | **[Science Writing Intern](https://jobright.ai/jobs/info/6a74ab2d7b3417772ade0dd0?utm_campaign=1053&utm_source=git)** | Somerville, MA, United States | Remote | Aug 06 |
 | **[NFM Lending](http://www.nfmlending.com/)** | **[Content Creator Intern](https://jobright.ai/jobs/info/6a74d0f9b17cba5690357a44?utm_campaign=1053&utm_source=git)** | Columbus, OH, United States | On Site | Aug 06 |
+| **[Proper Cloth](https://propercloth.com)** | **[Fall 2026 Product Styling Internship](https://jobright.ai/jobs/info/6a74eb91bb6ca93ae560cb35?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Aug 06 |
+| **[adyn](https://www.adyn.com/)** | **[DIGITAL STORYTELLING INTERN](https://jobright.ai/jobs/info/6a74e00c7b3417772ade21c2?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 06 |
 | **[Golden Hippo®](http://goldenhippomedia.com)** | **[Testimonial Video Editor Intern](https://jobright.ai/jobs/info/6a555f6a268af95237beb476?utm_campaign=1053&utm_source=git)** | Woodland Hills, CA, United States | On Site | Aug 06 |
 | ↳ | **[Video Editing Intern](https://jobright.ai/jobs/info/6a565bfbe9b77f668bd62c38?utm_campaign=1053&utm_source=git)** | Woodland Hills, CA, United States | Hybrid | Aug 06 |
 | **[Motivator Music](www.conferenceanthems.com)** | **[Videographer Intern](https://jobright.ai/jobs/info/6a74affeb17cba5690356e84?utm_campaign=1053&utm_source=git)** | Miami, FL, United States | Hybrid | Aug 06 |
@@ -71,6 +78,7 @@ For a complete list, click the following sortable link below:
 | **[Southwest Technical College](https://stech.edu)** | **[Film/Videography Student Intern](https://jobright.ai/jobs/info/6a743933bb6ca93ae5609b4c?utm_campaign=1053&utm_source=git)** | Cedar City, UT, United States | On Site | Aug 05 |
 | **[University of Utah](http://utah.edu)** | **[Content Creator - Storyteller Intern](https://jobright.ai/jobs/info/6a74002f8cd88e7ccbf5b07b?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT, United States | On Site | Aug 05 |
 | **[Gift](https://www.shine.gift)** | **[Anime / Manga Intern](https://jobright.ai/jobs/info/6a73d93de55c73319eb1986c?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | Remote | Aug 05 |
+| **[Comcast](https://corporate.comcast.com)** | **[Game Presentation Intern](https://jobright.ai/jobs/info/6a74e2267b3417772ade2291?utm_campaign=1053&utm_source=git)** | Philadelphia, PA, United States | On Site | Aug 05 |
 | **[Underground Games](www.undgames.com)** | **[Video Content Creator Intern](https://jobright.ai/jobs/info/6a73d7578dc3d52d8eda1992?utm_campaign=1053&utm_source=git)** | Boston, MA, United States | Hybrid | Aug 05 |
 | **[Mueller Sports Medicine, Inc.](http://muellersportsmed.com)** | **[Digital Content Producer Intern](https://jobright.ai/jobs/info/6a7386d38cd88e7ccbf58fae?utm_campaign=1053&utm_source=git)** | Prairie du Sac, WI, United States | On Site | Aug 05 |
 | **[PURPLE](https://purplepr.com)** | **[Fashion Intern - Fall](https://jobright.ai/jobs/info/6a73a4a91ce9647cdbca97de?utm_campaign=1053&utm_source=git)** | New York, United States | On Site | Aug 05 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[WAVY-TV 10](http://wavy.com)** | **[WAVY Unpaid Digital NewsDesk Intern, Fall 2026](https://jobright.ai/jobs/info/69fb5053ffa73664aeafe7d5?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Aug 01 |
 | **[ATIA Ltd](https://atia.ba/en_US/)** | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a5435c1c8eb0843027af266?utm_campaign=1053&utm_source=git)** | Bakersfield, CA, United States | Remote | Aug 01 |
 | ↳ | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a51dea58d7d3e6cf1cc4186?utm_campaign=1053&utm_source=git)** | Cedar City, UT, United States | Remote | Aug 01 |
-| **[TikTok](https://www.tiktok.com)** | **[Creator LIVE Project Intern (TikTok Shop - US Operation) - 2026 Start](https://jobright.ai/jobs/info/6a6d59e966158d7ef887d420?utm_campaign=1053&utm_source=git)** | Los Angeles, United States | On Site | Jul 31 |
-| **[Braathe Enterprises](http://www.beyourstart.com)** | **[Virtual Journalism Internship](https://jobright.ai/jobs/info/6a55bd2405c65f7c8f4c6f4d?utm_campaign=1053&utm_source=git)** | Saratoga Springs, NY, United States | Remote | Jul 31 |
-| **[Place Showroom](http://placeshowroom.com)** | **[LA Internship Fall 2026](https://jobright.ai/jobs/info/6a6d3e06ba7efe79c2f6914e?utm_campaign=1053&utm_source=git)** | Los Angeles, United States | On Site | Jul 31 |
-| **[Tampa Bay Rays](https://www.mlb.com/rays)** | **[Intern, Fan Experience](https://jobright.ai/jobs/info/6a6d5173ca1f9338466034a7?utm_campaign=1053&utm_source=git)** | St. Petersburg, FL, United States | On Site | Jul 31 |
-| **[ArtsQuest](http://www.artsquest.org/)** | **[ARTS ADMIN & EDUCATION INTERN](https://jobright.ai/jobs/info/6a6cf05eacb0a61f9dbc807b?utm_campaign=1053&utm_source=git)** | Bethlehem, PA, United States | On Site | Jul 31 |
-| **[New York Post](http://nypost.com/)** | **[Video Field Production Intern, Fall 2026 (10 weeks, 24 hours a week)](https://jobright.ai/jobs/info/6a6cf1dfba7efe79c2f67923?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Jul 31 |
-| ↳ | **[Sports Video Production Intern, Fall 2026 (10 weeks, 24 hours a week)](https://jobright.ai/jobs/info/6a6cf6cf5c54bc4752cf05f2?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Jul 31 |
-| **[ATIA Ltd](https://atia.ba/en_US/)** | **[Internship - Journalist and FB Administrator](https://jobright.ai/jobs/info/6a513ea957513b72e0c65379?utm_campaign=1053&utm_source=git)** | Houston, TX, United States | Remote | Jul 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
