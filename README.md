@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[San Francisco Institute of Esthetics and Cosmetology](https://sfiec.edu)** | **[COLOR CREW INTERNSHIP 2021 (REMOTE)](https://jobright.ai/jobs/info/6a76555a4817aa4307047eab?utm_campaign=1053&utm_source=git)** | San Francisco, CA, United States | Remote | Aug 07 |
+| **[Comcast](https://corporate.comcast.com)** | **[Game Presentation Intern](https://jobright.ai/jobs/info/6a74e2267b3417772ade2291?utm_campaign=1053&utm_source=git)** | Philadelphia, PA, United States | On Site | Aug 07 |
 | **[Jacksonville Jaguars](http://www.jaguars.com)** | **[Game Presentation, Intern](https://jobright.ai/jobs/info/6a7637f7a26ccc369f8344b0?utm_campaign=1053&utm_source=git)** | Jacksonville, FL, United States | On Site | Aug 07 |
 | **[Medical College of Wisconsin](http://www.mcw.edu/)** | **[Intern - Earned Media](https://jobright.ai/jobs/info/6a45ed440dd56c76cc2f530a?utm_campaign=1053&utm_source=git)** | Wauwatosa, WI, United States of America | Hybrid | Aug 07 |
 | **[U.S. Venture, Inc.](http://www.usventure.com)** | **[U.S. Venture Open Intern](https://jobright.ai/jobs/info/6a761dbea26ccc369f833cc4?utm_campaign=1053&utm_source=git)** | Appleton, WI, United States | On Site | Aug 07 |
@@ -94,7 +96,6 @@ For a complete list, click the following sortable link below:
 | **[The Aparecio Foundation](https://www.apareciofoundation.org)** | **[Food & Prop Stylist Intern/Volunteer](https://jobright.ai/jobs/info/6a7452e1bb6ca93ae5609f08?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | On Site | Aug 06 |
 | **[Southwest Technical College](https://stech.edu)** | **[Film/Videography Student Intern](https://jobright.ai/jobs/info/6a743933bb6ca93ae5609b4c?utm_campaign=1053&utm_source=git)** | Cedar City, UT, United States | On Site | Aug 05 |
 | **[University of Utah](http://utah.edu)** | **[Content Creator - Storyteller Intern](https://jobright.ai/jobs/info/6a74002f8cd88e7ccbf5b07b?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT, United States | On Site | Aug 05 |
-| **[Comcast](https://corporate.comcast.com)** | **[Game Presentation Intern](https://jobright.ai/jobs/info/6a74e2267b3417772ade2291?utm_campaign=1053&utm_source=git)** | Philadelphia, PA, United States | On Site | Aug 05 |
 | **[Underground Games](www.undgames.com)** | **[Video Content Creator Intern](https://jobright.ai/jobs/info/6a73d7578dc3d52d8eda1992?utm_campaign=1053&utm_source=git)** | Boston, MA, United States | Hybrid | Aug 05 |
 | **[Mueller Sports Medicine, Inc.](http://muellersportsmed.com)** | **[Digital Content Producer Intern](https://jobright.ai/jobs/info/6a7386d38cd88e7ccbf58fae?utm_campaign=1053&utm_source=git)** | Prairie du Sac, WI, United States | On Site | Aug 05 |
 | **[PURPLE](https://purplepr.com)** | **[Fashion Intern - Fall](https://jobright.ai/jobs/info/6a73a4a91ce9647cdbca97de?utm_campaign=1053&utm_source=git)** | New York, United States | On Site | Aug 05 |
@@ -152,7 +153,6 @@ For a complete list, click the following sortable link below:
 | **[Monumental Sports & Entertainment](http://www.monumentalsports.com/)** | **[Internship: Fan Development (Part-Time/Seasonal)](https://jobright.ai/jobs/info/6a70b3f6cb96192a36844faa?utm_campaign=1053&utm_source=git)** | Washington, DC, United States | On Site | Aug 03 |
 | **[The Ambony](https://www.anpublishing.com/)** | **[Journalism Editor Internship (POC Society Platform)](https://jobright.ai/jobs/info/6a70d0ce357dfc6ff2b3b3b0?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Remote | Aug 03 |
 | **[Portal Innovations](https://www.portalinnovations.com/)** | **[Fall 2026 Intern - Member Experience (Operations)](https://jobright.ai/jobs/info/6a70c9b81003bd7b70d6ca3c?utm_campaign=1053&utm_source=git)** | Providence, RI, United States | On Site | Aug 03 |
-| **[Boston Film Festival](https://bostonfilmfestival.org)** | **[42nd Boston Film Festival Internship](https://jobright.ai/jobs/info/6a71762de2b7476e7b20e2c9?utm_campaign=1053&utm_source=git)** | Massachusetts, United States | On Site | Aug 03 |
 | **[Foodbuy USA](http://www.foodbuy.com)** | **[Video Editing Intern, SSC / Knoxville, TN](https://jobright.ai/jobs/info/6a70c92071acd469eed9fab0?utm_campaign=1053&utm_source=git)** | Knoxville, TN, United States | On Site | Aug 03 |
 | **[Compass Group Canada](http://www.compass-canada.com)** | **[Video Editing Intern, SSC / Knoxville, TN](https://jobright.ai/jobs/info/6a70c5dde2b7476e7b20ac70?utm_campaign=1053&utm_source=git)** | Knoxville, TN, United States | On Site | Aug 03 |
 | **[The Aparecio Foundation](https://www.apareciofoundation.org)** | **[Bookings Associate Intern/Volunteer](https://jobright.ai/jobs/info/6a54dfdb31f2d15a8d813c00?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | On Site | Aug 03 |
