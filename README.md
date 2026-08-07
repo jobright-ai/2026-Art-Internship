@@ -57,10 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Seattle Kraken](https://www.nhl.com/kraken)** | **[Intern, Live Production (September 2026 - April 2027)](https://jobright.ai/jobs/info/6a752c01b17cba56903598fe?utm_campaign=1053&utm_source=git)** | Seattle, WA, United States | On Site | Aug 06 |
 | **[Motivator Music](www.conferenceanthems.com)** | **[Videography Intern](https://jobright.ai/jobs/info/6a754d6c972ac843c69998d8?utm_campaign=1053&utm_source=git)** | Charlotte Metro | On Site | Aug 06 |
 | **[SweetEscape](https://www.sweetescape.com/en)** | **[Operations Intern (Vendor Acquisition)](https://jobright.ai/jobs/info/6a753a2c20b26a6e93f4b153?utm_campaign=1053&utm_source=git)** | Little Rock, AR, United States | On Site | Aug 06 |
 | **[Klubhouse Fantasy Sports](https://klubhouse.gg)** | **[Video Editor & Social Media Intern (Entry Level)](https://jobright.ai/jobs/info/6a7536017b3417772ade3b87?utm_campaign=1053&utm_source=git)** | Portland, OR, United States | On Site | Aug 06 |
-| **[Seattle Kraken](https://www.nhl.com/kraken)** | **[Intern, Live Production (September 2026 - April 2027)](https://jobright.ai/jobs/info/6a752c01b17cba56903598fe?utm_campaign=1053&utm_source=git)** | Seattle, WA, United States | On Site | Aug 06 |
 | **[St. Louis Blues](http://www.stlouisblues.com)** | **[Intern, Video Production](https://jobright.ai/jobs/info/6a74f0f67b3417772ade27fa?utm_campaign=1053&utm_source=git)** | St. Louis, MO, United States | On Site | Aug 06 |
 | ↳ | **[Intern, Game Presentation](https://jobright.ai/jobs/info/6a74f0f47b3417772ade27f8?utm_campaign=1053&utm_source=git)** | St. Louis, MO, United States | On Site | Aug 06 |
 | **[City of Philadelphia](http://www.phila.gov/)** | **[Comp Plan Intern](https://jobright.ai/jobs/info/6a74ec6dbb6ca93ae560cb8a?utm_campaign=1053&utm_source=git)** | Philadelphia, Pennsylvania, United States | On Site | Aug 06 |
@@ -144,8 +144,8 @@ For a complete list, click the following sortable link below:
 | **[Foodbuy USA](http://www.foodbuy.com)** | **[Video Editing Intern, SSC / Knoxville, TN](https://jobright.ai/jobs/info/6a70c92071acd469eed9fab0?utm_campaign=1053&utm_source=git)** | Knoxville, TN, United States | On Site | Aug 03 |
 | **[Compass Group Canada](http://www.compass-canada.com)** | **[Video Editing Intern, SSC / Knoxville, TN](https://jobright.ai/jobs/info/6a70c5dde2b7476e7b20ac70?utm_campaign=1053&utm_source=git)** | Knoxville, TN, United States | On Site | Aug 03 |
 | **[The Aparecio Foundation](https://www.apareciofoundation.org)** | **[Bookings Associate Intern/Volunteer](https://jobright.ai/jobs/info/6a54dfdb31f2d15a8d813c00?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | On Site | Aug 03 |
-| **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Paid Fall Music Group Publishing Intern](https://jobright.ai/jobs/info/6a51e35202522b5b722ed11d?utm_campaign=1053&utm_source=git)** | Calabasas, CA, United States | On Site | Aug 03 |
-| ↳ | **[Paid Fall Music Group Publishing Intern](https://jobright.ai/jobs/info/6a1d313d7c457b279080e614?utm_campaign=1053&utm_source=git)** | Calabasas, CA, USA, US | On Site | Aug 03 |
+| **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Paid Fall Music Group Publishing Intern](https://jobright.ai/jobs/info/6a1d313d7c457b279080e614?utm_campaign=1053&utm_source=git)** | Calabasas, CA, USA, US | On Site | Aug 03 |
+| ↳ | **[Paid Fall Music Group Publishing Intern](https://jobright.ai/jobs/info/6a51e35202522b5b722ed11d?utm_campaign=1053&utm_source=git)** | Calabasas, CA, United States | On Site | Aug 03 |
 | **[Film Pittsburgh](http://www.FilmPittsburgh.org)** | **[Spring Festival Internship](https://jobright.ai/jobs/info/6a43ed470153061b8b3de9c6?utm_campaign=1053&utm_source=git)** | Pittsburgh, PA, United States | Hybrid | Aug 02 |
 | **[SSC Services For Education](https://sscserv.com/)** | **[Video Editing Intern, SSC / Knoxville, TN](https://jobright.ai/jobs/info/6a70f83bcb96192a36846ccb?utm_campaign=1053&utm_source=git)** | Knoxville, TN, United States | On Site | Aug 02 |
 | **[OTTera, Inc.](http://www.ottera.tv/)** | **[Content Creator Intern](https://jobright.ai/jobs/info/6a5ae1cc63a8f619507c8d0c?utm_campaign=1053&utm_source=git)** | North Hollywood, CA, United States | On Site | Aug 02 |
