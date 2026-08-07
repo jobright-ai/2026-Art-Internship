@@ -57,10 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Jacksonville Jaguars](http://www.jaguars.com)** | **[Game Presentation, Intern](https://jobright.ai/jobs/info/6a7637f7a26ccc369f8344b0?utm_campaign=1053&utm_source=git)** | Jacksonville, FL, United States | On Site | Aug 07 |
 | **[Medical College of Wisconsin](http://www.mcw.edu/)** | **[Intern - Earned Media](https://jobright.ai/jobs/info/6a45ed440dd56c76cc2f530a?utm_campaign=1053&utm_source=git)** | Wauwatosa, WI, United States of America | Hybrid | Aug 07 |
 | **[U.S. Venture, Inc.](http://www.usventure.com)** | **[U.S. Venture Open Intern](https://jobright.ai/jobs/info/6a761dbea26ccc369f833cc4?utm_campaign=1053&utm_source=git)** | Appleton, WI, United States | On Site | Aug 07 |
 | **[Gradient Experience](https://www.gradientexperience.com)** | **[IRL Production Internship](https://jobright.ai/jobs/info/6a760da4a26ccc369f833748?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Aug 07 |
-| **[Analog Events](https://analogevents.com)** | **[Intern](https://jobright.ai/jobs/info/6a7607f1bb6ca93ae561081b?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | On Site | Aug 07 |
 | **[Stiled](https://shopstiled.com)** | **[Content and Brand Intern](https://jobright.ai/jobs/info/6a7606327b3417772ade6390?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Aug 07 |
 | **[Hockey Helps the Homeless](https://www.hockeyhelpsthehomeless.com)** | **[Event Operations Intern (4 months)](https://jobright.ai/jobs/info/6a7603367b3417772ade6237?utm_campaign=1053&utm_source=git)** | Richmond Hill, ON, Canada | Hybrid | Aug 07 |
 | **[Deerfield Public Library](https://deerfieldlibrary.org)** | **[MakerSpace Intern](https://jobright.ai/jobs/info/6a75f27ba26ccc369f832ed6?utm_campaign=1053&utm_source=git)** | Deerfield, IL, United States | On Site | Aug 07 |
@@ -115,8 +115,8 @@ For a complete list, click the following sortable link below:
 | **[The Aparecio Foundation](https://www.apareciofoundation.org)** | **[Volunteer/Intern: Pro bono: Editor of "People" Content in Felix](https://jobright.ai/jobs/info/6a7328136a034212ea025ec8?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | On Site | Aug 05 |
 | **[Local Digs LLC](https://www.localdigsllc.com/)** | **[CONTENT WRITING INTERNSHIP](https://jobright.ai/jobs/info/6a741eeafba916306bd986a9?utm_campaign=1053&utm_source=git)** | Heart's Content, NL, Canada | On Site | Aug 04 |
 | **[Daniel Stark Injury Lawyers](https://www.danielstarklaw.com/austin)** | **[Video Editing Intern](https://jobright.ai/jobs/info/6a737f7532ebbc14ffb4f557?utm_campaign=1053&utm_source=git)** | Killeen, TX, United States | On Site | Aug 04 |
-| ↳ | **[Video Editing Intern](https://jobright.ai/jobs/info/6a737f6a8cd88e7ccbf58cc6?utm_campaign=1053&utm_source=git)** | Irving, TX, United States | On Site | Aug 04 |
 | ↳ | **[Video Editing Intern](https://jobright.ai/jobs/info/6a737f6d8cd88e7ccbf58cc8?utm_campaign=1053&utm_source=git)** | Bryan, TX, United States | On Site | Aug 04 |
+| ↳ | **[Video Editing Intern](https://jobright.ai/jobs/info/6a737f6a8cd88e7ccbf58cc6?utm_campaign=1053&utm_source=git)** | Irving, TX, United States | On Site | Aug 04 |
 | ↳ | **[Video Editing Intern](https://jobright.ai/jobs/info/6a737f73e55c73319eb17a9b?utm_campaign=1053&utm_source=git)** | Austin, TX, United States | On Site | Aug 04 |
 | **[Evolve Studios®](https://evolve.studio)** | **[Assistant Editor Internship](https://jobright.ai/jobs/info/6a42d4796a9c2774b3fa77aa?utm_campaign=1053&utm_source=git)** | Franklin, TN, United States | On Site | Aug 04 |
 | **[Minnesota Wild](http://wild.com)** | **[MLV - Intern, Video Production (Full-Time, Seasonal)](https://jobright.ai/jobs/info/6a72522a45b6af1c30dbe199?utm_campaign=1053&utm_source=git)** | Saint Paul, MN, United States | On Site | Aug 04 |
@@ -156,5 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Foodbuy USA](http://www.foodbuy.com)** | **[Video Editing Intern, SSC / Knoxville, TN](https://jobright.ai/jobs/info/6a70c92071acd469eed9fab0?utm_campaign=1053&utm_source=git)** | Knoxville, TN, United States | On Site | Aug 03 |
 | **[Compass Group Canada](http://www.compass-canada.com)** | **[Video Editing Intern, SSC / Knoxville, TN](https://jobright.ai/jobs/info/6a70c5dde2b7476e7b20ac70?utm_campaign=1053&utm_source=git)** | Knoxville, TN, United States | On Site | Aug 03 |
 | **[The Aparecio Foundation](https://www.apareciofoundation.org)** | **[Bookings Associate Intern/Volunteer](https://jobright.ai/jobs/info/6a54dfdb31f2d15a8d813c00?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | On Site | Aug 03 |
-| **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Paid Fall Music Group Publishing Intern](https://jobright.ai/jobs/info/6a51e35202522b5b722ed11d?utm_campaign=1053&utm_source=git)** | Calabasas, CA, United States | On Site | Aug 03 |
+| **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Paid Fall Music Group Publishing Intern](https://jobright.ai/jobs/info/6a1d313d7c457b279080e614?utm_campaign=1053&utm_source=git)** | Calabasas, CA, USA, US | On Site | Aug 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
