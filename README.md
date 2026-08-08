@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Fizzy Mag](https://fizzymag.com)** | **[MUSIC WRITER INTERN (REMOTE)](https://jobright.ai/jobs/info/6a76c2d1b17cba569035f1a7?utm_campaign=1053&utm_source=git)** | Nashville, TN, United States | Remote | Aug 07 |
+| **[adyn](https://www.adyn.com/)** | **[DIGITAL STORYTELLING INTERN](https://jobright.ai/jobs/info/6a76b6c77b3417772ade91b2?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 07 |
 | **[Create Music Group](https://www.createmusicgroup.com/)** | **[A&R Research Intern - Hip-Hop](https://jobright.ai/jobs/info/6a473b238204a812e98cb5ba?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | Hybrid | Aug 07 |
 | **[Hasana, Inc.](http://shophasana.com)** | **[Writers & Journalists Intern/Volunteer](https://jobright.ai/jobs/info/6a7694c8a26ccc369f835b9b?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | On Site | Aug 07 |
 | **[Society19](https://www.society19.com/)** | **[U.S. Lifestyle Magazine Writing Intern](https://jobright.ai/jobs/info/6a56bb0defb06a45240d7e71?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 07 |
@@ -76,6 +78,7 @@ For a complete list, click the following sortable link below:
 | **[Kentucky Farm Bureau Insurance](http://kyfb.com)** | **[Video Production intern](https://jobright.ai/jobs/info/6a509e415165966a11619e5c?utm_campaign=1053&utm_source=git)** | Louisville, KY, United States | On Site | Aug 07 |
 | **[Gift](https://www.shine.gift)** | **[UCLA Music Community Intern](https://jobright.ai/jobs/info/6a75d6c4bb6ca93ae560f8b4?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | Remote | Aug 07 |
 | **[The Sporting News](https://www.sportingnews.com)** | **[Editorial Intern, Sports Partnerships](https://jobright.ai/jobs/info/6a6cb3d332f9300c3a3e49df?utm_campaign=1053&utm_source=git)** | Charlotte, NC, United States | Remote | Aug 07 |
+| **[Mobile Bay Now](https://mobilebaynow.com)** | **[Content Producer Intern](https://jobright.ai/jobs/info/6a76ba00a26ccc369f8361e9?utm_campaign=1053&utm_source=git)** | Daphne, AL, United States | On Site | Aug 06 |
 | **[Seattle Kraken](https://www.nhl.com/kraken)** | **[Intern, Live Production (September 2026 - April 2027)](https://jobright.ai/jobs/info/6a752c01b17cba56903598fe?utm_campaign=1053&utm_source=git)** | Seattle, WA, United States | On Site | Aug 06 |
 | **[Rugby Ontario](https://www.rugbyontario.com)** | **[Competitions Intern](https://jobright.ai/jobs/info/6a757dd9b17cba569035a6d8?utm_campaign=1053&utm_source=git)** | Toronto, ON, Canada | Hybrid | Aug 06 |
 | **[Motivator Music](www.conferenceanthems.com)** | **[Videography Intern](https://jobright.ai/jobs/info/6a754d6c972ac843c69998d8?utm_campaign=1053&utm_source=git)** | Charlotte Metro | On Site | Aug 06 |
@@ -100,6 +103,7 @@ For a complete list, click the following sortable link below:
 | **[The Aparecio Foundation](https://www.apareciofoundation.org)** | **[Food & Prop Stylist Intern/Volunteer](https://jobright.ai/jobs/info/6a7452e1bb6ca93ae5609f08?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | On Site | Aug 06 |
 | **[Southwest Technical College](https://stech.edu)** | **[Film/Videography Student Intern](https://jobright.ai/jobs/info/6a743933bb6ca93ae5609b4c?utm_campaign=1053&utm_source=git)** | Cedar City, UT, United States | On Site | Aug 05 |
 | **[University of Utah](http://utah.edu)** | **[Content Creator - Storyteller Intern](https://jobright.ai/jobs/info/6a74002f8cd88e7ccbf5b07b?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT, United States | On Site | Aug 05 |
+| **[Red Velvet Studios](redvelvetstudio.com)** | **[Music Industry Fall Internship (Los Angeles)](https://jobright.ai/jobs/info/6a76bd994817aa4307049348?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | On Site | Aug 05 |
 | **[Underground Games](www.undgames.com)** | **[Video Content Creator Intern](https://jobright.ai/jobs/info/6a73d7578dc3d52d8eda1992?utm_campaign=1053&utm_source=git)** | Boston, MA, United States | Hybrid | Aug 05 |
 | **[Mueller Sports Medicine, Inc.](http://muellersportsmed.com)** | **[Digital Content Producer Intern](https://jobright.ai/jobs/info/6a7386d38cd88e7ccbf58fae?utm_campaign=1053&utm_source=git)** | Prairie du Sac, WI, United States | On Site | Aug 05 |
 | **[PURPLE](https://purplepr.com)** | **[Fashion Intern - Fall](https://jobright.ai/jobs/info/6a73a4a91ce9647cdbca97de?utm_campaign=1053&utm_source=git)** | New York, United States | On Site | Aug 05 |
@@ -120,8 +124,8 @@ For a complete list, click the following sortable link below:
 | **[The Aparecio Foundation](https://www.apareciofoundation.org)** | **[Volunteer/Intern: Pro bono: Editor of "People" Content in Felix](https://jobright.ai/jobs/info/6a7328136a034212ea025ec8?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | On Site | Aug 05 |
 | **[Local Digs LLC](https://www.localdigsllc.com/)** | **[CONTENT WRITING INTERNSHIP](https://jobright.ai/jobs/info/6a741eeafba916306bd986a9?utm_campaign=1053&utm_source=git)** | Heart's Content, NL, Canada | On Site | Aug 04 |
 | **[Daniel Stark Injury Lawyers](https://www.danielstarklaw.com/austin)** | **[Video Editing Intern](https://jobright.ai/jobs/info/6a737f7532ebbc14ffb4f557?utm_campaign=1053&utm_source=git)** | Killeen, TX, United States | On Site | Aug 04 |
-| ↳ | **[Video Editing Intern](https://jobright.ai/jobs/info/6a737f6d8cd88e7ccbf58cc8?utm_campaign=1053&utm_source=git)** | Bryan, TX, United States | On Site | Aug 04 |
 | ↳ | **[Video Editing Intern](https://jobright.ai/jobs/info/6a737f6a8cd88e7ccbf58cc6?utm_campaign=1053&utm_source=git)** | Irving, TX, United States | On Site | Aug 04 |
+| ↳ | **[Video Editing Intern](https://jobright.ai/jobs/info/6a737f6d8cd88e7ccbf58cc8?utm_campaign=1053&utm_source=git)** | Bryan, TX, United States | On Site | Aug 04 |
 | ↳ | **[Video Editing Intern](https://jobright.ai/jobs/info/6a737f73e55c73319eb17a9b?utm_campaign=1053&utm_source=git)** | Austin, TX, United States | On Site | Aug 04 |
 | **[Evolve Studios®](https://evolve.studio)** | **[Assistant Editor Internship](https://jobright.ai/jobs/info/6a42d4796a9c2774b3fa77aa?utm_campaign=1053&utm_source=git)** | Franklin, TN, United States | On Site | Aug 04 |
 | **[Minnesota Wild](http://wild.com)** | **[MLV - Intern, Video Production (Full-Time, Seasonal)](https://jobright.ai/jobs/info/6a72522a45b6af1c30dbe199?utm_campaign=1053&utm_source=git)** | Saint Paul, MN, United States | On Site | Aug 04 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Salt River Fields at Talking Stick](http://www.saltriverfields.com)** | **[Fall Events Intern](https://jobright.ai/jobs/info/6a70e7ddcb96192a36846624?utm_campaign=1053&utm_source=git)** | Scottsdale, AZ, United States | On Site | Aug 03 |
 | **[American Institute of Physics](http://aip.org/)** | **[Science Writer Intern](https://jobright.ai/jobs/info/6a70bc92357dfc6ff2b3aa36?utm_campaign=1053&utm_source=git)** | College Park, MD, United States | Hybrid | Aug 03 |
 | **[Middle East Institute](http://www.mei.edu)** | **[Arts & Culture Internship (Fall 2026 - Unpaid)](https://jobright.ai/jobs/info/6a5e4e08f3674a0545d281df?utm_campaign=1053&utm_source=git)** | Washington, DC, United States | On Site | Aug 03 |
-| **[Monumental Sports & Entertainment](http://www.monumentalsports.com/)** | **[Internship: Fan Development (Part-Time/Seasonal)](https://jobright.ai/jobs/info/6a70b3f6cb96192a36844faa?utm_campaign=1053&utm_source=git)** | Washington, DC, United States | On Site | Aug 03 |
-| **[The Ambony](https://www.anpublishing.com/)** | **[Journalism Editor Internship (POC Society Platform)](https://jobright.ai/jobs/info/6a70d0ce357dfc6ff2b3b3b0?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Remote | Aug 03 |
-| **[Portal Innovations](https://www.portalinnovations.com/)** | **[Fall 2026 Intern - Member Experience (Operations)](https://jobright.ai/jobs/info/6a70c9b81003bd7b70d6ca3c?utm_campaign=1053&utm_source=git)** | Providence, RI, United States | On Site | Aug 03 |
-| **[Foodbuy USA](http://www.foodbuy.com)** | **[Video Editing Intern, SSC / Knoxville, TN](https://jobright.ai/jobs/info/6a70c92071acd469eed9fab0?utm_campaign=1053&utm_source=git)** | Knoxville, TN, United States | On Site | Aug 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
