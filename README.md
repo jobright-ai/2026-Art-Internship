@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Aparecio Foundation](https://www.apareciofoundation.org)** | **[Volunteer/Intern: Pro bono: Editor of "Music" Content in Felix](https://jobright.ai/jobs/info/6a766a76a26ccc369f835517?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | On Site | Aug 07 |
 | **[San Francisco Institute of Esthetics and Cosmetology](https://sfiec.edu)** | **[COLOR CREW INTERNSHIP 2021 (REMOTE)](https://jobright.ai/jobs/info/6a76555a4817aa4307047eab?utm_campaign=1053&utm_source=git)** | San Francisco, CA, United States | Remote | Aug 07 |
 | **[Comcast](https://corporate.comcast.com)** | **[Game Presentation Intern](https://jobright.ai/jobs/info/6a74e2267b3417772ade2291?utm_campaign=1053&utm_source=git)** | Philadelphia, PA, United States | On Site | Aug 07 |
 | **[Jacksonville Jaguars](http://www.jaguars.com)** | **[Game Presentation, Intern](https://jobright.ai/jobs/info/6a7637f7a26ccc369f8344b0?utm_campaign=1053&utm_source=git)** | Jacksonville, FL, United States | On Site | Aug 07 |
@@ -71,7 +72,6 @@ For a complete list, click the following sortable link below:
 | **[ADDY.media](http://addy.media)** | **[Video Journalist Intern for New York Fashion Week  York Fashion Week Sept. 10th-15th](https://jobright.ai/jobs/info/6a75e9e47b3417772ade5b6c?utm_campaign=1053&utm_source=git)** | Manhattan, NY, United States | On Site | Aug 07 |
 | **[Kentucky Farm Bureau Insurance](http://kyfb.com)** | **[Video Production intern](https://jobright.ai/jobs/info/6a509e415165966a11619e5c?utm_campaign=1053&utm_source=git)** | Louisville, KY, United States | On Site | Aug 07 |
 | **[Gift](https://www.shine.gift)** | **[UCLA Music Community Intern](https://jobright.ai/jobs/info/6a75d6c4bb6ca93ae560f8b4?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | Remote | Aug 07 |
-| **[Canyon Entertainment Group](https://canyonentertainmentgroup.com)** | **[AI Video & Animation Creator Internship](https://jobright.ai/jobs/info/6a75e7b7bb6ca93ae560fec1?utm_campaign=1053&utm_source=git)** | Canada | Remote | Aug 07 |
 | **[The Sporting News](https://www.sportingnews.com)** | **[Editorial Intern, Sports Partnerships](https://jobright.ai/jobs/info/6a6cb3d332f9300c3a3e49df?utm_campaign=1053&utm_source=git)** | Charlotte, NC, United States | Remote | Aug 07 |
 | **[Seattle Kraken](https://www.nhl.com/kraken)** | **[Intern, Live Production (September 2026 - April 2027)](https://jobright.ai/jobs/info/6a752c01b17cba56903598fe?utm_campaign=1053&utm_source=git)** | Seattle, WA, United States | On Site | Aug 06 |
 | **[Rugby Ontario](https://www.rugbyontario.com)** | **[Competitions Intern](https://jobright.ai/jobs/info/6a757dd9b17cba569035a6d8?utm_campaign=1053&utm_source=git)** | Toronto, ON, Canada | Hybrid | Aug 06 |
@@ -156,5 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Foodbuy USA](http://www.foodbuy.com)** | **[Video Editing Intern, SSC / Knoxville, TN](https://jobright.ai/jobs/info/6a70c92071acd469eed9fab0?utm_campaign=1053&utm_source=git)** | Knoxville, TN, United States | On Site | Aug 03 |
 | **[Compass Group Canada](http://www.compass-canada.com)** | **[Video Editing Intern, SSC / Knoxville, TN](https://jobright.ai/jobs/info/6a70c5dde2b7476e7b20ac70?utm_campaign=1053&utm_source=git)** | Knoxville, TN, United States | On Site | Aug 03 |
 | **[The Aparecio Foundation](https://www.apareciofoundation.org)** | **[Bookings Associate Intern/Volunteer](https://jobright.ai/jobs/info/6a54dfdb31f2d15a8d813c00?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | On Site | Aug 03 |
-| **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Paid Fall Music Group Publishing Intern](https://jobright.ai/jobs/info/6a1d313d7c457b279080e614?utm_campaign=1053&utm_source=git)** | Calabasas, CA, USA, US | On Site | Aug 03 |
+| **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Paid Fall Music Group Publishing Intern](https://jobright.ai/jobs/info/6a51e35202522b5b722ed11d?utm_campaign=1053&utm_source=git)** | Calabasas, CA, United States | On Site | Aug 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
