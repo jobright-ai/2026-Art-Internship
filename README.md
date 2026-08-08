@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Deerfield Public Library](https://deerfieldlibrary.org)** | **[MakerSpace Intern](https://jobright.ai/jobs/info/6a75f27ba26ccc369f832ed6?utm_campaign=1053&utm_source=git)** | Deerfield, IL, United States | On Site | Aug 08 |
 | **[ArtsQuest](http://www.artsquest.org/)** | **[ARTS ADMIN & EDUCATION INTERN](https://jobright.ai/jobs/info/6a76d4b8b17cba569035f30e?utm_campaign=1053&utm_source=git)** | Bethlehem, PA, United States | On Site | Aug 08 |
 | **[Fizzy Mag](https://fizzymag.com)** | **[MUSIC WRITER INTERN (REMOTE)](https://jobright.ai/jobs/info/6a76c2d1b17cba569035f1a7?utm_campaign=1053&utm_source=git)** | Nashville, TN, United States | Remote | Aug 07 |
 | **[adyn](https://www.adyn.com/)** | **[DIGITAL STORYTELLING INTERN](https://jobright.ai/jobs/info/6a76b6c77b3417772ade91b2?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 07 |
@@ -74,7 +75,6 @@ For a complete list, click the following sortable link below:
 | **[Gradient Experience](https://www.gradientexperience.com)** | **[IRL Production Internship](https://jobright.ai/jobs/info/6a760da4a26ccc369f833748?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Aug 07 |
 | **[Stiled](https://shopstiled.com)** | **[Content and Brand Intern](https://jobright.ai/jobs/info/6a7606327b3417772ade6390?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Aug 07 |
 | **[Hockey Helps the Homeless](https://www.hockeyhelpsthehomeless.com)** | **[Event Operations Intern (4 months)](https://jobright.ai/jobs/info/6a7603367b3417772ade6237?utm_campaign=1053&utm_source=git)** | Richmond Hill, ON, Canada | Hybrid | Aug 07 |
-| **[Deerfield Public Library](https://deerfieldlibrary.org)** | **[MakerSpace Intern](https://jobright.ai/jobs/info/6a75f27ba26ccc369f832ed6?utm_campaign=1053&utm_source=git)** | Deerfield, IL, United States | On Site | Aug 07 |
 | **[Social View Agency](https://www.socialviewagency.com/)** | **[TikTok Intern](https://jobright.ai/jobs/info/6a75ee67a26ccc369f832d66?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | On Site | Aug 07 |
 | **[ADDY.media](http://addy.media)** | **[Video Journalist Intern for New York Fashion Week  York Fashion Week Sept. 10th-15th](https://jobright.ai/jobs/info/6a75e9e47b3417772ade5b6c?utm_campaign=1053&utm_source=git)** | Manhattan, NY, United States | On Site | Aug 07 |
 | **[Kentucky Farm Bureau Insurance](http://kyfb.com)** | **[Video Production intern](https://jobright.ai/jobs/info/6a509e415165966a11619e5c?utm_campaign=1053&utm_source=git)** | Louisville, KY, United States | On Site | Aug 07 |
@@ -127,8 +127,8 @@ For a complete list, click the following sortable link below:
 | **[The Aparecio Foundation](https://www.apareciofoundation.org)** | **[Volunteer/Intern: Pro bono: Editor of "People" Content in Felix](https://jobright.ai/jobs/info/6a7328136a034212ea025ec8?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | On Site | Aug 05 |
 | **[Local Digs LLC](https://www.localdigsllc.com/)** | **[CONTENT WRITING INTERNSHIP](https://jobright.ai/jobs/info/6a741eeafba916306bd986a9?utm_campaign=1053&utm_source=git)** | Heart's Content, NL, Canada | On Site | Aug 04 |
 | **[Daniel Stark Injury Lawyers](https://www.danielstarklaw.com/austin)** | **[Video Editing Intern](https://jobright.ai/jobs/info/6a737f7532ebbc14ffb4f557?utm_campaign=1053&utm_source=git)** | Killeen, TX, United States | On Site | Aug 04 |
-| ↳ | **[Video Editing Intern](https://jobright.ai/jobs/info/6a737f6d8cd88e7ccbf58cc8?utm_campaign=1053&utm_source=git)** | Bryan, TX, United States | On Site | Aug 04 |
 | ↳ | **[Video Editing Intern](https://jobright.ai/jobs/info/6a737f6a8cd88e7ccbf58cc6?utm_campaign=1053&utm_source=git)** | Irving, TX, United States | On Site | Aug 04 |
+| ↳ | **[Video Editing Intern](https://jobright.ai/jobs/info/6a737f6d8cd88e7ccbf58cc8?utm_campaign=1053&utm_source=git)** | Bryan, TX, United States | On Site | Aug 04 |
 | ↳ | **[Video Editing Intern](https://jobright.ai/jobs/info/6a737f73e55c73319eb17a9b?utm_campaign=1053&utm_source=git)** | Austin, TX, United States | On Site | Aug 04 |
 | **[Evolve Studios®](https://evolve.studio)** | **[Assistant Editor Internship](https://jobright.ai/jobs/info/6a42d4796a9c2774b3fa77aa?utm_campaign=1053&utm_source=git)** | Franklin, TN, United States | On Site | Aug 04 |
 | **[Minnesota Wild](http://wild.com)** | **[MLV - Intern, Video Production (Full-Time, Seasonal)](https://jobright.ai/jobs/info/6a72522a45b6af1c30dbe199?utm_campaign=1053&utm_source=git)** | Saint Paul, MN, United States | On Site | Aug 04 |
