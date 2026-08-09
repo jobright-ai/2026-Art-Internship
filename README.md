@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[FDB (First Databank, Inc.)](http://fdbhealth.com)** | **[Fall News Intern](https://jobright.ai/jobs/info/69e61b3f3aa0c4796439220f?utm_campaign=1053&utm_source=git)** | Pittsburgh, PA, United States | On Site | Aug 09 |
+| **[Monumental Sports & Entertainment](http://www.monumentalsports.com/)** | **[Internship: Video Editor (Part-Time/Seasonal)](https://jobright.ai/jobs/info/6a6a303d0b42f866b61974a7?utm_campaign=1053&utm_source=git)** | Washington, DC, United States | On Site | Aug 09 |
 | **[Biasly](https://www.biasly.com/verify-your-email/?email=)** | **[Writing Internship](https://jobright.ai/jobs/info/6a780fcb7b3417772adeb427?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT, United States | Remote | Aug 08 |
 | **[adyn](https://www.adyn.com/)** | **[DIGITAL STORYTELLING INTERN](https://jobright.ai/jobs/info/6a7806a3a26ccc369f8383b2?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 08 |
 | **[Monumental Sports & Entertainment](http://www.monumentalsports.com/)** | **[Internship: Productions (Part-Time/Seasonal)](https://jobright.ai/jobs/info/6a68e68d05bae84301b59400?utm_campaign=1053&utm_source=git)** | Washington, DC, United States | On Site | Aug 08 |
@@ -127,8 +129,8 @@ For a complete list, click the following sortable link below:
 | **[The Aparecio Foundation](https://www.apareciofoundation.org)** | **[Volunteer/Intern: Pro bono: Editor of "People" Content in Felix](https://jobright.ai/jobs/info/6a7328136a034212ea025ec8?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | On Site | Aug 05 |
 | **[Local Digs LLC](https://www.localdigsllc.com/)** | **[CONTENT WRITING INTERNSHIP](https://jobright.ai/jobs/info/6a741eeafba916306bd986a9?utm_campaign=1053&utm_source=git)** | Heart's Content, NL, Canada | On Site | Aug 04 |
 | **[Daniel Stark Injury Lawyers](https://www.danielstarklaw.com/austin)** | **[Video Editing Intern](https://jobright.ai/jobs/info/6a737f7532ebbc14ffb4f557?utm_campaign=1053&utm_source=git)** | Killeen, TX, United States | On Site | Aug 04 |
-| ↳ | **[Video Editing Intern](https://jobright.ai/jobs/info/6a737f6d8cd88e7ccbf58cc8?utm_campaign=1053&utm_source=git)** | Bryan, TX, United States | On Site | Aug 04 |
 | ↳ | **[Video Editing Intern](https://jobright.ai/jobs/info/6a737f6a8cd88e7ccbf58cc6?utm_campaign=1053&utm_source=git)** | Irving, TX, United States | On Site | Aug 04 |
+| ↳ | **[Video Editing Intern](https://jobright.ai/jobs/info/6a737f6d8cd88e7ccbf58cc8?utm_campaign=1053&utm_source=git)** | Bryan, TX, United States | On Site | Aug 04 |
 | ↳ | **[Video Editing Intern](https://jobright.ai/jobs/info/6a737f73e55c73319eb17a9b?utm_campaign=1053&utm_source=git)** | Austin, TX, United States | On Site | Aug 04 |
 | **[Evolve Studios®](https://evolve.studio)** | **[Assistant Editor Internship](https://jobright.ai/jobs/info/6a42d4796a9c2774b3fa77aa?utm_campaign=1053&utm_source=git)** | Franklin, TN, United States | On Site | Aug 04 |
 | **[Minnesota Wild](http://wild.com)** | **[MLV - Intern, Video Production (Full-Time, Seasonal)](https://jobright.ai/jobs/info/6a72522a45b6af1c30dbe199?utm_campaign=1053&utm_source=git)** | Saint Paul, MN, United States | On Site | Aug 04 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[hello82](https://hello82.com/pages/about)** | **[Content Group Intern](https://jobright.ai/jobs/info/6a5ebdfd67b2850e77df2dd9?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | On Site | Aug 03 |
 | **[University of Portland](http://www.up.edu)** | **[CSWS Digital Archival Intern-Portland Parks & Recreation](https://jobright.ai/jobs/info/6a7134c971acd469eeda215a?utm_campaign=1053&utm_source=git)** | Portland, OR, United States | On Site | Aug 03 |
 | **[C-SPAN](http://www.c-span.org)** | **[Internship - Fall 2026 (September - December)](https://jobright.ai/jobs/info/6a73acb132ebbc14ffb50813?utm_campaign=1053&utm_source=git)** | Washington, DC, United States | On Site | Aug 03 |
-| **[LOVB Nebraska](https://lovb.com/teams/lovb-nebraska-volleyball)** | **[Fan Experience & Engagement Intern](https://jobright.ai/jobs/info/6a70f79ce2b7476e7b20c159?utm_campaign=1053&utm_source=git)** | Omaha, NE, United States | On Site | Aug 03 |
-| **[Portal Innovations](https://www.portalinnovations.com/)** | **[Member Experience Intern - FALL 2026](https://jobright.ai/jobs/info/6a70ebc0e2b7476e7b20bc8b?utm_campaign=1053&utm_source=git)** | Providence, RI, United States | On Site | Aug 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
