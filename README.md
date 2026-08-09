@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Charlotte Checkers](http://gocheckers.com)** | **[Charlotte Checkers Game Operations Internship](https://jobright.ai/jobs/info/6a78e2e47b3417772adec217?utm_campaign=1053&utm_source=git)** | Charlotte, NC, United States | On Site | Aug 09 |
+| **[Red Velvet Studios](redvelvetstudio.com)** | **[Music Content Intern](https://jobright.ai/jobs/info/6a78e032a26ccc369f83927a?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | On Site | Aug 09 |
 | **[Monumental Sports & Entertainment](http://www.monumentalsports.com/)** | **[Internship: Fan Development (Part-Time/Seasonal)](https://jobright.ai/jobs/info/6a70b3f6cb96192a36844faa?utm_campaign=1053&utm_source=git)** | Washington, DC, United States | On Site | Aug 09 |
 | **[FDB (First Databank, Inc.)](http://fdbhealth.com)** | **[Fall News Intern](https://jobright.ai/jobs/info/69e61b3f3aa0c4796439220f?utm_campaign=1053&utm_source=git)** | Pittsburgh, PA, United States | On Site | Aug 09 |
 | **[Monumental Sports & Entertainment](http://www.monumentalsports.com/)** | **[Internship: Video Editor (Part-Time/Seasonal)](https://jobright.ai/jobs/info/6a6a303d0b42f866b61974a7?utm_campaign=1053&utm_source=git)** | Washington, DC, United States | On Site | Aug 09 |
@@ -136,11 +138,11 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Video Editing Intern](https://jobright.ai/jobs/info/6a737f73e55c73319eb17a9b?utm_campaign=1053&utm_source=git)** | Austin, TX, United States | On Site | Aug 04 |
 | **[Evolve Studios®](https://evolve.studio)** | **[Assistant Editor Internship](https://jobright.ai/jobs/info/6a42d4796a9c2774b3fa77aa?utm_campaign=1053&utm_source=git)** | Franklin, TN, United States | On Site | Aug 04 |
 | **[Minnesota Wild](http://wild.com)** | **[MLV - Intern, Video Production (Full-Time, Seasonal)](https://jobright.ai/jobs/info/6a72522a45b6af1c30dbe199?utm_campaign=1053&utm_source=git)** | Saint Paul, MN, United States | On Site | Aug 04 |
+| **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Production Assistant Intern - Student Employment](https://jobright.ai/jobs/info/6a7221d6e2b7476e7b211774?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | On Site | Aug 04 |
 | **[Hoboken Grace Community Church](http://www.hobokengrace.com)** | **[Event Planning Intern - Fall 2026](https://jobright.ai/jobs/info/6a724a69e2b7476e7b21274d?utm_campaign=1053&utm_source=git)** | Hoboken, NJ, United States | On Site | Aug 04 |
 | ↳ | **[Video Production Intern - Fall 2026](https://jobright.ai/jobs/info/6a724a5dee751e0c79348076?utm_campaign=1053&utm_source=git)** | Hoboken, NJ, United States | On Site | Aug 04 |
 | **[Rhode Island FC](https://www.rhodeislandfc.com)** | **[Video Assistant Editor Internship - Hybrid (Fall 2026)](https://jobright.ai/jobs/info/6a7244ffcb96192a3684d06d?utm_campaign=1053&utm_source=git)** | Pawtucket, RI, United States | Hybrid | Aug 04 |
 | **[Elite Podcast Studio](ElitePodcastStudio.com)** | **[The Next Viral Content Creator (Internship)](https://jobright.ai/jobs/info/6a72298671acd469eeda64b1?utm_campaign=1053&utm_source=git)** | Odessa, FL, United States | On Site | Aug 04 |
-| **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Production Assistant Intern - Student Employment](https://jobright.ai/jobs/info/6a7221d6e2b7476e7b211774?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | On Site | Aug 04 |
 | **[The Untitled Space](https://untitled-space.com)** | **[Art Gallery Internship](https://jobright.ai/jobs/info/6a721a6bee751e0c79346e02?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Aug 04 |
 | **[MARKHAM](https://www.markham.co/)** | **[Event Internship- New York](https://jobright.ai/jobs/info/6a720133cb96192a3684b64d?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Aug 04 |
 | **[Operation Smile](http://www.operationsmile.org)** | **[Writing Internship - Operation Smile ILC](https://jobright.ai/jobs/info/696883c31703f05405aa42b9?utm_campaign=1053&utm_source=git)** | Virginia Beach, VA, United States | On Site | Aug 04 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[TikTok Short Drama Project Intern (TikTok-Short-Drama) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a30d116093df201d07b2c04?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Aug 04 |
 | **[Sinclair Inc.](http://sbgi.net)** | **[Intern - Studio Crew](https://jobright.ai/jobs/info/69e1d29dd612782e6114aa3a?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Aug 04 |
 | **[Diocese of Austin](http://www.austindiocese.org)** | **[AV Intern](https://jobright.ai/jobs/info/6a710275ee751e0c793420eb?utm_campaign=1053&utm_source=git)** | Austin, TX, United States | On Site | Aug 04 |
-| **[Saint Xavier University](http://www.sxu.edu/)** | **[Production Assistant Intern - Student Employment](https://jobright.ai/jobs/info/6a72c650ee751e0c79349fe0?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | On Site | Aug 03 |
-| **[hello82](https://hello82.com/pages/about)** | **[Content Group Intern](https://jobright.ai/jobs/info/6a5ebdfd67b2850e77df2dd9?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | On Site | Aug 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
