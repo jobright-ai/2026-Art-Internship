@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Monumental Sports & Entertainment](http://www.monumentalsports.com/)** | **[Internship: Fan Development (Part-Time/Seasonal)](https://jobright.ai/jobs/info/6a70b3f6cb96192a36844faa?utm_campaign=1053&utm_source=git)** | Washington, DC, United States | On Site | Aug 09 |
 | **[FDB (First Databank, Inc.)](http://fdbhealth.com)** | **[Fall News Intern](https://jobright.ai/jobs/info/69e61b3f3aa0c4796439220f?utm_campaign=1053&utm_source=git)** | Pittsburgh, PA, United States | On Site | Aug 09 |
 | **[Monumental Sports & Entertainment](http://www.monumentalsports.com/)** | **[Internship: Video Editor (Part-Time/Seasonal)](https://jobright.ai/jobs/info/6a6a303d0b42f866b61974a7?utm_campaign=1053&utm_source=git)** | Washington, DC, United States | On Site | Aug 09 |
 | **[ASM Global](https://asmglobal.com/)** | **[Hospitality Intern - The Meadows Music Theater](https://jobright.ai/jobs/info/6a510fcabf63b66c79978842?utm_campaign=1053&utm_source=git)** | Hartford, CT, United States | On Site | Aug 09 |
@@ -83,6 +84,7 @@ For a complete list, click the following sortable link below:
 | **[Stiled](https://shopstiled.com)** | **[Content and Brand Intern](https://jobright.ai/jobs/info/6a7606327b3417772ade6390?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Aug 07 |
 | **[Hockey Helps the Homeless](https://www.hockeyhelpsthehomeless.com)** | **[Event Operations Intern (4 months)](https://jobright.ai/jobs/info/6a7603367b3417772ade6237?utm_campaign=1053&utm_source=git)** | Richmond Hill, ON, Canada | Hybrid | Aug 07 |
 | **[Social View Agency](https://www.socialviewagency.com/)** | **[TikTok Intern](https://jobright.ai/jobs/info/6a75ee67a26ccc369f832d66?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | On Site | Aug 07 |
+| **[Spooky Nook Sports](http://spookynooksports.com)** | **[Athletic Ops Intern](https://jobright.ai/jobs/info/6a789ffb4817aa430704be63?utm_campaign=1053&utm_source=git)** | Manheim, PA, United States | On Site | Aug 07 |
 | **[Kentucky Farm Bureau Insurance](http://kyfb.com)** | **[Video Production intern](https://jobright.ai/jobs/info/6a509e415165966a11619e5c?utm_campaign=1053&utm_source=git)** | Louisville, KY, United States | On Site | Aug 07 |
 | **[The Sporting News](https://www.sportingnews.com)** | **[Editorial Intern, Sports Partnerships](https://jobright.ai/jobs/info/6a6cb3d332f9300c3a3e49df?utm_campaign=1053&utm_source=git)** | Charlotte, NC, United States | Remote | Aug 07 |
 | **[Mobile Bay Now](https://mobilebaynow.com)** | **[Content Producer Intern](https://jobright.ai/jobs/info/6a76ba00a26ccc369f8361e9?utm_campaign=1053&utm_source=git)** | Daphne, AL, United States | On Site | Aug 06 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Sinclair Inc.](http://sbgi.net)** | **[Intern - Studio Crew](https://jobright.ai/jobs/info/69e1d29dd612782e6114aa3a?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Aug 04 |
 | **[Diocese of Austin](http://www.austindiocese.org)** | **[AV Intern](https://jobright.ai/jobs/info/6a710275ee751e0c793420eb?utm_campaign=1053&utm_source=git)** | Austin, TX, United States | On Site | Aug 04 |
 | **[Saint Xavier University](http://www.sxu.edu/)** | **[Production Assistant Intern - Student Employment](https://jobright.ai/jobs/info/6a72c650ee751e0c79349fe0?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | On Site | Aug 03 |
-| **[hello82](https://hello82.com/pages/about)** | **[Content Group Intern](https://jobright.ai/jobs/info/6a5ebdfd67b2850e77df2dd9?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | On Site | Aug 03 |
-| **[University of Portland](http://www.up.edu)** | **[CSWS Digital Archival Intern-Portland Parks & Recreation](https://jobright.ai/jobs/info/6a7134c971acd469eeda215a?utm_campaign=1053&utm_source=git)** | Portland, OR, United States | On Site | Aug 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
