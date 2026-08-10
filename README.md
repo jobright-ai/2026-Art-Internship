@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid News Intern](https://jobright.ai/jobs/info/6972b01a9b83b424830eb8a4?utm_campaign=1053&utm_source=git)** | IN-Indianapolis;6910 Network Place (Tribune-WXIN/WTTV) | On Site | Aug 10 |
+| **[Hearst Television](http://www.hearsttelevision.com)** | **[Intern (Fall)](https://jobright.ai/jobs/info/6a1d794e3e538a28c2049c97?utm_campaign=1053&utm_source=git)** | 3 Television Circle, Sacramento, CA, 95814, US | On Site | Aug 10 |
 | **[The Aparecio Foundation](https://www.apareciofoundation.org)** | **[Volunteer/Intern:Pro-bono Editor of "Fashion" Content in Felix](https://jobright.ai/jobs/info/6a5542c22084cd792b477398?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | On Site | Aug 09 |
 | **[Jam in the Van](https://jaminthevan.com/)** | **[Livestream Intern](https://jobright.ai/jobs/info/6a79645cbb6ca93ae5617326?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | On Site | Aug 09 |
 | **[Charlotte Checkers](http://gocheckers.com)** | **[Charlotte Checkers Game Operations Internship](https://jobright.ai/jobs/info/6a78e2e47b3417772adec217?utm_campaign=1053&utm_source=git)** | Charlotte, NC, United States | On Site | Aug 09 |
@@ -107,6 +109,7 @@ For a complete list, click the following sortable link below:
 | **[Golden Hippo®](http://goldenhippomedia.com)** | **[Testimonial Video Editor Intern](https://jobright.ai/jobs/info/6a555f6a268af95237beb476?utm_campaign=1053&utm_source=git)** | Woodland Hills, CA, United States | On Site | Aug 06 |
 | ↳ | **[Video Editing Intern](https://jobright.ai/jobs/info/6a565bfbe9b77f668bd62c38?utm_campaign=1053&utm_source=git)** | Woodland Hills, CA, United States | Hybrid | Aug 06 |
 | ↳ | **[Testimonial Video Editor Intern](https://jobright.ai/jobs/info/6a5542ab4119652ff386468e?utm_campaign=1053&utm_source=git)** | Woodland Hills, CA, United States | On Site | Aug 06 |
+| **[Proper Cloth](https://propercloth.com)** | **[Fall 2026 Product Styling Internship](https://jobright.ai/jobs/info/6a79ba1ea26ccc369f83a9a3?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Aug 06 |
 | **[The Dispatch](https://thedispatch.com/)** | **[Fall 2026 Multimedia Internship](https://jobright.ai/jobs/info/6a591d8d4da96a42cfd8f224?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 06 |
 | **[Hasana, Inc.](http://shophasana.com)** | **[Film & Video Internship](https://jobright.ai/jobs/info/6a5997544da96a42cfd91dd0?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | On Site | Aug 06 |
 | **[vineyard vines](http://www.vineyardvines.com)** | **[Fall 2026 Internship - Production](https://jobright.ai/jobs/info/6a579c0eefb06a45240db615?utm_campaign=1053&utm_source=git)** | Stamford, Connecticut, United States | Hybrid | Aug 06 |
@@ -127,7 +130,6 @@ For a complete list, click the following sortable link below:
 | **[Mercatus Center at George Mason University](http://mercatus.org)** | **[Production Intern](https://jobright.ai/jobs/info/6a734e701ce9647cdbca7454?utm_campaign=1053&utm_source=git)** | Arlington, VA, United States | Hybrid | Aug 05 |
 | ↳ | **[Production Intern](https://jobright.ai/jobs/info/6a734c228cd88e7ccbf57801?utm_campaign=1053&utm_source=git)** | Arlington, VA, United States | Hybrid | Aug 05 |
 | **[Rho](https://rho.co)** | **[Video Intern](https://jobright.ai/jobs/info/6a5677c6f7517b519ad55da1?utm_campaign=1053&utm_source=git)** | NYC | On Site | Aug 05 |
-| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid News Intern](https://jobright.ai/jobs/info/6972b01a9b83b424830eb8a4?utm_campaign=1053&utm_source=git)** | IN-Indianapolis;6910 Network Place (Tribune-WXIN/WTTV) | On Site | Aug 05 |
 | **[Operation Smile](http://www.operationsmile.org)** | **[Student Programs Production Intern](https://jobright.ai/jobs/info/6a39b84b06a4fd4b1fabbcd7?utm_campaign=1053&utm_source=git)** | Virginia Beach, VA | On Site | Aug 05 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[WAVY Unpaid Sports Intern, Fall 2026](https://jobright.ai/jobs/info/69fc4646633e68586cd30319?utm_campaign=1053&utm_source=git)** | VA, Portsmouth, US | On Site | Aug 05 |
 | ↳ | **[Media Production Intern (In- Person) Fall 2026.](https://jobright.ai/jobs/info/6a39929f214ae004c7a1f5bc?utm_campaign=1053&utm_source=git)** | Mobile, AL | On Site | Aug 05 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Insomniac Events](http://insomniac.com)** | **[Paid Fall Music Group Publishing Intern](https://jobright.ai/jobs/info/6a480a84c2d11a6a46673a56?utm_campaign=1053&utm_source=git)** | Calabasas, CA, USA | On Site | Aug 04 |
 | **[Hasana, Inc.](http://shophasana.com)** | **[Volunteer/Intern: Film/Video Editor](https://jobright.ai/jobs/info/6a51e53ebf63b66c7997e975?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Aug 04 |
 | **[TikTok](https://www.tiktok.com)** | **[Agency Ops Project Intern (TikTok Local Services) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a5076339469c06620351013?utm_campaign=1053&utm_source=git)** | Los Angeles, United States | On Site | Aug 04 |
-| ↳ | **[TikTok Short Drama Project Intern (TikTok-Short-Drama) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a30d116093df201d07b2c04?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Aug 04 |
-| **[Sinclair Inc.](http://sbgi.net)** | **[Intern - Studio Crew](https://jobright.ai/jobs/info/69e1d29dd612782e6114aa3a?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Aug 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
