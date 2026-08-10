@@ -84,7 +84,6 @@ For a complete list, click the following sortable link below:
 | **[Gradient Experience](https://www.gradientexperience.com)** | **[IRL Production Internship](https://jobright.ai/jobs/info/6a760da4a26ccc369f833748?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Aug 07 |
 | **[Stiled](https://shopstiled.com)** | **[Content and Brand Intern](https://jobright.ai/jobs/info/6a7606327b3417772ade6390?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Aug 07 |
 | **[Hockey Helps the Homeless](https://www.hockeyhelpsthehomeless.com)** | **[Event Operations Intern (4 months)](https://jobright.ai/jobs/info/6a7603367b3417772ade6237?utm_campaign=1053&utm_source=git)** | Richmond Hill, ON, Canada | Hybrid | Aug 07 |
-| **[Social View Agency](https://www.socialviewagency.com/)** | **[TikTok Intern](https://jobright.ai/jobs/info/6a75ee67a26ccc369f832d66?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | On Site | Aug 07 |
 | **[Spooky Nook Sports](http://spookynooksports.com)** | **[Athletic Ops Intern](https://jobright.ai/jobs/info/6a789ffb4817aa430704be63?utm_campaign=1053&utm_source=git)** | Manheim, PA, United States | On Site | Aug 07 |
 | **[Kentucky Farm Bureau Insurance](http://kyfb.com)** | **[Video Production intern](https://jobright.ai/jobs/info/6a509e415165966a11619e5c?utm_campaign=1053&utm_source=git)** | Louisville, KY, United States | On Site | Aug 07 |
 | **[The Sporting News](https://www.sportingnews.com)** | **[Editorial Intern, Sports Partnerships](https://jobright.ai/jobs/info/6a6cb3d332f9300c3a3e49df?utm_campaign=1053&utm_source=git)** | Charlotte, NC, United States | Remote | Aug 07 |
@@ -133,8 +132,8 @@ For a complete list, click the following sortable link below:
 | **[The Aparecio Foundation](https://www.apareciofoundation.org)** | **[Volunteer/Intern: Pro bono: Editor of "People" Content in Felix](https://jobright.ai/jobs/info/6a7328136a034212ea025ec8?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | On Site | Aug 05 |
 | **[Local Digs LLC](https://www.localdigsllc.com/)** | **[CONTENT WRITING INTERNSHIP](https://jobright.ai/jobs/info/6a741eeafba916306bd986a9?utm_campaign=1053&utm_source=git)** | Heart's Content, NL, Canada | On Site | Aug 04 |
 | **[Daniel Stark Injury Lawyers](https://www.danielstarklaw.com/austin)** | **[Video Editing Intern](https://jobright.ai/jobs/info/6a737f7532ebbc14ffb4f557?utm_campaign=1053&utm_source=git)** | Killeen, TX, United States | On Site | Aug 04 |
-| ↳ | **[Video Editing Intern](https://jobright.ai/jobs/info/6a737f6d8cd88e7ccbf58cc8?utm_campaign=1053&utm_source=git)** | Bryan, TX, United States | On Site | Aug 04 |
 | ↳ | **[Video Editing Intern](https://jobright.ai/jobs/info/6a737f6a8cd88e7ccbf58cc6?utm_campaign=1053&utm_source=git)** | Irving, TX, United States | On Site | Aug 04 |
+| ↳ | **[Video Editing Intern](https://jobright.ai/jobs/info/6a737f6d8cd88e7ccbf58cc8?utm_campaign=1053&utm_source=git)** | Bryan, TX, United States | On Site | Aug 04 |
 | ↳ | **[Video Editing Intern](https://jobright.ai/jobs/info/6a737f73e55c73319eb17a9b?utm_campaign=1053&utm_source=git)** | Austin, TX, United States | On Site | Aug 04 |
 | **[Evolve Studios®](https://evolve.studio)** | **[Assistant Editor Internship](https://jobright.ai/jobs/info/6a42d4796a9c2774b3fa77aa?utm_campaign=1053&utm_source=git)** | Franklin, TN, United States | On Site | Aug 04 |
 | **[Minnesota Wild](http://wild.com)** | **[MLV - Intern, Video Production (Full-Time, Seasonal)](https://jobright.ai/jobs/info/6a72522a45b6af1c30dbe199?utm_campaign=1053&utm_source=git)** | Saint Paul, MN, United States | On Site | Aug 04 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | ↳ | **[TikTok Short Drama Project Intern (TikTok-Short-Drama) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a30d116093df201d07b2c04?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Aug 04 |
 | **[Sinclair Inc.](http://sbgi.net)** | **[Intern - Studio Crew](https://jobright.ai/jobs/info/69e1d29dd612782e6114aa3a?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Aug 04 |
 | **[Diocese of Austin](http://www.austindiocese.org)** | **[AV Intern](https://jobright.ai/jobs/info/6a710275ee751e0c793420eb?utm_campaign=1053&utm_source=git)** | Austin, TX, United States | On Site | Aug 04 |
+| **[Saint Xavier University](http://www.sxu.edu/)** | **[Production Assistant Intern - Student Employment](https://jobright.ai/jobs/info/6a72c650ee751e0c79349fe0?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | On Site | Aug 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
