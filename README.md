@@ -57,14 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[National Basketball Association (NBA)](http://www.nba.com)** | **[Creative Ops Intern - Video](https://jobright.ai/jobs/info/6a79fa78a26ccc369f83bc15?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Aug 10 |
 | **[adyn](https://www.adyn.com/)** | **[DIGITAL STORYTELLING INTERN](https://jobright.ai/jobs/info/6a7a0605a26ccc369f83c1f6?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 10 |
 | **[M Booth](http://www.mbooth.com)** | **[Fall/Winter Intern, Lifestyle](https://jobright.ai/jobs/info/6a79e0e9b17cba56903640f9?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Aug 10 |
 | **[Full Jam Music INC.](http://fulljam.com)** | **[Musicians creators (volunteer or internship)](https://jobright.ai/jobs/info/6a79d6e09ee17f276dbefb7c?utm_campaign=1053&utm_source=git)** | Canada | Remote | Aug 10 |
+| **[KCRA 3 & My58 Television](http://www.kcra.com)** | **[Intern (Fall)](https://jobright.ai/jobs/info/6a25615c757ade085b6b19d2?utm_campaign=1053&utm_source=git)** | Sacramento, CA | On Site | Aug 10 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid News Intern](https://jobright.ai/jobs/info/6972b01a9b83b424830eb8a4?utm_campaign=1053&utm_source=git)** | IN-Indianapolis;6910 Network Place (Tribune-WXIN/WTTV) | On Site | Aug 10 |
 | **[Hearst Television](http://www.hearsttelevision.com)** | **[Intern (Fall)](https://jobright.ai/jobs/info/6a1d794e3e538a28c2049c97?utm_campaign=1053&utm_source=git)** | 3 Television Circle, Sacramento, CA, 95814, US | On Site | Aug 10 |
 | **[The Aparecio Foundation](https://www.apareciofoundation.org)** | **[Volunteer/Intern:Pro-bono Editor of "Fashion" Content in Felix](https://jobright.ai/jobs/info/6a5542c22084cd792b477398?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | On Site | Aug 09 |
 | **[Jam in the Van](https://jaminthevan.com/)** | **[Livestream Intern](https://jobright.ai/jobs/info/6a79645cbb6ca93ae5617326?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | On Site | Aug 09 |
-| **[National Basketball Association (NBA)](http://www.nba.com)** | **[Creative Ops Intern - Video](https://jobright.ai/jobs/info/6a79fa78a26ccc369f83bc15?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Aug 09 |
 | **[Charlotte Checkers](http://gocheckers.com)** | **[Charlotte Checkers Game Operations Internship](https://jobright.ai/jobs/info/6a78e2e47b3417772adec217?utm_campaign=1053&utm_source=git)** | Charlotte, NC, United States | On Site | Aug 09 |
 | **[Red Velvet Studios](redvelvetstudio.com)** | **[Music Content Intern](https://jobright.ai/jobs/info/6a78e032a26ccc369f83927a?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | On Site | Aug 09 |
 | **[Monumental Sports & Entertainment](http://www.monumentalsports.com/)** | **[Internship: Fan Development (Part-Time/Seasonal)](https://jobright.ai/jobs/info/6a70b3f6cb96192a36844faa?utm_campaign=1053&utm_source=git)** | Washington, DC, United States | On Site | Aug 09 |
@@ -138,8 +139,8 @@ For a complete list, click the following sortable link below:
 | **[The Aparecio Foundation](https://www.apareciofoundation.org)** | **[Volunteer/Intern: Pro bono: Editor of "People" Content in Felix](https://jobright.ai/jobs/info/6a7328136a034212ea025ec8?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | On Site | Aug 05 |
 | **[Local Digs LLC](https://www.localdigsllc.com/)** | **[CONTENT WRITING INTERNSHIP](https://jobright.ai/jobs/info/6a741eeafba916306bd986a9?utm_campaign=1053&utm_source=git)** | Heart's Content, NL, Canada | On Site | Aug 04 |
 | **[Daniel Stark Injury Lawyers](https://www.danielstarklaw.com/austin)** | **[Video Editing Intern](https://jobright.ai/jobs/info/6a737f7532ebbc14ffb4f557?utm_campaign=1053&utm_source=git)** | Killeen, TX, United States | On Site | Aug 04 |
-| ↳ | **[Video Editing Intern](https://jobright.ai/jobs/info/6a737f6d8cd88e7ccbf58cc8?utm_campaign=1053&utm_source=git)** | Bryan, TX, United States | On Site | Aug 04 |
 | ↳ | **[Video Editing Intern](https://jobright.ai/jobs/info/6a737f6a8cd88e7ccbf58cc6?utm_campaign=1053&utm_source=git)** | Irving, TX, United States | On Site | Aug 04 |
+| ↳ | **[Video Editing Intern](https://jobright.ai/jobs/info/6a737f6d8cd88e7ccbf58cc8?utm_campaign=1053&utm_source=git)** | Bryan, TX, United States | On Site | Aug 04 |
 | ↳ | **[Video Editing Intern](https://jobright.ai/jobs/info/6a737f73e55c73319eb17a9b?utm_campaign=1053&utm_source=git)** | Austin, TX, United States | On Site | Aug 04 |
 | **[Evolve Studios®](https://evolve.studio)** | **[Assistant Editor Internship](https://jobright.ai/jobs/info/6a42d4796a9c2774b3fa77aa?utm_campaign=1053&utm_source=git)** | Franklin, TN, United States | On Site | Aug 04 |
 | **[Minnesota Wild](http://wild.com)** | **[MLV - Intern, Video Production (Full-Time, Seasonal)](https://jobright.ai/jobs/info/6a72522a45b6af1c30dbe199?utm_campaign=1053&utm_source=git)** | Saint Paul, MN, United States | On Site | Aug 04 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Worcester Railers HC](https://www.railershc.com)** | **[Community & Fan Engagement Intern Fall 2026](https://jobright.ai/jobs/info/6a71f73fe2b7476e7b210595?utm_campaign=1053&utm_source=git)** | Worcester, MA, United States | On Site | Aug 04 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Media Archivist Intern (In- Person) Fall 2026.](https://jobright.ai/jobs/info/6a4de3f13122a76a8fd56aef?utm_campaign=1053&utm_source=git)** | AL, Mobile, United States of America | On Site | Aug 04 |
 | ↳ | **[Media Production Intern (In- Person) Fall 2026.](https://jobright.ai/jobs/info/6a398ce3f6b55d12c7928b8e?utm_campaign=1053&utm_source=git)** | AL, Mobile, United States of America | On Site | Aug 04 |
-| **[Insomniac Events](http://insomniac.com)** | **[Paid Fall Music Group Publishing Intern](https://jobright.ai/jobs/info/6a480a84c2d11a6a46673a56?utm_campaign=1053&utm_source=git)** | Calabasas, CA, USA | On Site | Aug 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
