@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[HalloweenEveryNight](https://halloweeneverynight.com)** | **[Video Editing Intern](https://jobright.ai/jobs/info/6a7ab33267a1ad0bc53d43fe?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 10 |
+| **[Hasana, Inc.](http://shophasana.com)** | **[Volunteer/Intern: Film/Video Editor](https://jobright.ai/jobs/info/6a584c973330ca6f993c3e99?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | On Site | Aug 10 |
 | **[Social View Agency](https://www.socialviewagency.com/)** | **[Content Creator Intern](https://jobright.ai/jobs/info/6a7a684bb17cba5690367093?utm_campaign=1053&utm_source=git)** | Atlanta, GA, United States | Hybrid | Aug 10 |
 | **[Columbus Crew](https://www.columbuscrew.com/)** | **[Scoreboard Operations Internship](https://jobright.ai/jobs/info/6a7a53a6b17cba5690366b71?utm_campaign=1053&utm_source=git)** | Columbus, OH, United States | On Site | Aug 10 |
 | **[Head Of The Charles Regatta](https://www.hocr.org)** | **[Event Management Intern](https://jobright.ai/jobs/info/6a7a430f67a1ad0bc53d295b?utm_campaign=1053&utm_source=git)** | Cambridge, MA, United States | Hybrid | Aug 10 |
@@ -71,6 +73,7 @@ For a complete list, click the following sortable link below:
 | **[Hearst Television](http://www.hearsttelevision.com)** | **[Intern (Fall)](https://jobright.ai/jobs/info/6a1d794e3e538a28c2049c97?utm_campaign=1053&utm_source=git)** | 3 Television Circle, Sacramento, CA, 95814, US | On Site | Aug 10 |
 | **[The Aparecio Foundation](https://www.apareciofoundation.org)** | **[Volunteer/Intern:Pro-bono Editor of "Fashion" Content in Felix](https://jobright.ai/jobs/info/6a5542c22084cd792b477398?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | On Site | Aug 09 |
 | **[New York Football Giants](https://www.giants.com/)** | **[Seasonal Intern - Events & Gameday Operations](https://jobright.ai/jobs/info/6a7a1a5f67a1ad0bc53d1932?utm_campaign=1053&utm_source=git)** | East Rutherford, NJ, United States | On Site | Aug 09 |
+| **[Lewis & Clark College](https://www.lclark.edu)** | **[Narrative Medicine Internship: Chronic Pain Project Fall '26](https://jobright.ai/jobs/info/6a7aa7e4ab1385611f8ffdc1?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 09 |
 | **[Charlotte Checkers](http://gocheckers.com)** | **[Charlotte Checkers Game Operations Internship](https://jobright.ai/jobs/info/6a78e2e47b3417772adec217?utm_campaign=1053&utm_source=git)** | Charlotte, NC, United States | On Site | Aug 09 |
 | **[Monumental Sports & Entertainment](http://www.monumentalsports.com/)** | **[Internship: Fan Development (Part-Time/Seasonal)](https://jobright.ai/jobs/info/6a70b3f6cb96192a36844faa?utm_campaign=1053&utm_source=git)** | Washington, DC, United States | On Site | Aug 09 |
 | **[FDB (First Databank, Inc.)](http://fdbhealth.com)** | **[Fall News Intern](https://jobright.ai/jobs/info/69e61b3f3aa0c4796439220f?utm_campaign=1053&utm_source=git)** | Pittsburgh, PA, United States | On Site | Aug 09 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Elite Podcast Studio](ElitePodcastStudio.com)** | **[The Next Viral Content Creator (Internship)](https://jobright.ai/jobs/info/6a72298671acd469eeda64b1?utm_campaign=1053&utm_source=git)** | Odessa, FL, United States | On Site | Aug 04 |
 | **[The Untitled Space](https://untitled-space.com)** | **[Art Gallery Internship](https://jobright.ai/jobs/info/6a721a6bee751e0c79346e02?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Aug 04 |
 | **[MARKHAM](https://www.markham.co/)** | **[Event Internship- New York](https://jobright.ai/jobs/info/6a720133cb96192a3684b64d?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Aug 04 |
-| **[Operation Smile](http://www.operationsmile.org)** | **[Writing Internship - Operation Smile ILC](https://jobright.ai/jobs/info/696883c31703f05405aa42b9?utm_campaign=1053&utm_source=git)** | Virginia Beach, VA, United States | On Site | Aug 04 |
-| **[VEX Robotics](https://www.vexrobotics.com/)** | **[Video Intern, with Full time potential](https://jobright.ai/jobs/info/6a71f92145b6af1c30dbbb68?utm_campaign=1053&utm_source=git)** | Greenville, TX, United States | On Site | Aug 04 |
-| **[Insomniac Events](http://insomniac.com)** | **[Paid Fall Music Group Publishing Intern](https://jobright.ai/jobs/info/6a1d666fe24ef365258379a5?utm_campaign=1053&utm_source=git)** | Calabasas, CA | On Site | Aug 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
