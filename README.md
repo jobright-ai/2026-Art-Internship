@@ -62,7 +62,6 @@ For a complete list, click the following sortable link below:
 | **[Head Of The Charles Regatta](https://www.hocr.org)** | **[Event Management Intern](https://jobright.ai/jobs/info/6a7a430f67a1ad0bc53d295b?utm_campaign=1053&utm_source=git)** | Cambridge, MA, United States | Hybrid | Aug 10 |
 | **[AEG](http://www.aegworldwide.com)** | **[Internship- Touring](https://jobright.ai/jobs/info/6a7a225fbb6ca93ae561a169?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | On Site | Aug 10 |
 | **[Coastal Carolina University](http://www.coastal.edu/)** | **[Multimedia Production Intern](https://jobright.ai/jobs/info/6a7a24e8ab1385611f8fd958?utm_campaign=1053&utm_source=git)** | Conway, SC, United States | On Site | Aug 10 |
-| **[Gift](https://www.shine.gift)** | **[LMU Music Community Intern](https://jobright.ai/jobs/info/6a7a1cc567a1ad0bc53d1a25?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | Remote | Aug 10 |
 | **[National Basketball Association (NBA)](http://www.nba.com)** | **[Creative Ops Intern - Video](https://jobright.ai/jobs/info/6a79fa78a26ccc369f83bc15?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Aug 10 |
 | **[adyn](https://www.adyn.com/)** | **[DIGITAL STORYTELLING INTERN](https://jobright.ai/jobs/info/6a7a0605a26ccc369f83c1f6?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 10 |
 | **[M Booth](http://www.mbooth.com)** | **[Fall/Winter Intern, Lifestyle](https://jobright.ai/jobs/info/6a79e0e9b17cba56903640f9?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Aug 10 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[MARKHAM](https://www.markham.co/)** | **[Event Internship- New York](https://jobright.ai/jobs/info/6a720133cb96192a3684b64d?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Aug 04 |
 | **[Operation Smile](http://www.operationsmile.org)** | **[Writing Internship - Operation Smile ILC](https://jobright.ai/jobs/info/696883c31703f05405aa42b9?utm_campaign=1053&utm_source=git)** | Virginia Beach, VA, United States | On Site | Aug 04 |
 | **[VEX Robotics](https://www.vexrobotics.com/)** | **[Video Intern, with Full time potential](https://jobright.ai/jobs/info/6a71f92145b6af1c30dbbb68?utm_campaign=1053&utm_source=git)** | Greenville, TX, United States | On Site | Aug 04 |
+| **[Insomniac Events](http://insomniac.com)** | **[Paid Fall Music Group Publishing Intern](https://jobright.ai/jobs/info/6a1d666fe24ef365258379a5?utm_campaign=1053&utm_source=git)** | Calabasas, CA | On Site | Aug 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
