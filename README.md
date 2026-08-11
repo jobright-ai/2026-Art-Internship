@@ -142,8 +142,8 @@ For a complete list, click the following sortable link below:
 | **[The Aparecio Foundation](https://www.apareciofoundation.org)** | **[Volunteer/Intern: Pro bono: Editor of "People" Content in Felix](https://jobright.ai/jobs/info/6a7328136a034212ea025ec8?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | On Site | Aug 05 |
 | **[Local Digs LLC](https://www.localdigsllc.com/)** | **[CONTENT WRITING INTERNSHIP](https://jobright.ai/jobs/info/6a741eeafba916306bd986a9?utm_campaign=1053&utm_source=git)** | Heart's Content, NL, Canada | On Site | Aug 04 |
 | **[Daniel Stark Injury Lawyers](https://www.danielstarklaw.com/austin)** | **[Video Editing Intern](https://jobright.ai/jobs/info/6a737f7532ebbc14ffb4f557?utm_campaign=1053&utm_source=git)** | Killeen, TX, United States | On Site | Aug 04 |
-| ↳ | **[Video Editing Intern](https://jobright.ai/jobs/info/6a737f6a8cd88e7ccbf58cc6?utm_campaign=1053&utm_source=git)** | Irving, TX, United States | On Site | Aug 04 |
 | ↳ | **[Video Editing Intern](https://jobright.ai/jobs/info/6a737f6d8cd88e7ccbf58cc8?utm_campaign=1053&utm_source=git)** | Bryan, TX, United States | On Site | Aug 04 |
+| ↳ | **[Video Editing Intern](https://jobright.ai/jobs/info/6a737f6a8cd88e7ccbf58cc6?utm_campaign=1053&utm_source=git)** | Irving, TX, United States | On Site | Aug 04 |
 | ↳ | **[Video Editing Intern](https://jobright.ai/jobs/info/6a737f73e55c73319eb17a9b?utm_campaign=1053&utm_source=git)** | Austin, TX, United States | On Site | Aug 04 |
 | **[Evolve Studios®](https://evolve.studio)** | **[Assistant Editor Internship](https://jobright.ai/jobs/info/6a42d4796a9c2774b3fa77aa?utm_campaign=1053&utm_source=git)** | Franklin, TN, United States | On Site | Aug 04 |
 | **[Minnesota Wild](http://wild.com)** | **[MLV - Intern, Video Production (Full-Time, Seasonal)](https://jobright.ai/jobs/info/6a72522a45b6af1c30dbe199?utm_campaign=1053&utm_source=git)** | Saint Paul, MN, United States | On Site | Aug 04 |
@@ -151,6 +151,4 @@ For a complete list, click the following sortable link below:
 | **[Hoboken Grace Community Church](http://www.hobokengrace.com)** | **[Event Planning Intern - Fall 2026](https://jobright.ai/jobs/info/6a724a69e2b7476e7b21274d?utm_campaign=1053&utm_source=git)** | Hoboken, NJ, United States | On Site | Aug 04 |
 | ↳ | **[Video Production Intern - Fall 2026](https://jobright.ai/jobs/info/6a724a5dee751e0c79348076?utm_campaign=1053&utm_source=git)** | Hoboken, NJ, United States | On Site | Aug 04 |
 | **[Rhode Island FC](https://www.rhodeislandfc.com)** | **[Video Assistant Editor Internship - Hybrid (Fall 2026)](https://jobright.ai/jobs/info/6a7244ffcb96192a3684d06d?utm_campaign=1053&utm_source=git)** | Pawtucket, RI, United States | Hybrid | Aug 04 |
-| **[Elite Podcast Studio](ElitePodcastStudio.com)** | **[The Next Viral Content Creator (Internship)](https://jobright.ai/jobs/info/6a72298671acd469eeda64b1?utm_campaign=1053&utm_source=git)** | Odessa, FL, United States | On Site | Aug 04 |
-| **[The Untitled Space](https://untitled-space.com)** | **[Art Gallery Internship](https://jobright.ai/jobs/info/6a721a6bee751e0c79346e02?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Aug 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
