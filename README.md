@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Columbus Crew](https://www.columbuscrew.com/)** | **[Scoreboard Operations Internship](https://jobright.ai/jobs/info/6a7a53a6b17cba5690366b71?utm_campaign=1053&utm_source=git)** | Columbus, OH, United States | On Site | Aug 10 |
 | **[Head Of The Charles Regatta](https://www.hocr.org)** | **[Event Management Intern](https://jobright.ai/jobs/info/6a7a430f67a1ad0bc53d295b?utm_campaign=1053&utm_source=git)** | Cambridge, MA, United States | Hybrid | Aug 10 |
 | **[AEG](http://www.aegworldwide.com)** | **[Internship- Touring](https://jobright.ai/jobs/info/6a7a225fbb6ca93ae561a169?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | On Site | Aug 10 |
 | **[Coastal Carolina University](http://www.coastal.edu/)** | **[Multimedia Production Intern](https://jobright.ai/jobs/info/6a7a24e8ab1385611f8fd958?utm_campaign=1053&utm_source=git)** | Conway, SC, United States | On Site | Aug 10 |
@@ -69,7 +70,6 @@ For a complete list, click the following sortable link below:
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid News Intern](https://jobright.ai/jobs/info/6972b01a9b83b424830eb8a4?utm_campaign=1053&utm_source=git)** | IN-Indianapolis;6910 Network Place (Tribune-WXIN/WTTV) | On Site | Aug 10 |
 | **[Hearst Television](http://www.hearsttelevision.com)** | **[Intern (Fall)](https://jobright.ai/jobs/info/6a1d794e3e538a28c2049c97?utm_campaign=1053&utm_source=git)** | 3 Television Circle, Sacramento, CA, 95814, US | On Site | Aug 10 |
 | **[The Aparecio Foundation](https://www.apareciofoundation.org)** | **[Volunteer/Intern:Pro-bono Editor of "Fashion" Content in Felix](https://jobright.ai/jobs/info/6a5542c22084cd792b477398?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | On Site | Aug 09 |
-| **[Jam in the Van](https://jaminthevan.com/)** | **[Livestream Intern](https://jobright.ai/jobs/info/6a79645cbb6ca93ae5617326?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | On Site | Aug 09 |
 | **[New York Football Giants](https://www.giants.com/)** | **[Seasonal Intern - Events & Gameday Operations](https://jobright.ai/jobs/info/6a7a1a5f67a1ad0bc53d1932?utm_campaign=1053&utm_source=git)** | East Rutherford, NJ, United States | On Site | Aug 09 |
 | **[Charlotte Checkers](http://gocheckers.com)** | **[Charlotte Checkers Game Operations Internship](https://jobright.ai/jobs/info/6a78e2e47b3417772adec217?utm_campaign=1053&utm_source=git)** | Charlotte, NC, United States | On Site | Aug 09 |
 | **[Monumental Sports & Entertainment](http://www.monumentalsports.com/)** | **[Internship: Fan Development (Part-Time/Seasonal)](https://jobright.ai/jobs/info/6a70b3f6cb96192a36844faa?utm_campaign=1053&utm_source=git)** | Washington, DC, United States | On Site | Aug 09 |
