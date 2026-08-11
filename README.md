@@ -57,7 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Kroenke Sports & Entertainment](https://www.ballarena.com)** | **[Intern, Nuggets Game Presentation](https://jobright.ai/jobs/info/6a7b8a163b399d106e4d7451?utm_campaign=1053&utm_source=git)** | Denver, CO, United States | On Site | Aug 11 |
+| ↳ | **[Intern, Denver Nuggets Video](https://jobright.ai/jobs/info/6a7b8a14b933773d16be822d?utm_campaign=1053&utm_source=git)** | Denver, CO, United States | On Site | Aug 11 |
 | **[Yellow Dot Sports Marketing](yellowdotsportsmarketing.com)** | **[Austin, TX – Event Intern](https://jobright.ai/jobs/info/6a7b6f423b399d106e4d6602?utm_campaign=1053&utm_source=git)** | Austin, TX, United States | On Site | Aug 11 |
+| **[adyn](https://www.adyn.com/)** | **[DIGITAL STORYTELLING INTERN](https://jobright.ai/jobs/info/6a7b8ae9ecfd297707539d57?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 11 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[P/T Cafe Joy Intern](https://jobright.ai/jobs/info/6a7b5c4477e6b569c61c00b1?utm_campaign=1053&utm_source=git)** | Gainesville, GA, United States | On Site | Aug 11 |
 | **[Acadium](http://www.acadium.com)** | **[Video Content Creation Intern](https://jobright.ai/jobs/info/6a7b74913b399d106e4d68f4?utm_campaign=1053&utm_source=git)** | Ontario, Canada | Remote | Aug 11 |
 | ↳ | **[Video Editing Intern](https://jobright.ai/jobs/info/6a7b39b0ecfd297707537945?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 11 |
