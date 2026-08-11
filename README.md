@@ -141,8 +141,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Media Production Intern (In- Person) Fall 2026.](https://jobright.ai/jobs/info/6a39929f214ae004c7a1f5bc?utm_campaign=1053&utm_source=git)** | Mobile, AL | On Site | Aug 05 |
 | **[The Aparecio Foundation](https://www.apareciofoundation.org)** | **[Volunteer/Intern: Pro bono: Editor of "People" Content in Felix](https://jobright.ai/jobs/info/6a7328136a034212ea025ec8?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | On Site | Aug 05 |
 | **[Local Digs LLC](https://www.localdigsllc.com/)** | **[CONTENT WRITING INTERNSHIP](https://jobright.ai/jobs/info/6a741eeafba916306bd986a9?utm_campaign=1053&utm_source=git)** | Heart's Content, NL, Canada | On Site | Aug 04 |
-| **[Daniel Stark Injury Lawyers](https://www.danielstarklaw.com/austin)** | **[Video Editing Intern](https://jobright.ai/jobs/info/6a737f7532ebbc14ffb4f557?utm_campaign=1053&utm_source=git)** | Killeen, TX, United States | On Site | Aug 04 |
-| ↳ | **[Video Editing Intern](https://jobright.ai/jobs/info/6a737f6d8cd88e7ccbf58cc8?utm_campaign=1053&utm_source=git)** | Bryan, TX, United States | On Site | Aug 04 |
-| ↳ | **[Video Editing Intern](https://jobright.ai/jobs/info/6a737f6a8cd88e7ccbf58cc6?utm_campaign=1053&utm_source=git)** | Irving, TX, United States | On Site | Aug 04 |
-| ↳ | **[Video Editing Intern](https://jobright.ai/jobs/info/6a737f73e55c73319eb17a9b?utm_campaign=1053&utm_source=git)** | Austin, TX, United States | On Site | Aug 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
