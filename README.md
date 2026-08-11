@@ -150,5 +150,4 @@ For a complete list, click the following sortable link below:
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Production Assistant Intern - Student Employment](https://jobright.ai/jobs/info/6a7221d6e2b7476e7b211774?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | On Site | Aug 04 |
 | **[Hoboken Grace Community Church](http://www.hobokengrace.com)** | **[Event Planning Intern - Fall 2026](https://jobright.ai/jobs/info/6a724a69e2b7476e7b21274d?utm_campaign=1053&utm_source=git)** | Hoboken, NJ, United States | On Site | Aug 04 |
 | ↳ | **[Video Production Intern - Fall 2026](https://jobright.ai/jobs/info/6a724a5dee751e0c79348076?utm_campaign=1053&utm_source=git)** | Hoboken, NJ, United States | On Site | Aug 04 |
-| **[Rhode Island FC](https://www.rhodeislandfc.com)** | **[Video Assistant Editor Internship - Hybrid (Fall 2026)](https://jobright.ai/jobs/info/6a7244ffcb96192a3684d06d?utm_campaign=1053&utm_source=git)** | Pawtucket, RI, United States | Hybrid | Aug 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
