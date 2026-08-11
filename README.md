@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Social View Agency](https://www.socialviewagency.com/)** | **[Content Creator Intern](https://jobright.ai/jobs/info/6a7a684bb17cba5690367093?utm_campaign=1053&utm_source=git)** | Atlanta, GA, United States | Hybrid | Aug 10 |
 | **[Columbus Crew](https://www.columbuscrew.com/)** | **[Scoreboard Operations Internship](https://jobright.ai/jobs/info/6a7a53a6b17cba5690366b71?utm_campaign=1053&utm_source=git)** | Columbus, OH, United States | On Site | Aug 10 |
 | **[Head Of The Charles Regatta](https://www.hocr.org)** | **[Event Management Intern](https://jobright.ai/jobs/info/6a7a430f67a1ad0bc53d295b?utm_campaign=1053&utm_source=git)** | Cambridge, MA, United States | Hybrid | Aug 10 |
 | **[AEG](http://www.aegworldwide.com)** | **[Internship- Touring](https://jobright.ai/jobs/info/6a7a225fbb6ca93ae561a169?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | On Site | Aug 10 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[MARKHAM](https://www.markham.co/)** | **[Event Internship- New York](https://jobright.ai/jobs/info/6a720133cb96192a3684b64d?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Aug 04 |
 | **[Operation Smile](http://www.operationsmile.org)** | **[Writing Internship - Operation Smile ILC](https://jobright.ai/jobs/info/696883c31703f05405aa42b9?utm_campaign=1053&utm_source=git)** | Virginia Beach, VA, United States | On Site | Aug 04 |
 | **[VEX Robotics](https://www.vexrobotics.com/)** | **[Video Intern, with Full time potential](https://jobright.ai/jobs/info/6a71f92145b6af1c30dbbb68?utm_campaign=1053&utm_source=git)** | Greenville, TX, United States | On Site | Aug 04 |
-| **[Insomniac Events](http://insomniac.com)** | **[Paid Fall Music Group Publishing Intern](https://jobright.ai/jobs/info/6a1d666fe24ef365258379a5?utm_campaign=1053&utm_source=git)** | Calabasas, CA | On Site | Aug 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
