@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[P/T Cafe Joy Intern](https://jobright.ai/jobs/info/6a7b5c4477e6b569c61c00b1?utm_campaign=1053&utm_source=git)** | Gainesville, GA, United States | On Site | Aug 11 |
 | **[Acadium](http://www.acadium.com)** | **[Video Editing Intern](https://jobright.ai/jobs/info/6a7b39b0ecfd297707537945?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 11 |
 | **[Zapshot](https://zapshot.me)** | **[Party Host Intern (USC)](https://jobright.ai/jobs/info/6a7aba7767a1ad0bc53d4480?utm_campaign=1053&utm_source=git)** | Los Angeles metropolitan area, United States | On Site | Aug 10 |
 | **[Hasana, Inc.](http://shophasana.com)** | **[Volunteer/Intern: Film/Video Editor](https://jobright.ai/jobs/info/6a584c973330ca6f993c3e99?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | On Site | Aug 10 |
