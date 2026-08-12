@@ -57,9 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Jam in the Van](https://jaminthevan.com/)** | **[Livestream Intern](https://jobright.ai/jobs/info/6a7c05a283621355407a8b75?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | On Site | Aug 11 |
+| **[SCALIS](https://www.scalis.ai)** | **[Content Creator Intern](https://jobright.ai/jobs/info/6a7bfe147c52154b59f58f5c?utm_campaign=1053&utm_source=git)** | Miami, FL, United States | Hybrid | Aug 11 |
 | **[Burlington Electric Department](https://www.burlingtonelectric.com/)** | **[Art from the Heart Intern](https://jobright.ai/jobs/info/6a7bbd96ecfd29770753ab5f?utm_campaign=1053&utm_source=git)** | Burlington, VT, United States | On Site | Aug 11 |
+| **[TAKSHILA Inc](https://takshila.co)** | **[Content Creator — Internship Program](https://jobright.ai/jobs/info/6a7bfb57a346cb6c8d5ec9b0?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 11 |
 | **[Kroenke Sports & Entertainment](https://www.ballarena.com)** | **[Intern, Nuggets Game Presentation](https://jobright.ai/jobs/info/6a7b8a163b399d106e4d7451?utm_campaign=1053&utm_source=git)** | Denver, CO, United States | On Site | Aug 11 |
 | ↳ | **[Intern, Denver Nuggets Video](https://jobright.ai/jobs/info/6a7b8a14b933773d16be822d?utm_campaign=1053&utm_source=git)** | Denver, CO, United States | On Site | Aug 11 |
+| **[Atlanta Gladiators](http://atlantagladiators.com)** | **[26-27 Season Mascot Coordinator Internship](https://jobright.ai/jobs/info/6a7c014adc3dff2d1c0c5dc0?utm_campaign=1053&utm_source=git)** | Duluth, GA, United States | On Site | Aug 11 |
 | **[Yellow Dot Sports Marketing](yellowdotsportsmarketing.com)** | **[Austin, TX – Event Intern](https://jobright.ai/jobs/info/6a7b6f423b399d106e4d6602?utm_campaign=1053&utm_source=git)** | Austin, TX, United States | On Site | Aug 11 |
 | **[adyn](https://www.adyn.com/)** | **[DIGITAL STORYTELLING INTERN](https://jobright.ai/jobs/info/6a7b8ae9ecfd297707539d57?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 11 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[P/T Cafe Joy Intern](https://jobright.ai/jobs/info/6a7b5c4477e6b569c61c00b1?utm_campaign=1053&utm_source=git)** | Gainesville, GA, United States | On Site | Aug 11 |
@@ -68,7 +72,6 @@ For a complete list, click the following sortable link below:
 | **[PACE (Police Athletics for Community Engagement)](http://paceomaha.org)** | **[Sports Management Intern - Fall Sports](https://jobright.ai/jobs/info/6a7b7b27ecf5194164fbe52a?utm_campaign=1053&utm_source=git)** | Omaha, NE, United States | On Site | Aug 11 |
 | **[Zapshot](https://zapshot.me)** | **[Party Host Intern (USC)](https://jobright.ai/jobs/info/6a7aba7767a1ad0bc53d4480?utm_campaign=1053&utm_source=git)** | Los Angeles metropolitan area, United States | On Site | Aug 10 |
 | **[Hasana, Inc.](http://shophasana.com)** | **[Volunteer/Intern: Film/Video Editor](https://jobright.ai/jobs/info/6a584c973330ca6f993c3e99?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | On Site | Aug 10 |
-| **[Atlanta Gladiators](http://atlantagladiators.com)** | **[26-27 Season Mascot Coordinator Internship](https://jobright.ai/jobs/info/6a7b78f3ecf5194164fbe43c?utm_campaign=1053&utm_source=git)** | Duluth, GA, United States | On Site | Aug 10 |
 | **[Social View Agency](https://www.socialviewagency.com/)** | **[Content Creator Intern](https://jobright.ai/jobs/info/6a7a684bb17cba5690367093?utm_campaign=1053&utm_source=git)** | Atlanta, GA, United States | Hybrid | Aug 10 |
 | **[Columbus Crew](https://www.columbuscrew.com/)** | **[Scoreboard Operations Internship](https://jobright.ai/jobs/info/6a7a53a6b17cba5690366b71?utm_campaign=1053&utm_source=git)** | Columbus, OH, United States | On Site | Aug 10 |
 | **[Head Of The Charles Regatta](https://www.hocr.org)** | **[Event Management Intern](https://jobright.ai/jobs/info/6a7a430f67a1ad0bc53d295b?utm_campaign=1053&utm_source=git)** | Cambridge, MA, United States | Hybrid | Aug 10 |
@@ -106,11 +109,11 @@ For a complete list, click the following sortable link below:
 | **[U.S. Venture, Inc.](http://www.usventure.com)** | **[U.S. Venture Open Intern](https://jobright.ai/jobs/info/6a761dbea26ccc369f833cc4?utm_campaign=1053&utm_source=git)** | Appleton, WI, United States | On Site | Aug 07 |
 | **[Gradient Experience](https://www.gradientexperience.com)** | **[IRL Production Internship](https://jobright.ai/jobs/info/6a760da4a26ccc369f833748?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Aug 07 |
 | **[Spooky Nook Sports](http://spookynooksports.com)** | **[Athletic Ops Intern](https://jobright.ai/jobs/info/6a789ffb4817aa430704be63?utm_campaign=1053&utm_source=git)** | Manheim, PA, United States | On Site | Aug 07 |
-| **[Kentucky Farm Bureau Insurance](http://kyfb.com)** | **[Video Production intern](https://jobright.ai/jobs/info/6a509e415165966a11619e5c?utm_campaign=1053&utm_source=git)** | Louisville, KY, United States | On Site | Aug 07 |
 | **[The Sporting News](https://www.sportingnews.com)** | **[Editorial Intern, Sports Partnerships](https://jobright.ai/jobs/info/6a6cb3d332f9300c3a3e49df?utm_campaign=1053&utm_source=git)** | Charlotte, NC, United States | Remote | Aug 07 |
 | **[Mobile Bay Now](https://mobilebaynow.com)** | **[Content Producer Intern](https://jobright.ai/jobs/info/6a76ba00a26ccc369f8361e9?utm_campaign=1053&utm_source=git)** | Daphne, AL, United States | On Site | Aug 06 |
 | **[Seattle Kraken](https://www.nhl.com/kraken)** | **[Intern, Live Production (September 2026 - April 2027)](https://jobright.ai/jobs/info/6a752c01b17cba56903598fe?utm_campaign=1053&utm_source=git)** | Seattle, WA, United States | On Site | Aug 06 |
 | **[Rugby Ontario](https://www.rugbyontario.com)** | **[Competitions Intern](https://jobright.ai/jobs/info/6a757dd9b17cba569035a6d8?utm_campaign=1053&utm_source=git)** | Toronto, ON, Canada | Hybrid | Aug 06 |
+| **[Golden Hippo®](http://goldenhippomedia.com)** | **[YouTube Editor Intern (Bilingual)](https://jobright.ai/jobs/info/6a6145a5d51f6101c8fbac41?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 06 |
 | **[Klubhouse Fantasy Sports](https://klubhouse.gg)** | **[Video Editor & Social Media Intern (Entry Level)](https://jobright.ai/jobs/info/6a7536017b3417772ade3b87?utm_campaign=1053&utm_source=git)** | Portland, OR, United States | On Site | Aug 06 |
 | **[U.S. AutoForce](https://www.usautoforce.com)** | **[U.S. Venture Open Intern](https://jobright.ai/jobs/info/6a76dcd267a1ad0bc53cb749?utm_campaign=1053&utm_source=git)** | Appleton, WI, United States | On Site | Aug 06 |
 | **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Current Programming Intern, Sony Pictures Television – Fall 2026](https://jobright.ai/jobs/info/6a762d54a26ccc369f834214?utm_campaign=1053&utm_source=git)** | Culver City, CA, United States | On Site | Aug 06 |
@@ -140,5 +143,4 @@ For a complete list, click the following sortable link below:
 | **[Daniel Stark Injury Lawyers](https://www.danielstarklaw.com/austin)** | **[Video Editing Intern](https://jobright.ai/jobs/info/6a73819a1ce9647cdbca88e1?utm_campaign=1053&utm_source=git)** | Austin, TX, United States | On Site | Aug 05 |
 | ↳ | **[Video Editing Intern](https://jobright.ai/jobs/info/6a7381991ce9647cdbca88df?utm_campaign=1053&utm_source=git)** | Bryan, TX, United States | On Site | Aug 05 |
 | ↳ | **[Video Editing Intern](https://jobright.ai/jobs/info/6a73819332ebbc14ffb4f611?utm_campaign=1053&utm_source=git)** | Killeen, TX, United States | On Site | Aug 05 |
-| **[Peoria Park District](https://peoriaparks.org)** | **[Event Planning Intern Zoo](https://jobright.ai/jobs/info/6a73699ae55c73319eb17197?utm_campaign=1053&utm_source=git)** | Peoria, IL, United States | On Site | Aug 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
