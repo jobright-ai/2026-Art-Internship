@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Burlington Electric Department](https://www.burlingtonelectric.com/)** | **[Art from the Heart Intern](https://jobright.ai/jobs/info/6a7bbd96ecfd29770753ab5f?utm_campaign=1053&utm_source=git)** | Burlington, VT, United States | On Site | Aug 11 |
 | **[Kroenke Sports & Entertainment](https://www.ballarena.com)** | **[Intern, Nuggets Game Presentation](https://jobright.ai/jobs/info/6a7b8a163b399d106e4d7451?utm_campaign=1053&utm_source=git)** | Denver, CO, United States | On Site | Aug 11 |
 | ↳ | **[Intern, Denver Nuggets Video](https://jobright.ai/jobs/info/6a7b8a14b933773d16be822d?utm_campaign=1053&utm_source=git)** | Denver, CO, United States | On Site | Aug 11 |
 | **[Yellow Dot Sports Marketing](yellowdotsportsmarketing.com)** | **[Austin, TX – Event Intern](https://jobright.ai/jobs/info/6a7b6f423b399d106e4d6602?utm_campaign=1053&utm_source=git)** | Austin, TX, United States | On Site | Aug 11 |
