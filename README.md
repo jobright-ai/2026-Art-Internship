@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Video Production Intern](https://jobright.ai/jobs/info/6a7cf41d77d5f033c4b91933?utm_campaign=1053&utm_source=git)** | Clemson, SC, United States | On Site | Aug 12 |
 | **[Michigan Medicine](https://www.uofmhealth.org)** | **[Stamelos Gallery Student Intern](https://jobright.ai/jobs/info/6a7cd3bba346cb6c8d5f046e?utm_campaign=1053&utm_source=git)** | Dearborn Campus | On Site | Aug 12 |
 | **[University of Michigan](https://www.umich.edu)** | **[Stamelos Gallery Student Intern](https://jobright.ai/jobs/info/6a7cd309dc3dff2d1c0c944e?utm_campaign=1053&utm_source=git)** | Dearborn, MI, United States | On Site | Aug 12 |
 | **[Bizcap US](https://newcocapitalgroup.com/)** | **[Small Business Media Intern (New York)](https://jobright.ai/jobs/info/6a7cc7dfdc3dff2d1c0c910c?utm_campaign=1053&utm_source=git)** | New York City, NY, United States | On Site | Aug 12 |
