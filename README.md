@@ -141,9 +141,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Video Editing Intern](https://jobright.ai/jobs/info/6a7381991ce9647cdbca88df?utm_campaign=1053&utm_source=git)** | Bryan, TX, United States | On Site | Aug 05 |
 | ↳ | **[Video Editing Intern](https://jobright.ai/jobs/info/6a73819332ebbc14ffb4f611?utm_campaign=1053&utm_source=git)** | Killeen, TX, United States | On Site | Aug 05 |
 | **[Peoria Park District](https://peoriaparks.org)** | **[Event Planning Intern Zoo](https://jobright.ai/jobs/info/6a73699ae55c73319eb17197?utm_campaign=1053&utm_source=git)** | Peoria, IL, United States | On Site | Aug 05 |
-| **[MARKARIAN](https://markarian-nyc.com)** | **[Fall Development & Production Intern](https://jobright.ai/jobs/info/6a735e73e55c73319eb16c45?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Aug 05 |
-| **[Mercatus Center at George Mason University](http://mercatus.org)** | **[Production Intern](https://jobright.ai/jobs/info/6a734e701ce9647cdbca7454?utm_campaign=1053&utm_source=git)** | Arlington, VA, United States | Hybrid | Aug 05 |
-| ↳ | **[Production Intern](https://jobright.ai/jobs/info/6a734c228cd88e7ccbf57801?utm_campaign=1053&utm_source=git)** | Arlington, VA, United States | Hybrid | Aug 05 |
-| **[Rho](https://rho.co)** | **[Video Intern](https://jobright.ai/jobs/info/6a5677c6f7517b519ad55da1?utm_campaign=1053&utm_source=git)** | NYC | On Site | Aug 05 |
-| **[Operation Smile](http://www.operationsmile.org)** | **[Student Programs Production Intern](https://jobright.ai/jobs/info/6a39b84b06a4fd4b1fabbcd7?utm_campaign=1053&utm_source=git)** | Virginia Beach, VA | On Site | Aug 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
