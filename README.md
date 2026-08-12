@@ -137,7 +137,4 @@ For a complete list, click the following sortable link below:
 | **[Southwest Technical College](https://stech.edu)** | **[Film/Videography Student Intern](https://jobright.ai/jobs/info/6a743933bb6ca93ae5609b4c?utm_campaign=1053&utm_source=git)** | Cedar City, UT, United States | On Site | Aug 05 |
 | **[Underground Games](www.undgames.com)** | **[Video Content Creator Intern](https://jobright.ai/jobs/info/6a73d7578dc3d52d8eda1992?utm_campaign=1053&utm_source=git)** | Boston, MA, United States | Hybrid | Aug 05 |
 | **[Mueller Sports Medicine, Inc.](http://muellersportsmed.com)** | **[Digital Content Producer Intern](https://jobright.ai/jobs/info/6a7386d38cd88e7ccbf58fae?utm_campaign=1053&utm_source=git)** | Prairie du Sac, WI, United States | On Site | Aug 05 |
-| **[PURPLE](https://purplepr.com)** | **[Fashion Intern - Fall](https://jobright.ai/jobs/info/6a73a4a91ce9647cdbca97de?utm_campaign=1053&utm_source=git)** | New York, United States | On Site | Aug 05 |
-| **[Edite Showroom](https://edite.us)** | **[Fashion Intern at Coterie-  September 9-11](https://jobright.ai/jobs/info/6a73bd958cd88e7ccbf5a51b?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Aug 05 |
-| **[Arcpoint Studios](http://www.arcpointstudios.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/6a728e50e2b7476e7b213de9?utm_campaign=1053&utm_source=git)** | Fort Worth, TX, United States | Hybrid | Aug 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
