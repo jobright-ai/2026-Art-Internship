@@ -140,7 +140,4 @@ For a complete list, click the following sortable link below:
 | **[PURPLE](https://purplepr.com)** | **[Fashion Intern - Fall](https://jobright.ai/jobs/info/6a73a4a91ce9647cdbca97de?utm_campaign=1053&utm_source=git)** | New York, United States | On Site | Aug 05 |
 | **[Edite Showroom](https://edite.us)** | **[Fashion Intern at Coterie-  September 9-11](https://jobright.ai/jobs/info/6a73bd958cd88e7ccbf5a51b?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Aug 05 |
 | **[Arcpoint Studios](http://www.arcpointstudios.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/6a728e50e2b7476e7b213de9?utm_campaign=1053&utm_source=git)** | Fort Worth, TX, United States | Hybrid | Aug 05 |
-| **[Daniel Stark Injury Lawyers](https://www.danielstarklaw.com/austin)** | **[Video Editing Intern](https://jobright.ai/jobs/info/6a73819a1ce9647cdbca88e1?utm_campaign=1053&utm_source=git)** | Austin, TX, United States | On Site | Aug 05 |
-| ↳ | **[Video Editing Intern](https://jobright.ai/jobs/info/6a7381991ce9647cdbca88df?utm_campaign=1053&utm_source=git)** | Bryan, TX, United States | On Site | Aug 05 |
-| ↳ | **[Video Editing Intern](https://jobright.ai/jobs/info/6a73819332ebbc14ffb4f611?utm_campaign=1053&utm_source=git)** | Killeen, TX, United States | On Site | Aug 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
