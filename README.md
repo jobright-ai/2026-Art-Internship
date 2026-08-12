@@ -136,5 +136,4 @@ For a complete list, click the following sortable link below:
 | **[The Aparecio Foundation](https://www.apareciofoundation.org)** | **[Food & Prop Stylist Intern/Volunteer](https://jobright.ai/jobs/info/6a7452e1bb6ca93ae5609f08?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | On Site | Aug 06 |
 | **[Southwest Technical College](https://stech.edu)** | **[Film/Videography Student Intern](https://jobright.ai/jobs/info/6a743933bb6ca93ae5609b4c?utm_campaign=1053&utm_source=git)** | Cedar City, UT, United States | On Site | Aug 05 |
 | **[Underground Games](www.undgames.com)** | **[Video Content Creator Intern](https://jobright.ai/jobs/info/6a73d7578dc3d52d8eda1992?utm_campaign=1053&utm_source=git)** | Boston, MA, United States | Hybrid | Aug 05 |
-| **[Mueller Sports Medicine, Inc.](http://muellersportsmed.com)** | **[Digital Content Producer Intern](https://jobright.ai/jobs/info/6a7386d38cd88e7ccbf58fae?utm_campaign=1053&utm_source=git)** | Prairie du Sac, WI, United States | On Site | Aug 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
