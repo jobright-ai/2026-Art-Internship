@@ -146,5 +146,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Production Intern](https://jobright.ai/jobs/info/6a734c228cd88e7ccbf57801?utm_campaign=1053&utm_source=git)** | Arlington, VA, United States | Hybrid | Aug 05 |
 | **[Rho](https://rho.co)** | **[Video Intern](https://jobright.ai/jobs/info/6a5677c6f7517b519ad55da1?utm_campaign=1053&utm_source=git)** | NYC | On Site | Aug 05 |
 | **[Operation Smile](http://www.operationsmile.org)** | **[Student Programs Production Intern](https://jobright.ai/jobs/info/6a39b84b06a4fd4b1fabbcd7?utm_campaign=1053&utm_source=git)** | Virginia Beach, VA | On Site | Aug 05 |
-| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[WAVY Unpaid Sports Intern, Fall 2026](https://jobright.ai/jobs/info/69fc4646633e68586cd30319?utm_campaign=1053&utm_source=git)** | VA, Portsmouth, US | On Site | Aug 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
