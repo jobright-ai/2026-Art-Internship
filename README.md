@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Ardea Partners](http://ardeapartners.com)** | **[2026 NY Women's Insights Day](https://jobright.ai/jobs/info/6a7e11100cd4a0703257d9c8?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Aug 13 |
+| **[Coolfire Studios](http://coolfire.com/)** | **[Production and Post Production Intern](https://jobright.ai/jobs/info/6a7e198c19ce4e6e9d931617?utm_campaign=1053&utm_source=git)** | St. Louis, MO, United States | On Site | Aug 13 |
+| **[ElectraCast Media](http://www.electracast.com)** | **[Intern Podcast & Marketing Clips Editor](https://jobright.ai/jobs/info/6a7e17a00cd4a0703257ddbf?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 13 |
+| **[L'AGENCE](https://lagence.com)** | **[NYFW Internship](https://jobright.ai/jobs/info/6a7e147eb56bea5779c0396d?utm_campaign=1053&utm_source=git)** | New York City metropolitan area, United States | On Site | Aug 13 |
 | **[Buds & Pals](budsandpals.com)** | **[Video Editing & Post-Production Intern](https://jobright.ai/jobs/info/6a7e0fe819ce4e6e9d9310db?utm_campaign=1053&utm_source=git)** | Cleveland, OH, United States | On Site | Aug 13 |
 | **[Rodeo Austin](http://www.RodeoAustin.com)** | **[Special Event & Activations Intern](https://jobright.ai/jobs/info/6a7e0fc50cd4a0703257d8d0?utm_campaign=1053&utm_source=git)** | Austin, TX, United States | On Site | Aug 13 |
 | **[Back Roads Entertainment](https://backroadsentertainment.com)** | **[Post Production Intern](https://jobright.ai/jobs/info/6a7e0e4519ce4e6e9d930fe9?utm_campaign=1053&utm_source=git)** | Austin, TX, United States | On Site | Aug 13 |
@@ -71,6 +73,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Paid News Producer Intern](https://jobright.ai/jobs/info/6a7dc082e2030208f2765d0c?utm_campaign=1053&utm_source=git)** | Indianapolis, IN, United States | On Site | Aug 13 |
 | **[Keen Social](https://www.keensocial.com)** | **[Film, Videographer & Content Creator Internship (Prefer Cal State LB Students - MUST HAVE VIDEO PORTFOLIO)](https://jobright.ai/jobs/info/6a7d1125d77e8156a8e35bb5?utm_campaign=1053&utm_source=git)** | Long Beach, CA, United States | Hybrid | Aug 12 |
 | **[Rosie’s Gaming and Colonial Downs](http://www.colonialdowns.com/)** | **[Backstretch Activities Intern](https://jobright.ai/jobs/info/6a7df4aab56bea5779c029d9?utm_campaign=1053&utm_source=git)** | Kentucky, United States | On Site | Aug 12 |
+| **[National Education Association](http://www.nea.org)** | **[NEA Editorial Intern, Center for Communications  (Fall 2026)](https://jobright.ai/jobs/info/6a7e180ee2030208f2767a07?utm_campaign=1053&utm_source=git)** | Washington, DC, United States | On Site | Aug 12 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Video Production Intern](https://jobright.ai/jobs/info/6a7cf41d77d5f033c4b91933?utm_campaign=1053&utm_source=git)** | Clemson, SC, United States | On Site | Aug 12 |
 | **[Michigan Medicine](https://www.uofmhealth.org)** | **[Stamelos Gallery Student Intern](https://jobright.ai/jobs/info/6a7cd3bba346cb6c8d5f046e?utm_campaign=1053&utm_source=git)** | Dearborn Campus | On Site | Aug 12 |
 | **[University of Michigan](https://www.umich.edu)** | **[Stamelos Gallery Student Intern](https://jobright.ai/jobs/info/6a7cd309dc3dff2d1c0c944e?utm_campaign=1053&utm_source=git)** | Dearborn, MI, United States | On Site | Aug 12 |
