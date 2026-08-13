@@ -146,5 +146,4 @@ For a complete list, click the following sortable link below:
 | **[The Dispatch](https://thedispatch.com/)** | **[Fall 2026 Multimedia Internship](https://jobright.ai/jobs/info/6a591d8d4da96a42cfd8f224?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 06 |
 | **[Hasana, Inc.](http://shophasana.com)** | **[Film & Video Internship](https://jobright.ai/jobs/info/6a5997544da96a42cfd91dd0?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | On Site | Aug 06 |
 | **[vineyard vines](http://www.vineyardvines.com)** | **[Fall 2026 Internship - Production](https://jobright.ai/jobs/info/6a579c0eefb06a45240db615?utm_campaign=1053&utm_source=git)** | Stamford, Connecticut, United States | Hybrid | Aug 06 |
-| **[The Aparecio Foundation](https://www.apareciofoundation.org)** | **[Food & Prop Stylist Intern/Volunteer](https://jobright.ai/jobs/info/6a7452e1bb6ca93ae5609f08?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | On Site | Aug 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
