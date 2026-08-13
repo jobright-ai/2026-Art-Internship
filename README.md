@@ -57,9 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Nationwide Children's Hospital](http://www.nationwidechildrens.org)** | **[Content Intern](https://jobright.ai/jobs/info/6a7e2f73b56bea5779c044f6?utm_campaign=1053&utm_source=git)** | Columbus, OH, United States | On Site | Aug 13 |
 | **[Coolfire Studios](http://coolfire.com/)** | **[Production and Post Production Intern](https://jobright.ai/jobs/info/6a7e198c19ce4e6e9d931617?utm_campaign=1053&utm_source=git)** | St. Louis, MO, United States | On Site | Aug 13 |
 | **[ElectraCast Media](http://www.electracast.com)** | **[Intern Podcast & Marketing Clips Editor](https://jobright.ai/jobs/info/6a7e17a00cd4a0703257ddbf?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 13 |
-| **[L'AGENCE](https://lagence.com)** | **[NYFW Internship](https://jobright.ai/jobs/info/6a7e147eb56bea5779c0396d?utm_campaign=1053&utm_source=git)** | New York City metropolitan area, United States | On Site | Aug 13 |
 | **[Buds & Pals](budsandpals.com)** | **[Video Editing & Post-Production Intern](https://jobright.ai/jobs/info/6a7e0fe819ce4e6e9d9310db?utm_campaign=1053&utm_source=git)** | Cleveland, OH, United States | On Site | Aug 13 |
 | **[Rodeo Austin](http://www.RodeoAustin.com)** | **[Special Event & Activations Intern](https://jobright.ai/jobs/info/6a7e0fc50cd4a0703257d8d0?utm_campaign=1053&utm_source=git)** | Austin, TX, United States | On Site | Aug 13 |
 | **[Back Roads Entertainment](https://backroadsentertainment.com)** | **[Post Production Intern](https://jobright.ai/jobs/info/6a7e0e4519ce4e6e9d930fe9?utm_campaign=1053&utm_source=git)** | Austin, TX, United States | On Site | Aug 13 |
@@ -68,6 +68,7 @@ For a complete list, click the following sortable link below:
 | **[Warner Bros. Discovery](https://wbd.com)** | **[CNN Image+Sound Field Production Intern: DC - Fall 2026](https://jobright.ai/jobs/info/6a6194e8ab14335fc0f18b63?utm_campaign=1053&utm_source=git)** | Washington, DC, United States | Hybrid | Aug 13 |
 | ↳ | **[CNN & TNT Sports Inclusion Intern: ATL - Fall 2026](https://jobright.ai/jobs/info/6a6166887196365a6f00ab0d?utm_campaign=1053&utm_source=git)** | Atlanta, GA, United States | Hybrid | Aug 13 |
 | **[National Education Association](http://www.nea.org)** | **[NEA Editorial Intern, Center for Communications (Fall 2026)](https://jobright.ai/jobs/info/6a7df8d9e51a1e18a240b431?utm_campaign=1053&utm_source=git)** | Washington, DC, United States | On Site | Aug 13 |
+| **[Milwaukee Bucks Inc.](http://bucks.com)** | **[Video Intern](https://jobright.ai/jobs/info/6a7e34cdb56bea5779c0474e?utm_campaign=1053&utm_source=git)** | Milwaukee, WI, United States | On Site | Aug 13 |
 | **[Rodeo Austin](http://www.RodeoAustin.com)** | **[Livestock & Competitive Events Internship](https://jobright.ai/jobs/info/6a7def1f19ce4e6e9d9303ce?utm_campaign=1053&utm_source=git)** | Austin, TX, United States | On Site | Aug 13 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Intern - KOIN / KRCW - Portland, OR (Unpaid)](https://jobright.ai/jobs/info/6a526c03d007ee02d95f77ac?utm_campaign=1053&utm_source=git)** | OR, Portland, United States of America | On Site | Aug 13 |
 | ↳ | **[Paid News Producer Intern](https://jobright.ai/jobs/info/6a7dc082e2030208f2765d0c?utm_campaign=1053&utm_source=git)** | Indianapolis, IN, United States | On Site | Aug 13 |
@@ -137,6 +138,4 @@ For a complete list, click the following sortable link below:
 | **[Gradient Experience](https://www.gradientexperience.com)** | **[IRL Production Internship](https://jobright.ai/jobs/info/6a760da4a26ccc369f833748?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Aug 07 |
 | **[Spooky Nook Sports](http://spookynooksports.com)** | **[Athletic Ops Intern](https://jobright.ai/jobs/info/6a789ffb4817aa430704be63?utm_campaign=1053&utm_source=git)** | Manheim, PA, United States | On Site | Aug 07 |
 | **[The Sporting News](https://www.sportingnews.com)** | **[Editorial Intern, Sports Partnerships](https://jobright.ai/jobs/info/6a6cb3d332f9300c3a3e49df?utm_campaign=1053&utm_source=git)** | Charlotte, NC, United States | Remote | Aug 07 |
-| **[Mobile Bay Now](https://mobilebaynow.com)** | **[Content Producer Intern](https://jobright.ai/jobs/info/6a76ba00a26ccc369f8361e9?utm_campaign=1053&utm_source=git)** | Daphne, AL, United States | On Site | Aug 06 |
-| **[Seattle Kraken](https://www.nhl.com/kraken)** | **[Intern, Live Production (September 2026 - April 2027)](https://jobright.ai/jobs/info/6a752c01b17cba56903598fe?utm_campaign=1053&utm_source=git)** | Seattle, WA, United States | On Site | Aug 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
