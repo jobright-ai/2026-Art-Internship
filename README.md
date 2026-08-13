@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Keen Social](https://www.keensocial.com)** | **[Film, Videographer & Content Creator Internship (Prefer Cal State LB Students - MUST HAVE VIDEO PORTFOLIO)](https://jobright.ai/jobs/info/6a7d1125d77e8156a8e35bb5?utm_campaign=1053&utm_source=git)** | Long Beach, CA, United States | Hybrid | Aug 12 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Video Production Intern](https://jobright.ai/jobs/info/6a7cf41d77d5f033c4b91933?utm_campaign=1053&utm_source=git)** | Clemson, SC, United States | On Site | Aug 12 |
 | **[Michigan Medicine](https://www.uofmhealth.org)** | **[Stamelos Gallery Student Intern](https://jobright.ai/jobs/info/6a7cd3bba346cb6c8d5f046e?utm_campaign=1053&utm_source=git)** | Dearborn Campus | On Site | Aug 12 |
 | **[University of Michigan](https://www.umich.edu)** | **[Stamelos Gallery Student Intern](https://jobright.ai/jobs/info/6a7cd309dc3dff2d1c0c944e?utm_campaign=1053&utm_source=git)** | Dearborn, MI, United States | On Site | Aug 12 |
