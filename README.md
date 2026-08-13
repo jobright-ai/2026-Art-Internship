@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Paid News Producer Intern](https://jobright.ai/jobs/info/6a7dc082e2030208f2765d0c?utm_campaign=1053&utm_source=git)** | Indianapolis, IN, United States | On Site | Aug 13 |
 | **[RefReps](https://www.refreps.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/6a7d5444d77e8156a8e36412?utm_campaign=1053&utm_source=git)** | Zionsville, IN, United States | On Site | Aug 12 |
 | **[adyn](https://www.adyn.com/)** | **[DIGITAL STORYTELLING INTERN](https://jobright.ai/jobs/info/6a7d4c6583621355407add4c?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 12 |
 | **[Keen Social](https://www.keensocial.com)** | **[Film, Videographer & Content Creator Internship (Prefer Cal State LB Students - MUST HAVE VIDEO PORTFOLIO)](https://jobright.ai/jobs/info/6a7d1125d77e8156a8e35bb5?utm_campaign=1053&utm_source=git)** | Long Beach, CA, United States | Hybrid | Aug 12 |
@@ -132,6 +133,4 @@ For a complete list, click the following sortable link below:
 | **[U.S. AutoForce](https://www.usautoforce.com)** | **[U.S. Venture Open Intern](https://jobright.ai/jobs/info/6a76dcd267a1ad0bc53cb749?utm_campaign=1053&utm_source=git)** | Appleton, WI, United States | On Site | Aug 06 |
 | **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Current Programming Intern, Sony Pictures Television – Fall 2026](https://jobright.ai/jobs/info/6a762d54a26ccc369f834214?utm_campaign=1053&utm_source=git)** | Culver City, CA, United States | On Site | Aug 06 |
 | **[Mass General Brigham](https://www.massgeneralbrigham.org)** | **[Science Writing Intern](https://jobright.ai/jobs/info/6a74ab2d7b3417772ade0dd0?utm_campaign=1053&utm_source=git)** | Somerville, MA, United States | Remote | Aug 06 |
-| **[St. Louis Blues](http://www.stlouisblues.com)** | **[Intern, Video Production](https://jobright.ai/jobs/info/6a74f0f67b3417772ade27fa?utm_campaign=1053&utm_source=git)** | St. Louis, MO, United States | On Site | Aug 06 |
-| ↳ | **[Intern, Game Presentation](https://jobright.ai/jobs/info/6a74f0f47b3417772ade27f8?utm_campaign=1053&utm_source=git)** | St. Louis, MO, United States | On Site | Aug 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
