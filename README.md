@@ -140,6 +140,4 @@ For a complete list, click the following sortable link below:
 | **[Nfocus Magazine](https://www.nfocusmagazine.com)** | **[Nfocus Multimedia Intern](https://jobright.ai/jobs/info/6a74e46b20b26a6e93f49845?utm_campaign=1053&utm_source=git)** | Nashville, TN, United States | On Site | Aug 06 |
 | **[NFM Lending](http://www.nfmlending.com/)** | **[Content Creator Intern](https://jobright.ai/jobs/info/6a74d0f9b17cba5690357a44?utm_campaign=1053&utm_source=git)** | Columbus, OH, United States | On Site | Aug 06 |
 | **[Proper Cloth](https://propercloth.com)** | **[Fall 2026 Product Styling Internship](https://jobright.ai/jobs/info/6a74eb91bb6ca93ae560cb35?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Aug 06 |
-| **[Golden Hippo®](http://goldenhippomedia.com)** | **[Testimonial Video Editor Intern](https://jobright.ai/jobs/info/6a555f6a268af95237beb476?utm_campaign=1053&utm_source=git)** | Woodland Hills, CA, United States | On Site | Aug 06 |
-| ↳ | **[Video Editing Intern](https://jobright.ai/jobs/info/6a565bfbe9b77f668bd62c38?utm_campaign=1053&utm_source=git)** | Woodland Hills, CA, United States | Hybrid | Aug 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
