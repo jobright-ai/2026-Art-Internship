@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[RefReps](https://refreps.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/6a7d5444d77e8156a8e36412?utm_campaign=1053&utm_source=git)** | Zionsville, IN, United States | On Site | Aug 12 |
+| **[adyn](https://www.adyn.com/)** | **[DIGITAL STORYTELLING INTERN](https://jobright.ai/jobs/info/6a7d4c6583621355407add4c?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 12 |
 | **[Keen Social](https://www.keensocial.com)** | **[Film, Videographer & Content Creator Internship (Prefer Cal State LB Students - MUST HAVE VIDEO PORTFOLIO)](https://jobright.ai/jobs/info/6a7d1125d77e8156a8e35bb5?utm_campaign=1053&utm_source=git)** | Long Beach, CA, United States | Hybrid | Aug 12 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Video Production Intern](https://jobright.ai/jobs/info/6a7cf41d77d5f033c4b91933?utm_campaign=1053&utm_source=git)** | Clemson, SC, United States | On Site | Aug 12 |
 | **[Michigan Medicine](https://www.uofmhealth.org)** | **[Stamelos Gallery Student Intern](https://jobright.ai/jobs/info/6a7cd3bba346cb6c8d5f046e?utm_campaign=1053&utm_source=git)** | Dearborn Campus | On Site | Aug 12 |
@@ -126,7 +128,6 @@ For a complete list, click the following sortable link below:
 | **[The Sporting News](https://www.sportingnews.com)** | **[Editorial Intern, Sports Partnerships](https://jobright.ai/jobs/info/6a6cb3d332f9300c3a3e49df?utm_campaign=1053&utm_source=git)** | Charlotte, NC, United States | Remote | Aug 07 |
 | **[Mobile Bay Now](https://mobilebaynow.com)** | **[Content Producer Intern](https://jobright.ai/jobs/info/6a76ba00a26ccc369f8361e9?utm_campaign=1053&utm_source=git)** | Daphne, AL, United States | On Site | Aug 06 |
 | **[Seattle Kraken](https://www.nhl.com/kraken)** | **[Intern, Live Production (September 2026 - April 2027)](https://jobright.ai/jobs/info/6a752c01b17cba56903598fe?utm_campaign=1053&utm_source=git)** | Seattle, WA, United States | On Site | Aug 06 |
-| **[Rugby Ontario](https://www.rugbyontario.com)** | **[Competitions Intern](https://jobright.ai/jobs/info/6a757dd9b17cba569035a6d8?utm_campaign=1053&utm_source=git)** | Toronto, ON, Canada | Hybrid | Aug 06 |
 | **[Golden Hippo®](http://goldenhippomedia.com)** | **[YouTube Editor Intern (Bilingual)](https://jobright.ai/jobs/info/6a6145a5d51f6101c8fbac41?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 06 |
 | **[Klubhouse Fantasy Sports](https://klubhouse.gg)** | **[Video Editor & Social Media Intern (Entry Level)](https://jobright.ai/jobs/info/6a7536017b3417772ade3b87?utm_campaign=1053&utm_source=git)** | Portland, OR, United States | On Site | Aug 06 |
 | **[U.S. AutoForce](https://www.usautoforce.com)** | **[U.S. Venture Open Intern](https://jobright.ai/jobs/info/6a76dcd267a1ad0bc53cb749?utm_campaign=1053&utm_source=git)** | Appleton, WI, United States | On Site | Aug 06 |
