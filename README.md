@@ -57,7 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[RefReps](https://refreps.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/6a7d5444d77e8156a8e36412?utm_campaign=1053&utm_source=git)** | Zionsville, IN, United States | On Site | Aug 12 |
+| **[RefReps](https://www.refreps.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/6a7d5444d77e8156a8e36412?utm_campaign=1053&utm_source=git)** | Zionsville, IN, United States | On Site | Aug 12 |
 | **[adyn](https://www.adyn.com/)** | **[DIGITAL STORYTELLING INTERN](https://jobright.ai/jobs/info/6a7d4c6583621355407add4c?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 12 |
 | **[Keen Social](https://www.keensocial.com)** | **[Film, Videographer & Content Creator Internship (Prefer Cal State LB Students - MUST HAVE VIDEO PORTFOLIO)](https://jobright.ai/jobs/info/6a7d1125d77e8156a8e35bb5?utm_campaign=1053&utm_source=git)** | Long Beach, CA, United States | Hybrid | Aug 12 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Video Production Intern](https://jobright.ai/jobs/info/6a7cf41d77d5f033c4b91933?utm_campaign=1053&utm_source=git)** | Clemson, SC, United States | On Site | Aug 12 |
@@ -138,6 +138,4 @@ For a complete list, click the following sortable link below:
 | **[City of Philadelphia](http://www.phila.gov/)** | **[Comp Plan Intern](https://jobright.ai/jobs/info/6a74ec6dbb6ca93ae560cb8a?utm_campaign=1053&utm_source=git)** | Philadelphia, Pennsylvania, United States | On Site | Aug 06 |
 | ↳ | **[Comp Plan Intern](https://jobright.ai/jobs/info/6a74ec1737da8525e8cdb615?utm_campaign=1053&utm_source=git)** | Philadelphia, PA, United States | On Site | Aug 06 |
 | **[Nfocus Magazine](https://www.nfocusmagazine.com)** | **[Nfocus Multimedia Intern](https://jobright.ai/jobs/info/6a74e46b20b26a6e93f49845?utm_campaign=1053&utm_source=git)** | Nashville, TN, United States | On Site | Aug 06 |
-| **[NFM Lending](http://www.nfmlending.com/)** | **[Content Creator Intern](https://jobright.ai/jobs/info/6a74d0f9b17cba5690357a44?utm_campaign=1053&utm_source=git)** | Columbus, OH, United States | On Site | Aug 06 |
-| **[Proper Cloth](https://propercloth.com)** | **[Fall 2026 Product Styling Internship](https://jobright.ai/jobs/info/6a74eb91bb6ca93ae560cb35?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Aug 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
