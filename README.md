@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Paid News Producer Intern](https://jobright.ai/jobs/info/6a7dc082e2030208f2765d0c?utm_campaign=1053&utm_source=git)** | Indianapolis, IN, United States | On Site | Aug 13 |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Intern - KOIN / KRCW - Portland, OR (Unpaid)](https://jobright.ai/jobs/info/6a526c03d007ee02d95f77ac?utm_campaign=1053&utm_source=git)** | OR, Portland, United States of America | On Site | Aug 13 |
+| ↳ | **[Paid News Producer Intern](https://jobright.ai/jobs/info/6a7dc082e2030208f2765d0c?utm_campaign=1053&utm_source=git)** | Indianapolis, IN, United States | On Site | Aug 13 |
 | **[RefReps](https://www.refreps.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/6a7d5444d77e8156a8e36412?utm_campaign=1053&utm_source=git)** | Zionsville, IN, United States | On Site | Aug 12 |
 | **[adyn](https://www.adyn.com/)** | **[DIGITAL STORYTELLING INTERN](https://jobright.ai/jobs/info/6a7d4c6583621355407add4c?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 12 |
 | **[Keen Social](https://www.keensocial.com)** | **[Film, Videographer & Content Creator Internship (Prefer Cal State LB Students - MUST HAVE VIDEO PORTFOLIO)](https://jobright.ai/jobs/info/6a7d1125d77e8156a8e35bb5?utm_campaign=1053&utm_source=git)** | Long Beach, CA, United States | Hybrid | Aug 12 |
