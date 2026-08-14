@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ACS Technologies](http://www.acstechnologies.com)** | **[Internship](https://jobright.ai/jobs/info/6a56aaf810c4d945d864b3c5?utm_campaign=1053&utm_source=git)** | Greenville, SC, United States | Remote | Aug 14 |
 | **[WETA](https://weta.org/)** | **[Digital Media: Local History Intern](https://jobright.ai/jobs/info/6a7e9f92e51a1e18a240e833?utm_campaign=1053&utm_source=git)** | Arlington, VA, United States | On Site | Aug 13 |
 | **[Definitive](www.DefinitiveMusic.net)** | **[Music Journalism Internship](https://jobright.ai/jobs/info/6a7e3f520cd4a0703257ed93?utm_campaign=1053&utm_source=git)** | Tempe, AZ, United States | On Site | Aug 13 |
 | **[Nationwide Children's Hospital](http://www.nationwidechildrens.org)** | **[Content Intern](https://jobright.ai/jobs/info/6a7e2f73b56bea5779c044f6?utm_campaign=1053&utm_source=git)** | Columbus, OH, United States | On Site | Aug 13 |
@@ -105,6 +106,7 @@ For a complete list, click the following sortable link below:
 | **[Acadium](http://www.acadium.com)** | **[Video Content Creation Intern](https://jobright.ai/jobs/info/6a7b74913b399d106e4d68f4?utm_campaign=1053&utm_source=git)** | Ontario, Canada | Remote | Aug 11 |
 | ↳ | **[Video Editing Intern](https://jobright.ai/jobs/info/6a7b39b0ecfd297707537945?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 11 |
 | **[PACE (Police Athletics for Community Engagement)](http://paceomaha.org)** | **[Sports Management Intern - Fall Sports](https://jobright.ai/jobs/info/6a7b7b27ecf5194164fbe52a?utm_campaign=1053&utm_source=git)** | Omaha, NE, United States | On Site | Aug 11 |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid News Intern](https://jobright.ai/jobs/info/69b1c6a4548f140066e79343?utm_campaign=1053&utm_source=git)** | Wichita, KS | On Site | Aug 11 |
 | **[Zapshot](https://zapshot.me)** | **[Party Host Intern (USC)](https://jobright.ai/jobs/info/6a7aba7767a1ad0bc53d4480?utm_campaign=1053&utm_source=git)** | Los Angeles metropolitan area, United States | On Site | Aug 10 |
 | **[Hasana, Inc.](http://shophasana.com)** | **[Volunteer/Intern: Film/Video Editor](https://jobright.ai/jobs/info/6a584c973330ca6f993c3e99?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | On Site | Aug 10 |
 | **[Columbus Crew](https://www.columbuscrew.com/)** | **[Scoreboard Operations Internship](https://jobright.ai/jobs/info/6a7a53a6b17cba5690366b71?utm_campaign=1053&utm_source=git)** | Columbus, OH, United States | On Site | Aug 10 |
@@ -137,5 +139,4 @@ For a complete list, click the following sortable link below:
 | **[Hasana, Inc.](http://shophasana.com)** | **[Writers & Journalists Intern/Volunteer](https://jobright.ai/jobs/info/6a7694c8a26ccc369f835b9b?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | On Site | Aug 07 |
 | **[Society19](https://www.society19.com/)** | **[U.S. Lifestyle Magazine Writing Intern](https://jobright.ai/jobs/info/6a56bb0defb06a45240d7e71?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 07 |
 | **[The Aparecio Foundation](https://www.apareciofoundation.org)** | **[Volunteer/Intern: Pro bono: Editor of "Music" Content in Felix](https://jobright.ai/jobs/info/6a766a76a26ccc369f835517?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | On Site | Aug 07 |
-| **[Jacksonville Jaguars](http://www.jaguars.com)** | **[Game Presentation, Intern](https://jobright.ai/jobs/info/6a7637f7a26ccc369f8344b0?utm_campaign=1053&utm_source=git)** | Jacksonville, FL, United States | On Site | Aug 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
