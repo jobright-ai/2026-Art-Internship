@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Syracuse Crunch](https://syracusecrunch.com/)** | **[VIDEOGRAPHY INTERN](https://jobright.ai/jobs/info/6a7f7621e2030208f276e4d3?utm_campaign=1053&utm_source=git)** | Springfield, MA, United States | On Site | Aug 14 |
+| ↳ | **[COMMUNITY & FAN ENGAGEMENT INTERN FALL 2026](https://jobright.ai/jobs/info/6a7f7608e2030208f276e4c7?utm_campaign=1053&utm_source=git)** | Worcester, MA, United States | On Site | Aug 14 |
+| ↳ | **[TAHOE KNIGHT MONSTERS INTERNSHIP PROGRAM 26-27 SEASON](https://jobright.ai/jobs/info/6a7f75f9e51a1e18a2412cda?utm_campaign=1053&utm_source=git)** | Stateline, NV, United States | On Site | Aug 14 |
 | **[Red Bull New York](http://www.newyorkredbulls.com)** | **[2026 Internship, Fall - Game Presentation & Entertainment](https://jobright.ai/jobs/info/6a7f73c2e2030208f276e33f?utm_campaign=1053&utm_source=git)** | Harrison, NJ, United States | On Site | Aug 14 |
 | **[Red Bull](https://redbull.com)** | **[2026 Internship, Fall - Game Presentation & Entertainment](https://jobright.ai/jobs/info/6a7f6d60e2030208f276dfb4?utm_campaign=1053&utm_source=git)** | Harrison, NJ, United States | On Site | Aug 14 |
 | **[adyn](https://www.adyn.com/)** | **[DIGITAL STORYTELLING INTERN](https://jobright.ai/jobs/info/6a7f60e7927c79391ad0856a?utm_campaign=1053&utm_source=git)** | Seattle, WA, United States | Remote | Aug 14 |
@@ -64,8 +67,10 @@ For a complete list, click the following sortable link below:
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid News Intern](https://jobright.ai/jobs/info/6972b01a9b83b424830eb8a4?utm_campaign=1053&utm_source=git)** | IN-Indianapolis;6910 Network Place (Tribune-WXIN/WTTV) | On Site | Aug 14 |
 | **[WMUR-TV](http://www.wmur.com/)** | **[Creative Services Intern](https://jobright.ai/jobs/info/69ba8f1506c1ba00c54ca4eb?utm_campaign=1053&utm_source=git)** | Manchester, NH | On Site | Aug 14 |
 | **[Hearst Newspapers](https://eevd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_15)** | **[Creative Services Intern](https://jobright.ai/jobs/info/69b99a8406c1ba00c54ba301?utm_campaign=1053&utm_source=git)** | 100 South Commercial Street, Manchester, NH, 03101, US | On Site | Aug 14 |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Paid Intern (Photojournalist/Multi-Media Journalist/Producer)](https://jobright.ai/jobs/info/69f179ef8feca91f149202ba?utm_campaign=1053&utm_source=git)** | Wichita, KS | On Site | Aug 14 |
 | **[ACS Technologies](http://www.acstechnologies.com)** | **[Internship](https://jobright.ai/jobs/info/6a56aaf810c4d945d864b3c5?utm_campaign=1053&utm_source=git)** | Greenville, SC, United States | Remote | Aug 14 |
 | **[WETA](https://weta.org/)** | **[Digital Media: Local History Intern](https://jobright.ai/jobs/info/6a7e9f92e51a1e18a240e833?utm_campaign=1053&utm_source=git)** | Arlington, VA, United States | On Site | Aug 13 |
+| **[Jacksonville Icemen](https://jacksonvilleicemen.com)** | **[Jacksonville Icemen Videography Internship 2026-2027 Season](https://jobright.ai/jobs/info/6a7f7c7319ce4e6e9d938617?utm_campaign=1053&utm_source=git)** | Jacksonville, FL, United States | On Site | Aug 13 |
 | **[New York Post](http://nypost.com/)** | **[Page Six Column Intern, Fall 2026 (10 weeks, 24 hours a week)](https://jobright.ai/jobs/info/6a7f4af9e51a1e18a24116b8?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Aug 13 |
 | **[Definitive](www.DefinitiveMusic.net)** | **[Music Journalism Internship](https://jobright.ai/jobs/info/6a7e3f520cd4a0703257ed93?utm_campaign=1053&utm_source=git)** | Tempe, AZ, United States | On Site | Aug 13 |
 | **[Nationwide Children's Hospital](http://www.nationwidechildrens.org)** | **[Content Intern](https://jobright.ai/jobs/info/6a7e2f73b56bea5779c044f6?utm_campaign=1053&utm_source=git)** | Columbus, OH, United States | On Site | Aug 13 |
@@ -73,7 +78,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Testimonial Video Editor Intern](https://jobright.ai/jobs/info/6a5542ab4119652ff386468e?utm_campaign=1053&utm_source=git)** | Woodland Hills, CA, United States | On Site | Aug 13 |
 | **[Athletic Pride Gear](http://www.athleticprideshop.com)** | **[Athlete & Community Stories Intern](https://jobright.ai/jobs/info/6a7e73f40cd4a0703258034a?utm_campaign=1053&utm_source=git)** | Mesa, AZ, United States | Remote | Aug 13 |
 | **[Coolfire Studios](http://coolfire.com/)** | **[Production and Post Production Intern](https://jobright.ai/jobs/info/6a7e198c19ce4e6e9d931617?utm_campaign=1053&utm_source=git)** | St. Louis, MO, United States | On Site | Aug 13 |
-| **[ElectraCast Media](http://www.electracast.com)** | **[Intern Podcast & Marketing Clips Editor](https://jobright.ai/jobs/info/6a7e17a00cd4a0703257ddbf?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 13 |
 | **[Buds & Pals](budsandpals.com)** | **[Video Editing & Post-Production Intern](https://jobright.ai/jobs/info/6a7e0fe819ce4e6e9d9310db?utm_campaign=1053&utm_source=git)** | Cleveland, OH, United States | On Site | Aug 13 |
 | **[Back Roads Entertainment](https://backroadsentertainment.com)** | **[Post Production Intern](https://jobright.ai/jobs/info/6a7e0e4519ce4e6e9d930fe9?utm_campaign=1053&utm_source=git)** | Austin, TX, United States | On Site | Aug 13 |
 | **[Kentucky Farm Bureau Insurance](http://kyfb.com)** | **[Video Production intern](https://jobright.ai/jobs/info/6a7e0d8ce51a1e18a240bbd4?utm_campaign=1053&utm_source=git)** | Louisville, KY, United States | On Site | Aug 13 |
@@ -141,5 +145,4 @@ For a complete list, click the following sortable link below:
 | **[Deerfield Public Library](https://deerfieldlibrary.org)** | **[MakerSpace Intern](https://jobright.ai/jobs/info/6a75f27ba26ccc369f832ed6?utm_campaign=1053&utm_source=git)** | Deerfield, IL, United States | On Site | Aug 08 |
 | **[ArtsQuest](http://www.artsquest.org/)** | **[ARTS ADMIN & EDUCATION INTERN](https://jobright.ai/jobs/info/6a76d4b8b17cba569035f30e?utm_campaign=1053&utm_source=git)** | Bethlehem, PA, United States | On Site | Aug 08 |
 | **[Create Music Group](https://www.createmusicgroup.com/)** | **[A&R Research Intern - Hip-Hop](https://jobright.ai/jobs/info/6a473b238204a812e98cb5ba?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | Hybrid | Aug 07 |
-| **[Pilot (pilotplans.com)](http://www.pilotplans.com)** | **[Content Intern, Creators](https://jobright.ai/jobs/info/6a76de75bb6ca93ae5613cbb?utm_campaign=1053&utm_source=git)** | Greater Vancouver Metropolitan Area, Canada | Hybrid | Aug 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
