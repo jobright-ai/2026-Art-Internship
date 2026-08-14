@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hearst Newspapers](https://eevd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_15)** | **[Creative Services Intern](https://jobright.ai/jobs/info/69b99a8406c1ba00c54ba301?utm_campaign=1053&utm_source=git)** | 100 South Commercial Street, Manchester, NH, 03101, US | On Site | Aug 14 |
 | **[ACS Technologies](http://www.acstechnologies.com)** | **[Internship](https://jobright.ai/jobs/info/6a56aaf810c4d945d864b3c5?utm_campaign=1053&utm_source=git)** | Greenville, SC, United States | Remote | Aug 14 |
 | **[WETA](https://weta.org/)** | **[Digital Media: Local History Intern](https://jobright.ai/jobs/info/6a7e9f92e51a1e18a240e833?utm_campaign=1053&utm_source=git)** | Arlington, VA, United States | On Site | Aug 13 |
 | **[Definitive](www.DefinitiveMusic.net)** | **[Music Journalism Internship](https://jobright.ai/jobs/info/6a7e3f520cd4a0703257ed93?utm_campaign=1053&utm_source=git)** | Tempe, AZ, United States | On Site | Aug 13 |
@@ -66,7 +67,6 @@ For a complete list, click the following sortable link below:
 | **[Athletic Pride Gear](http://www.athleticprideshop.com)** | **[Athlete & Community Stories Intern](https://jobright.ai/jobs/info/6a7e73f40cd4a0703258034a?utm_campaign=1053&utm_source=git)** | Mesa, AZ, United States | Remote | Aug 13 |
 | **[Coolfire Studios](http://coolfire.com/)** | **[Production and Post Production Intern](https://jobright.ai/jobs/info/6a7e198c19ce4e6e9d931617?utm_campaign=1053&utm_source=git)** | St. Louis, MO, United States | On Site | Aug 13 |
 | **[ElectraCast Media](http://www.electracast.com)** | **[Intern Podcast & Marketing Clips Editor](https://jobright.ai/jobs/info/6a7e17a00cd4a0703257ddbf?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 13 |
-| **[Samantha Siu New York](https://www.samanthasiu.com)** | **[Media & Content Video Editor Intern](https://jobright.ai/jobs/info/6a7e73410cd4a07032580302?utm_campaign=1053&utm_source=git)** | New York City metropolitan area, United States | Hybrid | Aug 13 |
 | **[Buds & Pals](budsandpals.com)** | **[Video Editing & Post-Production Intern](https://jobright.ai/jobs/info/6a7e0fe819ce4e6e9d9310db?utm_campaign=1053&utm_source=git)** | Cleveland, OH, United States | On Site | Aug 13 |
 | **[Rodeo Austin](http://www.RodeoAustin.com)** | **[Special Event & Activations Intern](https://jobright.ai/jobs/info/6a7e0fc50cd4a0703257d8d0?utm_campaign=1053&utm_source=git)** | Austin, TX, United States | On Site | Aug 13 |
 | **[Back Roads Entertainment](https://backroadsentertainment.com)** | **[Post Production Intern](https://jobright.ai/jobs/info/6a7e0e4519ce4e6e9d930fe9?utm_campaign=1053&utm_source=git)** | Austin, TX, United States | On Site | Aug 13 |
