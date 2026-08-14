@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[University of Pikeville](http://www.upike.edu/)** | **[WS - INTERNSHIP - United Methodist Church Pikeville - Vocal  or Instrumental Assistant - IWS](https://jobright.ai/jobs/info/6a7f2888ad9ff00c26bacd5d?utm_campaign=1053&utm_source=git)** | Pikeville, KY, United States | On Site | Aug 14 |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid News Intern](https://jobright.ai/jobs/info/6972b01a9b83b424830eb8a4?utm_campaign=1053&utm_source=git)** | IN-Indianapolis;6910 Network Place (Tribune-WXIN/WTTV) | On Site | Aug 14 |
 | **[Hearst Newspapers](https://eevd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_15)** | **[Creative Services Intern](https://jobright.ai/jobs/info/69b99a8406c1ba00c54ba301?utm_campaign=1053&utm_source=git)** | 100 South Commercial Street, Manchester, NH, 03101, US | On Site | Aug 14 |
 | **[ACS Technologies](http://www.acstechnologies.com)** | **[Internship](https://jobright.ai/jobs/info/6a56aaf810c4d945d864b3c5?utm_campaign=1053&utm_source=git)** | Greenville, SC, United States | Remote | Aug 14 |
 | **[WETA](https://weta.org/)** | **[Digital Media: Local History Intern](https://jobright.ai/jobs/info/6a7e9f92e51a1e18a240e833?utm_campaign=1053&utm_source=git)** | Arlington, VA, United States | On Site | Aug 13 |
@@ -117,7 +119,6 @@ For a complete list, click the following sortable link below:
 | **[M Booth](http://www.mbooth.com)** | **[Fall/Winter Intern, Lifestyle](https://jobright.ai/jobs/info/6a79e0e9b17cba56903640f9?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Aug 10 |
 | **[Full Jam Music INC.](http://fulljam.com)** | **[Musicians creators (volunteer or internship)](https://jobright.ai/jobs/info/6a79d6e09ee17f276dbefb7c?utm_campaign=1053&utm_source=git)** | Canada | Remote | Aug 10 |
 | **[KCRA 3 & My58 Television](http://www.kcra.com)** | **[Intern (Fall)](https://jobright.ai/jobs/info/6a25615c757ade085b6b19d2?utm_campaign=1053&utm_source=git)** | Sacramento, CA | On Site | Aug 10 |
-| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid News Intern](https://jobright.ai/jobs/info/6972b01a9b83b424830eb8a4?utm_campaign=1053&utm_source=git)** | IN-Indianapolis;6910 Network Place (Tribune-WXIN/WTTV) | On Site | Aug 10 |
 | **[Hearst Television](http://www.hearsttelevision.com)** | **[Intern (Fall)](https://jobright.ai/jobs/info/6a1d794e3e538a28c2049c97?utm_campaign=1053&utm_source=git)** | 3 Television Circle, Sacramento, CA, 95814, US | On Site | Aug 10 |
 | **[The Aparecio Foundation](https://www.apareciofoundation.org)** | **[Volunteer/Intern:Pro-bono Editor of "Fashion" Content in Felix](https://jobright.ai/jobs/info/6a5542c22084cd792b477398?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | On Site | Aug 09 |
 | **[Cavender's](https://www.cavenders.com/)** | **[Studio Intern](https://jobright.ai/jobs/info/6a7e784519ce4e6e9d933771?utm_campaign=1053&utm_source=git)** | Tyler, TX, United States | On Site | Aug 09 |
