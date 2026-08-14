@@ -57,10 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[New York Post](http://nypost.com/)** | **[Page Six Column Intern, Fall 2026 (10 weeks, 24 hours a week)](https://jobright.ai/jobs/info/6a7f4af9e51a1e18a24116b8?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Aug 14 |
 | **[Syracuse Crunch](https://syracusecrunch.com/)** | **[VIDEOGRAPHY INTERN](https://jobright.ai/jobs/info/6a7f7621e2030208f276e4d3?utm_campaign=1053&utm_source=git)** | Springfield, MA, United States | On Site | Aug 14 |
 | ↳ | **[COMMUNITY & FAN ENGAGEMENT INTERN FALL 2026](https://jobright.ai/jobs/info/6a7f7608e2030208f276e4c7?utm_campaign=1053&utm_source=git)** | Worcester, MA, United States | On Site | Aug 14 |
 | ↳ | **[TAHOE KNIGHT MONSTERS INTERNSHIP PROGRAM 26-27 SEASON](https://jobright.ai/jobs/info/6a7f75f9e51a1e18a2412cda?utm_campaign=1053&utm_source=git)** | Stateline, NV, United States | On Site | Aug 14 |
 | **[Red Bull New York](http://www.newyorkredbulls.com)** | **[2026 Internship, Fall - Game Presentation & Entertainment](https://jobright.ai/jobs/info/6a7f73c2e2030208f276e33f?utm_campaign=1053&utm_source=git)** | Harrison, NJ, United States | On Site | Aug 14 |
+| **[Greenville Swamp Rabbits](http://www.swamprabbits.com)** | **[Game Entertainment Intern](https://jobright.ai/jobs/info/6a7f8f91e51a1e18a2413e74?utm_campaign=1053&utm_source=git)** | Greenville, SC, United States | On Site | Aug 14 |
 | **[Red Bull](https://redbull.com)** | **[2026 Internship, Fall - Game Presentation & Entertainment](https://jobright.ai/jobs/info/6a7f6d60e2030208f276dfb4?utm_campaign=1053&utm_source=git)** | Harrison, NJ, United States | On Site | Aug 14 |
 | **[adyn](https://www.adyn.com/)** | **[DIGITAL STORYTELLING INTERN](https://jobright.ai/jobs/info/6a7f60e7927c79391ad0856a?utm_campaign=1053&utm_source=git)** | Seattle, WA, United States | Remote | Aug 14 |
 | **[University of Pikeville](http://www.upike.edu/)** | **[WS - INTERNSHIP - United Methodist Church Pikeville - Vocal  or Instrumental Assistant - IWS](https://jobright.ai/jobs/info/6a7f2888ad9ff00c26bacd5d?utm_campaign=1053&utm_source=git)** | Pikeville, KY, United States | On Site | Aug 14 |
@@ -71,7 +73,6 @@ For a complete list, click the following sortable link below:
 | **[ACS Technologies](http://www.acstechnologies.com)** | **[Internship](https://jobright.ai/jobs/info/6a56aaf810c4d945d864b3c5?utm_campaign=1053&utm_source=git)** | Greenville, SC, United States | Remote | Aug 14 |
 | **[WETA](https://weta.org/)** | **[Digital Media: Local History Intern](https://jobright.ai/jobs/info/6a7e9f92e51a1e18a240e833?utm_campaign=1053&utm_source=git)** | Arlington, VA, United States | On Site | Aug 13 |
 | **[Jacksonville Icemen](https://jacksonvilleicemen.com)** | **[Jacksonville Icemen Videography Internship 2026-2027 Season](https://jobright.ai/jobs/info/6a7f7c7319ce4e6e9d938617?utm_campaign=1053&utm_source=git)** | Jacksonville, FL, United States | On Site | Aug 13 |
-| **[New York Post](http://nypost.com/)** | **[Page Six Column Intern, Fall 2026 (10 weeks, 24 hours a week)](https://jobright.ai/jobs/info/6a7f4af9e51a1e18a24116b8?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Aug 13 |
 | **[Definitive](www.DefinitiveMusic.net)** | **[Music Journalism Internship](https://jobright.ai/jobs/info/6a7e3f520cd4a0703257ed93?utm_campaign=1053&utm_source=git)** | Tempe, AZ, United States | On Site | Aug 13 |
 | **[Nationwide Children's Hospital](http://www.nationwidechildrens.org)** | **[Content Intern](https://jobright.ai/jobs/info/6a7e2f73b56bea5779c044f6?utm_campaign=1053&utm_source=git)** | Columbus, OH, United States | On Site | Aug 13 |
 | **[Golden Hippo®](http://goldenhippomedia.com)** | **[Video Editor - Youtube Intern (Bilingual)](https://jobright.ai/jobs/info/6a6145a5d51f6101c8fbac41?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 13 |
@@ -82,7 +83,6 @@ For a complete list, click the following sortable link below:
 | **[Back Roads Entertainment](https://backroadsentertainment.com)** | **[Post Production Intern](https://jobright.ai/jobs/info/6a7e0e4519ce4e6e9d930fe9?utm_campaign=1053&utm_source=git)** | Austin, TX, United States | On Site | Aug 13 |
 | **[Kentucky Farm Bureau Insurance](http://kyfb.com)** | **[Video Production intern](https://jobright.ai/jobs/info/6a7e0d8ce51a1e18a240bbd4?utm_campaign=1053&utm_source=git)** | Louisville, KY, United States | On Site | Aug 13 |
 | **[Warner Bros. Discovery](https://wbd.com)** | **[CNN Image+Sound Field Production Intern: DC - Fall 2026](https://jobright.ai/jobs/info/6a6194e8ab14335fc0f18b63?utm_campaign=1053&utm_source=git)** | Washington, DC, United States | Hybrid | Aug 13 |
-| ↳ | **[CNN & TNT Sports Inclusion Intern: ATL - Fall 2026](https://jobright.ai/jobs/info/6a6166887196365a6f00ab0d?utm_campaign=1053&utm_source=git)** | Atlanta, GA, United States | Hybrid | Aug 13 |
 | **[National Education Association](http://www.nea.org)** | **[NEA Editorial Intern, Center for Communications (Fall 2026)](https://jobright.ai/jobs/info/6a7df8d9e51a1e18a240b431?utm_campaign=1053&utm_source=git)** | Washington, DC, United States | On Site | Aug 13 |
 | **[Milwaukee Bucks Inc.](http://bucks.com)** | **[Video Intern](https://jobright.ai/jobs/info/6a7e3e38ad9ff00c26baa5cd?utm_campaign=1053&utm_source=git)** | Milwaukee, WI, United States | On Site | Aug 13 |
 | **[Rodeo Austin](http://www.RodeoAustin.com)** | **[Livestock & Competitive Events Internship](https://jobright.ai/jobs/info/6a7def1f19ce4e6e9d9303ce?utm_campaign=1053&utm_source=git)** | Austin, TX, United States | On Site | Aug 13 |
@@ -144,5 +144,4 @@ For a complete list, click the following sortable link below:
 | **[Medical College of Wisconsin](http://www.mcw.edu/)** | **[Intern - Earned Media](https://jobright.ai/jobs/info/6a3d82514d047136e0933ed3?utm_campaign=1053&utm_source=git)** | Wauwatosa, WI | On Site | Aug 08 |
 | **[Deerfield Public Library](https://deerfieldlibrary.org)** | **[MakerSpace Intern](https://jobright.ai/jobs/info/6a75f27ba26ccc369f832ed6?utm_campaign=1053&utm_source=git)** | Deerfield, IL, United States | On Site | Aug 08 |
 | **[ArtsQuest](http://www.artsquest.org/)** | **[ARTS ADMIN & EDUCATION INTERN](https://jobright.ai/jobs/info/6a76d4b8b17cba569035f30e?utm_campaign=1053&utm_source=git)** | Bethlehem, PA, United States | On Site | Aug 08 |
-| **[Create Music Group](https://www.createmusicgroup.com/)** | **[A&R Research Intern - Hip-Hop](https://jobright.ai/jobs/info/6a473b238204a812e98cb5ba?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | Hybrid | Aug 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
