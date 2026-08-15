@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hearst Newspapers](https://eevd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_15)** | **[News Intern](https://jobright.ai/jobs/info/69b99aab3b74eb1e2c878132?utm_campaign=1053&utm_source=git)** | 1300 East Britton Road, Oklahoma City, OK, 73131, US | On Site | Aug 15 |
+| **[Orchestra](https://www.orchestraco.com)** | **[Emerging Talent Communications Internship – Video (Fall 2026)](https://jobright.ai/jobs/info/6a63a0b35c7e2d715ebad154?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Hybrid | Aug 15 |
 | **[Cox Media Group](http://www.coxmediagroup.com)** | **[Intern (Part-Time) - Long Island Radio Job Details / Cox Media Group](https://jobright.ai/jobs/info/6a7ff0cbb56bea5779c10489?utm_campaign=1053&utm_source=git)** | West Babylon, NY, United States | On Site | Aug 14 |
 | **[The University of Georgia](http://www.ai.uga.edu)** | **[Creative Video Intern](https://jobright.ai/jobs/info/6a7faf76b56bea5779c0e315?utm_campaign=1053&utm_source=git)** | Athens, GA, United States | On Site | Aug 14 |
 | **[Union Home Mortgage Corp.](https://www.uhm.com/)** | **[Video Content Intern](https://jobright.ai/jobs/info/6a7fa34bb56bea5779c0dc43?utm_campaign=1053&utm_source=git)** | Strongsville, OH, United States | On Site | Aug 14 |
@@ -89,7 +91,7 @@ For a complete list, click the following sortable link below:
 | **[Kentucky Farm Bureau Insurance](http://kyfb.com)** | **[Video Production intern](https://jobright.ai/jobs/info/6a7e0d8ce51a1e18a240bbd4?utm_campaign=1053&utm_source=git)** | Louisville, KY, United States | On Site | Aug 13 |
 | **[Warner Bros. Discovery](https://wbd.com)** | **[CNN Image+Sound Field Production Intern: DC - Fall 2026](https://jobright.ai/jobs/info/6a6194e8ab14335fc0f18b63?utm_campaign=1053&utm_source=git)** | Washington, DC, United States | Hybrid | Aug 13 |
 | **[National Education Association](http://www.nea.org)** | **[NEA Editorial Intern, Center for Communications (Fall 2026)](https://jobright.ai/jobs/info/6a7df8d9e51a1e18a240b431?utm_campaign=1053&utm_source=git)** | Washington, DC, United States | On Site | Aug 13 |
-| **[Milwaukee Bucks Inc.](http://bucks.com)** | **[Video Intern](https://jobright.ai/jobs/info/6a7e3e38ad9ff00c26baa5cd?utm_campaign=1053&utm_source=git)** | Milwaukee, WI, United States | On Site | Aug 13 |
+| **[Milwaukee Bucks Inc.](http://bucks.com)** | **[Video Intern](https://jobright.ai/jobs/info/6a7e34cdb56bea5779c0474e?utm_campaign=1053&utm_source=git)** | Milwaukee, WI, United States | On Site | Aug 13 |
 | **[Rodeo Austin](http://www.RodeoAustin.com)** | **[Livestock & Competitive Events Internship](https://jobright.ai/jobs/info/6a7def1f19ce4e6e9d9303ce?utm_campaign=1053&utm_source=git)** | Austin, TX, United States | On Site | Aug 13 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Intern - KOIN / KRCW - Portland, OR (Unpaid)](https://jobright.ai/jobs/info/6a526c03d007ee02d95f77ac?utm_campaign=1053&utm_source=git)** | OR, Portland, United States of America | On Site | Aug 13 |
 | ↳ | **[Paid News Producer Intern](https://jobright.ai/jobs/info/6a7dc082e2030208f2765d0c?utm_campaign=1053&utm_source=git)** | Indianapolis, IN, United States | On Site | Aug 13 |
@@ -143,5 +145,4 @@ For a complete list, click the following sortable link below:
 | **[Biasly](https://www.biasly.com/verify-your-email/?email=)** | **[Writing Internship](https://jobright.ai/jobs/info/6a780fcb7b3417772adeb427?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT, United States | Remote | Aug 08 |
 | **[Monumental Sports & Entertainment](http://www.monumentalsports.com/)** | **[Internship: Productions (Part-Time/Seasonal)](https://jobright.ai/jobs/info/6a68e68d05bae84301b59400?utm_campaign=1053&utm_source=git)** | Washington, DC, United States | On Site | Aug 08 |
 | **[The Aparecio Foundation](https://www.apareciofoundation.org)** | **[Copy Editor Intern/Volunteer](https://jobright.ai/jobs/info/6a77b43fb17cba5690360a8e?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Aug 08 |
-| **[C-SPAN](http://www.c-span.org)** | **[Internship - Spring 2025 (January - April)](https://jobright.ai/jobs/info/6a77c1c77b3417772adeacd3?utm_campaign=1053&utm_source=git)** | Washington, DC, United States | On Site | Aug 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
