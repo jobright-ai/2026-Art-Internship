@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cox Media Group](http://www.coxmediagroup.com)** | **[Intern (Part-Time) - Long Island Radio Job Details / Cox Media Group](https://jobright.ai/jobs/info/6a7ff0cbb56bea5779c10489?utm_campaign=1053&utm_source=git)** | West Babylon, NY, United States | On Site | Aug 14 |
 | **[The University of Georgia](http://www.ai.uga.edu)** | **[Creative Video Intern](https://jobright.ai/jobs/info/6a7faf76b56bea5779c0e315?utm_campaign=1053&utm_source=git)** | Athens, GA, United States | On Site | Aug 14 |
 | **[Union Home Mortgage Corp.](https://www.uhm.com/)** | **[Video Content Intern](https://jobright.ai/jobs/info/6a7fa34bb56bea5779c0dc43?utm_campaign=1053&utm_source=git)** | Strongsville, OH, United States | On Site | Aug 14 |
 | **[Annie Mac Home Mortgages](https://www.uhm.com/)** | **[Video Content Intern](https://jobright.ai/jobs/info/6a7f9a9ae51a1e18a241464b?utm_campaign=1053&utm_source=git)** | Strongsville, OH, United States | On Site | Aug 14 |
