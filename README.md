@@ -144,5 +144,4 @@ For a complete list, click the following sortable link below:
 | **[ASM Global](https://asmglobal.com/)** | **[Hospitality Intern - The Meadows Music Theater](https://jobright.ai/jobs/info/6a510fcabf63b66c79978842?utm_campaign=1053&utm_source=git)** | Hartford, CT, United States | On Site | Aug 09 |
 | **[Biasly](https://www.biasly.com/verify-your-email/?email=)** | **[Writing Internship](https://jobright.ai/jobs/info/6a780fcb7b3417772adeb427?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT, United States | Remote | Aug 08 |
 | **[Monumental Sports & Entertainment](http://www.monumentalsports.com/)** | **[Internship: Productions (Part-Time/Seasonal)](https://jobright.ai/jobs/info/6a68e68d05bae84301b59400?utm_campaign=1053&utm_source=git)** | Washington, DC, United States | On Site | Aug 08 |
-| **[The Aparecio Foundation](https://www.apareciofoundation.org)** | **[Copy Editor Intern/Volunteer](https://jobright.ai/jobs/info/6a77b43fb17cba5690360a8e?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Aug 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
