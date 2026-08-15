@@ -144,5 +144,4 @@ For a complete list, click the following sortable link below:
 | **[Monumental Sports & Entertainment](http://www.monumentalsports.com/)** | **[Internship: Productions (Part-Time/Seasonal)](https://jobright.ai/jobs/info/6a68e68d05bae84301b59400?utm_campaign=1053&utm_source=git)** | Washington, DC, United States | On Site | Aug 08 |
 | **[The Aparecio Foundation](https://www.apareciofoundation.org)** | **[Copy Editor Intern/Volunteer](https://jobright.ai/jobs/info/6a77b43fb17cba5690360a8e?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Aug 08 |
 | **[C-SPAN](http://www.c-span.org)** | **[Internship - Spring 2025 (January - April)](https://jobright.ai/jobs/info/6a77c1c77b3417772adeacd3?utm_campaign=1053&utm_source=git)** | Washington, DC, United States | On Site | Aug 08 |
-| **[Medical College of Wisconsin](http://www.mcw.edu/)** | **[Intern - Earned Media](https://jobright.ai/jobs/info/6a3d82514d047136e0933ed3?utm_campaign=1053&utm_source=git)** | Wauwatosa, WI | On Site | Aug 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
