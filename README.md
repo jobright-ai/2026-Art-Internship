@@ -58,7 +58,6 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Gift](https://www.shine.gift)** | **[UCLA Music Community Intern](https://jobright.ai/jobs/info/6a80d1ace2030208f27760c1?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | Remote | Aug 15 |
-| **[adyn](https://www.adyn.com/)** | **[DIGITAL STORYTELLING INTERN](https://jobright.ai/jobs/info/6a80bd3a19ce4e6e9d93fa9c?utm_campaign=1053&utm_source=git)** | Seattle, WA, United States | Remote | Aug 15 |
 | **[Hearst Newspapers](https://eevd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_15)** | **[News Intern](https://jobright.ai/jobs/info/69b99aab3b74eb1e2c878132?utm_campaign=1053&utm_source=git)** | 1300 East Britton Road, Oklahoma City, OK, 73131, US | On Site | Aug 15 |
 | **[Orchestra](https://www.orchestraco.com)** | **[Emerging Talent Communications Internship – Video (Fall 2026)](https://jobright.ai/jobs/info/6a63a0b35c7e2d715ebad154?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Hybrid | Aug 15 |
 | **[Cox Media Group](http://www.coxmediagroup.com)** | **[Intern (Part-Time) - Long Island Radio Job Details / Cox Media Group](https://jobright.ai/jobs/info/6a7ff0cbb56bea5779c10489?utm_campaign=1053&utm_source=git)** | West Babylon, NY, United States | On Site | Aug 14 |
@@ -141,7 +140,4 @@ For a complete list, click the following sortable link below:
 | **[Lewis & Clark College](https://www.lclark.edu)** | **[Narrative Medicine Internship: Chronic Pain Project Fall '26](https://jobright.ai/jobs/info/6a7aa7e4ab1385611f8ffdc1?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 09 |
 | **[Charlotte Checkers](http://gocheckers.com)** | **[Charlotte Checkers Game Operations Internship](https://jobright.ai/jobs/info/6a78e2e47b3417772adec217?utm_campaign=1053&utm_source=git)** | Charlotte, NC, United States | On Site | Aug 09 |
 | **[Monumental Sports & Entertainment](http://www.monumentalsports.com/)** | **[Internship: Fan Development (Part-Time/Seasonal)](https://jobright.ai/jobs/info/6a70b3f6cb96192a36844faa?utm_campaign=1053&utm_source=git)** | Washington, DC, United States | On Site | Aug 09 |
-| **[FDB (First Databank, Inc.)](http://fdbhealth.com)** | **[Fall News Intern](https://jobright.ai/jobs/info/69e61b3f3aa0c4796439220f?utm_campaign=1053&utm_source=git)** | Pittsburgh, PA, United States | On Site | Aug 09 |
-| **[Monumental Sports & Entertainment](http://www.monumentalsports.com/)** | **[Internship: Video Editor (Part-Time/Seasonal)](https://jobright.ai/jobs/info/6a6a303d0b42f866b61974a7?utm_campaign=1053&utm_source=git)** | Washington, DC, United States | On Site | Aug 09 |
-| **[ASM Global](https://asmglobal.com/)** | **[Hospitality Intern - The Meadows Music Theater](https://jobright.ai/jobs/info/6a510fcabf63b66c79978842?utm_campaign=1053&utm_source=git)** | Hartford, CT, United States | On Site | Aug 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
