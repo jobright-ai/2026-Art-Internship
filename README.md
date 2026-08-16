@@ -59,7 +59,6 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[RPNZL Beauty](www.rpnzlbeauty.com)** | **[Social Creator Internship](https://jobright.ai/jobs/info/6a82222eb56bea5779c1d214?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 16 |
 | **[Austin Fashion Week](http://www.fashionweekaustin.com)** | **[TikTok Content Creation Intern](https://jobright.ai/jobs/info/6a821150927c79391ad1aa1c?utm_campaign=1053&utm_source=git)** | Austin, TX, United States | Hybrid | Aug 16 |
-| **[99 Yards](https://99yards.app)** | **[New York Fashion Week Internship Program – September 2026](https://jobright.ai/jobs/info/6a820b3619ce4e6e9d946e79?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Aug 16 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Intern/News](https://jobright.ai/jobs/info/6a52fd288ef95364ead909bd?utm_campaign=1053&utm_source=git)** | Panama City, FL, United States | On Site | Aug 16 |
 | **[Andrews McMeel Universal](http://www.amuniversal.com/)** | **[Book Publishing Internship](https://jobright.ai/jobs/info/6a815cbc19ce4e6e9d943cd6?utm_campaign=1053&utm_source=git)** | Kansas City, MO, United States | On Site | Aug 15 |
 | **[Hearst Newspapers](https://eevd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_15)** | **[News Intern](https://jobright.ai/jobs/info/69b99aab3b74eb1e2c878132?utm_campaign=1053&utm_source=git)** | 1300 East Britton Road, Oklahoma City, OK, 73131, US | On Site | Aug 15 |
