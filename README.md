@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Noble Media Marketing](https://www.noblemediamarketing.com/)** | **[Photography & Videography Intern](https://jobright.ai/jobs/info/6a835d1e2dbaf907b076837d?utm_campaign=1053&utm_source=git)** | Canada | Remote | Aug 17 |
 | **[ejobs Finland](http://www.ejobs.fi/)** | **[Content Creator Intern](https://jobright.ai/jobs/info/6a833d551081a745e970deb9?utm_campaign=1053&utm_source=git)** | Miami, FL, United States | Hybrid | Aug 17 |
 | **[The Assembly DC](http://www.theassemblydc.com/)** | **[FALL INTERN: Event Production Intern](https://jobright.ai/jobs/info/6a833d449b859b227766d843?utm_campaign=1053&utm_source=git)** | Washington, DC, United States | On Site | Aug 17 |
 | **[Gift](https://www.shine.gift)** | **[Anime / Manga Intern](https://jobright.ai/jobs/info/6a8320139b859b227766c983?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | Remote | Aug 17 |
