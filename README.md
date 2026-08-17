@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Gift](https://www.shine.gift)** | **[Anime / Manga Intern](https://jobright.ai/jobs/info/6a8320139b859b227766c983?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | Remote | Aug 17 |
 | **[Trenton Ironhawks](trentonironhawks.com)** | **[Videographer Internship](https://jobright.ai/jobs/info/6a831d312dbaf907b0766679?utm_campaign=1053&utm_source=git)** | Trenton, NJ, United States | On Site | Aug 17 |
 | **[Salvi](https://www.salvimedia.com/)** | **[Editing Intern](https://jobright.ai/jobs/info/6a831bb29b859b227766c790?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | On Site | Aug 17 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid News Intern](https://jobright.ai/jobs/info/6972b01a9b83b424830eb8a4?utm_campaign=1053&utm_source=git)** | IN-Indianapolis;6910 Network Place (Tribune-WXIN/WTTV) | On Site | Aug 17 |
@@ -99,7 +100,7 @@ For a complete list, click the following sortable link below:
 | **[Kentucky Farm Bureau Insurance](http://kyfb.com)** | **[Video Production intern](https://jobright.ai/jobs/info/6a7e0d8ce51a1e18a240bbd4?utm_campaign=1053&utm_source=git)** | Louisville, KY, United States | On Site | Aug 13 |
 | **[Warner Bros. Discovery](https://wbd.com)** | **[CNN Image+Sound Field Production Intern: DC - Fall 2026](https://jobright.ai/jobs/info/6a6194e8ab14335fc0f18b63?utm_campaign=1053&utm_source=git)** | Washington, DC, United States | Hybrid | Aug 13 |
 | **[National Education Association](http://www.nea.org)** | **[NEA Editorial Intern, Center for Communications (Fall 2026)](https://jobright.ai/jobs/info/6a7df8d9e51a1e18a240b431?utm_campaign=1053&utm_source=git)** | Washington, DC, United States | On Site | Aug 13 |
-| **[Milwaukee Bucks Inc.](http://bucks.com)** | **[Video Intern](https://jobright.ai/jobs/info/6a7e34cdb56bea5779c0474e?utm_campaign=1053&utm_source=git)** | Milwaukee, WI, United States | On Site | Aug 13 |
+| **[Milwaukee Bucks Inc.](http://bucks.com)** | **[Video Intern](https://jobright.ai/jobs/info/6a7e3e38ad9ff00c26baa5cd?utm_campaign=1053&utm_source=git)** | Milwaukee, WI, United States | On Site | Aug 13 |
 | **[Rodeo Austin](http://www.RodeoAustin.com)** | **[Livestock & Competitive Events Internship](https://jobright.ai/jobs/info/6a7def1f19ce4e6e9d9303ce?utm_campaign=1053&utm_source=git)** | Austin, TX, United States | On Site | Aug 13 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Intern - KOIN / KRCW - Portland, OR (Unpaid)](https://jobright.ai/jobs/info/6a526c03d007ee02d95f77ac?utm_campaign=1053&utm_source=git)** | OR, Portland, United States of America | On Site | Aug 13 |
 | ↳ | **[Paid News Producer Intern](https://jobright.ai/jobs/info/6a7dc082e2030208f2765d0c?utm_campaign=1053&utm_source=git)** | Indianapolis, IN, United States | On Site | Aug 13 |
@@ -111,13 +112,13 @@ For a complete list, click the following sortable link below:
 | **[Michigan Medicine](https://www.uofmhealth.org)** | **[Stamelos Gallery Student Intern](https://jobright.ai/jobs/info/6a7cd3bba346cb6c8d5f046e?utm_campaign=1053&utm_source=git)** | Dearborn Campus | On Site | Aug 12 |
 | **[Bizcap US](https://newcocapitalgroup.com/)** | **[Small Business Media Intern (New York)](https://jobright.ai/jobs/info/6a7cc7dfdc3dff2d1c0c910c?utm_campaign=1053&utm_source=git)** | New York City, NY, United States | On Site | Aug 12 |
 | **[Phoenix Suns](https://suns.nba.com)** | **[Intern, Video Content](https://jobright.ai/jobs/info/6a7cb3af83621355407ab591?utm_campaign=1053&utm_source=git)** | Phoenix, AZ, United States | On Site | Aug 12 |
+| **[SCALIS](https://www.scalis.ai)** | **[Content Creator Intern](https://jobright.ai/jobs/info/6a7bfe147c52154b59f58f5c?utm_campaign=1053&utm_source=git)** | Miami, FL, United States | Hybrid | Aug 12 |
 | **[Axis Communications](http://www.axis.com/)** | **[Events Production Intern (Fall/Winter)](https://jobright.ai/jobs/info/6a5facf0f68dd368023e7fc1?utm_campaign=1053&utm_source=git)** | Chelmsford, MA, United States of America | On Site | Aug 12 |
 | **[Westminster University](https://westminsteru.edu)** | **[S/L Athletics Event Operations Intern](https://jobright.ai/jobs/info/6a7ccbb183621355407abec6?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT, United States | On Site | Aug 12 |
 | **[Mulbah](https://mulbahmedia.com/)** | **[Videographer Intern](https://jobright.ai/jobs/info/6a7c9484d77e8156a8e32ab7?utm_campaign=1053&utm_source=git)** | Washington, DC, United States | On Site | Aug 12 |
 | **[TikTok](https://www.tiktok.com)** | **[Creator LIVE Project Intern (TikTok Shop - US Operation) - 2026 Start](https://jobright.ai/jobs/info/6a5fe09333ef5c58b4000bf3?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | On Site | Aug 12 |
 | **[Ohio Wesleyan University](http://www.owu.edu/)** | **[Reporting & Writing Intern-SW](https://jobright.ai/jobs/info/6a7c97c57c52154b59f5ae52?utm_campaign=1053&utm_source=git)** | Delaware, OH, United States | On Site | Aug 12 |
 | **[Jam in the Van](https://jaminthevan.com/)** | **[Livestream Intern](https://jobright.ai/jobs/info/6a7c05a283621355407a8b75?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | On Site | Aug 11 |
-| **[SCALIS](https://www.scalis.ai)** | **[Content Creator Intern](https://jobright.ai/jobs/info/6a7bfe147c52154b59f58f5c?utm_campaign=1053&utm_source=git)** | Miami, FL, United States | Hybrid | Aug 11 |
 | **[Burlington Electric Department](https://www.burlingtonelectric.com/)** | **[Art from the Heart Intern](https://jobright.ai/jobs/info/6a7bbd96ecfd29770753ab5f?utm_campaign=1053&utm_source=git)** | Burlington, VT, United States | On Site | Aug 11 |
 | **[Mercer Engineering Research Center](https://www.merc-mercer.org/)** | **[Video Production Intern](https://jobright.ai/jobs/info/6a7ce092d77e8156a8e34c7e?utm_campaign=1053&utm_source=git)** | Macon, GA, United States | On Site | Aug 11 |
 | **[Kroenke Sports & Entertainment](https://www.ballarena.com)** | **[Intern, Nuggets Game Presentation](https://jobright.ai/jobs/info/6a7b8a163b399d106e4d7451?utm_campaign=1053&utm_source=git)** | Denver, CO, United States | On Site | Aug 11 |
@@ -131,5 +132,4 @@ For a complete list, click the following sortable link below:
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid News Intern](https://jobright.ai/jobs/info/69b1c6a4548f140066e79343?utm_campaign=1053&utm_source=git)** | Wichita, KS | On Site | Aug 11 |
 | **[Zapshot](https://zapshot.me)** | **[Party Host Intern (USC)](https://jobright.ai/jobs/info/6a7aba7767a1ad0bc53d4480?utm_campaign=1053&utm_source=git)** | Los Angeles metropolitan area, United States | On Site | Aug 10 |
 | **[Hasana, Inc.](http://shophasana.com)** | **[Volunteer/Intern: Film/Video Editor](https://jobright.ai/jobs/info/6a584c973330ca6f993c3e99?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | On Site | Aug 10 |
-| **[Columbus Crew](https://www.columbuscrew.com/)** | **[Scoreboard Operations Internship](https://jobright.ai/jobs/info/6a7a53a6b17cba5690366b71?utm_campaign=1053&utm_source=git)** | Columbus, OH, United States | On Site | Aug 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
