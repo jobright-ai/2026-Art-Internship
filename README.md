@@ -134,5 +134,4 @@ For a complete list, click the following sortable link below:
 | **[Coastal Carolina University](http://www.coastal.edu/)** | **[Multimedia Production Intern](https://jobright.ai/jobs/info/6a7a24e8ab1385611f8fd958?utm_campaign=1053&utm_source=git)** | Conway, SC, United States | On Site | Aug 10 |
 | **[National Basketball Association (NBA)](http://www.nba.com)** | **[Creative Ops Intern - Video](https://jobright.ai/jobs/info/6a79fa78a26ccc369f83bc15?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Aug 10 |
 | **[M Booth](http://www.mbooth.com)** | **[Fall/Winter Intern, Lifestyle](https://jobright.ai/jobs/info/6a79e0e9b17cba56903640f9?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Aug 10 |
-| **[Full Jam Music INC.](http://fulljam.com)** | **[Musicians creators (volunteer or internship)](https://jobright.ai/jobs/info/6a79d6e09ee17f276dbefb7c?utm_campaign=1053&utm_source=git)** | Canada | Remote | Aug 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
