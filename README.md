@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Rodeo Austin](http://www.RodeoAustin.com)** | **[Seasonal BBQ Austin Internship](https://jobright.ai/jobs/info/6a8492a9d34f700f87fb9801?utm_campaign=1053&utm_source=git)** | Austin, TX, United States | On Site | Aug 18 |
+| **[Red Velvet Studios](redvelvetstudio.com)** | **[Fall Music Internship (Los Angeles)](https://jobright.ai/jobs/info/6a849224e12474455273b274?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | On Site | Aug 18 |
 | **[Printed Word Reviews](https://www.printedwordreviews.com/magazine)** | **[Fall Intern - News](https://jobright.ai/jobs/info/6a848ddd2f4f0014cae215b6?utm_campaign=1053&utm_source=git)** | New Jersey, United States | Remote | Aug 18 |
 | **[Winters Rock](https://www.wintersrockentertainment.com)** | **[Intern for Winters Rock an award-winning production company](https://jobright.ai/jobs/info/6a848d817b33d72276256b57?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | On Site | Aug 18 |
 | **[SHOEMAKER FILMS](www.shoemakerfilms.com)** | **[Content Creator Internship](https://jobright.ai/jobs/info/6a847ec4e12474455273a9ff?utm_campaign=1053&utm_source=git)** | Wayne, PA, United States | Hybrid | Aug 18 |
@@ -73,12 +75,11 @@ For a complete list, click the following sortable link below:
 | **[BRIDGE SHOWROOM](http://www.bridgeshowroom.com)** | **[Fashion Intern at Coterie NYC](https://jobright.ai/jobs/info/6a836c8b379c304e892f71b8?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Aug 17 |
 | **[ejobs Finland](http://www.ejobs.fi/)** | **[Content Creator Intern](https://jobright.ai/jobs/info/6a833d551081a745e970deb9?utm_campaign=1053&utm_source=git)** | Miami, FL, United States | Hybrid | Aug 17 |
 | **[The Assembly DC](http://www.theassemblydc.com/)** | **[FALL INTERN: Event Production Intern](https://jobright.ai/jobs/info/6a833d449b859b227766d843?utm_campaign=1053&utm_source=git)** | Washington, DC, United States | On Site | Aug 17 |
-| **[Gift](https://www.shine.gift)** | **[Anime / Manga Intern](https://jobright.ai/jobs/info/6a8320139b859b227766c983?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | Remote | Aug 17 |
 | **[Trenton Ironhawks](trentonironhawks.com)** | **[Videographer Internship](https://jobright.ai/jobs/info/6a831d312dbaf907b0766679?utm_campaign=1053&utm_source=git)** | Trenton, NJ, United States | On Site | Aug 17 |
 | **[Salvi](https://www.salvimedia.com/)** | **[Editing Intern](https://jobright.ai/jobs/info/6a831bb29b859b227766c790?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | On Site | Aug 17 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid News Intern](https://jobright.ai/jobs/info/6972b01a9b83b424830eb8a4?utm_campaign=1053&utm_source=git)** | IN-Indianapolis;6910 Network Place (Tribune-WXIN/WTTV) | On Site | Aug 17 |
-| **[NoGood](https://nogood.io)** | **[Intern- Social Video Creator](https://jobright.ai/jobs/info/69d9a15b738f2f099e8a368e?utm_campaign=1053&utm_source=git)** | New York, New York, United States | Hybrid | Aug 17 |
-| ↳ | **[Intern- Social Video Creator](https://jobright.ai/jobs/info/6a605172193c4d692385dc82?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Hybrid | Aug 17 |
+| **[NoGood](https://nogood.io)** | **[Intern- Social Video Creator](https://jobright.ai/jobs/info/6a605172193c4d692385dc82?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Hybrid | Aug 17 |
+| ↳ | **[Intern- Social Video Creator](https://jobright.ai/jobs/info/69d9a15b738f2f099e8a368e?utm_campaign=1053&utm_source=git)** | New York, New York, United States | Hybrid | Aug 17 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Intern/News](https://jobright.ai/jobs/info/6a52fd288ef95364ead909bd?utm_campaign=1053&utm_source=git)** | Panama City, FL, United States | On Site | Aug 16 |
 | **[Andrews McMeel Universal](http://www.amuniversal.com/)** | **[Book Publishing Internship](https://jobright.ai/jobs/info/6a815cbc19ce4e6e9d943cd6?utm_campaign=1053&utm_source=git)** | Kansas City, MO, United States | On Site | Aug 15 |
 | **[Hearst Newspapers](https://eevd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_15)** | **[News Intern](https://jobright.ai/jobs/info/69b99aab3b74eb1e2c878132?utm_campaign=1053&utm_source=git)** | 1300 East Britton Road, Oklahoma City, OK, 73131, US | On Site | Aug 15 |
@@ -131,5 +132,4 @@ For a complete list, click the following sortable link below:
 | **[Mulbah](https://mulbahmedia.com/)** | **[Videographer Intern](https://jobright.ai/jobs/info/6a7c9484d77e8156a8e32ab7?utm_campaign=1053&utm_source=git)** | Washington, DC, United States | On Site | Aug 12 |
 | **[Ohio Wesleyan University](http://www.owu.edu/)** | **[Reporting & Writing Intern-SW](https://jobright.ai/jobs/info/6a7c97c57c52154b59f5ae52?utm_campaign=1053&utm_source=git)** | Delaware, OH, United States | On Site | Aug 12 |
 | **[Jam in the Van](https://jaminthevan.com/)** | **[Livestream Intern](https://jobright.ai/jobs/info/6a7c05a283621355407a8b75?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | On Site | Aug 11 |
-| **[Burlington Electric Department](https://www.burlingtonelectric.com/)** | **[Art from the Heart Intern](https://jobright.ai/jobs/info/6a7bbd96ecfd29770753ab5f?utm_campaign=1053&utm_source=git)** | Burlington, VT, United States | On Site | Aug 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
