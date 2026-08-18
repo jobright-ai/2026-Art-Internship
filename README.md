@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TriCoast Worldwide](http://www.tricoastworldwide.com)** | **[Post Production Internship](https://jobright.ai/jobs/info/6a83989f379c304e892f85e7?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | On Site | Aug 17 |
+| **[Kentucky Farm Bureau Insurance](http://kyfb.com)** | **[Video Production intern](https://jobright.ai/jobs/info/6a7e0d8ce51a1e18a240bbd4?utm_campaign=1053&utm_source=git)** | Louisville, KY, United States | On Site | Aug 17 |
 | **[Noble Media Marketing](https://www.noblemediamarketing.com/)** | **[Photography & Videography Intern](https://jobright.ai/jobs/info/6a835d1e2dbaf907b076837d?utm_campaign=1053&utm_source=git)** | Canada | Remote | Aug 17 |
 | **[BRIDGE SHOWROOM](http://www.bridgeshowroom.com)** | **[Fashion Intern at Coterie NYC](https://jobright.ai/jobs/info/6a836c8b379c304e892f71b8?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Aug 17 |
 | **[ejobs Finland](http://www.ejobs.fi/)** | **[Content Creator Intern](https://jobright.ai/jobs/info/6a833d551081a745e970deb9?utm_campaign=1053&utm_source=git)** | Miami, FL, United States | Hybrid | Aug 17 |
@@ -99,7 +101,6 @@ For a complete list, click the following sortable link below:
 | **[Los Angeles County Museum of Art (LACMA)](http://www.lacma.org/)** | **[Intern - Paid](https://jobright.ai/jobs/info/6a7fa7bdb56bea5779c0de5f?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | Hybrid | Aug 13 |
 | **[Buds & Pals](budsandpals.com)** | **[Video Editing & Post-Production Intern](https://jobright.ai/jobs/info/6a7e0fe819ce4e6e9d9310db?utm_campaign=1053&utm_source=git)** | Cleveland, OH, United States | On Site | Aug 13 |
 | **[Back Roads Entertainment](https://backroadsentertainment.com)** | **[Post Production Intern](https://jobright.ai/jobs/info/6a7e0e4519ce4e6e9d930fe9?utm_campaign=1053&utm_source=git)** | Austin, TX, United States | On Site | Aug 13 |
-| **[Kentucky Farm Bureau Insurance](http://kyfb.com)** | **[Video Production intern](https://jobright.ai/jobs/info/6a7e0d8ce51a1e18a240bbd4?utm_campaign=1053&utm_source=git)** | Louisville, KY, United States | On Site | Aug 13 |
 | **[Warner Bros. Discovery](https://wbd.com)** | **[CNN Image+Sound Field Production Intern: DC - Fall 2026](https://jobright.ai/jobs/info/6a6194e8ab14335fc0f18b63?utm_campaign=1053&utm_source=git)** | Washington, DC, United States | Hybrid | Aug 13 |
 | **[National Education Association](http://www.nea.org)** | **[NEA Editorial Intern, Center for Communications (Fall 2026)](https://jobright.ai/jobs/info/6a7df8d9e51a1e18a240b431?utm_campaign=1053&utm_source=git)** | Washington, DC, United States | On Site | Aug 13 |
 | **[Milwaukee Bucks Inc.](http://bucks.com)** | **[Video Intern](https://jobright.ai/jobs/info/6a7e3e38ad9ff00c26baa5cd?utm_campaign=1053&utm_source=git)** | Milwaukee, WI, United States | On Site | Aug 13 |
