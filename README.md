@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[adyn](https://www.adyn.com/)** | **[DIGITAL STORYTELLING INTERN](https://jobright.ai/jobs/info/6a83e70fc72fae4bcc8d6325?utm_campaign=1053&utm_source=git)** | Seattle, WA, United States | Remote | Aug 17 |
 | **[Keysha.ai](https://keysha.ai/)** | **[Podcast Producer & Marketing Intern](https://jobright.ai/jobs/info/6a83d3b31081a745e9711268?utm_campaign=1053&utm_source=git)** | Dallas, TX, United States | Remote | Aug 17 |
 | **[TriCoast Worldwide](http://www.tricoastworldwide.com)** | **[Post Production Internship](https://jobright.ai/jobs/info/6a83989f379c304e892f85e7?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | On Site | Aug 17 |
 | **[Kentucky Farm Bureau Insurance](http://kyfb.com)** | **[Video Production intern](https://jobright.ai/jobs/info/6a7e0d8ce51a1e18a240bbd4?utm_campaign=1053&utm_source=git)** | Louisville, KY, United States | On Site | Aug 17 |
