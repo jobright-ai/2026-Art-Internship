@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Keysha.ai](https://keysha.ai/)** | **[Podcast Producer & Marketing Intern](https://jobright.ai/jobs/info/6a83d3b31081a745e9711268?utm_campaign=1053&utm_source=git)** | Dallas, TX, United States | Remote | Aug 17 |
 | **[TriCoast Worldwide](http://www.tricoastworldwide.com)** | **[Post Production Internship](https://jobright.ai/jobs/info/6a83989f379c304e892f85e7?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | On Site | Aug 17 |
 | **[Kentucky Farm Bureau Insurance](http://kyfb.com)** | **[Video Production intern](https://jobright.ai/jobs/info/6a7e0d8ce51a1e18a240bbd4?utm_campaign=1053&utm_source=git)** | Louisville, KY, United States | On Site | Aug 17 |
 | **[Noble Media Marketing](https://www.noblemediamarketing.com/)** | **[Photography & Videography Intern](https://jobright.ai/jobs/info/6a835d1e2dbaf907b076837d?utm_campaign=1053&utm_source=git)** | Canada | Remote | Aug 17 |
@@ -103,7 +104,7 @@ For a complete list, click the following sortable link below:
 | **[Back Roads Entertainment](https://backroadsentertainment.com)** | **[Post Production Intern](https://jobright.ai/jobs/info/6a7e0e4519ce4e6e9d930fe9?utm_campaign=1053&utm_source=git)** | Austin, TX, United States | On Site | Aug 13 |
 | **[Warner Bros. Discovery](https://wbd.com)** | **[CNN Image+Sound Field Production Intern: DC - Fall 2026](https://jobright.ai/jobs/info/6a6194e8ab14335fc0f18b63?utm_campaign=1053&utm_source=git)** | Washington, DC, United States | Hybrid | Aug 13 |
 | **[National Education Association](http://www.nea.org)** | **[NEA Editorial Intern, Center for Communications (Fall 2026)](https://jobright.ai/jobs/info/6a7df8d9e51a1e18a240b431?utm_campaign=1053&utm_source=git)** | Washington, DC, United States | On Site | Aug 13 |
-| **[Milwaukee Bucks Inc.](http://bucks.com)** | **[Video Intern](https://jobright.ai/jobs/info/6a7e3e38ad9ff00c26baa5cd?utm_campaign=1053&utm_source=git)** | Milwaukee, WI, United States | On Site | Aug 13 |
+| **[Milwaukee Bucks Inc.](http://bucks.com)** | **[Video Intern](https://jobright.ai/jobs/info/6a7e34cdb56bea5779c0474e?utm_campaign=1053&utm_source=git)** | Milwaukee, WI, United States | On Site | Aug 13 |
 | **[Rodeo Austin](http://www.RodeoAustin.com)** | **[Livestock & Competitive Events Internship](https://jobright.ai/jobs/info/6a7def1f19ce4e6e9d9303ce?utm_campaign=1053&utm_source=git)** | Austin, TX, United States | On Site | Aug 13 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Intern - KOIN / KRCW - Portland, OR (Unpaid)](https://jobright.ai/jobs/info/6a526c03d007ee02d95f77ac?utm_campaign=1053&utm_source=git)** | OR, Portland, United States of America | On Site | Aug 13 |
 | ↳ | **[Paid News Producer Intern](https://jobright.ai/jobs/info/6a7dc082e2030208f2765d0c?utm_campaign=1053&utm_source=git)** | Indianapolis, IN, United States | On Site | Aug 13 |
@@ -132,5 +133,4 @@ For a complete list, click the following sortable link below:
 | **[Acadium](http://www.acadium.com)** | **[Video Content Creation Intern](https://jobright.ai/jobs/info/6a7b74913b399d106e4d68f4?utm_campaign=1053&utm_source=git)** | Ontario, Canada | Remote | Aug 11 |
 | ↳ | **[Video Editing Intern](https://jobright.ai/jobs/info/6a7b39b0ecfd297707537945?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 11 |
 | **[PACE (Police Athletics for Community Engagement)](http://paceomaha.org)** | **[Sports Management Intern - Fall Sports](https://jobright.ai/jobs/info/6a7b7b27ecf5194164fbe52a?utm_campaign=1053&utm_source=git)** | Omaha, NE, United States | On Site | Aug 11 |
-| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid News Intern](https://jobright.ai/jobs/info/69b1c6a4548f140066e79343?utm_campaign=1053&utm_source=git)** | Wichita, KS | On Site | Aug 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
