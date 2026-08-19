@@ -57,8 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Comcast](https://corporate.comcast.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/6a84a509e12474455273b972?utm_campaign=1053&utm_source=git)** | Philadelphia, PA, United States | On Site | Aug 19 |
 | **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/)** | **[FamilySearch Production and Events Intern (6 Month)](https://jobright.ai/jobs/info/6a850e7f2f4f0014cae23e26?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT, United States | Hybrid | Aug 18 |
 | **[Spirit Music](http://www.spiritmusicgroup.com/)** | **[Publishing / Studio Intern](https://jobright.ai/jobs/info/6a850d2fe12474455273d7f2?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | Hybrid | Aug 18 |
+| **[Social View Agency](https://www.socialviewagency.com/)** | **[Content Creator Internship](https://jobright.ai/jobs/info/6a856de7c1a3fd7120f750a4?utm_campaign=1053&utm_source=git)** | Los Angeles metropolitan area, United States | On Site | Aug 18 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[FamilySearch Production and Events Intern (6 Month)](https://jobright.ai/jobs/info/6a84fcb3e12474455273d51a?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT, United States | Hybrid | Aug 18 |
 | **[The Aparecio Foundation](https://www.apareciofoundation.org)** | **[Copy Editor Intern/Volunteer](https://jobright.ai/jobs/info/6a84f37458ded76ad8fea1f2?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | On Site | Aug 18 |
 | **[One Impression](https://www.oneimpression.io)** | **[Content & Community Intern (Remote)](https://jobright.ai/jobs/info/6a846b072f4f0014cae20515?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 18 |
@@ -82,7 +84,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Agency Ops Project Intern (TikTok Local Services) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a5076339469c06620351013?utm_campaign=1053&utm_source=git)** | Los Angeles, United States | On Site | Aug 18 |
 | **[Keysha.ai](https://keysha.ai/)** | **[Podcast Producer & Marketing Intern](https://jobright.ai/jobs/info/6a83d3b31081a745e9711268?utm_campaign=1053&utm_source=git)** | Dallas, TX, United States | Remote | Aug 17 |
 | **[ForTheYouth](https://www.fortheyouth.us)** | **[Music Content Creator Intern](https://jobright.ai/jobs/info/6a842c8de459fa3baa85d2be?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | On Site | Aug 17 |
-| **[Comcast](https://corporate.comcast.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/6a84a509e12474455273b972?utm_campaign=1053&utm_source=git)** | Philadelphia, PA, United States | On Site | Aug 17 |
 | **[Noble Media Marketing](https://www.noblemediamarketing.com/)** | **[Photography & Videography Intern](https://jobright.ai/jobs/info/6a835d1e2dbaf907b076837d?utm_campaign=1053&utm_source=git)** | Canada | Remote | Aug 17 |
 | **[BRIDGE SHOWROOM](http://www.bridgeshowroom.com)** | **[Fashion Intern at Coterie NYC](https://jobright.ai/jobs/info/6a836c8b379c304e892f71b8?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Aug 17 |
 | **[ejobs Finland](http://www.ejobs.fi/)** | **[Content Creator Intern](https://jobright.ai/jobs/info/6a833d551081a745e970deb9?utm_campaign=1053&utm_source=git)** | Miami, FL, United States | Hybrid | Aug 17 |
@@ -101,7 +102,6 @@ For a complete list, click the following sortable link below:
 | **[Union Home Mortgage Corp.](https://www.uhm.com/)** | **[Video Content Intern](https://jobright.ai/jobs/info/6a7fa34bb56bea5779c0dc43?utm_campaign=1053&utm_source=git)** | Strongsville, OH, United States | On Site | Aug 14 |
 | **[Annie Mac Home Mortgages](https://www.uhm.com/)** | **[Video Content Intern](https://jobright.ai/jobs/info/6a7f9a9ae51a1e18a241464b?utm_campaign=1053&utm_source=git)** | Strongsville, OH, United States | On Site | Aug 14 |
 | **[Toys4Two](https://www.linkedin.com/company/111814056)** | **[Video Production Intern](https://jobright.ai/jobs/info/6a7f941bb56bea5779c0cff4?utm_campaign=1053&utm_source=git)** | Edmonton, AB, Canada | On Site | Aug 14 |
-| **[University of Michigan](https://www.umich.edu)** | **[Stamelos Gallery Student Intern](https://jobright.ai/jobs/info/6a7cd309dc3dff2d1c0c944e?utm_campaign=1053&utm_source=git)** | Dearborn, MI, United States | On Site | Aug 14 |
 | **[New York Post](http://nypost.com/)** | **[Page Six Column Intern, Fall 2026 (10 weeks, 24 hours a week)](https://jobright.ai/jobs/info/6a7f4af9e51a1e18a24116b8?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Aug 14 |
 | **[Syracuse Crunch](https://syracusecrunch.com/)** | **[VIDEOGRAPHY INTERN](https://jobright.ai/jobs/info/6a7f7621e2030208f276e4d3?utm_campaign=1053&utm_source=git)** | Springfield, MA, United States | On Site | Aug 14 |
 | ↳ | **[COMMUNITY & FAN ENGAGEMENT INTERN FALL 2026](https://jobright.ai/jobs/info/6a7f7608e2030208f276e4c7?utm_campaign=1053&utm_source=git)** | Worcester, MA, United States | On Site | Aug 14 |
