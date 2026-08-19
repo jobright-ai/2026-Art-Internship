@@ -57,9 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/)** | **[FamilySearch Production and Events Intern (6 Month)](https://jobright.ai/jobs/info/6a850e7f2f4f0014cae23e26?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT, United States | Hybrid | Aug 18 |
+| **[Spirit Music](http://www.spiritmusicgroup.com/)** | **[Publishing / Studio Intern](https://jobright.ai/jobs/info/6a850d2fe12474455273d7f2?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | Hybrid | Aug 18 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[FamilySearch Production and Events Intern (6 Month)](https://jobright.ai/jobs/info/6a84fcb3e12474455273d51a?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT, United States | Hybrid | Aug 18 |
 | **[The Aparecio Foundation](https://www.apareciofoundation.org)** | **[Copy Editor Intern/Volunteer](https://jobright.ai/jobs/info/6a84f37458ded76ad8fea1f2?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | On Site | Aug 18 |
 | **[One Impression](https://www.oneimpression.io)** | **[Content & Community Intern (Remote)](https://jobright.ai/jobs/info/6a846b072f4f0014cae20515?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 18 |
+| **[ElectraCast Media](http://www.electracast.com)** | **[Intern Social Video Editor for Podcast Company](https://jobright.ai/jobs/info/6a85111ac1a3fd7120f7465d?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 18 |
 | **[Cornerstone Agency](http://www.cornerstoneagency.com)** | **[Editorial Intern (Writing/Social) - Fall 2026](https://jobright.ai/jobs/info/6a84c5ed2f4f0014cae22d9e?utm_campaign=1053&utm_source=git)** | Brooklyn, NY, United States | On Site | Aug 18 |
 | **[Columbus Crew](https://www.columbuscrew.com/)** | **[Scoreboard Operations Intern](https://jobright.ai/jobs/info/6a84c31d2f4f0014cae22bdd?utm_campaign=1053&utm_source=git)** | Columbus, OH, United States | On Site | Aug 18 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Digital Archives Internship (Part-Time)](https://jobright.ai/jobs/info/6a84c2397b33d72276258119?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT, United States | On Site | Aug 18 |
@@ -88,8 +91,8 @@ For a complete list, click the following sortable link below:
 | **[Trenton Ironhawks](trentonironhawks.com)** | **[Videographer Internship](https://jobright.ai/jobs/info/6a831d312dbaf907b0766679?utm_campaign=1053&utm_source=git)** | Trenton, NJ, United States | On Site | Aug 17 |
 | **[Salvi](https://www.salvimedia.com/)** | **[Editing Intern](https://jobright.ai/jobs/info/6a831bb29b859b227766c790?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | On Site | Aug 17 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid News Intern](https://jobright.ai/jobs/info/6972b01a9b83b424830eb8a4?utm_campaign=1053&utm_source=git)** | IN-Indianapolis;6910 Network Place (Tribune-WXIN/WTTV) | On Site | Aug 17 |
-| **[NoGood](https://nogood.io)** | **[Intern- Social Video Creator](https://jobright.ai/jobs/info/69d9a15b738f2f099e8a368e?utm_campaign=1053&utm_source=git)** | New York, New York, United States | Hybrid | Aug 17 |
-| ↳ | **[Intern- Social Video Creator](https://jobright.ai/jobs/info/6a605172193c4d692385dc82?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Hybrid | Aug 17 |
+| **[NoGood](https://nogood.io)** | **[Intern- Social Video Creator](https://jobright.ai/jobs/info/6a605172193c4d692385dc82?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Hybrid | Aug 17 |
+| ↳ | **[Intern- Social Video Creator](https://jobright.ai/jobs/info/69d9a15b738f2f099e8a368e?utm_campaign=1053&utm_source=git)** | New York, New York, United States | Hybrid | Aug 17 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Intern/News](https://jobright.ai/jobs/info/6a52fd288ef95364ead909bd?utm_campaign=1053&utm_source=git)** | Panama City, FL, United States | On Site | Aug 16 |
 | **[Andrews McMeel Universal](http://www.amuniversal.com/)** | **[Book Publishing Internship](https://jobright.ai/jobs/info/6a815cbc19ce4e6e9d943cd6?utm_campaign=1053&utm_source=git)** | Kansas City, MO, United States | On Site | Aug 15 |
 | **[Hearst Newspapers](https://eevd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_15)** | **[News Intern](https://jobright.ai/jobs/info/69b99aab3b74eb1e2c878132?utm_campaign=1053&utm_source=git)** | 1300 East Britton Road, Oklahoma City, OK, 73131, US | On Site | Aug 15 |
@@ -139,5 +142,4 @@ For a complete list, click the following sortable link below:
 | **[Axis Communications](http://www.axis.com/)** | **[Events Production Intern (Fall/Winter)](https://jobright.ai/jobs/info/6a5facf0f68dd368023e7fc1?utm_campaign=1053&utm_source=git)** | Chelmsford, MA, United States of America | On Site | Aug 12 |
 | **[Westminster University](https://westminsteru.edu)** | **[S/L Athletics Event Operations Intern](https://jobright.ai/jobs/info/6a7ccbb183621355407abec6?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT, United States | On Site | Aug 12 |
 | **[Mulbah](https://mulbahmedia.com/)** | **[Videographer Intern](https://jobright.ai/jobs/info/6a7c9484d77e8156a8e32ab7?utm_campaign=1053&utm_source=git)** | Washington, DC, United States | On Site | Aug 12 |
-| **[Ohio Wesleyan University](http://www.owu.edu/)** | **[Reporting & Writing Intern-SW](https://jobright.ai/jobs/info/6a7c97c57c52154b59f5ae52?utm_campaign=1053&utm_source=git)** | Delaware, OH, United States | On Site | Aug 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
