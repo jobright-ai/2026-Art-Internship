@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[AdaMarie](https://weareadamarie.com)** | **[Video Production and Social Media Intern (Spring 2027)](https://jobright.ai/jobs/info/6a87161c4afae74a0834687f?utm_campaign=1053&utm_source=git)** | South San Francisco, CA, United States | On Site | Aug 20 |
+| **[The Vine Global Impact](https://www.thevine.earth)** | **[VIDEO, AI CONTENT INTERN](https://jobright.ai/jobs/info/6a8715f34afae74a08346870?utm_campaign=1053&utm_source=git)** | Miami, FL, United States | Remote | Aug 20 |
+| **[New York Post](http://nypost.com/)** | **[YouTube Intern, Fall 2026 (10 weeks, 24 hours a week)](https://jobright.ai/jobs/info/6a5fc7daf68dd368023e8a48?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Aug 20 |
+| ↳ | **[Page Six Video Intern, Fall 2026 (10 weeks, 24 hours a week)](https://jobright.ai/jobs/info/6a5fbc4b33ef5c58b4fffc1e?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Aug 20 |
 | **[The San Francisco Standard](https://sfstandard.com)** | **[Editorial Intern, Charter](https://jobright.ai/jobs/info/6a87102325fc4e7ae3dab035?utm_campaign=1053&utm_source=git)** | San Francisco, CA, United States | Remote | Aug 20 |
 | **[Buffalo Sabres](http://sabres.com)** | **[Broadcast Intern](https://jobright.ai/jobs/info/6a870ea7cde3717f9e9afdd0?utm_campaign=1053&utm_source=git)** | Buffalo, NY, United States | On Site | Aug 20 |
 | **[Hasana, Inc.](http://shophasana.com)** | **[Film & Video Internship](https://jobright.ai/jobs/info/6a5997544da96a42cfd91dd0?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | On Site | Aug 20 |
@@ -86,7 +90,6 @@ For a complete list, click the following sortable link below:
 | **[Charlotte Checkers](http://gocheckers.com)** | **[Charlotte Checkers Videography Internship 2026-2027 Season](https://jobright.ai/jobs/info/6a84b1977b33d72276257961?utm_campaign=1053&utm_source=git)** | Charlotte, NC, United States | On Site | Aug 18 |
 | **[Fifth & Cor](https://www.fifthandcor.com)** | **[Social Meda Intern](https://jobright.ai/jobs/info/6a84c36dd34f700f87fbac9f?utm_campaign=1053&utm_source=git)** | Miami, Florida, United States | Hybrid | Aug 18 |
 | **[Rodeo Austin](http://www.RodeoAustin.com)** | **[Seasonal BBQ Austin Internship](https://jobright.ai/jobs/info/6a8492a9d34f700f87fb9801?utm_campaign=1053&utm_source=git)** | Austin, TX, United States | On Site | Aug 18 |
-| **[Gift](https://www.shine.gift)** | **[College Music Intern](https://jobright.ai/jobs/info/6a84ca5fe459fa3baa860dad?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | Remote | Aug 18 |
 | **[Walton Arts Center and Walmart AMP](http://waltonartscenter.org)** | **[Events-Hospitality Internship](https://jobright.ai/jobs/info/6a84cacfd34f700f87fbb19a?utm_campaign=1053&utm_source=git)** | Fayetteville, NC, United States | On Site | Aug 18 |
 | **[Los Angeles County Museum of Art (LACMA)](http://www.lacma.org/)** | **[Intern - Paid](https://jobright.ai/jobs/info/6a85e7fcd34f700f87fbf04e?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | Hybrid | Aug 18 |
 | **[The Aparecio Foundation](https://www.apareciofoundation.org)** | **[Volunteer Journalist](https://jobright.ai/jobs/info/6a842b0ee12474455273914e?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Aug 18 |
