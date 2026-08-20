@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[rag & bone](http://www.rag-bone.com)** | **[Fall 2026 Intern - Footwear/Accessories Production](https://jobright.ai/jobs/info/6a87528ccde3717f9e9b1723?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Aug 20 |
 | **[Vaccine Vets](https://vaccinevets.com/)** | **[Content Creator Intern](https://jobright.ai/jobs/info/6a874a7f680f314a29d38029?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | On Site | Aug 20 |
 | **[SchoolSpring](http://www.schoolspring.com)** | **[BHS Student Sports Media Intern](https://jobright.ai/jobs/info/6a874a11cde3717f9e9b1400?utm_campaign=1053&utm_source=git)** | Bardstown, KY, United States | On Site | Aug 20 |
 | **[Samantha Siu New York](https://www.samanthasiu.com)** | **[Media Video Editor Intern](https://jobright.ai/jobs/info/6a873086680f314a29d37715?utm_campaign=1053&utm_source=git)** | New York City metropolitan area, United States | Hybrid | Aug 20 |
