@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SchoolSpring](http://www.schoolspring.com)** | **[EHS Student Worker: Multimedia Production Intern](https://jobright.ai/jobs/info/6a86d8eccc81eb647e9f3823?utm_campaign=1053&utm_source=git)** | Estacada, OR, United States | On Site | Aug 20 |
 | **[Zipline](https://www.zipline.com/)** | **[Video Production and Social Media Intern (Spring 2027)](https://jobright.ai/jobs/info/6a85d6d7e459fa3baa864167?utm_campaign=1053&utm_source=git)** | South San Francisco, CA, United States | On Site | Aug 19 |
 | **[Ideastream Public Media](http://www.ideastream.org)** | **[The Ohio Channel Intern](https://jobright.ai/jobs/info/6a861833e459fa3baa865fbe?utm_campaign=1053&utm_source=git)** | Columbus, OH, United States | On Site | Aug 19 |
 | **[Syracuse Crunch](https://syracusecrunch.com/)** | **[VIDEO PRODUCTION INTERNSHIP](https://jobright.ai/jobs/info/6a860f15d34f700f87fbff60?utm_campaign=1053&utm_source=git)** | Syracuse, NY, United States | On Site | Aug 19 |
@@ -92,8 +93,8 @@ For a complete list, click the following sortable link below:
 | **[Trenton Ironhawks](trentonironhawks.com)** | **[Videographer Internship](https://jobright.ai/jobs/info/6a831d312dbaf907b0766679?utm_campaign=1053&utm_source=git)** | Trenton, NJ, United States | On Site | Aug 17 |
 | **[Salvi](https://www.salvimedia.com/)** | **[Editing Intern](https://jobright.ai/jobs/info/6a831bb29b859b227766c790?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | On Site | Aug 17 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid News Intern](https://jobright.ai/jobs/info/6972b01a9b83b424830eb8a4?utm_campaign=1053&utm_source=git)** | IN-Indianapolis;6910 Network Place (Tribune-WXIN/WTTV) | On Site | Aug 17 |
-| **[NoGood](https://nogood.io)** | **[Intern- Social Video Creator](https://jobright.ai/jobs/info/6a605172193c4d692385dc82?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Hybrid | Aug 17 |
-| ↳ | **[Intern- Social Video Creator](https://jobright.ai/jobs/info/69d9a15b738f2f099e8a368e?utm_campaign=1053&utm_source=git)** | New York, New York, United States | Hybrid | Aug 17 |
+| **[NoGood](https://nogood.io)** | **[Intern- Social Video Creator](https://jobright.ai/jobs/info/69d9a15b738f2f099e8a368e?utm_campaign=1053&utm_source=git)** | New York, New York, United States | Hybrid | Aug 17 |
+| ↳ | **[Intern- Social Video Creator](https://jobright.ai/jobs/info/6a605172193c4d692385dc82?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Hybrid | Aug 17 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Intern/News](https://jobright.ai/jobs/info/6a52fd288ef95364ead909bd?utm_campaign=1053&utm_source=git)** | Panama City, FL, United States | On Site | Aug 16 |
 | **[Andrews McMeel Universal](http://www.amuniversal.com/)** | **[Book Publishing Internship](https://jobright.ai/jobs/info/6a815cbc19ce4e6e9d943cd6?utm_campaign=1053&utm_source=git)** | Kansas City, MO, United States | On Site | Aug 15 |
 | **[Hearst Newspapers](https://eevd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_15)** | **[News Intern](https://jobright.ai/jobs/info/69b99aab3b74eb1e2c878132?utm_campaign=1053&utm_source=git)** | 1300 East Britton Road, Oklahoma City, OK, 73131, US | On Site | Aug 15 |
