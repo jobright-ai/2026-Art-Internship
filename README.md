@@ -120,7 +120,4 @@ For a complete list, click the following sortable link below:
 | **[Nationwide Children's Hospital](http://www.nationwidechildrens.org)** | **[Content Intern](https://jobright.ai/jobs/info/6a7e2f73b56bea5779c044f6?utm_campaign=1053&utm_source=git)** | Columbus, OH, United States | On Site | Aug 13 |
 | **[Golden Hippo®](http://goldenhippomedia.com)** | **[Video Editor - Youtube Intern (Bilingual)](https://jobright.ai/jobs/info/6a6145a5d51f6101c8fbac41?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 13 |
 | ↳ | **[Testimonial Video Editor Intern](https://jobright.ai/jobs/info/6a5542ab4119652ff386468e?utm_campaign=1053&utm_source=git)** | Woodland Hills, CA, United States | On Site | Aug 13 |
-| **[Coolfire Studios](http://coolfire.com/)** | **[Production and Post Production Intern](https://jobright.ai/jobs/info/6a7e198c19ce4e6e9d931617?utm_campaign=1053&utm_source=git)** | St. Louis, MO, United States | On Site | Aug 13 |
-| **[Los Angeles County Museum of Art (LACMA)](http://www.lacma.org/)** | **[Intern - Paid](https://jobright.ai/jobs/info/6a7fa7bdb56bea5779c0de5f?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | Hybrid | Aug 13 |
-| **[Buds & Pals](budsandpals.com)** | **[Video Editing & Post-Production Intern](https://jobright.ai/jobs/info/6a7e0fe819ce4e6e9d9310db?utm_campaign=1053&utm_source=git)** | Cleveland, OH, United States | On Site | Aug 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
