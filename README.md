@@ -126,5 +126,4 @@ For a complete list, click the following sortable link below:
 | **[Warner Bros. Discovery](https://wbd.com)** | **[CNN Image+Sound Field Production Intern: DC - Fall 2026](https://jobright.ai/jobs/info/6a6194e8ab14335fc0f18b63?utm_campaign=1053&utm_source=git)** | Washington, DC, United States | Hybrid | Aug 13 |
 | **[National Education Association](http://www.nea.org)** | **[NEA Editorial Intern, Center for Communications (Fall 2026)](https://jobright.ai/jobs/info/6a7df8d9e51a1e18a240b431?utm_campaign=1053&utm_source=git)** | Washington, DC, United States | On Site | Aug 13 |
 | **[Milwaukee Bucks Inc.](http://bucks.com)** | **[Video Intern](https://jobright.ai/jobs/info/6a7e34cdb56bea5779c0474e?utm_campaign=1053&utm_source=git)** | Milwaukee, WI, United States | On Site | Aug 13 |
-| **[Rodeo Austin](http://www.RodeoAustin.com)** | **[Livestock & Competitive Events Internship](https://jobright.ai/jobs/info/6a7def1f19ce4e6e9d9303ce?utm_campaign=1053&utm_source=git)** | Austin, TX, United States | On Site | Aug 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
