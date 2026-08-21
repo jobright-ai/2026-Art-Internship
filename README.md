@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Lifestyle Show Fall Intern](https://jobright.ai/jobs/info/6a6b5ff157120971bf3a6640?utm_campaign=1053&utm_source=git)** | Philadelphia, PA, United States | On Site | Aug 21 |
+| ↳ | **[Hello Iowa Intern (Unpaid)](https://jobright.ai/jobs/info/6a6ce5f9ca1f93384660152e?utm_campaign=1053&utm_source=git)** | Des Moines, IA, United States | On Site | Aug 21 |
+| **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Intern, Artist Manager Assistant](https://jobright.ai/jobs/info/6a32e02329c90c607e4d87d1?utm_campaign=1053&utm_source=git)** | Etobicoke, ON, CA | On Site | Aug 21 |
 | **[Hearst Television](http://www.hearsttelevision.com)** | **[News Intern](https://jobright.ai/jobs/info/6a855f98e459fa3baa862383?utm_campaign=1053&utm_source=git)** | Needham, MA, United States | On Site | Aug 21 |
 | **[Great Clips Careers of ND & MN](http://jobs.greatclips.com)** | **[Hair Stylist Intern](https://jobright.ai/jobs/info/6a87d27c25fc4e7ae3daed46?utm_campaign=1053&utm_source=git)** | Westfield, IN, United States | On Site | Aug 20 |
 | **[NewForm](https://newform.com)** | **[Creative Production Intern](https://jobright.ai/jobs/info/6a6ff874160eda5948e8d0ba?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Aug 20 |
@@ -70,8 +73,7 @@ For a complete list, click the following sortable link below:
 | **[Vaccine Vets](https://vaccinevets.com/)** | **[Content Creator Intern](https://jobright.ai/jobs/info/6a874a7f680f314a29d38029?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | On Site | Aug 20 |
 | **[SchoolSpring](http://www.schoolspring.com)** | **[BHS Student Sports Media Intern](https://jobright.ai/jobs/info/6a874a11cde3717f9e9b1400?utm_campaign=1053&utm_source=git)** | Bardstown, KY, United States | On Site | Aug 20 |
 | **[Golden Hippo®](http://goldenhippomedia.com)** | **[Video Editor - Youtube Intern (Bilingual)](https://jobright.ai/jobs/info/6a6145a5d51f6101c8fbac41?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 20 |
-| **[Samantha Siu New York](https://www.samanthasiu.com)** | **[Media Video Editor Intern](https://jobright.ai/jobs/info/6a873086680f314a29d37715?utm_campaign=1053&utm_source=git)** | New York City metropolitan area, United States | Hybrid | Aug 20 |
-| **[Golden Hippo®](http://goldenhippomedia.com)** | **[Video Editor - Youtube Intern (Bilingual)](https://jobright.ai/jobs/info/6a800b93927c79391ad0eb62?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 20 |
+| ↳ | **[Video Editor - Youtube Intern (Bilingual)](https://jobright.ai/jobs/info/6a800b93927c79391ad0eb62?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 20 |
 | **[Buffalo Sabres](http://sabres.com)** | **[Broadcast Intern](https://jobright.ai/jobs/info/6a870ea7cde3717f9e9afdd0?utm_campaign=1053&utm_source=git)** | Buffalo, NY, United States | On Site | Aug 20 |
 | **[New York Post](http://nypost.com/)** | **[YouTube Intern, Fall 2026 (10 weeks, 24 hours a week)](https://jobright.ai/jobs/info/6a6a6aaf48355b3f12bf0eb2?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Aug 20 |
 | **[The Vine Global Impact](https://www.thevine.earth)** | **[VIDEO, AI CONTENT INTERN](https://jobright.ai/jobs/info/6a8715f34afae74a08346870?utm_campaign=1053&utm_source=git)** | Miami, FL, United States | Remote | Aug 20 |
@@ -126,5 +128,4 @@ For a complete list, click the following sortable link below:
 | **[The University of Georgia](http://www.ai.uga.edu)** | **[Creative Video Intern](https://jobright.ai/jobs/info/6a7faf76b56bea5779c0e315?utm_campaign=1053&utm_source=git)** | Athens, GA, United States | On Site | Aug 14 |
 | **[Union Home Mortgage Corp.](https://www.uhm.com/)** | **[Video Content Intern](https://jobright.ai/jobs/info/6a7fa34bb56bea5779c0dc43?utm_campaign=1053&utm_source=git)** | Strongsville, OH, United States | On Site | Aug 14 |
 | **[Annie Mac Home Mortgages](https://www.uhm.com/)** | **[Video Content Intern](https://jobright.ai/jobs/info/6a7f9a9ae51a1e18a241464b?utm_campaign=1053&utm_source=git)** | Strongsville, OH, United States | On Site | Aug 14 |
-| **[Toys4Two](https://www.linkedin.com/company/111814056)** | **[Video Production Intern](https://jobright.ai/jobs/info/6a7f941bb56bea5779c0cff4?utm_campaign=1053&utm_source=git)** | Edmonton, AB, Canada | On Site | Aug 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
