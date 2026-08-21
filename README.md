@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CYTO | PHL](https://cytophl.com)** | **[Fall Intern](https://jobright.ai/jobs/info/6a886811e8b6601d129068a3?utm_campaign=1053&utm_source=git)** | Philadelphia, PA, United States | On Site | Aug 21 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Lifestyle Show Fall Intern](https://jobright.ai/jobs/info/6a6b5ff157120971bf3a6640?utm_campaign=1053&utm_source=git)** | Philadelphia, PA, United States | On Site | Aug 21 |
 | ↳ | **[Hello Iowa Intern (Unpaid)](https://jobright.ai/jobs/info/6a6ce5f9ca1f93384660152e?utm_campaign=1053&utm_source=git)** | Des Moines, IA, United States | On Site | Aug 21 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Intern, Artist Manager Assistant](https://jobright.ai/jobs/info/6a32e02329c90c607e4d87d1?utm_campaign=1053&utm_source=git)** | Etobicoke, ON, CA | On Site | Aug 21 |
@@ -126,6 +127,4 @@ For a complete list, click the following sortable link below:
 | **[Orchestra](https://www.orchestraco.com)** | **[Emerging Talent Communications Internship – Video (Fall 2026)](https://jobright.ai/jobs/info/6a63a0b35c7e2d715ebad154?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Hybrid | Aug 15 |
 | **[Cox Media Group](http://www.coxmediagroup.com)** | **[Intern (Part-Time) - Long Island Radio Job Details / Cox Media Group](https://jobright.ai/jobs/info/6a7ff0cbb56bea5779c10489?utm_campaign=1053&utm_source=git)** | West Babylon, NY, United States | On Site | Aug 14 |
 | **[The University of Georgia](http://www.ai.uga.edu)** | **[Creative Video Intern](https://jobright.ai/jobs/info/6a7faf76b56bea5779c0e315?utm_campaign=1053&utm_source=git)** | Athens, GA, United States | On Site | Aug 14 |
-| **[Union Home Mortgage Corp.](https://www.uhm.com/)** | **[Video Content Intern](https://jobright.ai/jobs/info/6a7fa34bb56bea5779c0dc43?utm_campaign=1053&utm_source=git)** | Strongsville, OH, United States | On Site | Aug 14 |
-| **[Annie Mac Home Mortgages](https://www.uhm.com/)** | **[Video Content Intern](https://jobright.ai/jobs/info/6a7f9a9ae51a1e18a241464b?utm_campaign=1053&utm_source=git)** | Strongsville, OH, United States | On Site | Aug 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
