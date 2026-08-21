@@ -57,7 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[City of Burlington, Vermont](http://www.burlingtonvt.gov)** | **[Art Services Internship](https://jobright.ai/jobs/info/6a8792d8e8b6601d129042e4?utm_campaign=1053&utm_source=git)** | Burlington, VT, United States | On Site | Aug 20 |
+| **[SILO: Music](https://www.silomusic.com)** | **[Part Time Sync Assistant / Intern (Paid)](https://jobright.ai/jobs/info/6a87903ed34f700f87fc6051?utm_campaign=1053&utm_source=git)** | Los Angeles metropolitan area, United States | On Site | Aug 20 |
 | **[The Ambony](https://www.anpublishing.com/)** | **[Food & Drink Journalist Intern](https://jobright.ai/jobs/info/6a876b284afae74a08348832?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Remote | Aug 20 |
+| **[True Grit Management](https://truegritmanagement.com/)** | **[Artist Management Intern](https://jobright.ai/jobs/info/6a8775c3cde3717f9e9b2405?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 20 |
+| **[IRONCLAD](https://thisisironclad.com)** | **[INTERNSHIP: Pre Production](https://jobright.ai/jobs/info/6a877544d34f700f87fc594c?utm_campaign=1053&utm_source=git)** | Virginia Beach, VA, United States | On Site | Aug 20 |
+| ↳ | **[INTERNSHIP: Post Production](https://jobright.ai/jobs/info/6a8774fee8b6601d12903bba?utm_campaign=1053&utm_source=git)** | Virginia Beach, VA, United States | On Site | Aug 20 |
 | **[rag & bone](http://www.rag-bone.com)** | **[Fall 2026 Intern - Footwear/Accessories Production](https://jobright.ai/jobs/info/6a87528ccde3717f9e9b1723?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Aug 20 |
 | **[Vaccine Vets](https://vaccinevets.com/)** | **[Content Creator Intern](https://jobright.ai/jobs/info/6a874a7f680f314a29d38029?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | On Site | Aug 20 |
 | **[SchoolSpring](http://www.schoolspring.com)** | **[BHS Student Sports Media Intern](https://jobright.ai/jobs/info/6a874a11cde3717f9e9b1400?utm_campaign=1053&utm_source=git)** | Bardstown, KY, United States | On Site | Aug 20 |
@@ -88,6 +93,7 @@ For a complete list, click the following sortable link below:
 | **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/)** | **[FamilySearch Production and Events Intern (6 Month)](https://jobright.ai/jobs/info/6a850e7f2f4f0014cae23e26?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT, United States | Hybrid | Aug 18 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[FamilySearch Production and Events Intern (6 Month)](https://jobright.ai/jobs/info/6a84fcb3e12474455273d51a?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT, United States | Hybrid | Aug 18 |
 | **[The Aparecio Foundation](https://www.apareciofoundation.org)** | **[Copy Editor Intern/Volunteer](https://jobright.ai/jobs/info/6a84f37458ded76ad8fea1f2?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | On Site | Aug 18 |
+| **[Warner Bros. Discovery](https://wbd.com)** | **[WBD Academic Year Internships (WAY): CNN NYC News - Fall 2026](https://jobright.ai/jobs/info/6a62644e07e15f1ab0e4604e?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Hybrid | Aug 18 |
 | **[One Impression](https://www.oneimpression.io)** | **[Content & Community Intern (Remote)](https://jobright.ai/jobs/info/6a846b072f4f0014cae20515?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 18 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Digital Archives Internship (Part-Time)](https://jobright.ai/jobs/info/6a84c2397b33d72276258119?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT, United States | On Site | Aug 18 |
 | **[Cornerstone Agency](http://www.cornerstoneagency.com)** | **[Editorial Intern (Writing/Social) - Fall 2026](https://jobright.ai/jobs/info/6a84c5ed2f4f0014cae22d9e?utm_campaign=1053&utm_source=git)** | Brooklyn, NY, United States | On Site | Aug 18 |
