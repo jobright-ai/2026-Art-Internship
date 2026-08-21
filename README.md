@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Corvane](https://corvane.com/)** | **[TikTok & Instagram Reels Content Intern](https://jobright.ai/jobs/info/6a87b944e8b6601d12905077?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 20 |
+| **[NewForm](https://newform.com)** | **[Creative Production Intern](https://jobright.ai/jobs/info/6a6ff874160eda5948e8d0ba?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Aug 20 |
+| **[Phoenix Suns](https://suns.nba.com)** | **[Intern, Video Content](https://jobright.ai/jobs/info/6a7cb3af83621355407ab591?utm_campaign=1053&utm_source=git)** | Phoenix, AZ, United States | On Site | Aug 20 |
+| **[Burlington Electric Department](https://www.burlingtonelectric.com/)** | **[Art Services Internship](https://jobright.ai/jobs/info/6a879b07680f314a29d39833?utm_campaign=1053&utm_source=git)** | Burlington, VT, United States | On Site | Aug 20 |
 | **[City of Burlington, Vermont](http://www.burlingtonvt.gov)** | **[Art Services Internship](https://jobright.ai/jobs/info/6a8792d8e8b6601d129042e4?utm_campaign=1053&utm_source=git)** | Burlington, VT, United States | On Site | Aug 20 |
 | **[SILO: Music](https://www.silomusic.com)** | **[Part Time Sync Assistant / Intern (Paid)](https://jobright.ai/jobs/info/6a87903ed34f700f87fc6051?utm_campaign=1053&utm_source=git)** | Los Angeles metropolitan area, United States | On Site | Aug 20 |
 | **[The Ambony](https://www.anpublishing.com/)** | **[Food & Drink Journalist Intern](https://jobright.ai/jobs/info/6a876b284afae74a08348832?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Remote | Aug 20 |
@@ -66,11 +70,11 @@ For a complete list, click the following sortable link below:
 | **[rag & bone](http://www.rag-bone.com)** | **[Fall 2026 Intern - Footwear/Accessories Production](https://jobright.ai/jobs/info/6a87528ccde3717f9e9b1723?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Aug 20 |
 | **[Vaccine Vets](https://vaccinevets.com/)** | **[Content Creator Intern](https://jobright.ai/jobs/info/6a874a7f680f314a29d38029?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | On Site | Aug 20 |
 | **[SchoolSpring](http://www.schoolspring.com)** | **[BHS Student Sports Media Intern](https://jobright.ai/jobs/info/6a874a11cde3717f9e9b1400?utm_campaign=1053&utm_source=git)** | Bardstown, KY, United States | On Site | Aug 20 |
+| **[Golden Hippo®](http://goldenhippomedia.com)** | **[Video Editor - Youtube Intern (Bilingual)](https://jobright.ai/jobs/info/6a6145a5d51f6101c8fbac41?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 20 |
 | **[Samantha Siu New York](https://www.samanthasiu.com)** | **[Media Video Editor Intern](https://jobright.ai/jobs/info/6a873086680f314a29d37715?utm_campaign=1053&utm_source=git)** | New York City metropolitan area, United States | Hybrid | Aug 20 |
 | **[Golden Hippo®](http://goldenhippomedia.com)** | **[Video Editor - Youtube Intern (Bilingual)](https://jobright.ai/jobs/info/6a800b93927c79391ad0eb62?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 20 |
 | **[Buffalo Sabres](http://sabres.com)** | **[Broadcast Intern](https://jobright.ai/jobs/info/6a870ea7cde3717f9e9afdd0?utm_campaign=1053&utm_source=git)** | Buffalo, NY, United States | On Site | Aug 20 |
 | **[New York Post](http://nypost.com/)** | **[YouTube Intern, Fall 2026 (10 weeks, 24 hours a week)](https://jobright.ai/jobs/info/6a6a6aaf48355b3f12bf0eb2?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Aug 20 |
-| **[AdaMarie](https://weareadamarie.com)** | **[Video Production and Social Media Intern (Spring 2027)](https://jobright.ai/jobs/info/6a87161c4afae74a0834687f?utm_campaign=1053&utm_source=git)** | South San Francisco, CA, United States | On Site | Aug 20 |
 | **[The Vine Global Impact](https://www.thevine.earth)** | **[VIDEO, AI CONTENT INTERN](https://jobright.ai/jobs/info/6a8715f34afae74a08346870?utm_campaign=1053&utm_source=git)** | Miami, FL, United States | Remote | Aug 20 |
 | **[New York Post](http://nypost.com/)** | **[Page Six Video Intern, Fall 2026 (10 weeks, 24 hours a week)](https://jobright.ai/jobs/info/6a5fbc4b33ef5c58b4fffc1e?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Aug 20 |
 | **[The San Francisco Standard](https://sfstandard.com)** | **[Editorial Intern, Charter](https://jobright.ai/jobs/info/6a87102325fc4e7ae3dab035?utm_campaign=1053&utm_source=git)** | San Francisco, CA, United States | Remote | Aug 20 |
@@ -81,6 +85,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Digital News Production Intern, Fall 2026 (10 weeks, 24 hours a week)](https://jobright.ai/jobs/info/6a5fcdb86e0c3c7c7d3d917a?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Aug 20 |
 | **[SchoolSpring](http://www.schoolspring.com)** | **[EHS Student Worker: Multimedia Production Intern](https://jobright.ai/jobs/info/6a86d8eccc81eb647e9f3823?utm_campaign=1053&utm_source=git)** | Estacada, OR, United States | On Site | Aug 20 |
 | **[Zipline](https://www.zipline.com/)** | **[Video Production and Social Media Intern (Spring 2027)](https://jobright.ai/jobs/info/6a85d6d7e459fa3baa864167?utm_campaign=1053&utm_source=git)** | South San Francisco, CA, United States | On Site | Aug 19 |
+| **[adyn](https://www.adyn.com/)** | **[DIGITAL STORYTELLING INTERN](https://jobright.ai/jobs/info/6a879f5cd34f700f87fc6468?utm_campaign=1053&utm_source=git)** | Seattle, WA, United States | Remote | Aug 19 |
 | **[Ideastream Public Media](http://www.ideastream.org)** | **[The Ohio Channel Intern](https://jobright.ai/jobs/info/6a861833e459fa3baa865fbe?utm_campaign=1053&utm_source=git)** | Columbus, OH, United States | On Site | Aug 19 |
 | **[Syracuse Crunch](https://syracusecrunch.com/)** | **[VIDEO PRODUCTION INTERNSHIP](https://jobright.ai/jobs/info/6a860f15d34f700f87fbff60?utm_campaign=1053&utm_source=git)** | Syracuse, NY, United States | On Site | Aug 19 |
 | ↳ | **[BROADCAST INTERNSHIP](https://jobright.ai/jobs/info/6a860f074afae74a0834303f?utm_campaign=1053&utm_source=git)** | Syracuse, NY, United States | On Site | Aug 19 |
@@ -136,5 +141,4 @@ For a complete list, click the following sortable link below:
 | **[WMUR-TV](http://www.wmur.com/)** | **[Creative Services Intern](https://jobright.ai/jobs/info/69ba8f1506c1ba00c54ca4eb?utm_campaign=1053&utm_source=git)** | Manchester, NH | On Site | Aug 14 |
 | **[Hearst Newspapers](https://eevd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_15)** | **[Creative Services Intern](https://jobright.ai/jobs/info/69b99a8406c1ba00c54ba301?utm_campaign=1053&utm_source=git)** | 100 South Commercial Street, Manchester, NH, 03101, US | On Site | Aug 14 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Paid Intern (Photojournalist/Multi-Media Journalist/Producer)](https://jobright.ai/jobs/info/69f179ef8feca91f149202ba?utm_campaign=1053&utm_source=git)** | Wichita, KS | On Site | Aug 14 |
-| **[ACS Technologies](http://www.acstechnologies.com)** | **[Internship](https://jobright.ai/jobs/info/6a56aaf810c4d945d864b3c5?utm_campaign=1053&utm_source=git)** | Greenville, SC, United States | Remote | Aug 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
