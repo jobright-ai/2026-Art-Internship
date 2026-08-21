@@ -57,12 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Aalo Atomics](https://www.aalo.com)** | **[Fall 2026 Video Intern - Austin, TX](https://jobright.ai/jobs/info/6a88afbc680f314a29d3d4ad?utm_campaign=1053&utm_source=git)** | Austin, TX, United States | On Site | Aug 21 |
+| **[Elite Sports Clubs](http://eliteclubs.com)** | **[Community Events Intern](https://jobright.ai/jobs/info/6a887b20cde3717f9e9b5687?utm_campaign=1053&utm_source=git)** | Milwaukee, WI, United States | On Site | Aug 21 |
+| **[Atlanta Gladiators](http://atlantagladiators.com)** | **[Videography Intern: In Season](https://jobright.ai/jobs/info/6a88ab5f680f314a29d3d374?utm_campaign=1053&utm_source=git)** | Duluth, GA, United States | On Site | Aug 21 |
 | **[MYNDIFY](myndifyapp.com)** | **[Video Content Internship](https://jobright.ai/jobs/info/6a88a7fccde3717f9e9b660a?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 21 |
 | **[Audacy, Inc.](https://audacyinc.com/)** | **[NYSBA Internship (Fall Semester)](https://jobright.ai/jobs/info/6a88a526cde3717f9e9b6492?utm_campaign=1053&utm_source=git)** | Rochester, NY, United States | On Site | Aug 21 |
 | **[Lavonne's The Agency](https://lavonnestheagency.com/)** | **[Film Intern - Reality TV Production (Videography & Editing Focused)](https://jobright.ai/jobs/info/6a889461e8b6601d1290780f?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | Hybrid | Aug 21 |
 | **[The Brand Leader](https://thebrandleader.com/)** | **[Fall 2026 Content Creator Intern](https://jobright.ai/jobs/info/6a888a63cde3717f9e9b5c88?utm_campaign=1053&utm_source=git)** | Greenville, SC, United States | On Site | Aug 21 |
 | **[rag & bone](http://www.rag-bone.com)** | **[Fall 2026 Intern - Footwear/Accessories Production](https://jobright.ai/jobs/info/6a87528ccde3717f9e9b1723?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Aug 21 |
-| **[Elite Sports Clubs](http://eliteclubs.com)** | **[Community Events Intern](https://jobright.ai/jobs/info/6a887b20cde3717f9e9b5687?utm_campaign=1053&utm_source=git)** | Milwaukee, WI, United States | On Site | Aug 21 |
 | **[CYTO | PHL](https://cytophl.com)** | **[Fall Intern](https://jobright.ai/jobs/info/6a886811e8b6601d129068a3?utm_campaign=1053&utm_source=git)** | Philadelphia, PA, United States | On Site | Aug 21 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Lifestyle Show Fall Intern](https://jobright.ai/jobs/info/6a6b5ff157120971bf3a6640?utm_campaign=1053&utm_source=git)** | Philadelphia, PA, United States | On Site | Aug 21 |
 | ↳ | **[Hello Iowa Intern (Unpaid)](https://jobright.ai/jobs/info/6a6ce5f9ca1f93384660152e?utm_campaign=1053&utm_source=git)** | Des Moines, IA, United States | On Site | Aug 21 |
