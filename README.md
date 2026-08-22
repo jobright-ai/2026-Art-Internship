@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Gift](https://www.shine.gift)** | **[College and LMU Music Community Intern](https://jobright.ai/jobs/info/6a89ce09cde3717f9e9b8a77?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | Remote | Aug 22 |
 | **[The Dispatch](https://thedispatch.com/)** | **[Fall 2026 Multimedia Internship](https://jobright.ai/jobs/info/6a591d8d4da96a42cfd8f224?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 22 |
 | **[AAMBC Inc.](https://aambc.org)** | **[Video Editor Intern](https://jobright.ai/jobs/info/6a89be1ecde3717f9e9b89c4?utm_campaign=1053&utm_source=git)** | Atlanta metropolitan area, United States | On Site | Aug 22 |
 | **[New York Post](http://nypost.com/)** | **[Video Field Production Intern, Fall 2026 (10 weeks, 24 hours a week)](https://jobright.ai/jobs/info/6a6cf1dfba7efe79c2f67923?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Aug 22 |
