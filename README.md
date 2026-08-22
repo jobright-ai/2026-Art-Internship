@@ -57,9 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Aalo Atomics](https://www.aalo.com)** | **[Fall 2026 Video Intern - Austin, TX](https://jobright.ai/jobs/info/6a88afbc680f314a29d3d4ad?utm_campaign=1053&utm_source=git)** | Austin, TX, United States | On Site | Aug 22 |
 | **[adyn](https://www.adyn.com/)** | **[DIGITAL STORYTELLING INTERN](https://jobright.ai/jobs/info/6a8929704afae74a0834e40d?utm_campaign=1053&utm_source=git)** | Seattle, WA, United States | Remote | Aug 21 |
 | **[ASM Global](https://asmglobal.com/)** | **[Intern Catering & Special Events Coordinator](https://jobright.ai/jobs/info/6a88d1bc680f314a29d3e061?utm_campaign=1053&utm_source=git)** | Frisco, TX, United States | On Site | Aug 21 |
-| **[Aalo Atomics](https://www.aalo.com)** | **[Fall 2026 Video Intern - Austin, TX](https://jobright.ai/jobs/info/6a88afbc680f314a29d3d4ad?utm_campaign=1053&utm_source=git)** | Austin, TX, United States | On Site | Aug 21 |
 | **[Elite Sports Clubs](http://eliteclubs.com)** | **[Community Events Intern](https://jobright.ai/jobs/info/6a887b20cde3717f9e9b5687?utm_campaign=1053&utm_source=git)** | Milwaukee, WI, United States | On Site | Aug 21 |
 | **[Atlanta Gladiators](http://atlantagladiators.com)** | **[Videography Intern: In Season](https://jobright.ai/jobs/info/6a88ab5f680f314a29d3d374?utm_campaign=1053&utm_source=git)** | Duluth, GA, United States | On Site | Aug 21 |
 | **[MYNDIFY](myndifyapp.com)** | **[Video Content Internship](https://jobright.ai/jobs/info/6a88a7fccde3717f9e9b660a?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 21 |
@@ -126,8 +126,8 @@ For a complete list, click the following sortable link below:
 | **[Trenton Ironhawks](trentonironhawks.com)** | **[Videographer Internship](https://jobright.ai/jobs/info/6a831d312dbaf907b0766679?utm_campaign=1053&utm_source=git)** | Trenton, NJ, United States | On Site | Aug 17 |
 | **[Salvi](https://www.salvimedia.com/)** | **[Editing Intern](https://jobright.ai/jobs/info/6a831bb29b859b227766c790?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | On Site | Aug 17 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid News Intern](https://jobright.ai/jobs/info/6972b01a9b83b424830eb8a4?utm_campaign=1053&utm_source=git)** | IN-Indianapolis;6910 Network Place (Tribune-WXIN/WTTV) | On Site | Aug 17 |
-| **[NoGood](https://nogood.io)** | **[Intern- Social Video Creator](https://jobright.ai/jobs/info/69d9a15b738f2f099e8a368e?utm_campaign=1053&utm_source=git)** | New York, New York, United States | Hybrid | Aug 17 |
-| ↳ | **[Intern- Social Video Creator](https://jobright.ai/jobs/info/6a605172193c4d692385dc82?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Hybrid | Aug 17 |
+| **[NoGood](https://nogood.io)** | **[Intern- Social Video Creator](https://jobright.ai/jobs/info/6a605172193c4d692385dc82?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Hybrid | Aug 17 |
+| ↳ | **[Intern- Social Video Creator](https://jobright.ai/jobs/info/69d9a15b738f2f099e8a368e?utm_campaign=1053&utm_source=git)** | New York, New York, United States | Hybrid | Aug 17 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Intern/News](https://jobright.ai/jobs/info/6a52fd288ef95364ead909bd?utm_campaign=1053&utm_source=git)** | Panama City, FL, United States | On Site | Aug 16 |
 | **[Andrews McMeel Universal](http://www.amuniversal.com/)** | **[Book Publishing Internship](https://jobright.ai/jobs/info/6a815cbc19ce4e6e9d943cd6?utm_campaign=1053&utm_source=git)** | Kansas City, MO, United States | On Site | Aug 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
