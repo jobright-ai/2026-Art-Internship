@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Massachusetts Medical Society](http://www.massmed.org/)** | **[NEJM Editorial Fellow](https://jobright.ai/jobs/info/6a55f863392ae330b30e860d?utm_campaign=1053&utm_source=git)** | Boston, MA, United States | On Site | Aug 22 |
 | **[Gift](https://www.shine.gift)** | **[College and LMU Music Community Intern](https://jobright.ai/jobs/info/6a89ce09cde3717f9e9b8a77?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | Remote | Aug 22 |
 | **[The Dispatch](https://thedispatch.com/)** | **[Fall 2026 Multimedia Internship](https://jobright.ai/jobs/info/6a591d8d4da96a42cfd8f224?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 22 |
 | **[AAMBC Inc.](https://aambc.org)** | **[Video Editor Intern](https://jobright.ai/jobs/info/6a89be1ecde3717f9e9b89c4?utm_campaign=1053&utm_source=git)** | Atlanta metropolitan area, United States | On Site | Aug 22 |
