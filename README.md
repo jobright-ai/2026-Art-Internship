@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[adyn](https://www.adyn.com/)** | **[DIGITAL STORYTELLING INTERN](https://jobright.ai/jobs/info/6a8929704afae74a0834e40d?utm_campaign=1053&utm_source=git)** | Seattle, WA, United States | Remote | Aug 21 |
 | **[ASM Global](https://asmglobal.com/)** | **[Intern Catering & Special Events Coordinator](https://jobright.ai/jobs/info/6a88d1bc680f314a29d3e061?utm_campaign=1053&utm_source=git)** | Frisco, TX, United States | On Site | Aug 21 |
 | **[Aalo Atomics](https://www.aalo.com)** | **[Fall 2026 Video Intern - Austin, TX](https://jobright.ai/jobs/info/6a88afbc680f314a29d3d4ad?utm_campaign=1053&utm_source=git)** | Austin, TX, United States | On Site | Aug 21 |
 | **[Elite Sports Clubs](http://eliteclubs.com)** | **[Community Events Intern](https://jobright.ai/jobs/info/6a887b20cde3717f9e9b5687?utm_campaign=1053&utm_source=git)** | Milwaukee, WI, United States | On Site | Aug 21 |
@@ -107,7 +108,6 @@ For a complete list, click the following sortable link below:
 | **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/)** | **[FamilySearch Production and Events Intern (6 Month)](https://jobright.ai/jobs/info/6a850e7f2f4f0014cae23e26?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT, United States | Hybrid | Aug 18 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[FamilySearch Production and Events Intern (6 Month)](https://jobright.ai/jobs/info/6a84fcb3e12474455273d51a?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT, United States | Hybrid | Aug 18 |
 | **[The Aparecio Foundation](https://www.apareciofoundation.org)** | **[Copy Editor Intern/Volunteer](https://jobright.ai/jobs/info/6a84f37458ded76ad8fea1f2?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | On Site | Aug 18 |
-| **[Warner Bros. Discovery](https://wbd.com)** | **[WBD Academic Year Internships (WAY): CNN NYC News - Fall 2026](https://jobright.ai/jobs/info/6a8811e7e8b6601d12905910?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Hybrid | Aug 18 |
 | **[One Impression](https://www.oneimpression.io)** | **[Content & Community Intern (Remote)](https://jobright.ai/jobs/info/6a846b072f4f0014cae20515?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 18 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Digital Archives Internship (Part-Time)](https://jobright.ai/jobs/info/6a84c2397b33d72276258119?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT, United States | On Site | Aug 18 |
 | **[Cornerstone Agency](http://www.cornerstoneagency.com)** | **[Editorial Intern (Writing/Social) - Fall 2026](https://jobright.ai/jobs/info/6a84c5ed2f4f0014cae22d9e?utm_campaign=1053&utm_source=git)** | Brooklyn, NY, United States | On Site | Aug 18 |
@@ -116,6 +116,7 @@ For a complete list, click the following sortable link below:
 | **[Charlotte Checkers](http://gocheckers.com)** | **[Charlotte Checkers Videography Internship 2026-2027 Season](https://jobright.ai/jobs/info/6a84b1977b33d72276257961?utm_campaign=1053&utm_source=git)** | Charlotte, NC, United States | On Site | Aug 18 |
 | **[Rodeo Austin](http://www.RodeoAustin.com)** | **[Seasonal BBQ Austin Internship](https://jobright.ai/jobs/info/6a8492a9d34f700f87fb9801?utm_campaign=1053&utm_source=git)** | Austin, TX, United States | On Site | Aug 18 |
 | **[Walton Arts Center and Walmart AMP](http://waltonartscenter.org)** | **[Events-Hospitality Internship](https://jobright.ai/jobs/info/6a84cacfd34f700f87fbb19a?utm_campaign=1053&utm_source=git)** | Fayetteville, NC, United States | On Site | Aug 18 |
+| **[Semex](https://www.semex.com)** | **[Beef Intern](https://jobright.ai/jobs/info/6a893d1125fc4e7ae3db341e?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 18 |
 | **[Los Angeles County Museum of Art (LACMA)](http://www.lacma.org/)** | **[Intern - Paid](https://jobright.ai/jobs/info/6a85e7fcd34f700f87fbf04e?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | Hybrid | Aug 18 |
 | **[The Aparecio Foundation](https://www.apareciofoundation.org)** | **[Volunteer Journalist](https://jobright.ai/jobs/info/6a842b0ee12474455273914e?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Aug 18 |
 | **[TikTok](https://www.tiktok.com)** | **[Creator LIVE Project Intern (TikTok Shop - US Operation) - 2026 Start](https://jobright.ai/jobs/info/6a5fe09333ef5c58b4000bf3?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | On Site | Aug 18 |
