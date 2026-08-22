@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ASM Global](https://asmglobal.com/)** | **[Intern Catering & Special Events Coordinator](https://jobright.ai/jobs/info/6a88d1bc680f314a29d3e061?utm_campaign=1053&utm_source=git)** | Frisco, TX, United States | On Site | Aug 21 |
 | **[Aalo Atomics](https://www.aalo.com)** | **[Fall 2026 Video Intern - Austin, TX](https://jobright.ai/jobs/info/6a88afbc680f314a29d3d4ad?utm_campaign=1053&utm_source=git)** | Austin, TX, United States | On Site | Aug 21 |
 | **[Elite Sports Clubs](http://eliteclubs.com)** | **[Community Events Intern](https://jobright.ai/jobs/info/6a887b20cde3717f9e9b5687?utm_campaign=1053&utm_source=git)** | Milwaukee, WI, United States | On Site | Aug 21 |
 | **[Atlanta Gladiators](http://atlantagladiators.com)** | **[Videography Intern: In Season](https://jobright.ai/jobs/info/6a88ab5f680f314a29d3d374?utm_campaign=1053&utm_source=git)** | Duluth, GA, United States | On Site | Aug 21 |
@@ -74,7 +75,6 @@ For a complete list, click the following sortable link below:
 | **[NewForm](https://newform.com)** | **[Creative Production Intern](https://jobright.ai/jobs/info/6a6ff874160eda5948e8d0ba?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Aug 20 |
 | **[Phoenix Suns](https://suns.nba.com)** | **[Intern, Video Content](https://jobright.ai/jobs/info/6a7cb3af83621355407ab591?utm_campaign=1053&utm_source=git)** | Phoenix, AZ, United States | On Site | Aug 20 |
 | **[Burlington Electric Department](https://www.burlingtonelectric.com/)** | **[Art Services Internship](https://jobright.ai/jobs/info/6a879b07680f314a29d39833?utm_campaign=1053&utm_source=git)** | Burlington, VT, United States | On Site | Aug 20 |
-| **[ASM Global](https://asmglobal.com/)** | **[Intern Catering & Special Events Coordinator](https://jobright.ai/jobs/info/6a88d1bc680f314a29d3e061?utm_campaign=1053&utm_source=git)** | Frisco, TX, United States | On Site | Aug 20 |
 | **[City of Burlington, Vermont](http://www.burlingtonvt.gov)** | **[Art Services Internship](https://jobright.ai/jobs/info/6a8792d8e8b6601d129042e4?utm_campaign=1053&utm_source=git)** | Burlington, VT, United States | On Site | Aug 20 |
 | **[The Ambony](https://www.anpublishing.com/)** | **[Food & Drink Journalist Intern](https://jobright.ai/jobs/info/6a876b284afae74a08348832?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Remote | Aug 20 |
 | **[IRONCLAD](https://thisisironclad.com)** | **[INTERNSHIP: Pre Production](https://jobright.ai/jobs/info/6a877544d34f700f87fc594c?utm_campaign=1053&utm_source=git)** | Virginia Beach, VA, United States | On Site | Aug 20 |
@@ -127,8 +127,8 @@ For a complete list, click the following sortable link below:
 | **[Trenton Ironhawks](trentonironhawks.com)** | **[Videographer Internship](https://jobright.ai/jobs/info/6a831d312dbaf907b0766679?utm_campaign=1053&utm_source=git)** | Trenton, NJ, United States | On Site | Aug 17 |
 | **[Salvi](https://www.salvimedia.com/)** | **[Editing Intern](https://jobright.ai/jobs/info/6a831bb29b859b227766c790?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | On Site | Aug 17 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid News Intern](https://jobright.ai/jobs/info/6972b01a9b83b424830eb8a4?utm_campaign=1053&utm_source=git)** | IN-Indianapolis;6910 Network Place (Tribune-WXIN/WTTV) | On Site | Aug 17 |
-| **[NoGood](https://nogood.io)** | **[Intern- Social Video Creator](https://jobright.ai/jobs/info/69d9a15b738f2f099e8a368e?utm_campaign=1053&utm_source=git)** | New York, New York, United States | Hybrid | Aug 17 |
-| ↳ | **[Intern- Social Video Creator](https://jobright.ai/jobs/info/6a605172193c4d692385dc82?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Hybrid | Aug 17 |
+| **[NoGood](https://nogood.io)** | **[Intern- Social Video Creator](https://jobright.ai/jobs/info/6a605172193c4d692385dc82?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Hybrid | Aug 17 |
+| ↳ | **[Intern- Social Video Creator](https://jobright.ai/jobs/info/69d9a15b738f2f099e8a368e?utm_campaign=1053&utm_source=git)** | New York, New York, United States | Hybrid | Aug 17 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Intern/News](https://jobright.ai/jobs/info/6a52fd288ef95364ead909bd?utm_campaign=1053&utm_source=git)** | Panama City, FL, United States | On Site | Aug 16 |
 | **[Andrews McMeel Universal](http://www.amuniversal.com/)** | **[Book Publishing Internship](https://jobright.ai/jobs/info/6a815cbc19ce4e6e9d943cd6?utm_campaign=1053&utm_source=git)** | Kansas City, MO, United States | On Site | Aug 15 |
 | **[Hearst Newspapers](https://eevd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_15)** | **[News Intern](https://jobright.ai/jobs/info/69b99aab3b74eb1e2c878132?utm_campaign=1053&utm_source=git)** | 1300 East Britton Road, Oklahoma City, OK, 73131, US | On Site | Aug 15 |
