@@ -66,6 +66,7 @@ For a complete list, click the following sortable link below:
 | **[The Brand Leader](https://thebrandleader.com/)** | **[Fall 2026 Content Creator Intern](https://jobright.ai/jobs/info/6a888a63cde3717f9e9b5c88?utm_campaign=1053&utm_source=git)** | Greenville, SC, United States | On Site | Aug 22 |
 | **[Aalo Atomics](https://www.aalo.com)** | **[Fall 2026 Video Intern - Austin, TX](https://jobright.ai/jobs/info/6a88afbc680f314a29d3d4ad?utm_campaign=1053&utm_source=git)** | Austin, TX, United States | On Site | Aug 22 |
 | **[adyn](https://www.adyn.com/)** | **[DIGITAL STORYTELLING INTERN](https://jobright.ai/jobs/info/6a8929704afae74a0834e40d?utm_campaign=1053&utm_source=git)** | Seattle, WA, United States | Remote | Aug 21 |
+| **[GluBear](https://myglubear.com/)** | **[Animation Intern](https://jobright.ai/jobs/info/6a89fa1f680f314a29d3f9e5?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 21 |
 | **[ASM Global](https://asmglobal.com/)** | **[Intern Catering & Special Events Coordinator](https://jobright.ai/jobs/info/6a88d1bc680f314a29d3e061?utm_campaign=1053&utm_source=git)** | Frisco, TX, United States | On Site | Aug 21 |
 | **[Elite Sports Clubs](http://eliteclubs.com)** | **[Community Events Intern](https://jobright.ai/jobs/info/6a887b20cde3717f9e9b5687?utm_campaign=1053&utm_source=git)** | Milwaukee, WI, United States | On Site | Aug 21 |
 | **[MYNDIFY](myndifyapp.com)** | **[Video Content Internship](https://jobright.ai/jobs/info/6a88a7fccde3717f9e9b660a?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 21 |
