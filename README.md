@@ -59,6 +59,10 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Great Clips Careers of ND & MN](http://jobs.greatclips.com)** | **[Hair Stylist Intern](https://jobright.ai/jobs/info/6a8a6211e8b6601d1290afa4?utm_campaign=1053&utm_source=git)** | Waukee, IA, United States | On Site | Aug 22 |
 | ↳ | **[Hair Stylist Intern](https://jobright.ai/jobs/info/6a8a620d680f314a29d40183?utm_campaign=1053&utm_source=git)** | West Des Moines, IA, United States | On Site | Aug 22 |
+| ↳ | **[Hair Stylist Intern](https://jobright.ai/jobs/info/6a8a7d9ad34f700f87fcce7d?utm_campaign=1053&utm_source=git)** | Des Moines, IA, United States | On Site | Aug 22 |
+| ↳ | **[Hair Stylist Intern](https://jobright.ai/jobs/info/6a8a7d904afae74a0834feee?utm_campaign=1053&utm_source=git)** | Norfolk, NE, United States | On Site | Aug 22 |
+| ↳ | **[Hair Stylist Intern](https://jobright.ai/jobs/info/6a8a7d92cde3717f9e9b9892?utm_campaign=1053&utm_source=git)** | Newton, IA, United States | On Site | Aug 22 |
+| ↳ | **[Hair Stylist Intern](https://jobright.ai/jobs/info/6a8a7d8acde3717f9e9b9891?utm_campaign=1053&utm_source=git)** | Pleasant Hill, IA, United States | On Site | Aug 22 |
 | **[Massachusetts Medical Society](http://www.massmed.org/)** | **[NEJM Editorial Fellow](https://jobright.ai/jobs/info/6a55f863392ae330b30e860d?utm_campaign=1053&utm_source=git)** | Boston, MA, United States | On Site | Aug 22 |
 | **[Austin PBS](http://www.austinpbs.org)** | **[Internship / Production Intern](https://jobright.ai/jobs/info/6a8a2e694afae74a0834fa63?utm_campaign=1053&utm_source=git)** | Austin, TX, United States | On Site | Aug 22 |
 | **[Gift](https://www.shine.gift)** | **[College and LMU Music Community Intern](https://jobright.ai/jobs/info/6a89ce09cde3717f9e9b8a77?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | Remote | Aug 22 |
@@ -137,7 +141,7 @@ For a complete list, click the following sortable link below:
 | **[Trenton Ironhawks](trentonironhawks.com)** | **[Videographer Internship](https://jobright.ai/jobs/info/6a831d312dbaf907b0766679?utm_campaign=1053&utm_source=git)** | Trenton, NJ, United States | On Site | Aug 17 |
 | **[Salvi](https://www.salvimedia.com/)** | **[Editing Intern](https://jobright.ai/jobs/info/6a831bb29b859b227766c790?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | On Site | Aug 17 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid News Intern](https://jobright.ai/jobs/info/6972b01a9b83b424830eb8a4?utm_campaign=1053&utm_source=git)** | IN-Indianapolis;6910 Network Place (Tribune-WXIN/WTTV) | On Site | Aug 17 |
-| **[NoGood](https://nogood.io)** | **[Intern- Social Video Creator](https://jobright.ai/jobs/info/6a605172193c4d692385dc82?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Hybrid | Aug 17 |
-| ↳ | **[Intern- Social Video Creator](https://jobright.ai/jobs/info/69d9a15b738f2f099e8a368e?utm_campaign=1053&utm_source=git)** | New York, New York, United States | Hybrid | Aug 17 |
+| **[NoGood](https://nogood.io)** | **[Intern- Social Video Creator](https://jobright.ai/jobs/info/69d9a15b738f2f099e8a368e?utm_campaign=1053&utm_source=git)** | New York, New York, United States | Hybrid | Aug 17 |
+| ↳ | **[Intern- Social Video Creator](https://jobright.ai/jobs/info/6a605172193c4d692385dc82?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Hybrid | Aug 17 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Intern/News](https://jobright.ai/jobs/info/6a52fd288ef95364ead909bd?utm_campaign=1053&utm_source=git)** | Panama City, FL, United States | On Site | Aug 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
