@@ -57,8 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Monterey Peninsula Country Club](http://www.mpccpb.org)** | **[PGA Intern](https://jobright.ai/jobs/info/6a8bcd13e8b6601d1290cad6?utm_campaign=1053&utm_source=git)** | Pebble Beach, CA, United States | On Site | Aug 23 |
 | **[Golden Hippo®](http://goldenhippomedia.com)** | **[Video Editor - Youtube Intern (Bilingual)](https://jobright.ai/jobs/info/6a59040463a8f619507bfad3?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 23 |
-| **[What's The Move](wtmofficial.com)** | **[Video Editing Intern](https://jobright.ai/jobs/info/6a8b59e0cde3717f9e9ba513?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 23 |
 | **[Pasilobus](https://pasilobus.com/)** | **[Content Creator Intern (Part-Time)](https://jobright.ai/jobs/info/6a8b54d825fc4e7ae3db57d9?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 23 |
 | **[Hoboken Grace Community Church](http://www.hobokengrace.com)** | **[Video Production Intern - Fall 2026](https://jobright.ai/jobs/info/6a8b53ee25fc4e7ae3db57d4?utm_campaign=1053&utm_source=git)** | Hoboken, NJ, United States | On Site | Aug 23 |
 | **[BRANDHIVE](www.brandhivemarketing.com)** | **[ENTRY LEVEL ASSISTANT / Intern](https://jobright.ai/jobs/info/6a8b8faa4afae74a08350ecc?utm_campaign=1053&utm_source=git)** | Miami, FL, United States | Hybrid | Aug 23 |
