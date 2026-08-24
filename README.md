@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Content Creator Intern - Fair Department](https://jobright.ai/jobs/info/6a8c476e1d96e6541c8bfd8f?utm_campaign=1053&utm_source=git)** | Mason, MI, United States | On Site | Aug 24 |
 | **[SFMOMA San Francisco Museum of Modern Art](https://www.sfmoma.org)** | **[Archives and Records Management Intern: Artwork Documentation](https://jobright.ai/jobs/info/6a8c3b921d96e6541c8bfa91?utm_campaign=1053&utm_source=git)** | San Francisco, CA, United States | On Site | Aug 24 |
 | **[Center for Strategic and International Studies (CSIS)](https://www.csis.org)** | **[Multimedia Production Intern](https://jobright.ai/jobs/info/6a8c2998cde3717f9e9bbc10?utm_campaign=1053&utm_source=git)** | Washington, D.C., United States | On Site | Aug 24 |
 | **[Berkeley Industrial Engineering & Operations Research](https://ieor.berkeley.edu)** | **[Videography Trainee. Paid Internship Opportunity at Insight Editions](https://jobright.ai/jobs/info/6a8c24904aa74f570d3cee61?utm_campaign=1053&utm_source=git)** | San Rafael, CA, United States | On Site | Aug 24 |
