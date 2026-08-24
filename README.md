@@ -102,7 +102,6 @@ For a complete list, click the following sortable link below:
 | **[The Ambony](https://www.anpublishing.com/)** | **[Food & Drink Journalist Intern](https://jobright.ai/jobs/info/6a876b284afae74a08348832?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Remote | Aug 20 |
 | **[IRONCLAD](https://thisisironclad.com)** | **[INTERNSHIP: Pre Production](https://jobright.ai/jobs/info/6a877544d34f700f87fc594c?utm_campaign=1053&utm_source=git)** | Virginia Beach, VA, United States | On Site | Aug 20 |
 | ↳ | **[INTERNSHIP: Post Production](https://jobright.ai/jobs/info/6a8774fee8b6601d12903bba?utm_campaign=1053&utm_source=git)** | Virginia Beach, VA, United States | On Site | Aug 20 |
-| **[Vaccine Vets](https://vaccinevets.com/)** | **[Content Creator Intern](https://jobright.ai/jobs/info/6a874a7f680f314a29d38029?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | On Site | Aug 20 |
 | **[SchoolSpring](http://www.schoolspring.com)** | **[BHS Student Sports Media Intern](https://jobright.ai/jobs/info/6a874a11cde3717f9e9b1400?utm_campaign=1053&utm_source=git)** | Bardstown, KY, United States | On Site | Aug 20 |
 | **[Golden Hippo®](http://goldenhippomedia.com)** | **[Video Editor - Youtube Intern (Bilingual)](https://jobright.ai/jobs/info/6a6145a5d51f6101c8fbac41?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 20 |
 | ↳ | **[Video Editor - Youtube Intern (Bilingual)](https://jobright.ai/jobs/info/6a800b93927c79391ad0eb62?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 20 |
