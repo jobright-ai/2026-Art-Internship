@@ -79,8 +79,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Hair Stylist Intern](https://jobright.ai/jobs/info/6a8a8bb425fc4e7ae3db4c29?utm_campaign=1053&utm_source=git)** | Sioux City, IA, United States | On Site | Aug 22 |
 | ↳ | **[Hair Stylist Intern](https://jobright.ai/jobs/info/6a8a7d9ad34f700f87fcce7d?utm_campaign=1053&utm_source=git)** | Des Moines, IA, United States | On Site | Aug 22 |
 | ↳ | **[Hair Stylist Intern](https://jobright.ai/jobs/info/6a8a7d904afae74a0834feee?utm_campaign=1053&utm_source=git)** | Norfolk, NE, United States | On Site | Aug 22 |
-| ↳ | **[Hair Stylist Intern](https://jobright.ai/jobs/info/6a8a7d874afae74a0834feeb?utm_campaign=1053&utm_source=git)** | West Des Moines, IA, United States | On Site | Aug 22 |
 | ↳ | **[Hair Stylist Intern](https://jobright.ai/jobs/info/6a8a7d92cde3717f9e9b9892?utm_campaign=1053&utm_source=git)** | Newton, IA, United States | On Site | Aug 22 |
+| ↳ | **[Hair Stylist Intern](https://jobright.ai/jobs/info/6a8a7d874afae74a0834feeb?utm_campaign=1053&utm_source=git)** | West Des Moines, IA, United States | On Site | Aug 22 |
 | ↳ | **[Hair Stylist Intern](https://jobright.ai/jobs/info/6a8a7d8acde3717f9e9b9891?utm_campaign=1053&utm_source=git)** | Pleasant Hill, IA, United States | On Site | Aug 22 |
 | **[Massachusetts Medical Society](http://www.massmed.org/)** | **[NEJM Editorial Fellow](https://jobright.ai/jobs/info/6a55f863392ae330b30e860d?utm_campaign=1053&utm_source=git)** | Boston, MA, United States | On Site | Aug 22 |
 | **[Petra Aroma](www.petraaroma.com)** | **[Social Media Content Editor Intern for wellness startup in Puerto Rico / Remote](https://jobright.ai/jobs/info/6a8b6103d34f700f87fcdbb9?utm_campaign=1053&utm_source=git)** | Puerto Rico | Remote | Aug 22 |
@@ -95,7 +95,6 @@ For a complete list, click the following sortable link below:
 | **[Elite Sports Clubs](http://eliteclubs.com)** | **[Community Events Intern](https://jobright.ai/jobs/info/6a887b20cde3717f9e9b5687?utm_campaign=1053&utm_source=git)** | Milwaukee, WI, United States | On Site | Aug 21 |
 | **[Audacy, Inc.](https://audacyinc.com/)** | **[NYSBA Internship (Fall Semester)](https://jobright.ai/jobs/info/6a88a526cde3717f9e9b6492?utm_campaign=1053&utm_source=git)** | Rochester, NY, United States | On Site | Aug 21 |
 | **[Lavonne's The Agency](https://lavonnestheagency.com/)** | **[Film Intern - Reality TV Production (Videography & Editing Focused)](https://jobright.ai/jobs/info/6a889461e8b6601d1290780f?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | Hybrid | Aug 21 |
-| **[rag & bone](http://www.rag-bone.com)** | **[Fall 2026 Intern - Footwear/Accessories Production](https://jobright.ai/jobs/info/6a87528ccde3717f9e9b1723?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Aug 21 |
 | **[CYTO | PHL](https://cytophl.com)** | **[Fall Intern](https://jobright.ai/jobs/info/6a886811e8b6601d129068a3?utm_campaign=1053&utm_source=git)** | Philadelphia, PA, United States | On Site | Aug 21 |
 | **[WPHL-TV](https://www.phl17.com)** | **[Lifestyle Show Fall Intern](https://jobright.ai/jobs/info/6a6bad00acb0a61f9dbc22f0?utm_campaign=1053&utm_source=git)** | Philadelphia, PA, United States | On Site | Aug 21 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Lifestyle Show Fall Intern](https://jobright.ai/jobs/info/6a6b5ff157120971bf3a6640?utm_campaign=1053&utm_source=git)** | Philadelphia, PA, United States | On Site | Aug 21 |
