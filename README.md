@@ -57,11 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Charter & Co](https://chartercreative.co)** | **[Video Editing Intern](https://jobright.ai/jobs/info/6a8cb1b7d34f700f87fd2312?utm_campaign=1053&utm_source=git)** | Hanover Park, IL, United States | On Site | Aug 24 |
+| **[Destination Bryan](https://www.destinationbryan.com)** | **[Event Operations Intern](https://jobright.ai/jobs/info/6a8cb1481d96e6541c8c2840?utm_campaign=1053&utm_source=git)** | Bryan, TX, United States | On Site | Aug 24 |
 | **[Cryo Mix](https://www.cryo-mix.com)** | **[Creator and Growth Intern: Intelligent Music Production Copilot](https://jobright.ai/jobs/info/6a8ca856581f2d7bfdfe4fb6?utm_campaign=1053&utm_source=git)** | Santa Clara, CA, United States | On Site | Aug 24 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Commercial Production Intern](https://jobright.ai/jobs/info/6a8c5cd9d34f700f87fd002c?utm_campaign=1053&utm_source=git)** | Mount Pleasant, SC, United States | On Site | Aug 24 |
 | **[Create Music Group](https://www.createmusicgroup.com/)** | **[Studio Intern](https://jobright.ai/jobs/info/6a8c7fd5581f2d7bfdfe406e?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | On Site | Aug 24 |
 | **[Plural](https://www.plural.co)** | **[Junior Editor (intern)](https://jobright.ai/jobs/info/6a8c5e7ccde3717f9e9bca7f?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Aug 24 |
-| **[National STEM Honor Society (NSTEM)](https://nstem.org)** | **[Video, Film, and Media Production Intern](https://jobright.ai/jobs/info/6a8c5899cde3717f9e9bc7f6?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 24 |
 | **[Music Label Co.](https://musiclabel.co/)** | **[Sync Coordinator Internship](https://jobright.ai/jobs/info/6a8c51041d96e6541c8c0032?utm_campaign=1053&utm_source=git)** | Clifton, NJ, United States | Hybrid | Aug 24 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid News Intern](https://jobright.ai/jobs/info/6972b01a9b83b424830eb8a4?utm_campaign=1053&utm_source=git)** | IN-Indianapolis;6910 Network Place (Tribune-WXIN/WTTV) | On Site | Aug 24 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Content Creator Intern - Fair Department](https://jobright.ai/jobs/info/6a8c476e1d96e6541c8bfd8f?utm_campaign=1053&utm_source=git)** | Mason, MI, United States | On Site | Aug 24 |
@@ -69,6 +70,8 @@ For a complete list, click the following sortable link below:
 | **[Center for Strategic and International Studies (CSIS)](https://www.csis.org)** | **[Multimedia Production Intern](https://jobright.ai/jobs/info/6a8c2998cde3717f9e9bbc10?utm_campaign=1053&utm_source=git)** | Washington, D.C., United States | On Site | Aug 24 |
 | **[Berkeley Industrial Engineering & Operations Research](https://ieor.berkeley.edu)** | **[Videography Trainee. Paid Internship Opportunity at Insight Editions](https://jobright.ai/jobs/info/6a8c24904aa74f570d3cee61?utm_campaign=1053&utm_source=git)** | San Rafael, CA, United States | On Site | Aug 24 |
 | **[Monterey Peninsula Country Club](http://www.mpccpb.org)** | **[PGA Intern](https://jobright.ai/jobs/info/6a8bcd13e8b6601d1290cad6?utm_campaign=1053&utm_source=git)** | Pebble Beach, CA, United States | On Site | Aug 23 |
+| **[Warner Bros. Discovery](https://wbd.com)** | **[WBD Academic Year Internships (WAY): NYC CNN News, Documentary, and Social - Fall 2026](https://jobright.ai/jobs/info/6a8cafa81d96e6541c8c274a?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Hybrid | Aug 23 |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[WDI Communications Intern, Orlando, Spring 2027](https://jobright.ai/jobs/info/6a8caf352f736c304f2a74d8?utm_campaign=1053&utm_source=git)** | Lake Buena Vista, FL, United States | On Site | Aug 23 |
 | **[McGill University](http://www.mcgill.ca)** | **[Museum Database Assistant (AUS Intern)](https://jobright.ai/jobs/info/6a8c99a71d96e6541c8c1de8?utm_campaign=1053&utm_source=git)** | Canada | Remote | Aug 23 |
 | **[Maryland Institute College of Art](http://www.mica.edu/)** | **[Globe Press Intern, Student Worker](https://jobright.ai/jobs/info/6a8c8b8dd34f700f87fd12fd?utm_campaign=1053&utm_source=git)** | Baltimore, MD, United States | On Site | Aug 23 |
 | **[Golden Hippo®](http://goldenhippomedia.com)** | **[Video Editor - Youtube Intern (Bilingual)](https://jobright.ai/jobs/info/6a59040463a8f619507bfad3?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 23 |
@@ -81,7 +84,6 @@ For a complete list, click the following sortable link below:
 | **[Great Clips Careers of ND & MN](http://jobs.greatclips.com)** | **[Hair Stylist Intern](https://jobright.ai/jobs/info/6a8a6211e8b6601d1290afa4?utm_campaign=1053&utm_source=git)** | Waukee, IA, United States | On Site | Aug 22 |
 | ↳ | **[Hair Stylist Intern](https://jobright.ai/jobs/info/6a8a7d9ad34f700f87fcce7d?utm_campaign=1053&utm_source=git)** | Des Moines, IA, United States | On Site | Aug 22 |
 | ↳ | **[Hair Stylist Intern](https://jobright.ai/jobs/info/6a8a7d904afae74a0834feee?utm_campaign=1053&utm_source=git)** | Norfolk, NE, United States | On Site | Aug 22 |
-| ↳ | **[Hair Stylist Intern](https://jobright.ai/jobs/info/6a8a7d92cde3717f9e9b9892?utm_campaign=1053&utm_source=git)** | Newton, IA, United States | On Site | Aug 22 |
 | ↳ | **[Hair Stylist Intern](https://jobright.ai/jobs/info/6a8a7d874afae74a0834feeb?utm_campaign=1053&utm_source=git)** | West Des Moines, IA, United States | On Site | Aug 22 |
 | ↳ | **[Hair Stylist Intern](https://jobright.ai/jobs/info/6a8a7d8acde3717f9e9b9891?utm_campaign=1053&utm_source=git)** | Pleasant Hill, IA, United States | On Site | Aug 22 |
 | **[Massachusetts Medical Society](http://www.massmed.org/)** | **[NEJM Editorial Fellow](https://jobright.ai/jobs/info/6a55f863392ae330b30e860d?utm_campaign=1053&utm_source=git)** | Boston, MA, United States | On Site | Aug 22 |
