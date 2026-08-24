@@ -61,7 +61,6 @@ For a complete list, click the following sortable link below:
 | **[Golden Hippo®](http://goldenhippomedia.com)** | **[Video Editor - Youtube Intern (Bilingual)](https://jobright.ai/jobs/info/6a59040463a8f619507bfad3?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 23 |
 | **[Pasilobus](https://pasilobus.com/)** | **[Content Creator Intern (Part-Time)](https://jobright.ai/jobs/info/6a8b54d825fc4e7ae3db57d9?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 23 |
 | **[Hoboken Grace Community Church](http://www.hobokengrace.com)** | **[Video Production Intern - Fall 2026](https://jobright.ai/jobs/info/6a8b53ee25fc4e7ae3db57d4?utm_campaign=1053&utm_source=git)** | Hoboken, NJ, United States | On Site | Aug 23 |
-| **[BRANDHIVE](www.brandhivemarketing.com)** | **[ENTRY LEVEL ASSISTANT / Intern](https://jobright.ai/jobs/info/6a8b8faa4afae74a08350ecc?utm_campaign=1053&utm_source=git)** | Miami, FL, United States | Hybrid | Aug 23 |
 | **[The Aparecio Foundation](https://www.apareciofoundation.org)** | **[Volunteer/Intern:Pro bono: Editor of "Party" Content in Felix](https://jobright.ai/jobs/info/6a8afbff25fc4e7ae3db52fa?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | On Site | Aug 23 |
 | **[TINGE](https://tingebeauty.com)** | **[TikTok Intern](https://jobright.ai/jobs/info/6a8ad986680f314a29d40947?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 23 |
 | **[Hasana, Inc.](http://shophasana.com)** | **[Volunteer/Intern:Pro Bono :Editor of "Men's" Content in Felix](https://jobright.ai/jobs/info/6a5604ac10c4d945d8646d92?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | On Site | Aug 22 |
@@ -143,6 +142,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Agency Ops Project Intern (TikTok Local Services) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a5076339469c06620351013?utm_campaign=1053&utm_source=git)** | Los Angeles, United States | On Site | Aug 18 |
 | **[Keysha.ai](https://keysha.ai/)** | **[Podcast Producer & Marketing Intern](https://jobright.ai/jobs/info/6a83d3b31081a745e9711268?utm_campaign=1053&utm_source=git)** | Dallas, TX, United States | Remote | Aug 17 |
 | **[Noble Media Marketing](https://www.noblemediamarketing.com/)** | **[Photography & Videography Intern](https://jobright.ai/jobs/info/6a835d1e2dbaf907b076837d?utm_campaign=1053&utm_source=git)** | Canada | Remote | Aug 17 |
-| **[Trenton Ironhawks](trentonironhawks.com)** | **[Videographer Internship](https://jobright.ai/jobs/info/6a831d312dbaf907b0766679?utm_campaign=1053&utm_source=git)** | Trenton, NJ, United States | On Site | Aug 17 |
-| **[Salvi](https://www.salvimedia.com/)** | **[Editing Intern](https://jobright.ai/jobs/info/6a831bb29b859b227766c790?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | On Site | Aug 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
