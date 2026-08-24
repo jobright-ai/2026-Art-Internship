@@ -57,8 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cryo Mix](https://www.cryo-mix.com)** | **[Creator and Growth Intern: Intelligent Music Production Copilot](https://jobright.ai/jobs/info/6a8ca856581f2d7bfdfe4fb6?utm_campaign=1053&utm_source=git)** | Santa Clara, CA, United States | On Site | Aug 24 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Commercial Production Intern](https://jobright.ai/jobs/info/6a8c5cd9d34f700f87fd002c?utm_campaign=1053&utm_source=git)** | Mount Pleasant, SC, United States | On Site | Aug 24 |
-| **[Film Mode Entertainment](http://filmmodeentertainment.com/)** | **[Film Development Intern](https://jobright.ai/jobs/info/6a8ca04d25fc4e7ae3db97e9?utm_campaign=1053&utm_source=git)** | Beverly Hills, CA, United States | Remote | Aug 24 |
 | **[Create Music Group](https://www.createmusicgroup.com/)** | **[Studio Intern](https://jobright.ai/jobs/info/6a8c7fd5581f2d7bfdfe406e?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | On Site | Aug 24 |
 | **[Plural](https://www.plural.co)** | **[Junior Editor (intern)](https://jobright.ai/jobs/info/6a8c5e7ccde3717f9e9bca7f?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Aug 24 |
 | **[National STEM Honor Society (NSTEM)](https://nstem.org)** | **[Video, Film, and Media Production Intern](https://jobright.ai/jobs/info/6a8c5899cde3717f9e9bc7f6?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 24 |
@@ -79,7 +79,6 @@ For a complete list, click the following sortable link below:
 | **[Hasana, Inc.](http://shophasana.com)** | **[Volunteer/Intern:Pro Bono :Editor of "Men's" Content in Felix](https://jobright.ai/jobs/info/6a5604ac10c4d945d8646d92?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | On Site | Aug 22 |
 | **[WAVY-TV 10](http://wavy.com)** | **[WAVY Unpaid Digital NewsDesk Intern, Fall 2026](https://jobright.ai/jobs/info/69fb5053ffa73664aeafe7d5?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Aug 22 |
 | **[Great Clips Careers of ND & MN](http://jobs.greatclips.com)** | **[Hair Stylist Intern](https://jobright.ai/jobs/info/6a8a6211e8b6601d1290afa4?utm_campaign=1053&utm_source=git)** | Waukee, IA, United States | On Site | Aug 22 |
-| ↳ | **[Hair Stylist Intern](https://jobright.ai/jobs/info/6a8a8bb425fc4e7ae3db4c29?utm_campaign=1053&utm_source=git)** | Sioux City, IA, United States | On Site | Aug 22 |
 | ↳ | **[Hair Stylist Intern](https://jobright.ai/jobs/info/6a8a7d9ad34f700f87fcce7d?utm_campaign=1053&utm_source=git)** | Des Moines, IA, United States | On Site | Aug 22 |
 | ↳ | **[Hair Stylist Intern](https://jobright.ai/jobs/info/6a8a7d904afae74a0834feee?utm_campaign=1053&utm_source=git)** | Norfolk, NE, United States | On Site | Aug 22 |
 | ↳ | **[Hair Stylist Intern](https://jobright.ai/jobs/info/6a8a7d92cde3717f9e9b9892?utm_campaign=1053&utm_source=git)** | Newton, IA, United States | On Site | Aug 22 |
@@ -151,5 +150,4 @@ For a complete list, click the following sortable link below:
 | **[The Aparecio Foundation](https://www.apareciofoundation.org)** | **[Volunteer Journalist](https://jobright.ai/jobs/info/6a842b0ee12474455273914e?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Aug 18 |
 | **[TikTok](https://www.tiktok.com)** | **[Creator LIVE Project Intern (TikTok Shop - US Operation) - 2026 Start](https://jobright.ai/jobs/info/6a5fe09333ef5c58b4000bf3?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | On Site | Aug 18 |
 | ↳ | **[Agency Ops Project Intern (TikTok Local Services) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a5076339469c06620351013?utm_campaign=1053&utm_source=git)** | Los Angeles, United States | On Site | Aug 18 |
-| **[Keysha.ai](https://keysha.ai/)** | **[Podcast Producer & Marketing Intern](https://jobright.ai/jobs/info/6a83d3b31081a745e9711268?utm_campaign=1053&utm_source=git)** | Dallas, TX, United States | Remote | Aug 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
