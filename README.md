@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Plural](https://www.plural.co)** | **[Junior Editor (intern)](https://jobright.ai/jobs/info/6a8c5e7ccde3717f9e9bca7f?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Aug 24 |
 | **[National STEM Honor Society (NSTEM)](https://nstem.org)** | **[Video, Film, and Media Production Intern](https://jobright.ai/jobs/info/6a8c5899cde3717f9e9bc7f6?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 24 |
 | **[Music Label Co.](https://musiclabel.co/)** | **[Sync Coordinator Internship](https://jobright.ai/jobs/info/6a8c51041d96e6541c8c0032?utm_campaign=1053&utm_source=git)** | Clifton, NJ, United States | Hybrid | Aug 24 |
 | **[The Hai Haus](https://www.thehaihaus.com)** | **[Video Editing Intern](https://jobright.ai/jobs/info/6a8c508b2f736c304f2a4ec9?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Remote | Aug 24 |
@@ -75,10 +76,10 @@ For a complete list, click the following sortable link below:
 | **[Hasana, Inc.](http://shophasana.com)** | **[Volunteer/Intern:Pro Bono :Editor of "Men's" Content in Felix](https://jobright.ai/jobs/info/6a5604ac10c4d945d8646d92?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | On Site | Aug 22 |
 | **[WAVY-TV 10](http://wavy.com)** | **[WAVY Unpaid Digital NewsDesk Intern, Fall 2026](https://jobright.ai/jobs/info/69fb5053ffa73664aeafe7d5?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Aug 22 |
 | **[Great Clips Careers of ND & MN](http://jobs.greatclips.com)** | **[Hair Stylist Intern](https://jobright.ai/jobs/info/6a8a6211e8b6601d1290afa4?utm_campaign=1053&utm_source=git)** | Waukee, IA, United States | On Site | Aug 22 |
-| ↳ | **[Hair Stylist Intern](https://jobright.ai/jobs/info/6a8a620d680f314a29d40183?utm_campaign=1053&utm_source=git)** | West Des Moines, IA, United States | On Site | Aug 22 |
 | ↳ | **[Hair Stylist Intern](https://jobright.ai/jobs/info/6a8a8bb425fc4e7ae3db4c29?utm_campaign=1053&utm_source=git)** | Sioux City, IA, United States | On Site | Aug 22 |
 | ↳ | **[Hair Stylist Intern](https://jobright.ai/jobs/info/6a8a7d9ad34f700f87fcce7d?utm_campaign=1053&utm_source=git)** | Des Moines, IA, United States | On Site | Aug 22 |
 | ↳ | **[Hair Stylist Intern](https://jobright.ai/jobs/info/6a8a7d904afae74a0834feee?utm_campaign=1053&utm_source=git)** | Norfolk, NE, United States | On Site | Aug 22 |
+| ↳ | **[Hair Stylist Intern](https://jobright.ai/jobs/info/6a8a7d874afae74a0834feeb?utm_campaign=1053&utm_source=git)** | West Des Moines, IA, United States | On Site | Aug 22 |
 | ↳ | **[Hair Stylist Intern](https://jobright.ai/jobs/info/6a8a7d92cde3717f9e9b9892?utm_campaign=1053&utm_source=git)** | Newton, IA, United States | On Site | Aug 22 |
 | ↳ | **[Hair Stylist Intern](https://jobright.ai/jobs/info/6a8a7d8acde3717f9e9b9891?utm_campaign=1053&utm_source=git)** | Pleasant Hill, IA, United States | On Site | Aug 22 |
 | **[Massachusetts Medical Society](http://www.massmed.org/)** | **[NEJM Editorial Fellow](https://jobright.ai/jobs/info/6a55f863392ae330b30e860d?utm_campaign=1053&utm_source=git)** | Boston, MA, United States | On Site | Aug 22 |
