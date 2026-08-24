@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Center for Strategic and International Studies (CSIS)](https://www.csis.org)** | **[Multimedia Production Intern](https://jobright.ai/jobs/info/6a8c2998cde3717f9e9bbc10?utm_campaign=1053&utm_source=git)** | Washington, D.C., United States | On Site | Aug 24 |
+| **[Berkeley Industrial Engineering & Operations Research](https://ieor.berkeley.edu)** | **[Videography Trainee. Paid Internship Opportunity at Insight Editions](https://jobright.ai/jobs/info/6a8c24904aa74f570d3cee61?utm_campaign=1053&utm_source=git)** | San Rafael, CA, United States | On Site | Aug 24 |
 | **[Monterey Peninsula Country Club](http://www.mpccpb.org)** | **[PGA Intern](https://jobright.ai/jobs/info/6a8bcd13e8b6601d1290cad6?utm_campaign=1053&utm_source=git)** | Pebble Beach, CA, United States | On Site | Aug 23 |
 | **[Golden Hippo®](http://goldenhippomedia.com)** | **[Video Editor - Youtube Intern (Bilingual)](https://jobright.ai/jobs/info/6a59040463a8f619507bfad3?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 23 |
 | **[Pasilobus](https://pasilobus.com/)** | **[Content Creator Intern (Part-Time)](https://jobright.ai/jobs/info/6a8b54d825fc4e7ae3db57d9?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 23 |
@@ -141,5 +143,4 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Creator LIVE Project Intern (TikTok Shop - US Operation) - 2026 Start](https://jobright.ai/jobs/info/6a5fe09333ef5c58b4000bf3?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | On Site | Aug 18 |
 | ↳ | **[Agency Ops Project Intern (TikTok Local Services) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a5076339469c06620351013?utm_campaign=1053&utm_source=git)** | Los Angeles, United States | On Site | Aug 18 |
 | **[Keysha.ai](https://keysha.ai/)** | **[Podcast Producer & Marketing Intern](https://jobright.ai/jobs/info/6a83d3b31081a745e9711268?utm_campaign=1053&utm_source=git)** | Dallas, TX, United States | Remote | Aug 17 |
-| **[Noble Media Marketing](https://www.noblemediamarketing.com/)** | **[Photography & Videography Intern](https://jobright.ai/jobs/info/6a835d1e2dbaf907b076837d?utm_campaign=1053&utm_source=git)** | Canada | Remote | Aug 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
