@@ -57,18 +57,19 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Commercial Production Intern](https://jobright.ai/jobs/info/6a8c5cd9d34f700f87fd002c?utm_campaign=1053&utm_source=git)** | Mount Pleasant, SC, United States | On Site | Aug 24 |
+| **[Film Mode Entertainment](http://filmmodeentertainment.com/)** | **[Film Development Intern](https://jobright.ai/jobs/info/6a8ca04d25fc4e7ae3db97e9?utm_campaign=1053&utm_source=git)** | Beverly Hills, CA, United States | Remote | Aug 24 |
 | **[Create Music Group](https://www.createmusicgroup.com/)** | **[Studio Intern](https://jobright.ai/jobs/info/6a8c7fd5581f2d7bfdfe406e?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | On Site | Aug 24 |
 | **[Plural](https://www.plural.co)** | **[Junior Editor (intern)](https://jobright.ai/jobs/info/6a8c5e7ccde3717f9e9bca7f?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Aug 24 |
 | **[National STEM Honor Society (NSTEM)](https://nstem.org)** | **[Video, Film, and Media Production Intern](https://jobright.ai/jobs/info/6a8c5899cde3717f9e9bc7f6?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 24 |
 | **[Music Label Co.](https://musiclabel.co/)** | **[Sync Coordinator Internship](https://jobright.ai/jobs/info/6a8c51041d96e6541c8c0032?utm_campaign=1053&utm_source=git)** | Clifton, NJ, United States | Hybrid | Aug 24 |
-| **[The Hai Haus](https://www.thehaihaus.com)** | **[Video Editing Intern](https://jobright.ai/jobs/info/6a8c508b2f736c304f2a4ec9?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Remote | Aug 24 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid News Intern](https://jobright.ai/jobs/info/6972b01a9b83b424830eb8a4?utm_campaign=1053&utm_source=git)** | IN-Indianapolis;6910 Network Place (Tribune-WXIN/WTTV) | On Site | Aug 24 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Content Creator Intern - Fair Department](https://jobright.ai/jobs/info/6a8c476e1d96e6541c8bfd8f?utm_campaign=1053&utm_source=git)** | Mason, MI, United States | On Site | Aug 24 |
 | **[SFMOMA San Francisco Museum of Modern Art](https://www.sfmoma.org)** | **[Archives and Records Management Intern: Artwork Documentation](https://jobright.ai/jobs/info/6a8c3b921d96e6541c8bfa91?utm_campaign=1053&utm_source=git)** | San Francisco, CA, United States | On Site | Aug 24 |
 | **[Center for Strategic and International Studies (CSIS)](https://www.csis.org)** | **[Multimedia Production Intern](https://jobright.ai/jobs/info/6a8c2998cde3717f9e9bbc10?utm_campaign=1053&utm_source=git)** | Washington, D.C., United States | On Site | Aug 24 |
 | **[Berkeley Industrial Engineering & Operations Research](https://ieor.berkeley.edu)** | **[Videography Trainee. Paid Internship Opportunity at Insight Editions](https://jobright.ai/jobs/info/6a8c24904aa74f570d3cee61?utm_campaign=1053&utm_source=git)** | San Rafael, CA, United States | On Site | Aug 24 |
 | **[Monterey Peninsula Country Club](http://www.mpccpb.org)** | **[PGA Intern](https://jobright.ai/jobs/info/6a8bcd13e8b6601d1290cad6?utm_campaign=1053&utm_source=git)** | Pebble Beach, CA, United States | On Site | Aug 23 |
-| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Commercial Production Intern](https://jobright.ai/jobs/info/6a8c5cd9d34f700f87fd002c?utm_campaign=1053&utm_source=git)** | Mount Pleasant, SC, United States | On Site | Aug 23 |
+| **[McGill University](http://www.mcgill.ca)** | **[Museum Database Assistant (AUS Intern)](https://jobright.ai/jobs/info/6a8c99a71d96e6541c8c1de8?utm_campaign=1053&utm_source=git)** | Canada | Remote | Aug 23 |
 | **[Maryland Institute College of Art](http://www.mica.edu/)** | **[Globe Press Intern, Student Worker](https://jobright.ai/jobs/info/6a8c8b8dd34f700f87fd12fd?utm_campaign=1053&utm_source=git)** | Baltimore, MD, United States | On Site | Aug 23 |
 | **[Golden Hippo®](http://goldenhippomedia.com)** | **[Video Editor - Youtube Intern (Bilingual)](https://jobright.ai/jobs/info/6a59040463a8f619507bfad3?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 23 |
 | **[Pasilobus](https://pasilobus.com/)** | **[Content Creator Intern (Part-Time)](https://jobright.ai/jobs/info/6a8b54d825fc4e7ae3db57d9?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 23 |
@@ -81,8 +82,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Hair Stylist Intern](https://jobright.ai/jobs/info/6a8a8bb425fc4e7ae3db4c29?utm_campaign=1053&utm_source=git)** | Sioux City, IA, United States | On Site | Aug 22 |
 | ↳ | **[Hair Stylist Intern](https://jobright.ai/jobs/info/6a8a7d9ad34f700f87fcce7d?utm_campaign=1053&utm_source=git)** | Des Moines, IA, United States | On Site | Aug 22 |
 | ↳ | **[Hair Stylist Intern](https://jobright.ai/jobs/info/6a8a7d904afae74a0834feee?utm_campaign=1053&utm_source=git)** | Norfolk, NE, United States | On Site | Aug 22 |
-| ↳ | **[Hair Stylist Intern](https://jobright.ai/jobs/info/6a8a7d874afae74a0834feeb?utm_campaign=1053&utm_source=git)** | West Des Moines, IA, United States | On Site | Aug 22 |
 | ↳ | **[Hair Stylist Intern](https://jobright.ai/jobs/info/6a8a7d92cde3717f9e9b9892?utm_campaign=1053&utm_source=git)** | Newton, IA, United States | On Site | Aug 22 |
+| ↳ | **[Hair Stylist Intern](https://jobright.ai/jobs/info/6a8a7d874afae74a0834feeb?utm_campaign=1053&utm_source=git)** | West Des Moines, IA, United States | On Site | Aug 22 |
 | ↳ | **[Hair Stylist Intern](https://jobright.ai/jobs/info/6a8a7d8acde3717f9e9b9891?utm_campaign=1053&utm_source=git)** | Pleasant Hill, IA, United States | On Site | Aug 22 |
 | **[Massachusetts Medical Society](http://www.massmed.org/)** | **[NEJM Editorial Fellow](https://jobright.ai/jobs/info/6a55f863392ae330b30e860d?utm_campaign=1053&utm_source=git)** | Boston, MA, United States | On Site | Aug 22 |
 | **[Petra Aroma](www.petraaroma.com)** | **[Social Media Content Editor Intern for wellness startup in Puerto Rico / Remote](https://jobright.ai/jobs/info/6a8b6103d34f700f87fcdbb9?utm_campaign=1053&utm_source=git)** | Puerto Rico | Remote | Aug 22 |
