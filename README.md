@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Create Music Group](https://www.createmusicgroup.com/)** | **[Studio Intern](https://jobright.ai/jobs/info/6a8c7fd5581f2d7bfdfe406e?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | On Site | Aug 24 |
 | **[Plural](https://www.plural.co)** | **[Junior Editor (intern)](https://jobright.ai/jobs/info/6a8c5e7ccde3717f9e9bca7f?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Aug 24 |
 | **[National STEM Honor Society (NSTEM)](https://nstem.org)** | **[Video, Film, and Media Production Intern](https://jobright.ai/jobs/info/6a8c5899cde3717f9e9bc7f6?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 24 |
 | **[Music Label Co.](https://musiclabel.co/)** | **[Sync Coordinator Internship](https://jobright.ai/jobs/info/6a8c51041d96e6541c8c0032?utm_campaign=1053&utm_source=git)** | Clifton, NJ, United States | Hybrid | Aug 24 |
