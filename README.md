@@ -69,6 +69,7 @@ For a complete list, click the following sortable link below:
 | **[Berkeley Industrial Engineering & Operations Research](https://ieor.berkeley.edu)** | **[Videography Trainee. Paid Internship Opportunity at Insight Editions](https://jobright.ai/jobs/info/6a8c24904aa74f570d3cee61?utm_campaign=1053&utm_source=git)** | San Rafael, CA, United States | On Site | Aug 24 |
 | **[Monterey Peninsula Country Club](http://www.mpccpb.org)** | **[PGA Intern](https://jobright.ai/jobs/info/6a8bcd13e8b6601d1290cad6?utm_campaign=1053&utm_source=git)** | Pebble Beach, CA, United States | On Site | Aug 23 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Commercial Production Intern](https://jobright.ai/jobs/info/6a8c5cd9d34f700f87fd002c?utm_campaign=1053&utm_source=git)** | Mount Pleasant, SC, United States | On Site | Aug 23 |
+| **[Maryland Institute College of Art](http://www.mica.edu/)** | **[Globe Press Intern, Student Worker](https://jobright.ai/jobs/info/6a8c8b8dd34f700f87fd12fd?utm_campaign=1053&utm_source=git)** | Baltimore, MD, United States | On Site | Aug 23 |
 | **[Golden Hippo®](http://goldenhippomedia.com)** | **[Video Editor - Youtube Intern (Bilingual)](https://jobright.ai/jobs/info/6a59040463a8f619507bfad3?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 23 |
 | **[Pasilobus](https://pasilobus.com/)** | **[Content Creator Intern (Part-Time)](https://jobright.ai/jobs/info/6a8b54d825fc4e7ae3db57d9?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 23 |
 | **[Hoboken Grace Community Church](http://www.hobokengrace.com)** | **[Video Production Intern - Fall 2026](https://jobright.ai/jobs/info/6a8b53ee25fc4e7ae3db57d4?utm_campaign=1053&utm_source=git)** | Hoboken, NJ, United States | On Site | Aug 23 |
@@ -80,8 +81,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Hair Stylist Intern](https://jobright.ai/jobs/info/6a8a8bb425fc4e7ae3db4c29?utm_campaign=1053&utm_source=git)** | Sioux City, IA, United States | On Site | Aug 22 |
 | ↳ | **[Hair Stylist Intern](https://jobright.ai/jobs/info/6a8a7d9ad34f700f87fcce7d?utm_campaign=1053&utm_source=git)** | Des Moines, IA, United States | On Site | Aug 22 |
 | ↳ | **[Hair Stylist Intern](https://jobright.ai/jobs/info/6a8a7d904afae74a0834feee?utm_campaign=1053&utm_source=git)** | Norfolk, NE, United States | On Site | Aug 22 |
-| ↳ | **[Hair Stylist Intern](https://jobright.ai/jobs/info/6a8a7d92cde3717f9e9b9892?utm_campaign=1053&utm_source=git)** | Newton, IA, United States | On Site | Aug 22 |
 | ↳ | **[Hair Stylist Intern](https://jobright.ai/jobs/info/6a8a7d874afae74a0834feeb?utm_campaign=1053&utm_source=git)** | West Des Moines, IA, United States | On Site | Aug 22 |
+| ↳ | **[Hair Stylist Intern](https://jobright.ai/jobs/info/6a8a7d92cde3717f9e9b9892?utm_campaign=1053&utm_source=git)** | Newton, IA, United States | On Site | Aug 22 |
 | ↳ | **[Hair Stylist Intern](https://jobright.ai/jobs/info/6a8a7d8acde3717f9e9b9891?utm_campaign=1053&utm_source=git)** | Pleasant Hill, IA, United States | On Site | Aug 22 |
 | **[Massachusetts Medical Society](http://www.massmed.org/)** | **[NEJM Editorial Fellow](https://jobright.ai/jobs/info/6a55f863392ae330b30e860d?utm_campaign=1053&utm_source=git)** | Boston, MA, United States | On Site | Aug 22 |
 | **[Petra Aroma](www.petraaroma.com)** | **[Social Media Content Editor Intern for wellness startup in Puerto Rico / Remote](https://jobright.ai/jobs/info/6a8b6103d34f700f87fcdbb9?utm_campaign=1053&utm_source=git)** | Puerto Rico | Remote | Aug 22 |
