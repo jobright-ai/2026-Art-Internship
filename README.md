@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Disney Experiences](https://disneyconnect.com)** | **[WDI Communications Intern, Orlando, Spring 2027](https://jobright.ai/jobs/info/6a8d3279d34f700f87fd3c47?utm_campaign=1053&utm_source=git)** | Lake Buena Vista, FL, United States | On Site | Aug 24 |
 | **[Hasana, Inc.](http://shophasana.com)** | **[Volunteer/Intern: Film/Video Editor](https://jobright.ai/jobs/info/6a584c973330ca6f993c3e99?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | On Site | Aug 24 |
 | **[Jacksonville Icemen](https://jacksonvilleicemen.com)** | **[Charlotte Checkers Game Presentation Internship 2026-2027 Season](https://jobright.ai/jobs/info/6a8d24072f736c304f2a8eac?utm_campaign=1053&utm_source=git)** | Charlotte, NC, United States | On Site | Aug 24 |
 | **[Tencent](https://www.tencent.com/)** | **[Publishing Intern](https://jobright.ai/jobs/info/6a8d1992a5639a481032533b?utm_campaign=1053&utm_source=git)** | Irvine, CA, United States | On Site | Aug 24 |
