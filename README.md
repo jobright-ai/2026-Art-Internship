@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[PolyChat](https://www.polychatapp.com)** | **[TikTok & Instagram Content Creator Intern - PolyChat](https://jobright.ai/jobs/info/6a8d0c7da5639a48103251a3?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 24 |
 | **[Gift](https://www.shine.gift)** | **[Social Media Editor Intern](https://jobright.ai/jobs/info/6a8cffb2581f2d7bfdfe679e?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | Remote | Aug 24 |
 | **[Indiana Sports Corp](https://www.indianasportscorp.org/events/2022-indy-ultimate)** | **[Event Operations Intern](https://jobright.ai/jobs/info/6a8cfe2bd34f700f87fd3586?utm_campaign=1053&utm_source=git)** | Indianapolis, IN, United States | On Site | Aug 24 |
 | **[Low Battery](https://raptv.com/)** | **[Short-Form Video Editor Intern, Fall 2026](https://jobright.ai/jobs/info/6a8cde0325fc4e7ae3dbac9d?utm_campaign=1053&utm_source=git)** | Los Angeles metropolitan area, United States | On Site | Aug 24 |
@@ -108,7 +109,6 @@ For a complete list, click the following sortable link below:
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Intern, Artist Manager Assistant](https://jobright.ai/jobs/info/6a32e02329c90c607e4d87d1?utm_campaign=1053&utm_source=git)** | Etobicoke, ON, CA | On Site | Aug 21 |
 | **[Hearst Television](http://www.hearsttelevision.com)** | **[News Intern](https://jobright.ai/jobs/info/6a855f98e459fa3baa862383?utm_campaign=1053&utm_source=git)** | Needham, MA, United States | On Site | Aug 21 |
 | **[NewForm](https://newform.com)** | **[Creative Production Intern](https://jobright.ai/jobs/info/6a6ff874160eda5948e8d0ba?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Aug 20 |
-| **[Phoenix Suns](https://suns.nba.com)** | **[Intern, Video Content](https://jobright.ai/jobs/info/6a7cb3af83621355407ab591?utm_campaign=1053&utm_source=git)** | Phoenix, AZ, United States | On Site | Aug 20 |
 | **[Burlington Electric Department](https://www.burlingtonelectric.com/)** | **[Art Services Internship](https://jobright.ai/jobs/info/6a879b07680f314a29d39833?utm_campaign=1053&utm_source=git)** | Burlington, VT, United States | On Site | Aug 20 |
 | **[City of Burlington, Vermont](http://www.burlingtonvt.gov)** | **[Art Services Internship](https://jobright.ai/jobs/info/6a8792d8e8b6601d129042e4?utm_campaign=1053&utm_source=git)** | Burlington, VT, United States | On Site | Aug 20 |
 | **[The Ambony](https://www.anpublishing.com/)** | **[Food & Drink Journalist Intern](https://jobright.ai/jobs/info/6a876b284afae74a08348832?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Remote | Aug 20 |
