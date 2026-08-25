@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Low Battery](https://raptv.com/)** | **[Short-Form Video Editor Intern, Fall 2026](https://jobright.ai/jobs/info/6a8cde0325fc4e7ae3dbac9d?utm_campaign=1053&utm_source=git)** | Los Angeles metropolitan area, United States | On Site | Aug 24 |
+| **[Indiana University](https://www.iu.edu)** | **[Part-Time Student Editorial Intern, Center for Rural Engagement](https://jobright.ai/jobs/info/6a8cdbdf2f736c304f2a826d?utm_campaign=1053&utm_source=git)** | Bloomington, IN, United States | On Site | Aug 24 |
 | **[Indiana University Bloomington](https://www.iu.edu)** | **[Part-Time Student Editorial Intern, Center for Rural Engagement](https://jobright.ai/jobs/info/6a8cc2a9cde3717f9e9bf1ff?utm_campaign=1053&utm_source=git)** | Bloomington, IN, United States | On Site | Aug 24 |
 | **[Charter & Co](https://chartercreative.co)** | **[Video Editing Intern](https://jobright.ai/jobs/info/6a8cb1b7d34f700f87fd2312?utm_campaign=1053&utm_source=git)** | Hanover Park, IL, United States | On Site | Aug 24 |
 | **[Destination Bryan](https://www.destinationbryan.com)** | **[Event Operations Intern](https://jobright.ai/jobs/info/6a8cb1481d96e6541c8c2840?utm_campaign=1053&utm_source=git)** | Bryan, TX, United States | On Site | Aug 24 |
@@ -148,5 +150,4 @@ For a complete list, click the following sortable link below:
 | **[Los Angeles County Museum of Art (LACMA)](http://www.lacma.org/)** | **[Intern - Paid](https://jobright.ai/jobs/info/6a85e7fcd34f700f87fbf04e?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | Hybrid | Aug 18 |
 | **[The Aparecio Foundation](https://www.apareciofoundation.org)** | **[Volunteer Journalist](https://jobright.ai/jobs/info/6a842b0ee12474455273914e?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Aug 18 |
 | **[TikTok](https://www.tiktok.com)** | **[Creator LIVE Project Intern (TikTok Shop - US Operation) - 2026 Start](https://jobright.ai/jobs/info/6a5fe09333ef5c58b4000bf3?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | On Site | Aug 18 |
-| ↳ | **[Agency Ops Project Intern (TikTok Local Services) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a5076339469c06620351013?utm_campaign=1053&utm_source=git)** | Los Angeles, United States | On Site | Aug 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
