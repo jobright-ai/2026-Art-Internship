@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Indiana University Bloomington](https://www.iu.edu)** | **[Part-Time Student Editorial Intern, Center for Rural Engagement](https://jobright.ai/jobs/info/6a8cc2a9cde3717f9e9bf1ff?utm_campaign=1053&utm_source=git)** | Bloomington, IN, United States | On Site | Aug 24 |
 | **[Charter & Co](https://chartercreative.co)** | **[Video Editing Intern](https://jobright.ai/jobs/info/6a8cb1b7d34f700f87fd2312?utm_campaign=1053&utm_source=git)** | Hanover Park, IL, United States | On Site | Aug 24 |
 | **[Destination Bryan](https://www.destinationbryan.com)** | **[Event Operations Intern](https://jobright.ai/jobs/info/6a8cb1481d96e6541c8c2840?utm_campaign=1053&utm_source=git)** | Bryan, TX, United States | On Site | Aug 24 |
 | **[Cryo Mix](https://www.cryo-mix.com)** | **[Creator and Growth Intern: Intelligent Music Production Copilot](https://jobright.ai/jobs/info/6a8ca856581f2d7bfdfe4fb6?utm_campaign=1053&utm_source=git)** | Santa Clara, CA, United States | On Site | Aug 24 |
@@ -82,10 +83,7 @@ For a complete list, click the following sortable link below:
 | **[Hasana, Inc.](http://shophasana.com)** | **[Volunteer/Intern:Pro Bono :Editor of "Men's" Content in Felix](https://jobright.ai/jobs/info/6a5604ac10c4d945d8646d92?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | On Site | Aug 22 |
 | **[WAVY-TV 10](http://wavy.com)** | **[WAVY Unpaid Digital NewsDesk Intern, Fall 2026](https://jobright.ai/jobs/info/69fb5053ffa73664aeafe7d5?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Aug 22 |
 | **[Great Clips Careers of ND & MN](http://jobs.greatclips.com)** | **[Hair Stylist Intern](https://jobright.ai/jobs/info/6a8a6211e8b6601d1290afa4?utm_campaign=1053&utm_source=git)** | Waukee, IA, United States | On Site | Aug 22 |
-| ↳ | **[Hair Stylist Intern](https://jobright.ai/jobs/info/6a8a7d9ad34f700f87fcce7d?utm_campaign=1053&utm_source=git)** | Des Moines, IA, United States | On Site | Aug 22 |
-| ↳ | **[Hair Stylist Intern](https://jobright.ai/jobs/info/6a8a7d904afae74a0834feee?utm_campaign=1053&utm_source=git)** | Norfolk, NE, United States | On Site | Aug 22 |
 | ↳ | **[Hair Stylist Intern](https://jobright.ai/jobs/info/6a8a7d874afae74a0834feeb?utm_campaign=1053&utm_source=git)** | West Des Moines, IA, United States | On Site | Aug 22 |
-| ↳ | **[Hair Stylist Intern](https://jobright.ai/jobs/info/6a8a7d8acde3717f9e9b9891?utm_campaign=1053&utm_source=git)** | Pleasant Hill, IA, United States | On Site | Aug 22 |
 | **[Massachusetts Medical Society](http://www.massmed.org/)** | **[NEJM Editorial Fellow](https://jobright.ai/jobs/info/6a55f863392ae330b30e860d?utm_campaign=1053&utm_source=git)** | Boston, MA, United States | On Site | Aug 22 |
 | **[Petra Aroma](www.petraaroma.com)** | **[Social Media Content Editor Intern for wellness startup in Puerto Rico / Remote](https://jobright.ai/jobs/info/6a8b6103d34f700f87fcdbb9?utm_campaign=1053&utm_source=git)** | Puerto Rico | Remote | Aug 22 |
 | **[The Dispatch](https://thedispatch.com/)** | **[Fall 2026 Multimedia Internship](https://jobright.ai/jobs/info/6a591d8d4da96a42cfd8f224?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 22 |
