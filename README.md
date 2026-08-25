@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Jacksonville Icemen](https://jacksonvilleicemen.com)** | **[Charlotte Checkers Videography Internship 2026-2027 Season](https://jobright.ai/jobs/info/6a8d3d3bcde3717f9e9c05aa?utm_campaign=1053&utm_source=git)** | Charlotte, NC, United States | On Site | Aug 24 |
+| ↳ | **[Charlotte Checkers Game Operations Internship](https://jobright.ai/jobs/info/6a8d3d3bd34f700f87fd3d2a?utm_campaign=1053&utm_source=git)** | Charlotte, NC, United States | On Site | Aug 24 |
+| ↳ | **[Jacksonville Icemen Videography Internship 2026-2027 Season](https://jobright.ai/jobs/info/6a8d3d372f736c304f2a9081?utm_campaign=1053&utm_source=git)** | Jacksonville, FL, United States | On Site | Aug 24 |
+| ↳ | **[Savannah Ghost Pirates Game Presentation Internship 2026-2027 Season](https://jobright.ai/jobs/info/6a8d3d32d34f700f87fd3d27?utm_campaign=1053&utm_source=git)** | Savannah, GA, United States | On Site | Aug 24 |
+| ↳ | **[Video Intern, Savannah Ghost Pirates 2026-27 Season](https://jobright.ai/jobs/info/6a8d3c36a5639a4810325754?utm_campaign=1053&utm_source=git)** | Savannah, GA, United States | On Site | Aug 24 |
 | **[Disney Experiences](https://disneyconnect.com)** | **[WDI Communications Intern, Orlando, Spring 2027](https://jobright.ai/jobs/info/6a8d3279d34f700f87fd3c47?utm_campaign=1053&utm_source=git)** | Lake Buena Vista, FL, United States | On Site | Aug 24 |
 | **[Hasana, Inc.](http://shophasana.com)** | **[Volunteer/Intern: Film/Video Editor](https://jobright.ai/jobs/info/6a584c973330ca6f993c3e99?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | On Site | Aug 24 |
 | **[Jacksonville Icemen](https://jacksonvilleicemen.com)** | **[Charlotte Checkers Game Presentation Internship 2026-2027 Season](https://jobright.ai/jobs/info/6a8d24072f736c304f2a8eac?utm_campaign=1053&utm_source=git)** | Charlotte, NC, United States | On Site | Aug 24 |
@@ -152,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Columbus Crew](https://www.columbuscrew.com/)** | **[Scoreboard Operations Intern](https://jobright.ai/jobs/info/6a84c31d2f4f0014cae22bdd?utm_campaign=1053&utm_source=git)** | Columbus, OH, United States | On Site | Aug 18 |
 | **[LNP Media Group](http://lnpmediagroup.com)** | **[Spring Journalism 2027 Internship - Lancaster PA](https://jobright.ai/jobs/info/6a84b9352f4f0014cae22664?utm_campaign=1053&utm_source=git)** | Lancaster, PA, United States | Remote | Aug 18 |
 | **[Rodeo Austin](http://www.RodeoAustin.com)** | **[Seasonal BBQ Austin Internship](https://jobright.ai/jobs/info/6a8492a9d34f700f87fb9801?utm_campaign=1053&utm_source=git)** | Austin, TX, United States | On Site | Aug 18 |
-| **[Walton Arts Center and Walmart AMP](http://waltonartscenter.org)** | **[Events-Hospitality Internship](https://jobright.ai/jobs/info/6a84cacfd34f700f87fbb19a?utm_campaign=1053&utm_source=git)** | Fayetteville, NC, United States | On Site | Aug 18 |
-| **[Semex](https://www.semex.com)** | **[Beef Intern](https://jobright.ai/jobs/info/6a893d1125fc4e7ae3db341e?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
