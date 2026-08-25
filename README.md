@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hasana, Inc.](http://shophasana.com)** | **[Volunteer/Intern: Film/Video Editor](https://jobright.ai/jobs/info/6a584c973330ca6f993c3e99?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | On Site | Aug 24 |
+| **[Jacksonville Icemen](https://jacksonvilleicemen.com)** | **[Charlotte Checkers Game Presentation Internship 2026-2027 Season](https://jobright.ai/jobs/info/6a8d24072f736c304f2a8eac?utm_campaign=1053&utm_source=git)** | Charlotte, NC, United States | On Site | Aug 24 |
+| **[Tencent](https://www.tencent.com/)** | **[Publishing Intern](https://jobright.ai/jobs/info/6a8d1992a5639a481032533b?utm_campaign=1053&utm_source=git)** | Irvine, CA, United States | On Site | Aug 24 |
 | **[adyn](https://www.adyn.com/)** | **[DIGITAL STORYTELLING INTERN](https://jobright.ai/jobs/info/6a8d1e1e25fc4e7ae3dbb64d?utm_campaign=1053&utm_source=git)** | Seattle, WA, United States | Remote | Aug 24 |
 | **[PolyChat](https://www.polychatapp.com)** | **[TikTok & Instagram Content Creator Intern - PolyChat](https://jobright.ai/jobs/info/6a8d0c7da5639a48103251a3?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 24 |
 | **[Gift](https://www.shine.gift)** | **[Social Media Editor Intern](https://jobright.ai/jobs/info/6a8cffb2581f2d7bfdfe679e?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | Remote | Aug 24 |
@@ -80,7 +83,6 @@ For a complete list, click the following sortable link below:
 | **[Monterey Peninsula Country Club](http://www.mpccpb.org)** | **[PGA Intern](https://jobright.ai/jobs/info/6a8bcd13e8b6601d1290cad6?utm_campaign=1053&utm_source=git)** | Pebble Beach, CA, United States | On Site | Aug 23 |
 | **[Warner Bros. Discovery](https://wbd.com)** | **[WBD Academic Year Internships (WAY): NYC CNN News, Documentary, and Social - Fall 2026](https://jobright.ai/jobs/info/6a8cafa81d96e6541c8c274a?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Hybrid | Aug 23 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[WDI Communications Intern, Orlando, Spring 2027](https://jobright.ai/jobs/info/6a8caf352f736c304f2a74d8?utm_campaign=1053&utm_source=git)** | Lake Buena Vista, FL, United States | On Site | Aug 23 |
-| **[Tencent](https://www.tencent.com/)** | **[Publishing Intern](https://jobright.ai/jobs/info/6a8d1992a5639a481032533b?utm_campaign=1053&utm_source=git)** | Irvine, CA, United States | On Site | Aug 23 |
 | **[McGill University](http://www.mcgill.ca)** | **[Museum Database Assistant (AUS Intern)](https://jobright.ai/jobs/info/6a8c99a71d96e6541c8c1de8?utm_campaign=1053&utm_source=git)** | Canada | Remote | Aug 23 |
 | **[Maryland Institute College of Art](http://www.mica.edu/)** | **[Globe Press Intern, Student Worker](https://jobright.ai/jobs/info/6a8c8b8dd34f700f87fd12fd?utm_campaign=1053&utm_source=git)** | Baltimore, MD, United States | On Site | Aug 23 |
 | **[Golden Hippo®](http://goldenhippomedia.com)** | **[Video Editor - Youtube Intern (Bilingual)](https://jobright.ai/jobs/info/6a59040463a8f619507bfad3?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 23 |
@@ -151,5 +153,4 @@ For a complete list, click the following sortable link below:
 | **[Rodeo Austin](http://www.RodeoAustin.com)** | **[Seasonal BBQ Austin Internship](https://jobright.ai/jobs/info/6a8492a9d34f700f87fb9801?utm_campaign=1053&utm_source=git)** | Austin, TX, United States | On Site | Aug 18 |
 | **[Walton Arts Center and Walmart AMP](http://waltonartscenter.org)** | **[Events-Hospitality Internship](https://jobright.ai/jobs/info/6a84cacfd34f700f87fbb19a?utm_campaign=1053&utm_source=git)** | Fayetteville, NC, United States | On Site | Aug 18 |
 | **[Semex](https://www.semex.com)** | **[Beef Intern](https://jobright.ai/jobs/info/6a893d1125fc4e7ae3db341e?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 18 |
-| **[Los Angeles County Museum of Art (LACMA)](http://www.lacma.org/)** | **[Intern - Paid](https://jobright.ai/jobs/info/6a85e7fcd34f700f87fbf04e?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | Hybrid | Aug 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
