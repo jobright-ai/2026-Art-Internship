@@ -57,7 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Paires](https://paires.ai/)** | **[VC Content Intern](https://jobright.ai/jobs/info/6a8f56793ac3a34f92d80ce0?utm_campaign=1053&utm_source=git)** | Canada | Remote | Aug 26 |
+| **[Gift](https://www.shine.gift)** | **[LMU Music Community Intern](https://jobright.ai/jobs/info/6a8f51b2f841e649a7191d3e?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | Remote | Aug 26 |
+| **[Oklahoma State University Alumni Association](http://orangeconnection.org)** | **[Oprotunity Orange Events Intern](https://jobright.ai/jobs/info/6a8f5133f841e649a7191cff?utm_campaign=1053&utm_source=git)** | Stillwater, Oklahoma, United States | On Site | Aug 26 |
 | **[University of Colorado Boulder](https://www.colorado.edu)** | **[Temporary Reporter/Writer Intern](https://jobright.ai/jobs/info/6a8f41b2a10ee661e24d74d5?utm_campaign=1053&utm_source=git)** | Boulder, CO, United States | On Site | Aug 26 |
+| **[Sugar Cilantro](https://sugarcilantro.com)** | **[TikTik/Reels Video Content Creation Intern](https://jobright.ai/jobs/info/6a8f587ca10ee661e24d7cbf?utm_campaign=1053&utm_source=git)** | Atlanta, GA, United States | Hybrid | Aug 26 |
 | **[Rho](https://rho.co)** | **[Video Intern](https://jobright.ai/jobs/info/6a5677c6f7517b519ad55da1?utm_campaign=1053&utm_source=git)** | NYC | On Site | Aug 26 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid News Intern](https://jobright.ai/jobs/info/6972b01a9b83b424830eb8a4?utm_campaign=1053&utm_source=git)** | IN-Indianapolis;6910 Network Place (Tribune-WXIN/WTTV) | On Site | Aug 26 |
 | **[Carpenters Workshop Gallery](https://carpentersworkshopgallery.com)** | **[Gallery Intern - Los Angeles](https://jobright.ai/jobs/info/6a8ee0d9382b237ac80c30eb?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | On Site | Aug 26 |
@@ -68,6 +72,7 @@ For a complete list, click the following sortable link below:
 | **[University of Portland](http://www.up.edu)** | **[Editorial Assistant, Portland Magazine](https://jobright.ai/jobs/info/6a8e35b325fc4e7ae3dc0063?utm_campaign=1053&utm_source=git)** | Portland, OR, United States | On Site | Aug 25 |
 | **[Comcast](https://corporate.comcast.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/6a8f163f382b237ac80c42e3?utm_campaign=1053&utm_source=git)** | Philadelphia, PA, United States | On Site | Aug 25 |
 | **[City of Virginia Beach](https://www.vbgov.com/Pages/default.aspx)** | **[Winter Wildlife Festival Internship](https://jobright.ai/jobs/info/6a8f2309f841e649a7190e86?utm_campaign=1053&utm_source=git)** | Landstown Road, United States | On Site | Aug 25 |
+| **[Art and Wellness Enterprises](https://aweoffice.org)** | **[2026 Museum Editorial Fall Intern](https://jobright.ai/jobs/info/6a8f4e45d7c91d0cf446e9e7?utm_campaign=1053&utm_source=git)** | Bentonville, AR, United States | On Site | Aug 25 |
 | **[WhoWhatWhy](http://whowhatwhy.org/)** | **[Editorial Assistant (Volunteer, Fall 2026)](https://jobright.ai/jobs/info/6a8e248ad34f700f87fd8148?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 25 |
 | **[DOPE VZN](www.dopevzn.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/6a8e1cef581f2d7bfdfeb1c5?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | On Site | Aug 25 |
 | **[SXSW](https://www.sxsw.com/pitch)** | **[SXSW Exhibitions Support Intern](https://jobright.ai/jobs/info/6a8e005e47679c68bf5e6187?utm_campaign=1053&utm_source=git)** | Austin, TX, United States | On Site | Aug 25 |
@@ -76,8 +81,8 @@ For a complete list, click the following sortable link below:
 | **[Tombras](http://tombras.com)** | **[Post-Production Intern](https://jobright.ai/jobs/info/6a8dc930a5639a4810327a7c?utm_campaign=1053&utm_source=git)** | Knoxville, TN, United States | On Site | Aug 25 |
 | **[The Digital Chamber](https://digitalchamber.org)** | **[Content & Editorial Writing Intern](https://jobright.ai/jobs/info/6a8ddb07a5639a4810328142?utm_campaign=1053&utm_source=git)** | Washington, DC, United States | Remote | Aug 25 |
 | **[Tombras](http://tombras.com)** | **[Production Intern](https://jobright.ai/jobs/info/6a8dbb10d34f700f87fd5759?utm_campaign=1053&utm_source=git)** | Knoxville, TN, United States | On Site | Aug 25 |
-| **[NoGood](https://nogood.io)** | **[Intern- Social Video Creator](https://jobright.ai/jobs/info/69d9a15b738f2f099e8a368e?utm_campaign=1053&utm_source=git)** | New York, New York, United States | Hybrid | Aug 25 |
-| ↳ | **[Intern- Social Video Creator](https://jobright.ai/jobs/info/6a605172193c4d692385dc82?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Hybrid | Aug 25 |
+| **[NoGood](https://nogood.io)** | **[Intern- Social Video Creator](https://jobright.ai/jobs/info/6a605172193c4d692385dc82?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Hybrid | Aug 25 |
+| ↳ | **[Intern- Social Video Creator](https://jobright.ai/jobs/info/69d9a15b738f2f099e8a368e?utm_campaign=1053&utm_source=git)** | New York, New York, United States | Hybrid | Aug 25 |
 | **[Arena](https://www.arenatalent.com)** | **[Editorial Intern - Fall 2026](https://jobright.ai/jobs/info/6a8dc642a5639a48103277d5?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 25 |
 | **[Low Battery](https://raptv.com/)** | **[Short-Form Video Editor Intern, Fall 2026](https://jobright.ai/jobs/info/6a8dbba4a5639a48103271be?utm_campaign=1053&utm_source=git)** | Los Angeles metropolitan area, United States | On Site | Aug 25 |
 | **[Ohio Wesleyan University](http://www.owu.edu/)** | **[Videographer Intern-SW](https://jobright.ai/jobs/info/6a8df381d34f700f87fd6fd6?utm_campaign=1053&utm_source=git)** | Delaware, OH, United States | On Site | Aug 25 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Golden Hippo®](http://goldenhippomedia.com)** | **[Video Editor - Youtube Intern (Bilingual)](https://jobright.ai/jobs/info/6a6145a5d51f6101c8fbac41?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 20 |
 | ↳ | **[Video Editor - Youtube Intern (Bilingual)](https://jobright.ai/jobs/info/6a800b93927c79391ad0eb62?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 20 |
 | **[Buffalo Sabres](http://sabres.com)** | **[Broadcast Intern](https://jobright.ai/jobs/info/6a870ea7cde3717f9e9afdd0?utm_campaign=1053&utm_source=git)** | Buffalo, NY, United States | On Site | Aug 20 |
-| **[The Vine Global Impact](https://www.thevine.earth)** | **[VIDEO, AI CONTENT INTERN](https://jobright.ai/jobs/info/6a8715f34afae74a08346870?utm_campaign=1053&utm_source=git)** | Miami, FL, United States | Remote | Aug 20 |
-| **[The San Francisco Standard](https://sfstandard.com)** | **[Editorial Intern, Charter](https://jobright.ai/jobs/info/6a87102325fc4e7ae3dab035?utm_campaign=1053&utm_source=git)** | San Francisco, CA, United States | Remote | Aug 20 |
-| **[Hasana, Inc.](http://shophasana.com)** | **[Film & Video Internship](https://jobright.ai/jobs/info/6a5997544da96a42cfd91dd0?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | On Site | Aug 20 |
-| **[New York Post](http://nypost.com/)** | **[Digital News Production Intern, Fall 2026 (10 weeks, 24 hours a week)](https://jobright.ai/jobs/info/6a5fcdb86e0c3c7c7d3d917a?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Aug 20 |
-| **[SchoolSpring](http://www.schoolspring.com)** | **[EHS Student Worker: Multimedia Production Intern](https://jobright.ai/jobs/info/6a86d8eccc81eb647e9f3823?utm_campaign=1053&utm_source=git)** | Estacada, OR, United States | On Site | Aug 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
