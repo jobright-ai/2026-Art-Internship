@@ -57,9 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid News Intern](https://jobright.ai/jobs/info/6972b01a9b83b424830eb8a4?utm_campaign=1053&utm_source=git)** | IN-Indianapolis;6910 Network Place (Tribune-WXIN/WTTV) | On Site | Aug 26 |
 | **[Carpenters Workshop Gallery](https://carpentersworkshopgallery.com)** | **[Gallery Intern - Los Angeles](https://jobright.ai/jobs/info/6a8ee0d9382b237ac80c30eb?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | On Site | Aug 26 |
 | **[McIlhenny Company](http://www.tabasco.com/)** | **[Archives Intern](https://jobright.ai/jobs/info/6a84e701c1a3fd7120f73e3b?utm_campaign=1053&utm_source=git)** | Avery Island, LA, United States | On Site | Aug 26 |
-| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid News Intern](https://jobright.ai/jobs/info/6972b01a9b83b424830eb8a4?utm_campaign=1053&utm_source=git)** | IN-Indianapolis;6910 Network Place (Tribune-WXIN/WTTV) | On Site | Aug 26 |
 | **[Insomniac Events](http://insomniac.com)** | **[Paid Fall Music Group Publishing Intern](https://jobright.ai/jobs/info/6a480a84c2d11a6a46673a56?utm_campaign=1053&utm_source=git)** | Calabasas, CA, USA | On Site | Aug 26 |
 | **[Giver Marketing Network](https://www.givermarketing.com/)** | **[Video Production Internship](https://jobright.ai/jobs/info/6a8e9b4db93d14258ab45a59?utm_campaign=1053&utm_source=git)** | Oroville, CA, United States | On Site | Aug 26 |
 | **[adyn](https://www.adyn.com/)** | **[DIGITAL STORYTELLING INTERN](https://jobright.ai/jobs/info/6a8e6f73c137ff2317e69212?utm_campaign=1053&utm_source=git)** | Seattle, WA, United States | Remote | Aug 25 |
@@ -89,8 +89,8 @@ For a complete list, click the following sortable link below:
 | **[Hasana, Inc.](http://shophasana.com)** | **[Fashion Stylist Intern/Volunteer](https://jobright.ai/jobs/info/6a8d81dd25fc4e7ae3dbc20a?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | On Site | Aug 25 |
 | **[The Riviera Country Club](https://www.therivieracountryclub.com/Club/Scripts/Home/home.asp)** | **[Summer 2027 Golf Operations Intern](https://jobright.ai/jobs/info/6a8dbd03581f2d7bfdfe8a0a?utm_campaign=1053&utm_source=git)** | Pacific Palisades, CA, United States | On Site | Aug 25 |
 | **[Forward Madison FC](https://www.forwardmadisonfc.com)** | **[Gameday Intern - Press Box Operations](https://jobright.ai/jobs/info/6a8d4d4925fc4e7ae3dbbac2?utm_campaign=1053&utm_source=git)** | Madison, WI, United States | On Site | Aug 25 |
-| **[Jacksonville Icemen](https://jacksonvilleicemen.com)** | **[Charlotte Checkers Videography Internship 2026-2027 Season](https://jobright.ai/jobs/info/6a8d3d3bcde3717f9e9c05aa?utm_campaign=1053&utm_source=git)** | Charlotte, NC, United States | On Site | Aug 24 |
-| ↳ | **[Charlotte Checkers Game Operations Internship](https://jobright.ai/jobs/info/6a8d3d3bd34f700f87fd3d2a?utm_campaign=1053&utm_source=git)** | Charlotte, NC, United States | On Site | Aug 24 |
+| **[Jacksonville Icemen](https://jacksonvilleicemen.com)** | **[Charlotte Checkers Game Operations Internship](https://jobright.ai/jobs/info/6a8d3d3bd34f700f87fd3d2a?utm_campaign=1053&utm_source=git)** | Charlotte, NC, United States | On Site | Aug 24 |
+| ↳ | **[Charlotte Checkers Videography Internship 2026-2027 Season](https://jobright.ai/jobs/info/6a8d3d3bcde3717f9e9c05aa?utm_campaign=1053&utm_source=git)** | Charlotte, NC, United States | On Site | Aug 24 |
 | ↳ | **[Jacksonville Icemen Videography Internship 2026-2027 Season](https://jobright.ai/jobs/info/6a8d3d372f736c304f2a9081?utm_campaign=1053&utm_source=git)** | Jacksonville, FL, United States | On Site | Aug 24 |
 | ↳ | **[Savannah Ghost Pirates Game Presentation Internship 2026-2027 Season](https://jobright.ai/jobs/info/6a8d3d32d34f700f87fd3d27?utm_campaign=1053&utm_source=git)** | Savannah, GA, United States | On Site | Aug 24 |
 | ↳ | **[Video Intern, Savannah Ghost Pirates 2026-27 Season](https://jobright.ai/jobs/info/6a8d3c36a5639a4810325754?utm_campaign=1053&utm_source=git)** | Savannah, GA, United States | On Site | Aug 24 |
