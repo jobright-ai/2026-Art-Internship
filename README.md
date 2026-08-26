@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Giver Marketing Network](https://www.givermarketing.com/)** | **[Video Production Internship](https://jobright.ai/jobs/info/6a8e9b4db93d14258ab45a59?utm_campaign=1053&utm_source=git)** | Oroville, CA, United States | On Site | Aug 26 |
 | **[adyn](https://www.adyn.com/)** | **[DIGITAL STORYTELLING INTERN](https://jobright.ai/jobs/info/6a8e6f73c137ff2317e69212?utm_campaign=1053&utm_source=git)** | Seattle, WA, United States | Remote | Aug 25 |
 | **[University of Portland](http://www.up.edu)** | **[Editorial Assistant, Portland Magazine](https://jobright.ai/jobs/info/6a8e35b325fc4e7ae3dc0063?utm_campaign=1053&utm_source=git)** | Portland, OR, United States | On Site | Aug 25 |
 | **[WhoWhatWhy](http://whowhatwhy.org/)** | **[Editorial Assistant (Volunteer, Fall 2026)](https://jobright.ai/jobs/info/6a8e248ad34f700f87fd8148?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 25 |
@@ -67,8 +68,8 @@ For a complete list, click the following sortable link below:
 | **[Tombras](http://tombras.com)** | **[Post-Production Intern](https://jobright.ai/jobs/info/6a8dc930a5639a4810327a7c?utm_campaign=1053&utm_source=git)** | Knoxville, TN, United States | On Site | Aug 25 |
 | **[The Digital Chamber](https://digitalchamber.org)** | **[Content & Editorial Writing Intern](https://jobright.ai/jobs/info/6a8ddb07a5639a4810328142?utm_campaign=1053&utm_source=git)** | Washington, DC, United States | Remote | Aug 25 |
 | **[Tombras](http://tombras.com)** | **[Production Intern](https://jobright.ai/jobs/info/6a8dbb10d34f700f87fd5759?utm_campaign=1053&utm_source=git)** | Knoxville, TN, United States | On Site | Aug 25 |
-| **[NoGood](https://nogood.io)** | **[Intern- Social Video Creator](https://jobright.ai/jobs/info/6a605172193c4d692385dc82?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Hybrid | Aug 25 |
-| ↳ | **[Intern- Social Video Creator](https://jobright.ai/jobs/info/69d9a15b738f2f099e8a368e?utm_campaign=1053&utm_source=git)** | New York, New York, United States | Hybrid | Aug 25 |
+| **[NoGood](https://nogood.io)** | **[Intern- Social Video Creator](https://jobright.ai/jobs/info/69d9a15b738f2f099e8a368e?utm_campaign=1053&utm_source=git)** | New York, New York, United States | Hybrid | Aug 25 |
+| ↳ | **[Intern- Social Video Creator](https://jobright.ai/jobs/info/6a605172193c4d692385dc82?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Hybrid | Aug 25 |
 | **[Arena](https://www.arenatalent.com)** | **[Editorial Intern - Fall 2026](https://jobright.ai/jobs/info/6a8dc642a5639a48103277d5?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 25 |
 | **[Low Battery](https://raptv.com/)** | **[Short-Form Video Editor Intern, Fall 2026](https://jobright.ai/jobs/info/6a8dbba4a5639a48103271be?utm_campaign=1053&utm_source=git)** | Los Angeles metropolitan area, United States | On Site | Aug 25 |
 | **[Ohio Wesleyan University](http://www.owu.edu/)** | **[Videographer Intern-SW](https://jobright.ai/jobs/info/6a8df381d34f700f87fd6fd6?utm_campaign=1053&utm_source=git)** | Delaware, OH, United States | On Site | Aug 25 |
@@ -79,14 +80,14 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Unpaid News Intern](https://jobright.ai/jobs/info/6972b01a9b83b424830eb8a4?utm_campaign=1053&utm_source=git)** | IN-Indianapolis;6910 Network Place (Tribune-WXIN/WTTV) | On Site | Aug 25 |
 | **[Dazed Media](http://www.dazedmedia.com)** | **[Dazed US Video Editor Internship](https://jobright.ai/jobs/info/6a8da0b8581f2d7bfdfe7f62?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Hybrid | Aug 25 |
 | ↳ | **[Dazed US Editorial / Social Internship](https://jobright.ai/jobs/info/6a8da0b347679c68bf5e3876?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Hybrid | Aug 25 |
-| **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Paid Fall Music Group Publishing Intern](https://jobright.ai/jobs/info/6a51e35202522b5b722ed11d?utm_campaign=1053&utm_source=git)** | Calabasas, CA, United States | On Site | Aug 25 |
-| ↳ | **[Paid Fall Music Group Publishing Intern](https://jobright.ai/jobs/info/6a1d313d7c457b279080e614?utm_campaign=1053&utm_source=git)** | Calabasas, CA, USA, US | On Site | Aug 25 |
+| **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Paid Fall Music Group Publishing Intern](https://jobright.ai/jobs/info/6a1d313d7c457b279080e614?utm_campaign=1053&utm_source=git)** | Calabasas, CA, USA, US | On Site | Aug 25 |
+| ↳ | **[Paid Fall Music Group Publishing Intern](https://jobright.ai/jobs/info/6a51e35202522b5b722ed11d?utm_campaign=1053&utm_source=git)** | Calabasas, CA, United States | On Site | Aug 25 |
 | **[Blaire's Mobile Bar](https://sites.google.com/view/blairesmobilebarservice?pli=1)** | **[2026-2027 Internship Program](https://jobright.ai/jobs/info/6a8d8a8425fc4e7ae3dbc38d?utm_campaign=1053&utm_source=git)** | Dallas, TX, United States | On Site | Aug 25 |
 | **[Hasana, Inc.](http://shophasana.com)** | **[Fashion Stylist Intern/Volunteer](https://jobright.ai/jobs/info/6a8d81dd25fc4e7ae3dbc20a?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | On Site | Aug 25 |
 | **[The Riviera Country Club](https://www.therivieracountryclub.com/Club/Scripts/Home/home.asp)** | **[Summer 2027 Golf Operations Intern](https://jobright.ai/jobs/info/6a8dbd03581f2d7bfdfe8a0a?utm_campaign=1053&utm_source=git)** | Pacific Palisades, CA, United States | On Site | Aug 25 |
 | **[Forward Madison FC](https://www.forwardmadisonfc.com)** | **[Gameday Intern - Press Box Operations](https://jobright.ai/jobs/info/6a8d4d4925fc4e7ae3dbbac2?utm_campaign=1053&utm_source=git)** | Madison, WI, United States | On Site | Aug 25 |
-| **[Jacksonville Icemen](https://jacksonvilleicemen.com)** | **[Charlotte Checkers Videography Internship 2026-2027 Season](https://jobright.ai/jobs/info/6a8d3d3bcde3717f9e9c05aa?utm_campaign=1053&utm_source=git)** | Charlotte, NC, United States | On Site | Aug 24 |
-| ↳ | **[Charlotte Checkers Game Operations Internship](https://jobright.ai/jobs/info/6a8d3d3bd34f700f87fd3d2a?utm_campaign=1053&utm_source=git)** | Charlotte, NC, United States | On Site | Aug 24 |
+| **[Jacksonville Icemen](https://jacksonvilleicemen.com)** | **[Charlotte Checkers Game Operations Internship](https://jobright.ai/jobs/info/6a8d3d3bd34f700f87fd3d2a?utm_campaign=1053&utm_source=git)** | Charlotte, NC, United States | On Site | Aug 24 |
+| ↳ | **[Charlotte Checkers Videography Internship 2026-2027 Season](https://jobright.ai/jobs/info/6a8d3d3bcde3717f9e9c05aa?utm_campaign=1053&utm_source=git)** | Charlotte, NC, United States | On Site | Aug 24 |
 | ↳ | **[Jacksonville Icemen Videography Internship 2026-2027 Season](https://jobright.ai/jobs/info/6a8d3d372f736c304f2a9081?utm_campaign=1053&utm_source=git)** | Jacksonville, FL, United States | On Site | Aug 24 |
 | ↳ | **[Savannah Ghost Pirates Game Presentation Internship 2026-2027 Season](https://jobright.ai/jobs/info/6a8d3d32d34f700f87fd3d27?utm_campaign=1053&utm_source=git)** | Savannah, GA, United States | On Site | Aug 24 |
 | ↳ | **[Video Intern, Savannah Ghost Pirates 2026-27 Season](https://jobright.ai/jobs/info/6a8d3c36a5639a4810325754?utm_campaign=1053&utm_source=git)** | Savannah, GA, United States | On Site | Aug 24 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Ideastream Public Media](http://www.ideastream.org)** | **[The Ohio Channel Intern](https://jobright.ai/jobs/info/6a861833e459fa3baa865fbe?utm_campaign=1053&utm_source=git)** | Columbus, OH, United States | On Site | Aug 19 |
 | **[Lincoln Center Theater](https://www.lct.org/)** | **[Fall 2026 Artistic Intern](https://jobright.ai/jobs/info/6a8dfebed34f700f87fd74b6?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Aug 19 |
 | **[Syracuse Crunch](https://syracusecrunch.com/)** | **[VIDEO PRODUCTION INTERNSHIP](https://jobright.ai/jobs/info/6a860f15d34f700f87fbff60?utm_campaign=1053&utm_source=git)** | Syracuse, NY, United States | On Site | Aug 19 |
-| ↳ | **[BROADCAST INTERNSHIP](https://jobright.ai/jobs/info/6a860f074afae74a0834303f?utm_campaign=1053&utm_source=git)** | Syracuse, NY, United States | On Site | Aug 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
