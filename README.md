@@ -57,10 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Paires](https://paires.ai/)** | **[VC Content Intern](https://jobright.ai/jobs/info/6a8f56793ac3a34f92d80ce0?utm_campaign=1053&utm_source=git)** | Canada | Remote | Aug 26 |
 | **[SchoolSpring](http://www.schoolspring.com)** | **[CUSD Student Internship - Athletic Digital Media Intern](https://jobright.ai/jobs/info/6a8f86c32e254e06fb9ed9cd?utm_campaign=1053&utm_source=git)** | Chandler, AZ, United States | On Site | Aug 26 |
 | **[87North Productions](https://87north.com/)** | **[Production and Editing Intern (2 positions)](https://jobright.ai/jobs/info/6a8f7d057c32860d14cf5fa2?utm_campaign=1053&utm_source=git)** | West Hollywood, CA, United States | On Site | Aug 26 |
 | **[Crystal Bridges Museum of American Art](http://crystalbridges.org)** | **[2026 Ceramics Fall Intern](https://jobright.ai/jobs/info/6a8f6fb20bd89e205d246d49?utm_campaign=1053&utm_source=git)** | Bentonville, AR, United States | On Site | Aug 26 |
-| **[Paires](https://paires.ai/)** | **[VC Content Intern](https://jobright.ai/jobs/info/6a8f56793ac3a34f92d80ce0?utm_campaign=1053&utm_source=git)** | Canada | Remote | Aug 26 |
 | **[Gift](https://www.shine.gift)** | **[LMU Music Community Intern](https://jobright.ai/jobs/info/6a8f51b2f841e649a7191d3e?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | Remote | Aug 26 |
 | **[Oklahoma State University Alumni Association](http://orangeconnection.org)** | **[Oprotunity Orange Events Intern](https://jobright.ai/jobs/info/6a8f5133f841e649a7191cff?utm_campaign=1053&utm_source=git)** | Stillwater, Oklahoma, United States | On Site | Aug 26 |
 | **[University of Colorado Boulder](https://www.colorado.edu)** | **[Temporary Reporter/Writer Intern](https://jobright.ai/jobs/info/6a8f41b2a10ee661e24d74d5?utm_campaign=1053&utm_source=git)** | Boulder, CO, United States | On Site | Aug 26 |
@@ -144,7 +144,6 @@ For a complete list, click the following sortable link below:
 | **[Elite Sports Clubs](http://eliteclubs.com)** | **[Community Events Intern](https://jobright.ai/jobs/info/6a887b20cde3717f9e9b5687?utm_campaign=1053&utm_source=git)** | Milwaukee, WI, United States | On Site | Aug 21 |
 | **[Audacy, Inc.](https://audacyinc.com/)** | **[NYSBA Internship (Fall Semester)](https://jobright.ai/jobs/info/6a88a526cde3717f9e9b6492?utm_campaign=1053&utm_source=git)** | Rochester, NY, United States | On Site | Aug 21 |
 | **[Lavonne's The Agency](https://lavonnestheagency.com/)** | **[Film Intern - Reality TV Production (Videography & Editing Focused)](https://jobright.ai/jobs/info/6a889461e8b6601d1290780f?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | Hybrid | Aug 21 |
-| **[CYTO | PHL](https://cytophl.com)** | **[Fall Intern](https://jobright.ai/jobs/info/6a886811e8b6601d129068a3?utm_campaign=1053&utm_source=git)** | Philadelphia, PA, United States | On Site | Aug 21 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Hello Iowa Intern (Unpaid)](https://jobright.ai/jobs/info/6a6ce5f9ca1f93384660152e?utm_campaign=1053&utm_source=git)** | Des Moines, IA, United States | On Site | Aug 21 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Intern, Artist Manager Assistant](https://jobright.ai/jobs/info/6a32e02329c90c607e4d87d1?utm_campaign=1053&utm_source=git)** | Etobicoke, ON, CA | On Site | Aug 21 |
 | **[Hearst Television](http://www.hearsttelevision.com)** | **[News Intern](https://jobright.ai/jobs/info/6a855f98e459fa3baa862383?utm_campaign=1053&utm_source=git)** | Needham, MA, United States | On Site | Aug 21 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[SchoolSpring](http://www.schoolspring.com)** | **[BHS Student Sports Media Intern](https://jobright.ai/jobs/info/6a874a11cde3717f9e9b1400?utm_campaign=1053&utm_source=git)** | Bardstown, KY, United States | On Site | Aug 20 |
 | **[Golden Hippo®](http://goldenhippomedia.com)** | **[Video Editor - Youtube Intern (Bilingual)](https://jobright.ai/jobs/info/6a6145a5d51f6101c8fbac41?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 20 |
 | ↳ | **[Video Editor - Youtube Intern (Bilingual)](https://jobright.ai/jobs/info/6a800b93927c79391ad0eb62?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 20 |
+| **[Buffalo Sabres](http://sabres.com)** | **[Broadcast Intern](https://jobright.ai/jobs/info/6a870ea7cde3717f9e9afdd0?utm_campaign=1053&utm_source=git)** | Buffalo, NY, United States | On Site | Aug 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
