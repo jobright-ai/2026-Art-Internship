@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[87North Productions](https://87north.com/)** | **[Production and Editing Intern (2 positions)](https://jobright.ai/jobs/info/6a8f7d057c32860d14cf5fa2?utm_campaign=1053&utm_source=git)** | West Hollywood, CA, United States | On Site | Aug 26 |
 | **[Crystal Bridges Museum of American Art](http://crystalbridges.org)** | **[2026 Ceramics Fall Intern](https://jobright.ai/jobs/info/6a8f6fb20bd89e205d246d49?utm_campaign=1053&utm_source=git)** | Bentonville, AR, United States | On Site | Aug 26 |
 | **[Paires](https://paires.ai/)** | **[VC Content Intern](https://jobright.ai/jobs/info/6a8f56793ac3a34f92d80ce0?utm_campaign=1053&utm_source=git)** | Canada | Remote | Aug 26 |
 | **[Gift](https://www.shine.gift)** | **[LMU Music Community Intern](https://jobright.ai/jobs/info/6a8f51b2f841e649a7191d3e?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | Remote | Aug 26 |
@@ -69,7 +70,6 @@ For a complete list, click the following sortable link below:
 | **[McIlhenny Company](http://www.tabasco.com/)** | **[Archives Intern](https://jobright.ai/jobs/info/6a84e701c1a3fd7120f73e3b?utm_campaign=1053&utm_source=git)** | Avery Island, LA, United States | On Site | Aug 26 |
 | **[Insomniac Events](http://insomniac.com)** | **[Paid Fall Music Group Publishing Intern](https://jobright.ai/jobs/info/6a480a84c2d11a6a46673a56?utm_campaign=1053&utm_source=git)** | Calabasas, CA, USA | On Site | Aug 26 |
 | **[Giver Marketing Network](https://www.givermarketing.com/)** | **[Video Production Internship](https://jobright.ai/jobs/info/6a8e9b4db93d14258ab45a59?utm_campaign=1053&utm_source=git)** | Oroville, CA, United States | On Site | Aug 26 |
-| **[adyn](https://www.adyn.com/)** | **[DIGITAL STORYTELLING INTERN](https://jobright.ai/jobs/info/6a8e6f73c137ff2317e69212?utm_campaign=1053&utm_source=git)** | Seattle, WA, United States | Remote | Aug 25 |
 | **[University of Portland](http://www.up.edu)** | **[Editorial Assistant, Portland Magazine](https://jobright.ai/jobs/info/6a8e35b325fc4e7ae3dc0063?utm_campaign=1053&utm_source=git)** | Portland, OR, United States | On Site | Aug 25 |
 | **[Comcast](https://corporate.comcast.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/6a8f163f382b237ac80c42e3?utm_campaign=1053&utm_source=git)** | Philadelphia, PA, United States | On Site | Aug 25 |
 | **[City of Virginia Beach](https://www.vbgov.com/Pages/default.aspx)** | **[Winter Wildlife Festival Internship](https://jobright.ai/jobs/info/6a8f2309f841e649a7190e86?utm_campaign=1053&utm_source=git)** | Landstown Road, United States | On Site | Aug 25 |
@@ -93,8 +93,8 @@ For a complete list, click the following sortable link below:
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Media Production Intern (In- Person) Fall 2026.](https://jobright.ai/jobs/info/6a398ce3f6b55d12c7928b8e?utm_campaign=1053&utm_source=git)** | AL, Mobile, United States of America | On Site | Aug 25 |
 | **[Dazed Media](http://www.dazedmedia.com)** | **[Dazed US Video Editor Internship](https://jobright.ai/jobs/info/6a8da0b8581f2d7bfdfe7f62?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Hybrid | Aug 25 |
 | ↳ | **[Dazed US Editorial / Social Internship](https://jobright.ai/jobs/info/6a8da0b347679c68bf5e3876?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Hybrid | Aug 25 |
-| **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Paid Fall Music Group Publishing Intern](https://jobright.ai/jobs/info/6a51e35202522b5b722ed11d?utm_campaign=1053&utm_source=git)** | Calabasas, CA, United States | On Site | Aug 25 |
-| ↳ | **[Paid Fall Music Group Publishing Intern](https://jobright.ai/jobs/info/6a1d313d7c457b279080e614?utm_campaign=1053&utm_source=git)** | Calabasas, CA, USA, US | On Site | Aug 25 |
+| **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Paid Fall Music Group Publishing Intern](https://jobright.ai/jobs/info/6a1d313d7c457b279080e614?utm_campaign=1053&utm_source=git)** | Calabasas, CA, USA, US | On Site | Aug 25 |
+| ↳ | **[Paid Fall Music Group Publishing Intern](https://jobright.ai/jobs/info/6a51e35202522b5b722ed11d?utm_campaign=1053&utm_source=git)** | Calabasas, CA, United States | On Site | Aug 25 |
 | **[Blaire's Mobile Bar](https://sites.google.com/view/blairesmobilebarservice?pli=1)** | **[2026-2027 Internship Program](https://jobright.ai/jobs/info/6a8d8a8425fc4e7ae3dbc38d?utm_campaign=1053&utm_source=git)** | Dallas, TX, United States | On Site | Aug 25 |
 | **[Hasana, Inc.](http://shophasana.com)** | **[Fashion Stylist Intern/Volunteer](https://jobright.ai/jobs/info/6a8d81dd25fc4e7ae3dbc20a?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | On Site | Aug 25 |
 | **[The Riviera Country Club](https://www.therivieracountryclub.com/Club/Scripts/Home/home.asp)** | **[Summer 2027 Golf Operations Intern](https://jobright.ai/jobs/info/6a8dbd03581f2d7bfdfe8a0a?utm_campaign=1053&utm_source=git)** | Pacific Palisades, CA, United States | On Site | Aug 25 |
