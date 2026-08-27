@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Confederation College](https://www.confederationcollege.ca/)** | **[Video Content Creator Intern](https://jobright.ai/jobs/info/6a90573d7c32860d14cf8c49?utm_campaign=1053&utm_source=git)** | Kenora, ON, Canada | On Site | Aug 27 |
 | **[Monumental Sports & Entertainment](http://www.monumentalsports.com/)** | **[Internship: Digital Editing (Part-Time/Seasonal)](https://jobright.ai/jobs/info/6a904ae07c32860d14cf8711?utm_campaign=1053&utm_source=git)** | Washington, DC, United States | On Site | Aug 27 |
 | **[Auburn University at Montgomery](http://www.aum.edu/)** | **[Student Video Producer](https://jobright.ai/jobs/info/6a90469d7c32860d14cf8601?utm_campaign=1053&utm_source=git)** | Auburn, AL, United States | On Site | Aug 27 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid News Intern](https://jobright.ai/jobs/info/6972b01a9b83b424830eb8a4?utm_campaign=1053&utm_source=git)** | IN-Indianapolis;6910 Network Place (Tribune-WXIN/WTTV) | On Site | Aug 27 |
@@ -89,8 +90,8 @@ For a complete list, click the following sortable link below:
 | **[Tombras](http://tombras.com)** | **[Post-Production Intern](https://jobright.ai/jobs/info/6a8dc930a5639a4810327a7c?utm_campaign=1053&utm_source=git)** | Knoxville, TN, United States | On Site | Aug 25 |
 | **[The Digital Chamber](https://digitalchamber.org)** | **[Content & Editorial Writing Intern](https://jobright.ai/jobs/info/6a8ddb07a5639a4810328142?utm_campaign=1053&utm_source=git)** | Washington, DC, United States | Remote | Aug 25 |
 | **[Tombras](http://tombras.com)** | **[Production Intern](https://jobright.ai/jobs/info/6a8dbb10d34f700f87fd5759?utm_campaign=1053&utm_source=git)** | Knoxville, TN, United States | On Site | Aug 25 |
-| **[NoGood](https://nogood.io)** | **[Intern- Social Video Creator](https://jobright.ai/jobs/info/6a605172193c4d692385dc82?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Hybrid | Aug 25 |
-| ↳ | **[Intern- Social Video Creator](https://jobright.ai/jobs/info/69d9a15b738f2f099e8a368e?utm_campaign=1053&utm_source=git)** | New York, New York, United States | Hybrid | Aug 25 |
+| **[NoGood](https://nogood.io)** | **[Intern- Social Video Creator](https://jobright.ai/jobs/info/69d9a15b738f2f099e8a368e?utm_campaign=1053&utm_source=git)** | New York, New York, United States | Hybrid | Aug 25 |
+| ↳ | **[Intern- Social Video Creator](https://jobright.ai/jobs/info/6a605172193c4d692385dc82?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Hybrid | Aug 25 |
 | **[Arena](https://www.arenatalent.com)** | **[Editorial Intern - Fall 2026](https://jobright.ai/jobs/info/6a8dc642a5639a48103277d5?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 25 |
 | **[Low Battery](https://raptv.com/)** | **[Short-Form Video Editor Intern, Fall 2026](https://jobright.ai/jobs/info/6a8dbba4a5639a48103271be?utm_campaign=1053&utm_source=git)** | Los Angeles metropolitan area, United States | On Site | Aug 25 |
 | **[Ohio Wesleyan University](http://www.owu.edu/)** | **[Videographer Intern-SW](https://jobright.ai/jobs/info/6a8df381d34f700f87fd6fd6?utm_campaign=1053&utm_source=git)** | Delaware, OH, United States | On Site | Aug 25 |
@@ -153,5 +154,4 @@ For a complete list, click the following sortable link below:
 | **[NewForm](https://newform.com)** | **[Creative Production Intern](https://jobright.ai/jobs/info/6a6ff874160eda5948e8d0ba?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Aug 20 |
 | **[Burlington Electric Department](https://www.burlingtonelectric.com/)** | **[Art Services Internship](https://jobright.ai/jobs/info/6a879b07680f314a29d39833?utm_campaign=1053&utm_source=git)** | Burlington, VT, United States | On Site | Aug 20 |
 | **[City of Burlington, Vermont](http://www.burlingtonvt.gov)** | **[Art Services Internship](https://jobright.ai/jobs/info/6a8792d8e8b6601d129042e4?utm_campaign=1053&utm_source=git)** | Burlington, VT, United States | On Site | Aug 20 |
-| **[The Ambony](https://www.anpublishing.com/)** | **[Food & Drink Journalist Intern](https://jobright.ai/jobs/info/6a876b284afae74a08348832?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Remote | Aug 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
