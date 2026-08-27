@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Crystal Bridges Museum of American Art](http://crystalbridges.org)** | **[2026 Ceramics Fall Intern](https://jobright.ai/jobs/info/6a8f6fb20bd89e205d246d49?utm_campaign=1053&utm_source=git)** | Bentonville, AR, United States | On Site | Aug 26 |
 | **[Paires](https://paires.ai/)** | **[VC Content Intern](https://jobright.ai/jobs/info/6a8f56793ac3a34f92d80ce0?utm_campaign=1053&utm_source=git)** | Canada | Remote | Aug 26 |
 | **[Gift](https://www.shine.gift)** | **[LMU Music Community Intern](https://jobright.ai/jobs/info/6a8f51b2f841e649a7191d3e?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | Remote | Aug 26 |
 | **[Oklahoma State University Alumni Association](http://orangeconnection.org)** | **[Oprotunity Orange Events Intern](https://jobright.ai/jobs/info/6a8f5133f841e649a7191cff?utm_campaign=1053&utm_source=git)** | Stillwater, Oklahoma, United States | On Site | Aug 26 |
@@ -81,8 +82,8 @@ For a complete list, click the following sortable link below:
 | **[Tombras](http://tombras.com)** | **[Post-Production Intern](https://jobright.ai/jobs/info/6a8dc930a5639a4810327a7c?utm_campaign=1053&utm_source=git)** | Knoxville, TN, United States | On Site | Aug 25 |
 | **[The Digital Chamber](https://digitalchamber.org)** | **[Content & Editorial Writing Intern](https://jobright.ai/jobs/info/6a8ddb07a5639a4810328142?utm_campaign=1053&utm_source=git)** | Washington, DC, United States | Remote | Aug 25 |
 | **[Tombras](http://tombras.com)** | **[Production Intern](https://jobright.ai/jobs/info/6a8dbb10d34f700f87fd5759?utm_campaign=1053&utm_source=git)** | Knoxville, TN, United States | On Site | Aug 25 |
-| **[NoGood](https://nogood.io)** | **[Intern- Social Video Creator](https://jobright.ai/jobs/info/6a605172193c4d692385dc82?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Hybrid | Aug 25 |
-| ↳ | **[Intern- Social Video Creator](https://jobright.ai/jobs/info/69d9a15b738f2f099e8a368e?utm_campaign=1053&utm_source=git)** | New York, New York, United States | Hybrid | Aug 25 |
+| **[NoGood](https://nogood.io)** | **[Intern- Social Video Creator](https://jobright.ai/jobs/info/69d9a15b738f2f099e8a368e?utm_campaign=1053&utm_source=git)** | New York, New York, United States | Hybrid | Aug 25 |
+| ↳ | **[Intern- Social Video Creator](https://jobright.ai/jobs/info/6a605172193c4d692385dc82?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Hybrid | Aug 25 |
 | **[Arena](https://www.arenatalent.com)** | **[Editorial Intern - Fall 2026](https://jobright.ai/jobs/info/6a8dc642a5639a48103277d5?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 25 |
 | **[Low Battery](https://raptv.com/)** | **[Short-Form Video Editor Intern, Fall 2026](https://jobright.ai/jobs/info/6a8dbba4a5639a48103271be?utm_campaign=1053&utm_source=git)** | Los Angeles metropolitan area, United States | On Site | Aug 25 |
 | **[Ohio Wesleyan University](http://www.owu.edu/)** | **[Videographer Intern-SW](https://jobright.ai/jobs/info/6a8df381d34f700f87fd6fd6?utm_campaign=1053&utm_source=git)** | Delaware, OH, United States | On Site | Aug 25 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[SchoolSpring](http://www.schoolspring.com)** | **[BHS Student Sports Media Intern](https://jobright.ai/jobs/info/6a874a11cde3717f9e9b1400?utm_campaign=1053&utm_source=git)** | Bardstown, KY, United States | On Site | Aug 20 |
 | **[Golden Hippo®](http://goldenhippomedia.com)** | **[Video Editor - Youtube Intern (Bilingual)](https://jobright.ai/jobs/info/6a6145a5d51f6101c8fbac41?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 20 |
 | ↳ | **[Video Editor - Youtube Intern (Bilingual)](https://jobright.ai/jobs/info/6a800b93927c79391ad0eb62?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 20 |
-| **[Buffalo Sabres](http://sabres.com)** | **[Broadcast Intern](https://jobright.ai/jobs/info/6a870ea7cde3717f9e9afdd0?utm_campaign=1053&utm_source=git)** | Buffalo, NY, United States | On Site | Aug 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
