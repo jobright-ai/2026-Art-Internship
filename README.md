@@ -155,5 +155,4 @@ For a complete list, click the following sortable link below:
 | **[Aalo Atomics](https://www.aalo.com)** | **[Fall 2026 Video Intern - Austin, TX](https://jobright.ai/jobs/info/6a88afbc680f314a29d3d4ad?utm_campaign=1053&utm_source=git)** | Austin, TX, United States | On Site | Aug 22 |
 | **[Elite Sports Clubs](http://eliteclubs.com)** | **[Community Events Intern](https://jobright.ai/jobs/info/6a887b20cde3717f9e9b5687?utm_campaign=1053&utm_source=git)** | Milwaukee, WI, United States | On Site | Aug 21 |
 | **[Audacy, Inc.](https://audacyinc.com/)** | **[NYSBA Internship (Fall Semester)](https://jobright.ai/jobs/info/6a88a526cde3717f9e9b6492?utm_campaign=1053&utm_source=git)** | Rochester, NY, United States | On Site | Aug 21 |
-| **[Lavonne's The Agency](https://lavonnestheagency.com/)** | **[Film Intern - Reality TV Production (Videography & Editing Focused)](https://jobright.ai/jobs/info/6a889461e8b6601d1290780f?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | Hybrid | Aug 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
