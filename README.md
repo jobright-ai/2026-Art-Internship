@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sun Prairie Area School District](https://www.sunprairieschools.org/)** | **[Digital Media Specialist Intern](https://jobright.ai/jobs/info/6a9108daa198864866763ae6?utm_campaign=1053&utm_source=git)** | Sun Prairie, WI, United States | On Site | Aug 27 |
 | **[The Washington Post](https://www.washingtonpost.com)** | **[Newsroom Summer Internship Program 2027: Content Strategy Editors](https://jobright.ai/jobs/info/6a9082900bd89e205d24abaa?utm_campaign=1053&utm_source=git)** | Washington Township, District of Columbia, United States | On Site | Aug 27 |
 | ↳ | **[Newsroom Summer Internship Program 2027: Data Journalist](https://jobright.ai/jobs/info/6a9082627c32860d14cf9c70?utm_campaign=1053&utm_source=git)** | Washington Township, District of Columbia, United States | On Site | Aug 27 |
 | ↳ | **[Newsroom Summer Internship Program 2027: Visual Journalists](https://jobright.ai/jobs/info/6a90953e0bd89e205d24b200?utm_campaign=1053&utm_source=git)** | Washington Township, District of Columbia, United States | On Site | Aug 27 |
@@ -68,7 +69,6 @@ For a complete list, click the following sortable link below:
 | **[Operation Smile](http://www.operationsmile.org)** | **[Student Programs Production Intern](https://jobright.ai/jobs/info/6a90851d8ffa38557e6cd630?utm_campaign=1053&utm_source=git)** | Virginia Beach, VA, United States | Hybrid | Aug 27 |
 | **[Gift](https://www.shine.gift)** | **[College Music Intern](https://jobright.ai/jobs/info/6a9082492e254e06fb9f1486?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | Remote | Aug 27 |
 | **[The New York Times](https://www.nytco.com/)** | **[Journalist, Graphics Intensive](https://jobright.ai/jobs/info/6a906ab1a198864866760fe7?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Hybrid | Aug 27 |
-| **[adyn](https://www.adyn.com/)** | **[DIGITAL STORYTELLING INTERN](https://jobright.ai/jobs/info/6a906a147c32860d14cf93f9?utm_campaign=1053&utm_source=git)** | Seattle, WA, United States | Remote | Aug 27 |
 | **[Golden Hippo®](http://goldenhippomedia.com)** | **[Video Editor - Youtube Intern (Bilingual)](https://jobright.ai/jobs/info/6a59040463a8f619507bfad3?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 27 |
 | **[Confederation College](https://www.confederationcollege.ca/)** | **[Video Content Creator Intern](https://jobright.ai/jobs/info/6a90573d7c32860d14cf8c49?utm_campaign=1053&utm_source=git)** | Kenora, ON, Canada | On Site | Aug 27 |
 | **[Auburn University at Montgomery](http://www.aum.edu/)** | **[Student Video Producer](https://jobright.ai/jobs/info/6a90469d7c32860d14cf8601?utm_campaign=1053&utm_source=git)** | Auburn, AL, United States | On Site | Aug 27 |
@@ -100,8 +100,8 @@ For a complete list, click the following sortable link below:
 | **[Tombras](http://tombras.com)** | **[Post-Production Intern](https://jobright.ai/jobs/info/6a8dc930a5639a4810327a7c?utm_campaign=1053&utm_source=git)** | Knoxville, TN, United States | On Site | Aug 25 |
 | **[The Digital Chamber](https://digitalchamber.org)** | **[Content & Editorial Writing Intern](https://jobright.ai/jobs/info/6a8ddb07a5639a4810328142?utm_campaign=1053&utm_source=git)** | Washington, DC, United States | Remote | Aug 25 |
 | **[Tombras](http://tombras.com)** | **[Production Intern](https://jobright.ai/jobs/info/6a8dbb10d34f700f87fd5759?utm_campaign=1053&utm_source=git)** | Knoxville, TN, United States | On Site | Aug 25 |
-| **[NoGood](https://nogood.io)** | **[Intern- Social Video Creator](https://jobright.ai/jobs/info/69d9a15b738f2f099e8a368e?utm_campaign=1053&utm_source=git)** | New York, New York, United States | Hybrid | Aug 25 |
-| ↳ | **[Intern- Social Video Creator](https://jobright.ai/jobs/info/6a605172193c4d692385dc82?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Hybrid | Aug 25 |
+| **[NoGood](https://nogood.io)** | **[Intern- Social Video Creator](https://jobright.ai/jobs/info/6a605172193c4d692385dc82?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Hybrid | Aug 25 |
+| ↳ | **[Intern- Social Video Creator](https://jobright.ai/jobs/info/69d9a15b738f2f099e8a368e?utm_campaign=1053&utm_source=git)** | New York, New York, United States | Hybrid | Aug 25 |
 | **[Arena](https://www.arenatalent.com)** | **[Editorial Intern - Fall 2026](https://jobright.ai/jobs/info/6a8dc642a5639a48103277d5?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 25 |
 | **[Low Battery](https://raptv.com/)** | **[Short-Form Video Editor Intern, Fall 2026](https://jobright.ai/jobs/info/6a8dbba4a5639a48103271be?utm_campaign=1053&utm_source=git)** | Los Angeles metropolitan area, United States | On Site | Aug 25 |
 | **[Ohio Wesleyan University](http://www.owu.edu/)** | **[Videographer Intern-SW](https://jobright.ai/jobs/info/6a8df381d34f700f87fd6fd6?utm_campaign=1053&utm_source=git)** | Delaware, OH, United States | On Site | Aug 25 |
