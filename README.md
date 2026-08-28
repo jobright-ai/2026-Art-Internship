@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Emo Nite - Production Intern](https://jobright.ai/jobs/info/6a9126712e254e06fb9f3a66?utm_campaign=1053&utm_source=git)** | Calabasas, CA, United States | On Site | Aug 27 |
 | **[Sun Prairie Area School District](https://www.sunprairieschools.org/)** | **[Digital Media Specialist Intern](https://jobright.ai/jobs/info/6a9108daa198864866763ae6?utm_campaign=1053&utm_source=git)** | Sun Prairie, WI, United States | On Site | Aug 27 |
 | **[The Washington Post](https://www.washingtonpost.com)** | **[Newsroom Summer Internship Program 2027: Content Strategy Editors](https://jobright.ai/jobs/info/6a9082900bd89e205d24abaa?utm_campaign=1053&utm_source=git)** | Washington Township, District of Columbia, United States | On Site | Aug 27 |
 | ↳ | **[Newsroom Summer Internship Program 2027: Data Journalist](https://jobright.ai/jobs/info/6a9082627c32860d14cf9c70?utm_campaign=1053&utm_source=git)** | Washington Township, District of Columbia, United States | On Site | Aug 27 |
@@ -84,7 +85,6 @@ For a complete list, click the following sortable link below:
 | **[SchoolSpring](http://www.schoolspring.com)** | **[CUSD Student Internship - Athletic Digital Media Intern](https://jobright.ai/jobs/info/6a8f86c32e254e06fb9ed9cd?utm_campaign=1053&utm_source=git)** | Chandler, AZ, United States | On Site | Aug 26 |
 | **[Insomniac Events](http://insomniac.com)** | **[Emo Nite - Production Intern](https://jobright.ai/jobs/info/6a911ab67c32860d14cfc190?utm_campaign=1053&utm_source=git)** | Calabasas, CA, United States | On Site | Aug 26 |
 | **[Crystal Bridges Museum of American Art](http://crystalbridges.org)** | **[2026 Ceramics Fall Intern](https://jobright.ai/jobs/info/6a8f6fb20bd89e205d246d49?utm_campaign=1053&utm_source=git)** | Bentonville, AR, United States | On Site | Aug 26 |
-| **[Oklahoma State University Alumni Association](http://orangeconnection.org)** | **[Oprotunity Orange Events Intern](https://jobright.ai/jobs/info/6a8f5133f841e649a7191cff?utm_campaign=1053&utm_source=git)** | Stillwater, Oklahoma, United States | On Site | Aug 26 |
 | **[Sugar Cilantro](https://sugarcilantro.com)** | **[TikTik/Reels Video Content Creation Intern](https://jobright.ai/jobs/info/6a8f587ca10ee661e24d7cbf?utm_campaign=1053&utm_source=git)** | Atlanta, GA, United States | Hybrid | Aug 26 |
 | **[Carpenters Workshop Gallery](https://carpentersworkshopgallery.com)** | **[Gallery Intern - Los Angeles](https://jobright.ai/jobs/info/6a8ee0d9382b237ac80c30eb?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | On Site | Aug 26 |
 | **[Insomniac Events](http://insomniac.com)** | **[Paid Fall Music Group Publishing Intern](https://jobright.ai/jobs/info/6a480a84c2d11a6a46673a56?utm_campaign=1053&utm_source=git)** | Calabasas, CA, USA | On Site | Aug 26 |
@@ -101,8 +101,8 @@ For a complete list, click the following sortable link below:
 | **[Tombras](http://tombras.com)** | **[Post-Production Intern](https://jobright.ai/jobs/info/6a8dc930a5639a4810327a7c?utm_campaign=1053&utm_source=git)** | Knoxville, TN, United States | On Site | Aug 25 |
 | **[The Digital Chamber](https://digitalchamber.org)** | **[Content & Editorial Writing Intern](https://jobright.ai/jobs/info/6a8ddb07a5639a4810328142?utm_campaign=1053&utm_source=git)** | Washington, DC, United States | Remote | Aug 25 |
 | **[Tombras](http://tombras.com)** | **[Production Intern](https://jobright.ai/jobs/info/6a8dbb10d34f700f87fd5759?utm_campaign=1053&utm_source=git)** | Knoxville, TN, United States | On Site | Aug 25 |
-| **[NoGood](https://nogood.io)** | **[Intern- Social Video Creator](https://jobright.ai/jobs/info/69d9a15b738f2f099e8a368e?utm_campaign=1053&utm_source=git)** | New York, New York, United States | Hybrid | Aug 25 |
-| ↳ | **[Intern- Social Video Creator](https://jobright.ai/jobs/info/6a605172193c4d692385dc82?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Hybrid | Aug 25 |
+| **[NoGood](https://nogood.io)** | **[Intern- Social Video Creator](https://jobright.ai/jobs/info/6a605172193c4d692385dc82?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Hybrid | Aug 25 |
+| ↳ | **[Intern- Social Video Creator](https://jobright.ai/jobs/info/69d9a15b738f2f099e8a368e?utm_campaign=1053&utm_source=git)** | New York, New York, United States | Hybrid | Aug 25 |
 | **[Arena](https://www.arenatalent.com)** | **[Editorial Intern - Fall 2026](https://jobright.ai/jobs/info/6a8dc642a5639a48103277d5?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 25 |
 | **[Low Battery](https://raptv.com/)** | **[Short-Form Video Editor Intern, Fall 2026](https://jobright.ai/jobs/info/6a8dbba4a5639a48103271be?utm_campaign=1053&utm_source=git)** | Los Angeles metropolitan area, United States | On Site | Aug 25 |
 | **[Ohio Wesleyan University](http://www.owu.edu/)** | **[Videographer Intern-SW](https://jobright.ai/jobs/info/6a8df381d34f700f87fd6fd6?utm_campaign=1053&utm_source=git)** | Delaware, OH, United States | On Site | Aug 25 |
