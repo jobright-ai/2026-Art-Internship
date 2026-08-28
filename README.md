@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Audacy, Inc.](https://audacyinc.com/)** | **[NYSBA Internship (Fall Semester)](https://jobright.ai/jobs/info/6a88a526cde3717f9e9b6492?utm_campaign=1053&utm_source=git)** | Rochester, NY, United States | On Site | Aug 28 |
 | **[Insomniac Events](http://insomniac.com)** | **[Emo Nite - Production Intern](https://jobright.ai/jobs/info/6a911ab67c32860d14cfc190?utm_campaign=1053&utm_source=git)** | Calabasas, CA, United States | On Site | Aug 28 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Emo Nite - Production Intern](https://jobright.ai/jobs/info/6a9126712e254e06fb9f3a66?utm_campaign=1053&utm_source=git)** | Calabasas, CA, United States | On Site | Aug 27 |
 | **[Sun Prairie Area School District](https://www.sunprairieschools.org/)** | **[Digital Media Specialist Intern](https://jobright.ai/jobs/info/6a9108daa198864866763ae6?utm_campaign=1053&utm_source=git)** | Sun Prairie, WI, United States | On Site | Aug 27 |
