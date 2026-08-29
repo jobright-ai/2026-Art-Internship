@@ -57,8 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[The Post and Courier](http://www.postandcourier.com/)** | **[The Post and Courier Columbia News Intern](https://jobright.ai/jobs/info/6a9201eba27a2d3c9848afd5?utm_campaign=1053&utm_source=git)** | Columbia, SC, United States | On Site | Aug 28 |
+| **[Kroenke Sports & Entertainment](https://www.ballarena.com)** | **[Intern, Production](https://jobright.ai/jobs/info/6a921016c12c90443efc9681?utm_campaign=1053&utm_source=git)** | Centennial, CO, United States | On Site | Aug 28 |
 | **[The Washington Post](https://www.washingtonpost.com)** | **[Newsroom Summer Internship Program 2027: Data Journalist](https://jobright.ai/jobs/info/6a9082627c32860d14cf9c70?utm_campaign=1053&utm_source=git)** | Washington Township, District of Columbia, United States | On Site | Aug 28 |
+| **[The Post and Courier](http://www.postandcourier.com/)** | **[The Post and Courier Columbia News Intern](https://jobright.ai/jobs/info/6a9201eba27a2d3c9848afd5?utm_campaign=1053&utm_source=git)** | Columbia, SC, United States | On Site | Aug 28 |
+| **[NESN](http://nesn.com)** | **[Dining Playbook/Meet Boston Intern - Fall Semester](https://jobright.ai/jobs/info/6a92070e36036300991958eb?utm_campaign=1053&utm_source=git)** | Watertown, MA, United States | On Site | Aug 28 |
 | **[West Fort Worth Management](https://www.wfwmanagement.com)** | **[Videography/Video Editor Internship](https://jobright.ai/jobs/info/6a91ab3f9864261ccd29e1c1?utm_campaign=1053&utm_source=git)** | Fort Worth, TX, United States | On Site | Aug 28 |
 | **[Audacy, Inc.](https://audacyinc.com/)** | **[NYSBA Internship (Fall Semester)](https://jobright.ai/jobs/info/6a88a526cde3717f9e9b6492?utm_campaign=1053&utm_source=git)** | Rochester, NY, United States | On Site | Aug 28 |
 | **[Insomniac Events](http://insomniac.com)** | **[Emo Nite - Production Intern](https://jobright.ai/jobs/info/6a911ab67c32860d14cfc190?utm_campaign=1053&utm_source=git)** | Calabasas, CA, United States | On Site | Aug 28 |
