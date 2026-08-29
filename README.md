@@ -58,7 +58,6 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Union Home Mortgage Corp.](https://www.uhm.com/)** | **[Video Content Intern](https://jobright.ai/jobs/info/6a924886d18f75674827bb2a?utm_campaign=1053&utm_source=git)** | Strongsville, OH, United States | On Site | Aug 28 |
-| **[Long Island Rail Road](https://new.mta.info/agency/long-island-rail-road)** | **[Historical Preservation, Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/6a931bc7a27a2d3c9848d807?utm_campaign=1053&utm_source=git)** | New York, New York, United States | On Site | Aug 28 |
 | **[Kroenke Sports & Entertainment](https://www.ballarena.com)** | **[Intern, Production](https://jobright.ai/jobs/info/6a921016c12c90443efc9681?utm_campaign=1053&utm_source=git)** | Centennial, CO, United States | On Site | Aug 28 |
 | **[The Washington Post](https://www.washingtonpost.com)** | **[Newsroom Summer Internship Program 2027: Data Journalist](https://jobright.ai/jobs/info/6a9082627c32860d14cf9c70?utm_campaign=1053&utm_source=git)** | Washington Township, District of Columbia, United States | On Site | Aug 28 |
 | **[The Post and Courier](http://www.postandcourier.com/)** | **[The Post and Courier Columbia News Intern](https://jobright.ai/jobs/info/6a9201eba27a2d3c9848afd5?utm_campaign=1053&utm_source=git)** | Columbia, SC, United States | On Site | Aug 28 |
