@@ -144,5 +144,4 @@ For a complete list, click the following sortable link below:
 | **[Monterey Peninsula Country Club](http://www.mpccpb.org)** | **[PGA Intern](https://jobright.ai/jobs/info/6a8bcd13e8b6601d1290cad6?utm_campaign=1053&utm_source=git)** | Pebble Beach, CA, United States | On Site | Aug 23 |
 | **[McGill University](http://www.mcgill.ca)** | **[Museum Database Assistant (AUS Intern)](https://jobright.ai/jobs/info/6a8c99a71d96e6541c8c1de8?utm_campaign=1053&utm_source=git)** | Canada | Remote | Aug 23 |
 | **[Pasilobus](https://pasilobus.com/)** | **[Content Creator Intern (Part-Time)](https://jobright.ai/jobs/info/6a8b54d825fc4e7ae3db57d9?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 23 |
-| **[The Aparecio Foundation](https://www.apareciofoundation.org)** | **[Volunteer/Intern:Pro bono: Editor of "Party" Content in Felix](https://jobright.ai/jobs/info/6a8afbff25fc4e7ae3db52fa?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | On Site | Aug 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
