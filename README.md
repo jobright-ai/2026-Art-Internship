@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[adyn](https://www.adyn.com/)** | **[DIGITAL STORYTELLING INTERN](https://jobright.ai/jobs/info/6a945e378e5968545337ce5e?utm_campaign=1053&utm_source=git)** | Seattle, WA, United States | Remote | Aug 30 |
 | **[Gift](https://www.shine.gift)** | **[Anime / Manga Intern](https://jobright.ai/jobs/info/6a94323aa27a2d3c9848ef82?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | Remote | Aug 30 |
 | **[FDB (First Databank, Inc.)](http://fdbhealth.com)** | **[Fall News Intern](https://jobright.ai/jobs/info/69e61b3f3aa0c4796439220f?utm_campaign=1053&utm_source=git)** | Pittsburgh, PA, United States | On Site | Aug 30 |
 | **[Elite Podcast Studio](ElitePodcastStudio.com)** | **[Content Creator Intern / AI & Media Production Training](https://jobright.ai/jobs/info/6a940cb39864261ccd2a3bf2?utm_campaign=1053&utm_source=git)** | Odessa, FL, United States | On Site | Aug 30 |
@@ -126,8 +127,8 @@ For a complete list, click the following sortable link below:
 | **[Hasana, Inc.](http://shophasana.com)** | **[Fashion Stylist Intern/Volunteer](https://jobright.ai/jobs/info/6a8d81dd25fc4e7ae3dbc20a?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | On Site | Aug 25 |
 | **[The Riviera Country Club](https://www.therivieracountryclub.com/Club/Scripts/Home/home.asp)** | **[Summer 2027 Golf Operations Intern](https://jobright.ai/jobs/info/6a8dbd03581f2d7bfdfe8a0a?utm_campaign=1053&utm_source=git)** | Pacific Palisades, CA, United States | On Site | Aug 25 |
 | **[Forward Madison FC](https://www.forwardmadisonfc.com)** | **[Gameday Intern - Press Box Operations](https://jobright.ai/jobs/info/6a8d4d4925fc4e7ae3dbbac2?utm_campaign=1053&utm_source=git)** | Madison, WI, United States | On Site | Aug 25 |
-| **[Jacksonville Icemen](https://jacksonvilleicemen.com)** | **[Charlotte Checkers Videography Internship 2026-2027 Season](https://jobright.ai/jobs/info/6a8d3d3bcde3717f9e9c05aa?utm_campaign=1053&utm_source=git)** | Charlotte, NC, United States | On Site | Aug 24 |
-| ↳ | **[Charlotte Checkers Game Operations Internship](https://jobright.ai/jobs/info/6a8d3d3bd34f700f87fd3d2a?utm_campaign=1053&utm_source=git)** | Charlotte, NC, United States | On Site | Aug 24 |
+| **[Jacksonville Icemen](https://jacksonvilleicemen.com)** | **[Charlotte Checkers Game Operations Internship](https://jobright.ai/jobs/info/6a8d3d3bd34f700f87fd3d2a?utm_campaign=1053&utm_source=git)** | Charlotte, NC, United States | On Site | Aug 24 |
+| ↳ | **[Charlotte Checkers Videography Internship 2026-2027 Season](https://jobright.ai/jobs/info/6a8d3d3bcde3717f9e9c05aa?utm_campaign=1053&utm_source=git)** | Charlotte, NC, United States | On Site | Aug 24 |
 | ↳ | **[Jacksonville Icemen Videography Internship 2026-2027 Season](https://jobright.ai/jobs/info/6a8d3d372f736c304f2a9081?utm_campaign=1053&utm_source=git)** | Jacksonville, FL, United States | On Site | Aug 24 |
 | ↳ | **[Savannah Ghost Pirates Game Presentation Internship 2026-2027 Season](https://jobright.ai/jobs/info/6a8d3d32d34f700f87fd3d27?utm_campaign=1053&utm_source=git)** | Savannah, GA, United States | On Site | Aug 24 |
 | ↳ | **[Video Intern, Savannah Ghost Pirates 2026-27 Season](https://jobright.ai/jobs/info/6a8d3c36a5639a4810325754?utm_campaign=1053&utm_source=git)** | Savannah, GA, United States | On Site | Aug 24 |
@@ -147,5 +148,4 @@ For a complete list, click the following sortable link below:
 | **[SFMOMA San Francisco Museum of Modern Art](https://www.sfmoma.org)** | **[Archives and Records Management Intern: Artwork Documentation](https://jobright.ai/jobs/info/6a8c3b921d96e6541c8bfa91?utm_campaign=1053&utm_source=git)** | San Francisco, CA, United States | On Site | Aug 24 |
 | **[Center for Strategic and International Studies (CSIS)](https://www.csis.org)** | **[Multimedia Production Intern](https://jobright.ai/jobs/info/6a8c2998cde3717f9e9bbc10?utm_campaign=1053&utm_source=git)** | Washington, D.C., United States | On Site | Aug 24 |
 | **[Monterey Peninsula Country Club](http://www.mpccpb.org)** | **[PGA Intern](https://jobright.ai/jobs/info/6a8bcd13e8b6601d1290cad6?utm_campaign=1053&utm_source=git)** | Pebble Beach, CA, United States | On Site | Aug 23 |
-| **[McGill University](http://www.mcgill.ca)** | **[Museum Database Assistant (AUS Intern)](https://jobright.ai/jobs/info/6a8c99a71d96e6541c8c1de8?utm_campaign=1053&utm_source=git)** | Canada | Remote | Aug 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
