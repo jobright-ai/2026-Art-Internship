@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Gift](https://www.shine.gift)** | **[Anime / Manga Intern](https://jobright.ai/jobs/info/6a94323aa27a2d3c9848ef82?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | Remote | Aug 30 |
+| **[FDB (First Databank, Inc.)](http://fdbhealth.com)** | **[Fall News Intern](https://jobright.ai/jobs/info/69e61b3f3aa0c4796439220f?utm_campaign=1053&utm_source=git)** | Pittsburgh, PA, United States | On Site | Aug 30 |
 | **[Elite Podcast Studio](ElitePodcastStudio.com)** | **[Content Creator Intern / AI & Media Production Training](https://jobright.ai/jobs/info/6a940cb39864261ccd2a3bf2?utm_campaign=1053&utm_source=git)** | Odessa, FL, United States | On Site | Aug 30 |
 | **[TESstylist](https://tesstylist.com)** | **[Fashion Intern](https://jobright.ai/jobs/info/6a9408b0d18f75674827eeab?utm_campaign=1053&utm_source=git)** | Boston, MA, United States | On Site | Aug 30 |
 | **[Respect My Region](https://www.respectmyregion.com)** | **[Cannabis Journalist Internship](https://jobright.ai/jobs/info/6a93ab97a27a2d3c9848e188?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Remote | Aug 29 |
@@ -111,8 +113,8 @@ For a complete list, click the following sortable link below:
 | **[Tombras](http://tombras.com)** | **[Post-Production Intern](https://jobright.ai/jobs/info/6a8dc930a5639a4810327a7c?utm_campaign=1053&utm_source=git)** | Knoxville, TN, United States | On Site | Aug 25 |
 | **[The Digital Chamber](https://digitalchamber.org)** | **[Content & Editorial Writing Intern](https://jobright.ai/jobs/info/6a8ddb07a5639a4810328142?utm_campaign=1053&utm_source=git)** | Washington, DC, United States | Remote | Aug 25 |
 | **[Tombras](http://tombras.com)** | **[Production Intern](https://jobright.ai/jobs/info/6a8dbb10d34f700f87fd5759?utm_campaign=1053&utm_source=git)** | Knoxville, TN, United States | On Site | Aug 25 |
-| **[NoGood](https://nogood.io)** | **[Intern- Social Video Creator](https://jobright.ai/jobs/info/6a605172193c4d692385dc82?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Hybrid | Aug 25 |
-| ↳ | **[Intern- Social Video Creator](https://jobright.ai/jobs/info/69d9a15b738f2f099e8a368e?utm_campaign=1053&utm_source=git)** | New York, New York, United States | Hybrid | Aug 25 |
+| **[NoGood](https://nogood.io)** | **[Intern- Social Video Creator](https://jobright.ai/jobs/info/69d9a15b738f2f099e8a368e?utm_campaign=1053&utm_source=git)** | New York, New York, United States | Hybrid | Aug 25 |
+| ↳ | **[Intern- Social Video Creator](https://jobright.ai/jobs/info/6a605172193c4d692385dc82?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Hybrid | Aug 25 |
 | **[Arena](https://www.arenatalent.com)** | **[Editorial Intern - Fall 2026](https://jobright.ai/jobs/info/6a8dc642a5639a48103277d5?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 25 |
 | **[Low Battery](https://raptv.com/)** | **[Short-Form Video Editor Intern, Fall 2026](https://jobright.ai/jobs/info/6a8dbba4a5639a48103271be?utm_campaign=1053&utm_source=git)** | Los Angeles metropolitan area, United States | On Site | Aug 25 |
 | **[Ohio Wesleyan University](http://www.owu.edu/)** | **[Videographer Intern-SW](https://jobright.ai/jobs/info/6a8df381d34f700f87fd6fd6?utm_campaign=1053&utm_source=git)** | Delaware, OH, United States | On Site | Aug 25 |
