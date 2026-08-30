@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Dazed Media](http://www.dazedmedia.com)** | **[Dazed US Editorial / Social Internship](https://jobright.ai/jobs/info/6a8da0b347679c68bf5e3876?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Hybrid | Aug 29 |
+| ↳ | **[Dazed US Video Editor Internship](https://jobright.ai/jobs/info/6a8da0b8581f2d7bfdfe7f62?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Hybrid | Aug 29 |
 | **[The Publisher Desk](http://www.publisherdesk.com/)** | **[Editorial Summer Internship, Forever Blueshirts](https://jobright.ai/jobs/info/6a5e6951050c423c792ef057?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 29 |
 | **[Union Home Mortgage Corp.](https://www.uhm.com/)** | **[Video Content Intern](https://jobright.ai/jobs/info/6a924886d18f75674827bb2a?utm_campaign=1053&utm_source=git)** | Strongsville, OH, United States | On Site | Aug 28 |
 | **[Kroenke Sports & Entertainment](https://www.ballarena.com)** | **[Intern, Production](https://jobright.ai/jobs/info/6a921016c12c90443efc9681?utm_campaign=1053&utm_source=git)** | Centennial, CO, United States | On Site | Aug 28 |
@@ -115,8 +117,6 @@ For a complete list, click the following sortable link below:
 | **[Palm Springs Power Baseball](https://palmspringspowerbaseball.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/6a8daca8581f2d7bfdfe8466?utm_campaign=1053&utm_source=git)** | Palm Springs, CA, United States | On Site | Aug 25 |
 | **[dot.LA](https://dot.la)** | **[Editorial Intern (Remote)](https://jobright.ai/jobs/info/6a8dac9e47679c68bf5e3d9d?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 25 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Media Production Intern (In- Person) Fall 2026.](https://jobright.ai/jobs/info/6a398ce3f6b55d12c7928b8e?utm_campaign=1053&utm_source=git)** | AL, Mobile, United States of America | On Site | Aug 25 |
-| **[Dazed Media](http://www.dazedmedia.com)** | **[Dazed US Video Editor Internship](https://jobright.ai/jobs/info/6a8da0b8581f2d7bfdfe7f62?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Hybrid | Aug 25 |
-| ↳ | **[Dazed US Editorial / Social Internship](https://jobright.ai/jobs/info/6a8da0b347679c68bf5e3876?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Hybrid | Aug 25 |
 | **[Blaire's Mobile Bar](https://sites.google.com/view/blairesmobilebarservice?pli=1)** | **[2026-2027 Internship Program](https://jobright.ai/jobs/info/6a8d8a8425fc4e7ae3dbc38d?utm_campaign=1053&utm_source=git)** | Dallas, TX, United States | On Site | Aug 25 |
 | **[Hasana, Inc.](http://shophasana.com)** | **[Fashion Stylist Intern/Volunteer](https://jobright.ai/jobs/info/6a8d81dd25fc4e7ae3dbc20a?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | On Site | Aug 25 |
 | **[The Riviera Country Club](https://www.therivieracountryclub.com/Club/Scripts/Home/home.asp)** | **[Summer 2027 Golf Operations Intern](https://jobright.ai/jobs/info/6a8dbd03581f2d7bfdfe8a0a?utm_campaign=1053&utm_source=git)** | Pacific Palisades, CA, United States | On Site | Aug 25 |
