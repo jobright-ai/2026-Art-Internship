@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Publisher Desk](http://www.publisherdesk.com/)** | **[Editorial Summer Internship, Forever Blueshirts](https://jobright.ai/jobs/info/6a5e6951050c423c792ef057?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 29 |
 | **[Union Home Mortgage Corp.](https://www.uhm.com/)** | **[Video Content Intern](https://jobright.ai/jobs/info/6a924886d18f75674827bb2a?utm_campaign=1053&utm_source=git)** | Strongsville, OH, United States | On Site | Aug 28 |
 | **[Kroenke Sports & Entertainment](https://www.ballarena.com)** | **[Intern, Production](https://jobright.ai/jobs/info/6a921016c12c90443efc9681?utm_campaign=1053&utm_source=git)** | Centennial, CO, United States | On Site | Aug 28 |
 | **[The Washington Post](https://www.washingtonpost.com)** | **[Newsroom Summer Internship Program 2027: Data Journalist](https://jobright.ai/jobs/info/6a9082627c32860d14cf9c70?utm_campaign=1053&utm_source=git)** | Washington Township, District of Columbia, United States | On Site | Aug 28 |
