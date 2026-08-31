@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hearst Television](http://www.hearsttelevision.com)** | **[Intern (Fall)](https://jobright.ai/jobs/info/6a1d794e3e538a28c2049c97?utm_campaign=1053&utm_source=git)** | 3 Television Circle, Sacramento, CA, 95814, US | On Site | Aug 31 |
 | **[ASM Global](https://asmglobal.com/)** | **[Hospitality Intern - The Meadows Music Theater](https://jobright.ai/jobs/info/6a510fcabf63b66c79978842?utm_campaign=1053&utm_source=git)** | Hartford, CT, United States | On Site | Aug 31 |
 | **[University of Utah](http://utah.edu)** | **[Intern, Events](https://jobright.ai/jobs/info/6a94f5798e5968545337d854?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT, United States | On Site | Aug 30 |
 | **[TGR](https://thegarnettereport.com)** | **[Fall Internship](https://jobright.ai/jobs/info/6a94ae538e5968545337d297?utm_campaign=1053&utm_source=git)** | New York City metropolitan area, United States | Remote | Aug 30 |
@@ -94,7 +95,6 @@ For a complete list, click the following sortable link below:
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[WAVY Unpaid Sports Intern, Fall 2026](https://jobright.ai/jobs/info/69fc4646633e68586cd30319?utm_campaign=1053&utm_source=git)** | VA, Portsmouth, US | On Site | Aug 27 |
 | **[Operation Smile](http://www.operationsmile.org)** | **[Writing Internship - Operation Smile ILC](https://jobright.ai/jobs/info/6a9030e5d96ad228f125feac?utm_campaign=1053&utm_source=git)** | Virginia Beach, VA, United States | On Site | Aug 27 |
 | **[Kontinentalist](https://www.kontinentalist.com/)** | **[Editorial Intern, Lapis](https://jobright.ai/jobs/info/6a9071a2a1988648667612d4?utm_campaign=1053&utm_source=git)** | Indiana, United States | On Site | Aug 27 |
-| **[Canyon Entertainment Group](https://canyonentertainmentgroup.com)** | **[Video Editing, Post-Production Intern](https://jobright.ai/jobs/info/6a90292d0bd89e205d248c60?utm_campaign=1053&utm_source=git)** | Canada | Remote | Aug 27 |
 | **[Mythical](https://www.mythical.com/)** | **[Post Production Intern - Fall 2026](https://jobright.ai/jobs/info/6a8fc0ecd96ad228f125e7b7?utm_campaign=1053&utm_source=git)** | Burbank, CA, United States | On Site | Aug 26 |
 | **[Comcast](https://corporate.comcast.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/6a8f163f382b237ac80c42e3?utm_campaign=1053&utm_source=git)** | Philadelphia, PA, United States | On Site | Aug 26 |
 | **[SchoolSpring](http://www.schoolspring.com)** | **[CUSD Student Internship - Athletic Digital Media Intern](https://jobright.ai/jobs/info/6a8f86c32e254e06fb9ed9cd?utm_campaign=1053&utm_source=git)** | Chandler, AZ, United States | On Site | Aug 26 |
@@ -108,7 +108,7 @@ For a complete list, click the following sortable link below:
 | **[Art and Wellness Enterprises](https://aweoffice.org)** | **[2026 Museum Editorial Fall Intern](https://jobright.ai/jobs/info/6a8f4e45d7c91d0cf446e9e7?utm_campaign=1053&utm_source=git)** | Bentonville, AR, United States | On Site | Aug 25 |
 | **[WhoWhatWhy](http://whowhatwhy.org/)** | **[Editorial Assistant (Volunteer, Fall 2026)](https://jobright.ai/jobs/info/6a8e248ad34f700f87fd8148?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 25 |
 | **[SXSW](https://www.sxsw.com/pitch)** | **[SXSW Exhibitions Support Intern](https://jobright.ai/jobs/info/6a8e005e47679c68bf5e6187?utm_campaign=1053&utm_source=git)** | Austin, TX, United States | On Site | Aug 25 |
-| **[East Penn Manufacturing Co.](http://www.dekabatteries.com)** | **[Personnel Media Editor Intern (Summer 2027)](https://jobright.ai/jobs/info/6a8dfcaca5639a4810328e4a?utm_campaign=1053&utm_source=git)** | Lyon Station, PA, United States | On Site | Aug 25 |
+| **[East Penn Manufacturing Co.](https://www.eastpennmanufacturing.com/)** | **[Personnel Media Editor Intern (Summer 2027)](https://jobright.ai/jobs/info/6a8dfcaca5639a4810328e4a?utm_campaign=1053&utm_source=git)** | Lyon Station, PA, United States | On Site | Aug 25 |
 | **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Spring 2027 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a8df50225fc4e7ae3dbecf6?utm_campaign=1053&utm_source=git)** | Atlanta, GA, United States | On Site | Aug 25 |
 | **[Tombras](http://tombras.com)** | **[Post-Production Intern](https://jobright.ai/jobs/info/6a8dc930a5639a4810327a7c?utm_campaign=1053&utm_source=git)** | Knoxville, TN, United States | On Site | Aug 25 |
 | **[The Digital Chamber](https://digitalchamber.org)** | **[Content & Editorial Writing Intern](https://jobright.ai/jobs/info/6a8ddb07a5639a4810328142?utm_campaign=1053&utm_source=git)** | Washington, DC, United States | Remote | Aug 25 |
