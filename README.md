@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[adyn](https://www.adyn.com/)** | **[DIGITAL STORYTELLING INTERN](https://jobright.ai/jobs/info/6a95afd04c22023a079351e1?utm_campaign=1053&utm_source=git)** | Seattle, WA, United States | Remote | Aug 31 |
+| **[MUSÉE MAGAZINE](http://museemagazine.com)** | **[Editorial Internship](https://jobright.ai/jobs/info/6a95aa949fcec5442372e3c2?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Remote | Aug 31 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid News Intern](https://jobright.ai/jobs/info/6972b01a9b83b424830eb8a4?utm_campaign=1053&utm_source=git)** | IN-Indianapolis;6910 Network Place (Tribune-WXIN/WTTV) | On Site | Aug 31 |
 | ↳ | **[Unpaid News Intern](https://jobright.ai/jobs/info/69b1c6a4548f140066e79343?utm_campaign=1053&utm_source=git)** | Wichita, KS | On Site | Aug 31 |
 | **[Hearst Television](http://www.hearsttelevision.com)** | **[Intern (Fall)](https://jobright.ai/jobs/info/6a1d794e3e538a28c2049c97?utm_campaign=1053&utm_source=git)** | 3 Television Circle, Sacramento, CA, 95814, US | On Site | Aug 31 |
@@ -64,7 +66,6 @@ For a complete list, click the following sortable link below:
 | **[University of Utah](http://utah.edu)** | **[Intern, Events](https://jobright.ai/jobs/info/6a94f5798e5968545337d854?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT, United States | On Site | Aug 30 |
 | **[TGR](https://thegarnettereport.com)** | **[Fall Internship](https://jobright.ai/jobs/info/6a94ae538e5968545337d297?utm_campaign=1053&utm_source=git)** | New York City metropolitan area, United States | Remote | Aug 30 |
 | **[The Aparecio Foundation](https://www.apareciofoundation.org)** | **[Writers & Journalists Intern/Volunteer](https://jobright.ai/jobs/info/6a9469fbc12c90443efcd6fe?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | On Site | Aug 30 |
-| **[Gift](https://www.shine.gift)** | **[Anime / Manga Intern](https://jobright.ai/jobs/info/6a94323aa27a2d3c9848ef82?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | Remote | Aug 30 |
 | **[FDB (First Databank, Inc.)](http://fdbhealth.com)** | **[Fall News Intern](https://jobright.ai/jobs/info/69e61b3f3aa0c4796439220f?utm_campaign=1053&utm_source=git)** | Pittsburgh, PA, United States | On Site | Aug 30 |
 | **[TESstylist](https://tesstylist.com)** | **[Fashion Intern](https://jobright.ai/jobs/info/6a9408b0d18f75674827eeab?utm_campaign=1053&utm_source=git)** | Boston, MA, United States | On Site | Aug 30 |
 | **[Respect My Region](https://www.respectmyregion.com)** | **[Cannabis Journalist Internship](https://jobright.ai/jobs/info/6a93ab97a27a2d3c9848e188?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Remote | Aug 29 |
@@ -113,8 +114,8 @@ For a complete list, click the following sortable link below:
 | **[Tombras](http://tombras.com)** | **[Post-Production Intern](https://jobright.ai/jobs/info/6a8dc930a5639a4810327a7c?utm_campaign=1053&utm_source=git)** | Knoxville, TN, United States | On Site | Aug 25 |
 | **[The Digital Chamber](https://digitalchamber.org)** | **[Content & Editorial Writing Intern](https://jobright.ai/jobs/info/6a8ddb07a5639a4810328142?utm_campaign=1053&utm_source=git)** | Washington, DC, United States | Remote | Aug 25 |
 | **[Tombras](http://tombras.com)** | **[Production Intern](https://jobright.ai/jobs/info/6a8dbb10d34f700f87fd5759?utm_campaign=1053&utm_source=git)** | Knoxville, TN, United States | On Site | Aug 25 |
-| **[NoGood](https://nogood.io)** | **[Intern- Social Video Creator](https://jobright.ai/jobs/info/69d9a15b738f2f099e8a368e?utm_campaign=1053&utm_source=git)** | New York, New York, United States | Hybrid | Aug 25 |
-| ↳ | **[Intern- Social Video Creator](https://jobright.ai/jobs/info/6a605172193c4d692385dc82?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Hybrid | Aug 25 |
+| **[NoGood](https://nogood.io)** | **[Intern- Social Video Creator](https://jobright.ai/jobs/info/6a605172193c4d692385dc82?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Hybrid | Aug 25 |
+| ↳ | **[Intern- Social Video Creator](https://jobright.ai/jobs/info/69d9a15b738f2f099e8a368e?utm_campaign=1053&utm_source=git)** | New York, New York, United States | Hybrid | Aug 25 |
 | **[Arena](https://www.arenatalent.com)** | **[Editorial Intern - Fall 2026](https://jobright.ai/jobs/info/6a8dc642a5639a48103277d5?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 25 |
 | **[Low Battery](https://raptv.com/)** | **[Short-Form Video Editor Intern, Fall 2026](https://jobright.ai/jobs/info/6a8dbba4a5639a48103271be?utm_campaign=1053&utm_source=git)** | Los Angeles metropolitan area, United States | On Site | Aug 25 |
 | **[Ohio Wesleyan University](http://www.owu.edu/)** | **[Videographer Intern-SW](https://jobright.ai/jobs/info/6a8df381d34f700f87fd6fd6?utm_campaign=1053&utm_source=git)** | Delaware, OH, United States | On Site | Aug 25 |
@@ -133,6 +134,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Video Intern, Savannah Ghost Pirates 2026-27 Season](https://jobright.ai/jobs/info/6a8d3c36a5639a4810325754?utm_campaign=1053&utm_source=git)** | Savannah, GA, United States | On Site | Aug 24 |
 | **[Hasana, Inc.](http://shophasana.com)** | **[Volunteer/Intern: Film/Video Editor](https://jobright.ai/jobs/info/6a584c973330ca6f993c3e99?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | On Site | Aug 24 |
 | **[Indiana Sports Corp](https://www.indianasportscorp.org/events/2022-indy-ultimate)** | **[Event Operations Intern](https://jobright.ai/jobs/info/6a8cfe2bd34f700f87fd3586?utm_campaign=1053&utm_source=git)** | Indianapolis, IN, United States | On Site | Aug 24 |
-| **[Indiana University](https://www.iu.edu)** | **[Part-Time Student Editorial Intern, Center for Rural Engagement](https://jobright.ai/jobs/info/6a8cdbdf2f736c304f2a826d?utm_campaign=1053&utm_source=git)** | Bloomington, IN, United States | On Site | Aug 24 |
-| **[Oregon State University](https://oregonstate.edu)** | **[Editorial and Content Student Intern](https://jobright.ai/jobs/info/6a7e28620cd4a0703257e3c9?utm_campaign=1053&utm_source=git)** | Corvallis, OR, United States | On Site | Aug 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
