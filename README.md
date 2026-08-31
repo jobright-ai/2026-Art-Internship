@@ -58,6 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid News Intern](https://jobright.ai/jobs/info/6972b01a9b83b424830eb8a4?utm_campaign=1053&utm_source=git)** | IN-Indianapolis;6910 Network Place (Tribune-WXIN/WTTV) | On Site | Aug 31 |
+| ↳ | **[Unpaid News Intern](https://jobright.ai/jobs/info/69b1c6a4548f140066e79343?utm_campaign=1053&utm_source=git)** | Wichita, KS | On Site | Aug 31 |
 | **[Hearst Television](http://www.hearsttelevision.com)** | **[Intern (Fall)](https://jobright.ai/jobs/info/6a1d794e3e538a28c2049c97?utm_campaign=1053&utm_source=git)** | 3 Television Circle, Sacramento, CA, 95814, US | On Site | Aug 31 |
 | **[ASM Global](https://asmglobal.com/)** | **[Hospitality Intern - The Meadows Music Theater](https://jobright.ai/jobs/info/6a510fcabf63b66c79978842?utm_campaign=1053&utm_source=git)** | Hartford, CT, United States | On Site | Aug 31 |
 | **[University of Utah](http://utah.edu)** | **[Intern, Events](https://jobright.ai/jobs/info/6a94f5798e5968545337d854?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT, United States | On Site | Aug 30 |
@@ -136,5 +137,4 @@ For a complete list, click the following sortable link below:
 | **[Indiana University](https://www.iu.edu)** | **[Part-Time Student Editorial Intern, Center for Rural Engagement](https://jobright.ai/jobs/info/6a8cdbdf2f736c304f2a826d?utm_campaign=1053&utm_source=git)** | Bloomington, IN, United States | On Site | Aug 24 |
 | **[Oregon State University](https://oregonstate.edu)** | **[Editorial and Content Student Intern](https://jobright.ai/jobs/info/6a7e28620cd4a0703257e3c9?utm_campaign=1053&utm_source=git)** | Corvallis, OR, United States | On Site | Aug 24 |
 | **[U.S. News & World Report](https://usnews.com)** | **[Part time Fall, Consumer Advice, Insurance Intern](https://jobright.ai/jobs/info/6a8cfe5d581f2d7bfdfe674d?utm_campaign=1053&utm_source=git)** | Washington, DC, United States | Hybrid | Aug 24 |
-| **[Indiana University Bloomington](https://www.iu.edu)** | **[Part-Time Student Editorial Intern, Center for Rural Engagement](https://jobright.ai/jobs/info/6a8cc2a9cde3717f9e9bf1ff?utm_campaign=1053&utm_source=git)** | Bloomington, IN, United States | On Site | Aug 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
