@@ -60,7 +60,6 @@ For a complete list, click the following sortable link below:
 | **[University of Utah](http://utah.edu)** | **[Intern, Events](https://jobright.ai/jobs/info/6a94f5798e5968545337d854?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT, United States | On Site | Aug 30 |
 | **[TGR](https://thegarnettereport.com)** | **[Fall Internship](https://jobright.ai/jobs/info/6a94ae538e5968545337d297?utm_campaign=1053&utm_source=git)** | New York City metropolitan area, United States | Remote | Aug 30 |
 | **[The Aparecio Foundation](https://www.apareciofoundation.org)** | **[Writers & Journalists Intern/Volunteer](https://jobright.ai/jobs/info/6a9469fbc12c90443efcd6fe?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | On Site | Aug 30 |
-| **[adyn](https://www.adyn.com/)** | **[DIGITAL STORYTELLING INTERN](https://jobright.ai/jobs/info/6a945e378e5968545337ce5e?utm_campaign=1053&utm_source=git)** | Seattle, WA, United States | Remote | Aug 30 |
 | **[Gift](https://www.shine.gift)** | **[Anime / Manga Intern](https://jobright.ai/jobs/info/6a94323aa27a2d3c9848ef82?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | Remote | Aug 30 |
 | **[FDB (First Databank, Inc.)](http://fdbhealth.com)** | **[Fall News Intern](https://jobright.ai/jobs/info/69e61b3f3aa0c4796439220f?utm_campaign=1053&utm_source=git)** | Pittsburgh, PA, United States | On Site | Aug 30 |
 | **[TESstylist](https://tesstylist.com)** | **[Fashion Intern](https://jobright.ai/jobs/info/6a9408b0d18f75674827eeab?utm_campaign=1053&utm_source=git)** | Boston, MA, United States | On Site | Aug 30 |
@@ -140,5 +139,4 @@ For a complete list, click the following sortable link below:
 | **[Charter](https://chartercreative.co)** | **[Video Editing Intern](https://jobright.ai/jobs/info/6a8cb1b7d34f700f87fd2312?utm_campaign=1053&utm_source=git)** | Hanover Park, IL, United States | On Site | Aug 24 |
 | **[Destination Bryan](https://www.destinationbryan.com)** | **[Event Operations Intern](https://jobright.ai/jobs/info/6a8cb1481d96e6541c8c2840?utm_campaign=1053&utm_source=git)** | Bryan, TX, United States | On Site | Aug 24 |
 | **[Create Music Group](https://www.createmusicgroup.com/)** | **[Studio Intern](https://jobright.ai/jobs/info/6a8c7fd5581f2d7bfdfe406e?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | On Site | Aug 24 |
-| **[Plural](https://www.plural.co)** | **[Junior Editor (intern)](https://jobright.ai/jobs/info/6a8c5e7ccde3717f9e9bca7f?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Aug 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
