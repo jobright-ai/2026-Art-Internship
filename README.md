@@ -57,9 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[InsideHockey.com](https://www.insidehockey.com)** | **[Boston University Hockey Writing & Media Internship](https://jobright.ai/jobs/info/6a9736d0f5337b2cf7320b21?utm_campaign=1053&utm_source=git)** | Greater Boston, United States | Remote | Sep 01 |
 | **[Miami HEAT](https://www.nba.com/heat/)** | **[Content Studio Intern (Seasonal)](https://jobright.ai/jobs/info/6a97062ab22f636c814155b4?utm_campaign=1053&utm_source=git)** | Miami, FL, United States | On Site | Sep 01 |
 | **[Girl Scouts of Citrus Council](https://www.citrus-gs.org/)** | **[Intern for the Girl Scout Experience Team](https://jobright.ai/jobs/info/6a971f68d13b4819f39df3b8?utm_campaign=1053&utm_source=git)** | Orlando, FL, United States | On Site | Sep 01 |
 | **[SXSW](https://www.sxsw.com/pitch)** | **[(I) Film & TV Submissions Intern](https://jobright.ai/jobs/info/6a971f24d13b4819f39df39f?utm_campaign=1053&utm_source=git)** | Austin, TX, United States | On Site | Sep 01 |
+| **[Nimiopere Film Editorial](https://nimiopere.com)** | **[Intern](https://jobright.ai/jobs/info/6a973318e4e60e4b8da5c9c8?utm_campaign=1053&utm_source=git)** | Toronto, ON, Canada | On Site | Sep 01 |
 | **[Digital Fashion Week](https://digitalfashionweek.nyc)** | **[Fashion Conference Intern](https://jobright.ai/jobs/info/6a9704a6f5337b2cf731f768?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Sep 01 |
 | **[Nikon Inc.](https://www.nikonusa.com/)** | **[Video Editor & Production Intern](https://jobright.ai/jobs/info/6a9700f2e4e60e4b8da5b5e0?utm_campaign=1053&utm_source=git)** | Melville, NY, United States | On Site | Sep 01 |
 | **[SRND AI](https://srnd.ai)** | **[(Unpaid) On-Camera Social Content Creator Intern](https://jobright.ai/jobs/info/6a96fbd4b22f636c81414dfd?utm_campaign=1053&utm_source=git)** | United States | Remote | Sep 01 |
