@@ -112,5 +112,4 @@ For a complete list, click the following sortable link below:
 | **[WhoWhatWhy](http://whowhatwhy.org/)** | **[Editorial Assistant (Volunteer, Fall 2026)](https://jobright.ai/jobs/info/6a8e248ad34f700f87fd8148?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 25 |
 | **[SXSW](https://www.sxsw.com/pitch)** | **[SXSW Exhibitions Support Intern](https://jobright.ai/jobs/info/6a8e005e47679c68bf5e6187?utm_campaign=1053&utm_source=git)** | Austin, TX, United States | On Site | Aug 25 |
 | **[East Penn Manufacturing Co.](http://www.dekabatteries.com)** | **[Personnel Media Editor Intern (Summer 2027)](https://jobright.ai/jobs/info/6a8dfcaca5639a4810328e4a?utm_campaign=1053&utm_source=git)** | Lyon Station, PA, United States | On Site | Aug 25 |
-| **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Spring 2027 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a8df50225fc4e7ae3dbecf6?utm_campaign=1053&utm_source=git)** | Atlanta, GA, United States | On Site | Aug 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
