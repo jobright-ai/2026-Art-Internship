@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Nikon Inc.](https://www.nikonusa.com/)** | **[Video Editor & Production Intern](https://jobright.ai/jobs/info/6a9700f2e4e60e4b8da5b5e0?utm_campaign=1053&utm_source=git)** | Melville, NY, United States | On Site | Sep 01 |
+| **[SRND AI](https://srnd.ai)** | **[(Unpaid) On-Camera Social Content Creator Intern](https://jobright.ai/jobs/info/6a96fbd4b22f636c81414dfd?utm_campaign=1053&utm_source=git)** | United States | Remote | Sep 01 |
+| **[HYPEBEAST](http://hypebeast.com)** | **[Editorial Intern](https://jobright.ai/jobs/info/6a5adf5e856af468ab00a4c6?utm_campaign=1053&utm_source=git)** | New York | On Site | Sep 01 |
 | **[FDB (First Databank, Inc.)](http://fdbhealth.com)** | **[Sports Intern](https://jobright.ai/jobs/info/6a96dda0e4e60e4b8da5a58d?utm_campaign=1053&utm_source=git)** | Needham, MA, United States | On Site | Sep 01 |
 | **[Hasana, Inc.](http://shophasana.com)** | **[Volunteer/Intern: Film/Video Editor](https://jobright.ai/jobs/info/6a51e53ebf63b66c7997e975?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Sep 01 |
 | **[AEG](http://www.aegworldwide.com)** | **[Internship- Touring](https://jobright.ai/jobs/info/6a7a225fbb6ca93ae561a169?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | On Site | Sep 01 |
@@ -110,6 +113,4 @@ For a complete list, click the following sortable link below:
 | **[Giver Marketing Network](https://www.givermarketing.com/)** | **[Video Production Internship](https://jobright.ai/jobs/info/6a8e9b4db93d14258ab45a59?utm_campaign=1053&utm_source=git)** | Oroville, CA, United States | On Site | Aug 26 |
 | **[Churchill Downs Simulcast Productio](http://www.churchilldowns.com)** | **[Backstretch Activities Intern](https://jobright.ai/jobs/info/6a8e96d64b1bf456469630a9?utm_campaign=1053&utm_source=git)** | Louisville, KY, United States | On Site | Aug 26 |
 | **[University of Portland](http://www.up.edu)** | **[Editorial Assistant, Portland Magazine](https://jobright.ai/jobs/info/6a8e35b325fc4e7ae3dc0063?utm_campaign=1053&utm_source=git)** | Portland, OR, United States | On Site | Aug 25 |
-| **[City of Virginia Beach](https://www.vbgov.com/Pages/default.aspx)** | **[Winter Wildlife Festival Internship](https://jobright.ai/jobs/info/6a8f2309f841e649a7190e86?utm_campaign=1053&utm_source=git)** | Landstown Road, United States | On Site | Aug 25 |
-| **[Art and Wellness Enterprises](https://aweoffice.org)** | **[2026 Museum Editorial Fall Intern](https://jobright.ai/jobs/info/6a8f4e45d7c91d0cf446e9e7?utm_campaign=1053&utm_source=git)** | Bentonville, AR, United States | On Site | Aug 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
