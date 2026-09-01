@@ -113,8 +113,4 @@ For a complete list, click the following sortable link below:
 | **[SXSW](https://www.sxsw.com/pitch)** | **[SXSW Exhibitions Support Intern](https://jobright.ai/jobs/info/6a8e005e47679c68bf5e6187?utm_campaign=1053&utm_source=git)** | Austin, TX, United States | On Site | Aug 25 |
 | **[East Penn Manufacturing Co.](https://www.eastpennmanufacturing.com/)** | **[Personnel Media Editor Intern (Summer 2027)](https://jobright.ai/jobs/info/6a8dfcaca5639a4810328e4a?utm_campaign=1053&utm_source=git)** | Lyon Station, PA, United States | On Site | Aug 25 |
 | **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Spring 2027 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6a8df50225fc4e7ae3dbecf6?utm_campaign=1053&utm_source=git)** | Atlanta, GA, United States | On Site | Aug 25 |
-| **[Tombras](http://tombras.com)** | **[Post-Production Intern](https://jobright.ai/jobs/info/6a8dc930a5639a4810327a7c?utm_campaign=1053&utm_source=git)** | Knoxville, TN, United States | On Site | Aug 25 |
-| ↳ | **[Production Intern](https://jobright.ai/jobs/info/6a8dbb10d34f700f87fd5759?utm_campaign=1053&utm_source=git)** | Knoxville, TN, United States | On Site | Aug 25 |
-| **[NoGood](https://nogood.io)** | **[Intern- Social Video Creator](https://jobright.ai/jobs/info/69d9a15b738f2f099e8a368e?utm_campaign=1053&utm_source=git)** | New York, New York, United States | Hybrid | Aug 25 |
-| ↳ | **[Intern- Social Video Creator](https://jobright.ai/jobs/info/6a605172193c4d692385dc82?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Hybrid | Aug 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
