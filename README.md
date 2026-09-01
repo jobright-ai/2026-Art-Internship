@@ -112,5 +112,4 @@ For a complete list, click the following sortable link below:
 | **[University of Portland](http://www.up.edu)** | **[Editorial Assistant, Portland Magazine](https://jobright.ai/jobs/info/6a8e35b325fc4e7ae3dc0063?utm_campaign=1053&utm_source=git)** | Portland, OR, United States | On Site | Aug 25 |
 | **[City of Virginia Beach](https://www.vbgov.com/Pages/default.aspx)** | **[Winter Wildlife Festival Internship](https://jobright.ai/jobs/info/6a8f2309f841e649a7190e86?utm_campaign=1053&utm_source=git)** | Landstown Road, United States | On Site | Aug 25 |
 | **[Art and Wellness Enterprises](https://aweoffice.org)** | **[2026 Museum Editorial Fall Intern](https://jobright.ai/jobs/info/6a8f4e45d7c91d0cf446e9e7?utm_campaign=1053&utm_source=git)** | Bentonville, AR, United States | On Site | Aug 25 |
-| **[WhoWhatWhy](http://whowhatwhy.org/)** | **[Editorial Assistant (Volunteer, Fall 2026)](https://jobright.ai/jobs/info/6a8e248ad34f700f87fd8148?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
