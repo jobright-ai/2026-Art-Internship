@@ -126,5 +126,4 @@ For a complete list, click the following sortable link below:
 | **[Palm Springs Power Baseball](https://palmspringspowerbaseball.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/6a8daca8581f2d7bfdfe8466?utm_campaign=1053&utm_source=git)** | Palm Springs, CA, United States | On Site | Aug 25 |
 | **[dot.LA](https://dot.la)** | **[Editorial Intern (Remote)](https://jobright.ai/jobs/info/6a8dac9e47679c68bf5e3d9d?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 25 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Media Production Intern (In- Person) Fall 2026.](https://jobright.ai/jobs/info/6a398ce3f6b55d12c7928b8e?utm_campaign=1053&utm_source=git)** | AL, Mobile, United States of America | On Site | Aug 25 |
-| **[Blaire's Mobile Bar](https://sites.google.com/view/blairesmobilebarservice?pli=1)** | **[2026-2027 Internship Program](https://jobright.ai/jobs/info/6a8d8a8425fc4e7ae3dbc38d?utm_campaign=1053&utm_source=git)** | Dallas, TX, United States | On Site | Aug 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
