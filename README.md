@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hasana, Inc.](http://shophasana.com)** | **[Volunteer/Intern: Film/Video Editor](https://jobright.ai/jobs/info/6a51e53ebf63b66c7997e975?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Sep 01 |
+| **[AEG](http://www.aegworldwide.com)** | **[Internship- Touring](https://jobright.ai/jobs/info/6a7a225fbb6ca93ae561a169?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | On Site | Sep 01 |
+| **[National Basketball Association (NBA)](http://www.nba.com)** | **[Creative Ops Intern - Video](https://jobright.ai/jobs/info/6a79fa78a26ccc369f83bc15?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Sep 01 |
 | **[Texas Tech University Health Sciences Center](https://www.ttuhsc.edu)** | **[Dept Intern - Pulse Magazine](https://jobright.ai/jobs/info/6a9605253843db0159908fff?utm_campaign=1053&utm_source=git)** | Lubbock, TX, United States | On Site | Aug 31 |
 | **[Breaking News ABA](https://breakingnewsaba.com/)** | **[Journalist Intern – ABA Industry News](https://jobright.ai/jobs/info/6a95f1304c22023a079370b3?utm_campaign=1053&utm_source=git)** | Lake Forest, IL, United States | On Site | Aug 31 |
 | **[Ameritas](http://www.ameritas.com)** | **[Videography Intern](https://jobright.ai/jobs/info/6a95eec1cabc9f6703e1b0fa?utm_campaign=1053&utm_source=git)** | Lincoln, NE, United States | Hybrid | Aug 31 |
@@ -110,6 +113,4 @@ For a complete list, click the following sortable link below:
 | **[City of Virginia Beach](https://www.vbgov.com/Pages/default.aspx)** | **[Winter Wildlife Festival Internship](https://jobright.ai/jobs/info/6a8f2309f841e649a7190e86?utm_campaign=1053&utm_source=git)** | Landstown Road, United States | On Site | Aug 25 |
 | **[Art and Wellness Enterprises](https://aweoffice.org)** | **[2026 Museum Editorial Fall Intern](https://jobright.ai/jobs/info/6a8f4e45d7c91d0cf446e9e7?utm_campaign=1053&utm_source=git)** | Bentonville, AR, United States | On Site | Aug 25 |
 | **[WhoWhatWhy](http://whowhatwhy.org/)** | **[Editorial Assistant (Volunteer, Fall 2026)](https://jobright.ai/jobs/info/6a8e248ad34f700f87fd8148?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 25 |
-| **[SXSW](https://www.sxsw.com/pitch)** | **[SXSW Exhibitions Support Intern](https://jobright.ai/jobs/info/6a8e005e47679c68bf5e6187?utm_campaign=1053&utm_source=git)** | Austin, TX, United States | On Site | Aug 25 |
-| **[East Penn Manufacturing Co.](http://www.dekabatteries.com)** | **[Personnel Media Editor Intern (Summer 2027)](https://jobright.ai/jobs/info/6a8dfcaca5639a4810328e4a?utm_campaign=1053&utm_source=git)** | Lyon Station, PA, United States | On Site | Aug 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
