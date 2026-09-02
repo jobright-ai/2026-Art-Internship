@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[99 Yards](https://99yards.app)** | **[New York Fashion Week Internship Program – September 2026](https://jobright.ai/jobs/info/6a986d2b83fc633357631763?utm_campaign=1053&utm_source=git)** | New York City metropolitan area, United States | On Site | Sep 02 |
+| **[New Holland Brewing Company](http://newhollandbrew.com)** | **[Events & Catering Intern](https://jobright.ai/jobs/info/6a98699483fc6333576315c7?utm_campaign=1053&utm_source=git)** | Grand Rapids, MI, United States | On Site | Sep 02 |
+| **[Dynamic Catholic](https://dynamiccatholic.com/)** | **[Internship - Videographer](https://jobright.ai/jobs/info/6a98663eaf954907d657320e?utm_campaign=1053&utm_source=git)** | Erlanger, KY, United States | On Site | Sep 02 |
+| ↳ | **[Internship - Writer](https://jobright.ai/jobs/info/6a986639def18223c854f341?utm_campaign=1053&utm_source=git)** | Erlanger, KY, United States | On Site | Sep 02 |
 | **[Detroit PBS](http://www.dptv.org/home/)** | **[One Detroit Journalism and Video Production Intern – Fall 2026 (Unpaid)](https://jobright.ai/jobs/info/6a985543c8ed473c5c7635ec?utm_campaign=1053&utm_source=git)** | Wixom, MI, United States | On Site | Sep 02 |
 | **[Speed Art Museum](https://www.speedmuseum.org)** | **[Private Events Intern](https://jobright.ai/jobs/info/6a98533611f73b6462c8dea4?utm_campaign=1053&utm_source=git)** | Louisville, KY, United States | On Site | Sep 02 |
 | **[Mount St. Joseph University](http://www.msj.edu)** | **[FWS / Delhi Historical Society Museum Intern](https://jobright.ai/jobs/info/6a98523611f73b6462c8de14?utm_campaign=1053&utm_source=git)** | Cincinnati, OH, United States | On Site | Sep 02 |
@@ -130,5 +134,4 @@ For a complete list, click the following sortable link below:
 | **[Operation Smile](http://www.operationsmile.org)** | **[Student Programs Production Intern](https://jobright.ai/jobs/info/6a39b84b06a4fd4b1fabbcd7?utm_campaign=1053&utm_source=git)** | Virginia Beach, VA | On Site | Aug 27 |
 | ↳ | **[Writing Internship - Operation Smile ILC](https://jobright.ai/jobs/info/6a9030e5d96ad228f125feac?utm_campaign=1053&utm_source=git)** | Virginia Beach, VA, United States | On Site | Aug 27 |
 | **[Kontinentalist](https://www.kontinentalist.com/)** | **[Editorial Intern, Lapis](https://jobright.ai/jobs/info/6a9071a2a1988648667612d4?utm_campaign=1053&utm_source=git)** | Indiana, United States | On Site | Aug 27 |
-| **[Comcast](https://corporate.comcast.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/6a8f163f382b237ac80c42e3?utm_campaign=1053&utm_source=git)** | Philadelphia, PA, United States | On Site | Aug 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
