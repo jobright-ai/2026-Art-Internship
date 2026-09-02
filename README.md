@@ -57,8 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Speed Art Museum](https://www.speedmuseum.org)** | **[Private Events Intern](https://jobright.ai/jobs/info/6a97c6cb408304609c16e22a?utm_campaign=1053&utm_source=git)** | Louisville, KY, United States | On Site | Sep 01 |
 | **[adyn](https://www.adyn.com/)** | **[DIGITAL STORYTELLING INTERN](https://jobright.ai/jobs/info/6a97aaa6d356304a02687d81?utm_campaign=1053&utm_source=git)** | Seattle, WA, United States | Remote | Sep 01 |
-| **[Speed Art Museum](https://www.speedmuseum.org)** | **[Private Events Intern](https://jobright.ai/jobs/info/6a97aa23408304609c16dea2?utm_campaign=1053&utm_source=git)** | Louisville, KY, United States | On Site | Sep 01 |
 | **[VMI Worldwide](http://vmiworldwide.com)** | **[Acquisitions And Development Intern](https://jobright.ai/jobs/info/6a978dbb246d697dcee05bbe?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | On Site | Sep 01 |
 | **[Elite Podcast Studio](ElitePodcastStudio.com)** | **[Internship Tampa Content Creator](https://jobright.ai/jobs/info/6a9754aee4e60e4b8da5da5a?utm_campaign=1053&utm_source=git)** | Odessa, FL, United States | On Site | Sep 01 |
 | **[The MY HERO Project](https://myhero.com/)** | **[MY HERO International Film Festival Internship](https://jobright.ai/jobs/info/6a974e93b22f636c8141743d?utm_campaign=1053&utm_source=git)** | United States | Remote | Sep 01 |
