@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Speed Art Museum](https://www.speedmuseum.org)** | **[Private Events Intern](https://jobright.ai/jobs/info/6a97721ad13b4819f39e109b?utm_campaign=1053&utm_source=git)** | Louisville, KY, United States | On Site | Sep 01 |
 | **[Girl Scouts of Citrus Council](https://www.citrus-gs.org/)** | **[Intern for the Girl Scout Experience Team](https://jobright.ai/jobs/info/6a97576ad13b4819f39e0b0a?utm_campaign=1053&utm_source=git)** | Orlando, FL, United States | On Site | Sep 01 |
 | **[Elite Podcast Studio](ElitePodcastStudio.com)** | **[Internship Tampa Content Creator](https://jobright.ai/jobs/info/6a9754aee4e60e4b8da5da5a?utm_campaign=1053&utm_source=git)** | Odessa, FL, United States | On Site | Sep 01 |
 | **[The MY HERO Project](https://myhero.com/)** | **[MY HERO International Film Festival Internship](https://jobright.ai/jobs/info/6a974e93b22f636c8141743d?utm_campaign=1053&utm_source=git)** | United States | Remote | Sep 01 |
@@ -118,12 +119,9 @@ For a complete list, click the following sortable link below:
 | **[Operation Smile](http://www.operationsmile.org)** | **[Student Programs Production Intern](https://jobright.ai/jobs/info/6a39b84b06a4fd4b1fabbcd7?utm_campaign=1053&utm_source=git)** | Virginia Beach, VA | On Site | Aug 27 |
 | ↳ | **[Writing Internship - Operation Smile ILC](https://jobright.ai/jobs/info/6a9030e5d96ad228f125feac?utm_campaign=1053&utm_source=git)** | Virginia Beach, VA, United States | On Site | Aug 27 |
 | **[Kontinentalist](https://www.kontinentalist.com/)** | **[Editorial Intern, Lapis](https://jobright.ai/jobs/info/6a9071a2a1988648667612d4?utm_campaign=1053&utm_source=git)** | Indiana, United States | On Site | Aug 27 |
-| **[Mythical](https://www.mythical.com/)** | **[Post Production Intern - Fall 2026](https://jobright.ai/jobs/info/6a8fc0ecd96ad228f125e7b7?utm_campaign=1053&utm_source=git)** | Burbank, CA, United States | On Site | Aug 26 |
 | **[Comcast](https://corporate.comcast.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/6a8f163f382b237ac80c42e3?utm_campaign=1053&utm_source=git)** | Philadelphia, PA, United States | On Site | Aug 26 |
 | **[Crystal Bridges Museum of American Art](http://crystalbridges.org)** | **[2026 Ceramics Fall Intern](https://jobright.ai/jobs/info/6a8f6fb20bd89e205d246d49?utm_campaign=1053&utm_source=git)** | Bentonville, AR, United States | On Site | Aug 26 |
 | **[Sugar Cilantro](https://sugarcilantro.com)** | **[TikTik/Reels Video Content Creation Intern](https://jobright.ai/jobs/info/6a8f587ca10ee661e24d7cbf?utm_campaign=1053&utm_source=git)** | Atlanta, GA, United States | Hybrid | Aug 26 |
 | **[Carpenters Workshop Gallery](https://carpentersworkshopgallery.com)** | **[Gallery Intern - Los Angeles](https://jobright.ai/jobs/info/6a8ee0d9382b237ac80c30eb?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | On Site | Aug 26 |
 | **[McIlhenny Company](http://www.tabasco.com/)** | **[Archives Intern](https://jobright.ai/jobs/info/6a84e701c1a3fd7120f73e3b?utm_campaign=1053&utm_source=git)** | Avery Island, LA, United States | On Site | Aug 26 |
-| **[Giver Marketing Network](https://www.givermarketing.com/)** | **[Video Production Internship](https://jobright.ai/jobs/info/6a8e9b4db93d14258ab45a59?utm_campaign=1053&utm_source=git)** | Oroville, CA, United States | On Site | Aug 26 |
-| **[Churchill Downs Simulcast Productio](http://www.churchilldowns.com)** | **[Backstretch Activities Intern](https://jobright.ai/jobs/info/6a8e96d64b1bf456469630a9?utm_campaign=1053&utm_source=git)** | Louisville, KY, United States | On Site | Aug 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
