@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[adyn](https://www.adyn.com/)** | **[DIGITAL STORYTELLING INTERN](https://jobright.ai/jobs/info/6a97aaa6d356304a02687d81?utm_campaign=1053&utm_source=git)** | Seattle, WA, United States | Remote | Sep 01 |
+| **[Speed Art Museum](https://www.speedmuseum.org)** | **[Private Events Intern](https://jobright.ai/jobs/info/6a97aa23408304609c16dea2?utm_campaign=1053&utm_source=git)** | Louisville, KY, United States | On Site | Sep 01 |
 | **[Girl Scouts of Citrus Council](https://www.citrus-gs.org/)** | **[Intern for the Girl Scout Experience Team](https://jobright.ai/jobs/info/6a978f97455eaf6a08c1d12a?utm_campaign=1053&utm_source=git)** | Orlando, FL, United States | On Site | Sep 01 |
 | **[VMI Worldwide](http://vmiworldwide.com)** | **[Acquisitions And Development Intern](https://jobright.ai/jobs/info/6a978dbb246d697dcee05bbe?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | On Site | Sep 01 |
 | **[Elite Podcast Studio](ElitePodcastStudio.com)** | **[Internship Tampa Content Creator](https://jobright.ai/jobs/info/6a9754aee4e60e4b8da5da5a?utm_campaign=1053&utm_source=git)** | Odessa, FL, United States | On Site | Sep 01 |
@@ -91,7 +93,6 @@ For a complete list, click the following sortable link below:
 | **[Hearst Television](http://www.hearsttelevision.com)** | **[Intern (Fall)](https://jobright.ai/jobs/info/6a1d794e3e538a28c2049c97?utm_campaign=1053&utm_source=git)** | 3 Television Circle, Sacramento, CA, 95814, US | On Site | Aug 31 |
 | **[ASM Global](https://asmglobal.com/)** | **[Hospitality Intern - The Meadows Music Theater](https://jobright.ai/jobs/info/6a510fcabf63b66c79978842?utm_campaign=1053&utm_source=git)** | Hartford, CT, United States | On Site | Aug 31 |
 | **[Walton Arts Center and Walmart AMP](http://waltonartscenter.org)** | **[Events-Hospitality Internship](https://jobright.ai/jobs/info/6a84cacfd34f700f87fbb19a?utm_campaign=1053&utm_source=git)** | Fayetteville, North Carolina, United States | On Site | Aug 31 |
-| **[University of Utah](http://utah.edu)** | **[Intern, Events](https://jobright.ai/jobs/info/6a94f5798e5968545337d854?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT, United States | On Site | Aug 30 |
 | **[The Aparecio Foundation](https://www.apareciofoundation.org)** | **[Writers & Journalists Intern/Volunteer](https://jobright.ai/jobs/info/6a9469fbc12c90443efcd6fe?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | On Site | Aug 30 |
 | **[Dazed Media](http://www.dazedmedia.com)** | **[Dazed US Editorial / Social Internship](https://jobright.ai/jobs/info/6a8da0b347679c68bf5e3876?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Hybrid | Aug 29 |
 | ↳ | **[Dazed US Video Editor Internship](https://jobright.ai/jobs/info/6a8da0b8581f2d7bfdfe7f62?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Hybrid | Aug 29 |
