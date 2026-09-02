@@ -57,13 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Osborne, Francis & Pettis](https://www.realtoughlawyers.com)** | **[Podcast Editor Intern](https://jobright.ai/jobs/info/6a9840b7c8ed473c5c762d6c?utm_campaign=1053&utm_source=git)** | Orlando, FL, United States | On Site | Sep 02 |
+| **[Detroit PBS](http://www.dptv.org/home/)** | **[Production and Operations Intern – Fall 2026 (Unpaid)](https://jobright.ai/jobs/info/6a9838b7af954907d6571fe9?utm_campaign=1053&utm_source=git)** | Wixom, MI, United States | Hybrid | Sep 02 |
 | **[Speed Art Museum](https://www.speedmuseum.org)** | **[Private Events Intern](https://jobright.ai/jobs/info/6a98370411f73b6462c8d376?utm_campaign=1053&utm_source=git)** | Louisville, KY, United States | On Site | Sep 02 |
 | **[Winsupply](http://www.winsupply.com)** | **[Videographer Intern](https://jobright.ai/jobs/info/6a983214af954907d6571cf6?utm_campaign=1053&utm_source=git)** | Moraine, OH, United States | On Site | Sep 02 |
+| **[Venture Capital Careers](https://venturecapitalcareers.com/)** | **[Content Creator Intern — VC / Startup Accelerator (6 months, Paris)](https://jobright.ai/jobs/info/6a983fe7af954907d6572274?utm_campaign=1053&utm_source=git)** | Paris, ON, Canada | On Site | Sep 02 |
 | **[Syracuse Crunch](https://syracusecrunch.com/)** | **[VIDEOGRAPHY INTERN](https://jobright.ai/jobs/info/6a97fe71add00305a7651d19?utm_campaign=1053&utm_source=git)** | Springfield, MA, United States | On Site | Sep 02 |
 | **[adyn](https://www.adyn.com/)** | **[DIGITAL STORYTELLING INTERN](https://jobright.ai/jobs/info/6a97aaa6d356304a02687d81?utm_campaign=1053&utm_source=git)** | Seattle, WA, United States | Remote | Sep 01 |
 | **[VMI Worldwide](http://vmiworldwide.com)** | **[Acquisitions And Development Intern](https://jobright.ai/jobs/info/6a978dbb246d697dcee05bbe?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | On Site | Sep 01 |
 | **[Elite Podcast Studio](ElitePodcastStudio.com)** | **[Internship Tampa Content Creator](https://jobright.ai/jobs/info/6a9754aee4e60e4b8da5da5a?utm_campaign=1053&utm_source=git)** | Odessa, FL, United States | On Site | Sep 01 |
-| **[The MY HERO Project](https://myhero.com/)** | **[MY HERO International Film Festival Internship](https://jobright.ai/jobs/info/6a974e93b22f636c8141743d?utm_campaign=1053&utm_source=git)** | United States | Remote | Sep 01 |
 | **[ElectraCast Media](http://www.electracast.com)** | **[Intern Social Video & Marketing Clips Editor](https://jobright.ai/jobs/info/6a974adfe4e60e4b8da5d6b3?utm_campaign=1053&utm_source=git)** | United States | Remote | Sep 01 |
 | **[Spencer Magazine](http://www.spencer-magazine.com)** | **[Assistant to the Publisher (UNPAID) Internship](https://jobright.ai/jobs/info/6a973f2bb22f636c81416e57?utm_campaign=1053&utm_source=git)** | Toronto, ON, Canada | On Site | Sep 01 |
 | **[InsideHockey.com](https://www.insidehockey.com)** | **[Boston University Hockey Writing & Media Internship](https://jobright.ai/jobs/info/6a9736d0f5337b2cf7320b21?utm_campaign=1053&utm_source=git)** | Greater Boston, United States | Remote | Sep 01 |
@@ -75,7 +77,7 @@ For a complete list, click the following sortable link below:
 | **[Digital Fashion Week](https://digitalfashionweek.nyc)** | **[Fashion Conference Intern](https://jobright.ai/jobs/info/6a9704a6f5337b2cf731f768?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Sep 01 |
 | **[Nikon Inc.](https://www.nikonusa.com/)** | **[Video Editor & Production Intern](https://jobright.ai/jobs/info/6a9700f2e4e60e4b8da5b5e0?utm_campaign=1053&utm_source=git)** | Melville, NY, United States | On Site | Sep 01 |
 | **[SRND AI](https://srnd.ai)** | **[(Unpaid) On-Camera Social Content Creator Intern](https://jobright.ai/jobs/info/6a96fbd4b22f636c81414dfd?utm_campaign=1053&utm_source=git)** | United States | Remote | Sep 01 |
-| **[HYPEBEAST](http://hypebeast.com)** | **[Editorial Intern](https://jobright.ai/jobs/info/6a2901a32d6c332ee52e9499?utm_campaign=1053&utm_source=git)** | New York | On Site | Sep 01 |
+| **[HYPEBEAST](http://hypebeast.com)** | **[Editorial Intern](https://jobright.ai/jobs/info/6a5adf5e856af468ab00a4c6?utm_campaign=1053&utm_source=git)** | New York | On Site | Sep 01 |
 | **[FDB (First Databank, Inc.)](http://fdbhealth.com)** | **[Sports Intern](https://jobright.ai/jobs/info/6a96dda0e4e60e4b8da5a58d?utm_campaign=1053&utm_source=git)** | Needham, MA, United States | On Site | Sep 01 |
 | **[Hasana, Inc.](http://shophasana.com)** | **[Volunteer/Intern: Film/Video Editor](https://jobright.ai/jobs/info/6a51e53ebf63b66c7997e975?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Sep 01 |
 | **[AEG](http://www.aegworldwide.com)** | **[Internship- Touring](https://jobright.ai/jobs/info/6a7a225fbb6ca93ae561a169?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | On Site | Sep 01 |
@@ -122,5 +124,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Writing Internship - Operation Smile ILC](https://jobright.ai/jobs/info/6a9030e5d96ad228f125feac?utm_campaign=1053&utm_source=git)** | Virginia Beach, VA, United States | On Site | Aug 27 |
 | **[Kontinentalist](https://www.kontinentalist.com/)** | **[Editorial Intern, Lapis](https://jobright.ai/jobs/info/6a9071a2a1988648667612d4?utm_campaign=1053&utm_source=git)** | Indiana, United States | On Site | Aug 27 |
 | **[Comcast](https://corporate.comcast.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/6a8f163f382b237ac80c42e3?utm_campaign=1053&utm_source=git)** | Philadelphia, PA, United States | On Site | Aug 26 |
-| **[Crystal Bridges Museum of American Art](http://crystalbridges.org)** | **[2026 Ceramics Fall Intern](https://jobright.ai/jobs/info/6a8f6fb20bd89e205d246d49?utm_campaign=1053&utm_source=git)** | Bentonville, AR, United States | On Site | Aug 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
