@@ -57,8 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Speed Art Museum](https://www.speedmuseum.org)** | **[Private Events Intern](https://jobright.ai/jobs/info/6a988b4911f73b6462c8f3d4?utm_campaign=1053&utm_source=git)** | Louisville, KY, United States | On Site | Sep 02 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Intern](https://jobright.ai/jobs/info/6a9674f7455eaf6a08c17881?utm_campaign=1053&utm_source=git)** | Peoria, IL, United States | On Site | Sep 02 |
-| **[99 Yards](https://99yards.app)** | **[New York Fashion Week Internship Program – September 2026](https://jobright.ai/jobs/info/6a986d2b83fc633357631763?utm_campaign=1053&utm_source=git)** | New York City metropolitan area, United States | On Site | Sep 02 |
 | **[New Holland Brewing Company](http://newhollandbrew.com)** | **[Events & Catering Intern](https://jobright.ai/jobs/info/6a98699483fc6333576315c7?utm_campaign=1053&utm_source=git)** | Grand Rapids, MI, United States | On Site | Sep 02 |
 | **[Dynamic Catholic](https://dynamiccatholic.com/)** | **[Internship - Videographer](https://jobright.ai/jobs/info/6a98663eaf954907d657320e?utm_campaign=1053&utm_source=git)** | Erlanger, KY, United States | On Site | Sep 02 |
 | ↳ | **[Internship - Writer](https://jobright.ai/jobs/info/6a986639def18223c854f341?utm_campaign=1053&utm_source=git)** | Erlanger, KY, United States | On Site | Sep 02 |
@@ -73,9 +73,8 @@ For a complete list, click the following sortable link below:
 | **[Social View Agency](https://www.socialviewagency.com/)** | **[Content Creator Intern](https://jobright.ai/jobs/info/6a984942c8ed473c5c763058?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | Remote | Sep 02 |
 | **[Venture Capital Careers](https://venturecapitalcareers.com/)** | **[Content Creator Intern — VC / Startup Accelerator (6 months, Paris)](https://jobright.ai/jobs/info/6a983fe7af954907d6572274?utm_campaign=1053&utm_source=git)** | Paris, ON, Canada | On Site | Sep 02 |
 | **[Syracuse Crunch](https://syracusecrunch.com/)** | **[VIDEOGRAPHY INTERN](https://jobright.ai/jobs/info/6a97fe71add00305a7651d19?utm_campaign=1053&utm_source=git)** | Springfield, MA, United States | On Site | Sep 02 |
-| **[adyn](https://www.adyn.com/)** | **[DIGITAL STORYTELLING INTERN](https://jobright.ai/jobs/info/6a97aaa6d356304a02687d81?utm_campaign=1053&utm_source=git)** | Seattle, WA, United States | Remote | Sep 01 |
 | **[VMI Worldwide](http://vmiworldwide.com)** | **[Acquisitions And Development Intern](https://jobright.ai/jobs/info/6a978dbb246d697dcee05bbe?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | On Site | Sep 01 |
-| **[Long Island Rail Road](https://new.mta.info/agency/long-island-rail-road)** | **[Historical Preservation, Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/6a9858e2dd171c7285791c5e?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Sep 01 |
+| **[Allied Solutions LLC](http://www.alliedsolutions.net/)** | **[Studio Production Intern](https://jobright.ai/jobs/info/6a988552c8ed473c5c76483d?utm_campaign=1053&utm_source=git)** | Carmel, IN, United States | On Site | Sep 01 |
 | **[Elite Podcast Studio](ElitePodcastStudio.com)** | **[Internship Tampa Content Creator](https://jobright.ai/jobs/info/6a9754aee4e60e4b8da5da5a?utm_campaign=1053&utm_source=git)** | Odessa, FL, United States | On Site | Sep 01 |
 | **[ElectraCast Media](http://www.electracast.com)** | **[Intern Social Video & Marketing Clips Editor](https://jobright.ai/jobs/info/6a974adfe4e60e4b8da5d6b3?utm_campaign=1053&utm_source=git)** | United States | Remote | Sep 01 |
 | **[Spencer Magazine](http://www.spencer-magazine.com)** | **[Assistant to the Publisher (UNPAID) Internship](https://jobright.ai/jobs/info/6a973f2bb22f636c81416e57?utm_campaign=1053&utm_source=git)** | Toronto, ON, Canada | On Site | Sep 01 |
