@@ -57,10 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[KET - Kentucky Educational Television](https://www.ket.org)** | **[Spring 2027 Television Production Internship](https://jobright.ai/jobs/info/6a98451a83fc6333576306de?utm_campaign=1053&utm_source=git)** | Lexington, KY, United States | On Site | Sep 02 |
+| **[Cooperstown All Star Village](https://cooperstown.com/)** | **[Events and Experiences Intern](https://jobright.ai/jobs/info/6a98450983fc6333576306d4?utm_campaign=1053&utm_source=git)** | Oneonta, NY, United States | On Site | Sep 02 |
 | **[Osborne, Francis & Pettis](https://www.realtoughlawyers.com)** | **[Podcast Editor Intern](https://jobright.ai/jobs/info/6a9840b7c8ed473c5c762d6c?utm_campaign=1053&utm_source=git)** | Orlando, FL, United States | On Site | Sep 02 |
+| **[Axis Communications](http://www.axis.com/)** | **[Events Production Intern (Fall/Winter)](https://jobright.ai/jobs/info/6a5facf0f68dd368023e7fc1?utm_campaign=1053&utm_source=git)** | Chelmsford, MA, United States of America | On Site | Sep 02 |
 | **[Detroit PBS](http://www.dptv.org/home/)** | **[Production and Operations Intern – Fall 2026 (Unpaid)](https://jobright.ai/jobs/info/6a9838b7af954907d6571fe9?utm_campaign=1053&utm_source=git)** | Wixom, MI, United States | Hybrid | Sep 02 |
-| **[Speed Art Museum](https://www.speedmuseum.org)** | **[Private Events Intern](https://jobright.ai/jobs/info/6a98370411f73b6462c8d376?utm_campaign=1053&utm_source=git)** | Louisville, KY, United States | On Site | Sep 02 |
 | **[Winsupply](http://www.winsupply.com)** | **[Videographer Intern](https://jobright.ai/jobs/info/6a983214af954907d6571cf6?utm_campaign=1053&utm_source=git)** | Moraine, OH, United States | On Site | Sep 02 |
+| **[Social View Agency](https://www.socialviewagency.com/)** | **[Content Creator Intern](https://jobright.ai/jobs/info/6a984942c8ed473c5c763058?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | Remote | Sep 02 |
 | **[Venture Capital Careers](https://venturecapitalcareers.com/)** | **[Content Creator Intern — VC / Startup Accelerator (6 months, Paris)](https://jobright.ai/jobs/info/6a983fe7af954907d6572274?utm_campaign=1053&utm_source=git)** | Paris, ON, Canada | On Site | Sep 02 |
 | **[Syracuse Crunch](https://syracusecrunch.com/)** | **[VIDEOGRAPHY INTERN](https://jobright.ai/jobs/info/6a97fe71add00305a7651d19?utm_campaign=1053&utm_source=git)** | Springfield, MA, United States | On Site | Sep 02 |
 | **[adyn](https://www.adyn.com/)** | **[DIGITAL STORYTELLING INTERN](https://jobright.ai/jobs/info/6a97aaa6d356304a02687d81?utm_campaign=1053&utm_source=git)** | Seattle, WA, United States | Remote | Sep 01 |
@@ -77,7 +80,7 @@ For a complete list, click the following sortable link below:
 | **[Digital Fashion Week](https://digitalfashionweek.nyc)** | **[Fashion Conference Intern](https://jobright.ai/jobs/info/6a9704a6f5337b2cf731f768?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Sep 01 |
 | **[Nikon Inc.](https://www.nikonusa.com/)** | **[Video Editor & Production Intern](https://jobright.ai/jobs/info/6a9700f2e4e60e4b8da5b5e0?utm_campaign=1053&utm_source=git)** | Melville, NY, United States | On Site | Sep 01 |
 | **[SRND AI](https://srnd.ai)** | **[(Unpaid) On-Camera Social Content Creator Intern](https://jobright.ai/jobs/info/6a96fbd4b22f636c81414dfd?utm_campaign=1053&utm_source=git)** | United States | Remote | Sep 01 |
-| **[HYPEBEAST](http://hypebeast.com)** | **[Editorial Intern](https://jobright.ai/jobs/info/6a5adf5e856af468ab00a4c6?utm_campaign=1053&utm_source=git)** | New York | On Site | Sep 01 |
+| **[HYPEBEAST](http://hypebeast.com)** | **[Editorial Intern](https://jobright.ai/jobs/info/6a2901a32d6c332ee52e9499?utm_campaign=1053&utm_source=git)** | New York | On Site | Sep 01 |
 | **[FDB (First Databank, Inc.)](http://fdbhealth.com)** | **[Sports Intern](https://jobright.ai/jobs/info/6a96dda0e4e60e4b8da5a58d?utm_campaign=1053&utm_source=git)** | Needham, MA, United States | On Site | Sep 01 |
 | **[Hasana, Inc.](http://shophasana.com)** | **[Volunteer/Intern: Film/Video Editor](https://jobright.ai/jobs/info/6a51e53ebf63b66c7997e975?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Sep 01 |
 | **[AEG](http://www.aegworldwide.com)** | **[Internship- Touring](https://jobright.ai/jobs/info/6a7a225fbb6ca93ae561a169?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | On Site | Sep 01 |
