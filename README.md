@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Speed Art Museum](https://www.speedmuseum.org)** | **[Private Events Intern](https://jobright.ai/jobs/info/6a98a7a411f73b6462c8fc31?utm_campaign=1053&utm_source=git)** | Louisville, KY, United States | On Site | Sep 02 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Intern](https://jobright.ai/jobs/info/6a9674f7455eaf6a08c17881?utm_campaign=1053&utm_source=git)** | Peoria, IL, United States | On Site | Sep 02 |
 | **[New Holland Brewing Company](http://newhollandbrew.com)** | **[Events & Catering Intern](https://jobright.ai/jobs/info/6a98699483fc6333576315c7?utm_campaign=1053&utm_source=git)** | Grand Rapids, MI, United States | On Site | Sep 02 |
 | **[Dynamic Catholic](https://dynamiccatholic.com/)** | **[Internship - Videographer](https://jobright.ai/jobs/info/6a98663eaf954907d657320e?utm_campaign=1053&utm_source=git)** | Erlanger, KY, United States | On Site | Sep 02 |
@@ -86,7 +87,7 @@ For a complete list, click the following sortable link below:
 | **[Digital Fashion Week](https://digitalfashionweek.nyc)** | **[Fashion Conference Intern](https://jobright.ai/jobs/info/6a9704a6f5337b2cf731f768?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Sep 01 |
 | **[Nikon Inc.](https://www.nikonusa.com/)** | **[Video Editor & Production Intern](https://jobright.ai/jobs/info/6a9700f2e4e60e4b8da5b5e0?utm_campaign=1053&utm_source=git)** | Melville, NY, United States | On Site | Sep 01 |
 | **[SRND AI](https://srnd.ai)** | **[(Unpaid) On-Camera Social Content Creator Intern](https://jobright.ai/jobs/info/6a96fbd4b22f636c81414dfd?utm_campaign=1053&utm_source=git)** | United States | Remote | Sep 01 |
-| **[HYPEBEAST](http://hypebeast.com)** | **[Editorial Intern](https://jobright.ai/jobs/info/6a5adf5e856af468ab00a4c6?utm_campaign=1053&utm_source=git)** | New York | On Site | Sep 01 |
+| **[HYPEBEAST](http://hypebeast.com)** | **[Editorial Intern](https://jobright.ai/jobs/info/6a2901a32d6c332ee52e9499?utm_campaign=1053&utm_source=git)** | New York | On Site | Sep 01 |
 | **[FDB (First Databank, Inc.)](http://fdbhealth.com)** | **[Sports Intern](https://jobright.ai/jobs/info/6a96dda0e4e60e4b8da5a58d?utm_campaign=1053&utm_source=git)** | Needham, MA, United States | On Site | Sep 01 |
 | **[Hasana, Inc.](http://shophasana.com)** | **[Volunteer/Intern: Film/Video Editor](https://jobright.ai/jobs/info/6a51e53ebf63b66c7997e975?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Sep 01 |
 | **[AEG](http://www.aegworldwide.com)** | **[Internship- Touring](https://jobright.ai/jobs/info/6a7a225fbb6ca93ae561a169?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | On Site | Sep 01 |
@@ -97,7 +98,6 @@ For a complete list, click the following sortable link below:
 | **[Texas Tech University Health Sciences Center](https://www.ttuhsc.edu)** | **[Dept Intern - Pulse Magazine](https://jobright.ai/jobs/info/6a9605253843db0159908fff?utm_campaign=1053&utm_source=git)** | Lubbock, TX, United States | On Site | Aug 31 |
 | **[Breaking News ABA](https://breakingnewsaba.com/)** | **[Journalist Intern – ABA Industry News](https://jobright.ai/jobs/info/6a95f1304c22023a079370b3?utm_campaign=1053&utm_source=git)** | Lake Forest, IL, United States | On Site | Aug 31 |
 | **[Ameritas](http://www.ameritas.com)** | **[Videography Intern](https://jobright.ai/jobs/info/6a95eec1cabc9f6703e1b0fa?utm_campaign=1053&utm_source=git)** | Lincoln, NE, United States | Hybrid | Aug 31 |
-| **[Respect My Region](https://www.respectmyregion.com)** | **[Rap and Hip-Hop Music Journalist Internship](https://jobright.ai/jobs/info/6a95e4ef3843db0159907fb8?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | On Site | Aug 31 |
 | **[The Washington Post](https://www.washingtonpost.com)** | **[Newsroom Summer Internship Program 2027: Content Strategy Editors](https://jobright.ai/jobs/info/6a9082900bd89e205d24abaa?utm_campaign=1053&utm_source=git)** | Washington Township, District of Columbia, United States | On Site | Aug 31 |
 | **[4Roots](https://4rootsfarm.org/)** | **[Events Intern - 4Roots Farm Campus (Fall & Spring)](https://jobright.ai/jobs/info/6a95b2b84c22023a079353a3?utm_campaign=1053&utm_source=git)** | Orlando, FL, United States | On Site | Aug 31 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid News Intern](https://jobright.ai/jobs/info/6972b01a9b83b424830eb8a4?utm_campaign=1053&utm_source=git)** | IN-Indianapolis;6910 Network Place (Tribune-WXIN/WTTV) | On Site | Aug 31 |
