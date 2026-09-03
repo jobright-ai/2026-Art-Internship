@@ -57,8 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[A1R](www.a1r.us)** | **[Athlete Content Intern](https://jobright.ai/jobs/info/6a98ecb311f73b6462c8fd2c?utm_campaign=1053&utm_source=git)** | United States | Remote | Sep 02 |
 | **[Allied Solutions LLC](http://www.alliedsolutions.net/)** | **[Studio Production Intern](https://jobright.ai/jobs/info/6a988552c8ed473c5c76483d?utm_campaign=1053&utm_source=git)** | Carmel, IN, United States | On Site | Sep 02 |
-| **[Speed Art Museum](https://www.speedmuseum.org)** | **[Private Events Intern](https://jobright.ai/jobs/info/6a98c71283fc633357632ac7?utm_campaign=1053&utm_source=git)** | Louisville, KY, United States | On Site | Sep 02 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Intern](https://jobright.ai/jobs/info/6a9674f7455eaf6a08c17881?utm_campaign=1053&utm_source=git)** | Peoria, IL, United States | On Site | Sep 02 |
 | **[New Holland Brewing Company](http://newhollandbrew.com)** | **[Events & Catering Intern](https://jobright.ai/jobs/info/6a98699483fc6333576315c7?utm_campaign=1053&utm_source=git)** | Grand Rapids, MI, United States | On Site | Sep 02 |
 | **[Dynamic Catholic](https://dynamiccatholic.com/)** | **[Internship - Videographer](https://jobright.ai/jobs/info/6a98663eaf954907d657320e?utm_campaign=1053&utm_source=git)** | Erlanger, KY, United States | On Site | Sep 02 |
@@ -71,7 +71,6 @@ For a complete list, click the following sortable link below:
 | **[Axis Communications](http://www.axis.com/)** | **[Events Production Intern (Fall/Winter)](https://jobright.ai/jobs/info/6a5facf0f68dd368023e7fc1?utm_campaign=1053&utm_source=git)** | Chelmsford, MA, United States of America | On Site | Sep 02 |
 | **[Detroit PBS](http://www.dptv.org/home/)** | **[Production and Operations Intern – Fall 2026 (Unpaid)](https://jobright.ai/jobs/info/6a9838b7af954907d6571fe9?utm_campaign=1053&utm_source=git)** | Wixom, MI, United States | Hybrid | Sep 02 |
 | **[Winsupply](http://www.winsupply.com)** | **[Videographer Intern](https://jobright.ai/jobs/info/6a983214af954907d6571cf6?utm_campaign=1053&utm_source=git)** | Moraine, OH, United States | On Site | Sep 02 |
-| **[Social View Agency](https://www.socialviewagency.com/)** | **[Content Creator Intern](https://jobright.ai/jobs/info/6a984942c8ed473c5c763058?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | Remote | Sep 02 |
 | **[Venture Capital Careers](https://venturecapitalcareers.com/)** | **[Content Creator Intern — VC / Startup Accelerator (6 months, Paris)](https://jobright.ai/jobs/info/6a983fe7af954907d6572274?utm_campaign=1053&utm_source=git)** | Paris, ON, Canada | On Site | Sep 02 |
 | **[Syracuse Crunch](https://syracusecrunch.com/)** | **[VIDEOGRAPHY INTERN](https://jobright.ai/jobs/info/6a97fe71add00305a7651d19?utm_campaign=1053&utm_source=git)** | Springfield, MA, United States | On Site | Sep 02 |
 | **[VMI Worldwide](http://vmiworldwide.com)** | **[Acquisitions And Development Intern](https://jobright.ai/jobs/info/6a978dbb246d697dcee05bbe?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | On Site | Sep 01 |
@@ -91,7 +90,6 @@ For a complete list, click the following sortable link below:
 | **[FDB (First Databank, Inc.)](http://fdbhealth.com)** | **[Sports Intern](https://jobright.ai/jobs/info/6a96dda0e4e60e4b8da5a58d?utm_campaign=1053&utm_source=git)** | Needham, MA, United States | On Site | Sep 01 |
 | **[Hasana, Inc.](http://shophasana.com)** | **[Volunteer/Intern: Film/Video Editor](https://jobright.ai/jobs/info/6a51e53ebf63b66c7997e975?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Sep 01 |
 | **[AEG](http://www.aegworldwide.com)** | **[Internship- Touring](https://jobright.ai/jobs/info/6a7a225fbb6ca93ae561a169?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | On Site | Sep 01 |
-| **[National Basketball Association (NBA)](http://www.nba.com)** | **[Creative Ops Intern - Video](https://jobright.ai/jobs/info/6a79fa78a26ccc369f83bc15?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Sep 01 |
 | **[Temple Square Hospitality Corporation](http://templesquarehospitality.com)** | **[Church News Writer - Fall 2026 Internship](https://jobright.ai/jobs/info/6a970546e4e60e4b8da5b8a1?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT, United States | On Site | Aug 31 |
 | **[Grand Canyon Education, Inc.](https://www.gce.com)** | **[Communications & Digital Content Intern (CSLP FWS)](https://jobright.ai/jobs/info/6a97534ef5337b2cf732188e?utm_campaign=1053&utm_source=git)** | Phoenix, AZ, United States | On Site | Aug 31 |
 | **[Broward Center for the Performing Arts](https://www.browardcenter.org/)** | **[Intern- Rose & Alfred Miniaci Performing Arts Center](https://jobright.ai/jobs/info/6a95da9bc8763a3a87ffc977?utm_campaign=1053&utm_source=git)** | Fort Lauderdale, FL, United States | On Site | Aug 31 |
