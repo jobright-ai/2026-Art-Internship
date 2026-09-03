@@ -57,10 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Vestmark](https://www.vestmark.com)** | **[Intern -  Video Production Coordinator](https://jobright.ai/jobs/info/6a99c4eb90a313642c652a3b?utm_campaign=1053&utm_source=git)** | Wakefield, MA, United States | On Site | Sep 03 |
 | **[Hasana, Inc.](http://shophasana.com)** | **[Film & Video Internship](https://jobright.ai/jobs/info/6a5997544da96a42cfd91dd0?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | On Site | Sep 03 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Intern](https://jobright.ai/jobs/info/6a9674f7455eaf6a08c17881?utm_campaign=1053&utm_source=git)** | Peoria, IL, United States | On Site | Sep 03 |
 | **[Worcester Railers HC](https://www.railershc.com)** | **[Community & Fan Engagement Intern Fall 2026](https://jobright.ai/jobs/info/6a997bd2040e5c3d075967d2?utm_campaign=1053&utm_source=git)** | Worcester, MA, United States | On Site | Sep 03 |
-| **[Nothing Bundt Cakes](http://www.nothingbundtcakes.com)** | **[Internship with NBC as a Hourly Manager](https://jobright.ai/jobs/info/6a9886c5def18223c854fe51?utm_campaign=1053&utm_source=git)** | Oklahoma City, OK, United States | On Site | Sep 03 |
+| **[Nothing Bundt Cakes](http://www.nothingbundtcakes.com)** | **[Internship with NBC as a Hourly Manager](https://jobright.ai/jobs/info/6a988fbbdd171c7285792fa9?utm_campaign=1053&utm_source=git)** | Oklahoma City, OK, United States | On Site | Sep 03 |
 | **[Toyon Research Corporation](http://toyon.com)** | **[Video Labeling Intern](https://jobright.ai/jobs/info/6a9902cadd171c7285793716?utm_campaign=1053&utm_source=git)** | Goleta, CA, United States | On Site | Sep 03 |
 | **[adyn](https://www.adyn.com/)** | **[DIGITAL STORYTELLING INTERN](https://jobright.ai/jobs/info/6a9902b883fc633357632bc9?utm_campaign=1053&utm_source=git)** | Seattle, WA, United States | Remote | Sep 02 |
 | **[Speed Art Museum](https://www.speedmuseum.org)** | **[Private Events Intern](https://jobright.ai/jobs/info/6a98fc9711f73b6462c8fd91?utm_campaign=1053&utm_source=git)** | Louisville, KY, United States | On Site | Sep 02 |
