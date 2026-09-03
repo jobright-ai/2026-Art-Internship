@@ -128,5 +128,4 @@ For a complete list, click the following sortable link below:
 | **[The Washington Post](https://www.washingtonpost.com)** | **[Newsroom Summer Internship Program 2027: Visual Journalists](https://jobright.ai/jobs/info/6a90953e0bd89e205d24b200?utm_campaign=1053&utm_source=git)** | Washington Township, District of Columbia, United States | On Site | Aug 27 |
 | ↳ | **[Newsroom Summer Internship Program 2027: Graphics Reporter](https://jobright.ai/jobs/info/6a9095350bd89e205d24b1fd?utm_campaign=1053&utm_source=git)** | Washington Township, District of Columbia, United States | On Site | Aug 27 |
 | **[Cartwheel](https://www.cartwheelcare.org)** | **[Writing Intern](https://jobright.ai/jobs/info/6a974cedf5337b2cf732164e?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 27 |
-| **[Monumental Sports & Entertainment](http://www.monumentalsports.com/)** | **[Internship: Digital Editing (Part-Time/Seasonal)](https://jobright.ai/jobs/info/6a904ae07c32860d14cf8711?utm_campaign=1053&utm_source=git)** | Washington, DC, United States | On Site | Aug 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
