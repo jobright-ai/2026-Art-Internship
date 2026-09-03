@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hasana, Inc.](http://shophasana.com)** | **[Film & Video Internship](https://jobright.ai/jobs/info/6a5997544da96a42cfd91dd0?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | On Site | Sep 03 |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Intern](https://jobright.ai/jobs/info/6a9674f7455eaf6a08c17881?utm_campaign=1053&utm_source=git)** | Peoria, IL, United States | On Site | Sep 03 |
+| **[Worcester Railers HC](https://www.railershc.com)** | **[Community & Fan Engagement Intern Fall 2026](https://jobright.ai/jobs/info/6a997bd2040e5c3d075967d2?utm_campaign=1053&utm_source=git)** | Worcester, MA, United States | On Site | Sep 03 |
 | **[Toyon Research Corporation](http://toyon.com)** | **[Video Labeling Intern](https://jobright.ai/jobs/info/6a9902cadd171c7285793716?utm_campaign=1053&utm_source=git)** | Goleta, CA, United States | On Site | Sep 03 |
 | **[adyn](https://www.adyn.com/)** | **[DIGITAL STORYTELLING INTERN](https://jobright.ai/jobs/info/6a9902b883fc633357632bc9?utm_campaign=1053&utm_source=git)** | Seattle, WA, United States | Remote | Sep 02 |
 | **[Speed Art Museum](https://www.speedmuseum.org)** | **[Private Events Intern](https://jobright.ai/jobs/info/6a98fc9711f73b6462c8fd91?utm_campaign=1053&utm_source=git)** | Louisville, KY, United States | On Site | Sep 02 |
@@ -65,7 +68,6 @@ For a complete list, click the following sortable link below:
 | **[Respect My Region](https://www.respectmyregion.com)** | **[Social Media Editor Internship](https://jobright.ai/jobs/info/6a99050683fc633357632d6e?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | On Site | Sep 02 |
 | **[Allied Solutions LLC](http://www.alliedsolutions.net/)** | **[Studio Production Intern](https://jobright.ai/jobs/info/6a988552c8ed473c5c76483d?utm_campaign=1053&utm_source=git)** | Carmel, IN, United States | On Site | Sep 02 |
 | **[Truly Curious](https://trulycurious.com)** | **[Remote Campus Ambassador & Science Communication Internship](https://jobright.ai/jobs/info/6a9926e883fc6333576334d9?utm_campaign=1053&utm_source=git)** | United States | Remote | Sep 02 |
-| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Intern](https://jobright.ai/jobs/info/6a9674f7455eaf6a08c17881?utm_campaign=1053&utm_source=git)** | Peoria, IL, United States | On Site | Sep 02 |
 | **[New Holland Brewing Company](http://newhollandbrew.com)** | **[Events & Catering Intern](https://jobright.ai/jobs/info/6a98699483fc6333576315c7?utm_campaign=1053&utm_source=git)** | Grand Rapids, MI, United States | On Site | Sep 02 |
 | **[Dynamic Catholic](https://dynamiccatholic.com/)** | **[Internship - Videographer](https://jobright.ai/jobs/info/6a98663eaf954907d657320e?utm_campaign=1053&utm_source=git)** | Erlanger, KY, United States | On Site | Sep 02 |
 | ↳ | **[Internship - Writer](https://jobright.ai/jobs/info/6a986639def18223c854f341?utm_campaign=1053&utm_source=git)** | Erlanger, KY, United States | On Site | Sep 02 |
@@ -89,7 +91,6 @@ For a complete list, click the following sortable link below:
 | **[Miami HEAT](https://www.nba.com/heat/)** | **[Content Studio Intern (Seasonal)](https://jobright.ai/jobs/info/6a97062ab22f636c814155b4?utm_campaign=1053&utm_source=git)** | Miami, FL, United States | On Site | Sep 01 |
 | **[SXSW](https://www.sxsw.com/pitch)** | **[(I) Film & TV Submissions Intern](https://jobright.ai/jobs/info/6a971f24d13b4819f39df39f?utm_campaign=1053&utm_source=git)** | Austin, TX, United States | On Site | Sep 01 |
 | **[Nimiopere Film Editorial](https://nimiopere.com)** | **[Intern](https://jobright.ai/jobs/info/6a973318e4e60e4b8da5c9c8?utm_campaign=1053&utm_source=git)** | Toronto, ON, Canada | On Site | Sep 01 |
-| **[Digital Fashion Week](https://digitalfashionweek.nyc)** | **[Fashion Conference Intern](https://jobright.ai/jobs/info/6a9704a6f5337b2cf731f768?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Sep 01 |
 | **[Nikon Inc.](https://www.nikonusa.com/)** | **[Video Editor & Production Intern](https://jobright.ai/jobs/info/6a9700f2e4e60e4b8da5b5e0?utm_campaign=1053&utm_source=git)** | Melville, NY, United States | On Site | Sep 01 |
 | **[SRND AI](https://srnd.ai)** | **[(Unpaid) On-Camera Social Content Creator Intern](https://jobright.ai/jobs/info/6a96fbd4b22f636c81414dfd?utm_campaign=1053&utm_source=git)** | United States | Remote | Sep 01 |
 | **[HYPEBEAST](http://hypebeast.com)** | **[Editorial Intern](https://jobright.ai/jobs/info/6a5adf5e856af468ab00a4c6?utm_campaign=1053&utm_source=git)** | New York | On Site | Sep 01 |
@@ -126,5 +127,4 @@ For a complete list, click the following sortable link below:
 | **[Southwire Company](http://southwire.com)** | **[Events and Experience Intern](https://jobright.ai/jobs/info/6a91f5c2a27a2d3c9848ad2a?utm_campaign=1053&utm_source=git)** | Carrollton, GA, United States | On Site | Aug 27 |
 | **[The Washington Post](https://www.washingtonpost.com)** | **[Newsroom Summer Internship Program 2027: Visual Journalists](https://jobright.ai/jobs/info/6a90953e0bd89e205d24b200?utm_campaign=1053&utm_source=git)** | Washington Township, District of Columbia, United States | On Site | Aug 27 |
 | ↳ | **[Newsroom Summer Internship Program 2027: Graphics Reporter](https://jobright.ai/jobs/info/6a9095350bd89e205d24b1fd?utm_campaign=1053&utm_source=git)** | Washington Township, District of Columbia, United States | On Site | Aug 27 |
-| **[Cartwheel](https://www.cartwheelcare.org)** | **[Writing Intern](https://jobright.ai/jobs/info/6a974cedf5337b2cf732164e?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
