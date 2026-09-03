@@ -129,5 +129,4 @@ For a complete list, click the following sortable link below:
 | **[Auburn University at Montgomery](http://www.aum.edu/)** | **[Student Video Producer](https://jobright.ai/jobs/info/6a90469d7c32860d14cf8601?utm_campaign=1053&utm_source=git)** | Auburn, AL, United States | On Site | Aug 27 |
 | **[Operation Smile](http://www.operationsmile.org)** | **[Student Programs Production Intern](https://jobright.ai/jobs/info/6a39b84b06a4fd4b1fabbcd7?utm_campaign=1053&utm_source=git)** | Virginia Beach, VA | On Site | Aug 27 |
 | ↳ | **[Writing Internship - Operation Smile ILC](https://jobright.ai/jobs/info/6a9030e5d96ad228f125feac?utm_campaign=1053&utm_source=git)** | Virginia Beach, VA, United States | On Site | Aug 27 |
-| **[Kontinentalist](https://www.kontinentalist.com/)** | **[Editorial Intern, Lapis](https://jobright.ai/jobs/info/6a9071a2a1988648667612d4?utm_campaign=1053&utm_source=git)** | Indiana, United States | On Site | Aug 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
