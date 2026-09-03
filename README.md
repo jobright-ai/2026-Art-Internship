@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Allied Solutions LLC](http://www.alliedsolutions.net/)** | **[Studio Production Intern](https://jobright.ai/jobs/info/6a988552c8ed473c5c76483d?utm_campaign=1053&utm_source=git)** | Carmel, IN, United States | On Site | Sep 02 |
 | **[Speed Art Museum](https://www.speedmuseum.org)** | **[Private Events Intern](https://jobright.ai/jobs/info/6a98c71283fc633357632ac7?utm_campaign=1053&utm_source=git)** | Louisville, KY, United States | On Site | Sep 02 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Intern](https://jobright.ai/jobs/info/6a9674f7455eaf6a08c17881?utm_campaign=1053&utm_source=git)** | Peoria, IL, United States | On Site | Sep 02 |
 | **[New Holland Brewing Company](http://newhollandbrew.com)** | **[Events & Catering Intern](https://jobright.ai/jobs/info/6a98699483fc6333576315c7?utm_campaign=1053&utm_source=git)** | Grand Rapids, MI, United States | On Site | Sep 02 |
@@ -75,7 +76,6 @@ For a complete list, click the following sortable link below:
 | **[Syracuse Crunch](https://syracusecrunch.com/)** | **[VIDEOGRAPHY INTERN](https://jobright.ai/jobs/info/6a97fe71add00305a7651d19?utm_campaign=1053&utm_source=git)** | Springfield, MA, United States | On Site | Sep 02 |
 | **[VMI Worldwide](http://vmiworldwide.com)** | **[Acquisitions And Development Intern](https://jobright.ai/jobs/info/6a978dbb246d697dcee05bbe?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | On Site | Sep 01 |
 | **[KET - Kentucky Educational Television](https://www.ket.org)** | **[Spring 2027 Television Production Internship-Louisville, KY](https://jobright.ai/jobs/info/6a989e9cdef18223c85507db?utm_campaign=1053&utm_source=git)** | Louisville, KY, United States | On Site | Sep 01 |
-| **[Allied Solutions LLC](http://www.alliedsolutions.net/)** | **[Studio Production Intern](https://jobright.ai/jobs/info/6a988552c8ed473c5c76483d?utm_campaign=1053&utm_source=git)** | Carmel, IN, United States | On Site | Sep 01 |
 | **[Elite Podcast Studio](ElitePodcastStudio.com)** | **[Internship Tampa Content Creator](https://jobright.ai/jobs/info/6a9754aee4e60e4b8da5da5a?utm_campaign=1053&utm_source=git)** | Odessa, FL, United States | On Site | Sep 01 |
 | **[Spencer Magazine](http://www.spencer-magazine.com)** | **[Assistant to the Publisher (UNPAID) Internship](https://jobright.ai/jobs/info/6a973f2bb22f636c81416e57?utm_campaign=1053&utm_source=git)** | Toronto, ON, Canada | On Site | Sep 01 |
 | **[InsideHockey.com](https://www.insidehockey.com)** | **[Boston University Hockey Writing & Media Internship](https://jobright.ai/jobs/info/6a9736d0f5337b2cf7320b21?utm_campaign=1053&utm_source=git)** | Greater Boston, United States | Remote | Sep 01 |
@@ -87,7 +87,7 @@ For a complete list, click the following sortable link below:
 | **[Digital Fashion Week](https://digitalfashionweek.nyc)** | **[Fashion Conference Intern](https://jobright.ai/jobs/info/6a9704a6f5337b2cf731f768?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Sep 01 |
 | **[Nikon Inc.](https://www.nikonusa.com/)** | **[Video Editor & Production Intern](https://jobright.ai/jobs/info/6a9700f2e4e60e4b8da5b5e0?utm_campaign=1053&utm_source=git)** | Melville, NY, United States | On Site | Sep 01 |
 | **[SRND AI](https://srnd.ai)** | **[(Unpaid) On-Camera Social Content Creator Intern](https://jobright.ai/jobs/info/6a96fbd4b22f636c81414dfd?utm_campaign=1053&utm_source=git)** | United States | Remote | Sep 01 |
-| **[HYPEBEAST](http://hypebeast.com)** | **[Editorial Intern](https://jobright.ai/jobs/info/6a5adf5e856af468ab00a4c6?utm_campaign=1053&utm_source=git)** | New York | On Site | Sep 01 |
+| **[HYPEBEAST](http://hypebeast.com)** | **[Editorial Intern](https://jobright.ai/jobs/info/6a2901a32d6c332ee52e9499?utm_campaign=1053&utm_source=git)** | New York | On Site | Sep 01 |
 | **[FDB (First Databank, Inc.)](http://fdbhealth.com)** | **[Sports Intern](https://jobright.ai/jobs/info/6a96dda0e4e60e4b8da5a58d?utm_campaign=1053&utm_source=git)** | Needham, MA, United States | On Site | Sep 01 |
 | **[Hasana, Inc.](http://shophasana.com)** | **[Volunteer/Intern: Film/Video Editor](https://jobright.ai/jobs/info/6a51e53ebf63b66c7997e975?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Sep 01 |
 | **[AEG](http://www.aegworldwide.com)** | **[Internship- Touring](https://jobright.ai/jobs/info/6a7a225fbb6ca93ae561a169?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | On Site | Sep 01 |
