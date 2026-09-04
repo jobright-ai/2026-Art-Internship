@@ -57,7 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Open Road Integrated Media Inc.](http://www.openroadintegratedmedia.com)** | **[Content Writing Intern (FT/Paid)](https://jobright.ai/jobs/info/6a4d60d1c643fd23fed3cbf6?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Hybrid | Sep 04 |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Intern - KOIN / KRCW - Portland, OR (Unpaid)](https://jobright.ai/jobs/info/6a526c03d007ee02d95f77ac?utm_campaign=1053&utm_source=git)** | OR, Portland, United States of America | On Site | Sep 04 |
 | **[The Cincinnati Insurance Companies](http://www.cinfin.com)** | **[Student Opportunities - Video Production Intern - Summer 2027 (Hybrid)](https://jobright.ai/jobs/info/6a9ac7bcd5ff1f3f1c39b45a?utm_campaign=1053&utm_source=git)** | Fairfield, OH, United States | Hybrid | Sep 04 |
 | **[National Education Association](http://www.nea.org)** | **[NEA Editorial Intern, Center for Communications  (Fall 2026)](https://jobright.ai/jobs/info/6a7e180ee2030208f2767a07?utm_campaign=1053&utm_source=git)** | Washington, DC, United States | On Site | Sep 04 |
 | **[Spectrum](https://www.spectrum.com)** | **[2027 Summer Intern: L&D Writer​](https://jobright.ai/jobs/info/6a99d7348a8b765bc55f5d0e?utm_campaign=1053&utm_source=git)** | Charlotte, NC, United States | On Site | Sep 04 |
@@ -79,7 +79,7 @@ For a complete list, click the following sortable link below:
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Paid News Producer Intern](https://jobright.ai/jobs/info/6a7dc082e2030208f2765d0c?utm_campaign=1053&utm_source=git)** | Indianapolis, IN, United States | On Site | Sep 03 |
 | ↳ | **[Unpaid Intern](https://jobright.ai/jobs/info/6a9674f7455eaf6a08c17881?utm_campaign=1053&utm_source=git)** | Peoria, IL, United States | On Site | Sep 03 |
 | **[Worcester Railers HC](https://www.railershc.com)** | **[Community & Fan Engagement Intern Fall 2026](https://jobright.ai/jobs/info/6a997bd2040e5c3d075967d2?utm_campaign=1053&utm_source=git)** | Worcester, MA, United States | On Site | Sep 03 |
-| **[Nothing Bundt Cakes](http://www.nothingbundtcakes.com)** | **[Internship with NBC as a Hourly Manager](https://jobright.ai/jobs/info/6a988fbbdd171c7285792fa9?utm_campaign=1053&utm_source=git)** | Oklahoma City, OK, United States | On Site | Sep 03 |
+| **[Nothing Bundt Cakes](http://www.nothingbundtcakes.com)** | **[Internship with NBC as a Hourly Manager](https://jobright.ai/jobs/info/6a9886c5def18223c854fe51?utm_campaign=1053&utm_source=git)** | Oklahoma City, OK, United States | On Site | Sep 03 |
 | **[Toyon Research Corporation](http://toyon.com)** | **[Video Labeling Intern](https://jobright.ai/jobs/info/6a9902cadd171c7285793716?utm_campaign=1053&utm_source=git)** | Goleta, CA, United States | On Site | Sep 03 |
 | **[Deseret News](http://www.deseretnews.com/)** | **[Church News Writer - Fall 2026 Internship](https://jobright.ai/jobs/info/6a99eb7a1388387060591646?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT, United States | On Site | Sep 02 |
 | **[Speed Art Museum](https://www.speedmuseum.org)** | **[Private Events Intern](https://jobright.ai/jobs/info/6a98fc9711f73b6462c8fd91?utm_campaign=1053&utm_source=git)** | Louisville, KY, United States | On Site | Sep 02 |
@@ -135,6 +135,4 @@ For a complete list, click the following sortable link below:
 | **[The Publisher Desk](http://www.publisherdesk.com/)** | **[Editorial Summer Internship, Forever Blueshirts](https://jobright.ai/jobs/info/6a5e6951050c423c792ef057?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 29 |
 | **[Union Home Mortgage Corp.](https://www.uhm.com/)** | **[Video Content Intern](https://jobright.ai/jobs/info/6a924886d18f75674827bb2a?utm_campaign=1053&utm_source=git)** | Strongsville, OH, United States | On Site | Aug 28 |
 | **[Kroenke Sports & Entertainment](https://www.ballarena.com)** | **[Intern, Production](https://jobright.ai/jobs/info/6a921016c12c90443efc9681?utm_campaign=1053&utm_source=git)** | Centennial, CO, United States | On Site | Aug 28 |
-| **[The Washington Post](https://www.washingtonpost.com)** | **[Newsroom Summer Internship Program 2027: Data Journalist](https://jobright.ai/jobs/info/6a9082627c32860d14cf9c70?utm_campaign=1053&utm_source=git)** | Washington Township, District of Columbia, United States | On Site | Aug 28 |
-| **[The Post and Courier](http://www.postandcourier.com/)** | **[The Post and Courier Columbia News Intern](https://jobright.ai/jobs/info/6a9201eba27a2d3c9848afd5?utm_campaign=1053&utm_source=git)** | Columbia, SC, United States | On Site | Aug 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
