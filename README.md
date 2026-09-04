@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Rivo](https://www.rivofi.finance/)** | **[Content Creator Intern (Short-Form Video)](https://jobright.ai/jobs/info/6a9a57c290a313642c6554cf?utm_campaign=1053&utm_source=git)** | United States | Remote | Sep 03 |
 | **[adyn](https://www.adyn.com/)** | **[DIGITAL STORYTELLING INTERN](https://jobright.ai/jobs/info/6a9a4d5f90a313642c655273?utm_campaign=1053&utm_source=git)** | Seattle, WA, United States | Remote | Sep 03 |
+| **[Kouhl Collective](https://kouhlcollective.my.canva.site)** | **[Content Creator Intern](https://jobright.ai/jobs/info/6a9a51cd6c308f08f89c57eb?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Hybrid | Sep 03 |
 | **[IRONCLAD](https://thisisironclad.com)** | **[INTERNSHIP: Post Production](https://jobright.ai/jobs/info/6a8774fee8b6601d12903bba?utm_campaign=1053&utm_source=git)** | Virginia Beach, VA, United States | On Site | Sep 03 |
 | **[The Washington Post](https://www.washingtonpost.com)** | **[Newsroom Summer Internship Program 2027: Graphics Reporter](https://jobright.ai/jobs/info/6a9095350bd89e205d24b1fd?utm_campaign=1053&utm_source=git)** | Washington Township, District of Columbia, United States | On Site | Sep 03 |
 | **[The Cincinnati Insurance Companies](http://www.cinfin.com)** | **[Student Opportunities - Video Production Intern - Summer 2027 (Hybrid)](https://jobright.ai/jobs/info/6a99ffef90a313642c653ff1?utm_campaign=1053&utm_source=git)** | Fairfield, OH, United States | Hybrid | Sep 03 |
@@ -76,6 +78,7 @@ For a complete list, click the following sortable link below:
 | **[Nothing Bundt Cakes](http://www.nothingbundtcakes.com)** | **[Internship with NBC as a Hourly Manager](https://jobright.ai/jobs/info/6a9886c5def18223c854fe51?utm_campaign=1053&utm_source=git)** | Oklahoma City, OK, United States | On Site | Sep 03 |
 | **[Toyon Research Corporation](http://toyon.com)** | **[Video Labeling Intern](https://jobright.ai/jobs/info/6a9902cadd171c7285793716?utm_campaign=1053&utm_source=git)** | Goleta, CA, United States | On Site | Sep 03 |
 | **[Deseret News](http://www.deseretnews.com/)** | **[Church News Writer - Fall 2026 Internship](https://jobright.ai/jobs/info/6a99eb7a1388387060591646?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT, United States | On Site | Sep 02 |
+| **[Spectrum](https://www.spectrum.com)** | **[2027 Summer Intern: L&D Writer](https://jobright.ai/jobs/info/6a9a55f790a313642c655487?utm_campaign=1053&utm_source=git)** | Charlotte, NC, United States | On Site | Sep 02 |
 | **[Speed Art Museum](https://www.speedmuseum.org)** | **[Private Events Intern](https://jobright.ai/jobs/info/6a98fc9711f73b6462c8fd91?utm_campaign=1053&utm_source=git)** | Louisville, KY, United States | On Site | Sep 02 |
 | **[tms](https://themarketingstore.com)** | **[Production Intern Job Details / Morgan Street Holdings](https://jobright.ai/jobs/info/6a99989a040e5c3d0759742c?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | On Site | Sep 02 |
 | **[Fair Observer](http://www.fairobserver.com)** | **[Video Intern](https://jobright.ai/jobs/info/6a994d4f138838706058d506?utm_campaign=1053&utm_source=git)** | Washington, District of Columbia, United States | On Site | Sep 02 |
@@ -133,5 +136,4 @@ For a complete list, click the following sortable link below:
 | **[The Washington Post](https://www.washingtonpost.com)** | **[Newsroom Summer Internship Program 2027: Data Journalist](https://jobright.ai/jobs/info/6a9082627c32860d14cf9c70?utm_campaign=1053&utm_source=git)** | Washington Township, District of Columbia, United States | On Site | Aug 28 |
 | **[The Post and Courier](http://www.postandcourier.com/)** | **[The Post and Courier Columbia News Intern](https://jobright.ai/jobs/info/6a9201eba27a2d3c9848afd5?utm_campaign=1053&utm_source=git)** | Columbia, SC, United States | On Site | Aug 28 |
 | **[NESN](http://nesn.com)** | **[Dining Playbook/Meet Boston Intern - Fall Semester](https://jobright.ai/jobs/info/6a93e2f1360363009919939a?utm_campaign=1053&utm_source=git)** | Watertown, MA, United States | On Site | Aug 28 |
-| **[Audacy, Inc.](https://audacyinc.com/)** | **[NYSBA Internship (Fall Semester)](https://jobright.ai/jobs/info/6a88a526cde3717f9e9b6492?utm_campaign=1053&utm_source=git)** | Rochester, NY, United States | On Site | Aug 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
