@@ -57,8 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Spectrum](https://www.spectrum.com)** | **[2027 Summer Intern: L&D Writer](https://jobright.ai/jobs/info/6a9a55f790a313642c655487?utm_campaign=1053&utm_source=git)** | Charlotte, NC, United States | On Site | Sep 04 |
-| ↳ | **[2027 Summer Intern: L&D Writer​](https://jobright.ai/jobs/info/6a99d7348a8b765bc55f5d0e?utm_campaign=1053&utm_source=git)** | Charlotte, NC, United States | On Site | Sep 04 |
+| **[Open Road Integrated Media Inc.](http://www.openroadintegratedmedia.com)** | **[Content Writing Intern (FT/Paid)](https://jobright.ai/jobs/info/6a4d60d1c643fd23fed3cbf6?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Hybrid | Sep 04 |
+| **[The Cincinnati Insurance Companies](http://www.cinfin.com)** | **[Student Opportunities - Video Production Intern - Summer 2027 (Hybrid)](https://jobright.ai/jobs/info/6a9ac7bcd5ff1f3f1c39b45a?utm_campaign=1053&utm_source=git)** | Fairfield, OH, United States | Hybrid | Sep 04 |
+| **[National Education Association](http://www.nea.org)** | **[NEA Editorial Intern, Center for Communications  (Fall 2026)](https://jobright.ai/jobs/info/6a7e180ee2030208f2767a07?utm_campaign=1053&utm_source=git)** | Washington, DC, United States | On Site | Sep 04 |
+| **[Spectrum](https://www.spectrum.com)** | **[2027 Summer Intern: L&D Writer​](https://jobright.ai/jobs/info/6a99d7348a8b765bc55f5d0e?utm_campaign=1053&utm_source=git)** | Charlotte, NC, United States | On Site | Sep 04 |
+| ↳ | **[2027 Summer Intern: L&D Writer](https://jobright.ai/jobs/info/6a9a55f790a313642c655487?utm_campaign=1053&utm_source=git)** | Charlotte, NC, United States | On Site | Sep 04 |
 | **[PR Consulting](http://prconsulting.net)** | **[PRC Internship, Culture + Retail](https://jobright.ai/jobs/info/6a9a8f82e6c97d4b970afb7d?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Sep 04 |
 | **[Rivo](https://www.rivofi.finance/)** | **[Content Creator Intern (Short-Form Video)](https://jobright.ai/jobs/info/6a9a57c290a313642c6554cf?utm_campaign=1053&utm_source=git)** | United States | Remote | Sep 03 |
 | **[adyn](https://www.adyn.com/)** | **[DIGITAL STORYTELLING INTERN](https://jobright.ai/jobs/info/6a9a4d5f90a313642c655273?utm_campaign=1053&utm_source=git)** | Seattle, WA, United States | Remote | Sep 03 |
@@ -91,7 +94,7 @@ For a complete list, click the following sortable link below:
 | **[Detroit PBS](http://www.dptv.org/home/)** | **[One Detroit Journalism and Video Production Intern – Fall 2026 (Unpaid)](https://jobright.ai/jobs/info/6a985543c8ed473c5c7635ec?utm_campaign=1053&utm_source=git)** | Wixom, MI, United States | On Site | Sep 02 |
 | **[Mount St. Joseph University](http://www.msj.edu)** | **[FWS / Delhi Historical Society Museum Intern](https://jobright.ai/jobs/info/6a98523611f73b6462c8de14?utm_campaign=1053&utm_source=git)** | Cincinnati, OH, United States | On Site | Sep 02 |
 | **[KET - Kentucky Educational Television](https://www.ket.org)** | **[Spring 2027 Television Production Internship](https://jobright.ai/jobs/info/6a98451a83fc6333576306de?utm_campaign=1053&utm_source=git)** | Lexington, KY, United States | On Site | Sep 02 |
-| **[Cooperstown All Star Village](https://cooperstown.com/)** | **[Events and Experiences Intern](https://jobright.ai/jobs/info/6a98450983fc6333576306d4?utm_campaign=1053&utm_source=git)** | Oneonta, NY, United States | On Site | Sep 02 |
+| **[Cooperstown All Star Village](https://cooperstown.com)** | **[Events and Experiences Intern](https://jobright.ai/jobs/info/6a98450983fc6333576306d4?utm_campaign=1053&utm_source=git)** | Oneonta, NY, United States | On Site | Sep 02 |
 | **[Osborne, Francis & Pettis](https://www.realtoughlawyers.com)** | **[Podcast Editor Intern](https://jobright.ai/jobs/info/6a9840b7c8ed473c5c762d6c?utm_campaign=1053&utm_source=git)** | Orlando, FL, United States | On Site | Sep 02 |
 | **[Axis Communications](http://www.axis.com/)** | **[Events Production Intern (Fall/Winter)](https://jobright.ai/jobs/info/6a5facf0f68dd368023e7fc1?utm_campaign=1053&utm_source=git)** | Chelmsford, MA, United States of America | On Site | Sep 02 |
 | **[Detroit PBS](http://www.dptv.org/home/)** | **[Production and Operations Intern – Fall 2026 (Unpaid)](https://jobright.ai/jobs/info/6a9838b7af954907d6571fe9?utm_campaign=1053&utm_source=git)** | Wixom, MI, United States | Hybrid | Sep 02 |
@@ -109,7 +112,7 @@ For a complete list, click the following sortable link below:
 | **[Nimiopere Film Editorial](https://nimiopere.com)** | **[Intern](https://jobright.ai/jobs/info/6a973318e4e60e4b8da5c9c8?utm_campaign=1053&utm_source=git)** | Toronto, ON, Canada | On Site | Sep 01 |
 | **[Nikon Inc.](https://www.nikonusa.com/)** | **[Video Editor & Production Intern](https://jobright.ai/jobs/info/6a9700f2e4e60e4b8da5b5e0?utm_campaign=1053&utm_source=git)** | Melville, NY, United States | On Site | Sep 01 |
 | **[SRND AI](https://srnd.ai)** | **[(Unpaid) On-Camera Social Content Creator Intern](https://jobright.ai/jobs/info/6a96fbd4b22f636c81414dfd?utm_campaign=1053&utm_source=git)** | United States | Remote | Sep 01 |
-| **[HYPEBEAST](http://hypebeast.com)** | **[Editorial Intern](https://jobright.ai/jobs/info/6a5adf5e856af468ab00a4c6?utm_campaign=1053&utm_source=git)** | New York | On Site | Sep 01 |
+| **[HYPEBEAST](http://hypebeast.com)** | **[Editorial Intern](https://jobright.ai/jobs/info/6a2901a32d6c332ee52e9499?utm_campaign=1053&utm_source=git)** | New York | On Site | Sep 01 |
 | **[FDB (First Databank, Inc.)](http://fdbhealth.com)** | **[Sports Intern](https://jobright.ai/jobs/info/6a96dda0e4e60e4b8da5a58d?utm_campaign=1053&utm_source=git)** | Needham, MA, United States | On Site | Sep 01 |
 | **[Hasana, Inc.](http://shophasana.com)** | **[Volunteer/Intern: Film/Video Editor](https://jobright.ai/jobs/info/6a51e53ebf63b66c7997e975?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Sep 01 |
 | **[AEG](http://www.aegworldwide.com)** | **[Internship- Touring](https://jobright.ai/jobs/info/6a7a225fbb6ca93ae561a169?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | On Site | Sep 01 |
