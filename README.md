@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Disney Live Entertainment Costume Development Intern, Spring 2027](https://jobright.ai/jobs/info/6a9b75009c24314c35f99491?utm_campaign=1053&utm_source=git)** | Lake Buena Vista, FL, United States | On Site | Sep 05 |
+| ↳ | **[Disney Live Entertainment Production Assistant Intern, Spring 2027](https://jobright.ai/jobs/info/6a9b7516fe45b8490f608571?utm_campaign=1053&utm_source=git)** | Kissimmee, FL, United States | Hybrid | Sep 05 |
+| **[Walt Disney Imagineering](https://disneyimaginations.com)** | **[Disney Live Entertainment Production Assistant Intern, Spring 2027](https://jobright.ai/jobs/info/6a9bff5da7ba386c5d66dd5d?utm_campaign=1053&utm_source=git)** | Orlando, FL, United States | On Site | Sep 05 |
+| ↳ | **[Disney Live Entertainment Costume Development Intern, Spring 2027](https://jobright.ai/jobs/info/6a9bff54c1d6f91bc3883b25?utm_campaign=1053&utm_source=git)** | Lake Buena Vista, FL, United States | On Site | Sep 05 |
 | **[Union Home Mortgage Corp.](https://www.uhm.com/)** | **[Video Content Intern](https://jobright.ai/jobs/info/6a924886d18f75674827bb2a?utm_campaign=1053&utm_source=git)** | Strongsville, OH, United States | On Site | Sep 05 |
 | **[HDR](http://www.hdrinc.com)** | **[Cultural Resources Intern-WG](https://jobright.ai/jobs/info/6a9b499c9c24314c35f98c11?utm_campaign=1053&utm_source=git)** | Austin, TX, United States | On Site | Sep 04 |
 | **[Tideturners](https://thetideturners.com/)** | **[Fall Internship Production -Social Media Content Creator (Videogames)](https://jobright.ai/jobs/info/6a9b540dfe45b8490f608038?utm_campaign=1053&utm_source=git)** | Orlando, FL, United States | On Site | Sep 04 |
@@ -72,8 +76,6 @@ For a complete list, click the following sortable link below:
 | **[Kouhl Collective](https://kouhlcollective.my.canva.site)** | **[Content Creator Intern](https://jobright.ai/jobs/info/6a9a51cd6c308f08f89c57eb?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Hybrid | Sep 03 |
 | **[IRONCLAD](https://thisisironclad.com)** | **[INTERNSHIP: Post Production](https://jobright.ai/jobs/info/6a8774fee8b6601d12903bba?utm_campaign=1053&utm_source=git)** | Virginia Beach, VA, United States | On Site | Sep 03 |
 | **[The Washington Post](https://www.washingtonpost.com)** | **[Newsroom Summer Internship Program 2027: Graphics Reporter](https://jobright.ai/jobs/info/6a9095350bd89e205d24b1fd?utm_campaign=1053&utm_source=git)** | Washington Township, District of Columbia, United States | On Site | Sep 03 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Disney Live Entertainment Production Assistant Intern, Spring 2027](https://jobright.ai/jobs/info/6a9b7516fe45b8490f608571?utm_campaign=1053&utm_source=git)** | Kissimmee, FL, United States | Hybrid | Sep 03 |
-| ↳ | **[Disney Live Entertainment Costume Development Intern, Spring 2027](https://jobright.ai/jobs/info/6a9b75009c24314c35f99491?utm_campaign=1053&utm_source=git)** | Lake Buena Vista, FL, United States | On Site | Sep 03 |
 | **[Indiana Fever](https://fever.wnba.com/)** | **[Digital Video Intern - Fall 2026](https://jobright.ai/jobs/info/6a99d6ce040e5c3d07599378?utm_campaign=1053&utm_source=git)** | Indianapolis, IN, United States | On Site | Sep 03 |
 | **[Pacers Sports & Entertainment](http://www.pacers.com)** | **[Digital Video Intern - Fall 2026](https://jobright.ai/jobs/info/6a99d6d61388387060590c87?utm_campaign=1053&utm_source=git)** | Indianapolis, IN, United States | On Site | Sep 03 |
 | **[National Association of Black Journalists (NABJ)](http://www.nabj.org/)** | **[Sports Intern](https://jobright.ai/jobs/info/6a9a08e0551435518ebf2bb3?utm_campaign=1053&utm_source=git)** | Needham, MA, United States | On Site | Sep 03 |
