@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Gift](https://www.shine.gift)** | **[Social Media Editor Intern](https://jobright.ai/jobs/info/6a9b4bcb90a313642c659a8d?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | Remote | Sep 04 |
+| **[HDR](http://www.hdrinc.com)** | **[Cultural Resources Intern-WG](https://jobright.ai/jobs/info/6a9b499c9c24314c35f98c11?utm_campaign=1053&utm_source=git)** | Austin, TX, United States | On Site | Sep 04 |
+| **[Texas Tech University Health Sciences Center](https://www.ttuhsc.edu)** | **[Dept Intern - Pulse Magazine](https://jobright.ai/jobs/info/6a9605253843db0159908fff?utm_campaign=1053&utm_source=git)** | Lubbock, TX, United States | On Site | Sep 04 |
 | **[Spectrum](https://www.spectrum.com)** | **[2027 Summer Intern: L&D Writer​ (Customer Operations)](https://jobright.ai/jobs/info/6a99d7348a8b765bc55f5d0e?utm_campaign=1053&utm_source=git)** | Charlotte, NC, United States | On Site | Sep 04 |
 | **[The Breadwinners Club](https://thebreadwinners.club)** | **[Content Creator Intern](https://jobright.ai/jobs/info/6a9b20b31388387060596b95?utm_campaign=1053&utm_source=git)** | Dallas, TX, United States | Hybrid | Sep 04 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Intern - KOIN / KRCW - Portland, OR (Unpaid)](https://jobright.ai/jobs/info/6a526c03d007ee02d95f77ac?utm_campaign=1053&utm_source=git)** | OR, Portland, United States of America | On Site | Sep 04 |
@@ -118,7 +121,7 @@ For a complete list, click the following sortable link below:
 | **[Temple Square Hospitality Corporation](http://templesquarehospitality.com)** | **[Church News Writer - Fall 2026 Internship](https://jobright.ai/jobs/info/6a970546e4e60e4b8da5b8a1?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT, United States | On Site | Aug 31 |
 | **[Grand Canyon Education, Inc.](https://www.gce.com)** | **[Communications & Digital Content Intern (CSLP FWS)](https://jobright.ai/jobs/info/6a97534ef5337b2cf732188e?utm_campaign=1053&utm_source=git)** | Phoenix, AZ, United States | On Site | Aug 31 |
 | **[Broward Center for the Performing Arts](https://www.browardcenter.org/)** | **[Intern- Rose & Alfred Miniaci Performing Arts Center](https://jobright.ai/jobs/info/6a95da9bc8763a3a87ffc977?utm_campaign=1053&utm_source=git)** | Fort Lauderdale, FL, United States | On Site | Aug 31 |
-| **[Texas Tech University Health Sciences Center](https://www.ttuhsc.edu)** | **[Dept Intern - Pulse Magazine](https://jobright.ai/jobs/info/6a9605253843db0159908fff?utm_campaign=1053&utm_source=git)** | Lubbock, TX, United States | On Site | Aug 31 |
+| **[Texas Tech University Health Sciences Center](https://www.ttuhsc.edu)** | **[Dept Intern - Pulse Magazine](https://jobright.ai/jobs/info/6a95fe78c8763a3a87ffdb66?utm_campaign=1053&utm_source=git)** | Lubbock, TX, United States | On Site | Aug 31 |
 | **[Breaking News ABA](https://breakingnewsaba.com/)** | **[Journalist Intern – ABA Industry News](https://jobright.ai/jobs/info/6a95f1304c22023a079370b3?utm_campaign=1053&utm_source=git)** | Lake Forest, IL, United States | On Site | Aug 31 |
 | **[Ameritas](http://www.ameritas.com)** | **[Videography Intern](https://jobright.ai/jobs/info/6a95eec1cabc9f6703e1b0fa?utm_campaign=1053&utm_source=git)** | Lincoln, NE, United States | Hybrid | Aug 31 |
 | **[The Washington Post](https://www.washingtonpost.com)** | **[Newsroom Summer Internship Program 2027: Content Strategy Editors](https://jobright.ai/jobs/info/6a9082900bd89e205d24abaa?utm_campaign=1053&utm_source=git)** | Washington Township, District of Columbia, United States | On Site | Aug 31 |
