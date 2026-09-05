@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Tumbling Dumpling Media](https://www.linkedin.com/company/109629621)** | **[Editorial Intern](https://jobright.ai/jobs/info/6a9c5a6475edfa11b470dc8d?utm_campaign=1053&utm_source=git)** | United States | Remote | Sep 05 |
 | **[adyn](https://www.adyn.com/)** | **[DIGITAL STORYTELLING INTERN](https://jobright.ai/jobs/info/6a9c47cea7ba386c5d66e28a?utm_campaign=1053&utm_source=git)** | Seattle, WA, United States | Remote | Sep 05 |
 | **[Gift](https://www.shine.gift)** | **[College Music Intern](https://jobright.ai/jobs/info/6a9c33e52c964816f65e907e?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | Remote | Sep 05 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Intern](https://jobright.ai/jobs/info/6a9674f7455eaf6a08c17881?utm_campaign=1053&utm_source=git)** | Peoria, IL, United States | On Site | Sep 05 |
@@ -99,7 +100,6 @@ For a complete list, click the following sortable link below:
 | **[Fair Observer](http://www.fairobserver.com)** | **[Video Intern](https://jobright.ai/jobs/info/6a994d4f138838706058d506?utm_campaign=1053&utm_source=git)** | Washington, District of Columbia, United States | On Site | Sep 02 |
 | **[Allied Solutions LLC](http://www.alliedsolutions.net/)** | **[Studio Production Intern](https://jobright.ai/jobs/info/6a988552c8ed473c5c76483d?utm_campaign=1053&utm_source=git)** | Carmel, IN, United States | On Site | Sep 02 |
 | **[Versaunt](https://www.versaunt.com)** | **[Content Creator Intern](https://jobright.ai/jobs/info/6a99d4ff551435518ebf1720?utm_campaign=1053&utm_source=git)** | Atlanta, GA, United States | Hybrid | Sep 02 |
-| **[Truly Curious](https://trulycurious.com)** | **[Remote Campus Ambassador & Science Communication Internship](https://jobright.ai/jobs/info/6a9926e883fc6333576334d9?utm_campaign=1053&utm_source=git)** | United States | Remote | Sep 02 |
 | **[New Holland Brewing Company](http://newhollandbrew.com)** | **[Events & Catering Intern](https://jobright.ai/jobs/info/6a98699483fc6333576315c7?utm_campaign=1053&utm_source=git)** | Grand Rapids, MI, United States | On Site | Sep 02 |
 | **[Dynamic Catholic](https://dynamiccatholic.com/)** | **[Internship - Videographer](https://jobright.ai/jobs/info/6a98663eaf954907d657320e?utm_campaign=1053&utm_source=git)** | Erlanger, KY, United States | On Site | Sep 02 |
 | ↳ | **[Internship - Writer](https://jobright.ai/jobs/info/6a986639def18223c854f341?utm_campaign=1053&utm_source=git)** | Erlanger, KY, United States | On Site | Sep 02 |
@@ -124,7 +124,7 @@ For a complete list, click the following sortable link below:
 | **[Nimiopere Film Editorial](https://nimiopere.com)** | **[Intern](https://jobright.ai/jobs/info/6a973318e4e60e4b8da5c9c8?utm_campaign=1053&utm_source=git)** | Toronto, ON, Canada | On Site | Sep 01 |
 | **[Nikon Inc.](https://www.nikonusa.com/)** | **[Video Editor & Production Intern](https://jobright.ai/jobs/info/6a9700f2e4e60e4b8da5b5e0?utm_campaign=1053&utm_source=git)** | Melville, NY, United States | On Site | Sep 01 |
 | **[SRND AI](https://srnd.ai)** | **[(Unpaid) On-Camera Social Content Creator Intern](https://jobright.ai/jobs/info/6a96fbd4b22f636c81414dfd?utm_campaign=1053&utm_source=git)** | United States | Remote | Sep 01 |
-| **[HYPEBEAST](http://hypebeast.com)** | **[Editorial Intern](https://jobright.ai/jobs/info/6a2901a32d6c332ee52e9499?utm_campaign=1053&utm_source=git)** | New York | On Site | Sep 01 |
+| **[HYPEBEAST](http://hypebeast.com)** | **[Editorial Intern](https://jobright.ai/jobs/info/6a5adf5e856af468ab00a4c6?utm_campaign=1053&utm_source=git)** | New York | On Site | Sep 01 |
 | **[FDB (First Databank, Inc.)](http://fdbhealth.com)** | **[Sports Intern](https://jobright.ai/jobs/info/6a96dda0e4e60e4b8da5a58d?utm_campaign=1053&utm_source=git)** | Needham, MA, United States | On Site | Sep 01 |
 | **[Hasana, Inc.](http://shophasana.com)** | **[Volunteer/Intern: Film/Video Editor](https://jobright.ai/jobs/info/6a51e53ebf63b66c7997e975?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Sep 01 |
 | **[AEG](http://www.aegworldwide.com)** | **[Internship- Touring](https://jobright.ai/jobs/info/6a7a225fbb6ca93ae561a169?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | On Site | Sep 01 |
