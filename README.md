@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Gift](https://www.shine.gift)** | **[College Music Intern](https://jobright.ai/jobs/info/6a9c33e52c964816f65e907e?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | Remote | Sep 05 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid News Intern](https://jobright.ai/jobs/info/6972b01a9b83b424830eb8a4?utm_campaign=1053&utm_source=git)** | IN-Indianapolis;6910 Network Place (Tribune-WXIN/WTTV) | On Site | Sep 05 |
 | ↳ | **[Unpaid Intern](https://jobright.ai/jobs/info/6a9674f7455eaf6a08c17881?utm_campaign=1053&utm_source=git)** | Peoria, IL, United States | On Site | Sep 05 |
 | **[New York Post](http://nypost.com/)** | **[Page Six Column Intern, Fall 2026 (10 weeks, 24 hours a week)](https://jobright.ai/jobs/info/6a7f4af9e51a1e18a24116b8?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Sep 05 |
