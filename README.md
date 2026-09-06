@@ -57,11 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Intern/News](https://jobright.ai/jobs/info/6a52fd288ef95364ead909bd?utm_campaign=1053&utm_source=git)** | Panama City, FL, United States | On Site | Sep 06 |
 | **[Hearst Newspapers](https://eevd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_15)** | **[News Intern](https://jobright.ai/jobs/info/69b99aab3b74eb1e2c878132?utm_campaign=1053&utm_source=git)** | 1300 East Britton Road, Oklahoma City, OK, 73131, US | On Site | Sep 06 |
 | **[The Aparecio Foundation](https://www.apareciofoundation.org)** | **[Volunteer/Intern:Editor of "FelixTV"](https://jobright.ai/jobs/info/6a5553844119652ff3864fc8?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | Remote | Sep 06 |
 | **[Hasana, Inc.](http://shophasana.com)** | **[Film & Video Internship](https://jobright.ai/jobs/info/6a595e75c8e3a473cb8a6b57?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Sep 06 |
 | **[Columbus Crew](https://www.columbuscrew.com/)** | **[Scoreboard Operations Internship](https://jobright.ai/jobs/info/6a7a53a6b17cba5690366b71?utm_campaign=1053&utm_source=git)** | Columbus, OH, United States | On Site | Sep 05 |
-| **[Tumbling Dumpling Media](https://www.linkedin.com/company/109629621)** | **[Editorial Intern](https://jobright.ai/jobs/info/6a9c5a6475edfa11b470dc8d?utm_campaign=1053&utm_source=git)** | United States | Remote | Sep 05 |
 | **[Texas Tech University Health Sciences Center](https://www.ttuhsc.edu)** | **[Dept Intern - Pulse Magazine](https://jobright.ai/jobs/info/6a9605253843db0159908fff?utm_campaign=1053&utm_source=git)** | Lubbock, TX, United States | On Site | Sep 05 |
 | **[Gift](https://www.shine.gift)** | **[College Music Intern](https://jobright.ai/jobs/info/6a9c33e52c964816f65e907e?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | Remote | Sep 05 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid News Intern](https://jobright.ai/jobs/info/6972b01a9b83b424830eb8a4?utm_campaign=1053&utm_source=git)** | IN-Indianapolis;6910 Network Place (Tribune-WXIN/WTTV) | On Site | Sep 05 |
@@ -94,7 +94,7 @@ For a complete list, click the following sortable link below:
 | **[Hasana, Inc.](http://shophasana.com)** | **[Film & Video Internship](https://jobright.ai/jobs/info/6a5997544da96a42cfd91dd0?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | On Site | Sep 03 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Paid News Producer Intern](https://jobright.ai/jobs/info/6a7dc082e2030208f2765d0c?utm_campaign=1053&utm_source=git)** | Indianapolis, IN, United States | On Site | Sep 03 |
 | **[Worcester Railers HC](https://www.railershc.com)** | **[Community & Fan Engagement Intern Fall 2026](https://jobright.ai/jobs/info/6a997bd2040e5c3d075967d2?utm_campaign=1053&utm_source=git)** | Worcester, MA, United States | On Site | Sep 03 |
-| **[Nothing Bundt Cakes](http://www.nothingbundtcakes.com)** | **[Internship with NBC as a Hourly Manager](https://jobright.ai/jobs/info/6a988fbbdd171c7285792fa9?utm_campaign=1053&utm_source=git)** | Oklahoma City, OK, United States | On Site | Sep 03 |
+| **[Nothing Bundt Cakes](http://www.nothingbundtcakes.com)** | **[Internship with NBC as a Hourly Manager](https://jobright.ai/jobs/info/6a9886c5def18223c854fe51?utm_campaign=1053&utm_source=git)** | Oklahoma City, OK, United States | On Site | Sep 03 |
 | **[Toyon Research Corporation](http://toyon.com)** | **[Video Labeling Intern](https://jobright.ai/jobs/info/6a9902cadd171c7285793716?utm_campaign=1053&utm_source=git)** | Goleta, CA, United States | On Site | Sep 03 |
 | **[Deseret News](http://www.deseretnews.com/)** | **[Church News Writer - Fall 2026 Internship](https://jobright.ai/jobs/info/6a99eb7a1388387060591646?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT, United States | On Site | Sep 02 |
 | **[Spectrum](https://www.spectrum.com)** | **[2027 Summer Intern: L&D Writer](https://jobright.ai/jobs/info/6a9a55f790a313642c655487?utm_campaign=1053&utm_source=git)** | Charlotte, NC, United States | On Site | Sep 02 |
