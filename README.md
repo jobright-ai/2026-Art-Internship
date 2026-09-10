@@ -57,11 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Zipline](https://www.zipline.com/)** | **[Video Production and Social Media Intern (Spring 2027)](https://jobright.ai/jobs/info/6a85d6d7e459fa3baa864167?utm_campaign=1053&utm_source=git)** | South San Francisco, CA, United States | On Site | Sep 10 |
 | **[Kontinentalist](https://www.kontinentalist.com/)** | **[Editorial Intern, Lapis](https://jobright.ai/jobs/info/6aa1f508ef23570cae246fe3?utm_campaign=1053&utm_source=git)** | Indiana, United States | On Site | Sep 09 |
 | **[Springer Nature](https://group.springernature.com/)** | **[News Intern, Nature News](https://jobright.ai/jobs/info/6aa1b1a62f936e4a53dad845?utm_campaign=1053&utm_source=git)** | Washington, DC, United States | Hybrid | Sep 09 |
 | **[Spectrum](https://www.spectrum.com)** | **[2027 Summer Intern: Associate L&D Writer​ (Customer Operations)](https://jobright.ai/jobs/info/6a99d7348a8b765bc55f5d0e?utm_campaign=1053&utm_source=git)** | Charlotte, NC, United States | On Site | Sep 09 |
 | **[MUBI](http://mubi.com)** | **[Film Distribution Intern](https://jobright.ai/jobs/info/6aa1832e2f936e4a53dac015?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Hybrid | Sep 09 |
-| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Internal Communications Specialist)](https://jobright.ai/jobs/info/6aa16331ef23570cae2439e4?utm_campaign=1053&utm_source=git)** | Vienna, VA, United States | Hybrid | Sep 09 |
+| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Internal Communications Specialist)](https://jobright.ai/jobs/info/6aa168cfdbc0e60e37e111eb?utm_campaign=1053&utm_source=git)** | Vienna, VA, United States | Hybrid | Sep 09 |
 | **[St. Louis Blues](http://www.stlouisblues.com)** | **[Intern, Video Production](https://jobright.ai/jobs/info/6aa201a9ef23570cae2474a8?utm_campaign=1053&utm_source=git)** | St. Louis, MO, United States | On Site | Sep 09 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Intern - Digital Media](https://jobright.ai/jobs/info/6aa1b446500b01124c77e80e?utm_campaign=1053&utm_source=git)** | Lancaster, PA, United States | On Site | Sep 09 |
 | **[United States Golf Association (USGA)](http://www.usga.org)** | **[2027 Long-Term Championship Intern](https://jobright.ai/jobs/info/6aa1ae1e500b01124c77e62d?utm_campaign=1053&utm_source=git)** | Liberty Corner, NJ, United States | On Site | Sep 09 |
@@ -81,8 +82,8 @@ For a complete list, click the following sortable link below:
 | **[Infinity Ward](http://www.infinityward.com/)** | **[Activision 2027 Summer Internships - VFX](https://jobright.ai/jobs/info/6aa1d14d3272060a8e3f254a?utm_campaign=1053&utm_source=git)** | Playa Vista, California, United States | On Site | Sep 08 |
 | **[Jacksonville Icemen](https://jacksonvilleicemen.com)** | **[Jacksonville Icemen Videography Internship 2026-2027 Season](https://jobright.ai/jobs/info/6aa09c513b5aa83237b0a2f4?utm_campaign=1053&utm_source=git)** | Jacksonville, FL, United States | On Site | Sep 08 |
 | **[Roc Nation](http://rocnation.com)** | **[Fall 2026 Intern - Artist Management (Paid)](https://jobright.ai/jobs/info/6aa08f5ca2266b538d231191?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | On Site | Sep 08 |
-| ↳ | **[Fall 2026 Intern - Music Publishing (Paid)](https://jobright.ai/jobs/info/6aa08f68a2266b538d23119e?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | On Site | Sep 08 |
 | ↳ | **[Fall 2026 Intern - Content & Podcasts (Paid)](https://jobright.ai/jobs/info/6aa08f69a2266b538d2311a1?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Sep 08 |
+| ↳ | **[Fall 2026 Intern - Music Publishing (Paid)](https://jobright.ai/jobs/info/6aa08f68a2266b538d23119e?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | On Site | Sep 08 |
 | **[SXSW](https://www.sxsw.com/pitch)** | **[(I) Exhibitions Support Intern](https://jobright.ai/jobs/info/6a8e005e47679c68bf5e6187?utm_campaign=1053&utm_source=git)** | Austin, TX, United States | On Site | Sep 08 |
 | **[NoGood](https://nogood.io)** | **[Social Content - Intern](https://jobright.ai/jobs/info/6a605172193c4d692385dc82?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Hybrid | Sep 08 |
 | **[Syracuse Crunch](https://syracusecrunch.com/)** | **[BROADCAST AND COMMUNICATIONS INTERNSHIP](https://jobright.ai/jobs/info/6aa06a723b5aa83237b08efa?utm_campaign=1053&utm_source=git)** | Allen, TX, United States | On Site | Sep 08 |
