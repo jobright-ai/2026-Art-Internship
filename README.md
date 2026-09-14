@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cornell Fitness Centers](https://scl.cornell.edu/recreation/cornell-fitness-centers)** | **[Spring 2027 - Photography & Video Academic Credit Internship](https://jobright.ai/jobs/info/6aa735ec82e82a31997c1a51?utm_campaign=1053&utm_source=git)** | Mercer County, NJ, United States | On Site | Sep 13 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Intern](https://jobright.ai/jobs/info/6a9674f7455eaf6a08c17881?utm_campaign=1053&utm_source=git)** | Peoria, IL, United States | On Site | Sep 13 |
 | **[Elite Podcast Studio](ElitePodcastStudio.com)** | **[Internship Tampa Content Creator](https://jobright.ai/jobs/info/6a9754aee4e60e4b8da5da5a?utm_campaign=1053&utm_source=git)** | Odessa, FL, United States | On Site | Sep 12 |
 | **[Toys4Two](https://www.linkedin.com/company/111814056)** | **[Film Intern](https://jobright.ai/jobs/info/6aa5878e930bff471a29f050?utm_campaign=1053&utm_source=git)** | Edmonton, AB, Canada | On Site | Sep 12 |
@@ -72,7 +73,7 @@ For a complete list, click the following sortable link below:
 | **[San Francisco Chronicle](http://www.sfgate.com)** | **[Data Reporting Intern, Summer 2027](https://jobright.ai/jobs/info/6aa398e84233a2201a2b2511?utm_campaign=1053&utm_source=git)** | San Francisco, CA, United States | On Site | Sep 10 |
 | **[Watts Water Technologies](https://wattswater.eu/)** | **[Video Production Intern, Summer 2027](https://jobright.ai/jobs/info/6aa4926af7baf881567cf360?utm_campaign=1053&utm_source=git)** | North Andover, MA, United States | Hybrid | Sep 10 |
 | **[Athletic Pride Gear](http://www.athleticprideshop.com)** | **[Women’s Sports Podcast Co-Host & Video Editor Intern](https://jobright.ai/jobs/info/6aa40d38c1928370a285c3a2?utm_campaign=1053&utm_source=git)** | United States | Remote | Sep 10 |
-| **[Hearst Newspapers](https://eevd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_15)** | **[Data Reporting Intern, Summer 2027](https://jobright.ai/jobs/info/6aa3e4261d92e2d05d1120fe?utm_campaign=1053&utm_source=git)** | San Francisco, CA, United States | Hybrid | Sep 10 |
+| **[Hearst Newspapers](https://eevd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_15)** | **[Data Reporting Intern, Summer 2027](https://jobright.ai/jobs/info/6aa37982e38fb65a7df534c9?utm_campaign=1053&utm_source=git)** | San Francisco, CA, United States | Hybrid | Sep 10 |
 | **[FDB (First Databank, Inc.)](http://fdbhealth.com)** | **[Data Reporting Intern, Summer 2027](https://jobright.ai/jobs/info/6aa38f90626f9945308b1887?utm_campaign=1053&utm_source=git)** | San Francisco, CA, United States | Hybrid | Sep 10 |
 | **[Himalaya Wellness USA](https://himalayausa.com/)** | **[Fall Intern](https://jobright.ai/jobs/info/6aa39317c5a856ac7e33a301?utm_campaign=1053&utm_source=git)** | Sugar Land, TX, United States | Remote | Sep 10 |
 | **[WFYI Public Media](https://www.wfyi.org/)** | **[Digital Content, Video Intern Spring 2027](https://jobright.ai/jobs/info/6aa3ba51626f9945308b2b3d?utm_campaign=1053&utm_source=git)** | Indianapolis, IN, United States | On Site | Sep 10 |
