@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Compass Group Canada](http://www.compass-canada.com)** | **[Hospitality & Event Planning Intern, FLIK Hospitality Group / Washington, D.C.](https://jobright.ai/jobs/info/6aa77ff382e82a31997c1f90?utm_campaign=1053&utm_source=git)** | Washington, DC, United States | On Site | Sep 13 |
 | **[Cornell Fitness Centers](https://scl.cornell.edu/recreation/cornell-fitness-centers)** | **[Spring 2027 - Photography & Video Academic Credit Internship](https://jobright.ai/jobs/info/6aa735ec82e82a31997c1a51?utm_campaign=1053&utm_source=git)** | Mercer County, NJ, United States | On Site | Sep 13 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Intern](https://jobright.ai/jobs/info/6a9674f7455eaf6a08c17881?utm_campaign=1053&utm_source=git)** | Peoria, IL, United States | On Site | Sep 13 |
 | **[Elite Podcast Studio](ElitePodcastStudio.com)** | **[Internship Tampa Content Creator](https://jobright.ai/jobs/info/6a9754aee4e60e4b8da5da5a?utm_campaign=1053&utm_source=git)** | Odessa, FL, United States | On Site | Sep 12 |
@@ -109,7 +110,7 @@ For a complete list, click the following sortable link below:
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Lucasfilm Games Production Intern, Spring 2027](https://jobright.ai/jobs/info/6aa0aabd3b5aa83237b0a8dd?utm_campaign=1053&utm_source=git)** | San Francisco, CA, United States | On Site | Sep 08 |
 | **[High Moon Studios](http://www.highmoonstudios.com/)** | **[Activision 2027 Summer Internships - VFX](https://jobright.ai/jobs/info/6aa5df8b654b2a9424cf58be?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | On Site | Sep 08 |
 | **[Disney Experiences](https://disneyconnect.com)** | **[Lucasfilm Games Production Intern, Spring 2027](https://jobright.ai/jobs/info/6aa0ea64500b01124c77b43d?utm_campaign=1053&utm_source=git)** | San Francisco, CA, United States | On Site | Sep 08 |
-| **[Warner Bros. Discovery](https://wbd.com)** | **[Conectando Campeones 2026 U.S. Soccer Fellowship (Temporary)](https://jobright.ai/jobs/info/6aa1e05c500b01124c77f7c2?utm_campaign=1053&utm_source=git)** | Atlanta, GA, United States | On Site | Sep 08 |
+| **[Warner Bros. Discovery](https://wbd.com)** | **[Conectando Campeones 2026 U.S. Soccer Fellowship (Temporary)](https://jobright.ai/jobs/info/6aa1e05cef23570cae246ac7?utm_campaign=1053&utm_source=git)** | Atlanta, GA, United States | On Site | Sep 08 |
 | **[Rockford Rivets](https://northwoodsleague.com/rockford-rivets/)** | **[Webcast Content Production Assistant Intern](https://jobright.ai/jobs/info/6aa5afca654b2a9424cf513e?utm_campaign=1053&utm_source=git)** | Loves Park, IL, United States | On Site | Sep 08 |
 | **[Activision](https://www.activision.com/)** | **[Activision 2027 Summer Internships - VFX](https://jobright.ai/jobs/info/6aa1f9badbc0e60e37e148ba?utm_campaign=1053&utm_source=git)** | Playa Vista, CA, United States | On Site | Sep 08 |
 | **[The Aparecio Foundation](https://www.apareciofoundation.org)** | **[Volunteer/Intern:Editor of "Culture" Content in Felix](https://jobright.ai/jobs/info/6aa0a0caea127c3794698361?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | On Site | Sep 08 |
