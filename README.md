@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[URBN (Urban Outfitters, Anthropologie Group, Free People & Nuuly)](http://urbn.com)** | **[Anthropologie Studio Intern (Stills + Fashion Production)](https://jobright.ai/jobs/info/6aa932023387a3d9b67d3e29?utm_campaign=1053&utm_source=git)** | Philadelphia, PA, United States | On Site | Sep 15 |
 | **[American Angus Association](http://www.angus.org/)** | **[Events & Junior Activities Internship](https://jobright.ai/jobs/info/6aa8ee5b3387a3d9b67d3614?utm_campaign=1053&utm_source=git)** | Saint Joseph, MO, United States | On Site | Sep 15 |
 | ↳ | **[Angus Media Editorial Internship](https://jobright.ai/jobs/info/6aa8ee55eff87f571fc980e5?utm_campaign=1053&utm_source=git)** | Saint Joseph, MO, United States | On Site | Sep 15 |
 | **[Dow Jones](http://www.dowjones.com)** | **[Summer 2027 Internship Program – Video Intern](https://jobright.ai/jobs/info/6aa8b24c3387a3d9b67d2963?utm_campaign=1053&utm_source=git)** | New York City, NY, United States | Hybrid | Sep 14 |
@@ -98,7 +99,7 @@ For a complete list, click the following sortable link below:
 | **[Indiana University](https://www.iu.edu)** | **[Part-Time Student Content Intern](https://jobright.ai/jobs/info/6aa49468f3aa936e2cdb1c59?utm_campaign=1053&utm_source=git)** | Indianapolis, IN, United States | On Site | Sep 10 |
 | **[San Francisco Chronicle](http://www.sfgate.com)** | **[Data Reporting Intern, Summer 2027](https://jobright.ai/jobs/info/6aa398e84233a2201a2b2511?utm_campaign=1053&utm_source=git)** | San Francisco, CA, United States | On Site | Sep 10 |
 | **[Watts Water Technologies](https://wattswater.eu/)** | **[Video Production Intern, Summer 2027](https://jobright.ai/jobs/info/6aa4926af7baf881567cf360?utm_campaign=1053&utm_source=git)** | North Andover, MA, United States | Hybrid | Sep 10 |
-| **[Hearst Newspapers](https://eevd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_15)** | **[Data Reporting Intern, Summer 2027](https://jobright.ai/jobs/info/6aa3e4261d92e2d05d1120fe?utm_campaign=1053&utm_source=git)** | San Francisco, CA, United States | Hybrid | Sep 10 |
+| **[Hearst Newspapers](https://eevd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_15)** | **[Data Reporting Intern, Summer 2027](https://jobright.ai/jobs/info/6aa37982e38fb65a7df534c9?utm_campaign=1053&utm_source=git)** | San Francisco, CA, United States | Hybrid | Sep 10 |
 | **[FDB (First Databank, Inc.)](http://fdbhealth.com)** | **[Data Reporting Intern, Summer 2027](https://jobright.ai/jobs/info/6aa38f90626f9945308b1887?utm_campaign=1053&utm_source=git)** | San Francisco, CA, United States | Hybrid | Sep 10 |
 | **[Himalaya Wellness USA](https://himalayausa.com/)** | **[Fall Intern](https://jobright.ai/jobs/info/6aa39317c5a856ac7e33a301?utm_campaign=1053&utm_source=git)** | Sugar Land, TX, United States | Remote | Sep 10 |
 | **[WFYI Public Media](https://www.wfyi.org/)** | **[Digital Content, Video Intern Spring 2027](https://jobright.ai/jobs/info/6aa3ba51626f9945308b2b3d?utm_campaign=1053&utm_source=git)** | Indianapolis, IN, United States | On Site | Sep 10 |
@@ -136,8 +137,8 @@ For a complete list, click the following sortable link below:
 | **[Infinity Ward](http://www.infinityward.com/)** | **[Activision 2027 Summer Internships - VFX](https://jobright.ai/jobs/info/6aa1d14d3272060a8e3f254a?utm_campaign=1053&utm_source=git)** | Playa Vista, California, United States | On Site | Sep 08 |
 | **[Jacksonville Icemen](https://jacksonvilleicemen.com)** | **[Jacksonville Icemen Videography Internship 2026-2027 Season](https://jobright.ai/jobs/info/6aa09c513b5aa83237b0a2f4?utm_campaign=1053&utm_source=git)** | Jacksonville, FL, United States | On Site | Sep 08 |
 | **[Roc Nation](http://rocnation.com)** | **[Fall 2026 Intern - Artist Management (Paid)](https://jobright.ai/jobs/info/6aa08f5ca2266b538d231191?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | On Site | Sep 08 |
-| ↳ | **[Fall 2026 Intern - Music Publishing (Paid)](https://jobright.ai/jobs/info/6aa08f68a2266b538d23119e?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | On Site | Sep 08 |
 | ↳ | **[Fall 2026 Intern - Content & Podcasts (Paid)](https://jobright.ai/jobs/info/6aa08f69a2266b538d2311a1?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Sep 08 |
+| ↳ | **[Fall 2026 Intern - Music Publishing (Paid)](https://jobright.ai/jobs/info/6aa08f68a2266b538d23119e?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | On Site | Sep 08 |
 | **[NoGood](https://nogood.io)** | **[Social Content - Intern](https://jobright.ai/jobs/info/6a605172193c4d692385dc82?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Hybrid | Sep 08 |
 | **[Syracuse Crunch](https://syracusecrunch.com/)** | **[BROADCAST AND COMMUNICATIONS INTERNSHIP](https://jobright.ai/jobs/info/6aa06a723b5aa83237b08efa?utm_campaign=1053&utm_source=git)** | Allen, TX, United States | On Site | Sep 08 |
 | **[HNTB](http://www.hntb.com/)** | **[Digital Experience Intern - Summer 2027](https://jobright.ai/jobs/info/6aa049103b5aa83237b08267?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | On Site | Sep 08 |
