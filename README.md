@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Activision](https://www.activision.com/)** | **[Activision 2027 Summer Internships - Animation](https://jobright.ai/jobs/info/6aaa394d044b422309094ec3?utm_campaign=1053&utm_source=git)** | Woodland Hills, CA, United States | On Site | Sep 15 |
 | **[Martin Marietta](http://martinmarietta.com)** | **[Production Intern](https://jobright.ai/jobs/info/6aaa16da28e24cb38513e32d?utm_campaign=1053&utm_source=git)** | Idaho Springs, CO, United States | On Site | Sep 15 |
 | ↳ | **[Production Intern](https://jobright.ai/jobs/info/6aaa1654a2db131437b6087e?utm_campaign=1053&utm_source=git)** | Granite Canyon, WY, United States | On Site | Sep 15 |
 | ↳ | **[Production Intern](https://jobright.ai/jobs/info/6aaa16293387a3d9b67d8f85?utm_campaign=1053&utm_source=git)** | Colorado Springs, CO, United States | On Site | Sep 15 |
@@ -73,8 +74,8 @@ For a complete list, click the following sortable link below:
 | **[INIT Innovations in Transportation, Inc.](http://initusa.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/6aaa01eda2db131437b602a7?utm_campaign=1053&utm_source=git)** | Chesapeake, VA, United States | On Site | Sep 15 |
 | **[U.S. News & World Report](https://usnews.com)** | **[Part time Fall, Consumer Advice, Insurance Intern](https://jobright.ai/jobs/info/6a8cfe5d581f2d7bfdfe674d?utm_campaign=1053&utm_source=git)** | Washington, District of Columbia, United States | Hybrid | Sep 15 |
 | **[Center for Strategic and International Studies (CSIS)](https://www.csis.org)** | **[Research Intern - Freeman Chair in China Studies (Fall 2026)](https://jobright.ai/jobs/info/6aa9643e09ae03adcacdd25b?utm_campaign=1053&utm_source=git)** | Washington, D.C., United States | On Site | Sep 15 |
-| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid News Intern](https://jobright.ai/jobs/info/6972b01a9b83b424830eb8a4?utm_campaign=1053&utm_source=git)** | IN-Indianapolis;6910 Network Place (Tribune-WXIN/WTTV) | On Site | Sep 15 |
-| ↳ | **[Unpaid Intern](https://jobright.ai/jobs/info/6a9674f7455eaf6a08c17881?utm_campaign=1053&utm_source=git)** | Peoria, IL, United States | On Site | Sep 15 |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Intern](https://jobright.ai/jobs/info/6a9674f7455eaf6a08c17881?utm_campaign=1053&utm_source=git)** | Peoria, IL, United States | On Site | Sep 15 |
+| ↳ | **[Unpaid News Intern](https://jobright.ai/jobs/info/6972b01a9b83b424830eb8a4?utm_campaign=1053&utm_source=git)** | IN-Indianapolis;6910 Network Place (Tribune-WXIN/WTTV) | On Site | Sep 15 |
 | **[Hasana, Inc.](http://shophasana.com)** | **[Volunteer/Intern: Film/Video Editor](https://jobright.ai/jobs/info/6a51e53ebf63b66c7997e975?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Sep 15 |
 | **[URBN (Urban Outfitters, Anthropologie Group, Free People & Nuuly)](http://urbn.com)** | **[Anthropologie Studio Intern (Stills + Fashion Production)](https://jobright.ai/jobs/info/6aa932023387a3d9b67d3e29?utm_campaign=1053&utm_source=git)** | Philadelphia, PA, United States | On Site | Sep 15 |
 | **[Helping Hand](https://helpinghand-il.org)** | **[Digital Media & Podcast Intern](https://jobright.ai/jobs/info/6aa9403128e24cb385139632?utm_campaign=1053&utm_source=git)** | Countryside, IL, United States | On Site | Sep 15 |
@@ -122,7 +123,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Production Intern](https://jobright.ai/jobs/info/6aaa164c28e24cb38513e325?utm_campaign=1053&utm_source=git)** | Colorado Springs, CO, United States | On Site | Sep 10 |
 | **[San Francisco Chronicle](http://www.sfgate.com)** | **[Data Reporting Intern, Summer 2027](https://jobright.ai/jobs/info/6aa398e84233a2201a2b2511?utm_campaign=1053&utm_source=git)** | San Francisco, CA, United States | On Site | Sep 10 |
 | **[Watts Water Technologies](https://wattswater.eu/)** | **[Video Production Intern, Summer 2027](https://jobright.ai/jobs/info/6aa4926af7baf881567cf360?utm_campaign=1053&utm_source=git)** | North Andover, MA, United States | Hybrid | Sep 10 |
-| **[Hearst Newspapers](https://eevd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_15)** | **[Data Reporting Intern, Summer 2027](https://jobright.ai/jobs/info/6aa37982e38fb65a7df534c9?utm_campaign=1053&utm_source=git)** | San Francisco, CA, United States | Hybrid | Sep 10 |
+| **[Hearst Newspapers](https://eevd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_15)** | **[Data Reporting Intern, Summer 2027](https://jobright.ai/jobs/info/6aa3e4261d92e2d05d1120fe?utm_campaign=1053&utm_source=git)** | San Francisco, CA, United States | Hybrid | Sep 10 |
 | **[FDB (First Databank, Inc.)](http://fdbhealth.com)** | **[Data Reporting Intern, Summer 2027](https://jobright.ai/jobs/info/6aa38f90626f9945308b1887?utm_campaign=1053&utm_source=git)** | San Francisco, CA, United States | Hybrid | Sep 10 |
 | **[Himalaya Wellness USA](https://himalayausa.com/)** | **[Fall Intern](https://jobright.ai/jobs/info/6aa39317c5a856ac7e33a301?utm_campaign=1053&utm_source=git)** | Sugar Land, TX, United States | Remote | Sep 10 |
 | **[WFYI Public Media](https://www.wfyi.org/)** | **[Digital Content, Video Intern Spring 2027](https://jobright.ai/jobs/info/6aa3ba51626f9945308b2b3d?utm_campaign=1053&utm_source=git)** | Indianapolis, IN, United States | On Site | Sep 10 |
