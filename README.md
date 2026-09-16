@@ -57,11 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[McIlhenny Company](http://www.tabasco.com/)** | **[Archives Intern](https://jobright.ai/jobs/info/6a84e701c1a3fd7120f73e3b?utm_campaign=1053&utm_source=git)** | Avery Island, LA, United States | On Site | Sep 16 |
 | **[The Aparecio Foundation](https://www.apareciofoundation.org)** | **[Volunteer/Intern:Editor of "Entertainment" Content in Felix](https://jobright.ai/jobs/info/6aaa65b0f116e49925534f46?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | On Site | Sep 16 |
-| **[Martin Marietta](http://martinmarietta.com)** | **[Production Intern](https://jobright.ai/jobs/info/6aaa164e10b1cd4f41609ca5?utm_campaign=1053&utm_source=git)** | Granite Canyon, WY, United States | On Site | Sep 16 |
+| **[Martin Marietta](http://martinmarietta.com)** | **[Production Intern](https://jobright.ai/jobs/info/6aaa16293387a3d9b67d8f85?utm_campaign=1053&utm_source=git)** | Colorado Springs, CO, United States | On Site | Sep 16 |
 | ↳ | **[Production Intern](https://jobright.ai/jobs/info/6aaa16293387a3d9b67d8f84?utm_campaign=1053&utm_source=git)** | Colorado Springs, CO, United States | On Site | Sep 16 |
-| ↳ | **[Production Intern](https://jobright.ai/jobs/info/6aaa16293387a3d9b67d8f85?utm_campaign=1053&utm_source=git)** | Colorado Springs, CO, United States | On Site | Sep 16 |
 | ↳ | **[Production Intern](https://jobright.ai/jobs/info/6aaa170928e24cb38513e342?utm_campaign=1053&utm_source=git)** | Idaho Springs, CO, United States | On Site | Sep 16 |
+| ↳ | **[Production Intern](https://jobright.ai/jobs/info/6aaa1654a2db131437b6087e?utm_campaign=1053&utm_source=git)** | Granite Canyon, WY, United States | On Site | Sep 16 |
 | **[Activision](https://www.activision.com/)** | **[Activision 2027 Summer Internships - Animation](https://jobright.ai/jobs/info/6aaa394d044b422309094ec3?utm_campaign=1053&utm_source=git)** | Woodland Hills, CA, United States | On Site | Sep 15 |
 | **[Martin Marietta](http://martinmarietta.com)** | **[Production Intern](https://jobright.ai/jobs/info/6aaa116009ae03adcace0ff8?utm_campaign=1053&utm_source=git)** | Idaho Springs, Colorado, United States | On Site | Sep 15 |
 | **[Walt Disney Imagineering](https://disneyimaginations.com)** | **[Disney Live Entertainment Costume Buying Intern, Spring 2027](https://jobright.ai/jobs/info/6aa9e7e03387a3d9b67d7d3f?utm_campaign=1053&utm_source=git)** | Orlando, FL, United States | On Site | Sep 15 |
@@ -75,8 +76,8 @@ For a complete list, click the following sortable link below:
 | **[INIT Innovations in Transportation, Inc.](http://initusa.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/6aaa01eda2db131437b602a7?utm_campaign=1053&utm_source=git)** | Chesapeake, VA, United States | On Site | Sep 15 |
 | **[U.S. News & World Report](https://usnews.com)** | **[Part time Fall, Consumer Advice, Insurance Intern](https://jobright.ai/jobs/info/6a8cfe5d581f2d7bfdfe674d?utm_campaign=1053&utm_source=git)** | Washington, District of Columbia, United States | Hybrid | Sep 15 |
 | **[Center for Strategic and International Studies (CSIS)](https://www.csis.org)** | **[Research Intern - Freeman Chair in China Studies (Fall 2026)](https://jobright.ai/jobs/info/6aa9643e09ae03adcacdd25b?utm_campaign=1053&utm_source=git)** | Washington, D.C., United States | On Site | Sep 15 |
-| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid News Intern](https://jobright.ai/jobs/info/6972b01a9b83b424830eb8a4?utm_campaign=1053&utm_source=git)** | IN-Indianapolis;6910 Network Place (Tribune-WXIN/WTTV) | On Site | Sep 15 |
-| ↳ | **[Unpaid Intern](https://jobright.ai/jobs/info/6a9674f7455eaf6a08c17881?utm_campaign=1053&utm_source=git)** | Peoria, IL, United States | On Site | Sep 15 |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Intern](https://jobright.ai/jobs/info/6a9674f7455eaf6a08c17881?utm_campaign=1053&utm_source=git)** | Peoria, IL, United States | On Site | Sep 15 |
+| ↳ | **[Unpaid News Intern](https://jobright.ai/jobs/info/6972b01a9b83b424830eb8a4?utm_campaign=1053&utm_source=git)** | IN-Indianapolis;6910 Network Place (Tribune-WXIN/WTTV) | On Site | Sep 15 |
 | **[Hasana, Inc.](http://shophasana.com)** | **[Volunteer/Intern: Film/Video Editor](https://jobright.ai/jobs/info/6a51e53ebf63b66c7997e975?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Sep 15 |
 | **[URBN (Urban Outfitters, Anthropologie Group, Free People & Nuuly)](http://urbn.com)** | **[Anthropologie Studio Intern (Stills + Fashion Production)](https://jobright.ai/jobs/info/6aa932023387a3d9b67d3e29?utm_campaign=1053&utm_source=git)** | Philadelphia, PA, United States | On Site | Sep 15 |
 | **[Helping Hand](https://helpinghand-il.org)** | **[Digital Media & Podcast Intern](https://jobright.ai/jobs/info/6aa9403128e24cb385139632?utm_campaign=1053&utm_source=git)** | Countryside, IL, United States | On Site | Sep 15 |
@@ -138,8 +139,4 @@ For a complete list, click the following sortable link below:
 | **[Kontinentalist](https://www.kontinentalist.com/)** | **[Editorial Intern, Lapis](https://jobright.ai/jobs/info/6aa1f508ef23570cae246fe3?utm_campaign=1053&utm_source=git)** | Indiana, United States | On Site | Sep 09 |
 | **[Ditch Witch](https://ditchwitchworx.com/)** | **[Video and Interactive Training Production Intern - Ditch Witch](https://jobright.ai/jobs/info/6aa3dd92422289703bd63b3e?utm_campaign=1053&utm_source=git)** | Perry, OK, United States | On Site | Sep 09 |
 | **[Springer Nature](https://group.springernature.com/)** | **[News Intern, Nature News](https://jobright.ai/jobs/info/6aa1b1a62f936e4a53dad845?utm_campaign=1053&utm_source=git)** | Washington, DC, United States | Hybrid | Sep 09 |
-| **[Spectrum](https://www.spectrum.com)** | **[2027 Summer Intern: Associate L&D Writer​ (Customer Operations)](https://jobright.ai/jobs/info/6a99d7348a8b765bc55f5d0e?utm_campaign=1053&utm_source=git)** | Charlotte, NC, United States | On Site | Sep 09 |
-| **[MUBI](http://mubi.com)** | **[Film Distribution Intern](https://jobright.ai/jobs/info/6aa1832e2f936e4a53dac015?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Hybrid | Sep 09 |
-| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Internal Communications Specialist)](https://jobright.ai/jobs/info/6aa16331ef23570cae2439e4?utm_campaign=1053&utm_source=git)** | Vienna, VA, United States | Hybrid | Sep 09 |
-| **[St. Louis Blues](http://www.stlouisblues.com)** | **[Intern, Video Production](https://jobright.ai/jobs/info/6aa201a9ef23570cae2474a8?utm_campaign=1053&utm_source=git)** | St. Louis, MO, United States | On Site | Sep 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
