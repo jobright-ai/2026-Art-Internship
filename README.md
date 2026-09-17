@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Aparecio Foundation](https://www.apareciofoundation.org)** | **[Copy Editor Intern/Volunteer](https://jobright.ai/jobs/info/6aac3cc995c707f49dff0568?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | On Site | Sep 17 |
 | **[Ardea Partners](http://ardeapartners.com)** | **[2026 NY Women's Insights Day](https://jobright.ai/jobs/info/6aac0d1d636cddf7396f1e36?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Sep 17 |
 | **[Children's Hospital of Philadelphia](http://chop.edu)** | **[Patient Media and Broadcasting Intern](https://jobright.ai/jobs/info/6aac010495c707f49dfeeea6?utm_campaign=1053&utm_source=git)** | Philadelphia, PA, United States | On Site | Sep 17 |
 | **[Hasana, Inc.](http://shophasana.com)** | **[Film & Video Internship](https://jobright.ai/jobs/info/6a5997544da96a42cfd91dd0?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | On Site | Sep 17 |
@@ -85,9 +86,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Media Production Intern (In- Person) Fall 2026.](https://jobright.ai/jobs/info/6a398ce3f6b55d12c7928b8e?utm_campaign=1053&utm_source=git)** | AL, Mobile, United States of America | On Site | Sep 16 |
 | **[McIlhenny Company](http://www.tabasco.com/)** | **[Archives Intern](https://jobright.ai/jobs/info/6a84e701c1a3fd7120f73e3b?utm_campaign=1053&utm_source=git)** | Avery Island, LA, United States | On Site | Sep 16 |
 | **[The Aparecio Foundation](https://www.apareciofoundation.org)** | **[Volunteer/Intern:Editor of "Entertainment" Content in Felix](https://jobright.ai/jobs/info/6aaa65b0f116e49925534f46?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | On Site | Sep 16 |
-| **[Martin Marietta](http://martinmarietta.com)** | **[Production Intern](https://jobright.ai/jobs/info/6aaa16293387a3d9b67d8f85?utm_campaign=1053&utm_source=git)** | Colorado Springs, CO, United States | On Site | Sep 16 |
-| ↳ | **[Production Intern](https://jobright.ai/jobs/info/6aaa164e10b1cd4f41609ca5?utm_campaign=1053&utm_source=git)** | Granite Canyon, WY, United States | On Site | Sep 16 |
-| ↳ | **[Production Intern](https://jobright.ai/jobs/info/6aaa170928e24cb38513e342?utm_campaign=1053&utm_source=git)** | Idaho Springs, CO, United States | On Site | Sep 16 |
+| **[Martin Marietta](http://martinmarietta.com)** | **[Production Intern](https://jobright.ai/jobs/info/6aaa16333387a3d9b67d8f8b?utm_campaign=1053&utm_source=git)** | Idaho Springs, CO, United States | On Site | Sep 16 |
+| ↳ | **[Production Intern](https://jobright.ai/jobs/info/6aaa1654a2db131437b6087e?utm_campaign=1053&utm_source=git)** | Granite Canyon, WY, United States | On Site | Sep 16 |
+| ↳ | **[Production Intern](https://jobright.ai/jobs/info/6aaa164c28e24cb38513e325?utm_campaign=1053&utm_source=git)** | Colorado Springs, CO, United States | On Site | Sep 16 |
 | ↳ | **[Production Intern](https://jobright.ai/jobs/info/6aaa16293387a3d9b67d8f84?utm_campaign=1053&utm_source=git)** | Colorado Springs, CO, United States | On Site | Sep 16 |
 | **[Activision](https://www.activision.com/)** | **[Activision 2027 Summer Internships - Animation](https://jobright.ai/jobs/info/6aaa394d044b422309094ec3?utm_campaign=1053&utm_source=git)** | Woodland Hills, CA, United States | On Site | Sep 15 |
 | **[Martin Marietta](http://martinmarietta.com)** | **[Production Intern](https://jobright.ai/jobs/info/6aaa116009ae03adcace0ff8?utm_campaign=1053&utm_source=git)** | Idaho Springs, Colorado, United States | On Site | Sep 15 |
@@ -124,7 +125,6 @@ For a complete list, click the following sortable link below:
 | **[Kalamazoo Growlers](http://northwoodsleague.com/kalamazoo-growlers/)** | **[Broadcast Video Director Internship](https://jobright.ai/jobs/info/6aa85919a77a53f5a1578cfb?utm_campaign=1053&utm_source=git)** | Kalamazoo, MI, United States | On Site | Sep 14 |
 | **[Foodbuy USA](http://www.foodbuy.com)** | **[Hospitality & Event Planning Intern / Rapport Guest Services / New York, NY](https://jobright.ai/jobs/info/6aaae72c8e1bf0f764af72e8?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Sep 14 |
 | **[Fidelity Canada](https://www.fidelity.ca)** | **[Student, Digital Media (Winter 2027)](https://jobright.ai/jobs/info/6aa8065fa77a53f5a1576c3a?utm_campaign=1053&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Sep 14 |
-| **[Per Diem](https://perdiem.xyz)** | **[City Content Creator Intern — Orange County, CA.](https://jobright.ai/jobs/info/6aa8272282e82a31997c42e2?utm_campaign=1053&utm_source=git)** | Orange County, California, United States | On Site | Sep 14 |
 | **[Social View Agency](https://www.socialviewagency.com/)** | **[LA Content Creator/Intern (unpaid)](https://jobright.ai/jobs/info/6aa840f9654b2a9424cfb9dd?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | On Site | Sep 14 |
 | **[FDB (First Databank, Inc.)](http://fdbhealth.com)** | **[High School Sports Intern - Fall 2026](https://jobright.ai/jobs/info/6aa827ee82e82a31997c4320?utm_campaign=1053&utm_source=git)** | Dallas, TX, United States | Hybrid | Sep 14 |
 | **[Black Coaches Classic](http://www.roulhacenterprises.com)** | **[Volunteer Intern Videographer – Black Coaches Classic](https://jobright.ai/jobs/info/6aa80b762ed333b4ea5cceb2?utm_campaign=1053&utm_source=git)** | Boston, MA, United States | On Site | Sep 14 |
