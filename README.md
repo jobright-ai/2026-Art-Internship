@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Emo Nite - Production Intern](https://jobright.ai/jobs/info/6a9126712e254e06fb9f3a66?utm_campaign=1053&utm_source=git)** | Calabasas, CA, United States | On Site | Sep 18 |
+| **[Insomniac Events](http://insomniac.com)** | **[Emo Nite - Production Intern](https://jobright.ai/jobs/info/6a911ab67c32860d14cfc190?utm_campaign=1053&utm_source=git)** | Calabasas, CA, United States | On Site | Sep 18 |
 | **[Elite Podcast Studio](ElitePodcastStudio.com)** | **[Internship Tampa Content Creator](https://jobright.ai/jobs/info/6aad0363421662ebd00f0f88?utm_campaign=1053&utm_source=git)** | Odessa, FL, United States | On Site | Sep 18 |
 | **[Tetra Pak](http://www.tetrapak.com)** | **[Customer Experience and Events Intern](https://jobright.ai/jobs/info/6aa9ed7d09ae03adcace0448?utm_campaign=1053&utm_source=git)** | Denton, TX, United States | On Site | Sep 17 |
 | **[The Aparecio Foundation](https://www.apareciofoundation.org)** | **[Copy Editor Intern/Volunteer](https://jobright.ai/jobs/info/6aac3cc995c707f49dff0568?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | On Site | Sep 17 |
@@ -88,10 +90,10 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Media Production Intern (In- Person) Fall 2026.](https://jobright.ai/jobs/info/6a398ce3f6b55d12c7928b8e?utm_campaign=1053&utm_source=git)** | AL, Mobile, United States of America | On Site | Sep 16 |
 | **[McIlhenny Company](http://www.tabasco.com/)** | **[Archives Intern](https://jobright.ai/jobs/info/6a84e701c1a3fd7120f73e3b?utm_campaign=1053&utm_source=git)** | Avery Island, LA, United States | On Site | Sep 16 |
 | **[The Aparecio Foundation](https://www.apareciofoundation.org)** | **[Volunteer/Intern:Editor of "Entertainment" Content in Felix](https://jobright.ai/jobs/info/6aaa65b0f116e49925534f46?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | On Site | Sep 16 |
-| **[Martin Marietta](http://martinmarietta.com)** | **[Production Intern](https://jobright.ai/jobs/info/6aaa170928e24cb38513e342?utm_campaign=1053&utm_source=git)** | Idaho Springs, CO, United States | On Site | Sep 16 |
-| ↳ | **[Production Intern](https://jobright.ai/jobs/info/6aaa164c28e24cb38513e325?utm_campaign=1053&utm_source=git)** | Colorado Springs, CO, United States | On Site | Sep 16 |
+| **[Martin Marietta](http://martinmarietta.com)** | **[Production Intern](https://jobright.ai/jobs/info/6aaa16293387a3d9b67d8f84?utm_campaign=1053&utm_source=git)** | Colorado Springs, CO, United States | On Site | Sep 16 |
+| ↳ | **[Production Intern](https://jobright.ai/jobs/info/6aaa16da28e24cb38513e32d?utm_campaign=1053&utm_source=git)** | Idaho Springs, CO, United States | On Site | Sep 16 |
+| ↳ | **[Production Intern](https://jobright.ai/jobs/info/6aaa16293387a3d9b67d8f85?utm_campaign=1053&utm_source=git)** | Colorado Springs, CO, United States | On Site | Sep 16 |
 | ↳ | **[Production Intern](https://jobright.ai/jobs/info/6aaa164e10b1cd4f41609ca5?utm_campaign=1053&utm_source=git)** | Granite Canyon, WY, United States | On Site | Sep 16 |
-| ↳ | **[Production Intern](https://jobright.ai/jobs/info/6aaa16293387a3d9b67d8f84?utm_campaign=1053&utm_source=git)** | Colorado Springs, CO, United States | On Site | Sep 16 |
 | **[Activision](https://www.activision.com/)** | **[Activision 2027 Summer Internships - Animation](https://jobright.ai/jobs/info/6aaa394d044b422309094ec3?utm_campaign=1053&utm_source=git)** | Woodland Hills, CA, United States | On Site | Sep 15 |
 | **[Martin Marietta](http://martinmarietta.com)** | **[Production Intern](https://jobright.ai/jobs/info/6aaa116009ae03adcace0ff8?utm_campaign=1053&utm_source=git)** | Idaho Springs, Colorado, United States | On Site | Sep 15 |
 | **[Walt Disney Imagineering](https://disneyimaginations.com)** | **[Disney Live Entertainment Costume Buying Intern, Spring 2027](https://jobright.ai/jobs/info/6aa9e7e03387a3d9b67d7d3f?utm_campaign=1053&utm_source=git)** | Orlando, FL, United States | On Site | Sep 15 |
@@ -141,5 +143,4 @@ For a complete list, click the following sortable link below:
 | **[Hearst Television](http://www.hearsttelevision.com)** | **[News Intern](https://jobright.ai/jobs/info/6a855f98e459fa3baa862383?utm_campaign=1053&utm_source=git)** | Needham, MA, United States | On Site | Sep 12 |
 | **[The Toro Company](https://www.thetorocompany.com)** | **[Video and Interactive Training Production Intern - Ditch Witch](https://jobright.ai/jobs/info/6aa3aa4c959a10d7230d3185?utm_campaign=1053&utm_source=git)** | Perry, OK, United States | On Site | Sep 11 |
 | **[Advisors Excel](http://advisorsexcel.com)** | **[Video Intern](https://jobright.ai/jobs/info/6aa4d423a77a53f5a156e3ea?utm_campaign=1053&utm_source=git)** | Topeka, KS, United States | On Site | Sep 11 |
-| **[TMZ](http://www.tmz.com/)** | **[TMZ Podcast Intern - Fall 2026](https://jobright.ai/jobs/info/6aa51b692ed333b4ea5c588f?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | On Site | Sep 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
