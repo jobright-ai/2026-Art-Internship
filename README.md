@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BRIDGE SHOWROOM](http://www.bridgeshowroom.com)** | **[Fashion Intern for Atlanta Apparel](https://jobright.ai/jobs/info/6aad61c00ebc8fb2313e9158?utm_campaign=1053&utm_source=git)** | Atlanta, GA, United States | On Site | Sep 18 |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid News Intern](https://jobright.ai/jobs/info/6972b01a9b83b424830eb8a4?utm_campaign=1053&utm_source=git)** | IN-Indianapolis;6910 Network Place (Tribune-WXIN/WTTV) | On Site | Sep 18 |
+| ↳ | **[Unpaid Intern](https://jobright.ai/jobs/info/6a9674f7455eaf6a08c17881?utm_campaign=1053&utm_source=git)** | Peoria, IL, United States | On Site | Sep 18 |
 | **[HarperCollins Christian Publishing](https://www.harpercollinschristian.com/)** | **[2027 Summer Internship- Arts Rights, Creative Operations (NYC)](https://jobright.ai/jobs/info/6aad40f93dbb1f8967cec789?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Sep 18 |
 | ↳ | **[2027 Spring Internship - Editorial, Mariner Group (NYC)](https://jobright.ai/jobs/info/6aad40e83dbb1f8967cec780?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Sep 18 |
 | **[Audacy, Inc.](https://audacyinc.com/)** | **[NYSBA Internship (Fall Semester)](https://jobright.ai/jobs/info/6a88a526cde3717f9e9b6492?utm_campaign=1053&utm_source=git)** | Rochester, NY, United States | On Site | Sep 18 |
@@ -71,8 +74,6 @@ For a complete list, click the following sortable link below:
 | **[Hasana, Inc.](http://shophasana.com)** | **[Film & Video Internship](https://jobright.ai/jobs/info/6a5997544da96a42cfd91dd0?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | On Site | Sep 17 |
 | **[St. Francis Xavier University](http://www.stfx.ca/)** | **[Undergraduate Internship: The Antigonish Review Journal](https://jobright.ai/jobs/info/6aabf67e3e3ce93970c7ae67?utm_campaign=1053&utm_source=git)** | Antigonish, NS, Canada | Hybrid | Sep 17 |
 | **[Gift](https://www.shine.gift)** | **[Anime / Manga Intern](https://jobright.ai/jobs/info/6aabecf7636cddf7396f144a?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | Remote | Sep 17 |
-| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid News Intern](https://jobright.ai/jobs/info/6972b01a9b83b424830eb8a4?utm_campaign=1053&utm_source=git)** | IN-Indianapolis;6910 Network Place (Tribune-WXIN/WTTV) | On Site | Sep 17 |
-| ↳ | **[Unpaid Intern](https://jobright.ai/jobs/info/6a9674f7455eaf6a08c17881?utm_campaign=1053&utm_source=git)** | Peoria, IL, United States | On Site | Sep 17 |
 | **[IMPULSE UNIVERSE](https://www.linkedin.com/company/97222911)** | **[ANIME Impulse Programming & Activities Intern](https://jobright.ai/jobs/info/6aabce3795c707f49dfee321?utm_campaign=1053&utm_source=git)** | Rosemead, CA, United States | On Site | Sep 17 |
 | **[PBS39](https://www.wlvt.org/)** | **[Production Intern](https://jobright.ai/jobs/info/6aaaef858e1bf0f764af765e?utm_campaign=1053&utm_source=git)** | Bethlehem, PA, United States | On Site | Sep 17 |
 | **[The Tech Interactive](https://www.thetech.org)** | **[Storytelling and Community Research Intern (Fall Semester, Part Time)](https://jobright.ai/jobs/info/6aab227b76707040fb084628?utm_campaign=1053&utm_source=git)** | San Jose, CA, United States | On Site | Sep 17 |
@@ -94,9 +95,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Media Production Intern (In- Person) Fall 2026.](https://jobright.ai/jobs/info/6a398ce3f6b55d12c7928b8e?utm_campaign=1053&utm_source=git)** | AL, Mobile, United States of America | On Site | Sep 16 |
 | **[McIlhenny Company](http://www.tabasco.com/)** | **[Archives Intern](https://jobright.ai/jobs/info/6a84e701c1a3fd7120f73e3b?utm_campaign=1053&utm_source=git)** | Avery Island, LA, United States | On Site | Sep 16 |
 | **[The Aparecio Foundation](https://www.apareciofoundation.org)** | **[Volunteer/Intern:Editor of "Entertainment" Content in Felix](https://jobright.ai/jobs/info/6aaa65b0f116e49925534f46?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | On Site | Sep 16 |
-| **[Martin Marietta](http://martinmarietta.com)** | **[Production Intern](https://jobright.ai/jobs/info/6aaa164e10b1cd4f41609ca5?utm_campaign=1053&utm_source=git)** | Granite Canyon, WY, United States | On Site | Sep 16 |
+| **[Martin Marietta](http://martinmarietta.com)** | **[Production Intern](https://jobright.ai/jobs/info/6aaa1622120c360b6bd4a951?utm_campaign=1053&utm_source=git)** | Granite Canyon, WY, United States | On Site | Sep 16 |
+| ↳ | **[Production Intern](https://jobright.ai/jobs/info/6aaa16da28e24cb38513e32d?utm_campaign=1053&utm_source=git)** | Idaho Springs, CO, United States | On Site | Sep 16 |
 | ↳ | **[Production Intern](https://jobright.ai/jobs/info/6aaa16293387a3d9b67d8f85?utm_campaign=1053&utm_source=git)** | Colorado Springs, CO, United States | On Site | Sep 16 |
-| ↳ | **[Production Intern](https://jobright.ai/jobs/info/6aaa16333387a3d9b67d8f8b?utm_campaign=1053&utm_source=git)** | Idaho Springs, CO, United States | On Site | Sep 16 |
 | ↳ | **[Production Intern](https://jobright.ai/jobs/info/6aaa16293387a3d9b67d8f84?utm_campaign=1053&utm_source=git)** | Colorado Springs, CO, United States | On Site | Sep 16 |
 | **[Activision](https://www.activision.com/)** | **[Activision 2027 Summer Internships - Animation](https://jobright.ai/jobs/info/6aaa394d044b422309094ec3?utm_campaign=1053&utm_source=git)** | Woodland Hills, CA, United States | On Site | Sep 15 |
 | **[Martin Marietta](http://martinmarietta.com)** | **[Production Intern](https://jobright.ai/jobs/info/6aaa116009ae03adcace0ff8?utm_campaign=1053&utm_source=git)** | Idaho Springs, Colorado, United States | On Site | Sep 15 |
@@ -127,7 +128,6 @@ For a complete list, click the following sortable link below:
 | **[St Culture Advocacy](http://www.stculture.org)** | **[Video Editing Intern](https://jobright.ai/jobs/info/6aa86f83930bff471a2a74a0?utm_campaign=1053&utm_source=git)** | Rancho Palos Verdes, CA, United States | On Site | Sep 14 |
 | **[Pittsburgh Penguins](https://www.nhl.com/penguins/)** | **[Video Production Internship (Spring 2027)](https://jobright.ai/jobs/info/6aa86168654b2a9424cfc827?utm_campaign=1053&utm_source=git)** | Pittsburgh, PA, United States | On Site | Sep 14 |
 | **[Pencor Services, Inc.](http://pencor.com)** | **[Fall Technical News Internship](https://jobright.ai/jobs/info/6aa860a6930bff471a2a6fbf?utm_campaign=1053&utm_source=git)** | Lehighton, PA, United States | On Site | Sep 14 |
-| **[Charlotte Checkers](http://gocheckers.com)** | **[Charlotte Checkers Videography Internship 2026-2027 Season](https://jobright.ai/jobs/info/6aa85e6582e82a31997c5818?utm_campaign=1053&utm_source=git)** | Charlotte, NC, United States | On Site | Sep 14 |
 | **[The University of Southern Mississippi](http://www.usm.edu/)** | **[Multimedia Journalism Internship, Roy Howard Community Journalism Center](https://jobright.ai/jobs/info/6aa85a1c82e82a31997c554e?utm_campaign=1053&utm_source=git)** | Hattiesburg, MS, United States | On Site | Sep 14 |
 | **[Kalamazoo Growlers](http://northwoodsleague.com/kalamazoo-growlers/)** | **[Broadcast Video Director Internship](https://jobright.ai/jobs/info/6aa85919a77a53f5a1578cfb?utm_campaign=1053&utm_source=git)** | Kalamazoo, MI, United States | On Site | Sep 14 |
 | **[Fidelity Canada](https://www.fidelity.ca)** | **[Student, Digital Media (Winter 2027)](https://jobright.ai/jobs/info/6aa8065fa77a53f5a1576c3a?utm_campaign=1053&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Sep 14 |
