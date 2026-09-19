@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Gift](https://www.shine.gift)** | **[College Music Intern](https://jobright.ai/jobs/info/6aaead352e757fcb5c8bbcd6?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | Remote | Sep 19 |
 | **[Southwire Company](http://southwire.com)** | **[Events and Experience Intern](https://jobright.ai/jobs/info/6a91f5c2a27a2d3c9848ad2a?utm_campaign=1053&utm_source=git)** | Carrollton, GA, United States | On Site | Sep 19 |
 | **[Society19](https://www.society19.com/)** | **[U.S. Lifestyle Magazine Writing Intern](https://jobright.ai/jobs/info/6a56bb0defb06a45240d7e71?utm_campaign=1053&utm_source=git)** | United States | Remote | Sep 18 |
 | **[HDR](http://www.hdrinc.com)** | **[Cultural Resources Intern-WG](https://jobright.ai/jobs/info/6aade4a43d96632d741b0111?utm_campaign=1053&utm_source=git)** | Austin, TX, United States | On Site | Sep 18 |
@@ -113,9 +114,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Media Production Intern (In- Person) Fall 2026.](https://jobright.ai/jobs/info/6a398ce3f6b55d12c7928b8e?utm_campaign=1053&utm_source=git)** | AL, Mobile, United States of America | On Site | Sep 16 |
 | **[McIlhenny Company](http://www.tabasco.com/)** | **[Archives Intern](https://jobright.ai/jobs/info/6a84e701c1a3fd7120f73e3b?utm_campaign=1053&utm_source=git)** | Avery Island, LA, United States | On Site | Sep 16 |
 | **[The Aparecio Foundation](https://www.apareciofoundation.org)** | **[Volunteer/Intern:Editor of "Entertainment" Content in Felix](https://jobright.ai/jobs/info/6aaa65b0f116e49925534f46?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | On Site | Sep 16 |
-| **[Martin Marietta](http://martinmarietta.com)** | **[Production Intern](https://jobright.ai/jobs/info/6aaa170928e24cb38513e342?utm_campaign=1053&utm_source=git)** | Idaho Springs, CO, United States | On Site | Sep 16 |
-| ↳ | **[Production Intern](https://jobright.ai/jobs/info/6aaa1654a2db131437b6087e?utm_campaign=1053&utm_source=git)** | Granite Canyon, WY, United States | On Site | Sep 16 |
-| ↳ | **[Production Intern](https://jobright.ai/jobs/info/6aaa164c28e24cb38513e325?utm_campaign=1053&utm_source=git)** | Colorado Springs, CO, United States | On Site | Sep 16 |
+| **[Martin Marietta](http://martinmarietta.com)** | **[Production Intern](https://jobright.ai/jobs/info/6aaa1654a2db131437b6087e?utm_campaign=1053&utm_source=git)** | Granite Canyon, WY, United States | On Site | Sep 16 |
+| ↳ | **[Production Intern](https://jobright.ai/jobs/info/6aaa16293387a3d9b67d8f85?utm_campaign=1053&utm_source=git)** | Colorado Springs, CO, United States | On Site | Sep 16 |
+| ↳ | **[Production Intern](https://jobright.ai/jobs/info/6aaa16da28e24cb38513e32d?utm_campaign=1053&utm_source=git)** | Idaho Springs, CO, United States | On Site | Sep 16 |
 | ↳ | **[Production Intern](https://jobright.ai/jobs/info/6aaa16293387a3d9b67d8f84?utm_campaign=1053&utm_source=git)** | Colorado Springs, CO, United States | On Site | Sep 16 |
 | **[Activision](https://www.activision.com/)** | **[Activision 2027 Summer Internships - Animation](https://jobright.ai/jobs/info/6aaa394d044b422309094ec3?utm_campaign=1053&utm_source=git)** | Woodland Hills, CA, United States | On Site | Sep 15 |
 | **[Martin Marietta](http://martinmarietta.com)** | **[Production Intern](https://jobright.ai/jobs/info/6aaa116009ae03adcace0ff8?utm_campaign=1053&utm_source=git)** | Idaho Springs, Colorado, United States | On Site | Sep 15 |
@@ -154,5 +155,4 @@ For a complete list, click the following sortable link below:
 | **[Flik Hospitality Group](https://www.flik-usa.com/)** | **[Hospitality & Event Planning Intern, FLIK Hospitality Group / Washington, D.C.](https://jobright.ai/jobs/info/6aa9928128e24cb38513af63?utm_campaign=1053&utm_source=git)** | Washington, DC, United States | On Site | Sep 13 |
 | **[Compass Group Canada](http://www.compass-canada.com)** | **[Hospitality & Event Planning Intern, FLIK Hospitality Group / Washington, D.C.](https://jobright.ai/jobs/info/6aa77ff382e82a31997c1f90?utm_campaign=1053&utm_source=git)** | Washington, DC, United States | On Site | Sep 13 |
 | **[Red Bull New York](http://www.newyorkredbulls.com)** | **[2026 Internship, Summer - Creative Video](https://jobright.ai/jobs/info/69c4bc206f4f855eeda763a8?utm_campaign=1053&utm_source=git)** | Harrison, NJ, United States | On Site | Sep 13 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Disney Live Entertainment Costume Development Intern, Spring 2027](https://jobright.ai/jobs/info/6aa8b0f46d0edc2d91b07143?utm_campaign=1053&utm_source=git)** | Lake Buena Vista, FL, United States | On Site | Sep 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
