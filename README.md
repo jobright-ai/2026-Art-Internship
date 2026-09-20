@@ -118,7 +118,7 @@ For a complete list, click the following sortable link below:
 | **[The Aparecio Foundation](https://www.apareciofoundation.org)** | **[Volunteer/Intern:Editor of "Entertainment" Content in Felix](https://jobright.ai/jobs/info/6aaa65b0f116e49925534f46?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | On Site | Sep 16 |
 | **[Martin Marietta](http://martinmarietta.com)** | **[Production Intern](https://jobright.ai/jobs/info/6aaa16333387a3d9b67d8f8b?utm_campaign=1053&utm_source=git)** | Idaho Springs, CO, United States | On Site | Sep 16 |
 | ↳ | **[Production Intern](https://jobright.ai/jobs/info/6aaa1622120c360b6bd4a951?utm_campaign=1053&utm_source=git)** | Granite Canyon, WY, United States | On Site | Sep 16 |
-| ↳ | **[Production Intern](https://jobright.ai/jobs/info/6aaa16293387a3d9b67d8f85?utm_campaign=1053&utm_source=git)** | Colorado Springs, CO, United States | On Site | Sep 16 |
+| ↳ | **[Production Intern](https://jobright.ai/jobs/info/6aaa164c28e24cb38513e325?utm_campaign=1053&utm_source=git)** | Colorado Springs, CO, United States | On Site | Sep 16 |
 | ↳ | **[Production Intern](https://jobright.ai/jobs/info/6aaa16293387a3d9b67d8f84?utm_campaign=1053&utm_source=git)** | Colorado Springs, CO, United States | On Site | Sep 16 |
 | **[Activision](https://www.activision.com/)** | **[Activision 2027 Summer Internships - Animation](https://jobright.ai/jobs/info/6aaa394d044b422309094ec3?utm_campaign=1053&utm_source=git)** | Woodland Hills, CA, United States | On Site | Sep 15 |
 | **[Martin Marietta](http://martinmarietta.com)** | **[Production Intern](https://jobright.ai/jobs/info/6aaa116009ae03adcace0ff8?utm_campaign=1053&utm_source=git)** | Idaho Springs, Colorado, United States | On Site | Sep 15 |
