@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BRIDGE SHOWROOM](http://www.bridgeshowroom.com)** | **[Fashion Intern for Atlanta Apparel](https://jobright.ai/jobs/info/6ab171e1f9692ca98b049a13?utm_campaign=1053&utm_source=git)** | Atlanta, GA, United States | On Site | Sep 21 |
 | **[InnerVue](https://yourinnervue.com)** | **[Internship: Digital Media and Podcast Content Intern](https://jobright.ai/jobs/info/6ab16296d43eb922ca0be84f?utm_campaign=1053&utm_source=git)** | Texas, United States | Remote | Sep 21 |
 | **[Phillips](https://www.phillips.com)** | **[Fall Jewelry Internship](https://jobright.ai/jobs/info/6ab15e66d43eb922ca0be62a?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Sep 21 |
 | **[Dynamic Catholic](https://dynamiccatholic.com/)** | **[Internship - Videographer](https://jobright.ai/jobs/info/6a98663eaf954907d657320e?utm_campaign=1053&utm_source=git)** | Erlanger, KY, United States | On Site | Sep 21 |
@@ -134,9 +135,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Media Production Intern (In- Person) Fall 2026.](https://jobright.ai/jobs/info/6a398ce3f6b55d12c7928b8e?utm_campaign=1053&utm_source=git)** | AL, Mobile, United States of America | On Site | Sep 16 |
 | **[McIlhenny Company](http://www.tabasco.com/)** | **[Archives Intern](https://jobright.ai/jobs/info/6a84e701c1a3fd7120f73e3b?utm_campaign=1053&utm_source=git)** | Avery Island, LA, United States | On Site | Sep 16 |
 | **[Martin Marietta](http://martinmarietta.com)** | **[Production Intern](https://jobright.ai/jobs/info/6aaa16333387a3d9b67d8f8b?utm_campaign=1053&utm_source=git)** | Idaho Springs, CO, United States | On Site | Sep 16 |
-| ↳ | **[Production Intern](https://jobright.ai/jobs/info/6aaa1622120c360b6bd4a951?utm_campaign=1053&utm_source=git)** | Granite Canyon, WY, United States | On Site | Sep 16 |
+| ↳ | **[Production Intern](https://jobright.ai/jobs/info/6aaa164e10b1cd4f41609ca5?utm_campaign=1053&utm_source=git)** | Granite Canyon, WY, United States | On Site | Sep 16 |
+| ↳ | **[Production Intern](https://jobright.ai/jobs/info/6aaa16293387a3d9b67d8f85?utm_campaign=1053&utm_source=git)** | Colorado Springs, CO, United States | On Site | Sep 16 |
 | ↳ | **[Production Intern](https://jobright.ai/jobs/info/6aaa16293387a3d9b67d8f84?utm_campaign=1053&utm_source=git)** | Colorado Springs, CO, United States | On Site | Sep 16 |
-| ↳ | **[Production Intern](https://jobright.ai/jobs/info/6aaa164c28e24cb38513e325?utm_campaign=1053&utm_source=git)** | Colorado Springs, CO, United States | On Site | Sep 16 |
 | **[Activision](https://www.activision.com/)** | **[Activision 2027 Summer Internships - Animation](https://jobright.ai/jobs/info/6aaa394d044b422309094ec3?utm_campaign=1053&utm_source=git)** | Woodland Hills, CA, United States | On Site | Sep 15 |
 | **[Martin Marietta](http://martinmarietta.com)** | **[Production Intern](https://jobright.ai/jobs/info/6aaa116009ae03adcace0ff8?utm_campaign=1053&utm_source=git)** | Idaho Springs, Colorado, United States | On Site | Sep 15 |
 | **[Walt Disney Imagineering](https://disneyimaginations.com)** | **[Disney Live Entertainment Costume Buying Intern, Spring 2027](https://jobright.ai/jobs/info/6aa9e7e03387a3d9b67d7d3f?utm_campaign=1053&utm_source=git)** | Orlando, FL, United States | On Site | Sep 15 |
@@ -154,5 +155,4 @@ For a complete list, click the following sortable link below:
 | **[American Angus Association](http://www.angus.org/)** | **[Angus Media Editorial Internship](https://jobright.ai/jobs/info/6aa8ee55eff87f571fc980e5?utm_campaign=1053&utm_source=git)** | Saint Joseph, MO, United States | On Site | Sep 15 |
 | **[Infinity Ward](http://www.infinityward.com/)** | **[Activision 2027 Summer Internships - Animation](https://jobright.ai/jobs/info/6aa9c8613387a3d9b67d6e69?utm_campaign=1053&utm_source=git)** | Woodland Hills, CA, United States | On Site | Sep 14 |
 | **[News Corp](https://newscorp.com/)** | **[Summer 2027 Internship Program – TA Videographer / Marketing Intern](https://jobright.ai/jobs/info/6aa9c3cf10b1cd4f41607a41?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Hybrid | Sep 14 |
-| **[KET - Kentucky Educational Television](https://www.ket.org)** | **[Spring 2027 Television Production Internship - Louisville](https://jobright.ai/jobs/info/6aa8a3a34cb6b0e0b828dc5c?utm_campaign=1053&utm_source=git)** | Louisville, KY, United States | On Site | Sep 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
