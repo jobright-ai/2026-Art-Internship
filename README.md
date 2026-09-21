@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Elite Podcast Studio](ElitePodcastStudio.com)** | **[Internship Tampa Content Creator](https://jobright.ai/jobs/info/6aad0363421662ebd00f0f88?utm_campaign=1053&utm_source=git)** | Odessa, FL, United States | On Site | Sep 21 |
 | **[TapBlaze](http://www.tapblaze.com)** | **[Narrative Design Intern](https://jobright.ai/jobs/info/6ab0dd76de327d3e210d8fc4?utm_campaign=1053&utm_source=git)** | Los Angeles, California, United States | On Site | Sep 21 |
 | **[Faclon Labs](http://faclon.com/)** | **[Video Production & Editing Intern](https://jobright.ai/jobs/info/6ab0d87ddd960b415641a1f9?utm_campaign=1053&utm_source=git)** | United States | Remote | Sep 21 |
 | **[The Aparecio Foundation](https://www.apareciofoundation.org)** | **[Volunteer/Intern:Editor of "Entertainment" Content in Felix](https://jobright.ai/jobs/info/6aaa65b0f116e49925534f46?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | Remote | Sep 20 |
@@ -93,7 +94,6 @@ For a complete list, click the following sortable link below:
 | **[Audacy, Inc.](https://audacyinc.com/)** | **[NYSBA Internship (Fall Semester)](https://jobright.ai/jobs/info/6a88a526cde3717f9e9b6492?utm_campaign=1053&utm_source=git)** | Rochester, NY, United States | On Site | Sep 18 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Emo Nite - Production Intern](https://jobright.ai/jobs/info/6a9126712e254e06fb9f3a66?utm_campaign=1053&utm_source=git)** | Calabasas, CA, United States | On Site | Sep 18 |
 | **[Insomniac Events](http://insomniac.com)** | **[Emo Nite - Production Intern](https://jobright.ai/jobs/info/6a911ab67c32860d14cfc190?utm_campaign=1053&utm_source=git)** | Calabasas, CA, United States | On Site | Sep 18 |
-| **[Elite Podcast Studio](ElitePodcastStudio.com)** | **[Internship Tampa Content Creator](https://jobright.ai/jobs/info/6aad0363421662ebd00f0f88?utm_campaign=1053&utm_source=git)** | Odessa, FL, United States | On Site | Sep 18 |
 | **[Tetra Pak](http://www.tetrapak.com)** | **[Customer Experience and Events Intern](https://jobright.ai/jobs/info/6aa9ee726d0edc2d91b0c985?utm_campaign=1053&utm_source=git)** | Denton, TX, United States | On Site | Sep 17 |
 | ↳ | **[Customer Experience and Events Intern](https://jobright.ai/jobs/info/6aa9ed7d09ae03adcace0448?utm_campaign=1053&utm_source=git)** | Denton, TX, United States | On Site | Sep 17 |
 | **[Coastal Carolina University](http://www.coastal.edu/)** | **[Multimedia Production Intern](https://jobright.ai/jobs/info/6a7a24e8ab1385611f8fd958?utm_campaign=1053&utm_source=git)** | Conway, SC, United States | On Site | Sep 17 |
@@ -107,8 +107,8 @@ For a complete list, click the following sortable link below:
 | **[The Tech Interactive](https://www.thetech.org)** | **[Storytelling and Community Research Intern (Fall Semester, Part Time)](https://jobright.ai/jobs/info/6aab227b76707040fb084628?utm_campaign=1053&utm_source=git)** | San Jose, CA, United States | On Site | Sep 17 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[WLS-TV (ABC7) Programming, Promotion & Publicity Intern, Spring 2027](https://jobright.ai/jobs/info/6aab1b038e1bf0f764af8858?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | On Site | Sep 16 |
 | **[IMPULSE UNIVERSE](https://www.linkedin.com/company/97222911)** | **[ANIME Impulse Programming & Activities Intern](https://jobright.ai/jobs/info/6aac7cfb2e757fcb5c8b5b8d?utm_campaign=1053&utm_source=git)** | Rosemead, CA, United States | Hybrid | Sep 16 |
-| **[The Seattle Times](http://seattletimes.com/)** | **[Summer 2027 News Producer Internship](https://jobright.ai/jobs/info/6aab24a4f6bd9d2d17c1bb33?utm_campaign=1053&utm_source=git)** | Seattle, WA, United States | On Site | Sep 16 |
-| ↳ | **[Summer 2027 Copy Editing Internship](https://jobright.ai/jobs/info/6aab24a4f6bd9d2d17c1bb34?utm_campaign=1053&utm_source=git)** | Seattle, WA, United States | On Site | Sep 16 |
+| **[The Seattle Times](http://seattletimes.com/)** | **[Summer 2027 Copy Editing Internship](https://jobright.ai/jobs/info/6aab24a4f6bd9d2d17c1bb34?utm_campaign=1053&utm_source=git)** | Seattle, WA, United States | On Site | Sep 16 |
+| ↳ | **[Summer 2027 News Producer Internship](https://jobright.ai/jobs/info/6aab24a4f6bd9d2d17c1bb33?utm_campaign=1053&utm_source=git)** | Seattle, WA, United States | On Site | Sep 16 |
 | **[Vestmark](https://www.vestmark.com)** | **[Intern - Video Production Coordinator](https://jobright.ai/jobs/info/6a99f9a4040e5c3d0759a0cb?utm_campaign=1053&utm_source=git)** | Wakefield, MA, United States | On Site | Sep 16 |
 | **[Lehigh Valley Public Media](https://www.lehighvalleypublicmedia.org/)** | **[Production Intern](https://jobright.ai/jobs/info/6aabf3d53dbb1f8967ce7f62?utm_campaign=1053&utm_source=git)** | Bethlehem, PA, United States | On Site | Sep 16 |
 | **[NBCUniversal](https://www.nbcuniversal.com/)** | **[KTDO News Intern](https://jobright.ai/jobs/info/6aab099376707040fb083c93?utm_campaign=1053&utm_source=git)** | El Paso, TX, United States | On Site | Sep 16 |
@@ -121,9 +121,9 @@ For a complete list, click the following sortable link below:
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Media Archivist Intern (In- Person) Fall 2026.](https://jobright.ai/jobs/info/6a4de3f13122a76a8fd56aef?utm_campaign=1053&utm_source=git)** | AL, Mobile, United States of America | On Site | Sep 16 |
 | ↳ | **[Media Production Intern (In- Person) Fall 2026.](https://jobright.ai/jobs/info/6a398ce3f6b55d12c7928b8e?utm_campaign=1053&utm_source=git)** | AL, Mobile, United States of America | On Site | Sep 16 |
 | **[McIlhenny Company](http://www.tabasco.com/)** | **[Archives Intern](https://jobright.ai/jobs/info/6a84e701c1a3fd7120f73e3b?utm_campaign=1053&utm_source=git)** | Avery Island, LA, United States | On Site | Sep 16 |
-| **[Martin Marietta](http://martinmarietta.com)** | **[Production Intern](https://jobright.ai/jobs/info/6aaa16333387a3d9b67d8f8b?utm_campaign=1053&utm_source=git)** | Idaho Springs, CO, United States | On Site | Sep 16 |
-| ↳ | **[Production Intern](https://jobright.ai/jobs/info/6aaa1654a2db131437b6087e?utm_campaign=1053&utm_source=git)** | Granite Canyon, WY, United States | On Site | Sep 16 |
-| ↳ | **[Production Intern](https://jobright.ai/jobs/info/6aaa16293387a3d9b67d8f85?utm_campaign=1053&utm_source=git)** | Colorado Springs, CO, United States | On Site | Sep 16 |
+| **[Martin Marietta](http://martinmarietta.com)** | **[Production Intern](https://jobright.ai/jobs/info/6aaa164e10b1cd4f41609ca5?utm_campaign=1053&utm_source=git)** | Granite Canyon, WY, United States | On Site | Sep 16 |
+| ↳ | **[Production Intern](https://jobright.ai/jobs/info/6aaa16da28e24cb38513e32d?utm_campaign=1053&utm_source=git)** | Idaho Springs, CO, United States | On Site | Sep 16 |
+| ↳ | **[Production Intern](https://jobright.ai/jobs/info/6aaa164c28e24cb38513e325?utm_campaign=1053&utm_source=git)** | Colorado Springs, CO, United States | On Site | Sep 16 |
 | ↳ | **[Production Intern](https://jobright.ai/jobs/info/6aaa16293387a3d9b67d8f84?utm_campaign=1053&utm_source=git)** | Colorado Springs, CO, United States | On Site | Sep 16 |
 | **[Activision](https://www.activision.com/)** | **[Activision 2027 Summer Internships - Animation](https://jobright.ai/jobs/info/6aaa394d044b422309094ec3?utm_campaign=1053&utm_source=git)** | Woodland Hills, CA, United States | On Site | Sep 15 |
 | **[Martin Marietta](http://martinmarietta.com)** | **[Production Intern](https://jobright.ai/jobs/info/6aaa116009ae03adcace0ff8?utm_campaign=1053&utm_source=git)** | Idaho Springs, Colorado, United States | On Site | Sep 15 |
@@ -153,5 +153,4 @@ For a complete list, click the following sortable link below:
 | **[The University of Southern Mississippi](http://www.usm.edu/)** | **[Multimedia Journalism Internship, Roy Howard Community Journalism Center](https://jobright.ai/jobs/info/6aa85a1c82e82a31997c554e?utm_campaign=1053&utm_source=git)** | Hattiesburg, MS, United States | On Site | Sep 14 |
 | **[Kalamazoo Growlers](http://northwoodsleague.com/kalamazoo-growlers/)** | **[Broadcast Video Director Internship](https://jobright.ai/jobs/info/6aa85919a77a53f5a1578cfb?utm_campaign=1053&utm_source=git)** | Kalamazoo, MI, United States | On Site | Sep 14 |
 | **[Fidelity Canada](https://www.fidelity.ca)** | **[Student, Digital Media (Winter 2027)](https://jobright.ai/jobs/info/6aa8065fa77a53f5a1576c3a?utm_campaign=1053&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Sep 14 |
-| **[Social View Agency](https://www.socialviewagency.com/)** | **[LA Content Creator/Intern (unpaid)](https://jobright.ai/jobs/info/6aa840f9654b2a9424cfb9dd?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | On Site | Sep 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
