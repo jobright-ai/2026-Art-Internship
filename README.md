@@ -57,9 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BRIDGE SHOWROOM](http://www.bridgeshowroom.com)** | **[Fashion Internship](https://jobright.ai/jobs/info/6ab2a4ad30340229a322ea35?utm_campaign=1053&utm_source=git)** | Atlanta, GA, United States | On Site | Sep 22 |
+| **[Northly Group](northlygroup.com)** | **[Web Journalist Intern](https://jobright.ai/jobs/info/6ab2a0b330340229a322e7f7?utm_campaign=1053&utm_source=git)** | Greater Toronto Area, Canada | On Site | Sep 22 |
 | **[IAC](http://www.iac.com)** | **[Beauty & Wellness Intern](https://jobright.ai/jobs/info/6ab29abd78c69ff506c3f2b4?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Sep 22 |
 | **[Audacy, Inc.](https://audacyinc.com/)** | **[Sports Media and Digital Content Intern](https://jobright.ai/jobs/info/6ab28ec78254c44790e55a66?utm_campaign=1053&utm_source=git)** | Cleveland, OH, United States | On Site | Sep 22 |
 | **[BRIDGE SHOWROOM](http://www.bridgeshowroom.com)** | **[Fashion Intern](https://jobright.ai/jobs/info/6ab28dc78254c44790e55a21?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | On Site | Sep 22 |
+| **[Canyon Entertainment Group](https://canyonentertainmentgroup.com)** | **[Live Event Management Internship](https://jobright.ai/jobs/info/6ab2a14530340229a322e874?utm_campaign=1053&utm_source=git)** | Greater Toronto Area, Ontario, Canada | Remote | Sep 22 |
+| **[Nashville Superspeedway](http://www.nashvillesuperspeedway.com)** | **[Intern](https://jobright.ai/jobs/info/6ab2a8ae78c69ff506c3f9cd?utm_campaign=1053&utm_source=git)** | Concord, NC, United States | On Site | Sep 22 |
 | **[ASM Global](https://asmglobal.com/)** | **[Hospitality Intern - The Meadows Music Theater](https://jobright.ai/jobs/info/6a510fcabf63b66c79978842?utm_campaign=1053&utm_source=git)** | Hartford, CT, United States | On Site | Sep 22 |
 | **[Hasana, Inc.](http://shophasana.com)** | **[Volunteer/Intern: Film/Video Editor](https://jobright.ai/jobs/info/6a584c973330ca6f993c3e99?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | On Site | Sep 22 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[KABC Digital News Intern, ABC7 en Español, Spring 2027](https://jobright.ai/jobs/info/6ab1cdd0191d8c340dbdce5a?utm_campaign=1053&utm_source=git)** | Glendale, CA, United States | On Site | Sep 21 |
@@ -94,6 +98,7 @@ For a complete list, click the following sortable link below:
 | **[Indiana Fever](https://fever.wnba.com/)** | **[Digital Content Intern - Spring 2027](https://jobright.ai/jobs/info/6ab13e4cf9692ca98b0484cd?utm_campaign=1053&utm_source=git)** | Indianapolis, IN, United States | On Site | Sep 21 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Intern](https://jobright.ai/jobs/info/6a9674f7455eaf6a08c17881?utm_campaign=1053&utm_source=git)** | Peoria, IL, United States | On Site | Sep 21 |
 | ↳ | **[Unpaid News Intern](https://jobright.ai/jobs/info/6972b01a9b83b424830eb8a4?utm_campaign=1053&utm_source=git)** | IN-Indianapolis;6910 Network Place (Tribune-WXIN/WTTV) | On Site | Sep 21 |
+| ↳ | **[Unpaid News Intern](https://jobright.ai/jobs/info/69b1c6a4548f140066e79343?utm_campaign=1053&utm_source=git)** | Wichita, KS | On Site | Sep 21 |
 | **[Travel Radar](https://travelradar.aero)** | **[Journalism Intern (Florida)](https://jobright.ai/jobs/info/6ab13474191d8c340dbd93b4?utm_campaign=1053&utm_source=git)** | Florida, United States | Remote | Sep 21 |
 | **[Monterey Peninsula Country Club](http://www.mpccpb.org)** | **[PGA Intern](https://jobright.ai/jobs/info/6a8bcd13e8b6601d1290cad6?utm_campaign=1053&utm_source=git)** | Pebble Beach, California, United States | On Site | Sep 21 |
 | **[Hearst Television](http://www.hearsttelevision.com)** | **[Intern (Fall)](https://jobright.ai/jobs/info/6a1d794e3e538a28c2049c97?utm_campaign=1053&utm_source=git)** | 3 Television Circle, Sacramento, CA, 95814, US | On Site | Sep 21 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[KET - Kentucky Educational Television](https://www.ket.org)** | **[Spring 2027 Television Production Internship-Louisville, KY](https://jobright.ai/jobs/info/6aaad12dc85610f4a4841db7?utm_campaign=1053&utm_source=git)** | Louisville, KY, United States | On Site | Sep 16 |
 | **[Penn Medicine, University of Pennsylvania Health System](https://www.pennmedicine.org/)** | **[Multimedia Production Intern](https://jobright.ai/jobs/info/6aaa9de940807b73bd390f3c?utm_campaign=1053&utm_source=git)** | Philadelphia, PA, United States | On Site | Sep 16 |
 | **[Girl Scouts of Citrus Council](https://www.citrus-gs.org/)** | **[Intern for the Girl Scout Experience Team](https://jobright.ai/jobs/info/6aaaaea78e1bf0f764af5a6c?utm_campaign=1053&utm_source=git)** | Orlando, FL, United States | On Site | Sep 16 |
-| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Media Archivist Intern (In- Person) Fall 2026.](https://jobright.ai/jobs/info/6a4de3f13122a76a8fd56aef?utm_campaign=1053&utm_source=git)** | AL, Mobile, United States of America | On Site | Sep 16 |
-| ↳ | **[Media Production Intern (In- Person) Fall 2026.](https://jobright.ai/jobs/info/6a398ce3f6b55d12c7928b8e?utm_campaign=1053&utm_source=git)** | AL, Mobile, United States of America | On Site | Sep 16 |
-| **[McIlhenny Company](http://www.tabasco.com/)** | **[Archives Intern](https://jobright.ai/jobs/info/6a84e701c1a3fd7120f73e3b?utm_campaign=1053&utm_source=git)** | Avery Island, LA, United States | On Site | Sep 16 |
-| **[Martin Marietta](http://martinmarietta.com)** | **[Production Intern](https://jobright.ai/jobs/info/6aaa16333387a3d9b67d8f8b?utm_campaign=1053&utm_source=git)** | Idaho Springs, CO, United States | On Site | Sep 16 |
-| ↳ | **[Production Intern](https://jobright.ai/jobs/info/6aaa164c28e24cb38513e325?utm_campaign=1053&utm_source=git)** | Colorado Springs, CO, United States | On Site | Sep 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
