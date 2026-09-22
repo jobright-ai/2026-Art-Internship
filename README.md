@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[KABC Digital News Intern, ABC7 en Español, Spring 2027](https://jobright.ai/jobs/info/6ab1cdd0191d8c340dbdce5a?utm_campaign=1053&utm_source=git)** | Glendale, CA, United States | On Site | Sep 21 |
+| ↳ | **[WABC-TV (ABC7) Digital Intern, Spring 2027](https://jobright.ai/jobs/info/6ab15e49191d8c340dbda2fc?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Sep 21 |
 | **[Sun Prairie Area School District](https://www.sunprairieschools.org/)** | **[Video Production and Broadcast: High School Work Study/Internship](https://jobright.ai/jobs/info/6ab1feae23005eee3545d2c0?utm_campaign=1053&utm_source=git)** | Sun Prairie, WI, United States | On Site | Sep 21 |
 | **[Astranis Space Technologies](http://www.astranis.com)** | **[Content Creator Intern (Fall 2026)](https://jobright.ai/jobs/info/6ab1b34032552369083e3f19?utm_campaign=1053&utm_source=git)** | San Francisco, CA, United States | On Site | Sep 21 |
 | **[The Ambony](https://www.anpublishing.com/)** | **[Center-Right Conservative Political Journalist Intern](https://jobright.ai/jobs/info/6ab1e63b23005eee3545ce8c?utm_campaign=1053&utm_source=git)** | Washington, DC, United States | Remote | Sep 21 |
@@ -94,8 +96,6 @@ For a complete list, click the following sortable link below:
 | **[TapBlaze](http://www.tapblaze.com)** | **[Narrative Design Intern](https://jobright.ai/jobs/info/6ab0dd76de327d3e210d8fc4?utm_campaign=1053&utm_source=git)** | Los Angeles, California, United States | On Site | Sep 21 |
 | **[Faclon Labs](http://faclon.com/)** | **[Video Production & Editing Intern](https://jobright.ai/jobs/info/6ab0d87ddd960b415641a1f9?utm_campaign=1053&utm_source=git)** | United States | Remote | Sep 21 |
 | **[News Corp](https://newscorp.com/)** | **[2027 Summer Internship - Editorial and Marketing, Thomas Nelson Fiction (Nashville, TN Hybrid)](https://jobright.ai/jobs/info/6ab1e9cb191d8c340dbdd324?utm_campaign=1053&utm_source=git)** | Nashville, TN, United States | Hybrid | Sep 20 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[KABC Digital News Intern, ABC7 en Español, Spring 2027](https://jobright.ai/jobs/info/6ab1cdd0191d8c340dbdce5a?utm_campaign=1053&utm_source=git)** | Glendale, CA, United States | On Site | Sep 20 |
-| ↳ | **[WABC-TV (ABC7) Digital Intern, Spring 2027](https://jobright.ai/jobs/info/6ab15e49191d8c340dbda2fc?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Sep 20 |
 | **[The Aparecio Foundation](https://www.apareciofoundation.org)** | **[Volunteer/Intern:Editor of "Entertainment" Content in Felix](https://jobright.ai/jobs/info/6aaa65b0f116e49925534f46?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | Remote | Sep 20 |
 | **[Northline Roofing, LLC](https://www.northlineroofing.com)** | **[Content Creator / Videographer Intern](https://jobright.ai/jobs/info/6ab0611f3d96632d741b3293?utm_campaign=1053&utm_source=git)** | Charlotte, NC, United States | On Site | Sep 20 |
 | **[The Aparecio Foundation](https://www.apareciofoundation.org)** | **[Volunteer/Intern:Editor of "FelixTV"](https://jobright.ai/jobs/info/6a5553844119652ff3864fc8?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | On Site | Sep 20 |
@@ -152,9 +152,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Media Production Intern (In- Person) Fall 2026.](https://jobright.ai/jobs/info/6a398ce3f6b55d12c7928b8e?utm_campaign=1053&utm_source=git)** | AL, Mobile, United States of America | On Site | Sep 16 |
 | **[McIlhenny Company](http://www.tabasco.com/)** | **[Archives Intern](https://jobright.ai/jobs/info/6a84e701c1a3fd7120f73e3b?utm_campaign=1053&utm_source=git)** | Avery Island, LA, United States | On Site | Sep 16 |
 | **[Martin Marietta](http://martinmarietta.com)** | **[Production Intern](https://jobright.ai/jobs/info/6aaa16da28e24cb38513e32d?utm_campaign=1053&utm_source=git)** | Idaho Springs, CO, United States | On Site | Sep 16 |
-| ↳ | **[Production Intern](https://jobright.ai/jobs/info/6aaa16293387a3d9b67d8f84?utm_campaign=1053&utm_source=git)** | Colorado Springs, CO, United States | On Site | Sep 16 |
 | ↳ | **[Production Intern](https://jobright.ai/jobs/info/6aaa16293387a3d9b67d8f85?utm_campaign=1053&utm_source=git)** | Colorado Springs, CO, United States | On Site | Sep 16 |
 | ↳ | **[Production Intern](https://jobright.ai/jobs/info/6aaa164e10b1cd4f41609ca5?utm_campaign=1053&utm_source=git)** | Granite Canyon, WY, United States | On Site | Sep 16 |
+| ↳ | **[Production Intern](https://jobright.ai/jobs/info/6aaa16293387a3d9b67d8f84?utm_campaign=1053&utm_source=git)** | Colorado Springs, CO, United States | On Site | Sep 16 |
 | **[Activision](https://www.activision.com/)** | **[Activision 2027 Summer Internships - Animation](https://jobright.ai/jobs/info/6aaa394d044b422309094ec3?utm_campaign=1053&utm_source=git)** | Woodland Hills, CA, United States | On Site | Sep 15 |
 | **[Martin Marietta](http://martinmarietta.com)** | **[Production Intern](https://jobright.ai/jobs/info/6aaa116009ae03adcace0ff8?utm_campaign=1053&utm_source=git)** | Idaho Springs, Colorado, United States | On Site | Sep 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
