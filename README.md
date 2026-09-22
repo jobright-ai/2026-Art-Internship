@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Intern](https://jobright.ai/jobs/info/6ab2ddb31508734c1530c58c?utm_campaign=1053&utm_source=git)** | Henderson, KY, United States | On Site | Sep 22 |
 | **[Our National Conversation (ONC)](https://www.ournationalconversation.org)** | **[Video Production Intern](https://jobright.ai/jobs/info/6ab2d3391508734c1530c2fa?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | Remote | Sep 22 |
 | **[Micro](https://trymicro.io/)** | **[Video Editting Intern (Unpaid)](https://jobright.ai/jobs/info/6ab2d1901508734c1530c260?utm_campaign=1053&utm_source=git)** | United States | Remote | Sep 22 |
 | **[Federal Reserve Bank of San Francisco](http://www.frbsf.org)** | **[Federal Reserve Summer 2027 Economics Writing and Analysis Internship](https://jobright.ai/jobs/info/6ab28e061e4847ddae914c13?utm_campaign=1053&utm_source=git)** | Richmond, VA, United States | On Site | Sep 22 |
@@ -145,8 +146,8 @@ For a complete list, click the following sortable link below:
 | **[The Tech Interactive](https://www.thetech.org)** | **[Storytelling and Community Research Intern (Fall Semester, Part Time)](https://jobright.ai/jobs/info/6aab227b76707040fb084628?utm_campaign=1053&utm_source=git)** | San Jose, CA, United States | On Site | Sep 17 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[WLS-TV (ABC7) Programming, Promotion & Publicity Intern, Spring 2027](https://jobright.ai/jobs/info/6aab1b038e1bf0f764af8858?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | On Site | Sep 16 |
 | **[IMPULSE UNIVERSE](https://www.linkedin.com/company/97222911)** | **[ANIME Impulse Programming & Activities Intern](https://jobright.ai/jobs/info/6aac7cfb2e757fcb5c8b5b8d?utm_campaign=1053&utm_source=git)** | Rosemead, CA, United States | Hybrid | Sep 16 |
-| **[The Seattle Times](http://seattletimes.com/)** | **[Summer 2027 Copy Editing Internship](https://jobright.ai/jobs/info/6aab24a4f6bd9d2d17c1bb34?utm_campaign=1053&utm_source=git)** | Seattle, WA, United States | On Site | Sep 16 |
-| ↳ | **[Summer 2027 News Producer Internship](https://jobright.ai/jobs/info/6aab24a4f6bd9d2d17c1bb33?utm_campaign=1053&utm_source=git)** | Seattle, WA, United States | On Site | Sep 16 |
+| **[The Seattle Times](http://seattletimes.com/)** | **[Summer 2027 News Producer Internship](https://jobright.ai/jobs/info/6aab24a4f6bd9d2d17c1bb33?utm_campaign=1053&utm_source=git)** | Seattle, WA, United States | On Site | Sep 16 |
+| ↳ | **[Summer 2027 Copy Editing Internship](https://jobright.ai/jobs/info/6aab24a4f6bd9d2d17c1bb34?utm_campaign=1053&utm_source=git)** | Seattle, WA, United States | On Site | Sep 16 |
 | **[Vestmark](https://www.vestmark.com)** | **[Intern - Video Production Coordinator](https://jobright.ai/jobs/info/6a99f9a4040e5c3d0759a0cb?utm_campaign=1053&utm_source=git)** | Wakefield, MA, United States | On Site | Sep 16 |
 | **[Lehigh Valley Public Media](https://www.lehighvalleypublicmedia.org/)** | **[Production Intern](https://jobright.ai/jobs/info/6aabf3d53dbb1f8967ce7f62?utm_campaign=1053&utm_source=git)** | Bethlehem, PA, United States | On Site | Sep 16 |
 | **[NBCUniversal](https://www.nbcuniversal.com/)** | **[KTDO News Intern](https://jobright.ai/jobs/info/6aab099376707040fb083c93?utm_campaign=1053&utm_source=git)** | El Paso, TX, United States | On Site | Sep 16 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[KET - Kentucky Educational Television](https://www.ket.org)** | **[Spring 2027 Television Production Internship-Louisville, KY](https://jobright.ai/jobs/info/6aaad12dc85610f4a4841db7?utm_campaign=1053&utm_source=git)** | Louisville, KY, United States | On Site | Sep 16 |
 | **[Penn Medicine, University of Pennsylvania Health System](https://www.pennmedicine.org/)** | **[Multimedia Production Intern](https://jobright.ai/jobs/info/6aaa9de940807b73bd390f3c?utm_campaign=1053&utm_source=git)** | Philadelphia, PA, United States | On Site | Sep 16 |
 | **[Girl Scouts of Citrus Council](https://www.citrus-gs.org/)** | **[Intern for the Girl Scout Experience Team](https://jobright.ai/jobs/info/6aaaaea78e1bf0f764af5a6c?utm_campaign=1053&utm_source=git)** | Orlando, FL, United States | On Site | Sep 16 |
-| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Media Archivist Intern (In- Person) Fall 2026.](https://jobright.ai/jobs/info/6a4de3f13122a76a8fd56aef?utm_campaign=1053&utm_source=git)** | AL, Mobile, United States of America | On Site | Sep 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
