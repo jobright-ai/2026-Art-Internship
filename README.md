@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Sea Pines Resort](https://www.seapines.com/)** | **[Golf Intern](https://jobright.ai/jobs/info/6ab3375a30340229a3231e58?utm_campaign=1053&utm_source=git)** | Hilton Head Island, SC, United States | Hybrid | Sep 22 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Intern - Events & Programs - Jan Dempsey Community Arts Center](https://jobright.ai/jobs/info/6ab36412835ccf4a28117b36?utm_campaign=1053&utm_source=git)** | Auburn, AL, United States | On Site | Sep 22 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[FX Production & Special Projects Intern, Spring 2027](https://jobright.ai/jobs/info/6ab304bc1e4847ddae917e31?utm_campaign=1053&utm_source=git)** | Burbank, CA, United States | On Site | Sep 22 |
 | **[Shunyatax](https://shunyatax.in/)** | **[Video Content Intern - US](https://jobright.ai/jobs/info/6ab3569e16511e254891be6b?utm_campaign=1053&utm_source=git)** | United States | Remote | Sep 22 |
@@ -65,7 +66,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Local News Intern](https://jobright.ai/jobs/info/6ab32fd678c69ff506c429f5?utm_campaign=1053&utm_source=git)** | Dallas, TX, United States | Hybrid | Sep 22 |
 | **[FDB (First Databank, Inc.)](http://fdbhealth.com)** | **[Food & Events Intern](https://jobright.ai/jobs/info/6ab33ac7326574570a0054d6?utm_campaign=1053&utm_source=git)** | Dallas, TX, United States | Hybrid | Sep 22 |
 | **[Whitney Museum of American Art](http://whitney.org)** | **[[Spring 2027] Digital Content Internship](https://jobright.ai/jobs/info/6ab2eb891508734c1530c899?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Sep 22 |
-| **[The Sea Pines Resort](https://www.seapines.com/)** | **[Golf Intern](https://jobright.ai/jobs/info/6ab3375a30340229a3231e58?utm_campaign=1053&utm_source=git)** | Hilton Head Island, SC, United States | Hybrid | Sep 22 |
 | **[HexArmor](http://hexarmor.com)** | **[Videographer Internship - Summer 2027](https://jobright.ai/jobs/info/6ab333e68254c44790e59800?utm_campaign=1053&utm_source=git)** | Grand Rapids, MI, United States | On Site | Sep 22 |
 | **[Institute for the Study of War](http://understandingwar.org/)** | **[Multimedia & Video Production Internship Spring 2027](https://jobright.ai/jobs/info/6ab304418254c44790e58c6a?utm_campaign=1053&utm_source=git)** | Washington, DC, United States | Hybrid | Sep 22 |
 | **[The Aparecio Foundation](https://www.apareciofoundation.org)** | **[Volunteer/Intern:Editor of "Culture" Content in Felix](https://jobright.ai/jobs/info/6aa0a0caea127c3794698361?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | On Site | Sep 22 |
@@ -117,8 +117,8 @@ For a complete list, click the following sortable link below:
 | **[Dow Jones](http://www.dowjones.com)** | **[Summer 2027 Internship Program – Video Intern](https://jobright.ai/jobs/info/6aa8b24c3387a3d9b67d2963?utm_campaign=1053&utm_source=git)** | New York City, NY, United States | Hybrid | Sep 21 |
 | ↳ | **[Summer 2027 Internship Program – TA Videographer / Marketing Intern](https://jobright.ai/jobs/info/6aa96266eff87f571fc9972f?utm_campaign=1053&utm_source=git)** | New York City, NY, United States | On Site | Sep 21 |
 | **[Indiana Fever](https://fever.wnba.com/)** | **[Digital Content Intern - Spring 2027](https://jobright.ai/jobs/info/6ab13e4cf9692ca98b0484cd?utm_campaign=1053&utm_source=git)** | Indianapolis, IN, United States | On Site | Sep 21 |
-| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid News Intern](https://jobright.ai/jobs/info/6972b01a9b83b424830eb8a4?utm_campaign=1053&utm_source=git)** | IN-Indianapolis;6910 Network Place (Tribune-WXIN/WTTV) | On Site | Sep 21 |
-| ↳ | **[Unpaid Intern](https://jobright.ai/jobs/info/6a9674f7455eaf6a08c17881?utm_campaign=1053&utm_source=git)** | Peoria, IL, United States | On Site | Sep 21 |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Intern](https://jobright.ai/jobs/info/6a9674f7455eaf6a08c17881?utm_campaign=1053&utm_source=git)** | Peoria, IL, United States | On Site | Sep 21 |
+| ↳ | **[Unpaid News Intern](https://jobright.ai/jobs/info/6972b01a9b83b424830eb8a4?utm_campaign=1053&utm_source=git)** | IN-Indianapolis;6910 Network Place (Tribune-WXIN/WTTV) | On Site | Sep 21 |
 | ↳ | **[Unpaid News Intern](https://jobright.ai/jobs/info/69b1c6a4548f140066e79343?utm_campaign=1053&utm_source=git)** | Wichita, KS | On Site | Sep 21 |
 | **[Travel Radar](https://travelradar.aero)** | **[Journalism Intern (Florida)](https://jobright.ai/jobs/info/6ab13474191d8c340dbd93b4?utm_campaign=1053&utm_source=git)** | Florida, United States | Remote | Sep 21 |
 | **[Monterey Peninsula Country Club](http://www.mpccpb.org)** | **[PGA Intern](https://jobright.ai/jobs/info/6a8bcd13e8b6601d1290cad6?utm_campaign=1053&utm_source=git)** | Pebble Beach, California, United States | On Site | Sep 21 |
