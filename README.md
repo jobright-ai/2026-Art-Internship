@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hustle Magazine](www.thehustlemagazine.com)** | **[Video Editor Internship](https://jobright.ai/jobs/info/6ab40a1e7bd081371331555d?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Remote | Sep 23 |
+| **[Bloomberg Industry Group](https://www.bloombergindustry.com/)** | **[2027 Summer News Internship: Graphics - Graphics/Data Visualization Journalist](https://jobright.ai/jobs/info/6ab3de2ad2f5fbd604be00bd?utm_campaign=1053&utm_source=git)** | Arlington, VA, United States | On Site | Sep 23 |
+| ↳ | **[2027 Summer News Internship - Digital Editor](https://jobright.ai/jobs/info/6ab3de160e0ae54eeea451b2?utm_campaign=1053&utm_source=git)** | Arlington, VA, United States | On Site | Sep 23 |
 | **[Houston Chronicle](http://www.houstonchronicle.com/)** | **[Audience Intern](https://jobright.ai/jobs/info/6ab3d4ab0e0ae54eeea44fbc?utm_campaign=1053&utm_source=git)** | Houston, TX, United States | On Site | Sep 23 |
 | **[iCrossing](http://www.icrossing.com)** | **[Audience Intern](https://jobright.ai/jobs/info/6ab3e1a5d2f5fbd604be01a7?utm_campaign=1053&utm_source=git)** | Houston, TX, United States | On Site | Sep 23 |
 | **[Hearst Newspapers](https://eevd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_15)** | **[Audience Intern](https://jobright.ai/jobs/info/6ab3e183d2f5fbd604be019b?utm_campaign=1053&utm_source=git)** | Houston, TX, United States | On Site | Sep 23 |
@@ -79,8 +82,6 @@ For a complete list, click the following sortable link below:
 | **[Institute for the Study of War](http://understandingwar.org/)** | **[Multimedia & Video Production Internship Spring 2027](https://jobright.ai/jobs/info/6ab304418254c44790e58c6a?utm_campaign=1053&utm_source=git)** | Washington, DC, United States | Hybrid | Sep 22 |
 | **[The Aparecio Foundation](https://www.apareciofoundation.org)** | **[Volunteer/Intern:Editor of "Culture" Content in Felix](https://jobright.ai/jobs/info/6aa0a0caea127c3794698361?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | On Site | Sep 22 |
 | **[Bloomberg Industry Group](https://www.bloombergindustry.com/)** | **[2027 Summer News Internship - Video Journalist](https://jobright.ai/jobs/info/6ab3de1964816213f2d95c96?utm_campaign=1053&utm_source=git)** | Arlington, VA, United States | On Site | Sep 22 |
-| ↳ | **[2027 Summer News Internship - Digital Editor](https://jobright.ai/jobs/info/6ab3de160e0ae54eeea451b2?utm_campaign=1053&utm_source=git)** | Arlington, VA, United States | On Site | Sep 22 |
-| ↳ | **[2027 Summer News Internship: Graphics - Graphics/Data Visualization Journalist](https://jobright.ai/jobs/info/6ab3de2ad2f5fbd604be00bd?utm_campaign=1053&utm_source=git)** | Arlington, VA, United States | On Site | Sep 22 |
 | **[Our National Conversation (ONC)](https://www.ournationalconversation.org)** | **[Video Production Intern](https://jobright.ai/jobs/info/6ab2d3391508734c1530c2fa?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | Remote | Sep 22 |
 | **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Spring 2027 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6ab2f72730340229a3230bb9?utm_campaign=1053&utm_source=git)** | Columbia, SC, United States | On Site | Sep 22 |
 | ↳ | **[Spring 2027 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6ab2f7091e4847ddae9177bc?utm_campaign=1053&utm_source=git)** | Bloomington, IN, United States | On Site | Sep 22 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[HarperCollins Publishers](https://www.harpercollins.com/)** | **[2027 Spring Internship - Editorial HarperPop (NYC)](https://jobright.ai/jobs/info/6aad7b8b3dbb1f8967cedbb2?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Sep 18 |
 | **[The Washington Post](https://www.washingtonpost.com)** | **[Newsroom Summer Internship Program 2027: Data Journalist](https://jobright.ai/jobs/info/6a9082627c32860d14cf9c70?utm_campaign=1053&utm_source=git)** | Washington Township, District of Columbia, United States | On Site | Sep 18 |
 | **[HarperCollins Christian Publishing](https://www.harpercollinschristian.com/)** | **[2027 Spring Internship - Editorial, Mariner Group (NYC)](https://jobright.ai/jobs/info/6aad40e83dbb1f8967cec780?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Sep 18 |
-| ↳ | **[2027 Summer Internship- Arts Rights, Creative Operations (NYC)](https://jobright.ai/jobs/info/6aad40f93dbb1f8967cec789?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Sep 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
