@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[iCrossing](http://www.icrossing.com)** | **[Food & Events Intern](https://jobright.ai/jobs/info/6ab33df78254c44790e59a03?utm_campaign=1053&utm_source=git)** | Dallas, TX, United States | Hybrid | Sep 22 |
+| **[FDB (First Databank, Inc.)](http://fdbhealth.com)** | **[Food & Events Intern](https://jobright.ai/jobs/info/6ab33ac7326574570a0054d6?utm_campaign=1053&utm_source=git)** | Dallas, TX, United States | Hybrid | Sep 22 |
 | **[The Sea Pines Resort](https://www.seapines.com/)** | **[Golf Intern](https://jobright.ai/jobs/info/6ab3375a30340229a3231e58?utm_campaign=1053&utm_source=git)** | Hilton Head Island, SC, United States | Hybrid | Sep 22 |
 | **[HexArmor](http://hexarmor.com)** | **[Videographer Internship - Summer 2027](https://jobright.ai/jobs/info/6ab333e68254c44790e59800?utm_campaign=1053&utm_source=git)** | Grand Rapids, MI, United States | On Site | Sep 22 |
 | **[Hearst Television](http://www.hearsttelevision.com)** | **[Sports Intern](https://jobright.ai/jobs/info/6ab3304478c69ff506c429fb?utm_campaign=1053&utm_source=git)** | Dallas, TX, United States | Hybrid | Sep 22 |
@@ -104,7 +106,6 @@ For a complete list, click the following sortable link below:
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Producer Intern](https://jobright.ai/jobs/info/6ab161ce23005eee3545a0d9?utm_campaign=1053&utm_source=git)** | Oklahoma City, OK, United States | On Site | Sep 21 |
 | **[Coastal Carolina University](http://www.coastal.edu/)** | **[Multimedia Production Intern](https://jobright.ai/jobs/info/6a7a24e8ab1385611f8fd958?utm_campaign=1053&utm_source=git)** | Conway, SC, United States | On Site | Sep 21 |
 | **[Argo IQ](https://argoiq.com/)** | **[Social Media Video Intern](https://jobright.ai/jobs/info/6ab183a7d43eb922ca0bf548?utm_campaign=1053&utm_source=git)** | Orlando, FL, United States | On Site | Sep 21 |
-| **[InnerVue](https://yourinnervue.com)** | **[Internship: Digital Media and Podcast Content Intern](https://jobright.ai/jobs/info/6ab16296d43eb922ca0be84f?utm_campaign=1053&utm_source=git)** | Texas, United States | Remote | Sep 21 |
 | **[Phillips](https://www.phillips.com)** | **[Fall Jewelry Internship](https://jobright.ai/jobs/info/6ab15e66d43eb922ca0be62a?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Sep 21 |
 | **[Dynamic Catholic](https://dynamiccatholic.com/)** | **[Internship - Videographer](https://jobright.ai/jobs/info/6a98663eaf954907d657320e?utm_campaign=1053&utm_source=git)** | Erlanger, KY, United States | On Site | Sep 21 |
 | **[Pacers Sports & Entertainment](http://www.pacers.com)** | **[Digital Content Intern - Spring 2027](https://jobright.ai/jobs/info/6ab13e8b191d8c340dbd95e0?utm_campaign=1053&utm_source=git)** | Indianapolis, IN, United States | On Site | Sep 21 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Hasana, Inc.](http://shophasana.com)** | **[Film & Video Internship](https://jobright.ai/jobs/info/6a5997544da96a42cfd91dd0?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | On Site | Sep 17 |
 | **[St. Francis Xavier University](http://www.stfx.ca/)** | **[Undergraduate Internship: The Antigonish Review Journal](https://jobright.ai/jobs/info/6aabf67e3e3ce93970c7ae67?utm_campaign=1053&utm_source=git)** | Antigonish, NS, Canada | Hybrid | Sep 17 |
 | **[IMPULSE UNIVERSE](https://www.linkedin.com/company/97222911)** | **[ANIME Impulse Programming & Activities Intern](https://jobright.ai/jobs/info/6aabce3795c707f49dfee321?utm_campaign=1053&utm_source=git)** | Rosemead, CA, United States | On Site | Sep 17 |
-| **[PBS39](https://www.wlvt.org/)** | **[Production Intern](https://jobright.ai/jobs/info/6aaaef858e1bf0f764af765e?utm_campaign=1053&utm_source=git)** | Bethlehem, PA, United States | On Site | Sep 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
