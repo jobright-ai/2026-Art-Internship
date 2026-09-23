@@ -57,7 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Hearst Newspapers](https://eevd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_15)** | **[Audience Intern](https://jobright.ai/jobs/info/6ab3ca177bd0813713313f4d?utm_campaign=1053&utm_source=git)** | Houston, TX, United States | On Site | Sep 23 |
+| **[Houston Chronicle](http://www.houstonchronicle.com/)** | **[Audience Intern](https://jobright.ai/jobs/info/6ab3d4ab0e0ae54eeea44fbc?utm_campaign=1053&utm_source=git)** | Houston, TX, United States | On Site | Sep 23 |
+| **[Homecare Homebase](http://www.hchb.com)** | **[Audience Intern](https://jobright.ai/jobs/info/6ab3d3b0d2f5fbd604bdfe98?utm_campaign=1053&utm_source=git)** | Houston, TX, United States | On Site | Sep 23 |
+| **[Hearst Television](http://www.hearsttelevision.com)** | **[Audience Intern](https://jobright.ai/jobs/info/6ab3d35c64816213f2d95a45?utm_campaign=1053&utm_source=git)** | Houston, TX, United States | On Site | Sep 23 |
+| **[Hearst Newspapers](https://eevd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_15)** | **[Audience Intern](https://jobright.ai/jobs/info/6ab3cda264816213f2d958fa?utm_campaign=1053&utm_source=git)** | Houston, TX, United States | On Site | Sep 23 |
+| **[FDB (First Databank, Inc.)](http://fdbhealth.com)** | **[Sports Intern](https://jobright.ai/jobs/info/6a96dda0e4e60e4b8da5a58d?utm_campaign=1053&utm_source=git)** | Needham, MA, United States | On Site | Sep 23 |
+| **[Elite Podcast Studio](ElitePodcastStudio.com)** | **[Social Media & Short-Form Video Intern (Instagram Growth)](https://jobright.ai/jobs/info/6ab3cec7d2f5fbd604bdfd8d?utm_campaign=1053&utm_source=git)** | Odessa, FL, United States | On Site | Sep 23 |
 | **[The Sea Pines Resort](https://www.seapines.com/)** | **[Golf Intern](https://jobright.ai/jobs/info/6ab3375a30340229a3231e58?utm_campaign=1053&utm_source=git)** | Hilton Head Island, SC, United States | Hybrid | Sep 22 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Intern - Events & Programs - Jan Dempsey Community Arts Center](https://jobright.ai/jobs/info/6ab36412835ccf4a28117b36?utm_campaign=1053&utm_source=git)** | Auburn, AL, United States | On Site | Sep 22 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[FX Production & Special Projects Intern, Spring 2027](https://jobright.ai/jobs/info/6ab304bc1e4847ddae917e31?utm_campaign=1053&utm_source=git)** | Burbank, CA, United States | On Site | Sep 22 |
@@ -118,8 +123,8 @@ For a complete list, click the following sortable link below:
 | **[Dow Jones](http://www.dowjones.com)** | **[Summer 2027 Internship Program – Video Intern](https://jobright.ai/jobs/info/6aa8b24c3387a3d9b67d2963?utm_campaign=1053&utm_source=git)** | New York City, NY, United States | Hybrid | Sep 21 |
 | ↳ | **[Summer 2027 Internship Program – TA Videographer / Marketing Intern](https://jobright.ai/jobs/info/6aa96266eff87f571fc9972f?utm_campaign=1053&utm_source=git)** | New York City, NY, United States | On Site | Sep 21 |
 | **[Indiana Fever](https://fever.wnba.com/)** | **[Digital Content Intern - Spring 2027](https://jobright.ai/jobs/info/6ab13e4cf9692ca98b0484cd?utm_campaign=1053&utm_source=git)** | Indianapolis, IN, United States | On Site | Sep 21 |
-| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Intern](https://jobright.ai/jobs/info/6a9674f7455eaf6a08c17881?utm_campaign=1053&utm_source=git)** | Peoria, IL, United States | On Site | Sep 21 |
-| ↳ | **[Unpaid News Intern](https://jobright.ai/jobs/info/6972b01a9b83b424830eb8a4?utm_campaign=1053&utm_source=git)** | IN-Indianapolis;6910 Network Place (Tribune-WXIN/WTTV) | On Site | Sep 21 |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid News Intern](https://jobright.ai/jobs/info/6972b01a9b83b424830eb8a4?utm_campaign=1053&utm_source=git)** | IN-Indianapolis;6910 Network Place (Tribune-WXIN/WTTV) | On Site | Sep 21 |
+| ↳ | **[Unpaid Intern](https://jobright.ai/jobs/info/6a9674f7455eaf6a08c17881?utm_campaign=1053&utm_source=git)** | Peoria, IL, United States | On Site | Sep 21 |
 | ↳ | **[Unpaid News Intern](https://jobright.ai/jobs/info/69b1c6a4548f140066e79343?utm_campaign=1053&utm_source=git)** | Wichita, KS | On Site | Sep 21 |
 | **[Travel Radar](https://travelradar.aero)** | **[Journalism Intern (Florida)](https://jobright.ai/jobs/info/6ab13474191d8c340dbd93b4?utm_campaign=1053&utm_source=git)** | Florida, United States | Remote | Sep 21 |
 | **[Monterey Peninsula Country Club](http://www.mpccpb.org)** | **[PGA Intern](https://jobright.ai/jobs/info/6a8bcd13e8b6601d1290cad6?utm_campaign=1053&utm_source=git)** | Pebble Beach, California, United States | On Site | Sep 21 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Cartwheel](https://www.cartwheelcare.org)** | **[Writing Intern](https://jobright.ai/jobs/info/6a974cedf5337b2cf732164e?utm_campaign=1053&utm_source=git)** | Cambridge, MA, United States | Remote | Sep 18 |
 | **[The Washington Post](https://www.washingtonpost.com)** | **[Newsroom Summer Internship Program 2027: Audio Producer](https://jobright.ai/jobs/info/6aad65920ebc8fb2313e9325?utm_campaign=1053&utm_source=git)** | Washington, DC, United States | On Site | Sep 18 |
 | **[Audacy, Inc.](https://audacyinc.com/)** | **[NYSBA Internship (Fall Semester)](https://jobright.ai/jobs/info/6a88a526cde3717f9e9b6492?utm_campaign=1053&utm_source=git)** | Rochester, NY, United States | On Site | Sep 18 |
-| **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Emo Nite - Production Intern](https://jobright.ai/jobs/info/6a9126712e254e06fb9f3a66?utm_campaign=1053&utm_source=git)** | Calabasas, CA, United States | On Site | Sep 18 |
-| **[Insomniac Events](http://insomniac.com)** | **[Emo Nite - Production Intern](https://jobright.ai/jobs/info/6a911ab67c32860d14cfc190?utm_campaign=1053&utm_source=git)** | Calabasas, CA, United States | On Site | Sep 18 |
-| **[Tetra Pak](http://www.tetrapak.com)** | **[Customer Experience and Events Intern](https://jobright.ai/jobs/info/6aa9ee726d0edc2d91b0c985?utm_campaign=1053&utm_source=git)** | Denton, TX, United States | On Site | Sep 17 |
-| ↳ | **[Customer Experience and Events Intern](https://jobright.ai/jobs/info/6aa9ed7d09ae03adcace0448?utm_campaign=1053&utm_source=git)** | Denton, TX, United States | On Site | Sep 17 |
-| **[The Aparecio Foundation](https://www.apareciofoundation.org)** | **[Copy Editor Intern/Volunteer](https://jobright.ai/jobs/info/6aac3cc995c707f49dff0568?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | On Site | Sep 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
