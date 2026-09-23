@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[U.S. News & World Report](http://www.usnews.com)** | **[News Intern (6 Months)](https://jobright.ai/jobs/info/6ab433b855e9168cf5ea4fda?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Hybrid | Sep 23 |
 | **[Arthrex](https://www.arthrex.com/)** | **[Exhibit Planning Intern](https://jobright.ai/jobs/info/6ab4202fef911c35dffa3858?utm_campaign=1053&utm_source=git)** | Naples, FL, United States | On Site | Sep 23 |
 | **[Simons Foundation](https://www.simonsfoundation.org)** | **[Science Writing Fellow, Quanta Magazine](https://jobright.ai/jobs/info/6ab412d464816213f2d9717d?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Sep 23 |
 | **[Ripken Baseball](https://www.ripkenbaseball.com)** | **[Spring Tournament Operations Intern](https://jobright.ai/jobs/info/6ab41057d2f5fbd604be1534?utm_campaign=1053&utm_source=git)** | Pigeon Forge, TN, United States | On Site | Sep 23 |
@@ -130,8 +131,8 @@ For a complete list, click the following sortable link below:
 | **[Dow Jones](http://www.dowjones.com)** | **[Summer 2027 Internship Program – Video Intern](https://jobright.ai/jobs/info/6aa8b24c3387a3d9b67d2963?utm_campaign=1053&utm_source=git)** | New York City, NY, United States | Hybrid | Sep 21 |
 | ↳ | **[Summer 2027 Internship Program – TA Videographer / Marketing Intern](https://jobright.ai/jobs/info/6aa96266eff87f571fc9972f?utm_campaign=1053&utm_source=git)** | New York City, NY, United States | On Site | Sep 21 |
 | **[Indiana Fever](https://fever.wnba.com/)** | **[Digital Content Intern - Spring 2027](https://jobright.ai/jobs/info/6ab13e4cf9692ca98b0484cd?utm_campaign=1053&utm_source=git)** | Indianapolis, IN, United States | On Site | Sep 21 |
-| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid News Intern](https://jobright.ai/jobs/info/6972b01a9b83b424830eb8a4?utm_campaign=1053&utm_source=git)** | IN-Indianapolis;6910 Network Place (Tribune-WXIN/WTTV) | On Site | Sep 21 |
-| ↳ | **[Unpaid Intern](https://jobright.ai/jobs/info/6a9674f7455eaf6a08c17881?utm_campaign=1053&utm_source=git)** | Peoria, IL, United States | On Site | Sep 21 |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Intern](https://jobright.ai/jobs/info/6a9674f7455eaf6a08c17881?utm_campaign=1053&utm_source=git)** | Peoria, IL, United States | On Site | Sep 21 |
+| ↳ | **[Unpaid News Intern](https://jobright.ai/jobs/info/6972b01a9b83b424830eb8a4?utm_campaign=1053&utm_source=git)** | IN-Indianapolis;6910 Network Place (Tribune-WXIN/WTTV) | On Site | Sep 21 |
 | ↳ | **[Unpaid News Intern](https://jobright.ai/jobs/info/69b1c6a4548f140066e79343?utm_campaign=1053&utm_source=git)** | Wichita, KS | On Site | Sep 21 |
 | **[Travel Radar](https://travelradar.aero)** | **[Journalism Intern (Florida)](https://jobright.ai/jobs/info/6ab13474191d8c340dbd93b4?utm_campaign=1053&utm_source=git)** | Florida, United States | Remote | Sep 21 |
 | **[Monterey Peninsula Country Club](http://www.mpccpb.org)** | **[PGA Intern](https://jobright.ai/jobs/info/6a8bcd13e8b6601d1290cad6?utm_campaign=1053&utm_source=git)** | Pebble Beach, California, United States | On Site | Sep 21 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Newsroom Summer Internship Program 2027: Digital Desk Editor](https://jobright.ai/jobs/info/6aad7f490ebc8fb2313e9dcb?utm_campaign=1053&utm_source=git)** | Washington, DC, United States | On Site | Sep 18 |
 | ↳ | **[Newsroom Summer Internship Program 2027: Print Desk Editor](https://jobright.ai/jobs/info/6aad7d956956574eac8b5fd0?utm_campaign=1053&utm_source=git)** | Washington, DC, United States | On Site | Sep 18 |
 | **[HarperCollins Publishers](https://www.harpercollins.com/)** | **[2027 Spring Internship - Editorial HarperPop (NYC)](https://jobright.ai/jobs/info/6aad7b8b3dbb1f8967cedbb2?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Sep 18 |
-| **[The Washington Post](https://www.washingtonpost.com)** | **[Newsroom Summer Internship Program 2027: Data Journalist](https://jobright.ai/jobs/info/6a9082627c32860d14cf9c70?utm_campaign=1053&utm_source=git)** | Washington Township, District of Columbia, United States | On Site | Sep 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
