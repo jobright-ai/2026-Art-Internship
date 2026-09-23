@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Intern - Events & Programs - Jan Dempsey Community Arts Center](https://jobright.ai/jobs/info/6ab36412835ccf4a28117b36?utm_campaign=1053&utm_source=git)** | Auburn, AL, United States | On Site | Sep 22 |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[FX Production & Special Projects Intern, Spring 2027](https://jobright.ai/jobs/info/6ab304bc1e4847ddae917e31?utm_campaign=1053&utm_source=git)** | Burbank, CA, United States | On Site | Sep 22 |
 | **[Shunyatax](https://shunyatax.in/)** | **[Video Content Intern - US](https://jobright.ai/jobs/info/6ab3569e16511e254891be6b?utm_campaign=1053&utm_source=git)** | United States | Remote | Sep 22 |
 | **[iCrossing](http://www.icrossing.com)** | **[Food & Events Intern](https://jobright.ai/jobs/info/6ab33df78254c44790e59a03?utm_campaign=1053&utm_source=git)** | Dallas, TX, United States | Hybrid | Sep 22 |
 | **[Hearst Television](http://www.hearsttelevision.com)** | **[Sports Intern](https://jobright.ai/jobs/info/6ab3304478c69ff506c429fb?utm_campaign=1053&utm_source=git)** | Dallas, TX, United States | Hybrid | Sep 22 |
@@ -96,7 +98,6 @@ For a complete list, click the following sortable link below:
 | **[The Ambony](https://www.anpublishing.com/)** | **[Center-Right Conservative Political Journalist Intern](https://jobright.ai/jobs/info/6ab1e63b23005eee3545ce8c?utm_campaign=1053&utm_source=git)** | Washington, DC, United States | Remote | Sep 21 |
 | **[The Bridge Teen Center](https://thebridgeteencenter.org)** | **[Video Production and Media Internship](https://jobright.ai/jobs/info/6ab1db82d43eb922ca0c14a1?utm_campaign=1053&utm_source=git)** | Orland Park, IL, United States | On Site | Sep 21 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Disney Kids and Family Production Management Intern, Spring 2027](https://jobright.ai/jobs/info/6ab15e43d43eb922ca0be610?utm_campaign=1053&utm_source=git)** | Glendale, CA, United States | On Site | Sep 21 |
-| ↳ | **[FX Production & Special Projects Intern, Spring 2027](https://jobright.ai/jobs/info/6ab304bc1e4847ddae917e31?utm_campaign=1053&utm_source=git)** | Burbank, CA, United States | On Site | Sep 21 |
 | **[The Aparecio Foundation](https://www.apareciofoundation.org)** | **[Volunteer/Intern:Pro Bono :Editor of "Men's" Content in Felix](https://jobright.ai/jobs/info/6a9ee4d068f82b403673bba1?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | On Site | Sep 21 |
 | **[HarperCollins Publishers](https://www.harpercollins.com/)** | **[2027 Summer Internship - Editorial, Nelson Books (Nashville, TN Hybrid)](https://jobright.ai/jobs/info/6ab1c0eaf9692ca98b04bb07?utm_campaign=1053&utm_source=git)** | Nashville, TN, United States | Hybrid | Sep 21 |
 | **[HarperCollins Christian Publishing](https://www.harpercollinschristian.com/)** | **[2027 Spring Internship - Subsidiary Rights (NYC)](https://jobright.ai/jobs/info/6ab18d16191d8c340dbdb57a?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Sep 21 |
@@ -116,8 +117,8 @@ For a complete list, click the following sortable link below:
 | **[Dow Jones](http://www.dowjones.com)** | **[Summer 2027 Internship Program – Video Intern](https://jobright.ai/jobs/info/6aa8b24c3387a3d9b67d2963?utm_campaign=1053&utm_source=git)** | New York City, NY, United States | Hybrid | Sep 21 |
 | ↳ | **[Summer 2027 Internship Program – TA Videographer / Marketing Intern](https://jobright.ai/jobs/info/6aa96266eff87f571fc9972f?utm_campaign=1053&utm_source=git)** | New York City, NY, United States | On Site | Sep 21 |
 | **[Indiana Fever](https://fever.wnba.com/)** | **[Digital Content Intern - Spring 2027](https://jobright.ai/jobs/info/6ab13e4cf9692ca98b0484cd?utm_campaign=1053&utm_source=git)** | Indianapolis, IN, United States | On Site | Sep 21 |
-| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Intern](https://jobright.ai/jobs/info/6a9674f7455eaf6a08c17881?utm_campaign=1053&utm_source=git)** | Peoria, IL, United States | On Site | Sep 21 |
-| ↳ | **[Unpaid News Intern](https://jobright.ai/jobs/info/6972b01a9b83b424830eb8a4?utm_campaign=1053&utm_source=git)** | IN-Indianapolis;6910 Network Place (Tribune-WXIN/WTTV) | On Site | Sep 21 |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid News Intern](https://jobright.ai/jobs/info/6972b01a9b83b424830eb8a4?utm_campaign=1053&utm_source=git)** | IN-Indianapolis;6910 Network Place (Tribune-WXIN/WTTV) | On Site | Sep 21 |
+| ↳ | **[Unpaid Intern](https://jobright.ai/jobs/info/6a9674f7455eaf6a08c17881?utm_campaign=1053&utm_source=git)** | Peoria, IL, United States | On Site | Sep 21 |
 | ↳ | **[Unpaid News Intern](https://jobright.ai/jobs/info/69b1c6a4548f140066e79343?utm_campaign=1053&utm_source=git)** | Wichita, KS | On Site | Sep 21 |
 | **[Travel Radar](https://travelradar.aero)** | **[Journalism Intern (Florida)](https://jobright.ai/jobs/info/6ab13474191d8c340dbd93b4?utm_campaign=1053&utm_source=git)** | Florida, United States | Remote | Sep 21 |
 | **[Monterey Peninsula Country Club](http://www.mpccpb.org)** | **[PGA Intern](https://jobright.ai/jobs/info/6a8bcd13e8b6601d1290cad6?utm_campaign=1053&utm_source=git)** | Pebble Beach, California, United States | On Site | Sep 21 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Tetra Pak](http://www.tetrapak.com)** | **[Customer Experience and Events Intern](https://jobright.ai/jobs/info/6aa9ee726d0edc2d91b0c985?utm_campaign=1053&utm_source=git)** | Denton, TX, United States | On Site | Sep 17 |
 | ↳ | **[Customer Experience and Events Intern](https://jobright.ai/jobs/info/6aa9ed7d09ae03adcace0448?utm_campaign=1053&utm_source=git)** | Denton, TX, United States | On Site | Sep 17 |
 | **[The Aparecio Foundation](https://www.apareciofoundation.org)** | **[Copy Editor Intern/Volunteer](https://jobright.ai/jobs/info/6aac3cc995c707f49dff0568?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | On Site | Sep 17 |
-| **[Ardea Partners](http://ardeapartners.com)** | **[2026 NY Women's Insights Day](https://jobright.ai/jobs/info/6aac0d1d636cddf7396f1e36?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Sep 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
