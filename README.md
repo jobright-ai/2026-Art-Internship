@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Aparecio Foundation](https://www.apareciofoundation.org)** | **[Volunteer/Intern:Editor of "Culture" Content in Felix](https://jobright.ai/jobs/info/6aa0a0caea127c3794698361?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | On Site | Sep 22 |
 | **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Spring 2027 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6ab2f72730340229a3230bb9?utm_campaign=1053&utm_source=git)** | Columbia, SC, United States | On Site | Sep 22 |
 | ↳ | **[Spring 2027 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6ab2f7091e4847ddae9177bc?utm_campaign=1053&utm_source=git)** | Bloomington, IN, United States | On Site | Sep 22 |
 | ↳ | **[Spring 2027 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6ab2f645326574570a004130?utm_campaign=1053&utm_source=git)** | Atlanta, GA, United States | On Site | Sep 22 |
@@ -154,7 +155,6 @@ For a complete list, click the following sortable link below:
 | **[The Tech Interactive](https://www.thetech.org)** | **[Storytelling and Community Research Intern (Fall Semester, Part Time)](https://jobright.ai/jobs/info/6aab227b76707040fb084628?utm_campaign=1053&utm_source=git)** | San Jose, CA, United States | On Site | Sep 17 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[WLS-TV (ABC7) Programming, Promotion & Publicity Intern, Spring 2027](https://jobright.ai/jobs/info/6aab1b038e1bf0f764af8858?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | On Site | Sep 16 |
 | **[IMPULSE UNIVERSE](https://www.linkedin.com/company/97222911)** | **[ANIME Impulse Programming & Activities Intern](https://jobright.ai/jobs/info/6aac7cfb2e757fcb5c8b5b8d?utm_campaign=1053&utm_source=git)** | Rosemead, CA, United States | Hybrid | Sep 16 |
-| **[The Seattle Times](http://seattletimes.com/)** | **[Summer 2027 News Producer Internship](https://jobright.ai/jobs/info/6aab24a4f6bd9d2d17c1bb33?utm_campaign=1053&utm_source=git)** | Seattle, WA, United States | On Site | Sep 16 |
-| ↳ | **[Summer 2027 Copy Editing Internship](https://jobright.ai/jobs/info/6aab24a4f6bd9d2d17c1bb34?utm_campaign=1053&utm_source=git)** | Seattle, WA, United States | On Site | Sep 16 |
-| **[Vestmark](https://www.vestmark.com)** | **[Intern - Video Production Coordinator](https://jobright.ai/jobs/info/6a99f9a4040e5c3d0759a0cb?utm_campaign=1053&utm_source=git)** | Wakefield, MA, United States | On Site | Sep 16 |
+| **[The Seattle Times](http://seattletimes.com/)** | **[Summer 2027 Copy Editing Internship](https://jobright.ai/jobs/info/6aab24a4f6bd9d2d17c1bb34?utm_campaign=1053&utm_source=git)** | Seattle, WA, United States | On Site | Sep 16 |
+| ↳ | **[Summer 2027 News Producer Internship](https://jobright.ai/jobs/info/6aab24a4f6bd9d2d17c1bb33?utm_campaign=1053&utm_source=git)** | Seattle, WA, United States | On Site | Sep 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
