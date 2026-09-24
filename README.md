@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Toyon Research Corporation](http://toyon.com)** | **[Video Labeling Intern](https://jobright.ai/jobs/info/6a9902cadd171c7285793716?utm_campaign=1053&utm_source=git)** | Goleta, CA, United States | On Site | Sep 24 |
 | **[Upptik Gives](https://upptik.com)** | **[Content Creator Intern](https://jobright.ai/jobs/info/6ab52a0b634ec6aa7c0cd641?utm_campaign=1053&utm_source=git)** | Connecticut, United States | Remote | Sep 24 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Intern](https://jobright.ai/jobs/info/6a9674f7455eaf6a08c17881?utm_campaign=1053&utm_source=git)** | Peoria, IL, United States | On Site | Sep 24 |
 | **[Allied Solutions LLC](http://www.alliedsolutions.net/)** | **[Studio Production Intern](https://jobright.ai/jobs/info/6a988552c8ed473c5c76483d?utm_campaign=1053&utm_source=git)** | Carmel, IN, United States | On Site | Sep 24 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[HDR](http://www.hdrinc.com)** | **[Cultural Resources Intern-WG](https://jobright.ai/jobs/info/6aade4a43d96632d741b0111?utm_campaign=1053&utm_source=git)** | Austin, TX, United States | On Site | Sep 18 |
 | **[Answers in Genesis](https://answersingenesis.org)** | **[Video Production Embark Intern Summer 2027](https://jobright.ai/jobs/info/6aada3d40ebc8fb2313eabeb?utm_campaign=1053&utm_source=git)** | Petersburg, KY, United States | On Site | Sep 18 |
 | **[The Washington Post](https://www.washingtonpost.com)** | **[Newsroom Summer Internship Program 2027: Graphics Reporter](https://jobright.ai/jobs/info/6a9095350bd89e205d24b1fd?utm_campaign=1053&utm_source=git)** | Washington Township, District of Columbia, United States | On Site | Sep 18 |
-| **[Mulbah](https://mulbahmedia.com/)** | **[Videography Intern](https://jobright.ai/jobs/info/6aad83262e757fcb5c8b8ce2?utm_campaign=1053&utm_source=git)** | Baltimore, MD, United States | Hybrid | Sep 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
