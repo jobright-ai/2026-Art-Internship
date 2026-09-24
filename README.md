@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Pilot Company](http://www.pilotflyingj.com)** | **[Program Intern, Internal Communications](https://jobright.ai/jobs/info/6ab5459c4873fd3fd85288a3?utm_campaign=1053&utm_source=git)** | Knoxville, TN, United States | On Site | Sep 24 |
 | **[Toyon Research Corporation](http://toyon.com)** | **[Video Labeling Intern](https://jobright.ai/jobs/info/6a9902cadd171c7285793716?utm_campaign=1053&utm_source=git)** | Goleta, CA, United States | On Site | Sep 24 |
 | **[Upptik Gives](https://upptik.com)** | **[Content Creator Intern](https://jobright.ai/jobs/info/6ab52a0b634ec6aa7c0cd641?utm_campaign=1053&utm_source=git)** | Connecticut, United States | Remote | Sep 24 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Intern](https://jobright.ai/jobs/info/6a9674f7455eaf6a08c17881?utm_campaign=1053&utm_source=git)** | Peoria, IL, United States | On Site | Sep 24 |
@@ -107,15 +108,14 @@ For a complete list, click the following sortable link below:
 | **[IAC](http://www.iac.com)** | **[Beauty & Wellness Intern](https://jobright.ai/jobs/info/6ab2b2c830340229a322f34e?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Sep 22 |
 | **[BRIDGE SHOWROOM](http://www.bridgeshowroom.com)** | **[Fashion Internship](https://jobright.ai/jobs/info/6ab2a4ad30340229a322ea35?utm_campaign=1053&utm_source=git)** | Atlanta, GA, United States | On Site | Sep 22 |
 | **[IAC](http://www.iac.com)** | **[Beauty & Wellness Intern](https://jobright.ai/jobs/info/6ab29abd78c69ff506c3f2b4?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Sep 22 |
-| **[BRIDGE SHOWROOM](http://www.bridgeshowroom.com)** | **[Fashion Intern](https://jobright.ai/jobs/info/6ab28dc78254c44790e55a21?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | On Site | Sep 22 |
 | **[Nashville Superspeedway](http://www.nashvillesuperspeedway.com)** | **[Intern](https://jobright.ai/jobs/info/6ab2a8ae78c69ff506c3f9cd?utm_campaign=1053&utm_source=git)** | Concord, NC, United States | On Site | Sep 22 |
 | **[The Daily Beast](http://www.thedailybeast.com)** | **[Beauty & Wellness Intern](https://jobright.ai/jobs/info/6ab32d501508734c1530df43?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Sep 22 |
 | **[ASM Global](https://asmglobal.com/)** | **[Hospitality Intern - The Meadows Music Theater](https://jobright.ai/jobs/info/6a510fcabf63b66c79978842?utm_campaign=1053&utm_source=git)** | Hartford, CT, United States | On Site | Sep 22 |
 | **[Hasana, Inc.](http://shophasana.com)** | **[Volunteer/Intern: Film/Video Editor](https://jobright.ai/jobs/info/6a584c973330ca6f993c3e99?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | On Site | Sep 22 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[KABC Digital News Intern, ABC7 en Español, Spring 2027](https://jobright.ai/jobs/info/6ab1cdd0191d8c340dbdce5a?utm_campaign=1053&utm_source=git)** | Glendale, CA, United States | On Site | Sep 21 |
 | ↳ | **[WABC-TV (ABC7) Digital Intern, Spring 2027](https://jobright.ai/jobs/info/6ab15e49191d8c340dbda2fc?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Sep 21 |
-| **[York Revolution](http://yorkrevolution.com)** | **[2027 Full-Time Video Director Intern - York Revolution](https://jobright.ai/jobs/info/6ab3578d5f2dfb58030a6ae1?utm_campaign=1053&utm_source=git)** | York, Pennsylvania, United States | On Site | Sep 21 |
-| ↳ | **[2027 Undergraduate Intern - York Revolution](https://jobright.ai/jobs/info/6ab357695f2dfb58030a6ad2?utm_campaign=1053&utm_source=git)** | York, Pennsylvania, United States | On Site | Sep 21 |
+| **[York Revolution](http://yorkrevolution.com)** | **[2027 Undergraduate Intern - York Revolution](https://jobright.ai/jobs/info/6ab357695f2dfb58030a6ad2?utm_campaign=1053&utm_source=git)** | York, Pennsylvania, United States | On Site | Sep 21 |
+| ↳ | **[2027 Full-Time Video Director Intern - York Revolution](https://jobright.ai/jobs/info/6ab3578d5f2dfb58030a6ae1?utm_campaign=1053&utm_source=git)** | York, Pennsylvania, United States | On Site | Sep 21 |
 | **[Sun Prairie Area School District](https://www.sunprairieschools.org/)** | **[Video Production and Broadcast: High School Work Study/Internship](https://jobright.ai/jobs/info/6ab1feae23005eee3545d2c0?utm_campaign=1053&utm_source=git)** | Sun Prairie, WI, United States | On Site | Sep 21 |
 | **[Astranis Space Technologies](http://www.astranis.com)** | **[Content Creator Intern (Fall 2026)](https://jobright.ai/jobs/info/6ab1b34032552369083e3f19?utm_campaign=1053&utm_source=git)** | San Francisco, CA, United States | On Site | Sep 21 |
 | **[The Ambony](https://www.anpublishing.com/)** | **[Center-Right Conservative Political Journalist Intern](https://jobright.ai/jobs/info/6ab1e63b23005eee3545ce8c?utm_campaign=1053&utm_source=git)** | Washington, DC, United States | Remote | Sep 21 |
