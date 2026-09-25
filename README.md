@@ -58,10 +58,10 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Fox News Media](https://www.foxnews.com/)** | **[FOX Noticias Internship Program](https://jobright.ai/jobs/info/6ab626984873fd3fd852cd45?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Sep 25 |
-| **[Fox Corporation](https://www.foxcorporation.com)** | **[Spring 2027 FOX Sports Internship Program - Audience Research – New York, NY](https://jobright.ai/jobs/info/6ab6057cd85922de20ce4196?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Sep 24 |
-| ↳ | **[Spring 2027 FOX News Media Internship Program - FOX Weather](https://jobright.ai/jobs/info/6ab605139d4843569fe4cc28?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Sep 24 |
-| ↳ | **[Spring 2027 FOX Sports - Big Ten Network Internship Program](https://jobright.ai/jobs/info/6ab6051f634ec6aa7c0d1e81?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | On Site | Sep 24 |
+| **[Fox Corporation](https://www.foxcorporation.com)** | **[Spring 2027 FOX Sports - Big Ten Network Internship Program](https://jobright.ai/jobs/info/6ab6051f634ec6aa7c0d1e81?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | On Site | Sep 24 |
+| ↳ | **[Spring 2027 FOX Sports Internship Program - Audience Research – New York, NY](https://jobright.ai/jobs/info/6ab6057cd85922de20ce4196?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Sep 24 |
 | ↳ | **[Spring 2027 FOX News Media Internship Program - FOX Noticias](https://jobright.ai/jobs/info/6ab605199d4843569fe4cc37?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Sep 24 |
+| ↳ | **[Spring 2027 FOX News Media Internship Program - FOX Weather](https://jobright.ai/jobs/info/6ab605139d4843569fe4cc28?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Sep 24 |
 | **[Audacy, Inc.](https://audacyinc.com/)** | **[Spring Internship](https://jobright.ai/jobs/info/6ab5b76d4873fd3fd852ba09?utm_campaign=1053&utm_source=git)** | Buffalo, NY, United States | On Site | Sep 24 |
 | **[Whitney Museum of American Art](http://whitney.org)** | **[[Spring 2027] Digital Content Internship](https://jobright.ai/jobs/info/6ab59db89d4843569fe4b46a?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Sep 24 |
 | **[Oakridge](danieldeboulay.com)** | **[Social Media Intern for Independent Film Producer](https://jobright.ai/jobs/info/6ab59b4ab3db59402d0fe23b?utm_campaign=1053&utm_source=git)** | Los Angeles metropolitan area, United States | Remote | Sep 24 |
