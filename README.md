@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Whitney Museum of American Art](http://whitney.org)** | **[[Spring 2027] Digital Content Internship](https://jobright.ai/jobs/info/6ab59db89d4843569fe4b46a?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Sep 24 |
+| **[Oakridge](danieldeboulay.com)** | **[Social Media Intern for Independent Film Producer](https://jobright.ai/jobs/info/6ab59b4ab3db59402d0fe23b?utm_campaign=1053&utm_source=git)** | Los Angeles metropolitan area, United States | Remote | Sep 24 |
 | **[Inc. Magazine](http://www.inc.com)** | **[Editorial Intern](https://jobright.ai/jobs/info/6ab587279d4843569fe4a57a?utm_campaign=1053&utm_source=git)** | New York City, NY, United States | Hybrid | Sep 24 |
 | **[Social View Agency](https://www.socialviewagency.com/)** | **[Content Creator Intern](https://jobright.ai/jobs/info/6ab586f49d4843569fe4a54f?utm_campaign=1053&utm_source=git)** | Charleston, SC, United States | On Site | Sep 24 |
 | **[BDH Collective](http://www.bdhcollective.com)** | **[Video Editing Intern](https://jobright.ai/jobs/info/6ab585cfc6fe0dec811a18d7?utm_campaign=1053&utm_source=git)** | Canada | Remote | Sep 24 |
@@ -92,7 +94,6 @@ For a complete list, click the following sortable link below:
 | **[The Sea Pines Resort](https://www.seapines.com/)** | **[Golf Intern](https://jobright.ai/jobs/info/6ab3375a30340229a3231e58?utm_campaign=1053&utm_source=git)** | Hilton Head Island, SC, United States | Hybrid | Sep 22 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Intern - Events & Programs - Jan Dempsey Community Arts Center](https://jobright.ai/jobs/info/6ab36412835ccf4a28117b36?utm_campaign=1053&utm_source=git)** | Auburn, AL, United States | On Site | Sep 22 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[FX Production & Special Projects Intern, Spring 2027](https://jobright.ai/jobs/info/6ab304bc1e4847ddae917e31?utm_campaign=1053&utm_source=git)** | Burbank, CA, United States | On Site | Sep 22 |
-| **[Shunyatax Global](https://shunyatax.in/)** | **[Video Content Intern - US](https://jobright.ai/jobs/info/6ab3569e16511e254891be6b?utm_campaign=1053&utm_source=git)** | United States | Remote | Sep 22 |
 | **[iCrossing](http://www.icrossing.com)** | **[Food & Events Intern](https://jobright.ai/jobs/info/6ab33df78254c44790e59a03?utm_campaign=1053&utm_source=git)** | Dallas, TX, United States | Hybrid | Sep 22 |
 | **[Hearst Television](http://www.hearsttelevision.com)** | **[Sports Intern](https://jobright.ai/jobs/info/6ab3304478c69ff506c429fb?utm_campaign=1053&utm_source=git)** | Dallas, TX, United States | Hybrid | Sep 22 |
 | ↳ | **[Local News Intern](https://jobright.ai/jobs/info/6ab32fd678c69ff506c429f5?utm_campaign=1053&utm_source=git)** | Dallas, TX, United States | Hybrid | Sep 22 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Faclon Labs](http://faclon.com/)** | **[Video Production & Editing Intern](https://jobright.ai/jobs/info/6ab0d87ddd960b415641a1f9?utm_campaign=1053&utm_source=git)** | United States | Remote | Sep 21 |
 | **[News Corp](https://newscorp.com/)** | **[2027 Summer Internship - Editorial and Marketing, Thomas Nelson Fiction (Nashville, TN Hybrid)](https://jobright.ai/jobs/info/6ab1e9cb191d8c340dbdd324?utm_campaign=1053&utm_source=git)** | Nashville, TN, United States | Hybrid | Sep 20 |
 | **[The Aparecio Foundation](https://www.apareciofoundation.org)** | **[Volunteer/Intern:Editor of "Entertainment" Content in Felix](https://jobright.ai/jobs/info/6aaa65b0f116e49925534f46?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | Remote | Sep 20 |
-| **[Northline Roofing, LLC](https://www.northlineroofing.com)** | **[Content Creator / Videographer Intern](https://jobright.ai/jobs/info/6ab0611f3d96632d741b3293?utm_campaign=1053&utm_source=git)** | Charlotte, NC, United States | On Site | Sep 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
