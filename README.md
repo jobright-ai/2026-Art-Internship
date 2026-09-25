@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Academy of Country Music](https://www.acmcountry.com)** | **[ACM Lifting Lives Intern](https://jobright.ai/jobs/info/6ab60a3a9d4843569fe4cd69?utm_campaign=1053&utm_source=git)** | Nashville, TN, United States | On Site | Sep 24 |
+| **[Fox Corporation](https://www.foxcorporation.com)** | **[Spring 2027 FOX News Media Internship Program - FOX Weather](https://jobright.ai/jobs/info/6ab605139d4843569fe4cc28?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Sep 24 |
+| ↳ | **[Spring 2027 FOX Sports Internship Program - Audience Research – New York, NY](https://jobright.ai/jobs/info/6ab6057cd85922de20ce4196?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Sep 24 |
+| ↳ | **[Spring 2027 FOX News Media Internship Program - FOX Noticias](https://jobright.ai/jobs/info/6ab605199d4843569fe4cc37?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Sep 24 |
+| ↳ | **[Spring 2027 FOX Sports - Big Ten Network Internship Program](https://jobright.ai/jobs/info/6ab6051f634ec6aa7c0d1e81?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | On Site | Sep 24 |
 | **[Audacy, Inc.](https://audacyinc.com/)** | **[Spring Internship](https://jobright.ai/jobs/info/6ab5b76d4873fd3fd852ba09?utm_campaign=1053&utm_source=git)** | Buffalo, NY, United States | On Site | Sep 24 |
 | **[Whitney Museum of American Art](http://whitney.org)** | **[[Spring 2027] Digital Content Internship](https://jobright.ai/jobs/info/6ab59db89d4843569fe4b46a?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Sep 24 |
 | **[Oakridge](danieldeboulay.com)** | **[Social Media Intern for Independent Film Producer](https://jobright.ai/jobs/info/6ab59b4ab3db59402d0fe23b?utm_campaign=1053&utm_source=git)** | Los Angeles metropolitan area, United States | Remote | Sep 24 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Travel Radar](https://travelradar.aero)** | **[Journalism Intern (Florida)](https://jobright.ai/jobs/info/6ab13474191d8c340dbd93b4?utm_campaign=1053&utm_source=git)** | Florida, United States | Remote | Sep 21 |
 | **[Monterey Peninsula Country Club](http://www.mpccpb.org)** | **[PGA Intern](https://jobright.ai/jobs/info/6a8bcd13e8b6601d1290cad6?utm_campaign=1053&utm_source=git)** | Pebble Beach, California, United States | On Site | Sep 21 |
 | **[Hearst Television](http://www.hearsttelevision.com)** | **[Intern (Fall)](https://jobright.ai/jobs/info/6a1d794e3e538a28c2049c97?utm_campaign=1053&utm_source=git)** | 3 Television Circle, Sacramento, CA, 95814, US | On Site | Sep 21 |
-| **[Elite Podcast Studio](ElitePodcastStudio.com)** | **[Internship Tampa Content Creator](https://jobright.ai/jobs/info/6aad0363421662ebd00f0f88?utm_campaign=1053&utm_source=git)** | Odessa, FL, United States | On Site | Sep 21 |
-| **[TapBlaze](http://www.tapblaze.com)** | **[Narrative Design Intern](https://jobright.ai/jobs/info/6ab0dd76de327d3e210d8fc4?utm_campaign=1053&utm_source=git)** | Los Angeles, California, United States | On Site | Sep 21 |
-| **[Faclon Labs](http://faclon.com/)** | **[Video Production & Editing Intern](https://jobright.ai/jobs/info/6ab0d87ddd960b415641a1f9?utm_campaign=1053&utm_source=git)** | United States | Remote | Sep 21 |
-| **[News Corp](https://newscorp.com/)** | **[2027 Summer Internship - Editorial and Marketing, Thomas Nelson Fiction (Nashville, TN Hybrid)](https://jobright.ai/jobs/info/6ab1e9cb191d8c340dbdd324?utm_campaign=1053&utm_source=git)** | Nashville, TN, United States | Hybrid | Sep 20 |
-| **[The Aparecio Foundation](https://www.apareciofoundation.org)** | **[Volunteer/Intern:Editor of "Entertainment" Content in Felix](https://jobright.ai/jobs/info/6aaa65b0f116e49925534f46?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | Remote | Sep 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
