@@ -57,14 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Hearst Newspapers](https://eevd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_15)** | **[Houston Chronicle Visuals Internship](https://jobright.ai/jobs/info/6ab67a51b3db59402d1008a3?utm_campaign=1053&utm_source=git)** | Houston, TX, United States | On Site | Sep 25 |
+| **[Hearst Newspapers](https://eevd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_15)** | **[Audience Intern](https://jobright.ai/jobs/info/6ab67eb14873fd3fd852d706?utm_campaign=1053&utm_source=git)** | Houston, TX, United States | Hybrid | Sep 25 |
+| ↳ | **[Houston Chronicle Visuals Internship](https://jobright.ai/jobs/info/6ab67ea94873fd3fd852d702?utm_campaign=1053&utm_source=git)** | Houston, TX, United States | On Site | Sep 25 |
+| ↳ | **[Houston Chronicle Visuals Internship](https://jobright.ai/jobs/info/6ab67a51b3db59402d1008a3?utm_campaign=1053&utm_source=git)** | Houston, TX, United States | On Site | Sep 25 |
 | ↳ | **[Audience Intern](https://jobright.ai/jobs/info/6ab67a4c634ec6aa7c0d2bff?utm_campaign=1053&utm_source=git)** | Houston, TX, United States | On Site | Sep 25 |
 | **[iCrossing](http://www.icrossing.com)** | **[Houston Chronicle Visuals Internship](https://jobright.ai/jobs/info/6ab67a434873fd3fd852d667?utm_campaign=1053&utm_source=git)** | Houston, TX, United States | On Site | Sep 25 |
 | ↳ | **[Audience Intern](https://jobright.ai/jobs/info/6ab67a3c4873fd3fd852d660?utm_campaign=1053&utm_source=git)** | Houston, TX, United States | On Site | Sep 25 |
 | **[FDB (First Databank, Inc.)](http://fdbhealth.com)** | **[Audience Intern](https://jobright.ai/jobs/info/6ab679cdb3db59402d100882?utm_campaign=1053&utm_source=git)** | Houston, TX, United States | On Site | Sep 25 |
 | ↳ | **[Houston Chronicle Visuals Internship](https://jobright.ai/jobs/info/6ab6794fc6fe0dec811a4e27?utm_campaign=1053&utm_source=git)** | Houston, TX, United States | On Site | Sep 25 |
-| **[Hearst Newspapers](https://eevd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_15)** | **[Houston Chronicle Visuals Internship](https://jobright.ai/jobs/info/6ab6765e9d4843569fe4d937?utm_campaign=1053&utm_source=git)** | Houston, TX, United States | On Site | Sep 25 |
-| ↳ | **[Audience Intern](https://jobright.ai/jobs/info/6ab6765db3db59402d1007e8?utm_campaign=1053&utm_source=git)** | Houston, TX, United States | Hybrid | Sep 25 |
 | **[Houston Chronicle](http://www.houstonchronicle.com/)** | **[Audience Intern](https://jobright.ai/jobs/info/6ab670ccb3db59402d100682?utm_campaign=1053&utm_source=git)** | Houston, TX, United States | On Site | Sep 25 |
 | ↳ | **[Houston Chronicle Visuals Internship](https://jobright.ai/jobs/info/6ab670b8b3db59402d10067e?utm_campaign=1053&utm_source=git)** | Houston, TX, United States | On Site | Sep 25 |
 | **[Homecare Homebase](http://www.hchb.com)** | **[Audience Intern](https://jobright.ai/jobs/info/6ab66c04d85922de20ce4c0e?utm_campaign=1053&utm_source=git)** | Houston, TX, United States | On Site | Sep 25 |
@@ -73,9 +73,9 @@ For a complete list, click the following sortable link below:
 | **[Hearst Television](http://www.hearsttelevision.com)** | **[Audience Intern](https://jobright.ai/jobs/info/6ab66be4b3db59402d100588?utm_campaign=1053&utm_source=git)** | Houston, TX, United States | On Site | Sep 25 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Intern](https://jobright.ai/jobs/info/6a9674f7455eaf6a08c17881?utm_campaign=1053&utm_source=git)** | Peoria, IL, United States | On Site | Sep 25 |
 | **[Fox News Media](https://www.foxnews.com/)** | **[FOX Noticias Internship Program](https://jobright.ai/jobs/info/6ab626984873fd3fd852cd45?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Sep 25 |
-| **[Fox Corporation](https://www.foxcorporation.com)** | **[Spring 2027 FOX News Media Internship Program - FOX Weather](https://jobright.ai/jobs/info/6ab605139d4843569fe4cc28?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Sep 24 |
+| **[Fox Corporation](https://www.foxcorporation.com)** | **[Spring 2027 FOX Sports Internship Program - Audience Research – New York, NY](https://jobright.ai/jobs/info/6ab6057cd85922de20ce4196?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Sep 24 |
 | ↳ | **[Spring 2027 FOX Sports - Big Ten Network Internship Program](https://jobright.ai/jobs/info/6ab6051f634ec6aa7c0d1e81?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | On Site | Sep 24 |
-| ↳ | **[Spring 2027 FOX Sports Internship Program - Audience Research – New York, NY](https://jobright.ai/jobs/info/6ab6057cd85922de20ce4196?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Sep 24 |
+| ↳ | **[Spring 2027 FOX News Media Internship Program - FOX Weather](https://jobright.ai/jobs/info/6ab605139d4843569fe4cc28?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Sep 24 |
 | ↳ | **[Spring 2027 FOX News Media Internship Program - FOX Noticias](https://jobright.ai/jobs/info/6ab605199d4843569fe4cc37?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Sep 24 |
 | **[Audacy, Inc.](https://audacyinc.com/)** | **[Spring Internship](https://jobright.ai/jobs/info/6ab5b76d4873fd3fd852ba09?utm_campaign=1053&utm_source=git)** | Buffalo, NY, United States | On Site | Sep 24 |
 | **[Whitney Museum of American Art](http://whitney.org)** | **[[Spring 2027] Digital Content Internship](https://jobright.ai/jobs/info/6ab59db89d4843569fe4b46a?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Sep 24 |
