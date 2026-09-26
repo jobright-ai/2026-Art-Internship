@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Spectrum](https://www.spectrum.com)** | **[2027 Summer Intern: Associate L&D Writer (Customer Operations)](https://jobright.ai/jobs/info/6ab78c38ba1c25652c6122ed?utm_campaign=1053&utm_source=git)** | Charlotte, NC, United States | On Site | Sep 26 |
 | **[Martin Marietta](http://martinmarietta.com)** | **[Production Intern](https://jobright.ai/jobs/info/6ab7447c3a2ec87116e25d32?utm_campaign=1053&utm_source=git)** | Idaho Springs, CO, United States | On Site | Sep 25 |
 | **[POLITICO](http://www.politico.com)** | **[Audio/Video Intern, HQ (Summer 2027)](https://jobright.ai/jobs/info/6ab6d7ccba1c25652c61036c?utm_campaign=1053&utm_source=git)** | Arlington, VA, United States | Hybrid | Sep 25 |
 | **[Arcwize](https://www.arcwize.com)** | **[Editorial Writing Internship](https://jobright.ai/jobs/info/6ab71f4981e327c4bf202962?utm_campaign=1053&utm_source=git)** | United States | Remote | Sep 25 |
@@ -88,9 +89,9 @@ For a complete list, click the following sortable link below:
 | **[The University of New Mexico](http://unm.edu)** | **[Journalism Intern](https://jobright.ai/jobs/info/6ab6f08f3a2ec87116e24b52?utm_campaign=1053&utm_source=git)** | Albuquerque, NM, United States | On Site | Sep 24 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Video Production, People Content (Winter/Spring 2027)](https://jobright.ai/jobs/info/6ab6fe3739fd8792cb73d132?utm_campaign=1053&utm_source=git)** | Austin, TX, United States | On Site | Sep 24 |
 | **[Fox Corporation](https://www.foxcorporation.com)** | **[Spring 2027 FOX Entertainment Internship Program - New York](https://jobright.ai/jobs/info/6ab694a9d85922de20ce5619?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Sep 24 |
+| ↳ | **[Spring 2027 FOX News Media Internship Program - FOX Noticias](https://jobright.ai/jobs/info/6ab605199d4843569fe4cc37?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Sep 24 |
 | ↳ | **[Spring 2027 FOX Sports Internship Program - Audience Research – New York, NY](https://jobright.ai/jobs/info/6ab6057cd85922de20ce4196?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Sep 24 |
 | ↳ | **[Spring 2027 FOX Sports - Big Ten Network Internship Program](https://jobright.ai/jobs/info/6ab6051f634ec6aa7c0d1e81?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | On Site | Sep 24 |
-| ↳ | **[Spring 2027 FOX News Media Internship Program - FOX Noticias](https://jobright.ai/jobs/info/6ab605199d4843569fe4cc37?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Sep 24 |
 | ↳ | **[Spring 2027 FOX News Media Internship Program - FOX Weather](https://jobright.ai/jobs/info/6ab605139d4843569fe4cc28?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Sep 24 |
 | **[Audacy, Inc.](https://audacyinc.com/)** | **[Spring Internship](https://jobright.ai/jobs/info/6ab5b76d4873fd3fd852ba09?utm_campaign=1053&utm_source=git)** | Buffalo, NY, United States | On Site | Sep 24 |
 | **[Whitney Museum of American Art](http://whitney.org)** | **[[Spring 2027] Digital Content Internship](https://jobright.ai/jobs/info/6ab59db89d4843569fe4b46a?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Sep 24 |
@@ -98,7 +99,7 @@ For a complete list, click the following sortable link below:
 | **[Social View Agency](https://www.socialviewagency.com/)** | **[Content Creator Intern](https://jobright.ai/jobs/info/6ab586f49d4843569fe4a54f?utm_campaign=1053&utm_source=git)** | Charleston, SC, United States | On Site | Sep 24 |
 | **[BDH Collective](http://www.bdhcollective.com)** | **[Video Editing Intern](https://jobright.ai/jobs/info/6ab585cfc6fe0dec811a18d7?utm_campaign=1053&utm_source=git)** | Canada | Remote | Sep 24 |
 | **[Philadelphia magazine](http://www.phillymag.com/)** | **[Editorial Internship-CREDIT ONLY](https://jobright.ai/jobs/info/6ab57195634ec6aa7c0cef41?utm_campaign=1053&utm_source=git)** | Philadelphia, PA, United States | On Site | Sep 24 |
-| **[Pilot Company](http://www.pilotflyingj.com)** | **[Program Intern, Internal Communications](https://jobright.ai/jobs/info/6ab5568cc6fe0dec811a08f5?utm_campaign=1053&utm_source=git)** | Knoxville, TN, United States | On Site | Sep 24 |
+| **[Pilot Company](http://www.pilotflyingj.com)** | **[Program Intern, Internal Communications](https://jobright.ai/jobs/info/6ab5459c4873fd3fd85288a3?utm_campaign=1053&utm_source=git)** | Knoxville, TN, United States | On Site | Sep 24 |
 | **[Pilot Flying J](http://www.pilotflyingj.com)** | **[Program Intern, Internal Communications](https://jobright.ai/jobs/info/6ab55ba04873fd3fd852927c?utm_campaign=1053&utm_source=git)** | Knoxville, Tennessee, United States | On Site | Sep 24 |
 | **[Toyon Research Corporation](http://toyon.com)** | **[Video Labeling Intern](https://jobright.ai/jobs/info/6a9902cadd171c7285793716?utm_campaign=1053&utm_source=git)** | Goleta, CA, United States | On Site | Sep 24 |
 | **[Upptik Gives](https://upptik.com)** | **[Content Creator Intern](https://jobright.ai/jobs/info/6ab52a0b634ec6aa7c0cd641?utm_campaign=1053&utm_source=git)** | Connecticut, United States | Remote | Sep 24 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Astranis Space Technologies](http://www.astranis.com)** | **[Content Creator Intern (Fall 2026)](https://jobright.ai/jobs/info/6ab1b34032552369083e3f19?utm_campaign=1053&utm_source=git)** | San Francisco, CA, United States | On Site | Sep 21 |
 | **[The Ambony](https://www.anpublishing.com/)** | **[Center-Right Conservative Political Journalist Intern](https://jobright.ai/jobs/info/6ab1e63b23005eee3545ce8c?utm_campaign=1053&utm_source=git)** | Washington, DC, United States | Remote | Sep 21 |
 | **[The Bridge Teen Center](https://thebridgeteencenter.org)** | **[Video Production and Media Internship](https://jobright.ai/jobs/info/6ab1db82d43eb922ca0c14a1?utm_campaign=1053&utm_source=git)** | Orland Park, IL, United States | On Site | Sep 21 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Disney Kids and Family Production Management Intern, Spring 2027](https://jobright.ai/jobs/info/6ab15e43d43eb922ca0be610?utm_campaign=1053&utm_source=git)** | Glendale, CA, United States | On Site | Sep 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
