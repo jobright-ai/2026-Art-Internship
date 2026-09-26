@@ -57,8 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid News Intern](https://jobright.ai/jobs/info/6972b01a9b83b424830eb8a4?utm_campaign=1053&utm_source=git)** | IN-Indianapolis;6910 Network Place (Tribune-WXIN/WTTV) | On Site | Sep 26 |
-| ↳ | **[Unpaid Intern](https://jobright.ai/jobs/info/6a9674f7455eaf6a08c17881?utm_campaign=1053&utm_source=git)** | Peoria, IL, United States | On Site | Sep 26 |
+| **[Stichting Aralez](https://stichtingaralez.wordpress.com/)** | **[Vacature: Stage / Intern for Aralez](https://jobright.ai/jobs/info/6ab82ea781e327c4bf2040cd?utm_campaign=1053&utm_source=git)** | Indiana, United States | Remote | Sep 26 |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Intern](https://jobright.ai/jobs/info/6a9674f7455eaf6a08c17881?utm_campaign=1053&utm_source=git)** | Peoria, IL, United States | On Site | Sep 26 |
+| ↳ | **[Unpaid News Intern](https://jobright.ai/jobs/info/6972b01a9b83b424830eb8a4?utm_campaign=1053&utm_source=git)** | IN-Indianapolis;6910 Network Place (Tribune-WXIN/WTTV) | On Site | Sep 26 |
 | ↳ | **[Intern - KOIN / KRCW - Portland, OR (Unpaid)](https://jobright.ai/jobs/info/6a526c03d007ee02d95f77ac?utm_campaign=1053&utm_source=git)** | OR, Portland, United States of America | On Site | Sep 26 |
 | **[FDB (First Databank, Inc.)](http://fdbhealth.com)** | **[Creative Services Intern](https://jobright.ai/jobs/info/6a5bc8f53ac7627fe9009170?utm_campaign=1053&utm_source=git)** | Manchester, NH, United States | On Site | Sep 26 |
 | **[Spectrum](https://www.spectrum.com)** | **[2027 Summer Intern: Associate L&D Writer (Customer Operations)](https://jobright.ai/jobs/info/6ab78c38ba1c25652c6122ed?utm_campaign=1053&utm_source=git)** | Charlotte, NC, United States | On Site | Sep 26 |
@@ -66,7 +67,7 @@ For a complete list, click the following sortable link below:
 | **[POLITICO](http://www.politico.com)** | **[Audio/Video Intern, HQ (Summer 2027)](https://jobright.ai/jobs/info/6ab6d7ccba1c25652c61036c?utm_campaign=1053&utm_source=git)** | Arlington, VA, United States | Hybrid | Sep 25 |
 | **[Arcwize](https://www.arcwize.com)** | **[Editorial Writing Internship](https://jobright.ai/jobs/info/6ab71f4981e327c4bf202962?utm_campaign=1053&utm_source=git)** | United States | Remote | Sep 25 |
 | **[ISO New England Inc.](http://www.iso-ne.com)** | **[Student Internship - Corporate Communications Reporter](https://jobright.ai/jobs/info/6ab6ece4d7fde2c08ec8a26d?utm_campaign=1053&utm_source=git)** | Holyoke, MA, United States | On Site | Sep 25 |
-| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Video Editing Intern](https://jobright.ai/jobs/info/6ab6ad9cc6fe0dec811a611e?utm_campaign=1053&utm_source=git)** | Raleigh, NC, United States | Hybrid | Sep 25 |
+| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Video Editing Intern](https://jobright.ai/jobs/info/6ab6ad9ac6fe0dec811a611d?utm_campaign=1053&utm_source=git)** | Raleigh, NC, United States | Hybrid | Sep 25 |
 | **[The University of New Mexico Health Sciences Center](https://hsc.unm.edu/)** | **[Journalism Intern](https://jobright.ai/jobs/info/6ab6b8feb3db59402d101fc7?utm_campaign=1053&utm_source=git)** | Albuquerque, NM, United States | On Site | Sep 25 |
 | **[POLITICO](http://www.politico.com)** | **[Audio/Video Intern, HQ (Spring 2027)](https://jobright.ai/jobs/info/6ab6b5b9c6fe0dec811a645f?utm_campaign=1053&utm_source=git)** | Arlington, VA, United States | Hybrid | Sep 25 |
 | **[American Enterprise Institute](http://www.aei.org)** | **[Spring Intern: Editing Services](https://jobright.ai/jobs/info/6ab6b64fc6fe0dec811a64a8?utm_campaign=1053&utm_source=git)** | Washington, DC, United States | On Site | Sep 25 |
@@ -92,9 +93,9 @@ For a complete list, click the following sortable link below:
 | **[Tesla](https://www.tesla.com)** | **[Internship, Video Production, People Content (Winter/Spring 2027)](https://jobright.ai/jobs/info/6ab6fe3739fd8792cb73d132?utm_campaign=1053&utm_source=git)** | Austin, TX, United States | On Site | Sep 24 |
 | **[Fox Corporation](https://www.foxcorporation.com)** | **[Spring 2027 FOX Entertainment Internship Program - New York](https://jobright.ai/jobs/info/6ab694a9d85922de20ce5619?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Sep 24 |
 | ↳ | **[Spring 2027 FOX News Media Internship Program - FOX Weather](https://jobright.ai/jobs/info/6ab605139d4843569fe4cc28?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Sep 24 |
+| ↳ | **[Spring 2027 FOX Sports - Big Ten Network Internship Program](https://jobright.ai/jobs/info/6ab6051f634ec6aa7c0d1e81?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | On Site | Sep 24 |
 | ↳ | **[Spring 2027 FOX News Media Internship Program - FOX Noticias](https://jobright.ai/jobs/info/6ab605199d4843569fe4cc37?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Sep 24 |
 | ↳ | **[Spring 2027 FOX Sports Internship Program - Audience Research – New York, NY](https://jobright.ai/jobs/info/6ab6057cd85922de20ce4196?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Sep 24 |
-| ↳ | **[Spring 2027 FOX Sports - Big Ten Network Internship Program](https://jobright.ai/jobs/info/6ab6051f634ec6aa7c0d1e81?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | On Site | Sep 24 |
 | **[Audacy, Inc.](https://audacyinc.com/)** | **[Spring Internship](https://jobright.ai/jobs/info/6ab5b76d4873fd3fd852ba09?utm_campaign=1053&utm_source=git)** | Buffalo, NY, United States | On Site | Sep 24 |
 | **[Whitney Museum of American Art](http://whitney.org)** | **[[Spring 2027] Digital Content Internship](https://jobright.ai/jobs/info/6ab59db89d4843569fe4b46a?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Sep 24 |
 | **[Inc. Magazine](http://www.inc.com)** | **[Editorial Intern](https://jobright.ai/jobs/info/6ab587279d4843569fe4a57a?utm_campaign=1053&utm_source=git)** | New York City, NY, United States | Hybrid | Sep 24 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[York Revolution](http://yorkrevolution.com)** | **[2027 Full-Time Video Director Intern - York Revolution](https://jobright.ai/jobs/info/6ab3578d5f2dfb58030a6ae1?utm_campaign=1053&utm_source=git)** | York, Pennsylvania, United States | On Site | Sep 21 |
 | ↳ | **[2027 Undergraduate Intern - York Revolution](https://jobright.ai/jobs/info/6ab357695f2dfb58030a6ad2?utm_campaign=1053&utm_source=git)** | York, Pennsylvania, United States | On Site | Sep 21 |
 | **[Sun Prairie Area School District](https://www.sunprairieschools.org/)** | **[Video Production and Broadcast: High School Work Study/Internship](https://jobright.ai/jobs/info/6ab1feae23005eee3545d2c0?utm_campaign=1053&utm_source=git)** | Sun Prairie, WI, United States | On Site | Sep 21 |
-| **[Astranis Space Technologies](http://www.astranis.com)** | **[Content Creator Intern (Fall 2026)](https://jobright.ai/jobs/info/6ab1b34032552369083e3f19?utm_campaign=1053&utm_source=git)** | San Francisco, CA, United States | On Site | Sep 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
