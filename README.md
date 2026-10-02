@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SIFF](https://www.siff.fr)** | **[NFFTY Intern 2027](https://jobright.ai/jobs/info/6abf1486064da25272e0458d?utm_campaign=1053&utm_source=git)** | Seattle, WA, United States | Hybrid | Oct 01 |
 | **[WAVY-TV 10](http://wavy.com)** | **[WAVY Unpaid Sports Intern, Spring 2027](https://jobright.ai/jobs/info/6abf0e40372c01f6cd727192?utm_campaign=1053&utm_source=git)** | Portsmouth, VA, United States | On Site | Oct 01 |
 | ↳ | **[WAVY-TV 10 Unpaid CTV Streaming Content Production Intern, Spring 2027](https://jobright.ai/jobs/info/6abf0e1e372c01f6cd72718c?utm_campaign=1053&utm_source=git)** | Portsmouth, VA, United States | On Site | Oct 01 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[WAVY Unpaid Digital Intern, Spring 2027](https://jobright.ai/jobs/info/6abee9b9d9621c5b283924da?utm_campaign=1053&utm_source=git)** | Portsmouth, VA, United States | On Site | Oct 01 |
@@ -65,7 +66,6 @@ For a complete list, click the following sortable link below:
 | **[Biogen](https://www.biogen.com/en_us/home.html)** | **[Co-op, Video Production and Digital Content](https://jobright.ai/jobs/info/6abee6f74ac55253f5d63925?utm_campaign=1053&utm_source=git)** | Cambridge, MA, United States | Hybrid | Oct 01 |
 | **[Pittsburgh Riverhounds SC](https://www.riverhounds.com)** | **[Riverhounds Development Academy Content Creator & On-Camera Host Intern — Spring 2027](https://jobright.ai/jobs/info/6abede02372c01f6cd7263e5?utm_campaign=1053&utm_source=git)** | Pittsburgh, PA, United States | On Site | Oct 01 |
 | **[Spectrum](https://www.spectrum.com)** | **[Newhouse LA Study Away Internship - Spectrum News RSN](https://jobright.ai/jobs/info/6abec0cb8ff3fb9b3bc75873?utm_campaign=1053&utm_source=git)** | El Segundo, CA, United States | On Site | Oct 01 |
-| **[Culturally Arts Collective](http://www.culturallyarts.com)** | **[Editorial Intern, Art Market & Digital Publishing](https://jobright.ai/jobs/info/6abed52b4ac55253f5d631ae?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Remote | Oct 01 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Internal Communications Specialist)](https://jobright.ai/jobs/info/6aa168cfdbc0e60e37e111eb?utm_campaign=1053&utm_source=git)** | Vienna, VA, United States | Hybrid | Oct 01 |
 | **[Cincinnati Magazine](https://www.cincinnatimagazine.com)** | **[Editorial Intern](https://jobright.ai/jobs/info/6abec914064da25272e02f91?utm_campaign=1053&utm_source=git)** | Cincinnati, OH, United States | Hybrid | Oct 01 |
 | **[The Children's Museum of Indianapolis](https://www.childrensmuseum.org)** | **[Guest Experience Intern (RSLE) - Spring 2027](https://jobright.ai/jobs/info/6abeacad8ff3fb9b3bc75076?utm_campaign=1053&utm_source=git)** | Indianapolis, IN 46208, United States | On Site | Oct 01 |
