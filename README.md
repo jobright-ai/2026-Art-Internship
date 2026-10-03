@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Lifestyle Show Intern](https://jobright.ai/jobs/info/6ac115db4ac55253f5d69fb0?utm_campaign=1053&utm_source=git)** | Spartanburg, SC, United States | On Site | Oct 03 |
 | **[Advisors Excel](http://advisorsexcel.com)** | **[Video Intern](https://jobright.ai/jobs/info/6aa4d423a77a53f5a156e3ea?utm_campaign=1053&utm_source=git)** | Topeka, KS, United States | On Site | Oct 03 |
 | **[The Toro Company](https://www.thetorocompany.com)** | **[Video and Interactive Training Production Intern - Ditch Witch](https://jobright.ai/jobs/info/6aa3aa4c959a10d7230d3185?utm_campaign=1053&utm_source=git)** | Perry, OK, United States | On Site | Oct 03 |
 | **[Red Velvet Studios](redvelvetstudio.com)** | **[Music Event Intern (Los Angeles)](https://jobright.ai/jobs/info/6ac05cd60e027c0f3b3a11ac?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | On Site | Oct 02 |
@@ -67,11 +68,11 @@ For a complete list, click the following sortable link below:
 | **[San Francisco Chronicle](http://www.sfgate.com)** | **[Data Reporting Intern, Summer 2027](https://jobright.ai/jobs/info/6aa398e84233a2201a2b2511?utm_campaign=1053&utm_source=git)** | San Francisco, CA, United States | On Site | Oct 02 |
 | **[Hearst Newspapers](https://eevd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_15)** | **[Data Reporting Intern, Summer 2027](https://jobright.ai/jobs/info/6aa3e4261d92e2d05d1120fe?utm_campaign=1053&utm_source=git)** | San Francisco, CA, United States | Hybrid | Oct 02 |
 | ↳ | **[Breaking News Reporting Intern, Summer 2027](https://jobright.ai/jobs/info/6ab582a2b3db59402d0fd08e?utm_campaign=1053&utm_source=git)** | San Francisco, CA, United States | Hybrid | Oct 02 |
-| **[Martin Marietta](http://martinmarietta.com)** | **[Production Intern](https://jobright.ai/jobs/info/6aaa164c28e24cb38513e325?utm_campaign=1053&utm_source=git)** | Colorado Springs, CO, United States | On Site | Oct 02 |
-| ↳ | **[Production Intern](https://jobright.ai/jobs/info/6aaa1622120c360b6bd4a951?utm_campaign=1053&utm_source=git)** | Granite Canyon, WY, United States | On Site | Oct 02 |
-| ↳ | **[Production Intern](https://jobright.ai/jobs/info/6aaa16333387a3d9b67d8f8b?utm_campaign=1053&utm_source=git)** | Idaho Springs, CO, United States | On Site | Oct 02 |
-| ↳ | **[Production Intern](https://jobright.ai/jobs/info/6aaa16293387a3d9b67d8f84?utm_campaign=1053&utm_source=git)** | Colorado Springs, CO, United States | On Site | Oct 02 |
+| **[Martin Marietta](http://martinmarietta.com)** | **[Production Intern](https://jobright.ai/jobs/info/6aaa164e10b1cd4f41609ca5?utm_campaign=1053&utm_source=git)** | Granite Canyon, WY, United States | On Site | Oct 02 |
 | ↳ | **[Production Intern](https://jobright.ai/jobs/info/6ab7447c3a2ec87116e25d32?utm_campaign=1053&utm_source=git)** | Idaho Springs, CO, United States | On Site | Oct 02 |
+| ↳ | **[Production Intern](https://jobright.ai/jobs/info/6aaa164c28e24cb38513e325?utm_campaign=1053&utm_source=git)** | Colorado Springs, CO, United States | On Site | Oct 02 |
+| ↳ | **[Production Intern](https://jobright.ai/jobs/info/6aaa16293387a3d9b67d8f84?utm_campaign=1053&utm_source=git)** | Colorado Springs, CO, United States | On Site | Oct 02 |
+| ↳ | **[Production Intern](https://jobright.ai/jobs/info/6aaa16333387a3d9b67d8f8b?utm_campaign=1053&utm_source=git)** | Idaho Springs, CO, United States | On Site | Oct 02 |
 | **[Zipline](https://www.zipline.com/)** | **[Video Production and Social Media Intern (Spring 2027)](https://jobright.ai/jobs/info/6a85d6d7e459fa3baa864167?utm_campaign=1053&utm_source=git)** | South San Francisco, CA, United States | On Site | Oct 02 |
 | **[The Texas Tribune](http://www.texastribune.org/)** | **[The Texas Tribune 2027 Student Fellowships](https://jobright.ai/jobs/info/6ac008948ff3fb9b3bc7a4a9?utm_campaign=1053&utm_source=git)** | Austin, TX, United States | Hybrid | Oct 02 |
 | **[IRONCLAD](https://thisisironclad.com)** | **[INTERNSHIP: Post Production](https://jobright.ai/jobs/info/6a8774fee8b6601d12903bba?utm_campaign=1053&utm_source=git)** | Virginia Beach, VA, United States | On Site | Oct 02 |
@@ -89,7 +90,7 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Creator LIVE Project Intern (TikTok Shop - US Operation) - 2026 Start](https://jobright.ai/jobs/info/6a5fe09333ef5c58b4000bf3?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | On Site | Oct 01 |
 | **[Pittsburgh Riverhounds SC](https://www.riverhounds.com)** | **[Riverhounds Development Academy Content Creator & On-Camera Host Intern — Spring 2027](https://jobright.ai/jobs/info/6abede02372c01f6cd7263e5?utm_campaign=1053&utm_source=git)** | Pittsburgh, PA, United States | On Site | Oct 01 |
 | **[Spectrum](https://www.spectrum.com)** | **[Newhouse LA Study Away Internship - Spectrum News RSN](https://jobright.ai/jobs/info/6abec0cb8ff3fb9b3bc75873?utm_campaign=1053&utm_source=git)** | El Segundo, CA, United States | On Site | Oct 01 |
-| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Internal Communications Specialist)](https://jobright.ai/jobs/info/6aa16331ef23570cae2439e4?utm_campaign=1053&utm_source=git)** | Vienna, VA, United States | Hybrid | Oct 01 |
+| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Internal Communications Specialist)](https://jobright.ai/jobs/info/6aa168cfdbc0e60e37e111eb?utm_campaign=1053&utm_source=git)** | Vienna, VA, United States | Hybrid | Oct 01 |
 | **[Cincinnati Magazine](https://www.cincinnatimagazine.com)** | **[Editorial Intern](https://jobright.ai/jobs/info/6abec914064da25272e02f91?utm_campaign=1053&utm_source=git)** | Cincinnati, OH, United States | Hybrid | Oct 01 |
 | **[The Children's Museum of Indianapolis](https://www.childrensmuseum.org)** | **[Guest Experience Intern (RSLE) - Spring 2027](https://jobright.ai/jobs/info/6abeacad8ff3fb9b3bc75076?utm_campaign=1053&utm_source=git)** | Indianapolis, IN 46208, United States | On Site | Oct 01 |
 | **[SIFF](https://www.siff.fr)** | **[NFFTY Intern 2027](https://jobright.ai/jobs/info/6abf99424ac55253f5d65235?utm_campaign=1053&utm_source=git)** | Seattle, WA, United States | Hybrid | Oct 01 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[MSP Communications](https://mspcommunications.com/)** | **[Editorial Intern, MSP](https://jobright.ai/jobs/info/6abad1cd3db4ca81fc7c4adb?utm_campaign=1053&utm_source=git)** | St. Paul, MN, United States | Hybrid | Sep 28 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Digital Content Intern, Unpaid](https://jobright.ai/jobs/info/6aba9ed7ad8589219ef7e4ef?utm_campaign=1053&utm_source=git)** | Shreveport, Louisiana, United States | On Site | Sep 28 |
 | **[Financial Times](http://ft.com)** | **[Data Journalism Summer Intern](https://jobright.ai/jobs/info/6aba904fd2914e9273eebe35?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Sep 28 |
-| **[IAC](http://www.iac.com)** | **[Beauty & Wellness Intern](https://jobright.ai/jobs/info/6ab29abd78c69ff506c3f2b4?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Sep 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
