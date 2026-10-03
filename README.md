@@ -57,12 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Worcester Railers HC](https://www.railershc.com)** | **[Community & Fan Engagement Intern Spring 2027](https://jobright.ai/jobs/info/6ac022524ac55253f5d67d0d?utm_campaign=1053&utm_source=git)** | Worcester, MA, United States | On Site | Oct 02 |
 | **[San Francisco Chronicle](http://www.sfgate.com)** | **[Data Reporting Intern, Summer 2027](https://jobright.ai/jobs/info/6aa398e84233a2201a2b2511?utm_campaign=1053&utm_source=git)** | San Francisco, CA, United States | On Site | Oct 02 |
 | **[Hearst Newspapers](https://eevd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_15)** | **[Data Reporting Intern, Summer 2027](https://jobright.ai/jobs/info/6aa3e4261d92e2d05d1120fe?utm_campaign=1053&utm_source=git)** | San Francisco, CA, United States | Hybrid | Oct 02 |
 | ↳ | **[Breaking News Reporting Intern, Summer 2027](https://jobright.ai/jobs/info/6ab582a2b3db59402d0fd08e?utm_campaign=1053&utm_source=git)** | San Francisco, CA, United States | Hybrid | Oct 02 |
 | **[Martin Marietta](http://martinmarietta.com)** | **[Production Intern](https://jobright.ai/jobs/info/6aaa164e10b1cd4f41609ca5?utm_campaign=1053&utm_source=git)** | Granite Canyon, WY, United States | On Site | Oct 02 |
-| ↳ | **[Production Intern](https://jobright.ai/jobs/info/6aaa16293387a3d9b67d8f85?utm_campaign=1053&utm_source=git)** | Colorado Springs, CO, United States | On Site | Oct 02 |
 | ↳ | **[Production Intern](https://jobright.ai/jobs/info/6aaa16293387a3d9b67d8f84?utm_campaign=1053&utm_source=git)** | Colorado Springs, CO, United States | On Site | Oct 02 |
+| ↳ | **[Production Intern](https://jobright.ai/jobs/info/6aaa16293387a3d9b67d8f85?utm_campaign=1053&utm_source=git)** | Colorado Springs, CO, United States | On Site | Oct 02 |
 | ↳ | **[Production Intern](https://jobright.ai/jobs/info/6aaa16333387a3d9b67d8f8b?utm_campaign=1053&utm_source=git)** | Idaho Springs, CO, United States | On Site | Oct 02 |
 | ↳ | **[Production Intern](https://jobright.ai/jobs/info/6ab7447c3a2ec87116e25d32?utm_campaign=1053&utm_source=git)** | Idaho Springs, CO, United States | On Site | Oct 02 |
 | **[Zipline](https://www.zipline.com/)** | **[Video Production and Social Media Intern (Spring 2027)](https://jobright.ai/jobs/info/6a85d6d7e459fa3baa864167?utm_campaign=1053&utm_source=git)** | South San Francisco, CA, United States | On Site | Oct 02 |
@@ -79,6 +80,7 @@ For a complete list, click the following sortable link below:
 | **[Biogen](https://www.biogen.com/en_us/home.html)** | **[Co-op, Video Production and Digital Content](https://jobright.ai/jobs/info/6abee6f74ac55253f5d63925?utm_campaign=1053&utm_source=git)** | Cambridge, MA, United States | Hybrid | Oct 01 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[FX Content & Editorial Intern, Spring 2027](https://jobright.ai/jobs/info/6abfd47c372c01f6cd728e34?utm_campaign=1053&utm_source=git)** | Burbank, CA, United States | On Site | Oct 01 |
 | **[Simon & Schuster](http://www.simonandschuster.com)** | **[Simon & Schuster Spring 2027 Publishing Internship Program](https://jobright.ai/jobs/info/6abe9b1cd9621c5b28390497?utm_campaign=1053&utm_source=git)** | Stoughton, MA, United States | On Site | Oct 01 |
+| **[TikTok](https://www.tiktok.com)** | **[Creator LIVE Project Intern (TikTok Shop - US Operation) - 2026 Start](https://jobright.ai/jobs/info/6a5fe09333ef5c58b4000bf3?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | On Site | Oct 01 |
 | **[Pittsburgh Riverhounds SC](https://www.riverhounds.com)** | **[Riverhounds Development Academy Content Creator & On-Camera Host Intern — Spring 2027](https://jobright.ai/jobs/info/6abede02372c01f6cd7263e5?utm_campaign=1053&utm_source=git)** | Pittsburgh, PA, United States | On Site | Oct 01 |
 | **[Spectrum](https://www.spectrum.com)** | **[Newhouse LA Study Away Internship - Spectrum News RSN](https://jobright.ai/jobs/info/6abec0cb8ff3fb9b3bc75873?utm_campaign=1053&utm_source=git)** | El Segundo, CA, United States | On Site | Oct 01 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Internal Communications Specialist)](https://jobright.ai/jobs/info/6aa168cfdbc0e60e37e111eb?utm_campaign=1053&utm_source=git)** | Vienna, VA, United States | Hybrid | Oct 01 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Country Music Hall Of Fame and Museum](http://www.countrymusichalloffame.org/)** | **[Spring 2027 Events (Paid) Intern](https://jobright.ai/jobs/info/6aba915dbe5f1e93251160b6?utm_campaign=1053&utm_source=git)** | Nashville, TN, United States | On Site | Sep 28 |
 | ↳ | **[Spring 2027 Editorial (Paid) Intern](https://jobright.ai/jobs/info/6aba9160be5f1e93251160b7?utm_campaign=1053&utm_source=git)** | Nashville, TN, United States | On Site | Sep 28 |
 | **[Pacers Sports & Entertainment](http://www.pacers.com)** | **[Digital Content Intern - Fall 2026](https://jobright.ai/jobs/info/6aba94a8be5f1e9325116277?utm_campaign=1053&utm_source=git)** | Indianapolis, IN, United States | On Site | Sep 28 |
-| **[Indiana Fever](https://fever.wnba.com/)** | **[Digital Content Intern - Fall 2026](https://jobright.ai/jobs/info/6aba9491ad8589219ef7dfdb?utm_campaign=1053&utm_source=git)** | Indianapolis, IN, United States | On Site | Sep 28 |
-| **[Arrival Creatine](https://shop-arrival.com/)** | **[Content & Community Intern](https://jobright.ai/jobs/info/6abb3badee0b348be729e221?utm_campaign=1053&utm_source=git)** | Austin, TX, United States | On Site | Sep 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
