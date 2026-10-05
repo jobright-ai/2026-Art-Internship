@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Aparecio Foundation](https://www.apareciofoundation.org)** | **[Volunteer/Intern:Editor of "Entertainment" Content in Felix](https://jobright.ai/jobs/info/6aaa65b0f116e49925534f46?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | Remote | Oct 04 |
 | **[Bright Harbor Healthcare](https://brightharbor.org)** | **[Video Production Intern](https://jobright.ai/jobs/info/6a3011ef524fd5657fe0ec05?utm_campaign=1053&utm_source=git)** | Toms River, New Jersey, United States | On Site | Oct 04 |
 | **[Red Bull New York](http://www.newyorkredbulls.com)** | **[2026 Internship, Summer - Creative Video](https://jobright.ai/jobs/info/69c4bc206f4f855eeda763a8?utm_campaign=1053&utm_source=git)** | Harrison, NJ, United States | On Site | Oct 04 |
 | **[Color Beyond](www.colorbeyond.com)** | **[Video & Podcast Production Intern (Paid)](https://jobright.ai/jobs/info/6ac267f1d9621c5b2839a0df?utm_campaign=1053&utm_source=git)** | Cleveland Heights, OH, United States | On Site | Oct 04 |
@@ -74,11 +75,11 @@ For a complete list, click the following sortable link below:
 | **[San Francisco Chronicle](http://www.sfgate.com)** | **[Data Reporting Intern, Summer 2027](https://jobright.ai/jobs/info/6aa398e84233a2201a2b2511?utm_campaign=1053&utm_source=git)** | San Francisco, CA, United States | On Site | Oct 02 |
 | **[Hearst Newspapers](https://eevd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_15)** | **[Data Reporting Intern, Summer 2027](https://jobright.ai/jobs/info/6aa3e4261d92e2d05d1120fe?utm_campaign=1053&utm_source=git)** | San Francisco, CA, United States | Hybrid | Oct 02 |
 | ↳ | **[Breaking News Reporting Intern, Summer 2027](https://jobright.ai/jobs/info/6ab582a2b3db59402d0fd08e?utm_campaign=1053&utm_source=git)** | San Francisco, CA, United States | Hybrid | Oct 02 |
-| **[Martin Marietta](http://martinmarietta.com)** | **[Production Intern](https://jobright.ai/jobs/info/6aaa170928e24cb38513e342?utm_campaign=1053&utm_source=git)** | Idaho Springs, CO, United States | On Site | Oct 02 |
-| ↳ | **[Production Intern](https://jobright.ai/jobs/info/6aaa164e10b1cd4f41609ca5?utm_campaign=1053&utm_source=git)** | Granite Canyon, WY, United States | On Site | Oct 02 |
-| ↳ | **[Production Intern](https://jobright.ai/jobs/info/6ab7447c3a2ec87116e25d32?utm_campaign=1053&utm_source=git)** | Idaho Springs, CO, United States | On Site | Oct 02 |
+| **[Martin Marietta](http://martinmarietta.com)** | **[Production Intern](https://jobright.ai/jobs/info/6aaa1654a2db131437b6087e?utm_campaign=1053&utm_source=git)** | Granite Canyon, WY, United States | On Site | Oct 02 |
 | ↳ | **[Production Intern](https://jobright.ai/jobs/info/6aaa164c28e24cb38513e325?utm_campaign=1053&utm_source=git)** | Colorado Springs, CO, United States | On Site | Oct 02 |
 | ↳ | **[Production Intern](https://jobright.ai/jobs/info/6aaa16293387a3d9b67d8f84?utm_campaign=1053&utm_source=git)** | Colorado Springs, CO, United States | On Site | Oct 02 |
+| ↳ | **[Production Intern](https://jobright.ai/jobs/info/6aaa16333387a3d9b67d8f8b?utm_campaign=1053&utm_source=git)** | Idaho Springs, CO, United States | On Site | Oct 02 |
+| ↳ | **[Production Intern](https://jobright.ai/jobs/info/6ab7447c3a2ec87116e25d32?utm_campaign=1053&utm_source=git)** | Idaho Springs, CO, United States | On Site | Oct 02 |
 | **[Zipline](https://www.zipline.com/)** | **[Video Production and Social Media Intern (Spring 2027)](https://jobright.ai/jobs/info/6a85d6d7e459fa3baa864167?utm_campaign=1053&utm_source=git)** | South San Francisco, CA, United States | On Site | Oct 02 |
 | **[The Texas Tribune](http://www.texastribune.org/)** | **[The Texas Tribune 2027 Student Fellowships](https://jobright.ai/jobs/info/6ac008948ff3fb9b3bc7a4a9?utm_campaign=1053&utm_source=git)** | Austin, TX, United States | Hybrid | Oct 02 |
 | **[IRONCLAD](https://thisisironclad.com)** | **[INTERNSHIP: Post Production](https://jobright.ai/jobs/info/6a8774fee8b6601d12903bba?utm_campaign=1053&utm_source=git)** | Virginia Beach, VA, United States | On Site | Oct 02 |
@@ -136,7 +137,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Fall 2026 Intern - Content & Podcasts (Paid)](https://jobright.ai/jobs/info/6aa08f69a2266b538d2311a1?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Sep 30 |
 | **[T'sarE LLC](https://richardtbeard.wixsite.com/tsare)** | **[Game 3D Animator and Rigger Internship [Volunteer Startup Position]](https://jobright.ai/jobs/info/6abdb393064da25272dfedf8?utm_campaign=1053&utm_source=git)** | Denver, CO, United States | On Site | Sep 30 |
 | **[Roc Nation](http://rocnation.com)** | **[Fall 2026 Intern - Artist Management (Paid)](https://jobright.ai/jobs/info/6aa08f5ca2266b538d231191?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | On Site | Sep 30 |
-| **[The Aparecio Foundation](https://www.apareciofoundation.org)** | **[Volunteer/Intern:Editor of "Entertainment" Content in Felix](https://jobright.ai/jobs/info/6aaa65b0f116e49925534f46?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | Remote | Sep 30 |
 | **[TikTok](https://www.tiktok.com)** | **[Agency Ops Project Intern (TikTok Local Services) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a5076339469c06620351013?utm_campaign=1053&utm_source=git)** | Los Angeles, United States | On Site | Sep 30 |
 | **[Pinehurst Resort](https://www.pinehurst.com/)** | **[Golf Operations Intern-Titleist Shop at Padgett Center-Seasonal](https://jobright.ai/jobs/info/6abc212992b2612ef0f8d18d?utm_campaign=1053&utm_source=git)** | Pinehurst, NC, United States | On Site | Sep 29 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[KABC-TV (ABC7) Content Development Intern, Spring 2027](https://jobright.ai/jobs/info/6abbf2613217d1d13329c019?utm_campaign=1053&utm_source=git)** | Glendale, CA, United States | On Site | Sep 29 |
