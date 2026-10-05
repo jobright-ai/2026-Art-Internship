@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[AntiFragile Music](https://www.antifragilemusic.com/)** | **[Music Catalog Research Intern](https://jobright.ai/jobs/info/6ac30409d9621c5b2839c2c6?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Hybrid | Oct 04 |
 | **[The Aparecio Foundation](https://www.apareciofoundation.org)** | **[Volunteer/Intern:Editor of "Entertainment" Content in Felix](https://jobright.ai/jobs/info/6aaa65b0f116e49925534f46?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | Remote | Oct 04 |
 | **[Bright Harbor Healthcare](https://brightharbor.org)** | **[Video Production Intern](https://jobright.ai/jobs/info/6a3011ef524fd5657fe0ec05?utm_campaign=1053&utm_source=git)** | Toms River, New Jersey, United States | On Site | Oct 04 |
 | **[Red Bull New York](http://www.newyorkredbulls.com)** | **[2026 Internship, Summer - Creative Video](https://jobright.ai/jobs/info/69c4bc206f4f855eeda763a8?utm_campaign=1053&utm_source=git)** | Harrison, NJ, United States | On Site | Oct 04 |
@@ -75,11 +76,11 @@ For a complete list, click the following sortable link below:
 | **[San Francisco Chronicle](http://www.sfgate.com)** | **[Data Reporting Intern, Summer 2027](https://jobright.ai/jobs/info/6aa398e84233a2201a2b2511?utm_campaign=1053&utm_source=git)** | San Francisco, CA, United States | On Site | Oct 02 |
 | **[Hearst Newspapers](https://eevd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_15)** | **[Data Reporting Intern, Summer 2027](https://jobright.ai/jobs/info/6aa3e4261d92e2d05d1120fe?utm_campaign=1053&utm_source=git)** | San Francisco, CA, United States | Hybrid | Oct 02 |
 | ↳ | **[Breaking News Reporting Intern, Summer 2027](https://jobright.ai/jobs/info/6ab582a2b3db59402d0fd08e?utm_campaign=1053&utm_source=git)** | San Francisco, CA, United States | Hybrid | Oct 02 |
-| **[Martin Marietta](http://martinmarietta.com)** | **[Production Intern](https://jobright.ai/jobs/info/6aaa16293387a3d9b67d8f84?utm_campaign=1053&utm_source=git)** | Colorado Springs, CO, United States | On Site | Oct 02 |
-| ↳ | **[Production Intern](https://jobright.ai/jobs/info/6aaa1622120c360b6bd4a951?utm_campaign=1053&utm_source=git)** | Granite Canyon, WY, United States | On Site | Oct 02 |
-| ↳ | **[Production Intern](https://jobright.ai/jobs/info/6ab7447c3a2ec87116e25d32?utm_campaign=1053&utm_source=git)** | Idaho Springs, CO, United States | On Site | Oct 02 |
+| **[Martin Marietta](http://martinmarietta.com)** | **[Production Intern](https://jobright.ai/jobs/info/6aaa164e10b1cd4f41609ca5?utm_campaign=1053&utm_source=git)** | Granite Canyon, WY, United States | On Site | Oct 02 |
 | ↳ | **[Production Intern](https://jobright.ai/jobs/info/6aaa164c28e24cb38513e325?utm_campaign=1053&utm_source=git)** | Colorado Springs, CO, United States | On Site | Oct 02 |
 | ↳ | **[Production Intern](https://jobright.ai/jobs/info/6aaa170928e24cb38513e342?utm_campaign=1053&utm_source=git)** | Idaho Springs, CO, United States | On Site | Oct 02 |
+| ↳ | **[Production Intern](https://jobright.ai/jobs/info/6aaa16293387a3d9b67d8f84?utm_campaign=1053&utm_source=git)** | Colorado Springs, CO, United States | On Site | Oct 02 |
+| ↳ | **[Production Intern](https://jobright.ai/jobs/info/6ab7447c3a2ec87116e25d32?utm_campaign=1053&utm_source=git)** | Idaho Springs, CO, United States | On Site | Oct 02 |
 | **[Zipline](https://www.zipline.com/)** | **[Video Production and Social Media Intern (Spring 2027)](https://jobright.ai/jobs/info/6a85d6d7e459fa3baa864167?utm_campaign=1053&utm_source=git)** | South San Francisco, CA, United States | On Site | Oct 02 |
 | **[The Texas Tribune](http://www.texastribune.org/)** | **[The Texas Tribune 2027 Student Fellowships](https://jobright.ai/jobs/info/6ac008948ff3fb9b3bc7a4a9?utm_campaign=1053&utm_source=git)** | Austin, TX, United States | Hybrid | Oct 02 |
 | **[IRONCLAD](https://thisisironclad.com)** | **[INTERNSHIP: Post Production](https://jobright.ai/jobs/info/6a8774fee8b6601d12903bba?utm_campaign=1053&utm_source=git)** | Virginia Beach, VA, United States | On Site | Oct 02 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Our National Conversation (ONC)](https://www.ournationalconversation.org)** | **[Content Creator Intern](https://jobright.ai/jobs/info/6abb478aee0b348be729e570?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | Remote | Sep 28 |
 | **[Wolf Trap Foundation for the Performing Arts](https://www.wolftrap.org/)** | **[Intern, Opera Artistic Administration (Spring 2027)](https://jobright.ai/jobs/info/6abb0b061acb8fc6f09c2a88?utm_campaign=1053&utm_source=git)** | Vienna, VA, United States | On Site | Sep 28 |
 | ↳ | **[Intern, Editorial Content (Spring 2027)](https://jobright.ai/jobs/info/6abb0ae8be5f1e9325118805?utm_campaign=1053&utm_source=git)** | Vienna, VA, United States | On Site | Sep 28 |
-| **[Universities of Wisconsin](https://www.wisconsin.edu/)** | **[Midwest Review Intern](https://jobright.ai/jobs/info/6a5ec9f9f3674a0545d2af50?utm_campaign=1053&utm_source=git)** | Stevens Point, WI, United States | On Site | Sep 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
