@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[LIU Internship at Brooklyn Paramount](https://jobright.ai/jobs/info/6ac51fd18ff3fb9b3bc87b0a?utm_campaign=1053&utm_source=git)** | Brooklyn, NY, United States | On Site | Oct 06 |
+| **[Kroenke Sports & Entertainment](https://www.ballarena.com)** | **[Rapids 2 Video Analyst Intern](https://jobright.ai/jobs/info/6ac541e80e027c0f3b3adca0?utm_campaign=1053&utm_source=git)** | Commerce City, CO, United States | On Site | Oct 06 |
 | **[Relativity Space](http://relativityspace.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/6ac53336d9621c5b283a3d34?utm_campaign=1053&utm_source=git)** | Long Beach, CA, United States | On Site | Oct 06 |
 | **[Bay Harbor Yacht Club](https://www.bayharboryc.com)** | **[Events Intern](https://jobright.ai/jobs/info/6ac525da0e027c0f3b3ad23f?utm_campaign=1053&utm_source=git)** | Bay Harbor, MI, United States | On Site | Oct 06 |
 | **[Brennan Center for Justice](http://www.brennancenter.org/)** | **[Spring 2027 Multimedia Producer Undergraduate Internship](https://jobright.ai/jobs/info/6ac51319064da25272e14990?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Oct 06 |
@@ -76,7 +78,6 @@ For a complete list, click the following sortable link below:
 | **[Portland Timbers](http://www.timbers.com)** | **[Special Events Intern - Portland Timbers and Providence Park](https://jobright.ai/jobs/info/6ac49017372c01f6cd735eea?utm_campaign=1053&utm_source=git)** | Portland, OR, United States | On Site | Oct 05 |
 | **[Freeman Company](https://linktr.ee/freeman.events)** | **[2027 TFC Summer Internship - Event & Exhibit Services](https://jobright.ai/jobs/info/6ac40d1b8ff3fb9b3bc83cc3?utm_campaign=1053&utm_source=git)** | McCook, IL, United States | On Site | Oct 05 |
 | **[State of Missouri](http://mo.gov)** | **[2027 Intern - Missouri State Fair - Entries Office](https://jobright.ai/jobs/info/6ac43c22372c01f6cd734ef6?utm_campaign=1053&utm_source=git)** | Sedalia, MO, United States | On Site | Oct 05 |
-| **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[LIU Internship at Brooklyn Paramount](https://jobright.ai/jobs/info/6ac51fd18ff3fb9b3bc87b0a?utm_campaign=1053&utm_source=git)** | Brooklyn, NY, United States | On Site | Oct 05 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[ESPN Programming Intern, Bristol, Spring 2027](https://jobright.ai/jobs/info/6ac3ef3d372c01f6cd732f5c?utm_campaign=1053&utm_source=git)** | Bristol, CT, United States | On Site | Oct 05 |
 | **[HarperCollins Publishers](https://www.harpercollins.com/)** | **[2027 Spring Internship - Editorial Intern, Zonderkidz/Blink/DaySpring Kids (Remote US)](https://jobright.ai/jobs/info/6ac435e74ac55253f5d717a9?utm_campaign=1053&utm_source=git)** | United States | Remote | Oct 05 |
 | **[Astranis Space Technologies](http://www.astranis.com)** | **[Content Creator Intern (Fall 2026)](https://jobright.ai/jobs/info/6ab1b34032552369083e3f19?utm_campaign=1053&utm_source=git)** | San Francisco, CA, United States | On Site | Oct 05 |
@@ -118,10 +119,10 @@ For a complete list, click the following sortable link below:
 | **[San Francisco Chronicle](http://www.sfgate.com)** | **[Data Reporting Intern, Summer 2027](https://jobright.ai/jobs/info/6aa398e84233a2201a2b2511?utm_campaign=1053&utm_source=git)** | San Francisco, CA, United States | On Site | Oct 02 |
 | **[Hearst Newspapers](https://eevd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_15)** | **[Data Reporting Intern, Summer 2027](https://jobright.ai/jobs/info/6aa3e4261d92e2d05d1120fe?utm_campaign=1053&utm_source=git)** | San Francisco, CA, United States | Hybrid | Oct 02 |
 | ↳ | **[Breaking News Reporting Intern, Summer 2027](https://jobright.ai/jobs/info/6ab582a2b3db59402d0fd08e?utm_campaign=1053&utm_source=git)** | San Francisco, CA, United States | Hybrid | Oct 02 |
-| **[Martin Marietta](http://martinmarietta.com)** | **[Production Intern](https://jobright.ai/jobs/info/6aaa170928e24cb38513e342?utm_campaign=1053&utm_source=git)** | Idaho Springs, CO, United States | On Site | Oct 02 |
+| **[Martin Marietta](http://martinmarietta.com)** | **[Production Intern](https://jobright.ai/jobs/info/6aaa16293387a3d9b67d8f85?utm_campaign=1053&utm_source=git)** | Colorado Springs, CO, United States | On Site | Oct 02 |
+| ↳ | **[Production Intern](https://jobright.ai/jobs/info/6aaa1654a2db131437b6087e?utm_campaign=1053&utm_source=git)** | Granite Canyon, WY, United States | On Site | Oct 02 |
 | ↳ | **[Production Intern](https://jobright.ai/jobs/info/6ab7447c3a2ec87116e25d32?utm_campaign=1053&utm_source=git)** | Idaho Springs, CO, United States | On Site | Oct 02 |
-| ↳ | **[Production Intern](https://jobright.ai/jobs/info/6aaa16293387a3d9b67d8f85?utm_campaign=1053&utm_source=git)** | Colorado Springs, CO, United States | On Site | Oct 02 |
-| ↳ | **[Production Intern](https://jobright.ai/jobs/info/6aaa1622120c360b6bd4a951?utm_campaign=1053&utm_source=git)** | Granite Canyon, WY, United States | On Site | Oct 02 |
+| ↳ | **[Production Intern](https://jobright.ai/jobs/info/6aaa170928e24cb38513e342?utm_campaign=1053&utm_source=git)** | Idaho Springs, CO, United States | On Site | Oct 02 |
 | ↳ | **[Production Intern](https://jobright.ai/jobs/info/6aaa16293387a3d9b67d8f84?utm_campaign=1053&utm_source=git)** | Colorado Springs, CO, United States | On Site | Oct 02 |
 | **[Zipline](https://www.zipline.com/)** | **[Video Production and Social Media Intern (Spring 2027)](https://jobright.ai/jobs/info/6a85d6d7e459fa3baa864167?utm_campaign=1053&utm_source=git)** | South San Francisco, CA, United States | On Site | Oct 02 |
 | **[The Texas Tribune](http://www.texastribune.org/)** | **[The Texas Tribune 2027 Student Fellowships](https://jobright.ai/jobs/info/6ac008948ff3fb9b3bc7a4a9?utm_campaign=1053&utm_source=git)** | Austin, TX, United States | Hybrid | Oct 02 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Wall Street Journal](http://www.wsj.com)** | **[The Wall Street Journal Social Video Internship, New York (Summer 2027)](https://jobright.ai/jobs/info/6abddafb4ac55253f5d5f02c?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Oct 01 |
 | ↳ | **[The Wall Street Journal Visual Investigations Internship (Summer 2027)](https://jobright.ai/jobs/info/6abddb020e027c0f3b397488?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Oct 01 |
 | **[NBCUniversal](https://www.nbcuniversal.com/)** | **[Intern - TX Station](https://jobright.ai/jobs/info/6abdfa950e027c0f3b397a00?utm_campaign=1053&utm_source=git)** | Fort Worth, TX, United States | On Site | Sep 30 |
-| **[Deseret News](http://www.deseretnews.com/)** | **[Church News Writer - Fall 2026 Internship](https://jobright.ai/jobs/info/6abeff3f064da25272e03fac?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT, United States | On Site | Sep 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
