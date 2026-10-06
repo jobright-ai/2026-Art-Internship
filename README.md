@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Relativity Space](http://relativityspace.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/6ac53336d9621c5b283a3d34?utm_campaign=1053&utm_source=git)** | Long Beach, CA, United States | On Site | Oct 06 |
 | **[Bay Harbor Yacht Club](https://www.bayharboryc.com)** | **[Events Intern](https://jobright.ai/jobs/info/6ac525da0e027c0f3b3ad23f?utm_campaign=1053&utm_source=git)** | Bay Harbor, MI, United States | On Site | Oct 06 |
 | **[Brennan Center for Justice](http://www.brennancenter.org/)** | **[Spring 2027 Multimedia Producer Undergraduate Internship](https://jobright.ai/jobs/info/6ac51319064da25272e14990?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Oct 06 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Intern](https://jobright.ai/jobs/info/6a9674f7455eaf6a08c17881?utm_campaign=1053&utm_source=git)** | Peoria, IL, United States | On Site | Oct 06 |
@@ -94,8 +95,8 @@ For a complete list, click the following sortable link below:
 | **[DreamWorks Animation](https://www.dreamworks.com)** | **[Feature Technical Direction Intern, DreamWorks Animation, Spring 2027](https://jobright.ai/jobs/info/6ac3be94064da25272e0f1b6?utm_campaign=1053&utm_source=git)** | Glendale, CA, United States | Hybrid | Oct 05 |
 | **[NBCUniversal](https://www.nbcuniversal.com/)** | **[Feature Technical Direction Intern, DreamWorks Animation, Spring 2027](https://jobright.ai/jobs/info/6ac3be920e027c0f3b3a7279?utm_campaign=1053&utm_source=git)** | Glendale, CA, United States | Hybrid | Oct 05 |
 | **[Sinclair Inc.](http://sbgi.net)** | **[Sports Intern](https://jobright.ai/jobs/info/6aba4c69be5f1e93251150ad?utm_campaign=1053&utm_source=git)** | Pittsburgh, Pennsylvania, United States | On Site | Oct 05 |
-| **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Full Time Paid Intern For the Strength of Youth Writer/Editor (Church Magazines)](https://jobright.ai/jobs/info/6ac354be372c01f6cd730caa?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT, United States | Hybrid | Oct 05 |
-| ↳ | **[Full-Time Paid Intern – Friend Writer/Editor (Church Magazines)](https://jobright.ai/jobs/info/6ac354c2064da25272e0e0c0?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT, United States | Hybrid | Oct 05 |
+| **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Full-Time Paid Intern – Friend Writer/Editor (Church Magazines)](https://jobright.ai/jobs/info/6ac354c2064da25272e0e0c0?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT, United States | Hybrid | Oct 05 |
+| ↳ | **[Full Time Paid Intern For the Strength of Youth Writer/Editor (Church Magazines)](https://jobright.ai/jobs/info/6ac354be372c01f6cd730caa?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT, United States | Hybrid | Oct 05 |
 | ↳ | **[Full Time Paid Intern – Liahona Writer/Editor (Church Magazines)](https://jobright.ai/jobs/info/6ac354bb372c01f6cd730ca6?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT, United States | Hybrid | Oct 05 |
 | **[AntiFragile Music](https://www.antifragilemusic.com/)** | **[Music Catalog Research Intern](https://jobright.ai/jobs/info/6ac30409d9621c5b2839c2c6?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Hybrid | Oct 04 |
 | **[The Recap Group Inc.](https://therecap.group)** | **[Video Editor Internship / In-Person / Stipend Provided](https://jobright.ai/jobs/info/6ac3d5574ac55253f5d6f58e?utm_campaign=1053&utm_source=git)** | Brooklyn Heights, New York, United States | On Site | Oct 04 |
@@ -117,11 +118,11 @@ For a complete list, click the following sortable link below:
 | **[San Francisco Chronicle](http://www.sfgate.com)** | **[Data Reporting Intern, Summer 2027](https://jobright.ai/jobs/info/6aa398e84233a2201a2b2511?utm_campaign=1053&utm_source=git)** | San Francisco, CA, United States | On Site | Oct 02 |
 | **[Hearst Newspapers](https://eevd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_15)** | **[Data Reporting Intern, Summer 2027](https://jobright.ai/jobs/info/6aa3e4261d92e2d05d1120fe?utm_campaign=1053&utm_source=git)** | San Francisco, CA, United States | Hybrid | Oct 02 |
 | ↳ | **[Breaking News Reporting Intern, Summer 2027](https://jobright.ai/jobs/info/6ab582a2b3db59402d0fd08e?utm_campaign=1053&utm_source=git)** | San Francisco, CA, United States | Hybrid | Oct 02 |
-| **[Martin Marietta](http://martinmarietta.com)** | **[Production Intern](https://jobright.ai/jobs/info/6ab7447c3a2ec87116e25d32?utm_campaign=1053&utm_source=git)** | Idaho Springs, CO, United States | On Site | Oct 02 |
+| **[Martin Marietta](http://martinmarietta.com)** | **[Production Intern](https://jobright.ai/jobs/info/6aaa170928e24cb38513e342?utm_campaign=1053&utm_source=git)** | Idaho Springs, CO, United States | On Site | Oct 02 |
+| ↳ | **[Production Intern](https://jobright.ai/jobs/info/6ab7447c3a2ec87116e25d32?utm_campaign=1053&utm_source=git)** | Idaho Springs, CO, United States | On Site | Oct 02 |
+| ↳ | **[Production Intern](https://jobright.ai/jobs/info/6aaa16293387a3d9b67d8f85?utm_campaign=1053&utm_source=git)** | Colorado Springs, CO, United States | On Site | Oct 02 |
+| ↳ | **[Production Intern](https://jobright.ai/jobs/info/6aaa1622120c360b6bd4a951?utm_campaign=1053&utm_source=git)** | Granite Canyon, WY, United States | On Site | Oct 02 |
 | ↳ | **[Production Intern](https://jobright.ai/jobs/info/6aaa16293387a3d9b67d8f84?utm_campaign=1053&utm_source=git)** | Colorado Springs, CO, United States | On Site | Oct 02 |
-| ↳ | **[Production Intern](https://jobright.ai/jobs/info/6aaa164c28e24cb38513e325?utm_campaign=1053&utm_source=git)** | Colorado Springs, CO, United States | On Site | Oct 02 |
-| ↳ | **[Production Intern](https://jobright.ai/jobs/info/6aaa1654a2db131437b6087e?utm_campaign=1053&utm_source=git)** | Granite Canyon, WY, United States | On Site | Oct 02 |
-| ↳ | **[Production Intern](https://jobright.ai/jobs/info/6aaa170928e24cb38513e342?utm_campaign=1053&utm_source=git)** | Idaho Springs, CO, United States | On Site | Oct 02 |
 | **[Zipline](https://www.zipline.com/)** | **[Video Production and Social Media Intern (Spring 2027)](https://jobright.ai/jobs/info/6a85d6d7e459fa3baa864167?utm_campaign=1053&utm_source=git)** | South San Francisco, CA, United States | On Site | Oct 02 |
 | **[The Texas Tribune](http://www.texastribune.org/)** | **[The Texas Tribune 2027 Student Fellowships](https://jobright.ai/jobs/info/6ac008948ff3fb9b3bc7a4a9?utm_campaign=1053&utm_source=git)** | Austin, TX, United States | Hybrid | Oct 02 |
 | **[IRONCLAD](https://thisisironclad.com)** | **[INTERNSHIP: Post Production](https://jobright.ai/jobs/info/6a8774fee8b6601d12903bba?utm_campaign=1053&utm_source=git)** | Virginia Beach, VA, United States | On Site | Oct 02 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[The Wall Street Journal Visual Investigations Internship (Summer 2027)](https://jobright.ai/jobs/info/6abddb020e027c0f3b397488?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Oct 01 |
 | **[NBCUniversal](https://www.nbcuniversal.com/)** | **[Intern - TX Station](https://jobright.ai/jobs/info/6abdfa950e027c0f3b397a00?utm_campaign=1053&utm_source=git)** | Fort Worth, TX, United States | On Site | Sep 30 |
 | **[Deseret News](http://www.deseretnews.com/)** | **[Church News Writer - Fall 2026 Internship](https://jobright.ai/jobs/info/6abeff3f064da25272e03fac?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT, United States | On Site | Sep 30 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[ABC Owned TV Stations Content Intern, Spring 2027](https://jobright.ai/jobs/info/6abd8ee2372c01f6cd721393?utm_campaign=1053&utm_source=git)** | Glendale, CA, United States | On Site | Sep 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
