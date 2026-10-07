@@ -57,10 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sparks Village Academy](sparksvillage.com)** | **[YouTube Content Strategist (Internship)](https://jobright.ai/jobs/info/6ac6452f064da25272e197cd?utm_campaign=1053&utm_source=git)** | United States | Remote | Oct 07 |
 | **[Martin Marietta](http://martinmarietta.com)** | **[Production Intern](https://jobright.ai/jobs/info/6aaa164c28e24cb38513e325?utm_campaign=1053&utm_source=git)** | Colorado Springs, CO, United States | On Site | Oct 07 |
 | ↳ | **[Production Intern](https://jobright.ai/jobs/info/6aaa170928e24cb38513e342?utm_campaign=1053&utm_source=git)** | Idaho Springs, CO, United States | On Site | Oct 07 |
-| ↳ | **[Production Intern](https://jobright.ai/jobs/info/6aaa1622120c360b6bd4a951?utm_campaign=1053&utm_source=git)** | Granite Canyon, WY, United States | On Site | Oct 07 |
 | ↳ | **[Production Intern](https://jobright.ai/jobs/info/6aaa16293387a3d9b67d8f84?utm_campaign=1053&utm_source=git)** | Colorado Springs, CO, United States | On Site | Oct 07 |
+| ↳ | **[Production Intern](https://jobright.ai/jobs/info/6aaa1654a2db131437b6087e?utm_campaign=1053&utm_source=git)** | Granite Canyon, WY, United States | On Site | Oct 07 |
 | ↳ | **[Production Intern](https://jobright.ai/jobs/info/6ab7447c3a2ec87116e25d32?utm_campaign=1053&utm_source=git)** | Idaho Springs, CO, United States | On Site | Oct 07 |
 | **[Canyon Entertainment Group](https://canyonentertainmentgroup.com)** | **[AI Video & Animation Creator Internship](https://jobright.ai/jobs/info/6ac616820e027c0f3b3b1153?utm_campaign=1053&utm_source=git)** | Greater Toronto Area, Ontario, Canada | Remote | Oct 07 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[KABC-TV (ABC7) Community Engagement & Content Creation Intern, Spring 2027](https://jobright.ai/jobs/info/6ac571a9372c01f6cd739be5?utm_campaign=1053&utm_source=git)** | Glendale, CA, United States | On Site | Oct 06 |
@@ -155,6 +156,5 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Creator LIVE Project Intern (TikTok Shop - US Operation) - 2026 Start](https://jobright.ai/jobs/info/6a5fe09333ef5c58b4000bf3?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | On Site | Oct 01 |
 | **[Pittsburgh Riverhounds SC](https://www.riverhounds.com)** | **[Riverhounds Development Academy Content Creator & On-Camera Host Intern — Spring 2027](https://jobright.ai/jobs/info/6abede02372c01f6cd7263e5?utm_campaign=1053&utm_source=git)** | Pittsburgh, PA, United States | On Site | Oct 01 |
 | **[Spectrum](https://www.spectrum.com)** | **[Newhouse LA Study Away Internship - Spectrum News RSN](https://jobright.ai/jobs/info/6abec0cb8ff3fb9b3bc75873?utm_campaign=1053&utm_source=git)** | El Segundo, CA, United States | On Site | Oct 01 |
-| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Internal Communications Specialist)](https://jobright.ai/jobs/info/6aa168cfdbc0e60e37e111eb?utm_campaign=1053&utm_source=git)** | Vienna, VA, United States | Hybrid | Oct 01 |
-| **[Cincinnati Magazine](https://www.cincinnatimagazine.com)** | **[Editorial Intern](https://jobright.ai/jobs/info/6abec914064da25272e02f91?utm_campaign=1053&utm_source=git)** | Cincinnati, OH, United States | Hybrid | Oct 01 |
+| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Internal Communications Specialist)](https://jobright.ai/jobs/info/6aa16331ef23570cae2439e4?utm_campaign=1053&utm_source=git)** | Vienna, VA, United States | Hybrid | Oct 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
