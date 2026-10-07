@@ -57,11 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Martin Marietta](http://martinmarietta.com)** | **[Production Intern](https://jobright.ai/jobs/info/6aaa1654a2db131437b6087e?utm_campaign=1053&utm_source=git)** | Granite Canyon, WY, United States | On Site | Oct 07 |
-| ↳ | **[Production Intern](https://jobright.ai/jobs/info/6aaa16293387a3d9b67d8f84?utm_campaign=1053&utm_source=git)** | Colorado Springs, CO, United States | On Site | Oct 07 |
-| ↳ | **[Production Intern](https://jobright.ai/jobs/info/6aaa164c28e24cb38513e325?utm_campaign=1053&utm_source=git)** | Colorado Springs, CO, United States | On Site | Oct 07 |
-| ↳ | **[Production Intern](https://jobright.ai/jobs/info/6ab7447c3a2ec87116e25d32?utm_campaign=1053&utm_source=git)** | Idaho Springs, CO, United States | On Site | Oct 07 |
+| **[Martin Marietta](http://martinmarietta.com)** | **[Production Intern](https://jobright.ai/jobs/info/6aaa164c28e24cb38513e325?utm_campaign=1053&utm_source=git)** | Colorado Springs, CO, United States | On Site | Oct 07 |
 | ↳ | **[Production Intern](https://jobright.ai/jobs/info/6aaa170928e24cb38513e342?utm_campaign=1053&utm_source=git)** | Idaho Springs, CO, United States | On Site | Oct 07 |
+| ↳ | **[Production Intern](https://jobright.ai/jobs/info/6aaa1622120c360b6bd4a951?utm_campaign=1053&utm_source=git)** | Granite Canyon, WY, United States | On Site | Oct 07 |
+| ↳ | **[Production Intern](https://jobright.ai/jobs/info/6aaa16293387a3d9b67d8f84?utm_campaign=1053&utm_source=git)** | Colorado Springs, CO, United States | On Site | Oct 07 |
+| ↳ | **[Production Intern](https://jobright.ai/jobs/info/6ab7447c3a2ec87116e25d32?utm_campaign=1053&utm_source=git)** | Idaho Springs, CO, United States | On Site | Oct 07 |
 | **[Canyon Entertainment Group](https://canyonentertainmentgroup.com)** | **[AI Video & Animation Creator Internship](https://jobright.ai/jobs/info/6ac616820e027c0f3b3b1153?utm_campaign=1053&utm_source=git)** | Greater Toronto Area, Ontario, Canada | Remote | Oct 07 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[KABC-TV (ABC7) Community Engagement & Content Creation Intern, Spring 2027](https://jobright.ai/jobs/info/6ac571a9372c01f6cd739be5?utm_campaign=1053&utm_source=git)** | Glendale, CA, United States | On Site | Oct 06 |
 | **[ElectraCast Media](http://www.electracast.com)** | **[Intern Podcast & Marketing Clips Editor](https://jobright.ai/jobs/info/6ac5ea58d9621c5b283a7204?utm_campaign=1053&utm_source=git)** | United States | Remote | Oct 06 |
@@ -105,7 +105,7 @@ For a complete list, click the following sortable link below:
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[ESPN Programming Intern, Bristol, Spring 2027](https://jobright.ai/jobs/info/6ac3ef3d372c01f6cd732f5c?utm_campaign=1053&utm_source=git)** | Bristol, CT, United States | On Site | Oct 05 |
 | **[HarperCollins Publishers](https://www.harpercollins.com/)** | **[2027 Spring Internship - Editorial Intern, Zonderkidz/Blink/DaySpring Kids (Remote US)](https://jobright.ai/jobs/info/6ac435e74ac55253f5d717a9?utm_campaign=1053&utm_source=git)** | United States | Remote | Oct 05 |
 | **[Astranis Space Technologies](http://www.astranis.com)** | **[Content Creator Intern (Fall 2026)](https://jobright.ai/jobs/info/6ab1b34032552369083e3f19?utm_campaign=1053&utm_source=git)** | San Francisco, CA, United States | On Site | Oct 05 |
-| **[Our National Conversation (ONC)](https://www.ournationalconversation.org)** | **[Conservative Writer Intern](https://jobright.ai/jobs/info/6abaa84bee0b348be729abcf?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | Remote | Oct 05 |
+| **[Our National Conversation (ONC)](https://www.ournationalconversation.org)** | **[Conservative Writer Intern](https://jobright.ai/jobs/info/6ac400ef8ff3fb9b3bc8368a?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | Remote | Oct 05 |
 | **[Old Mission Medicine Management, LLC](www.oldmissionmedicine.com)** | **[Camera & Video Production Intern](https://jobright.ai/jobs/info/6ac414974ac55253f5d70d1c?utm_campaign=1053&utm_source=git)** | Traverse City, MI, United States | On Site | Oct 05 |
 | **[Gagosian](http://www.gagosian.com)** | **[Internship Program - Beverly Hills (Spring, 2027)](https://jobright.ai/jobs/info/6ac410228ff3fb9b3bc83de7?utm_campaign=1053&utm_source=git)** | Beverly Hills, CA, United States | On Site | Oct 05 |
 | **[NBCUniversal](https://www.nbcuniversal.com/)** | **[News and Production Intern, NBC 7 and Telemundo 20 San Diego – Spring 2027](https://jobright.ai/jobs/info/6ac3f3f90e027c0f3b3a8633?utm_campaign=1053&utm_source=git)** | San Diego, CA, United States | On Site | Oct 05 |
