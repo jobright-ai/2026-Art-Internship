@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[GZTV Inc.](www.gztvnetwork.com)** | **[Writer Intern](https://jobright.ai/jobs/info/6ac7d3b444d6e65604a04891?utm_campaign=1053&utm_source=git)** | Atlanta, GA, United States | Remote | Oct 08 |
 | **[Discover Ames](http://www.discoverames.com)** | **[Visitor Experience Part Time Internship](https://jobright.ai/jobs/info/6ac7a4ef0e573df8adc73533?utm_campaign=1053&utm_source=git)** | Ames, IA, United States | On Site | Oct 08 |
+| **[OPB](http://www.opb.org/)** | **[Jon R. Tuttle Internship](https://jobright.ai/jobs/info/6ac7d9f551a1b3e4219eefac?utm_campaign=1053&utm_source=git)** | Portland, OR, United States | On Site | Oct 08 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Media Archivist Intern (In- Person) Fall 2026.](https://jobright.ai/jobs/info/6a4de3f13122a76a8fd56aef?utm_campaign=1053&utm_source=git)** | AL, Mobile, United States of America | On Site | Oct 08 |
 | **[Quad](https://www.quad.com)** | **[Milwaukee Magazine Editorial Internship, Spring 2027](https://jobright.ai/jobs/info/6ac6a75c064da25272e1ba39?utm_campaign=1053&utm_source=git)** | West Allis, WI, United States | Hybrid | Oct 07 |
 | **[Gemini](https://gemini.com)** | **[Content Production Intern (Winter 2027)](https://jobright.ai/jobs/info/6ac71489744463a18c930cf8?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Hybrid | Oct 07 |
@@ -80,11 +82,11 @@ For a complete list, click the following sortable link below:
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Intern](https://jobright.ai/jobs/info/6a9674f7455eaf6a08c17881?utm_campaign=1053&utm_source=git)** | Peoria, IL, United States | On Site | Oct 07 |
 | ↳ | **[Media Production Intern (In- Person) Fall 2026.](https://jobright.ai/jobs/info/6a398ce3f6b55d12c7928b8e?utm_campaign=1053&utm_source=git)** | AL, Mobile, United States of America | On Site | Oct 07 |
 | **[Hyatt Regency](http://www.regency.hyatt.com/)** | **[Recreation Internship - Hyatt Regency Hill Country Resort](https://jobright.ai/jobs/info/6aa9c428eff87f571fc9b55e?utm_campaign=1053&utm_source=git)** | San Antonio, TX, United States | On Site | Oct 07 |
-| **[Martin Marietta](http://martinmarietta.com)** | **[Production Intern](https://jobright.ai/jobs/info/6aaa164c28e24cb38513e325?utm_campaign=1053&utm_source=git)** | Colorado Springs, CO, United States | On Site | Oct 07 |
+| **[Martin Marietta](http://martinmarietta.com)** | **[Production Intern](https://jobright.ai/jobs/info/6aaa170928e24cb38513e342?utm_campaign=1053&utm_source=git)** | Idaho Springs, CO, United States | On Site | Oct 07 |
+| ↳ | **[Production Intern](https://jobright.ai/jobs/info/6aaa1654a2db131437b6087e?utm_campaign=1053&utm_source=git)** | Granite Canyon, WY, United States | On Site | Oct 07 |
 | ↳ | **[Production Intern](https://jobright.ai/jobs/info/6ab7447c3a2ec87116e25d32?utm_campaign=1053&utm_source=git)** | Idaho Springs, CO, United States | On Site | Oct 07 |
-| ↳ | **[Production Intern](https://jobright.ai/jobs/info/6aaa170928e24cb38513e342?utm_campaign=1053&utm_source=git)** | Idaho Springs, CO, United States | On Site | Oct 07 |
-| ↳ | **[Production Intern](https://jobright.ai/jobs/info/6aaa1622120c360b6bd4a951?utm_campaign=1053&utm_source=git)** | Granite Canyon, WY, United States | On Site | Oct 07 |
 | ↳ | **[Production Intern](https://jobright.ai/jobs/info/6aaa16293387a3d9b67d8f84?utm_campaign=1053&utm_source=git)** | Colorado Springs, CO, United States | On Site | Oct 07 |
+| ↳ | **[Production Intern](https://jobright.ai/jobs/info/6aaa164c28e24cb38513e325?utm_campaign=1053&utm_source=git)** | Colorado Springs, CO, United States | On Site | Oct 07 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[KABC-TV (ABC7) Community Engagement & Content Creation Intern, Spring 2027](https://jobright.ai/jobs/info/6ac571a9372c01f6cd739be5?utm_campaign=1053&utm_source=git)** | Glendale, CA, United States | On Site | Oct 06 |
 | **[Skild AI](https://www.skild.ai)** | **[Content Creator (Intern)](https://jobright.ai/jobs/info/6ab3463530340229a323213d?utm_campaign=1053&utm_source=git)** | San Mateo, CA, United States | On Site | Oct 06 |
 | **[HexArmor](http://hexarmor.com)** | **[Videographer Internship - Summer 2027](https://jobright.ai/jobs/info/6ab333e68254c44790e59800?utm_campaign=1053&utm_source=git)** | Grand Rapids, MI, United States | On Site | Oct 06 |
@@ -146,7 +148,6 @@ For a complete list, click the following sortable link below:
 | **[Raydar](http://raydar.xyz)** | **[Content Writing Intern](https://jobright.ai/jobs/info/6ac425dd064da25272e116f3?utm_campaign=1053&utm_source=git)** | San Francisco, CA, United States | On Site | Oct 04 |
 | **[The Aparecio Foundation](https://www.apareciofoundation.org)** | **[Volunteer/Intern:Editor of "Entertainment" Content in Felix](https://jobright.ai/jobs/info/6aaa65b0f116e49925534f46?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | Remote | Oct 04 |
 | **[Bright Harbor Healthcare](https://brightharbor.org)** | **[Video Production Intern](https://jobright.ai/jobs/info/6a3011ef524fd5657fe0ec05?utm_campaign=1053&utm_source=git)** | Toms River, New Jersey, United States | On Site | Oct 04 |
-| **[Red Bull New York](http://www.newyorkredbulls.com)** | **[2026 Internship, Summer - Creative Video](https://jobright.ai/jobs/info/69c4bc206f4f855eeda763a8?utm_campaign=1053&utm_source=git)** | Harrison, NJ, United States | On Site | Oct 04 |
 | **[Color Beyond](www.colorbeyond.com)** | **[Video & Podcast Production Intern (Paid)](https://jobright.ai/jobs/info/6ac267f1d9621c5b2839a0df?utm_campaign=1053&utm_source=git)** | Cleveland Heights, OH, United States | On Site | Oct 04 |
 | **[Audacy, Inc.](https://www.audacy.com/kyxy)** | **[Spring Internship](https://jobright.ai/jobs/info/6ab5b76d4873fd3fd852ba09?utm_campaign=1053&utm_source=git)** | Buffalo, NY, United States | On Site | Oct 04 |
 | **[The Aparecio Foundation](https://www.apareciofoundation.org)** | **[Volunteer/Intern:Editor of "FelixTV"](https://jobright.ai/jobs/info/6a5553844119652ff3864fc8?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | Remote | Oct 04 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Toro Company](https://www.thetorocompany.com)** | **[Video and Interactive Training Production Intern - Ditch Witch](https://jobright.ai/jobs/info/6aa3aa4c959a10d7230d3185?utm_campaign=1053&utm_source=git)** | Perry, OK, United States | On Site | Oct 03 |
 | **[Kroenke Sports & Entertainment](https://www.ballarena.com)** | **[Production Broadcast Intern](https://jobright.ai/jobs/info/6ac050304ac55253f5d6885e?utm_campaign=1053&utm_source=git)** | Denver, CO, United States | On Site | Oct 02 |
 | **[Bonneville International](http://bonneville.com/)** | **[Arizona Sports Digital Spring 2027 Internship](https://jobright.ai/jobs/info/6ac04a77372c01f6cd72b7e3?utm_campaign=1053&utm_source=git)** | Phoenix, AZ, United States | On Site | Oct 02 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[FX Content & Editorial Intern, Spring 2027](https://jobright.ai/jobs/info/6abfd47c372c01f6cd728e34?utm_campaign=1053&utm_source=git)** | Burbank, CA, United States | On Site | Oct 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
