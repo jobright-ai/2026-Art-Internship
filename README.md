@@ -57,8 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Too Lost](https://www.toolost.com)** | **[A&R Research Intern (Spring 2027)](https://jobright.ai/jobs/info/6ac93814d4a5a037074116a3?utm_campaign=1053&utm_source=git)** | Los Angeles, United States | On Site | Oct 09 |
+| **[NBCUniversal](https://www.nbcuniversal.com/)** | **[Feature Modeling Intern, DreamWorks Animation, Spring 2027](https://jobright.ai/jobs/info/6ac93087af788e6ad3b5a58d?utm_campaign=1053&utm_source=git)** | Glendale, CA, United States | Hybrid | Oct 09 |
 | **[Buchanan Group (BGI)](https://buchanangroup.org)** | **[Weddings & Events Intern](https://jobright.ai/jobs/info/6ac916d3fcdafb60c6a4ab5b?utm_campaign=1053&utm_source=git)** | Indianapolis, IN, United States | On Site | Oct 09 |
-| **[NBCUniversal](https://www.nbcuniversal.com/)** | **[Feature Modeling Intern, DreamWorks Animation, Spring 2027](https://jobright.ai/jobs/info/6ac914f9af788e6ad3b59c37?utm_campaign=1053&utm_source=git)** | Glendale, CA, United States | Hybrid | Oct 09 |
 | **[PGA Tour](http://www.pgatour.com)** | **[Intern Event Services](https://jobright.ai/jobs/info/6ac695ca8ff3fb9b3bc8e00e?utm_campaign=1053&utm_source=git)** | Ponte Vedra Beach, FL, United States | On Site | Oct 09 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Intern](https://jobright.ai/jobs/info/6ab2ddb11e4847ddae916da4?utm_campaign=1053&utm_source=git)** | Henderson, KY, United States | On Site | Oct 09 |
 | **[Insomniac Events](http://insomniac.com)** | **[Emo Nite - Production Intern](https://jobright.ai/jobs/info/6a911ab67c32860d14cfc190?utm_campaign=1053&utm_source=git)** | Calabasas, CA, United States | On Site | Oct 09 |
@@ -93,10 +94,10 @@ For a complete list, click the following sortable link below:
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Intern](https://jobright.ai/jobs/info/6a9674f7455eaf6a08c17881?utm_campaign=1053&utm_source=git)** | Peoria, IL, United States | On Site | Oct 07 |
 | ↳ | **[Media Production Intern (In- Person) Fall 2026.](https://jobright.ai/jobs/info/6a398ce3f6b55d12c7928b8e?utm_campaign=1053&utm_source=git)** | AL, Mobile, United States of America | On Site | Oct 07 |
 | **[Hyatt Regency](http://www.regency.hyatt.com/)** | **[Recreation Internship - Hyatt Regency Hill Country Resort](https://jobright.ai/jobs/info/6aa9c428eff87f571fc9b55e?utm_campaign=1053&utm_source=git)** | San Antonio, TX, United States | On Site | Oct 07 |
-| **[Martin Marietta](http://martinmarietta.com)** | **[Production Intern](https://jobright.ai/jobs/info/6aaa16293387a3d9b67d8f85?utm_campaign=1053&utm_source=git)** | Colorado Springs, CO, United States | On Site | Oct 07 |
+| **[Martin Marietta](http://martinmarietta.com)** | **[Production Intern](https://jobright.ai/jobs/info/6aaa16333387a3d9b67d8f8b?utm_campaign=1053&utm_source=git)** | Idaho Springs, CO, United States | On Site | Oct 07 |
 | ↳ | **[Production Intern](https://jobright.ai/jobs/info/6aaa164e10b1cd4f41609ca5?utm_campaign=1053&utm_source=git)** | Granite Canyon, WY, United States | On Site | Oct 07 |
-| ↳ | **[Production Intern](https://jobright.ai/jobs/info/6aaa170928e24cb38513e342?utm_campaign=1053&utm_source=git)** | Idaho Springs, CO, United States | On Site | Oct 07 |
 | ↳ | **[Production Intern](https://jobright.ai/jobs/info/6aaa16293387a3d9b67d8f84?utm_campaign=1053&utm_source=git)** | Colorado Springs, CO, United States | On Site | Oct 07 |
+| ↳ | **[Production Intern](https://jobright.ai/jobs/info/6aaa164c28e24cb38513e325?utm_campaign=1053&utm_source=git)** | Colorado Springs, CO, United States | On Site | Oct 07 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[KABC-TV (ABC7) Community Engagement & Content Creation Intern, Spring 2027](https://jobright.ai/jobs/info/6ac571a9372c01f6cd739be5?utm_campaign=1053&utm_source=git)** | Glendale, CA, United States | On Site | Oct 06 |
 | **[Skild AI](https://www.skild.ai)** | **[Content Creator (Intern)](https://jobright.ai/jobs/info/6ab3463530340229a323213d?utm_campaign=1053&utm_source=git)** | San Mateo, CA, United States | On Site | Oct 06 |
 | **[HexArmor](http://hexarmor.com)** | **[Videographer Internship - Summer 2027](https://jobright.ai/jobs/info/6ab333e68254c44790e59800?utm_campaign=1053&utm_source=git)** | Grand Rapids, MI, United States | On Site | Oct 06 |
@@ -147,8 +148,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Feature Technical Direction Intern, DreamWorks Animation, Spring 2027](https://jobright.ai/jobs/info/6ac3be94064da25272e0f1b6?utm_campaign=1053&utm_source=git)** | Glendale, CA, United States | Hybrid | Oct 05 |
 | **[NBCUniversal](https://www.nbcuniversal.com/)** | **[Feature Technical Direction Intern, DreamWorks Animation, Spring 2027](https://jobright.ai/jobs/info/6ac3be920e027c0f3b3a7279?utm_campaign=1053&utm_source=git)** | Glendale, CA, United States | Hybrid | Oct 05 |
 | **[Sinclair Inc.](http://sbgi.net)** | **[Sports Intern](https://jobright.ai/jobs/info/6aba4c69be5f1e93251150ad?utm_campaign=1053&utm_source=git)** | Pittsburgh, Pennsylvania, United States | On Site | Oct 05 |
-| **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Full Time Paid Intern For the Strength of Youth Writer/Editor (Church Magazines)](https://jobright.ai/jobs/info/6ac354be372c01f6cd730caa?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT, United States | Hybrid | Oct 05 |
-| ↳ | **[Full-Time Paid Intern – Friend Writer/Editor (Church Magazines)](https://jobright.ai/jobs/info/6ac354c2064da25272e0e0c0?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT, United States | Hybrid | Oct 05 |
+| **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Full-Time Paid Intern – Friend Writer/Editor (Church Magazines)](https://jobright.ai/jobs/info/6ac354c2064da25272e0e0c0?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT, United States | Hybrid | Oct 05 |
+| ↳ | **[Full Time Paid Intern For the Strength of Youth Writer/Editor (Church Magazines)](https://jobright.ai/jobs/info/6ac354be372c01f6cd730caa?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT, United States | Hybrid | Oct 05 |
 | ↳ | **[Full Time Paid Intern – Liahona Writer/Editor (Church Magazines)](https://jobright.ai/jobs/info/6ac354bb372c01f6cd730ca6?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT, United States | Hybrid | Oct 05 |
 | **[AntiFragile Music](https://www.antifragilemusic.com/)** | **[Music Catalog Research Intern](https://jobright.ai/jobs/info/6ac30409d9621c5b2839c2c6?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Hybrid | Oct 04 |
 | **[Raydar](http://raydar.xyz)** | **[Content Writing Intern](https://jobright.ai/jobs/info/6ac425dd064da25272e116f3?utm_campaign=1053&utm_source=git)** | San Francisco, CA, United States | On Site | Oct 04 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Bright Harbor Healthcare](https://brightharbor.org)** | **[Video Production Intern](https://jobright.ai/jobs/info/6a3011ef524fd5657fe0ec05?utm_campaign=1053&utm_source=git)** | Toms River, New Jersey, United States | On Site | Oct 04 |
 | **[Color Beyond](www.colorbeyond.com)** | **[Video & Podcast Production Intern (Paid)](https://jobright.ai/jobs/info/6ac267f1d9621c5b2839a0df?utm_campaign=1053&utm_source=git)** | Cleveland Heights, OH, United States | On Site | Oct 04 |
 | **[Audacy, Inc.](https://www.audacy.com/kyxy)** | **[Spring Internship](https://jobright.ai/jobs/info/6ab5b76d4873fd3fd852ba09?utm_campaign=1053&utm_source=git)** | Buffalo, NY, United States | On Site | Oct 04 |
-| **[The Aparecio Foundation](https://www.apareciofoundation.org)** | **[Volunteer/Intern:Editor of "FelixTV"](https://jobright.ai/jobs/info/6a5553844119652ff3864fc8?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | Remote | Oct 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
