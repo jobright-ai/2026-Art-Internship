@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Aparecio Foundation](https://www.apareciofoundation.org)** | **[Volunteer/Intern:Editor of "FelixTV"](https://jobright.ai/jobs/info/6ac99471d4a5a03707412c0a?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | Remote | Oct 09 |
 | **[Too Lost](https://www.toolost.com)** | **[A&R Research Intern (Spring 2027)](https://jobright.ai/jobs/info/6ac93814d4a5a037074116a3?utm_campaign=1053&utm_source=git)** | Los Angeles, United States | On Site | Oct 09 |
 | **[NBCUniversal](https://www.nbcuniversal.com/)** | **[Feature Modeling Intern, DreamWorks Animation, Spring 2027](https://jobright.ai/jobs/info/6ac93087af788e6ad3b5a58d?utm_campaign=1053&utm_source=git)** | Glendale, CA, United States | Hybrid | Oct 09 |
 | **[Buchanan Group (BGI)](https://buchanangroup.org)** | **[Weddings & Events Intern](https://jobright.ai/jobs/info/6ac916d3fcdafb60c6a4ab5b?utm_campaign=1053&utm_source=git)** | Indianapolis, IN, United States | On Site | Oct 09 |
@@ -92,8 +93,6 @@ For a complete list, click the following sortable link below:
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Intern](https://jobright.ai/jobs/info/6a9674f7455eaf6a08c17881?utm_campaign=1053&utm_source=git)** | Peoria, IL, United States | On Site | Oct 07 |
 | ↳ | **[Media Production Intern (In- Person) Fall 2026.](https://jobright.ai/jobs/info/6a398ce3f6b55d12c7928b8e?utm_campaign=1053&utm_source=git)** | AL, Mobile, United States of America | On Site | Oct 07 |
 | **[Hyatt Regency](http://www.regency.hyatt.com/)** | **[Recreation Internship - Hyatt Regency Hill Country Resort](https://jobright.ai/jobs/info/6aa9c428eff87f571fc9b55e?utm_campaign=1053&utm_source=git)** | San Antonio, TX, United States | On Site | Oct 07 |
-| **[Martin Marietta](http://martinmarietta.com)** | **[Production Intern](https://jobright.ai/jobs/info/6aaa170928e24cb38513e342?utm_campaign=1053&utm_source=git)** | Idaho Springs, CO, United States | On Site | Oct 07 |
-| ↳ | **[Production Intern](https://jobright.ai/jobs/info/6aaa1622120c360b6bd4a951?utm_campaign=1053&utm_source=git)** | Granite Canyon, WY, United States | On Site | Oct 07 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[KABC-TV (ABC7) Community Engagement & Content Creation Intern, Spring 2027](https://jobright.ai/jobs/info/6ac571a9372c01f6cd739be5?utm_campaign=1053&utm_source=git)** | Glendale, CA, United States | On Site | Oct 06 |
 | **[Skild AI](https://www.skild.ai)** | **[Content Creator (Intern)](https://jobright.ai/jobs/info/6ab3463530340229a323213d?utm_campaign=1053&utm_source=git)** | San Mateo, CA, United States | On Site | Oct 06 |
 | **[HexArmor](http://hexarmor.com)** | **[Videographer Internship - Summer 2027](https://jobright.ai/jobs/info/6ab333e68254c44790e59800?utm_campaign=1053&utm_source=git)** | Grand Rapids, MI, United States | On Site | Oct 06 |
@@ -132,7 +131,7 @@ For a complete list, click the following sortable link below:
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[ESPN Programming Intern, Bristol, Spring 2027](https://jobright.ai/jobs/info/6ac3ef3d372c01f6cd732f5c?utm_campaign=1053&utm_source=git)** | Bristol, CT, United States | On Site | Oct 05 |
 | **[HarperCollins Publishers](https://www.harpercollins.com/)** | **[2027 Spring Internship - Editorial Intern, Zonderkidz/Blink/DaySpring Kids (Remote US)](https://jobright.ai/jobs/info/6ac435e74ac55253f5d717a9?utm_campaign=1053&utm_source=git)** | United States | Remote | Oct 05 |
 | **[Astranis Space Technologies](http://www.astranis.com)** | **[Content Creator Intern (Fall 2026)](https://jobright.ai/jobs/info/6ab1b34032552369083e3f19?utm_campaign=1053&utm_source=git)** | San Francisco, CA, United States | On Site | Oct 05 |
-| **[Our National Conversation (ONC)](https://www.ournationalconversation.org)** | **[Conservative Writer Intern](https://jobright.ai/jobs/info/6ac400ef8ff3fb9b3bc8368a?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | Remote | Oct 05 |
+| **[Our National Conversation (ONC)](https://www.ournationalconversation.org)** | **[Conservative Writer Intern](https://jobright.ai/jobs/info/6abaa84bee0b348be729abcf?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | Remote | Oct 05 |
 | **[Old Mission Medicine Management, LLC](www.oldmissionmedicine.com)** | **[Camera & Video Production Intern](https://jobright.ai/jobs/info/6ac414974ac55253f5d70d1c?utm_campaign=1053&utm_source=git)** | Traverse City, MI, United States | On Site | Oct 05 |
 | **[Gagosian](http://www.gagosian.com)** | **[Internship Program - Beverly Hills (Spring, 2027)](https://jobright.ai/jobs/info/6ac410228ff3fb9b3bc83de7?utm_campaign=1053&utm_source=git)** | Beverly Hills, CA, United States | On Site | Oct 05 |
 | **[NBCUniversal](https://www.nbcuniversal.com/)** | **[News and Production Intern, NBC 7 and Telemundo 20 San Diego – Spring 2027](https://jobright.ai/jobs/info/6ac3f3f90e027c0f3b3a8633?utm_campaign=1053&utm_source=git)** | San Diego, CA, United States | On Site | Oct 05 |
@@ -156,5 +155,4 @@ For a complete list, click the following sortable link below:
 | **[The Aparecio Foundation](https://www.apareciofoundation.org)** | **[Volunteer/Intern:Editor of "FelixTV"](https://jobright.ai/jobs/info/6a5553844119652ff3864fc8?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | Remote | Oct 04 |
 | **[Bethel University](https://www.betheluniversity.edu/)** | **[Student Worker - PR/Com Student Writer Intern](https://jobright.ai/jobs/info/6a55c9f905c65f7c8f4c78c5?utm_campaign=1053&utm_source=git)** | Mishawaka, IN, United States | On Site | Oct 03 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Lifestyle Show Intern](https://jobright.ai/jobs/info/6ac115db4ac55253f5d69fb0?utm_campaign=1053&utm_source=git)** | Spartanburg, SC, United States | On Site | Oct 03 |
-| **[Advisors Excel](http://advisorsexcel.com)** | **[Video Intern](https://jobright.ai/jobs/info/6aa4d423a77a53f5a156e3ea?utm_campaign=1053&utm_source=git)** | Topeka, KS, United States | On Site | Oct 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
