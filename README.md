@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Emo Nite - Production Intern](https://jobright.ai/jobs/info/6a9126712e254e06fb9f3a66?utm_campaign=1053&utm_source=git)** | Calabasas, CA, United States | On Site | Oct 10 |
 | **[Tumbling Dumpling Media](https://www.linkedin.com/company/109629621)** | **[Editorial Intern](https://jobright.ai/jobs/info/6ac9d232a6c6acb7de35d8a3?utm_campaign=1053&utm_source=git)** | United States | Remote | Oct 09 |
 | **[rednote](https://www.rednote.com)** | **[New York Community Intern](https://jobright.ai/jobs/info/6aa4db7042411952ff9a5d54?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Oct 09 |
 | **[The Aparecio Foundation](https://www.apareciofoundation.org)** | **[Volunteer/Intern:Editor of "FelixTV"](https://jobright.ai/jobs/info/6ac99471d4a5a03707412c0a?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | Remote | Oct 09 |
@@ -146,8 +147,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Feature Technical Direction Intern, DreamWorks Animation, Spring 2027](https://jobright.ai/jobs/info/6ac3be94064da25272e0f1b6?utm_campaign=1053&utm_source=git)** | Glendale, CA, United States | Hybrid | Oct 05 |
 | **[NBCUniversal](https://www.nbcuniversal.com/)** | **[Feature Technical Direction Intern, DreamWorks Animation, Spring 2027](https://jobright.ai/jobs/info/6ac3be920e027c0f3b3a7279?utm_campaign=1053&utm_source=git)** | Glendale, CA, United States | Hybrid | Oct 05 |
 | **[Sinclair Inc.](http://sbgi.net)** | **[Sports Intern](https://jobright.ai/jobs/info/6aba4c69be5f1e93251150ad?utm_campaign=1053&utm_source=git)** | Pittsburgh, Pennsylvania, United States | On Site | Oct 05 |
-| **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Full-Time Paid Intern – Friend Writer/Editor (Church Magazines)](https://jobright.ai/jobs/info/6ac354c2064da25272e0e0c0?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT, United States | Hybrid | Oct 05 |
-| ↳ | **[Full Time Paid Intern For the Strength of Youth Writer/Editor (Church Magazines)](https://jobright.ai/jobs/info/6ac354be372c01f6cd730caa?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT, United States | Hybrid | Oct 05 |
+| **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Full Time Paid Intern For the Strength of Youth Writer/Editor (Church Magazines)](https://jobright.ai/jobs/info/6ac354be372c01f6cd730caa?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT, United States | Hybrid | Oct 05 |
+| ↳ | **[Full-Time Paid Intern – Friend Writer/Editor (Church Magazines)](https://jobright.ai/jobs/info/6ac354c2064da25272e0e0c0?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT, United States | Hybrid | Oct 05 |
 | ↳ | **[Full Time Paid Intern – Liahona Writer/Editor (Church Magazines)](https://jobright.ai/jobs/info/6ac354bb372c01f6cd730ca6?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT, United States | Hybrid | Oct 05 |
 | **[AntiFragile Music](https://www.antifragilemusic.com/)** | **[Music Catalog Research Intern](https://jobright.ai/jobs/info/6ac30409d9621c5b2839c2c6?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Hybrid | Oct 04 |
 | **[Raydar](http://raydar.xyz)** | **[Content Writing Intern](https://jobright.ai/jobs/info/6ac425dd064da25272e116f3?utm_campaign=1053&utm_source=git)** | San Francisco, CA, United States | On Site | Oct 04 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Color Beyond](www.colorbeyond.com)** | **[Video & Podcast Production Intern (Paid)](https://jobright.ai/jobs/info/6ac267f1d9621c5b2839a0df?utm_campaign=1053&utm_source=git)** | Cleveland Heights, OH, United States | On Site | Oct 04 |
 | **[Audacy, Inc.](https://www.audacy.com/kyxy)** | **[Spring Internship](https://jobright.ai/jobs/info/6ab5b76d4873fd3fd852ba09?utm_campaign=1053&utm_source=git)** | Buffalo, NY, United States | On Site | Oct 04 |
 | **[The Aparecio Foundation](https://www.apareciofoundation.org)** | **[Volunteer/Intern:Editor of "FelixTV"](https://jobright.ai/jobs/info/6a5553844119652ff3864fc8?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | Remote | Oct 04 |
-| **[Bethel University](https://www.betheluniversity.edu/)** | **[Student Worker - PR/Com Student Writer Intern](https://jobright.ai/jobs/info/6a55c9f905c65f7c8f4c78c5?utm_campaign=1053&utm_source=git)** | Mishawaka, IN, United States | On Site | Oct 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
