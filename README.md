@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Full Jam Music INC.](http://fulljam.com)** | **[Musicians creators (volunteer or internship)](https://jobright.ai/jobs/info/6acc510cddd23cce28a0e6e3?utm_campaign=1053&utm_source=git)** | Canada | Remote | Oct 11 |
 | **[Our National Conversation (ONC)](https://www.ournationalconversation.org)** | **[Content Creator Intern](https://jobright.ai/jobs/info/6aca94fae7a1d9333210bbff?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | Remote | Oct 10 |
 | **[Bethel University](https://www.betheluniversity.edu/)** | **[Student Worker - PR/Com Student Writer Intern](https://jobright.ai/jobs/info/6a5b067cc8e3a473cb8ae8c5?utm_campaign=1053&utm_source=git)** | Mishawaka, IN, United States | On Site | Oct 10 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Sports Intern- Fall 2026](https://jobright.ai/jobs/info/6aca526f3c831dc4086bc0b8?utm_campaign=1053&utm_source=git)** | Washington, DC, United States | On Site | Oct 10 |
@@ -89,8 +90,8 @@ For a complete list, click the following sortable link below:
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[ABC News Digital Media Editorial Reporter Intern, Spring 2027](https://jobright.ai/jobs/info/6ac690e18ff3fb9b3bc8dd5f?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Oct 07 |
 | **[Jam in the Van](https://jaminthevan.com)** | **[Spring Livestream Intern](https://jobright.ai/jobs/info/6ac6c5780e027c0f3b3b44a4?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | On Site | Oct 07 |
 | **[Dow Jones](http://www.dowjones.com)** | **[Summer 2027 Internship Program – Barron's Reporter Intern](https://jobright.ai/jobs/info/6ac6a5008ff3fb9b3bc8e53f?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Oct 07 |
-| ↳ | **[Summer 2027 Internship Program – Video Intern](https://jobright.ai/jobs/info/6ac6a51b8ff3fb9b3bc8e55f?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Oct 07 |
 | ↳ | **[Summer 2027 Internship Program – Video Intern](https://jobright.ai/jobs/info/6aa8b24c3387a3d9b67d2963?utm_campaign=1053&utm_source=git)** | New York City, NY, United States | Hybrid | Oct 07 |
+| ↳ | **[Summer 2027 Internship Program – Video Intern](https://jobright.ai/jobs/info/6ac6a51b8ff3fb9b3bc8e55f?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Oct 07 |
 | **[Megastar Advisors](https://www.megastaradvisors.com/)** | **[Video Editing & Post-Production Intern](https://jobright.ai/jobs/info/6ac6af2c8ff3fb9b3bc8e8a7?utm_campaign=1053&utm_source=git)** | Tarpon Springs, FL, United States | On Site | Oct 07 |
 | **[Carolina Core FC](https://www.carolinacorefc.com)** | **[Game Day Operations & Fan Experience Internship (Spring 2027)](https://jobright.ai/jobs/info/6ac6a3200e027c0f3b3b390c?utm_campaign=1053&utm_source=git)** | High Point, NC, United States | On Site | Oct 07 |
 | **[Ripken Baseball](https://www.ripkenbaseball.com)** | **[Spring Tournament Operations Intern](https://jobright.ai/jobs/info/6ac68afb8ff3fb9b3bc8da3b?utm_campaign=1053&utm_source=git)** | Pigeon Forge, TN, United States | On Site | Oct 07 |
