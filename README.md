@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Elite Podcast Studio](ElitePodcastStudio.com)** | **[Social Media & Content Creation Internship (Tampa, FL)](https://jobright.ai/jobs/info/6accbc6eddd23cce28a0f3da?utm_campaign=1053&utm_source=git)** | Odessa, FL, United States | On Site | Oct 12 |
 | **[Universal Creative](https://universalcreative.com)** | **[Internship, Universal Creative – Team Member & Culture Experience (Summer 2027)](https://jobright.ai/jobs/info/6acc9f87ddd23cce28a0effe?utm_campaign=1053&utm_source=git)** | Orlando, FL, United States | On Site | Oct 12 |
 | **[Universal Orlando Resort](https://UniversalOrlandoJobs.com)** | **[Internship – Podcast Interview, Discover Universal Audio/Video (Summer 2027)](https://jobright.ai/jobs/info/6acc8f603c831dc4086beb8c?utm_campaign=1053&utm_source=git)** | Orlando, FL, United States | On Site | Oct 12 |
 | ↳ | **[Internship – Discover Universal Video Content Strategy (Summer 2027)](https://jobright.ai/jobs/info/6acc8f4fd113c967e3c7a4b5?utm_campaign=1053&utm_source=git)** | Orlando, FL, United States | On Site | Oct 12 |
@@ -146,5 +147,4 @@ For a complete list, click the following sortable link below:
 | **[Our National Conversation (ONC)](https://www.ournationalconversation.org)** | **[Conservative Writer Intern](https://jobright.ai/jobs/info/6abaa84bee0b348be729abcf?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | Remote | Oct 05 |
 | **[Old Mission Medicine Management, LLC](www.oldmissionmedicine.com)** | **[Camera & Video Production Intern](https://jobright.ai/jobs/info/6ac414974ac55253f5d70d1c?utm_campaign=1053&utm_source=git)** | Traverse City, MI, United States | On Site | Oct 05 |
 | **[Gagosian](http://www.gagosian.com)** | **[Internship Program - Beverly Hills (Spring, 2027)](https://jobright.ai/jobs/info/6ac410228ff3fb9b3bc83de7?utm_campaign=1053&utm_source=git)** | Beverly Hills, CA, United States | On Site | Oct 05 |
-| **[NBCUniversal](https://www.nbcuniversal.com/)** | **[News and Production Intern, NBC 7 and Telemundo 20 San Diego – Spring 2027](https://jobright.ai/jobs/info/6ac3f3f90e027c0f3b3a8633?utm_campaign=1053&utm_source=git)** | San Diego, CA, United States | On Site | Oct 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
