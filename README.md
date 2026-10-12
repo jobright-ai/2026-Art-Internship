@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Dow Jones](http://www.dowjones.com)** | **[Summer 2027 Bartley Fellowship - Opinion Internship-1](https://jobright.ai/jobs/info/6acd545de7a1d93332111394?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Oct 12 |
+| **[Rodeo Austin](http://www.RodeoAustin.com)** | **[Rodeo & Sponsorship Internship](https://jobright.ai/jobs/info/6acd4915002e496d4bef18f1?utm_campaign=1053&utm_source=git)** | Austin, TX, United States | On Site | Oct 12 |
 | **[ElectraCast Media](http://www.electracast.com)** | **[Podcast Editing Internship for US College Student](https://jobright.ai/jobs/info/6acd1e4ae7a1d9333211017c?utm_campaign=1053&utm_source=git)** | United States | Remote | Oct 12 |
 | **[Financial Times](http://ft.com)** | **[Data Journalism Summer Intern](https://jobright.ai/jobs/info/6aba904fd2914e9273eebe35?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Oct 12 |
 | **[University of Kentucky](https://www.ca.uky.edu)** | **[Smart Campus Digital Media Intern - Bowman's Friends](https://jobright.ai/jobs/info/6acd06c7e7a1d9333210f9d6?utm_campaign=1053&utm_source=git)** | Lexington, KY, United States | On Site | Oct 12 |
@@ -65,7 +67,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Internship – Discover Universal Video Content Strategy (Summer 2027)](https://jobright.ai/jobs/info/6acc8f4fd113c967e3c7a4b5?utm_campaign=1053&utm_source=git)** | Orlando, FL, United States | On Site | Oct 12 |
 | ↳ | **[Internship – Digital Asset Librarian (Summer 2027)](https://jobright.ai/jobs/info/6acc8f40ddd23cce28a0ed13?utm_campaign=1053&utm_source=git)** | Orlando, FL, United States | On Site | Oct 12 |
 | **[The Ambony](https://www.anpublishing.com/)** | **[Entertainment Journalist (Internship)](https://jobright.ai/jobs/info/6acc5814e7a1d9333210ddb8?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | Remote | Oct 11 |
-| **[Red Velvet Studios](redvelvetstudio.com)** | **[Music Content Intern (Los Angeles)](https://jobright.ai/jobs/info/6acc57b6002e496d4beee602?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | On Site | Oct 11 |
 | **[Sightline Media Group](http://sightlinemediagroup.com/)** | **[Editorial Intern, Military Times](https://jobright.ai/jobs/info/6acc5672a56e5406e57bd70d?utm_campaign=1053&utm_source=git)** | Washington, DC, United States | Remote | Oct 11 |
 | **[Full Jam Music INC.](http://fulljam.com)** | **[Musicians creators (volunteer or internship)](https://jobright.ai/jobs/info/6acc510cddd23cce28a0e6e3?utm_campaign=1053&utm_source=git)** | Canada | Remote | Oct 11 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[ESPN Production Intern, Charlotte, Spring 2027](https://jobright.ai/jobs/info/6acd0d9dd113c967e3c7bdea?utm_campaign=1053&utm_source=git)** | Charlotte, NC, United States | On Site | Oct 11 |
@@ -131,7 +132,4 @@ For a complete list, click the following sortable link below:
 | **[Hasana, Inc.](http://shophasana.com)** | **[Volunteer/Intern: Film/Video Editor](https://jobright.ai/jobs/info/6a584c973330ca6f993c3e99?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | On Site | Oct 06 |
 | **[Aalo Atomics](https://www.aalo.com)** | **[Spring 2027 Video Editor Intern - Austin, TX](https://jobright.ai/jobs/info/6ac3c06b4ac55253f5d6edc6?utm_campaign=1053&utm_source=git)** | Austin, TX, United States | On Site | Oct 06 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[ESPN Social Internships, Remote, Spring 2027](https://jobright.ai/jobs/info/6ac3dcb00e027c0f3b3a7e3d?utm_campaign=1053&utm_source=git)** | Connecticut, United States | Remote | Oct 05 |
-| **[Western Golf Association/Evans Scholars Foundation](http://www.wgaesf.org)** | **[Intern, Amateur Competitions & Merchandise](https://jobright.ai/jobs/info/6ac5c290064da25272e18556?utm_campaign=1053&utm_source=git)** | Illinois, United States | On Site | Oct 05 |
-| **[University of North Dakota](http://www.und.edu/)** | **[UND Insider Intern](https://jobright.ai/jobs/info/6ac580d08ff3fb9b3bc8a1e0?utm_campaign=1053&utm_source=git)** | Grand Forks, ND 58202, United States | On Site | Oct 05 |
-| **[Live Nation Middle East](https://www.livenation.me/)** | **[LIU Internship at Brooklyn Paramount](https://jobright.ai/jobs/info/6ac57826372c01f6cd739eb1?utm_campaign=1053&utm_source=git)** | Brooklyn, NY, United States | On Site | Oct 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
