@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Arcwize](https://www.arcwize.com)** | **[Editorial Writing Intern](https://jobright.ai/jobs/info/6acc5aef3c831dc4086be68a?utm_campaign=1053&utm_source=git)** | United States | Remote | Oct 11 |
+| **[The Ambony](https://www.anpublishing.com/)** | **[Entertainment Journalist (Internship)](https://jobright.ai/jobs/info/6acc5814e7a1d9333210ddb8?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | Remote | Oct 11 |
+| **[Red Velvet Studios](redvelvetstudio.com)** | **[Music Content Intern (Los Angeles)](https://jobright.ai/jobs/info/6acc57b6002e496d4beee602?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | On Site | Oct 11 |
+| **[Sightline Media Group](http://sightlinemediagroup.com/)** | **[Editorial Intern, Military Times](https://jobright.ai/jobs/info/6acc5672a56e5406e57bd70d?utm_campaign=1053&utm_source=git)** | Washington, DC, United States | Remote | Oct 11 |
 | **[Full Jam Music INC.](http://fulljam.com)** | **[Musicians creators (volunteer or internship)](https://jobright.ai/jobs/info/6acc510cddd23cce28a0e6e3?utm_campaign=1053&utm_source=git)** | Canada | Remote | Oct 11 |
 | **[Our National Conversation (ONC)](https://www.ournationalconversation.org)** | **[Content Creator Intern](https://jobright.ai/jobs/info/6aca94fae7a1d9333210bbff?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | Remote | Oct 10 |
 | **[Bethel University](https://www.betheluniversity.edu/)** | **[Student Worker - PR/Com Student Writer Intern](https://jobright.ai/jobs/info/6a5b067cc8e3a473cb8ae8c5?utm_campaign=1053&utm_source=git)** | Mishawaka, IN, United States | On Site | Oct 10 |
@@ -131,7 +135,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Full-Time Paid Intern – Friend Writer/Editor (Church Magazines)](https://jobright.ai/jobs/info/6ac354cf4ac55253f5d6dcbd?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT, United States | Hybrid | Oct 05 |
 | ↳ | **[Full Time Paid Intern – Liahona Writer/Editor (Church Magazines)](https://jobright.ai/jobs/info/6ac354b70e027c0f3b3a61e9?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT, United States | Hybrid | Oct 05 |
 | **[The Aparecio Foundation](https://www.apareciofoundation.org)** | **[Volunteer/Intern:Pro Bono :Editor of "Men's" Content in Felix](https://jobright.ai/jobs/info/6a9ee4d068f82b403673bba1?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | Remote | Oct 05 |
-| **[Portland Timbers](http://www.timbers.com)** | **[Special Events Intern - Portland Timbers and Providence Park](https://jobright.ai/jobs/info/6ac49017372c01f6cd735eea?utm_campaign=1053&utm_source=git)** | Portland, OR, United States | On Site | Oct 05 |
 | **[Freeman Company](https://linktr.ee/freeman.events)** | **[2027 TFC Summer Internship - Event & Exhibit Services](https://jobright.ai/jobs/info/6ac40d1b8ff3fb9b3bc83cc3?utm_campaign=1053&utm_source=git)** | McCook, IL, United States | On Site | Oct 05 |
 | **[State of Missouri](http://mo.gov)** | **[2027 Intern - Missouri State Fair - Entries Office](https://jobright.ai/jobs/info/6ac43c22372c01f6cd734ef6?utm_campaign=1053&utm_source=git)** | Sedalia, MO, United States | On Site | Oct 05 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[ESPN Programming Intern, Bristol, Spring 2027](https://jobright.ai/jobs/info/6ac3ef3d372c01f6cd732f5c?utm_campaign=1053&utm_source=git)** | Bristol, CT, United States | On Site | Oct 05 |
