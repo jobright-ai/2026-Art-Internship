@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ElectraCast Media](http://www.electracast.com)** | **[Podcast Editing Internship for US College Student](https://jobright.ai/jobs/info/6acd1e4ae7a1d9333211017c?utm_campaign=1053&utm_source=git)** | United States | Remote | Oct 12 |
 | **[Financial Times](http://ft.com)** | **[Data Journalism Summer Intern](https://jobright.ai/jobs/info/6aba904fd2914e9273eebe35?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Oct 12 |
 | **[University of Kentucky](https://www.ca.uky.edu)** | **[Smart Campus Digital Media Intern - Bowman's Friends](https://jobright.ai/jobs/info/6acd06c7e7a1d9333210f9d6?utm_campaign=1053&utm_source=git)** | Lexington, KY, United States | On Site | Oct 12 |
 | **[Canyon Entertainment Group](https://canyonentertainmentgroup.com)** | **[Live Event Management Internship](https://jobright.ai/jobs/info/6accf9513c831dc4086bfd9c?utm_campaign=1053&utm_source=git)** | Greater Toronto Area, Ontario, Canada | Remote | Oct 12 |
@@ -64,7 +65,6 @@ For a complete list, click the following sortable link below:
 | **[Universal Orlando Resort](https://UniversalOrlandoJobs.com)** | **[Internship – Podcast Interview, Discover Universal Audio/Video (Summer 2027)](https://jobright.ai/jobs/info/6acc8f603c831dc4086beb8c?utm_campaign=1053&utm_source=git)** | Orlando, FL, United States | On Site | Oct 12 |
 | ↳ | **[Internship – Discover Universal Video Content Strategy (Summer 2027)](https://jobright.ai/jobs/info/6acc8f4fd113c967e3c7a4b5?utm_campaign=1053&utm_source=git)** | Orlando, FL, United States | On Site | Oct 12 |
 | ↳ | **[Internship – Digital Asset Librarian (Summer 2027)](https://jobright.ai/jobs/info/6acc8f40ddd23cce28a0ed13?utm_campaign=1053&utm_source=git)** | Orlando, FL, United States | On Site | Oct 12 |
-| **[Arcwize](https://www.arcwize.com)** | **[Editorial Writing Intern](https://jobright.ai/jobs/info/6acc5aef3c831dc4086be68a?utm_campaign=1053&utm_source=git)** | United States | Remote | Oct 11 |
 | **[The Ambony](https://www.anpublishing.com/)** | **[Entertainment Journalist (Internship)](https://jobright.ai/jobs/info/6acc5814e7a1d9333210ddb8?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | Remote | Oct 11 |
 | **[Red Velvet Studios](redvelvetstudio.com)** | **[Music Content Intern (Los Angeles)](https://jobright.ai/jobs/info/6acc57b6002e496d4beee602?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | On Site | Oct 11 |
 | **[Sightline Media Group](http://sightlinemediagroup.com/)** | **[Editorial Intern, Military Times](https://jobright.ai/jobs/info/6acc5672a56e5406e57bd70d?utm_campaign=1053&utm_source=git)** | Washington, DC, United States | Remote | Oct 11 |
@@ -101,8 +101,8 @@ For a complete list, click the following sortable link below:
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[ABC News Digital Media Editorial Reporter Intern, Spring 2027](https://jobright.ai/jobs/info/6ac690e18ff3fb9b3bc8dd5f?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Oct 07 |
 | **[Jam in the Van](https://jaminthevan.com)** | **[Spring Livestream Intern](https://jobright.ai/jobs/info/6ac6c5780e027c0f3b3b44a4?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | On Site | Oct 07 |
 | **[Dow Jones](http://www.dowjones.com)** | **[Summer 2027 Internship Program – Barron's Reporter Intern](https://jobright.ai/jobs/info/6ac6a5008ff3fb9b3bc8e53f?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Oct 07 |
-| ↳ | **[Summer 2027 Internship Program – Video Intern](https://jobright.ai/jobs/info/6ac6a51b8ff3fb9b3bc8e55f?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Oct 07 |
 | ↳ | **[Summer 2027 Internship Program – Video Intern](https://jobright.ai/jobs/info/6aa8b24c3387a3d9b67d2963?utm_campaign=1053&utm_source=git)** | New York City, NY, United States | Hybrid | Oct 07 |
+| ↳ | **[Summer 2027 Internship Program – Video Intern](https://jobright.ai/jobs/info/6ac6a51b8ff3fb9b3bc8e55f?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Oct 07 |
 | **[Megastar Advisors](https://www.megastaradvisors.com/)** | **[Video Editing & Post-Production Intern](https://jobright.ai/jobs/info/6ac6af2c8ff3fb9b3bc8e8a7?utm_campaign=1053&utm_source=git)** | Tarpon Springs, FL, United States | On Site | Oct 07 |
 | **[Carolina Core FC](https://www.carolinacorefc.com)** | **[Game Day Operations & Fan Experience Internship (Spring 2027)](https://jobright.ai/jobs/info/6ac6a3200e027c0f3b3b390c?utm_campaign=1053&utm_source=git)** | High Point, NC, United States | On Site | Oct 07 |
 | **[Ripken Baseball](https://www.ripkenbaseball.com)** | **[Spring Tournament Operations Intern](https://jobright.ai/jobs/info/6ac68afb8ff3fb9b3bc8da3b?utm_campaign=1053&utm_source=git)** | Pigeon Forge, TN, United States | On Site | Oct 07 |
@@ -141,5 +141,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Full-Time Paid Intern – Friend Writer/Editor (Church Magazines)](https://jobright.ai/jobs/info/6ac354cf4ac55253f5d6dcbd?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT, United States | Hybrid | Oct 05 |
 | ↳ | **[Full Time Paid Intern – Liahona Writer/Editor (Church Magazines)](https://jobright.ai/jobs/info/6ac354b70e027c0f3b3a61e9?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT, United States | Hybrid | Oct 05 |
 | **[The Aparecio Foundation](https://www.apareciofoundation.org)** | **[Volunteer/Intern:Pro Bono :Editor of "Men's" Content in Felix](https://jobright.ai/jobs/info/6a9ee4d068f82b403673bba1?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | Remote | Oct 05 |
-| **[Freeman Company](https://linktr.ee/freeman.events)** | **[2027 TFC Summer Internship - Event & Exhibit Services](https://jobright.ai/jobs/info/6ac40d1b8ff3fb9b3bc83cc3?utm_campaign=1053&utm_source=git)** | McCook, IL, United States | On Site | Oct 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
