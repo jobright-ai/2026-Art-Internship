@@ -57,14 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Ripken Baseball](https://www.ripkenbaseball.com)** | **[Fall Tournament Operations Intern](https://jobright.ai/jobs/info/6a53f4a38a74e077472fa203?utm_campaign=1053&utm_source=git)** | Pigeon Forge, TN, United States | On Site | Oct 12 |
-| ↳ | **[Fall Tournament Operations Intern](https://jobright.ai/jobs/info/6a24eecc757ade085b6b10c6?utm_campaign=1053&utm_source=git)** | Pigeon Forge, TN | On Site | Oct 12 |
+| **[KQED](http://www.kqed.org)** | **[Podcast Operations and Engagement Intern](https://jobright.ai/jobs/info/6ac573c64ac55253f5d76c46?utm_campaign=1053&utm_source=git)** | San Francisco, CA, United States | Hybrid | Oct 12 |
+| **[Ripken Baseball](https://www.ripkenbaseball.com)** | **[Fall Tournament Operations Intern](https://jobright.ai/jobs/info/6a24eecc757ade085b6b10c6?utm_campaign=1053&utm_source=git)** | Pigeon Forge, TN | On Site | Oct 12 |
+| ↳ | **[Fall Tournament Operations Intern](https://jobright.ai/jobs/info/6a53f4a38a74e077472fa203?utm_campaign=1053&utm_source=git)** | Pigeon Forge, TN, United States | On Site | Oct 12 |
 | **[Insomniac Events](http://insomniac.com)** | **[Paid Spring Music Group Publishing Intern](https://jobright.ai/jobs/info/6acd60e53c831dc4086c20df?utm_campaign=1053&utm_source=git)** | Calabasas, CA, United States | On Site | Oct 12 |
 | **[MSP Communications](https://mspcommunications.com/)** | **[Editorial Intern, MSP](https://jobright.ai/jobs/info/6abad1cd3db4ca81fc7c4adb?utm_campaign=1053&utm_source=git)** | St. Paul, MN, United States | Hybrid | Oct 12 |
 | **[University of Kentucky](https://www.ca.uky.edu)** | **[Smart Campus Digital Media Intern - Bowman's Friends](https://jobright.ai/jobs/info/6acd5b173c831dc4086c1f2f?utm_campaign=1053&utm_source=git)** | Lexington, KY, United States | On Site | Oct 12 |
 | **[Dow Jones](http://www.dowjones.com)** | **[Summer 2027 Bartley Fellowship - Opinion Internship-1](https://jobright.ai/jobs/info/6acd545de7a1d93332111394?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Oct 12 |
 | **[Rodeo Austin](http://www.RodeoAustin.com)** | **[Rodeo & Sponsorship Internship](https://jobright.ai/jobs/info/6acd4915002e496d4bef18f1?utm_campaign=1053&utm_source=git)** | Austin, TX, United States | On Site | Oct 12 |
 | **[ElectraCast Media](http://www.electracast.com)** | **[Podcast Editing Internship for US College Student](https://jobright.ai/jobs/info/6acd1e4ae7a1d9333211017c?utm_campaign=1053&utm_source=git)** | United States | Remote | Oct 12 |
+| **[HarperCollins Publishers](https://www.harpercollins.com/)** | **[2027 Spring Internship - Editorial Intern, Zonderkidz/Blink/DaySpring Kids (Remote US)](https://jobright.ai/jobs/info/6ac435e74ac55253f5d717a9?utm_campaign=1053&utm_source=git)** | United States | Remote | Oct 12 |
 | **[Financial Times](http://ft.com)** | **[Data Journalism Summer Intern](https://jobright.ai/jobs/info/6aba904fd2914e9273eebe35?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Oct 12 |
 | **[Universal Creative](https://universalcreative.com)** | **[Internship, Universal Creative – Team Member & Culture Experience (Summer 2027)](https://jobright.ai/jobs/info/6acc9f87ddd23cce28a0effe?utm_campaign=1053&utm_source=git)** | Orlando, FL, United States | On Site | Oct 12 |
 | **[Universal Orlando Resort](https://UniversalOrlandoJobs.com)** | **[Internship – Podcast Interview, Discover Universal Audio/Video (Summer 2027)](https://jobright.ai/jobs/info/6acc8f603c831dc4086beb8c?utm_campaign=1053&utm_source=git)** | Orlando, FL, United States | On Site | Oct 12 |
@@ -117,7 +119,6 @@ For a complete list, click the following sortable link below:
 | **[Skild AI](https://www.skild.ai)** | **[Content Creator (Intern)](https://jobright.ai/jobs/info/6ab3463530340229a323213d?utm_campaign=1053&utm_source=git)** | San Mateo, CA, United States | On Site | Oct 06 |
 | **[HexArmor](http://hexarmor.com)** | **[Videographer Internship - Summer 2027](https://jobright.ai/jobs/info/6ab333e68254c44790e59800?utm_campaign=1053&utm_source=git)** | Grand Rapids, MI, United States | On Site | Oct 06 |
 | **[WhoWhatWhy](http://whowhatwhy.org/)** | **[Editorial Assistant (Volunteer, Fall 2026)](https://jobright.ai/jobs/info/6a8e248ad34f700f87fd8148?utm_campaign=1053&utm_source=git)** | United States | Remote | Oct 06 |
-| **[KQED](http://www.kqed.org)** | **[Podcast Operations and Engagement Intern](https://jobright.ai/jobs/info/6ac573c64ac55253f5d76c46?utm_campaign=1053&utm_source=git)** | San Francisco, CA, United States | Hybrid | Oct 06 |
 | **[TensorWave](https://tensorwave.com)** | **[Podcast Producer Intern](https://jobright.ai/jobs/info/6ac3d9d5372c01f6cd7327bf?utm_campaign=1053&utm_source=git)** | Las Vegas, NV, United States | On Site | Oct 06 |
 | **[EAA Radio](http://www.eaaradio.net/)** | **[Multimedia Journalist Intern](https://jobright.ai/jobs/info/6ac558f0064da25272e1666b?utm_campaign=1053&utm_source=git)** | Oshkosh, WI, United States | On Site | Oct 06 |
 | ↳ | **[Audio Visual Intern](https://jobright.ai/jobs/info/6ac558eb372c01f6cd7392c2?utm_campaign=1053&utm_source=git)** | Oshkosh, WI, United States | Hybrid | Oct 06 |
@@ -135,5 +136,4 @@ For a complete list, click the following sortable link below:
 | **[Flick](https://flick.art/)** | **[GTM Intern (Creator & Community)](https://jobright.ai/jobs/info/6ac4950e372c01f6cd735f68?utm_campaign=1053&utm_source=git)** | United States | Remote | Oct 06 |
 | **[FARRYNHEIGHT](https://farrynheight.com)** | **[Social Content Intern](https://jobright.ai/jobs/info/6ac4eee5372c01f6cd736b14?utm_campaign=1053&utm_source=git)** | New York City metropolitan area | On Site | Oct 06 |
 | **[Hasana, Inc.](http://shophasana.com)** | **[Volunteer/Intern: Film/Video Editor](https://jobright.ai/jobs/info/6a584c973330ca6f993c3e99?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | On Site | Oct 06 |
-| **[Aalo Atomics](https://www.aalo.com)** | **[Spring 2027 Video Editor Intern - Austin, TX](https://jobright.ai/jobs/info/6ac3c06b4ac55253f5d6edc6?utm_campaign=1053&utm_source=git)** | Austin, TX, United States | On Site | Oct 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
