@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[ESPN Production Intern, Charlotte, Spring 2027](https://jobright.ai/jobs/info/6acd0d9dd113c967e3c7bdea?utm_campaign=1053&utm_source=git)** | Charlotte, NC, United States | On Site | Oct 12 |
+| **[Disney Experiences](https://disneyconnect.com)** | **[Disney & Pixar Games Production Intern, Spring 2027](https://jobright.ai/jobs/info/6acdbf1a7c7bc52e04f55bc3?utm_campaign=1053&utm_source=git)** | Glendale, CA, United States | On Site | Oct 12 |
+| **[ESPN](http://espncareers.com)** | **[ESPN Production Intern, Charlotte, Spring 2027](https://jobright.ai/jobs/info/6acdbf0c7c7bc52e04f55bc0?utm_campaign=1053&utm_source=git)** | Charlotte, NC, United States | On Site | Oct 12 |
+| **[Canyon Entertainment Group](https://canyonentertainmentgroup.com)** | **[Video Editing, Post-Production Intern](https://jobright.ai/jobs/info/6acdb7173e2155b545aa1a9e?utm_campaign=1053&utm_source=git)** | Greater Toronto Area, Canada | Remote | Oct 12 |
 | **[Vermilion](www.clubvermilion.com)** | **[Film and TV Post-production Intern](https://jobright.ai/jobs/info/6acdaa199be8b2e4756632fb?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Hybrid | Oct 12 |
 | **[Alliance for American Leadership](https://www.linkedin.com/company/106629819)** | **[Journalism & Press Intern (Volunteer)](https://jobright.ai/jobs/info/6acd9e7b002e496d4bef2e0e?utm_campaign=1053&utm_source=git)** | Washington, DC, United States | Remote | Oct 12 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Paid Spring Music Group Publishing Intern](https://jobright.ai/jobs/info/6acd5fa0002e496d4bef20ac?utm_campaign=1053&utm_source=git)** | Calabasas, CA, United States | On Site | Oct 12 |
@@ -79,7 +83,6 @@ For a complete list, click the following sortable link below:
 | **[Sightline Media Group](http://sightlinemediagroup.com/)** | **[Editorial Intern, Military Times](https://jobright.ai/jobs/info/6acc5672a56e5406e57bd70d?utm_campaign=1053&utm_source=git)** | Washington, DC, United States | Remote | Oct 11 |
 | **[Full Jam Music INC.](http://fulljam.com)** | **[Musicians creators (volunteer or internship)](https://jobright.ai/jobs/info/6acc510cddd23cce28a0e6e3?utm_campaign=1053&utm_source=git)** | Canada | Remote | Oct 11 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Disney & Pixar Games Production Intern, Spring 2027](https://jobright.ai/jobs/info/6acd81b1ddd23cce28a12ae6?utm_campaign=1053&utm_source=git)** | Glendale, CA, United States | On Site | Oct 11 |
-| ↳ | **[ESPN Production Intern, Charlotte, Spring 2027](https://jobright.ai/jobs/info/6acd0d9dd113c967e3c7bdea?utm_campaign=1053&utm_source=git)** | Charlotte, NC, United States | On Site | Oct 11 |
 | **[Our National Conversation (ONC)](https://www.ournationalconversation.org)** | **[Content Creator Intern](https://jobright.ai/jobs/info/6aca94fae7a1d9333210bbff?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | Remote | Oct 10 |
 | **[Bethel University](https://www.betheluniversity.edu/)** | **[Student Worker - PR/Com Student Writer Intern](https://jobright.ai/jobs/info/6a5b067cc8e3a473cb8ae8c5?utm_campaign=1053&utm_source=git)** | Mishawaka, IN, United States | On Site | Oct 10 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Sports Intern- Fall 2026](https://jobright.ai/jobs/info/6aca526f3c831dc4086bc0b8?utm_campaign=1053&utm_source=git)** | Washington, DC, United States | On Site | Oct 10 |
@@ -137,5 +140,4 @@ For a complete list, click the following sortable link below:
 | **[Relativity Space](http://relativityspace.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/6ac53336d9621c5b283a3d34?utm_campaign=1053&utm_source=git)** | Long Beach, CA, United States | On Site | Oct 06 |
 | **[Bay Harbor Yacht Club](https://www.bayharboryc.com)** | **[Events Intern](https://jobright.ai/jobs/info/6ac525da0e027c0f3b3ad23f?utm_campaign=1053&utm_source=git)** | Bay Harbor, MI, United States | On Site | Oct 06 |
 | **[Flick](https://flick.art/)** | **[GTM Intern (Creator & Community)](https://jobright.ai/jobs/info/6ac4950e372c01f6cd735f68?utm_campaign=1053&utm_source=git)** | United States | Remote | Oct 06 |
-| **[FARRYNHEIGHT](https://farrynheight.com)** | **[Social Content Intern](https://jobright.ai/jobs/info/6ac4eee5372c01f6cd736b14?utm_campaign=1053&utm_source=git)** | New York City metropolitan area | On Site | Oct 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
