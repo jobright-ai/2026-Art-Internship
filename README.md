@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[FashionX Magazine](https://www.fashionxmag.com)** | **[Editorial Intern](https://jobright.ai/jobs/info/6acdf117ee9da536dc21b620?utm_campaign=1053&utm_source=git)** | Toronto, ON, Canada | On Site | Oct 13 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[ESPN Production Intern, Charlotte, Spring 2027](https://jobright.ai/jobs/info/6acd0d9dd113c967e3c7bdea?utm_campaign=1053&utm_source=git)** | Charlotte, NC, United States | On Site | Oct 12 |
 | ↳ | **[Disney & Pixar Games Production Intern, Spring 2027](https://jobright.ai/jobs/info/6acd81b1ddd23cce28a12ae6?utm_campaign=1053&utm_source=git)** | Glendale, CA, United States | On Site | Oct 12 |
 | **[Disney Experiences](https://disneyconnect.com)** | **[Disney & Pixar Games Production Intern, Spring 2027](https://jobright.ai/jobs/info/6acdbf1a7c7bc52e04f55bc3?utm_campaign=1053&utm_source=git)** | Glendale, CA, United States | On Site | Oct 12 |
@@ -66,8 +67,8 @@ For a complete list, click the following sortable link below:
 | **[Alliance for American Leadership](https://www.linkedin.com/company/106629819)** | **[Journalism & Press Intern (Volunteer)](https://jobright.ai/jobs/info/6acd9e7b002e496d4bef2e0e?utm_campaign=1053&utm_source=git)** | Washington, DC, United States | Remote | Oct 12 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Paid Spring Music Group Publishing Intern](https://jobright.ai/jobs/info/6acd5fa0002e496d4bef20ac?utm_campaign=1053&utm_source=git)** | Calabasas, CA, United States | On Site | Oct 12 |
 | **[KQED](http://www.kqed.org)** | **[Podcast Operations and Engagement Intern](https://jobright.ai/jobs/info/6ac573c64ac55253f5d76c46?utm_campaign=1053&utm_source=git)** | San Francisco, CA, United States | Hybrid | Oct 12 |
-| **[Ripken Baseball](https://www.ripkenbaseball.com)** | **[Fall Tournament Operations Intern](https://jobright.ai/jobs/info/6a24eecc757ade085b6b10c6?utm_campaign=1053&utm_source=git)** | Pigeon Forge, TN | On Site | Oct 12 |
-| ↳ | **[Fall Tournament Operations Intern](https://jobright.ai/jobs/info/6a53f4a38a74e077472fa203?utm_campaign=1053&utm_source=git)** | Pigeon Forge, TN, United States | On Site | Oct 12 |
+| **[Ripken Baseball](https://www.ripkenbaseball.com)** | **[Fall Tournament Operations Intern](https://jobright.ai/jobs/info/6a53f4a38a74e077472fa203?utm_campaign=1053&utm_source=git)** | Pigeon Forge, TN, United States | On Site | Oct 12 |
+| ↳ | **[Fall Tournament Operations Intern](https://jobright.ai/jobs/info/6a24eecc757ade085b6b10c6?utm_campaign=1053&utm_source=git)** | Pigeon Forge, TN | On Site | Oct 12 |
 | **[Insomniac Events](http://insomniac.com)** | **[Paid Spring Music Group Publishing Intern](https://jobright.ai/jobs/info/6acd60e53c831dc4086c20df?utm_campaign=1053&utm_source=git)** | Calabasas, CA, United States | On Site | Oct 12 |
 | **[MSP Communications](https://mspcommunications.com/)** | **[Editorial Intern, MSP](https://jobright.ai/jobs/info/6abad1cd3db4ca81fc7c4adb?utm_campaign=1053&utm_source=git)** | St. Paul, MN, United States | Hybrid | Oct 12 |
 | **[University of Kentucky](https://www.ca.uky.edu)** | **[Smart Campus Digital Media Intern - Bowman's Friends](https://jobright.ai/jobs/info/6acd5b173c831dc4086c1f2f?utm_campaign=1053&utm_source=git)** | Lexington, KY, United States | On Site | Oct 12 |
@@ -138,5 +139,4 @@ For a complete list, click the following sortable link below:
 | **[Kroenke Sports & Entertainment](https://www.ballarena.com)** | **[Rapids 2 Video Analyst Intern](https://jobright.ai/jobs/info/6ac541e80e027c0f3b3adca0?utm_campaign=1053&utm_source=git)** | Commerce City, CO, United States | On Site | Oct 06 |
 | **[Brennan Center for Justice](http://www.brennancenter.org/)** | **[Spring 2027 Multimedia Producer Undergraduate Internship](https://jobright.ai/jobs/info/6ac51319064da25272e14990?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Oct 06 |
 | **[Relativity Space](http://relativityspace.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/6ac53336d9621c5b283a3d34?utm_campaign=1053&utm_source=git)** | Long Beach, CA, United States | On Site | Oct 06 |
-| **[Bay Harbor Yacht Club](https://www.bayharboryc.com)** | **[Events Intern](https://jobright.ai/jobs/info/6ac525da0e027c0f3b3ad23f?utm_campaign=1053&utm_source=git)** | Bay Harbor, MI, United States | On Site | Oct 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
