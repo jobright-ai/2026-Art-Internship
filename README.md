@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Paid Spring Music Group Publishing Intern](https://jobright.ai/jobs/info/6acd5fa0002e496d4bef20ac?utm_campaign=1053&utm_source=git)** | Calabasas, CA, United States | On Site | Oct 12 |
 | **[KQED](http://www.kqed.org)** | **[Podcast Operations and Engagement Intern](https://jobright.ai/jobs/info/6ac573c64ac55253f5d76c46?utm_campaign=1053&utm_source=git)** | San Francisco, CA, United States | Hybrid | Oct 12 |
 | **[Ripken Baseball](https://www.ripkenbaseball.com)** | **[Fall Tournament Operations Intern](https://jobright.ai/jobs/info/6a24eecc757ade085b6b10c6?utm_campaign=1053&utm_source=git)** | Pigeon Forge, TN | On Site | Oct 12 |
 | ↳ | **[Fall Tournament Operations Intern](https://jobright.ai/jobs/info/6a53f4a38a74e077472fa203?utm_campaign=1053&utm_source=git)** | Pigeon Forge, TN, United States | On Site | Oct 12 |
@@ -75,8 +76,8 @@ For a complete list, click the following sortable link below:
 | **[The Ambony](https://www.anpublishing.com/)** | **[Entertainment Journalist (Internship)](https://jobright.ai/jobs/info/6acc5814e7a1d9333210ddb8?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | Remote | Oct 11 |
 | **[Sightline Media Group](http://sightlinemediagroup.com/)** | **[Editorial Intern, Military Times](https://jobright.ai/jobs/info/6acc5672a56e5406e57bd70d?utm_campaign=1053&utm_source=git)** | Washington, DC, United States | Remote | Oct 11 |
 | **[Full Jam Music INC.](http://fulljam.com)** | **[Musicians creators (volunteer or internship)](https://jobright.ai/jobs/info/6acc510cddd23cce28a0e6e3?utm_campaign=1053&utm_source=git)** | Canada | Remote | Oct 11 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[ESPN Production Intern, Charlotte, Spring 2027](https://jobright.ai/jobs/info/6acd0d9dd113c967e3c7bdea?utm_campaign=1053&utm_source=git)** | Charlotte, NC, United States | On Site | Oct 11 |
-| **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Paid Spring Music Group Publishing Intern](https://jobright.ai/jobs/info/6acd5fa0002e496d4bef20ac?utm_campaign=1053&utm_source=git)** | Calabasas, CA, United States | On Site | Oct 11 |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Disney & Pixar Games Production Intern, Spring 2027](https://jobright.ai/jobs/info/6acd81b1ddd23cce28a12ae6?utm_campaign=1053&utm_source=git)** | Glendale, CA, United States | On Site | Oct 11 |
+| ↳ | **[ESPN Production Intern, Charlotte, Spring 2027](https://jobright.ai/jobs/info/6acd0d9dd113c967e3c7bdea?utm_campaign=1053&utm_source=git)** | Charlotte, NC, United States | On Site | Oct 11 |
 | **[Our National Conversation (ONC)](https://www.ournationalconversation.org)** | **[Content Creator Intern](https://jobright.ai/jobs/info/6aca94fae7a1d9333210bbff?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | Remote | Oct 10 |
 | **[Bethel University](https://www.betheluniversity.edu/)** | **[Student Worker - PR/Com Student Writer Intern](https://jobright.ai/jobs/info/6a5b067cc8e3a473cb8ae8c5?utm_campaign=1053&utm_source=git)** | Mishawaka, IN, United States | On Site | Oct 10 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Sports Intern- Fall 2026](https://jobright.ai/jobs/info/6aca526f3c831dc4086bc0b8?utm_campaign=1053&utm_source=git)** | Washington, DC, United States | On Site | Oct 10 |
