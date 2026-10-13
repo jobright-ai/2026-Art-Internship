@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Astranis Space Technologies](http://www.astranis.com)** | **[Content Creator Intern (Fall 2026)](https://jobright.ai/jobs/info/6ab1b34032552369083e3f19?utm_campaign=1053&utm_source=git)** | San Francisco, CA, United States | On Site | Oct 13 |
 | **[Dow Jones](http://www.dowjones.com)** | **[Summer 2027 Internship Program – TA Videographer / Marketing Intern](https://jobright.ai/jobs/info/6aa96266eff87f571fc9972f?utm_campaign=1053&utm_source=git)** | New York City, NY, United States | On Site | Oct 13 |
 | **[FashionX Magazine](https://www.fashionxmag.com)** | **[Editorial Intern](https://jobright.ai/jobs/info/6acdf117ee9da536dc21b620?utm_campaign=1053&utm_source=git)** | Toronto, ON, Canada | On Site | Oct 13 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[ESPN Production Intern, Charlotte, Spring 2027](https://jobright.ai/jobs/info/6acd0d9dd113c967e3c7bdea?utm_campaign=1053&utm_source=git)** | Charlotte, NC, United States | On Site | Oct 12 |
@@ -128,11 +129,4 @@ For a complete list, click the following sortable link below:
 | **[HexArmor](http://hexarmor.com)** | **[Videographer Internship - Summer 2027](https://jobright.ai/jobs/info/6ab333e68254c44790e59800?utm_campaign=1053&utm_source=git)** | Grand Rapids, MI, United States | On Site | Oct 06 |
 | **[WhoWhatWhy](http://whowhatwhy.org/)** | **[Editorial Assistant (Volunteer, Fall 2026)](https://jobright.ai/jobs/info/6a8e248ad34f700f87fd8148?utm_campaign=1053&utm_source=git)** | United States | Remote | Oct 06 |
 | **[TensorWave](https://tensorwave.com)** | **[Podcast Producer Intern](https://jobright.ai/jobs/info/6ac3d9d5372c01f6cd7327bf?utm_campaign=1053&utm_source=git)** | Las Vegas, NV, United States | On Site | Oct 06 |
-| **[EAA Radio](http://www.eaaradio.net/)** | **[Multimedia Journalist Intern](https://jobright.ai/jobs/info/6ac558f0064da25272e1666b?utm_campaign=1053&utm_source=git)** | Oshkosh, WI, United States | On Site | Oct 06 |
-| ↳ | **[Audio Visual Intern](https://jobright.ai/jobs/info/6ac558eb372c01f6cd7392c2?utm_campaign=1053&utm_source=git)** | Oshkosh, WI, United States | Hybrid | Oct 06 |
-| ↳ | **[Events Intern](https://jobright.ai/jobs/info/6ac558e4372c01f6cd7392bb?utm_campaign=1053&utm_source=git)** | Oshkosh, WI, United States | On Site | Oct 06 |
-| **[EAA](http://www.eaa.org/)** | **[Events Intern](https://jobright.ai/jobs/info/6ac558a4372c01f6cd73929d?utm_campaign=1053&utm_source=git)** | Oshkosh, WI, United States | On Site | Oct 06 |
-| ↳ | **[Audio Visual Intern](https://jobright.ai/jobs/info/6ac5584d4ac55253f5d761e9?utm_campaign=1053&utm_source=git)** | Oshkosh, WI, United States | Hybrid | Oct 06 |
-| ↳ | **[Multimedia Journalist Intern](https://jobright.ai/jobs/info/6ac558478ff3fb9b3bc89337?utm_campaign=1053&utm_source=git)** | Oshkosh, WI, United States | On Site | Oct 06 |
-| **[The Recap Group Inc.](https://therecap.group)** | **[Video Editor Internship / In-Person / Stipend Provided](https://jobright.ai/jobs/info/6ac3d5574ac55253f5d6f58e?utm_campaign=1053&utm_source=git)** | Brooklyn Heights, New York, United States | On Site | Oct 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
