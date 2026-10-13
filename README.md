@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Dow Jones](http://www.dowjones.com)** | **[Summer 2027 Internship Program – TA Videographer / Marketing Intern](https://jobright.ai/jobs/info/6aa96266eff87f571fc9972f?utm_campaign=1053&utm_source=git)** | New York City, NY, United States | On Site | Oct 13 |
 | **[FashionX Magazine](https://www.fashionxmag.com)** | **[Editorial Intern](https://jobright.ai/jobs/info/6acdf117ee9da536dc21b620?utm_campaign=1053&utm_source=git)** | Toronto, ON, Canada | On Site | Oct 13 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[ESPN Production Intern, Charlotte, Spring 2027](https://jobright.ai/jobs/info/6acd0d9dd113c967e3c7bdea?utm_campaign=1053&utm_source=git)** | Charlotte, NC, United States | On Site | Oct 12 |
 | ↳ | **[Disney & Pixar Games Production Intern, Spring 2027](https://jobright.ai/jobs/info/6acd81b1ddd23cce28a12ae6?utm_campaign=1053&utm_source=git)** | Glendale, CA, United States | On Site | Oct 12 |
@@ -134,8 +135,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Audio Visual Intern](https://jobright.ai/jobs/info/6ac5584d4ac55253f5d761e9?utm_campaign=1053&utm_source=git)** | Oshkosh, WI, United States | Hybrid | Oct 06 |
 | ↳ | **[Multimedia Journalist Intern](https://jobright.ai/jobs/info/6ac558478ff3fb9b3bc89337?utm_campaign=1053&utm_source=git)** | Oshkosh, WI, United States | On Site | Oct 06 |
 | **[The Recap Group Inc.](https://therecap.group)** | **[Video Editor Internship / In-Person / Stipend Provided](https://jobright.ai/jobs/info/6ac3d5574ac55253f5d6f58e?utm_campaign=1053&utm_source=git)** | Brooklyn Heights, New York, United States | On Site | Oct 06 |
-| **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[LIU Internship at Brooklyn Paramount](https://jobright.ai/jobs/info/6ac51fd18ff3fb9b3bc87b0a?utm_campaign=1053&utm_source=git)** | Brooklyn, NY, United States | On Site | Oct 06 |
-| **[Biogen](https://www.biogen.com/en_us/home.html)** | **[Co-op, Video Production and Digital Content](https://jobright.ai/jobs/info/6abee6f74ac55253f5d63925?utm_campaign=1053&utm_source=git)** | Cambridge, MA, United States | Hybrid | Oct 06 |
-| **[Kroenke Sports & Entertainment](https://www.ballarena.com)** | **[Rapids 2 Video Analyst Intern](https://jobright.ai/jobs/info/6ac541e80e027c0f3b3adca0?utm_campaign=1053&utm_source=git)** | Commerce City, CO, United States | On Site | Oct 06 |
-| **[Brennan Center for Justice](http://www.brennancenter.org/)** | **[Spring 2027 Multimedia Producer Undergraduate Internship](https://jobright.ai/jobs/info/6ac51319064da25272e14990?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Oct 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
