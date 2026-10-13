@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[WETA](https://weta.org/)** | **[Digital Media: Local History Intern (Full-Time)](https://jobright.ai/jobs/info/6ace4786a0453f9ba6247bb1?utm_campaign=1053&utm_source=git)** | Arlington, VA, United States | On Site | Oct 13 |
+| ↳ | **[Digital Media: Local History Intern (Part-Time)](https://jobright.ai/jobs/info/6ace47814391691a335aba80?utm_campaign=1053&utm_source=git)** | Arlington, VA, United States | On Site | Oct 13 |
 | **[National Media Awards Foundation](https://magazine-awards.com/en/)** | **[Programming & Communications Intern](https://jobright.ai/jobs/info/6ace3f3fbb78de94580d4f39?utm_campaign=1053&utm_source=git)** | Canada | Remote | Oct 13 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Producer Intern](https://jobright.ai/jobs/info/6ab161ce23005eee3545a0d9?utm_campaign=1053&utm_source=git)** | Oklahoma City, OK, United States | On Site | Oct 13 |
 | **[Greystone](https://www.greystone.com)** | **[Agency Production Intern - Summer 2027](https://jobright.ai/jobs/info/6ab18bd2f9692ca98b04a3e8?utm_campaign=1053&utm_source=git)** | Atlanta, GA, United States | On Site | Oct 13 |
