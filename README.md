@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[National Media Awards Foundation](https://magazine-awards.com/en/)** | **[Programming & Communications Intern](https://jobright.ai/jobs/info/6ace3f3fbb78de94580d4f39?utm_campaign=1053&utm_source=git)** | Canada | Remote | Oct 13 |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Producer Intern](https://jobright.ai/jobs/info/6ab161ce23005eee3545a0d9?utm_campaign=1053&utm_source=git)** | Oklahoma City, OK, United States | On Site | Oct 13 |
+| **[Greystone](https://www.greystone.com)** | **[Agency Production Intern - Summer 2027](https://jobright.ai/jobs/info/6ab18bd2f9692ca98b04a3e8?utm_campaign=1053&utm_source=git)** | Atlanta, GA, United States | On Site | Oct 13 |
 | **[Astranis Space Technologies](http://www.astranis.com)** | **[Content Creator Intern (Fall 2026)](https://jobright.ai/jobs/info/6ab1b34032552369083e3f19?utm_campaign=1053&utm_source=git)** | San Francisco, CA, United States | On Site | Oct 13 |
 | **[Dow Jones](http://www.dowjones.com)** | **[Summer 2027 Internship Program – TA Videographer / Marketing Intern](https://jobright.ai/jobs/info/6aa96266eff87f571fc9972f?utm_campaign=1053&utm_source=git)** | New York City, NY, United States | On Site | Oct 13 |
 | **[FashionX Magazine](https://www.fashionxmag.com)** | **[Editorial Intern](https://jobright.ai/jobs/info/6acdf117ee9da536dc21b620?utm_campaign=1053&utm_source=git)** | Toronto, ON, Canada | On Site | Oct 13 |
@@ -128,5 +131,4 @@ For a complete list, click the following sortable link below:
 | **[Skild AI](https://www.skild.ai)** | **[Content Creator (Intern)](https://jobright.ai/jobs/info/6ab3463530340229a323213d?utm_campaign=1053&utm_source=git)** | San Mateo, CA, United States | On Site | Oct 06 |
 | **[HexArmor](http://hexarmor.com)** | **[Videographer Internship - Summer 2027](https://jobright.ai/jobs/info/6ab333e68254c44790e59800?utm_campaign=1053&utm_source=git)** | Grand Rapids, MI, United States | On Site | Oct 06 |
 | **[WhoWhatWhy](http://whowhatwhy.org/)** | **[Editorial Assistant (Volunteer, Fall 2026)](https://jobright.ai/jobs/info/6a8e248ad34f700f87fd8148?utm_campaign=1053&utm_source=git)** | United States | Remote | Oct 06 |
-| **[TensorWave](https://tensorwave.com)** | **[Podcast Producer Intern](https://jobright.ai/jobs/info/6ac3d9d5372c01f6cd7327bf?utm_campaign=1053&utm_source=git)** | Las Vegas, NV, United States | On Site | Oct 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
