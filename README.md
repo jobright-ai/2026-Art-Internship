@@ -57,8 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[West End Strategy Team](https://westendstrategy.com)** | **[Paid Intern - Spring 2027](https://jobright.ai/jobs/info/6ace5e6b680c80c8753bc451?utm_campaign=1053&utm_source=git)** | Washington, DC, United States | Hybrid | Oct 13 |
+| **[Hasana, Inc.](http://shophasana.com)** | **[Volunteer/Intern: Film/Video Editor](https://jobright.ai/jobs/info/6a51e53ebf63b66c7997e975?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Oct 13 |
 | **[WETA](https://weta.org/)** | **[Digital Media: Local History Intern (Full-Time)](https://jobright.ai/jobs/info/6ace4786a0453f9ba6247bb1?utm_campaign=1053&utm_source=git)** | Arlington, VA, United States | On Site | Oct 13 |
 | ↳ | **[Digital Media: Local History Intern (Part-Time)](https://jobright.ai/jobs/info/6ace47814391691a335aba80?utm_campaign=1053&utm_source=git)** | Arlington, VA, United States | On Site | Oct 13 |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid News Intern](https://jobright.ai/jobs/info/69b1c6a4548f140066e79343?utm_campaign=1053&utm_source=git)** | Wichita, KS | On Site | Oct 13 |
 | **[National Media Awards Foundation](https://magazine-awards.com/en/)** | **[Programming & Communications Intern](https://jobright.ai/jobs/info/6ace3f3fbb78de94580d4f39?utm_campaign=1053&utm_source=git)** | Canada | Remote | Oct 13 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Producer Intern](https://jobright.ai/jobs/info/6ab161ce23005eee3545a0d9?utm_campaign=1053&utm_source=git)** | Oklahoma City, OK, United States | On Site | Oct 13 |
 | **[Greystone](https://www.greystone.com)** | **[Agency Production Intern - Summer 2027](https://jobright.ai/jobs/info/6ab18bd2f9692ca98b04a3e8?utm_campaign=1053&utm_source=git)** | Atlanta, GA, United States | On Site | Oct 13 |
@@ -69,13 +72,11 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Disney & Pixar Games Production Intern, Spring 2027](https://jobright.ai/jobs/info/6acd81b1ddd23cce28a12ae6?utm_campaign=1053&utm_source=git)** | Glendale, CA, United States | On Site | Oct 12 |
 | **[Disney Experiences](https://disneyconnect.com)** | **[Disney & Pixar Games Production Intern, Spring 2027](https://jobright.ai/jobs/info/6acdbf1a7c7bc52e04f55bc3?utm_campaign=1053&utm_source=git)** | Glendale, CA, United States | On Site | Oct 12 |
 | **[ESPN](http://espncareers.com)** | **[ESPN Production Intern, Charlotte, Spring 2027](https://jobright.ai/jobs/info/6acdbf0c7c7bc52e04f55bc0?utm_campaign=1053&utm_source=git)** | Charlotte, NC, United States | On Site | Oct 12 |
-| **[Canyon Entertainment Group](https://canyonentertainmentgroup.com)** | **[Video Editing, Post-Production Intern](https://jobright.ai/jobs/info/6acdb7173e2155b545aa1a9e?utm_campaign=1053&utm_source=git)** | Greater Toronto Area, Canada | Remote | Oct 12 |
-| **[Vermilion](www.clubvermilion.com)** | **[Film and TV Post-production Intern](https://jobright.ai/jobs/info/6acdaa199be8b2e4756632fb?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Hybrid | Oct 12 |
 | **[Alliance for American Leadership](https://www.linkedin.com/company/106629819)** | **[Journalism & Press Intern (Volunteer)](https://jobright.ai/jobs/info/6acd9e7b002e496d4bef2e0e?utm_campaign=1053&utm_source=git)** | Washington, DC, United States | Remote | Oct 12 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Paid Spring Music Group Publishing Intern](https://jobright.ai/jobs/info/6acd5fa0002e496d4bef20ac?utm_campaign=1053&utm_source=git)** | Calabasas, CA, United States | On Site | Oct 12 |
 | **[KQED](http://www.kqed.org)** | **[Podcast Operations and Engagement Intern](https://jobright.ai/jobs/info/6ac573c64ac55253f5d76c46?utm_campaign=1053&utm_source=git)** | San Francisco, CA, United States | Hybrid | Oct 12 |
-| **[Ripken Baseball](https://www.ripkenbaseball.com)** | **[Fall Tournament Operations Intern](https://jobright.ai/jobs/info/6a24eecc757ade085b6b10c6?utm_campaign=1053&utm_source=git)** | Pigeon Forge, TN | On Site | Oct 12 |
-| ↳ | **[Fall Tournament Operations Intern](https://jobright.ai/jobs/info/6a53f4a38a74e077472fa203?utm_campaign=1053&utm_source=git)** | Pigeon Forge, TN, United States | On Site | Oct 12 |
+| **[Ripken Baseball](https://www.ripkenbaseball.com)** | **[Fall Tournament Operations Intern](https://jobright.ai/jobs/info/6a53f4a38a74e077472fa203?utm_campaign=1053&utm_source=git)** | Pigeon Forge, TN, United States | On Site | Oct 12 |
+| ↳ | **[Fall Tournament Operations Intern](https://jobright.ai/jobs/info/6a24eecc757ade085b6b10c6?utm_campaign=1053&utm_source=git)** | Pigeon Forge, TN | On Site | Oct 12 |
 | **[Insomniac Events](http://insomniac.com)** | **[Paid Spring Music Group Publishing Intern](https://jobright.ai/jobs/info/6acd60e53c831dc4086c20df?utm_campaign=1053&utm_source=git)** | Calabasas, CA, United States | On Site | Oct 12 |
 | **[MSP Communications](https://mspcommunications.com/)** | **[Editorial Intern, MSP](https://jobright.ai/jobs/info/6abad1cd3db4ca81fc7c4adb?utm_campaign=1053&utm_source=git)** | St. Paul, MN, United States | Hybrid | Oct 12 |
 | **[University of Kentucky](https://www.ca.uky.edu)** | **[Smart Campus Digital Media Intern - Bowman's Friends](https://jobright.ai/jobs/info/6acd5b173c831dc4086c1f2f?utm_campaign=1053&utm_source=git)** | Lexington, KY, United States | On Site | Oct 12 |
