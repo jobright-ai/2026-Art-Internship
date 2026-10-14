@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Audacy, Inc.](https://audacyinc.com/)** | **[Sports Media and Digital Content Intern](https://jobright.ai/jobs/info/6acea578bb78de94580d779b?utm_campaign=1053&utm_source=git)** | Cleveland, OH, United States | On Site | Oct 14 |
 | **[Institute for the Study of War](http://understandingwar.org/)** | **[Multimedia & Video Production Internship Spring 2027](https://jobright.ai/jobs/info/6ab304418254c44790e58c6a?utm_campaign=1053&utm_source=git)** | Washington, DC, United States | Hybrid | Oct 14 |
 | **[Federal Reserve Bank of San Francisco](http://www.frbsf.org)** | **[Federal Reserve Summer 2027 Economics Writing and Analysis Internship](https://jobright.ai/jobs/info/6ab28e061e4847ddae914c13?utm_campaign=1053&utm_source=git)** | Richmond, VA, United States | On Site | Oct 14 |
 | **[Sinclair Inc.](http://sbgi.net)** | **[Fall News Intern (Unpaid)](https://jobright.ai/jobs/info/6ab3a218835ccf4a281180fe?utm_campaign=1053&utm_source=git)** | Lynchburg, VA, United States | On Site | Oct 14 |
@@ -65,13 +66,12 @@ For a complete list, click the following sortable link below:
 | **[MBJ Network](www.mbj-network.com)** | **[Assistant Managing Editor (Writers) - Intern](https://jobright.ai/jobs/info/6abc59abbf15c0ae50138627?utm_campaign=1053&utm_source=git)** | Lombard, IL, United States | Remote | Oct 13 |
 | **[Northstar Travel Group](http://www.NorthstarTravelGroup.com)** | **[Editorial Intern](https://jobright.ai/jobs/info/6aceaa2e4f3229123da3d854?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | Hybrid | Oct 13 |
 | **[Resources for the Future](http://www.rff.org/)** | **[Editorial Intern (Spring Semester)](https://jobright.ai/jobs/info/6abc26a23217d1d13329d852?utm_campaign=1053&utm_source=git)** | Washington, DC, United States | On Site | Oct 13 |
-| **[Audacy, Inc.](https://audacyinc.com/)** | **[Sports Media and Digital Content Intern](https://jobright.ai/jobs/info/6acea578bb78de94580d779b?utm_campaign=1053&utm_source=git)** | Cleveland, OH, United States | On Site | Oct 13 |
 | **[GBH](http://www.wgbh.org/)** | **[Antiques Roadshow Internship - Spring 2027](https://jobright.ai/jobs/info/6ace8bcbbb78de94580d6e31?utm_campaign=1053&utm_source=git)** | United States | Remote | Oct 13 |
 | ↳ | **[GBH News Digital & Multimedia Internship- Spring 2027](https://jobright.ai/jobs/info/6ace8bbf4391691a335ad5bb?utm_campaign=1053&utm_source=git)** | Boston, MA, United States | Hybrid | Oct 13 |
 | ↳ | **[GBH News Rooted Internship - Spring 2027](https://jobright.ai/jobs/info/6ace8badba99f15ef41259b1?utm_campaign=1053&utm_source=git)** | Boston, MA, United States | On Site | Oct 13 |
 | **[Legendary Entertainment](http://www.legendary.com)** | **[Intern, Nerdist Editorial - Spring 2027](https://jobright.ai/jobs/info/6acee21b4f3229123da3e4b0?utm_campaign=1053&utm_source=git)** | Burbank, CA, United States | On Site | Oct 13 |
 | **[WETA](https://weta.org/)** | **[Digital Media: Local History Intern (Part-Time)](https://jobright.ai/jobs/info/6ace4677ba99f15ef4123e55?utm_campaign=1053&utm_source=git)** | Arlington, VA, United States | On Site | Oct 13 |
-| ↳ | **[Digital Media: Local History Intern (Full-Time)](https://jobright.ai/jobs/info/6ace4786a0453f9ba6247bb1?utm_campaign=1053&utm_source=git)** | Arlington, VA, United States | On Site | Oct 13 |
+| ↳ | **[Digital Media: Local History Intern (Full-Time)](https://jobright.ai/jobs/info/6ace4678bb78de94580d5248?utm_campaign=1053&utm_source=git)** | Arlington, VA, United States | On Site | Oct 13 |
 | **[Attain Sports](https://attainsports.com)** | **[Game Presentation Intern - Frederick Keys](https://jobright.ai/jobs/info/6ace81134f3229123da3c8b0?utm_campaign=1053&utm_source=git)** | Frederick, MD, United States | On Site | Oct 13 |
 | **[Spencer Magazine](http://www.spencer-magazine.com)** | **[Assistant to the Publisher (UNPAID) Internship](https://jobright.ai/jobs/info/6ace80d34391691a335ad0d4?utm_campaign=1053&utm_source=git)** | Toronto, ON, Canada | On Site | Oct 13 |
 | **[Bloomberg Industry Group](https://www.bloombergindustry.com/)** | **[2027 Summer News Internship: Graphics - Graphics/Data Visualization Journalist](https://jobright.ai/jobs/info/6ab3de2ad2f5fbd604be00bd?utm_campaign=1053&utm_source=git)** | Arlington, VA, United States | On Site | Oct 13 |
@@ -144,5 +144,4 @@ For a complete list, click the following sortable link below:
 | **[Jam in the Van](https://jaminthevan.com)** | **[Spring Livestream Intern](https://jobright.ai/jobs/info/6ac6c5780e027c0f3b3b44a4?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | On Site | Oct 07 |
 | **[Dow Jones](http://www.dowjones.com)** | **[Summer 2027 Internship Program – Barron's Reporter Intern](https://jobright.ai/jobs/info/6ac6a5008ff3fb9b3bc8e53f?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Oct 07 |
 | ↳ | **[Summer 2027 Internship Program – Video Intern](https://jobright.ai/jobs/info/6ac6a51b8ff3fb9b3bc8e55f?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Oct 07 |
-| **[Megastar Advisors](https://www.megastaradvisors.com/)** | **[Video Editing & Post-Production Intern](https://jobright.ai/jobs/info/6ac6af2c8ff3fb9b3bc8e8a7?utm_campaign=1053&utm_source=git)** | Tarpon Springs, FL, United States | On Site | Oct 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
