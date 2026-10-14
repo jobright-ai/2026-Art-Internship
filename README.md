@@ -57,13 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Institute for the Study of War](http://understandingwar.org/)** | **[Multimedia & Video Production Internship Spring 2027](https://jobright.ai/jobs/info/6ab304418254c44790e58c6a?utm_campaign=1053&utm_source=git)** | Washington, DC, United States | Hybrid | Oct 14 |
+| **[Federal Reserve Bank of San Francisco](http://www.frbsf.org)** | **[Federal Reserve Summer 2027 Economics Writing and Analysis Internship](https://jobright.ai/jobs/info/6ab28e061e4847ddae914c13?utm_campaign=1053&utm_source=git)** | Richmond, VA, United States | On Site | Oct 14 |
 | **[Sinclair Inc.](http://sbgi.net)** | **[Fall News Intern (Unpaid)](https://jobright.ai/jobs/info/6ab3a218835ccf4a281180fe?utm_campaign=1053&utm_source=git)** | Lynchburg, VA, United States | On Site | Oct 14 |
 | **[The Onion](http://www.theonion.com)** | **[Video Fellowship, Spring 2027](https://jobright.ai/jobs/info/6acf0e7a4391691a335af6cf?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | On Site | Oct 13 |
 | **[Bunzl Canada](https://www.bunzlcanada.ca/)** | **[Intern: Digital Content Specialist](https://jobright.ai/jobs/info/6ace95e14391691a335ad8d7?utm_campaign=1053&utm_source=git)** | Cambridge, Ontario, Canada | On Site | Oct 13 |
 | **[MBJ Network](www.mbj-network.com)** | **[Assistant Managing Editor (Writers) - Intern](https://jobright.ai/jobs/info/6abc59abbf15c0ae50138627?utm_campaign=1053&utm_source=git)** | Lombard, IL, United States | Remote | Oct 13 |
 | **[Northstar Travel Group](http://www.NorthstarTravelGroup.com)** | **[Editorial Intern](https://jobright.ai/jobs/info/6aceaa2e4f3229123da3d854?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | Hybrid | Oct 13 |
 | **[Resources for the Future](http://www.rff.org/)** | **[Editorial Intern (Spring Semester)](https://jobright.ai/jobs/info/6abc26a23217d1d13329d852?utm_campaign=1053&utm_source=git)** | Washington, DC, United States | On Site | Oct 13 |
-| **[Audacy, Inc.](https://www.audacy.com/kyxy)** | **[Sports Media and Digital Content Intern](https://jobright.ai/jobs/info/6acea578bb78de94580d779b?utm_campaign=1053&utm_source=git)** | Cleveland, OH, United States | On Site | Oct 13 |
+| **[Audacy, Inc.](https://audacyinc.com/)** | **[Sports Media and Digital Content Intern](https://jobright.ai/jobs/info/6acea578bb78de94580d779b?utm_campaign=1053&utm_source=git)** | Cleveland, OH, United States | On Site | Oct 13 |
 | **[GBH](http://www.wgbh.org/)** | **[Antiques Roadshow Internship - Spring 2027](https://jobright.ai/jobs/info/6ace8bcbbb78de94580d6e31?utm_campaign=1053&utm_source=git)** | United States | Remote | Oct 13 |
 | ↳ | **[GBH News Digital & Multimedia Internship- Spring 2027](https://jobright.ai/jobs/info/6ace8bbf4391691a335ad5bb?utm_campaign=1053&utm_source=git)** | Boston, MA, United States | Hybrid | Oct 13 |
 | ↳ | **[GBH News Rooted Internship - Spring 2027](https://jobright.ai/jobs/info/6ace8badba99f15ef41259b1?utm_campaign=1053&utm_source=git)** | Boston, MA, United States | On Site | Oct 13 |
@@ -144,5 +146,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2027 Internship Program – Video Intern](https://jobright.ai/jobs/info/6ac6a51b8ff3fb9b3bc8e55f?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Oct 07 |
 | **[Megastar Advisors](https://www.megastaradvisors.com/)** | **[Video Editing & Post-Production Intern](https://jobright.ai/jobs/info/6ac6af2c8ff3fb9b3bc8e8a7?utm_campaign=1053&utm_source=git)** | Tarpon Springs, FL, United States | On Site | Oct 07 |
 | **[Carolina Core FC](https://www.carolinacorefc.com)** | **[Game Day Operations & Fan Experience Internship (Spring 2027)](https://jobright.ai/jobs/info/6ac6a3200e027c0f3b3b390c?utm_campaign=1053&utm_source=git)** | High Point, NC, United States | On Site | Oct 07 |
-| **[Ripken Baseball](https://www.ripkenbaseball.com)** | **[Spring Tournament Operations Intern](https://jobright.ai/jobs/info/6ac68afb8ff3fb9b3bc8da3b?utm_campaign=1053&utm_source=git)** | Pigeon Forge, TN, United States | On Site | Oct 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
