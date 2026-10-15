@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Intern](https://jobright.ai/jobs/info/6a9674f7455eaf6a08c17881?utm_campaign=1053&utm_source=git)** | Peoria, IL, United States | On Site | Oct 15 |
 | **[Munro & Associates](http://leandesign.com)** | **[Videographer Intern](https://jobright.ai/jobs/info/6ace7e404391691a335acde7?utm_campaign=1053&utm_source=git)** | Auburn Hills, MI, United States | On Site | Oct 15 |
 | **[Pinehurst Resort](https://www.pinehurst.com/)** | **[Golf Operations Intern-No.8-Seasonal](https://jobright.ai/jobs/info/6ad0765c614121de7d9473bf?utm_campaign=1053&utm_source=git)** | Pinehurst, NC, United States | On Site | Oct 14 |
 | **[The Seattle Times](http://seattletimes.com/)** | **[Summer 2027 Copy Editing Internship](https://jobright.ai/jobs/info/6aab24a4f6bd9d2d17c1bb34?utm_campaign=1053&utm_source=git)** | Seattle, WA, United States | On Site | Oct 14 |
@@ -84,7 +85,7 @@ For a complete list, click the following sortable link below:
 | **[MBJ Network](www.mbj-network.com)** | **[Assistant Managing Editor (Writers) - Intern](https://jobright.ai/jobs/info/6abc59abbf15c0ae50138627?utm_campaign=1053&utm_source=git)** | Lombard, IL, United States | Remote | Oct 13 |
 | **[Northstar Travel Group](http://www.NorthstarTravelGroup.com)** | **[Editorial Intern](https://jobright.ai/jobs/info/6aceaa2e4f3229123da3d854?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | Hybrid | Oct 13 |
 | **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Current Programming Intern, Sony Pictures Television – Spring 2027](https://jobright.ai/jobs/info/6acfa60878d51ae69ce073c9?utm_campaign=1053&utm_source=git)** | Culver City, CA, United States | On Site | Oct 13 |
-| ↳ | **[Intern, Casting, Sony Pictures Television - Spring 2027](https://jobright.ai/jobs/info/6acfa60f2cc4e9d17e9099b3?utm_campaign=1053&utm_source=git)** | Culver City, CA, United States | On Site | Oct 13 |
+| ↳ | **[Intern, Casting, Sony Pictures Television - Spring 2027](https://jobright.ai/jobs/info/6acf9cc3c0dd9da253cf39eb?utm_campaign=1053&utm_source=git)** | Culver City, CA, United States | On Site | Oct 13 |
 | **[Resources for the Future](http://www.rff.org/)** | **[Editorial Intern (Spring Semester)](https://jobright.ai/jobs/info/6abc26a23217d1d13329d852?utm_campaign=1053&utm_source=git)** | Washington, DC, United States | On Site | Oct 13 |
 | **[GBH](http://www.wgbh.org/)** | **[Antiques Roadshow Internship - Spring 2027](https://jobright.ai/jobs/info/6ace8bcbbb78de94580d6e31?utm_campaign=1053&utm_source=git)** | United States | Remote | Oct 13 |
 | ↳ | **[GBH News Digital & Multimedia Internship- Spring 2027](https://jobright.ai/jobs/info/6ace8bbf4391691a335ad5bb?utm_campaign=1053&utm_source=git)** | Boston, MA, United States | Hybrid | Oct 13 |
@@ -137,7 +138,6 @@ For a complete list, click the following sortable link below:
 | **[Too Lost](https://www.toolost.com)** | **[A&R Research Intern (Spring 2027)](https://jobright.ai/jobs/info/6ac93814d4a5a037074116a3?utm_campaign=1053&utm_source=git)** | Los Angeles, United States | On Site | Oct 09 |
 | **[NBCUniversal](https://www.nbcuniversal.com/)** | **[Feature Modeling Intern, DreamWorks Animation, Spring 2027](https://jobright.ai/jobs/info/6ac93087af788e6ad3b5a58d?utm_campaign=1053&utm_source=git)** | Glendale, CA, United States | Hybrid | Oct 09 |
 | **[Buchanan Group (BGI)](https://buchanangroup.org)** | **[Weddings & Events Intern](https://jobright.ai/jobs/info/6ac916d3fcdafb60c6a4ab5b?utm_campaign=1053&utm_source=git)** | Indianapolis, IN, United States | On Site | Oct 09 |
-| **[PGA Tour](http://www.pgatour.com)** | **[Intern Event Services](https://jobright.ai/jobs/info/6ac695ca8ff3fb9b3bc8e00e?utm_campaign=1053&utm_source=git)** | Ponte Vedra Beach, FL, United States | On Site | Oct 09 |
 | **[Insomniac Events](http://insomniac.com)** | **[Emo Nite - Production Intern](https://jobright.ai/jobs/info/6a911ab67c32860d14cfc190?utm_campaign=1053&utm_source=git)** | Calabasas, CA, United States | On Site | Oct 09 |
 | **[Simons Foundation](https://www.simonsfoundation.org)** | **[Science Reporting Intern, The Transmitter](https://jobright.ai/jobs/info/6abea9404ac55253f5d61d30?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Oct 09 |
 | **[Troon](https://troon.com)** | **[Tournament Intern](https://jobright.ai/jobs/info/6ac82ef80e573df8adc7671e?utm_campaign=1053&utm_source=git)** | Springfield, IL, United States | On Site | Oct 08 |
