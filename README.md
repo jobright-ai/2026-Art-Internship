@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Seattle Times](http://seattletimes.com/)** | **[Summer 2027 Copy Editing Internship](https://jobright.ai/jobs/info/6aab24a4f6bd9d2d17c1bb34?utm_campaign=1053&utm_source=git)** | Seattle, WA, United States | On Site | Oct 14 |
+| ↳ | **[Summer 2027 News Producer Internship](https://jobright.ai/jobs/info/6aab24a4f6bd9d2d17c1bb33?utm_campaign=1053&utm_source=git)** | Seattle, WA, United States | On Site | Oct 14 |
 | **[Miami Waterkeeper](https://www.miamiwaterkeeper.org)** | **[VIDEOGRAPHY INTERN](https://jobright.ai/jobs/info/6abd4d97064da25272dfcdb4?utm_campaign=1053&utm_source=git)** | Coral Gables, FL, United States | On Site | Oct 14 |
 | **[99 Yards](https://99yards.app)** | **[NY Kids Fashion Runway Show Intern](https://jobright.ai/jobs/info/6acfe78f12303667b98a0ef3?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Oct 14 |
 | **[Clutch Content Partners](https://likesuperclutch.com)** | **[Production Internship](https://jobright.ai/jobs/info/6acfe6d112303667b98a0e76?utm_campaign=1053&utm_source=git)** | Miami–Fort Lauderdale Area, United States | On Site | Oct 14 |
