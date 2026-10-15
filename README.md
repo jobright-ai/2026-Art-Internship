@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[U.S. News & World Report](http://www.usnews.com)** | **[News Intern (6 Months)](https://jobright.ai/jobs/info/6ab433b855e9168cf5ea4fda?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Hybrid | Oct 15 |
+| **[Toyon Research Corporation](http://toyon.com)** | **[Video Labeling Intern](https://jobright.ai/jobs/info/6a9902cadd171c7285793716?utm_campaign=1053&utm_source=git)** | Goleta, CA, United States | On Site | Oct 15 |
+| **[Houston Chronicle](http://www.houstonchronicle.com/)** | **[Audience Intern](https://jobright.ai/jobs/info/6ab3d4ab0e0ae54eeea44fbc?utm_campaign=1053&utm_source=git)** | Houston, TX, United States | On Site | Oct 15 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Intern](https://jobright.ai/jobs/info/6a9674f7455eaf6a08c17881?utm_campaign=1053&utm_source=git)** | Peoria, IL, United States | On Site | Oct 15 |
 | **[Munro & Associates](http://leandesign.com)** | **[Videographer Intern](https://jobright.ai/jobs/info/6ace7e404391691a335acde7?utm_campaign=1053&utm_source=git)** | Auburn Hills, MI, United States | On Site | Oct 15 |
 | **[Pinehurst Resort](https://www.pinehurst.com/)** | **[Golf Operations Intern-No.8-Seasonal](https://jobright.ai/jobs/info/6ad0765c614121de7d9473bf?utm_campaign=1053&utm_source=git)** | Pinehurst, NC, United States | On Site | Oct 14 |
@@ -84,13 +87,13 @@ For a complete list, click the following sortable link below:
 | **[Bunzl Canada](https://www.bunzlcanada.ca/)** | **[Intern: Digital Content Specialist](https://jobright.ai/jobs/info/6ace95e14391691a335ad8d7?utm_campaign=1053&utm_source=git)** | Cambridge, Ontario, Canada | On Site | Oct 13 |
 | **[MBJ Network](www.mbj-network.com)** | **[Assistant Managing Editor (Writers) - Intern](https://jobright.ai/jobs/info/6abc59abbf15c0ae50138627?utm_campaign=1053&utm_source=git)** | Lombard, IL, United States | Remote | Oct 13 |
 | **[Northstar Travel Group](http://www.NorthstarTravelGroup.com)** | **[Editorial Intern](https://jobright.ai/jobs/info/6aceaa2e4f3229123da3d854?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | Hybrid | Oct 13 |
-| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Current Programming Intern, Sony Pictures Television – Spring 2027](https://jobright.ai/jobs/info/6acfa60878d51ae69ce073c9?utm_campaign=1053&utm_source=git)** | Culver City, CA, United States | On Site | Oct 13 |
-| ↳ | **[Intern, Casting, Sony Pictures Television - Spring 2027](https://jobright.ai/jobs/info/6acf9cc3c0dd9da253cf39eb?utm_campaign=1053&utm_source=git)** | Culver City, CA, United States | On Site | Oct 13 |
+| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Intern, Casting, Sony Pictures Television - Spring 2027](https://jobright.ai/jobs/info/6acfa60f2cc4e9d17e9099b3?utm_campaign=1053&utm_source=git)** | Culver City, CA, United States | On Site | Oct 13 |
+| ↳ | **[Current Programming Intern, Sony Pictures Television – Spring 2027](https://jobright.ai/jobs/info/6acf9cc5fe7a9bd5a6b9906e?utm_campaign=1053&utm_source=git)** | Culver City, CA, United States | On Site | Oct 13 |
 | **[Resources for the Future](http://www.rff.org/)** | **[Editorial Intern (Spring Semester)](https://jobright.ai/jobs/info/6abc26a23217d1d13329d852?utm_campaign=1053&utm_source=git)** | Washington, DC, United States | On Site | Oct 13 |
 | **[GBH](http://www.wgbh.org/)** | **[Antiques Roadshow Internship - Spring 2027](https://jobright.ai/jobs/info/6ace8bcbbb78de94580d6e31?utm_campaign=1053&utm_source=git)** | United States | Remote | Oct 13 |
 | ↳ | **[GBH News Digital & Multimedia Internship- Spring 2027](https://jobright.ai/jobs/info/6ace8bbf4391691a335ad5bb?utm_campaign=1053&utm_source=git)** | Boston, MA, United States | Hybrid | Oct 13 |
 | ↳ | **[GBH News Rooted Internship - Spring 2027](https://jobright.ai/jobs/info/6ace8badba99f15ef41259b1?utm_campaign=1053&utm_source=git)** | Boston, MA, United States | On Site | Oct 13 |
-| **[WETA](https://weta.org/)** | **[Digital Media: Local History Intern (Part-Time)](https://jobright.ai/jobs/info/6ace4677ba99f15ef4123e55?utm_campaign=1053&utm_source=git)** | Arlington, VA, United States | On Site | Oct 13 |
+| **[WETA](https://weta.org/)** | **[Digital Media: Local History Intern (Part-Time)](https://jobright.ai/jobs/info/6ace47814391691a335aba80?utm_campaign=1053&utm_source=git)** | Arlington, VA, United States | On Site | Oct 13 |
 | ↳ | **[Digital Media: Local History Intern (Full-Time)](https://jobright.ai/jobs/info/6ace4678bb78de94580d5248?utm_campaign=1053&utm_source=git)** | Arlington, VA, United States | On Site | Oct 13 |
 | **[Attain Sports](https://attainsports.com)** | **[Game Presentation Intern - Frederick Keys](https://jobright.ai/jobs/info/6ace81134f3229123da3c8b0?utm_campaign=1053&utm_source=git)** | Frederick, MD, United States | On Site | Oct 13 |
 | **[Bloomberg Industry Group](https://www.bloombergindustry.com/)** | **[2027 Summer News Internship: Graphics - Graphics/Data Visualization Journalist](https://jobright.ai/jobs/info/6ab3de2ad2f5fbd604be00bd?utm_campaign=1053&utm_source=git)** | Arlington, VA, United States | On Site | Oct 13 |
@@ -142,5 +145,4 @@ For a complete list, click the following sortable link below:
 | **[Simons Foundation](https://www.simonsfoundation.org)** | **[Science Reporting Intern, The Transmitter](https://jobright.ai/jobs/info/6abea9404ac55253f5d61d30?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Oct 09 |
 | **[Troon](https://troon.com)** | **[Tournament Intern](https://jobright.ai/jobs/info/6ac82ef80e573df8adc7671e?utm_campaign=1053&utm_source=git)** | Springfield, IL, United States | On Site | Oct 08 |
 | **[Minnesota Wild](http://wild.com)** | **[MLV - Intern, Video Production (Full-Time, Seasonal)](https://jobright.ai/jobs/info/6ad041dbc8ae22bb47ef667a?utm_campaign=1053&utm_source=git)** | Saint Paul, MN, United States | On Site | Oct 08 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[ABC Localish Production Intern, Spring 2027](https://jobright.ai/jobs/info/6ac7eae80e573df8adc75136?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Oct 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
