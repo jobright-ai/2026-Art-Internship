@@ -57,7 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[DCM Media Inc.](https://www.instagram.com/decastromedia?igsh=MXZhZzZtMWwwbWprMQ==)** | **[Special Events Intern](https://jobright.ai/jobs/info/6ad04fadfe4980b99fedc1af?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Oct 14 |
 | **[The Seattle Times](http://seattletimes.com/)** | **[Summer 2027 Copy Editing Internship](https://jobright.ai/jobs/info/6aab24a4f6bd9d2d17c1bb34?utm_campaign=1053&utm_source=git)** | Seattle, WA, United States | On Site | Oct 14 |
 | ↳ | **[Summer 2027 News Producer Internship](https://jobright.ai/jobs/info/6aab24a4f6bd9d2d17c1bb33?utm_campaign=1053&utm_source=git)** | Seattle, WA, United States | On Site | Oct 14 |
 | **[Miami Waterkeeper](https://www.miamiwaterkeeper.org)** | **[VIDEOGRAPHY INTERN](https://jobright.ai/jobs/info/6abd4d97064da25272dfcdb4?utm_campaign=1053&utm_source=git)** | Coral Gables, FL, United States | On Site | Oct 14 |
@@ -88,7 +87,7 @@ For a complete list, click the following sortable link below:
 | **[GBH](http://www.wgbh.org/)** | **[Antiques Roadshow Internship - Spring 2027](https://jobright.ai/jobs/info/6ace8bcbbb78de94580d6e31?utm_campaign=1053&utm_source=git)** | United States | Remote | Oct 13 |
 | ↳ | **[GBH News Digital & Multimedia Internship- Spring 2027](https://jobright.ai/jobs/info/6ace8bbf4391691a335ad5bb?utm_campaign=1053&utm_source=git)** | Boston, MA, United States | Hybrid | Oct 13 |
 | ↳ | **[GBH News Rooted Internship - Spring 2027](https://jobright.ai/jobs/info/6ace8badba99f15ef41259b1?utm_campaign=1053&utm_source=git)** | Boston, MA, United States | On Site | Oct 13 |
-| **[WETA](https://weta.org/)** | **[Digital Media: Local History Intern (Part-Time)](https://jobright.ai/jobs/info/6ace47814391691a335aba80?utm_campaign=1053&utm_source=git)** | Arlington, VA, United States | On Site | Oct 13 |
+| **[WETA](https://weta.org/)** | **[Digital Media: Local History Intern (Part-Time)](https://jobright.ai/jobs/info/6ace4677ba99f15ef4123e55?utm_campaign=1053&utm_source=git)** | Arlington, VA, United States | On Site | Oct 13 |
 | ↳ | **[Digital Media: Local History Intern (Full-Time)](https://jobright.ai/jobs/info/6ace4786a0453f9ba6247bb1?utm_campaign=1053&utm_source=git)** | Arlington, VA, United States | On Site | Oct 13 |
 | **[Attain Sports](https://attainsports.com)** | **[Game Presentation Intern - Frederick Keys](https://jobright.ai/jobs/info/6ace81134f3229123da3c8b0?utm_campaign=1053&utm_source=git)** | Frederick, MD, United States | On Site | Oct 13 |
 | **[Bloomberg Industry Group](https://www.bloombergindustry.com/)** | **[2027 Summer News Internship: Graphics - Graphics/Data Visualization Journalist](https://jobright.ai/jobs/info/6ab3de2ad2f5fbd604be00bd?utm_campaign=1053&utm_source=git)** | Arlington, VA, United States | On Site | Oct 13 |
