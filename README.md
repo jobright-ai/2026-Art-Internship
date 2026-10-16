@@ -57,11 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Intern](https://jobright.ai/jobs/info/6a9674f7455eaf6a08c17881?utm_campaign=1053&utm_source=git)** | Peoria, IL, United States | On Site | Oct 16 |
 | **[Pilot Company](http://www.pilotflyingj.com)** | **[Program Intern, Internal Communications](https://jobright.ai/jobs/info/6ab5568cc6fe0dec811a08f5?utm_campaign=1053&utm_source=git)** | Knoxville, TN, United States | On Site | Oct 16 |
 | **[NewsBreak](http://www.newsbreak.com)** | **[Short Drama Creative Editor Intern](https://jobright.ai/jobs/info/6ad171d418608b6f36f841bf?utm_campaign=1053&utm_source=git)** | Mountain View, CA, United States | On Site | Oct 15 |
 | ↳ | **[Short Drama Creative Editor Intern](https://jobright.ai/jobs/info/6ad15f0ae2d41540d4a70769?utm_campaign=1053&utm_source=git)** | Mountain View, CA, United States | On Site | Oct 15 |
-| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Current Programming Intern, Sony Pictures Television – Spring 2027](https://jobright.ai/jobs/info/6acf9cc5fe7a9bd5a6b9906e?utm_campaign=1053&utm_source=git)** | Culver City, CA, United States | On Site | Oct 15 |
-| ↳ | **[Intern, Casting, Sony Pictures Television - Spring 2027](https://jobright.ai/jobs/info/6acf9cc3c0dd9da253cf39eb?utm_campaign=1053&utm_source=git)** | Culver City, CA, United States | On Site | Oct 15 |
+| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Current Programming Intern, Sony Pictures Television – Spring 2027](https://jobright.ai/jobs/info/6acfa60878d51ae69ce073c9?utm_campaign=1053&utm_source=git)** | Culver City, CA, United States | On Site | Oct 15 |
+| ↳ | **[Intern, Casting, Sony Pictures Television - Spring 2027](https://jobright.ai/jobs/info/6acfa60f2cc4e9d17e9099b3?utm_campaign=1053&utm_source=git)** | Culver City, CA, United States | On Site | Oct 15 |
 | **[McLaren Racing](https://www.mclaren.com/racing/)** | **[Videography Intern](https://jobright.ai/jobs/info/6ad151f7e2d41540d4a6fee3?utm_campaign=1053&utm_source=git)** | Indianapolis, IN, United States | On Site | Oct 15 |
 | **[Wasserman](https://the.team/)** | **[Intern, Experience](https://jobright.ai/jobs/info/6ad14d1f3d3a5aa909b3979c?utm_campaign=1053&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Oct 15 |
 | **[Arrow McLaren IndyCar](http://www.mclaren.com/racing)** | **[Videography Intern](https://jobright.ai/jobs/info/6ad138193d3a5aa909b38c0f?utm_campaign=1053&utm_source=git)** | Indianapolis, IN, United States | On Site | Oct 15 |
@@ -70,7 +71,6 @@ For a complete list, click the following sortable link below:
 | **[Toyon Research Corporation](http://toyon.com)** | **[Video Labeling Intern](https://jobright.ai/jobs/info/6a9902cadd171c7285793716?utm_campaign=1053&utm_source=git)** | Goleta, CA, United States | On Site | Oct 15 |
 | **[Houston Chronicle](http://www.houstonchronicle.com/)** | **[Audience Intern](https://jobright.ai/jobs/info/6ab3d4ab0e0ae54eeea44fbc?utm_campaign=1053&utm_source=git)** | Houston, TX, United States | On Site | Oct 15 |
 | **[Winsupply](http://www.winsupply.com)** | **[Videographer Intern](https://jobright.ai/jobs/info/6a982d26dd171c72857909b4?utm_campaign=1053&utm_source=git)** | Moraine, OH, United States | On Site | Oct 15 |
-| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Intern](https://jobright.ai/jobs/info/6a9674f7455eaf6a08c17881?utm_campaign=1053&utm_source=git)** | Peoria, IL, United States | On Site | Oct 15 |
 | **[Munro & Associates](http://leandesign.com)** | **[Videographer Intern](https://jobright.ai/jobs/info/6ace7e404391691a335acde7?utm_campaign=1053&utm_source=git)** | Auburn Hills, MI, United States | On Site | Oct 15 |
 | **[Pinehurst Resort](https://www.pinehurst.com/)** | **[Golf Operations Intern-No.8-Seasonal](https://jobright.ai/jobs/info/6ad0765c614121de7d9473bf?utm_campaign=1053&utm_source=git)** | Pinehurst, NC, United States | On Site | Oct 14 |
 | **[The Seattle Times](http://seattletimes.com/)** | **[Summer 2027 Copy Editing Internship](https://jobright.ai/jobs/info/6aab24a4f6bd9d2d17c1bb34?utm_campaign=1053&utm_source=git)** | Seattle, WA, United States | On Site | Oct 14 |
@@ -101,7 +101,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[GBH News Digital & Multimedia Internship- Spring 2027](https://jobright.ai/jobs/info/6ace8bbf4391691a335ad5bb?utm_campaign=1053&utm_source=git)** | Boston, MA, United States | Hybrid | Oct 13 |
 | ↳ | **[GBH News Rooted Internship - Spring 2027](https://jobright.ai/jobs/info/6ace8badba99f15ef41259b1?utm_campaign=1053&utm_source=git)** | Boston, MA, United States | On Site | Oct 13 |
 | **[WETA](https://weta.org/)** | **[Digital Media: Local History Intern (Part-Time)](https://jobright.ai/jobs/info/6ace47814391691a335aba80?utm_campaign=1053&utm_source=git)** | Arlington, VA, United States | On Site | Oct 13 |
-| ↳ | **[Digital Media: Local History Intern (Full-Time)](https://jobright.ai/jobs/info/6ace4678bb78de94580d5248?utm_campaign=1053&utm_source=git)** | Arlington, VA, United States | On Site | Oct 13 |
+| ↳ | **[Digital Media: Local History Intern (Full-Time)](https://jobright.ai/jobs/info/6ace4786a0453f9ba6247bb1?utm_campaign=1053&utm_source=git)** | Arlington, VA, United States | On Site | Oct 13 |
 | **[Attain Sports](https://attainsports.com)** | **[Game Presentation Intern - Frederick Keys](https://jobright.ai/jobs/info/6ace81134f3229123da3c8b0?utm_campaign=1053&utm_source=git)** | Frederick, MD, United States | On Site | Oct 13 |
 | **[Bloomberg Industry Group](https://www.bloombergindustry.com/)** | **[2027 Summer News Internship: Graphics - Graphics/Data Visualization Journalist](https://jobright.ai/jobs/info/6ab3de2ad2f5fbd604be00bd?utm_campaign=1053&utm_source=git)** | Arlington, VA, United States | On Site | Oct 13 |
 | **[Attain Sports](https://attainsports.com)** | **[Game Presentation Intern](https://jobright.ai/jobs/info/6ace72964391691a335ac8ce?utm_campaign=1053&utm_source=git)** | Frederick, MD, United States | On Site | Oct 13 |
