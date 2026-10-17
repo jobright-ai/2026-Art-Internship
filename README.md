@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Video Editing Intern](https://jobright.ai/jobs/info/6ab6ad9cc6fe0dec811a611e?utm_campaign=1053&utm_source=git)** | Raleigh, NC, United States | Hybrid | Oct 17 |
 | **[Hyatt Regency](http://www.regency.hyatt.com/)** | **[Golf Operations Summer Internship - Hyatt Regency Hill Country Resort](https://jobright.ai/jobs/info/6ad3688283ada13a9da09935?utm_campaign=1053&utm_source=git)** | San Antonio, TX, United States | On Site | Oct 17 |
 | **[Spectrum](https://www.spectrum.com)** | **[2027 Summer Intern: Associate L&D Writer (Customer Operations)](https://jobright.ai/jobs/info/6ad3579325289a0b3bf5a56f?utm_campaign=1053&utm_source=git)** | Charlotte, NC, United States | On Site | Oct 17 |
 | **[Society19](https://www.society19.com/)** | **[U.S. Lifestyle Magazine Writing Intern](https://jobright.ai/jobs/info/6a56bb0defb06a45240d7e71?utm_campaign=1053&utm_source=git)** | United States | Remote | Oct 17 |
@@ -74,8 +75,8 @@ For a complete list, click the following sortable link below:
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Intern](https://jobright.ai/jobs/info/6a9674f7455eaf6a08c17881?utm_campaign=1053&utm_source=git)** | Peoria, IL, United States | On Site | Oct 16 |
 | **[NESN](http://nesn.com)** | **[Creative Services Post-Production Intern - Summer/Fall 2026](https://jobright.ai/jobs/info/6ad3063e83ada13a9da08a42?utm_campaign=1053&utm_source=git)** | Pittsburgh, PA, United States | On Site | Oct 16 |
 | **[Pilot Company](http://www.pilotflyingj.com)** | **[Program Intern, Internal Communications](https://jobright.ai/jobs/info/6ab5568cc6fe0dec811a08f5?utm_campaign=1053&utm_source=git)** | Knoxville, TN, United States | On Site | Oct 16 |
-| **[NewsBreak](http://www.newsbreak.com)** | **[Short Drama Creative Editor Intern](https://jobright.ai/jobs/info/6ad15f0ae2d41540d4a70769?utm_campaign=1053&utm_source=git)** | Mountain View, CA, United States | On Site | Oct 15 |
-| ↳ | **[Short Drama Creative Editor Intern](https://jobright.ai/jobs/info/6ad171d418608b6f36f841bf?utm_campaign=1053&utm_source=git)** | Mountain View, CA, United States | On Site | Oct 15 |
+| **[NewsBreak](http://www.newsbreak.com)** | **[Short Drama Creative Editor Intern](https://jobright.ai/jobs/info/6ad171d418608b6f36f841bf?utm_campaign=1053&utm_source=git)** | Mountain View, CA, United States | On Site | Oct 15 |
+| ↳ | **[Short Drama Creative Editor Intern](https://jobright.ai/jobs/info/6ad15f0ae2d41540d4a70769?utm_campaign=1053&utm_source=git)** | Mountain View, CA, United States | On Site | Oct 15 |
 | **[Colorado Golf Association](http://www.cogolf.org/)** | **[2027 USGA P.J. Boatwright Internship – Junior Golf](https://jobright.ai/jobs/info/6ad26b9e83ada13a9da05ba9?utm_campaign=1053&utm_source=git)** | Lafayette, LA, United States | On Site | Oct 15 |
 | **[Omni Hotels & Resorts](http://www.omnihotels.com/)** | **[Omni Care Internship Golf/Recreation / Summer 2027](https://jobright.ai/jobs/info/6ad28849f04335fc70ed60ad?utm_campaign=1053&utm_source=git)** | Bretton Woods, NH, United States | On Site | Oct 15 |
 | **[Colorado Golf Association](http://www.cogolf.org/)** | **[Virginia State Golf Association Communications Intern](https://jobright.ai/jobs/info/6ad2abc183ada13a9da07460?utm_campaign=1053&utm_source=git)** | Midlothian, VA, United States | On Site | Oct 15 |
@@ -121,7 +122,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[GBH News Digital & Multimedia Internship- Spring 2027](https://jobright.ai/jobs/info/6ace8bbf4391691a335ad5bb?utm_campaign=1053&utm_source=git)** | Boston, MA, United States | Hybrid | Oct 13 |
 | ↳ | **[GBH News Rooted Internship - Spring 2027](https://jobright.ai/jobs/info/6ace8badba99f15ef41259b1?utm_campaign=1053&utm_source=git)** | Boston, MA, United States | On Site | Oct 13 |
 | **[WETA](https://weta.org/)** | **[Digital Media: Local History Intern (Part-Time)](https://jobright.ai/jobs/info/6ace4677ba99f15ef4123e55?utm_campaign=1053&utm_source=git)** | Arlington, VA, United States | On Site | Oct 13 |
-| ↳ | **[Digital Media: Local History Intern (Full-Time)](https://jobright.ai/jobs/info/6ace4678bb78de94580d5248?utm_campaign=1053&utm_source=git)** | Arlington, VA, United States | On Site | Oct 13 |
+| ↳ | **[Digital Media: Local History Intern (Full-Time)](https://jobright.ai/jobs/info/6ace4786a0453f9ba6247bb1?utm_campaign=1053&utm_source=git)** | Arlington, VA, United States | On Site | Oct 13 |
 | **[Attain Sports](https://attainsports.com)** | **[Game Presentation Intern - Frederick Keys](https://jobright.ai/jobs/info/6ace81134f3229123da3c8b0?utm_campaign=1053&utm_source=git)** | Frederick, MD, United States | On Site | Oct 13 |
 | **[Bloomberg Industry Group](https://www.bloombergindustry.com/)** | **[2027 Summer News Internship: Graphics - Graphics/Data Visualization Journalist](https://jobright.ai/jobs/info/6ab3de2ad2f5fbd604be00bd?utm_campaign=1053&utm_source=git)** | Arlington, VA, United States | On Site | Oct 13 |
 | **[Attain Sports](https://attainsports.com)** | **[Game Presentation Intern](https://jobright.ai/jobs/info/6ace72964391691a335ac8ce?utm_campaign=1053&utm_source=git)** | Frederick, MD, United States | On Site | Oct 13 |
@@ -142,8 +143,8 @@ For a complete list, click the following sortable link below:
 | **[Alliance for American Leadership](https://www.linkedin.com/company/106629819)** | **[Journalism & Press Intern (Volunteer)](https://jobright.ai/jobs/info/6acd9e7b002e496d4bef2e0e?utm_campaign=1053&utm_source=git)** | Washington, DC, United States | Remote | Oct 12 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Paid Spring Music Group Publishing Intern](https://jobright.ai/jobs/info/6acd5fa0002e496d4bef20ac?utm_campaign=1053&utm_source=git)** | Calabasas, CA, United States | On Site | Oct 12 |
 | **[KQED](http://www.kqed.org)** | **[Podcast Operations and Engagement Intern](https://jobright.ai/jobs/info/6ac573c64ac55253f5d76c46?utm_campaign=1053&utm_source=git)** | San Francisco, CA, United States | Hybrid | Oct 12 |
-| **[Ripken Baseball](https://www.ripkenbaseball.com)** | **[Fall Tournament Operations Intern](https://jobright.ai/jobs/info/6a53f4a38a74e077472fa203?utm_campaign=1053&utm_source=git)** | Pigeon Forge, TN, United States | On Site | Oct 12 |
-| ↳ | **[Fall Tournament Operations Intern](https://jobright.ai/jobs/info/6a24eecc757ade085b6b10c6?utm_campaign=1053&utm_source=git)** | Pigeon Forge, TN | On Site | Oct 12 |
+| **[Ripken Baseball](https://www.ripkenbaseball.com)** | **[Fall Tournament Operations Intern](https://jobright.ai/jobs/info/6a24eecc757ade085b6b10c6?utm_campaign=1053&utm_source=git)** | Pigeon Forge, TN | On Site | Oct 12 |
+| ↳ | **[Fall Tournament Operations Intern](https://jobright.ai/jobs/info/6a53f4a38a74e077472fa203?utm_campaign=1053&utm_source=git)** | Pigeon Forge, TN, United States | On Site | Oct 12 |
 | **[Insomniac Events](http://insomniac.com)** | **[Paid Spring Music Group Publishing Intern](https://jobright.ai/jobs/info/6acd60e53c831dc4086c20df?utm_campaign=1053&utm_source=git)** | Calabasas, CA, United States | On Site | Oct 12 |
 | **[MSP Communications](https://mspcommunications.com/)** | **[Editorial Intern, MSP](https://jobright.ai/jobs/info/6abad1cd3db4ca81fc7c4adb?utm_campaign=1053&utm_source=git)** | St. Paul, MN, United States | Hybrid | Oct 12 |
 | **[University of Kentucky](https://www.ca.uky.edu)** | **[Smart Campus Digital Media Intern - Bowman's Friends](https://jobright.ai/jobs/info/6acd5b173c831dc4086c1f2f?utm_campaign=1053&utm_source=git)** | Lexington, KY, United States | On Site | Oct 12 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Internship – Discover Universal Video Content Strategy (Summer 2027)](https://jobright.ai/jobs/info/6acc8f4fd113c967e3c7a4b5?utm_campaign=1053&utm_source=git)** | Orlando, FL, United States | On Site | Oct 12 |
 | ↳ | **[Internship – Digital Asset Librarian (Summer 2027)](https://jobright.ai/jobs/info/6acc8f40ddd23cce28a0ed13?utm_campaign=1053&utm_source=git)** | Orlando, FL, United States | On Site | Oct 12 |
 | **[The Ambony](https://www.anpublishing.com/)** | **[Entertainment Journalist (Internship)](https://jobright.ai/jobs/info/6acc5814e7a1d9333210ddb8?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | Remote | Oct 11 |
-| **[Sightline Media Group](http://sightlinemediagroup.com/)** | **[Editorial Intern, Military Times](https://jobright.ai/jobs/info/6acc5672a56e5406e57bd70d?utm_campaign=1053&utm_source=git)** | Washington, DC, United States | Remote | Oct 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
