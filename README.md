@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BCG BrightHouse](https://www.thinkbrighthouse.com)** | **[Writer Intern (Summer 2027)](https://jobright.ai/jobs/info/6ad62f443dc655658d8e30f9?utm_campaign=1053&utm_source=git)** | Atlanta, GA, United States | On Site | Oct 19 |
 | **[Event Kings](https://www.eventkingsny.com/)** | **[Event Production Internship](https://jobright.ai/jobs/info/6ad624ba3dc655658d8e29d4?utm_campaign=1053&utm_source=git)** | Deerpark, NY, United States | On Site | Oct 19 |
 | **[Elite Podcast Studio](ElitePodcastStudio.com)** | **[Content Creation Internship (Tampa, FL)](https://jobright.ai/jobs/info/6ad5f37b54bbabbab06f2f90?utm_campaign=1053&utm_source=git)** | Odessa, FL, United States | On Site | Oct 19 |
 | **[Vermilion](www.clubvermilion.com)** | **[Film and TV Editing Intern](https://jobright.ai/jobs/info/6ad56649c4290cef141332c4?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Hybrid | Oct 18 |
@@ -64,7 +65,7 @@ For a complete list, click the following sortable link below:
 | **[Society19](https://www.society19.com/)** | **[U.K. Lifestyle Magazine Writing Intern](https://jobright.ai/jobs/info/6a569ed9efb06a45240d7188?utm_campaign=1053&utm_source=git)** | Boston, MA, United States | Remote | Oct 18 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Intern - KOIN / KRCW - Portland, OR (Unpaid)](https://jobright.ai/jobs/info/6a526c03d007ee02d95f77ac?utm_campaign=1053&utm_source=git)** | OR, Portland, United States of America | On Site | Oct 18 |
 | **[FDB (First Databank, Inc.)](http://fdbhealth.com)** | **[Creative Services Intern](https://jobright.ai/jobs/info/6a5bc8f53ac7627fe9009170?utm_campaign=1053&utm_source=git)** | Manchester, NH, United States | On Site | Oct 18 |
-| **[HDR](http://www.hdrinc.com)** | **[Cultural Resources Intern-WG](https://jobright.ai/jobs/info/6aade4a43d96632d741b0111?utm_campaign=1053&utm_source=git)** | Austin, TX, United States | On Site | Oct 18 |
+| **[HDR](http://www.hdrinc.com)** | **[Cultural Resources Intern-WG](https://jobright.ai/jobs/info/6a9b499c9c24314c35f98c11?utm_campaign=1053&utm_source=git)** | Austin, TX, United States | On Site | Oct 18 |
 | **[Union Home Mortgage Corp.](https://www.uhm.com/)** | **[Video Content Intern](https://jobright.ai/jobs/info/6a924886d18f75674827bb2a?utm_campaign=1053&utm_source=git)** | Strongsville, OH, United States | On Site | Oct 18 |
 | **[The Aparecio Foundation](https://www.apareciofoundation.org)** | **[Volunteer/Intern:Editor of "FelixTV"](https://jobright.ai/jobs/info/6a5553844119652ff3864fc8?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | On Site | Oct 18 |
 | **[POLITICO](http://www.politico.com)** | **[Audio/Video Intern, HQ (Spring 2027)](https://jobright.ai/jobs/info/6ab6b5b9c6fe0dec811a645f?utm_campaign=1053&utm_source=git)** | Arlington, VA, United States | Hybrid | Oct 17 |
@@ -137,7 +138,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[GBH News Digital & Multimedia Internship- Spring 2027](https://jobright.ai/jobs/info/6ace8bbf4391691a335ad5bb?utm_campaign=1053&utm_source=git)** | Boston, MA, United States | Hybrid | Oct 13 |
 | ↳ | **[GBH News Rooted Internship - Spring 2027](https://jobright.ai/jobs/info/6ace8badba99f15ef41259b1?utm_campaign=1053&utm_source=git)** | Boston, MA, United States | On Site | Oct 13 |
 | **[WETA](https://weta.org/)** | **[Digital Media: Local History Intern (Part-Time)](https://jobright.ai/jobs/info/6ace47814391691a335aba80?utm_campaign=1053&utm_source=git)** | Arlington, VA, United States | On Site | Oct 13 |
-| ↳ | **[Digital Media: Local History Intern (Full-Time)](https://jobright.ai/jobs/info/6ace4678bb78de94580d5248?utm_campaign=1053&utm_source=git)** | Arlington, VA, United States | On Site | Oct 13 |
+| ↳ | **[Digital Media: Local History Intern (Full-Time)](https://jobright.ai/jobs/info/6ace4786a0453f9ba6247bb1?utm_campaign=1053&utm_source=git)** | Arlington, VA, United States | On Site | Oct 13 |
 | **[Attain Sports](https://attainsports.com)** | **[Game Presentation Intern - Frederick Keys](https://jobright.ai/jobs/info/6ace81134f3229123da3c8b0?utm_campaign=1053&utm_source=git)** | Frederick, MD, United States | On Site | Oct 13 |
 | **[Bloomberg Industry Group](https://www.bloombergindustry.com/)** | **[2027 Summer News Internship: Graphics - Graphics/Data Visualization Journalist](https://jobright.ai/jobs/info/6ab3de2ad2f5fbd604be00bd?utm_campaign=1053&utm_source=git)** | Arlington, VA, United States | On Site | Oct 13 |
 | **[Attain Sports](https://attainsports.com)** | **[Game Presentation Intern](https://jobright.ai/jobs/info/6ace72964391691a335ac8ce?utm_campaign=1053&utm_source=git)** | Frederick, MD, United States | On Site | Oct 13 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Disney Experiences](https://disneyconnect.com)** | **[Disney & Pixar Games Production Intern, Spring 2027](https://jobright.ai/jobs/info/6acdbf1a7c7bc52e04f55bc3?utm_campaign=1053&utm_source=git)** | Glendale, CA, United States | On Site | Oct 12 |
 | **[ESPN](http://espncareers.com)** | **[ESPN Production Intern, Charlotte, Spring 2027](https://jobright.ai/jobs/info/6acdbf0c7c7bc52e04f55bc0?utm_campaign=1053&utm_source=git)** | Charlotte, NC, United States | On Site | Oct 12 |
 | **[Alliance for American Leadership](https://www.linkedin.com/company/106629819)** | **[Journalism & Press Intern (Volunteer)](https://jobright.ai/jobs/info/6acd9e7b002e496d4bef2e0e?utm_campaign=1053&utm_source=git)** | Washington, DC, United States | Remote | Oct 12 |
-| **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Paid Spring Music Group Publishing Intern](https://jobright.ai/jobs/info/6acd5fa0002e496d4bef20ac?utm_campaign=1053&utm_source=git)** | Calabasas, CA, United States | On Site | Oct 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
