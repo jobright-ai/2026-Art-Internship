@@ -57,9 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Digital Content Intern, Unpaid](https://jobright.ai/jobs/info/6aba9ed7ad8589219ef7e4ef?utm_campaign=1053&utm_source=git)** | Shreveport, Louisiana, United States | On Site | Oct 20 |
+| ↳ | **[Intern/News](https://jobright.ai/jobs/info/6a52fd288ef95364ead909bd?utm_campaign=1053&utm_source=git)** | Panama City, FL, United States | On Site | Oct 20 |
 | **[Hasana, Inc.](http://shophasana.com)** | **[Volunteer/Intern: Film/Video Editor](https://jobright.ai/jobs/info/6a584c973330ca6f993c3e99?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | On Site | Oct 20 |
 | **[Red Dawg Mindset Consulting LLC](https://www.reddawg-mindset.com/)** | **[Video Production & Content Creation Intern](https://jobright.ai/jobs/info/6ad75e7a3dc655658d8ebbc0?utm_campaign=1053&utm_source=git)** | Short Hills, NJ, United States | Hybrid | Oct 20 |
 | **[Financial Times](http://ft.com)** | **[Data Journalism Summer Intern](https://jobright.ai/jobs/info/6aba904fd2914e9273eebe35?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Oct 20 |
+| **[VENUS Fashion Inc.](http://www.venus.com)** | **[Intern](https://jobright.ai/jobs/info/6ad77f013dc655658d8eccb8?utm_campaign=1053&utm_source=git)** | Jacksonville, FL, United States | Hybrid | Oct 20 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[ESPN Post Edit Intern, Bristol, Spring 2027](https://jobright.ai/jobs/info/6ad688fb950ef68d5183b189?utm_campaign=1053&utm_source=git)** | Bristol, CT, United States | On Site | Oct 19 |
 | **[Gagosian](http://www.gagosian.com)** | **[Internship Program - Beverly Hills (Spring, 2027)](https://jobright.ai/jobs/info/6ac410228ff3fb9b3bc83de7?utm_campaign=1053&utm_source=git)** | Beverly Hills, CA, United States | On Site | Oct 19 |
 | **[IMG Academy](https://www.imgacademy.com)** | **[Sports and Special Events Intern, Spring 2027](https://jobright.ai/jobs/info/6ad66d9267bec1d0d9c6ece2?utm_campaign=1053&utm_source=git)** | Bradenton, FL, United States | On Site | Oct 19 |
@@ -119,7 +122,7 @@ For a complete list, click the following sortable link below:
 | **[Arthrex](https://www.arthrex.com/)** | **[Exhibit Planning Intern](https://jobright.ai/jobs/info/6ab4202fef911c35dffa3858?utm_campaign=1053&utm_source=git)** | Naples, FL, United States | On Site | Oct 15 |
 | **[Tera AI](https://www.tera-ai.com)** | **[[Intern] Videographer / Content Creator (Part-Time)](https://jobright.ai/jobs/info/6ad1778418608b6f36f84412?utm_campaign=1053&utm_source=git)** | San Francisco, CA, United States | Hybrid | Oct 15 |
 | **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Current Programming Intern, Sony Pictures Television – Spring 2027](https://jobright.ai/jobs/info/6acf9cc5fe7a9bd5a6b9906e?utm_campaign=1053&utm_source=git)** | Culver City, CA, United States | On Site | Oct 15 |
-| ↳ | **[Intern, Casting, Sony Pictures Television - Spring 2027](https://jobright.ai/jobs/info/6acfa60f2cc4e9d17e9099b3?utm_campaign=1053&utm_source=git)** | Culver City, CA, United States | On Site | Oct 15 |
+| ↳ | **[Intern, Casting, Sony Pictures Television - Spring 2027](https://jobright.ai/jobs/info/6acf9cc3c0dd9da253cf39eb?utm_campaign=1053&utm_source=git)** | Culver City, CA, United States | On Site | Oct 15 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Paid News Producer Intern](https://jobright.ai/jobs/info/6a7dc082e2030208f2765d0c?utm_campaign=1053&utm_source=git)** | Indianapolis, IN, United States | On Site | Oct 15 |
 | **[McLaren Racing](https://www.mclaren.com/racing/)** | **[Videography Intern](https://jobright.ai/jobs/info/6ad151f7e2d41540d4a6fee3?utm_campaign=1053&utm_source=git)** | Indianapolis, IN, United States | On Site | Oct 15 |
 | **[Wasserman](https://the.team/)** | **[Intern, Experience](https://jobright.ai/jobs/info/6ad14d1f3d3a5aa909b3979c?utm_campaign=1053&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Oct 15 |
