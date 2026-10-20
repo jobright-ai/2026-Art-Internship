@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[ESPN Post Edit Intern, Bristol, Spring 2027](https://jobright.ai/jobs/info/6ad688fb950ef68d5183b189?utm_campaign=1053&utm_source=git)** | Bristol, CT, United States | On Site | Oct 19 |
 | **[Gagosian](http://www.gagosian.com)** | **[Internship Program - Beverly Hills (Spring, 2027)](https://jobright.ai/jobs/info/6ac410228ff3fb9b3bc83de7?utm_campaign=1053&utm_source=git)** | Beverly Hills, CA, United States | On Site | Oct 19 |
 | **[IMG Academy](https://www.imgacademy.com)** | **[Sports and Special Events Intern, Spring 2027](https://jobright.ai/jobs/info/6ad66d9267bec1d0d9c6ece2?utm_campaign=1053&utm_source=git)** | Bradenton, FL, United States | On Site | Oct 19 |
 | **[Omni Hotels & Resorts](http://www.omnihotels.com/)** | **[Omni Care Internship Golf/Recreation / Summer 2027](https://jobright.ai/jobs/info/6ad28849f04335fc70ed60ad?utm_campaign=1053&utm_source=git)** | Bretton Woods, NH, United States | On Site | Oct 19 |
@@ -76,7 +77,6 @@ For a complete list, click the following sortable link below:
 | **[Event Kings](https://www.eventkingsny.com/)** | **[Event Production Internship](https://jobright.ai/jobs/info/6ad624ba3dc655658d8e29d4?utm_campaign=1053&utm_source=git)** | Deerpark, NY, United States | On Site | Oct 19 |
 | **[Fox News Media](https://www.foxnews.com/)** | **[Summer 2027 FOX News Media Internship Program - FOX Noticias](https://jobright.ai/jobs/info/6aba1a19eeb00e733cc0276c?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Oct 19 |
 | **[Elite Podcast Studio](ElitePodcastStudio.com)** | **[Content Creation Internship (Tampa, FL)](https://jobright.ai/jobs/info/6ad5f37b54bbabbab06f2f90?utm_campaign=1053&utm_source=git)** | Odessa, FL, United States | On Site | Oct 19 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[ESPN Post Edit Intern, Bristol, Spring 2027](https://jobright.ai/jobs/info/6ad688fb950ef68d5183b189?utm_campaign=1053&utm_source=git)** | Bristol, CT, United States | On Site | Oct 18 |
 | **[MLSE (Maple Leaf Sports & Entertainment Partnership)](http://mlse.com)** | **[Live Events Intern](https://jobright.ai/jobs/info/6ad69da667bec1d0d9c70d3e?utm_campaign=1053&utm_source=git)** | Toronto, ON, Canada | Hybrid | Oct 18 |
 | ↳ | **[Content Intern](https://jobright.ai/jobs/info/6ad69dbb950ef68d5183bba9?utm_campaign=1053&utm_source=git)** | Toronto, ON, Canada | Hybrid | Oct 18 |
 | **[Cambridge Investment Research, Inc.](http://www.joincambridge.com)** | **[Videography Intern](https://jobright.ai/jobs/info/6ab17cc223005eee3545ac44?utm_campaign=1053&utm_source=git)** | Fairfield, IA, United States | On Site | Oct 18 |
@@ -89,7 +89,7 @@ For a complete list, click the following sortable link below:
 | **[POLITICO](http://www.politico.com)** | **[Audio/Video Intern, HQ (Spring 2027)](https://jobright.ai/jobs/info/6ab6b5b9c6fe0dec811a645f?utm_campaign=1053&utm_source=git)** | Arlington, VA, United States | Hybrid | Oct 17 |
 | ↳ | **[Audio/Video Intern, HQ (Summer 2027)](https://jobright.ai/jobs/info/6ab6d7ccba1c25652c61036c?utm_campaign=1053&utm_source=git)** | Arlington, VA, United States | Hybrid | Oct 17 |
 | **[Hearst Newspapers](https://eevd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_15)** | **[Houston Chronicle Visuals Internship](https://jobright.ai/jobs/info/6ab67ea94873fd3fd852d702?utm_campaign=1053&utm_source=git)** | Houston, TX, United States | On Site | Oct 17 |
-| **[Houston Chronicle](http://www.houstonchronicle.com/)** | **[Audience Intern](https://jobright.ai/jobs/info/6ab3d4ab0e0ae54eeea44fbc?utm_campaign=1053&utm_source=git)** | Houston, TX, United States | On Site | Oct 17 |
+| **[Houston Chronicle](http://www.houstonchronicle.com/)** | **[Audience Intern](https://jobright.ai/jobs/info/6ab670ccb3db59402d100682?utm_campaign=1053&utm_source=git)** | Houston, TX, United States | On Site | Oct 17 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Video Editing Intern](https://jobright.ai/jobs/info/6ab6ad9cc6fe0dec811a611e?utm_campaign=1053&utm_source=git)** | Raleigh, NC, United States | Hybrid | Oct 17 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Paid Intern (Photojournalist/Multi-Media Journalist/Producer)](https://jobright.ai/jobs/info/69f179ef8feca91f149202ba?utm_campaign=1053&utm_source=git)** | Wichita, KS | On Site | Oct 17 |
 | **[Hyatt Regency](http://www.regency.hyatt.com/)** | **[Golf Operations Summer Internship - Hyatt Regency Hill Country Resort](https://jobright.ai/jobs/info/6ad3688283ada13a9da09935?utm_campaign=1053&utm_source=git)** | San Antonio, TX, United States | On Site | Oct 17 |
@@ -109,8 +109,8 @@ For a complete list, click the following sortable link below:
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Intern](https://jobright.ai/jobs/info/6a9674f7455eaf6a08c17881?utm_campaign=1053&utm_source=git)** | Peoria, IL, United States | On Site | Oct 16 |
 | **[NESN](http://nesn.com)** | **[Creative Services Post-Production Intern - Summer/Fall 2026](https://jobright.ai/jobs/info/6ad3063e83ada13a9da08a42?utm_campaign=1053&utm_source=git)** | Pittsburgh, PA, United States | On Site | Oct 16 |
 | **[Pilot Company](http://www.pilotflyingj.com)** | **[Program Intern, Internal Communications](https://jobright.ai/jobs/info/6ab5568cc6fe0dec811a08f5?utm_campaign=1053&utm_source=git)** | Knoxville, TN, United States | On Site | Oct 16 |
-| **[NewsBreak](http://www.newsbreak.com)** | **[Short Drama Creative Editor Intern](https://jobright.ai/jobs/info/6ad171d418608b6f36f841bf?utm_campaign=1053&utm_source=git)** | Mountain View, CA, United States | On Site | Oct 15 |
-| ↳ | **[Short Drama Creative Editor Intern](https://jobright.ai/jobs/info/6ad15f0ae2d41540d4a70769?utm_campaign=1053&utm_source=git)** | Mountain View, CA, United States | On Site | Oct 15 |
+| **[NewsBreak](http://www.newsbreak.com)** | **[Short Drama Creative Editor Intern](https://jobright.ai/jobs/info/6ad15f0ae2d41540d4a70769?utm_campaign=1053&utm_source=git)** | Mountain View, CA, United States | On Site | Oct 15 |
+| ↳ | **[Short Drama Creative Editor Intern](https://jobright.ai/jobs/info/6ad171d418608b6f36f841bf?utm_campaign=1053&utm_source=git)** | Mountain View, CA, United States | On Site | Oct 15 |
 | **[Colorado Golf Association](http://www.cogolf.org/)** | **[2027 USGA P.J. Boatwright Internship – Junior Golf](https://jobright.ai/jobs/info/6ad26b9e83ada13a9da05ba9?utm_campaign=1053&utm_source=git)** | Lafayette, LA, United States | On Site | Oct 15 |
 | ↳ | **[Virginia State Golf Association Communications Intern](https://jobright.ai/jobs/info/6ad2abc183ada13a9da07460?utm_campaign=1053&utm_source=git)** | Midlothian, VA, United States | On Site | Oct 15 |
 | **[Arthrex](https://www.arthrex.com/)** | **[Exhibit Planning Intern](https://jobright.ai/jobs/info/6ab4202fef911c35dffa3858?utm_campaign=1053&utm_source=git)** | Naples, FL, United States | On Site | Oct 15 |
@@ -155,6 +155,6 @@ For a complete list, click the following sortable link below:
 | **[GBH](http://www.wgbh.org/)** | **[Antiques Roadshow Internship - Spring 2027](https://jobright.ai/jobs/info/6ace8bcbbb78de94580d6e31?utm_campaign=1053&utm_source=git)** | United States | Remote | Oct 13 |
 | ↳ | **[GBH News Digital & Multimedia Internship- Spring 2027](https://jobright.ai/jobs/info/6ace8bbf4391691a335ad5bb?utm_campaign=1053&utm_source=git)** | Boston, MA, United States | Hybrid | Oct 13 |
 | ↳ | **[GBH News Rooted Internship - Spring 2027](https://jobright.ai/jobs/info/6ace8badba99f15ef41259b1?utm_campaign=1053&utm_source=git)** | Boston, MA, United States | On Site | Oct 13 |
-| **[WETA](https://weta.org/)** | **[Digital Media: Local History Intern (Part-Time)](https://jobright.ai/jobs/info/6ace4677ba99f15ef4123e55?utm_campaign=1053&utm_source=git)** | Arlington, VA, United States | On Site | Oct 13 |
-| ↳ | **[Digital Media: Local History Intern (Full-Time)](https://jobright.ai/jobs/info/6ace4786a0453f9ba6247bb1?utm_campaign=1053&utm_source=git)** | Arlington, VA, United States | On Site | Oct 13 |
+| **[WETA](https://weta.org/)** | **[Digital Media: Local History Intern (Part-Time)](https://jobright.ai/jobs/info/6ace47814391691a335aba80?utm_campaign=1053&utm_source=git)** | Arlington, VA, United States | On Site | Oct 13 |
+| ↳ | **[Digital Media: Local History Intern (Full-Time)](https://jobright.ai/jobs/info/6ace4678bb78de94580d5248?utm_campaign=1053&utm_source=git)** | Arlington, VA, United States | On Site | Oct 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
