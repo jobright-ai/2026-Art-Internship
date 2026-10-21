@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TikTok](https://www.tiktok.com)** | **[Agency Ops Project Intern (TikTok Local Services) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a5076339469c06620351013?utm_campaign=1053&utm_source=git)** | Los Angeles, United States | On Site | Oct 21 |
 | **[Skild AI](https://www.skild.ai)** | **[Content Creator (Intern)](https://jobright.ai/jobs/info/6ab3463530340229a323213d?utm_campaign=1053&utm_source=git)** | San Mateo, CA, United States | On Site | Oct 20 |
 | **[ForTheYouth](https://www.fortheyouth.us)** | **[Publicist / Editorial Intern (Unpaid / College Credit Available Depending on School Approval)](https://jobright.ai/jobs/info/6ad813fc3dc655658d8f2da2?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | Remote | Oct 20 |
 | **[Fair Observer](http://www.fairobserver.com)** | **[Video Intern](https://jobright.ai/jobs/info/6ad800e1e4b94611ab84b09d?utm_campaign=1053&utm_source=git)** | Washington, District of Columbia, United States | Remote | Oct 20 |
@@ -102,7 +103,7 @@ For a complete list, click the following sortable link below:
 | **[Society19](https://www.society19.com/)** | **[U.K. Lifestyle Magazine Writing Intern](https://jobright.ai/jobs/info/6a569ed9efb06a45240d7188?utm_campaign=1053&utm_source=git)** | Boston, MA, United States | Remote | Oct 18 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Intern - KOIN / KRCW - Portland, OR (Unpaid)](https://jobright.ai/jobs/info/6a526c03d007ee02d95f77ac?utm_campaign=1053&utm_source=git)** | OR, Portland, United States of America | On Site | Oct 18 |
 | **[FDB (First Databank, Inc.)](http://fdbhealth.com)** | **[Creative Services Intern](https://jobright.ai/jobs/info/6a5bc8f53ac7627fe9009170?utm_campaign=1053&utm_source=git)** | Manchester, NH, United States | On Site | Oct 18 |
-| **[HDR](http://www.hdrinc.com)** | **[Cultural Resources Intern-WG](https://jobright.ai/jobs/info/6aade4a43d96632d741b0111?utm_campaign=1053&utm_source=git)** | Austin, TX, United States | On Site | Oct 18 |
+| **[HDR](http://www.hdrinc.com)** | **[Cultural Resources Intern-WG](https://jobright.ai/jobs/info/6a9b499c9c24314c35f98c11?utm_campaign=1053&utm_source=git)** | Austin, TX, United States | On Site | Oct 18 |
 | **[Union Home Mortgage Corp.](https://www.uhm.com/)** | **[Video Content Intern](https://jobright.ai/jobs/info/6a924886d18f75674827bb2a?utm_campaign=1053&utm_source=git)** | Strongsville, OH, United States | On Site | Oct 18 |
 | **[The Aparecio Foundation](https://www.apareciofoundation.org)** | **[Volunteer/Intern:Editor of "FelixTV"](https://jobright.ai/jobs/info/6a5553844119652ff3864fc8?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | On Site | Oct 18 |
 | **[POLITICO](http://www.politico.com)** | **[Audio/Video Intern, HQ (Spring 2027)](https://jobright.ai/jobs/info/6ab6b5b9c6fe0dec811a645f?utm_campaign=1053&utm_source=git)** | Arlington, VA, United States | Hybrid | Oct 17 |
@@ -152,5 +153,4 @@ For a complete list, click the following sortable link below:
 | **[Miami Waterkeeper](https://www.miamiwaterkeeper.org)** | **[VIDEOGRAPHY INTERN](https://jobright.ai/jobs/info/6abd4d97064da25272dfcdb4?utm_campaign=1053&utm_source=git)** | Coral Gables, FL, United States | On Site | Oct 14 |
 | **[David Yurman](http://www.davidyurman.com)** | **[Video Editing Intern](https://jobright.ai/jobs/info/6acfb9f9c9f40bec907fdb70?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Hybrid | Oct 14 |
 | **[Doctors Without Borders/Médecins Sans Frontières - USA](https://www.doctorswithoutborders.org/)** | **[Multimedia Production Intern](https://jobright.ai/jobs/info/6acf953bc0dd9da253cf3655?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Hybrid | Oct 14 |
-| **[Higginbotham](https://www.higginbotham.com)** | **[Higginbotham 2027 Summer Internship - Corporate Marketing & Communications Video Editor Intern](https://jobright.ai/jobs/info/6a96d895f5337b2cf731e252?utm_campaign=1053&utm_source=git)** | Fort Worth, TX, United States | On Site | Oct 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
