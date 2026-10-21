@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Skild AI](https://www.skild.ai)** | **[Content Creator (Intern)](https://jobright.ai/jobs/info/6ab3463530340229a323213d?utm_campaign=1053&utm_source=git)** | San Mateo, CA, United States | On Site | Oct 20 |
 | **[ForTheYouth](https://www.fortheyouth.us)** | **[Publicist / Editorial Intern (Unpaid / College Credit Available Depending on School Approval)](https://jobright.ai/jobs/info/6ad813fc3dc655658d8f2da2?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | Remote | Oct 20 |
 | **[Fair Observer](http://www.fairobserver.com)** | **[Video Intern](https://jobright.ai/jobs/info/6ad800e1e4b94611ab84b09d?utm_campaign=1053&utm_source=git)** | Washington, District of Columbia, United States | Remote | Oct 20 |
 | **[The University of New Mexico Health Sciences Center](https://hsc.unm.edu/)** | **[Patron Experience Intern](https://jobright.ai/jobs/info/6ad7e657950ef68d51845293?utm_campaign=1053&utm_source=git)** | Albuquerque, NM, United States | On Site | Oct 20 |
@@ -133,7 +134,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Virginia State Golf Association Communications Intern](https://jobright.ai/jobs/info/6ad2abc183ada13a9da07460?utm_campaign=1053&utm_source=git)** | Midlothian, VA, United States | On Site | Oct 15 |
 | **[Arthrex](https://www.arthrex.com/)** | **[Exhibit Planning Intern](https://jobright.ai/jobs/info/6ab4202fef911c35dffa3858?utm_campaign=1053&utm_source=git)** | Naples, FL, United States | On Site | Oct 15 |
 | **[Tera AI](https://www.tera-ai.com)** | **[[Intern] Videographer / Content Creator (Part-Time)](https://jobright.ai/jobs/info/6ad1778418608b6f36f84412?utm_campaign=1053&utm_source=git)** | San Francisco, CA, United States | Hybrid | Oct 15 |
-| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Current Programming Intern, Sony Pictures Television – Spring 2027](https://jobright.ai/jobs/info/6acf9cc5fe7a9bd5a6b9906e?utm_campaign=1053&utm_source=git)** | Culver City, CA, United States | On Site | Oct 15 |
+| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Current Programming Intern, Sony Pictures Television – Spring 2027](https://jobright.ai/jobs/info/6acfa60878d51ae69ce073c9?utm_campaign=1053&utm_source=git)** | Culver City, CA, United States | On Site | Oct 15 |
 | ↳ | **[Intern, Casting, Sony Pictures Television - Spring 2027](https://jobright.ai/jobs/info/6acfa60f2cc4e9d17e9099b3?utm_campaign=1053&utm_source=git)** | Culver City, CA, United States | On Site | Oct 15 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Paid News Producer Intern](https://jobright.ai/jobs/info/6a7dc082e2030208f2765d0c?utm_campaign=1053&utm_source=git)** | Indianapolis, IN, United States | On Site | Oct 15 |
 | **[McLaren Racing](https://www.mclaren.com/racing/)** | **[Videography Intern](https://jobright.ai/jobs/info/6ad151f7e2d41540d4a6fee3?utm_campaign=1053&utm_source=git)** | Indianapolis, IN, United States | On Site | Oct 15 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Hearst Television](http://www.hearsttelevision.com)** | **[Sports Intern](https://jobright.ai/jobs/info/6ab3304478c69ff506c429fb?utm_campaign=1053&utm_source=git)** | Dallas, TX, United States | Hybrid | Oct 14 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Intern](https://jobright.ai/jobs/info/6ab2ddb11e4847ddae916da4?utm_campaign=1053&utm_source=git)** | Henderson, KY, United States | On Site | Oct 14 |
 | **[Hearst Television](http://www.hearsttelevision.com)** | **[Local News Intern - Summer 2027](https://jobright.ai/jobs/info/6ab32fd678c69ff506c429f5?utm_campaign=1053&utm_source=git)** | Dallas, TX, United States | Hybrid | Oct 14 |
-| **[Lake Mead Christian Ministries](https://www.lmcm.org/)** | **[Minister- Student Intern Content Creator](https://jobright.ai/jobs/info/6acebff0ba99f15ef4126a5b?utm_campaign=1053&utm_source=git)** | Henderson, NV, United States | On Site | Oct 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
