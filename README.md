@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Nolan Wells Studios](https://www.nolan-wells.com/)** | **[Filmmaker Intern](https://jobright.ai/jobs/info/6ad945fc39284cd5242861b8?utm_campaign=1053&utm_source=git)** | Springfield, Massachusetts, United States | Hybrid | Oct 21 |
 | **[Listen In With KNN](http://www.listeninwithknn.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/6ad92c10b0725dc268dda967?utm_campaign=1053&utm_source=git)** | United States | Remote | Oct 21 |
 | **[Alliance for American Leadership](https://www.linkedin.com/company/106629819)** | **[Journalism & Press Intern (Volunteer)](https://jobright.ai/jobs/info/6ad9257567bec1d0d9c83cb8?utm_campaign=1053&utm_source=git)** | Washington, DC, United States | Remote | Oct 21 |
 | **[PatientPoint®](http://patientpoint.com)** | **[Editorial Intern](https://jobright.ai/jobs/info/6ad91caa67bec1d0d9c835c0?utm_campaign=1053&utm_source=git)** | Cincinnati, OH, United States | Hybrid | Oct 21 |
@@ -103,14 +104,13 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Technology Events & Communications Intern, DreamWorks Animation, Spring 2027](https://jobright.ai/jobs/info/6ad63f16950ef68d518376d3?utm_campaign=1053&utm_source=git)** | Glendale, CA, United States | Hybrid | Oct 19 |
 | **[Event Kings](https://www.eventkingsny.com/)** | **[Event Production Internship](https://jobright.ai/jobs/info/6ad624ba3dc655658d8e29d4?utm_campaign=1053&utm_source=git)** | Deerpark, NY, United States | On Site | Oct 19 |
 | **[Fox News Media](https://www.foxnews.com/)** | **[Summer 2027 FOX News Media Internship Program - FOX Noticias](https://jobright.ai/jobs/info/6aba1a19eeb00e733cc0276c?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Oct 19 |
-| **[Elite Podcast Studio](ElitePodcastStudio.com)** | **[Content Creation Internship (Tampa, FL)](https://jobright.ai/jobs/info/6ad5f37b54bbabbab06f2f90?utm_campaign=1053&utm_source=git)** | Odessa, FL, United States | On Site | Oct 19 |
 | **[MLSE (Maple Leaf Sports & Entertainment Partnership)](http://mlse.com)** | **[Live Events Intern](https://jobright.ai/jobs/info/6ad69da667bec1d0d9c70d3e?utm_campaign=1053&utm_source=git)** | Toronto, ON, Canada | Hybrid | Oct 18 |
 | ↳ | **[Content Intern](https://jobright.ai/jobs/info/6ad69dbb950ef68d5183bba9?utm_campaign=1053&utm_source=git)** | Toronto, ON, Canada | Hybrid | Oct 18 |
 | **[Cambridge Investment Research, Inc.](http://www.joincambridge.com)** | **[Videography Intern](https://jobright.ai/jobs/info/6ab17cc223005eee3545ac44?utm_campaign=1053&utm_source=git)** | Fairfield, IA, United States | On Site | Oct 18 |
 | **[Society19](https://www.society19.com/)** | **[U.K. Lifestyle Magazine Writing Intern](https://jobright.ai/jobs/info/6a569ed9efb06a45240d7188?utm_campaign=1053&utm_source=git)** | Boston, MA, United States | Remote | Oct 18 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Intern - KOIN / KRCW - Portland, OR (Unpaid)](https://jobright.ai/jobs/info/6a526c03d007ee02d95f77ac?utm_campaign=1053&utm_source=git)** | OR, Portland, United States of America | On Site | Oct 18 |
 | **[FDB (First Databank, Inc.)](http://fdbhealth.com)** | **[Creative Services Intern](https://jobright.ai/jobs/info/6a5bc8f53ac7627fe9009170?utm_campaign=1053&utm_source=git)** | Manchester, NH, United States | On Site | Oct 18 |
-| **[HDR](http://www.hdrinc.com)** | **[Cultural Resources Intern-WG](https://jobright.ai/jobs/info/6a9b499c9c24314c35f98c11?utm_campaign=1053&utm_source=git)** | Austin, TX, United States | On Site | Oct 18 |
+| **[HDR](http://www.hdrinc.com)** | **[Cultural Resources Intern-WG](https://jobright.ai/jobs/info/6aade4a43d96632d741b0111?utm_campaign=1053&utm_source=git)** | Austin, TX, United States | On Site | Oct 18 |
 | **[Union Home Mortgage Corp.](https://www.uhm.com/)** | **[Video Content Intern](https://jobright.ai/jobs/info/6a924886d18f75674827bb2a?utm_campaign=1053&utm_source=git)** | Strongsville, OH, United States | On Site | Oct 18 |
 | **[The Aparecio Foundation](https://www.apareciofoundation.org)** | **[Volunteer/Intern:Editor of "FelixTV"](https://jobright.ai/jobs/info/6a5553844119652ff3864fc8?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | On Site | Oct 18 |
 | **[Relatable](https://relatable.com/)** | **[Content Creator Intern](https://jobright.ai/jobs/info/6ad8cf1267bec1d0d9c7f87c?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Hybrid | Oct 17 |
@@ -154,5 +154,4 @@ For a complete list, click the following sortable link below:
 | **[Toyon Research Corporation](http://toyon.com)** | **[Video Labeling Intern](https://jobright.ai/jobs/info/6a9902cadd171c7285793716?utm_campaign=1053&utm_source=git)** | Goleta, CA, United States | On Site | Oct 15 |
 | **[Munro & Associates](http://leandesign.com)** | **[Videographer Intern](https://jobright.ai/jobs/info/6ace7e404391691a335acde7?utm_campaign=1053&utm_source=git)** | Auburn Hills, MI, United States | On Site | Oct 15 |
 | **[Quanta Magazine](https://www.quantamagazine.org)** | **[Science Writing Fellow](https://jobright.ai/jobs/info/6ab412d464816213f2d9717d?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Oct 15 |
-| **[Pinehurst Resort](https://www.pinehurst.com/)** | **[Golf Operations Intern-No.8-Seasonal](https://jobright.ai/jobs/info/6ad0765c614121de7d9473bf?utm_campaign=1053&utm_source=git)** | Pinehurst, NC, United States | On Site | Oct 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
