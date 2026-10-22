@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Middle East Institute](http://www.mei.edu)** | **[Arts & Culture Internship (Spring 2027)](https://jobright.ai/jobs/info/6ad909d039284cd524283809?utm_campaign=1053&utm_source=git)** | Washington, DC, United States | On Site | Oct 21 |
 | **[Boston Celtics](http://www.nba.com/celtics)** | **[Intern, Live Production & Entertainment - Fall Semester 2027](https://jobright.ai/jobs/info/6ad9949b67bec1d0d9c86c8d?utm_campaign=1053&utm_source=git)** | Boston, MA, United States | On Site | Oct 21 |
 | ↳ | **[Intern, Digital Production - Spring Semester 2027](https://jobright.ai/jobs/info/6ad9949039284cd524287ae9?utm_campaign=1053&utm_source=git)** | Boston, MA, United States | On Site | Oct 21 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Intern](https://jobright.ai/jobs/info/6ab2ddb11e4847ddae916da4?utm_campaign=1053&utm_source=git)** | Henderson, KY, United States | On Site | Oct 21 |
@@ -67,7 +68,6 @@ For a complete list, click the following sortable link below:
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Lifestyle Show Spring Semester Intern](https://jobright.ai/jobs/info/6ad8d2e939284cd5242809db?utm_campaign=1053&utm_source=git)** | Philadelphia, PA, United States | On Site | Oct 21 |
 | **[Golden Hippo®](http://goldenhippomedia.com)** | **[Podcast Editor Intern - Spring 2027](https://jobright.ai/jobs/info/6ad8fda167bec1d0d9c8196c?utm_campaign=1053&utm_source=git)** | Woodland Hills, CA, United States | Hybrid | Oct 21 |
 | **[Love On Demand](www.loveondemand.com)** | **[Post Production Internship](https://jobright.ai/jobs/info/6ad90ad6b0725dc268dd92fe?utm_campaign=1053&utm_source=git)** | Austin, TX, United States | On Site | Oct 21 |
-| **[Middle East Institute](http://www.mei.edu)** | **[Arts & Culture Internship (Spring 2027)](https://jobright.ai/jobs/info/6ad909d039284cd524283809?utm_campaign=1053&utm_source=git)** | Washington, DC, United States | On Site | Oct 21 |
 | **[West End Strategy Team](https://westendstrategy.com)** | **[Paid Intern - Spring 2027](https://jobright.ai/jobs/info/6ad9068eb0725dc268dd895f?utm_campaign=1053&utm_source=git)** | Washington, DC, United States | Hybrid | Oct 21 |
 | **[Selective Insurance](https://www.selective.com/)** | **[MUSIC Underwriting Summer Internship – Dresher, PA or Scottsdale, AZ (Hybrid)](https://jobright.ai/jobs/info/6a9f9425352f093fc756eaba?utm_campaign=1053&utm_source=git)** | Scottsdale, AZ, United States | Hybrid | Oct 21 |
 | **[Boost Engine Tech](https://boostengines.com)** | **[Creator Manager Intern, TikTok Shop](https://jobright.ai/jobs/info/6ad8f146950ef68d5184bbd0?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Oct 21 |
@@ -146,7 +146,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Virginia State Golf Association Communications Intern](https://jobright.ai/jobs/info/6ad2abc183ada13a9da07460?utm_campaign=1053&utm_source=git)** | Midlothian, VA, United States | On Site | Oct 15 |
 | **[Arthrex](https://www.arthrex.com/)** | **[Exhibit Planning Intern](https://jobright.ai/jobs/info/6ab4202fef911c35dffa3858?utm_campaign=1053&utm_source=git)** | Naples, FL, United States | On Site | Oct 15 |
 | **[Tera AI](https://www.tera-ai.com)** | **[[Intern] Videographer / Content Creator (Part-Time)](https://jobright.ai/jobs/info/6ad1778418608b6f36f84412?utm_campaign=1053&utm_source=git)** | San Francisco, CA, United States | Hybrid | Oct 15 |
-| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Current Programming Intern, Sony Pictures Television – Spring 2027](https://jobright.ai/jobs/info/6acfa60878d51ae69ce073c9?utm_campaign=1053&utm_source=git)** | Culver City, CA, United States | On Site | Oct 15 |
+| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Current Programming Intern, Sony Pictures Television – Spring 2027](https://jobright.ai/jobs/info/6acf9cc5fe7a9bd5a6b9906e?utm_campaign=1053&utm_source=git)** | Culver City, CA, United States | On Site | Oct 15 |
 | ↳ | **[Intern, Casting, Sony Pictures Television - Spring 2027](https://jobright.ai/jobs/info/6acf9cc3c0dd9da253cf39eb?utm_campaign=1053&utm_source=git)** | Culver City, CA, United States | On Site | Oct 15 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Paid News Producer Intern](https://jobright.ai/jobs/info/6a7dc082e2030208f2765d0c?utm_campaign=1053&utm_source=git)** | Indianapolis, IN, United States | On Site | Oct 15 |
 | **[McLaren Racing](https://www.mclaren.com/racing/)** | **[Videography Intern](https://jobright.ai/jobs/info/6ad151f7e2d41540d4a6fee3?utm_campaign=1053&utm_source=git)** | Indianapolis, IN, United States | On Site | Oct 15 |
@@ -155,6 +155,4 @@ For a complete list, click the following sortable link below:
 | **[Daktronics](http://www.daktronics.com/en-us)** | **[James Madison University Event Production Intern](https://jobright.ai/jobs/info/6ab1a156d43eb922ca0c0329?utm_campaign=1053&utm_source=git)** | Harrisonburg, VA, United States | On Site | Oct 15 |
 | **[U.S. News & World Report](http://www.usnews.com)** | **[News Intern (6 Months)](https://jobright.ai/jobs/info/6ab433b855e9168cf5ea4fda?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Hybrid | Oct 15 |
 | **[Toyon Research Corporation](http://toyon.com)** | **[Video Labeling Intern](https://jobright.ai/jobs/info/6a9902cadd171c7285793716?utm_campaign=1053&utm_source=git)** | Goleta, CA, United States | On Site | Oct 15 |
-| **[Munro & Associates](http://leandesign.com)** | **[Videographer Intern](https://jobright.ai/jobs/info/6ace7e404391691a335acde7?utm_campaign=1053&utm_source=git)** | Auburn Hills, MI, United States | On Site | Oct 15 |
-| **[Quanta Magazine](https://www.quantamagazine.org)** | **[Science Writing Fellow](https://jobright.ai/jobs/info/6ab412d464816213f2d9717d?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Oct 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
