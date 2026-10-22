@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Boston Celtics](http://www.nba.com/celtics)** | **[Intern, Live Production & Entertainment - Fall Semester 2027](https://jobright.ai/jobs/info/6ad9949b67bec1d0d9c86c8d?utm_campaign=1053&utm_source=git)** | Boston, MA, United States | On Site | Oct 21 |
+| ↳ | **[Intern, Digital Production - Spring Semester 2027](https://jobright.ai/jobs/info/6ad9949039284cd524287ae9?utm_campaign=1053&utm_source=git)** | Boston, MA, United States | On Site | Oct 21 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Intern](https://jobright.ai/jobs/info/6ab2ddb11e4847ddae916da4?utm_campaign=1053&utm_source=git)** | Henderson, KY, United States | On Site | Oct 21 |
 | **[Nolan Wells Studios](https://www.nolan-wells.com/)** | **[Filmmaker Intern](https://jobright.ai/jobs/info/6ad945fc39284cd5242861b8?utm_campaign=1053&utm_source=git)** | Springfield, Massachusetts, United States | Hybrid | Oct 21 |
 | **[Listen In With KNN](http://www.listeninwithknn.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/6ad92c10b0725dc268dda967?utm_campaign=1053&utm_source=git)** | United States | Remote | Oct 21 |
@@ -111,7 +113,7 @@ For a complete list, click the following sortable link below:
 | **[Society19](https://www.society19.com/)** | **[U.K. Lifestyle Magazine Writing Intern](https://jobright.ai/jobs/info/6a569ed9efb06a45240d7188?utm_campaign=1053&utm_source=git)** | Boston, MA, United States | Remote | Oct 18 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Intern - KOIN / KRCW - Portland, OR (Unpaid)](https://jobright.ai/jobs/info/6a526c03d007ee02d95f77ac?utm_campaign=1053&utm_source=git)** | OR, Portland, United States of America | On Site | Oct 18 |
 | **[FDB (First Databank, Inc.)](http://fdbhealth.com)** | **[Creative Services Intern](https://jobright.ai/jobs/info/6a5bc8f53ac7627fe9009170?utm_campaign=1053&utm_source=git)** | Manchester, NH, United States | On Site | Oct 18 |
-| **[HDR](http://www.hdrinc.com)** | **[Cultural Resources Intern-WG](https://jobright.ai/jobs/info/6a9b499c9c24314c35f98c11?utm_campaign=1053&utm_source=git)** | Austin, TX, United States | On Site | Oct 18 |
+| **[HDR](http://www.hdrinc.com)** | **[Cultural Resources Intern-WG](https://jobright.ai/jobs/info/6aade4a43d96632d741b0111?utm_campaign=1053&utm_source=git)** | Austin, TX, United States | On Site | Oct 18 |
 | **[Union Home Mortgage Corp.](https://www.uhm.com/)** | **[Video Content Intern](https://jobright.ai/jobs/info/6a924886d18f75674827bb2a?utm_campaign=1053&utm_source=git)** | Strongsville, OH, United States | On Site | Oct 18 |
 | **[The Aparecio Foundation](https://www.apareciofoundation.org)** | **[Volunteer/Intern:Editor of "FelixTV"](https://jobright.ai/jobs/info/6a5553844119652ff3864fc8?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | On Site | Oct 18 |
 | **[Relatable](https://relatable.com/)** | **[Content Creator Intern](https://jobright.ai/jobs/info/6ad8cf1267bec1d0d9c7f87c?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Hybrid | Oct 17 |
