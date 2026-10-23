@@ -57,7 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Zipline](https://www.zipline.com/)** | **[Video Production and Social Media Intern (Spring 2027)](https://jobright.ai/jobs/info/6a85d6d7e459fa3baa864167?utm_campaign=1053&utm_source=git)** | South San Francisco, CA, United States | On Site | Oct 23 |
+| **[AAMBC Inc.](https://aambc.org)** | **[Video Editor Intern](https://jobright.ai/jobs/info/6adb6db9389e06bb41ad1d93?utm_campaign=1053&utm_source=git)** | Atlanta metropolitan area, United States | Hybrid | Oct 23 |
+| **[MAVERICK](https://www.maverick.group)** | **[Commercial Production & Research Intern](https://jobright.ai/jobs/info/6adb62b5c5c64fa3d9caf1b5?utm_campaign=1053&utm_source=git)** | United States | Remote | Oct 23 |
 | **[Upptik Gives](https://upptik.com)** | **[Content Creator Intern](https://jobright.ai/jobs/info/6adb618fc5c64fa3d9caf15a?utm_campaign=1053&utm_source=git)** | Connecticut, United States | Remote | Oct 23 |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[WAVY Unpaid Sports Intern, Spring 2027](https://jobright.ai/jobs/info/6ad194ea90e54b6cff1a38a5?utm_campaign=1053&utm_source=git)** | Portsmouth, VA, United States | On Site | Oct 23 |
 | **[The Minnesota Star Tribune](http://www.startribunecompany.com)** | **[Social Media Producer Internship - Summer 2027](https://jobright.ai/jobs/info/6abecff08ff3fb9b3bc761c6?utm_campaign=1053&utm_source=git)** | Minneapolis, MN, United States | On Site | Oct 23 |
 | **[OTTera, Inc.](http://www.ottera.tv/)** | **[Content Creator Intern](https://jobright.ai/jobs/info/6a5ae1cc63a8f619507c8d0c?utm_campaign=1053&utm_source=git)** | North Hollywood, CA, United States | On Site | Oct 22 |
 | **[Diamond Baseball Holdings](http://diamondbaseballholdings.com/)** | **[Intern, Video Production (58231)](https://jobright.ai/jobs/info/6ada92c054bbabbab0717b87?utm_campaign=1053&utm_source=git)** | Harrisburg, PA, United States | On Site | Oct 22 |
@@ -132,7 +136,7 @@ For a complete list, click the following sortable link below:
 | **[Cambridge Investment Research, Inc.](http://www.joincambridge.com)** | **[Videography Intern](https://jobright.ai/jobs/info/6ab17cc223005eee3545ac44?utm_campaign=1053&utm_source=git)** | Fairfield, IA, United States | On Site | Oct 18 |
 | **[Society19](https://www.society19.com/)** | **[U.K. Lifestyle Magazine Writing Intern](https://jobright.ai/jobs/info/6a569ed9efb06a45240d7188?utm_campaign=1053&utm_source=git)** | Boston, MA, United States | Remote | Oct 18 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Intern - KOIN / KRCW - Portland, OR (Unpaid)](https://jobright.ai/jobs/info/6a526c03d007ee02d95f77ac?utm_campaign=1053&utm_source=git)** | OR, Portland, United States of America | On Site | Oct 18 |
-| **[HDR](http://www.hdrinc.com)** | **[Cultural Resources Intern-WG](https://jobright.ai/jobs/info/6a9b499c9c24314c35f98c11?utm_campaign=1053&utm_source=git)** | Austin, TX, United States | On Site | Oct 18 |
+| **[HDR](http://www.hdrinc.com)** | **[Cultural Resources Intern-WG](https://jobright.ai/jobs/info/6aade4a43d96632d741b0111?utm_campaign=1053&utm_source=git)** | Austin, TX, United States | On Site | Oct 18 |
 | **[Union Home Mortgage Corp.](https://www.uhm.com/)** | **[Video Content Intern](https://jobright.ai/jobs/info/6a924886d18f75674827bb2a?utm_campaign=1053&utm_source=git)** | Strongsville, OH, United States | On Site | Oct 18 |
 | **[The Aparecio Foundation](https://www.apareciofoundation.org)** | **[Volunteer/Intern:Editor of "FelixTV"](https://jobright.ai/jobs/info/6a5553844119652ff3864fc8?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | On Site | Oct 18 |
 | **[Relatable](https://relatable.com/)** | **[Content Creator Intern](https://jobright.ai/jobs/info/6ad8cf1267bec1d0d9c7f87c?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Hybrid | Oct 17 |
