@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Minnesota Star Tribune](http://www.startribunecompany.com)** | **[Social Media Producer Internship - Summer 2027](https://jobright.ai/jobs/info/6abecff08ff3fb9b3bc761c6?utm_campaign=1053&utm_source=git)** | Minneapolis, MN, United States | On Site | Oct 23 |
 | **[OTTera, Inc.](http://www.ottera.tv/)** | **[Content Creator Intern](https://jobright.ai/jobs/info/6a5ae1cc63a8f619507c8d0c?utm_campaign=1053&utm_source=git)** | North Hollywood, CA, United States | On Site | Oct 22 |
 | **[Diamond Baseball Holdings](http://diamondbaseballholdings.com/)** | **[Intern, Video Production (58231)](https://jobright.ai/jobs/info/6ada92c054bbabbab0717b87?utm_campaign=1053&utm_source=git)** | Harrisburg, PA, United States | On Site | Oct 22 |
 | **[Boston Celtics](http://www.nba.com/celtics)** | **[Intern, Live Production & Entertainment - Fall Semester 2027](https://jobright.ai/jobs/info/6adafaa0c5c64fa3d9cacdc7?utm_campaign=1053&utm_source=git)** | Boston, MA, United States | On Site | Oct 22 |
@@ -137,7 +138,7 @@ For a complete list, click the following sortable link below:
 | **[POLITICO](http://www.politico.com)** | **[Audio/Video Intern, HQ (Spring 2027)](https://jobright.ai/jobs/info/6ab6b5b9c6fe0dec811a645f?utm_campaign=1053&utm_source=git)** | Arlington, VA, United States | Hybrid | Oct 17 |
 | ↳ | **[Audio/Video Intern, HQ (Summer 2027)](https://jobright.ai/jobs/info/6ab6d7ccba1c25652c61036c?utm_campaign=1053&utm_source=git)** | Arlington, VA, United States | Hybrid | Oct 17 |
 | **[Hearst Newspapers](https://eevd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_15)** | **[Houston Chronicle Visuals Internship](https://jobright.ai/jobs/info/6ab67ea94873fd3fd852d702?utm_campaign=1053&utm_source=git)** | Houston, TX, United States | On Site | Oct 17 |
-| **[Houston Chronicle](http://www.houstonchronicle.com/)** | **[Audience Intern](https://jobright.ai/jobs/info/6ab670ccb3db59402d100682?utm_campaign=1053&utm_source=git)** | Houston, TX, United States | On Site | Oct 17 |
+| **[Houston Chronicle](http://www.houstonchronicle.com/)** | **[Audience Intern](https://jobright.ai/jobs/info/6ab3d4ab0e0ae54eeea44fbc?utm_campaign=1053&utm_source=git)** | Houston, TX, United States | On Site | Oct 17 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Video Editing Intern](https://jobright.ai/jobs/info/6ab6ad9cc6fe0dec811a611e?utm_campaign=1053&utm_source=git)** | Raleigh, NC, United States | Hybrid | Oct 17 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Paid Intern (Photojournalist/Multi-Media Journalist/Producer)](https://jobright.ai/jobs/info/69f179ef8feca91f149202ba?utm_campaign=1053&utm_source=git)** | Wichita, KS | On Site | Oct 17 |
 | **[Hyatt Regency](http://www.regency.hyatt.com/)** | **[Golf Operations Summer Internship - Hyatt Regency Hill Country Resort](https://jobright.ai/jobs/info/6ad3688283ada13a9da09935?utm_campaign=1053&utm_source=git)** | San Antonio, TX, United States | On Site | Oct 17 |
@@ -148,6 +149,4 @@ For a complete list, click the following sortable link below:
 | **[The Country Club of Virginia](http://www.theccv.org/)** | **[PGM Golf Intern](https://jobright.ai/jobs/info/6ad2abea810010ec72f597a5?utm_campaign=1053&utm_source=git)** | Richmond, VA, United States | On Site | Oct 16 |
 | **[Relatable](https://relatable.com/)** | **[Content Creator Intern](https://jobright.ai/jobs/info/6ad274d983ada13a9da06000?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Hybrid | Oct 16 |
 | **[Electronic Arts (EA)](https://www.ea.com)** | **[Animator Co-op (Summer 2027 - 8-months - Sports Tech )](https://jobright.ai/jobs/info/6ad26f9383ada13a9da05d92?utm_campaign=1053&utm_source=git)** | Vancouver, BC, Canada | Hybrid | Oct 16 |
-| **[Fox News Media](https://www.foxnews.com/)** | **[FOX Noticias Internship Program](https://jobright.ai/jobs/info/6ab626984873fd3fd852cd45?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Oct 16 |
-| **[OhioGuidestone](https://www.ohioguidestone.org)** | **[Events Intern, Paid](https://jobright.ai/jobs/info/6ad2609b83ada13a9da057c0?utm_campaign=1053&utm_source=git)** | Berea, OH, United States | On Site | Oct 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
