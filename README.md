@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Boehringer Ingelheim](https://www.boehringer-ingelheim.com/)** | **[Video Production Intern](https://jobright.ai/jobs/info/6abebd984ac55253f5d6251d?utm_campaign=1053&utm_source=git)** | Ridgefield, CT 06877, United States | Hybrid | Oct 23 |
 | **[Sony Music Entertainment](http://www.sonymusic.com)** | **[Intern, Radio & Artist Engagement](https://jobright.ai/jobs/info/6adb909e5dc7953215a33541?utm_campaign=1053&utm_source=git)** | Toronto, ON, Canada | On Site | Oct 23 |
 | **[Constellation](https://www.constellationenergy.com/)** | **[2027 Summer Trading Intern (Baltimore, MD)](https://jobright.ai/jobs/info/6aa5cd9542411952ff9a9dc5?utm_campaign=1053&utm_source=git)** | Baltimore, MD, United States | Hybrid | Oct 23 |
 | **[D.C. Witness](https://dcwitness.org/)** | **[Editorial Intern](https://jobright.ai/jobs/info/6adb8676c5c64fa3d9cafc98?utm_campaign=1053&utm_source=git)** | Washington, DC, United States | On Site | Oct 23 |
@@ -145,13 +146,12 @@ For a complete list, click the following sortable link below:
 | **[Cambridge Investment Research, Inc.](http://www.joincambridge.com)** | **[Videography Intern](https://jobright.ai/jobs/info/6ab17cc223005eee3545ac44?utm_campaign=1053&utm_source=git)** | Fairfield, IA, United States | On Site | Oct 18 |
 | **[Society19](https://www.society19.com/)** | **[U.K. Lifestyle Magazine Writing Intern](https://jobright.ai/jobs/info/6a569ed9efb06a45240d7188?utm_campaign=1053&utm_source=git)** | Boston, MA, United States | Remote | Oct 18 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Intern - KOIN / KRCW - Portland, OR (Unpaid)](https://jobright.ai/jobs/info/6a526c03d007ee02d95f77ac?utm_campaign=1053&utm_source=git)** | OR, Portland, United States of America | On Site | Oct 18 |
-| **[HDR](http://www.hdrinc.com)** | **[Cultural Resources Intern-WG](https://jobright.ai/jobs/info/6a9b499c9c24314c35f98c11?utm_campaign=1053&utm_source=git)** | Austin, TX, United States | On Site | Oct 18 |
+| **[HDR](http://www.hdrinc.com)** | **[Cultural Resources Intern-WG](https://jobright.ai/jobs/info/6aade4a43d96632d741b0111?utm_campaign=1053&utm_source=git)** | Austin, TX, United States | On Site | Oct 18 |
 | **[Union Home Mortgage Corp.](https://www.uhm.com/)** | **[Video Content Intern](https://jobright.ai/jobs/info/6a924886d18f75674827bb2a?utm_campaign=1053&utm_source=git)** | Strongsville, OH, United States | On Site | Oct 18 |
 | **[The Aparecio Foundation](https://www.apareciofoundation.org)** | **[Volunteer/Intern:Editor of "FelixTV"](https://jobright.ai/jobs/info/6a5553844119652ff3864fc8?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | On Site | Oct 18 |
 | **[Relatable](https://relatable.com/)** | **[Content Creator Intern](https://jobright.ai/jobs/info/6ad8cf1267bec1d0d9c7f87c?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Hybrid | Oct 17 |
 | **[POLITICO](http://www.politico.com)** | **[Audio/Video Intern, HQ (Spring 2027)](https://jobright.ai/jobs/info/6ab6b5b9c6fe0dec811a645f?utm_campaign=1053&utm_source=git)** | Arlington, VA, United States | Hybrid | Oct 17 |
 | ↳ | **[Audio/Video Intern, HQ (Summer 2027)](https://jobright.ai/jobs/info/6ab6d7ccba1c25652c61036c?utm_campaign=1053&utm_source=git)** | Arlington, VA, United States | Hybrid | Oct 17 |
-| **[Hearst Newspapers](https://eevd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_15)** | **[Houston Chronicle Visuals Internship](https://jobright.ai/jobs/info/6ab67ea94873fd3fd852d702?utm_campaign=1053&utm_source=git)** | Houston, TX, United States | On Site | Oct 17 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Video Editing Intern](https://jobright.ai/jobs/info/6ab6ad9cc6fe0dec811a611e?utm_campaign=1053&utm_source=git)** | Raleigh, NC, United States | Hybrid | Oct 17 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Paid Intern (Photojournalist/Multi-Media Journalist/Producer)](https://jobright.ai/jobs/info/69f179ef8feca91f149202ba?utm_campaign=1053&utm_source=git)** | Wichita, KS | On Site | Oct 17 |
 | **[Hyatt Regency](http://www.regency.hyatt.com/)** | **[Golf Operations Summer Internship - Hyatt Regency Hill Country Resort](https://jobright.ai/jobs/info/6ad3688283ada13a9da09935?utm_campaign=1053&utm_source=git)** | San Antonio, TX, United States | On Site | Oct 17 |
