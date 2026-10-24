@@ -155,5 +155,4 @@ For a complete list, click the following sortable link below:
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Video Editing Intern](https://jobright.ai/jobs/info/6ab6ad9cc6fe0dec811a611e?utm_campaign=1053&utm_source=git)** | Raleigh, NC, United States | Hybrid | Oct 17 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Paid Intern (Photojournalist/Multi-Media Journalist/Producer)](https://jobright.ai/jobs/info/69f179ef8feca91f149202ba?utm_campaign=1053&utm_source=git)** | Wichita, KS | On Site | Oct 17 |
 | **[Hyatt Regency](http://www.regency.hyatt.com/)** | **[Golf Operations Summer Internship - Hyatt Regency Hill Country Resort](https://jobright.ai/jobs/info/6ad3688283ada13a9da09935?utm_campaign=1053&utm_source=git)** | San Antonio, TX, United States | On Site | Oct 17 |
-| **[Spectrum](https://www.spectrum.com)** | **[2027 Summer Intern: Associate L&D Writer (Customer Operations)](https://jobright.ai/jobs/info/6ad3579325289a0b3bf5a56f?utm_campaign=1053&utm_source=git)** | Charlotte, NC, United States | On Site | Oct 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
