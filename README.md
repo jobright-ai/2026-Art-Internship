@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Aparecio Foundation](https://www.apareciofoundation.org)** | **[Volunteer/Intern:Editor of "FelixTV"](https://jobright.ai/jobs/info/6ac99471d4a5a03707412c0a?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | Remote | Oct 23 |
+| **[Inspire](https://inspirebrands.com)** | **[Maverick Studios Digital Content Creation Intern, Summer 2027](https://jobright.ai/jobs/info/6adb7904c5c64fa3d9caf881?utm_campaign=1053&utm_source=git)** | Atlanta, Georgia, United States | On Site | Oct 23 |
 | **[Launch That](http://launchthat.com)** | **[Editorial Intern](https://jobright.ai/jobs/info/6adc0b1ac5c64fa3d9cb273d?utm_campaign=1053&utm_source=git)** | Orlando, FL, United States | Hybrid | Oct 23 |
 | **[Texas Association of Counties](https://www.county.org)** | **[Event Center Coordinator Intern](https://jobright.ai/jobs/info/6adbe4149e3e874dbfba2a1b?utm_campaign=1053&utm_source=git)** | Austin, TX, United States | On Site | Oct 23 |
 | **[Omni Hotels & Resorts](http://www.omnihotels.com/)** | **[Omni Care Internship Culinary / Summer 2027](https://jobright.ai/jobs/info/6adbb4b90a4cc7090f974514?utm_campaign=1053&utm_source=git)** | Bretton Woods, NH, United States | On Site | Oct 23 |
@@ -77,7 +79,6 @@ For a complete list, click the following sortable link below:
 | **[The Minnesota Star Tribune](http://www.startribunecompany.com)** | **[Social Media Producer Internship - Summer 2027](https://jobright.ai/jobs/info/6abecff08ff3fb9b3bc761c6?utm_campaign=1053&utm_source=git)** | Minneapolis, MN, United States | On Site | Oct 23 |
 | **[OTTera, Inc.](http://www.ottera.tv/)** | **[Content Creator Intern](https://jobright.ai/jobs/info/6a5ae1cc63a8f619507c8d0c?utm_campaign=1053&utm_source=git)** | North Hollywood, CA, United States | On Site | Oct 22 |
 | **[Diamond Baseball Holdings](http://diamondbaseballholdings.com/)** | **[Intern, Video Production (58231)](https://jobright.ai/jobs/info/6ada92c054bbabbab0717b87?utm_campaign=1053&utm_source=git)** | Harrisburg, PA, United States | On Site | Oct 22 |
-| **[Inspire](https://inspirebrands.com)** | **[Maverick Studios Digital Content Creation Intern, Summer 2027](https://jobright.ai/jobs/info/6adb7904c5c64fa3d9caf881?utm_campaign=1053&utm_source=git)** | Atlanta, Georgia, United States | On Site | Oct 22 |
 | **[Boston Celtics](http://www.nba.com/celtics)** | **[Intern, Live Production & Entertainment - Fall Semester 2027](https://jobright.ai/jobs/info/6adafaa0c5c64fa3d9cacdc7?utm_campaign=1053&utm_source=git)** | Boston, MA, United States | On Site | Oct 22 |
 | ↳ | **[Intern, Digital Production - Spring Semester 2027](https://jobright.ai/jobs/info/6adafa8faee75c4e7d2e5feb?utm_campaign=1053&utm_source=git)** | Boston, MA, United States | On Site | Oct 22 |
 | **[Omni Hotels & Resorts](http://www.omnihotels.com/)** | **[Culinary Intern](https://jobright.ai/jobs/info/6ada9115e4b94611ab85df9b?utm_campaign=1053&utm_source=git)** | Bedford, PA, United States | On Site | Oct 22 |
