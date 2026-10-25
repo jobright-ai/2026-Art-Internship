@@ -149,5 +149,4 @@ For a complete list, click the following sortable link below:
 | **[Society19](https://www.society19.com/)** | **[U.K. Lifestyle Magazine Writing Intern](https://jobright.ai/jobs/info/6a569ed9efb06a45240d7188?utm_campaign=1053&utm_source=git)** | Boston, MA, United States | Remote | Oct 18 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Intern - KOIN / KRCW - Portland, OR (Unpaid)](https://jobright.ai/jobs/info/6a526c03d007ee02d95f77ac?utm_campaign=1053&utm_source=git)** | OR, Portland, United States of America | On Site | Oct 18 |
 | **[HDR](http://www.hdrinc.com)** | **[Cultural Resources Intern-WG](https://jobright.ai/jobs/info/6a9b499c9c24314c35f98c11?utm_campaign=1053&utm_source=git)** | Austin, TX, United States | On Site | Oct 18 |
-| **[Union Home Mortgage Corp.](https://www.uhm.com/)** | **[Video Content Intern](https://jobright.ai/jobs/info/6a924886d18f75674827bb2a?utm_campaign=1053&utm_source=git)** | Strongsville, OH, United States | On Site | Oct 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
