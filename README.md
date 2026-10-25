@@ -145,5 +145,4 @@ For a complete list, click the following sortable link below:
 | **[NBCUniversal](https://www.nbcuniversal.com/)** | **[Technology Events & Communications Intern, DreamWorks Animation, Spring 2027](https://jobright.ai/jobs/info/6ad65082950ef68d5183862d?utm_campaign=1053&utm_source=git)** | Glendale, CA, United States | Hybrid | Oct 19 |
 | ↳ | **[Technology Events & Communications Intern, DreamWorks Animation, Spring 2027](https://jobright.ai/jobs/info/6ad63f16950ef68d518376d3?utm_campaign=1053&utm_source=git)** | Glendale, CA, United States | Hybrid | Oct 19 |
 | **[Fox News Media](https://www.foxnews.com/)** | **[Summer 2027 FOX News Media Internship Program - FOX Noticias](https://jobright.ai/jobs/info/6aba1a19eeb00e733cc0276c?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Oct 19 |
-| **[MLSE (Maple Leaf Sports & Entertainment Partnership)](http://mlse.com)** | **[Live Events Intern](https://jobright.ai/jobs/info/6ad69da667bec1d0d9c70d3e?utm_campaign=1053&utm_source=git)** | Toronto, ON, Canada | Hybrid | Oct 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
