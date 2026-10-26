@@ -57,7 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Wild 7 Studios ](https://wild7studios.com)** | **[Post Production Intern](https://jobright.ai/jobs/info/6ade958946a8cabdc1ffc146?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | On Site | Oct 25 |
 | **[Bonneville International](http://bonneville.com/)** | **[Arizona Sports Digital Spring 2027 Internship](https://jobright.ai/jobs/info/6ac04a77372c01f6cd72b7e3?utm_campaign=1053&utm_source=git)** | Phoenix, AZ, United States | On Site | Oct 25 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Lifestyle Show Intern](https://jobright.ai/jobs/info/6ac115db4ac55253f5d69fb0?utm_campaign=1053&utm_source=git)** | Spartanburg, SC, United States | On Site | Oct 24 |
 | **[Foundation Management & Pro-Productions, Inc.](https://www.fmpproductions.com/)** | **[Intern](https://jobright.ai/jobs/info/6adcc125389e06bb41ad7414?utm_campaign=1053&utm_source=git)** | Woburn, MA, United States | On Site | Oct 24 |
