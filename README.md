@@ -59,7 +59,6 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Bonneville International](http://bonneville.com/)** | **[Arizona Sports Digital Spring 2027 Internship](https://jobright.ai/jobs/info/6ac04a77372c01f6cd72b7e3?utm_campaign=1053&utm_source=git)** | Phoenix, AZ, United States | On Site | Oct 25 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Lifestyle Show Intern](https://jobright.ai/jobs/info/6ac115db4ac55253f5d69fb0?utm_campaign=1053&utm_source=git)** | Spartanburg, SC, United States | On Site | Oct 24 |
-| **[Foundation Management & Pro-Productions, Inc.](https://www.fmpproductions.com/)** | **[Intern](https://jobright.ai/jobs/info/6adcc125389e06bb41ad7414?utm_campaign=1053&utm_source=git)** | Woburn, MA, United States | On Site | Oct 24 |
 | **[Advisors Excel](http://advisorsexcel.com)** | **[Video Intern](https://jobright.ai/jobs/info/6aa4d423a77a53f5a156e3ea?utm_campaign=1053&utm_source=git)** | Topeka, KS, United States | On Site | Oct 24 |
 | **[Inspire](https://inspirebrands.com)** | **[Maverick Studios Digital Content Creation Intern, Summer 2027](https://jobright.ai/jobs/info/6adb7904c5c64fa3d9caf881?utm_campaign=1053&utm_source=git)** | Atlanta, Georgia, United States | On Site | Oct 24 |
 | **[The Toro Company](https://www.thetorocompany.com)** | **[Video and Interactive Training Production Intern - Ditch Witch](https://jobright.ai/jobs/info/6aa3aa4c959a10d7230d3185?utm_campaign=1053&utm_source=git)** | Perry, OK, United States | On Site | Oct 24 |
