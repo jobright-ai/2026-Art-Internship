@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Wild 7 Studios ](https://wild7studios.com)** | **[Post Production Intern](https://jobright.ai/jobs/info/6ade958946a8cabdc1ffc146?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | On Site | Oct 25 |
 | **[Bonneville International](http://bonneville.com/)** | **[Arizona Sports Digital Spring 2027 Internship](https://jobright.ai/jobs/info/6ac04a77372c01f6cd72b7e3?utm_campaign=1053&utm_source=git)** | Phoenix, AZ, United States | On Site | Oct 25 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Lifestyle Show Intern](https://jobright.ai/jobs/info/6ac115db4ac55253f5d69fb0?utm_campaign=1053&utm_source=git)** | Spartanburg, SC, United States | On Site | Oct 24 |
 | **[Foundation Management & Pro-Productions, Inc.](https://www.fmpproductions.com/)** | **[Intern](https://jobright.ai/jobs/info/6adcc125389e06bb41ad7414?utm_campaign=1053&utm_source=git)** | Woburn, MA, United States | On Site | Oct 24 |
@@ -75,7 +76,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[WAVY Unpaid Digital Intern, Spring 2027](https://jobright.ai/jobs/info/6abee9b9d9621c5b283924da?utm_campaign=1053&utm_source=git)** | Portsmouth, VA, United States | On Site | Oct 23 |
 | **[WAVY-TV 10](http://wavy.com)** | **[WAVY-TV 10 Unpaid CTV Streaming Content Production Intern, Spring 2027](https://jobright.ai/jobs/info/6abf0e1e372c01f6cd72718c?utm_campaign=1053&utm_source=git)** | Portsmouth, VA, United States | On Site | Oct 23 |
 | **[Zipline](https://www.zipline.com/)** | **[Video Production and Social Media Intern (Spring 2027)](https://jobright.ai/jobs/info/6a85d6d7e459fa3baa864167?utm_campaign=1053&utm_source=git)** | South San Francisco, CA, United States | On Site | Oct 23 |
-| **[Upptik Gives](https://upptik.com)** | **[Content Creator Intern](https://jobright.ai/jobs/info/6adb618fc5c64fa3d9caf15a?utm_campaign=1053&utm_source=git)** | Connecticut, United States | Remote | Oct 23 |
 | **[WAVY-TV 10](http://wavy.com)** | **[WAVY Unpaid Sports Intern, Spring 2027](https://jobright.ai/jobs/info/6abf0e40372c01f6cd727192?utm_campaign=1053&utm_source=git)** | Portsmouth, VA, United States | On Site | Oct 23 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[WAVY Unpaid Sports Intern, Spring 2027](https://jobright.ai/jobs/info/6ad194ea90e54b6cff1a38a5?utm_campaign=1053&utm_source=git)** | Portsmouth, VA, United States | On Site | Oct 23 |
 | **[The Minnesota Star Tribune](http://www.startribunecompany.com)** | **[Social Media Producer Internship - Summer 2027](https://jobright.ai/jobs/info/6abecff08ff3fb9b3bc761c6?utm_campaign=1053&utm_source=git)** | Minneapolis, MN, United States | On Site | Oct 23 |
