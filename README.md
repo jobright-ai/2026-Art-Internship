@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Audacy, Inc.](https://audacyinc.com/)** | **[Spring Internship](https://jobright.ai/jobs/info/6ab5b76d4873fd3fd852ba09?utm_campaign=1053&utm_source=git)** | Buffalo, NY, United States | On Site | Oct 26 |
 | **[Sinclair Inc.](http://sbgi.net)** | **[Sports Intern](https://jobright.ai/jobs/info/6aba4c69be5f1e93251150ad?utm_campaign=1053&utm_source=git)** | Pittsburgh, Pennsylvania, United States | On Site | Oct 26 |
 | **[Bonneville International](http://bonneville.com/)** | **[Arizona Sports Digital Spring 2027 Internship](https://jobright.ai/jobs/info/6ac04a77372c01f6cd72b7e3?utm_campaign=1053&utm_source=git)** | Phoenix, AZ, United States | On Site | Oct 25 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Lifestyle Show Intern](https://jobright.ai/jobs/info/6ac115db4ac55253f5d69fb0?utm_campaign=1053&utm_source=git)** | Spartanburg, SC, United States | On Site | Oct 24 |
@@ -135,5 +136,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Animation Intern (Gameplay)- Undergraduate](https://jobright.ai/jobs/info/6ad694ef67bec1d0d9c70847?utm_campaign=1053&utm_source=git)** | Burbank, CA, United States | On Site | Oct 19 |
 | ↳ | **[Character TD (Rigging) Intern- Undergraduate](https://jobright.ai/jobs/info/6ad694ea67bec1d0d9c70842?utm_campaign=1053&utm_source=git)** | Burbank, CA, United States | On Site | Oct 19 |
 | ↳ | **[VFX Intern – Undergraduate-Graduate](https://jobright.ai/jobs/info/6ad68d1ae4b94611ab8401ac?utm_campaign=1053&utm_source=git)** | Burbank, CA, United States | Hybrid | Oct 19 |
-| **[Old Mission Medicine Management, LLC](www.oldmissionmedicine.com)** | **[Camera & Video Production Intern](https://jobright.ai/jobs/info/6ad6839fe4b94611ab83fad1?utm_campaign=1053&utm_source=git)** | Traverse City, MI, United States | On Site | Oct 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
