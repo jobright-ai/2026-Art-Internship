@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sinclair Inc.](http://sbgi.net)** | **[Sports Intern](https://jobright.ai/jobs/info/6aba4c69be5f1e93251150ad?utm_campaign=1053&utm_source=git)** | Pittsburgh, Pennsylvania, United States | On Site | Oct 26 |
 | **[Bonneville International](http://bonneville.com/)** | **[Arizona Sports Digital Spring 2027 Internship](https://jobright.ai/jobs/info/6ac04a77372c01f6cd72b7e3?utm_campaign=1053&utm_source=git)** | Phoenix, AZ, United States | On Site | Oct 25 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Lifestyle Show Intern](https://jobright.ai/jobs/info/6ac115db4ac55253f5d69fb0?utm_campaign=1053&utm_source=git)** | Spartanburg, SC, United States | On Site | Oct 24 |
 | **[Advisors Excel](http://advisorsexcel.com)** | **[Video Intern](https://jobright.ai/jobs/info/6aa4d423a77a53f5a156e3ea?utm_campaign=1053&utm_source=git)** | Topeka, KS, United States | On Site | Oct 24 |
@@ -87,8 +88,8 @@ For a complete list, click the following sortable link below:
 | **[American Bankers Association](http://www.aba.com)** | **[Intern, Video Production](https://jobright.ai/jobs/info/6ada18633a69033df2255797?utm_campaign=1053&utm_source=git)** | Washington, District of Columbia, United States | On Site | Oct 22 |
 | **[United States Golf Association (USGA)](http://www.usga.org)** | **[2027 U.S. Women's Open Short-Term Merchandise Internship](https://jobright.ai/jobs/info/6ada12673a69033df22555c2?utm_campaign=1053&utm_source=git)** | Pebble Beach, CA, United States | On Site | Oct 22 |
 | ↳ | **[2027 Video Production Intern](https://jobright.ai/jobs/info/6ada1262e4b94611ab858d01?utm_campaign=1053&utm_source=git)** | Liberty Corner, NJ, United States | Hybrid | Oct 22 |
-| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Internal Communications Specialist)](https://jobright.ai/jobs/info/6aa168cfdbc0e60e37e111eb?utm_campaign=1053&utm_source=git)** | Vienna, VA, United States | Hybrid | Oct 22 |
-| ↳ | **[Summer Associate Internship (Internal Communications Specialist)](https://jobright.ai/jobs/info/6aa16331ef23570cae2439e4?utm_campaign=1053&utm_source=git)** | Vienna, VA, United States | Hybrid | Oct 22 |
+| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Internal Communications Specialist)](https://jobright.ai/jobs/info/6aa16331ef23570cae2439e4?utm_campaign=1053&utm_source=git)** | Vienna, VA, United States | Hybrid | Oct 22 |
+| ↳ | **[Summer Associate Internship (Internal Communications Specialist)](https://jobright.ai/jobs/info/6aa168cfdbc0e60e37e111eb?utm_campaign=1053&utm_source=git)** | Vienna, VA, United States | Hybrid | Oct 22 |
 | **[Golden Hippo®](http://goldenhippomedia.com)** | **[Podcast Editor Intern - Spring 2027](https://jobright.ai/jobs/info/6ad8fda167bec1d0d9c8196c?utm_campaign=1053&utm_source=git)** | Woodland Hills, CA, United States | Hybrid | Oct 22 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Intern](https://jobright.ai/jobs/info/6ab2ddb11e4847ddae916da4?utm_campaign=1053&utm_source=git)** | Henderson, KY, United States | On Site | Oct 22 |
 | **[Dow Jones](http://www.dowjones.com)** | **[The Wall Street Journal Features & WSJ. Magazine Internship (Summer 2027)](https://jobright.ai/jobs/info/6abe2b97d9621c5b2838e7b5?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Oct 22 |
@@ -103,7 +104,6 @@ For a complete list, click the following sortable link below:
 | **[KERA – North Texas Public Broadcasting](https://www.kera.org/)** | **[Video Intern, Spring 2027](https://jobright.ai/jobs/info/6adaca54d481921cb9ec2594?utm_campaign=1053&utm_source=git)** | Dallas, TX, United States | Hybrid | Oct 21 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[WPVI-TV (6abc) Community Engagement Intern, Spring 2027](https://jobright.ai/jobs/info/6ad9a8bc950ef68d51851c48?utm_campaign=1053&utm_source=git)** | Philadelphia, PA, United States | On Site | Oct 21 |
 | **[Boost Engine Tech](https://boostengines.com)** | **[Creator Manager Intern, TikTok Shop](https://jobright.ai/jobs/info/6ade3f425dc7953215a3adda?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Oct 21 |
-| **[Nolan Wells Studios](https://www.nolan-wells.com/)** | **[Filmmaker Intern](https://jobright.ai/jobs/info/6ad945fc39284cd5242861b8?utm_campaign=1053&utm_source=git)** | Springfield, Massachusetts, United States | Hybrid | Oct 21 |
 | **[PatientPoint®](http://patientpoint.com)** | **[Editorial Intern](https://jobright.ai/jobs/info/6ad91caa67bec1d0d9c835c0?utm_campaign=1053&utm_source=git)** | Cincinnati, OH, United States | Hybrid | Oct 21 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Lifestyle Show Spring Semester Intern](https://jobright.ai/jobs/info/6ad8d2e939284cd5242809db?utm_campaign=1053&utm_source=git)** | Philadelphia, PA, United States | On Site | Oct 21 |
 | **[West End Strategy Team](https://westendstrategy.com)** | **[Paid Intern - Spring 2027](https://jobright.ai/jobs/info/6ad9068eb0725dc268dd895f?utm_campaign=1053&utm_source=git)** | Washington, DC, United States | Hybrid | Oct 21 |
@@ -140,5 +140,4 @@ For a complete list, click the following sortable link below:
 | **[OhioGuidestone](https://www.ohioguidestone.org)** | **[Events Intern, Paid](https://jobright.ai/jobs/info/6ad2712c810010ec72f5818c?utm_campaign=1053&utm_source=git)** | Berea, OH, United States | On Site | Oct 19 |
 | **[Meridian Township](https://meridian.mi.us)** | **[Communications Intern](https://jobright.ai/jobs/info/6ad27bd925289a0b3bf570df?utm_campaign=1053&utm_source=git)** | Meridian Charter Township, MI, United States | On Site | Oct 19 |
 | **[Vestmark](https://www.vestmark.com)** | **[Intern - Video Production Coordinator](https://jobright.ai/jobs/info/6ad65f6a52aa6152bb69498a?utm_campaign=1053&utm_source=git)** | Wakefield, MA, United States | On Site | Oct 19 |
-| **[NBCUniversal](https://www.nbcuniversal.com/)** | **[Technology Events & Communications Intern, DreamWorks Animation, Spring 2027](https://jobright.ai/jobs/info/6ad65082950ef68d5183862d?utm_campaign=1053&utm_source=git)** | Glendale, CA, United States | Hybrid | Oct 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
