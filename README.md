@@ -57,7 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Mundial Partners](https://www.themundialpartners.com/)** | **[UGC Content Creation Intern](https://jobright.ai/jobs/info/6adf967b0a4cc7090f980d12?utm_campaign=1053&utm_source=git)** | New York City, NY, United States | On Site | Oct 26 |
+| **[The Familie](https://thefamilie.com)** | **[Country Music Intern](https://jobright.ai/jobs/info/6adfbb650a4cc7090f98288b?utm_campaign=1053&utm_source=git)** | Nashville, TN, United States | On Site | Oct 26 |
 | **[Seed Company](https://seedcompany.com)** | **[Events Intern (Summer)](https://jobright.ai/jobs/info/6adf944d065c4e77efaf9199?utm_campaign=1053&utm_source=git)** | Arlington, TX, United States | On Site | Oct 26 |
 | **[Pacers Sports & Entertainment](http://www.pacers.com)** | **[Digital Video Intern - Spring 2027](https://jobright.ai/jobs/info/6adf91629e3e874dbfbadad3?utm_campaign=1053&utm_source=git)** | Indianapolis, IN, United States | On Site | Oct 26 |
 | ↳ | **[Digital Content Intern - Spring 2027](https://jobright.ai/jobs/info/6adf91575dc7953215a4058e?utm_campaign=1053&utm_source=git)** | Indianapolis, IN, United States | On Site | Oct 26 |
@@ -66,6 +66,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Full-Time Paid Intern – Friend Writer/Editor (Church Magazines)](https://jobright.ai/jobs/info/6ac354c2064da25272e0e0c0?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT, United States | Hybrid | Oct 26 |
 | **[Financial Times](http://ft.com)** | **[Editorial Engagement and Growth Summer Intern](https://jobright.ai/jobs/info/6aba904a7220f52e62ae6db1?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Oct 26 |
 | **[Freeman Company](https://freemancreacion.com)** | **[2027 TFC Summer Internship - Event & Exhibit Services](https://jobright.ai/jobs/info/6ac40d1b8ff3fb9b3bc83cc3?utm_campaign=1053&utm_source=git)** | McCook, IL, United States | On Site | Oct 26 |
+| **[Hall of Fame Resort & Entertainment Company](https://www.hofreco.com/)** | **[2027 Pro Football Hall of Fame Internship - SPECIAL EVENTS](https://jobright.ai/jobs/info/6adfb6d3065c4e77efafab05?utm_campaign=1053&utm_source=git)** | Canton, OH, United States | On Site | Oct 26 |
+| ↳ | **[2027 Pro Football Hall of Fame Internship - PRODUCTION](https://jobright.ai/jobs/info/6adfb6d5c5c64fa3d9cbeb74?utm_campaign=1053&utm_source=git)** | Canton, OH, United States | On Site | Oct 26 |
 | **[Audacy, Inc.](https://audacyinc.com/)** | **[Spring Internship](https://jobright.ai/jobs/info/6ab5b76d4873fd3fd852ba09?utm_campaign=1053&utm_source=git)** | Buffalo, NY, United States | On Site | Oct 26 |
 | **[Sinclair Inc.](http://sbgi.net)** | **[Sports Intern](https://jobright.ai/jobs/info/6aba4c69be5f1e93251150ad?utm_campaign=1053&utm_source=git)** | Pittsburgh, Pennsylvania, United States | On Site | Oct 26 |
 | **[Bonneville International](http://bonneville.com/)** | **[Arizona Sports Digital Spring 2027 Internship](https://jobright.ai/jobs/info/6ac04a77372c01f6cd72b7e3?utm_campaign=1053&utm_source=git)** | Phoenix, AZ, United States | On Site | Oct 25 |
@@ -97,8 +99,8 @@ For a complete list, click the following sortable link below:
 | **[American Bankers Association](http://www.aba.com)** | **[Intern, Video Production](https://jobright.ai/jobs/info/6ada18633a69033df2255797?utm_campaign=1053&utm_source=git)** | Washington, District of Columbia, United States | On Site | Oct 22 |
 | **[United States Golf Association (USGA)](http://www.usga.org)** | **[2027 U.S. Women's Open Short-Term Merchandise Internship](https://jobright.ai/jobs/info/6ada12673a69033df22555c2?utm_campaign=1053&utm_source=git)** | Pebble Beach, CA, United States | On Site | Oct 22 |
 | ↳ | **[2027 Video Production Intern](https://jobright.ai/jobs/info/6ada1262e4b94611ab858d01?utm_campaign=1053&utm_source=git)** | Liberty Corner, NJ, United States | Hybrid | Oct 22 |
-| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Internal Communications Specialist)](https://jobright.ai/jobs/info/6aa168cfdbc0e60e37e111eb?utm_campaign=1053&utm_source=git)** | Vienna, VA, United States | Hybrid | Oct 22 |
-| ↳ | **[Summer Associate Internship (Internal Communications Specialist)](https://jobright.ai/jobs/info/6aa16331ef23570cae2439e4?utm_campaign=1053&utm_source=git)** | Vienna, VA, United States | Hybrid | Oct 22 |
+| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Internal Communications Specialist)](https://jobright.ai/jobs/info/6aa16331ef23570cae2439e4?utm_campaign=1053&utm_source=git)** | Vienna, VA, United States | Hybrid | Oct 22 |
+| ↳ | **[Summer Associate Internship (Internal Communications Specialist)](https://jobright.ai/jobs/info/6aa168cfdbc0e60e37e111eb?utm_campaign=1053&utm_source=git)** | Vienna, VA, United States | Hybrid | Oct 22 |
 | **[Golden Hippo®](http://goldenhippomedia.com)** | **[Podcast Editor Intern - Spring 2027](https://jobright.ai/jobs/info/6ad8fda167bec1d0d9c8196c?utm_campaign=1053&utm_source=git)** | Woodland Hills, CA, United States | Hybrid | Oct 22 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Intern](https://jobright.ai/jobs/info/6ab2ddb11e4847ddae916da4?utm_campaign=1053&utm_source=git)** | Henderson, KY, United States | On Site | Oct 22 |
 | **[Dow Jones](http://www.dowjones.com)** | **[The Wall Street Journal Features & WSJ. Magazine Internship (Summer 2027)](https://jobright.ai/jobs/info/6abe2b97d9621c5b2838e7b5?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Oct 22 |
