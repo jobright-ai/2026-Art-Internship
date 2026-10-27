@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BPCM](http://www.bpcm.com)** | **[Spring Internship, Fashion](https://jobright.ai/jobs/info/6ae10321de23f466ec8bb4c9?utm_campaign=1053&utm_source=git)** | Brooklyn, NY, United States | On Site | Oct 27 |
 | **[Mission Control](https://missioncontrolspace.com/)** | **[Winter 2026 Content Creation & Video Intern](https://jobright.ai/jobs/info/6ae0f07567c31ab34899ec1e?utm_campaign=1053&utm_source=git)** | Ottawa, ON, Canada | Hybrid | Oct 27 |
 | **[Attain Sports](https://attainsports.com)** | **[Game Presentation Intern - Frederick Keys](https://jobright.ai/jobs/info/6ace72964391691a335ac8ce?utm_campaign=1053&utm_source=git)** | Frederick, MD, United States | On Site | Oct 27 |
 | **[Washington Nationals](https://nationals.mlb.com)** | **[Minor League Video & Technology Intern (2027 Season)](https://jobright.ai/jobs/info/6ae0e877829a3bada15f8705?utm_campaign=1053&utm_source=git)** | United States | Remote | Oct 27 |
@@ -136,5 +137,4 @@ For a complete list, click the following sortable link below:
 | **[Boost Engine Tech](https://boostengines.com)** | **[Creator Manager Intern, TikTok Shop](https://jobright.ai/jobs/info/6ad8f146950ef68d5184bbd0?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Oct 21 |
 | **[TikTok](https://www.tiktok.com)** | **[Agency Ops Project Intern (TikTok Local Services) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a5076339469c06620351013?utm_campaign=1053&utm_source=git)** | Los Angeles, United States | On Site | Oct 21 |
 | **[Colorado Golf Association](http://www.cogolf.org/)** | **[2027 Arkansas Golf Tournament Operations Boatwright Intern](https://jobright.ai/jobs/info/6ad91412950ef68d5184dc7b?utm_campaign=1053&utm_source=git)** | Little Rock, AR, United States | On Site | Oct 20 |
-| **[Skild AI](https://www.skild.ai)** | **[Content Creator (Intern)](https://jobright.ai/jobs/info/6ab3463530340229a323213d?utm_campaign=1053&utm_source=git)** | San Mateo, CA, United States | On Site | Oct 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
