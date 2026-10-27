@@ -57,7 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Head Bitch Music](http://www.headbitchmusic.com)** | **[Label Services & Distribution Intern](https://jobright.ai/jobs/info/6adfdc870a4cc7090f983ff1?utm_campaign=1053&utm_source=git)** | United States | Remote | Oct 26 |
+| **[ai.moms](https://aimoms.ai/)** | **[Editorial Intern](https://jobright.ai/jobs/info/6adff99b5dc7953215a44cb9?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Remote | Oct 26 |
 | **[Mundial Partners](https://www.themundialpartners.com/)** | **[UGC Content Creation Intern](https://jobright.ai/jobs/info/6adfcc4e9a8c91d5c35895f6?utm_campaign=1053&utm_source=git)** | New York City, NY, United States | On Site | Oct 26 |
 | **[Culver Franchising System, LLC](http://www.culvers.com)** | **[Culinary Internship](https://jobright.ai/jobs/info/6adfcb385dc7953215a4300b?utm_campaign=1053&utm_source=git)** | Prairie du Sac, Wisconsin, United States | On Site | Oct 26 |
 | **[The Familie](https://thefamilie.com)** | **[Country Music Intern](https://jobright.ai/jobs/info/6adfbb650a4cc7090f98288b?utm_campaign=1053&utm_source=git)** | Nashville, TN, United States | On Site | Oct 26 |
