@@ -57,11 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hasana, Inc.](http://shophasana.com)** | **[Volunteer/Intern: Film/Video Editor](https://jobright.ai/jobs/info/6a51e53ebf63b66c7997e975?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Oct 27 |
+| **[Local](https://www.localmedia.co/)** | **[Editorial Intern](https://jobright.ai/jobs/info/6ae0cf9805a39c3e2c70c7c6?utm_campaign=1053&utm_source=git)** | Greater Minneapolis–St. Paul Area, United States | Remote | Oct 27 |
+| **[The Bernard Group, Inc.](http://www.thebernardgroup.com)** | **[Intern, Videographer](https://jobright.ai/jobs/info/6ae0cc4e5a5afc94bd2c7144?utm_campaign=1053&utm_source=git)** | Chanhassen, MN, United States | On Site | Oct 27 |
+| **[Wine Spectator](http://www.winespectator.com)** | **[Editorial Intern](https://jobright.ai/jobs/info/6ae0cb3067c31ab34899ccc6?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Oct 27 |
 | **[Old Mission Medicine Management, LLC](www.oldmissionmedicine.com)** | **[Camera & Video Production Intern](https://jobright.ai/jobs/info/6ae0c92605a39c3e2c70c3e3?utm_campaign=1053&utm_source=git)** | Traverse City, MI, United States | On Site | Oct 27 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Intern](https://jobright.ai/jobs/info/6a9674f7455eaf6a08c17881?utm_campaign=1053&utm_source=git)** | Peoria, IL, United States | On Site | Oct 27 |
 | **[Hall of Fame Resort & Entertainment Company](https://www.hofreco.com/)** | **[2027 Pro Football Hall of Fame Internship - PRODUCTION](https://jobright.ai/jobs/info/6adfb6d5c5c64fa3d9cbeb74?utm_campaign=1053&utm_source=git)** | Canton, OH, United States | On Site | Oct 27 |
 | ↳ | **[2027 Pro Football Hall of Fame Internship - SPECIAL EVENTS](https://jobright.ai/jobs/info/6adfb6d3065c4e77efafab05?utm_campaign=1053&utm_source=git)** | Canton, OH, United States | On Site | Oct 27 |
 | **[ai.moms](https://aimoms.ai/)** | **[Editorial Intern](https://jobright.ai/jobs/info/6adff99b5dc7953215a44cb9?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Remote | Oct 26 |
+| **[Crown Equipment Corporation](https://303crownmaids.com/)** | **[Digital Media Co-Op - Summer 2027](https://jobright.ai/jobs/info/6ae0d9661f9d9308370a4dad?utm_campaign=1053&utm_source=git)** | New Bremen, OH, United States | On Site | Oct 26 |
 | **[Mundial Partners](https://www.themundialpartners.com/)** | **[UGC Content Creation Intern](https://jobright.ai/jobs/info/6adfcc4e9a8c91d5c35895f6?utm_campaign=1053&utm_source=git)** | New York City, NY, United States | On Site | Oct 26 |
 | **[Culver Franchising System, LLC](http://www.culvers.com)** | **[Culinary Internship](https://jobright.ai/jobs/info/6adfcb385dc7953215a4300b?utm_campaign=1053&utm_source=git)** | Prairie du Sac, Wisconsin, United States | On Site | Oct 26 |
 | **[The Familie](https://thefamilie.com)** | **[Country Music Intern](https://jobright.ai/jobs/info/6adfbb650a4cc7090f98288b?utm_campaign=1053&utm_source=git)** | Nashville, TN, United States | On Site | Oct 26 |
