@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Intern](https://jobright.ai/jobs/info/6a9674f7455eaf6a08c17881?utm_campaign=1053&utm_source=git)** | Peoria, IL, United States | On Site | Oct 27 |
 | **[Hall of Fame Resort & Entertainment Company](https://www.hofreco.com/)** | **[2027 Pro Football Hall of Fame Internship - PRODUCTION](https://jobright.ai/jobs/info/6adfb6d5c5c64fa3d9cbeb74?utm_campaign=1053&utm_source=git)** | Canton, OH, United States | On Site | Oct 27 |
 | ↳ | **[2027 Pro Football Hall of Fame Internship - SPECIAL EVENTS](https://jobright.ai/jobs/info/6adfb6d3065c4e77efafab05?utm_campaign=1053&utm_source=git)** | Canton, OH, United States | On Site | Oct 27 |
 | **[ai.moms](https://aimoms.ai/)** | **[Editorial Intern](https://jobright.ai/jobs/info/6adff99b5dc7953215a44cb9?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Remote | Oct 26 |
@@ -129,7 +130,4 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Agency Ops Project Intern (TikTok Local Services) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a5076339469c06620351013?utm_campaign=1053&utm_source=git)** | Los Angeles, United States | On Site | Oct 21 |
 | **[Colorado Golf Association](http://www.cogolf.org/)** | **[2027 Arkansas Golf Tournament Operations Boatwright Intern](https://jobright.ai/jobs/info/6ad91412950ef68d5184dc7b?utm_campaign=1053&utm_source=git)** | Little Rock, AR, United States | On Site | Oct 20 |
 | **[Skild AI](https://www.skild.ai)** | **[Content Creator (Intern)](https://jobright.ai/jobs/info/6ab3463530340229a323213d?utm_campaign=1053&utm_source=git)** | San Mateo, CA, United States | On Site | Oct 20 |
-| **[The University of New Mexico Health Sciences Center](https://hsc.unm.edu/)** | **[Patron Experience Intern](https://jobright.ai/jobs/info/6ad7e657950ef68d51845293?utm_campaign=1053&utm_source=git)** | Albuquerque, NM, United States | On Site | Oct 20 |
-| **[Moody's Corporation](https://www.moodys.com)** | **[Ratings Multimedia Summer Intern](https://jobright.ai/jobs/info/6ad7d23252aa6152bb69fc5d?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Oct 20 |
-| **[GBH](http://www.wgbh.org/)** | **[GBH News Digital & Multimedia Internship- Spring 2027](https://jobright.ai/jobs/info/6ace8bbf4391691a335ad5bb?utm_campaign=1053&utm_source=git)** | Boston, MA, United States | Hybrid | Oct 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
