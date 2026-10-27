@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Old Mission Medicine Management, LLC](www.oldmissionmedicine.com)** | **[Camera & Video Production Intern](https://jobright.ai/jobs/info/6ae0c92605a39c3e2c70c3e3?utm_campaign=1053&utm_source=git)** | Traverse City, MI, United States | On Site | Oct 27 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Intern](https://jobright.ai/jobs/info/6a9674f7455eaf6a08c17881?utm_campaign=1053&utm_source=git)** | Peoria, IL, United States | On Site | Oct 27 |
 | **[Hall of Fame Resort & Entertainment Company](https://www.hofreco.com/)** | **[2027 Pro Football Hall of Fame Internship - PRODUCTION](https://jobright.ai/jobs/info/6adfb6d5c5c64fa3d9cbeb74?utm_campaign=1053&utm_source=git)** | Canton, OH, United States | On Site | Oct 27 |
 | ↳ | **[2027 Pro Football Hall of Fame Internship - SPECIAL EVENTS](https://jobright.ai/jobs/info/6adfb6d3065c4e77efafab05?utm_campaign=1053&utm_source=git)** | Canton, OH, United States | On Site | Oct 27 |
