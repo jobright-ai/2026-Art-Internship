@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Mundial Partners](https://www.themundialpartners.com/)** | **[UGC Content Creation Intern](https://jobright.ai/jobs/info/6adfcc4e9a8c91d5c35895f6?utm_campaign=1053&utm_source=git)** | New York City, NY, United States | On Site | Oct 26 |
+| **[Culver Franchising System, LLC](http://www.culvers.com)** | **[Culinary Internship](https://jobright.ai/jobs/info/6adfcb385dc7953215a4300b?utm_campaign=1053&utm_source=git)** | Prairie du Sac, Wisconsin, United States | On Site | Oct 26 |
 | **[The Familie](https://thefamilie.com)** | **[Country Music Intern](https://jobright.ai/jobs/info/6adfbb650a4cc7090f98288b?utm_campaign=1053&utm_source=git)** | Nashville, TN, United States | On Site | Oct 26 |
 | **[Seed Company](https://seedcompany.com)** | **[Events Intern (Summer)](https://jobright.ai/jobs/info/6adf944d065c4e77efaf9199?utm_campaign=1053&utm_source=git)** | Arlington, TX, United States | On Site | Oct 26 |
 | **[Pacers Sports & Entertainment](http://www.pacers.com)** | **[Digital Video Intern - Spring 2027](https://jobright.ai/jobs/info/6adf91629e3e874dbfbadad3?utm_campaign=1053&utm_source=git)** | Indianapolis, IN, United States | On Site | Oct 26 |
@@ -96,6 +98,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern, Digital Production - Spring Semester 2027](https://jobright.ai/jobs/info/6adafa8faee75c4e7d2e5feb?utm_campaign=1053&utm_source=git)** | Boston, MA, United States | On Site | Oct 22 |
 | **[Omni Hotels & Resorts](http://www.omnihotels.com/)** | **[Culinary Intern](https://jobright.ai/jobs/info/6ada9115e4b94611ab85df9b?utm_campaign=1053&utm_source=git)** | Bedford, PA, United States | On Site | Oct 22 |
 | **[National Endowment for Democracy](http://ned.org/)** | **[Intern](https://jobright.ai/jobs/info/6adafe24cb58d64fcd372230?utm_campaign=1053&utm_source=git)** | Washington, DC, United States | Hybrid | Oct 22 |
+| **[TikTok](https://www.tiktok.com)** | **[Creator LIVE Project Intern (TikTok Shop - US Operation) - 2026 Start](https://jobright.ai/jobs/info/6a5fe09333ef5c58b4000bf3?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | On Site | Oct 22 |
 | **[American Bankers Association](http://www.aba.com)** | **[Intern, Video Production](https://jobright.ai/jobs/info/6ada18633a69033df2255797?utm_campaign=1053&utm_source=git)** | Washington, District of Columbia, United States | On Site | Oct 22 |
 | **[United States Golf Association (USGA)](http://www.usga.org)** | **[2027 U.S. Women's Open Short-Term Merchandise Internship](https://jobright.ai/jobs/info/6ada12673a69033df22555c2?utm_campaign=1053&utm_source=git)** | Pebble Beach, CA, United States | On Site | Oct 22 |
 | ↳ | **[2027 Video Production Intern](https://jobright.ai/jobs/info/6ada1262e4b94611ab858d01?utm_campaign=1053&utm_source=git)** | Liberty Corner, NJ, United States | Hybrid | Oct 22 |
@@ -137,5 +140,4 @@ For a complete list, click the following sortable link below:
 | **[Hasana, Inc.](http://shophasana.com)** | **[Volunteer/Intern: Film/Video Editor](https://jobright.ai/jobs/info/6a584c973330ca6f993c3e99?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | On Site | Oct 20 |
 | **[Red Dawg Mindset Consulting LLC](https://www.reddawg-mindset.com/)** | **[Video Production & Content Creation Intern](https://jobright.ai/jobs/info/6ad75e7a3dc655658d8ebbc0?utm_campaign=1053&utm_source=git)** | Short Hills, NJ, United States | Hybrid | Oct 20 |
 | **[Financial Times](http://ft.com)** | **[Data Journalism Summer Intern](https://jobright.ai/jobs/info/6aba904fd2914e9273eebe35?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Oct 20 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[ESPN Post Edit Intern, Bristol, Spring 2027](https://jobright.ai/jobs/info/6ad688fb950ef68d5183b189?utm_campaign=1053&utm_source=git)** | Bristol, CT, United States | On Site | Oct 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
