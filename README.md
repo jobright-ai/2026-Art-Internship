@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Crystal Dynamics](http://crystald.com)** | **[Presentation Animator Intern [Spring 2027]](https://jobright.ai/jobs/info/6ae11510de23f466ec8bc217?utm_campaign=1053&utm_source=git)** | United States | Remote | Oct 27 |
+| **[Crum & Forster](https://www.cfins.com/)** | **[Video Production Intern](https://jobright.ai/jobs/info/6ae10c4f829a3bada15f9f91?utm_campaign=1053&utm_source=git)** | Morristown, NJ, United States | Remote | Oct 27 |
 | **[BPCM](http://www.bpcm.com)** | **[Spring Internship, Fashion](https://jobright.ai/jobs/info/6ae10321de23f466ec8bb4c9?utm_campaign=1053&utm_source=git)** | Brooklyn, NY, United States | On Site | Oct 27 |
 | **[Mission Control](https://missioncontrolspace.com/)** | **[Winter 2026 Content Creation & Video Intern](https://jobright.ai/jobs/info/6ae0f07567c31ab34899ec1e?utm_campaign=1053&utm_source=git)** | Ottawa, ON, Canada | Hybrid | Oct 27 |
 | **[Attain Sports](https://attainsports.com)** | **[Game Presentation Intern - Frederick Keys](https://jobright.ai/jobs/info/6ace72964391691a335ac8ce?utm_campaign=1053&utm_source=git)** | Frederick, MD, United States | On Site | Oct 27 |
@@ -84,7 +86,6 @@ For a complete list, click the following sortable link below:
 | **[Sinclair Inc.](http://sbgi.net)** | **[Sports Intern](https://jobright.ai/jobs/info/6aba4c69be5f1e93251150ad?utm_campaign=1053&utm_source=git)** | Pittsburgh, Pennsylvania, United States | On Site | Oct 26 |
 | **[Bonneville International](http://bonneville.com/)** | **[Arizona Sports Digital Spring 2027 Internship](https://jobright.ai/jobs/info/6ac04a77372c01f6cd72b7e3?utm_campaign=1053&utm_source=git)** | Phoenix, AZ, United States | On Site | Oct 25 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Lifestyle Show Intern](https://jobright.ai/jobs/info/6ac115db4ac55253f5d69fb0?utm_campaign=1053&utm_source=git)** | Spartanburg, SC, United States | On Site | Oct 24 |
-| **[Advisors Excel](http://advisorsexcel.com)** | **[Video Intern](https://jobright.ai/jobs/info/6aa4d423a77a53f5a156e3ea?utm_campaign=1053&utm_source=git)** | Topeka, KS, United States | On Site | Oct 24 |
 | **[Inspire](https://inspirebrands.com)** | **[Maverick Studios Digital Content Creation Intern, Summer 2027](https://jobright.ai/jobs/info/6adb7904c5c64fa3d9caf881?utm_campaign=1053&utm_source=git)** | Atlanta, Georgia, United States | On Site | Oct 24 |
 | **[The Toro Company](https://www.thetorocompany.com)** | **[Video and Interactive Training Production Intern - Ditch Witch](https://jobright.ai/jobs/info/6aa3aa4c959a10d7230d3185?utm_campaign=1053&utm_source=git)** | Perry, OK, United States | On Site | Oct 24 |
 | **[The Aparecio Foundation](https://www.apareciofoundation.org)** | **[Volunteer/Intern:Editor of "FelixTV"](https://jobright.ai/jobs/info/6ac99471d4a5a03707412c0a?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | Remote | Oct 23 |
@@ -136,5 +137,4 @@ For a complete list, click the following sortable link below:
 | **[Case Western Reserve University](https://case.edu)** | **[Video Intern Student Worker](https://jobright.ai/jobs/info/6adf9ce60a4cc7090f981224?utm_campaign=1053&utm_source=git)** | Cleveland, OH, United States | On Site | Oct 21 |
 | **[Boost Engine Tech](https://boostengines.com)** | **[Creator Manager Intern, TikTok Shop](https://jobright.ai/jobs/info/6ad8f146950ef68d5184bbd0?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Oct 21 |
 | **[TikTok](https://www.tiktok.com)** | **[Agency Ops Project Intern (TikTok Local Services) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a5076339469c06620351013?utm_campaign=1053&utm_source=git)** | Los Angeles, United States | On Site | Oct 21 |
-| **[Colorado Golf Association](http://www.cogolf.org/)** | **[2027 Arkansas Golf Tournament Operations Boatwright Intern](https://jobright.ai/jobs/info/6ad91412950ef68d5184dc7b?utm_campaign=1053&utm_source=git)** | Little Rock, AR, United States | On Site | Oct 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
