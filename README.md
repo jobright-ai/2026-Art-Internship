@@ -141,6 +141,4 @@ For a complete list, click the following sortable link below:
 | **[Boost Engine Tech](https://boostengines.com)** | **[Creator Manager Intern, TikTok Shop](https://jobright.ai/jobs/info/6ade3f425dc7953215a3adda?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Oct 21 |
 | **[PatientPoint®](http://patientpoint.com)** | **[Editorial Intern](https://jobright.ai/jobs/info/6ad91caa67bec1d0d9c835c0?utm_campaign=1053&utm_source=git)** | Cincinnati, OH, United States | Hybrid | Oct 21 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Lifestyle Show Spring Semester Intern](https://jobright.ai/jobs/info/6ad8d2e939284cd5242809db?utm_campaign=1053&utm_source=git)** | Philadelphia, PA, United States | On Site | Oct 21 |
-| **[West End Strategy Team](https://westendstrategy.com)** | **[Paid Intern - Spring 2027](https://jobright.ai/jobs/info/6ad9068eb0725dc268dd895f?utm_campaign=1053&utm_source=git)** | Washington, DC, United States | Hybrid | Oct 21 |
-| **[Case Western Reserve University](https://case.edu)** | **[Video Intern Student Worker](https://jobright.ai/jobs/info/6adf9ce60a4cc7090f981224?utm_campaign=1053&utm_source=git)** | Cleveland, OH, United States | On Site | Oct 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
