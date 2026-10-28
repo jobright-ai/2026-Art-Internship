@@ -57,9 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SeatSwap, Inc.](https://seatswaptickets.com/)** | **[SeatSwap Fall Internship](https://jobright.ai/jobs/info/6ae198ef829a3bada15fdff8?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Oct 27 |
 | **[MBJ Network](www.mbj-network.com)** | **[Assistant Managing Editor (Writers) - Intern](https://jobright.ai/jobs/info/6abc59abbf15c0ae50138627?utm_campaign=1053&utm_source=git)** | Lombard, IL, United States | Remote | Oct 27 |
-| **[NewsBreak](http://www.newsbreak.com)** | **[Short Drama Creative Editor Intern](https://jobright.ai/jobs/info/6ad171d418608b6f36f841bf?utm_campaign=1053&utm_source=git)** | Mountain View, CA, United States | On Site | Oct 27 |
-| ↳ | **[Short Drama Creative Editor Intern](https://jobright.ai/jobs/info/6ad15f0ae2d41540d4a70769?utm_campaign=1053&utm_source=git)** | Mountain View, CA, United States | On Site | Oct 27 |
+| **[NewsBreak](http://www.newsbreak.com)** | **[Short Drama Creative Editor Intern](https://jobright.ai/jobs/info/6ad15f0ae2d41540d4a70769?utm_campaign=1053&utm_source=git)** | Mountain View, CA, United States | On Site | Oct 27 |
+| ↳ | **[Short Drama Creative Editor Intern](https://jobright.ai/jobs/info/6ad171d418608b6f36f841bf?utm_campaign=1053&utm_source=git)** | Mountain View, CA, United States | On Site | Oct 27 |
 | **[Tetra Pak](http://www.tetrapak.com)** | **[Customer Experience and Events Intern](https://jobright.ai/jobs/info/6ae14b261f9d9308370a93da?utm_campaign=1053&utm_source=git)** | Denton, TX, United States | On Site | Oct 27 |
 | ↳ | **[Customer Experience and Events Intern](https://jobright.ai/jobs/info/6ae1474667c31ab3489a2062?utm_campaign=1053&utm_source=git)** | Denton, TX, United States | On Site | Oct 27 |
 | **[ai.moms](https://aimoms.ai/)** | **[Editorial Intern](https://jobright.ai/jobs/info/6ae143b01f9d9308370a8ff6?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Remote | Oct 27 |
