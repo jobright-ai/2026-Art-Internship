@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Zipline](https://www.zipline.com/)** | **[Video Production Intern (Spring 2027)](https://jobright.ai/jobs/info/6a85d6d7e459fa3baa864167?utm_campaign=1053&utm_source=git)** | South San Francisco, CA, United States | On Site | Oct 28 |
 | **[Omni Hotels & Resorts](http://www.omnihotels.com/)** | **[Omni Care Internship Culinary / Winter 2027](https://jobright.ai/jobs/info/6ae204da1f9d9308370ad271?utm_campaign=1053&utm_source=git)** | Bretton Woods, NH, United States | On Site | Oct 28 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Media Production Intern (In- Person) Fall 2026.](https://jobright.ai/jobs/info/6a398ce3f6b55d12c7928b8e?utm_campaign=1053&utm_source=git)** | AL, Mobile, United States of America | On Site | Oct 28 |
 | **[Relativity Space](http://relativityspace.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/6ac53336d9621c5b283a3d34?utm_campaign=1053&utm_source=git)** | Long Beach, CA, United States | On Site | Oct 28 |
@@ -110,8 +111,7 @@ For a complete list, click the following sortable link below:
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[WAVY-TV 10 Unpaid CTV Streaming Content Production Intern, Spring 2027](https://jobright.ai/jobs/info/6ad194ea9c2b265c6799ab4e?utm_campaign=1053&utm_source=git)** | Portsmouth, VA, United States | On Site | Oct 23 |
 | ↳ | **[WAVY Unpaid Digital Intern, Spring 2027](https://jobright.ai/jobs/info/6abee9b9d9621c5b283924da?utm_campaign=1053&utm_source=git)** | Portsmouth, VA, United States | On Site | Oct 23 |
 | **[WAVY-TV 10](http://wavy.com)** | **[WAVY-TV 10 Unpaid CTV Streaming Content Production Intern, Spring 2027](https://jobright.ai/jobs/info/6abf0e1e372c01f6cd72718c?utm_campaign=1053&utm_source=git)** | Portsmouth, VA, United States | On Site | Oct 23 |
-| **[Zipline](https://www.zipline.com/)** | **[Video Production and Social Media Intern (Spring 2027)](https://jobright.ai/jobs/info/6a85d6d7e459fa3baa864167?utm_campaign=1053&utm_source=git)** | South San Francisco, CA, United States | On Site | Oct 23 |
-| **[WAVY-TV 10](http://wavy.com)** | **[WAVY Unpaid Sports Intern, Spring 2027](https://jobright.ai/jobs/info/6abf0e40372c01f6cd727192?utm_campaign=1053&utm_source=git)** | Portsmouth, VA, United States | On Site | Oct 23 |
+| ↳ | **[WAVY Unpaid Sports Intern, Spring 2027](https://jobright.ai/jobs/info/6abf0e40372c01f6cd727192?utm_campaign=1053&utm_source=git)** | Portsmouth, VA, United States | On Site | Oct 23 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[WAVY Unpaid Sports Intern, Spring 2027](https://jobright.ai/jobs/info/6ad194ea90e54b6cff1a38a5?utm_campaign=1053&utm_source=git)** | Portsmouth, VA, United States | On Site | Oct 23 |
 | **[The Minnesota Star Tribune](http://www.startribunecompany.com)** | **[Social Media Producer Internship - Summer 2027](https://jobright.ai/jobs/info/6abecff08ff3fb9b3bc761c6?utm_campaign=1053&utm_source=git)** | Minneapolis, MN, United States | On Site | Oct 23 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Internal Communications Specialist)](https://jobright.ai/jobs/info/6abea1394ac55253f5d61a25?utm_campaign=1053&utm_source=git)** | Vienna, VA, United States | Hybrid | Oct 23 |
@@ -139,5 +139,4 @@ For a complete list, click the following sortable link below:
 | **[ASM Global](https://asmglobal.com/)** | **[Hospitality Intern - The Meadows Music Theater](https://jobright.ai/jobs/info/6a510fcabf63b66c79978842?utm_campaign=1053&utm_source=git)** | Hartford, CT, United States | On Site | Oct 22 |
 | **[Girl Scouts of Citrus Council](https://www.citrus-gs.org/)** | **[Position: Intern for the Girl Scout Experience Team](https://jobright.ai/jobs/info/6aaaaea78e1bf0f764af5a6c?utm_campaign=1053&utm_source=git)** | Orlando, FL, United States | On Site | Oct 21 |
 | **[Middle East Institute](http://www.mei.edu)** | **[Arts & Culture Internship (Spring 2027)](https://jobright.ai/jobs/info/6ad909d039284cd524283809?utm_campaign=1053&utm_source=git)** | Washington, DC, United States | On Site | Oct 21 |
-| **[KERA – North Texas Public Broadcasting](https://www.kera.org/)** | **[Video Intern, Spring 2027](https://jobright.ai/jobs/info/6adaca54d481921cb9ec2594?utm_campaign=1053&utm_source=git)** | Dallas, TX, United States | Hybrid | Oct 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
