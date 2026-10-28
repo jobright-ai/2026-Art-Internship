@@ -57,9 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Crum & Forster](https://www.cfins.com/)** | **[Video Production Intern](https://jobright.ai/jobs/info/6ae10c4f829a3bada15f9f91?utm_campaign=1053&utm_source=git)** | Morristown, NJ, United States | Remote | Oct 27 |
 | **[Head Bitch Music](http://www.headbitchmusic.com)** | **[Label Services & Distribution Intern](https://jobright.ai/jobs/info/6ae12826de23f466ec8bcc6a?utm_campaign=1053&utm_source=git)** | United States | Remote | Oct 27 |
 | **[Crystal Dynamics](http://crystald.com)** | **[Presentation Animator Intern [Spring 2027]](https://jobright.ai/jobs/info/6ae11510de23f466ec8bc217?utm_campaign=1053&utm_source=git)** | United States | Remote | Oct 27 |
-| **[Crum & Forster](https://www.cfins.com/)** | **[Video Production Intern](https://jobright.ai/jobs/info/6ae10c4f829a3bada15f9f91?utm_campaign=1053&utm_source=git)** | Morristown, NJ, United States | Remote | Oct 27 |
 | **[BPCM](http://www.bpcm.com)** | **[Spring Internship, Fashion](https://jobright.ai/jobs/info/6ae10321de23f466ec8bb4c9?utm_campaign=1053&utm_source=git)** | Brooklyn, NY, United States | On Site | Oct 27 |
 | **[Mission Control](https://missioncontrolspace.com/)** | **[Winter 2026 Content Creation & Video Intern](https://jobright.ai/jobs/info/6ae0f07567c31ab34899ec1e?utm_campaign=1053&utm_source=git)** | Ottawa, ON, Canada | Hybrid | Oct 27 |
 | **[Attain Sports](https://attainsports.com)** | **[Game Presentation Intern - Frederick Keys](https://jobright.ai/jobs/info/6ace72964391691a335ac8ce?utm_campaign=1053&utm_source=git)** | Frederick, MD, United States | On Site | Oct 27 |
