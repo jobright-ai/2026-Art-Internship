@@ -57,8 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Temecula City Lifestyle](www.citylifestyle.com/temecula)** | **[Editorial Internship](https://jobright.ai/jobs/info/6ae26c8805a39c3e2c71a477?utm_campaign=1053&utm_source=git)** | Temecula, CA, United States | Hybrid | Oct 28 |
+| **[Miami Waterkeeper](https://www.miamiwaterkeeper.org)** | **[VIDEOGRAPHY INTERN](https://jobright.ai/jobs/info/6abd4d97064da25272dfcdb4?utm_campaign=1053&utm_source=git)** | Coral Gables, FL, United States | On Site | Oct 28 |
+| **[Conservation Legacy](https://www.conservationlegacy.org)** | **[Science Communications Individual Placement](https://jobright.ai/jobs/info/6ae2619f6679108488c4adba?utm_campaign=1053&utm_source=git)** | Washington, DC, United States | On Site | Oct 28 |
+| **[Girl Scouts of Citrus Council](https://www.citrus-gs.org/)** | **[Intern for the Girl Scout Experience Team](https://jobright.ai/jobs/info/6aaaaea78e1bf0f764af5a6c?utm_campaign=1053&utm_source=git)** | Orlando, FL, United States | On Site | Oct 28 |
 | **[Zipline](https://www.zipline.com/)** | **[Video Production Intern (Spring 2027)](https://jobright.ai/jobs/info/6a85d6d7e459fa3baa864167?utm_campaign=1053&utm_source=git)** | South San Francisco, CA, United States | On Site | Oct 28 |
 | **[Omni Hotels & Resorts](http://www.omnihotels.com/)** | **[Omni Care Internship Culinary / Winter 2027](https://jobright.ai/jobs/info/6ae204da1f9d9308370ad271?utm_campaign=1053&utm_source=git)** | Bretton Woods, NH, United States | On Site | Oct 28 |
+| **[Buchwald](https://www.buchwald.com)** | **[Intern NY](https://jobright.ai/jobs/info/6ae26a0105a39c3e2c71a37d?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Oct 28 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Media Production Intern (In- Person) Fall 2026.](https://jobright.ai/jobs/info/6a398ce3f6b55d12c7928b8e?utm_campaign=1053&utm_source=git)** | AL, Mobile, United States of America | On Site | Oct 28 |
 | **[Relativity Space](http://relativityspace.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/6ac53336d9621c5b283a3d34?utm_campaign=1053&utm_source=git)** | Long Beach, CA, United States | On Site | Oct 28 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[LIU Internship at Brooklyn Paramount](https://jobright.ai/jobs/info/6ac51fd18ff3fb9b3bc87b0a?utm_campaign=1053&utm_source=git)** | Brooklyn, NY, United States | On Site | Oct 28 |
@@ -137,6 +142,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[The Wall Street Journal Visual Investigations Internship (Summer 2027)](https://jobright.ai/jobs/info/6abddb020e027c0f3b397488?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Oct 22 |
 | **[Dow Jones](http://www.dowjones.com)** | **[The Wall Street Journal Social Video Internship, New York (Summer 2027)](https://jobright.ai/jobs/info/6abde7d1d9621c5b2838df01?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Oct 22 |
 | **[ASM Global](https://asmglobal.com/)** | **[Hospitality Intern - The Meadows Music Theater](https://jobright.ai/jobs/info/6a510fcabf63b66c79978842?utm_campaign=1053&utm_source=git)** | Hartford, CT, United States | On Site | Oct 22 |
-| **[Girl Scouts of Citrus Council](https://www.citrus-gs.org/)** | **[Position: Intern for the Girl Scout Experience Team](https://jobright.ai/jobs/info/6aaaaea78e1bf0f764af5a6c?utm_campaign=1053&utm_source=git)** | Orlando, FL, United States | On Site | Oct 21 |
-| **[Middle East Institute](http://www.mei.edu)** | **[Arts & Culture Internship (Spring 2027)](https://jobright.ai/jobs/info/6ad909d039284cd524283809?utm_campaign=1053&utm_source=git)** | Washington, DC, United States | On Site | Oct 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
