@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Diamond Baseball Holdings](http://diamondbaseballholdings.com/)** | **[Intern, Video Production &  Broadcast (58295)](https://jobright.ai/jobs/info/6ae3b1c7d7424a2a828e21bb?utm_campaign=1053&utm_source=git)** | Midland, TX, United States | On Site | Oct 29 |
 | **[Girl Scouts of Citrus Council](https://www.citrus-gs.org/)** | **[Position: Intern for the Girl Scout Experience Team](https://jobright.ai/jobs/info/6aaaaea78e1bf0f764af5a6c?utm_campaign=1053&utm_source=git)** | Orlando, FL, United States | On Site | Oct 29 |
 | **[BRIDGE SHOWROOM](http://www.bridgeshowroom.com)** | **[Fashion Intern](https://jobright.ai/jobs/info/6ae3816ad7424a2a828e068c?utm_campaign=1053&utm_source=git)** | San Francisco, CA, United States | On Site | Oct 29 |
 | **[Golden Hippo®](http://goldenhippomedia.com)** | **[Podcast Editor Intern - Spring 2027](https://jobright.ai/jobs/info/6ad8fda167bec1d0d9c8196c?utm_campaign=1053&utm_source=git)** | Woodland Hills, CA, United States | Hybrid | Oct 29 |
@@ -85,8 +86,8 @@ For a complete list, click the following sortable link below:
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[LIU Internship at Brooklyn Paramount](https://jobright.ai/jobs/info/6ac51fd18ff3fb9b3bc87b0a?utm_campaign=1053&utm_source=git)** | Brooklyn, NY, United States | On Site | Oct 28 |
 | **[SeatSwap, Inc.](https://seatswaptickets.com/)** | **[SeatSwap Fall Internship](https://jobright.ai/jobs/info/6ae198ef829a3bada15fdff8?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Oct 27 |
 | **[MBJ Network](www.mbj-network.com)** | **[Assistant Managing Editor (Writers) - Intern](https://jobright.ai/jobs/info/6abc59abbf15c0ae50138627?utm_campaign=1053&utm_source=git)** | Lombard, IL, United States | Remote | Oct 27 |
-| **[NewsBreak](http://www.newsbreak.com)** | **[Short Drama Creative Editor Intern](https://jobright.ai/jobs/info/6ad171d418608b6f36f841bf?utm_campaign=1053&utm_source=git)** | Mountain View, CA, United States | On Site | Oct 27 |
-| ↳ | **[Short Drama Creative Editor Intern](https://jobright.ai/jobs/info/6ad15f0ae2d41540d4a70769?utm_campaign=1053&utm_source=git)** | Mountain View, CA, United States | On Site | Oct 27 |
+| **[NewsBreak](http://www.newsbreak.com)** | **[Short Drama Creative Editor Intern](https://jobright.ai/jobs/info/6ad15f0ae2d41540d4a70769?utm_campaign=1053&utm_source=git)** | Mountain View, CA, United States | On Site | Oct 27 |
+| ↳ | **[Short Drama Creative Editor Intern](https://jobright.ai/jobs/info/6ad171d418608b6f36f841bf?utm_campaign=1053&utm_source=git)** | Mountain View, CA, United States | On Site | Oct 27 |
 | **[Tetra Pak](http://www.tetrapak.com)** | **[Customer Experience and Events Intern](https://jobright.ai/jobs/info/6ae14b261f9d9308370a93da?utm_campaign=1053&utm_source=git)** | Denton, TX, United States | On Site | Oct 27 |
 | ↳ | **[Customer Experience and Events Intern](https://jobright.ai/jobs/info/6ae1474667c31ab3489a2062?utm_campaign=1053&utm_source=git)** | Denton, TX, United States | On Site | Oct 27 |
 | **[Crum & Forster](https://www.cfins.com/)** | **[Video Production Intern](https://jobright.ai/jobs/info/6ae10c4f829a3bada15f9f91?utm_campaign=1053&utm_source=git)** | Morristown, NJ, United States | Remote | Oct 27 |
@@ -134,5 +135,4 @@ For a complete list, click the following sortable link below:
 | **[The Minnesota Star Tribune](http://www.startribunecompany.com)** | **[Social Media Producer Internship - Summer 2027](https://jobright.ai/jobs/info/6abecff08ff3fb9b3bc761c6?utm_campaign=1053&utm_source=git)** | Minneapolis, MN, United States | On Site | Oct 23 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Internal Communications Specialist)](https://jobright.ai/jobs/info/6abea1394ac55253f5d61a25?utm_campaign=1053&utm_source=git)** | Vienna, VA, United States | Hybrid | Oct 23 |
 | **[OTTera, Inc.](http://www.ottera.tv/)** | **[Content Creator Intern](https://jobright.ai/jobs/info/6a5ae1cc63a8f619507c8d0c?utm_campaign=1053&utm_source=git)** | North Hollywood, CA, United States | On Site | Oct 22 |
-| **[Spectrum](https://www.spectrum.com)** | **[2027 Summer Intern: Associate L&D Writer​ (Customer Operations)](https://jobright.ai/jobs/info/6abb048eee0b348be729c81d?utm_campaign=1053&utm_source=git)** | Charlotte, NC, United States | On Site | Oct 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
