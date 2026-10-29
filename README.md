@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[DRB Homes](http://www.drbhomes.com/)** | **[Production Intern (2573)](https://jobright.ai/jobs/info/6ae35990d45dc30fb7d28a6f?utm_campaign=1053&utm_source=git)** | Franklin, Tennessee, United States | On Site | Oct 29 |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Media Archivist Intern (In- Person) Fall 2026.](https://jobright.ai/jobs/info/6a4de3f13122a76a8fd56aef?utm_campaign=1053&utm_source=git)** | AL, Mobile, United States of America | On Site | Oct 29 |
 | **[Gemini](https://gemini.com)** | **[Content Production Intern (Winter 2027)](https://jobright.ai/jobs/info/6ac71489744463a18c930cf8?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Hybrid | Oct 29 |
 | **[Dow Jones](http://www.dowjones.com)** | **[Summer 2027 Internship Program – Video Intern](https://jobright.ai/jobs/info/6ac6a51b8ff3fb9b3bc8e55f?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Oct 29 |
 | ↳ | **[Summer 2027 Internship Program – Barron's Reporter Intern](https://jobright.ai/jobs/info/6ac6a5008ff3fb9b3bc8e53f?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Oct 29 |
@@ -136,5 +138,4 @@ For a complete list, click the following sortable link below:
 | **[Buffalo Toronto Public Media](https://www.wned.org)** | **[Internship - Digital News Editing](https://jobright.ai/jobs/info/6add743d0a4cc7090f979bc0?utm_campaign=1053&utm_source=git)** | Buffalo, NY, United States | Hybrid | Oct 22 |
 | **[Boston Celtics](http://www.nba.com/celtics)** | **[Intern, Live Production & Entertainment - Fall Semester 2027](https://jobright.ai/jobs/info/6adf7335c5c64fa3d9cbbaaa?utm_campaign=1053&utm_source=git)** | Boston, MA, United States | On Site | Oct 22 |
 | ↳ | **[Intern, Digital Production - Spring Semester 2027](https://jobright.ai/jobs/info/6adafa8faee75c4e7d2e5feb?utm_campaign=1053&utm_source=git)** | Boston, MA, United States | On Site | Oct 22 |
-| **[Omni Hotels & Resorts](http://www.omnihotels.com/)** | **[Culinary Intern](https://jobright.ai/jobs/info/6ada9115e4b94611ab85df9b?utm_campaign=1053&utm_source=git)** | Bedford, PA, United States | On Site | Oct 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
