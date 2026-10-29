@@ -136,6 +136,4 @@ For a complete list, click the following sortable link below:
 | **[Spectrum](https://www.spectrum.com)** | **[2027 Summer Intern: Associate L&D Writer​ (Customer Operations)](https://jobright.ai/jobs/info/6abb048eee0b348be729c81d?utm_campaign=1053&utm_source=git)** | Charlotte, NC, United States | On Site | Oct 22 |
 | **[Diamond Baseball Holdings](http://diamondbaseballholdings.com/)** | **[Intern, Video Production (58231)](https://jobright.ai/jobs/info/6ada92c054bbabbab0717b87?utm_campaign=1053&utm_source=git)** | Harrisburg, PA, United States | On Site | Oct 22 |
 | **[Buffalo Toronto Public Media](https://www.wned.org)** | **[Internship - Digital News Editing](https://jobright.ai/jobs/info/6add743d0a4cc7090f979bc0?utm_campaign=1053&utm_source=git)** | Buffalo, NY, United States | Hybrid | Oct 22 |
-| **[Boston Celtics](http://www.nba.com/celtics)** | **[Intern, Live Production & Entertainment - Fall Semester 2027](https://jobright.ai/jobs/info/6adf7335c5c64fa3d9cbbaaa?utm_campaign=1053&utm_source=git)** | Boston, MA, United States | On Site | Oct 22 |
-| ↳ | **[Intern, Digital Production - Spring Semester 2027](https://jobright.ai/jobs/info/6adafa8faee75c4e7d2e5feb?utm_campaign=1053&utm_source=git)** | Boston, MA, United States | On Site | Oct 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
