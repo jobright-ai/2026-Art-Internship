@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Girl Scouts of Citrus Council](https://www.citrus-gs.org/)** | **[Position: Intern for the Girl Scout Experience Team](https://jobright.ai/jobs/info/6aaaaea78e1bf0f764af5a6c?utm_campaign=1053&utm_source=git)** | Orlando, FL, United States | On Site | Oct 29 |
 | **[BRIDGE SHOWROOM](http://www.bridgeshowroom.com)** | **[Fashion Intern](https://jobright.ai/jobs/info/6ae3816ad7424a2a828e068c?utm_campaign=1053&utm_source=git)** | San Francisco, CA, United States | On Site | Oct 29 |
 | **[Golden Hippo®](http://goldenhippomedia.com)** | **[Podcast Editor Intern - Spring 2027](https://jobright.ai/jobs/info/6ad8fda167bec1d0d9c8196c?utm_campaign=1053&utm_source=git)** | Woodland Hills, CA, United States | Hybrid | Oct 29 |
 | **[DRB Homes](http://www.drbhomes.com/)** | **[Production Intern (2573)](https://jobright.ai/jobs/info/6ae35990d45dc30fb7d28a6f?utm_campaign=1053&utm_source=git)** | Franklin, Tennessee, United States | On Site | Oct 29 |
@@ -74,7 +75,6 @@ For a complete list, click the following sortable link below:
 | **[Temecula City Lifestyle](www.citylifestyle.com/temecula)** | **[Editorial Internship](https://jobright.ai/jobs/info/6ae26c8805a39c3e2c71a477?utm_campaign=1053&utm_source=git)** | Temecula, CA, United States | Hybrid | Oct 28 |
 | **[Miami Waterkeeper](https://www.miamiwaterkeeper.org)** | **[VIDEOGRAPHY INTERN](https://jobright.ai/jobs/info/6abd4d97064da25272dfcdb4?utm_campaign=1053&utm_source=git)** | Coral Gables, FL, United States | On Site | Oct 28 |
 | **[Conservation Legacy](https://www.conservationlegacy.org)** | **[Science Communications Individual Placement](https://jobright.ai/jobs/info/6ae2619f6679108488c4adba?utm_campaign=1053&utm_source=git)** | Washington, DC, United States | On Site | Oct 28 |
-| **[Girl Scouts of Citrus Council](https://www.citrus-gs.org/)** | **[Intern for the Girl Scout Experience Team](https://jobright.ai/jobs/info/6aaaaea78e1bf0f764af5a6c?utm_campaign=1053&utm_source=git)** | Orlando, FL, United States | On Site | Oct 28 |
 | **[Manhattan Beach Studios](https://www.manhattanbeachstudios.net)** | **[NFL Research & Data Intern](https://jobright.ai/jobs/info/6ae2b24dde23f466ec8c8445?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | On Site | Oct 28 |
 | **[Zipline](https://www.zipline.com/)** | **[Video Production Intern (Spring 2027)](https://jobright.ai/jobs/info/6a85d6d7e459fa3baa864167?utm_campaign=1053&utm_source=git)** | South San Francisco, CA, United States | On Site | Oct 28 |
 | **[Modern Currency PR](https://www.moderncurrencypr.com)** | **[Winter / Spring Digital Internship (Hospitality + Tourism) / January - May 2027](https://jobright.ai/jobs/info/6ae2b3866679108488c4d2a3?utm_campaign=1053&utm_source=git)** | Los Angeles metropolitan area, United States | Remote | Oct 28 |
@@ -135,6 +135,4 @@ For a complete list, click the following sortable link below:
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Internal Communications Specialist)](https://jobright.ai/jobs/info/6abea1394ac55253f5d61a25?utm_campaign=1053&utm_source=git)** | Vienna, VA, United States | Hybrid | Oct 23 |
 | **[OTTera, Inc.](http://www.ottera.tv/)** | **[Content Creator Intern](https://jobright.ai/jobs/info/6a5ae1cc63a8f619507c8d0c?utm_campaign=1053&utm_source=git)** | North Hollywood, CA, United States | On Site | Oct 22 |
 | **[Spectrum](https://www.spectrum.com)** | **[2027 Summer Intern: Associate L&D Writer​ (Customer Operations)](https://jobright.ai/jobs/info/6abb048eee0b348be729c81d?utm_campaign=1053&utm_source=git)** | Charlotte, NC, United States | On Site | Oct 22 |
-| **[Diamond Baseball Holdings](http://diamondbaseballholdings.com/)** | **[Intern, Video Production (58231)](https://jobright.ai/jobs/info/6ada92c054bbabbab0717b87?utm_campaign=1053&utm_source=git)** | Harrisburg, PA, United States | On Site | Oct 22 |
-| **[Buffalo Toronto Public Media](https://www.wned.org)** | **[Internship - Digital News Editing](https://jobright.ai/jobs/info/6add743d0a4cc7090f979bc0?utm_campaign=1053&utm_source=git)** | Buffalo, NY, United States | Hybrid | Oct 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
