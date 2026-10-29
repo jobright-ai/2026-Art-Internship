@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[United Launch Alliance (ULA)](http://www.ulalaunch.com)** | **[Video Editing Internship Summer 2027 Job Details / United Launch Alliance](https://jobright.ai/jobs/info/6ae29d256679108488c4cbe5?utm_campaign=1053&utm_source=git)** | Denver, CO, United States | On Site | Oct 28 |
+| **[The Seattle Times](http://seattletimes.com/)** | **[Summer 2027 News Producer Internship](https://jobright.ai/jobs/info/6aab24a4f6bd9d2d17c1bb33?utm_campaign=1053&utm_source=git)** | Seattle, WA, United States | On Site | Oct 28 |
 | **[Kendall Hunt Publishing Company](https://www.kendallhunt.com/)** | **[Editorial Assistant Intern](https://jobright.ai/jobs/info/6ae27906eb7e8f715a60e6f1?utm_campaign=1053&utm_source=git)** | Dubuque, IA, United States | On Site | Oct 28 |
 | **[Trimble Inc.](https://www.trimble.com/)** | **[Video Production Intern](https://jobright.ai/jobs/info/6ae275b305a39c3e2c71a9e3?utm_campaign=1053&utm_source=git)** | Dayton, OH, United States | On Site | Oct 28 |
 | **[Temecula City Lifestyle](www.citylifestyle.com/temecula)** | **[Editorial Internship](https://jobright.ai/jobs/info/6ae26c8805a39c3e2c71a477?utm_campaign=1053&utm_source=git)** | Temecula, CA, United States | Hybrid | Oct 28 |
@@ -71,8 +73,8 @@ For a complete list, click the following sortable link below:
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[LIU Internship at Brooklyn Paramount](https://jobright.ai/jobs/info/6ac51fd18ff3fb9b3bc87b0a?utm_campaign=1053&utm_source=git)** | Brooklyn, NY, United States | On Site | Oct 28 |
 | **[SeatSwap, Inc.](https://seatswaptickets.com/)** | **[SeatSwap Fall Internship](https://jobright.ai/jobs/info/6ae198ef829a3bada15fdff8?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Oct 27 |
 | **[MBJ Network](www.mbj-network.com)** | **[Assistant Managing Editor (Writers) - Intern](https://jobright.ai/jobs/info/6abc59abbf15c0ae50138627?utm_campaign=1053&utm_source=git)** | Lombard, IL, United States | Remote | Oct 27 |
-| **[NewsBreak](http://www.newsbreak.com)** | **[Short Drama Creative Editor Intern](https://jobright.ai/jobs/info/6ad15f0ae2d41540d4a70769?utm_campaign=1053&utm_source=git)** | Mountain View, CA, United States | On Site | Oct 27 |
-| ↳ | **[Short Drama Creative Editor Intern](https://jobright.ai/jobs/info/6ad171d418608b6f36f841bf?utm_campaign=1053&utm_source=git)** | Mountain View, CA, United States | On Site | Oct 27 |
+| **[NewsBreak](http://www.newsbreak.com)** | **[Short Drama Creative Editor Intern](https://jobright.ai/jobs/info/6ad171d418608b6f36f841bf?utm_campaign=1053&utm_source=git)** | Mountain View, CA, United States | On Site | Oct 27 |
+| ↳ | **[Short Drama Creative Editor Intern](https://jobright.ai/jobs/info/6ad15f0ae2d41540d4a70769?utm_campaign=1053&utm_source=git)** | Mountain View, CA, United States | On Site | Oct 27 |
 | **[Tetra Pak](http://www.tetrapak.com)** | **[Customer Experience and Events Intern](https://jobright.ai/jobs/info/6ae14b261f9d9308370a93da?utm_campaign=1053&utm_source=git)** | Denton, TX, United States | On Site | Oct 27 |
 | ↳ | **[Customer Experience and Events Intern](https://jobright.ai/jobs/info/6ae1474667c31ab3489a2062?utm_campaign=1053&utm_source=git)** | Denton, TX, United States | On Site | Oct 27 |
 | **[Crum & Forster](https://www.cfins.com/)** | **[Video Production Intern](https://jobright.ai/jobs/info/6ae10c4f829a3bada15f9f91?utm_campaign=1053&utm_source=git)** | Morristown, NJ, United States | Remote | Oct 27 |
