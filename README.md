@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Chisholm Legacy Project: A Resource Hub for Black Frontline Climate Justice Leadership](https://thechisholmlegacyproject.org)** | **[Communication and Narrative Strategy Intern](https://jobright.ai/jobs/info/6ae3217beab1f96730972264?utm_campaign=1053&utm_source=git)** | United States | Remote | Oct 29 |
 | **[Quad](https://www.quad.com)** | **[Milwaukee Magazine Editorial Internship, Spring 2027](https://jobright.ai/jobs/info/6ac6a75c064da25272e1ba39?utm_campaign=1053&utm_source=git)** | West Allis, WI, United States | Hybrid | Oct 29 |
 | **[United Launch Alliance (ULA)](http://www.ulalaunch.com)** | **[Video Editing Internship Summer 2027 Job Details / United Launch Alliance](https://jobright.ai/jobs/info/6ae29d256679108488c4cbe5?utm_campaign=1053&utm_source=git)** | Denver, CO, United States | On Site | Oct 28 |
 | **[The Seattle Times](http://seattletimes.com/)** | **[Summer 2027 News Producer Internship](https://jobright.ai/jobs/info/6aab24a4f6bd9d2d17c1bb33?utm_campaign=1053&utm_source=git)** | Seattle, WA, United States | On Site | Oct 28 |
@@ -138,7 +139,6 @@ For a complete list, click the following sortable link below:
 | **[American Bankers Association](http://www.aba.com)** | **[Intern, Video Production](https://jobright.ai/jobs/info/6ada18633a69033df2255797?utm_campaign=1053&utm_source=git)** | Washington, District of Columbia, United States | On Site | Oct 22 |
 | **[United States Golf Association (USGA)](http://www.usga.org)** | **[2027 U.S. Women's Open Short-Term Merchandise Internship](https://jobright.ai/jobs/info/6ada12673a69033df22555c2?utm_campaign=1053&utm_source=git)** | Pebble Beach, CA, United States | On Site | Oct 22 |
 | ↳ | **[2027 Video Production Intern](https://jobright.ai/jobs/info/6ada1262e4b94611ab858d01?utm_campaign=1053&utm_source=git)** | Liberty Corner, NJ, United States | Hybrid | Oct 22 |
-| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Internal Communications Specialist)](https://jobright.ai/jobs/info/6aa16331ef23570cae2439e4?utm_campaign=1053&utm_source=git)** | Vienna, VA, United States | Hybrid | Oct 22 |
-| ↳ | **[Summer Associate Internship (Internal Communications Specialist)](https://jobright.ai/jobs/info/6aa168cfdbc0e60e37e111eb?utm_campaign=1053&utm_source=git)** | Vienna, VA, United States | Hybrid | Oct 22 |
-| **[Golden Hippo®](http://goldenhippomedia.com)** | **[Podcast Editor Intern - Spring 2027](https://jobright.ai/jobs/info/6ad8fda167bec1d0d9c8196c?utm_campaign=1053&utm_source=git)** | Woodland Hills, CA, United States | Hybrid | Oct 22 |
+| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Internal Communications Specialist)](https://jobright.ai/jobs/info/6aa168cfdbc0e60e37e111eb?utm_campaign=1053&utm_source=git)** | Vienna, VA, United States | Hybrid | Oct 22 |
+| ↳ | **[Summer Associate Internship (Internal Communications Specialist)](https://jobright.ai/jobs/info/6aa16331ef23570cae2439e4?utm_campaign=1053&utm_source=git)** | Vienna, VA, United States | Hybrid | Oct 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
