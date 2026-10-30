@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[News Corp](https://newscorp.com/)** | **[Summer 2027 Internship – Audio and Video Production, WSJ Brand Studio](https://jobright.ai/jobs/info/6ae4c1bcfb2cd420ace5955c?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Oct 30 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Intern](https://jobright.ai/jobs/info/6ab2ddb11e4847ddae916da4?utm_campaign=1053&utm_source=git)** | Henderson, KY, United States | On Site | Oct 30 |
 | **[HarperCollins Christian Publishing](https://www.harpercollinschristian.com/)** | **[2027 Spring Internship - Editorial Intern, Zonderkidz/Blink/DaySpring Kids (Remote US)](https://jobright.ai/jobs/info/6ae49014c3139b475b5b3ecf?utm_campaign=1053&utm_source=git)** | United States | Remote | Oct 30 |
 | **[U.S. News & World Report](http://www.usnews.com)** | **[News Intern (6 Months)](https://jobright.ai/jobs/info/6ab433b855e9168cf5ea4fda?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Hybrid | Oct 30 |
@@ -69,7 +70,6 @@ For a complete list, click the following sortable link below:
 | **[RedPoint Media Group](http://redpointmedia.ca)** | **[Editorial Intern – RedPoint Media](https://jobright.ai/jobs/info/6ae3cb45fb2cd420ace54144?utm_campaign=1053&utm_source=git)** | Calgary, AB, Canada | Hybrid | Oct 29 |
 | **[Curious Plot](https://curiousplot.agency/)** | **[Content Intern](https://jobright.ai/jobs/info/6ae3c13eeab1f96730976ee6?utm_campaign=1053&utm_source=git)** | Minneapolis, MN, United States | Hybrid | Oct 29 |
 | **[Base Power Company](https://www.basepowercompany.com)** | **[Video Content Intern](https://jobright.ai/jobs/info/6ae3c24e77c09cb3bd4a8d4e?utm_campaign=1053&utm_source=git)** | Austin, TX, United States | On Site | Oct 29 |
-| **[The Lawfare Institute](https://www.lawfaremedia.org)** | **[Spring 2027 Intern](https://jobright.ai/jobs/info/6ae3bfe8fb2cd420ace53cac?utm_campaign=1053&utm_source=git)** | Washington, DC, United States | Hybrid | Oct 29 |
 | **[Girl Scouts of Citrus Council](https://www.citrus-gs.org/)** | **[Position: Intern for the Girl Scout Experience Team](https://jobright.ai/jobs/info/6aaaaea78e1bf0f764af5a6c?utm_campaign=1053&utm_source=git)** | Orlando, FL, United States | On Site | Oct 29 |
 | **[BRIDGE SHOWROOM](http://www.bridgeshowroom.com)** | **[Fashion Intern](https://jobright.ai/jobs/info/6ae3816ad7424a2a828e068c?utm_campaign=1053&utm_source=git)** | San Francisco, CA, United States | On Site | Oct 29 |
 | **[Atlanta Gladiators](http://atlantagladiators.com)** | **[Video Editor Intern](https://jobright.ai/jobs/info/6ae3f5cad45dc30fb7d2ded1?utm_campaign=1053&utm_source=git)** | United States | Remote | Oct 29 |
@@ -93,6 +93,7 @@ For a complete list, click the following sortable link below:
 | **[Zipline](https://www.zipline.com/)** | **[Video Production Intern (Spring 2027)](https://jobright.ai/jobs/info/6a85d6d7e459fa3baa864167?utm_campaign=1053&utm_source=git)** | South San Francisco, CA, United States | On Site | Oct 28 |
 | **[Omni Hotels & Resorts](http://www.omnihotels.com/)** | **[Omni Care Internship Culinary / Winter 2027](https://jobright.ai/jobs/info/6ae204da1f9d9308370ad271?utm_campaign=1053&utm_source=git)** | Bretton Woods, NH, United States | On Site | Oct 28 |
 | **[Buchwald](https://www.buchwald.com)** | **[Intern NY](https://jobright.ai/jobs/info/6ae26a0105a39c3e2c71a37d?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Oct 28 |
+| **[FC Dallas](http://www.fcdallas.com)** | **[2027 Season Internship / Video Production](https://jobright.ai/jobs/info/6ae4c10677c09cb3bd4ae536?utm_campaign=1053&utm_source=git)** | Frisco, TX, United States | On Site | Oct 28 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Media Production Intern (In- Person) Fall 2026.](https://jobright.ai/jobs/info/6a398ce3f6b55d12c7928b8e?utm_campaign=1053&utm_source=git)** | AL, Mobile, United States of America | On Site | Oct 28 |
 | **[Relativity Space](http://relativityspace.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/6ac53336d9621c5b283a3d34?utm_campaign=1053&utm_source=git)** | Long Beach, CA, United States | On Site | Oct 28 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[LIU Internship at Brooklyn Paramount](https://jobright.ai/jobs/info/6ac51fd18ff3fb9b3bc87b0a?utm_campaign=1053&utm_source=git)** | Brooklyn, NY, United States | On Site | Oct 28 |
@@ -130,5 +131,4 @@ For a complete list, click the following sortable link below:
 | **[The Toro Company](https://www.thetorocompany.com)** | **[Video and Interactive Training Production Intern - Ditch Witch](https://jobright.ai/jobs/info/6aa3aa4c959a10d7230d3185?utm_campaign=1053&utm_source=git)** | Perry, OK, United States | On Site | Oct 24 |
 | **[The Aparecio Foundation](https://www.apareciofoundation.org)** | **[Volunteer/Intern:Editor of "FelixTV"](https://jobright.ai/jobs/info/6ac99471d4a5a03707412c0a?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | Remote | Oct 23 |
 | **[Launch That](http://launchthat.com)** | **[Editorial Intern](https://jobright.ai/jobs/info/6adc0b1ac5c64fa3d9cb273d?utm_campaign=1053&utm_source=git)** | Orlando, FL, United States | Hybrid | Oct 23 |
-| **[Texas Association of Counties](https://www.county.org)** | **[Event Center Coordinator Intern](https://jobright.ai/jobs/info/6adbe4149e3e874dbfba2a1b?utm_campaign=1053&utm_source=git)** | Austin, TX, United States | On Site | Oct 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
