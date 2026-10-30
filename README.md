@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[WHYY](http://whyy.org/)** | **[TV Production Intern](https://jobright.ai/jobs/info/6ae4cb78c3139b475b5b5ddf?utm_campaign=1053&utm_source=git)** | Philadelphia, PA, United States | On Site | Oct 30 |
 | **[News Corp](https://newscorp.com/)** | **[Summer 2027 Internship – Audio and Video Production, WSJ Brand Studio](https://jobright.ai/jobs/info/6ae4c1bcfb2cd420ace5955c?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Oct 30 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Intern](https://jobright.ai/jobs/info/6ab2ddb11e4847ddae916da4?utm_campaign=1053&utm_source=git)** | Henderson, KY, United States | On Site | Oct 30 |
 | **[HarperCollins Christian Publishing](https://www.harpercollinschristian.com/)** | **[2027 Spring Internship - Editorial Intern, Zonderkidz/Blink/DaySpring Kids (Remote US)](https://jobright.ai/jobs/info/6ae49014c3139b475b5b3ecf?utm_campaign=1053&utm_source=git)** | United States | Remote | Oct 30 |
@@ -65,6 +66,7 @@ For a complete list, click the following sortable link below:
 | **[Behaviour Interactive](http://www.bhvr.com/)** | **[Technical Animator – 7 Days to Die – Internship Winter 2027](https://jobright.ai/jobs/info/6ae3f200c3139b475b5b16bf?utm_campaign=1053&utm_source=git)** | Montreal, QC, Canada | Hybrid | Oct 29 |
 | **[NewsBreak](http://www.newsbreak.com)** | **[Short Drama Creative Editor Intern](https://jobright.ai/jobs/info/6ad171d418608b6f36f841bf?utm_campaign=1053&utm_source=git)** | Mountain View, CA, United States | On Site | Oct 29 |
 | **[McLaren Racing](https://www.mclaren.com/racing/)** | **[Videography Intern](https://jobright.ai/jobs/info/6ad151f7e2d41540d4a6fee3?utm_campaign=1053&utm_source=git)** | Indianapolis, IN, United States | On Site | Oct 29 |
+| **[Dow Jones](http://www.dowjones.com)** | **[Summer 2027 Internship – Audio and Video Production, WSJ Brand Studio](https://jobright.ai/jobs/info/6ae4c77bc3139b475b5b5b19?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Oct 29 |
 | **[NewsBreak](http://www.newsbreak.com)** | **[Short Drama Creative Editor Intern](https://jobright.ai/jobs/info/6ad15f0ae2d41540d4a70769?utm_campaign=1053&utm_source=git)** | Mountain View, CA, United States | On Site | Oct 29 |
 | **[Diamond Baseball Holdings](http://diamondbaseballholdings.com/)** | **[Intern, Video Production &  Broadcast (58295)](https://jobright.ai/jobs/info/6ae3b1c7d7424a2a828e21bb?utm_campaign=1053&utm_source=git)** | Midland, TX, United States | On Site | Oct 29 |
 | **[RedPoint Media Group](http://redpointmedia.ca)** | **[Editorial Intern – RedPoint Media](https://jobright.ai/jobs/info/6ae3cb45fb2cd420ace54144?utm_campaign=1053&utm_source=git)** | Calgary, AB, Canada | Hybrid | Oct 29 |
