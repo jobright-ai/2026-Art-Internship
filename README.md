@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Peabody Essex Museum](http://www.pem.org/)** | **[Art & Nature Center Intern](https://jobright.ai/jobs/info/6ae504f0eab1f9673097f0d7?utm_campaign=1053&utm_source=git)** | Salem, MA, United States | On Site | Oct 30 |
+| **[The Lawfare Institute](https://www.lawfaremedia.org)** | **[Spring 2027 Intern](https://jobright.ai/jobs/info/6ae4fdf3fb2cd420ace5bcce?utm_campaign=1053&utm_source=git)** | Washington, DC, United States | Hybrid | Oct 30 |
 | **[AccuWeather](http://www.accuweather.com)** | **[Editorial Intern (Spring 2027)](https://jobright.ai/jobs/info/6ae4e53077c09cb3bd4afec4?utm_campaign=1053&utm_source=git)** | State College, PA, United States | On Site | Oct 30 |
 | **[Social View Agency](https://www.socialviewagency.com/)** | **[Remote Content Creator Intern](https://jobright.ai/jobs/info/6ae4e35cfb2cd420ace5acf0?utm_campaign=1053&utm_source=git)** | United States | Remote | Oct 30 |
 | **[Obsidian Entertainment](http://www.obsidian.net/)** | **[VFX Artist - 2027 Summer Internship](https://jobright.ai/jobs/info/6ae4d4b8d45dc30fb7d32b23?utm_campaign=1053&utm_source=git)** | Irvine, CA, United States | On Site | Oct 30 |
@@ -72,6 +74,7 @@ For a complete list, click the following sortable link below:
 | **[Behaviour Interactive](http://www.bhvr.com/)** | **[Technical Animator – 7 Days to Die – Internship Winter 2027](https://jobright.ai/jobs/info/6ae3f200c3139b475b5b16bf?utm_campaign=1053&utm_source=git)** | Montreal, QC, Canada | Hybrid | Oct 29 |
 | **[NewsBreak](http://www.newsbreak.com)** | **[Short Drama Creative Editor Intern](https://jobright.ai/jobs/info/6ad171d418608b6f36f841bf?utm_campaign=1053&utm_source=git)** | Mountain View, CA, United States | On Site | Oct 29 |
 | **[McLaren Racing](https://www.mclaren.com/racing/)** | **[Videography Intern](https://jobright.ai/jobs/info/6ad151f7e2d41540d4a6fee3?utm_campaign=1053&utm_source=git)** | Indianapolis, IN, United States | On Site | Oct 29 |
+| **[Dow Jones](http://www.dowjones.com)** | **[Summer 2027 Internship Program – TA Videographer / Marketing Intern](https://jobright.ai/jobs/info/6ae5024dd45dc30fb7d34705?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Oct 29 |
 | **[NewsBreak](http://www.newsbreak.com)** | **[Short Drama Creative Editor Intern](https://jobright.ai/jobs/info/6ad15f0ae2d41540d4a70769?utm_campaign=1053&utm_source=git)** | Mountain View, CA, United States | On Site | Oct 29 |
 | **[Diamond Baseball Holdings](http://diamondbaseballholdings.com/)** | **[Intern, Video Production &  Broadcast (58295)](https://jobright.ai/jobs/info/6ae3b1c7d7424a2a828e21bb?utm_campaign=1053&utm_source=git)** | Midland, TX, United States | On Site | Oct 29 |
 | **[RedPoint Media Group](http://redpointmedia.ca)** | **[Editorial Intern – RedPoint Media](https://jobright.ai/jobs/info/6ae3cb45fb2cd420ace54144?utm_campaign=1053&utm_source=git)** | Calgary, AB, Canada | Hybrid | Oct 29 |
