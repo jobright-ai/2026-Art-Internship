@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Intern](https://jobright.ai/jobs/info/6ab2ddb11e4847ddae916da4?utm_campaign=1053&utm_source=git)** | Henderson, KY, United States | On Site | Oct 30 |
 | **[HarperCollins Christian Publishing](https://www.harpercollinschristian.com/)** | **[2027 Spring Internship - Editorial Intern, Zonderkidz/Blink/DaySpring Kids (Remote US)](https://jobright.ai/jobs/info/6ae49014c3139b475b5b3ecf?utm_campaign=1053&utm_source=git)** | United States | Remote | Oct 30 |
 | **[U.S. News & World Report](http://www.usnews.com)** | **[News Intern (6 Months)](https://jobright.ai/jobs/info/6ab433b855e9168cf5ea4fda?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Hybrid | Oct 30 |
 | **[Simons Foundation](https://www.simonsfoundation.org)** | **[Science Reporting Intern, The Transmitter](https://jobright.ai/jobs/info/6abea9404ac55253f5d61d30?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Oct 30 |
@@ -130,5 +131,4 @@ For a complete list, click the following sortable link below:
 | **[The Aparecio Foundation](https://www.apareciofoundation.org)** | **[Volunteer/Intern:Editor of "FelixTV"](https://jobright.ai/jobs/info/6ac99471d4a5a03707412c0a?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | Remote | Oct 23 |
 | **[Launch That](http://launchthat.com)** | **[Editorial Intern](https://jobright.ai/jobs/info/6adc0b1ac5c64fa3d9cb273d?utm_campaign=1053&utm_source=git)** | Orlando, FL, United States | Hybrid | Oct 23 |
 | **[Texas Association of Counties](https://www.county.org)** | **[Event Center Coordinator Intern](https://jobright.ai/jobs/info/6adbe4149e3e874dbfba2a1b?utm_campaign=1053&utm_source=git)** | Austin, TX, United States | On Site | Oct 23 |
-| **[Omni Hotels & Resorts](http://www.omnihotels.com/)** | **[Omni Care Internship Culinary / Summer 2027](https://jobright.ai/jobs/info/6adbb4b90a4cc7090f974514?utm_campaign=1053&utm_source=git)** | Bretton Woods, NH, United States | On Site | Oct 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
