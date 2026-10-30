@@ -57,8 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Gift](https://www.shine.gift)** | **[LA Film and Concert Production Intern](https://jobright.ai/jobs/info/6ae4db35d7424a2a828e95ac?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | Remote | Oct 30 |
+| **[AccuWeather](http://www.accuweather.com)** | **[Editorial Intern (Spring 2027)](https://jobright.ai/jobs/info/6ae4e53077c09cb3bd4afec4?utm_campaign=1053&utm_source=git)** | State College, PA, United States | On Site | Oct 30 |
+| **[Social View Agency](https://www.socialviewagency.com/)** | **[Remote Content Creator Intern](https://jobright.ai/jobs/info/6ae4e35cfb2cd420ace5acf0?utm_campaign=1053&utm_source=git)** | United States | Remote | Oct 30 |
 | **[Obsidian Entertainment](http://www.obsidian.net/)** | **[VFX Artist - 2027 Summer Internship](https://jobright.ai/jobs/info/6ae4d4b8d45dc30fb7d32b23?utm_campaign=1053&utm_source=git)** | Irvine, CA, United States | On Site | Oct 30 |
+| **[Gift](https://www.shine.gift)** | **[LA Film and Concert Production Intern](https://jobright.ai/jobs/info/6ae4db35d7424a2a828e95ac?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | Remote | Oct 30 |
+| **[FC Dallas](http://www.fcdallas.com)** | **[2027 Season Internship / Video Production](https://jobright.ai/jobs/info/6ae4c10677c09cb3bd4ae536?utm_campaign=1053&utm_source=git)** | Frisco, TX, United States | On Site | Oct 30 |
 | **[Dow Jones](http://www.dowjones.com)** | **[Summer 2027 Internship – Audio and Video Production, WSJ Brand Studio](https://jobright.ai/jobs/info/6ae4c77bc3139b475b5b5b19?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Oct 30 |
 | **[WHYY](http://whyy.org/)** | **[TV Production Intern](https://jobright.ai/jobs/info/6ae4cb78c3139b475b5b5ddf?utm_campaign=1053&utm_source=git)** | Philadelphia, PA, United States | On Site | Oct 30 |
 | **[News Corp](https://newscorp.com/)** | **[Summer 2027 Internship – Audio and Video Production, WSJ Brand Studio](https://jobright.ai/jobs/info/6ae4c1bcfb2cd420ace5955c?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Oct 30 |
@@ -97,7 +100,6 @@ For a complete list, click the following sortable link below:
 | **[Zipline](https://www.zipline.com/)** | **[Video Production Intern (Spring 2027)](https://jobright.ai/jobs/info/6a85d6d7e459fa3baa864167?utm_campaign=1053&utm_source=git)** | South San Francisco, CA, United States | On Site | Oct 28 |
 | **[Omni Hotels & Resorts](http://www.omnihotels.com/)** | **[Omni Care Internship Culinary / Winter 2027](https://jobright.ai/jobs/info/6ae204da1f9d9308370ad271?utm_campaign=1053&utm_source=git)** | Bretton Woods, NH, United States | On Site | Oct 28 |
 | **[Buchwald](https://www.buchwald.com)** | **[Intern NY](https://jobright.ai/jobs/info/6ae26a0105a39c3e2c71a37d?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Oct 28 |
-| **[FC Dallas](http://www.fcdallas.com)** | **[2027 Season Internship / Video Production](https://jobright.ai/jobs/info/6ae4c10677c09cb3bd4ae536?utm_campaign=1053&utm_source=git)** | Frisco, TX, United States | On Site | Oct 28 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Media Production Intern (In- Person) Fall 2026.](https://jobright.ai/jobs/info/6a398ce3f6b55d12c7928b8e?utm_campaign=1053&utm_source=git)** | AL, Mobile, United States of America | On Site | Oct 28 |
 | **[Relativity Space](http://relativityspace.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/6ac53336d9621c5b283a3d34?utm_campaign=1053&utm_source=git)** | Long Beach, CA, United States | On Site | Oct 28 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[LIU Internship at Brooklyn Paramount](https://jobright.ai/jobs/info/6ac51fd18ff3fb9b3bc87b0a?utm_campaign=1053&utm_source=git)** | Brooklyn, NY, United States | On Site | Oct 28 |
@@ -133,5 +135,4 @@ For a complete list, click the following sortable link below:
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Lifestyle Show Intern](https://jobright.ai/jobs/info/6ac115db4ac55253f5d69fb0?utm_campaign=1053&utm_source=git)** | Spartanburg, SC, United States | On Site | Oct 24 |
 | **[Inspire](https://inspirebrands.com)** | **[Maverick Studios Digital Content Creation Intern, Summer 2027](https://jobright.ai/jobs/info/6adb7904c5c64fa3d9caf881?utm_campaign=1053&utm_source=git)** | Atlanta, Georgia, United States | On Site | Oct 24 |
 | **[The Toro Company](https://www.thetorocompany.com)** | **[Video and Interactive Training Production Intern - Ditch Witch](https://jobright.ai/jobs/info/6aa3aa4c959a10d7230d3185?utm_campaign=1053&utm_source=git)** | Perry, OK, United States | On Site | Oct 24 |
-| **[The Aparecio Foundation](https://www.apareciofoundation.org)** | **[Volunteer/Intern:Editor of "FelixTV"](https://jobright.ai/jobs/info/6ac99471d4a5a03707412c0a?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | Remote | Oct 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
