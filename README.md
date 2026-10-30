@@ -129,5 +129,4 @@ For a complete list, click the following sortable link below:
 | **[Texas Association of Counties](https://www.county.org)** | **[Event Center Coordinator Intern](https://jobright.ai/jobs/info/6adbe4149e3e874dbfba2a1b?utm_campaign=1053&utm_source=git)** | Austin, TX, United States | On Site | Oct 23 |
 | **[Omni Hotels & Resorts](http://www.omnihotels.com/)** | **[Omni Care Internship Culinary / Summer 2027](https://jobright.ai/jobs/info/6adbb4b90a4cc7090f974514?utm_campaign=1053&utm_source=git)** | Bretton Woods, NH, United States | On Site | Oct 23 |
 | **[David Zwirner](http://www.davidzwirner.com/)** | **[Gallery Intern](https://jobright.ai/jobs/info/6adbb1719e3e874dbfba145d?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | On Site | Oct 23 |
-| **[Brooklyn Sports & Entertainment](https://www.bseglobal.net)** | **[Events Seasonal Internship 2026-2027](https://jobright.ai/jobs/info/6adb7daf5dc7953215a32e05?utm_campaign=1053&utm_source=git)** | Brooklyn, NY, United States | Hybrid | Oct 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
