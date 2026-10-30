@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[RedPoint Media Group](http://redpointmedia.ca)** | **[Editorial Intern – RedPoint Media](https://jobright.ai/jobs/info/6ae3cb45fb2cd420ace54144?utm_campaign=1053&utm_source=git)** | Calgary, AB, Canada | Hybrid | Oct 29 |
+| **[Curious Plot](https://curiousplot.agency/)** | **[Content Intern](https://jobright.ai/jobs/info/6ae3c13eeab1f96730976ee6?utm_campaign=1053&utm_source=git)** | Minneapolis, MN, United States | Hybrid | Oct 29 |
+| **[Base Power Company](https://www.basepowercompany.com)** | **[Video Content Intern](https://jobright.ai/jobs/info/6ae3c24e77c09cb3bd4a8d4e?utm_campaign=1053&utm_source=git)** | Austin, TX, United States | On Site | Oct 29 |
+| **[The Lawfare Institute](https://www.lawfaremedia.org)** | **[Spring 2027 Intern](https://jobright.ai/jobs/info/6ae3bfe8fb2cd420ace53cac?utm_campaign=1053&utm_source=git)** | Washington, DC, United States | Hybrid | Oct 29 |
 | **[Diamond Baseball Holdings](http://diamondbaseballholdings.com/)** | **[Intern, Video Production &  Broadcast (58295)](https://jobright.ai/jobs/info/6ae3b1c7d7424a2a828e21bb?utm_campaign=1053&utm_source=git)** | Midland, TX, United States | On Site | Oct 29 |
 | **[Girl Scouts of Citrus Council](https://www.citrus-gs.org/)** | **[Position: Intern for the Girl Scout Experience Team](https://jobright.ai/jobs/info/6aaaaea78e1bf0f764af5a6c?utm_campaign=1053&utm_source=git)** | Orlando, FL, United States | On Site | Oct 29 |
 | **[BRIDGE SHOWROOM](http://www.bridgeshowroom.com)** | **[Fashion Intern](https://jobright.ai/jobs/info/6ae3816ad7424a2a828e068c?utm_campaign=1053&utm_source=git)** | San Francisco, CA, United States | On Site | Oct 29 |
@@ -134,5 +138,4 @@ For a complete list, click the following sortable link below:
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[WAVY Unpaid Sports Intern, Spring 2027](https://jobright.ai/jobs/info/6ad194ea90e54b6cff1a38a5?utm_campaign=1053&utm_source=git)** | Portsmouth, VA, United States | On Site | Oct 23 |
 | **[The Minnesota Star Tribune](http://www.startribunecompany.com)** | **[Social Media Producer Internship - Summer 2027](https://jobright.ai/jobs/info/6abecff08ff3fb9b3bc761c6?utm_campaign=1053&utm_source=git)** | Minneapolis, MN, United States | On Site | Oct 23 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Internal Communications Specialist)](https://jobright.ai/jobs/info/6abea1394ac55253f5d61a25?utm_campaign=1053&utm_source=git)** | Vienna, VA, United States | Hybrid | Oct 23 |
-| **[OTTera, Inc.](http://www.ottera.tv/)** | **[Content Creator Intern](https://jobright.ai/jobs/info/6a5ae1cc63a8f619507c8d0c?utm_campaign=1053&utm_source=git)** | North Hollywood, CA, United States | On Site | Oct 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
