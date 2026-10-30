@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Gift](https://www.shine.gift)** | **[LA Film and Concert Production Intern](https://jobright.ai/jobs/info/6ae4db35d7424a2a828e95ac?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | Remote | Oct 30 |
+| **[Obsidian Entertainment](http://www.obsidian.net/)** | **[VFX Artist - 2027 Summer Internship](https://jobright.ai/jobs/info/6ae4d4b8d45dc30fb7d32b23?utm_campaign=1053&utm_source=git)** | Irvine, CA, United States | On Site | Oct 30 |
+| **[Dow Jones](http://www.dowjones.com)** | **[Summer 2027 Internship – Audio and Video Production, WSJ Brand Studio](https://jobright.ai/jobs/info/6ae4c77bc3139b475b5b5b19?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Oct 30 |
 | **[WHYY](http://whyy.org/)** | **[TV Production Intern](https://jobright.ai/jobs/info/6ae4cb78c3139b475b5b5ddf?utm_campaign=1053&utm_source=git)** | Philadelphia, PA, United States | On Site | Oct 30 |
 | **[News Corp](https://newscorp.com/)** | **[Summer 2027 Internship – Audio and Video Production, WSJ Brand Studio](https://jobright.ai/jobs/info/6ae4c1bcfb2cd420ace5955c?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Oct 30 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Intern](https://jobright.ai/jobs/info/6ab2ddb11e4847ddae916da4?utm_campaign=1053&utm_source=git)** | Henderson, KY, United States | On Site | Oct 30 |
@@ -66,7 +69,6 @@ For a complete list, click the following sortable link below:
 | **[Behaviour Interactive](http://www.bhvr.com/)** | **[Technical Animator – 7 Days to Die – Internship Winter 2027](https://jobright.ai/jobs/info/6ae3f200c3139b475b5b16bf?utm_campaign=1053&utm_source=git)** | Montreal, QC, Canada | Hybrid | Oct 29 |
 | **[NewsBreak](http://www.newsbreak.com)** | **[Short Drama Creative Editor Intern](https://jobright.ai/jobs/info/6ad171d418608b6f36f841bf?utm_campaign=1053&utm_source=git)** | Mountain View, CA, United States | On Site | Oct 29 |
 | **[McLaren Racing](https://www.mclaren.com/racing/)** | **[Videography Intern](https://jobright.ai/jobs/info/6ad151f7e2d41540d4a6fee3?utm_campaign=1053&utm_source=git)** | Indianapolis, IN, United States | On Site | Oct 29 |
-| **[Dow Jones](http://www.dowjones.com)** | **[Summer 2027 Internship – Audio and Video Production, WSJ Brand Studio](https://jobright.ai/jobs/info/6ae4c77bc3139b475b5b5b19?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Oct 29 |
 | **[NewsBreak](http://www.newsbreak.com)** | **[Short Drama Creative Editor Intern](https://jobright.ai/jobs/info/6ad15f0ae2d41540d4a70769?utm_campaign=1053&utm_source=git)** | Mountain View, CA, United States | On Site | Oct 29 |
 | **[Diamond Baseball Holdings](http://diamondbaseballholdings.com/)** | **[Intern, Video Production &  Broadcast (58295)](https://jobright.ai/jobs/info/6ae3b1c7d7424a2a828e21bb?utm_campaign=1053&utm_source=git)** | Midland, TX, United States | On Site | Oct 29 |
 | **[RedPoint Media Group](http://redpointmedia.ca)** | **[Editorial Intern – RedPoint Media](https://jobright.ai/jobs/info/6ae3cb45fb2cd420ace54144?utm_campaign=1053&utm_source=git)** | Calgary, AB, Canada | Hybrid | Oct 29 |
@@ -132,5 +134,4 @@ For a complete list, click the following sortable link below:
 | **[Inspire](https://inspirebrands.com)** | **[Maverick Studios Digital Content Creation Intern, Summer 2027](https://jobright.ai/jobs/info/6adb7904c5c64fa3d9caf881?utm_campaign=1053&utm_source=git)** | Atlanta, Georgia, United States | On Site | Oct 24 |
 | **[The Toro Company](https://www.thetorocompany.com)** | **[Video and Interactive Training Production Intern - Ditch Witch](https://jobright.ai/jobs/info/6aa3aa4c959a10d7230d3185?utm_campaign=1053&utm_source=git)** | Perry, OK, United States | On Site | Oct 24 |
 | **[The Aparecio Foundation](https://www.apareciofoundation.org)** | **[Volunteer/Intern:Editor of "FelixTV"](https://jobright.ai/jobs/info/6ac99471d4a5a03707412c0a?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | Remote | Oct 23 |
-| **[Launch That](http://launchthat.com)** | **[Editorial Intern](https://jobright.ai/jobs/info/6adc0b1ac5c64fa3d9cb273d?utm_campaign=1053&utm_source=git)** | Orlando, FL, United States | Hybrid | Oct 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
