@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[MacArthur Foundation](http://www.macfound.org)** | **[Journalism & Media Intern - Summer 2027](https://jobright.ai/jobs/info/6ae51975d7424a2a828eb934?utm_campaign=1053&utm_source=git)** | Chicago, Illinois, United States | Hybrid | Oct 30 |
 | **[Dow Jones](http://www.dowjones.com)** | **[Summer 2027 Internship Program – TA Videographer / Marketing Intern](https://jobright.ai/jobs/info/6ae5024dd45dc30fb7d34705?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Oct 30 |
 | **[AccuWeather](http://www.accuweather.com)** | **[Editorial Intern (Spring 2027)](https://jobright.ai/jobs/info/6ae4e53077c09cb3bd4afec4?utm_campaign=1053&utm_source=git)** | State College, PA, United States | On Site | Oct 30 |
 | **[Peabody Essex Museum](http://www.pem.org/)** | **[Art & Nature Center Intern](https://jobright.ai/jobs/info/6ae504f0eab1f9673097f0d7?utm_campaign=1053&utm_source=git)** | Salem, MA, United States | On Site | Oct 30 |
@@ -75,7 +76,6 @@ For a complete list, click the following sortable link below:
 | **[Behaviour Interactive](http://www.bhvr.com/)** | **[Technical Animator – 7 Days to Die – Internship Winter 2027](https://jobright.ai/jobs/info/6ae3f200c3139b475b5b16bf?utm_campaign=1053&utm_source=git)** | Montreal, QC, Canada | Hybrid | Oct 29 |
 | **[NewsBreak](http://www.newsbreak.com)** | **[Short Drama Creative Editor Intern](https://jobright.ai/jobs/info/6ad171d418608b6f36f841bf?utm_campaign=1053&utm_source=git)** | Mountain View, CA, United States | On Site | Oct 29 |
 | **[McLaren Racing](https://www.mclaren.com/racing/)** | **[Videography Intern](https://jobright.ai/jobs/info/6ad151f7e2d41540d4a6fee3?utm_campaign=1053&utm_source=git)** | Indianapolis, IN, United States | On Site | Oct 29 |
-| **[MacArthur Foundation](http://www.macfound.org)** | **[Journalism & Media Intern - Summer 2027](https://jobright.ai/jobs/info/6ae51975d7424a2a828eb934?utm_campaign=1053&utm_source=git)** | Chicago, Illinois, United States | Hybrid | Oct 29 |
 | **[NewsBreak](http://www.newsbreak.com)** | **[Short Drama Creative Editor Intern](https://jobright.ai/jobs/info/6ad15f0ae2d41540d4a70769?utm_campaign=1053&utm_source=git)** | Mountain View, CA, United States | On Site | Oct 29 |
 | **[Diamond Baseball Holdings](http://diamondbaseballholdings.com/)** | **[Intern, Video Production &  Broadcast (58295)](https://jobright.ai/jobs/info/6ae3b1c7d7424a2a828e21bb?utm_campaign=1053&utm_source=git)** | Midland, TX, United States | On Site | Oct 29 |
 | **[RedPoint Media Group](http://redpointmedia.ca)** | **[Editorial Intern – RedPoint Media](https://jobright.ai/jobs/info/6ae3cb45fb2cd420ace54144?utm_campaign=1053&utm_source=git)** | Calgary, AB, Canada | Hybrid | Oct 29 |
@@ -94,7 +94,6 @@ For a complete list, click the following sortable link below:
 | **[The Chisholm Legacy Project: A Resource Hub for Black Frontline Climate Justice Leadership](https://thechisholmlegacyproject.org)** | **[Communication and Narrative Strategy Intern](https://jobright.ai/jobs/info/6ae3217beab1f96730972264?utm_campaign=1053&utm_source=git)** | United States | Remote | Oct 29 |
 | **[Quad](https://www.quad.com)** | **[Milwaukee Magazine Editorial Internship, Spring 2027](https://jobright.ai/jobs/info/6ac6a75c064da25272e1ba39?utm_campaign=1053&utm_source=git)** | West Allis, WI, United States | Hybrid | Oct 29 |
 | **[United Launch Alliance (ULA)](http://www.ulalaunch.com)** | **[Video Editing Internship Summer 2027 Job Details / United Launch Alliance](https://jobright.ai/jobs/info/6ae29d256679108488c4cbe5?utm_campaign=1053&utm_source=git)** | Denver, CO, United States | On Site | Oct 28 |
-| **[The Seattle Times](http://seattletimes.com/)** | **[Summer 2027 News Producer Internship](https://jobright.ai/jobs/info/6aab24a4f6bd9d2d17c1bb33?utm_campaign=1053&utm_source=git)** | Seattle, WA, United States | On Site | Oct 28 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Intern](https://jobright.ai/jobs/info/6a9674f7455eaf6a08c17881?utm_campaign=1053&utm_source=git)** | Peoria, IL, United States | On Site | Oct 28 |
 | **[Kendall Hunt Publishing Company](https://www.kendallhunt.com/)** | **[Editorial Assistant Intern](https://jobright.ai/jobs/info/6ae27906eb7e8f715a60e6f1?utm_campaign=1053&utm_source=git)** | Dubuque, IA, United States | On Site | Oct 28 |
 | **[Trimble Inc.](https://www.trimble.com/)** | **[Video Production Intern](https://jobright.ai/jobs/info/6ae275b305a39c3e2c71a9e3?utm_campaign=1053&utm_source=git)** | Dayton, OH, United States | On Site | Oct 28 |
