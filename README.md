@@ -57,15 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Azure Matcha](http://azurematcha.com)** | **[Events + Content Production - Internship](https://jobright.ai/jobs/info/6ae60d39d45dc30fb7d3831b?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Oct 31 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Intern](https://jobright.ai/jobs/info/6ab2ddb11e4847ddae916da4?utm_campaign=1053&utm_source=git)** | Henderson, KY, United States | On Site | Oct 31 |
 | **[The New York Times](https://www.nytco.com/)** | **[Editorial Projects Intern, Wirecutter](https://jobright.ai/jobs/info/6ae54f48d45dc30fb7d36550?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Hybrid | Oct 30 |
 | **[MacArthur Foundation](http://www.macfound.org)** | **[Journalism & Media Intern - Summer 2027](https://jobright.ai/jobs/info/6ae51975d7424a2a828eb934?utm_campaign=1053&utm_source=git)** | Chicago, Illinois, United States | Hybrid | Oct 30 |
+| **[Obsidian Entertainment](http://www.obsidian.net/)** | **[VFX Artist - 2027 Summer Internship](https://jobright.ai/jobs/info/6ae4d4b8d45dc30fb7d32b23?utm_campaign=1053&utm_source=git)** | Irvine, CA, United States | On Site | Oct 30 |
 | **[Dow Jones](http://www.dowjones.com)** | **[Summer 2027 Internship Program – TA Videographer / Marketing Intern](https://jobright.ai/jobs/info/6ae5024dd45dc30fb7d34705?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Oct 30 |
 | **[AccuWeather](http://www.accuweather.com)** | **[Editorial Intern (Spring 2027)](https://jobright.ai/jobs/info/6ae4e53077c09cb3bd4afec4?utm_campaign=1053&utm_source=git)** | State College, PA, United States | On Site | Oct 30 |
 | **[Peabody Essex Museum](http://www.pem.org/)** | **[Art & Nature Center Intern](https://jobright.ai/jobs/info/6ae504f0eab1f9673097f0d7?utm_campaign=1053&utm_source=git)** | Salem, MA, United States | On Site | Oct 30 |
 | **[The Lawfare Institute](https://www.lawfaremedia.org)** | **[Spring 2027 Intern](https://jobright.ai/jobs/info/6ae4fdf3fb2cd420ace5bcce?utm_campaign=1053&utm_source=git)** | Washington, DC, United States | Hybrid | Oct 30 |
-| **[Obsidian Entertainment](http://www.obsidian.net/)** | **[VFX Artist - 2027 Summer Internship](https://jobright.ai/jobs/info/6ae4d4b8d45dc30fb7d32b23?utm_campaign=1053&utm_source=git)** | Irvine, CA, United States | On Site | Oct 30 |
 | **[FC Dallas](http://www.fcdallas.com)** | **[2027 Season Internship / Video Production](https://jobright.ai/jobs/info/6ae4c10677c09cb3bd4ae536?utm_campaign=1053&utm_source=git)** | Frisco, TX, United States | On Site | Oct 30 |
 | **[Dow Jones](http://www.dowjones.com)** | **[Summer 2027 Internship – Audio and Video Production, WSJ Brand Studio](https://jobright.ai/jobs/info/6ae4c77bc3139b475b5b5b19?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Oct 30 |
 | **[WHYY](http://whyy.org/)** | **[TV Production Intern](https://jobright.ai/jobs/info/6ae4cb78c3139b475b5b5ddf?utm_campaign=1053&utm_source=git)** | Philadelphia, PA, United States | On Site | Oct 30 |
