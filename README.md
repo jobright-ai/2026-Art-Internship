@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Intern](https://jobright.ai/jobs/info/6ab2ddb11e4847ddae916da4?utm_campaign=1053&utm_source=git)** | Henderson, KY, United States | On Site | Oct 31 |
 | **[The New York Times](https://www.nytco.com/)** | **[Editorial Projects Intern, Wirecutter](https://jobright.ai/jobs/info/6ae54f48d45dc30fb7d36550?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Hybrid | Oct 30 |
 | **[MacArthur Foundation](http://www.macfound.org)** | **[Journalism & Media Intern - Summer 2027](https://jobright.ai/jobs/info/6ae51975d7424a2a828eb934?utm_campaign=1053&utm_source=git)** | Chicago, Illinois, United States | Hybrid | Oct 30 |
 | **[Dow Jones](http://www.dowjones.com)** | **[Summer 2027 Internship Program – TA Videographer / Marketing Intern](https://jobright.ai/jobs/info/6ae5024dd45dc30fb7d34705?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Oct 30 |
@@ -68,7 +69,6 @@ For a complete list, click the following sortable link below:
 | **[Dow Jones](http://www.dowjones.com)** | **[Summer 2027 Internship – Audio and Video Production, WSJ Brand Studio](https://jobright.ai/jobs/info/6ae4c77bc3139b475b5b5b19?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Oct 30 |
 | **[WHYY](http://whyy.org/)** | **[TV Production Intern](https://jobright.ai/jobs/info/6ae4cb78c3139b475b5b5ddf?utm_campaign=1053&utm_source=git)** | Philadelphia, PA, United States | On Site | Oct 30 |
 | **[News Corp](https://newscorp.com/)** | **[Summer 2027 Internship – Audio and Video Production, WSJ Brand Studio](https://jobright.ai/jobs/info/6ae4c1bcfb2cd420ace5955c?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Oct 30 |
-| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Intern](https://jobright.ai/jobs/info/6ab2ddb11e4847ddae916da4?utm_campaign=1053&utm_source=git)** | Henderson, KY, United States | On Site | Oct 30 |
 | **[NESN](http://nesn.com)** | **[Creative Services Post-Production Intern - Summer/Fall 2026](https://jobright.ai/jobs/info/6ae5682dd7424a2a828ed08d?utm_campaign=1053&utm_source=git)** | Pittsburgh, PA, United States | On Site | Oct 30 |
 | **[HarperCollins Christian Publishing](https://www.harpercollinschristian.com/)** | **[2027 Spring Internship - Editorial Intern, Zonderkidz/Blink/DaySpring Kids (Remote US)](https://jobright.ai/jobs/info/6ae49014c3139b475b5b3ecf?utm_campaign=1053&utm_source=git)** | United States | Remote | Oct 30 |
 | **[U.S. News & World Report](http://www.usnews.com)** | **[News Intern (6 Months)](https://jobright.ai/jobs/info/6ab433b855e9168cf5ea4fda?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Hybrid | Oct 30 |
