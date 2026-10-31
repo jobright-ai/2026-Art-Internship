@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Azure Matcha](http://azurematcha.com)** | **[Events + Content Production - Internship](https://jobright.ai/jobs/info/6ae60d39d45dc30fb7d3831b?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Oct 31 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Intern](https://jobright.ai/jobs/info/6ab2ddb11e4847ddae916da4?utm_campaign=1053&utm_source=git)** | Henderson, KY, United States | On Site | Oct 31 |
 | **[The New York Times](https://www.nytco.com/)** | **[Editorial Projects Intern, Wirecutter](https://jobright.ai/jobs/info/6ae54f48d45dc30fb7d36550?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Hybrid | Oct 30 |
 | **[MacArthur Foundation](http://www.macfound.org)** | **[Journalism & Media Intern - Summer 2027](https://jobright.ai/jobs/info/6ae51975d7424a2a828eb934?utm_campaign=1053&utm_source=git)** | Chicago, Illinois, United States | Hybrid | Oct 30 |
