@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Upptik](https://upptik.com)** | **[Content Creator Intern](https://jobright.ai/jobs/info/6ae89032a2a252e21942751b?utm_campaign=1053&utm_source=git)** | Connecticut, United States | Remote | Nov 02 |
 | **[Canyon Entertainment Group](https://canyonentertainmentgroup.com)** | **[Video Editing, Post-Production Intern](https://jobright.ai/jobs/info/6ae872c56c51033758f4032e?utm_campaign=1053&utm_source=git)** | Greater Toronto Area, Canada | Remote | Nov 02 |
 | ↳ | **[Video Editing, Post Production Internship](https://jobright.ai/jobs/info/6ae872c06c51033758f4032b?utm_campaign=1053&utm_source=git)** | Greater Toronto Area, Ontario, Canada | Remote | Nov 02 |
 | **[Envoy Air](https://www.envoyair.com/)** | **[College Intern - Technical Publications Editor](https://jobright.ai/jobs/info/6ae847e0061d6d7ff3d79bf4?utm_campaign=1053&utm_source=git)** | Irving, TX, United States | On Site | Nov 02 |
@@ -133,5 +134,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2027 Pro Football Hall of Fame Internship - SPECIAL EVENTS](https://jobright.ai/jobs/info/6adfb6d3065c4e77efafab05?utm_campaign=1053&utm_source=git)** | Canton, OH, United States | On Site | Oct 27 |
 | **[BPCM](http://www.bpcm.com)** | **[Spring Internship, Fashion](https://jobright.ai/jobs/info/6ae111c11f9d9308370a761b?utm_campaign=1053&utm_source=git)** | Brooklyn, NY, United States | On Site | Oct 26 |
 | **[Culver Franchising System, LLC](http://www.culvers.com)** | **[Culinary Internship](https://jobright.ai/jobs/info/6adfcb385dc7953215a4300b?utm_campaign=1053&utm_source=git)** | Prairie du Sac, Wisconsin, United States | On Site | Oct 26 |
-| **[The Familie](https://thefamilie.com)** | **[Country Music Intern](https://jobright.ai/jobs/info/6adfbb650a4cc7090f98288b?utm_campaign=1053&utm_source=git)** | Nashville, TN, United States | On Site | Oct 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
