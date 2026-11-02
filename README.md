@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hearst](http://www.hearst.com)** | **[Audience Intern - Summer 2027](https://jobright.ai/jobs/info/6ae8aa6ca2a252e2194280f5?utm_campaign=1053&utm_source=git)** | Houston, TX, United States | Hybrid | Nov 02 |
+| ↳ | **[Food & Events Intern - Summer 2027](https://jobright.ai/jobs/info/6ae8aa1003f4a1104b254f39?utm_campaign=1053&utm_source=git)** | Dallas, TX, United States | On Site | Nov 02 |
+| **[Phillips](https://www.phillips.com)** | **[Spring Modern & Contemporary Editions Internship](https://jobright.ai/jobs/info/6ae8a104a2a252e219427bf0?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Nov 02 |
 | **[Upptik](https://upptik.com)** | **[Content Creator Intern](https://jobright.ai/jobs/info/6ae89032a2a252e21942751b?utm_campaign=1053&utm_source=git)** | Connecticut, United States | Remote | Nov 02 |
 | **[Canyon Entertainment Group](https://canyonentertainmentgroup.com)** | **[Video Editing, Post-Production Intern](https://jobright.ai/jobs/info/6ae872c56c51033758f4032e?utm_campaign=1053&utm_source=git)** | Greater Toronto Area, Canada | Remote | Nov 02 |
 | ↳ | **[Video Editing, Post Production Internship](https://jobright.ai/jobs/info/6ae872c06c51033758f4032b?utm_campaign=1053&utm_source=git)** | Greater Toronto Area, Ontario, Canada | Remote | Nov 02 |
@@ -116,7 +119,6 @@ For a complete list, click the following sortable link below:
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Media Production Intern (In- Person) Fall 2026.](https://jobright.ai/jobs/info/6a398ce3f6b55d12c7928b8e?utm_campaign=1053&utm_source=git)** | AL, Mobile, United States of America | On Site | Oct 28 |
 | **[Relativity Space](http://relativityspace.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/6ac53336d9621c5b283a3d34?utm_campaign=1053&utm_source=git)** | Long Beach, CA, United States | On Site | Oct 28 |
 | **[SeatSwap, Inc.](https://seatswaptickets.com/)** | **[SeatSwap Fall Internship](https://jobright.ai/jobs/info/6ae198ef829a3bada15fdff8?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Oct 27 |
-| **[Noor Punjab Di](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.instagram.com/npdbhangra/&ved=2ahUKEwjM-MDB7tuXAxV0GFkFHXtEGRoQFnoECCIQAQ&usg=AOvVaw26G_aMLEMsXQzcX9X-PMJ-)** | **[Videography Intern](https://jobright.ai/jobs/info/6ae17b7005a39c3e2c712f19?utm_campaign=1053&utm_source=git)** | Old Bridge, NJ, United States | On Site | Oct 27 |
 | **[MBJ Network](www.mbj-network.com)** | **[Assistant Managing Editor (Writers) - Intern](https://jobright.ai/jobs/info/6abc59abbf15c0ae50138627?utm_campaign=1053&utm_source=git)** | Lombard, IL, United States | Remote | Oct 27 |
 | **[Tetra Pak](http://www.tetrapak.com)** | **[Customer Experience and Events Intern](https://jobright.ai/jobs/info/6ae14b261f9d9308370a93da?utm_campaign=1053&utm_source=git)** | Denton, TX, United States | On Site | Oct 27 |
 | ↳ | **[Customer Experience and Events Intern](https://jobright.ai/jobs/info/6ae1474667c31ab3489a2062?utm_campaign=1053&utm_source=git)** | Denton, TX, United States | On Site | Oct 27 |
@@ -129,9 +131,7 @@ For a complete list, click the following sortable link below:
 | **[Washington Nationals](https://nationals.mlb.com)** | **[Minor League Video & Technology Intern (2027 Season)](https://jobright.ai/jobs/info/6ae0e877829a3bada15f8705?utm_campaign=1053&utm_source=git)** | United States | Remote | Oct 27 |
 | **[Hasana, Inc.](http://shophasana.com)** | **[Volunteer/Intern: Film/Video Editor](https://jobright.ai/jobs/info/6a51e53ebf63b66c7997e975?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Oct 27 |
 | **[The Bernard Group, Inc.](http://www.thebernardgroup.com)** | **[Intern, Videographer](https://jobright.ai/jobs/info/6ae0cc4e5a5afc94bd2c7144?utm_campaign=1053&utm_source=git)** | Chanhassen, MN, United States | On Site | Oct 27 |
-| **[Old Mission Medicine Management, LLC](www.oldmissionmedicine.com)** | **[Camera & Video Production Intern](https://jobright.ai/jobs/info/6ae0c92605a39c3e2c70c3e3?utm_campaign=1053&utm_source=git)** | Traverse City, MI, United States | On Site | Oct 27 |
 | **[Hall of Fame Resort & Entertainment Company](https://www.hofreco.com/)** | **[2027 Pro Football Hall of Fame Internship - PRODUCTION](https://jobright.ai/jobs/info/6adfb6d5c5c64fa3d9cbeb74?utm_campaign=1053&utm_source=git)** | Canton, OH, United States | On Site | Oct 27 |
 | ↳ | **[2027 Pro Football Hall of Fame Internship - SPECIAL EVENTS](https://jobright.ai/jobs/info/6adfb6d3065c4e77efafab05?utm_campaign=1053&utm_source=git)** | Canton, OH, United States | On Site | Oct 27 |
 | **[BPCM](http://www.bpcm.com)** | **[Spring Internship, Fashion](https://jobright.ai/jobs/info/6ae111c11f9d9308370a761b?utm_campaign=1053&utm_source=git)** | Brooklyn, NY, United States | On Site | Oct 26 |
-| **[Culver Franchising System, LLC](http://www.culvers.com)** | **[Culinary Internship](https://jobright.ai/jobs/info/6adfcb385dc7953215a4300b?utm_campaign=1053&utm_source=git)** | Prairie du Sac, Wisconsin, United States | On Site | Oct 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
