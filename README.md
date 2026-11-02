@@ -59,6 +59,7 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[The New Republic](http://www.newrepublic.com/)** | **[Editorial Intern](https://jobright.ai/jobs/info/6ae7a327bad9293a40a42b64?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Remote | Nov 01 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Sports Intern- Fall 2026](https://jobright.ai/jobs/info/6ae74b56bad9293a40a4203e?utm_campaign=1053&utm_source=git)** | Washington, DC, United States | On Site | Nov 01 |
+| **[Deseret News](http://www.deseretnews.com/)** | **[Church News Writer - Fall 2026 Internship](https://jobright.ai/jobs/info/6ae7b270a2a252e2194240f3?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT, United States | On Site | Oct 31 |
 | **[Herschend Family Entertainment](http://www.hfecorp.com/)** | **[Adventureland Park - Food & Beverage Intern (Event Coordinator)](https://jobright.ai/jobs/info/6ae6ef6ad7424a2a828f0764?utm_campaign=1053&utm_source=git)** | Altoona, IA, United States | On Site | Oct 31 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Intern](https://jobright.ai/jobs/info/6ab2ddb11e4847ddae916da4?utm_campaign=1053&utm_source=git)** | Henderson, KY, United States | On Site | Oct 31 |
 | **[The New York Times](https://www.nytco.com/)** | **[Editorial Projects Intern, Wirecutter](https://jobright.ai/jobs/info/6ae54f48d45dc30fb7d36550?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Hybrid | Oct 30 |
