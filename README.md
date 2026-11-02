@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Back Roads Entertainment](https://backroadsentertainment.com)** | **[Love on Demand Post Production Intern](https://jobright.ai/jobs/info/6ae8f0ab6c51033758f4466a?utm_campaign=1053&utm_source=git)** | Austin, TX, United States | On Site | Nov 02 |
 | **[Escape™ App AI](https://www.escapeapp.ai)** | **[Cutscene Intern](https://jobright.ai/jobs/info/6ae8d6d9777c336eb6d66c1e?utm_campaign=1053&utm_source=git)** | United States | On Site | Nov 02 |
 | **[Art and Wellness Enterprises](https://aweoffice.org)** | **[2027 Art Management Summer Intern](https://jobright.ai/jobs/info/6ae8b168a2a252e21942846d?utm_campaign=1053&utm_source=git)** | Bentonville, AR, United States | On Site | Nov 02 |
 | **[The Pilates Rx](http://pilates.therxmovement.com)** | **[Studio Intern](https://jobright.ai/jobs/info/6ae8cb3f061d6d7ff3d7d268?utm_campaign=1053&utm_source=git)** | Somerville, MA, United States | On Site | Nov 02 |
