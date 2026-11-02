@@ -137,5 +137,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Full-Time Paid Intern – Friend Writer/Editor (Church Magazines)](https://jobright.ai/jobs/info/6ac354c2064da25272e0e0c0?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT, United States | Hybrid | Oct 26 |
 | **[Financial Times](http://ft.com)** | **[Editorial Engagement and Growth Summer Intern](https://jobright.ai/jobs/info/6aba904a7220f52e62ae6db1?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Oct 26 |
 | **[Freeman Company](https://freemancreacion.com)** | **[2027 TFC Summer Internship - Event & Exhibit Services](https://jobright.ai/jobs/info/6ac40d1b8ff3fb9b3bc83cc3?utm_campaign=1053&utm_source=git)** | McCook, IL, United States | On Site | Oct 26 |
-| **[Audacy, Inc.](https://audacyinc.com/)** | **[Spring Internship](https://jobright.ai/jobs/info/6ab5b76d4873fd3fd852ba09?utm_campaign=1053&utm_source=git)** | Buffalo, NY, United States | On Site | Oct 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
