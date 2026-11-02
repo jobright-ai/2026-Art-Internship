@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Gift](https://www.shine.gift)** | **[Anime / Manga Intern](https://jobright.ai/jobs/info/6ae8b3b503f4a1104b255475?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | Remote | Nov 02 |
 | **[Hearst](http://www.hearst.com)** | **[Audience Intern - Summer 2027](https://jobright.ai/jobs/info/6ae8aa6ca2a252e2194280f5?utm_campaign=1053&utm_source=git)** | Houston, TX, United States | Hybrid | Nov 02 |
 | ↳ | **[Food & Events Intern - Summer 2027](https://jobright.ai/jobs/info/6ae8aa1003f4a1104b254f39?utm_campaign=1053&utm_source=git)** | Dallas, TX, United States | On Site | Nov 02 |
 | **[Phillips](https://www.phillips.com)** | **[Spring Modern & Contemporary Editions Internship](https://jobright.ai/jobs/info/6ae8a104a2a252e219427bf0?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Nov 02 |
@@ -65,6 +66,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Video Editing, Post Production Internship](https://jobright.ai/jobs/info/6ae872c06c51033758f4032b?utm_campaign=1053&utm_source=git)** | Greater Toronto Area, Ontario, Canada | Remote | Nov 02 |
 | **[Envoy Air](https://www.envoyair.com/)** | **[College Intern - Technical Publications Editor](https://jobright.ai/jobs/info/6ae847e0061d6d7ff3d79bf4?utm_campaign=1053&utm_source=git)** | Irving, TX, United States | On Site | Nov 02 |
 | **[Pasilobus](https://pasilobus.com/)** | **[Content Creator Intern (Part-Time)](https://jobright.ai/jobs/info/6ae84b8777c09cb3bd4babde?utm_campaign=1053&utm_source=git)** | Seattle, WA, United States | Remote | Nov 02 |
+| **[Thomson Reuters](http://thomsonreuters.com)** | **[Reuters News Internship Program 2027 (Temp Guild) - Graphics, New York](https://jobright.ai/jobs/info/6ae8b176777c336eb6d65133?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Hybrid | Nov 01 |
+| **[Art and Wellness Enterprises](https://aweoffice.org)** | **[2027 Art Management Summer Intern](https://jobright.ai/jobs/info/6ae8b168a2a252e21942846d?utm_campaign=1053&utm_source=git)** | Bentonville, AR, United States | On Site | Nov 01 |
 | **[The New Republic](http://www.newrepublic.com/)** | **[Editorial Intern](https://jobright.ai/jobs/info/6ae7a327bad9293a40a42b64?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Remote | Nov 01 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Sports Intern- Fall 2026](https://jobright.ai/jobs/info/6ae74b56bad9293a40a4203e?utm_campaign=1053&utm_source=git)** | Washington, DC, United States | On Site | Nov 01 |
 | **[Deseret News](http://www.deseretnews.com/)** | **[Church News Writer - Fall 2026 Internship](https://jobright.ai/jobs/info/6ae7b270a2a252e2194240f3?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT, United States | On Site | Oct 31 |
