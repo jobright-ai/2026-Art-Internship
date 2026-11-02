@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Envoy Air](https://www.envoyair.com/)** | **[College Intern - Technical Publications Editor](https://jobright.ai/jobs/info/6ae84477061d6d7ff3d79b5c?utm_campaign=1053&utm_source=git)** | Irving, TX, United States | On Site | Nov 02 |
+| **[Pasilobus](https://pasilobus.com/)** | **[Content Creator Intern (Part-Time)](https://jobright.ai/jobs/info/6ae84b8777c09cb3bd4babde?utm_campaign=1053&utm_source=git)** | Seattle, WA, United States | Remote | Nov 02 |
+| **[Envoy Air](https://www.envoyair.com/)** | **[College Intern - Technical Publications Editor](https://jobright.ai/jobs/info/6ae847e0061d6d7ff3d79bf4?utm_campaign=1053&utm_source=git)** | Irving, TX, United States | On Site | Nov 02 |
 | **[The New Republic](http://www.newrepublic.com/)** | **[Editorial Intern](https://jobright.ai/jobs/info/6ae7a327bad9293a40a42b64?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Remote | Nov 01 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Sports Intern- Fall 2026](https://jobright.ai/jobs/info/6ae74b56bad9293a40a4203e?utm_campaign=1053&utm_source=git)** | Washington, DC, United States | On Site | Nov 01 |
 | **[Deseret News](http://www.deseretnews.com/)** | **[Church News Writer - Fall 2026 Internship](https://jobright.ai/jobs/info/6ae7b270a2a252e2194240f3?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT, United States | On Site | Oct 31 |
@@ -135,7 +136,4 @@ For a complete list, click the following sortable link below:
 | **[Pacers Sports & Entertainment](http://www.pacers.com)** | **[Digital Video Intern - Spring 2027](https://jobright.ai/jobs/info/6adf91629e3e874dbfbadad3?utm_campaign=1053&utm_source=git)** | Indianapolis, IN, United States | On Site | Oct 26 |
 | **[Sony Music Entertainment](http://www.sonymusic.com)** | **[Intern, Radio & Artist Engagement](https://jobright.ai/jobs/info/6adb909e5dc7953215a33541?utm_campaign=1053&utm_source=git)** | Toronto, ON, Canada | On Site | Oct 26 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Full Time Paid Intern For the Strength of Youth Writer/Editor (Church Magazines)](https://jobright.ai/jobs/info/6ac354be372c01f6cd730caa?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT, United States | Hybrid | Oct 26 |
-| ↳ | **[Full-Time Paid Intern – Friend Writer/Editor (Church Magazines)](https://jobright.ai/jobs/info/6ac354c2064da25272e0e0c0?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT, United States | Hybrid | Oct 26 |
-| **[Financial Times](http://ft.com)** | **[Editorial Engagement and Growth Summer Intern](https://jobright.ai/jobs/info/6aba904a7220f52e62ae6db1?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Oct 26 |
-| **[Freeman Company](https://freemancreacion.com)** | **[2027 TFC Summer Internship - Event & Exhibit Services](https://jobright.ai/jobs/info/6ac40d1b8ff3fb9b3bc83cc3?utm_campaign=1053&utm_source=git)** | McCook, IL, United States | On Site | Oct 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
