@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Mosaic Partners](http://www.mosaicpartners.com)** | **[Media & Content Intern](https://jobright.ai/jobs/info/6ae912926c51033758f4600a?utm_campaign=1053&utm_source=git)** | Omaha, NE, United States | Hybrid | Nov 03 |
 | **[Oklahoma City Thunder](http://okcthunder.com)** | **[Intern, Broadcasting](https://jobright.ai/jobs/info/6ae9136c6c51033758f460c9?utm_campaign=1053&utm_source=git)** | Oklahoma City, OK, United States | On Site | Nov 02 |
 | **[ai.moms](https://aimoms.ai/)** | **[Editorial Intern](https://jobright.ai/jobs/info/6ae9422ae50c01a743a88362?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Remote | Nov 02 |
 | **[Antidote Style](https://www.antidotestyle.com)** | **[Content Production Intern](https://jobright.ai/jobs/info/6ae92b7d6c51033758f46b8b?utm_campaign=1053&utm_source=git)** | Atlanta, GA, United States | On Site | Nov 02 |
@@ -73,7 +74,6 @@ For a complete list, click the following sortable link below:
 | **[Resources for the Future](http://www.rff.org/)** | **[Editorial Intern (Spring Semester)](https://jobright.ai/jobs/info/6abc25ddd6acfd3dd29fc67e?utm_campaign=1053&utm_source=git)** | Washington, DC, United States | On Site | Nov 02 |
 | **[North Carolina State University](http://www.ncsu.edu)** | **[Temporary Student Intern for Departmental Podcast](https://jobright.ai/jobs/info/6ae8bfa203f4a1104b255e3f?utm_campaign=1053&utm_source=git)** | Raleigh, NC, United States | On Site | Nov 02 |
 | **[Thomson Reuters](http://thomsonreuters.com)** | **[Reuters News Internship Program 2027 (Temp Guild) - Graphics, New York](https://jobright.ai/jobs/info/6ae8b176777c336eb6d65133?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Hybrid | Nov 02 |
-| **[Mosaic Partners](http://www.mosaicpartners.com)** | **[Media & Content Intern](https://jobright.ai/jobs/info/6ae912926c51033758f4600a?utm_campaign=1053&utm_source=git)** | Omaha, NE, United States | Hybrid | Nov 02 |
 | **[Phillips](https://www.phillips.com)** | **[Spring Modern & Contemporary Editions Internship](https://jobright.ai/jobs/info/6ae8a104a2a252e219427bf0?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Nov 02 |
 | **[Upptik](https://upptik.com)** | **[Content Creator Intern](https://jobright.ai/jobs/info/6ae89032a2a252e21942751b?utm_campaign=1053&utm_source=git)** | Connecticut, United States | Remote | Nov 02 |
 | **[Envoy Air](https://www.envoyair.com/)** | **[College Intern - Technical Publications Editor](https://jobright.ai/jobs/info/6ae847e0061d6d7ff3d79bf4?utm_campaign=1053&utm_source=git)** | Irving, TX, United States | On Site | Nov 02 |
@@ -140,6 +140,4 @@ For a complete list, click the following sortable link below:
 | **[BPCM](http://www.bpcm.com)** | **[Spring Internship, Fashion](https://jobright.ai/jobs/info/6ae10321de23f466ec8bb4c9?utm_campaign=1053&utm_source=git)** | Brooklyn, NY, United States | On Site | Oct 27 |
 | **[Mission Control](https://missioncontrolspace.com/)** | **[Winter 2026 Content Creation & Video Intern](https://jobright.ai/jobs/info/6ae0f07567c31ab34899ec1e?utm_campaign=1053&utm_source=git)** | Ottawa, ON, Canada | Hybrid | Oct 27 |
 | **[Attain Sports](https://attainsports.com)** | **[Game Presentation Intern - Frederick Keys](https://jobright.ai/jobs/info/6ace72964391691a335ac8ce?utm_campaign=1053&utm_source=git)** | Frederick, MD, United States | On Site | Oct 27 |
-| **[Washington Nationals](https://nationals.mlb.com)** | **[Minor League Video & Technology Intern (2027 Season)](https://jobright.ai/jobs/info/6ae0e877829a3bada15f8705?utm_campaign=1053&utm_source=git)** | United States | Remote | Oct 27 |
-| **[Hasana, Inc.](http://shophasana.com)** | **[Volunteer/Intern: Film/Video Editor](https://jobright.ai/jobs/info/6a51e53ebf63b66c7997e975?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Oct 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
