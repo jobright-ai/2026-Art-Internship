@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Antidote Style](https://www.antidotestyle.com)** | **[Content Production Intern](https://jobright.ai/jobs/info/6ae92b7d6c51033758f46b8b?utm_campaign=1053&utm_source=git)** | Atlanta, GA, United States | On Site | Nov 02 |
 | **[MATTE Projects](https://matteprojects.com/)** | **[Edit Intern - Winter/Spring 2027](https://jobright.ai/jobs/info/6ae8c12afb2cd420ace686c5?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Nov 02 |
 | **[Oklahoma City Thunder](http://okcthunder.com)** | **[Intern, Broadcasting](https://jobright.ai/jobs/info/6ae9136c6c51033758f460c9?utm_campaign=1053&utm_source=git)** | Oklahoma City, OK, United States | On Site | Nov 02 |
 | **[Road Scholar](https://www.roadscholar.org)** | **[Intern, Video Production](https://jobright.ai/jobs/info/6ae91101061d6d7ff3d80297?utm_campaign=1053&utm_source=git)** | Boston, MA, United States | Remote | Nov 02 |
@@ -99,7 +100,6 @@ For a complete list, click the following sortable link below:
 | **[Dallas Symphony Orchestra](https://www.dallassymphony.org)** | **[Artistic Operations Intern](https://jobright.ai/jobs/info/6ae523e4c3139b475b5b91ca?utm_campaign=1053&utm_source=git)** | Dallas, TX, United States | On Site | Oct 30 |
 | **[Behaviour Interactive](http://www.bhvr.com/)** | **[Technical Animator – 7 Days to Die – Internship Winter 2027](https://jobright.ai/jobs/info/6ae3f200c3139b475b5b16bf?utm_campaign=1053&utm_source=git)** | Montreal, QC, Canada | Hybrid | Oct 29 |
 | **[NewsBreak](http://www.newsbreak.com)** | **[Short Drama Creative Editor Intern](https://jobright.ai/jobs/info/6ad171d418608b6f36f841bf?utm_campaign=1053&utm_source=git)** | Mountain View, CA, United States | On Site | Oct 29 |
-| **[Corporate Rizz](www.corporaterizz.com)** | **[Commercial News Reporter Intern - Corporate Rizz](https://jobright.ai/jobs/info/6ae3e61ffb2cd420ace54d9e?utm_campaign=1053&utm_source=git)** | Miami, FL, United States | Remote | Oct 29 |
 | **[McLaren Racing](https://www.mclaren.com/racing/)** | **[Videography Intern](https://jobright.ai/jobs/info/6ad151f7e2d41540d4a6fee3?utm_campaign=1053&utm_source=git)** | Indianapolis, IN, United States | On Site | Oct 29 |
 | **[NewsBreak](http://www.newsbreak.com)** | **[Short Drama Creative Editor Intern](https://jobright.ai/jobs/info/6ad15f0ae2d41540d4a70769?utm_campaign=1053&utm_source=git)** | Mountain View, CA, United States | On Site | Oct 29 |
 | **[Diamond Baseball Holdings](http://diamondbaseballholdings.com/)** | **[Intern, Video Production &  Broadcast (58295)](https://jobright.ai/jobs/info/6ae3b1c7d7424a2a828e21bb?utm_campaign=1053&utm_source=git)** | Midland, TX, United States | On Site | Oct 29 |
