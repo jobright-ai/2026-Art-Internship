@@ -57,10 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[D.C. United](http://dcunited.com)** | **[Match Presentation Internship - Spring 2027](https://jobright.ai/jobs/info/6aea0c9e897466e69e31ac44?utm_campaign=1053&utm_source=git)** | Washington, DC, United States | On Site | Nov 03 |
+| **[Brennan Center for Justice](http://www.brennancenter.org/)** | **[Spring 2027 Multimedia Producer Undergraduate Internship](https://jobright.ai/jobs/info/6ac51319064da25272e14990?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Nov 03 |
 | **[Little League International](https://www.littleleague.org/)** | **[Video Internship - Summer 2027](https://jobright.ai/jobs/info/6ae9f18643826864b0fbb7fd?utm_campaign=1053&utm_source=git)** | South Williamsport, Pennsylvania, United States | On Site | Nov 03 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Paid Spring Music Group Publishing Intern](https://jobright.ai/jobs/info/6acd5fa0002e496d4bef20ac?utm_campaign=1053&utm_source=git)** | Calabasas, CA, United States | On Site | Nov 03 |
 | **[Insomniac Events](http://insomniac.com)** | **[Paid Spring Music Group Publishing Intern](https://jobright.ai/jobs/info/6acd60e53c831dc4086c20df?utm_campaign=1053&utm_source=git)** | Calabasas, CA, United States | On Site | Nov 03 |
 | **[Mosaic Partners](http://www.mosaicpartners.com)** | **[Media & Content Intern](https://jobright.ai/jobs/info/6ae912926c51033758f4600a?utm_campaign=1053&utm_source=git)** | Omaha, NE, United States | Hybrid | Nov 03 |
+| **[Gannett Digital Marketing Services](http://www.gannett.com)** | **[2027 USA TODAY Forward Summer Video Internship - Indianapolis, IN](https://jobright.ai/jobs/info/6aea0b21fc85f3a39432f5a7?utm_campaign=1053&utm_source=git)** | Indianapolis, IN, United States | On Site | Nov 02 |
+| ↳ | **[2027 USA TODAY Co. Summer Video and Social-Media Internship - Naples, FL](https://jobright.ai/jobs/info/6aea0b15913589212b1f2802?utm_campaign=1053&utm_source=git)** | Naples, FL, United States | On Site | Nov 02 |
 | **[Oklahoma City Thunder](http://okcthunder.com)** | **[Intern, Broadcasting](https://jobright.ai/jobs/info/6ae9136c6c51033758f460c9?utm_campaign=1053&utm_source=git)** | Oklahoma City, OK, United States | On Site | Nov 02 |
 | **[Antidote Style](https://www.antidotestyle.com)** | **[Content Production Intern](https://jobright.ai/jobs/info/6ae92b7d6c51033758f46b8b?utm_campaign=1053&utm_source=git)** | Atlanta, GA, United States | On Site | Nov 02 |
 | **[Tepa Companies](https://www.tepa.com/)** | **[Multimedia Communications Intern - Summer 2027](https://jobright.ai/jobs/info/6ae925df061d6d7ff3d80cb2?utm_campaign=1053&utm_source=git)** | Kansas City, MO, United States | On Site | Nov 02 |
