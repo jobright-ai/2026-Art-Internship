@@ -57,11 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Oklahoma City Thunder](http://okcthunder.com)** | **[Intern, Broadcasting](https://jobright.ai/jobs/info/6ae9136c6c51033758f460c9?utm_campaign=1053&utm_source=git)** | Oklahoma City, OK, United States | On Site | Nov 02 |
 | **[ai.moms](https://aimoms.ai/)** | **[Editorial Intern](https://jobright.ai/jobs/info/6ae9422ae50c01a743a88362?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Remote | Nov 02 |
 | **[Antidote Style](https://www.antidotestyle.com)** | **[Content Production Intern](https://jobright.ai/jobs/info/6ae92b7d6c51033758f46b8b?utm_campaign=1053&utm_source=git)** | Atlanta, GA, United States | On Site | Nov 02 |
 | **[Tepa Companies](https://www.tepa.com/)** | **[Multimedia Communications Intern - Summer 2027](https://jobright.ai/jobs/info/6ae925df061d6d7ff3d80cb2?utm_campaign=1053&utm_source=git)** | Kansas City, MO, United States | On Site | Nov 02 |
 | **[MATTE Projects](https://matteprojects.com/)** | **[Edit Intern - Winter/Spring 2027](https://jobright.ai/jobs/info/6ae8c12afb2cd420ace686c5?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Nov 02 |
-| **[Oklahoma City Thunder](http://okcthunder.com)** | **[Intern, Broadcasting](https://jobright.ai/jobs/info/6ae9136c6c51033758f460c9?utm_campaign=1053&utm_source=git)** | Oklahoma City, OK, United States | On Site | Nov 02 |
 | **[Road Scholar](https://www.roadscholar.org)** | **[Intern, Video Production](https://jobright.ai/jobs/info/6ae91101061d6d7ff3d80297?utm_campaign=1053&utm_source=git)** | Boston, MA, United States | Remote | Nov 02 |
 | **[Insomniac Games](https://insomniac.games/)** | **[VFX Intern – Undergraduate or Master's](https://jobright.ai/jobs/info/6ad68d1ae4b94611ab8401ac?utm_campaign=1053&utm_source=git)** | Burbank, CA, United States | On Site | Nov 02 |
 | **[Invite Only Studios](https://inviteonly.studio)** | **[Videography Intern](https://jobright.ai/jobs/info/6ae8fa73777c336eb6d686bc?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Nov 02 |
@@ -143,6 +143,4 @@ For a complete list, click the following sortable link below:
 | **[Washington Nationals](https://nationals.mlb.com)** | **[Minor League Video & Technology Intern (2027 Season)](https://jobright.ai/jobs/info/6ae0e877829a3bada15f8705?utm_campaign=1053&utm_source=git)** | United States | Remote | Oct 27 |
 | **[Hasana, Inc.](http://shophasana.com)** | **[Volunteer/Intern: Film/Video Editor](https://jobright.ai/jobs/info/6a51e53ebf63b66c7997e975?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Oct 27 |
 | **[The Bernard Group, Inc.](http://www.thebernardgroup.com)** | **[Intern, Videographer](https://jobright.ai/jobs/info/6ae0cc4e5a5afc94bd2c7144?utm_campaign=1053&utm_source=git)** | Chanhassen, MN, United States | On Site | Oct 27 |
-| **[Hall of Fame Resort & Entertainment Company](https://www.hofreco.com/)** | **[2027 Pro Football Hall of Fame Internship - PRODUCTION](https://jobright.ai/jobs/info/6adfb6d5c5c64fa3d9cbeb74?utm_campaign=1053&utm_source=git)** | Canton, OH, United States | On Site | Oct 27 |
-| ↳ | **[2027 Pro Football Hall of Fame Internship - SPECIAL EVENTS](https://jobright.ai/jobs/info/6adfb6d3065c4e77efafab05?utm_campaign=1053&utm_source=git)** | Canton, OH, United States | On Site | Oct 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
