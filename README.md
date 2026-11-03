@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Insomniac Events](http://insomniac.com)** | **[Paid Spring Music Group Publishing Intern](https://jobright.ai/jobs/info/6acd60e53c831dc4086c20df?utm_campaign=1053&utm_source=git)** | Calabasas, CA, United States | On Site | Nov 03 |
 | **[Mosaic Partners](http://www.mosaicpartners.com)** | **[Media & Content Intern](https://jobright.ai/jobs/info/6ae912926c51033758f4600a?utm_campaign=1053&utm_source=git)** | Omaha, NE, United States | Hybrid | Nov 03 |
 | **[Oklahoma City Thunder](http://okcthunder.com)** | **[Intern, Broadcasting](https://jobright.ai/jobs/info/6ae9136c6c51033758f460c9?utm_campaign=1053&utm_source=git)** | Oklahoma City, OK, United States | On Site | Nov 02 |
 | **[ai.moms](https://aimoms.ai/)** | **[Editorial Intern](https://jobright.ai/jobs/info/6ae9422ae50c01a743a88362?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Remote | Nov 02 |
@@ -137,5 +138,4 @@ For a complete list, click the following sortable link below:
 | **[Crum & Forster](https://www.cfins.com/)** | **[Video Production Intern](https://jobright.ai/jobs/info/6ae10c4f829a3bada15f9f91?utm_campaign=1053&utm_source=git)** | Morristown, NJ, United States | Remote | Oct 27 |
 | **[Crown Equipment Corporation](https://303crownmaids.com/)** | **[Digital Media Co-Op - Summer 2027](https://jobright.ai/jobs/info/6ae0d9661f9d9308370a4dad?utm_campaign=1053&utm_source=git)** | New Bremen, OH, United States | On Site | Oct 27 |
 | **[Crystal Dynamics](http://crystald.com)** | **[Presentation Animator Intern [Spring 2027]](https://jobright.ai/jobs/info/6ae11510de23f466ec8bc217?utm_campaign=1053&utm_source=git)** | United States | Remote | Oct 27 |
-| **[BPCM](http://www.bpcm.com)** | **[Spring Internship, Fashion](https://jobright.ai/jobs/info/6ae10321de23f466ec8bb4c9?utm_campaign=1053&utm_source=git)** | Brooklyn, NY, United States | On Site | Oct 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
