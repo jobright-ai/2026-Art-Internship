@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ai.moms](https://aimoms.ai/)** | **[Editorial Intern](https://jobright.ai/jobs/info/6ae9422ae50c01a743a88362?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Remote | Nov 02 |
 | **[Antidote Style](https://www.antidotestyle.com)** | **[Content Production Intern](https://jobright.ai/jobs/info/6ae92b7d6c51033758f46b8b?utm_campaign=1053&utm_source=git)** | Atlanta, GA, United States | On Site | Nov 02 |
+| **[Tepa Companies](https://www.tepa.com/)** | **[Multimedia Communications Intern - Summer 2027](https://jobright.ai/jobs/info/6ae925df061d6d7ff3d80cb2?utm_campaign=1053&utm_source=git)** | Kansas City, MO, United States | On Site | Nov 02 |
 | **[MATTE Projects](https://matteprojects.com/)** | **[Edit Intern - Winter/Spring 2027](https://jobright.ai/jobs/info/6ae8c12afb2cd420ace686c5?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Nov 02 |
 | **[Oklahoma City Thunder](http://okcthunder.com)** | **[Intern, Broadcasting](https://jobright.ai/jobs/info/6ae9136c6c51033758f460c9?utm_campaign=1053&utm_source=git)** | Oklahoma City, OK, United States | On Site | Nov 02 |
 | **[Road Scholar](https://www.roadscholar.org)** | **[Intern, Video Production](https://jobright.ai/jobs/info/6ae91101061d6d7ff3d80297?utm_campaign=1053&utm_source=git)** | Boston, MA, United States | Remote | Nov 02 |
@@ -68,7 +70,7 @@ For a complete list, click the following sortable link below:
 | **[Art and Wellness Enterprises](https://aweoffice.org)** | **[2027 Art Management Summer Intern](https://jobright.ai/jobs/info/6ae8b168a2a252e21942846d?utm_campaign=1053&utm_source=git)** | Bentonville, AR, United States | On Site | Nov 02 |
 | **[The Pilates Rx](http://pilates.therxmovement.com)** | **[Studio Intern](https://jobright.ai/jobs/info/6ae8cb3f061d6d7ff3d7d268?utm_campaign=1053&utm_source=git)** | Somerville, MA, United States | On Site | Nov 02 |
 | **[The Seattle Times](http://seattletimes.com/)** | **[Summer 2027 News Producer Internship](https://jobright.ai/jobs/info/6ae8c8fa061d6d7ff3d7d0d5?utm_campaign=1053&utm_source=git)** | Seattle, WA, United States | On Site | Nov 02 |
-| **[Resources for the Future](http://www.rff.org/)** | **[Editorial Intern (Spring Semester)](https://jobright.ai/jobs/info/6abc25ddd6acfd3dd29fc67e?utm_campaign=1053&utm_source=git)** | Washington, DC, United States | On Site | Nov 02 |
+| **[Resources for the Future](http://www.rff.org/)** | **[Editorial Intern (Spring Semester)](https://jobright.ai/jobs/info/6abc26a23217d1d13329d852?utm_campaign=1053&utm_source=git)** | Washington, DC, United States | On Site | Nov 02 |
 | **[North Carolina State University](http://www.ncsu.edu)** | **[Temporary Student Intern for Departmental Podcast](https://jobright.ai/jobs/info/6ae8bfa203f4a1104b255e3f?utm_campaign=1053&utm_source=git)** | Raleigh, NC, United States | On Site | Nov 02 |
 | **[Thomson Reuters](http://thomsonreuters.com)** | **[Reuters News Internship Program 2027 (Temp Guild) - Graphics, New York](https://jobright.ai/jobs/info/6ae8b176777c336eb6d65133?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Hybrid | Nov 02 |
 | **[Mosaic Partners](http://www.mosaicpartners.com)** | **[Media & Content Intern](https://jobright.ai/jobs/info/6ae912926c51033758f4600a?utm_campaign=1053&utm_source=git)** | Omaha, NE, United States | Hybrid | Nov 02 |
@@ -77,7 +79,6 @@ For a complete list, click the following sortable link below:
 | **[Envoy Air](https://www.envoyair.com/)** | **[College Intern - Technical Publications Editor](https://jobright.ai/jobs/info/6ae847e0061d6d7ff3d79bf4?utm_campaign=1053&utm_source=git)** | Irving, TX, United States | On Site | Nov 02 |
 | **[Pasilobus](https://pasilobus.com/)** | **[Content Creator Intern (Part-Time)](https://jobright.ai/jobs/info/6ae84b8777c09cb3bd4babde?utm_campaign=1053&utm_source=git)** | Seattle, WA, United States | Remote | Nov 02 |
 | **[Colorado Golf Association](http://www.cogolf.org/)** | **[2027 NJ Golf P.J. Boatwright Communications Internship - Editorial & Storytelling](https://jobright.ai/jobs/info/6ae8c9f4061d6d7ff3d7d17c?utm_campaign=1053&utm_source=git)** | Kenilworth, NJ, United States | On Site | Nov 01 |
-| **[Tepa Companies](https://www.tepa.com/)** | **[Multimedia Communications Intern - Summer 2027](https://jobright.ai/jobs/info/6ae925df061d6d7ff3d80cb2?utm_campaign=1053&utm_source=git)** | Kansas City, MO, United States | On Site | Nov 01 |
 | **[The New Republic](http://www.newrepublic.com/)** | **[Editorial Intern](https://jobright.ai/jobs/info/6ae7a327bad9293a40a42b64?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Remote | Nov 01 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Sports Intern- Fall 2026](https://jobright.ai/jobs/info/6ae74b56bad9293a40a4203e?utm_campaign=1053&utm_source=git)** | Washington, DC, United States | On Site | Nov 01 |
 | **[Deseret News](http://www.deseretnews.com/)** | **[Church News Writer - Fall 2026 Internship](https://jobright.ai/jobs/info/6ae7b270a2a252e2194240f3?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT, United States | On Site | Oct 31 |
