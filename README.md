@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Bloomberg Industry Group](https://www.bloombergindustry.com/)** | **[2027 Summer News Internship: Graphics - Graphics/Data Visualization Journalist](https://jobright.ai/jobs/info/6ab3de2ad2f5fbd604be00bd?utm_campaign=1053&utm_source=git)** | Arlington, VA, United States | On Site | Nov 04 |
 | **[The Ambony](https://www.anpublishing.com/)** | **[International Editor (Internship)](https://jobright.ai/jobs/info/6aeaaf461ba298c77777475a?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Remote | Nov 03 |
 | **[NTA Talent Agency](https://ntatalent.com)** | **[NTA Talent Agency Editing Student Internship](https://jobright.ai/jobs/info/6aeaa2b01ba298c777774360?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | Remote | Nov 03 |
 | **[Style On The Spot](http://www.StyleOnTheSpot.com)** | **[Style On the Spot Internship](https://jobright.ai/jobs/info/6aea84f41ba298c777773ad4?utm_campaign=1053&utm_source=git)** | Manhattan Beach, CA, United States | On Site | Nov 03 |
@@ -99,7 +100,7 @@ For a complete list, click the following sortable link below:
 | **[Art and Wellness Enterprises](https://aweoffice.org)** | **[2027 Art Management Summer Intern](https://jobright.ai/jobs/info/6ae8b168a2a252e21942846d?utm_campaign=1053&utm_source=git)** | Bentonville, AR, United States | On Site | Nov 02 |
 | **[The Pilates Rx](http://pilates.therxmovement.com)** | **[Studio Intern](https://jobright.ai/jobs/info/6ae8cb3f061d6d7ff3d7d268?utm_campaign=1053&utm_source=git)** | Somerville, MA, United States | On Site | Nov 02 |
 | **[The Seattle Times](http://seattletimes.com/)** | **[Summer 2027 News Producer Internship](https://jobright.ai/jobs/info/6ae8c8fa061d6d7ff3d7d0d5?utm_campaign=1053&utm_source=git)** | Seattle, WA, United States | On Site | Nov 02 |
-| **[Resources for the Future](http://www.rff.org/)** | **[Editorial Intern (Spring Semester)](https://jobright.ai/jobs/info/6abc25ddd6acfd3dd29fc67e?utm_campaign=1053&utm_source=git)** | Washington, DC, United States | On Site | Nov 02 |
+| **[Resources for the Future](http://www.rff.org/)** | **[Editorial Intern (Spring Semester)](https://jobright.ai/jobs/info/6abc26a23217d1d13329d852?utm_campaign=1053&utm_source=git)** | Washington, DC, United States | On Site | Nov 02 |
 | **[North Carolina State University](http://www.ncsu.edu)** | **[Temporary Student Intern for Departmental Podcast](https://jobright.ai/jobs/info/6ae8bfa203f4a1104b255e3f?utm_campaign=1053&utm_source=git)** | Raleigh, NC, United States | On Site | Nov 02 |
 | **[Thomson Reuters](http://thomsonreuters.com)** | **[Reuters News Internship Program 2027 (Temp Guild) - Graphics, New York](https://jobright.ai/jobs/info/6ae8b176777c336eb6d65133?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Hybrid | Nov 02 |
 | **[Phillips](https://www.phillips.com)** | **[Spring Modern & Contemporary Editions Internship](https://jobright.ai/jobs/info/6ae8a104a2a252e219427bf0?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Nov 02 |
@@ -151,5 +152,4 @@ For a complete list, click the following sortable link below:
 | **[Temecula City Lifestyle](www.citylifestyle.com/temecula)** | **[Editorial Internship](https://jobright.ai/jobs/info/6ae26c8805a39c3e2c71a477?utm_campaign=1053&utm_source=git)** | Temecula, CA, United States | Hybrid | Oct 28 |
 | **[Miami Waterkeeper](https://www.miamiwaterkeeper.org)** | **[VIDEOGRAPHY INTERN](https://jobright.ai/jobs/info/6abd4d97064da25272dfcdb4?utm_campaign=1053&utm_source=git)** | Coral Gables, FL, United States | On Site | Oct 28 |
 | **[Zipline](https://www.zipline.com/)** | **[Video Production Intern (Spring 2027)](https://jobright.ai/jobs/info/6a85d6d7e459fa3baa864167?utm_campaign=1053&utm_source=git)** | South San Francisco, CA, United States | On Site | Oct 28 |
-| **[Omni Hotels & Resorts](http://www.omnihotels.com/)** | **[Omni Care Internship Culinary / Winter 2027](https://jobright.ai/jobs/info/6ae204da1f9d9308370ad271?utm_campaign=1053&utm_source=git)** | Bretton Woods, NH, United States | On Site | Oct 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
