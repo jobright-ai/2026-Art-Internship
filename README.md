@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Auburn University](https://www.auburn.edu/)** | **[Special Event Crew Student Intern](https://jobright.ai/jobs/info/6aea595e1ba298c7777720ac?utm_campaign=1053&utm_source=git)** | Auburn, AL, United States | On Site | Nov 03 |
+| **[Jomboy](https://jomboymedia.com)** | **[Content Research Intern- Spring 2027](https://jobright.ai/jobs/info/6aea5933440b469a1c0ad288?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Nov 03 |
+| ↳ | **[Content Research Intern- Summer 2027](https://jobright.ai/jobs/info/6aea5930fc85f3a394332e66?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Nov 03 |
+| **[First Tee — Central Florida](https://www.firstteecfl.org)** | **[Studio Intern](https://jobright.ai/jobs/info/6aea54474f991d64376cd0fb?utm_campaign=1053&utm_source=git)** | Oviedo, FL, United States | Remote | Nov 03 |
 | **[Place Showroom](http://placeshowroom.com)** | **[LA Internship Spring 2027](https://jobright.ai/jobs/info/6aea3c21440b469a1c0abfcf?utm_campaign=1053&utm_source=git)** | Los Angeles, United States | On Site | Nov 03 |
 | **[Winterville Chamber of Commerce](https://www.wintervillechamber.com)** | **[Business Feature Writing Intern](https://jobright.ai/jobs/info/6aea39141ba298c777770baa?utm_campaign=1053&utm_source=git)** | Winterville, NC, United States | Remote | Nov 03 |
 | **[GigFinesse](https://www.gigfinesse.com/)** | **[Artist Relations Intern NYC/Boston (Spring 2027)](https://jobright.ai/jobs/info/6aea2598897466e69e31bf97?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Remote | Nov 03 |
@@ -71,8 +75,8 @@ For a complete list, click the following sortable link below:
 | **[Mosaic Partners](http://www.mosaicpartners.com)** | **[Media & Content Intern](https://jobright.ai/jobs/info/6ae912926c51033758f4600a?utm_campaign=1053&utm_source=git)** | Omaha, NE, United States | Hybrid | Nov 03 |
 | **[USA TODAY Co., Inc.](https://www.usatodayco.com)** | **[2027 USA TODAY Forward Summer Video Internship - Indianapolis, IN](https://jobright.ai/jobs/info/6aea15ad440b469a1c0aa670?utm_campaign=1053&utm_source=git)** | Indianapolis, IN, United States | On Site | Nov 02 |
 | **[Simon & Schuster](http://www.simonandschuster.com)** | **[Simon & Schuster Canada Internships (4) - Winter/Spring 2027](https://jobright.ai/jobs/info/6aea0fd0913589212b1f2f04?utm_campaign=1053&utm_source=git)** | Toronto, ON, Canada | Hybrid | Nov 02 |
-| **[Gannett Digital Marketing Services](http://www.gannett.com)** | **[2027 USA TODAY Forward Summer Video Internship - Indianapolis, IN](https://jobright.ai/jobs/info/6aea0b21fc85f3a39432f5a7?utm_campaign=1053&utm_source=git)** | Indianapolis, IN, United States | On Site | Nov 02 |
-| ↳ | **[2027 USA TODAY Co. Summer Video and Social-Media Internship - Naples, FL](https://jobright.ai/jobs/info/6aea0b15913589212b1f2802?utm_campaign=1053&utm_source=git)** | Naples, FL, United States | On Site | Nov 02 |
+| **[Gannett Digital Marketing Services](http://www.gannett.com)** | **[2027 USA TODAY Co. Summer Video and Social-Media Internship - Naples, FL](https://jobright.ai/jobs/info/6aea0b15913589212b1f2802?utm_campaign=1053&utm_source=git)** | Naples, FL, United States | On Site | Nov 02 |
+| ↳ | **[2027 USA TODAY Forward Summer Video Internship - Indianapolis, IN](https://jobright.ai/jobs/info/6aea0b21fc85f3a39432f5a7?utm_campaign=1053&utm_source=git)** | Indianapolis, IN, United States | On Site | Nov 02 |
 | **[Oklahoma City Thunder](http://okcthunder.com)** | **[Intern, Broadcasting](https://jobright.ai/jobs/info/6ae9136c6c51033758f460c9?utm_campaign=1053&utm_source=git)** | Oklahoma City, OK, United States | On Site | Nov 02 |
 | **[Antidote Style](https://www.antidotestyle.com)** | **[Content Production Intern](https://jobright.ai/jobs/info/6ae92b7d6c51033758f46b8b?utm_campaign=1053&utm_source=git)** | Atlanta, GA, United States | On Site | Nov 02 |
 | **[Tepa Companies](https://www.tepa.com/)** | **[Multimedia Communications Intern - Summer 2027](https://jobright.ai/jobs/info/6ae925df061d6d7ff3d80cb2?utm_campaign=1053&utm_source=git)** | Kansas City, MO, United States | On Site | Nov 02 |
