@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Greater OKC Hispanic Chamber of Commerce](http://www.okchispanicchamber.org)** | **[Intern, Broadcasting](https://jobright.ai/jobs/info/6aeb1eb5765815f7d745c954?utm_campaign=1053&utm_source=git)** | Oklahoma City, OK, United States | On Site | Nov 04 |
 | **[Institute for the Study of War](http://understandingwar.org/)** | **[Multimedia & Video Production Internship Spring 2027](https://jobright.ai/jobs/info/6ad906b9b0725dc268dd89c8?utm_campaign=1053&utm_source=git)** | Washington, DC, United States | Hybrid | Nov 04 |
 | **[Bloomberg Industry Group](https://www.bloombergindustry.com/)** | **[2027 Summer News Internship: Graphics - Graphics/Data Visualization Journalist](https://jobright.ai/jobs/info/6ab3de2ad2f5fbd604be00bd?utm_campaign=1053&utm_source=git)** | Arlington, VA, United States | On Site | Nov 04 |
 | **[The Ambony](https://www.anpublishing.com/)** | **[International Editor (Internship)](https://jobright.ai/jobs/info/6aeaaf461ba298c77777475a?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Remote | Nov 03 |
@@ -124,6 +125,7 @@ For a complete list, click the following sortable link below:
 | **[Dow Jones](http://www.dowjones.com)** | **[Summer 2027 Internship – Audio and Video Production, WSJ Brand Studio](https://jobright.ai/jobs/info/6ae4c77bc3139b475b5b5b19?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Oct 30 |
 | **[WHYY](http://whyy.org/)** | **[TV Production Intern](https://jobright.ai/jobs/info/6ae4cb78c3139b475b5b5ddf?utm_campaign=1053&utm_source=git)** | Philadelphia, PA, United States | On Site | Oct 30 |
 | **[News Corp](https://newscorp.com/)** | **[Summer 2027 Internship – Audio and Video Production, WSJ Brand Studio](https://jobright.ai/jobs/info/6ae4c1bcfb2cd420ace5955c?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Oct 30 |
+| **[NESN](http://nesn.com)** | **[Creative Services Post-Production Intern - Summer/Fall 2026](https://jobright.ai/jobs/info/6aeb27fba0b134121d997113?utm_campaign=1053&utm_source=git)** | Pittsburgh, PA, United States | On Site | Oct 30 |
 | **[HarperCollins Christian Publishing](https://www.harpercollinschristian.com/)** | **[2027 Spring Internship - Editorial Intern, Zonderkidz/Blink/DaySpring Kids (Remote US)](https://jobright.ai/jobs/info/6ae49014c3139b475b5b3ecf?utm_campaign=1053&utm_source=git)** | United States | Remote | Oct 30 |
 | **[Simons Foundation](https://www.simonsfoundation.org)** | **[Science Reporting Intern, The Transmitter](https://jobright.ai/jobs/info/6abea9404ac55253f5d61d30?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Oct 30 |
 | **[Dallas Symphony Orchestra](https://www.dallassymphony.org)** | **[Artistic Operations Intern](https://jobright.ai/jobs/info/6ae523e4c3139b475b5b91ca?utm_campaign=1053&utm_source=git)** | Dallas, TX, United States | On Site | Oct 30 |
