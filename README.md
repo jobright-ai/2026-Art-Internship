@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Isetta](https://www.isetta.co )** | **[Intern - Los Angeles](https://jobright.ai/jobs/info/6aeb5fa7f40efa43f4a16937?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | Hybrid | Nov 04 |
+| **[Bold Magazine](https://linktr.ee/boldmag)** | **[Editorial Intern](https://jobright.ai/jobs/info/6aeb5e2365311d97105b7c2c?utm_campaign=1053&utm_source=git)** | United States | Remote | Nov 04 |
+| **[Boost Engine Tech](https://boostengines.com)** | **[Creator Manager Intern, TikTok Shop](https://jobright.ai/jobs/info/6aeb5a29765815f7d745f42c?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Nov 04 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid News Intern](https://jobright.ai/jobs/info/6ace590e4391691a335ac06a?utm_campaign=1053&utm_source=git)** | Wichita, KS, United States | On Site | Nov 04 |
 | ↳ | **[Unpaid Intern](https://jobright.ai/jobs/info/6a9674f7455eaf6a08c17881?utm_campaign=1053&utm_source=git)** | Peoria, IL, United States | On Site | Nov 04 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/6ab2ddb11e4847ddae916da4?utm_campaign=1053&utm_source=git)** | Henderson, KY, United States | On Site | Nov 04 |
@@ -69,7 +72,6 @@ For a complete list, click the following sortable link below:
 | **[The Ambony](https://www.anpublishing.com/)** | **[International Editor (Internship)](https://jobright.ai/jobs/info/6aeaaf461ba298c77777475a?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Remote | Nov 03 |
 | **[NTA Talent Agency](https://ntatalent.com)** | **[NTA Talent Agency Editing Student Internship](https://jobright.ai/jobs/info/6aeaa2b01ba298c777774360?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | Remote | Nov 03 |
 | **[David Yurman](http://www.davidyurman.com)** | **[Video Intern, E-Comm](https://jobright.ai/jobs/info/6aeb591b65311d97105b7710?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Hybrid | Nov 03 |
-| **[Style On The Spot](http://www.StyleOnTheSpot.com)** | **[Style On the Spot Internship](https://jobright.ai/jobs/info/6aea84f41ba298c777773ad4?utm_campaign=1053&utm_source=git)** | Manhattan Beach, CA, United States | On Site | Nov 03 |
 | **[Place Showroom](http://placeshowroom.com)** | **[LA Internship Spring 2027](https://jobright.ai/jobs/info/6aea3c21440b469a1c0abfcf?utm_campaign=1053&utm_source=git)** | Los Angeles, United States | On Site | Nov 03 |
 | **[MATTE Projects](https://matteprojects.com/)** | **[Experiential Production Intern - Winter/Spring 2027 (On-Site)](https://jobright.ai/jobs/info/6aea203c913589212b1f3b95?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Nov 03 |
 | **[JM Family Enterprises, Inc.](http://www.jmfamily.com/)** | **[Digital Content Writing Intern](https://jobright.ai/jobs/info/6aea61cf440b469a1c0ad7e4?utm_campaign=1053&utm_source=git)** | Deerfield Beach, FL, United States | On Site | Nov 03 |
@@ -132,7 +134,6 @@ For a complete list, click the following sortable link below:
 | **[WHYY](http://whyy.org/)** | **[TV Production Intern](https://jobright.ai/jobs/info/6ae4cb78c3139b475b5b5ddf?utm_campaign=1053&utm_source=git)** | Philadelphia, PA, United States | On Site | Oct 30 |
 | **[News Corp](https://newscorp.com/)** | **[Summer 2027 Internship – Audio and Video Production, WSJ Brand Studio](https://jobright.ai/jobs/info/6ae4c1bcfb2cd420ace5955c?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Oct 30 |
 | **[NESN](http://nesn.com)** | **[Creative Services Post-Production Intern - Summer/Fall 2026](https://jobright.ai/jobs/info/6aeb27fba0b134121d997113?utm_campaign=1053&utm_source=git)** | Pittsburgh, PA, United States | On Site | Oct 30 |
-| **[HarperCollins Christian Publishing](https://www.harpercollinschristian.com/)** | **[2027 Spring Internship - Editorial Intern, Zonderkidz/Blink/DaySpring Kids (Remote US)](https://jobright.ai/jobs/info/6ae49014c3139b475b5b3ecf?utm_campaign=1053&utm_source=git)** | United States | Remote | Oct 30 |
 | **[Simons Foundation](https://www.simonsfoundation.org)** | **[Science Reporting Intern, The Transmitter](https://jobright.ai/jobs/info/6abea9404ac55253f5d61d30?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Oct 30 |
 | **[Dallas Symphony Orchestra](https://www.dallassymphony.org)** | **[Artistic Operations Intern](https://jobright.ai/jobs/info/6ae523e4c3139b475b5b91ca?utm_campaign=1053&utm_source=git)** | Dallas, TX, United States | On Site | Oct 30 |
 | **[Behaviour Interactive](http://www.bhvr.com/)** | **[Technical Animator – 7 Days to Die – Internship Winter 2027](https://jobright.ai/jobs/info/6ae3f200c3139b475b5b16bf?utm_campaign=1053&utm_source=git)** | Montreal, QC, Canada | Hybrid | Oct 29 |
@@ -154,5 +155,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2027 Internship Program – Barron's Reporter Intern](https://jobright.ai/jobs/info/6ac6a5008ff3fb9b3bc8e53f?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Oct 29 |
 | **[The Chisholm Legacy Project: A Resource Hub for Black Frontline Climate Justice Leadership](https://thechisholmlegacyproject.org)** | **[Communication and Narrative Strategy Intern](https://jobright.ai/jobs/info/6ae3217beab1f96730972264?utm_campaign=1053&utm_source=git)** | United States | Remote | Oct 29 |
 | **[Quad](https://www.quad.com)** | **[Milwaukee Magazine Editorial Internship, Spring 2027](https://jobright.ai/jobs/info/6ac6a75c064da25272e1ba39?utm_campaign=1053&utm_source=git)** | West Allis, WI, United States | Hybrid | Oct 29 |
-| **[United Launch Alliance (ULA)](http://www.ulalaunch.com)** | **[Video Editing Internship Summer 2027 Job Details / United Launch Alliance](https://jobright.ai/jobs/info/6ae29d256679108488c4cbe5?utm_campaign=1053&utm_source=git)** | Denver, CO, United States | On Site | Oct 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
