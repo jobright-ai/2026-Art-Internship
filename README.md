@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Style On The Spot](http://www.StyleOnTheSpot.com)** | **[Style On the Spot Internship](https://jobright.ai/jobs/info/6aea84f41ba298c777773ad4?utm_campaign=1053&utm_source=git)** | Manhattan Beach, CA, United States | On Site | Nov 03 |
 | **[Place Showroom](http://placeshowroom.com)** | **[LA Internship Spring 2027](https://jobright.ai/jobs/info/6aea3c21440b469a1c0abfcf?utm_campaign=1053&utm_source=git)** | Los Angeles, United States | On Site | Nov 03 |
 | **[MATTE Projects](https://matteprojects.com/)** | **[Experiential Production Intern - Winter/Spring 2027 (On-Site)](https://jobright.ai/jobs/info/6aea203c913589212b1f3b95?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Nov 03 |
 | **[JM Family Enterprises, Inc.](http://www.jmfamily.com/)** | **[Digital Content Writing Intern](https://jobright.ai/jobs/info/6aea61cf440b469a1c0ad7e4?utm_campaign=1053&utm_source=git)** | Deerfield Beach, FL, United States | On Site | Nov 03 |
@@ -80,8 +81,8 @@ For a complete list, click the following sortable link below:
 | **[Mosaic Partners](http://www.mosaicpartners.com)** | **[Media & Content Intern](https://jobright.ai/jobs/info/6ae912926c51033758f4600a?utm_campaign=1053&utm_source=git)** | Omaha, NE, United States | Hybrid | Nov 03 |
 | **[USA TODAY Co., Inc.](https://www.usatodayco.com)** | **[2027 USA TODAY Forward Summer Video Internship - Indianapolis, IN](https://jobright.ai/jobs/info/6aea15ad440b469a1c0aa670?utm_campaign=1053&utm_source=git)** | Indianapolis, IN, United States | On Site | Nov 02 |
 | **[Simon & Schuster](http://www.simonandschuster.com)** | **[Simon & Schuster Canada Internships (4) - Winter/Spring 2027](https://jobright.ai/jobs/info/6aea0fd0913589212b1f2f04?utm_campaign=1053&utm_source=git)** | Toronto, ON, Canada | Hybrid | Nov 02 |
-| **[Gannett Digital Marketing Services](http://www.gannett.com)** | **[2027 USA TODAY Co. Summer Video and Social-Media Internship - Naples, FL](https://jobright.ai/jobs/info/6aea0b15913589212b1f2802?utm_campaign=1053&utm_source=git)** | Naples, FL, United States | On Site | Nov 02 |
-| ↳ | **[2027 USA TODAY Forward Summer Video Internship - Indianapolis, IN](https://jobright.ai/jobs/info/6aea0b21fc85f3a39432f5a7?utm_campaign=1053&utm_source=git)** | Indianapolis, IN, United States | On Site | Nov 02 |
+| **[Gannett Digital Marketing Services](http://www.gannett.com)** | **[2027 USA TODAY Forward Summer Video Internship - Indianapolis, IN](https://jobright.ai/jobs/info/6aea0b21fc85f3a39432f5a7?utm_campaign=1053&utm_source=git)** | Indianapolis, IN, United States | On Site | Nov 02 |
+| ↳ | **[2027 USA TODAY Co. Summer Video and Social-Media Internship - Naples, FL](https://jobright.ai/jobs/info/6aea0b15913589212b1f2802?utm_campaign=1053&utm_source=git)** | Naples, FL, United States | On Site | Nov 02 |
 | **[Oklahoma City Thunder](http://okcthunder.com)** | **[Intern, Broadcasting](https://jobright.ai/jobs/info/6ae9136c6c51033758f460c9?utm_campaign=1053&utm_source=git)** | Oklahoma City, OK, United States | On Site | Nov 02 |
 | **[Antidote Style](https://www.antidotestyle.com)** | **[Content Production Intern](https://jobright.ai/jobs/info/6ae92b7d6c51033758f46b8b?utm_campaign=1053&utm_source=git)** | Atlanta, GA, United States | On Site | Nov 02 |
 | **[Tepa Companies](https://www.tepa.com/)** | **[Multimedia Communications Intern - Summer 2027](https://jobright.ai/jobs/info/6ae925df061d6d7ff3d80cb2?utm_campaign=1053&utm_source=git)** | Kansas City, MO, United States | On Site | Nov 02 |
