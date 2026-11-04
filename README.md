@@ -57,7 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[The Ambony](https://www.anpublishing.com/)** | **[International Editor (Internship)](https://jobright.ai/jobs/info/6aeaaf51897466e69e3209be?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Remote | Nov 03 |
+| **[The Ambony](https://www.anpublishing.com/)** | **[International Editor (Internship)](https://jobright.ai/jobs/info/6aeaaf461ba298c77777475a?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Remote | Nov 03 |
 | **[NTA Talent Agency](https://ntatalent.com)** | **[NTA Talent Agency Editing Student Internship](https://jobright.ai/jobs/info/6aeaa2b01ba298c777774360?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | Remote | Nov 03 |
 | **[Style On The Spot](http://www.StyleOnTheSpot.com)** | **[Style On the Spot Internship](https://jobright.ai/jobs/info/6aea84f41ba298c777773ad4?utm_campaign=1053&utm_source=git)** | Manhattan Beach, CA, United States | On Site | Nov 03 |
 | **[Place Showroom](http://placeshowroom.com)** | **[LA Internship Spring 2027](https://jobright.ai/jobs/info/6aea3c21440b469a1c0abfcf?utm_campaign=1053&utm_source=git)** | Los Angeles, United States | On Site | Nov 03 |
@@ -153,5 +153,4 @@ For a complete list, click the following sortable link below:
 | **[Omni Hotels & Resorts](http://www.omnihotels.com/)** | **[Omni Care Internship Culinary / Winter 2027](https://jobright.ai/jobs/info/6ae204da1f9d9308370ad271?utm_campaign=1053&utm_source=git)** | Bretton Woods, NH, United States | On Site | Oct 28 |
 | **[Buchwald](https://www.buchwald.com)** | **[Intern NY](https://jobright.ai/jobs/info/6ae26a0105a39c3e2c71a37d?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Oct 28 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Media Production Intern (In- Person) Fall 2026.](https://jobright.ai/jobs/info/6a398ce3f6b55d12c7928b8e?utm_campaign=1053&utm_source=git)** | AL, Mobile, United States of America | On Site | Oct 28 |
-| **[Relativity Space](http://relativityspace.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/6ac53336d9621c5b283a3d34?utm_campaign=1053&utm_source=git)** | Long Beach, CA, United States | On Site | Oct 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
