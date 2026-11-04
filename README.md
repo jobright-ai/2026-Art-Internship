@@ -57,8 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Northstar Travel Group](http://www.NorthstarTravelGroup.com)** | **[Editorial Intern](https://jobright.ai/jobs/info/6aceaa2e4f3229123da3d854?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | Hybrid | Nov 04 |
+| **[D.C. United](http://dcunited.com)** | **[Videographer Internship - Spring 2027](https://jobright.ai/jobs/info/6aeb6cada0b134121d99a8d3?utm_campaign=1053&utm_source=git)** | Washington, DC, United States | Hybrid | Nov 04 |
+| **[David Yurman](http://www.davidyurman.com)** | **[Video Intern, E-Comm](https://jobright.ai/jobs/info/6aeb591b65311d97105b7710?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Hybrid | Nov 04 |
 | **[Isetta](https://www.isetta.co )** | **[Intern - Los Angeles](https://jobright.ai/jobs/info/6aeb5fa7f40efa43f4a16937?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | Hybrid | Nov 04 |
 | **[Bold Magazine](https://linktr.ee/boldmag)** | **[Editorial Intern](https://jobright.ai/jobs/info/6aeb5e2365311d97105b7c2c?utm_campaign=1053&utm_source=git)** | United States | Remote | Nov 04 |
+| **[BRIDGE SHOWROOM](http://www.bridgeshowroom.com)** | **[Fashion Intern](https://jobright.ai/jobs/info/6aeb7a37765815f7d7460c85?utm_campaign=1053&utm_source=git)** | San Francisco, CA, United States | On Site | Nov 04 |
 | **[Boost Engine Tech](https://boostengines.com)** | **[Creator Manager Intern, TikTok Shop](https://jobright.ai/jobs/info/6aeb5a29765815f7d745f42c?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Nov 04 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid News Intern](https://jobright.ai/jobs/info/6ace590e4391691a335ac06a?utm_campaign=1053&utm_source=git)** | Wichita, KS, United States | On Site | Nov 04 |
 | ↳ | **[Unpaid Intern](https://jobright.ai/jobs/info/6a9674f7455eaf6a08c17881?utm_campaign=1053&utm_source=git)** | Peoria, IL, United States | On Site | Nov 04 |
@@ -71,7 +75,7 @@ For a complete list, click the following sortable link below:
 | **[Bloomberg Industry Group](https://www.bloombergindustry.com/)** | **[2027 Summer News Internship: Graphics - Graphics/Data Visualization Journalist](https://jobright.ai/jobs/info/6ab3de2ad2f5fbd604be00bd?utm_campaign=1053&utm_source=git)** | Arlington, VA, United States | On Site | Nov 04 |
 | **[The Ambony](https://www.anpublishing.com/)** | **[International Editor (Internship)](https://jobright.ai/jobs/info/6aeaaf461ba298c77777475a?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Remote | Nov 03 |
 | **[NTA Talent Agency](https://ntatalent.com)** | **[NTA Talent Agency Editing Student Internship](https://jobright.ai/jobs/info/6aeaa2b01ba298c777774360?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | Remote | Nov 03 |
-| **[David Yurman](http://www.davidyurman.com)** | **[Video Intern, E-Comm](https://jobright.ai/jobs/info/6aeb591b65311d97105b7710?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Hybrid | Nov 03 |
+| **[Adobe](http://www.adobe.com)** | **[2027 Intern - Media & Editorial Generalist](https://jobright.ai/jobs/info/6aeb6fb6fbe13dfb53df402c?utm_campaign=1053&utm_source=git)** | San Francisco, CA, United States | On Site | Nov 03 |
 | **[Place Showroom](http://placeshowroom.com)** | **[LA Internship Spring 2027](https://jobright.ai/jobs/info/6aea3c21440b469a1c0abfcf?utm_campaign=1053&utm_source=git)** | Los Angeles, United States | On Site | Nov 03 |
 | **[MATTE Projects](https://matteprojects.com/)** | **[Experiential Production Intern - Winter/Spring 2027 (On-Site)](https://jobright.ai/jobs/info/6aea203c913589212b1f3b95?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Nov 03 |
 | **[JM Family Enterprises, Inc.](http://www.jmfamily.com/)** | **[Digital Content Writing Intern](https://jobright.ai/jobs/info/6aea61cf440b469a1c0ad7e4?utm_campaign=1053&utm_source=git)** | Deerfield Beach, FL, United States | On Site | Nov 03 |
@@ -107,7 +111,6 @@ For a complete list, click the following sortable link below:
 | **[Insomniac Games](https://insomniac.games/)** | **[VFX Intern – Undergraduate or Master's](https://jobright.ai/jobs/info/6ad68d1ae4b94611ab8401ac?utm_campaign=1053&utm_source=git)** | Burbank, CA, United States | On Site | Nov 02 |
 | **[Invite Only Studios](https://inviteonly.studio)** | **[Videography Intern](https://jobright.ai/jobs/info/6ae8fa73777c336eb6d686bc?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Nov 02 |
 | **[Back Roads Entertainment](https://backroadsentertainment.com)** | **[Love on Demand Post Production Intern](https://jobright.ai/jobs/info/6ae8f0ab6c51033758f4466a?utm_campaign=1053&utm_source=git)** | Austin, TX, United States | On Site | Nov 02 |
-| **[Escape™ App AI](https://escapeapp.ai)** | **[Cutscene Intern](https://jobright.ai/jobs/info/6ae8d6d9777c336eb6d66c1e?utm_campaign=1053&utm_source=git)** | United States | On Site | Nov 02 |
 | **[Art and Wellness Enterprises](https://aweoffice.org)** | **[2027 Art Management Summer Intern](https://jobright.ai/jobs/info/6ae8b168a2a252e21942846d?utm_campaign=1053&utm_source=git)** | Bentonville, AR, United States | On Site | Nov 02 |
 | **[The Pilates Rx](http://pilates.therxmovement.com)** | **[Studio Intern](https://jobright.ai/jobs/info/6ae8cb3f061d6d7ff3d7d268?utm_campaign=1053&utm_source=git)** | Somerville, MA, United States | On Site | Nov 02 |
 | **[The Seattle Times](http://seattletimes.com/)** | **[Summer 2027 News Producer Internship](https://jobright.ai/jobs/info/6ae8c8fa061d6d7ff3d7d0d5?utm_campaign=1053&utm_source=git)** | Seattle, WA, United States | On Site | Nov 02 |
@@ -154,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Dow Jones](http://www.dowjones.com)** | **[Summer 2027 Internship Program – Video Intern](https://jobright.ai/jobs/info/6ac6a51b8ff3fb9b3bc8e55f?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Oct 29 |
 | ↳ | **[Summer 2027 Internship Program – Barron's Reporter Intern](https://jobright.ai/jobs/info/6ac6a5008ff3fb9b3bc8e53f?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Oct 29 |
 | **[The Chisholm Legacy Project: A Resource Hub for Black Frontline Climate Justice Leadership](https://thechisholmlegacyproject.org)** | **[Communication and Narrative Strategy Intern](https://jobright.ai/jobs/info/6ae3217beab1f96730972264?utm_campaign=1053&utm_source=git)** | United States | Remote | Oct 29 |
-| **[Quad](https://www.quad.com)** | **[Milwaukee Magazine Editorial Internship, Spring 2027](https://jobright.ai/jobs/info/6ac6a75c064da25272e1ba39?utm_campaign=1053&utm_source=git)** | West Allis, WI, United States | Hybrid | Oct 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
