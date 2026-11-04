@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[NTA Talent Agency](https://ntatalent.com)** | **[NTA Talent Agency Editing Student Internship](https://jobright.ai/jobs/info/6aeaa2b01ba298c777774360?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | Remote | Nov 03 |
 | **[Style On The Spot](http://www.StyleOnTheSpot.com)** | **[Style On the Spot Internship](https://jobright.ai/jobs/info/6aea84f41ba298c777773ad4?utm_campaign=1053&utm_source=git)** | Manhattan Beach, CA, United States | On Site | Nov 03 |
 | **[Place Showroom](http://placeshowroom.com)** | **[LA Internship Spring 2027](https://jobright.ai/jobs/info/6aea3c21440b469a1c0abfcf?utm_campaign=1053&utm_source=git)** | Los Angeles, United States | On Site | Nov 03 |
 | **[MATTE Projects](https://matteprojects.com/)** | **[Experiential Production Intern - Winter/Spring 2027 (On-Site)](https://jobright.ai/jobs/info/6aea203c913589212b1f3b95?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Nov 03 |
