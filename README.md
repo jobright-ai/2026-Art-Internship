@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Galman Group](https://galmangroup.com/)** | **[Resident Experience & Events Intern (Spring 2027)](https://jobright.ai/jobs/info/6aeb885cfbe13dfb53df4fe0?utm_campaign=1053&utm_source=git)** | Jenkintown, PA, United States | On Site | Nov 05 |
 | **[Federal Reserve Bank of San Francisco](http://www.frbsf.org)** | **[Federal Reserve Summer 2027 Economics Writing and Analysis Internship](https://jobright.ai/jobs/info/6ab28e061e4847ddae914c13?utm_campaign=1053&utm_source=git)** | Richmond, VA, United States | On Site | Nov 05 |
 | **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/)** | **[Assistant Assembly Video Editor - BYU-Pathway Worldwide (Full-Time Intern)](https://jobright.ai/jobs/info/6aeb9eaefbe13dfb53df5e5a?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT, United States | Hybrid | Nov 04 |
 | **[The New York Times](https://www.nytco.com/)** | **[Creative Production, TBrand Intern](https://jobright.ai/jobs/info/6aebe5e965311d97105bc997?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Nov 04 |
@@ -80,7 +81,6 @@ For a complete list, click the following sortable link below:
 | **[Atlanta University Center Robert W. Woodruff Library](https://www.auctr.edu/)** | **[Content Creator Intern](https://jobright.ai/jobs/info/6aeb3e46a0b134121d998b58?utm_campaign=1053&utm_source=git)** | Atlanta, GA, United States | On Site | Nov 04 |
 | **[Greystone](https://www.greystone.com)** | **[Agency Production Intern - Summer 2027](https://jobright.ai/jobs/info/6ab18bd2f9692ca98b04a3e8?utm_campaign=1053&utm_source=git)** | Atlanta, GA, United States | On Site | Nov 04 |
 | **[GBH](http://www.wgbh.org/)** | **[GBH News Rooted Internship - Spring 2027](https://jobright.ai/jobs/info/6ace8badba99f15ef41259b1?utm_campaign=1053&utm_source=git)** | Boston, MA, United States | On Site | Nov 04 |
-| **[The Galman Group](https://galmangroup.com/)** | **[Resident Experience & Events Intern (Spring 2027)](https://jobright.ai/jobs/info/6aeb885cfbe13dfb53df4fe0?utm_campaign=1053&utm_source=git)** | Jenkintown, PA, United States | On Site | Nov 04 |
 | **[The Greater OKC Hispanic Chamber of Commerce](http://www.okchispanicchamber.org)** | **[Intern, Broadcasting](https://jobright.ai/jobs/info/6aeb1eb5765815f7d745c954?utm_campaign=1053&utm_source=git)** | Oklahoma City, OK, United States | On Site | Nov 04 |
 | **[Institute for the Study of War](http://understandingwar.org/)** | **[Multimedia & Video Production Internship Spring 2027](https://jobright.ai/jobs/info/6ad906b9b0725dc268dd89c8?utm_campaign=1053&utm_source=git)** | Washington, DC, United States | Hybrid | Nov 04 |
 | **[Bloomberg Industry Group](https://www.bloombergindustry.com/)** | **[2027 Summer News Internship: Graphics - Graphics/Data Visualization Journalist](https://jobright.ai/jobs/info/6ab3de2ad2f5fbd604be00bd?utm_campaign=1053&utm_source=git)** | Arlington, VA, United States | On Site | Nov 04 |
