@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Audacy, Inc.](https://audacyinc.com/)** | **[Sports Media and Digital Content Intern](https://jobright.ai/jobs/info/6aecf78da2661405dc2c80e6?utm_campaign=1053&utm_source=git)** | Cleveland, OH, United States | On Site | Nov 05 |
 | **[Ballotpedia](https://ballotpedia.org/)** | **[Editorial or Communications Spring 2027 Internship Program (Paid/Remote)](https://jobright.ai/jobs/info/6aecd423a2661405dc2c6b3c?utm_campaign=1053&utm_source=git)** | United States | Remote | Nov 05 |
 | **[Golden Hippo®](http://goldenhippomedia.com)** | **[Video Editor, Podcast Intern - Spring 2027](https://jobright.ai/jobs/info/6aecc798465e3d2371381907?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | Hybrid | Nov 05 |
 | **[Skin Anarchy The Podcast](https://skinanarchy.com)** | **[Multi-Media Podcast Editing Intern](https://jobright.ai/jobs/info/6aecaf58465e3d237138087d?utm_campaign=1053&utm_source=git)** | United States | Remote | Nov 05 |
@@ -66,7 +67,7 @@ For a complete list, click the following sortable link below:
 | **[Michigan Section PGA](https://michiganpga.com)** | **[Michigan PGA Tournament Internship](https://jobright.ai/jobs/info/6aec9e35465e3d237137ffb3?utm_campaign=1053&utm_source=git)** | East Lansing, MI, United States | On Site | Nov 05 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Intern](https://jobright.ai/jobs/info/6a9674f7455eaf6a08c17881?utm_campaign=1053&utm_source=git)** | Peoria, IL, United States | On Site | Nov 05 |
 | **[David Yurman](http://www.davidyurman.com)** | **[Video Editing Intern](https://jobright.ai/jobs/info/6acfb9f9c9f40bec907fdb70?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Hybrid | Nov 05 |
-| **[Audacy, Inc.](https://audacyinc.com/)** | **[Sports Media and Digital Content Intern](https://jobright.ai/jobs/info/6acea578bb78de94580d779b?utm_campaign=1053&utm_source=git)** | Cleveland, OH, United States | On Site | Nov 05 |
+| **[Austin PBS](http://www.austinpbs.org)** | **[Spring 2027 Internship / Video Production](https://jobright.ai/jobs/info/6aecf0c1ab48a7079381ff19?utm_campaign=1053&utm_source=git)** | Austin, TX, United States | Hybrid | Nov 05 |
 | **[The Galman Group](https://galmangroup.com/)** | **[Resident Experience & Events Intern (Spring 2027)](https://jobright.ai/jobs/info/6aeb885cfbe13dfb53df4fe0?utm_campaign=1053&utm_source=git)** | Jenkintown, PA, United States | On Site | Nov 05 |
 | **[Federal Reserve Bank of San Francisco](http://www.frbsf.org)** | **[Federal Reserve Summer 2027 Economics Writing and Analysis Internship](https://jobright.ai/jobs/info/6ab28e061e4847ddae914c13?utm_campaign=1053&utm_source=git)** | Richmond, VA, United States | On Site | Nov 05 |
 | **[Alabama Credit Union](https://alabamacu.com)** | **[Internal Communications Intern](https://jobright.ai/jobs/info/6aec8ed73967d67f6359d818?utm_campaign=1053&utm_source=git)** | Tuscaloosa, AL, United States | On Site | Nov 05 |
