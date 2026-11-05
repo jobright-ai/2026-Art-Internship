@@ -155,5 +155,4 @@ For a complete list, click the following sortable link below:
 | **[NESN](http://nesn.com)** | **[Creative Services Post-Production Intern - Summer/Fall 2026](https://jobright.ai/jobs/info/6aeb27fba0b134121d997113?utm_campaign=1053&utm_source=git)** | Pittsburgh, PA, United States | On Site | Oct 30 |
 | **[Simons Foundation](https://www.simonsfoundation.org)** | **[Science Reporting Intern, The Transmitter](https://jobright.ai/jobs/info/6abea9404ac55253f5d61d30?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Oct 30 |
 | **[Dallas Symphony Orchestra](https://www.dallassymphony.org)** | **[Artistic Operations Intern](https://jobright.ai/jobs/info/6ae523e4c3139b475b5b91ca?utm_campaign=1053&utm_source=git)** | Dallas, TX, United States | On Site | Oct 30 |
-| **[NewsBreak](http://www.newsbreak.com)** | **[Short Drama Creative Editor Intern](https://jobright.ai/jobs/info/6ad171d418608b6f36f841bf?utm_campaign=1053&utm_source=git)** | Mountain View, CA, United States | On Site | Oct 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
