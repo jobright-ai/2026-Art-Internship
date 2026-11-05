@@ -73,8 +73,8 @@ For a complete list, click the following sortable link below:
 | **[David Yurman](http://www.davidyurman.com)** | **[Video Intern, E-Comm](https://jobright.ai/jobs/info/6aeb591b65311d97105b7710?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Hybrid | Nov 04 |
 | **[Isetta](https://www.isetta.co )** | **[Intern - Los Angeles](https://jobright.ai/jobs/info/6aeb5fa7f40efa43f4a16937?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | Hybrid | Nov 04 |
 | **[Boost Engine Tech](https://boostengines.com)** | **[Creator Manager Intern, TikTok Shop](https://jobright.ai/jobs/info/6aeb5a29765815f7d745f42c?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Nov 04 |
-| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid News Intern](https://jobright.ai/jobs/info/6ace590e4391691a335ac06a?utm_campaign=1053&utm_source=git)** | Wichita, KS, United States | On Site | Nov 04 |
-| ↳ | **[Unpaid Intern](https://jobright.ai/jobs/info/6a9674f7455eaf6a08c17881?utm_campaign=1053&utm_source=git)** | Peoria, IL, United States | On Site | Nov 04 |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Intern](https://jobright.ai/jobs/info/6a9674f7455eaf6a08c17881?utm_campaign=1053&utm_source=git)** | Peoria, IL, United States | On Site | Nov 04 |
+| ↳ | **[Unpaid News Intern](https://jobright.ai/jobs/info/6ace590e4391691a335ac06a?utm_campaign=1053&utm_source=git)** | Wichita, KS, United States | On Site | Nov 04 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/6ab2ddb11e4847ddae916da4?utm_campaign=1053&utm_source=git)** | Henderson, KY, United States | On Site | Nov 04 |
 | **[Atlanta University Center Robert W. Woodruff Library](https://www.auctr.edu/)** | **[Content Creator Intern](https://jobright.ai/jobs/info/6aeb3e46a0b134121d998b58?utm_campaign=1053&utm_source=git)** | Atlanta, GA, United States | On Site | Nov 04 |
 | **[Greystone](https://www.greystone.com)** | **[Agency Production Intern - Summer 2027](https://jobright.ai/jobs/info/6ab18bd2f9692ca98b04a3e8?utm_campaign=1053&utm_source=git)** | Atlanta, GA, United States | On Site | Nov 04 |
