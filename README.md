@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Skin Anarchy The Podcast](https://skinanarchy.com)** | **[Multi-Media Podcast Editing Intern](https://jobright.ai/jobs/info/6aecaf58465e3d237138087d?utm_campaign=1053&utm_source=git)** | United States | Remote | Nov 05 |
+| **[Toyon Research Corporation](http://toyon.com)** | **[Video Labeling Intern](https://jobright.ai/jobs/info/6a9902cadd171c7285793716?utm_campaign=1053&utm_source=git)** | Goleta, CA, United States | On Site | Nov 05 |
+| **[Higginbotham](https://www.higginbotham.com)** | **[Higginbotham 2027 Summer Internship - Corporate Marketing & Communications Video Editor Intern](https://jobright.ai/jobs/info/6a96d895f5337b2cf731e252?utm_campaign=1053&utm_source=git)** | Fort Worth, TX, United States | On Site | Nov 05 |
 | **[Houston Chronicle](http://www.houstonchronicle.com/)** | **[Audience Intern - Summer 2027](https://jobright.ai/jobs/info/6aeca652465e3d23713802c0?utm_campaign=1053&utm_source=git)** | Houston, TX, United States | Hybrid | Nov 05 |
 | **[Michigan Section PGA](https://michiganpga.com)** | **[Michigan PGA Tournament Internship](https://jobright.ai/jobs/info/6aec9e35465e3d237137ffb3?utm_campaign=1053&utm_source=git)** | East Lansing, MI, United States | On Site | Nov 05 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Intern](https://jobright.ai/jobs/info/6a9674f7455eaf6a08c17881?utm_campaign=1053&utm_source=git)** | Peoria, IL, United States | On Site | Nov 05 |
@@ -112,8 +115,8 @@ For a complete list, click the following sortable link below:
 | **[Mosaic Partners](http://www.mosaicpartners.com)** | **[Media & Content Intern](https://jobright.ai/jobs/info/6ae912926c51033758f4600a?utm_campaign=1053&utm_source=git)** | Omaha, NE, United States | Hybrid | Nov 03 |
 | **[USA TODAY Co., Inc.](https://www.usatodayco.com)** | **[2027 USA TODAY Forward Summer Video Internship - Indianapolis, IN](https://jobright.ai/jobs/info/6aea15ad440b469a1c0aa670?utm_campaign=1053&utm_source=git)** | Indianapolis, IN, United States | On Site | Nov 02 |
 | **[Simon & Schuster](http://www.simonandschuster.com)** | **[Simon & Schuster Canada Internships (4) - Winter/Spring 2027](https://jobright.ai/jobs/info/6aea0fd0913589212b1f2f04?utm_campaign=1053&utm_source=git)** | Toronto, ON, Canada | Hybrid | Nov 02 |
-| **[Gannett Digital Marketing Services](http://www.gannett.com)** | **[2027 USA TODAY Co. Summer Video and Social-Media Internship - Naples, FL](https://jobright.ai/jobs/info/6aea0b15913589212b1f2802?utm_campaign=1053&utm_source=git)** | Naples, FL, United States | On Site | Nov 02 |
-| ↳ | **[2027 USA TODAY Forward Summer Video Internship - Indianapolis, IN](https://jobright.ai/jobs/info/6aea0b21fc85f3a39432f5a7?utm_campaign=1053&utm_source=git)** | Indianapolis, IN, United States | On Site | Nov 02 |
+| **[Gannett Digital Marketing Services](http://www.gannett.com)** | **[2027 USA TODAY Forward Summer Video Internship - Indianapolis, IN](https://jobright.ai/jobs/info/6aea0b21fc85f3a39432f5a7?utm_campaign=1053&utm_source=git)** | Indianapolis, IN, United States | On Site | Nov 02 |
+| ↳ | **[2027 USA TODAY Co. Summer Video and Social-Media Internship - Naples, FL](https://jobright.ai/jobs/info/6aea0b15913589212b1f2802?utm_campaign=1053&utm_source=git)** | Naples, FL, United States | On Site | Nov 02 |
 | **[Oklahoma City Thunder](http://okcthunder.com)** | **[Intern, Broadcasting](https://jobright.ai/jobs/info/6ae9136c6c51033758f460c9?utm_campaign=1053&utm_source=git)** | Oklahoma City, OK, United States | On Site | Nov 02 |
 | **[Antidote Style](https://www.antidotestyle.com)** | **[Content Production Intern](https://jobright.ai/jobs/info/6ae92b7d6c51033758f46b8b?utm_campaign=1053&utm_source=git)** | Atlanta, GA, United States | On Site | Nov 02 |
 | **[Tepa Companies](https://www.tepa.com/)** | **[Multimedia Communications Intern - Summer 2027](https://jobright.ai/jobs/info/6ae925df061d6d7ff3d80cb2?utm_campaign=1053&utm_source=git)** | Kansas City, MO, United States | On Site | Nov 02 |
@@ -153,5 +156,4 @@ For a complete list, click the following sortable link below:
 | **[Simons Foundation](https://www.simonsfoundation.org)** | **[Science Reporting Intern, The Transmitter](https://jobright.ai/jobs/info/6abea9404ac55253f5d61d30?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Oct 30 |
 | **[Dallas Symphony Orchestra](https://www.dallassymphony.org)** | **[Artistic Operations Intern](https://jobright.ai/jobs/info/6ae523e4c3139b475b5b91ca?utm_campaign=1053&utm_source=git)** | Dallas, TX, United States | On Site | Oct 30 |
 | **[NewsBreak](http://www.newsbreak.com)** | **[Short Drama Creative Editor Intern](https://jobright.ai/jobs/info/6ad171d418608b6f36f841bf?utm_campaign=1053&utm_source=git)** | Mountain View, CA, United States | On Site | Oct 29 |
-| **[McLaren Racing](https://www.mclaren.com/racing/)** | **[Videography Intern](https://jobright.ai/jobs/info/6ad151f7e2d41540d4a6fee3?utm_campaign=1053&utm_source=git)** | Indianapolis, IN, United States | On Site | Oct 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
