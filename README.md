@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Canyon Entertainment Group](https://canyonentertainmentgroup.com)** | **[Live Event Management Internship](https://jobright.ai/jobs/info/6aedda8fbd2f33eea72d478a?utm_campaign=1053&utm_source=git)** | Toronto, ON, Canada | On Site | Nov 06 |
 | **[Elite Podcast Studio](ElitePodcastStudio.com)** | **[Social Media & Content Creation Internship (Tampa, FL)](https://jobright.ai/jobs/info/6aedafe4c7498922fe0c3fdb?utm_campaign=1053&utm_source=git)** | Odessa, FL, United States | On Site | Nov 06 |
 | **[Austin PBS](http://www.austinpbs.org)** | **[Spring 2027 Internship / Video Production](https://jobright.ai/jobs/info/6aecf0c1ab48a7079381ff19?utm_campaign=1053&utm_source=git)** | Austin, TX, United States | Hybrid | Nov 06 |
 | **[Alabama Credit Union](https://alabamacu.com)** | **[Internal Communications Intern](https://jobright.ai/jobs/info/6aec8ed73967d67f6359d818?utm_campaign=1053&utm_source=git)** | Tuscaloosa, AL, United States | On Site | Nov 05 |
@@ -148,5 +149,4 @@ For a complete list, click the following sortable link below:
 | **[Obsidian Entertainment](http://www.obsidian.net/)** | **[VFX Artist - 2027 Summer Internship](https://jobright.ai/jobs/info/6ae4d4b8d45dc30fb7d32b23?utm_campaign=1053&utm_source=git)** | Irvine, CA, United States | On Site | Oct 30 |
 | **[Dow Jones](http://www.dowjones.com)** | **[Summer 2027 Internship Program – TA Videographer / Marketing Intern](https://jobright.ai/jobs/info/6ae5024dd45dc30fb7d34705?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Oct 30 |
 | **[AccuWeather](http://www.accuweather.com)** | **[Editorial Intern (Spring 2027)](https://jobright.ai/jobs/info/6ae4e53077c09cb3bd4afec4?utm_campaign=1053&utm_source=git)** | State College, PA, United States | On Site | Oct 30 |
-| **[Peabody Essex Museum](http://www.pem.org/)** | **[Art & Nature Center Intern](https://jobright.ai/jobs/info/6ae504f0eab1f9673097f0d7?utm_campaign=1053&utm_source=git)** | Salem, MA, United States | On Site | Oct 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
