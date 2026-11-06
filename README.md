@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[3MP Atlanta](http://www.3mpatlanta.com)** | **[📸 WE'RE HIRING: CONTENT CREATOR (Internship)](https://jobright.ai/jobs/info/6aee0c0dbd2f33eea72d6b5e?utm_campaign=1053&utm_source=git)** | Atlanta, GA, United States | On Site | Nov 06 |
+| **[Daktronics](http://www.daktronics.com/en-us)** | **[James Madison University Event Production Intern](https://jobright.ai/jobs/info/6ab1a156d43eb922ca0c0329?utm_campaign=1053&utm_source=git)** | Harrisonburg, VA, United States | On Site | Nov 06 |
+| **[Sony Music Entertainment](http://www.sonymusic.com)** | **[Intern, Video Production](https://jobright.ai/jobs/info/6aee01f8caf8e660b87d957d?utm_campaign=1053&utm_source=git)** | Toronto, ON, Canada | On Site | Nov 06 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Intern](https://jobright.ai/jobs/info/6a9674f7455eaf6a08c17881?utm_campaign=1053&utm_source=git)** | Peoria, IL, United States | On Site | Nov 06 |
 | **[Canyon Entertainment Group](https://canyonentertainmentgroup.com)** | **[Live Event Management Internship](https://jobright.ai/jobs/info/6aedda8fbd2f33eea72d478a?utm_campaign=1053&utm_source=git)** | Toronto, ON, Canada | On Site | Nov 06 |
 | **[Elite Podcast Studio](ElitePodcastStudio.com)** | **[Social Media & Content Creation Internship (Tampa, FL)](https://jobright.ai/jobs/info/6aedafe4c7498922fe0c3fdb?utm_campaign=1053&utm_source=git)** | Odessa, FL, United States | On Site | Nov 06 |
@@ -143,5 +146,4 @@ For a complete list, click the following sortable link below:
 | **[Deseret News](http://www.deseretnews.com/)** | **[Church News Writer - Fall 2026 Internship](https://jobright.ai/jobs/info/6ae7b270a2a252e2194240f3?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT, United States | On Site | Oct 31 |
 | **[Herschend Family Entertainment](http://www.hfecorp.com/)** | **[Adventureland Park - Food & Beverage Intern (Event Coordinator)](https://jobright.ai/jobs/info/6ae6ef6ad7424a2a828f0764?utm_campaign=1053&utm_source=git)** | Altoona, IA, United States | On Site | Oct 31 |
 | **[The New York Times](https://www.nytco.com/)** | **[Editorial Projects Intern, Wirecutter](https://jobright.ai/jobs/info/6ae54f48d45dc30fb7d36550?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Hybrid | Oct 30 |
-| **[MacArthur Foundation](http://www.macfound.org)** | **[Journalism & Media Intern - Summer 2027](https://jobright.ai/jobs/info/6ae51975d7424a2a828eb934?utm_campaign=1053&utm_source=git)** | Chicago, Illinois, United States | Hybrid | Oct 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
