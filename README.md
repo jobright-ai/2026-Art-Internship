@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Global Student Solutions](https://theglobalstudentsolutions.com)** | **[Podcast & Media Production Intern](https://jobright.ai/jobs/info/6aef893e8022f8ddd319ef78?utm_campaign=1053&utm_source=git)** | United States | Remote | Nov 07 |
 | **[FUTURA SOUND](www.FuturaSound.com)** | **[Cinematography & Video Editing Internship - Original YouTube Series](https://jobright.ai/jobs/info/6aef8219676e3f91d326cb8a?utm_campaign=1053&utm_source=git)** | Toronto, ON, Canada | On Site | Nov 07 |
 | **[The Laziena Experience](www.laziena.com)** | **[Unpaid Creative In🎬 Looking for a Creative Storyteller / Podcast Production Internship (Unpaid)ternship: Podcast Editing + Social Clip Storytelling](https://jobright.ai/jobs/info/6aef4b00676e3f91d326b6d4?utm_campaign=1053&utm_source=git)** | St. Petersburg, FL, United States | On Site | Nov 07 |
 | **[FOX Sports](http://foxsports.com)** | **[Spring 2027 FOX Sports Internship Program - Audience Research – New York, NY](https://jobright.ai/jobs/info/6ab6a8b7b3db59402d101940?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Nov 07 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Dow Jones](http://www.dowjones.com)** | **[Summer 2027 Internship Program – Video Intern](https://jobright.ai/jobs/info/6ac6a51b8ff3fb9b3bc8e55f?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Nov 01 |
 | **[The New Republic](http://www.newrepublic.com/)** | **[Editorial Intern](https://jobright.ai/jobs/info/6ae7a327bad9293a40a42b64?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Remote | Nov 01 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Sports Intern- Fall 2026](https://jobright.ai/jobs/info/6ae74b56bad9293a40a4203e?utm_campaign=1053&utm_source=git)** | Washington, DC, United States | On Site | Nov 01 |
-| **[Deseret News](http://www.deseretnews.com/)** | **[Church News Writer - Fall 2026 Internship](https://jobright.ai/jobs/info/6ae7b270a2a252e2194240f3?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT, United States | On Site | Oct 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
