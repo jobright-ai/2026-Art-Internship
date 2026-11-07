@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Monid](https://monid.ai)** | **[Creator in Residence (Intern)](https://jobright.ai/jobs/info/6aeef4739f8e479a8bcfb01a?utm_campaign=1053&utm_source=git)** | San Francisco, CA, United States | On Site | Nov 07 |
+| **[Pilot Flying J](http://www.pilotflyingj.com)** | **[Program Intern, Internal Communications](https://jobright.ai/jobs/info/6aeeee9d0fe787d00ed18fc0?utm_campaign=1053&utm_source=git)** | Knoxville, TN, United States | On Site | Nov 07 |
+| **[Pilot Company](http://www.pilotflyingj.com)** | **[Program Intern, Internal Communications](https://jobright.ai/jobs/info/6ab5568cc6fe0dec811a08f5?utm_campaign=1053&utm_source=git)** | Knoxville, TN, United States | On Site | Nov 07 |
 | **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/)** | **[Video Editor – BYU-Pathway Worldwide (Full-Time Intern)](https://jobright.ai/jobs/info/6aee2657e0c9de7b05f8b0f5?utm_campaign=1053&utm_source=git)** | Rexburg, ID, United States | Hybrid | Nov 06 |
 | **[137Ewes Productions](https://www.137ewes.com)** | **[Winter Intern - 2D Animation Short Film Challenge / 137 Ewes](https://jobright.ai/jobs/info/6aee8a2fd20350c7a507de54?utm_campaign=1053&utm_source=git)** | United States | Remote | Nov 06 |
 | **[TH Experiential](https://thexperiential.com)** | **[Production Internship Fall/Winter 2026](https://jobright.ai/jobs/info/6aee6d215c81f621d31166d9?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Remote | Nov 06 |
@@ -137,7 +140,6 @@ For a complete list, click the following sortable link below:
 | **[Invite Only Studios](https://inviteonly.studio)** | **[Videography Intern](https://jobright.ai/jobs/info/6ae8fa73777c336eb6d686bc?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Nov 02 |
 | **[Back Roads Entertainment](https://backroadsentertainment.com)** | **[Love on Demand Post Production Intern](https://jobright.ai/jobs/info/6ae8f0ab6c51033758f4466a?utm_campaign=1053&utm_source=git)** | Austin, TX, United States | On Site | Nov 02 |
 | **[Art and Wellness Enterprises](https://aweoffice.org)** | **[2027 Art Management Summer Intern](https://jobright.ai/jobs/info/6ae8b168a2a252e21942846d?utm_campaign=1053&utm_source=git)** | Bentonville, AR, United States | On Site | Nov 02 |
-| **[The Pilates Rx](http://pilates.therxmovement.com)** | **[Studio Intern](https://jobright.ai/jobs/info/6ae8cb3f061d6d7ff3d7d268?utm_campaign=1053&utm_source=git)** | Somerville, MA, United States | On Site | Nov 02 |
 | **[The Seattle Times](http://seattletimes.com/)** | **[Summer 2027 News Producer Internship](https://jobright.ai/jobs/info/6ae8c8fa061d6d7ff3d7d0d5?utm_campaign=1053&utm_source=git)** | Seattle, WA, United States | On Site | Nov 02 |
 | **[Resources for the Future](http://www.rff.org/)** | **[Editorial Intern (Spring Semester)](https://jobright.ai/jobs/info/6abc25ddd6acfd3dd29fc67e?utm_campaign=1053&utm_source=git)** | Washington, DC, United States | On Site | Nov 02 |
 | **[North Carolina State University](http://www.ncsu.edu)** | **[Temporary Student Intern for Departmental Podcast](https://jobright.ai/jobs/info/6ae8bfa203f4a1104b255e3f?utm_campaign=1053&utm_source=git)** | Raleigh, NC, United States | On Site | Nov 02 |
