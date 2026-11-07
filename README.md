@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Video Editing Intern](https://jobright.ai/jobs/info/6abe69f00e027c0f3b39883e?utm_campaign=1053&utm_source=git)** | Raleigh, NC, United States | Hybrid | Nov 07 |
 | **[Monid](https://monid.ai)** | **[Creator in Residence (Intern)](https://jobright.ai/jobs/info/6aeef4739f8e479a8bcfb01a?utm_campaign=1053&utm_source=git)** | San Francisco, CA, United States | On Site | Nov 07 |
 | **[Pilot Flying J](http://www.pilotflyingj.com)** | **[Program Intern, Internal Communications](https://jobright.ai/jobs/info/6aeeee9d0fe787d00ed18fc0?utm_campaign=1053&utm_source=git)** | Knoxville, TN, United States | On Site | Nov 07 |
 | **[Pilot Company](http://www.pilotflyingj.com)** | **[Program Intern, Internal Communications](https://jobright.ai/jobs/info/6ab5568cc6fe0dec811a08f5?utm_campaign=1053&utm_source=git)** | Knoxville, TN, United States | On Site | Nov 07 |
@@ -141,7 +142,7 @@ For a complete list, click the following sortable link below:
 | **[Back Roads Entertainment](https://backroadsentertainment.com)** | **[Love on Demand Post Production Intern](https://jobright.ai/jobs/info/6ae8f0ab6c51033758f4466a?utm_campaign=1053&utm_source=git)** | Austin, TX, United States | On Site | Nov 02 |
 | **[Art and Wellness Enterprises](https://aweoffice.org)** | **[2027 Art Management Summer Intern](https://jobright.ai/jobs/info/6ae8b168a2a252e21942846d?utm_campaign=1053&utm_source=git)** | Bentonville, AR, United States | On Site | Nov 02 |
 | **[The Seattle Times](http://seattletimes.com/)** | **[Summer 2027 News Producer Internship](https://jobright.ai/jobs/info/6ae8c8fa061d6d7ff3d7d0d5?utm_campaign=1053&utm_source=git)** | Seattle, WA, United States | On Site | Nov 02 |
-| **[Resources for the Future](http://www.rff.org/)** | **[Editorial Intern (Spring Semester)](https://jobright.ai/jobs/info/6abc26a23217d1d13329d852?utm_campaign=1053&utm_source=git)** | Washington, DC, United States | On Site | Nov 02 |
+| **[Resources for the Future](http://www.rff.org/)** | **[Editorial Intern (Spring Semester)](https://jobright.ai/jobs/info/6abc25ddd6acfd3dd29fc67e?utm_campaign=1053&utm_source=git)** | Washington, DC, United States | On Site | Nov 02 |
 | **[North Carolina State University](http://www.ncsu.edu)** | **[Temporary Student Intern for Departmental Podcast](https://jobright.ai/jobs/info/6ae8bfa203f4a1104b255e3f?utm_campaign=1053&utm_source=git)** | Raleigh, NC, United States | On Site | Nov 02 |
 | **[Thomson Reuters](http://thomsonreuters.com)** | **[Reuters News Internship Program 2027 (Temp Guild) - Graphics, New York](https://jobright.ai/jobs/info/6ae8b176777c336eb6d65133?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Hybrid | Nov 02 |
 | **[Phillips](https://www.phillips.com)** | **[Spring Modern & Contemporary Editions Internship](https://jobright.ai/jobs/info/6ae8a104a2a252e219427bf0?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Nov 02 |
