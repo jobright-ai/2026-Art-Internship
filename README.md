@@ -57,11 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Global Student Solutions](https://theglobalstudentsolutions.com)** | **[Podcast & Media Production Intern](https://jobright.ai/jobs/info/6aef893e8022f8ddd319ef78?utm_campaign=1053&utm_source=git)** | United States | Remote | Nov 07 |
 | **[FUTURA SOUND](www.FuturaSound.com)** | **[Cinematography & Video Editing Internship - Original YouTube Series](https://jobright.ai/jobs/info/6aef8219676e3f91d326cb8a?utm_campaign=1053&utm_source=git)** | Toronto, ON, Canada | On Site | Nov 07 |
 | **[The Laziena Experience](www.laziena.com)** | **[Unpaid Creative In🎬 Looking for a Creative Storyteller / Podcast Production Internship (Unpaid)ternship: Podcast Editing + Social Clip Storytelling](https://jobright.ai/jobs/info/6aef4b00676e3f91d326b6d4?utm_campaign=1053&utm_source=git)** | St. Petersburg, FL, United States | On Site | Nov 07 |
 | **[FOX Sports](http://foxsports.com)** | **[Spring 2027 FOX Sports Internship Program - Audience Research – New York, NY](https://jobright.ai/jobs/info/6ab6a8b7b3db59402d101940?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Nov 07 |
-| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Video Editing Intern](https://jobright.ai/jobs/info/6ab6ad9ac6fe0dec811a611d?utm_campaign=1053&utm_source=git)** | Raleigh, NC, United States | Hybrid | Nov 07 |
+| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Video Editing Intern](https://jobright.ai/jobs/info/6ab6ad9cc6fe0dec811a611e?utm_campaign=1053&utm_source=git)** | Raleigh, NC, United States | Hybrid | Nov 07 |
 | **[Fox Entertainment](http://www.fox.com/)** | **[Spring 2027 FOX Entertainment Internship Program - New York](https://jobright.ai/jobs/info/6ad2291ef04335fc70ed32d3?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Nov 07 |
 | **[Monid](https://monid.ai)** | **[Creator in Residence (Intern)](https://jobright.ai/jobs/info/6aeef4739f8e479a8bcfb01a?utm_campaign=1053&utm_source=git)** | San Francisco, CA, United States | On Site | Nov 07 |
 | **[Pilot Flying J](http://www.pilotflyingj.com)** | **[Program Intern, Internal Communications](https://jobright.ai/jobs/info/6aeeee9d0fe787d00ed18fc0?utm_campaign=1053&utm_source=git)** | Knoxville, TN, United States | On Site | Nov 07 |
