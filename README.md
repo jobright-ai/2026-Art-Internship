@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Buchanan Group (BGI)](https://buchanangroup.org)** | **[Weddings & Events Intern - Indianapolis, IN](https://jobright.ai/jobs/info/6ac916d3fcdafb60c6a4ab5b?utm_campaign=1053&utm_source=git)** | Indianapolis, IN, United States | On Site | Nov 08 |
 | **[The Laziena Experience](www.laziena.com)** | **[Unpaid Creative In🎬 Looking for a Creative Storyteller / Podcast Production Internship (Unpaid)ternship: Podcast Editing + Social Clip Storytelling](https://jobright.ai/jobs/info/6aef4b00676e3f91d326b6d4?utm_campaign=1053&utm_source=git)** | St. Petersburg, FL, United States | On Site | Nov 07 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Paid Intern (Photojournalist/Multi-Media Journalist/Producer)](https://jobright.ai/jobs/info/69f179ef8feca91f149202ba?utm_campaign=1053&utm_source=git)** | Wichita, KS | On Site | Nov 07 |
 | **[FOX Sports](http://foxsports.com)** | **[Spring 2027 FOX Sports Internship Program - Audience Research – New York, NY](https://jobright.ai/jobs/info/6ab6a8b7b3db59402d101940?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Nov 07 |
