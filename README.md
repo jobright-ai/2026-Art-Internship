@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Attain Sports](https://attainsports.com)** | **[Aberdeen IronBirds Event Operations Intern](https://jobright.ai/jobs/info/6af23d518cbcfef4a59da9d2?utm_campaign=1053&utm_source=git)** | Aberdeen, MD, United States | On Site | Nov 09 |
+| **[NBCUniversal](https://www.nbcuniversal.com)** | **[NBC News Bureau Internships – Summer 2027](https://jobright.ai/jobs/info/6af1fc481aaffa49f737f723?utm_campaign=1053&utm_source=git)** | Universal City, California, United States | On Site | Nov 09 |
 | **[Westchester Magazine](https://westchestermagazine.com)** | **[Spring 2027 Editorial Internship (Print)](https://jobright.ai/jobs/info/6af22f688cbcfef4a59da05d?utm_campaign=1053&utm_source=git)** | Rye, NY, United States | Hybrid | Nov 09 |
 | **[American Psychological Association](http://apa.org/)** | **[Internships at APA- Film Editing Intern – APA Child and Adolescent Learning and Well-being](https://jobright.ai/jobs/info/6af22a021116f6f0a0766c9a?utm_campaign=1053&utm_source=git)** | Washington, DC, United States | Remote | Nov 09 |
 | **[Stichting Aralez](https://stichtingaralez.wordpress.com/)** | **[Vacature: Stage / Intern for Aralez](https://jobright.ai/jobs/info/6af227610cb834dad9324655?utm_campaign=1053&utm_source=git)** | Indiana, United States | Remote | Nov 09 |
@@ -72,7 +74,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Telemundo Production & Operations Internships – Summer 2027](https://jobright.ai/jobs/info/6af1fc67905985ccaa407555?utm_campaign=1053&utm_source=git)** | Miami, FL, United States | On Site | Nov 09 |
 | ↳ | **[Media Asset & Archival Management Internships – Summer 2027](https://jobright.ai/jobs/info/6af1fc590cb834dad9321c1e?utm_campaign=1053&utm_source=git)** | North Bergen, NJ, United States | On Site | Nov 09 |
 | ↳ | **[NBC Sports Olympic Digital & Production Internships – Summer 2027](https://jobright.ai/jobs/info/6af1fc4a62fb9f5fcd892783?utm_campaign=1053&utm_source=git)** | Stamford, CT, United States | On Site | Nov 09 |
-| ↳ | **[NBC News Bureau Internships – Summer 2027](https://jobright.ai/jobs/info/6af1fc481aaffa49f737f723?utm_campaign=1053&utm_source=git)** | Universal City, California, United States | On Site | Nov 09 |
 | ↳ | **[Telemundo Production & Operations Internships – Summer 2027](https://jobright.ai/jobs/info/6af1e79662fb9f5fcd891b47?utm_campaign=1053&utm_source=git)** | Miami, FL, United States | On Site | Nov 09 |
 | **[Sony Music Entertainment](http://www.sonymusic.com)** | **[Intern, Video Production](https://jobright.ai/jobs/info/6aee01f8caf8e660b87d957d?utm_campaign=1053&utm_source=git)** | Toronto, ON, Canada | On Site | Nov 09 |
 | **[NBCUniversal](https://www.nbcuniversal.com)** | **[Music Internships – Summer 2027](https://jobright.ai/jobs/info/6af1f5881aaffa49f737f114?utm_campaign=1053&utm_source=git)** | Universal City, CA, United States | On Site | Nov 09 |
@@ -83,7 +84,7 @@ For a complete list, click the following sortable link below:
 | **[Utah Jazz](http://www.nba.com/jazz)** | **[Video Production Intern](https://jobright.ai/jobs/info/6af217ba905985ccaa4086cd?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT, United States | On Site | Nov 09 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Intern - KOIN / KRCW - Portland, OR (Unpaid)](https://jobright.ai/jobs/info/6a526c03d007ee02d95f77ac?utm_campaign=1053&utm_source=git)** | OR, Portland, United States of America | On Site | Nov 09 |
 | **[Adobe](http://www.adobe.com)** | **[2027 Intern - Media & Editorial Generalist](https://jobright.ai/jobs/info/6aeb6fb6fbe13dfb53df402c?utm_campaign=1053&utm_source=git)** | San Francisco, CA, United States | On Site | Nov 09 |
-| **[HDR](http://www.hdrinc.com)** | **[Cultural Resources Intern-WG](https://jobright.ai/jobs/info/6a9b499c9c24314c35f98c11?utm_campaign=1053&utm_source=git)** | Austin, TX, United States | On Site | Nov 09 |
+| **[HDR](http://www.hdrinc.com)** | **[Cultural Resources Intern-WG](https://jobright.ai/jobs/info/6aade4a43d96632d741b0111?utm_campaign=1053&utm_source=git)** | Austin, TX, United States | On Site | Nov 09 |
 | **[Union Home Mortgage Corp.](https://www.uhm.com/)** | **[Video Content Intern](https://jobright.ai/jobs/info/6a924886d18f75674827bb2a?utm_campaign=1053&utm_source=git)** | Strongsville, OH, United States | On Site | Nov 09 |
 | **[Boehringer Ingelheim](https://www.boehringer-ingelheim.com/)** | **[Video Production Intern Job Details / BoehringerPRD](https://jobright.ai/jobs/info/6af18b7874116c3dddb2703c?utm_campaign=1053&utm_source=git)** | Ridgefield, CT, United States | Hybrid | Nov 09 |
 | **[EVOC LABS](www.evoclabs.com)** | **[SCRIPT WRITER INTERN](https://jobright.ai/jobs/info/6af10da19f8e479a8bd0209c?utm_campaign=1053&utm_source=git)** | Kansas, United States | On Site | Nov 08 |
@@ -137,7 +138,6 @@ For a complete list, click the following sortable link below:
 | **[Boost Engine Tech](https://boostengines.com)** | **[Creator Manager Intern, TikTok Shop](https://jobright.ai/jobs/info/6aeb5a29765815f7d745f42c?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Nov 04 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Intern](https://jobright.ai/jobs/info/6ab2ddb11e4847ddae916da4?utm_campaign=1053&utm_source=git)** | Henderson, KY, United States | On Site | Nov 04 |
 | **[Atlanta University Center Robert W. Woodruff Library](https://www.auctr.edu/)** | **[Content Creator Intern](https://jobright.ai/jobs/info/6aeb3e46a0b134121d998b58?utm_campaign=1053&utm_source=git)** | Atlanta, GA, United States | On Site | Nov 04 |
-| **[Greystone](https://www.greystone.com)** | **[Agency Production Intern - Summer 2027](https://jobright.ai/jobs/info/6ab18bd2f9692ca98b04a3e8?utm_campaign=1053&utm_source=git)** | Atlanta, GA, United States | On Site | Nov 04 |
 | **[The Greater OKC Hispanic Chamber of Commerce](http://www.okchispanicchamber.org)** | **[Intern, Broadcasting](https://jobright.ai/jobs/info/6aeb1eb5765815f7d745c954?utm_campaign=1053&utm_source=git)** | Oklahoma City, OK, United States | On Site | Nov 04 |
 | **[Institute for the Study of War](http://understandingwar.org/)** | **[Multimedia & Video Production Internship Spring 2027](https://jobright.ai/jobs/info/6ad906b9b0725dc268dd89c8?utm_campaign=1053&utm_source=git)** | Washington, DC, United States | Hybrid | Nov 04 |
 | **[The Ambony](https://www.anpublishing.com/)** | **[International Editor (Internship)](https://jobright.ai/jobs/info/6aeaaf461ba298c77777475a?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Remote | Nov 03 |
