@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Intern - KOIN / KRCW - Portland, OR (Unpaid)](https://jobright.ai/jobs/info/6a526c03d007ee02d95f77ac?utm_campaign=1053&utm_source=git)** | OR, Portland, United States of America | On Site | Nov 09 |
 | **[Adobe](http://www.adobe.com)** | **[2027 Intern - Media & Editorial Generalist](https://jobright.ai/jobs/info/6aeb6fb6fbe13dfb53df402c?utm_campaign=1053&utm_source=git)** | San Francisco, CA, United States | On Site | Nov 09 |
 | **[HDR](http://www.hdrinc.com)** | **[Cultural Resources Intern-WG](https://jobright.ai/jobs/info/6aade4a43d96632d741b0111?utm_campaign=1053&utm_source=git)** | Austin, TX, United States | On Site | Nov 09 |
 | **[Union Home Mortgage Corp.](https://www.uhm.com/)** | **[Video Content Intern](https://jobright.ai/jobs/info/6a924886d18f75674827bb2a?utm_campaign=1053&utm_source=git)** | Strongsville, OH, United States | On Site | Nov 09 |
@@ -138,8 +139,8 @@ For a complete list, click the following sortable link below:
 | **[Mosaic Partners](http://www.mosaicpartners.com)** | **[Media & Content Intern](https://jobright.ai/jobs/info/6ae912926c51033758f4600a?utm_campaign=1053&utm_source=git)** | Omaha, NE, United States | Hybrid | Nov 03 |
 | **[USA TODAY Co., Inc.](https://www.usatodayco.com)** | **[2027 USA TODAY Forward Summer Video Internship - Indianapolis, IN](https://jobright.ai/jobs/info/6aea15ad440b469a1c0aa670?utm_campaign=1053&utm_source=git)** | Indianapolis, IN, United States | On Site | Nov 02 |
 | **[Simon & Schuster](http://www.simonandschuster.com)** | **[Simon & Schuster Canada Internships (4) - Winter/Spring 2027](https://jobright.ai/jobs/info/6aea0fd0913589212b1f2f04?utm_campaign=1053&utm_source=git)** | Toronto, ON, Canada | Hybrid | Nov 02 |
-| **[Gannett Digital Marketing Services](http://www.gannett.com)** | **[2027 USA TODAY Co. Summer Video and Social-Media Internship - Naples, FL](https://jobright.ai/jobs/info/6aea0b15913589212b1f2802?utm_campaign=1053&utm_source=git)** | Naples, FL, United States | On Site | Nov 02 |
-| ↳ | **[2027 USA TODAY Forward Summer Video Internship - Indianapolis, IN](https://jobright.ai/jobs/info/6aea0b21fc85f3a39432f5a7?utm_campaign=1053&utm_source=git)** | Indianapolis, IN, United States | On Site | Nov 02 |
+| **[Gannett Digital Marketing Services](http://www.gannett.com)** | **[2027 USA TODAY Forward Summer Video Internship - Indianapolis, IN](https://jobright.ai/jobs/info/6aea0b21fc85f3a39432f5a7?utm_campaign=1053&utm_source=git)** | Indianapolis, IN, United States | On Site | Nov 02 |
+| ↳ | **[2027 USA TODAY Co. Summer Video and Social-Media Internship - Naples, FL](https://jobright.ai/jobs/info/6aea0b15913589212b1f2802?utm_campaign=1053&utm_source=git)** | Naples, FL, United States | On Site | Nov 02 |
 | **[Oklahoma City Thunder](http://okcthunder.com)** | **[Intern, Broadcasting](https://jobright.ai/jobs/info/6ae9136c6c51033758f460c9?utm_campaign=1053&utm_source=git)** | Oklahoma City, OK, United States | On Site | Nov 02 |
 | **[Antidote Style](https://www.antidotestyle.com)** | **[Content Production Intern](https://jobright.ai/jobs/info/6ae92b7d6c51033758f46b8b?utm_campaign=1053&utm_source=git)** | Atlanta, GA, United States | On Site | Nov 02 |
 | **[Tepa Companies](https://www.tepa.com/)** | **[Multimedia Communications Intern - Summer 2027](https://jobright.ai/jobs/info/6ae925df061d6d7ff3d80cb2?utm_campaign=1053&utm_source=git)** | Kansas City, MO, United States | On Site | Nov 02 |
@@ -147,6 +148,4 @@ For a complete list, click the following sortable link below:
 | **[MATTE Projects](https://matteprojects.com/)** | **[Edit Intern - Winter/Spring 2027](https://jobright.ai/jobs/info/6ae8c12afb2cd420ace686c5?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Nov 02 |
 | **[Road Scholar](https://www.roadscholar.org)** | **[Intern, Video Production](https://jobright.ai/jobs/info/6ae91101061d6d7ff3d80297?utm_campaign=1053&utm_source=git)** | Boston, MA, United States | Remote | Nov 02 |
 | **[Insomniac Games](https://insomniac.games/)** | **[VFX Intern – Undergraduate or Master's](https://jobright.ai/jobs/info/6ad68d1ae4b94611ab8401ac?utm_campaign=1053&utm_source=git)** | Burbank, CA, United States | On Site | Nov 02 |
-| **[Invite Only Studios](https://inviteonly.studio)** | **[Videography Intern](https://jobright.ai/jobs/info/6ae8fa73777c336eb6d686bc?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Nov 02 |
-| **[Back Roads Entertainment](https://backroadsentertainment.com)** | **[Love on Demand Post Production Intern](https://jobright.ai/jobs/info/6ae8f0ab6c51033758f4466a?utm_campaign=1053&utm_source=git)** | Austin, TX, United States | On Site | Nov 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
