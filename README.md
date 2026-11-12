@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Megastar Advisors](https://www.megastaradvisors.com/)** | **[Video Editing & Post-Production Intern](https://jobright.ai/jobs/info/6af62604323c531f31e306ab?utm_campaign=1053&utm_source=git)** | Tarpon Springs, FL, United States | On Site | Nov 12 |
 | **[Girl Scouts of Citrus Council](https://www.citrus-gs.org/)** | **[Position: Intern for the Girl Scout Experience Team](https://jobright.ai/jobs/info/6aaaaea78e1bf0f764af5a6c?utm_campaign=1053&utm_source=git)** | Orlando, FL, United States | On Site | Nov 12 |
 | **[Quint](https://www.quintevents.com)** | **[Event Operations Intern](https://jobright.ai/jobs/info/6af60b2680054650a5e7b85c?utm_campaign=1053&utm_source=git)** | Charlotte, NC, United States | On Site | Nov 12 |
 | **[David Zwirner](http://www.davidzwirner.com/)** | **[Gallery Intern](https://jobright.ai/jobs/info/6adbb1719e3e874dbfba145d?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | On Site | Nov 12 |
@@ -135,17 +136,17 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern - KOIN / KRCW - Portland, OR (Unpaid)](https://jobright.ai/jobs/info/6a526c03d007ee02d95f77ac?utm_campaign=1053&utm_source=git)** | OR, Portland, United States of America | On Site | Nov 09 |
 | **[Adobe](http://www.adobe.com)** | **[2027 Intern - Media & Editorial Generalist](https://jobright.ai/jobs/info/6aeb6fb6fbe13dfb53df402c?utm_campaign=1053&utm_source=git)** | San Francisco, CA, United States | On Site | Nov 09 |
 | **[Unrivaled Sports](https://www.unrivaledsports.com)** | **[Events and Experiences Internship](https://jobright.ai/jobs/info/6af590bc79862a378dcec808?utm_campaign=1053&utm_source=git)** | Oneonta, NY, United States | On Site | Nov 09 |
-| **[HDR](http://www.hdrinc.com)** | **[Cultural Resources Intern-WG](https://jobright.ai/jobs/info/6a9b499c9c24314c35f98c11?utm_campaign=1053&utm_source=git)** | Austin, TX, United States | On Site | Nov 09 |
+| **[HDR](http://www.hdrinc.com)** | **[Cultural Resources Intern-WG](https://jobright.ai/jobs/info/6aade4a43d96632d741b0111?utm_campaign=1053&utm_source=git)** | Austin, TX, United States | On Site | Nov 09 |
 | **[Union Home Mortgage Corp.](https://www.uhm.com/)** | **[Video Content Intern](https://jobright.ai/jobs/info/6a924886d18f75674827bb2a?utm_campaign=1053&utm_source=git)** | Strongsville, OH, United States | On Site | Nov 09 |
 | **[EVOC LABS](www.evoclabs.com)** | **[SCRIPT WRITER INTERN](https://jobright.ai/jobs/info/6af10da19f8e479a8bd0209c?utm_campaign=1053&utm_source=git)** | Kansas, United States | On Site | Nov 08 |
-| **[Martin Marietta](http://martinmarietta.com)** | **[Intern, Production (Summer 2027)](https://jobright.ai/jobs/info/6af3740bf6053e296fc7cad4?utm_campaign=1053&utm_source=git)** | Burlington, NC, United States | On Site | Nov 08 |
+| **[Martin Marietta](http://martinmarietta.com)** | **[Intern, Production (Summer 2027)](https://jobright.ai/jobs/info/6af37417769e9374033c67a0?utm_campaign=1053&utm_source=git)** | Blountville, TN, United States | On Site | Nov 08 |
 | ↳ | **[Intern, Production (Summer 2027)](https://jobright.ai/jobs/info/6af3742480020ca3a8975c8e?utm_campaign=1053&utm_source=git)** | Fort Myers, FL, United States | On Site | Nov 08 |
-| ↳ | **[Intern, Production (Summer 2027)](https://jobright.ai/jobs/info/6af37417769e9374033c67a0?utm_campaign=1053&utm_source=git)** | Blountville, TN, United States | On Site | Nov 08 |
 | ↳ | **[Intern, Production (Summer 2027)](https://jobright.ai/jobs/info/6af3741d7c81de7a524bfb75?utm_campaign=1053&utm_source=git)** | Charlotte, NC, United States | On Site | Nov 08 |
+| ↳ | **[Intern, Production (Summer 2027)](https://jobright.ai/jobs/info/6af3740bf6053e296fc7cad4?utm_campaign=1053&utm_source=git)** | Burlington, NC, United States | On Site | Nov 08 |
 | **[Buchanan Group (BGI)](https://buchanangroup.org)** | **[Weddings & Events Intern - Indianapolis, IN](https://jobright.ai/jobs/info/6ac916d3fcdafb60c6a4ab5b?utm_campaign=1053&utm_source=git)** | Indianapolis, IN, United States | On Site | Nov 08 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Paid Intern (Photojournalist/Multi-Media Journalist/Producer)](https://jobright.ai/jobs/info/69f179ef8feca91f149202ba?utm_campaign=1053&utm_source=git)** | Wichita, KS | On Site | Nov 07 |
 | **[FOX Sports](http://foxsports.com)** | **[Spring 2027 FOX Sports Internship Program - Audience Research – New York, NY](https://jobright.ai/jobs/info/6ab6a8b7b3db59402d101940?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Nov 07 |
-| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Video Editing Intern](https://jobright.ai/jobs/info/6ab6ad9ac6fe0dec811a611d?utm_campaign=1053&utm_source=git)** | Raleigh, NC, United States | Hybrid | Nov 07 |
+| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Video Editing Intern](https://jobright.ai/jobs/info/6ab6ad9cc6fe0dec811a611e?utm_campaign=1053&utm_source=git)** | Raleigh, NC, United States | Hybrid | Nov 07 |
 | **[Fox Entertainment](http://www.fox.com/)** | **[Spring 2027 FOX Entertainment Internship Program - New York](https://jobright.ai/jobs/info/6ad2291ef04335fc70ed32d3?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Nov 07 |
 | **[Pilot Flying J](http://www.pilotflyingj.com)** | **[Program Intern, Internal Communications](https://jobright.ai/jobs/info/6aeeee9d0fe787d00ed18fc0?utm_campaign=1053&utm_source=git)** | Knoxville, TN, United States | On Site | Nov 07 |
 | **[Pilot Company](http://www.pilotflyingj.com)** | **[Program Intern, Internal Communications](https://jobright.ai/jobs/info/6ab5568cc6fe0dec811a08f5?utm_campaign=1053&utm_source=git)** | Knoxville, TN, United States | On Site | Nov 07 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Fox News Media](https://www.foxnews.com/)** | **[FOX Noticias Internship Program](https://jobright.ai/jobs/info/6ab626984873fd3fd852cd45?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Nov 06 |
 | **[FC Dallas](http://www.fcdallas.com)** | **[2027 Spring Internship / Frisco Bowl / Events](https://jobright.ai/jobs/info/6aee4fdfc7498922fe0cb536?utm_campaign=1053&utm_source=git)** | Frisco, TX, United States | On Site | Nov 06 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Video Editor – BYU-Pathway Worldwide (Full-Time Intern)](https://jobright.ai/jobs/info/6aee23a65c81f621d3112639?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT, United States | Hybrid | Nov 06 |
-| **[Her Campus Media](http://www.hercampusmedia.com)** | **[Sorority Content Creator](https://jobright.ai/jobs/info/6aee5b97caf8e660b87def1d?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Remote | Nov 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
