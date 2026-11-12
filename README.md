@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Create Music Group](https://www.createmusicgroup.com/)** | **[A&R Research Intern - Spring 2027](https://jobright.ai/jobs/info/6af4b881cbd2ee75d155c918?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | Hybrid | Nov 12 |
 | **[SITA Couture](https://sitacouture.com)** | **[Videographer Intern for Luxury Fashion Brand](https://jobright.ai/jobs/info/6af57254a3cce217be6c9af4?utm_campaign=1053&utm_source=git)** | Encinitas, CA, United States | On Site | Nov 12 |
 | **[Charles River Laboratories](http://www.criver.com)** | **[2027 Summer Intern - Archive](https://jobright.ai/jobs/info/6af5497b2278454e18c3bc0d?utm_campaign=1053&utm_source=git)** | Ashland, OH, United States | On Site | Nov 11 |
 | **[Style On The Spot](http://www.StyleOnTheSpot.com)** | **[Podcast Internship](https://jobright.ai/jobs/info/6af547522278454e18c3b9f9?utm_campaign=1053&utm_source=git)** | Manhattan Beach, CA, United States | On Site | Nov 11 |
@@ -65,7 +66,6 @@ For a complete list, click the following sortable link below:
 | **[PR Consulting](http://prconsulting.net)** | **[PRC Internship, Fashion](https://jobright.ai/jobs/info/6af4cdb7cbd2ee75d155d285?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Nov 11 |
 | ↳ | **[PRC Internship, Digital](https://jobright.ai/jobs/info/6af4cdb63a9a26aee70a094f?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Nov 11 |
 | **[Portage Learning](https://portagelearning.edu)** | **[Film Production Intern](https://jobright.ai/jobs/info/6af22fcc0cb834dad9324c48?utm_campaign=1053&utm_source=git)** | Beaver Falls, PA, United States | On Site | Nov 11 |
-| **[Create Music Group](https://www.createmusicgroup.com/)** | **[A&R Research Intern - Spring 2027](https://jobright.ai/jobs/info/6af4b881cbd2ee75d155c918?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | Hybrid | Nov 11 |
 | **[VOX ATL](https://voxatl.org)** | **[Poetry @ VOX Teen Intern](https://jobright.ai/jobs/info/6af4a26acd7be4db20d8713e?utm_campaign=1053&utm_source=git)** | Atlanta, GA, United States | On Site | Nov 11 |
 | ↳ | **[VOX Studios Teen Intern](https://jobright.ai/jobs/info/6af4a24f1b2c5dcbbcd62c28?utm_campaign=1053&utm_source=git)** | Atlanta, GA, United States | On Site | Nov 11 |
 | ↳ | **[VOX Studios Near-Peer Production Intern](https://jobright.ai/jobs/info/6af4a22c9144106c56a1ffe9?utm_campaign=1053&utm_source=git)** | Atlanta, GA, United States | On Site | Nov 11 |
@@ -112,8 +112,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[NBC Local Production, Editorial, and Marketing News Internships – Summer 2027](https://jobright.ai/jobs/info/6af21afe8cbcfef4a59d89d3?utm_campaign=1053&utm_source=git)** | Universal City, CA, United States | On Site | Nov 09 |
 | ↳ | **[NBC Local Boston News Internships – Summer 2027](https://jobright.ai/jobs/info/6af217b51aaffa49f73808b4?utm_campaign=1053&utm_source=git)** | Needham, MA, United States | On Site | Nov 09 |
 | ↳ | **[Music Internships – Summer 2027](https://jobright.ai/jobs/info/6af1fc6b1aaffa49f737f74e?utm_campaign=1053&utm_source=git)** | New York, New York, United States | On Site | Nov 09 |
-| ↳ | **[Music Internships – Summer 2027](https://jobright.ai/jobs/info/6af1fc67905985ccaa407554?utm_campaign=1053&utm_source=git)** | Universal City, CA, United States | On Site | Nov 09 |
 | ↳ | **[Telemundo Production & Operations Internships – Summer 2027](https://jobright.ai/jobs/info/6af1fc67905985ccaa407555?utm_campaign=1053&utm_source=git)** | Miami, FL, United States | On Site | Nov 09 |
+| ↳ | **[Music Internships – Summer 2027](https://jobright.ai/jobs/info/6af1fc67905985ccaa407554?utm_campaign=1053&utm_source=git)** | Universal City, CA, United States | On Site | Nov 09 |
 | ↳ | **[Media Asset & Archival Management Internships – Summer 2027](https://jobright.ai/jobs/info/6af1fc590cb834dad9321c1e?utm_campaign=1053&utm_source=git)** | North Bergen, NJ, United States | On Site | Nov 09 |
 | ↳ | **[NBC Sports Olympic Digital & Production Internships – Summer 2027](https://jobright.ai/jobs/info/6af1fc4a62fb9f5fcd892783?utm_campaign=1053&utm_source=git)** | Stamford, CT, United States | On Site | Nov 09 |
 | ↳ | **[Telemundo Production & Operations Internships – Summer 2027](https://jobright.ai/jobs/info/6af1e79662fb9f5fcd891b47?utm_campaign=1053&utm_source=git)** | Miami, FL, United States | On Site | Nov 09 |
@@ -125,17 +125,18 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Unpaid Intern](https://jobright.ai/jobs/info/6a9674f7455eaf6a08c17881?utm_campaign=1053&utm_source=git)** | Peoria, IL, United States | On Site | Nov 09 |
 | ↳ | **[Intern - KOIN / KRCW - Portland, OR (Unpaid)](https://jobright.ai/jobs/info/6a526c03d007ee02d95f77ac?utm_campaign=1053&utm_source=git)** | OR, Portland, United States of America | On Site | Nov 09 |
 | **[Adobe](http://www.adobe.com)** | **[2027 Intern - Media & Editorial Generalist](https://jobright.ai/jobs/info/6aeb6fb6fbe13dfb53df402c?utm_campaign=1053&utm_source=git)** | San Francisco, CA, United States | On Site | Nov 09 |
+| **[Unrivaled Sports](https://www.unrivaledsports.com)** | **[Events and Experiences Internship](https://jobright.ai/jobs/info/6af590bc79862a378dcec808?utm_campaign=1053&utm_source=git)** | Oneonta, NY, United States | On Site | Nov 09 |
 | **[HDR](http://www.hdrinc.com)** | **[Cultural Resources Intern-WG](https://jobright.ai/jobs/info/6a9b499c9c24314c35f98c11?utm_campaign=1053&utm_source=git)** | Austin, TX, United States | On Site | Nov 09 |
 | **[Union Home Mortgage Corp.](https://www.uhm.com/)** | **[Video Content Intern](https://jobright.ai/jobs/info/6a924886d18f75674827bb2a?utm_campaign=1053&utm_source=git)** | Strongsville, OH, United States | On Site | Nov 09 |
 | **[EVOC LABS](www.evoclabs.com)** | **[SCRIPT WRITER INTERN](https://jobright.ai/jobs/info/6af10da19f8e479a8bd0209c?utm_campaign=1053&utm_source=git)** | Kansas, United States | On Site | Nov 08 |
 | **[Martin Marietta](http://martinmarietta.com)** | **[Intern, Production (Summer 2027)](https://jobright.ai/jobs/info/6af37417769e9374033c67a0?utm_campaign=1053&utm_source=git)** | Blountville, TN, United States | On Site | Nov 08 |
 | ↳ | **[Intern, Production (Summer 2027)](https://jobright.ai/jobs/info/6af3740bf6053e296fc7cad4?utm_campaign=1053&utm_source=git)** | Burlington, NC, United States | On Site | Nov 08 |
-| ↳ | **[Intern, Production (Summer 2027)](https://jobright.ai/jobs/info/6af3741d7c81de7a524bfb75?utm_campaign=1053&utm_source=git)** | Charlotte, NC, United States | On Site | Nov 08 |
 | ↳ | **[Intern, Production (Summer 2027)](https://jobright.ai/jobs/info/6af3742480020ca3a8975c8e?utm_campaign=1053&utm_source=git)** | Fort Myers, FL, United States | On Site | Nov 08 |
+| ↳ | **[Intern, Production (Summer 2027)](https://jobright.ai/jobs/info/6af3741d7c81de7a524bfb75?utm_campaign=1053&utm_source=git)** | Charlotte, NC, United States | On Site | Nov 08 |
 | **[Buchanan Group (BGI)](https://buchanangroup.org)** | **[Weddings & Events Intern - Indianapolis, IN](https://jobright.ai/jobs/info/6ac916d3fcdafb60c6a4ab5b?utm_campaign=1053&utm_source=git)** | Indianapolis, IN, United States | On Site | Nov 08 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Paid Intern (Photojournalist/Multi-Media Journalist/Producer)](https://jobright.ai/jobs/info/69f179ef8feca91f149202ba?utm_campaign=1053&utm_source=git)** | Wichita, KS | On Site | Nov 07 |
 | **[FOX Sports](http://foxsports.com)** | **[Spring 2027 FOX Sports Internship Program - Audience Research – New York, NY](https://jobright.ai/jobs/info/6ab6a8b7b3db59402d101940?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Nov 07 |
-| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Video Editing Intern](https://jobright.ai/jobs/info/6abe69f00e027c0f3b39883e?utm_campaign=1053&utm_source=git)** | Raleigh, NC, United States | Hybrid | Nov 07 |
+| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Video Editing Intern](https://jobright.ai/jobs/info/6ab6ad9ac6fe0dec811a611d?utm_campaign=1053&utm_source=git)** | Raleigh, NC, United States | Hybrid | Nov 07 |
 | **[Fox Entertainment](http://www.fox.com/)** | **[Spring 2027 FOX Entertainment Internship Program - New York](https://jobright.ai/jobs/info/6ad2291ef04335fc70ed32d3?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Nov 07 |
 | **[Pilot Flying J](http://www.pilotflyingj.com)** | **[Program Intern, Internal Communications](https://jobright.ai/jobs/info/6aeeee9d0fe787d00ed18fc0?utm_campaign=1053&utm_source=git)** | Knoxville, TN, United States | On Site | Nov 07 |
 | **[Pilot Company](http://www.pilotflyingj.com)** | **[Program Intern, Internal Communications](https://jobright.ai/jobs/info/6ab5568cc6fe0dec811a08f5?utm_campaign=1053&utm_source=git)** | Knoxville, TN, United States | On Site | Nov 07 |
@@ -155,5 +156,4 @@ For a complete list, click the following sortable link below:
 | **[Alabama Credit Union](https://alabamacu.com)** | **[Internal Communications Intern](https://jobright.ai/jobs/info/6aec8ed73967d67f6359d818?utm_campaign=1053&utm_source=git)** | Tuscaloosa, AL, United States | On Site | Nov 05 |
 | **[Diamond Baseball Holdings](http://diamondbaseballholdings.com/)** | **[Intern, Video Production (58231)](https://jobright.ai/jobs/info/6ada92c054bbabbab0717b87?utm_campaign=1053&utm_source=git)** | Harrisburg, PA, United States | On Site | Nov 05 |
 | **[Ballotpedia](https://ballotpedia.org/)** | **[Editorial or Communications Spring 2027 Internship Program (Paid/Remote)](https://jobright.ai/jobs/info/6aecd423a2661405dc2c6b3c?utm_campaign=1053&utm_source=git)** | United States | Remote | Nov 05 |
-| **[Golden Hippo®](http://goldenhippomedia.com)** | **[Video Editor, Podcast Intern - Spring 2027](https://jobright.ai/jobs/info/6aecc798465e3d2371381907?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | Hybrid | Nov 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
