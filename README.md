@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Intern](https://jobright.ai/jobs/info/6ab2ddb11e4847ddae916da4?utm_campaign=1053&utm_source=git)** | Henderson, KY, United States | On Site | Nov 12 |
+| ↳ | **[Lifestyle Show Spring Semester Intern](https://jobright.ai/jobs/info/6ad8d2e939284cd5242809db?utm_campaign=1053&utm_source=git)** | Philadelphia, PA, United States | On Site | Nov 12 |
+| **[Michigan Medicine](http://www.uofmhealth.org/)** | **[Podcast Production & Engagement Intern (Work-Study/Temp)](https://jobright.ai/jobs/info/6af5cc3a8cc703bba47acedb?utm_campaign=1053&utm_source=git)** | Flint, MI, United States | Hybrid | Nov 12 |
+| **[Future London Academy](http://futurelondonacademy.co.uk/)** | **[Event Production Intern](https://jobright.ai/jobs/info/6af5c485a4a5218a07e7ffe5?utm_campaign=1053&utm_source=git)** | San Francisco Bay Area, United States | On Site | Nov 12 |
 | **[Create Music Group](https://www.createmusicgroup.com/)** | **[A&R Research Intern - Spring 2027](https://jobright.ai/jobs/info/6af4b881cbd2ee75d155c918?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | Hybrid | Nov 12 |
 | **[SITA Couture](https://sitacouture.com)** | **[Videographer Intern for Luxury Fashion Brand](https://jobright.ai/jobs/info/6af57254a3cce217be6c9af4?utm_campaign=1053&utm_source=git)** | Encinitas, CA, United States | On Site | Nov 12 |
 | **[Charles River Laboratories](http://www.criver.com)** | **[2027 Summer Intern - Archive](https://jobright.ai/jobs/info/6af5497b2278454e18c3bc0d?utm_campaign=1053&utm_source=git)** | Ashland, OH, United States | On Site | Nov 11 |
@@ -112,8 +116,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[NBC Local Production, Editorial, and Marketing News Internships – Summer 2027](https://jobright.ai/jobs/info/6af21afe8cbcfef4a59d89d3?utm_campaign=1053&utm_source=git)** | Universal City, CA, United States | On Site | Nov 09 |
 | ↳ | **[NBC Local Boston News Internships – Summer 2027](https://jobright.ai/jobs/info/6af217b51aaffa49f73808b4?utm_campaign=1053&utm_source=git)** | Needham, MA, United States | On Site | Nov 09 |
 | ↳ | **[Music Internships – Summer 2027](https://jobright.ai/jobs/info/6af1fc6b1aaffa49f737f74e?utm_campaign=1053&utm_source=git)** | New York, New York, United States | On Site | Nov 09 |
-| ↳ | **[Music Internships – Summer 2027](https://jobright.ai/jobs/info/6af1fc67905985ccaa407554?utm_campaign=1053&utm_source=git)** | Universal City, CA, United States | On Site | Nov 09 |
 | ↳ | **[Telemundo Production & Operations Internships – Summer 2027](https://jobright.ai/jobs/info/6af1fc67905985ccaa407555?utm_campaign=1053&utm_source=git)** | Miami, FL, United States | On Site | Nov 09 |
+| ↳ | **[Music Internships – Summer 2027](https://jobright.ai/jobs/info/6af1fc67905985ccaa407554?utm_campaign=1053&utm_source=git)** | Universal City, CA, United States | On Site | Nov 09 |
 | ↳ | **[Media Asset & Archival Management Internships – Summer 2027](https://jobright.ai/jobs/info/6af1fc590cb834dad9321c1e?utm_campaign=1053&utm_source=git)** | North Bergen, NJ, United States | On Site | Nov 09 |
 | ↳ | **[NBC Sports Olympic Digital & Production Internships – Summer 2027](https://jobright.ai/jobs/info/6af1fc4a62fb9f5fcd892783?utm_campaign=1053&utm_source=git)** | Stamford, CT, United States | On Site | Nov 09 |
 | ↳ | **[Telemundo Production & Operations Internships – Summer 2027](https://jobright.ai/jobs/info/6af1e79662fb9f5fcd891b47?utm_campaign=1053&utm_source=git)** | Miami, FL, United States | On Site | Nov 09 |
@@ -121,18 +125,18 @@ For a complete list, click the following sortable link below:
 | **[NBCUniversal](https://www.nbcuniversal.com)** | **[Music Internships – Summer 2027](https://jobright.ai/jobs/info/6af1f5881aaffa49f737f114?utm_campaign=1053&utm_source=git)** | Universal City, CA, United States | On Site | Nov 09 |
 | **[Children's Home Society of South Dakota](https://www.chssd.org)** | **[Video Production Internship  (Bachelor's Level)](https://jobright.ai/jobs/info/6af24d55905985ccaa40bae2?utm_campaign=1053&utm_source=git)** | Rapid City, SD, United States | On Site | Nov 09 |
 | **[NBCUniversal](https://www.nbcuniversal.com)** | **[Universal Television Entertainment Production, Development & Programming Internships – Summer 2027](https://jobright.ai/jobs/info/6af1e1f61116f6f0a07632e1?utm_campaign=1053&utm_source=git)** | Universal City, California, United States | On Site | Nov 09 |
-| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Intern](https://jobright.ai/jobs/info/6a9674f7455eaf6a08c17881?utm_campaign=1053&utm_source=git)** | Peoria, IL, United States | On Site | Nov 09 |
-| ↳ | **[Unpaid News Intern](https://jobright.ai/jobs/info/6ace590e4391691a335ac06a?utm_campaign=1053&utm_source=git)** | Wichita, KS, United States | On Site | Nov 09 |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid News Intern](https://jobright.ai/jobs/info/6ace590e4391691a335ac06a?utm_campaign=1053&utm_source=git)** | Wichita, KS, United States | On Site | Nov 09 |
+| ↳ | **[Unpaid Intern](https://jobright.ai/jobs/info/6a9674f7455eaf6a08c17881?utm_campaign=1053&utm_source=git)** | Peoria, IL, United States | On Site | Nov 09 |
 | ↳ | **[Intern - KOIN / KRCW - Portland, OR (Unpaid)](https://jobright.ai/jobs/info/6a526c03d007ee02d95f77ac?utm_campaign=1053&utm_source=git)** | OR, Portland, United States of America | On Site | Nov 09 |
 | **[Adobe](http://www.adobe.com)** | **[2027 Intern - Media & Editorial Generalist](https://jobright.ai/jobs/info/6aeb6fb6fbe13dfb53df402c?utm_campaign=1053&utm_source=git)** | San Francisco, CA, United States | On Site | Nov 09 |
 | **[Unrivaled Sports](https://www.unrivaledsports.com)** | **[Events and Experiences Internship](https://jobright.ai/jobs/info/6af590bc79862a378dcec808?utm_campaign=1053&utm_source=git)** | Oneonta, NY, United States | On Site | Nov 09 |
 | **[HDR](http://www.hdrinc.com)** | **[Cultural Resources Intern-WG](https://jobright.ai/jobs/info/6aade4a43d96632d741b0111?utm_campaign=1053&utm_source=git)** | Austin, TX, United States | On Site | Nov 09 |
 | **[Union Home Mortgage Corp.](https://www.uhm.com/)** | **[Video Content Intern](https://jobright.ai/jobs/info/6a924886d18f75674827bb2a?utm_campaign=1053&utm_source=git)** | Strongsville, OH, United States | On Site | Nov 09 |
 | **[EVOC LABS](www.evoclabs.com)** | **[SCRIPT WRITER INTERN](https://jobright.ai/jobs/info/6af10da19f8e479a8bd0209c?utm_campaign=1053&utm_source=git)** | Kansas, United States | On Site | Nov 08 |
-| **[Martin Marietta](http://martinmarietta.com)** | **[Intern, Production (Summer 2027)](https://jobright.ai/jobs/info/6af3742480020ca3a8975c8e?utm_campaign=1053&utm_source=git)** | Fort Myers, FL, United States | On Site | Nov 08 |
+| **[Martin Marietta](http://martinmarietta.com)** | **[Intern, Production (Summer 2027)](https://jobright.ai/jobs/info/6af3741d7c81de7a524bfb75?utm_campaign=1053&utm_source=git)** | Charlotte, NC, United States | On Site | Nov 08 |
 | ↳ | **[Intern, Production (Summer 2027)](https://jobright.ai/jobs/info/6af37417769e9374033c67a0?utm_campaign=1053&utm_source=git)** | Blountville, TN, United States | On Site | Nov 08 |
 | ↳ | **[Intern, Production (Summer 2027)](https://jobright.ai/jobs/info/6af3740bf6053e296fc7cad4?utm_campaign=1053&utm_source=git)** | Burlington, NC, United States | On Site | Nov 08 |
-| ↳ | **[Intern, Production (Summer 2027)](https://jobright.ai/jobs/info/6af3741d7c81de7a524bfb75?utm_campaign=1053&utm_source=git)** | Charlotte, NC, United States | On Site | Nov 08 |
+| ↳ | **[Intern, Production (Summer 2027)](https://jobright.ai/jobs/info/6af3742480020ca3a8975c8e?utm_campaign=1053&utm_source=git)** | Fort Myers, FL, United States | On Site | Nov 08 |
 | **[Buchanan Group (BGI)](https://buchanangroup.org)** | **[Weddings & Events Intern - Indianapolis, IN](https://jobright.ai/jobs/info/6ac916d3fcdafb60c6a4ab5b?utm_campaign=1053&utm_source=git)** | Indianapolis, IN, United States | On Site | Nov 08 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Paid Intern (Photojournalist/Multi-Media Journalist/Producer)](https://jobright.ai/jobs/info/69f179ef8feca91f149202ba?utm_campaign=1053&utm_source=git)** | Wichita, KS | On Site | Nov 07 |
 | **[FOX Sports](http://foxsports.com)** | **[Spring 2027 FOX Sports Internship Program - Audience Research – New York, NY](https://jobright.ai/jobs/info/6ab6a8b7b3db59402d101940?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Nov 07 |
@@ -153,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Daktronics](http://www.daktronics.com/en-us)** | **[James Madison University Event Production Intern](https://jobright.ai/jobs/info/6ab1a156d43eb922ca0c0329?utm_campaign=1053&utm_source=git)** | Harrisonburg, VA, United States | On Site | Nov 06 |
 | **[FOX Sports](http://foxsports.com)** | **[Spring 2027 FOX Sports Big Ten Network Internship Program](https://jobright.ai/jobs/info/6ad241a725289a0b3bf5545e?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | On Site | Nov 06 |
 | **[Austin PBS](http://www.austinpbs.org)** | **[Spring 2027 Internship / Video Production](https://jobright.ai/jobs/info/6aecf0c1ab48a7079381ff19?utm_campaign=1053&utm_source=git)** | Austin, TX, United States | Hybrid | Nov 06 |
-| **[Alabama Credit Union](https://alabamacu.com)** | **[Internal Communications Intern](https://jobright.ai/jobs/info/6aec8ed73967d67f6359d818?utm_campaign=1053&utm_source=git)** | Tuscaloosa, AL, United States | On Site | Nov 05 |
-| **[Diamond Baseball Holdings](http://diamondbaseballholdings.com/)** | **[Intern, Video Production (58231)](https://jobright.ai/jobs/info/6ada92c054bbabbab0717b87?utm_campaign=1053&utm_source=git)** | Harrisburg, PA, United States | On Site | Nov 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
