@@ -57,7 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Universal Attractions Agency](https://universalattractions.com)** | **[Music Agency Internship](https://jobright.ai/jobs/info/6af721d1d0eefb7d11b8924c?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Nov 13 |
+| **[Travel Radar](https://travelradar.aero)** | **[News Editor Internship (Remote)](https://jobright.ai/jobs/info/6af732543ba46d7b6c163f86?utm_campaign=1053&utm_source=git)** | Florida, United States | Remote | Nov 13 |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[WAVY-TV 10 Unpaid CTV Streaming Content Production Intern, Spring 2027](https://jobright.ai/jobs/info/6ad194ea9c2b265c6799ab4e?utm_campaign=1053&utm_source=git)** | Portsmouth, VA, United States | On Site | Nov 13 |
+| **[Zipline](https://www.zipline.com)** | **[Video Production Intern (Spring 2027)](https://jobright.ai/jobs/info/6a85d6d7e459fa3baa864167?utm_campaign=1053&utm_source=git)** | South San Francisco, CA, United States | On Site | Nov 13 |
+| **[Universal Attractions Agency](https://universalattractions.com)** | **[Music Agency Internship](https://jobright.ai/jobs/info/6af7245fe3d8d612bf4205be?utm_campaign=1053&utm_source=git)** | Nashville, TN, United States | Remote | Nov 13 |
+| ↳ | **[Music Agency Internship](https://jobright.ai/jobs/info/6af721d1d0eefb7d11b8924c?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Nov 13 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[WAVY Unpaid Sports Intern, Spring 2027](https://jobright.ai/jobs/info/6ad194ea90e54b6cff1a38a5?utm_campaign=1053&utm_source=git)** | Portsmouth, VA, United States | On Site | Nov 13 |
 | **[ASM Global](https://asmglobal.com/)** | **[Hospitality Intern - The Meadows Music Theater](https://jobright.ai/jobs/info/6a510fcabf63b66c79978842?utm_campaign=1053&utm_source=git)** | Hartford, CT, United States | On Site | Nov 13 |
 | **[American Bankers Association](http://www.aba.com)** | **[Intern, Video Production](https://jobright.ai/jobs/info/6ada18633a69033df2255797?utm_campaign=1053&utm_source=git)** | Washington, District of Columbia, United States | On Site | Nov 13 |
@@ -148,13 +152,9 @@ For a complete list, click the following sortable link below:
 | **[Union Home Mortgage Corp.](https://www.uhm.com/)** | **[Video Content Intern](https://jobright.ai/jobs/info/6a924886d18f75674827bb2a?utm_campaign=1053&utm_source=git)** | Strongsville, OH, United States | On Site | Nov 09 |
 | **[EVOC LABS](www.evoclabs.com)** | **[SCRIPT WRITER INTERN](https://jobright.ai/jobs/info/6af10da19f8e479a8bd0209c?utm_campaign=1053&utm_source=git)** | Kansas, United States | On Site | Nov 08 |
 | **[Martin Marietta](http://martinmarietta.com)** | **[Intern, Production (Summer 2027)](https://jobright.ai/jobs/info/6af3742480020ca3a8975c8e?utm_campaign=1053&utm_source=git)** | Fort Myers, FL, United States | On Site | Nov 08 |
+| ↳ | **[Intern, Production (Summer 2027)](https://jobright.ai/jobs/info/6af37417769e9374033c67a0?utm_campaign=1053&utm_source=git)** | Blountville, TN, United States | On Site | Nov 08 |
 | ↳ | **[Intern, Production (Summer 2027)](https://jobright.ai/jobs/info/6af3740bf6053e296fc7cad4?utm_campaign=1053&utm_source=git)** | Burlington, NC, United States | On Site | Nov 08 |
 | ↳ | **[Intern, Production (Summer 2027)](https://jobright.ai/jobs/info/6af3741d7c81de7a524bfb75?utm_campaign=1053&utm_source=git)** | Charlotte, NC, United States | On Site | Nov 08 |
-| ↳ | **[Intern, Production (Summer 2027)](https://jobright.ai/jobs/info/6af37417769e9374033c67a0?utm_campaign=1053&utm_source=git)** | Blountville, TN, United States | On Site | Nov 08 |
 | **[Buchanan Group (BGI)](https://buchanangroup.org)** | **[Weddings & Events Intern - Indianapolis, IN](https://jobright.ai/jobs/info/6ac916d3fcdafb60c6a4ab5b?utm_campaign=1053&utm_source=git)** | Indianapolis, IN, United States | On Site | Nov 08 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Paid Intern (Photojournalist/Multi-Media Journalist/Producer)](https://jobright.ai/jobs/info/69f179ef8feca91f149202ba?utm_campaign=1053&utm_source=git)** | Wichita, KS | On Site | Nov 07 |
-| **[FOX Sports](http://foxsports.com)** | **[Spring 2027 FOX Sports Internship Program - Audience Research – New York, NY](https://jobright.ai/jobs/info/6ab6a8b7b3db59402d101940?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Nov 07 |
-| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Video Editing Intern](https://jobright.ai/jobs/info/6abe69f00e027c0f3b39883e?utm_campaign=1053&utm_source=git)** | Raleigh, NC, United States | Hybrid | Nov 07 |
-| **[Fox Entertainment](http://www.fox.com/)** | **[Spring 2027 FOX Entertainment Internship Program - New York](https://jobright.ai/jobs/info/6ad2291ef04335fc70ed32d3?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Nov 07 |
-| **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/)** | **[Video Editor – BYU-Pathway Worldwide (Full-Time Intern)](https://jobright.ai/jobs/info/6aee2657e0c9de7b05f8b0f5?utm_campaign=1053&utm_source=git)** | Rexburg, ID, United States | Hybrid | Nov 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
