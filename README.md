@@ -57,9 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[FloSports](http://www.flosports.tv/)** | **[Spring Internship - FloTrack](https://jobright.ai/jobs/info/6af74140e3d8d612bf4217a8?utm_campaign=1053&utm_source=git)** | Austin, TX, United States | On Site | Nov 13 |
+| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Internal Communications Specialist)](https://jobright.ai/jobs/info/6aa168cfdbc0e60e37e111eb?utm_campaign=1053&utm_source=git)** | Vienna, VA, United States | Hybrid | Nov 13 |
+| ↳ | **[Summer Associate Internship (Internal Communications Specialist)](https://jobright.ai/jobs/info/6aa16331ef23570cae2439e4?utm_campaign=1053&utm_source=git)** | Vienna, VA, United States | Hybrid | Nov 13 |
+| **[SiriusXM](http://siriusxm.com)** | **[Spring Intern, Video Production - Part-Time](https://jobright.ai/jobs/info/6af747f0c7349029d709403c?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Nov 13 |
+| ↳ | **[Spring Intern, POTUS - Part-Time](https://jobright.ai/jobs/info/6af747ed3ba46d7b6c164fee?utm_campaign=1053&utm_source=git)** | Washington, DC, United States | On Site | Nov 13 |
+| ↳ | **[Spring Intern, Pandora Curation - Part-Time](https://jobright.ai/jobs/info/6af747eac7349029d7094034?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Nov 13 |
 | **[Inspire](https://inspirebrands.com)** | **[Production Intern, Maverick Studios Content Kitchen - Summer 2027](https://jobright.ai/jobs/info/6af7442dd0eefb7d11b8a970?utm_campaign=1053&utm_source=git)** | Atlanta, GA, United States | On Site | Nov 13 |
 | **[Constellation](https://www.constellationenergy.com)** | **[2027 Summer Trading Intern (Baltimore, MD)](https://jobright.ai/jobs/info/6aa5cd9542411952ff9a9dc5?utm_campaign=1053&utm_source=git)** | Baltimore, MD, United States | Hybrid | Nov 13 |
-| **[FloSports](http://www.flosports.tv/)** | **[Spring Internship - FloTrack](https://jobright.ai/jobs/info/6af74140e3d8d612bf4217a8?utm_campaign=1053&utm_source=git)** | Austin, TX, United States | On Site | Nov 13 |
 | **[Travel Radar](https://travelradar.aero)** | **[News Editor Internship (Remote)](https://jobright.ai/jobs/info/6af732543ba46d7b6c163f86?utm_campaign=1053&utm_source=git)** | Florida, United States | Remote | Nov 13 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[WAVY-TV 10 Unpaid CTV Streaming Content Production Intern, Spring 2027](https://jobright.ai/jobs/info/6ad194ea9c2b265c6799ab4e?utm_campaign=1053&utm_source=git)** | Portsmouth, VA, United States | On Site | Nov 13 |
 | **[Zipline](https://www.zipline.com)** | **[Video Production Intern (Spring 2027)](https://jobright.ai/jobs/info/6a85d6d7e459fa3baa864167?utm_campaign=1053&utm_source=git)** | South San Francisco, CA, United States | On Site | Nov 13 |
@@ -145,16 +150,11 @@ For a complete list, click the following sortable link below:
 | **[NBCUniversal](https://www.nbcuniversal.com)** | **[Music Internships – Summer 2027](https://jobright.ai/jobs/info/6af1f5881aaffa49f737f114?utm_campaign=1053&utm_source=git)** | Universal City, CA, United States | On Site | Nov 09 |
 | **[Children's Home Society of South Dakota](https://www.chssd.org)** | **[Video Production Internship  (Bachelor's Level)](https://jobright.ai/jobs/info/6af24d55905985ccaa40bae2?utm_campaign=1053&utm_source=git)** | Rapid City, SD, United States | On Site | Nov 09 |
 | **[NBCUniversal](https://www.nbcuniversal.com)** | **[Universal Television Entertainment Production, Development & Programming Internships – Summer 2027](https://jobright.ai/jobs/info/6af1e1f61116f6f0a07632e1?utm_campaign=1053&utm_source=git)** | Universal City, California, United States | On Site | Nov 09 |
-| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Intern](https://jobright.ai/jobs/info/6a9674f7455eaf6a08c17881?utm_campaign=1053&utm_source=git)** | Peoria, IL, United States | On Site | Nov 09 |
-| ↳ | **[Unpaid News Intern](https://jobright.ai/jobs/info/6ace590e4391691a335ac06a?utm_campaign=1053&utm_source=git)** | Wichita, KS, United States | On Site | Nov 09 |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid News Intern](https://jobright.ai/jobs/info/6ace590e4391691a335ac06a?utm_campaign=1053&utm_source=git)** | Wichita, KS, United States | On Site | Nov 09 |
+| ↳ | **[Unpaid Intern](https://jobright.ai/jobs/info/6a9674f7455eaf6a08c17881?utm_campaign=1053&utm_source=git)** | Peoria, IL, United States | On Site | Nov 09 |
 | ↳ | **[Intern - KOIN / KRCW - Portland, OR (Unpaid)](https://jobright.ai/jobs/info/6a526c03d007ee02d95f77ac?utm_campaign=1053&utm_source=git)** | OR, Portland, United States of America | On Site | Nov 09 |
 | **[Adobe](http://www.adobe.com)** | **[2027 Intern - Media & Editorial Generalist](https://jobright.ai/jobs/info/6aeb6fb6fbe13dfb53df402c?utm_campaign=1053&utm_source=git)** | San Francisco, CA, United States | On Site | Nov 09 |
 | **[Unrivaled Sports](https://www.unrivaledsports.com)** | **[Events and Experiences Internship](https://jobright.ai/jobs/info/6af590bc79862a378dcec808?utm_campaign=1053&utm_source=git)** | Oneonta, NY, United States | On Site | Nov 09 |
-| **[HDR](http://www.hdrinc.com)** | **[Cultural Resources Intern-WG](https://jobright.ai/jobs/info/6a9b499c9c24314c35f98c11?utm_campaign=1053&utm_source=git)** | Austin, TX, United States | On Site | Nov 09 |
+| **[HDR](http://www.hdrinc.com)** | **[Cultural Resources Intern-WG](https://jobright.ai/jobs/info/6aade4a43d96632d741b0111?utm_campaign=1053&utm_source=git)** | Austin, TX, United States | On Site | Nov 09 |
 | **[Union Home Mortgage Corp.](https://www.uhm.com/)** | **[Video Content Intern](https://jobright.ai/jobs/info/6a924886d18f75674827bb2a?utm_campaign=1053&utm_source=git)** | Strongsville, OH, United States | On Site | Nov 09 |
-| **[EVOC LABS](www.evoclabs.com)** | **[SCRIPT WRITER INTERN](https://jobright.ai/jobs/info/6af10da19f8e479a8bd0209c?utm_campaign=1053&utm_source=git)** | Kansas, United States | On Site | Nov 08 |
-| **[Martin Marietta](http://martinmarietta.com)** | **[Intern, Production (Summer 2027)](https://jobright.ai/jobs/info/6af3741d7c81de7a524bfb75?utm_campaign=1053&utm_source=git)** | Charlotte, NC, United States | On Site | Nov 08 |
-| ↳ | **[Intern, Production (Summer 2027)](https://jobright.ai/jobs/info/6af37417769e9374033c67a0?utm_campaign=1053&utm_source=git)** | Blountville, TN, United States | On Site | Nov 08 |
-| ↳ | **[Intern, Production (Summer 2027)](https://jobright.ai/jobs/info/6af3742480020ca3a8975c8e?utm_campaign=1053&utm_source=git)** | Fort Myers, FL, United States | On Site | Nov 08 |
-| ↳ | **[Intern, Production (Summer 2027)](https://jobright.ai/jobs/info/6af3740bf6053e296fc7cad4?utm_campaign=1053&utm_source=git)** | Burlington, NC, United States | On Site | Nov 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
