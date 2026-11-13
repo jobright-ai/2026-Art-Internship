@@ -62,7 +62,6 @@ For a complete list, click the following sortable link below:
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Internal Communications Specialist)](https://jobright.ai/jobs/info/6aa16331ef23570cae2439e4?utm_campaign=1053&utm_source=git)** | Vienna, VA, United States | Hybrid | Nov 13 |
 | ↳ | **[Summer Associate Internship (Internal Communications Specialist)](https://jobright.ai/jobs/info/6aa168cfdbc0e60e37e111eb?utm_campaign=1053&utm_source=git)** | Vienna, VA, United States | Hybrid | Nov 13 |
 | **[FloSports](http://www.flosports.tv/)** | **[Spring Internship - FloTrack](https://jobright.ai/jobs/info/6af74140e3d8d612bf4217a8?utm_campaign=1053&utm_source=git)** | Austin, TX, United States | On Site | Nov 13 |
-| **[Boehringer Ingelheim](https://www.boehringer-ingelheim.com/)** | **[Video Production Intern](https://jobright.ai/jobs/info/6abebd984ac55253f5d6251d?utm_campaign=1053&utm_source=git)** | Ridgefield, CT 06877, United States | Hybrid | Nov 13 |
 | **[SiriusXM](http://siriusxm.com)** | **[Spring Intern, Video Production - Part-Time](https://jobright.ai/jobs/info/6af747f0c7349029d709403c?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Nov 13 |
 | ↳ | **[Spring Intern, POTUS - Part-Time](https://jobright.ai/jobs/info/6af747ed3ba46d7b6c164fee?utm_campaign=1053&utm_source=git)** | Washington, DC, United States | On Site | Nov 13 |
 | ↳ | **[Spring Intern, Pandora Curation - Part-Time](https://jobright.ai/jobs/info/6af747eac7349029d7094034?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Nov 13 |
@@ -143,8 +142,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[NBC Local Production, Editorial, and Marketing News Internships – Summer 2027](https://jobright.ai/jobs/info/6af21afe8cbcfef4a59d89d3?utm_campaign=1053&utm_source=git)** | Universal City, CA, United States | On Site | Nov 09 |
 | ↳ | **[NBC Local Boston News Internships – Summer 2027](https://jobright.ai/jobs/info/6af217b51aaffa49f73808b4?utm_campaign=1053&utm_source=git)** | Needham, MA, United States | On Site | Nov 09 |
 | ↳ | **[Music Internships – Summer 2027](https://jobright.ai/jobs/info/6af1fc6b1aaffa49f737f74e?utm_campaign=1053&utm_source=git)** | New York, New York, United States | On Site | Nov 09 |
-| ↳ | **[Telemundo Production & Operations Internships – Summer 2027](https://jobright.ai/jobs/info/6af1fc67905985ccaa407555?utm_campaign=1053&utm_source=git)** | Miami, FL, United States | On Site | Nov 09 |
 | ↳ | **[Music Internships – Summer 2027](https://jobright.ai/jobs/info/6af1fc67905985ccaa407554?utm_campaign=1053&utm_source=git)** | Universal City, CA, United States | On Site | Nov 09 |
+| ↳ | **[Telemundo Production & Operations Internships – Summer 2027](https://jobright.ai/jobs/info/6af1fc67905985ccaa407555?utm_campaign=1053&utm_source=git)** | Miami, FL, United States | On Site | Nov 09 |
 | ↳ | **[Media Asset & Archival Management Internships – Summer 2027](https://jobright.ai/jobs/info/6af1fc590cb834dad9321c1e?utm_campaign=1053&utm_source=git)** | North Bergen, NJ, United States | On Site | Nov 09 |
 | ↳ | **[NBC Sports Olympic Digital & Production Internships – Summer 2027](https://jobright.ai/jobs/info/6af1fc4a62fb9f5fcd892783?utm_campaign=1053&utm_source=git)** | Stamford, CT, United States | On Site | Nov 09 |
 | ↳ | **[Telemundo Production & Operations Internships – Summer 2027](https://jobright.ai/jobs/info/6af1e79662fb9f5fcd891b47?utm_campaign=1053&utm_source=git)** | Miami, FL, United States | On Site | Nov 09 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern - KOIN / KRCW - Portland, OR (Unpaid)](https://jobright.ai/jobs/info/6a526c03d007ee02d95f77ac?utm_campaign=1053&utm_source=git)** | OR, Portland, United States of America | On Site | Nov 09 |
 | **[Adobe](http://www.adobe.com)** | **[2027 Intern - Media & Editorial Generalist](https://jobright.ai/jobs/info/6aeb6fb6fbe13dfb53df402c?utm_campaign=1053&utm_source=git)** | San Francisco, CA, United States | On Site | Nov 09 |
 | **[Unrivaled Sports](https://www.unrivaledsports.com)** | **[Events and Experiences Internship](https://jobright.ai/jobs/info/6af590bc79862a378dcec808?utm_campaign=1053&utm_source=git)** | Oneonta, NY, United States | On Site | Nov 09 |
+| **[HDR](http://www.hdrinc.com)** | **[Cultural Resources Intern-WG](https://jobright.ai/jobs/info/6a9b499c9c24314c35f98c11?utm_campaign=1053&utm_source=git)** | Austin, TX, United States | On Site | Nov 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
