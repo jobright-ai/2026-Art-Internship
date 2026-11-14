@@ -146,8 +146,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[NBC Local Production, Editorial, and Marketing News Internships – Summer 2027](https://jobright.ai/jobs/info/6af21afe8cbcfef4a59d89d3?utm_campaign=1053&utm_source=git)** | Universal City, CA, United States | On Site | Nov 09 |
 | ↳ | **[NBC Local Boston News Internships – Summer 2027](https://jobright.ai/jobs/info/6af217b51aaffa49f73808b4?utm_campaign=1053&utm_source=git)** | Needham, MA, United States | On Site | Nov 09 |
 | ↳ | **[Music Internships – Summer 2027](https://jobright.ai/jobs/info/6af1fc6b1aaffa49f737f74e?utm_campaign=1053&utm_source=git)** | New York, New York, United States | On Site | Nov 09 |
-| ↳ | **[Telemundo Production & Operations Internships – Summer 2027](https://jobright.ai/jobs/info/6af1fc67905985ccaa407555?utm_campaign=1053&utm_source=git)** | Miami, FL, United States | On Site | Nov 09 |
 | ↳ | **[Music Internships – Summer 2027](https://jobright.ai/jobs/info/6af1fc67905985ccaa407554?utm_campaign=1053&utm_source=git)** | Universal City, CA, United States | On Site | Nov 09 |
+| ↳ | **[Telemundo Production & Operations Internships – Summer 2027](https://jobright.ai/jobs/info/6af1fc67905985ccaa407555?utm_campaign=1053&utm_source=git)** | Miami, FL, United States | On Site | Nov 09 |
 | ↳ | **[Media Asset & Archival Management Internships – Summer 2027](https://jobright.ai/jobs/info/6af1fc590cb834dad9321c1e?utm_campaign=1053&utm_source=git)** | North Bergen, NJ, United States | On Site | Nov 09 |
 | ↳ | **[NBC Sports Olympic Digital & Production Internships – Summer 2027](https://jobright.ai/jobs/info/6af1fc4a62fb9f5fcd892783?utm_campaign=1053&utm_source=git)** | Stamford, CT, United States | On Site | Nov 09 |
 | ↳ | **[Telemundo Production & Operations Internships – Summer 2027](https://jobright.ai/jobs/info/6af1e79662fb9f5fcd891b47?utm_campaign=1053&utm_source=git)** | Miami, FL, United States | On Site | Nov 09 |
@@ -155,6 +155,6 @@ For a complete list, click the following sortable link below:
 | **[NBCUniversal](https://www.nbcuniversal.com)** | **[Music Internships – Summer 2027](https://jobright.ai/jobs/info/6af1f5881aaffa49f737f114?utm_campaign=1053&utm_source=git)** | Universal City, CA, United States | On Site | Nov 09 |
 | **[Children's Home Society of South Dakota](https://www.chssd.org)** | **[Video Production Internship  (Bachelor's Level)](https://jobright.ai/jobs/info/6af24d55905985ccaa40bae2?utm_campaign=1053&utm_source=git)** | Rapid City, SD, United States | On Site | Nov 09 |
 | **[NBCUniversal](https://www.nbcuniversal.com)** | **[Universal Television Entertainment Production, Development & Programming Internships – Summer 2027](https://jobright.ai/jobs/info/6af1e1f61116f6f0a07632e1?utm_campaign=1053&utm_source=git)** | Universal City, California, United States | On Site | Nov 09 |
-| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Intern](https://jobright.ai/jobs/info/6a9674f7455eaf6a08c17881?utm_campaign=1053&utm_source=git)** | Peoria, IL, United States | On Site | Nov 09 |
-| ↳ | **[Unpaid News Intern](https://jobright.ai/jobs/info/6ace590e4391691a335ac06a?utm_campaign=1053&utm_source=git)** | Wichita, KS, United States | On Site | Nov 09 |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid News Intern](https://jobright.ai/jobs/info/6ace590e4391691a335ac06a?utm_campaign=1053&utm_source=git)** | Wichita, KS, United States | On Site | Nov 09 |
+| ↳ | **[Unpaid Intern](https://jobright.ai/jobs/info/6a9674f7455eaf6a08c17881?utm_campaign=1053&utm_source=git)** | Peoria, IL, United States | On Site | Nov 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
