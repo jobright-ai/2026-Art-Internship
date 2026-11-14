@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Toro Company](https://www.thetorocompany.com)** | **[Video and Interactive Training Production Intern - Ditch Witch](https://jobright.ai/jobs/info/6aa3aa4c959a10d7230d3185?utm_campaign=1053&utm_source=git)** | Perry, OK, United States | On Site | Nov 14 |
 | **[Apple](https://www.apple.com)** | **[Apple Music Intern](https://jobright.ai/jobs/info/6af7e0c3c7349029d7098fd6?utm_campaign=1053&utm_source=git)** | Toronto, ON, Canada | On Site | Nov 13 |
 | **[Wilderness Resort in Wisconsin Dells](https://www.wildernessresort.com)** | **[Golf Operations Internship Summer 2027](https://jobright.ai/jobs/info/6af80cf4cb5a5d4a77fc9d56?utm_campaign=1053&utm_source=git)** | Wisconsin Dells, WI, United States | On Site | Nov 13 |
 | **[DeVry University](http://www.devry.edu)** | **[FWS Student Worker III, Off Campus (Video & Multimedia Content Creator Intern)](https://jobright.ai/jobs/info/6af7f91734e2d29dcb752be3?utm_campaign=1053&utm_source=git)** | Lisle, IL, United States | Hybrid | Nov 13 |
@@ -65,8 +66,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Digital Editorial Intern](https://jobright.ai/jobs/info/6af79004c7349029d709717d?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Nov 13 |
 | **[The New York Times](https://www.nytco.com/)** | **[Audience Team Intern, Wirecutter](https://jobright.ai/jobs/info/6ae4e148d45dc30fb7d3327f?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Hybrid | Nov 13 |
 | **[Old Mission Medicine Management, LLC](www.oldmissionmedicine.com)** | **[Camera & Video Production Intern](https://jobright.ai/jobs/info/6af758dee3d8d612bf42278c?utm_campaign=1053&utm_source=git)** | Traverse City, MI, United States | On Site | Nov 13 |
-| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Internal Communications Specialist)](https://jobright.ai/jobs/info/6aa16331ef23570cae2439e4?utm_campaign=1053&utm_source=git)** | Vienna, VA, United States | Hybrid | Nov 13 |
-| ↳ | **[Summer Associate Internship (Internal Communications Specialist)](https://jobright.ai/jobs/info/6aa168cfdbc0e60e37e111eb?utm_campaign=1053&utm_source=git)** | Vienna, VA, United States | Hybrid | Nov 13 |
+| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Internal Communications Specialist)](https://jobright.ai/jobs/info/6aa168cfdbc0e60e37e111eb?utm_campaign=1053&utm_source=git)** | Vienna, VA, United States | Hybrid | Nov 13 |
+| ↳ | **[Summer Associate Internship (Internal Communications Specialist)](https://jobright.ai/jobs/info/6aa16331ef23570cae2439e4?utm_campaign=1053&utm_source=git)** | Vienna, VA, United States | Hybrid | Nov 13 |
 | **[FloSports](http://www.flosports.tv/)** | **[Spring Internship - FloTrack](https://jobright.ai/jobs/info/6af74140e3d8d612bf4217a8?utm_campaign=1053&utm_source=git)** | Austin, TX, United States | On Site | Nov 13 |
 | **[SiriusXM](http://siriusxm.com)** | **[Spring Intern, Video Production - Part-Time](https://jobright.ai/jobs/info/6af747f0c7349029d709403c?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Nov 13 |
 | ↳ | **[Spring Intern, POTUS - Part-Time](https://jobright.ai/jobs/info/6af747ed3ba46d7b6c164fee?utm_campaign=1053&utm_source=git)** | Washington, DC, United States | On Site | Nov 13 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[NBCUniversal](https://www.nbcuniversal.com)** | **[Universal Television Entertainment Production, Development & Programming Internships – Summer 2027](https://jobright.ai/jobs/info/6af1e1f61116f6f0a07632e1?utm_campaign=1053&utm_source=git)** | Universal City, California, United States | On Site | Nov 09 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Intern](https://jobright.ai/jobs/info/6a9674f7455eaf6a08c17881?utm_campaign=1053&utm_source=git)** | Peoria, IL, United States | On Site | Nov 09 |
 | ↳ | **[Unpaid News Intern](https://jobright.ai/jobs/info/6ace590e4391691a335ac06a?utm_campaign=1053&utm_source=git)** | Wichita, KS, United States | On Site | Nov 09 |
-| ↳ | **[Intern - KOIN / KRCW - Portland, OR (Unpaid)](https://jobright.ai/jobs/info/6a526c03d007ee02d95f77ac?utm_campaign=1053&utm_source=git)** | OR, Portland, United States of America | On Site | Nov 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
