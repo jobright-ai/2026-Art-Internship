@@ -102,7 +102,6 @@ For a complete list, click the following sortable link below:
 | **[Future London Academy](http://futurelondonacademy.co.uk/)** | **[Event Production Intern](https://jobright.ai/jobs/info/6af5c485a4a5218a07e7ffe5?utm_campaign=1053&utm_source=git)** | San Francisco Bay Area, United States | On Site | Nov 12 |
 | **[Create Music Group](https://www.createmusicgroup.com/)** | **[A&R Research Intern - Spring 2027](https://jobright.ai/jobs/info/6af4b881cbd2ee75d155c918?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | Hybrid | Nov 12 |
 | **[SITA Couture](https://sitacouture.com)** | **[Videographer Intern for Luxury Fashion Brand](https://jobright.ai/jobs/info/6af57254a3cce217be6c9af4?utm_campaign=1053&utm_source=git)** | Encinitas, CA, United States | On Site | Nov 12 |
-| **[Charles River Laboratories](http://www.criver.com)** | **[2027 Summer Intern - Archive](https://jobright.ai/jobs/info/6af860e186a9b19681af96e7?utm_campaign=1053&utm_source=git)** | Ashland, OH, United States | On Site | Nov 11 |
 | **[The San Francisco Standard](https://sfstandard.com)** | **[Social/Editorial Intern](https://jobright.ai/jobs/info/6af4d1219144106c56a219dc?utm_campaign=1053&utm_source=git)** | San Francisco, CA, United States | Hybrid | Nov 11 |
 | **[PR Consulting](http://prconsulting.net)** | **[PRC Internship, Fashion](https://jobright.ai/jobs/info/6af4cdb7cbd2ee75d155d285?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Nov 11 |
 | ↳ | **[PRC Internship, Digital](https://jobright.ai/jobs/info/6af4cdb63a9a26aee70a094f?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Nov 11 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | ↳ | **[NBC Sports Olympic Digital & Production Internships – Summer 2027](https://jobright.ai/jobs/info/6af1fc4a62fb9f5fcd892783?utm_campaign=1053&utm_source=git)** | Stamford, CT, United States | On Site | Nov 09 |
 | ↳ | **[Telemundo Production & Operations Internships – Summer 2027](https://jobright.ai/jobs/info/6af1e79662fb9f5fcd891b47?utm_campaign=1053&utm_source=git)** | Miami, FL, United States | On Site | Nov 09 |
 | **[Sony Music Entertainment](http://www.sonymusic.com)** | **[Intern, Video Production](https://jobright.ai/jobs/info/6aee01f8caf8e660b87d957d?utm_campaign=1053&utm_source=git)** | Toronto, ON, Canada | On Site | Nov 09 |
+| **[NBCUniversal](https://www.nbcuniversal.com)** | **[Music Internships – Summer 2027](https://jobright.ai/jobs/info/6af1f5881aaffa49f737f114?utm_campaign=1053&utm_source=git)** | Universal City, CA, United States | On Site | Nov 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
