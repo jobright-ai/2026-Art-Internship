@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Gift](https://www.shine.gift)** | **[Creator Manager Intern](https://jobright.ai/jobs/info/6afa016ef015f35e7418e639?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | Remote | Nov 15 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Lifestyle Show Intern](https://jobright.ai/jobs/info/6ac115db4ac55253f5d69fb0?utm_campaign=1053&utm_source=git)** | Spartanburg, SC, United States | On Site | Nov 15 |
 | **[AccuWeather](http://www.accuweather.com)** | **[Editorial Intern (Spring 2027)](https://jobright.ai/jobs/info/6ae4e53077c09cb3bd4afec4?utm_campaign=1053&utm_source=git)** | State College, PA, United States | On Site | Nov 14 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[WAVY Unpaid Digital Intern, Spring 2027](https://jobright.ai/jobs/info/6abee9b9d9621c5b283924da?utm_campaign=1053&utm_source=git)** | Portsmouth, VA, United States | On Site | Nov 14 |
@@ -150,11 +151,10 @@ For a complete list, click the following sortable link below:
 | ↳ | **[NBC Local Production, Editorial, and Marketing News Internships – Summer 2027](https://jobright.ai/jobs/info/6af21afe8cbcfef4a59d89d3?utm_campaign=1053&utm_source=git)** | Universal City, CA, United States | On Site | Nov 09 |
 | ↳ | **[NBC Local Boston News Internships – Summer 2027](https://jobright.ai/jobs/info/6af217b51aaffa49f73808b4?utm_campaign=1053&utm_source=git)** | Needham, MA, United States | On Site | Nov 09 |
 | ↳ | **[Music Internships – Summer 2027](https://jobright.ai/jobs/info/6af1fc6b1aaffa49f737f74e?utm_campaign=1053&utm_source=git)** | New York, New York, United States | On Site | Nov 09 |
-| ↳ | **[Telemundo Production & Operations Internships – Summer 2027](https://jobright.ai/jobs/info/6af1fc67905985ccaa407555?utm_campaign=1053&utm_source=git)** | Miami, FL, United States | On Site | Nov 09 |
 | ↳ | **[Music Internships – Summer 2027](https://jobright.ai/jobs/info/6af1fc67905985ccaa407554?utm_campaign=1053&utm_source=git)** | Universal City, CA, United States | On Site | Nov 09 |
+| ↳ | **[Telemundo Production & Operations Internships – Summer 2027](https://jobright.ai/jobs/info/6af1fc67905985ccaa407555?utm_campaign=1053&utm_source=git)** | Miami, FL, United States | On Site | Nov 09 |
 | ↳ | **[Media Asset & Archival Management Internships – Summer 2027](https://jobright.ai/jobs/info/6af1fc590cb834dad9321c1e?utm_campaign=1053&utm_source=git)** | North Bergen, NJ, United States | On Site | Nov 09 |
 | ↳ | **[NBC Sports Olympic Digital & Production Internships – Summer 2027](https://jobright.ai/jobs/info/6af1fc4a62fb9f5fcd892783?utm_campaign=1053&utm_source=git)** | Stamford, CT, United States | On Site | Nov 09 |
 | ↳ | **[Telemundo Production & Operations Internships – Summer 2027](https://jobright.ai/jobs/info/6af1e79662fb9f5fcd891b47?utm_campaign=1053&utm_source=git)** | Miami, FL, United States | On Site | Nov 09 |
 | **[Sony Music Entertainment](http://www.sonymusic.com)** | **[Intern, Video Production](https://jobright.ai/jobs/info/6aee01f8caf8e660b87d957d?utm_campaign=1053&utm_source=git)** | Toronto, ON, Canada | On Site | Nov 09 |
-| **[NBCUniversal](https://www.nbcuniversal.com)** | **[Music Internships – Summer 2027](https://jobright.ai/jobs/info/6af1f5881aaffa49f737f114?utm_campaign=1053&utm_source=git)** | Universal City, CA, United States | On Site | Nov 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
