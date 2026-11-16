@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Burson](https://www.bursonglobal.com)** | **[Burson Summer 2027 HBSI (Client-Facing, USA Hybrid)](https://jobright.ai/jobs/info/6afb3e0c7f9ead6668e9ffaa?utm_campaign=1053&utm_source=git)** | Pittsburgh, PA, United States | Hybrid | Nov 16 |
+| ↳ | **[Burson Summer 2027 HBSI (Client-Facing, USA Hybrid)](https://jobright.ai/jobs/info/6afb3e0c7d1820d918c28092?utm_campaign=1053&utm_source=git)** | San Francisco, CA, United States | Hybrid | Nov 16 |
+| ↳ | **[Burson Summer 2027 HBSI (Client-Facing, USA Hybrid)](https://jobright.ai/jobs/info/6afb3e08317abe715a2624a9?utm_campaign=1053&utm_source=git)** | Atlanta, GA, United States | Hybrid | Nov 16 |
+| ↳ | **[Burson Summer 2027 HBSI (Client-Facing, USA Hybrid)](https://jobright.ai/jobs/info/6afb3e067f9ead6668e9ffa7?utm_campaign=1053&utm_source=git)** | Washington, DC, United States | Hybrid | Nov 16 |
+| ↳ | **[Burson Summer 2027 HBSI (Client-Facing, USA Hybrid)](https://jobright.ai/jobs/info/6afb3e03484fef921e0494c7?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | Hybrid | Nov 16 |
 | **[Langan Engineering & Environmental Services](http://www.langan.com)** | **[Intern/Co-op - Cultural Resources - Winter 2026/2027](https://jobright.ai/jobs/info/6afb3367484fef921e048c4a?utm_campaign=1053&utm_source=git)** | Parsippany, NJ, United States | On Site | Nov 16 |
 | **[TGR](https://thegarnettereport.com)** | **[Spring Intern](https://jobright.ai/jobs/info/6afb31f5317abe715a261a1b?utm_campaign=1053&utm_source=git)** | New York City metropolitan area, United States | On Site | Nov 16 |
 | **[Monocacy Wealth Management](https://monocacywm.com)** | **[YouTube Content Intern](https://jobright.ai/jobs/info/6afb31a3484fef921e048a34?utm_campaign=1053&utm_source=git)** | Arlington, VA, United States | Hybrid | Nov 16 |
@@ -152,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Inspire](https://inspirebrands.com)** | **[Production Intern, Maverick Studios Content Kitchen - Spring 2027](https://jobright.ai/jobs/info/6af21db51aaffa49f7381608?utm_campaign=1053&utm_source=git)** | Atlanta, Georgia, United States | On Site | Nov 10 |
 | **[Four Hundred](https://www.fourhundred.com/)** | **[INTERN](https://jobright.ai/jobs/info/6af2f49610c7aed7786165af?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Remote | Nov 10 |
 | **[Fox News Media](https://www.foxnews.com/)** | **[Summer 2027 FOX News Media Internship Program - FOX Noticias](https://jobright.ai/jobs/info/6aba1a19eeb00e733cc0276c?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Nov 09 |
-| **[Philadelphia magazine](http://www.phillymag.com/)** | **[Editorial Internship-CREDIT ONLY](https://jobright.ai/jobs/info/6ab57195634ec6aa7c0cef41?utm_campaign=1053&utm_source=git)** | Philadelphia, PA, United States | On Site | Nov 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
