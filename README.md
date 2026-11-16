@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[PURPLE](https://purplepr.com)** | **[Fashion Intern - Spring](https://jobright.ai/jobs/info/6afae293484fef921e046489?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | On Site | Nov 16 |
+| ↳ | **[Fashion Intern - Spring](https://jobright.ai/jobs/info/6afae1bb317abe715a25f471?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Nov 16 |
 | **[Envoy Air](https://www.envoyair.com/)** | **[College Intern - Technical Publications Editor](https://jobright.ai/jobs/info/6ae84477061d6d7ff3d79b5c?utm_campaign=1053&utm_source=git)** | Irving, TX, United States | On Site | Nov 16 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[ETV Sports Intern](https://jobright.ai/jobs/info/6afaa33a1b2ad3687b071cb5?utm_campaign=1053&utm_source=git)** | Eagan, MN, United States | On Site | Nov 15 |
 | **[Storefront for Art and Architecture](http://storefrontnews.org)** | **[Media and Communications Intern](https://jobright.ai/jobs/info/6afa7ef2768d27834e57ac3b?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Nov 15 |
@@ -149,7 +151,4 @@ For a complete list, click the following sortable link below:
 | **[Utah Jazz](http://www.nba.com/jazz)** | **[Video Production Intern](https://jobright.ai/jobs/info/6af217ba905985ccaa4086cd?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT, United States | On Site | Nov 09 |
 | **[Attain Sports](https://attainsports.com)** | **[Aberdeen IronBirds Event Operations Intern](https://jobright.ai/jobs/info/6af23d518cbcfef4a59da9d2?utm_campaign=1053&utm_source=git)** | Aberdeen, MD, United States | On Site | Nov 09 |
 | **[American Psychological Association](http://apa.org/)** | **[Internships at APA- Film Editing Intern – APA Child and Adolescent Learning and Well-being](https://jobright.ai/jobs/info/6af22a021116f6f0a0766c9a?utm_campaign=1053&utm_source=git)** | Washington, DC, United States | Remote | Nov 09 |
-| **[Stichting Aralez](https://stichtingaralez.wordpress.com/)** | **[Vacature: Stage / Intern for Aralez](https://jobright.ai/jobs/info/6af227610cb834dad9324655?utm_campaign=1053&utm_source=git)** | Indiana, United States | Remote | Nov 09 |
-| **[NBCUniversal](https://www.nbcuniversal.com)** | **[NBC Local Production, Editorial, and Marketing News Internships – Summer 2027](https://jobright.ai/jobs/info/6af21b511aaffa49f73811ef?utm_campaign=1053&utm_source=git)** | New York, New York, United States | On Site | Nov 09 |
-| ↳ | **[NBC Local Production, Editorial, and Marketing News Internships – Summer 2027](https://jobright.ai/jobs/info/6af21afe8cbcfef4a59d89d3?utm_campaign=1053&utm_source=git)** | Universal City, CA, United States | On Site | Nov 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
