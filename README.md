@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Langan Engineering & Environmental Services](http://www.langan.com)** | **[Intern/Co-op - Cultural Resources - Winter 2026/2027](https://jobright.ai/jobs/info/6afb3367484fef921e048c4a?utm_campaign=1053&utm_source=git)** | Parsippany, NJ, United States | On Site | Nov 16 |
+| **[TGR](https://thegarnettereport.com)** | **[Spring Intern](https://jobright.ai/jobs/info/6afb31f5317abe715a261a1b?utm_campaign=1053&utm_source=git)** | New York City metropolitan area, United States | On Site | Nov 16 |
+| **[Monocacy Wealth Management](https://monocacywm.com)** | **[YouTube Content Intern](https://jobright.ai/jobs/info/6afb31a3484fef921e048a34?utm_campaign=1053&utm_source=git)** | Arlington, VA, United States | Hybrid | Nov 16 |
+| **[Acadium](http://www.acadium.com)** | **[Video Editing Intern](https://jobright.ai/jobs/info/6afb3146317abe715a26196a?utm_campaign=1053&utm_source=git)** | United States | Remote | Nov 16 |
+| **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[ETV Sports Intern](https://jobright.ai/jobs/info/6afaa33a1b2ad3687b071cb5?utm_campaign=1053&utm_source=git)** | Eagan, MN, United States | On Site | Nov 16 |
+| **[Burson](https://www.bursonglobal.com)** | **[Burson Summer 2027 HBSI (Client-Facing, USA Hybrid)](https://jobright.ai/jobs/info/6afb29075305ed998d91a519?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Hybrid | Nov 16 |
 | **[Fresh Tape Media](http://freshtapemedia.com)** | **[Post Production Intern](https://jobright.ai/jobs/info/6afb25dd317abe715a261024?utm_campaign=1053&utm_source=git)** | Denver, CO, United States | Hybrid | Nov 16 |
 | **[Techyries](https://www.linktr.ee/techyries)** | **[Video Editing Intern](https://jobright.ai/jobs/info/6afb210c317abe715a260d4d?utm_campaign=1053&utm_source=git)** | United States | On Site | Nov 16 |
 | **[Skin Anarchy The Podcast](https://skinanarchy.com)** | **[Multi-Media Podcast Editor Intern](https://jobright.ai/jobs/info/6afb13a4317abe715a2604f2?utm_campaign=1053&utm_source=git)** | United States | Remote | Nov 16 |
@@ -64,7 +70,7 @@ For a complete list, click the following sortable link below:
 | **[PURPLE](https://purplepr.com)** | **[Fashion Intern - Spring](https://jobright.ai/jobs/info/6afae293484fef921e046489?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | On Site | Nov 16 |
 | ↳ | **[Fashion Intern - Spring](https://jobright.ai/jobs/info/6afae1bb317abe715a25f471?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Nov 16 |
 | **[Envoy Air](https://www.envoyair.com/)** | **[College Intern - Technical Publications Editor](https://jobright.ai/jobs/info/6ae84477061d6d7ff3d79b5c?utm_campaign=1053&utm_source=git)** | Irving, TX, United States | On Site | Nov 16 |
-| **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[ETV Sports Intern](https://jobright.ai/jobs/info/6afaa33a1b2ad3687b071cb5?utm_campaign=1053&utm_source=git)** | Eagan, MN, United States | On Site | Nov 15 |
+| **[Colorado Golf Association](http://www.cogolf.org/)** | **[2027 Boatwright Junior Intern](https://jobright.ai/jobs/info/6afb2e9a484fef921e048638?utm_campaign=1053&utm_source=git)** | Louisville, KY, United States | On Site | Nov 15 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Lifestyle Show Intern](https://jobright.ai/jobs/info/6ac115db4ac55253f5d69fb0?utm_campaign=1053&utm_source=git)** | Spartanburg, SC, United States | On Site | Nov 15 |
 | **[AccuWeather](http://www.accuweather.com)** | **[Editorial Intern (Spring 2027)](https://jobright.ai/jobs/info/6ae4e53077c09cb3bd4afec4?utm_campaign=1053&utm_source=git)** | State College, PA, United States | On Site | Nov 14 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[WAVY Unpaid Digital Intern, Spring 2027](https://jobright.ai/jobs/info/6abee9b9d9621c5b283924da?utm_campaign=1053&utm_source=git)** | Portsmouth, VA, United States | On Site | Nov 14 |
@@ -78,8 +84,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Digital Editorial Intern](https://jobright.ai/jobs/info/6af79004c7349029d709717d?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Nov 13 |
 | **[The New York Times](https://www.nytco.com/)** | **[Audience Team Intern, Wirecutter](https://jobright.ai/jobs/info/6ae4e148d45dc30fb7d3327f?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Hybrid | Nov 13 |
 | **[Old Mission Medicine Management, LLC](www.oldmissionmedicine.com)** | **[Camera & Video Production Intern](https://jobright.ai/jobs/info/6af758dee3d8d612bf42278c?utm_campaign=1053&utm_source=git)** | Traverse City, MI, United States | On Site | Nov 13 |
-| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Internal Communications Specialist)](https://jobright.ai/jobs/info/6aa168cfdbc0e60e37e111eb?utm_campaign=1053&utm_source=git)** | Vienna, VA, United States | Hybrid | Nov 13 |
-| ↳ | **[Summer Associate Internship (Internal Communications Specialist)](https://jobright.ai/jobs/info/6aa16331ef23570cae2439e4?utm_campaign=1053&utm_source=git)** | Vienna, VA, United States | Hybrid | Nov 13 |
+| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Internal Communications Specialist)](https://jobright.ai/jobs/info/6aa16331ef23570cae2439e4?utm_campaign=1053&utm_source=git)** | Vienna, VA, United States | Hybrid | Nov 13 |
+| ↳ | **[Summer Associate Internship (Internal Communications Specialist)](https://jobright.ai/jobs/info/6aa168cfdbc0e60e37e111eb?utm_campaign=1053&utm_source=git)** | Vienna, VA, United States | Hybrid | Nov 13 |
 | ↳ | **[Summer Associate Internship (Internal Communications Specialist)](https://jobright.ai/jobs/info/6abea1394ac55253f5d61a25?utm_campaign=1053&utm_source=git)** | Vienna, VA, United States | Hybrid | Nov 13 |
 | **[FloSports](http://www.flosports.tv/)** | **[Spring Internship - FloTrack](https://jobright.ai/jobs/info/6af74140e3d8d612bf4217a8?utm_campaign=1053&utm_source=git)** | Austin, TX, United States | On Site | Nov 13 |
 | **[SiriusXM](http://siriusxm.com)** | **[Spring Intern, Video Production - Part-Time](https://jobright.ai/jobs/info/6af747f0c7349029d709403c?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Nov 13 |
@@ -147,5 +153,4 @@ For a complete list, click the following sortable link below:
 | **[Four Hundred](https://www.fourhundred.com/)** | **[INTERN](https://jobright.ai/jobs/info/6af2f49610c7aed7786165af?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Remote | Nov 10 |
 | **[Fox News Media](https://www.foxnews.com/)** | **[Summer 2027 FOX News Media Internship Program - FOX Noticias](https://jobright.ai/jobs/info/6aba1a19eeb00e733cc0276c?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Nov 09 |
 | **[Philadelphia magazine](http://www.phillymag.com/)** | **[Editorial Internship-CREDIT ONLY](https://jobright.ai/jobs/info/6ab57195634ec6aa7c0cef41?utm_campaign=1053&utm_source=git)** | Philadelphia, PA, United States | On Site | Nov 09 |
-| **[University of Kentucky](https://www.uky.edu)** | **[Smart Campus Digital Media Intern - Bowman's Friends](https://jobright.ai/jobs/info/6af26729905985ccaa40c452?utm_campaign=1053&utm_source=git)** | Lexington, KY, United States | On Site | Nov 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
