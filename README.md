@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Audacy, Inc.](https://audacyinc.com/)** | **[Winter/Spring Internship](https://jobright.ai/jobs/info/6afb5f9d7d1820d918c29b38?utm_campaign=1053&utm_source=git)** | Buffalo, NY, United States | On Site | Nov 16 |
 | **[Boehringer Ingelheim](https://www.boehringer-ingelheim.com/)** | **[Video Production Intern](https://jobright.ai/jobs/info/6af7ec3134e2d29dcb7525bf?utm_campaign=1053&utm_source=git)** | Ridgefield, CT, United States | Hybrid | Nov 16 |
 | **[Burson](https://www.bursonglobal.com)** | **[Burson Summer 2027 HBSI (Client-Facing, USA Hybrid)](https://jobright.ai/jobs/info/6afb3e0c7d1820d918c28092?utm_campaign=1053&utm_source=git)** | San Francisco, CA, United States | Hybrid | Nov 16 |
 | ↳ | **[Burson Summer 2027 HBSI (Client-Facing, USA Hybrid)](https://jobright.ai/jobs/info/6afb3e03484fef921e0494c7?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | Hybrid | Nov 16 |
@@ -71,8 +72,6 @@ For a complete list, click the following sortable link below:
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[ETV Sports Intern](https://jobright.ai/jobs/info/6afaa33a1b2ad3687b071cb5?utm_campaign=1053&utm_source=git)** | Eagan, MN, United States | On Site | Nov 16 |
 | **[Fresh Tape Media](http://freshtapemedia.com)** | **[Post Production Intern](https://jobright.ai/jobs/info/6afb25dd317abe715a261024?utm_campaign=1053&utm_source=git)** | Denver, CO, United States | Hybrid | Nov 16 |
 | **[Techyries](https://www.linktr.ee/techyries)** | **[Video Editing Intern](https://jobright.ai/jobs/info/6afb210c317abe715a260d4d?utm_campaign=1053&utm_source=git)** | United States | On Site | Nov 16 |
-| **[Skin Anarchy The Podcast](https://skinanarchy.com)** | **[Multi-Media Podcast Editor Intern](https://jobright.ai/jobs/info/6afb13a4317abe715a2604f2?utm_campaign=1053&utm_source=git)** | United States | Remote | Nov 16 |
-| **[National STEM Honor Society (NSTEM)](https://nstem.org)** | **[Video, Film, and Media Production Intern](https://jobright.ai/jobs/info/6afb11507f9ead6668e9de15?utm_campaign=1053&utm_source=git)** | United States | Remote | Nov 16 |
 | **[PURPLE](https://purplepr.com)** | **[Fashion Intern - Spring](https://jobright.ai/jobs/info/6afae293484fef921e046489?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | On Site | Nov 16 |
 | ↳ | **[Fashion Intern - Spring](https://jobright.ai/jobs/info/6afae1bb317abe715a25f471?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Nov 16 |
 | **[Envoy Air](https://www.envoyair.com/)** | **[College Intern - Technical Publications Editor](https://jobright.ai/jobs/info/6ae84477061d6d7ff3d79b5c?utm_campaign=1053&utm_source=git)** | Irving, TX, United States | On Site | Nov 16 |
