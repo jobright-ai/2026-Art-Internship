@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Fresh Tape Media](http://freshtapemedia.com)** | **[Post Production Intern](https://jobright.ai/jobs/info/6afb25dd317abe715a261024?utm_campaign=1053&utm_source=git)** | Denver, CO, United States | Hybrid | Nov 16 |
+| **[Techyries](https://www.linktr.ee/techyries)** | **[Video Editing Intern](https://jobright.ai/jobs/info/6afb210c317abe715a260d4d?utm_campaign=1053&utm_source=git)** | United States | On Site | Nov 16 |
 | **[Skin Anarchy The Podcast](https://skinanarchy.com)** | **[Multi-Media Podcast Editor Intern](https://jobright.ai/jobs/info/6afb13a4317abe715a2604f2?utm_campaign=1053&utm_source=git)** | United States | Remote | Nov 16 |
 | **[National STEM Honor Society (NSTEM)](https://nstem.org)** | **[Video, Film, and Media Production Intern](https://jobright.ai/jobs/info/6afb11507f9ead6668e9de15?utm_campaign=1053&utm_source=git)** | United States | Remote | Nov 16 |
 | **[PURPLE](https://purplepr.com)** | **[Fashion Intern - Spring](https://jobright.ai/jobs/info/6afae293484fef921e046489?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | On Site | Nov 16 |
@@ -76,8 +78,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Digital Editorial Intern](https://jobright.ai/jobs/info/6af79004c7349029d709717d?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Nov 13 |
 | **[The New York Times](https://www.nytco.com/)** | **[Audience Team Intern, Wirecutter](https://jobright.ai/jobs/info/6ae4e148d45dc30fb7d3327f?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Hybrid | Nov 13 |
 | **[Old Mission Medicine Management, LLC](www.oldmissionmedicine.com)** | **[Camera & Video Production Intern](https://jobright.ai/jobs/info/6af758dee3d8d612bf42278c?utm_campaign=1053&utm_source=git)** | Traverse City, MI, United States | On Site | Nov 13 |
-| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Internal Communications Specialist)](https://jobright.ai/jobs/info/6aa16331ef23570cae2439e4?utm_campaign=1053&utm_source=git)** | Vienna, VA, United States | Hybrid | Nov 13 |
-| ↳ | **[Summer Associate Internship (Internal Communications Specialist)](https://jobright.ai/jobs/info/6aa168cfdbc0e60e37e111eb?utm_campaign=1053&utm_source=git)** | Vienna, VA, United States | Hybrid | Nov 13 |
+| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Internal Communications Specialist)](https://jobright.ai/jobs/info/6aa168cfdbc0e60e37e111eb?utm_campaign=1053&utm_source=git)** | Vienna, VA, United States | Hybrid | Nov 13 |
+| ↳ | **[Summer Associate Internship (Internal Communications Specialist)](https://jobright.ai/jobs/info/6aa16331ef23570cae2439e4?utm_campaign=1053&utm_source=git)** | Vienna, VA, United States | Hybrid | Nov 13 |
 | ↳ | **[Summer Associate Internship (Internal Communications Specialist)](https://jobright.ai/jobs/info/6abea1394ac55253f5d61a25?utm_campaign=1053&utm_source=git)** | Vienna, VA, United States | Hybrid | Nov 13 |
 | **[FloSports](http://www.flosports.tv/)** | **[Spring Internship - FloTrack](https://jobright.ai/jobs/info/6af74140e3d8d612bf4217a8?utm_campaign=1053&utm_source=git)** | Austin, TX, United States | On Site | Nov 13 |
 | **[SiriusXM](http://siriusxm.com)** | **[Spring Intern, Video Production - Part-Time](https://jobright.ai/jobs/info/6af747f0c7349029d709403c?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Nov 13 |
@@ -146,7 +148,4 @@ For a complete list, click the following sortable link below:
 | **[Fox News Media](https://www.foxnews.com/)** | **[Summer 2027 FOX News Media Internship Program - FOX Noticias](https://jobright.ai/jobs/info/6aba1a19eeb00e733cc0276c?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Nov 09 |
 | **[Philadelphia magazine](http://www.phillymag.com/)** | **[Editorial Internship-CREDIT ONLY](https://jobright.ai/jobs/info/6ab57195634ec6aa7c0cef41?utm_campaign=1053&utm_source=git)** | Philadelphia, PA, United States | On Site | Nov 09 |
 | **[University of Kentucky](https://www.uky.edu)** | **[Smart Campus Digital Media Intern - Bowman's Friends](https://jobright.ai/jobs/info/6af26729905985ccaa40c452?utm_campaign=1053&utm_source=git)** | Lexington, KY, United States | On Site | Nov 09 |
-| **[Freeman Company](https://freemancreacion.com)** | **[2027 TFC Summer Internship - Events & Experiences](https://jobright.ai/jobs/info/6af3f2f350da4f7200923b71?utm_campaign=1053&utm_source=git)** | Philadelphia, PA, United States | On Site | Nov 09 |
-| **[Crunch Fitness](https://www.crunch.com/locations/norwalk)** | **[Video Production Intern](https://jobright.ai/jobs/info/6af216af1116f6f0a0764fd1?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Hybrid | Nov 09 |
-| **[Utah Jazz](http://www.nba.com/jazz)** | **[Video Production Intern](https://jobright.ai/jobs/info/6af217ba905985ccaa4086cd?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT, United States | On Site | Nov 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
