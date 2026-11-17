@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Simons Foundation](https://www.simonsfoundation.org)** | **[Editorial Intern, Quanta Books](https://jobright.ai/jobs/info/6afb8220c96cba79575bf8c3?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Nov 16 |
+| **[Oklahoma City Thunder](http://okcthunder.com)** | **[Intern, Broadcasting](https://jobright.ai/jobs/info/6ae9136c6c51033758f460c9?utm_campaign=1053&utm_source=git)** | Oklahoma City, OK, United States | On Site | Nov 16 |
+| **[Gift](https://www.shine.gift)** | **[Manga Cosplay Intern](https://jobright.ai/jobs/info/6afba29bc2bd7db01b883827?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | Remote | Nov 16 |
 | **[VividFront](https://www.vividfront.com)** | **[Content Creator Intern](https://jobright.ai/jobs/info/6afb88bac2bd7db01b882a3c?utm_campaign=1053&utm_source=git)** | Cleveland, OH, United States | Hybrid | Nov 16 |
 | **[Langan Engineering & Environmental Services](http://www.langan.com)** | **[Intern/Co-op - Cultural Resources - Winter 2026/2027](https://jobright.ai/jobs/info/6afb3367484fef921e048c4a?utm_campaign=1053&utm_source=git)** | Parsippany, NJ, United States | On Site | Nov 16 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Media Production Intern (In- Person) Spring 2027](https://jobright.ai/jobs/info/6afb81d0c96cba79575bf870?utm_campaign=1053&utm_source=git)** | Mobile, AL, United States | On Site | Nov 16 |
@@ -82,7 +85,6 @@ For a complete list, click the following sortable link below:
 | **[Colorado Golf Association](http://www.cogolf.org/)** | **[2027 MSGA Junior Golf P.J. Boatwright Jr. Internship](https://jobright.ai/jobs/info/6afb7ae3c2bd7db01b881f94?utm_campaign=1053&utm_source=git)** | Helena, MT, United States | Hybrid | Nov 15 |
 | **[Crystal Mountain](https://crystalmountain.com)** | **[Event and Recreation Management Internship](https://jobright.ai/jobs/info/6afb935ec96cba79575c0749?utm_campaign=1053&utm_source=git)** | Thompsonville, MI, United States | On Site | Nov 15 |
 | **[Colorado Golf Association](http://www.cogolf.org/)** | **[2027 Boatwright Junior Intern](https://jobright.ai/jobs/info/6afb2e9a484fef921e048638?utm_campaign=1053&utm_source=git)** | Louisville, KY, United States | On Site | Nov 15 |
-| **[Simons Foundation](https://www.simonsfoundation.org)** | **[Editorial Intern, Quanta Books](https://jobright.ai/jobs/info/6afb8220c96cba79575bf8c3?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Nov 15 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Lifestyle Show Intern](https://jobright.ai/jobs/info/6ac115db4ac55253f5d69fb0?utm_campaign=1053&utm_source=git)** | Spartanburg, SC, United States | On Site | Nov 15 |
 | **[AccuWeather](http://www.accuweather.com)** | **[Editorial Intern (Spring 2027)](https://jobright.ai/jobs/info/6ae4e53077c09cb3bd4afec4?utm_campaign=1053&utm_source=git)** | State College, PA, United States | On Site | Nov 14 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[WAVY Unpaid Digital Intern, Spring 2027](https://jobright.ai/jobs/info/6abee9b9d9621c5b283924da?utm_campaign=1053&utm_source=git)** | Portsmouth, VA, United States | On Site | Nov 14 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Ethos Group](https://ethosgroup.io)** | **[Intern](https://jobright.ai/jobs/info/6af369364ac248020e8d0d1f?utm_campaign=1053&utm_source=git)** | New York City metropolitan area, United States | On Site | Nov 10 |
 | **[Medical College of Wisconsin](http://www.mcw.edu/)** | **[Intern - Earned Media](https://jobright.ai/jobs/info/6abaa076d2914e9273eec5e5?utm_campaign=1053&utm_source=git)** | Wauwatosa, WI, United States | Hybrid | Nov 10 |
 | **[Sinclair Inc.](http://sbgi.net)** | **[News Intern (Low Country Live)](https://jobright.ai/jobs/info/6af32c127c81de7a524bcc88?utm_campaign=1053&utm_source=git)** | Mount Pleasant, SC, United States | On Site | Nov 10 |
-| **[IMG Academy](https://www.imgacademy.com)** | **[Sports and Special Events Intern, Spring 2027](https://jobright.ai/jobs/info/6ad66d9267bec1d0d9c6ece2?utm_campaign=1053&utm_source=git)** | Bradenton, FL, United States | On Site | Nov 10 |
-| **[Cooperstown All Star Village](https://cooperstown.com)** | **[Events and Experiences Internship](https://jobright.ai/jobs/info/6af34fe880020ca3a8974658?utm_campaign=1053&utm_source=git)** | Oneonta, NY, United States | On Site | Nov 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
