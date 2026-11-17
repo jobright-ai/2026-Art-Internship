@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Freeman Company](https://freemancreacion.com)** | **[2027 TFC Summer Internship - Event & Exhibit Services](https://jobright.ai/jobs/info/6ac40d1b8ff3fb9b3bc83cc3?utm_campaign=1053&utm_source=git)** | Las Vegas, NV, United States | On Site | Nov 17 |
 | **[Future London Academy](http://futurelondonacademy.co.uk/)** | **[Event Production Intern](https://jobright.ai/jobs/info/6afc34ac07bef169f5fffde3?utm_campaign=1053&utm_source=git)** | San Francisco Bay Area, United States | On Site | Nov 17 |
 | **[Sinclair Inc.](http://sbgi.net)** | **[Sports Intern](https://jobright.ai/jobs/info/6aba4c69be5f1e93251150ad?utm_campaign=1053&utm_source=git)** | Pittsburgh, Pennsylvania, United States | On Site | Nov 17 |
 | **[Gagosian](http://www.gagosian.com)** | **[Art Gallery Intern](https://jobright.ai/jobs/info/6afbc36f40b855eb290c75c6?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Nov 16 |
@@ -81,6 +82,7 @@ For a complete list, click the following sortable link below:
 | **[Acadium](http://www.acadium.com)** | **[Video Editing Intern](https://jobright.ai/jobs/info/6afb3146317abe715a26196a?utm_campaign=1053&utm_source=git)** | United States | Remote | Nov 16 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[ETV Sports Intern](https://jobright.ai/jobs/info/6afaa33a1b2ad3687b071cb5?utm_campaign=1053&utm_source=git)** | Eagan, MN, United States | On Site | Nov 16 |
 | **[Fresh Tape Media](http://freshtapemedia.com)** | **[Post Production Intern](https://jobright.ai/jobs/info/6afb25dd317abe715a261024?utm_campaign=1053&utm_source=git)** | Denver, CO, United States | Hybrid | Nov 16 |
+| **[VividFront](https://www.vividfront.com)** | **[Content Creator Intern](https://jobright.ai/jobs/info/6afc515040b855eb290ca062?utm_campaign=1053&utm_source=git)** | Cleveland, OH, United States | Hybrid | Nov 16 |
 | **[PURPLE](https://purplepr.com)** | **[Fashion Intern - Spring](https://jobright.ai/jobs/info/6afae293484fef921e046489?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | On Site | Nov 16 |
 | ↳ | **[Fashion Intern - Spring](https://jobright.ai/jobs/info/6afae1bb317abe715a25f471?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Nov 16 |
 | **[Envoy Air](https://www.envoyair.com/)** | **[College Intern - Technical Publications Editor](https://jobright.ai/jobs/info/6ae84477061d6d7ff3d79b5c?utm_campaign=1053&utm_source=git)** | Irving, TX, United States | On Site | Nov 16 |
@@ -149,6 +151,4 @@ For a complete list, click the following sortable link below:
 | **[moneyGenius (formerly WeyMedia)](https://weymedia.ca)** | **[Associate Editor, Intern](https://jobright.ai/jobs/info/6af39cfa4ac248020e8d30da?utm_campaign=1053&utm_source=git)** | Canada | Remote | Nov 10 |
 | **[moneyGenius.ca](https://www.howtosavemoney.ca)** | **[Associate Editor, Intern](https://jobright.ai/jobs/info/6af39c6e7c81de7a524c1748?utm_campaign=1053&utm_source=git)** | United States | Remote | Nov 10 |
 | ↳ | **[Associate Editor, Intern](https://jobright.ai/jobs/info/6af39c5e10c7aed77861c5a3?utm_campaign=1053&utm_source=git)** | Canada | Remote | Nov 10 |
-| **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Video Production Intern](https://jobright.ai/jobs/info/6af32aa180020ca3a8972c82?utm_campaign=1053&utm_source=git)** | Clemson, SC, United States | On Site | Nov 10 |
-| **[NBCUniversal](https://www.nbcuniversal.com)** | **[NBC and Telemundo Local South Florida News Internships – Summer 2027](https://jobright.ai/jobs/info/6af384df80020ca3a897687c?utm_campaign=1053&utm_source=git)** | Miramar, FL, United States | On Site | Nov 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
