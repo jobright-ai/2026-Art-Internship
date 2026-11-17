@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Brennan Center for Justice](http://www.brennancenter.org/)** | **[Spring 2027 Multimedia Producer Undergraduate Internship](https://jobright.ai/jobs/info/6ac51319064da25272e14990?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Nov 17 |
 | **[NBCUniversal](https://www.nbcuniversal.com)** | **[NBC News Production & Digital Editorial Internships – Summer 2027](https://jobright.ai/jobs/info/6af3863080020ca3a89769a7?utm_campaign=1053&utm_source=git)** | Universal City, California, United States | On Site | Nov 17 |
 | ↳ | **[NBC 4 New York Production & Editorial Internships – Summer 2027](https://jobright.ai/jobs/info/6af491382278454e18c361a4?utm_campaign=1053&utm_source=git)** | New York, New York, United States | On Site | Nov 17 |
 | ↳ | **[NBC News Bureau Internships – Summer 2027](https://jobright.ai/jobs/info/6af1fc481aaffa49f737f723?utm_campaign=1053&utm_source=git)** | Universal City, California, United States | On Site | Nov 17 |
@@ -71,7 +72,6 @@ For a complete list, click the following sortable link below:
 | **[Langan Engineering & Environmental Services](http://www.langan.com)** | **[Intern/Co-op - Cultural Resources - Winter 2026/2027](https://jobright.ai/jobs/info/6afb3367484fef921e048c4a?utm_campaign=1053&utm_source=git)** | Parsippany, NJ, United States | On Site | Nov 16 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Media Production Intern (In- Person) Spring 2027](https://jobright.ai/jobs/info/6afb81d0c96cba79575bf870?utm_campaign=1053&utm_source=git)** | Mobile, AL, United States | On Site | Nov 16 |
 | **[Mass General Brigham](https://www.massgeneralbrigham.org)** | **[Science Writing Intern](https://jobright.ai/jobs/info/6afb7b1a06c0aac84dd961f5?utm_campaign=1053&utm_source=git)** | United States | Remote | Nov 16 |
-| **[Comcast](https://corporate.comcast.com)** | **[Spring Events Intern](https://jobright.ai/jobs/info/6afb6927317abe715a2645ce?utm_campaign=1053&utm_source=git)** | Philadelphia, PA, United States | On Site | Nov 16 |
 | **[Audacy, Inc.](https://audacyinc.com/)** | **[Winter/Spring Internship](https://jobright.ai/jobs/info/6afb5f9d7d1820d918c29b38?utm_campaign=1053&utm_source=git)** | Buffalo, NY, United States | On Site | Nov 16 |
 | **[Boehringer Ingelheim](https://www.boehringer-ingelheim.com/)** | **[Video Production Intern](https://jobright.ai/jobs/info/6af7ec3134e2d29dcb7525bf?utm_campaign=1053&utm_source=git)** | Ridgefield, CT, United States | Hybrid | Nov 16 |
 | **[Burson](https://www.bursonglobal.com)** | **[Burson Summer 2027 HBSI (Client-Facing, USA Hybrid)](https://jobright.ai/jobs/info/6afb3e0c7d1820d918c28092?utm_campaign=1053&utm_source=git)** | San Francisco, CA, United States | Hybrid | Nov 16 |
