@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Crown Equipment Corporation](https://303crownmaids.com/)** | **[Digital Media Co-Op - Summer 2027](https://jobright.ai/jobs/info/6ae0d9661f9d9308370a4dad?utm_campaign=1053&utm_source=git)** | New Bremen, OH, United States | On Site | Nov 18 |
+| **[ArtsQuest](http://www.artsquest.org/)** | **[ARTS ADMIN & EDUCATION INTERN](https://jobright.ai/jobs/info/6afdbdbd0324c008a17e0929?utm_campaign=1053&utm_source=git)** | Bethlehem, PA, United States | On Site | Nov 18 |
+| **[NBCUniversal](https://www.nbcuniversal.com)** | **[NBC Telemundo CT Multiplatform Creative Services Intern - Summer 2027](https://jobright.ai/jobs/info/6afdb985f170d82b3966d6e9?utm_campaign=1053&utm_source=git)** | West Hartford, CT, United States | On Site | Nov 18 |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Intern](https://jobright.ai/jobs/info/6a9674f7455eaf6a08c17881?utm_campaign=1053&utm_source=git)** | Peoria, IL, United States | On Site | Nov 18 |
 | **[Washington Performing Arts](http://www.washingtonperformingarts.org)** | **[Community Engagement Intern - Spring 2027 (t)](https://jobright.ai/jobs/info/6afcd3122ac165125e4ccf78?utm_campaign=1053&utm_source=git)** | Washington, DC, United States | Hybrid | Nov 18 |
 | ↳ | **[Special Events Intern - Spring 2027 (t)](https://jobright.ai/jobs/info/6afcd317d86c15318a38e989?utm_campaign=1053&utm_source=git)** | Washington, DC, United States | Hybrid | Nov 18 |
 | **[The Aparecio Foundation](https://www.apareciofoundation.org)** | **[Volunteer/Intern:Editor of "Culture" Content in Felix](https://jobright.ai/jobs/info/6aa0a0caea127c3794698361?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | Remote | Nov 18 |
@@ -93,7 +97,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Burson Summer 2027 HBSI (Client-Facing, USA Hybrid)](https://jobright.ai/jobs/info/6afb3e0c7f9ead6668e9ffaa?utm_campaign=1053&utm_source=git)** | Pittsburgh, PA, United States | Hybrid | Nov 16 |
 | ↳ | **[Burson Summer 2027 HBSI (Client-Facing, USA Hybrid)](https://jobright.ai/jobs/info/6afb3e08317abe715a2624a9?utm_campaign=1053&utm_source=git)** | Atlanta, GA, United States | Hybrid | Nov 16 |
 | ↳ | **[Burson Summer 2027 HBSI (Client-Facing, USA Hybrid)](https://jobright.ai/jobs/info/6afb3e067f9ead6668e9ffa7?utm_campaign=1053&utm_source=git)** | Washington, DC, United States | Hybrid | Nov 16 |
-| **[TGR](https://thegarnettereport.com)** | **[Spring Intern](https://jobright.ai/jobs/info/6afb31f5317abe715a261a1b?utm_campaign=1053&utm_source=git)** | New York City metropolitan area, United States | On Site | Nov 16 |
 | **[Acadium](http://www.acadium.com)** | **[Video Editing Intern](https://jobright.ai/jobs/info/6afb3146317abe715a26196a?utm_campaign=1053&utm_source=git)** | United States | Remote | Nov 16 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[ETV Sports Intern](https://jobright.ai/jobs/info/6afaa33a1b2ad3687b071cb5?utm_campaign=1053&utm_source=git)** | Eagan, MN, United States | On Site | Nov 16 |
 | **[Fresh Tape Media](http://freshtapemedia.com)** | **[Post Production Intern](https://jobright.ai/jobs/info/6afb25dd317abe715a261024?utm_campaign=1053&utm_source=git)** | Denver, CO, United States | Hybrid | Nov 16 |
@@ -116,8 +119,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Digital Editorial Intern](https://jobright.ai/jobs/info/6af79004c7349029d709717d?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Nov 13 |
 | **[The New York Times](https://www.nytco.com/)** | **[Audience Team Intern, Wirecutter](https://jobright.ai/jobs/info/6ae4e148d45dc30fb7d3327f?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Hybrid | Nov 13 |
 | **[Old Mission Medicine Management, LLC](www.oldmissionmedicine.com)** | **[Camera & Video Production Intern](https://jobright.ai/jobs/info/6af758dee3d8d612bf42278c?utm_campaign=1053&utm_source=git)** | Traverse City, MI, United States | On Site | Nov 13 |
-| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Internal Communications Specialist)](https://jobright.ai/jobs/info/6aa168cfdbc0e60e37e111eb?utm_campaign=1053&utm_source=git)** | Vienna, VA, United States | Hybrid | Nov 13 |
-| ↳ | **[Summer Associate Internship (Internal Communications Specialist)](https://jobright.ai/jobs/info/6aa16331ef23570cae2439e4?utm_campaign=1053&utm_source=git)** | Vienna, VA, United States | Hybrid | Nov 13 |
+| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Internal Communications Specialist)](https://jobright.ai/jobs/info/6aa16331ef23570cae2439e4?utm_campaign=1053&utm_source=git)** | Vienna, VA, United States | Hybrid | Nov 13 |
+| ↳ | **[Summer Associate Internship (Internal Communications Specialist)](https://jobright.ai/jobs/info/6aa168cfdbc0e60e37e111eb?utm_campaign=1053&utm_source=git)** | Vienna, VA, United States | Hybrid | Nov 13 |
 | ↳ | **[Summer Associate Internship (Internal Communications Specialist)](https://jobright.ai/jobs/info/6abea1394ac55253f5d61a25?utm_campaign=1053&utm_source=git)** | Vienna, VA, United States | Hybrid | Nov 13 |
 | **[FloSports](http://www.flosports.tv/)** | **[Spring Internship - FloTrack](https://jobright.ai/jobs/info/6af74140e3d8d612bf4217a8?utm_campaign=1053&utm_source=git)** | Austin, TX, United States | On Site | Nov 13 |
 | **[SiriusXM](http://siriusxm.com)** | **[Spring Intern, Video Production - Part-Time](https://jobright.ai/jobs/info/6af747f0c7349029d709403c?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Nov 13 |
