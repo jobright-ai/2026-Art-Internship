@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Aparecio Foundation](https://www.apareciofoundation.org)** | **[Volunteer/Intern:Editor of "Culture" Content in Felix](https://jobright.ai/jobs/info/6aa0a0caea127c3794698361?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | Remote | Nov 18 |
 | **[National Community Renaissance](https://nationalcore.org/)** | **[Production Studio Management Internship](https://jobright.ai/jobs/info/6afd10f956aa9772e7d56733?utm_campaign=1053&utm_source=git)** | Rancho Cucamonga, CA, United States | On Site | Nov 17 |
 | **[Blizzard Entertainment](http://blizzard.com)** | **[Blizzard 2027 Summer Internships - VFX](https://jobright.ai/jobs/info/6afcdb4cd1637502949279e3?utm_campaign=1053&utm_source=git)** | Irvine, CA, United States | On Site | Nov 17 |
 | **[New York Public Radio](http://www.nypublicradio.org)** | **[WQXR Alfred and Carole Schonberger Internship](https://jobright.ai/jobs/info/6afcb463e0cdcfc91142ecac?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Hybrid | Nov 17 |
@@ -113,8 +114,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Digital Editorial Intern](https://jobright.ai/jobs/info/6af79004c7349029d709717d?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Nov 13 |
 | **[The New York Times](https://www.nytco.com/)** | **[Audience Team Intern, Wirecutter](https://jobright.ai/jobs/info/6ae4e148d45dc30fb7d3327f?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Hybrid | Nov 13 |
 | **[Old Mission Medicine Management, LLC](www.oldmissionmedicine.com)** | **[Camera & Video Production Intern](https://jobright.ai/jobs/info/6af758dee3d8d612bf42278c?utm_campaign=1053&utm_source=git)** | Traverse City, MI, United States | On Site | Nov 13 |
-| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Internal Communications Specialist)](https://jobright.ai/jobs/info/6aa168cfdbc0e60e37e111eb?utm_campaign=1053&utm_source=git)** | Vienna, VA, United States | Hybrid | Nov 13 |
-| ↳ | **[Summer Associate Internship (Internal Communications Specialist)](https://jobright.ai/jobs/info/6aa16331ef23570cae2439e4?utm_campaign=1053&utm_source=git)** | Vienna, VA, United States | Hybrid | Nov 13 |
+| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Internal Communications Specialist)](https://jobright.ai/jobs/info/6aa16331ef23570cae2439e4?utm_campaign=1053&utm_source=git)** | Vienna, VA, United States | Hybrid | Nov 13 |
+| ↳ | **[Summer Associate Internship (Internal Communications Specialist)](https://jobright.ai/jobs/info/6aa168cfdbc0e60e37e111eb?utm_campaign=1053&utm_source=git)** | Vienna, VA, United States | Hybrid | Nov 13 |
 | ↳ | **[Summer Associate Internship (Internal Communications Specialist)](https://jobright.ai/jobs/info/6abea1394ac55253f5d61a25?utm_campaign=1053&utm_source=git)** | Vienna, VA, United States | Hybrid | Nov 13 |
 | **[FloSports](http://www.flosports.tv/)** | **[Spring Internship - FloTrack](https://jobright.ai/jobs/info/6af74140e3d8d612bf4217a8?utm_campaign=1053&utm_source=git)** | Austin, TX, United States | On Site | Nov 13 |
 | **[SiriusXM](http://siriusxm.com)** | **[Spring Intern, Video Production - Part-Time](https://jobright.ai/jobs/info/6af747f0c7349029d709403c?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Nov 13 |
@@ -145,8 +146,4 @@ For a complete list, click the following sortable link below:
 | **[PR Consulting](http://prconsulting.net)** | **[PRC Internship, Fashion](https://jobright.ai/jobs/info/6af4cdb7cbd2ee75d155d285?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Nov 11 |
 | ↳ | **[PRC Internship, Digital](https://jobright.ai/jobs/info/6af4cdb63a9a26aee70a094f?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Nov 11 |
 | **[Portage Learning](https://portagelearning.edu)** | **[Film Production Intern](https://jobright.ai/jobs/info/6af22fcc0cb834dad9324c48?utm_campaign=1053&utm_source=git)** | Beaver Falls, PA, United States | On Site | Nov 11 |
-| **[VOX ATL](https://voxatl.org)** | **[Poetry @ VOX Teen Intern](https://jobright.ai/jobs/info/6af4a26acd7be4db20d8713e?utm_campaign=1053&utm_source=git)** | Atlanta, GA, United States | On Site | Nov 11 |
-| ↳ | **[VOX Studios Teen Intern](https://jobright.ai/jobs/info/6af4a24f1b2c5dcbbcd62c28?utm_campaign=1053&utm_source=git)** | Atlanta, GA, United States | On Site | Nov 11 |
-| ↳ | **[VOX Studios Near-Peer Production Intern](https://jobright.ai/jobs/info/6af4a22c9144106c56a1ffe9?utm_campaign=1053&utm_source=git)** | Atlanta, GA, United States | On Site | Nov 11 |
-| ↳ | **[Atlanta Teen Voices Journalism Fellowship Near-Peer Intern](https://jobright.ai/jobs/info/6af4a22a2278454e18c36fc8?utm_campaign=1053&utm_source=git)** | Atlanta, GA, United States | On Site | Nov 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
