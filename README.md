@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Washington Performing Arts](http://www.washingtonperformingarts.org)** | **[Community Engagement Intern - Spring 2027 (t)](https://jobright.ai/jobs/info/6afcd3122ac165125e4ccf78?utm_campaign=1053&utm_source=git)** | Washington, DC, United States | Hybrid | Nov 18 |
+| ↳ | **[Special Events Intern - Spring 2027 (t)](https://jobright.ai/jobs/info/6afcd317d86c15318a38e989?utm_campaign=1053&utm_source=git)** | Washington, DC, United States | Hybrid | Nov 18 |
 | **[The Aparecio Foundation](https://www.apareciofoundation.org)** | **[Volunteer/Intern:Editor of "Culture" Content in Felix](https://jobright.ai/jobs/info/6aa0a0caea127c3794698361?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | Remote | Nov 18 |
 | **[National Community Renaissance](https://nationalcore.org/)** | **[Production Studio Management Internship](https://jobright.ai/jobs/info/6afd10f956aa9772e7d56733?utm_campaign=1053&utm_source=git)** | Rancho Cucamonga, CA, United States | On Site | Nov 17 |
 | **[Blizzard Entertainment](http://blizzard.com)** | **[Blizzard 2027 Summer Internships - VFX](https://jobright.ai/jobs/info/6afcdb4cd1637502949279e3?utm_campaign=1053&utm_source=git)** | Irvine, CA, United States | On Site | Nov 17 |
@@ -145,5 +147,4 @@ For a complete list, click the following sortable link below:
 | **[The San Francisco Standard](https://sfstandard.com)** | **[Social/Editorial Intern](https://jobright.ai/jobs/info/6af4d1219144106c56a219dc?utm_campaign=1053&utm_source=git)** | San Francisco, CA, United States | Hybrid | Nov 11 |
 | **[PR Consulting](http://prconsulting.net)** | **[PRC Internship, Fashion](https://jobright.ai/jobs/info/6af4cdb7cbd2ee75d155d285?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Nov 11 |
 | ↳ | **[PRC Internship, Digital](https://jobright.ai/jobs/info/6af4cdb63a9a26aee70a094f?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Nov 11 |
-| **[Portage Learning](https://portagelearning.edu)** | **[Film Production Intern](https://jobright.ai/jobs/info/6af22fcc0cb834dad9324c48?utm_campaign=1053&utm_source=git)** | Beaver Falls, PA, United States | On Site | Nov 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
