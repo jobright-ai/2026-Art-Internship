@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[National Community Renaissance](https://nationalcore.org/)** | **[Production Studio Management Internship](https://jobright.ai/jobs/info/6afd10f956aa9772e7d56733?utm_campaign=1053&utm_source=git)** | Rancho Cucamonga, CA, United States | On Site | Nov 17 |
 | **[Blizzard Entertainment](http://blizzard.com)** | **[Blizzard 2027 Summer Internships - VFX](https://jobright.ai/jobs/info/6afcdb4cd1637502949279e3?utm_campaign=1053&utm_source=git)** | Irvine, CA, United States | On Site | Nov 17 |
 | **[New York Public Radio](http://www.nypublicradio.org)** | **[WQXR Alfred and Carole Schonberger Internship](https://jobright.ai/jobs/info/6afcb463e0cdcfc91142ecac?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Hybrid | Nov 17 |
 | **[University of Pikeville](http://www.upike.edu/)** | **[WS - Spring Term - INTERNSHIP – Mountain Top Media – Videographer – IWS](https://jobright.ai/jobs/info/6afcbd3d2ac165125e4cc0ce?utm_campaign=1053&utm_source=git)** | Pikeville, KY, United States | On Site | Nov 17 |
@@ -74,10 +75,10 @@ For a complete list, click the following sortable link below:
 | **[Mass General Brigham](https://www.massgeneralbrigham.org)** | **[Science Writing Intern](https://jobright.ai/jobs/info/6afb7b1a06c0aac84dd961f5?utm_campaign=1053&utm_source=git)** | United States | Remote | Nov 17 |
 | **[Future London Academy](http://futurelondonacademy.co.uk/)** | **[Event Production Intern](https://jobright.ai/jobs/info/6afc34ac07bef169f5fffde3?utm_campaign=1053&utm_source=git)** | San Francisco Bay Area, United States | On Site | Nov 17 |
 | **[Sinclair Inc.](http://sbgi.net)** | **[Sports Intern](https://jobright.ai/jobs/info/6aba4c69be5f1e93251150ad?utm_campaign=1053&utm_source=git)** | Pittsburgh, Pennsylvania, United States | On Site | Nov 17 |
+| **[Dupple](https://dupple.com)** | **[Content Intern](https://jobright.ai/jobs/info/6afd09cc96f28c29a3281ad7?utm_campaign=1053&utm_source=git)** | United States | Remote | Nov 17 |
 | **[Gagosian](http://www.gagosian.com)** | **[Art Gallery Intern](https://jobright.ai/jobs/info/6afbc36f40b855eb290c75c6?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Nov 16 |
 | ↳ | **[Internship Program - Beverly Hills (Spring, 2027)](https://jobright.ai/jobs/info/6ac410228ff3fb9b3bc83de7?utm_campaign=1053&utm_source=git)** | Beverly Hills, CA, United States | On Site | Nov 16 |
 | **[Simons Foundation](https://www.simonsfoundation.org)** | **[Editorial Intern, Quanta Books](https://jobright.ai/jobs/info/6afb8220c96cba79575bf8c3?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Nov 16 |
-| **[Gift](https://www.shine.gift)** | **[Manga Cosplay Intern](https://jobright.ai/jobs/info/6afba29bc2bd7db01b883827?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | Remote | Nov 16 |
 | **[VividFront](https://www.vividfront.com)** | **[Content Creator Intern](https://jobright.ai/jobs/info/6afb88bac2bd7db01b882a3c?utm_campaign=1053&utm_source=git)** | Cleveland, OH, United States | Hybrid | Nov 16 |
 | **[Langan Engineering & Environmental Services](http://www.langan.com)** | **[Intern/Co-op - Cultural Resources - Winter 2026/2027](https://jobright.ai/jobs/info/6afb3367484fef921e048c4a?utm_campaign=1053&utm_source=git)** | Parsippany, NJ, United States | On Site | Nov 16 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Media Production Intern (In- Person) Spring 2027](https://jobright.ai/jobs/info/6afb81d0c96cba79575bf870?utm_campaign=1053&utm_source=git)** | Mobile, AL, United States | On Site | Nov 16 |
@@ -151,5 +152,4 @@ For a complete list, click the following sortable link below:
 | **[Globe Pequot Publishing Group](www.GlobePequot.com)** | **[Internship - Globe](https://jobright.ai/jobs/info/6af478822278454e18c35644?utm_campaign=1053&utm_source=git)** | Essex, Connecticut, United States | On Site | Nov 11 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Intern/News](https://jobright.ai/jobs/info/6a52fd288ef95364ead909bd?utm_campaign=1053&utm_source=git)** | Panama City, FL, United States | On Site | Nov 11 |
 | ↳ | **[Digital Content Intern, Unpaid](https://jobright.ai/jobs/info/6aba9ed7ad8589219ef7e4ef?utm_campaign=1053&utm_source=git)** | Shreveport, Louisiana, United States | On Site | Nov 11 |
-| **[TikTok](https://www.tiktok.com)** | **[Agency Ops Project Intern (TikTok Local Services) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a5076339469c06620351013?utm_campaign=1053&utm_source=git)** | Los Angeles, United States | On Site | Nov 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
