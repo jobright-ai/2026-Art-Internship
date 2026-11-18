@@ -144,7 +144,4 @@ For a complete list, click the following sortable link below:
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Intern](https://jobright.ai/jobs/info/6ab2ddb11e4847ddae916da4?utm_campaign=1053&utm_source=git)** | Henderson, KY, United States | On Site | Nov 12 |
 | ↳ | **[Lifestyle Show Spring Semester Intern](https://jobright.ai/jobs/info/6ad8d2e939284cd5242809db?utm_campaign=1053&utm_source=git)** | Philadelphia, PA, United States | On Site | Nov 12 |
 | **[Create Music Group](https://www.createmusicgroup.com/)** | **[A&R Research Intern - Spring 2027](https://jobright.ai/jobs/info/6af4b881cbd2ee75d155c918?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | Hybrid | Nov 12 |
-| **[The San Francisco Standard](https://sfstandard.com)** | **[Social/Editorial Intern](https://jobright.ai/jobs/info/6af4d1219144106c56a219dc?utm_campaign=1053&utm_source=git)** | San Francisco, CA, United States | Hybrid | Nov 11 |
-| **[PR Consulting](http://prconsulting.net)** | **[PRC Internship, Fashion](https://jobright.ai/jobs/info/6af4cdb7cbd2ee75d155d285?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Nov 11 |
-| ↳ | **[PRC Internship, Digital](https://jobright.ai/jobs/info/6af4cdb63a9a26aee70a094f?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Nov 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
