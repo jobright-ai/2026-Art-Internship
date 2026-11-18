@@ -149,6 +149,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[VOX Studios Teen Intern](https://jobright.ai/jobs/info/6af4a24f1b2c5dcbbcd62c28?utm_campaign=1053&utm_source=git)** | Atlanta, GA, United States | On Site | Nov 11 |
 | ↳ | **[VOX Studios Near-Peer Production Intern](https://jobright.ai/jobs/info/6af4a22c9144106c56a1ffe9?utm_campaign=1053&utm_source=git)** | Atlanta, GA, United States | On Site | Nov 11 |
 | ↳ | **[Atlanta Teen Voices Journalism Fellowship Near-Peer Intern](https://jobright.ai/jobs/info/6af4a22a2278454e18c36fc8?utm_campaign=1053&utm_source=git)** | Atlanta, GA, United States | On Site | Nov 11 |
-| **[Globe Pequot Publishing Group](www.GlobePequot.com)** | **[Internship - Globe](https://jobright.ai/jobs/info/6af478822278454e18c35644?utm_campaign=1053&utm_source=git)** | Essex, Connecticut, United States | On Site | Nov 11 |
-| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Intern/News](https://jobright.ai/jobs/info/6a52fd288ef95364ead909bd?utm_campaign=1053&utm_source=git)** | Panama City, FL, United States | On Site | Nov 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
