@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Intern](https://jobright.ai/jobs/info/6a9674f7455eaf6a08c17881?utm_campaign=1053&utm_source=git)** | Peoria, IL, United States | On Site | Nov 18 |
 | **[Formlabs](http://www.formlabs.com)** | **[Video Content Creator Intern (Summer 2027)](https://jobright.ai/jobs/info/6afe22638cffea7c97c906e2?utm_campaign=1053&utm_source=git)** | Somerville, MA, United States | On Site | Nov 18 |
 | **[COLAB PK](https://www.colablosangeles.com/)** | **[Video Production & Editing Intern](https://jobright.ai/jobs/info/6afdf0148cffea7c97c8e832?utm_campaign=1053&utm_source=git)** | Woodland Hills, CA, United States | On Site | Nov 18 |
 | **[ArtsQuest](http://www.artsquest.org/)** | **[ARTS ADMIN & EDUCATION INTERN](https://jobright.ai/jobs/info/6afdbdbd0324c008a17e0929?utm_campaign=1053&utm_source=git)** | Bethlehem, PA, United States | On Site | Nov 18 |
@@ -68,12 +69,12 @@ For a complete list, click the following sortable link below:
 | ↳ | **[NBC Connecticut, CT LIVE! Lifestyle Program Intern - Summer 2027](https://jobright.ai/jobs/info/6afdc5f4f170d82b3966dcf2?utm_campaign=1053&utm_source=git)** | West Hartford, CT, United States | On Site | Nov 18 |
 | ↳ | **[NBC Connecticut, CT LIVE! Lifestyle Program Intern - Summer 2027](https://jobright.ai/jobs/info/6afdc2adf170d82b3966db01?utm_campaign=1053&utm_source=git)** | Hartford, CT, United States | On Site | Nov 18 |
 | **[Crown Equipment Corporation](https://303crownmaids.com/)** | **[Digital Media Co-Op - Summer 2027](https://jobright.ai/jobs/info/6ae0d9661f9d9308370a4dad?utm_campaign=1053&utm_source=git)** | New Bremen, OH, United States | On Site | Nov 18 |
-| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Intern](https://jobright.ai/jobs/info/6a9674f7455eaf6a08c17881?utm_campaign=1053&utm_source=git)** | Peoria, IL, United States | On Site | Nov 18 |
 | **[NBCUniversal](https://www.nbcuniversal.com)** | **[NBC Telemundo CT Multiplatform Creative Services Intern - Summer 2027](https://jobright.ai/jobs/info/6afdb985f170d82b3966d6e9?utm_campaign=1053&utm_source=git)** | West Hartford, CT, United States | On Site | Nov 18 |
 | **[Wilson Sporting Goods Co.](http://www.wilson.com)** | **[Digital AEO Intern](https://jobright.ai/jobs/info/6afe051f8cffea7c97c8f5d9?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | Hybrid | Nov 18 |
 | **[Washington Performing Arts](http://www.washingtonperformingarts.org)** | **[Community Engagement Intern - Spring 2027 (t)](https://jobright.ai/jobs/info/6afcd3122ac165125e4ccf78?utm_campaign=1053&utm_source=git)** | Washington, DC, United States | Hybrid | Nov 18 |
 | ↳ | **[Special Events Intern - Spring 2027 (t)](https://jobright.ai/jobs/info/6afcd317d86c15318a38e989?utm_campaign=1053&utm_source=git)** | Washington, DC, United States | Hybrid | Nov 18 |
 | **[The Aparecio Foundation](https://www.apareciofoundation.org)** | **[Volunteer/Intern:Editor of "Culture" Content in Felix](https://jobright.ai/jobs/info/6aa0a0caea127c3794698361?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | Remote | Nov 18 |
+| **[Pinehurst Resort](https://www.pinehurst.com/)** | **[Golf Operations Intern-Main Golf Shop-Seasonal](https://jobright.ai/jobs/info/6afe298e0cde47528ec12758?utm_campaign=1053&utm_source=git)** | Pinehurst, NC, United States | On Site | Nov 17 |
 | **[National Community Renaissance](https://nationalcore.org/)** | **[Production Studio Management Internship](https://jobright.ai/jobs/info/6afd10f956aa9772e7d56733?utm_campaign=1053&utm_source=git)** | Rancho Cucamonga, CA, United States | On Site | Nov 17 |
 | **[Blizzard Entertainment](http://blizzard.com)** | **[Blizzard 2027 Summer Internships - VFX](https://jobright.ai/jobs/info/6afcdb4cd1637502949279e3?utm_campaign=1053&utm_source=git)** | Irvine, CA, United States | On Site | Nov 17 |
 | **[New York Public Radio](http://www.nypublicradio.org)** | **[WQXR Alfred and Carole Schonberger Internship](https://jobright.ai/jobs/info/6afcb463e0cdcfc91142ecac?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Hybrid | Nov 17 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Krause Group](https://www.krausegroup.com)** | **[Sports Media & Team Content Intern](https://jobright.ai/jobs/info/6af5f3d1a4a5218a07e81b33?utm_campaign=1053&utm_source=git)** | Des Moines, IA, United States | On Site | Nov 12 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Intern](https://jobright.ai/jobs/info/6ab2ddb11e4847ddae916da4?utm_campaign=1053&utm_source=git)** | Henderson, KY, United States | On Site | Nov 12 |
 | ↳ | **[Lifestyle Show Spring Semester Intern](https://jobright.ai/jobs/info/6ad8d2e939284cd5242809db?utm_campaign=1053&utm_source=git)** | Philadelphia, PA, United States | On Site | Nov 12 |
-| **[Create Music Group](https://www.createmusicgroup.com/)** | **[A&R Research Intern - Spring 2027](https://jobright.ai/jobs/info/6af4b881cbd2ee75d155c918?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | Hybrid | Nov 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
