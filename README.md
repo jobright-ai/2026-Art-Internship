@@ -57,14 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Formlabs](http://www.formlabs.com)** | **[Video Content Creator Intern (Summer 2027)](https://jobright.ai/jobs/info/6afe22638cffea7c97c906e2?utm_campaign=1053&utm_source=git)** | Somerville, MA, United States | On Site | Nov 18 |
 | **[Bellevue University](https://www.bellevue.edu/)** | **[Community Events Intern](https://jobright.ai/jobs/info/6afe3c59f170d82b39672b5d?utm_campaign=1053&utm_source=git)** | Bellevue, NE, United States | On Site | Nov 18 |
 | **[Wilson Sporting Goods Co.](http://www.wilson.com)** | **[Digital AEO Intern](https://jobright.ai/jobs/info/6afe051f8cffea7c97c8f5d9?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | Hybrid | Nov 18 |
-| **[Vizzy Labs](https://taplot.ai/)** | **[Narrative Design Intern - Interactive Storytelling](https://jobright.ai/jobs/info/6afe39d40324c008a17e590a?utm_campaign=1053&utm_source=git)** | San Francisco, CA, United States | On Site | Nov 18 |
 | **[Sony Electronics](http://www.sony.com)** | **[Intern, Film & TV Sync](https://jobright.ai/jobs/info/6afe09de758942b6422b6bae?utm_campaign=1053&utm_source=git)** | Hollywood, California, United States | On Site | Nov 18 |
 | **[Tucson Sugar Skulls](https://tucsonsugarskulls.com/)** | **[Professional Sports Intern / 2027 Season](https://jobright.ai/jobs/info/6afe2d680324c008a17e5336?utm_campaign=1053&utm_source=git)** | Tucson, AZ, United States | On Site | Nov 18 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Intern](https://jobright.ai/jobs/info/6a9674f7455eaf6a08c17881?utm_campaign=1053&utm_source=git)** | Peoria, IL, United States | On Site | Nov 18 |
 | **[COLAB PK](https://www.colablosangeles.com/)** | **[Video Production & Editing Intern](https://jobright.ai/jobs/info/6afdf0148cffea7c97c8e832?utm_campaign=1053&utm_source=git)** | Woodland Hills, CA, United States | On Site | Nov 18 |
-| **[Formlabs](http://www.formlabs.com)** | **[Video Content Creator Intern (Summer 2027)](https://jobright.ai/jobs/info/6afe22638cffea7c97c906e2?utm_campaign=1053&utm_source=git)** | Somerville, MA, United States | On Site | Nov 18 |
 | **[ArtsQuest](http://www.artsquest.org/)** | **[ARTS ADMIN & EDUCATION INTERN](https://jobright.ai/jobs/info/6afdbdbd0324c008a17e0929?utm_campaign=1053&utm_source=git)** | Bethlehem, PA, United States | On Site | Nov 18 |
 | **[Bunzl Canada](https://www.bunzlcanada.ca/)** | **[Intern: Digital Content Specialist](https://jobright.ai/jobs/info/6afdd688f3e7976cc61092fd?utm_campaign=1053&utm_source=git)** | Cambridge, Ontario, Canada | On Site | Nov 18 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[ETV Sports Intern](https://jobright.ai/jobs/info/6afaa33a1b2ad3687b071cb5?utm_campaign=1053&utm_source=git)** | Eagan, MN, United States | On Site | Nov 18 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Quint](https://www.quintevents.com)** | **[Event Operations Intern](https://jobright.ai/jobs/info/6af60b2680054650a5e7b85c?utm_campaign=1053&utm_source=git)** | Charlotte, NC, United States | On Site | Nov 12 |
 | **[David Zwirner](http://www.davidzwirner.com/)** | **[Gallery Intern](https://jobright.ai/jobs/info/6adbb1719e3e874dbfba145d?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | On Site | Nov 12 |
 | **[Kum & Go](https://www.kumandgo.com/)** | **[Sports Media & Team Content Intern](https://jobright.ai/jobs/info/6af6034179862a378dcefdb6?utm_campaign=1053&utm_source=git)** | Des Moines, IA, United States | On Site | Nov 12 |
+| **[UNDP](http://www.undp.org)** | **[Social media video production intern](https://jobright.ai/jobs/info/6af3847a10c7aed77861b4fc?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Nov 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
