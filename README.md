@@ -154,6 +154,4 @@ For a complete list, click the following sortable link below:
 | **[Dauphinette](https://www.dauphinette.com)** | **[Spring 2027 Studio Internship](https://jobright.ai/jobs/info/6af69b1e79862a378dcf4356?utm_campaign=1053&utm_source=git)** | Brooklyn, NY, United States | On Site | Nov 12 |
 | **[Pandora](https://www.pandora.com/)** | **[Spring Intern, Podcast Producer - Part Time](https://jobright.ai/jobs/info/6af63cfa8cc703bba47b1294?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Hybrid | Nov 12 |
 | **[Megastar Advisors](https://www.megastaradvisors.com/)** | **[Video Editing & Post-Production Intern](https://jobright.ai/jobs/info/6af62604323c531f31e306ab?utm_campaign=1053&utm_source=git)** | Tarpon Springs, FL, United States | On Site | Nov 12 |
-| **[Girl Scouts of Citrus Council](https://www.citrus-gs.org/)** | **[Position: Intern for the Girl Scout Experience Team](https://jobright.ai/jobs/info/6aaaaea78e1bf0f764af5a6c?utm_campaign=1053&utm_source=git)** | Orlando, FL, United States | On Site | Nov 12 |
-| **[Quint](https://www.quintevents.com)** | **[Event Operations Intern](https://jobright.ai/jobs/info/6af60b2680054650a5e7b85c?utm_campaign=1053&utm_source=git)** | Charlotte, NC, United States | On Site | Nov 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
