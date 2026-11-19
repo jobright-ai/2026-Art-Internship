@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Princess Cruises](http://www.princess.com)** | **[Intern, Video Production & Live Broadcast (CCL)](https://jobright.ai/jobs/info/6afe59f84ab3081626ab0edc?utm_campaign=1053&utm_source=git)** | Miami, FL, United States | On Site | Nov 18 |
 | **[Formlabs](http://www.formlabs.com)** | **[Video Content Creator Intern (Summer 2027)](https://jobright.ai/jobs/info/6afe22638cffea7c97c906e2?utm_campaign=1053&utm_source=git)** | Somerville, MA, United States | On Site | Nov 18 |
 | **[Bellevue University](https://www.bellevue.edu/)** | **[Community Events Intern](https://jobright.ai/jobs/info/6afe3c59f170d82b39672b5d?utm_campaign=1053&utm_source=git)** | Bellevue, NE, United States | On Site | Nov 18 |
 | **[Wilson Sporting Goods Co.](http://www.wilson.com)** | **[Digital AEO Intern](https://jobright.ai/jobs/info/6afe051f8cffea7c97c8f5d9?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | Hybrid | Nov 18 |
@@ -123,7 +124,6 @@ For a complete list, click the following sortable link below:
 | **[Colorado Golf Association](http://www.cogolf.org/)** | **[2027 Boatwright Junior Intern](https://jobright.ai/jobs/info/6afb2e9a484fef921e048638?utm_campaign=1053&utm_source=git)** | Louisville, KY, United States | On Site | Nov 15 |
 | **[AccuWeather](http://www.accuweather.com)** | **[Editorial Intern (Spring 2027)](https://jobright.ai/jobs/info/6ae4e53077c09cb3bd4afec4?utm_campaign=1053&utm_source=git)** | State College, PA, United States | On Site | Nov 14 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[WAVY Unpaid Digital Intern, Spring 2027](https://jobright.ai/jobs/info/6abee9b9d9621c5b283924da?utm_campaign=1053&utm_source=git)** | Portsmouth, VA, United States | On Site | Nov 14 |
-| **[The Minnesota Star Tribune](http://www.startribunecompany.com)** | **[Social Media Producer Internship - Summer 2027](https://jobright.ai/jobs/info/6abecff08ff3fb9b3bc761c6?utm_campaign=1053&utm_source=git)** | Minneapolis, MN, United States | On Site | Nov 14 |
 | **[The Toro Company](https://www.thetorocompany.com)** | **[Video and Interactive Training Production Intern - Ditch Witch](https://jobright.ai/jobs/info/6aa3aa4c959a10d7230d3185?utm_campaign=1053&utm_source=git)** | Perry, OK, United States | On Site | Nov 14 |
 | **[Apple](https://www.apple.com)** | **[Apple Music Intern](https://jobright.ai/jobs/info/6af7e0c3c7349029d7098fd6?utm_campaign=1053&utm_source=git)** | Toronto, ON, Canada | On Site | Nov 13 |
 | **[Wilderness Resort in Wisconsin Dells](https://www.wildernessresort.com)** | **[Golf Operations Internship Summer 2027](https://jobright.ai/jobs/info/6af80cf4cb5a5d4a77fc9d56?utm_campaign=1053&utm_source=git)** | Wisconsin Dells, WI, United States | On Site | Nov 13 |
@@ -133,8 +133,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Digital Editorial Intern](https://jobright.ai/jobs/info/6af79004c7349029d709717d?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Nov 13 |
 | **[The New York Times](https://www.nytco.com/)** | **[Audience Team Intern, Wirecutter](https://jobright.ai/jobs/info/6ae4e148d45dc30fb7d3327f?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Hybrid | Nov 13 |
 | **[Old Mission Medicine Management, LLC](www.oldmissionmedicine.com)** | **[Camera & Video Production Intern](https://jobright.ai/jobs/info/6af758dee3d8d612bf42278c?utm_campaign=1053&utm_source=git)** | Traverse City, MI, United States | On Site | Nov 13 |
-| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Internal Communications Specialist)](https://jobright.ai/jobs/info/6aa168cfdbc0e60e37e111eb?utm_campaign=1053&utm_source=git)** | Vienna, VA, United States | Hybrid | Nov 13 |
-| ↳ | **[Summer Associate Internship (Internal Communications Specialist)](https://jobright.ai/jobs/info/6aa16331ef23570cae2439e4?utm_campaign=1053&utm_source=git)** | Vienna, VA, United States | Hybrid | Nov 13 |
+| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Internal Communications Specialist)](https://jobright.ai/jobs/info/6aa16331ef23570cae2439e4?utm_campaign=1053&utm_source=git)** | Vienna, VA, United States | Hybrid | Nov 13 |
+| ↳ | **[Summer Associate Internship (Internal Communications Specialist)](https://jobright.ai/jobs/info/6aa168cfdbc0e60e37e111eb?utm_campaign=1053&utm_source=git)** | Vienna, VA, United States | Hybrid | Nov 13 |
 | ↳ | **[Summer Associate Internship (Internal Communications Specialist)](https://jobright.ai/jobs/info/6abea1394ac55253f5d61a25?utm_campaign=1053&utm_source=git)** | Vienna, VA, United States | Hybrid | Nov 13 |
 | **[FloSports](http://www.flosports.tv/)** | **[Spring Internship - FloTrack](https://jobright.ai/jobs/info/6af74140e3d8d612bf4217a8?utm_campaign=1053&utm_source=git)** | Austin, TX, United States | On Site | Nov 13 |
 | **[SiriusXM](http://siriusxm.com)** | **[Spring Intern, Video Production - Part-Time](https://jobright.ai/jobs/info/6af747f0c7349029d709403c?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Nov 13 |
