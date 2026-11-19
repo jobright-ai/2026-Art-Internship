@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[University of Pikeville](http://www.upike.edu/)** | **[WS - Spring Term - INTERNSHIP – Mountain Top Media – Sports Media Assistant – IWS](https://jobright.ai/jobs/info/6aff0c3297dcc4fc8dca821a?utm_campaign=1053&utm_source=git)** | Pikeville, KY, United States | On Site | Nov 19 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Intern](https://jobright.ai/jobs/info/6a9674f7455eaf6a08c17881?utm_campaign=1053&utm_source=git)** | Peoria, IL, United States | On Site | Nov 19 |
 | **[Relativity Space](http://relativityspace.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/6ac53336d9621c5b283a3d34?utm_campaign=1053&utm_source=git)** | Long Beach, CA, United States | On Site | Nov 19 |
 | **[Trimble Inc.](https://www.trimble.com/)** | **[Video Production Intern](https://jobright.ai/jobs/info/6ae275b305a39c3e2c71a9e3?utm_campaign=1053&utm_source=git)** | Dayton, OH, United States | On Site | Nov 19 |
@@ -135,8 +136,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Digital Editorial Intern](https://jobright.ai/jobs/info/6af79004c7349029d709717d?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Nov 13 |
 | **[The New York Times](https://www.nytco.com/)** | **[Audience Team Intern, Wirecutter](https://jobright.ai/jobs/info/6ae4e148d45dc30fb7d3327f?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Hybrid | Nov 13 |
 | **[Old Mission Medicine Management, LLC](www.oldmissionmedicine.com)** | **[Camera & Video Production Intern](https://jobright.ai/jobs/info/6af758dee3d8d612bf42278c?utm_campaign=1053&utm_source=git)** | Traverse City, MI, United States | On Site | Nov 13 |
-| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Internal Communications Specialist)](https://jobright.ai/jobs/info/6aa16331ef23570cae2439e4?utm_campaign=1053&utm_source=git)** | Vienna, VA, United States | Hybrid | Nov 13 |
-| ↳ | **[Summer Associate Internship (Internal Communications Specialist)](https://jobright.ai/jobs/info/6aa168cfdbc0e60e37e111eb?utm_campaign=1053&utm_source=git)** | Vienna, VA, United States | Hybrid | Nov 13 |
+| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Internal Communications Specialist)](https://jobright.ai/jobs/info/6aa168cfdbc0e60e37e111eb?utm_campaign=1053&utm_source=git)** | Vienna, VA, United States | Hybrid | Nov 13 |
+| ↳ | **[Summer Associate Internship (Internal Communications Specialist)](https://jobright.ai/jobs/info/6aa16331ef23570cae2439e4?utm_campaign=1053&utm_source=git)** | Vienna, VA, United States | Hybrid | Nov 13 |
 | ↳ | **[Summer Associate Internship (Internal Communications Specialist)](https://jobright.ai/jobs/info/6abea1394ac55253f5d61a25?utm_campaign=1053&utm_source=git)** | Vienna, VA, United States | Hybrid | Nov 13 |
 | **[FloSports](http://www.flosports.tv/)** | **[Spring Internship - FloTrack](https://jobright.ai/jobs/info/6af74140e3d8d612bf4217a8?utm_campaign=1053&utm_source=git)** | Austin, TX, United States | On Site | Nov 13 |
 | **[SiriusXM](http://siriusxm.com)** | **[Spring Intern, Video Production - Part-Time](https://jobright.ai/jobs/info/6af747f0c7349029d709403c?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Nov 13 |
