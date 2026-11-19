@@ -57,8 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Intern](https://jobright.ai/jobs/info/6a9674f7455eaf6a08c17881?utm_campaign=1053&utm_source=git)** | Peoria, IL, United States | On Site | Nov 19 |
 | **[Trimble Inc.](https://www.trimble.com/)** | **[Video Production Intern](https://jobright.ai/jobs/info/6ae275b305a39c3e2c71a9e3?utm_campaign=1053&utm_source=git)** | Dayton, OH, United States | On Site | Nov 19 |
-| **[Volosophy](https://volosophy.ai/)** | **[Tennis Content Creator Intern](https://jobright.ai/jobs/info/6afea2f70fe3ac852ce52a5e?utm_campaign=1053&utm_source=git)** | United States | Remote | Nov 18 |
 | **[Klyros Growth Solutions](https://www.linkedin.com/company/92936762)** | **[Video Game Production Coordinator Intern](https://jobright.ai/jobs/info/6afea2d65695a992780ac01e?utm_campaign=1053&utm_source=git)** | El Segundo, CA, United States | Remote | Nov 18 |
 | **[Pinehurst Resort](https://www.pinehurst.com/)** | **[Golf Operations Intern-Main Golf Shop-Seasonal](https://jobright.ai/jobs/info/6afe298e0cde47528ec12758?utm_campaign=1053&utm_source=git)** | Pinehurst, NC, United States | On Site | Nov 18 |
 | **[Princess Cruises](http://www.princess.com)** | **[Intern, Video Production & Live Broadcast (CCL)](https://jobright.ai/jobs/info/6afe59f84ab3081626ab0edc?utm_campaign=1053&utm_source=git)** | Miami, FL, United States | On Site | Nov 18 |
@@ -68,7 +68,6 @@ For a complete list, click the following sortable link below:
 | **[Wilson Sporting Goods Co.](http://www.wilson.com)** | **[Digital AEO Intern](https://jobright.ai/jobs/info/6afe051f8cffea7c97c8f5d9?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | Hybrid | Nov 18 |
 | **[Sony Electronics](http://www.sony.com)** | **[Intern, Film & TV Sync](https://jobright.ai/jobs/info/6afe09de758942b6422b6bae?utm_campaign=1053&utm_source=git)** | Hollywood, California, United States | On Site | Nov 18 |
 | **[Tucson Sugar Skulls](https://tucsonsugarskulls.com/)** | **[Professional Sports Intern / 2027 Season](https://jobright.ai/jobs/info/6afe2d680324c008a17e5336?utm_campaign=1053&utm_source=git)** | Tucson, AZ, United States | On Site | Nov 18 |
-| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Intern](https://jobright.ai/jobs/info/6a9674f7455eaf6a08c17881?utm_campaign=1053&utm_source=git)** | Peoria, IL, United States | On Site | Nov 18 |
 | **[COLAB PK](https://www.colablosangeles.com/)** | **[Video Production & Editing Intern](https://jobright.ai/jobs/info/6afdf0148cffea7c97c8e832?utm_campaign=1053&utm_source=git)** | Woodland Hills, CA, United States | On Site | Nov 18 |
 | **[ArtsQuest](http://www.artsquest.org/)** | **[ARTS ADMIN & EDUCATION INTERN](https://jobright.ai/jobs/info/6afdbdbd0324c008a17e0929?utm_campaign=1053&utm_source=git)** | Bethlehem, PA, United States | On Site | Nov 18 |
 | **[Bunzl Canada](https://www.bunzlcanada.ca/)** | **[Intern: Digital Content Specialist](https://jobright.ai/jobs/info/6afdd688f3e7976cc61092fd?utm_campaign=1053&utm_source=git)** | Cambridge, Ontario, Canada | On Site | Nov 18 |
@@ -153,5 +152,4 @@ For a complete list, click the following sortable link below:
 | **[Pandora](https://www.pandora.com/)** | **[Spring Intern, Pandora Curation - Part-Time](https://jobright.ai/jobs/info/6af6765080054650a5e7ef57?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Hybrid | Nov 12 |
 | **[Dauphinette](https://www.dauphinette.com)** | **[Spring 2027 Studio Internship](https://jobright.ai/jobs/info/6af69b1e79862a378dcf4356?utm_campaign=1053&utm_source=git)** | Brooklyn, NY, United States | On Site | Nov 12 |
 | **[Pandora](https://www.pandora.com/)** | **[Spring Intern, Podcast Producer - Part Time](https://jobright.ai/jobs/info/6af63cfa8cc703bba47b1294?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Hybrid | Nov 12 |
-| **[Megastar Advisors](https://www.megastaradvisors.com/)** | **[Video Editing & Post-Production Intern](https://jobright.ai/jobs/info/6af62604323c531f31e306ab?utm_campaign=1053&utm_source=git)** | Tarpon Springs, FL, United States | On Site | Nov 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
