@@ -57,14 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Houston Livestock Show and Rodeo](https://www.rodeohouston.com/)** | **[Intern](https://jobright.ai/jobs/info/6aff50d997dcc4fc8dcaae8b?utm_campaign=1053&utm_source=git)** | Houston, TX, United States | On Site | Nov 19 |
+| **[Art and Wellness Enterprises](https://aweoffice.org)** | **[2027 Art Management Summer Intern](https://jobright.ai/jobs/info/6ae8b168a2a252e21942846d?utm_campaign=1053&utm_source=git)** | Bentonville, AR, United States | On Site | Nov 19 |
 | **[Carnival Cruise Line](http://www.carnival.com)** | **[Intern, Video Production & Live Broadcast (CCL)](https://jobright.ai/jobs/info/6aff3cee72b9be368528fcdb?utm_campaign=1053&utm_source=git)** | Miami, FL, United States | Hybrid | Nov 19 |
 | **[University of Pikeville](http://www.upike.edu/)** | **[WS - Spring Term - INTERNSHIP – Mountain Top Media – Sports Media Assistant – IWS](https://jobright.ai/jobs/info/6aff0c3297dcc4fc8dca821a?utm_campaign=1053&utm_source=git)** | Pikeville, KY, United States | On Site | Nov 19 |
 | **[Downtown Sioux Falls, Inc.](https://dtsf.com)** | **[Events Internship - Summer 2027](https://jobright.ai/jobs/info/6aff231772b9be368528eb4d?utm_campaign=1053&utm_source=git)** | Sioux Falls, SD, United States | On Site | Nov 19 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Intern](https://jobright.ai/jobs/info/6a9674f7455eaf6a08c17881?utm_campaign=1053&utm_source=git)** | Peoria, IL, United States | On Site | Nov 19 |
 | **[Relativity Space](http://relativityspace.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/6ac53336d9621c5b283a3d34?utm_campaign=1053&utm_source=git)** | Long Beach, CA, United States | On Site | Nov 19 |
 | **[Trimble Inc.](https://www.trimble.com/)** | **[Video Production Intern](https://jobright.ai/jobs/info/6ae275b305a39c3e2c71a9e3?utm_campaign=1053&utm_source=git)** | Dayton, OH, United States | On Site | Nov 19 |
-| **[Klyros Growth Solutions](https://www.linkedin.com/company/92936762)** | **[Video Game Production Coordinator Intern](https://jobright.ai/jobs/info/6afea2d65695a992780ac01e?utm_campaign=1053&utm_source=git)** | El Segundo, CA, United States | Remote | Nov 18 |
 | **[Pinehurst Resort](https://www.pinehurst.com/)** | **[Golf Operations Intern-Main Golf Shop-Seasonal](https://jobright.ai/jobs/info/6afe298e0cde47528ec12758?utm_campaign=1053&utm_source=git)** | Pinehurst, NC, United States | On Site | Nov 18 |
+| **[Blue Water](https://bwdc.com)** | **[Events/Recreation- Intern - Summer 2027](https://jobright.ai/jobs/info/6aff5908aea17e3f50eafcad?utm_campaign=1053&utm_source=git)** | Millsboro, DE, United States | On Site | Nov 18 |
 | **[Princess Cruises](http://www.princess.com)** | **[Intern, Video Production & Live Broadcast (CCL)](https://jobright.ai/jobs/info/6afe59f84ab3081626ab0edc?utm_campaign=1053&utm_source=git)** | Miami, FL, United States | On Site | Nov 18 |
 | **[Carnival Corporation](http://carnivalcorp.com)** | **[Intern, Video Production & Live Broadcast (CCL)](https://jobright.ai/jobs/info/6afe73f6f170d82b39673c89?utm_campaign=1053&utm_source=git)** | Miami, FL, United States | On Site | Nov 18 |
 | **[Formlabs](http://www.formlabs.com)** | **[Video Content Creator Intern (Summer 2027)](https://jobright.ai/jobs/info/6afe22638cffea7c97c906e2?utm_campaign=1053&utm_source=git)** | Somerville, MA, United States | On Site | Nov 18 |
@@ -152,6 +154,4 @@ For a complete list, click the following sortable link below:
 | **[ASM Global](https://asmglobal.com/)** | **[Hospitality Intern - The Meadows Music Theater](https://jobright.ai/jobs/info/6a510fcabf63b66c79978842?utm_campaign=1053&utm_source=git)** | Hartford, CT, United States | On Site | Nov 13 |
 | **[Pandora](https://www.pandora.com/)** | **[Spring Intern, Video Production - Part-Time](https://jobright.ai/jobs/info/6af67657f10ae27369e198d0?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Nov 12 |
 | **[TikTok](https://www.tiktok.com)** | **[Creator LIVE Project Intern (TikTok Shop - US Operation) - 2026 Start](https://jobright.ai/jobs/info/6a5fe09333ef5c58b4000bf3?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | On Site | Nov 12 |
-| **[Pandora](https://www.pandora.com/)** | **[Spring Intern, Pandora Curation - Part-Time](https://jobright.ai/jobs/info/6af6765080054650a5e7ef57?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Hybrid | Nov 12 |
-| **[Dauphinette](https://www.dauphinette.com)** | **[Spring 2027 Studio Internship](https://jobright.ai/jobs/info/6af69b1e79862a378dcf4356?utm_campaign=1053&utm_source=git)** | Brooklyn, NY, United States | On Site | Nov 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
