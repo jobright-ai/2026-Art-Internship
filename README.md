@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Trimble Inc.](https://www.trimble.com/)** | **[Video Production Intern](https://jobright.ai/jobs/info/6ae275b305a39c3e2c71a9e3?utm_campaign=1053&utm_source=git)** | Dayton, OH, United States | On Site | Nov 19 |
 | **[Mavio](https://www.mavio.ai/)** | **[Tennis Content Creator Intern](https://jobright.ai/jobs/info/6afea2f70fe3ac852ce52a5e?utm_campaign=1053&utm_source=git)** | United States | Remote | Nov 18 |
 | **[Klyros Growth Solutions](https://www.linkedin.com/company/92936762)** | **[Video Game Production Coordinator Intern](https://jobright.ai/jobs/info/6afea2d65695a992780ac01e?utm_campaign=1053&utm_source=git)** | El Segundo, CA, United States | Remote | Nov 18 |
 | **[Pinehurst Resort](https://www.pinehurst.com/)** | **[Golf Operations Intern-Main Golf Shop-Seasonal](https://jobright.ai/jobs/info/6afe298e0cde47528ec12758?utm_campaign=1053&utm_source=git)** | Pinehurst, NC, United States | On Site | Nov 18 |
@@ -90,7 +91,6 @@ For a complete list, click the following sortable link below:
 | **[University of Pikeville](http://www.upike.edu/)** | **[WS - Spring Term - INTERNSHIP – Mountain Top Media – Videographer – IWS](https://jobright.ai/jobs/info/6afcbd3d2ac165125e4cc0ce?utm_campaign=1053&utm_source=git)** | Pikeville, KY, United States | On Site | Nov 17 |
 | **[Michigan Medicine](http://www.uofmhealth.org/)** | **[Podcast Production & Engagement Intern (Work-Study/Temp)](https://jobright.ai/jobs/info/6afcd15fd163750294926fe5?utm_campaign=1053&utm_source=git)** | Flint, MI, United States | Hybrid | Nov 17 |
 | **[BCI Brands](https://www.bcibrands.com)** | **[Production Color Intern (Start ASAP)](https://jobright.ai/jobs/info/6a800b42e2030208f2772f2c?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Nov 17 |
-| **[Institute for the Study of War](http://understandingwar.org/)** | **[Multimedia & Video Production Internship Spring 2027](https://jobright.ai/jobs/info/6afcc725d86c15318a38e231?utm_campaign=1053&utm_source=git)** | Washington, DC, United States | Hybrid | Nov 17 |
 | **[Alliance for American Leadership (A4AL)](https://a4al.org)** | **[Journalism & Press Intern (Volunteer)](https://jobright.ai/jobs/info/6afca43394232f5ac42d054a?utm_campaign=1053&utm_source=git)** | United States | Remote | Nov 17 |
 | **[Black Girl Vitamins](https://blackgirlvitamins.co/)** | **[Social Media & Content Production Intern](https://jobright.ai/jobs/info/6afc9faf94232f5ac42d00fd?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | Hybrid | Nov 17 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[ETV Sports Intern - Eagan](https://jobright.ai/jobs/info/6afc8f7c63fb67454cf79b8d?utm_campaign=1053&utm_source=git)** | Eagan, MN, United States | On Site | Nov 17 |
@@ -156,5 +156,4 @@ For a complete list, click the following sortable link below:
 | **[Megastar Advisors](https://www.megastaradvisors.com/)** | **[Video Editing & Post-Production Intern](https://jobright.ai/jobs/info/6af62604323c531f31e306ab?utm_campaign=1053&utm_source=git)** | Tarpon Springs, FL, United States | On Site | Nov 12 |
 | **[Girl Scouts of Citrus Council](https://www.citrus-gs.org/)** | **[Position: Intern for the Girl Scout Experience Team](https://jobright.ai/jobs/info/6aaaaea78e1bf0f764af5a6c?utm_campaign=1053&utm_source=git)** | Orlando, FL, United States | On Site | Nov 12 |
 | **[Quint](https://www.quintevents.com)** | **[Event Operations Intern](https://jobright.ai/jobs/info/6af60b2680054650a5e7b85c?utm_campaign=1053&utm_source=git)** | Charlotte, NC, United States | On Site | Nov 12 |
-| **[David Zwirner](http://www.davidzwirner.com/)** | **[Gallery Intern](https://jobright.ai/jobs/info/6adbb1719e3e874dbfba145d?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | On Site | Nov 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
