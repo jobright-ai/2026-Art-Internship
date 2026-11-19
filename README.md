@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Carnival Cruise Line](http://www.carnival.com)** | **[Intern, Video Production & Live Broadcast (CCL)](https://jobright.ai/jobs/info/6aff3cee72b9be368528fcdb?utm_campaign=1053&utm_source=git)** | Miami, FL, United States | Hybrid | Nov 19 |
 | **[University of Pikeville](http://www.upike.edu/)** | **[WS - Spring Term - INTERNSHIP – Mountain Top Media – Sports Media Assistant – IWS](https://jobright.ai/jobs/info/6aff0c3297dcc4fc8dca821a?utm_campaign=1053&utm_source=git)** | Pikeville, KY, United States | On Site | Nov 19 |
 | **[Downtown Sioux Falls, Inc.](https://dtsf.com)** | **[Events Internship - Summer 2027](https://jobright.ai/jobs/info/6aff231772b9be368528eb4d?utm_campaign=1053&utm_source=git)** | Sioux Falls, SD, United States | On Site | Nov 19 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Intern](https://jobright.ai/jobs/info/6a9674f7455eaf6a08c17881?utm_campaign=1053&utm_source=git)** | Peoria, IL, United States | On Site | Nov 19 |
@@ -68,6 +69,7 @@ For a complete list, click the following sortable link below:
 | **[Carnival Corporation](http://carnivalcorp.com)** | **[Intern, Video Production & Live Broadcast (CCL)](https://jobright.ai/jobs/info/6afe73f6f170d82b39673c89?utm_campaign=1053&utm_source=git)** | Miami, FL, United States | On Site | Nov 18 |
 | **[Formlabs](http://www.formlabs.com)** | **[Video Content Creator Intern (Summer 2027)](https://jobright.ai/jobs/info/6afe22638cffea7c97c906e2?utm_campaign=1053&utm_source=git)** | Somerville, MA, United States | On Site | Nov 18 |
 | **[Bellevue University](http://www.bellevue.edu)** | **[Community Events Intern](https://jobright.ai/jobs/info/6afe3c59f170d82b39672b5d?utm_campaign=1053&utm_source=git)** | Bellevue, NE, United States | On Site | Nov 18 |
+| **[Adobe](http://www.adobe.com)** | **[2027 Intern - Video Production](https://jobright.ai/jobs/info/6aff384e97dcc4fc8dca9ed6?utm_campaign=1053&utm_source=git)** | San Francisco, CA, United States | Hybrid | Nov 18 |
 | **[Wilson Sporting Goods Co.](http://www.wilson.com)** | **[Digital AEO Intern](https://jobright.ai/jobs/info/6afe051f8cffea7c97c8f5d9?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | Hybrid | Nov 18 |
 | **[Sony Electronics](http://www.sony.com)** | **[Intern, Film & TV Sync](https://jobright.ai/jobs/info/6afe09de758942b6422b6bae?utm_campaign=1053&utm_source=git)** | Hollywood, California, United States | On Site | Nov 18 |
 | **[Tucson Sugar Skulls](https://tucsonsugarskulls.com/)** | **[Professional Sports Intern / 2027 Season](https://jobright.ai/jobs/info/6afe2d680324c008a17e5336?utm_campaign=1053&utm_source=git)** | Tucson, AZ, United States | On Site | Nov 18 |
@@ -93,7 +95,6 @@ For a complete list, click the following sortable link below:
 | **[University of Pikeville](http://www.upike.edu/)** | **[WS - Spring Term - INTERNSHIP – Mountain Top Media – Videographer – IWS](https://jobright.ai/jobs/info/6afcbd3d2ac165125e4cc0ce?utm_campaign=1053&utm_source=git)** | Pikeville, KY, United States | On Site | Nov 17 |
 | **[Michigan Medicine](http://www.uofmhealth.org/)** | **[Podcast Production & Engagement Intern (Work-Study/Temp)](https://jobright.ai/jobs/info/6afcd15fd163750294926fe5?utm_campaign=1053&utm_source=git)** | Flint, MI, United States | Hybrid | Nov 17 |
 | **[BCI Brands](https://www.bcibrands.com)** | **[Production Color Intern (Start ASAP)](https://jobright.ai/jobs/info/6a800b42e2030208f2772f2c?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Nov 17 |
-| **[Alliance for American Leadership (A4AL)](https://a4al.org)** | **[Journalism & Press Intern (Volunteer)](https://jobright.ai/jobs/info/6afca43394232f5ac42d054a?utm_campaign=1053&utm_source=git)** | United States | Remote | Nov 17 |
 | **[Black Girl Vitamins](https://blackgirlvitamins.co/)** | **[Social Media & Content Production Intern](https://jobright.ai/jobs/info/6afc9faf94232f5ac42d00fd?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | Hybrid | Nov 17 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[ETV Sports Intern - Eagan](https://jobright.ai/jobs/info/6afc8f7c63fb67454cf79b8d?utm_campaign=1053&utm_source=git)** | Eagan, MN, United States | On Site | Nov 17 |
 | **[Brennan Center for Justice](http://www.brennancenter.org/)** | **[Spring 2027 Multimedia Producer Undergraduate Internship](https://jobright.ai/jobs/info/6ac51319064da25272e14990?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Nov 17 |
