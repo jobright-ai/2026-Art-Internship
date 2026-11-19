@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Mavio](https://www.mavio.ai/)** | **[Tennis Content Creator Intern](https://jobright.ai/jobs/info/6afea2f70fe3ac852ce52a5e?utm_campaign=1053&utm_source=git)** | United States | Remote | Nov 18 |
+| **[Klyros Growth Solutions](https://www.linkedin.com/company/92936762)** | **[Video Game Production Coordinator Intern](https://jobright.ai/jobs/info/6afea2d65695a992780ac01e?utm_campaign=1053&utm_source=git)** | El Segundo, CA, United States | Remote | Nov 18 |
+| **[Pinehurst Resort](https://www.pinehurst.com/)** | **[Golf Operations Intern-Main Golf Shop-Seasonal](https://jobright.ai/jobs/info/6afe298e0cde47528ec12758?utm_campaign=1053&utm_source=git)** | Pinehurst, NC, United States | On Site | Nov 18 |
 | **[Princess Cruises](http://www.princess.com)** | **[Intern, Video Production & Live Broadcast (CCL)](https://jobright.ai/jobs/info/6afe59f84ab3081626ab0edc?utm_campaign=1053&utm_source=git)** | Miami, FL, United States | On Site | Nov 18 |
 | **[Carnival Corporation](http://carnivalcorp.com)** | **[Intern, Video Production & Live Broadcast (CCL)](https://jobright.ai/jobs/info/6afe73f6f170d82b39673c89?utm_campaign=1053&utm_source=git)** | Miami, FL, United States | On Site | Nov 18 |
 | **[Formlabs](http://www.formlabs.com)** | **[Video Content Creator Intern (Summer 2027)](https://jobright.ai/jobs/info/6afe22638cffea7c97c906e2?utm_campaign=1053&utm_source=git)** | Somerville, MA, United States | On Site | Nov 18 |
@@ -79,7 +82,6 @@ For a complete list, click the following sortable link below:
 | **[Washington Performing Arts](http://www.washingtonperformingarts.org)** | **[Community Engagement Intern - Spring 2027 (t)](https://jobright.ai/jobs/info/6afcd3122ac165125e4ccf78?utm_campaign=1053&utm_source=git)** | Washington, DC, United States | Hybrid | Nov 18 |
 | ↳ | **[Special Events Intern - Spring 2027 (t)](https://jobright.ai/jobs/info/6afcd317d86c15318a38e989?utm_campaign=1053&utm_source=git)** | Washington, DC, United States | Hybrid | Nov 18 |
 | **[The Aparecio Foundation](https://www.apareciofoundation.org)** | **[Volunteer/Intern:Editor of "Culture" Content in Felix](https://jobright.ai/jobs/info/6aa0a0caea127c3794698361?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | Remote | Nov 18 |
-| **[Pinehurst Resort](https://www.pinehurst.com/)** | **[Golf Operations Intern-Main Golf Shop-Seasonal](https://jobright.ai/jobs/info/6afe298e0cde47528ec12758?utm_campaign=1053&utm_source=git)** | Pinehurst, NC, United States | On Site | Nov 17 |
 | **[National Community Renaissance](https://nationalcore.org/)** | **[Production Studio Management Internship](https://jobright.ai/jobs/info/6afd10f956aa9772e7d56733?utm_campaign=1053&utm_source=git)** | Rancho Cucamonga, CA, United States | On Site | Nov 17 |
 | **[Blizzard Entertainment](http://blizzard.com)** | **[Blizzard 2027 Summer Internships - VFX](https://jobright.ai/jobs/info/6afcdb4cd1637502949279e3?utm_campaign=1053&utm_source=git)** | Irvine, CA, United States | On Site | Nov 17 |
 | **[New York Public Radio](http://www.nypublicradio.org)** | **[WQXR Alfred and Carole Schonberger Internship](https://jobright.ai/jobs/info/6afcb463e0cdcfc91142ecac?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Hybrid | Nov 17 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Girl Scouts of Citrus Council](https://www.citrus-gs.org/)** | **[Position: Intern for the Girl Scout Experience Team](https://jobright.ai/jobs/info/6aaaaea78e1bf0f764af5a6c?utm_campaign=1053&utm_source=git)** | Orlando, FL, United States | On Site | Nov 12 |
 | **[Quint](https://www.quintevents.com)** | **[Event Operations Intern](https://jobright.ai/jobs/info/6af60b2680054650a5e7b85c?utm_campaign=1053&utm_source=git)** | Charlotte, NC, United States | On Site | Nov 12 |
 | **[David Zwirner](http://www.davidzwirner.com/)** | **[Gallery Intern](https://jobright.ai/jobs/info/6adbb1719e3e874dbfba145d?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | On Site | Nov 12 |
-| **[Kum & Go](https://www.kumandgo.com/)** | **[Sports Media & Team Content Intern](https://jobright.ai/jobs/info/6af6034179862a378dcefdb6?utm_campaign=1053&utm_source=git)** | Des Moines, IA, United States | On Site | Nov 12 |
-| **[UNDP](http://www.undp.org)** | **[Social media video production intern](https://jobright.ai/jobs/info/6af3847a10c7aed77861b4fc?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Nov 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
