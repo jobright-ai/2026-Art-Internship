@@ -57,8 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Downtown Sioux Falls, Inc.](https://dtsf.com)** | **[Events Internship - Summer 2027](https://jobright.ai/jobs/info/6aff231772b9be368528eb4d?utm_campaign=1053&utm_source=git)** | Sioux Falls, SD, United States | On Site | Nov 19 |
 | **[University of Pikeville](http://www.upike.edu/)** | **[WS - Spring Term - INTERNSHIP – Mountain Top Media – Sports Media Assistant – IWS](https://jobright.ai/jobs/info/6aff0c3297dcc4fc8dca821a?utm_campaign=1053&utm_source=git)** | Pikeville, KY, United States | On Site | Nov 19 |
+| **[Downtown Sioux Falls, Inc.](https://dtsf.com)** | **[Events Internship - Summer 2027](https://jobright.ai/jobs/info/6aff231772b9be368528eb4d?utm_campaign=1053&utm_source=git)** | Sioux Falls, SD, United States | On Site | Nov 19 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Intern](https://jobright.ai/jobs/info/6a9674f7455eaf6a08c17881?utm_campaign=1053&utm_source=git)** | Peoria, IL, United States | On Site | Nov 19 |
 | **[Relativity Space](http://relativityspace.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/6ac53336d9621c5b283a3d34?utm_campaign=1053&utm_source=git)** | Long Beach, CA, United States | On Site | Nov 19 |
 | **[Trimble Inc.](https://www.trimble.com/)** | **[Video Production Intern](https://jobright.ai/jobs/info/6ae275b305a39c3e2c71a9e3?utm_campaign=1053&utm_source=git)** | Dayton, OH, United States | On Site | Nov 19 |
