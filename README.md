@@ -57,11 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[DRB Homes](http://www.drbhomes.com/)** | **[Production Intern (2573)](https://jobright.ai/jobs/info/6ae35990d45dc30fb7d28a6f?utm_campaign=1053&utm_source=git)** | Franklin, Tennessee, United States | On Site | Nov 20 |
+| **[Nexora Solutions](https://www.linkedin.com/company/74301328)** | **[Video Game Production Coordinator Intern](https://jobright.ai/jobs/info/6b0055733a9a0230ab0266cf?utm_campaign=1053&utm_source=git)** | El Segundo, CA, United States | Hybrid | Nov 20 |
+| **[Hadley Lane](hadleylane.us)** | **[Video Game Production Coordinator Intern](https://jobright.ai/jobs/info/6b004774d1fe3bc162e3a9f1?utm_campaign=1053&utm_source=git)** | El Segundo, CA, United States | Hybrid | Nov 20 |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Intern](https://jobright.ai/jobs/info/6a9674f7455eaf6a08c17881?utm_campaign=1053&utm_source=git)** | Peoria, IL, United States | On Site | Nov 20 |
+| ↳ | **[Unpaid News Intern](https://jobright.ai/jobs/info/6ace590e4391691a335ac06a?utm_campaign=1053&utm_source=git)** | Wichita, KS, United States | On Site | Nov 20 |
 | **[Goddard Riverside](https://goddard.org)** | **[Archive Fall Intern](https://jobright.ai/jobs/info/6b0025a0d1fe3bc162e3a22b?utm_campaign=1053&utm_source=git)** | New York, New York, United States | On Site | Nov 20 |
 | **[Diamond Baseball Holdings](http://diamondbaseballholdings.com/)** | **[Intern, Video Production (58231)](https://jobright.ai/jobs/info/6ada92c054bbabbab0717b87?utm_campaign=1053&utm_source=git)** | Harrisburg, PA, United States | On Site | Nov 19 |
 | **[Union Home Mortgage Corp.](https://www.uhm.com/)** | **[Video Content Intern](https://jobright.ai/jobs/info/6aff7d7572b9be368529294d?utm_campaign=1053&utm_source=git)** | Strongsville, OH, United States | On Site | Nov 19 |
 | **[Wolf Trap Foundation for the Performing Arts](https://www.wolftrap.org/)** | **[Intern, Editorial Content (Spring 2027)](https://jobright.ai/jobs/info/6aff7d74b47661ae4a62d747?utm_campaign=1053&utm_source=git)** | Vienna, VA, United States | On Site | Nov 19 |
-| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Intern](https://jobright.ai/jobs/info/6a9674f7455eaf6a08c17881?utm_campaign=1053&utm_source=git)** | Peoria, IL, United States | On Site | Nov 19 |
 | **[American Fidelity](http://www.americanfidelity.com)** | **[Videographer Intern](https://jobright.ai/jobs/info/6aff774f865dbcc3f26fc8e3?utm_campaign=1053&utm_source=git)** | Oklahoma City, OK, United States | On Site | Nov 19 |
 | **[Houston Livestock Show and Rodeo](https://www.rodeohouston.com/)** | **[Intern](https://jobright.ai/jobs/info/6aff50d997dcc4fc8dcaae8b?utm_campaign=1053&utm_source=git)** | Houston, TX, United States | On Site | Nov 19 |
 | **[Art and Wellness Enterprises](https://aweoffice.org)** | **[2027 Art Management Summer Intern](https://jobright.ai/jobs/info/6ae8b168a2a252e21942846d?utm_campaign=1053&utm_source=git)** | Bentonville, AR, United States | On Site | Nov 19 |
@@ -141,7 +145,4 @@ For a complete list, click the following sortable link below:
 | **[The Toro Company](https://www.thetorocompany.com)** | **[Video and Interactive Training Production Intern - Ditch Witch](https://jobright.ai/jobs/info/6aa3aa4c959a10d7230d3185?utm_campaign=1053&utm_source=git)** | Perry, OK, United States | On Site | Nov 14 |
 | **[Wilderness Resort in Wisconsin Dells](https://www.wildernessresort.com)** | **[Golf Operations Internship Summer 2027](https://jobright.ai/jobs/info/6af80cf4cb5a5d4a77fc9d56?utm_campaign=1053&utm_source=git)** | Wisconsin Dells, WI, United States | On Site | Nov 13 |
 | **[DeVry University](http://www.devry.edu)** | **[FWS Student Worker III, Off Campus (Video & Multimedia Content Creator Intern)](https://jobright.ai/jobs/info/6af7f91734e2d29dcb752be3?utm_campaign=1053&utm_source=git)** | Lisle, IL, United States | Hybrid | Nov 13 |
-| **[Pandora](https://www.pandora.com/)** | **[Spring Intern, POTUS - Part-Time](https://jobright.ai/jobs/info/6af79b56e3d8d612bf425533?utm_campaign=1053&utm_source=git)** | Washington, DC, United States | On Site | Nov 13 |
-| **[David Zwirner](http://www.davidzwirner.com/)** | **[Museum & Institutional Partnerships Intern](https://jobright.ai/jobs/info/6af7901341166cab7564ce32?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Nov 13 |
-| ↳ | **[Digital Editorial Intern](https://jobright.ai/jobs/info/6af79004c7349029d709717d?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Nov 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
