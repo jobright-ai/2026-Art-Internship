@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sonnenalp Hotel of Vail](https://www.sonnenalp.com)** | **[Golf Club PGA Intern](https://jobright.ai/jobs/info/6b00ab8ee0dc9619592830ad?utm_campaign=1053&utm_source=git)** | Edwards, CO, United States | On Site | Nov 20 |
+| **[Cal Alumni Association | UC Berkeley](http://alumni.berkeley.edu)** | **[California Magazine, Student Editorial Intern](https://jobright.ai/jobs/info/6affe420dd029d798066efd1?utm_campaign=1053&utm_source=git)** | Berkeley, CA, United States | Hybrid | Nov 20 |
+| **[Wisconsin State Golf Association](http://www.wsga.org)** | **[2027 PJ Boatwright Jr Internship (Tournament Operations)](https://jobright.ai/jobs/info/6b009b4cdfa58e4c244dcc94?utm_campaign=1053&utm_source=git)** | Milwaukee, WI, United States | On Site | Nov 20 |
 | **[Meridian International Center](http://www.meridian.org)** | **[Intern, Center for Culture & Sport Diplomacy](https://jobright.ai/jobs/info/6aff708c865dbcc3f26fc4cd?utm_campaign=1053&utm_source=git)** | Washington, DC, United States | On Site | Nov 20 |
 | **[DRB Homes](http://www.drbhomes.com/)** | **[Production Intern (2573)](https://jobright.ai/jobs/info/6ae35990d45dc30fb7d28a6f?utm_campaign=1053&utm_source=git)** | Franklin, Tennessee, United States | On Site | Nov 20 |
 | **[Nexora Solutions](https://www.linkedin.com/company/74301328)** | **[Video Game Production Coordinator Intern](https://jobright.ai/jobs/info/6b0055733a9a0230ab0266cf?utm_campaign=1053&utm_source=git)** | El Segundo, CA, United States | Hybrid | Nov 20 |
@@ -65,6 +68,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Unpaid News Intern](https://jobright.ai/jobs/info/6ace590e4391691a335ac06a?utm_campaign=1053&utm_source=git)** | Wichita, KS, United States | On Site | Nov 20 |
 | **[Goddard Riverside](https://goddard.org)** | **[Archive Fall Intern](https://jobright.ai/jobs/info/6b0025a0d1fe3bc162e3a22b?utm_campaign=1053&utm_source=git)** | New York, New York, United States | On Site | Nov 20 |
 | **[Diamond Baseball Holdings](http://diamondbaseballholdings.com/)** | **[Intern, Video Production (58231)](https://jobright.ai/jobs/info/6ada92c054bbabbab0717b87?utm_campaign=1053&utm_source=git)** | Harrisburg, PA, United States | On Site | Nov 19 |
+| **[Penn State University](http://www.psu.edu/)** | **[Part-Time Videography Intern – CEE](https://jobright.ai/jobs/info/6b00ab9f89d8ca1e84958504?utm_campaign=1053&utm_source=git)** | University Park, Pennsylvania, United States | On Site | Nov 19 |
 | **[Foreign Policy](http://www.foreignpolicy.com/)** | **[Spring Multimedia Intern](https://jobright.ai/jobs/info/6b008e7689d8ca1e849573af?utm_campaign=1053&utm_source=git)** | United States | Remote | Nov 19 |
 | **[Union Home Mortgage Corp.](https://www.uhm.com/)** | **[Video Content Intern](https://jobright.ai/jobs/info/6aff7d7572b9be368529294d?utm_campaign=1053&utm_source=git)** | Strongsville, OH, United States | On Site | Nov 19 |
 | **[Wolf Trap Foundation for the Performing Arts](https://www.wolftrap.org/)** | **[Intern, Editorial Content (Spring 2027)](https://jobright.ai/jobs/info/6aff7d74b47661ae4a62d747?utm_campaign=1053&utm_source=git)** | Vienna, VA, United States | On Site | Nov 19 |
@@ -75,7 +79,6 @@ For a complete list, click the following sortable link below:
 | **[University of Pikeville](http://www.upike.edu/)** | **[WS - Spring Term - INTERNSHIP – Mountain Top Media – Sports Media Assistant – IWS](https://jobright.ai/jobs/info/6aff0c3297dcc4fc8dca821a?utm_campaign=1053&utm_source=git)** | Pikeville, KY, United States | On Site | Nov 19 |
 | **[Downtown Sioux Falls, Inc.](https://dtsf.com)** | **[Events Internship - Summer 2027](https://jobright.ai/jobs/info/6aff231772b9be368528eb4d?utm_campaign=1053&utm_source=git)** | Sioux Falls, SD, United States | On Site | Nov 19 |
 | **[Relativity Space](http://relativityspace.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/6ac53336d9621c5b283a3d34?utm_campaign=1053&utm_source=git)** | Long Beach, CA, United States | On Site | Nov 19 |
-| **[Cal Alumni Association | UC Berkeley](http://alumni.berkeley.edu)** | **[California Magazine, Student Editorial Intern](https://jobright.ai/jobs/info/6affe420dd029d798066efd1?utm_campaign=1053&utm_source=git)** | Berkeley, CA, United States | Hybrid | Nov 19 |
 | **[Trimble Inc.](https://www.trimble.com/)** | **[Video Production Intern](https://jobright.ai/jobs/info/6ae275b305a39c3e2c71a9e3?utm_campaign=1053&utm_source=git)** | Dayton, OH, United States | On Site | Nov 19 |
 | **[Pinehurst Resort](https://www.pinehurst.com/)** | **[Golf Operations Intern-Main Golf Shop-Seasonal](https://jobright.ai/jobs/info/6afe298e0cde47528ec12758?utm_campaign=1053&utm_source=git)** | Pinehurst, NC, United States | On Site | Nov 18 |
 | **[Blue Water](https://bwdc.com)** | **[Events/Recreation- Intern - Summer 2027](https://jobright.ai/jobs/info/6aff5908aea17e3f50eafcad?utm_campaign=1053&utm_source=git)** | Millsboro, DE, United States | On Site | Nov 18 |
