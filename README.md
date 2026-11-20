@@ -155,5 +155,4 @@ For a complete list, click the following sortable link below:
 | **[Universal Attractions Agency](https://universalattractions.com)** | **[Music Agency Internship](https://jobright.ai/jobs/info/6af7245fe3d8d612bf4205be?utm_campaign=1053&utm_source=git)** | Nashville, TN, United States | Remote | Nov 13 |
 | ↳ | **[Music Agency Internship](https://jobright.ai/jobs/info/6af721d1d0eefb7d11b8924c?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Nov 13 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[WAVY Unpaid Sports Intern, Spring 2027](https://jobright.ai/jobs/info/6ad194ea90e54b6cff1a38a5?utm_campaign=1053&utm_source=git)** | Portsmouth, VA, United States | On Site | Nov 13 |
-| **[ASM Global](https://asmglobal.com/)** | **[Hospitality Intern - The Meadows Music Theater](https://jobright.ai/jobs/info/6a510fcabf63b66c79978842?utm_campaign=1053&utm_source=git)** | Hartford, CT, United States | On Site | Nov 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
