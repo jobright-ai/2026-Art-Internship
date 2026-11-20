@@ -147,9 +147,4 @@ For a complete list, click the following sortable link below:
 | **[Old Mission Medicine Management, LLC](www.oldmissionmedicine.com)** | **[Camera & Video Production Intern](https://jobright.ai/jobs/info/6af758dee3d8d612bf42278c?utm_campaign=1053&utm_source=git)** | Traverse City, MI, United States | On Site | Nov 13 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Internal Communications Specialist)](https://jobright.ai/jobs/info/6aa16331ef23570cae2439e4?utm_campaign=1053&utm_source=git)** | Vienna, VA, United States | Hybrid | Nov 13 |
 | ↳ | **[Summer Associate Internship (Internal Communications Specialist)](https://jobright.ai/jobs/info/6aa168cfdbc0e60e37e111eb?utm_campaign=1053&utm_source=git)** | Vienna, VA, United States | Hybrid | Nov 13 |
-| ↳ | **[Summer Associate Internship (Internal Communications Specialist)](https://jobright.ai/jobs/info/6abea1394ac55253f5d61a25?utm_campaign=1053&utm_source=git)** | Vienna, VA, United States | Hybrid | Nov 13 |
-| **[FloSports](http://www.flosports.tv/)** | **[Spring Internship - FloTrack](https://jobright.ai/jobs/info/6af74140e3d8d612bf4217a8?utm_campaign=1053&utm_source=git)** | Austin, TX, United States | On Site | Nov 13 |
-| **[SiriusXM](http://siriusxm.com)** | **[Spring Intern, Video Production - Part-Time](https://jobright.ai/jobs/info/6af747f0c7349029d709403c?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Nov 13 |
-| ↳ | **[Spring Intern, POTUS - Part-Time](https://jobright.ai/jobs/info/6af747ed3ba46d7b6c164fee?utm_campaign=1053&utm_source=git)** | Washington, DC, United States | On Site | Nov 13 |
-| ↳ | **[Spring Intern, Pandora Curation - Part-Time](https://jobright.ai/jobs/info/6af747eac7349029d7094034?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Nov 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
