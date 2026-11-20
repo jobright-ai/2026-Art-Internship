@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Goddard Riverside](https://goddard.org)** | **[Archive Fall Intern](https://jobright.ai/jobs/info/6b0025a0d1fe3bc162e3a22b?utm_campaign=1053&utm_source=git)** | New York, New York, United States | On Site | Nov 20 |
 | **[Diamond Baseball Holdings](http://diamondbaseballholdings.com/)** | **[Intern, Video Production (58231)](https://jobright.ai/jobs/info/6ada92c054bbabbab0717b87?utm_campaign=1053&utm_source=git)** | Harrisburg, PA, United States | On Site | Nov 19 |
 | **[Union Home Mortgage Corp.](https://www.uhm.com/)** | **[Video Content Intern](https://jobright.ai/jobs/info/6aff7d7572b9be368529294d?utm_campaign=1053&utm_source=git)** | Strongsville, OH, United States | On Site | Nov 19 |
 | **[Wolf Trap Foundation for the Performing Arts](https://www.wolftrap.org/)** | **[Intern, Editorial Content (Spring 2027)](https://jobright.ai/jobs/info/6aff7d74b47661ae4a62d747?utm_campaign=1053&utm_source=git)** | Vienna, VA, United States | On Site | Nov 19 |
@@ -143,8 +144,4 @@ For a complete list, click the following sortable link below:
 | **[Pandora](https://www.pandora.com/)** | **[Spring Intern, POTUS - Part-Time](https://jobright.ai/jobs/info/6af79b56e3d8d612bf425533?utm_campaign=1053&utm_source=git)** | Washington, DC, United States | On Site | Nov 13 |
 | **[David Zwirner](http://www.davidzwirner.com/)** | **[Museum & Institutional Partnerships Intern](https://jobright.ai/jobs/info/6af7901341166cab7564ce32?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Nov 13 |
 | ↳ | **[Digital Editorial Intern](https://jobright.ai/jobs/info/6af79004c7349029d709717d?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Nov 13 |
-| **[The New York Times](https://www.nytco.com/)** | **[Audience Team Intern, Wirecutter](https://jobright.ai/jobs/info/6ae4e148d45dc30fb7d3327f?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Hybrid | Nov 13 |
-| **[Old Mission Medicine Management, LLC](www.oldmissionmedicine.com)** | **[Camera & Video Production Intern](https://jobright.ai/jobs/info/6af758dee3d8d612bf42278c?utm_campaign=1053&utm_source=git)** | Traverse City, MI, United States | On Site | Nov 13 |
-| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Internal Communications Specialist)](https://jobright.ai/jobs/info/6aa16331ef23570cae2439e4?utm_campaign=1053&utm_source=git)** | Vienna, VA, United States | Hybrid | Nov 13 |
-| ↳ | **[Summer Associate Internship (Internal Communications Specialist)](https://jobright.ai/jobs/info/6aa168cfdbc0e60e37e111eb?utm_campaign=1053&utm_source=git)** | Vienna, VA, United States | Hybrid | Nov 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
