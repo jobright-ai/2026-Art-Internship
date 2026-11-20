@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Barnes Foundation](http://www.barnesfoundation.org)** | **[Summer Internship: Calder Gardens Public Prog](https://jobright.ai/jobs/info/6b00b46f3a9a0230ab029e93?utm_campaign=1053&utm_source=git)** | Philadelphia, PA, United States | On Site | Nov 20 |
+| ↳ | **[Summer Intern: Editorial & Publications](https://jobright.ai/jobs/info/6b00b4610f536e0ba727680c?utm_campaign=1053&utm_source=git)** | Philadelphia, PA, United States | On Site | Nov 20 |
+| **[Clark Art Institute](http://www.clarkart.edu)** | **[Rodgers' Spring Intern- Special Events](https://jobright.ai/jobs/info/6b00b09fd1fe3bc162e3df53?utm_campaign=1053&utm_source=git)** | Williamstown, Massachusetts, United States | On Site | Nov 20 |
 | **[Sonnenalp Hotel of Vail](https://www.sonnenalp.com)** | **[Golf Club PGA Intern](https://jobright.ai/jobs/info/6b00ab8ee0dc9619592830ad?utm_campaign=1053&utm_source=git)** | Edwards, CO, United States | On Site | Nov 20 |
 | **[Cal Alumni Association | UC Berkeley](http://alumni.berkeley.edu)** | **[California Magazine, Student Editorial Intern](https://jobright.ai/jobs/info/6affe420dd029d798066efd1?utm_campaign=1053&utm_source=git)** | Berkeley, CA, United States | Hybrid | Nov 20 |
 | **[Wisconsin State Golf Association](http://www.wsga.org)** | **[2027 PJ Boatwright Jr Internship (Tournament Operations)](https://jobright.ai/jobs/info/6b009b4cdfa58e4c244dcc94?utm_campaign=1053&utm_source=git)** | Milwaukee, WI, United States | On Site | Nov 20 |
