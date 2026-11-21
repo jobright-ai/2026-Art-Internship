@@ -57,9 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Crystal Dynamics](http://crystald.com)** | **[Cinematic Presentation Animation Intern [Spring 2027]](https://jobright.ai/jobs/info/6b00c1a6e0dc96195928402d?utm_campaign=1053&utm_source=git)** | United States | Remote | Nov 20 |
+| **[Barnes Foundation](http://www.barnesfoundation.org)** | **[Summer Intern: Editorial & Publications](https://jobright.ai/jobs/info/6b00b4610f536e0ba727680c?utm_campaign=1053&utm_source=git)** | Philadelphia, PA, United States | On Site | Nov 20 |
+| ↳ | **[Summer Intern: Archives](https://jobright.ai/jobs/info/6b00cdbcdf73191d2e6aed78?utm_campaign=1053&utm_source=git)** | Philadelphia, PA, United States | On Site | Nov 20 |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Intern](https://jobright.ai/jobs/info/6a9674f7455eaf6a08c17881?utm_campaign=1053&utm_source=git)** | Peoria, IL, United States | On Site | Nov 20 |
 | **[Barnes Foundation](http://www.barnesfoundation.org)** | **[Summer Internship: Calder Gardens Public Prog](https://jobright.ai/jobs/info/6b00b46f3a9a0230ab029e93?utm_campaign=1053&utm_source=git)** | Philadelphia, PA, United States | On Site | Nov 20 |
-| ↳ | **[Summer Intern: Editorial & Publications](https://jobright.ai/jobs/info/6b00b4610f536e0ba727680c?utm_campaign=1053&utm_source=git)** | Philadelphia, PA, United States | On Site | Nov 20 |
+| **[Crystal Dynamics](http://crystald.com)** | **[Cinematic Presentation Animation Intern [Spring 2027]](https://jobright.ai/jobs/info/6b00c1a6e0dc96195928402d?utm_campaign=1053&utm_source=git)** | United States | Remote | Nov 20 |
 | **[Clark Art Institute](http://www.clarkart.edu)** | **[Rodgers' Spring Intern- Special Events](https://jobright.ai/jobs/info/6b00b09fd1fe3bc162e3df53?utm_campaign=1053&utm_source=git)** | Williamstown, Massachusetts, United States | On Site | Nov 20 |
 | **[Sonnenalp Hotel of Vail](https://www.sonnenalp.com)** | **[Golf Club PGA Intern](https://jobright.ai/jobs/info/6b00ab8ee0dc9619592830ad?utm_campaign=1053&utm_source=git)** | Edwards, CO, United States | On Site | Nov 20 |
 | **[Cal Alumni Association | UC Berkeley](http://alumni.berkeley.edu)** | **[California Magazine, Student Editorial Intern](https://jobright.ai/jobs/info/6affe420dd029d798066efd1?utm_campaign=1053&utm_source=git)** | Berkeley, CA, United States | Hybrid | Nov 20 |
@@ -68,8 +70,7 @@ For a complete list, click the following sortable link below:
 | **[DRB Homes](http://www.drbhomes.com/)** | **[Production Intern (2573)](https://jobright.ai/jobs/info/6ae35990d45dc30fb7d28a6f?utm_campaign=1053&utm_source=git)** | Franklin, Tennessee, United States | On Site | Nov 20 |
 | **[Nexora Solutions](https://www.linkedin.com/company/74301328)** | **[Video Game Production Coordinator Intern](https://jobright.ai/jobs/info/6b0055733a9a0230ab0266cf?utm_campaign=1053&utm_source=git)** | El Segundo, CA, United States | Hybrid | Nov 20 |
 | **[Hadley Lane](hadleylane.us)** | **[Video Game Production Coordinator Intern](https://jobright.ai/jobs/info/6b004774d1fe3bc162e3a9f1?utm_campaign=1053&utm_source=git)** | El Segundo, CA, United States | Hybrid | Nov 20 |
-| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Intern](https://jobright.ai/jobs/info/6a9674f7455eaf6a08c17881?utm_campaign=1053&utm_source=git)** | Peoria, IL, United States | On Site | Nov 20 |
-| ↳ | **[Unpaid News Intern](https://jobright.ai/jobs/info/6ace590e4391691a335ac06a?utm_campaign=1053&utm_source=git)** | Wichita, KS, United States | On Site | Nov 20 |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid News Intern](https://jobright.ai/jobs/info/6ace590e4391691a335ac06a?utm_campaign=1053&utm_source=git)** | Wichita, KS, United States | On Site | Nov 20 |
 | **[Goddard Riverside](https://goddard.org)** | **[Archive Fall Intern](https://jobright.ai/jobs/info/6b0025a0d1fe3bc162e3a22b?utm_campaign=1053&utm_source=git)** | New York, New York, United States | On Site | Nov 20 |
 | **[Diamond Baseball Holdings](http://diamondbaseballholdings.com/)** | **[Intern, Video Production (58231)](https://jobright.ai/jobs/info/6ada92c054bbabbab0717b87?utm_campaign=1053&utm_source=git)** | Harrisburg, PA, United States | On Site | Nov 19 |
 | **[Penn State University](http://www.psu.edu/)** | **[Part-Time Videography Intern – CEE](https://jobright.ai/jobs/info/6b00ab9f89d8ca1e84958504?utm_campaign=1053&utm_source=git)** | University Park, Pennsylvania, United States | On Site | Nov 19 |
@@ -152,5 +153,4 @@ For a complete list, click the following sortable link below:
 | **[AccuWeather](http://www.accuweather.com)** | **[Editorial Intern (Spring 2027)](https://jobright.ai/jobs/info/6ae4e53077c09cb3bd4afec4?utm_campaign=1053&utm_source=git)** | State College, PA, United States | On Site | Nov 14 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[WAVY Unpaid Digital Intern, Spring 2027](https://jobright.ai/jobs/info/6abee9b9d9621c5b283924da?utm_campaign=1053&utm_source=git)** | Portsmouth, VA, United States | On Site | Nov 14 |
 | **[The Toro Company](https://www.thetorocompany.com)** | **[Video and Interactive Training Production Intern - Ditch Witch](https://jobright.ai/jobs/info/6aa3aa4c959a10d7230d3185?utm_campaign=1053&utm_source=git)** | Perry, OK, United States | On Site | Nov 14 |
-| **[Wilderness Resort in Wisconsin Dells](https://www.wildernessresort.com)** | **[Golf Operations Internship Summer 2027](https://jobright.ai/jobs/info/6af80cf4cb5a5d4a77fc9d56?utm_campaign=1053&utm_source=git)** | Wisconsin Dells, WI, United States | On Site | Nov 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
