@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Kestrel Yard](https://www.linkedin.com/company/90858281)** | **[Video Game Production Coordinator Intern](https://jobright.ai/jobs/info/6b0191550ae14188d58c43ff?utm_campaign=1053&utm_source=git)** | El Segundo, CA, United States | Hybrid | Nov 21 |
+| **[Obsidian Entertainment](http://www.obsidian.net/)** | **[VFX Artist - 2027 Summer Internship](https://jobright.ai/jobs/info/6ae4d4b8d45dc30fb7d32b23?utm_campaign=1053&utm_source=git)** | Irvine, CA, United States | On Site | Nov 21 |
 | **[CITIZENS OF THE INTERNET](https://thecitizensoftheinternet.com)** | **[Creative Video Editor Intern](https://jobright.ai/jobs/info/6b012ac1af6fea8c089b69f7?utm_campaign=1053&utm_source=git)** | Houston, TX, United States | Hybrid | Nov 20 |
 | **[Penn State University](http://www.psu.edu/)** | **[Part-Time Videography Intern – CEE](https://jobright.ai/jobs/info/6b00ab9f89d8ca1e84958504?utm_campaign=1053&utm_source=git)** | University Park, Pennsylvania, United States | On Site | Nov 20 |
 | **[TAIT](http://www.taittowers.com)** | **[Production Intern, Experience](https://jobright.ai/jobs/info/6b0062660f536e0ba7273697?utm_campaign=1053&utm_source=git)** | Lititz, PA, United States | Hybrid | Nov 20 |
