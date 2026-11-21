@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CITIZENS OF THE INTERNET](https://thecitizensoftheinternet.com)** | **[Creative Video Editor Intern](https://jobright.ai/jobs/info/6b012ac1af6fea8c089b69f7?utm_campaign=1053&utm_source=git)** | Houston, TX, United States | Hybrid | Nov 20 |
 | **[Penn State University](http://www.psu.edu/)** | **[Part-Time Videography Intern – CEE](https://jobright.ai/jobs/info/6b00ab9f89d8ca1e84958504?utm_campaign=1053&utm_source=git)** | University Park, Pennsylvania, United States | On Site | Nov 20 |
 | **[TAIT](http://www.taittowers.com)** | **[Production Intern, Experience](https://jobright.ai/jobs/info/6b0062660f536e0ba7273697?utm_campaign=1053&utm_source=git)** | Lititz, PA, United States | Hybrid | Nov 20 |
 | **[Barnes Foundation](http://www.barnesfoundation.org)** | **[Summer Intern: Editorial & Publications](https://jobright.ai/jobs/info/6b00b4610f536e0ba727680c?utm_campaign=1053&utm_source=git)** | Philadelphia, PA, United States | On Site | Nov 20 |
@@ -149,5 +150,4 @@ For a complete list, click the following sortable link below:
 | **[Crystal Mountain](https://crystalmountain.com)** | **[Event and Recreation Management Internship](https://jobright.ai/jobs/info/6afb935ec96cba79575c0749?utm_campaign=1053&utm_source=git)** | Thompsonville, MI, United States | On Site | Nov 15 |
 | **[Colorado Golf Association](http://www.cogolf.org/)** | **[2027 Boatwright Junior Intern](https://jobright.ai/jobs/info/6afb2e9a484fef921e048638?utm_campaign=1053&utm_source=git)** | Louisville, KY, United States | On Site | Nov 15 |
 | **[AccuWeather](http://www.accuweather.com)** | **[Editorial Intern (Spring 2027)](https://jobright.ai/jobs/info/6ae4e53077c09cb3bd4afec4?utm_campaign=1053&utm_source=git)** | State College, PA, United States | On Site | Nov 14 |
-| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[WAVY Unpaid Digital Intern, Spring 2027](https://jobright.ai/jobs/info/6abee9b9d9621c5b283924da?utm_campaign=1053&utm_source=git)** | Portsmouth, VA, United States | On Site | Nov 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
