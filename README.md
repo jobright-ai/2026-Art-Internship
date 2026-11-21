@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Crystal Dynamics](http://crystald.com)** | **[Cinematic Presentation Animation Intern [Spring 2027]](https://jobright.ai/jobs/info/6b00c1a6e0dc96195928402d?utm_campaign=1053&utm_source=git)** | United States | Remote | Nov 20 |
 | **[Barnes Foundation](http://www.barnesfoundation.org)** | **[Summer Internship: Calder Gardens Public Prog](https://jobright.ai/jobs/info/6b00b46f3a9a0230ab029e93?utm_campaign=1053&utm_source=git)** | Philadelphia, PA, United States | On Site | Nov 20 |
 | ↳ | **[Summer Intern: Editorial & Publications](https://jobright.ai/jobs/info/6b00b4610f536e0ba727680c?utm_campaign=1053&utm_source=git)** | Philadelphia, PA, United States | On Site | Nov 20 |
 | **[Clark Art Institute](http://www.clarkart.edu)** | **[Rodgers' Spring Intern- Special Events](https://jobright.ai/jobs/info/6b00b09fd1fe3bc162e3df53?utm_campaign=1053&utm_source=git)** | Williamstown, Massachusetts, United States | On Site | Nov 20 |
@@ -152,5 +153,4 @@ For a complete list, click the following sortable link below:
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[WAVY Unpaid Digital Intern, Spring 2027](https://jobright.ai/jobs/info/6abee9b9d9621c5b283924da?utm_campaign=1053&utm_source=git)** | Portsmouth, VA, United States | On Site | Nov 14 |
 | **[The Toro Company](https://www.thetorocompany.com)** | **[Video and Interactive Training Production Intern - Ditch Witch](https://jobright.ai/jobs/info/6aa3aa4c959a10d7230d3185?utm_campaign=1053&utm_source=git)** | Perry, OK, United States | On Site | Nov 14 |
 | **[Wilderness Resort in Wisconsin Dells](https://www.wildernessresort.com)** | **[Golf Operations Internship Summer 2027](https://jobright.ai/jobs/info/6af80cf4cb5a5d4a77fc9d56?utm_campaign=1053&utm_source=git)** | Wisconsin Dells, WI, United States | On Site | Nov 13 |
-| **[DeVry University](http://www.devry.edu)** | **[FWS Student Worker III, Off Campus (Video & Multimedia Content Creator Intern)](https://jobright.ai/jobs/info/6af7f91734e2d29dcb752be3?utm_campaign=1053&utm_source=git)** | Lisle, IL, United States | Hybrid | Nov 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
