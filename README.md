@@ -149,5 +149,4 @@ For a complete list, click the following sortable link below:
 | **[Colorado Golf Association](http://www.cogolf.org/)** | **[2027 MSGA Junior Golf P.J. Boatwright Jr. Internship](https://jobright.ai/jobs/info/6afb7ae3c2bd7db01b881f94?utm_campaign=1053&utm_source=git)** | Helena, MT, United States | Hybrid | Nov 15 |
 | **[Crystal Mountain](https://crystalmountain.com)** | **[Event and Recreation Management Internship](https://jobright.ai/jobs/info/6afb935ec96cba79575c0749?utm_campaign=1053&utm_source=git)** | Thompsonville, MI, United States | On Site | Nov 15 |
 | **[Colorado Golf Association](http://www.cogolf.org/)** | **[2027 Boatwright Junior Intern](https://jobright.ai/jobs/info/6afb2e9a484fef921e048638?utm_campaign=1053&utm_source=git)** | Louisville, KY, United States | On Site | Nov 15 |
-| **[AccuWeather](http://www.accuweather.com)** | **[Editorial Intern (Spring 2027)](https://jobright.ai/jobs/info/6ae4e53077c09cb3bd4afec4?utm_campaign=1053&utm_source=git)** | State College, PA, United States | On Site | Nov 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
