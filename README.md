@@ -147,6 +147,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Fashion Intern - Spring](https://jobright.ai/jobs/info/6afae1bb317abe715a25f471?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Nov 16 |
 | **[Envoy Air](https://www.envoyair.com/)** | **[College Intern - Technical Publications Editor](https://jobright.ai/jobs/info/6ae84477061d6d7ff3d79b5c?utm_campaign=1053&utm_source=git)** | Irving, TX, United States | On Site | Nov 16 |
 | **[Colorado Golf Association](http://www.cogolf.org/)** | **[2027 MSGA Junior Golf P.J. Boatwright Jr. Internship](https://jobright.ai/jobs/info/6afb7ae3c2bd7db01b881f94?utm_campaign=1053&utm_source=git)** | Helena, MT, United States | Hybrid | Nov 15 |
-| **[Crystal Mountain](https://crystalmountain.com)** | **[Event and Recreation Management Internship](https://jobright.ai/jobs/info/6afb935ec96cba79575c0749?utm_campaign=1053&utm_source=git)** | Thompsonville, MI, United States | On Site | Nov 15 |
-| **[Colorado Golf Association](http://www.cogolf.org/)** | **[2027 Boatwright Junior Intern](https://jobright.ai/jobs/info/6afb2e9a484fef921e048638?utm_campaign=1053&utm_source=git)** | Louisville, KY, United States | On Site | Nov 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
