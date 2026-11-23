@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Full Jam Music INC.](https://fulljam.com)** | **[Musicians creators (volunteer or internship)](https://jobright.ai/jobs/info/6b037e90c35a3d9ff8f49829?utm_campaign=1053&utm_source=git)** | Canada | Remote | Nov 22 |
 | **[Social View Agency](https://www.socialviewagency.com/)** | **[On-Camera Content Creator Intern](https://jobright.ai/jobs/info/6b0271e6505c87ccb3a2f2be?utm_campaign=1053&utm_source=git)** | Miami, Florida, United States | On Site | Nov 21 |
 | **[Obsidian Entertainment](http://www.obsidian.net/)** | **[VFX Artist - 2027 Summer Internship](https://jobright.ai/jobs/info/6ae4d4b8d45dc30fb7d32b23?utm_campaign=1053&utm_source=git)** | Irvine, CA, United States | On Site | Nov 21 |
 | **[CITIZENS OF THE INTERNET](https://thecitizensoftheinternet.com)** | **[Creative Video Editor Intern](https://jobright.ai/jobs/info/6b012ac1af6fea8c089b69f7?utm_campaign=1053&utm_source=git)** | Houston, TX, United States | Hybrid | Nov 20 |
