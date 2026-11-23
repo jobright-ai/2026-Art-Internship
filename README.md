@@ -145,7 +145,4 @@ For a complete list, click the following sortable link below:
 | **[Acadium](http://www.acadium.com)** | **[Video Editing Intern](https://jobright.ai/jobs/info/6afb3146317abe715a26196a?utm_campaign=1053&utm_source=git)** | United States | Remote | Nov 16 |
 | **[Fresh Tape Media](http://freshtapemedia.com)** | **[Post Production Intern](https://jobright.ai/jobs/info/6afb25dd317abe715a261024?utm_campaign=1053&utm_source=git)** | Denver, CO, United States | Hybrid | Nov 16 |
 | **[VividFront](https://www.vividfront.com)** | **[Content Creator Intern](https://jobright.ai/jobs/info/6afc515040b855eb290ca062?utm_campaign=1053&utm_source=git)** | Cleveland, OH, United States | Hybrid | Nov 16 |
-| **[PURPLE](https://purplepr.com)** | **[Fashion Intern - Spring](https://jobright.ai/jobs/info/6afae293484fef921e046489?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | On Site | Nov 16 |
-| ↳ | **[Fashion Intern - Spring](https://jobright.ai/jobs/info/6afae1bb317abe715a25f471?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Nov 16 |
-| **[Envoy Air](https://www.envoyair.com/)** | **[College Intern - Technical Publications Editor](https://jobright.ai/jobs/info/6ae84477061d6d7ff3d79b5c?utm_campaign=1053&utm_source=git)** | Irving, TX, United States | On Site | Nov 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
