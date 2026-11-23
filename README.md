@@ -57,7 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Vermilion](www.clubvermilion.com)** | **[Film & TV Post-Production Intern](https://jobright.ai/jobs/info/6b048a90b4933fb9f435ebd5?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Hybrid | Nov 23 |
+| **[Lifeway Christian Resources](https://wordsearchbible.lifeway.com/)** | **[Summer Internship / Production Editor - Kids Ministry](https://jobright.ai/jobs/info/6b04ab6e7fd2e33bde096498?utm_campaign=1053&utm_source=git)** | Contiguous United States | Remote | Nov 23 |
+| ↳ | **[Summer Internship /Editor - Magazine & Devotionals](https://jobright.ai/jobs/info/6b04ab3f7fd2e33bde096489?utm_campaign=1053&utm_source=git)** | Contiguous United States | Remote | Nov 23 |
+| **[NBCUniversal](https://www.nbcuniversal.com)** | **[NBC Local Boston News Internships – Summer 2027](https://jobright.ai/jobs/info/6b04a04913646880439e3932?utm_campaign=1053&utm_source=git)** | Needham, MA, United States | On Site | Nov 23 |
+| ↳ | **[NBC Local Production, Editorial, and Marketing News Internships – Summer 2027](https://jobright.ai/jobs/info/6af21afe8cbcfef4a59d89d3?utm_campaign=1053&utm_source=git)** | Universal City, CA, United States | On Site | Nov 23 |
+| **[American Enterprise Institute](http://www.aei.org)** | **[Summer Intern: American History and Culture](https://jobright.ai/jobs/info/6b049cb6b4933fb9f435f6f8?utm_campaign=1053&utm_source=git)** | Washington, DC, United States | On Site | Nov 23 |
 | **[FloSports](http://www.flosports.tv/)** | **[Spring Internship - Video Production Editor / Shooter](https://jobright.ai/jobs/info/6b046f324c822a415e670bd0?utm_campaign=1053&utm_source=git)** | Austin, TX, United States | On Site | Nov 23 |
 | **[The Washington Post](https://www.washingtonpost.com)** | **[Newsroom Summer Internship Program 2027: Visual Journalists](https://jobright.ai/jobs/info/6b048b4313646880439e2c51?utm_campaign=1053&utm_source=git)** | Washington, DC, United States | On Site | Nov 23 |
 | **[NBCUniversal](https://www.nbcuniversal.com)** | **[Universal Television Entertainment Production, Development & Programming Internships – Summer 2027](https://jobright.ai/jobs/info/6b0481e0a72582cade08e293?utm_campaign=1053&utm_source=git)** | Universal City, California, United States | On Site | Nov 23 |
@@ -133,5 +137,4 @@ For a complete list, click the following sortable link below:
 | **[Freeman Company](https://freemancreacion.com)** | **[2027 TFC Summer Internship - Event & Exhibit Services](https://jobright.ai/jobs/info/6ac40d1b8ff3fb9b3bc83cc3?utm_campaign=1053&utm_source=git)** | Las Vegas, NV, United States | On Site | Nov 17 |
 | **[Mass General Brigham](https://www.massgeneralbrigham.org)** | **[Science Writing Intern](https://jobright.ai/jobs/info/6afb7b1a06c0aac84dd961f5?utm_campaign=1053&utm_source=git)** | United States | Remote | Nov 17 |
 | **[Future London Academy](http://futurelondonacademy.co.uk/)** | **[Event Production Intern](https://jobright.ai/jobs/info/6afc34ac07bef169f5fffde3?utm_campaign=1053&utm_source=git)** | San Francisco Bay Area, United States | On Site | Nov 17 |
-| **[Gagosian](http://www.gagosian.com)** | **[Art Gallery Intern](https://jobright.ai/jobs/info/6afbc36f40b855eb290c75c6?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Nov 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
