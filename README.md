@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[eXp Realty](http://exprealty.com)** | **[Social Media & Videography Intern](https://jobright.ai/jobs/info/6b0477b0a72582cade08dc88?utm_campaign=1053&utm_source=git)** | Las Cruces, NM, United States | On Site | Nov 23 |
+| **[FloSports](http://www.flosports.tv/)** | **[Spring Internship - Video Production Editor / Shooter](https://jobright.ai/jobs/info/6b046f324c822a415e670bd0?utm_campaign=1053&utm_source=git)** | Austin, TX, United States | On Site | Nov 23 |
 | **[Tech Verses](techverses.net)** | **[Trading Internship for Women](https://jobright.ai/jobs/info/6b045f8221f0a1e0c849a50d?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | On Site | Nov 23 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Sports Intern- Fall 2026](https://jobright.ai/jobs/info/6ae74b56bad9293a40a4203e?utm_campaign=1053&utm_source=git)** | Washington, DC, United States | On Site | Nov 23 |
 | **[Full Jam Music INC.](https://fulljam.com)** | **[Musicians creators (volunteer or internship)](https://jobright.ai/jobs/info/6b037e90c35a3d9ff8f49829?utm_campaign=1053&utm_source=git)** | Canada | Remote | Nov 22 |
