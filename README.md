@@ -136,8 +136,4 @@ For a complete list, click the following sortable link below:
 | **[Boehringer Ingelheim](https://www.boehringer-ingelheim.com/)** | **[Video Production Intern](https://jobright.ai/jobs/info/6af7ec3134e2d29dcb7525bf?utm_campaign=1053&utm_source=git)** | Ridgefield, CT, United States | Hybrid | Nov 16 |
 | **[Burson](https://www.bursonglobal.com)** | **[Burson Summer 2027 HBSI (Client-Facing, USA Hybrid)](https://jobright.ai/jobs/info/6afb3e0c7d1820d918c28092?utm_campaign=1053&utm_source=git)** | San Francisco, CA, United States | Hybrid | Nov 16 |
 | ↳ | **[Burson Summer 2027 HBSI (Client-Facing, USA Hybrid)](https://jobright.ai/jobs/info/6afb3e03484fef921e0494c7?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | Hybrid | Nov 16 |
-| ↳ | **[Burson Summer 2027 HBSI (Client-Facing, USA Hybrid)](https://jobright.ai/jobs/info/6afb29075305ed998d91a519?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Hybrid | Nov 16 |
-| ↳ | **[Burson Summer 2027 HBSI (Client-Facing, USA Hybrid)](https://jobright.ai/jobs/info/6afb3e0c7f9ead6668e9ffaa?utm_campaign=1053&utm_source=git)** | Pittsburgh, PA, United States | Hybrid | Nov 16 |
-| ↳ | **[Burson Summer 2027 HBSI (Client-Facing, USA Hybrid)](https://jobright.ai/jobs/info/6afb3e08317abe715a2624a9?utm_campaign=1053&utm_source=git)** | Atlanta, GA, United States | Hybrid | Nov 16 |
-| ↳ | **[Burson Summer 2027 HBSI (Client-Facing, USA Hybrid)](https://jobright.ai/jobs/info/6afb3e067f9ead6668e9ffa7?utm_campaign=1053&utm_source=git)** | Washington, DC, United States | Hybrid | Nov 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
