@@ -57,9 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[NBCUniversal](https://www.nbcuniversal.com)** | **[Universal Television Entertainment Production, Development & Programming Internships – Summer 2027](https://jobright.ai/jobs/info/6b0481e0a72582cade08e293?utm_campaign=1053&utm_source=git)** | Universal City, California, United States | On Site | Nov 23 |
+| ↳ | **[Music Internships – Summer 2027](https://jobright.ai/jobs/info/6af1fc67905985ccaa407554?utm_campaign=1053&utm_source=git)** | Universal City, CA, United States | On Site | Nov 23 |
 | **[eXp Realty](http://exprealty.com)** | **[Social Media & Videography Intern](https://jobright.ai/jobs/info/6b0477b0a72582cade08dc88?utm_campaign=1053&utm_source=git)** | Las Cruces, NM, United States | On Site | Nov 23 |
 | **[FloSports](http://www.flosports.tv/)** | **[Spring Internship - Video Production Editor / Shooter](https://jobright.ai/jobs/info/6b046f324c822a415e670bd0?utm_campaign=1053&utm_source=git)** | Austin, TX, United States | On Site | Nov 23 |
-| **[Tech Verses](techverses.net)** | **[Trading Internship for Women](https://jobright.ai/jobs/info/6b045f8221f0a1e0c849a50d?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | On Site | Nov 23 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Sports Intern- Fall 2026](https://jobright.ai/jobs/info/6ae74b56bad9293a40a4203e?utm_campaign=1053&utm_source=git)** | Washington, DC, United States | On Site | Nov 23 |
 | **[Full Jam Music INC.](https://fulljam.com)** | **[Musicians creators (volunteer or internship)](https://jobright.ai/jobs/info/6b037e90c35a3d9ff8f49829?utm_campaign=1053&utm_source=git)** | Canada | Remote | Nov 22 |
 | **[Social View Agency](https://www.socialviewagency.com/)** | **[On-Camera Content Creator Intern](https://jobright.ai/jobs/info/6b0271e6505c87ccb3a2f2be?utm_campaign=1053&utm_source=git)** | Miami, Florida, United States | On Site | Nov 21 |
@@ -131,5 +132,4 @@ For a complete list, click the following sortable link below:
 | **[Mass General Brigham](https://www.massgeneralbrigham.org)** | **[Science Writing Intern](https://jobright.ai/jobs/info/6afb7b1a06c0aac84dd961f5?utm_campaign=1053&utm_source=git)** | United States | Remote | Nov 17 |
 | **[Future London Academy](http://futurelondonacademy.co.uk/)** | **[Event Production Intern](https://jobright.ai/jobs/info/6afc34ac07bef169f5fffde3?utm_campaign=1053&utm_source=git)** | San Francisco Bay Area, United States | On Site | Nov 17 |
 | **[Gagosian](http://www.gagosian.com)** | **[Art Gallery Intern](https://jobright.ai/jobs/info/6afbc36f40b855eb290c75c6?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Nov 16 |
-| ↳ | **[Internship Program - Beverly Hills (Spring, 2027)](https://jobright.ai/jobs/info/6ac410228ff3fb9b3bc83de7?utm_campaign=1053&utm_source=git)** | Beverly Hills, CA, United States | On Site | Nov 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
