@@ -57,10 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Vermilion](www.clubvermilion.com)** | **[Film & TV Post-Production Intern](https://jobright.ai/jobs/info/6b048a90b4933fb9f435ebd5?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Hybrid | Nov 23 |
+| **[FloSports](http://www.flosports.tv/)** | **[Spring Internship - Video Production Editor / Shooter](https://jobright.ai/jobs/info/6b046f324c822a415e670bd0?utm_campaign=1053&utm_source=git)** | Austin, TX, United States | On Site | Nov 23 |
+| **[The Washington Post](https://www.washingtonpost.com)** | **[Newsroom Summer Internship Program 2027: Visual Journalists](https://jobright.ai/jobs/info/6b048b4313646880439e2c51?utm_campaign=1053&utm_source=git)** | Washington, DC, United States | On Site | Nov 23 |
 | **[NBCUniversal](https://www.nbcuniversal.com)** | **[Universal Television Entertainment Production, Development & Programming Internships – Summer 2027](https://jobright.ai/jobs/info/6b0481e0a72582cade08e293?utm_campaign=1053&utm_source=git)** | Universal City, California, United States | On Site | Nov 23 |
 | ↳ | **[Music Internships – Summer 2027](https://jobright.ai/jobs/info/6af1fc67905985ccaa407554?utm_campaign=1053&utm_source=git)** | Universal City, CA, United States | On Site | Nov 23 |
 | **[eXp Realty](http://exprealty.com)** | **[Social Media & Videography Intern](https://jobright.ai/jobs/info/6b0477b0a72582cade08dc88?utm_campaign=1053&utm_source=git)** | Las Cruces, NM, United States | On Site | Nov 23 |
-| **[FloSports](http://www.flosports.tv/)** | **[Spring Internship - Video Production Editor / Shooter](https://jobright.ai/jobs/info/6b046f324c822a415e670bd0?utm_campaign=1053&utm_source=git)** | Austin, TX, United States | On Site | Nov 23 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Sports Intern- Fall 2026](https://jobright.ai/jobs/info/6ae74b56bad9293a40a4203e?utm_campaign=1053&utm_source=git)** | Washington, DC, United States | On Site | Nov 23 |
 | **[Full Jam Music INC.](https://fulljam.com)** | **[Musicians creators (volunteer or internship)](https://jobright.ai/jobs/info/6b037e90c35a3d9ff8f49829?utm_campaign=1053&utm_source=git)** | Canada | Remote | Nov 22 |
 | **[Social View Agency](https://www.socialviewagency.com/)** | **[On-Camera Content Creator Intern](https://jobright.ai/jobs/info/6b0271e6505c87ccb3a2f2be?utm_campaign=1053&utm_source=git)** | Miami, Florida, United States | On Site | Nov 21 |
