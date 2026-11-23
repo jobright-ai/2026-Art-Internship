@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Sports Intern- Fall 2026](https://jobright.ai/jobs/info/6ae74b56bad9293a40a4203e?utm_campaign=1053&utm_source=git)** | Washington, DC, United States | On Site | Nov 23 |
 | **[Full Jam Music INC.](https://fulljam.com)** | **[Musicians creators (volunteer or internship)](https://jobright.ai/jobs/info/6b037e90c35a3d9ff8f49829?utm_campaign=1053&utm_source=git)** | Canada | Remote | Nov 22 |
 | **[Social View Agency](https://www.socialviewagency.com/)** | **[On-Camera Content Creator Intern](https://jobright.ai/jobs/info/6b0271e6505c87ccb3a2f2be?utm_campaign=1053&utm_source=git)** | Miami, Florida, United States | On Site | Nov 21 |
 | **[Obsidian Entertainment](http://www.obsidian.net/)** | **[VFX Artist - 2027 Summer Internship](https://jobright.ai/jobs/info/6ae4d4b8d45dc30fb7d32b23?utm_campaign=1053&utm_source=git)** | Irvine, CA, United States | On Site | Nov 21 |
@@ -129,7 +130,4 @@ For a complete list, click the following sortable link below:
 | **[Gagosian](http://www.gagosian.com)** | **[Art Gallery Intern](https://jobright.ai/jobs/info/6afbc36f40b855eb290c75c6?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Nov 16 |
 | ↳ | **[Internship Program - Beverly Hills (Spring, 2027)](https://jobright.ai/jobs/info/6ac410228ff3fb9b3bc83de7?utm_campaign=1053&utm_source=git)** | Beverly Hills, CA, United States | On Site | Nov 16 |
 | **[Simons Foundation](https://www.simonsfoundation.org)** | **[Editorial Intern, Quanta Books](https://jobright.ai/jobs/info/6afb8220c96cba79575bf8c3?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Nov 16 |
-| **[VividFront](https://www.vividfront.com)** | **[Content Creator Intern](https://jobright.ai/jobs/info/6afb88bac2bd7db01b882a3c?utm_campaign=1053&utm_source=git)** | Cleveland, OH, United States | Hybrid | Nov 16 |
-| **[Langan Engineering & Environmental Services](http://www.langan.com)** | **[Intern/Co-op - Cultural Resources - Winter 2026/2027](https://jobright.ai/jobs/info/6afb3367484fef921e048c4a?utm_campaign=1053&utm_source=git)** | Parsippany, NJ, United States | On Site | Nov 16 |
-| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Media Production Intern (In- Person) Spring 2027](https://jobright.ai/jobs/info/6afb81d0c96cba79575bf870?utm_campaign=1053&utm_source=git)** | Mobile, AL, United States | On Site | Nov 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
