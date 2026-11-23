@@ -57,8 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CLD PR & Experiential Productions](https://cldstylehouse.com)** | **[Event Production Intern](https://jobright.ai/jobs/info/6b04b8b47bec27df08f93b5a?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | On Site | Nov 23 |
+| **[USAFacts](https://www.usafacts.org)** | **[Data Storytelling Intern](https://jobright.ai/jobs/info/6af221b48cbcfef4a59d96ae?utm_campaign=1053&utm_source=git)** | Bellevue, WA, United States | Hybrid | Nov 23 |
 | **[Lifeway Christian Resources](https://wordsearchbible.lifeway.com/)** | **[Summer Internship / Production Editor - Kids Ministry](https://jobright.ai/jobs/info/6b04ab6e7fd2e33bde096498?utm_campaign=1053&utm_source=git)** | Contiguous United States | Remote | Nov 23 |
 | ↳ | **[Summer Internship /Editor - Magazine & Devotionals](https://jobright.ai/jobs/info/6b04ab3f7fd2e33bde096489?utm_campaign=1053&utm_source=git)** | Contiguous United States | Remote | Nov 23 |
+| **[Daktronics](http://www.daktronics.com/en-us)** | **[James Madison University Event Production Intern](https://jobright.ai/jobs/info/6ab1a156d43eb922ca0c0329?utm_campaign=1053&utm_source=git)** | Harrisonburg, VA, United States | On Site | Nov 23 |
 | **[NBCUniversal](https://www.nbcuniversal.com)** | **[NBC Local Boston News Internships – Summer 2027](https://jobright.ai/jobs/info/6b04a04913646880439e3932?utm_campaign=1053&utm_source=git)** | Needham, MA, United States | On Site | Nov 23 |
 | ↳ | **[NBC Local Production, Editorial, and Marketing News Internships – Summer 2027](https://jobright.ai/jobs/info/6af21afe8cbcfef4a59d89d3?utm_campaign=1053&utm_source=git)** | Universal City, CA, United States | On Site | Nov 23 |
 | **[American Enterprise Institute](http://www.aei.org)** | **[Summer Intern: American History and Culture](https://jobright.ai/jobs/info/6b049cb6b4933fb9f435f6f8?utm_campaign=1053&utm_source=git)** | Washington, DC, United States | On Site | Nov 23 |
