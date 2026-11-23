@@ -140,6 +140,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Burson Summer 2027 HBSI (Client-Facing, USA Hybrid)](https://jobright.ai/jobs/info/6afb3e0c7f9ead6668e9ffaa?utm_campaign=1053&utm_source=git)** | Pittsburgh, PA, United States | Hybrid | Nov 16 |
 | ↳ | **[Burson Summer 2027 HBSI (Client-Facing, USA Hybrid)](https://jobright.ai/jobs/info/6afb3e08317abe715a2624a9?utm_campaign=1053&utm_source=git)** | Atlanta, GA, United States | Hybrid | Nov 16 |
 | ↳ | **[Burson Summer 2027 HBSI (Client-Facing, USA Hybrid)](https://jobright.ai/jobs/info/6afb3e067f9ead6668e9ffa7?utm_campaign=1053&utm_source=git)** | Washington, DC, United States | Hybrid | Nov 16 |
-| **[Acadium](http://www.acadium.com)** | **[Video Editing Intern](https://jobright.ai/jobs/info/6afb3146317abe715a26196a?utm_campaign=1053&utm_source=git)** | United States | Remote | Nov 16 |
-| **[Fresh Tape Media](http://freshtapemedia.com)** | **[Post Production Intern](https://jobright.ai/jobs/info/6afb25dd317abe715a261024?utm_campaign=1053&utm_source=git)** | Denver, CO, United States | Hybrid | Nov 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
