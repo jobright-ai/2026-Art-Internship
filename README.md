@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Emergent](https://emergent.sh)** | **[Doom Scroller Intern](https://jobright.ai/jobs/info/6b05bd8d2835ccc63ff54492?utm_campaign=1053&utm_source=git)** | United States | Remote | Nov 24 |
 | **[MATTE Projects](https://matteprojects.com/)** | **[Edit Intern - Winter/Spring 2027](https://jobright.ai/jobs/info/6ae8c12afb2cd420ace686c5?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Nov 24 |
 | **[Thomson Reuters](http://thomsonreuters.com)** | **[Reuters News Internship Program 2027 (Temp Guild) - Graphics, New York](https://jobright.ai/jobs/info/6ae8b176777c336eb6d65133?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Hybrid | Nov 24 |
 | **[True Manufacturing](https://www.truemfg.com)** | **[Video Intern](https://jobright.ai/jobs/info/6b056a4e63d280053ef829b3?utm_campaign=1053&utm_source=git)** | O'Fallon, MO, United States | Hybrid | Nov 24 |
@@ -133,5 +134,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Special Events Intern - Spring 2027 (t)](https://jobright.ai/jobs/info/6afcd317d86c15318a38e989?utm_campaign=1053&utm_source=git)** | Washington, DC, United States | Hybrid | Nov 18 |
 | **[The Aparecio Foundation](https://www.apareciofoundation.org)** | **[Volunteer/Intern:Editor of "Culture" Content in Felix](https://jobright.ai/jobs/info/6aa0a0caea127c3794698361?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | Remote | Nov 18 |
 | **[National Community Renaissance](https://nationalcore.org/)** | **[Production Studio Management Internship](https://jobright.ai/jobs/info/6afd10f956aa9772e7d56733?utm_campaign=1053&utm_source=git)** | Rancho Cucamonga, CA, United States | On Site | Nov 17 |
-| **[Blizzard Entertainment](http://blizzard.com)** | **[Blizzard 2027 Summer Internships - VFX](https://jobright.ai/jobs/info/6afcdb4cd1637502949279e3?utm_campaign=1053&utm_source=git)** | Irvine, CA, United States | On Site | Nov 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
