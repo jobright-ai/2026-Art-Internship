@@ -58,7 +58,6 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[American Enterprise Institute](http://www.aei.org)** | **[Summer Intern: Editing Services](https://jobright.ai/jobs/info/6b04d6217fd2e33bde097c5e?utm_campaign=1053&utm_source=git)** | Washington, DC, United States | On Site | Nov 23 |
-| **[Logik](https://www.logik.tv)** | **[Podcast Manager Internship — VFX / Film / Television Industry](https://jobright.ai/jobs/info/6b04c5457bec27df08f9458c?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | Remote | Nov 23 |
 | **[Lifeway Christian Resources](https://wordsearchbible.lifeway.com/)** | **[Summer Internship /Editor - Magazine & Devotionals](https://jobright.ai/jobs/info/6b04ab3f7fd2e33bde096489?utm_campaign=1053&utm_source=git)** | Contiguous United States | Remote | Nov 23 |
 | ↳ | **[Summer Internship / Production Editor - Kids Ministry](https://jobright.ai/jobs/info/6b04ab6e7fd2e33bde096498?utm_campaign=1053&utm_source=git)** | Contiguous United States | Remote | Nov 23 |
 | **[CLD PR & Experiential Productions](https://cldstylehouse.com)** | **[Event Production Intern](https://jobright.ai/jobs/info/6b04b8b47bec27df08f93b5a?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | On Site | Nov 23 |
@@ -139,6 +138,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[NBC 4 New York Production & Editorial Internships – Summer 2027](https://jobright.ai/jobs/info/6af491382278454e18c361a4?utm_campaign=1053&utm_source=git)** | New York, New York, United States | On Site | Nov 17 |
 | ↳ | **[NBC News Bureau Internships – Summer 2027](https://jobright.ai/jobs/info/6af1fc481aaffa49f737f723?utm_campaign=1053&utm_source=git)** | Universal City, California, United States | On Site | Nov 17 |
 | **[Freeman Company](https://freemancreacion.com)** | **[2027 TFC Summer Internship - Event & Exhibit Services](https://jobright.ai/jobs/info/6ac40d1b8ff3fb9b3bc83cc3?utm_campaign=1053&utm_source=git)** | Las Vegas, NV, United States | On Site | Nov 17 |
-| **[Mass General Brigham](https://www.massgeneralbrigham.org)** | **[Science Writing Intern](https://jobright.ai/jobs/info/6afb7b1a06c0aac84dd961f5?utm_campaign=1053&utm_source=git)** | United States | Remote | Nov 17 |
-| **[Future London Academy](http://futurelondonacademy.co.uk/)** | **[Event Production Intern](https://jobright.ai/jobs/info/6afc34ac07bef169f5fffde3?utm_campaign=1053&utm_source=git)** | San Francisco Bay Area, United States | On Site | Nov 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
