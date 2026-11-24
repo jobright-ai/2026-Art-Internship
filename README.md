@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[American Enterprise Institute](http://www.aei.org)** | **[Summer Intern: Editing Services](https://jobright.ai/jobs/info/6b04d6217fd2e33bde097c5e?utm_campaign=1053&utm_source=git)** | Washington, DC, United States | On Site | Nov 23 |
 | **[Logik](https://www.logik.tv)** | **[Podcast Manager Internship — VFX / Film / Television Industry](https://jobright.ai/jobs/info/6b04c5457bec27df08f9458c?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | Remote | Nov 23 |
 | **[Lifeway Christian Resources](https://wordsearchbible.lifeway.com/)** | **[Summer Internship /Editor - Magazine & Devotionals](https://jobright.ai/jobs/info/6b04ab3f7fd2e33bde096489?utm_campaign=1053&utm_source=git)** | Contiguous United States | Remote | Nov 23 |
 | ↳ | **[Summer Internship / Production Editor - Kids Ministry](https://jobright.ai/jobs/info/6b04ab6e7fd2e33bde096498?utm_campaign=1053&utm_source=git)** | Contiguous United States | Remote | Nov 23 |
