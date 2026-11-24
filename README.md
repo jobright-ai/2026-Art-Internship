@@ -59,7 +59,6 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Rodeo Austin](http://www.RodeoAustin.com)** | **[Seasonal Rodeo & Sponsorship Internship](https://jobright.ai/jobs/info/6b05f4df45a65b5da366cfd7?utm_campaign=1053&utm_source=git)** | Austin, TX, United States | On Site | Nov 24 |
 | **[Tepa Companies](https://www.tepa.com/)** | **[Multimedia Communications Intern - Summer 2027](https://jobright.ai/jobs/info/6ae925df061d6d7ff3d80cb2?utm_campaign=1053&utm_source=git)** | Kansas City, MO, United States | On Site | Nov 24 |
-| **[SmartMove Solutions](https://www.linkedin.com/company/103764286)** | **[Trading Internship for Women](https://jobright.ai/jobs/info/6b05ce7fd43f730eab596484?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | On Site | Nov 24 |
 | **[All-Star Sports Academy](https://allstarsportsacademy.com/)** | **[Videography & Photography Intern - Summer 2027](https://jobright.ai/jobs/info/6b05c37c707ad7f35053a740?utm_campaign=1053&utm_source=git)** | West Chester, PA, United States | On Site | Nov 24 |
 | **[Elite Podcast Studio](ElitePodcastStudio.com)** | **[Social Media & Content Creation Internship (Tampa, FL)](https://jobright.ai/jobs/info/6b05c2f663d280053ef84bef?utm_campaign=1053&utm_source=git)** | Odessa, FL, United States | On Site | Nov 24 |
 | **[Emergent](https://emergent.sh)** | **[Doom Scroller Intern](https://jobright.ai/jobs/info/6b05bd8d2835ccc63ff54492?utm_campaign=1053&utm_source=git)** | United States | Remote | Nov 24 |
