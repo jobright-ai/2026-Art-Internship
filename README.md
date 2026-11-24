@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Logik](https://www.logik.tv)** | **[Podcast Manager Internship — VFX / Film / Television Industry](https://jobright.ai/jobs/info/6b0520d27bec27df08f95eff?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | Remote | Nov 23 |
+| **[CITIZENS OF THE INTERNET](https://thecitizensoftheinternet.com)** | **[Media Production Intern](https://jobright.ai/jobs/info/6b051ca8b4933fb9f4362e58?utm_campaign=1053&utm_source=git)** | Houston, TX, United States | Hybrid | Nov 23 |
 | **[American Enterprise Institute](http://www.aei.org)** | **[Summer Intern: Editing Services](https://jobright.ai/jobs/info/6b04d6217fd2e33bde097c5e?utm_campaign=1053&utm_source=git)** | Washington, DC, United States | On Site | Nov 23 |
 | **[Lifeway Christian Resources](https://wordsearchbible.lifeway.com/)** | **[Summer Internship /Editor - Magazine & Devotionals](https://jobright.ai/jobs/info/6b04ab3f7fd2e33bde096489?utm_campaign=1053&utm_source=git)** | Contiguous United States | Remote | Nov 23 |
 | ↳ | **[Summer Internship / Production Editor - Kids Ministry](https://jobright.ai/jobs/info/6b04ab6e7fd2e33bde096498?utm_campaign=1053&utm_source=git)** | Contiguous United States | Remote | Nov 23 |
@@ -134,7 +136,4 @@ For a complete list, click the following sortable link below:
 | **[Black Girl Vitamins](https://blackgirlvitamins.co/)** | **[Social Media & Content Production Intern](https://jobright.ai/jobs/info/6afc9faf94232f5ac42d00fd?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | Hybrid | Nov 17 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[ETV Sports Intern - Eagan](https://jobright.ai/jobs/info/6afc8f7c63fb67454cf79b8d?utm_campaign=1053&utm_source=git)** | Eagan, MN, United States | On Site | Nov 17 |
 | **[Brennan Center for Justice](http://www.brennancenter.org/)** | **[Spring 2027 Multimedia Producer Undergraduate Internship](https://jobright.ai/jobs/info/6ac51319064da25272e14990?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Nov 17 |
-| **[NBCUniversal](https://www.nbcuniversal.com)** | **[NBC News Production & Digital Editorial Internships – Summer 2027](https://jobright.ai/jobs/info/6af3863080020ca3a89769a7?utm_campaign=1053&utm_source=git)** | Universal City, California, United States | On Site | Nov 17 |
-| ↳ | **[NBC 4 New York Production & Editorial Internships – Summer 2027](https://jobright.ai/jobs/info/6af491382278454e18c361a4?utm_campaign=1053&utm_source=git)** | New York, New York, United States | On Site | Nov 17 |
-| ↳ | **[NBC News Bureau Internships – Summer 2027](https://jobright.ai/jobs/info/6af1fc481aaffa49f737f723?utm_campaign=1053&utm_source=git)** | Universal City, California, United States | On Site | Nov 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
