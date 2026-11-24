@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Wolf Trap Foundation for the Performing Arts](https://www.wolftrap.org/)** | **[Intern, Opera Artistic Administration (Spring 2027) (32134)](https://jobright.ai/jobs/info/6abb0b061acb8fc6f09c2a88?utm_campaign=1053&utm_source=git)** | Vienna, VA, United States | On Site | Nov 23 |
 | **[Logik](https://www.logik.tv)** | **[Podcast Manager Internship — VFX / Film / Television Industry](https://jobright.ai/jobs/info/6b0520d27bec27df08f95eff?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | Remote | Nov 23 |
 | **[CITIZENS OF THE INTERNET](https://thecitizensoftheinternet.com)** | **[Media Production Intern](https://jobright.ai/jobs/info/6b051ca8b4933fb9f4362e58?utm_campaign=1053&utm_source=git)** | Houston, TX, United States | Hybrid | Nov 23 |
 | **[American Enterprise Institute](http://www.aei.org)** | **[Summer Intern: Editing Services](https://jobright.ai/jobs/info/6b04d6217fd2e33bde097c5e?utm_campaign=1053&utm_source=git)** | Washington, DC, United States | On Site | Nov 23 |
