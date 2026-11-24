@@ -135,5 +135,4 @@ For a complete list, click the following sortable link below:
 | **[Adobe](http://www.adobe.com)** | **[2027 Intern - Media & Editorial Generalist](https://jobright.ai/jobs/info/6aeb6fb6fbe13dfb53df402c?utm_campaign=1053&utm_source=git)** | San Francisco, CA, United States | On Site | Nov 17 |
 | **[University of Pikeville](http://www.upike.edu/)** | **[WS - Spring Term - INTERNSHIP – Mountain Top Media – Videographer – IWS](https://jobright.ai/jobs/info/6afcbd3d2ac165125e4cc0ce?utm_campaign=1053&utm_source=git)** | Pikeville, KY, United States | On Site | Nov 17 |
 | **[BCI Brands](https://www.bcibrands.com)** | **[Production Color Intern (Start ASAP)](https://jobright.ai/jobs/info/6a800b42e2030208f2772f2c?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Nov 17 |
-| **[Black Girl Vitamins](https://blackgirlvitamins.co/)** | **[Social Media & Content Production Intern](https://jobright.ai/jobs/info/6afc9faf94232f5ac42d00fd?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | Hybrid | Nov 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
