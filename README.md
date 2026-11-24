@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SmartMove Solutions](https://www.linkedin.com/company/103764286)** | **[Trading Internship for Women](https://jobright.ai/jobs/info/6b05ce7fd43f730eab596484?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | On Site | Nov 24 |
 | **[All-Star Sports Academy](https://allstarsportsacademy.com/)** | **[Videography & Photography Intern - Summer 2027](https://jobright.ai/jobs/info/6b05c37c707ad7f35053a740?utm_campaign=1053&utm_source=git)** | West Chester, PA, United States | On Site | Nov 24 |
 | **[Elite Podcast Studio](ElitePodcastStudio.com)** | **[Social Media & Content Creation Internship (Tampa, FL)](https://jobright.ai/jobs/info/6b05c2f663d280053ef84bef?utm_campaign=1053&utm_source=git)** | Odessa, FL, United States | On Site | Nov 24 |
 | **[Emergent](https://emergent.sh)** | **[Doom Scroller Intern](https://jobright.ai/jobs/info/6b05bd8d2835ccc63ff54492?utm_campaign=1053&utm_source=git)** | United States | Remote | Nov 24 |
@@ -135,5 +136,4 @@ For a complete list, click the following sortable link below:
 | **[Washington Performing Arts](http://www.washingtonperformingarts.org)** | **[Community Engagement Intern - Spring 2027 (t)](https://jobright.ai/jobs/info/6afcd3122ac165125e4ccf78?utm_campaign=1053&utm_source=git)** | Washington, DC, United States | Hybrid | Nov 18 |
 | ↳ | **[Special Events Intern - Spring 2027 (t)](https://jobright.ai/jobs/info/6afcd317d86c15318a38e989?utm_campaign=1053&utm_source=git)** | Washington, DC, United States | Hybrid | Nov 18 |
 | **[The Aparecio Foundation](https://www.apareciofoundation.org)** | **[Volunteer/Intern:Editor of "Culture" Content in Felix](https://jobright.ai/jobs/info/6aa0a0caea127c3794698361?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | Remote | Nov 18 |
-| **[National Community Renaissance](https://nationalcore.org/)** | **[Production Studio Management Internship](https://jobright.ai/jobs/info/6afd10f956aa9772e7d56733?utm_campaign=1053&utm_source=git)** | Rancho Cucamonga, CA, United States | On Site | Nov 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
