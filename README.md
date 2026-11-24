@@ -137,5 +137,4 @@ For a complete list, click the following sortable link below:
 | **[NBCUniversal](https://www.nbcuniversal.com)** | **[NBC News Production & Digital Editorial Internships – Summer 2027](https://jobright.ai/jobs/info/6af3863080020ca3a89769a7?utm_campaign=1053&utm_source=git)** | Universal City, California, United States | On Site | Nov 17 |
 | ↳ | **[NBC 4 New York Production & Editorial Internships – Summer 2027](https://jobright.ai/jobs/info/6af491382278454e18c361a4?utm_campaign=1053&utm_source=git)** | New York, New York, United States | On Site | Nov 17 |
 | ↳ | **[NBC News Bureau Internships – Summer 2027](https://jobright.ai/jobs/info/6af1fc481aaffa49f737f723?utm_campaign=1053&utm_source=git)** | Universal City, California, United States | On Site | Nov 17 |
-| **[Freeman Company](https://freemancreacion.com)** | **[2027 TFC Summer Internship - Event & Exhibit Services](https://jobright.ai/jobs/info/6ac40d1b8ff3fb9b3bc83cc3?utm_campaign=1053&utm_source=git)** | Las Vegas, NV, United States | On Site | Nov 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
