@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[All-Star Sports Academy](https://allstarsportsacademy.com/)** | **[Videography & Photography Intern - Summer 2027](https://jobright.ai/jobs/info/6b05c37c707ad7f35053a740?utm_campaign=1053&utm_source=git)** | West Chester, PA, United States | On Site | Nov 24 |
+| **[Elite Podcast Studio](ElitePodcastStudio.com)** | **[Social Media & Content Creation Internship (Tampa, FL)](https://jobright.ai/jobs/info/6b05c2f663d280053ef84bef?utm_campaign=1053&utm_source=git)** | Odessa, FL, United States | On Site | Nov 24 |
 | **[Emergent](https://emergent.sh)** | **[Doom Scroller Intern](https://jobright.ai/jobs/info/6b05bd8d2835ccc63ff54492?utm_campaign=1053&utm_source=git)** | United States | Remote | Nov 24 |
 | **[MATTE Projects](https://matteprojects.com/)** | **[Edit Intern - Winter/Spring 2027](https://jobright.ai/jobs/info/6ae8c12afb2cd420ace686c5?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Nov 24 |
 | **[Thomson Reuters](http://thomsonreuters.com)** | **[Reuters News Internship Program 2027 (Temp Guild) - Graphics, New York](https://jobright.ai/jobs/info/6ae8b176777c336eb6d65133?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Hybrid | Nov 24 |
