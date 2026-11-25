@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Tombras](http://tombras.com)** | **[Production Intern](https://jobright.ai/jobs/info/6b07449e20135524ca72b55e?utm_campaign=1053&utm_source=git)** | Knoxville, TN, United States | On Site | Nov 25 |
+| ↳ | **[Post-Production Intern](https://jobright.ai/jobs/info/6b073fb5b624dcc57de78d19?utm_campaign=1053&utm_source=git)** | Knoxville, TN, United States | On Site | Nov 25 |
 | **[Upptik](https://upptik.com)** | **[Content Creator Intern](https://jobright.ai/jobs/info/6b06fcd46c5083822fdc5ce9?utm_campaign=1053&utm_source=git)** | Connecticut, United States | Remote | Nov 25 |
 | **[USA Hockey](http://usahockey.com/)** | **[Intern, Hockey Development Video (summer)](https://jobright.ai/jobs/info/6b06f29cee0b2dc8c369ff97?utm_campaign=1053&utm_source=git)** | Colorado Springs, CO, United States | On Site | Nov 25 |
 | **[MATTE Projects](https://matteprojects.com/)** | **[Experiential Production Intern - Winter/Spring 2027 (On-Site)](https://jobright.ai/jobs/info/6aea203c913589212b1f3b95?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Nov 25 |
