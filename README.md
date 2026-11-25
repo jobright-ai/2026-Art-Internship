@@ -138,5 +138,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[NBC Connecticut Digital Producer Internships - Summer 2027](https://jobright.ai/jobs/info/6afdc602f170d82b3966dd03?utm_campaign=1053&utm_source=git)** | Hartford, CT, United States | On Site | Nov 18 |
 | ↳ | **[NBC Connecticut, CT LIVE! Lifestyle Program Intern - Summer 2027](https://jobright.ai/jobs/info/6afdc5f4f170d82b3966dcf2?utm_campaign=1053&utm_source=git)** | West Hartford, CT, United States | On Site | Nov 18 |
 | ↳ | **[NBC Connecticut, CT LIVE! Lifestyle Program Intern - Summer 2027](https://jobright.ai/jobs/info/6afdc2adf170d82b3966db01?utm_campaign=1053&utm_source=git)** | Hartford, CT, United States | On Site | Nov 18 |
-| ↳ | **[NBC Telemundo CT Multiplatform Creative Services Intern - Summer 2027](https://jobright.ai/jobs/info/6afdb985f170d82b3966d6e9?utm_campaign=1053&utm_source=git)** | West Hartford, CT, United States | On Site | Nov 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
