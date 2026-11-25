@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Diamond Baseball Holdings](http://diamondbaseballholdings.com/)** | **[Intern, Video Production (58567)](https://jobright.ai/jobs/info/6b0614eb45a65b5da366e28a?utm_campaign=1053&utm_source=git)** | Rome, GA, United States | On Site | Nov 24 |
 | **[Rodeo Austin](http://www.RodeoAustin.com)** | **[Seasonal Rodeo & Sponsorship Internship](https://jobright.ai/jobs/info/6b05f4df45a65b5da366cfd7?utm_campaign=1053&utm_source=git)** | Austin, TX, United States | On Site | Nov 24 |
 | **[Tepa Companies](https://www.tepa.com/)** | **[Multimedia Communications Intern - Summer 2027](https://jobright.ai/jobs/info/6ae925df061d6d7ff3d80cb2?utm_campaign=1053&utm_source=git)** | Kansas City, MO, United States | On Site | Nov 24 |
 | **[All-Star Sports Academy](https://allstarsportsacademy.com/)** | **[Videography & Photography Intern - Summer 2027](https://jobright.ai/jobs/info/6b05c37c707ad7f35053a740?utm_campaign=1053&utm_source=git)** | West Chester, PA, United States | On Site | Nov 24 |
@@ -69,6 +70,7 @@ For a complete list, click the following sortable link below:
 | **[Logik](https://www.logik.tv)** | **[Podcast Manager Internship — VFX / Film / Television Industry](https://jobright.ai/jobs/info/6b0520d27bec27df08f95eff?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | Remote | Nov 23 |
 | **[CITIZENS OF THE INTERNET](https://thecitizensoftheinternet.com)** | **[Media Production Intern](https://jobright.ai/jobs/info/6b051ca8b4933fb9f4362e58?utm_campaign=1053&utm_source=git)** | Houston, TX, United States | Hybrid | Nov 23 |
 | **[American Enterprise Institute](http://www.aei.org)** | **[Summer Intern: Editing Services](https://jobright.ai/jobs/info/6b04d6217fd2e33bde097c5e?utm_campaign=1053&utm_source=git)** | Washington, DC, United States | On Site | Nov 23 |
+| **[Blizzard Entertainment](http://blizzard.com)** | **[Blizzard 2027 Summer Internships - Animation](https://jobright.ai/jobs/info/6b06150f0e7eacd1ea645e54?utm_campaign=1053&utm_source=git)** | Irvine, CA, United States | On Site | Nov 23 |
 | **[Lifeway Christian Resources](https://wordsearchbible.lifeway.com/)** | **[Summer Internship /Editor - Magazine & Devotionals](https://jobright.ai/jobs/info/6b04ab3f7fd2e33bde096489?utm_campaign=1053&utm_source=git)** | Contiguous United States | Remote | Nov 23 |
 | ↳ | **[Summer Internship / Production Editor - Kids Ministry](https://jobright.ai/jobs/info/6b04ab6e7fd2e33bde096498?utm_campaign=1053&utm_source=git)** | Contiguous United States | Remote | Nov 23 |
 | **[CLD PR & Experiential Productions](https://cldstylehouse.com)** | **[Event Production Intern](https://jobright.ai/jobs/info/6b04b8b47bec27df08f93b5a?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | On Site | Nov 23 |
