@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Diamond Baseball Holdings](http://diamondbaseballholdings.com/)** | **[Intern, Video Production (58231)](https://jobright.ai/jobs/info/6ada92c054bbabbab0717b87?utm_campaign=1053&utm_source=git)** | Harrisburg, PA, United States | On Site | Nov 24 |
+| **[Style On The Spot](http://www.StyleOnTheSpot.com)** | **[Style On the Spot Internship](https://jobright.ai/jobs/info/6b061a670e7eacd1ea6461d0?utm_campaign=1053&utm_source=git)** | Manhattan Beach, CA, United States | On Site | Nov 24 |
 | **[Diamond Baseball Holdings](http://diamondbaseballholdings.com/)** | **[Intern, Video Production (58567)](https://jobright.ai/jobs/info/6b0614eb45a65b5da366e28a?utm_campaign=1053&utm_source=git)** | Rome, GA, United States | On Site | Nov 24 |
 | **[Rodeo Austin](http://www.RodeoAustin.com)** | **[Seasonal Rodeo & Sponsorship Internship](https://jobright.ai/jobs/info/6b05f4df45a65b5da366cfd7?utm_campaign=1053&utm_source=git)** | Austin, TX, United States | On Site | Nov 24 |
 | **[Tepa Companies](https://www.tepa.com/)** | **[Multimedia Communications Intern - Summer 2027](https://jobright.ai/jobs/info/6ae925df061d6d7ff3d80cb2?utm_campaign=1053&utm_source=git)** | Kansas City, MO, United States | On Site | Nov 24 |
@@ -67,7 +69,6 @@ For a complete list, click the following sortable link below:
 | **[Thomson Reuters](http://thomsonreuters.com)** | **[Reuters News Internship Program 2027 (Temp Guild) - Graphics, New York](https://jobright.ai/jobs/info/6ae8b176777c336eb6d65133?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Hybrid | Nov 24 |
 | **[True Manufacturing](https://www.truemfg.com)** | **[Video Intern](https://jobright.ai/jobs/info/6b056a4e63d280053ef829b3?utm_campaign=1053&utm_source=git)** | O'Fallon, MO, United States | Hybrid | Nov 24 |
 | **[Wolf Trap Foundation for the Performing Arts](https://www.wolftrap.org/)** | **[Intern, Opera Artistic Administration (Spring 2027) (32134)](https://jobright.ai/jobs/info/6abb0b061acb8fc6f09c2a88?utm_campaign=1053&utm_source=git)** | Vienna, VA, United States | On Site | Nov 23 |
-| **[Logik](https://www.logik.tv)** | **[Podcast Manager Internship — VFX / Film / Television Industry](https://jobright.ai/jobs/info/6b0520d27bec27df08f95eff?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | Remote | Nov 23 |
 | **[CITIZENS OF THE INTERNET](https://thecitizensoftheinternet.com)** | **[Media Production Intern](https://jobright.ai/jobs/info/6b051ca8b4933fb9f4362e58?utm_campaign=1053&utm_source=git)** | Houston, TX, United States | Hybrid | Nov 23 |
 | **[American Enterprise Institute](http://www.aei.org)** | **[Summer Intern: Editing Services](https://jobright.ai/jobs/info/6b04d6217fd2e33bde097c5e?utm_campaign=1053&utm_source=git)** | Washington, DC, United States | On Site | Nov 23 |
 | **[Blizzard Entertainment](http://blizzard.com)** | **[Blizzard 2027 Summer Internships - Animation](https://jobright.ai/jobs/info/6b06150f0e7eacd1ea645e54?utm_campaign=1053&utm_source=git)** | Irvine, CA, United States | On Site | Nov 23 |
@@ -104,7 +105,6 @@ For a complete list, click the following sortable link below:
 | **[DRB Homes](http://www.drbhomes.com/)** | **[Production Intern (2573)](https://jobright.ai/jobs/info/6ae35990d45dc30fb7d28a6f?utm_campaign=1053&utm_source=git)** | Franklin, Tennessee, United States | On Site | Nov 20 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid News Intern](https://jobright.ai/jobs/info/6ace590e4391691a335ac06a?utm_campaign=1053&utm_source=git)** | Wichita, KS, United States | On Site | Nov 20 |
 | **[Goddard Riverside](https://goddard.org)** | **[Archive Fall Intern](https://jobright.ai/jobs/info/6b0025a0d1fe3bc162e3a22b?utm_campaign=1053&utm_source=git)** | New York, New York, United States | On Site | Nov 20 |
-| **[Diamond Baseball Holdings](http://diamondbaseballholdings.com/)** | **[Intern, Video Production (58231)](https://jobright.ai/jobs/info/6ada92c054bbabbab0717b87?utm_campaign=1053&utm_source=git)** | Harrisburg, PA, United States | On Site | Nov 19 |
 | **[Foreign Policy](http://www.foreignpolicy.com/)** | **[Spring Multimedia Intern](https://jobright.ai/jobs/info/6b008e7689d8ca1e849573af?utm_campaign=1053&utm_source=git)** | United States | Remote | Nov 19 |
 | **[Union Home Mortgage Corp.](https://www.uhm.com/)** | **[Video Content Intern](https://jobright.ai/jobs/info/6aff7d7572b9be368529294d?utm_campaign=1053&utm_source=git)** | Strongsville, OH, United States | On Site | Nov 19 |
 | **[Wolf Trap Foundation for the Performing Arts](https://www.wolftrap.org/)** | **[Intern, Editorial Content (Spring 2027)](https://jobright.ai/jobs/info/6aff7d74b47661ae4a62d747?utm_campaign=1053&utm_source=git)** | Vienna, VA, United States | On Site | Nov 19 |
