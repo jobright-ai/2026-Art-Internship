@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Art and Wellness Enterprises](https://aweoffice.org)** | **[2027 Performance and Artist-in-Residence Summer Intern](https://jobright.ai/jobs/info/6b062a8adbad4c4bd2504d47?utm_campaign=1053&utm_source=git)** | Bentonville, AR, United States | On Site | Nov 24 |
 | **[Blizzard Entertainment](http://blizzard.com)** | **[Blizzard 2027 Summer Internships - Animation](https://jobright.ai/jobs/info/6b06150f0e7eacd1ea645e54?utm_campaign=1053&utm_source=git)** | Irvine, CA, United States | On Site | Nov 24 |
 | **[Diamond Baseball Holdings](http://diamondbaseballholdings.com/)** | **[Intern, Video Production (58231)](https://jobright.ai/jobs/info/6ada92c054bbabbab0717b87?utm_campaign=1053&utm_source=git)** | Harrisburg, PA, United States | On Site | Nov 24 |
 | **[Style On The Spot](http://www.StyleOnTheSpot.com)** | **[Style On the Spot Internship](https://jobright.ai/jobs/info/6b061a670e7eacd1ea6461d0?utm_campaign=1053&utm_source=git)** | Manhattan Beach, CA, United States | On Site | Nov 24 |
@@ -73,7 +74,6 @@ For a complete list, click the following sortable link below:
 | **[CITIZENS OF THE INTERNET](https://thecitizensoftheinternet.com)** | **[Media Production Intern](https://jobright.ai/jobs/info/6b051ca8b4933fb9f4362e58?utm_campaign=1053&utm_source=git)** | Houston, TX, United States | Hybrid | Nov 23 |
 | **[American Enterprise Institute](http://www.aei.org)** | **[Summer Intern: Editing Services](https://jobright.ai/jobs/info/6b04d6217fd2e33bde097c5e?utm_campaign=1053&utm_source=git)** | Washington, DC, United States | On Site | Nov 23 |
 | **[Granite Construction](https://www.graniteconstruction.com)** | **[Culture and Performance Intern](https://jobright.ai/jobs/info/6b0632663e56157448ed4432?utm_campaign=1053&utm_source=git)** | Watsonville, CA, United States | On Site | Nov 23 |
-| **[Art and Wellness Enterprises](https://aweoffice.org)** | **[2027 Performance and Artist-in-Residence Summer Intern](https://jobright.ai/jobs/info/6b062a8adbad4c4bd2504d47?utm_campaign=1053&utm_source=git)** | Bentonville, AR, United States | On Site | Nov 23 |
 | **[Lifeway Christian Resources](https://wordsearchbible.lifeway.com/)** | **[Summer Internship /Editor - Magazine & Devotionals](https://jobright.ai/jobs/info/6b04ab3f7fd2e33bde096489?utm_campaign=1053&utm_source=git)** | Contiguous United States | Remote | Nov 23 |
 | ↳ | **[Summer Internship / Production Editor - Kids Ministry](https://jobright.ai/jobs/info/6b04ab6e7fd2e33bde096498?utm_campaign=1053&utm_source=git)** | Contiguous United States | Remote | Nov 23 |
 | **[CLD PR & Experiential Productions](https://cldstylehouse.com)** | **[Event Production Intern](https://jobright.ai/jobs/info/6b04b8b47bec27df08f93b5a?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | On Site | Nov 23 |
@@ -138,6 +138,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[NBC Connecticut, CT LIVE! Lifestyle Program Intern - Summer 2027](https://jobright.ai/jobs/info/6afdc5f4f170d82b3966dcf2?utm_campaign=1053&utm_source=git)** | West Hartford, CT, United States | On Site | Nov 18 |
 | ↳ | **[NBC Connecticut, CT LIVE! Lifestyle Program Intern - Summer 2027](https://jobright.ai/jobs/info/6afdc2adf170d82b3966db01?utm_campaign=1053&utm_source=git)** | Hartford, CT, United States | On Site | Nov 18 |
 | ↳ | **[NBC Telemundo CT Multiplatform Creative Services Intern - Summer 2027](https://jobright.ai/jobs/info/6afdb985f170d82b3966d6e9?utm_campaign=1053&utm_source=git)** | West Hartford, CT, United States | On Site | Nov 18 |
-| **[Washington Performing Arts](http://www.washingtonperformingarts.org)** | **[Community Engagement Intern - Spring 2027 (t)](https://jobright.ai/jobs/info/6afcd3122ac165125e4ccf78?utm_campaign=1053&utm_source=git)** | Washington, DC, United States | Hybrid | Nov 18 |
-| ↳ | **[Special Events Intern - Spring 2027 (t)](https://jobright.ai/jobs/info/6afcd317d86c15318a38e989?utm_campaign=1053&utm_source=git)** | Washington, DC, United States | Hybrid | Nov 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
