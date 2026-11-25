@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[MATTE Projects](https://matteprojects.com/)** | **[Experiential Production Intern - Winter/Spring 2027 (On-Site)](https://jobright.ai/jobs/info/6aea203c913589212b1f3b95?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Nov 25 |
 | **[Art and Wellness Enterprises](https://aweoffice.org)** | **[2027 Performance and Artist-in-Residence Summer Intern](https://jobright.ai/jobs/info/6b062a8adbad4c4bd2504d47?utm_campaign=1053&utm_source=git)** | Bentonville, AR, United States | On Site | Nov 24 |
 | **[Blizzard Entertainment](http://blizzard.com)** | **[Blizzard 2027 Summer Internships - Animation](https://jobright.ai/jobs/info/6b06150f0e7eacd1ea645e54?utm_campaign=1053&utm_source=git)** | Irvine, CA, United States | On Site | Nov 24 |
 | **[Diamond Baseball Holdings](http://diamondbaseballholdings.com/)** | **[Intern, Video Production (58231)](https://jobright.ai/jobs/info/6ada92c054bbabbab0717b87?utm_campaign=1053&utm_source=git)** | Harrisburg, PA, United States | On Site | Nov 24 |
