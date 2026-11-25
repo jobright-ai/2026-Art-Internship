@@ -57,8 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Upptik](https://upptik.com)** | **[Content Creator Intern](https://jobright.ai/jobs/info/6b06fcd46c5083822fdc5ce9?utm_campaign=1053&utm_source=git)** | Connecticut, United States | Remote | Nov 25 |
 | **[USA Hockey](http://usahockey.com/)** | **[Intern, Hockey Development Video (summer)](https://jobright.ai/jobs/info/6b06f29cee0b2dc8c369ff97?utm_campaign=1053&utm_source=git)** | Colorado Springs, CO, United States | On Site | Nov 25 |
 | **[MATTE Projects](https://matteprojects.com/)** | **[Experiential Production Intern - Winter/Spring 2027 (On-Site)](https://jobright.ai/jobs/info/6aea203c913589212b1f3b95?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Nov 25 |
+| **[Pinehurst Resort](https://www.pinehurst.com/)** | **[Golf Course Maintenance Intern-No 11-Seasonal](https://jobright.ai/jobs/info/6b06fc192c2b1d2eebe110df?utm_campaign=1053&utm_source=git)** | Pinehurst, NC, United States | On Site | Nov 24 |
 | **[Art and Wellness Enterprises](https://aweoffice.org)** | **[2027 Performance and Artist-in-Residence Summer Intern](https://jobright.ai/jobs/info/6b062a8adbad4c4bd2504d47?utm_campaign=1053&utm_source=git)** | Bentonville, AR, United States | On Site | Nov 24 |
 | **[Blizzard Entertainment](http://blizzard.com)** | **[Blizzard 2027 Summer Internships - Animation](https://jobright.ai/jobs/info/6b06150f0e7eacd1ea645e54?utm_campaign=1053&utm_source=git)** | Irvine, CA, United States | On Site | Nov 24 |
 | **[Diamond Baseball Holdings](http://diamondbaseballholdings.com/)** | **[Intern, Video Production (58231)](https://jobright.ai/jobs/info/6ada92c054bbabbab0717b87?utm_campaign=1053&utm_source=git)** | Harrisburg, PA, United States | On Site | Nov 24 |
@@ -125,8 +127,4 @@ For a complete list, click the following sortable link below:
 | **[Sony Electronics](http://www.sony.com)** | **[Intern, Film & TV Sync](https://jobright.ai/jobs/info/6afe09de758942b6422b6bae?utm_campaign=1053&utm_source=git)** | Hollywood, California, United States | On Site | Nov 18 |
 | **[Princess Cruises](http://www.princess.com)** | **[Intern, Video Production & Live Broadcast (CCL)](https://jobright.ai/jobs/info/6afe59f84ab3081626ab0edc?utm_campaign=1053&utm_source=git)** | Miami, FL, United States | On Site | Nov 18 |
 | **[Carnival Corporation](http://carnivalcorp.com)** | **[Intern, Video Production & Live Broadcast (CCL)](https://jobright.ai/jobs/info/6afe73f6f170d82b39673c89?utm_campaign=1053&utm_source=git)** | Miami, FL, United States | On Site | Nov 18 |
-| **[Formlabs](http://www.formlabs.com)** | **[Video Content Creator Intern (Summer 2027)](https://jobright.ai/jobs/info/6afe22638cffea7c97c906e2?utm_campaign=1053&utm_source=git)** | Somerville, MA, United States | On Site | Nov 18 |
-| **[Bellevue University](https://www.bellevue.edu/)** | **[Community Events Intern](https://jobright.ai/jobs/info/6afe3c59f170d82b39672b5d?utm_campaign=1053&utm_source=git)** | Bellevue, NE, United States | On Site | Nov 18 |
-| **[Adobe](http://www.adobe.com)** | **[2027 Intern - Video Production](https://jobright.ai/jobs/info/6aff384e97dcc4fc8dca9ed6?utm_campaign=1053&utm_source=git)** | San Francisco, CA, United States | Hybrid | Nov 18 |
-| **[Wilson Sporting Goods Co.](http://www.wilson.com)** | **[Digital AEO Intern](https://jobright.ai/jobs/info/6afe051f8cffea7c97c8f5d9?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | Hybrid | Nov 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
