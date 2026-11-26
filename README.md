@@ -123,5 +123,4 @@ For a complete list, click the following sortable link below:
 | **[Carnival Cruise Line](http://www.carnival.com)** | **[Intern, Video Production & Live Broadcast (CCL)](https://jobright.ai/jobs/info/6aff3cee72b9be368528fcdb?utm_campaign=1053&utm_source=git)** | Miami, FL, United States | Hybrid | Nov 19 |
 | **[University of Pikeville](http://www.upike.edu/)** | **[WS - Spring Term - INTERNSHIP – Mountain Top Media – Sports Media Assistant – IWS](https://jobright.ai/jobs/info/6aff0c3297dcc4fc8dca821a?utm_campaign=1053&utm_source=git)** | Pikeville, KY, United States | On Site | Nov 19 |
 | **[Downtown Sioux Falls, Inc.](https://dtsf.com)** | **[Events Internship - Summer 2027](https://jobright.ai/jobs/info/6aff231772b9be368528eb4d?utm_campaign=1053&utm_source=git)** | Sioux Falls, SD, United States | On Site | Nov 19 |
-| **[Relativity Space](http://relativityspace.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/6ac53336d9621c5b283a3d34?utm_campaign=1053&utm_source=git)** | Long Beach, CA, United States | On Site | Nov 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
