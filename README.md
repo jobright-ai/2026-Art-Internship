@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Girl Scouts of Citrus Council](https://www.citrus-gs.org/)** | **[Position: Intern for the Girl Scout Experience Team](https://jobright.ai/jobs/info/6aaaaea78e1bf0f764af5a6c?utm_campaign=1053&utm_source=git)** | Orlando, FL, United States | On Site | Nov 26 |
 | **[Toyon Research Corporation](http://toyon.com)** | **[Video Labeling Intern](https://jobright.ai/jobs/info/6a9902cadd171c7285793716?utm_campaign=1053&utm_source=git)** | Goleta, CA, United States | On Site | Nov 26 |
 | **[WMUR-TV](http://www.wmur.com/)** | **[Creative Services Intern](https://jobright.ai/jobs/info/6aebb3c082f0ac077443c597?utm_campaign=1053&utm_source=git)** | Manchester, NH, United States | On Site | Nov 26 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid News Intern](https://jobright.ai/jobs/info/6ace590e4391691a335ac06a?utm_campaign=1053&utm_source=git)** | Wichita, KS, United States | On Site | Nov 26 |
@@ -68,7 +69,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Creative Services Intern](https://jobright.ai/jobs/info/6b07ed2d58da992a6cc0ac81?utm_campaign=1053&utm_source=git)** | Manchester, NH, United States | On Site | Nov 26 |
 | ↳ | **[Houston Chronicle Visuals Internship - Summer 2027](https://jobright.ai/jobs/info/6b07ed2b879b90d610783512?utm_campaign=1053&utm_source=git)** | Houston, TX, United States | Hybrid | Nov 26 |
 | **[City of Oklahoma City](https://www.okc.gov/)** | **[Intern (Part-Time/Year-Round) - City](https://jobright.ai/jobs/info/6b07d651b3faf721756d745f?utm_campaign=1053&utm_source=git)** | Oklahoma City, OK, United States | On Site | Nov 25 |
-| **[Girl Scouts of Citrus Council](https://www.citrus-gs.org/)** | **[Intern for the Girl Scout Experience Team](https://jobright.ai/jobs/info/6aaaaea78e1bf0f764af5a6c?utm_campaign=1053&utm_source=git)** | Orlando, FL, United States | On Site | Nov 25 |
 | **[Tombras](http://tombras.com)** | **[Post-Production Intern](https://jobright.ai/jobs/info/6b073fb5b624dcc57de78d19?utm_campaign=1053&utm_source=git)** | Knoxville, TN, United States | On Site | Nov 25 |
 | ↳ | **[Production Intern](https://jobright.ai/jobs/info/6b07449e20135524ca72b55e?utm_campaign=1053&utm_source=git)** | Knoxville, TN, United States | On Site | Nov 25 |
 | **[VOX ATL](https://voxatl.org)** | **[Poetry @ VOX Near Peer Intern](https://jobright.ai/jobs/info/6b074a5808b131a5c6579679?utm_campaign=1053&utm_source=git)** | Atlanta, GA, United States | On Site | Nov 25 |
@@ -81,8 +81,7 @@ For a complete list, click the following sortable link below:
 | **[Art and Wellness Enterprises](https://aweoffice.org)** | **[2027 Performance and Artist-in-Residence Summer Intern](https://jobright.ai/jobs/info/6b062a8adbad4c4bd2504d47?utm_campaign=1053&utm_source=git)** | Bentonville, AR, United States | On Site | Nov 24 |
 | **[Blizzard Entertainment](http://blizzard.com)** | **[Blizzard 2027 Summer Internships - Animation](https://jobright.ai/jobs/info/6b06150f0e7eacd1ea645e54?utm_campaign=1053&utm_source=git)** | Irvine, CA, United States | On Site | Nov 24 |
 | **[Diamond Baseball Holdings](http://diamondbaseballholdings.com/)** | **[Intern, Video Production (58231)](https://jobright.ai/jobs/info/6ada92c054bbabbab0717b87?utm_campaign=1053&utm_source=git)** | Harrisburg, PA, United States | On Site | Nov 24 |
-| **[Style On The Spot](http://www.StyleOnTheSpot.com)** | **[Style On the Spot Internship](https://jobright.ai/jobs/info/6b061a670e7eacd1ea6461d0?utm_campaign=1053&utm_source=git)** | Manhattan Beach, CA, United States | On Site | Nov 24 |
-| **[Diamond Baseball Holdings](http://diamondbaseballholdings.com/)** | **[Intern, Video Production (58567)](https://jobright.ai/jobs/info/6b0614eb45a65b5da366e28a?utm_campaign=1053&utm_source=git)** | Rome, GA, United States | On Site | Nov 24 |
+| ↳ | **[Intern, Video Production (58567)](https://jobright.ai/jobs/info/6b0614eb45a65b5da366e28a?utm_campaign=1053&utm_source=git)** | Rome, GA, United States | On Site | Nov 24 |
 | **[Tepa Companies](https://www.tepa.com/)** | **[Multimedia Communications Intern - Summer 2027](https://jobright.ai/jobs/info/6ae925df061d6d7ff3d80cb2?utm_campaign=1053&utm_source=git)** | Kansas City, MO, United States | On Site | Nov 24 |
 | **[All-Star Sports Academy](https://allstarsportsacademy.com/)** | **[Videography & Photography Intern - Summer 2027](https://jobright.ai/jobs/info/6b05c37c707ad7f35053a740?utm_campaign=1053&utm_source=git)** | West Chester, PA, United States | On Site | Nov 24 |
 | **[Emergent](https://emergent.sh)** | **[Doom Scroller Intern](https://jobright.ai/jobs/info/6b05bd8d2835ccc63ff54492?utm_campaign=1053&utm_source=git)** | United States | Remote | Nov 24 |
