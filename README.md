@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[City of Oklahoma City](https://www.okc.gov/)** | **[Intern (Part-Time/Year-Round) - City](https://jobright.ai/jobs/info/6b07d651b3faf721756d745f?utm_campaign=1053&utm_source=git)** | Oklahoma City, OK, United States | On Site | Nov 25 |
 | **[Girl Scouts of Citrus Council](https://www.citrus-gs.org/)** | **[Intern for the Girl Scout Experience Team](https://jobright.ai/jobs/info/6aaaaea78e1bf0f764af5a6c?utm_campaign=1053&utm_source=git)** | Orlando, FL, United States | On Site | Nov 25 |
 | **[Tombras](http://tombras.com)** | **[Post-Production Intern](https://jobright.ai/jobs/info/6b073fb5b624dcc57de78d19?utm_campaign=1053&utm_source=git)** | Knoxville, TN, United States | On Site | Nov 25 |
 | ↳ | **[Production Intern](https://jobright.ai/jobs/info/6b07449e20135524ca72b55e?utm_campaign=1053&utm_source=git)** | Knoxville, TN, United States | On Site | Nov 25 |
