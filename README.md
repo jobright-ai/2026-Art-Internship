@@ -57,10 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Girl Scouts of Citrus Council](https://www.citrus-gs.org/)** | **[Intern for the Girl Scout Experience Team](https://jobright.ai/jobs/info/6aaaaea78e1bf0f764af5a6c?utm_campaign=1053&utm_source=git)** | Orlando, FL, United States | On Site | Nov 25 |
+| **[Tombras](http://tombras.com)** | **[Post-Production Intern](https://jobright.ai/jobs/info/6b073fb5b624dcc57de78d19?utm_campaign=1053&utm_source=git)** | Knoxville, TN, United States | On Site | Nov 25 |
+| ↳ | **[Production Intern](https://jobright.ai/jobs/info/6b07449e20135524ca72b55e?utm_campaign=1053&utm_source=git)** | Knoxville, TN, United States | On Site | Nov 25 |
 | **[VOX ATL](https://voxatl.org)** | **[Poetry @ VOX Near Peer Intern](https://jobright.ai/jobs/info/6b074a5808b131a5c6579679?utm_campaign=1053&utm_source=git)** | Atlanta, GA, United States | On Site | Nov 25 |
 | ↳ | **[Atlanta Teen Voices Journalism Fellowship Near-Peer Intern](https://jobright.ai/jobs/info/6af4a22a2278454e18c36fc8?utm_campaign=1053&utm_source=git)** | Atlanta, GA, United States | On Site | Nov 25 |
-| **[Tombras](http://tombras.com)** | **[Production Intern](https://jobright.ai/jobs/info/6b07449e20135524ca72b55e?utm_campaign=1053&utm_source=git)** | Knoxville, TN, United States | On Site | Nov 25 |
-| ↳ | **[Post-Production Intern](https://jobright.ai/jobs/info/6b073fb5b624dcc57de78d19?utm_campaign=1053&utm_source=git)** | Knoxville, TN, United States | On Site | Nov 25 |
 | **[Pinehurst Resort](https://www.pinehurst.com/)** | **[Golf Course Maintenance Intern-No 11-Seasonal](https://jobright.ai/jobs/info/6b06fc192c2b1d2eebe110df?utm_campaign=1053&utm_source=git)** | Pinehurst, NC, United States | On Site | Nov 25 |
 | **[Upptik](https://upptik.com)** | **[Content Creator Intern](https://jobright.ai/jobs/info/6b06fcd46c5083822fdc5ce9?utm_campaign=1053&utm_source=git)** | Connecticut, United States | Remote | Nov 25 |
 | **[USA Hockey](http://usahockey.com/)** | **[Intern, Hockey Development Video (summer)](https://jobright.ai/jobs/info/6b06f29cee0b2dc8c369ff97?utm_campaign=1053&utm_source=git)** | Colorado Springs, CO, United States | On Site | Nov 25 |
@@ -78,7 +79,6 @@ For a complete list, click the following sortable link below:
 | **[Thomson Reuters](http://thomsonreuters.com)** | **[Reuters News Internship Program 2027 (Temp Guild) - Graphics, New York](https://jobright.ai/jobs/info/6ae8b176777c336eb6d65133?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Hybrid | Nov 24 |
 | **[True Manufacturing](https://www.truemfg.com)** | **[Video Intern](https://jobright.ai/jobs/info/6b056a4e63d280053ef829b3?utm_campaign=1053&utm_source=git)** | O'Fallon, MO, United States | Hybrid | Nov 24 |
 | **[Wolf Trap Foundation for the Performing Arts](https://www.wolftrap.org/)** | **[Intern, Opera Artistic Administration (Spring 2027) (32134)](https://jobright.ai/jobs/info/6abb0b061acb8fc6f09c2a88?utm_campaign=1053&utm_source=git)** | Vienna, VA, United States | On Site | Nov 23 |
-| **[CITIZENS OF THE INTERNET](https://thecitizensoftheinternet.com)** | **[Media Production Intern](https://jobright.ai/jobs/info/6b051ca8b4933fb9f4362e58?utm_campaign=1053&utm_source=git)** | Houston, TX, United States | Hybrid | Nov 23 |
 | **[American Enterprise Institute](http://www.aei.org)** | **[Summer Intern: Editing Services](https://jobright.ai/jobs/info/6b04d6217fd2e33bde097c5e?utm_campaign=1053&utm_source=git)** | Washington, DC, United States | On Site | Nov 23 |
 | **[Granite Construction](https://www.graniteconstruction.com)** | **[Culture and Performance Intern](https://jobright.ai/jobs/info/6b0632663e56157448ed4432?utm_campaign=1053&utm_source=git)** | Watsonville, CA, United States | On Site | Nov 23 |
 | **[Lifeway Christian Resources](https://wordsearchbible.lifeway.com/)** | **[Summer Internship /Editor - Magazine & Devotionals](https://jobright.ai/jobs/info/6b04ab3f7fd2e33bde096489?utm_campaign=1053&utm_source=git)** | Contiguous United States | Remote | Nov 23 |
@@ -124,5 +124,4 @@ For a complete list, click the following sortable link below:
 | **[University of Pikeville](http://www.upike.edu/)** | **[WS - Spring Term - INTERNSHIP – Mountain Top Media – Sports Media Assistant – IWS](https://jobright.ai/jobs/info/6aff0c3297dcc4fc8dca821a?utm_campaign=1053&utm_source=git)** | Pikeville, KY, United States | On Site | Nov 19 |
 | **[Downtown Sioux Falls, Inc.](https://dtsf.com)** | **[Events Internship - Summer 2027](https://jobright.ai/jobs/info/6aff231772b9be368528eb4d?utm_campaign=1053&utm_source=git)** | Sioux Falls, SD, United States | On Site | Nov 19 |
 | **[Relativity Space](http://relativityspace.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/6ac53336d9621c5b283a3d34?utm_campaign=1053&utm_source=git)** | Long Beach, CA, United States | On Site | Nov 19 |
-| **[Trimble Inc.](https://www.trimble.com/)** | **[Video Production Intern](https://jobright.ai/jobs/info/6ae275b305a39c3e2c71a9e3?utm_campaign=1053&utm_source=git)** | Dayton, OH, United States | On Site | Nov 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
