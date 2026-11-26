@@ -122,5 +122,4 @@ For a complete list, click the following sortable link below:
 | **[Meridian International Center](http://www.meridian.org)** | **[Intern, Center for Culture & Sport Diplomacy](https://jobright.ai/jobs/info/6aff708c865dbcc3f26fc4cd?utm_campaign=1053&utm_source=git)** | Washington, DC, United States | On Site | Nov 20 |
 | **[DRB Homes](http://www.drbhomes.com/)** | **[Production Intern (2573)](https://jobright.ai/jobs/info/6ae35990d45dc30fb7d28a6f?utm_campaign=1053&utm_source=git)** | Franklin, Tennessee, United States | On Site | Nov 20 |
 | **[Goddard Riverside](https://goddard.org)** | **[Archive Fall Intern](https://jobright.ai/jobs/info/6b0025a0d1fe3bc162e3a22b?utm_campaign=1053&utm_source=git)** | New York, New York, United States | On Site | Nov 20 |
-| **[Foreign Policy](http://www.foreignpolicy.com/)** | **[Spring Multimedia Intern](https://jobright.ai/jobs/info/6b008e7689d8ca1e849573af?utm_campaign=1053&utm_source=git)** | United States | Remote | Nov 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
