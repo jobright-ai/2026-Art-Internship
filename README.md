@@ -58,8 +58,8 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[WMUR-TV](http://www.wmur.com/)** | **[Creative Services Intern](https://jobright.ai/jobs/info/6aebb3c082f0ac077443c597?utm_campaign=1053&utm_source=git)** | Manchester, NH, United States | On Site | Nov 26 |
-| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid News Intern](https://jobright.ai/jobs/info/6ace590e4391691a335ac06a?utm_campaign=1053&utm_source=git)** | Wichita, KS, United States | On Site | Nov 26 |
-| ↳ | **[Unpaid Intern](https://jobright.ai/jobs/info/6a9674f7455eaf6a08c17881?utm_campaign=1053&utm_source=git)** | Peoria, IL, United States | On Site | Nov 26 |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Intern](https://jobright.ai/jobs/info/6a9674f7455eaf6a08c17881?utm_campaign=1053&utm_source=git)** | Peoria, IL, United States | On Site | Nov 26 |
+| ↳ | **[Unpaid News Intern](https://jobright.ai/jobs/info/6ace590e4391691a335ac06a?utm_campaign=1053&utm_source=git)** | Wichita, KS, United States | On Site | Nov 26 |
 | **[Ripken Baseball](https://www.ripkenbaseball.com)** | **[Spring Tournament Operations Intern](https://jobright.ai/jobs/info/6b0822020bd5d5fe945f386d?utm_campaign=1053&utm_source=git)** | Pigeon Forge, TN, United States | On Site | Nov 26 |
 | **[Unrivaled Sports](https://www.unrivaledsports.com)** | **[Events and Experiences Internship](https://jobright.ai/jobs/info/6af590bc79862a378dcec808?utm_campaign=1053&utm_source=git)** | Oneonta, NY, United States | On Site | Nov 26 |
 | **[Federal Reserve Bank of San Francisco](http://www.frbsf.org)** | **[Federal Reserve Summer 2027 Economics Writing and Analysis Internship](https://jobright.ai/jobs/info/6ab28e061e4847ddae914c13?utm_campaign=1053&utm_source=git)** | Richmond, VA, United States | On Site | Nov 26 |
@@ -123,6 +123,4 @@ For a complete list, click the following sortable link below:
 | **[DRB Homes](http://www.drbhomes.com/)** | **[Production Intern (2573)](https://jobright.ai/jobs/info/6ae35990d45dc30fb7d28a6f?utm_campaign=1053&utm_source=git)** | Franklin, Tennessee, United States | On Site | Nov 20 |
 | **[Goddard Riverside](https://goddard.org)** | **[Archive Fall Intern](https://jobright.ai/jobs/info/6b0025a0d1fe3bc162e3a22b?utm_campaign=1053&utm_source=git)** | New York, New York, United States | On Site | Nov 20 |
 | **[Foreign Policy](http://www.foreignpolicy.com/)** | **[Spring Multimedia Intern](https://jobright.ai/jobs/info/6b008e7689d8ca1e849573af?utm_campaign=1053&utm_source=git)** | United States | Remote | Nov 19 |
-| **[Union Home Mortgage Corp.](https://www.uhm.com/)** | **[Video Content Intern](https://jobright.ai/jobs/info/6aff7d7572b9be368529294d?utm_campaign=1053&utm_source=git)** | Strongsville, OH, United States | On Site | Nov 19 |
-| **[Wolf Trap Foundation for the Performing Arts](https://www.wolftrap.org/)** | **[Intern, Editorial Content (Spring 2027)](https://jobright.ai/jobs/info/6aff7d74b47661ae4a62d747?utm_campaign=1053&utm_source=git)** | Vienna, VA, United States | On Site | Nov 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
