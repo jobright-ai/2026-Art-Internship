@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hearst](http://www.hearst.com)** | **[Audience Intern - Summer 2027](https://jobright.ai/jobs/info/6b07ed4058da992a6cc0ac8d?utm_campaign=1053&utm_source=git)** | Houston, TX, United States | Hybrid | Nov 26 |
+| ↳ | **[Creative Services Intern](https://jobright.ai/jobs/info/6b07ed2d58da992a6cc0ac81?utm_campaign=1053&utm_source=git)** | Manchester, NH, United States | On Site | Nov 26 |
+| ↳ | **[Houston Chronicle Visuals Internship - Summer 2027](https://jobright.ai/jobs/info/6b07ed2b879b90d610783512?utm_campaign=1053&utm_source=git)** | Houston, TX, United States | Hybrid | Nov 26 |
 | **[City of Oklahoma City](https://www.okc.gov/)** | **[Intern (Part-Time/Year-Round) - City](https://jobright.ai/jobs/info/6b07d651b3faf721756d745f?utm_campaign=1053&utm_source=git)** | Oklahoma City, OK, United States | On Site | Nov 25 |
 | **[Girl Scouts of Citrus Council](https://www.citrus-gs.org/)** | **[Intern for the Girl Scout Experience Team](https://jobright.ai/jobs/info/6aaaaea78e1bf0f764af5a6c?utm_campaign=1053&utm_source=git)** | Orlando, FL, United States | On Site | Nov 25 |
 | **[Tombras](http://tombras.com)** | **[Post-Production Intern](https://jobright.ai/jobs/info/6b073fb5b624dcc57de78d19?utm_campaign=1053&utm_source=git)** | Knoxville, TN, United States | On Site | Nov 25 |
@@ -122,6 +125,4 @@ For a complete list, click the following sortable link below:
 | **[Houston Livestock Show and Rodeo](https://www.rodeohouston.com/)** | **[Intern](https://jobright.ai/jobs/info/6aff50d997dcc4fc8dcaae8b?utm_campaign=1053&utm_source=git)** | Houston, TX, United States | On Site | Nov 19 |
 | **[Art and Wellness Enterprises](https://aweoffice.org)** | **[2027 Art Management Summer Intern](https://jobright.ai/jobs/info/6ae8b168a2a252e21942846d?utm_campaign=1053&utm_source=git)** | Bentonville, AR, United States | On Site | Nov 19 |
 | **[Carnival Cruise Line](http://www.carnival.com)** | **[Intern, Video Production & Live Broadcast (CCL)](https://jobright.ai/jobs/info/6aff3cee72b9be368528fcdb?utm_campaign=1053&utm_source=git)** | Miami, FL, United States | Hybrid | Nov 19 |
-| **[University of Pikeville](http://www.upike.edu/)** | **[WS - Spring Term - INTERNSHIP – Mountain Top Media – Sports Media Assistant – IWS](https://jobright.ai/jobs/info/6aff0c3297dcc4fc8dca821a?utm_campaign=1053&utm_source=git)** | Pikeville, KY, United States | On Site | Nov 19 |
-| **[Downtown Sioux Falls, Inc.](https://dtsf.com)** | **[Events Internship - Summer 2027](https://jobright.ai/jobs/info/6aff231772b9be368528eb4d?utm_campaign=1053&utm_source=git)** | Sioux Falls, SD, United States | On Site | Nov 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
