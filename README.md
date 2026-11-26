@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Federal Reserve Bank of San Francisco](http://www.frbsf.org)** | **[Federal Reserve Summer 2027 Economics Writing and Analysis Internship](https://jobright.ai/jobs/info/6ab28e061e4847ddae914c13?utm_campaign=1053&utm_source=git)** | Richmond, VA, United States | On Site | Nov 26 |
 | **[Hearst](http://www.hearst.com)** | **[Audience Intern - Summer 2027](https://jobright.ai/jobs/info/6b07ed4058da992a6cc0ac8d?utm_campaign=1053&utm_source=git)** | Houston, TX, United States | Hybrid | Nov 26 |
 | ↳ | **[Creative Services Intern](https://jobright.ai/jobs/info/6b07ed2d58da992a6cc0ac81?utm_campaign=1053&utm_source=git)** | Manchester, NH, United States | On Site | Nov 26 |
 | ↳ | **[Houston Chronicle Visuals Internship - Summer 2027](https://jobright.ai/jobs/info/6b07ed2b879b90d610783512?utm_campaign=1053&utm_source=git)** | Houston, TX, United States | Hybrid | Nov 26 |
@@ -122,5 +123,4 @@ For a complete list, click the following sortable link below:
 | **[Union Home Mortgage Corp.](https://www.uhm.com/)** | **[Video Content Intern](https://jobright.ai/jobs/info/6aff7d7572b9be368529294d?utm_campaign=1053&utm_source=git)** | Strongsville, OH, United States | On Site | Nov 19 |
 | **[Wolf Trap Foundation for the Performing Arts](https://www.wolftrap.org/)** | **[Intern, Editorial Content (Spring 2027)](https://jobright.ai/jobs/info/6aff7d74b47661ae4a62d747?utm_campaign=1053&utm_source=git)** | Vienna, VA, United States | On Site | Nov 19 |
 | **[American Fidelity](http://www.americanfidelity.com)** | **[Videographer Intern](https://jobright.ai/jobs/info/6aff774f865dbcc3f26fc8e3?utm_campaign=1053&utm_source=git)** | Oklahoma City, OK, United States | On Site | Nov 19 |
-| **[Houston Livestock Show and Rodeo](https://www.rodeohouston.com/)** | **[Intern](https://jobright.ai/jobs/info/6aff50d997dcc4fc8dcaae8b?utm_campaign=1053&utm_source=git)** | Houston, TX, United States | On Site | Nov 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
