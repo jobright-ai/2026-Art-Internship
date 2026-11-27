@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Inspire](https://inspirebrands.com)** | **[Production Intern, Maverick Studios Content Kitchen - Summer 2027](https://jobright.ai/jobs/info/6b00d9430ae14188d58c1e82?utm_campaign=1053&utm_source=git)** | Atlanta, Georgia, United States | On Site | Nov 27 |
 | **[TikTok](https://www.tiktok.com)** | **[Creator LIVE Project Intern (TikTok Shop - US Operation) - 2026 Start](https://jobright.ai/jobs/info/6a6d59e966158d7ef887d420?utm_campaign=1053&utm_source=git)** | Los Angeles, United States | On Site | Nov 27 |
 | **[SiriusXM](http://siriusxm.com)** | **[Spring Intern, Podcast Producer - Part Time](https://jobright.ai/jobs/info/6b08d07603dd5bd15ba485af?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | On Site | Nov 26 |
 | **[Girl Scouts of Citrus Council](https://www.citrus-gs.org/)** | **[Position: Intern for the Girl Scout Experience Team](https://jobright.ai/jobs/info/6aaaaea78e1bf0f764af5a6c?utm_campaign=1053&utm_source=git)** | Orlando, FL, United States | On Site | Nov 26 |
@@ -119,6 +120,4 @@ For a complete list, click the following sortable link below:
 | **[Crystal Dynamics](http://crystald.com)** | **[Cinematic Presentation Animation Intern [Spring 2027]](https://jobright.ai/jobs/info/6b00c1a6e0dc96195928402d?utm_campaign=1053&utm_source=git)** | United States | Remote | Nov 20 |
 | **[Clark Art Institute](http://www.clarkart.edu)** | **[Rodgers' Spring Intern- Special Events](https://jobright.ai/jobs/info/6b00b09fd1fe3bc162e3df53?utm_campaign=1053&utm_source=git)** | Williamstown, Massachusetts, United States | On Site | Nov 20 |
 | **[Sonnenalp Hotel of Vail](https://www.sonnenalp.com)** | **[Golf Club PGA Intern](https://jobright.ai/jobs/info/6b00ab8ee0dc9619592830ad?utm_campaign=1053&utm_source=git)** | Edwards, CO, United States | On Site | Nov 20 |
-| **[Cal Alumni Association | UC Berkeley](http://alumni.berkeley.edu)** | **[California Magazine, Student Editorial Intern](https://jobright.ai/jobs/info/6affe420dd029d798066efd1?utm_campaign=1053&utm_source=git)** | Berkeley, CA, United States | Hybrid | Nov 20 |
-| **[Wisconsin State Golf Association](https://wsga.org)** | **[2027 PJ Boatwright Jr Internship (Tournament Operations)](https://jobright.ai/jobs/info/6b009b4cdfa58e4c244dcc94?utm_campaign=1053&utm_source=git)** | Milwaukee, WI, United States | On Site | Nov 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
