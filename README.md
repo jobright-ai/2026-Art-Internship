@@ -114,7 +114,4 @@ For a complete list, click the following sortable link below:
 | **[Obsidian Entertainment](http://www.obsidian.net/)** | **[VFX Artist - 2027 Summer Internship](https://jobright.ai/jobs/info/6ae4d4b8d45dc30fb7d32b23?utm_campaign=1053&utm_source=git)** | Irvine, CA, United States | On Site | Nov 21 |
 | **[Penn State University](http://www.psu.edu/)** | **[Part-Time Videography Intern – CEE](https://jobright.ai/jobs/info/6b00ab9f89d8ca1e84958504?utm_campaign=1053&utm_source=git)** | University Park, Pennsylvania, United States | On Site | Nov 20 |
 | **[TAIT](http://www.taittowers.com)** | **[Production Intern, Experience](https://jobright.ai/jobs/info/6b0062660f536e0ba7273697?utm_campaign=1053&utm_source=git)** | Lititz, PA, United States | Hybrid | Nov 20 |
-| **[Barnes Foundation](http://www.barnesfoundation.org)** | **[Summer Intern: Editorial & Publications](https://jobright.ai/jobs/info/6b00b4610f536e0ba727680c?utm_campaign=1053&utm_source=git)** | Philadelphia, PA, United States | On Site | Nov 20 |
-| ↳ | **[Summer Intern: Archives](https://jobright.ai/jobs/info/6b00cdbcdf73191d2e6aed78?utm_campaign=1053&utm_source=git)** | Philadelphia, PA, United States | On Site | Nov 20 |
-| ↳ | **[Summer Internship: Calder Gardens Public Prog](https://jobright.ai/jobs/info/6b00b46f3a9a0230ab029e93?utm_campaign=1053&utm_source=git)** | Philadelphia, PA, United States | On Site | Nov 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
