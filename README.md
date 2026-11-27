@@ -121,5 +121,4 @@ For a complete list, click the following sortable link below:
 | **[Cal Alumni Association | UC Berkeley](http://alumni.berkeley.edu)** | **[California Magazine, Student Editorial Intern](https://jobright.ai/jobs/info/6affe420dd029d798066efd1?utm_campaign=1053&utm_source=git)** | Berkeley, CA, United States | Hybrid | Nov 20 |
 | **[Wisconsin State Golf Association](https://wsga.org)** | **[2027 PJ Boatwright Jr Internship (Tournament Operations)](https://jobright.ai/jobs/info/6b009b4cdfa58e4c244dcc94?utm_campaign=1053&utm_source=git)** | Milwaukee, WI, United States | On Site | Nov 20 |
 | **[Meridian International Center](http://www.meridian.org)** | **[Intern, Center for Culture & Sport Diplomacy](https://jobright.ai/jobs/info/6aff708c865dbcc3f26fc4cd?utm_campaign=1053&utm_source=git)** | Washington, DC, United States | On Site | Nov 20 |
-| **[DRB Homes](http://www.drbhomes.com/)** | **[Production Intern (2573)](https://jobright.ai/jobs/info/6ae35990d45dc30fb7d28a6f?utm_campaign=1053&utm_source=git)** | Franklin, Tennessee, United States | On Site | Nov 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
