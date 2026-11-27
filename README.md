@@ -57,8 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Houston Chronicle](http://www.houstonchronicle.com/)** | **[Audience Intern - Summer 2027](https://jobright.ai/jobs/info/6aeca652465e3d23713802c0?utm_campaign=1053&utm_source=git)** | Houston, TX, United States | Hybrid | Nov 27 |
+| ↳ | **[Houston Chronicle Visuals Internship - Summer 2027](https://jobright.ai/jobs/info/6b09adc15f0c27a3a3cec583?utm_campaign=1053&utm_source=git)** | Houston, TX, United States | Hybrid | Nov 27 |
+| **[Higginbotham](https://www.higginbotham.com)** | **[Higginbotham 2027 Summer Internship - Corporate Marketing & Communications Video Editor Intern](https://jobright.ai/jobs/info/6a96d895f5337b2cf731e252?utm_campaign=1053&utm_source=git)** | Fort Worth, TX, United States | On Site | Nov 27 |
 | **[Acadium](http://www.acadium.com)** | **[Video Content Creation Intern](https://jobright.ai/jobs/info/6b099fe362c6023db3021fa5?utm_campaign=1053&utm_source=git)** | United States | Remote | Nov 27 |
-| **[Houston Chronicle](http://www.houstonchronicle.com/)** | **[Audience Intern - Summer 2027](https://jobright.ai/jobs/info/6aeca6413967d67f6359e2a8?utm_campaign=1053&utm_source=git)** | Houston, TX, United States | Hybrid | Nov 27 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Intern](https://jobright.ai/jobs/info/6a9674f7455eaf6a08c17881?utm_campaign=1053&utm_source=git)** | Peoria, IL, United States | On Site | Nov 27 |
 | **[Inspire](https://inspirebrands.com)** | **[Production Intern, Maverick Studios Content Kitchen - Summer 2027](https://jobright.ai/jobs/info/6b00d9430ae14188d58c1e82?utm_campaign=1053&utm_source=git)** | Atlanta, Georgia, United States | On Site | Nov 27 |
 | **[TikTok](https://www.tiktok.com)** | **[Creator LIVE Project Intern (TikTok Shop - US Operation) - 2026 Start](https://jobright.ai/jobs/info/6a6d59e966158d7ef887d420?utm_campaign=1053&utm_source=git)** | Los Angeles, United States | On Site | Nov 27 |
@@ -114,5 +116,4 @@ For a complete list, click the following sortable link below:
 | **[Full Jam Music INC.](https://fulljam.com)** | **[Musicians creators (volunteer or internship)](https://jobright.ai/jobs/info/6b037e90c35a3d9ff8f49829?utm_campaign=1053&utm_source=git)** | Canada | Remote | Nov 22 |
 | **[Social View Agency](https://www.socialviewagency.com/)** | **[On-Camera Content Creator Intern](https://jobright.ai/jobs/info/6b0271e6505c87ccb3a2f2be?utm_campaign=1053&utm_source=git)** | Miami, Florida, United States | On Site | Nov 21 |
 | **[Obsidian Entertainment](http://www.obsidian.net/)** | **[VFX Artist - 2027 Summer Internship](https://jobright.ai/jobs/info/6ae4d4b8d45dc30fb7d32b23?utm_campaign=1053&utm_source=git)** | Irvine, CA, United States | On Site | Nov 21 |
-| **[Penn State University](http://www.psu.edu/)** | **[Part-Time Videography Intern – CEE](https://jobright.ai/jobs/info/6b00ab9f89d8ca1e84958504?utm_campaign=1053&utm_source=git)** | University Park, Pennsylvania, United States | On Site | Nov 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
