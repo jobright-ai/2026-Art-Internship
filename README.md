@@ -117,5 +117,4 @@ For a complete list, click the following sortable link below:
 | **[Barnes Foundation](http://www.barnesfoundation.org)** | **[Summer Intern: Editorial & Publications](https://jobright.ai/jobs/info/6b00b4610f536e0ba727680c?utm_campaign=1053&utm_source=git)** | Philadelphia, PA, United States | On Site | Nov 20 |
 | ↳ | **[Summer Intern: Archives](https://jobright.ai/jobs/info/6b00cdbcdf73191d2e6aed78?utm_campaign=1053&utm_source=git)** | Philadelphia, PA, United States | On Site | Nov 20 |
 | ↳ | **[Summer Internship: Calder Gardens Public Prog](https://jobright.ai/jobs/info/6b00b46f3a9a0230ab029e93?utm_campaign=1053&utm_source=git)** | Philadelphia, PA, United States | On Site | Nov 20 |
-| **[Crystal Dynamics](http://crystald.com)** | **[Cinematic Presentation Animation Intern [Spring 2027]](https://jobright.ai/jobs/info/6b00c1a6e0dc96195928402d?utm_campaign=1053&utm_source=git)** | United States | Remote | Nov 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
