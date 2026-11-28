@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Intern](https://jobright.ai/jobs/info/6a9674f7455eaf6a08c17881?utm_campaign=1053&utm_source=git)** | Peoria, IL, United States | On Site | Nov 28 |
 | **[Inspire](https://inspirebrands.com)** | **[Production Intern, Maverick Studios Content Kitchen - Summer 2027](https://jobright.ai/jobs/info/6b00d9430ae14188d58c1e82?utm_campaign=1053&utm_source=git)** | Atlanta, Georgia, United States | On Site | Nov 28 |
 | **[Southern Poverty Law Center](http://www.splcenter.org)** | **[Intern, Editorial (Summer 2027)](https://jobright.ai/jobs/info/6aee418ae0c9de7b05f8d0f2?utm_campaign=1053&utm_source=git)** | Atlanta, GA, United States | Remote | Nov 28 |
 | **[IRONCLAD](https://thisisironclad.com)** | **[INTERNSHIP: Post Production](https://jobright.ai/jobs/info/6a8774fee8b6601d12903bba?utm_campaign=1053&utm_source=git)** | Virginia Beach, VA, United States | On Site | Nov 27 |
@@ -66,7 +67,6 @@ For a complete list, click the following sortable link below:
 | **[Higginbotham](https://www.higginbotham.com)** | **[Higginbotham 2027 Summer Internship - Corporate Marketing & Communications Video Editor Intern](https://jobright.ai/jobs/info/6a96d895f5337b2cf731e252?utm_campaign=1053&utm_source=git)** | Fort Worth, TX, United States | On Site | Nov 27 |
 | **[Acadium](http://www.acadium.com)** | **[Video Content Creation Intern](https://jobright.ai/jobs/info/6b099fe362c6023db3021fa5?utm_campaign=1053&utm_source=git)** | United States | Remote | Nov 27 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Paid News Producer Intern](https://jobright.ai/jobs/info/6a7dc082e2030208f2765d0c?utm_campaign=1053&utm_source=git)** | Indianapolis, IN, United States | On Site | Nov 27 |
-| ↳ | **[Unpaid Intern](https://jobright.ai/jobs/info/6a9674f7455eaf6a08c17881?utm_campaign=1053&utm_source=git)** | Peoria, IL, United States | On Site | Nov 27 |
 | **[TikTok](https://www.tiktok.com)** | **[Creator LIVE Project Intern (TikTok Shop - US Operation) - 2026 Start](https://jobright.ai/jobs/info/6a6d59e966158d7ef887d420?utm_campaign=1053&utm_source=git)** | Los Angeles, United States | On Site | Nov 27 |
 | **[SiriusXM](http://siriusxm.com)** | **[Spring Intern, Podcast Producer - Part Time](https://jobright.ai/jobs/info/6b08d07603dd5bd15ba485af?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | On Site | Nov 26 |
 | **[Girl Scouts of Citrus Council](https://www.citrus-gs.org/)** | **[Position: Intern for the Girl Scout Experience Team](https://jobright.ai/jobs/info/6aaaaea78e1bf0f764af5a6c?utm_campaign=1053&utm_source=git)** | Orlando, FL, United States | On Site | Nov 26 |
