@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ByteDance](http://bytedance.com)** | **[Fashion Vertical Content Operation Project Intern (Lemon8 US) - 2027 Start](https://jobright.ai/jobs/info/6b0a073daaf0c31c7c970db6?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Nov 27 |
 | **[Houston Chronicle](http://www.houstonchronicle.com/)** | **[Audience Intern - Summer 2027](https://jobright.ai/jobs/info/6aeca652465e3d23713802c0?utm_campaign=1053&utm_source=git)** | Houston, TX, United States | Hybrid | Nov 27 |
 | ↳ | **[Houston Chronicle Visuals Internship - Summer 2027](https://jobright.ai/jobs/info/6b09adc15f0c27a3a3cec583?utm_campaign=1053&utm_source=git)** | Houston, TX, United States | Hybrid | Nov 27 |
 | **[Higginbotham](https://www.higginbotham.com)** | **[Higginbotham 2027 Summer Internship - Corporate Marketing & Communications Video Editor Intern](https://jobright.ai/jobs/info/6a96d895f5337b2cf731e252?utm_campaign=1053&utm_source=git)** | Fort Worth, TX, United States | On Site | Nov 27 |
